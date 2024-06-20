@@ -1,0 +1,844 @@
+In science fiction we often see immense starships
+attacking planets, crushing or besieging them,
+but in our own future we may deploy powerful
+orbital fortresses to defend our world.
+Way back in the late 90s when I was just starting
+college one of my favorite sci-fi TV shows,
+Babylon 5, was wrapping up its fourth season
+with the end of a story arc about a human
+civil war that had an attack on Earth.
+CGI was just starting to let us have grand
+space battles between large fleets instead
+of a handful of physical spaceship models,
+and so Babylon 5 and Deep Space Nine and some
+others were featuring episodes with dozens
+or even hundreds of ships flying around.
+In this climactic episode the good guys manage
+to trick the defending fleet out of position
+and temporarily out of play and jump to Earth
+directly to begin the assault.
+Classically in sci-fi one or two ships are
+evenly matched against a planet or even have
+the upper hand, but in the episode we suddenly
+see a whole bunch of big orbital stations
+flick on, rotate into play, and begin firing
+high energy beams and volleys of missiles
+and just start beating the heck out of the
+fleet.
+It’s a great episode to end the penultimate
+season of one of science fiction's best TV
+franchises, but it got me rethinking a lot
+of classic space opera ideas about how space
+combat would work and challenge the tendency
+to think of planets as rare jewels in space
+that were terribly vulnerable to attack.
+That indeed, a massive fleet rolling up to
+a planet was likely to be involved in a one-sided
+fight, just not going the way we expected.
+And a lot of that would come down to Orbital
+Defense Platforms and Space Fortresses and
+that’s our topic for today.
+What they are, what their strengths and weaknesses
+are, what combat with them would be like,
+what life on them would be like, and when
+we might start seeing them.
+And if that sounds like fun, make sure to
+hit the like button and subscribe to the channel
+for future episodes.
+I think the first key point to discuss is
+the mobility issue.
+Planets are hard to miss and hard to move,
+unpredictably anyway, they generally move
+tens of thousands of miles per hour but in
+very well-known courses and the sorts of energies
+needed to move them are immense and not likely
+to be something you could deploy quickly to
+move the planet out of line with a death ray
+or missile attack.
+Spaceships on the other hand are very mobile,
+but the problem is, under known-physics they
+need to use insane amounts of fuel and energy
+to move and every bit of mass they devote
+to more armor and weapons slows them down
+or requires more engine.
+A Defense Platform orbiting a planet can avoid
+this as it doesn’t need to move and can
+put huge amounts of armor on and weapons on.
+Racks of expendable missiles that can be fired
+rapidly help to cover some of the weakness
+it would have from not being very maneuverable.
+It can fire them all off and be destroyed,
+so you just calculate its median lifespan
+in a full-scale conflict and make sure its
+weapons are built to fully discharge in that
+time.
+It’s not likely an incoming fleet could
+jam your communication with groundside control,
+so they could remote control it from bunkers
+down on the planet and you could have a backup
+automated firing system able to kick in if
+its comms were damaged or jammed.
+Or it could unspool a really long thin antenna
+cable right down into the atmosphere to restore
+comms.
+Big missiles boat in space, but it raises
+the issue of beam weapons and slower munitions,
+guided or unguided.
+And as we’ll see, the mechanics on that
+have some flaws that tend to get overlooked
+in casual geeky chat on space combat, so let’s
+begin there.
+A key aspect to space is that it is huge,
+just mind-blowing in scale, and even the tiny
+little dot of space that is our orbital volume
+around Earth is immense.
+That difference in scale from orbital to interplanetary
+to interstellar is going to be very important
+but begin by recognizing that spaceships just
+don’t park near each other and fire weapons
+from a few miles aways like old school ships
+of the line.
+A low orbital engagement is better compared
+to a pair of seagoing vessels attacking each
+other while one is in the Atlantic and the
+other in the Pacific.
+The engagement ranges only grow from there,
+and for a context, two big battleships throwing
+down in Cis-Lunar Space might see one by the
+Moon and another over at our L5 Lagrange Point
+and the scale there might be to imagine two
+plastic ship models like they used to use
+in sci-fi pre-CGI and a distance between them
+of a couple hundred miles, rather than the
+couple hundred thousand they really are.
+At this range, a beam of light, or any other
+electromagnetic radiation, or gravity, or
+any relativistic particles, is taking just
+over a second to reach its target, but we
+have to double that because there’s no guidance
+on a beam once its fired and you only know
+that target ship’s location as what it was
+when light bounces off it and traveled to
+you, also taking a bit over a second.
+Even with highly automated tracking, targeting,
+and firing systems, that means your shot had
+about 3 seconds of enemy motion to deal with.
+Needless to say, any missile or solid slug
+has more flight time but those might have
+guidance packages.
+If a ship is just moving along, it’s easy
+to predict where it will be in 3 seconds,
+assuming you knew its velocity anyway which
+is very likely at this range.
+They can’t see you aiming at them and move
+either, the light from your ship travels at
+the same speed as your weapon.
+You cannot dodge a laser beam.
+However, you can randomly jitter around when
+you expect combat to be at hand.
+If I can make my ship accelerate sideways
+at 3g for 3 seconds, and pick a random direction
+for that to occur in, then anyone targeting
+me now has an uncertainty of my position of
+132 meters, and assuming that’s decently
+larger than my ship, which we’ll assume
+is a convenient saucer shape 13 meters in
+radius, they now have 1% chance of any beam
+they fire into that uncertainty window actually
+hitting me.
+This tells us the de facto ranges of combat,
+as it's determined by how big your ship is,
+or at least how big it’s exposed cross-section
+is, which is probably narrow with long spaceships
+likely being the norm.
+Having defense stations or your own fleets
+able to attack from the side and its bigger
+cross-section is also likely to be a thing
+and a reason for having your defense installations
+spread out.
+Based on how fast you can randomly jitter
+that spaceship and how big it is, that’s
+your odds of getting hit, especially if your
+enemy has a decent guess at your acceleration
+profile.
+Great big spaceships with great big plates
+of armor probably want to stand off at great
+big distances.
+Tinier ships want to get in closer, though
+not too close.
+They want to be where the odds of being hit
+are lower than their odds of hitting you.
+Now the discussion comes down to two important
+questions: how long you have fuel for randomly
+jittering around and how long you’re in
+an engagement window.
+It is entirely possible you might assault
+a planet with ground forces, we discussed
+that in our episodes Planetary Invasions and
+more recently in Drop Ships some months back,
+but otherwise there’s no reason to slow
+down.
+And more to the point, not every element of
+your fleet needs to slow down.
+Your vanguard might not bother decelerating
+on approach and plow by the planet, and if
+they’re moving at 1% of light speed that
+window of engagement is very short.
+They’ll get to within the moon’s distance
+of Earth and crash by and back out to that
+distance on the other side in roughly two
+minutes.
+They didn’t slow down so they have a lot
+of fuel to use for jinking around, and any
+guided munitions you have suffer a difficult
+intercept trajectory with those fast and brief
+targets.
+I should note though that their speed is not
+without issues, because at that speed any
+object is hitting with huge force, including
+the space junk probably lying around any settled
+planet, even assuming they don’t have automated
+mines that simply fragment into debris for
+such ships to hit.
+Which they do, because it’s the best defense
+against anyone ramming their planet with a
+spaceship or relativistic kill missile, intentionally
+or by accident, during open war or an act
+of terror or sabotage.
+One detection sets off any of the fragmenting
+cluster mines in the trajectory of the incoming
+object and wrecks its whole day.
+Buzzing by the enemy planet at high speed
+is a real option for first assault but so
+is getting swatted like a fly or shotgunned
+by strategic debris deployment.
+And non-strategic debris too, as a space battle
+is going to start leaving wads of high-speed
+shrapnel all over the place.
+The other end of that is fuel consumption,
+those ships slowing down to engage are using
+fuel to do that now have less to jink around
+with.
+On the other hand, those orbital defense platforms
+presumably don’t have that much – which
+is probably not true, they’re in an easy
+position to have a fuel stash and get refueled
+after or even during combat operations.
+Refueling can take place by matter or energy
+beam too and that planet below has a lot of
+both to lend its sentinels.
+However, here’s the big misconception about
+fuel use here.
+You don’t need to burn any to jink around
+quite a lot.
+Let us imagine a pair of space fighters running
+parallel, an ace and his wingman.
+The two can burn fuel to jink around but they
+do not actually need to because they could
+have a thin tether between them and a winch,
+and swing around using that and reeling themselves
+in and out.
+Those tethers might be good for entire miles
+of separation even with conventional materials,
+let alone those contemplated by options like
+space elevators and skyhooks.
+And you might have several backups and redundant
+ones able to clamp onto willing partners.
+Allowing replacement if one ultra-skinny wire
+gets broken.
+You can get a lot more elaborate with that
+setup, especially with multiple ships in a
+whole squadron, even having an automated system
+orchestrate slinging the ships around with
+detachable and re-atachable cables.
+The key point is they can be doing random
+high-g maneuvers constantly as they enter
+combat and without much fuel being used.
+The thing is, so can those big orbital behemoths.
+Indeed many probably already would have tether
+systems in place like skyhooks for easy refueling
+and resupply, or for electrodynamic tethering
+to regenerate their orbital momentum.
+We could imagine a large network of defense
+platforms all interconnected with cables – which
+would make signal jamming harder, potentially
+even with hard lines down to the planets below
+– they might be up in space but not actually
+orbiting, we’ll get back to that later.
+A big fortress might also just extrude outward
+into segments like a bunch of spiders sharing
+a web.
+And you might also be having expandable fortresses
+like that to shield a planet from direct attack
+with a physical shield, since science doesn’t
+seem to leave us many options for the classic
+cool sci-fi forcefield, though there are some,
+see our episode on force fields for further
+discussion.
+On the matter of dodging, by fuel or by physical
+rearrangement of a connected system, it’s
+important to understand that time is your
+ally for getting missed.
+If a rival planet in your solar system 10
+light minutes away has a powerful laser array
+in orbit, then you make sure everything you
+have in space that’s worth targeting is
+making a minor correction about that often.
+Applying 1% of a gee of acceleration for 10
+seconds every ten minutes would be unnoticeable
+to those on board and would move you a meter
+per second in some direction and have you
+over a kilometer away ten minutes later.
+Thinking of large constructs, motions of this
+variety can also be achieved by having 6 telescoping
+protrusions that would extend and retract
+in each of the directions up, down, left,
+right, forward, and back.
+Even just having very long gun barrels you
+could extend out would do some of this positional
+changing, and every time one of them moves,
+the main body of the station does too.
+Even civilian space habitats, most of which
+would have plenty of ancillary space stations
+attached anyway, their docks and space farms
+and power collectors and so on, probably would
+do these minor tweaks of positions constantly
+just as a matter of basic security.
+We’re seeing that there’s no major advantage
+to being one big block like a star trek borg
+cube, though we also want to keep in mind
+that lasers and unguided beams aren’t the
+only weapons in the arsenal.
+They’re just very fast and thus accurate
+in space.
+The flip side is that any missile, torpedo,
+or guided slug you fire at someone won’t
+need a very advanced tracking system to get
+them.
+It’s mostly about ensuring the weapons don’t
+get blown up by beams before hitting.
+But armor matters too and bigger is better
+in that regard since an identical but larger
+object ten times wider can keep a thousand
+times the guns and ammo on board, but needs
+only 100 times more armor to have it at the
+same thickness, so can afford thicker armor,
+this is the cube-square law.
+It’s the compensation bigger ships and stations
+have for being less maneuverable, they can
+afford thicker armor and more point defense
+weapons.
+And if those point defense systems are lasers
+or near-lightspeed beams, they should be able
+to always detect and hit any sub-light guided
+munition.
+This doesn’t make those munitions useless
+though.
+One option is deploying them before they strike,
+such as a directed blast from a shaped charge.
+Or a project Excalibur style bomb pumped laser,
+which would now be more accurate since the
+beam could be aimed and discharged closer
+to the enemy.
+They can also employ the technique of having
+a volley of missiles all connected with tethers
+and using those to jink around while flying
+in.
+They don’t have to actually hit, they could
+all be nukes, bomb-pumped lasers, or fragmenting
+devices that detonate once they reach range
+and before the laser point defense becomes
+a sure thing.
+Same for solid slugs, which might come out
+of a barrel as on munition but might spread
+out for the flight and then pick individual
+targets or even retract back down to hit one
+spot very hard or in a rapid sequence.
+Those munitions might also simply be very
+heavily armored.
+Point defense will always have an advantage
+hitting things when closer with beams but
+at the same time there are likely to be real
+mechanical limitations on how fast a weapon
+can get on target and aim.
+Thus, you probably have an engagement window
+with any given defensive weapon system and
+odds are the smaller ones will be able to
+track and fire faster.
+They also might be too weak to penetrate armor
+on a bigger munition or boarding shuttle.
+Whichever the case, we see that the future
+is likely to see a wide panoply of both spaceships
+and weapon types and sizes, and that the same
+is likely to be true of orbital defense systems.
+In the early days in particular, such a platform
+only needs to be designed to take out unguided
+junk in space or dangerous asteroids.
+A given damaged ship or satellite leaking
+fuel or air might randomly twitch a lot while
+this is going on but at a distance of just
+a few thousand kilometers and probably only
+briefly.
+Remember light, or a laser beam, moves a few
+hundred thousand kilometers a second, and
+even some robot drone isn’t altering its
+trajectory much in a millisecond.
+You armor these early platforms because if
+a Kessler Syndrome Event occurs, they’ll
+start taking damage and they are the maintenance
+mitigation and debris clearance tools you
+have to work with in space.
+Of course you could have weapons down on Earth
+too and this is another reason why non-beam
+weapons are important.
+An attack on Earth isn’t going to use beams
+unless someone around a distant star is fielding
+a Nicoll-Dyson Beam or Quasar Cannon with
+the intent of eradicating the actual planet.
+There’s defense for that we’ll get to
+in a moment but lasers and ion beams don’t
+do well against atmospheres so you would probably
+be using solid slugs to bombard the planet
+below, guided or unguided.
+Which means your orbital platform needs to
+be able to engage those and ablate them enough
+to wreck their guidance packages or send them
+on a tumble through the atmosphere that’s
+likely to detonate them or make them fall
+off target.
+So you need to take those platforms out before
+invading.
+Point defense isn’t limited to laser beams
+or flak cannons either, it can involve extending
+huge thin inflatable or extendable shields
+which now have to be torn through before further
+attacking the station.
+We might put ten meters of armor on a station
+but also have it able to shoot out compacted
+shells full of what’s basically a solar
+sail that detonates a few hundred kilometers
+away from it into a big thin shield only a
+ten thousandth of a meter thick.
+I should also note that in addition to these
+purpose-built defense platforms, orbital space
+around any planet may already include tons
+of solar shades, mirrors, and power collectors
+that can be rapidly released for defense and
+that as orbital space fills up with junk it
+makes every weapon less effective, which in
+turn benefits the defender.
+Not that they’re likely to be happy watching
+trillions of dollars of orbital infrastructure
+get torn to pieces, it's just a nice consolation
+prize.
+The defender gains more time for coordination
+or reinforcements to arrive, they are protected
+down on the planet by their atmosphere, and
+those platforms likely have much thicker armor
+than any invading ships do.
+Every fragment becomes more dangerous at higher
+speed so it presses the engagement slower
+and closer to the planet.
+And you don’t want to be close to an orbital
+defense platform.
+Amusingly this justifies boarding actions
+to try to take that platform, at least the
+bigger ones, since it's entirely likely they
+are over-armored giants, possibly converted
+asteroids, and probably do not have tons of
+personnel or huge contingent of marines or
+automated killamajigs on board.
+There’s always tricky calculus, for both
+sides, on if they want to just blow something
+up or try to take it or take it back.
+In sci-fi there’s some self-destruct device,
+and that’s doable, but more likely you’d
+have all the hardware and systems encrypted
+so your enemy can’t turn the platform against
+you – unless they had spies on board or
+many days to work at it – and you are not
+likely to embed a nuclear device in your station
+where it is sitting for many years over your
+planet waiting for some terrorist to get their
+hands on your self-destruct codes.
+Admittedly your station might have thousands
+of nuclear missiles on board, just not rigged
+to casually and intentionally kill all of
+you if someone knew the right code, or your
+commander went insane.
+You also want a decent amount of personnel
+on board any station that’s too big for
+your planet, or planetary guns, to rapidly
+take apart themselves if someone gets their
+hands on engine control and tries shoving
+it down on your planet, the tactic known as
+a colony drop.
+And of course part of a defense platform's
+job is going to need to be having the means
+and capability to take out a piece of orbital
+infrastructure or habitation that someone
+is trying to weaponize that way.
+To really think about how you build these
+defense platforms, you have to contemplate
+the intended means of attack, and how your
+platform can help with that.
+Fleets are a classic option but we spent plenty
+of time on those already.
+What about a long range attack with something
+other than a directed asteroid?
+Let’s say Mars fired on us with a RKM, or
+relativistic kill missile.
+This is a guided slug moving at some high
+fraction of light speed, possibly even at
+ultra-relativistic speeds.
+They can be deployed from neighboring planets,
+or a neighboring stellar system, or even halfway
+across the galaxy.
+They are fairly stealthy but hardly invisible
+and it is likely you would instantly detect
+that launch from a neighboring planet, except
+it’s probably reaching you shortly after
+you see that launch, as it is moving at a
+high fraction of light speed.
+You will likely start pinging it the moment
+you have a hint of its existence and it can
+start doing random jinking before that or
+once you do that, but you either need to blast
+it with something moving at a similar speed
+or faster, like a laser, or you need to have
+something small it runs into, since anything
+it hits is going to crash into it with the
+power of nuclear ordnance.
+Your eleven-ton slug moving at 87% of light
+speed is carrying 10^21 joules of energy in
+it, the equivalent of a quarter of a million
+megaton nukes and more than both sides had
+at the height of the Cold War.
+That’s not a world-ending event, the asteroid
+that we think wiped out the dinosaurs was
+at least a few thousand times more potent
+than that, but it’s a terrifying weapon
+and is likely to be part of a salvo.
+RKM launchers, especially at interstellar
+range, can fire a chain of RKMs off, each
+following one just a bit faster, so that they
+all arrive at the destination at the same
+time to clog your defense systems.
+But even if that eleven-ton missile of doom
+is built out of something sturdy, like being
+one big slab of steel or uranium, which wouldn’t
+be much bigger than you or I at that point,
+it still can’t survive running into even
+something the size of a piece of gravel or
+a quarter.
+That quarter, at 5.67 grams of mass, would
+hit that RKM moving at 87% of light speed
+with 122 kilotons of explosive power, several
+times more than atomic bombs deployed at the
+end of World War 2.
+Indeed even a dime would have more energy
+on impact than both of those bombs combined
+had.
+No more RKM and honestly that would be overkill.
+RKMs are insanely lethal but their very nature
+makes them dangerously vulnerable.
+They can jink around too but will be visible
+doing it and you use a lot less energy scattering
+a bunch of dimes through the space a volley
+is approaching than the enemy uses sending
+up that RKM.
+Their speed makes it hard for them to detect
+and dodge or vaporize things themselves, and
+they’re not going to have lots of room for
+detectors and point defense systems, but they
+may have some package for that.
+RKM size is likely to be some optimal exchange
+of the smallest object you can fit sufficient
+guidance and detection gear on to avoid easy
+destruction.
+So that taking them out is not super-easy.
+In practice you might start by firing off
+a projectile like the one we mentioned earlier,
+that detonates in an area and fills it with
+a thin-spread foil shield, or tiny little
+pellets.
+Along with some sensor drones to help track
+and guide, and those pellets might have tiny
+little boosters to let them be tossed more
+accurately in the way of the RKM.
+Indeed your pellets might all have tethers
+connecting them so they stay in a given volume,
+rather than continuing to spread out.
+You might fire a grid or net of tethers with
+lots of tiny weights at the junction.
+Or thin film a micron thick with tiny beads
+spaced out at the typically RKM Cross-sectional
+width.
+Even a microgram of matter, a billionth of
+a kilogram, is carrying as much explosive
+power as an entire crate of hand grenades.
+That is not going to vaporize an eleven-ton
+slab of metal but it is going to leave it
+damaged and flying blind and easy to meat
+for layer 2 of defenses.
+There might be tons of these giant ultra-thin
+screens hanging between it and the primary
+minefield full of more of these boxed up and
+waiting to blow out or unfold and simpler
+automated cannons that form the first wall
+of defense.
+These can be fired directly toward the munition
+or from the side to intercept it as it tries
+to plow into another facility or the planet.
+And each wave of attack builds up more free
+defenses, though of course is also hampering
+your defensive efforts a bit and your civilian
+operations a lot more.
+This general approach also works against beam
+weapons but mostly by rapidly building up
+a cloud to diffuse the energy.
+You may leave thin-film shields on direct
+paths between you and enemy star systems with
+the intent of them giving you that brief instant
+of warning and defense so you could pop off
+defense clouds.
+As to the defense platform itself, what the
+types are, I think we would be envisioning
+something like a local hub that had a lot
+of ancillary facilities attached to it.
+Probably physically too.
+You may have tethers and wires out to each
+tiny sensor and weapons pods even tens of
+miles away, just to avoid attempts at jamming
+or hacking.
+Or waiting to spool out and magnetically grapple
+to the pod, so as to avoid being a navigation
+hazard during normal operations.
+Or those smaller pods might spend most of
+their time withdrawn entirely, inside the
+larger defense platform, with just a few deployed
+out for standard emergency management of local
+collision debris.
+Now a defense platform might not be a big
+space station.
+It might be a re-tooled asteroid as that’s
+cheaper and you could be permitting mining
+operations on it.
+A floating mountain in space is not an easy
+nut to crack and if you imagine trying to
+blow up or assault a mountain fortress here
+on Earth, by which I mean an actual mountain,
+not some castle sitting on it, it’s just
+as bad except you’re not sneaking up on
+it etiher.
+Another option is a non-orbiting space tower.
+This may require active support and you probably
+are already using them for civilian purposes,
+but it’s just a very tall tower rising up
+into space and then probably spreading out
+wide.
+I could imagine thousands of these things
+having actual physical metal shields they
+could expand to form a shield wall around
+a planet, possibly several layers of them
+extending from the lower levels of the tower
+and rotating to prevent puncture through multiple
+layers at any single spot.
+That’s a massive piece of infrastructure
+but honestly not as crazy as it sounds like
+and you could have huge amounts of power running
+from groundside nuclear fission or fusion
+reactors to power those things.
+See our Space Towers episode for more on their
+function and civilian uses, but some thousand
+kilometer tall, ten kilometer wide tower rising
+like a spike off a planet might be a gun all
+on its own for flinging relativistic flak
+at incoming enemy fleets and missile volleys.
+There’s really no limit on how big you might
+build your planetary defenses and if we imagined
+just 1% of your budget was for your military
+and just 1% of that budget was for building
+and maintaining orbital defense platforms,
+then the same sort of Ecumenopolis planet-wide
+city K1 civilizations we contemplate on future
+planets might have tens of millions of military
+personnel stationed across tens of thousands
+of miles-wide orbital behemoths looming in
+orbit and throughout cislunar space.
+Which might look pretty ominous to those below
+too.
+Each one carrying crust-buster nukes and huge
+arrays of energy weapons, mass drivers, and
+rail guns, each with tons of deployable weapons
+pods and forward defense pods able to suddenly
+unfold as minefields and obstructions.
+Tag team that with lots of mundane civilian
+habitats with some weapons of their own, normal
+or quickly upgraded, your actual planetary
+defense fleet and any ships able to arrive
+as reinforcements, and you’ve got one tough
+nut to crack, even before we start un-limbering
+skyscraper-sized guns down on the planetary
+surface for surface-to-orbit anti-ship fire.
+All in all, when it comes to space warfare,
+an orbital defense platform is probably not
+a bad place to be, at least compared to whoever
+has decided to attack your planet.
+As to if there’s anyone on the platform,
+that’s hard to say.
+I think your smaller pods are automated and
+bigger ones might have a crew of anywhere
+from a lone person up to an entire military
+division of ten or twenty thousand on board.
+It’s very likely this is where your traffic
+control for space is taking place at, so they
+might be the equivalent of a military town
+with some escape pods for jamming the civilians
+into before battle begins to drop to the planet
+below.
+Same line of reasoning, in tense times you
+might pull the families off and jam pack a
+few more brigades of marines and several wings
+of fighter craft into one.
+They might be an isolated microgravity outpost
+a few introverts staffed on a one year rotation,
+spending their off time online since the planet
+is right next door, or they might be some
+mined out asteroid you crammed an entire rotating
+habitat into with towns, malls, schools, and
+all the normal trappings of civilization.
+In all likelihood it depends on the planet,
+it’s population, and the era we’re in.
+You might be in orbit of Earth when its the
+capital of some multiplanetary empire of quadrillions
+and where the home defense navy alone number
+tens of thousands of capital ships with billions
+of sailors and soldiers on board that fleet
+and those platforms, or it might be the lonely
+multi-purpose station hanging over some dwarf
+planet, that guards the space elevator descending
+from it and tracks and repairs the handful
+of satellites orbiting the iceball.
+Without an atmosphere the main defenses are
+scattered around down on the planet and hidden
+under hundreds of meters of ice, where the
+defense turrets just melt their way up when
+the time comes to open fire.
+While those around a gas giant might be one
+part air-craft and hide in the atmosphere,
+and others might orbit in the upper layers
+of a red giant star and use it for cover,
+gliding up to attack.
+The options are virtually limitless but the
+one sure thing is that these defense platforms
+or towers will likely exist and sooner than
+later.
+They’ll begin simple around Earth and mostly
+intended for handling asteroids, traffic control,
+space debris clearance, and rogue satellites
+or spaceships - or possibly for anti-ICBM
+purposes, but as time goes on they’ll only
+grow in number and size, and it’s quite
+likely that some of the first space habitats
+will be defense platforms too, possibly before
+even the end of this century, especially small
+scale ones.
+They’ll be the final line of defense before
+an invader attacks Earth itself, but as we
+saw today, they will be no small wall to overcome,
+and the bastions on which many an invader
+might crash their forces and break their teeth
+in vain.
+So last month we released our big 3-hour long
+Fermi Paradox Compendium and in it I raised
+a few new solutions that we had never discussed
+before including one I thought up earlier
+this year after a question on our livestream,
+the Hermit Shoplifter Hypothesis, and since
+it was a compendium I had to keep the conversation
+short, but I felt it deserved more discussion
+so this month’s Nebula Exclusive is going
+to deep dive this idea that civilizations
+might end up melting down into a lot of individuals
+or small groups fleeing for deep space and
+stopping to grab or steal resources along
+the way.
+That’s out now on Nebula, where you can
+not only see every regular episode of SFIA
+a few days early and ad free, but all our
+other bonus content, including extended editions
+of many episodes, and more Nebula Exclusives
+like, Ultra-Relativistic Spaceships, Dark
+Stars at the Beginning of Time, Life As An
+Asteroid Miner, Nomadic Miners on the Moon,
+Space Freighters, Retrocausality, Orch Or
+& Free Will, Conformal Cyclic Cosmology, Colonizing
+Binary Stars, and more.
+Using my link and discount, https://go.nebula.tv/isaacarthur
+and use my code, isaacarthur, Nebula is available
+for just over $2.50 a month, but this holiday
+season we are once again offering Lifetime
+Memberships to Nebula for $300, part of which
+goes directly to our show, and part to help
+raise capital for a number of creator-owned
+projects we’re greenlighting for 2024.
+Instead of a monthly subscription, lifetime
+memberships are a one time payment where you
+can get access to everything that’s on Nebula
+now and in the future, including our quickly
+growing catalog of exclusive movies, plays,
+shows, documentaries and more.
+And right now for the holidays you can even
+gift a lifetime membership of Nebula’s life-changing
+and stimulating content.
+Monthly, annual or lifetime, whichever you
+choose, you not only get access to all of
+the great stuff Nebula offers, you’ll also
+be directly supporting this show.
+Again, to see SFIA early, ad free, and with
+all the exclusive bonus content like Hermi
+Shoplifter Hypothesis, go to https://go.nebula.tv/isaacarthur
+For anyone who is curious I ended up making
+a number of bonus episodes recently for both
+youtube and Nebula like today’s episode,
+our December Nebula Exclusive Hermit Shoplifter
+Hypothesis, and later this Month, “Will
+we colonize space?”, along with last weekend's
+“Space Hygiene” episode, and I basically
+flipped a coin for which would go into which
+spots.
+Some will be rolling out in January and February
+too, and mostly a result of me having a bit
+of a creative bumper crop and some free time.
+Hence our fairly packed schedule for the month,
+call it a holiday gift, as I don’t expect
+to keep up this tempo of production.
+We'll continue that holiday tempo with a discussion
+of how to select spaceship crews this Thursday,
+before returning to our Alien Civilization
+series for Scifi Sunday on December 10th,
+with a look at Nihilistic Aliens.
+Two weeks from now we’ll talk about ways
+to warp and manipulate reality, on December
+14th.
+In three weeks we’ll look at discussing
+Silicon based lifeforms on the 21st, and then
+our bonus episode on if we will colonize space.
+After that we will finish the month and year
+with clearing space debris on the 28th and
+our final Livestream Q&A on Sunday, December
+31st.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content,
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

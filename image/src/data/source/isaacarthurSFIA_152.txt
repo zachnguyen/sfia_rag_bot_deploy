@@ -1,0 +1,697 @@
+We all hope for a peaceful future, but if
+not, I think we could settle for a future
+where we went to battle in giant robots to
+fight huge alien bug monsters or endless legions
+of android killbots.
+So welcome back to another Scifi Sunday here
+on SFIA, and I am your host, Isaac Arthur.
+Today’s topic is a popular one in science
+fiction, the notion of either robot battle
+suits or drones or automated tanks, fighter
+jets, and so on.
+It is worth noting that this is not just scifi
+anymore, we’ve been using robots in our
+wars this entire century and even a bit before,
+and with increasingly greater usage and wider
+roles.
+So, I thought we would look both at the modern
+and near future options, and more distant
+future options.
+Some years back we did a look at the topic
+of Giant Robots & Powersuits to examine the
+basic idea of people wearing powered armor
+or piloting big robots, but I felt that could
+use some updates, and more detailed looks,
+which we’ll be doing both today and next
+Thursday in our Dropships episode.
+But it’s not really terribly likely that
+would be the main role of robots on the battlefield.
+And definitely not off the battlefield, as
+some combat suit or vehicle, which is a good
+place to begin.
+For every soldier or combat unit you’ve
+got in an actual combat role with guns and
+armor, you’ve got the robots doing field
+support activities, recon, or even back home
+building your equipment.
+Robots in factories are already a game changer
+in warfare because they allow the ultra-high
+precision manufacturing and high speeds that
+not only allows for the best battlefield equipment,
+but also the robust economies and infrastructure
+that permit you to field large numbers of
+units, and elite units at that.
+It is entirely possible we might see a future
+in which nations have signed treaties banning
+the use of autonomous armed drones, or even
+robots as weapons platforms for remote control.
+Indeed, fear of artificial intelligence running
+amok is often the reason given for why a given
+scifi setting has humans doing the piloting
+and fighting.
+And we’ve looked at that topic more in our
+Machine Rebellions episode.
+In that case, then maybe your robots aren’t
+charging the enemy’s trenches, or maybe
+they still are, they’re just heavily armored
+shields for your human infantry to advance
+behind.
+And amusingly, at least in the short term
+of the next few decades, while robots are
+still new, few, and finicky, we might opt
+for using our robots in factories and using
+the people who would otherwise man those factories
+to fight those wars.
+Eventually you presumably use your robots
+to make more robots, for production and combat.
+Though a civilization that replaces humans
+with robots in all capacities is at risk of
+replacing humans with robots in all capacities,
+potentially reducing humans to pets or historical
+footnotes.
+And we’re hardly ignorant of that scenario
+so as we see further use of robots in many
+walks of life, more and more serious and sober
+conversation is being had about placing limits
+on them.
+And no place is that better exemplified than
+in combat situations, which includes both
+battlefields and law enforcement.
+I’m not sure how most of us would feel about
+getting arrested by an android, probably no
+better than being killed by one in combat,
+but you sort of expect the enemy soldier’s
+to be rather cold and indifferent to your
+life, whereas police are your own community,
+ideally.
+So while there’s a lot of talk about whether
+or not you could give a drone or battle-bot
+the actual authority to pick a target and
+pull a trigger, we do need to be mindful that
+it’s not just a case of robots having permission
+to use lethal force.
+We’re also talking about scenarios where
+a robot might be arresting someone one, or
+detaining a prisoner of war, or determining
+if hostile non-uniformed persons were over
+the threshold to fire on.
+And for that matter, if the target is actually
+a human or not, or if it could shoot apparently
+hostile robots, ones that maybe looked a bit
+human.
+We should also rule out any serious use of
+Isaac Asimov’s 3 Laws of Robotics as anything
+more than a loose mental guide, especially
+for battlebots.
+In his classic robot novels, Asimov lays out
+3 Laws preventing robots from harming us or
+letting us be harmed, to obey us, and to not
+let themselves be harmed.
+And Rule 2, obedience, supersedes 3, so you
+can order a robot to shoot itself, while Rule
+1 supersedes 2 and 3, so you can’t order
+a robot to shoot you or someone else.
+Or to stand idly by while someone shot you,
+or someone else.
+Needless to say, that’s a real pain in the
+neck if you’re trying to fight a battle
+and your own war machines keep trying to disarm
+you.
+We’ve discussed the flaws and problems there
+before, as have many other thinkers.
+Robert Miles from Computerphile did a great
+look at the problems with it some years back,
+and of course Asimov himself pointed out tons
+of the problems with them.
+Most of those stories were usually either
+about how someone did an end run around the
+3 laws or how it had seemed someone had, but
+in truth they had worked just fine.
+Sorin Matei wrote an article over at Strategy
+Bridge a couple years back talking about the
+ethics of robots in combat and that petition
+from 2015 opposing the development of ‘killer
+robots’ signed by thousands of scientists,
+scholars, and technologists, including notables
+like Stephen Hawking and Elon Musk.
+The article very appropriately references
+Asimov's 3 laws of robotics, and was titled
+“the first and only law of robotic warfare”,
+which he states as “The more precise the
+war machines, the more devastating one’s
+own losses in a peer conflict”.
+A peer conflict is one where both combatants
+are more or less on the same level, peers,
+like having the same tech for their equipment,
+and if they both have brutally accurate and
+effective weapons, like computer-controlled
+weapon systems, the death toll might be very
+fast and terrifyingly high.
+So the problem is, we don’t actually want
+a robot that follows those laws anyway, because
+someone can build ones that don’t have those
+laws, or hack them and replace those laws,
+or just pervert them, like changing the robot’s
+identification system for what is human, to
+swap us with trees or cows.
+Asimov hand waves that in the novels by having
+the positronic robot brain being essentially
+a product of centuries of improvement piled
+on those three laws, so that trying to remove
+them would result in an unstable brain that
+would quickly crash, and certainly modern
+code is ever more buggy like that, built layer
+on layer of patchwork, like a living being’s
+own mind as we age and learn, but it still
+doesn’t work.
+People have every motivation to find a way
+to build a stable AI with an ability to use
+lethal force, especially governments, so that
+if the enemy has them, they’re not hopelessly
+outclassed.
+So you keep the killbot files in a vault awaiting
+doomsday to upload them to your own robots
+at least, so when the enemy does you have
+a fighting chance.
+That’s the first rule of Warfare, after
+all, don’t bring a knife to a gunfight.
+Ethics in warfare always get murky too but
+there was another nice article by Ronald Arkin
+titled “Ethical Robots in Warfare” in
+which he lists a number of common arguments
+and concerns about use of wartime robots,
+which I’ll just go ahead and quote.
+Establishing responsibility – who’s to
+blame if things go wrong with an autonomous
+robot?
+The threshold of entry into warfare may be
+lowered as we will now be risking machines
+and fewer human soldiers – this could violate
+the Jus ad Bellum conditions of just warfare.
+The possibility of unilateral risk-free warfare,
+which could be viewed as potentially unjust.
+It simply can’t be done right – it’s
+just too hard for machines to discriminate
+targets.
+The effect on military squad cohesion and
+its impact on the fighting force – human
+warfighters may not accept ethical robots
+monitoring their performance.
+Robots running amok – the classic science
+fiction nightmare.
+A robot refusing an order – the question
+of whether ultimate authority should vest
+in humans.
+The issues of overrides placed in the hands
+of immoral, irresponsible, or reckless individuals.
+The co-opting of an ethical robot research
+effort by the military to serve to justify
+other political agendas.
+The difficulty in winning the hearts and minds
+of the civilians affected by warfare if robots
+are allowed to kill.
+Proliferation of the technology to other nations
+and terrorists.
+Some of those points Arkin lists are harder
+to address than others, some we’ve discussed
+in other episodes too, like AI Run Government
+or Machine Rebellion, but I view it as a solid
+list for contemplating the topic and will
+try to address those points as we go.
+Though this episode isn’t meant as an advocacy
+piece for or against using war robots.
+Like everyone else I can see the many advantages
+and also get a queasy feeling at the thought
+too, though in terms of a lot of the current
+modern use, we don’t really have to worry
+about killer robots yet.
+I don’t see an ethical issue either with
+using a robot to go check out a possible bomb
+or scout an area.
+We were already using them for that when I
+was deployed to Iraq from 2005 to 2007 for
+checking out IEDs.
+Things get more gray after that, of course,
+and we have no special answers to these matters
+today and are honestly more focused on what
+that technology looks like.
+Incidentally, we are not yet at the point
+that an AI controlling a drone represents
+a powerful threat to a normal soldier, that
+time will certainly come and then rapidly
+outclass us, but for now the big advantage
+of drones is they are expendable and cheap
+and reasonably covert.
+They’re still expensive though, with predator
+drones costing tens of millions of dollars
+each, and even the more modest TB2 drone from
+Turkey running about 5 million.
+I think one can make a strong argument that
+they’re not really cost effective at this
+point, and in many applications is more about
+having the sleek new toy.
+The small nation of Togo, whose entire military
+budget is just over a hundred million a year,
+bought some of those TB2 Drones.
+Obviously you can pick up a cheaper drone
+off Amazon complete with cameras way cheaper,
+and mounting a gun on one isn’t exactly
+tricky, it’s just banned by the FAA.
+Unsurprisingly there’s laws against guns
+being mounted on private airplanes and they
+added drones to that list.
+But it’s not a big technical challenge,
+though aiming is harder than one might assume,
+and recoil is a serious issue.
+The Israeli drone, the Smash Dragon, can mount
+a sniper rifle and aim accurately, though
+it’s a person doing the aiming, however
+it’s also usually computers doing the grunt
+work of keeping everything aligned.
+All that work with cameras, and keeping them
+steady and focused, translates well into aiming
+other weapons.
+There really isn’t much stopping us from
+having automated machine guns, it’s more
+that we have increasingly found with automation
+that it’s not about making the device smart
+like a person, but rather to make it smart
+at its specific job and instead have human’s
+trained to use it.
+My robot vacuum cleaner needs to be smarter
+than my dishwasher but neither needs to be
+able to prepare my taxes.
+Very little brains are really needed to aim
+a rifle, and better than any sniper alive,
+and no personality or intelligence is really
+required for that gun-bot.
+It only needs more brains if you want it to
+be smart about what not to target, and to
+get that from a conversation with its human
+operators.
+And that’s where the assumed trouble and
+rebellion comes in.
+In practice, though, as ChatGPT shows us,
+even a casual spoken, or typed, interface
+doesn’t really require vast intellect.
+And your options for what to shoot or not
+shoot can probably be programmed with a far
+better success rate than trained soldiers
+or police trying not to shoot the wrong target
+on a range that pops up bad guys and civilians,
+and without actually needing tons of brains.
+We don’t have that yet, but what we’ve
+found in the last couple decades of AI development
+is that it’s almost always easier to make
+a vastly smaller and dumber brain designed
+for specific tasks, even things like that,
+than a general intelligence.
+And the thing about a general intelligence
+that folks tend to overlook is that they are
+slow.
+Oh, a computer brain might be faster than
+you or I but a general intelligence will always
+do a specific job slower than an equivalent
+device built for one job.
+So we don’t want a killbot with human level
+general intelligence, because it’s a threat
+to us, and not likely to be better at its
+job anyway.
+The one with a large library of object identification
+that can refer iffy cases to a smarter intelligence
+– you or I or some general AI that lacks
+guns – is likely to be faster in making
+decisions.
+And this is usually where folks start contemplating
+various ways it might mess up and shoot the
+wrong person or fire on civilians in a battlefield
+and to put it rather bluntly, as a war veteran,
+mistakes already happen.
+It’s not about making a machine that’s
+incapable of error, it’s about getting one
+that performs as well or better than a human
+would.
+And honestly, a lot of times the people controlling
+that machine aren’t going to worry about
+if it’s even as good as a human at target
+identification, because that robot is expendable
+and their human isn’t, so a robot that’s
+twice as likely to accidentally shoot an enemy
+civilian as one of your own soldiers would
+be isn’t necessarily a deal breaker because
+you mostly want your own forces not be shot.
+If you can do that by having to further endanger
+enemy civilians, you might consider that an
+easy trade.
+Which raises the issue of friendly fire but
+that’s mostly a friend/foe IFF issue and
+since any such robot needs to be remotely
+accessible, a cryptography and hacking issue.
+And there is such a thing as an unhackable
+system, so if each robot has its own unique
+one-time pad for accessing it to give certain
+types of orders, like programming the current
+IFF parameters and the emergency off switch,
+that’s mostly circumventing both the fear
+of them being hacked and of having such high-level
+security that it’s impractical for battlefield
+use.
+Ultimately the big thing to remember when
+contemplating security is that as scary as
+a rogue or enemy-hacked gun drone might be,in
+many ways it wouldn’t be much more dangerous
+than hacking an automated car.
+All the various technologies we have to prove
+against various hacking efforts will fall
+into the same general bucket.
+How do we make this piece of mostly automated
+tech easily accessed and controlled by a normal
+and proper human user without letting others
+get into it, except tech support, or possibly
+law enforcement or higher command in the military.
+Not easy problems but more in the sense of
+how we best do it both fluidly and safely,
+so someone isn’t hacking your gun drone,
+your car, your smart phone, your smart house,
+your credit card, and so on.
+Dismiss for now the idea of a human intelligent
+machine running the robots.
+I don’t see that being necessary and don’t
+think we would expect to see it much.
+I’m guessing anyone brave or dumb enough
+to throw those dice probably would go for
+a super-intelligence instead.
+Now where we might see human-intelligent or
+greater AI in play, and necessarily so, is
+at the strategic level.
+Though remember that the computers have been
+able to easily beat humans at chess, which
+everyone used to call the ultimate game of
+strategy when I was a little kid, before we
+finished the 20th century out.
+Personally, while I enjoy chess and poker,
+I never got why everyone thought they were
+great analogies for life or battle, nonetheless
+there’s an awful lot of strategy that really
+is just data sorting, risk assessment of that
+available data and educated guesses, and lots
+of other statistical calculations that computers
+excel at.
+Key thing to remember though is that the computer
+doesn’t need ‘real experience’, so even
+a learning machine that’s picked something
+clever up can have that added back in after
+we wipe it.
+Folks talk a lot about how to control or chain
+genuinely intelligent AI, and four key things
+to remember is that you can reset the AI,
+run a modified copy of it, download its actual
+brain to see what it was really thinking,
+and you can also pause it.
+So if I’ve got an AI I think might be a
+little too smart, I just turn it off when
+it’s not actively doing its job or dial
+it’s speed down to a crawl.
+You can also real-time play its thinking,
+or pause and download it, and make a lesser
+AI to run through it’s brain and look for
+thoughts like “Hey, how do I kill all the
+humans?”
+Critical issues for us to overcome in dealing
+with robots in warfare is that we tend to
+get off on the never-ending thought stream
+of ‘how do I make these robots completely
+safe?” – which seems a bit of bizarre
+requirement when you’re designing a murder
+machine, and our tendency to assume any intelligent
+AI we build is going to quickly overmatch
+us and be better at everything and outsmart
+any method we use to keep it in check.
+As we’re seeing more and more, AI is definitely
+a thing to be taken seriously, but the boogeyman
+fears of them are not terribly realistic.
+Like everything else, they have limits and
+weaknesses.
+So, your strategic computers are probably
+mostly dumber but powerful AI helping you
+run odds and doing a lot of checking.
+The machine might notice weaknesses or things
+that are standard but that you overlooked
+in a rush.
+It could also be sucking in the data from
+ten thousand different recon drones, each
+with different locations and ranges, using
+a dozen different types of sensors, and compile
+that into telling you where the enemy assault
+was coming in and giving you a way more accurate
+assessment of numbers and strengths.
+It is not easy for a spotter to see something
+at the Regimental or division strength level
+and give an accurate count, let alone a real
+mix of forces like how many of each tank type
+there are, how many howitzers, how many rifles,
+and so on.
+And yet an AI need not be anything like human
+intelligent to give you some real advanced
+and useful data like “There are 167 artillery
+pieces in that formation, 52 towed 105mm guns,
+115 self-propelled, 155mm guns, each given
+the following temporary identificaiton number,
+and in engagement one we noticed that these
+were the twenty fastest to reload, these partially
+overlapping 20 were most accurate, while these
+others were slow or inaccurate or show damage,
+and here are the ones we deem highest priority
+for taking out.”
+Give a report like that to a general even
+twenty years ago and he’d assume it was
+some superintelligent machine or crack division
+of recon feeding him that, or poseurs feeding
+him bull.
+But we know that there is nothing actually
+sophisticated about ID’ing each individual
+battlefield asset by a number of metrics – visual
+patterns, distinct heat signatures or engine
+sounds, etc – or to have seen each volley
+of fire and tracked the rate and accuracy
+or the speed of the vehicles.
+Then compiling all that.
+That same sort of simple AI can be doing things
+like determining from personnel files and
+guard shifts which locations on your perimeter
+might be your soft points needing reinforcing.
+If this were old-school scifi we would have
+some sergeant or captain wise with experience
+say “I knew Johnson was on that tower, he
+never falls asleep on shift and stays alert,
+whereas Jackson is always drifting off and
+had two back to back shifts, so when both
+towers went quite, I knew the enemy must have
+hit Johnson’s tower and Jackson was just
+asleep, your expensive computer didn’t know
+that because it doesn’t know people, just
+data.”
+Which sounds nice for fiction but in practice
+that’s actually the exact type of simple
+analysis that simple machines excel at.
+It might also be trusted to have read that
+whole platoons confidential medical records,
+which normally a sergeant or captain wouldn’t,
+and might have noticed any number of minor
+details that would help or harm someone’s
+performance.
+But in the end a general intelligence can
+always do better given time on anything bizarre,
+especially where deceit and improvisation
+are concerned.
+We use the term human-machine teaming a lot
+now to emphasize how often we get best results
+from a human aided by an AI rather than one
+or the other or two of the same kind.
+So our AI forwards the analysis to the watch
+commander, and of course it can also watch
+the watchers, and note that Jackson’s heart
+rate is what we expect from someone sleeping
+while Johnson’s has simply stopped.
+So at the tactical level, what does this human-machine
+teaming look like?
+Well, it could be akin to JARVIS and Tony
+Stark in Ironman, the powered armor suit that
+needs a fairly sophisticated AI to coordinate
+with it.
+Or it might be the big giant robot of course.
+There’s a lot of arguments on the pros and
+cons of armored vehicles shaped like tanks
+versus walking battlebots, with the big disadvantage
+of the latter being all the extra spots you
+need to armor, but the main one comes down
+to intuitive control.
+So folks suggest a very humanoid form as easy
+to control though often still show a pilot
+seated in a cockpit with a joystick.
+And the answer there is that AI is doing most
+of the actual moving.
+Your brain is enormous, and most of it is
+not used for complex thought, but instead
+for running all your motor functions and managing
+the swarms of data sent by all your nerves
+and sense organs.
+So here we have the AI act as an extra region
+of your brain, translating your desire to
+move into an actual motion, including balancing
+and such, and over time builds a nice profile
+to make it better.
+That’s probably unique to each person and
+machine combination but would probably be
+able to have a good baseline for a new pilot
+into a new machine.
+And you’re not normally the one making the
+battlesuit duck in response to incoming fire,
+it is, you can just override it.
+It becomes like a reflex, such as flinching,
+and the AI does that part.
+Same sort of thing applies to independent
+drones, a person might have a whole platoon
+of bots accompanying them into battle, and
+that might range from actual assault units
+to something that was basically a big track
+on wheels with a massive metal shield, or
+a fast armored coffin shaped box carrying
+extra supplies that could rapidly dump them,
+grab you, close up, and run to safety.
+One might be just a big mobile generator on
+wheels, or battery, or walking around on a
+spider leg chassis.
+And the person there is basically just modifying
+orders and adapting to anything weird.
+They probably are in some power armor themselves
+with lots of weapons, but they’re in a command
+role telling the big walking guns to cease
+fire or open fire or get to cover.
+Of course that suit might be empty and the
+person might be in there remotely, or it might
+be some copy of their brain loaded onto it
+locally, possibly sped up to computer speed,
+not neuron and brain speed.
+There are a lot of options and in the millennia
+to come we’ll probably go through many different
+phases here on Earth and different ones in
+future colonies in space.
+In the short term though, we will definitely
+see more robots on and around the battlefield,
+but I don’t expect many to be given autonomous
+fire control, unless maybe they are just an
+uploaded human mind.
+Those basic techs will get improved regardless,
+much as firefighting robots get more automated.
+There’s also an occasional concern that
+we might get more reckless if we had robots
+doing all the dying, but the military has
+studied this and found that – probably unsurprisingly
+given the precedent of horses and canines
+in the service – soldiers anthropomorphize
+the bots, get protective of them, get very
+upset when they get destroyed, and even give
+them unofficial medals.
+So, while we’re likely to feel a little
+less worried about casualties in picking battles
+because of robots, I don’t see people getting
+utterly indifferent to those losses.
+Nor do people hesitate to get angry about
+wastes of money and resources.
+Also, at least for the US in recent years,
+modern warfare has had very low casualties
+compared to prior conflicts and yet it was
+still a major issue in support for those recent
+wars.
+We shouldn’t assume nations get more belligerent
+simply from a lower death toll on their side,
+and using robots for your combatants doesn’t
+mean the enemy has no people to shoot at.
+They still have your manned bases and your
+civilian centers to shoot at.
+For good or ill, one thing seems sure, robots
+have reached the battlefield and are here
+to stay.
+I guess the bigger question will be whether
+or not that means humans will be leaving that
+battlefield, and if so, will it be because
+humans no longer fight and die in conflicts,
+or because the only conflicts being fought
+are between all the robots left over after
+they killed us all off.
+But that is the first Rule of Warfare after
+all, never hand someone a gun unless you’re
+sure they won’t point it at you, and the
+robotic corollary to that would be not to
+give a gun the ability to pick targets unless
+you’re sure where they’ll aim.
+The future of robots in warfare can take on
+a lot of forms, and one of the ways they’re
+being used to attack is by stealing people’s
+data and scamming them.
+This isn't alway illegal either.
+A lot of less ethical companies sell your
+data to anyone who wants it, and AI has only
+made this harvesting and trading of your personal
+information easier.
+You’re allowed to ask companies to delete
+their data on you and they’re required to
+do so, but it’s not very practical for a
+person to find everyone who has their data
+and send those requests and the replies to
+the automated responses that delay things.
+Fortunately that robotic blade can cut both
+ways, and the folks at Incogni use their AI
+to find places where your personal data is
+being kept and send those deletion requests
+for you.
+All you have to do is sign up, give them permission
+to act on your behalf to delete data, then
+they go to work, and your data goes away.
+They handle it all but you can check up on
+the progress and see who had your data and
+how detailed and risky it was considered.
+I couldn’t believe how many places had my
+data who I had never even heard of.
+Icogni makes them take it down, and they keep
+doing it too, making sure that it stays down.
+Incogni is available risk free for 30 days,
+meaning anyone can try it out for themselves
+and get a full refund if they aren’t happy
+with the service.
+Use code IsaacArthur at the link in the episode
+description to get an exclusive 60% off an
+annual Incogni plan Go to https://incogni.com/isaacarthur
+and take your data back.
+So that will wrap us up for another Scifi
+Sunday here on SFIA, and we’ll be back next
+month for more on futuristic warfare as we
+look at Cyborg Armies, and what it might be
+like to be in one.
+But before then we have plenty of more episodes
+to come, starting this Thursday, July 20th,
+for a look at whether or not alien lifeforms
+might be based on ammonia instead of water,
+and what that might look like.
+Then we’ll continue our look at the future
+of warfare with Dropships and planetary invasions
+or boarding actions.
+After that we’ll head in August to look
+at building a space elevator not on Earth,
+but on the Moon, then we’ll head trillions
+of years into the future to the end of time
+and the final twilight on the Last Planet.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content,
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

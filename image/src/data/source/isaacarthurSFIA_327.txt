@@ -1,0 +1,708 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+We view our sun as eternal and stable, the
+object around which the day revolves and which
+has been and always will be, and yet it is
+a whirling mass of chaos and storms of fire.
+In September of 1859, a year-and-a-half before
+the American Civil War began, 162 years before
+this recording, Earth experienced the Carrington
+Event, the most powerful geomagnetic storm
+ever recorded.
+Telegraph systems all over North America and
+Europe went haywire.
+Telegraph line towers buzzed and arced, sending
+sparks to the ground.
+In some places, the arcing started fires in
+dry grass.
+Several telegraph operators received severe
+shocks, and in a few offices metal contacts
+melted and papers near the wires caught fire.
+With telegraphers busy putting out fires and
+many lines shorting out, America’s only
+fast long-distance communication network was
+mostly shut down.
+And that meant trains had to be postponed
+too for safety.
+Most interestingly though, or perhaps most
+eerily to the bewildered operators, offices
+connected by the lines that hadn’t shorted
+out found that they could still send each
+other messages even after they’d disconnected
+their power supplies—and the signals were
+actually clearer than normal.
+Electricity was literally in the air--and
+that’s not really where we want it.
+The mid-19th century was not an era very reliant
+on electricity or radio, so beyond those telegraph
+disruptions and folks being able to see Aurora
+for the first time in places it normally is
+never seen, this event was not disastrous.
+No event as powerful has happened since, and
+a good thing too, as it would wreak havoc
+on our modern high-tech infrastructure.
+It’s hard to solidly estimate such things
+in advance, but estimates of the worldwide
+cost of the direct damage and aftermath are
+in the $1 to $2 trillion range.
+Antarctic ice core samples contain traces
+of the Nitrogen Oxide produced in the atmosphere
+by such heavy electrical activity, and that
+data seems to indicate that the 1859 Carrington
+Event was at least twice as big as any other
+solar storm of the past 500 years.
+Lesser but still significant events happen
+far more frequently, typically driven by solar
+flares, and we have good reason to think our
+own sun is atypically stable, though we’re
+not at all certain how common they are on
+other stars like our Sun.
+Indeed many fluctuate in their output so sharply
+and frequently that there is no plausible
+scenario for an Earth-like world to exist
+around them.
+And even where Earth-like planets do exist,
+frequent Carrington-like Events might severely
+hamper development of a high-tech civilization
+if not make it impossible.
+So today we will be examining how the stability
+of stars might affect the Fermi Paradox, the
+big question of why in a Universe so vast
+and ancient we don’t seem to detect vast
+numbers of ancient civilizations out among
+the stars.
+Needless to say, things that might make those
+stars less hospitable to life on worlds around
+them could impact that equation.
+“That Equation” incidentally is Drake’s
+Equation, which is paired to the Fermi Paradox
+and tries to look at various factors that
+might make star systems able to host life,
+and life that could reach the point it was
+giving off signs of intelligent civilizations
+to astronomical observers.
+We refer to these sorts of hurdles to intelligence
+arising, these hurdles to going from random
+lifeless rocks to interstellar empires, as
+“Filters”.
+These might be minor ones that would only
+eliminate most candidates, what we often call
+a lesser filter, or enormous ones that a world
+has slimmer chances of passing through than
+you or I do of winning the Lottery, and we
+call these the “Great Filters”, and we
+discuss both types and everything in between
+in our Fermi Paradox Great Filters series.
+Great Filters are those events or conditions
+that would reduce the odds of an alien civilization
+developing by a million fold, and an example
+might be if it turned out the typical solar
+system had 100-kilometer-wide asteroid collisions
+with planets on an average of every few thousand
+years.
+If we contemplate an event like that, which
+would kill all complex life on a planet hit
+by it, then we’re talking about something
+that at best would set back the evolutionary
+clock hundreds of millions of years if not
+sterilizing the whole planet.
+If we’re assuming there’s a period of
+time the average system has of that happening
+with a 50% likelihood, then if 10 such periods
+elapsed, the odds of it not happening become
+one-half to the 10th power, or one in a thousand,
+and at 20 iterations, one in a million, and
+at 30 iterations, one in a billion.
+Now planets really do often get smacked with
+asteroids or even dwarf planets, that’s
+probably how we got our giant moon – itself
+another commonly suggested Fermi Paradox Filter
+– and we don’t know how often such collisions
+happen in the typical system.
+If that period was once in a million years,
+then less than one in a thousand systems might
+host life, if it was a thousand years then
+the odds of even a single planet in the whole
+Universe going 4 billion years without being
+fatally smashed multiple times is pretty small.
+But that’s a critical aspect of filters
+of that type, a disaster that might happen
+on average every million years changes the
+odds by many orders of magnitude difference
+in the 4 billion year history of a possible
+life bearing planet.
+Small changes in the odds of filter events
+result in large changes to the odds of technological
+life arising, and unfortunately our understanding
+of the odds of most filters is still very
+imprecise.
+And mind you, these cases are in addition
+to any other filters in play, and throughout
+the aforementioned Great Filter Series we
+discussed over 50 such conditions which each
+seemed likely to reduce the odds by at least
+50% in each case, often vastly more.
+One of those areas was Solar stability and
+the general category of suitability of a given
+star, and it is one of the ones I expect to
+be a big filter on life emerging and evolving,
+as we’ll discuss today in terms of solar
+flares.
+Though Solar Flares are just one example of
+how, but let’s begin with that.
+What is a solar flare?
+The Sun gives off a fairly steady amount of
+sunlight – indeed it appears to be steadier
+than most stars – but it still has drops
+and rises in brightness, and the latter are
+called solar flares, eruptions on the Sun,
+which also increases the overall brightness
+of the Sun while they persist.
+They usually are observed in close proximity
+to sunspots, which are temporary phenomena
+on the Sun that are actually darker than normal.
+Loosely speaking this can be thought of as
+a big bubble of activity manifesting as a
+clump of darker sunspots and a sudden flash
+of hot and bright activity, that flare.
+Sunspots range in size a lot, varying from
+the size of a city to bigger than a planet,
+even a big one like Jupiter.
+They move around, often in groups, and change
+in size, and appear and disappear, and how
+common they are at any given moment changes
+and seems to loosely follow an 11-year cycle.
+They are often accompanied by other activities
+like solar flares.
+We have coronal loops, which are giant ribbons
+of plasma rising and falling with magnetic
+field lines off the sun, thousands of kilometers
+long, and we also have their big brother,
+solar prominences, which are bigger and last
+longer.
+These can break up into a Coronal Mass Ejection,
+or CME, which is basically where one of these
+large protrusions of plasma breaks off, and
+our Sun has as many as 5 of these a day during
+the peak of that 11 year cycle to as few as
+one every five days near the minimum, a factor
+of 25 difference.
+These head out into space and only the ones
+that move in the direction of Earth are cause
+for concern – currently anyway, they could
+be more worrisome in a developing interplanetary
+civilization with infrastructure spread out
+around its star.
+Now as we often note on the show, Earth is
+very small compared to our Sun and even smaller
+compared to its orbit around the Sun, so it
+only gets about a billionth of its sunlight,
+and only gets about a billionth of its CME
+ejected material.
+They are big and spread out as they go, so
+a lot more than one in a billion strike Earth,
+but the vast majority of CME’s either come
+nowhere near us or hit us only with their
+fringe.
+At the same time not all Mass Ejections are
+made equal, some are bigger than others.
+The Carrington Event in 1859 was visible to
+the naked eye as a flare and a brightening
+of the solar disc, most are not nearly that
+intense.
+But nor is that intensity super-rare either,
+we had a Carrington-Class solar superstorm
+back in the summer of 2012 that landed a glancing
+blow on Earth, and, had it been head on, we
+estimated it would have done around a trillion
+dollars in infrastructure damage, resulting
+in huge human and societal costs while we
+rebuild.
+We would expect cascading failures of the
+power grid, electric disruptions and grid
+damage, potentially leaving some areas without
+power for months, and where we kept power,
+huge problems in terms of electronic payments
+systems, crashes to the internet, and general
+chaos in banking in general.
+It’s hard to guess how much secondary chaos
+this might cause, but as we emerge from the
+Pandemic, it’s worth remembering all the
+stuff that came out of left field from that,
+like the great Toilet Paper Shortage of Spring
+2020 or shortages of various food items simply
+from an inability to keep the processing plants
+open.
+So don’t think of such an event as just
+a few days of rolling blackouts.
+We were actually hit by a smaller one in the
+Spring of 1989 that knocked out power in Quebec
+and the aurora was visible down in Florida
+and Texas.
+Hardly a doomsday event though.
+I was eight at the time of the ‘89 event,
+living in northeast Ohio, not far from Quebec,
+and was already very into astronomy and also
+already a news junkie, but I can’t say I
+recall the news even mentioning it, that time
+Earth got smacked by a coronal mass ejection
+36 times bigger than the planet.
+And this is critical because we have not observed
+any CMEs that would have brought on the apocalypse
+had they hit Earth directly.
+At worst the ones we have seen would have
+caused short term chaos and economic disruption
+of power outages and fried communication systems.
+There probably have been much worse ones,
+and yet they are nothing compared to what
+planets around many other stars experience.
+We have a category of stars called variable
+stars, with the variation referring to their
+brightness, and presumably they all vary in
+brightness but, for example, our own sun’s
+brightness only varies by about 0.1% over
+the eleven year solar cycle, just by a factor
+of a thousandth, and that variation is enough
+to cause a variation of 400% in the dangerous
+UV-B light reaching Earth through the Ozone
+layer, a possible planet wide temperature
+variation of about a fifth of degree Celsius,
+and possibly some alteration of weather patterns.
+Alternatively Mira type Variable Stars can
+have variation of not a thousandth, but of
+a factor of a thousand or more.
+They’re an extreme case but most stars vary
+in brightness by a lot more than a tenth of
+a percent.
+Our sun is unusually stable, and I just mentioned
+a few of the effects even a 0.1% variation
+in brightness has.
+A coronal mass ejection an order of magnitude
+more powerful than the Carrington-event is
+getting into that region where the effects
+aren’t just messing up electronics and making
+the sky have pretty auroras, it's getting
+into the area where it can start severely
+damaging the atmosphere.
+Remember a CME is a giant ball of plasma,
+we were just talking early this month about
+using plasma as a weapon for tearing stuff
+apart in our Lightsabers and Laser Pistols
+episode.
+Plasma is hot ionized atoms, the same kind
+that already hit Earth as Solar Wind but dialed
+up to 11, that’s the same solar wind that
+slowly strips off our atmosphere and which
+stripped them off every planet without a strong
+enough combination of magnetosphere and gravity
+to keep theirs.
+There are a lot of variable stars – and
+there are several types and causes for star
+variability, ranging from the internal mechanics
+of the star, what we call intrinsic variability,
+to extrinsic causes like passing through a
+dust cloud and gas cloud.
+However a lot of variable stars are already
+so big that we rule them out for the Fermi
+Paradox, as we tend to assume a big but short
+lived star would not be around long enough
+to let complex life evolve near it.
+Indeed even Class F Stars, those just one
+category above our own G2 Sun, are pretty
+dubious candidates for longterm stable Earth-like
+worlds as we’ll discuss in a bit, and the
+most massive of those come in at only 1.4
+times the mass of our sun, and yet 40% more
+mass should result in a main-sequence lifetime
+of only 4.3 billion years, our sun is 4.6
+billion years old, and 300 millions years
+ago life had barely gotten onto land.
+Stars more massive than that, anything in
+the A, B, or O ranges live even shorter lives,
+often making their lifetimes in millions rather
+than billions of years.
+To be sure, life might evolve faster on some
+worlds, but stars also get brighter as they
+age and hotter, and we worry if our world
+will even have an atmosphere a couple billions
+years from now if our Sun heats up a bit more.
+This sort of star variability, brightness
+from aging, is much slower but more potent
+in many ways too, as every star emits solar
+wind that strips atmosphere off worlds, and
+there’s a bit of snowball effect on that,
+once the stripping effect reaches a certain
+strength things move very fast, removing sea
+and sky.
+For instance a star living only half as long
+as our own sun is going to go through those
+age-related changes in brightness twice as
+fast, giving the ecologies under them half
+the time to adapt, assuming they even can.
+Whichever the case, it makes it very dubious
+if stars even a decent bit more massive than
+ours could really offer a habitable zone to
+an Earth analogue planet for long enough that
+evolution could produce intelligence, even
+if that bigger and shorter-lived star was
+as stable as our sun.
+And again our sun is pretty stable even when
+compared to other stars in our type, at least
+for the last several thousand years, which
+is as far back as we can track it using means
+like ice cores and tree rings.
+With such a short record, it might be that
+the Sun has just been unusually calm during
+this era.
+However the Sun is the major driving influence
+of our weather and climate, and we have had
+a lot of big climate shifts over that same
+period, largely driven by that solar activity
+which has varied minimally.
+When compared to a graph of brightness variability
+of other stars like our own, our sun is very
+sedate and stable, and if this is the norm,
+the instability of most Sun-like stars might
+be a major filter for the Fermi Paradox.
+Even if it were a temporary period though,
+we know how much damage the variability of
+our Sun could do to a technological civilization.
+You can bury and harden power lines and telephone
+wires against this sort of disruption but
+you have to put a lot of effort and expense
+into doing that – we’re not idiots, we
+haven’t proofed ourselves against this because
+it would take a major effort and its uncertain
+if the cost of doing and maintaining that
+would exceed the possible damage, especially
+since a lot of that would be because of chinks
+in our armor, like one country or region didn’t
+do it and all their networks drop.
+We also might want to ask what Carrington
+Events happening every year or even more often
+or more severely might do to a developing
+civilization.
+One thing we need to understand is that even
+for very stable stars, the slow and steady
+stellar wind that all stars give off will
+slowly strip away the atmosphere of any planet—unless
+that planet is so large it can hold its atmosphere
+down with brute force gravity, or unless the
+planet is so far from its sun that the wind
+is weak, or unless the planet has a geomagnetic
+field to create magnetosphere that will guide
+all those charged wind particles safely away
+from the atmosphere.
+But huge planets and distant cold planets
+are unlikely to develop life, so life as we
+know it has the best chance of developing
+on planets that have a geomagnetic field protecting
+the atmosphere.
+Mars has a much thinner atmosphere than Earth’s
+partly because of its lighter gravity but
+mostly because it lack of a magnetic field,
+so the solar wind has stripped and is still
+stripping its atmosphere away.
+Life evolving on a planet with barely an atmosphere
+isn’t necessarily impossible, but it isn’t
+nearly as probable either.
+And since our data on planetary atmospheres
+and magnetic fields is very limited, we can
+only make estimates as to how intense a geomagnetic
+field a planet really needs to protect its
+atmosphere from its sun at its orbital distance
+from that sun.
+But even if a planet has a strong enough magnetic
+field and magnetosphere to protect its atmosphere
+from the steady stellar wind, there are still
+the storms and flares to worry about.
+We can only make estimates of how much of
+the Earth’s atmosphere the Carrington Event
+blasted away, so while it would take frequent
+Carrington-class events to leave us airless,
+it’s not clear exactly how frequently.
+And there’s an interesting range in there,
+where the magnetic field might be strong enough
+to hold the atmosphere in place but we’d
+still have the intense erratic electrical
+activity to deal with.
+In a way, we’re actually very lucky the
+Carrington Event happened when it did.
+Had it come decades earlier, there would not
+have been astronomers monitoring the Sun daily
+and we might not have realized that all the
+strange events were connected with the gigantic
+sunspots that had just erupted.
+Had it come much later, of course, we’d
+have already invested heavily and come to
+depend on an electrical grid that was completely
+unprepared for it.
+Though if it had happened early on in our
+electrification efforts, we may have re-evaluated
+and instituted more rigorous standards for
+our electric infrastructure.
+So an Earthlike planet that suffered a few
+Carringtons per decade couldn’t develop
+a worthwhile electrical grid until they learned
+to shield and harden it.
+On the one hand, this might drive them to
+work that much harder on their studies of
+solar physics and electronics.
+On the other hand, that extra hurdle might
+make the whole idea of a grid impractical
+and too expensive, leaving the planet’s
+civilization dependent on cruder, less adaptable,
+and more decentralized forms of power like
+water power, and by water power I mean water
+wheels driving gears, not hydroelectric power
+generation.
+If they cleared that hurdle, there are plenty
+of others, like deploying a satellite network.
+You can shield satellites, but it’s expensive
+and difficult.
+And even then, they need antennas or they
+aren’t very useful.
+If you shield an antenna completely it stops
+being an antenna, but you can withdraw the
+antenna and other vulnerable structures into
+the shielding if you know a storm is coming.
+So before this civilization could build their
+satellite network, they need a sufficiently
+advanced understanding of solar physics that
+they can monitor their sun and know when it’s
+about to act up.
+It’s possible, but every hurdle placed in
+a civilization’s way is a hurdle that some
+aren’t going to get over.
+And thinking for a moment about civilizations
+at a lower level of technology, there’s
+no telling what superstitions about metal
+might develop if a culture noticed that long
+pieces of metal got hot, gave off sparks,
+and started fires on the days before the night
+skies filled with green fire.
+This could lead to a Game of Thrones-like
+scenario, where a planet reaches a certain
+level of technological development and just
+stays there for thousands of years.
+Some things are a lot more difficult to harden
+though, like space based hardware, be it probes,
+rovers, or manned stations.
+We already have to work to minimize mass to
+get things into space and arguably expose
+our astronauts to unhealthy amounts of radiation
+during their stays, it’s a lot worse during
+storms like this and if that was the norm,
+it might simply be viewed as an impossibly
+impractical endeavor.
+Personally I think they’d eventually get
+the technology to do it anyway, but astronomy
+and scientific development might look very
+different on worlds where the sky was always
+lit up with an aurora.
+We don’t know how often major solar storms
+like this would need to occur, or at what
+intensity, to strip the atmosphere off Earth,
+but we can make some decent guesses and there’s
+a lot of stars that probably are too volatile.
+As mentioned any of the variable types stars,
+at least the intrinsically variable ones,
+probably are not good candidates for Earth
+Analogues.
+As I also mentioned, a lot of the variables
+are more massive stars too, ones too short
+lived to have modern Earth-like worlds, but
+these are tiny fraction of stars anyway.
+The overwhelming super-majority of stars are
+less massive than our own Sun and much longer
+lived, and thus in terms of main-sequence
+brightening with age, would be even slower
+than our sun and give far longer for life
+to develop.
+However, these red and orange dwarfs that
+make up the vast majority of stars, M and
+K type stars, are basically all variable stars.
+Red Dwarfs are frequently covered in sunspots
+and can be dimmed by nearly half of normal
+for months at a time.
+Some months back we looked at colonizing red
+dwarfs and noted various ways they could have
+seasons, given that a planet close enough
+to them to have liquid water might orbit in
+mere days for the dimmest, and only a few
+months for the biggest and brightest.
+I didn’t mention it at the time as an option
+for seasons but it might well be periodic,
+and having your sun dim periodically by a
+decent fraction is one such option for seasons.
+For folks contemplating another Game-of-Thrones
+Westeros style world for a story or game,
+heavy sunspots is one more way to cause what
+we’d think of as atypical weather cycles.
+Of course it’s also a reason a civilization
+might get stuck in an iron age for thousands
+of years, unable to move into modern electronics
+because there were too many solar storms for
+many electronics to be used safely and well
+and catch on, but let's focus on the world’s
+climate instead.
+In and of itself, this is not necessarily
+too problematic for life, most red dwarfs
+don’t dim by that much that regularly, dimming
+by nearly a half, even if it did that would
+not necessarily be a dealbreaker on having
+a livable planet.
+As an example a 20% percent drop in light
+hitting a planet would generally result in
+a temperature about 5% colder in absolute
+terms, or of an earthlike world, somewhere
+between 15-20 Kelvin or Celsius drop, or 20-30
+degree Fahrenheit drop.
+Now mind you that’s the whole planet slowly
+cooling, not just a seasonal change, and planets
+are big things slow to heat and cool, so it's
+not hard to imagine a lifecycle and ecosystem
+able to handle such drops and adapt to them
+being rather random for months at a time.
+On the other hand, given that tidal locking
+is often thought to be fairly common on such
+worlds, it wouldn’t be too shocking if a
+given star, especially the smallest of dwarfs
+and closest of planets, actually had a solar
+cycle that was periodic to that orbital period
+of that close and massive satellite, tidal
+forces go both ways after all, even if a planet
+effects a star less than a star a planet,
+much like us and our own moon.
+So the dimming is problematic but not necessarily
+fatal, however dimming isn’t the whole of
+it for smaller stars, and much like our sun
+they have flares that often accompany those
+sunspots, and these can as much as double
+the output of the star.
+Also, while our own sun has a vast region
+of space to spit coronal mass ejections without
+them coming anywhere near Earth, the volume
+and cross section habitable planets of red
+dwarfs take up is much higher, a habitable
+planet around the dimmest of red dwarfs, being
+10,000 times dimmer than our Sun, would have
+10,000 times the proportional cross-section
+for intercepting things flying away from that
+star, getting hit or clipped by them far more
+often, and they would only have had a fraction
+of the distance and time to disperse upon
+leaving their Sun.
+So smaller suns are a lot more volatile and
+a lot more likely for that volatility to whack
+habitable planets around them more frequently
+and more potently.
+Indeed we often worry such worlds might not
+be able to maintain atmospheres at all, or
+lose them much easier and faster, which eliminates
+the big advantage of them as potential sources
+for advanced life, that such stars live far
+longer and allow more time for life to emerge
+and develop.
+On the one hand a conceivable variation of
+10% in brightness should be manageable for
+an ecology, after all a planet on a mildly
+elliptical orbit could experience that much,
+Earth at its closest and furthest varies in
+total brightness by about 7%.
+On the other hand we see what even a 0.1%
+fluctuation in solar luminosity over an 11
+year cycle can do, and in the wider timelines
+we tend to suspect there is a longer solar
+cycle or more than one even, many have been
+proposed in terms of ice ages.
+Other stars won’t have 11 year cycles, incidentally
+ours is the Sun’s north and south magnetic
+pole reversing, the sun has a very strong
+and wild magnetic field and is composed of
+ionized plasma, which is what is driving the
+eruptions, but we don’t know that this has
+always been an 11 year cycle and always will
+be, and it should be different for every star,
+based on its composition, age, spin rate and
+other factors.
+We are going to need much more detailed, long-term
+observations of our sun and nearby systems
+to better define the Drake Equation.
+Until then though, we need to consider the
+very real chance that planets like Earth might
+be rare for life to evolve on because stars
+as stable as our own Sun are much rarer than
+we think.
+I was mentioning today how stable our Sun
+is compared to many other stars but it’s
+still impossible to describe how explosive
+and volatile our Sun is, with the equivalent
+of millions of atomic bombs going off on its
+surface every moment, and there’s a great
+video examining this over on Curiositystream
+called “Our Violent Sun”, one of their
+many great astronomy and space episodes.
+That’s also a notion that comes up in science
+fiction a lot, with ships flying close to
+stars to lure enemies into being hit by solar
+eruptions or civilizations causing intentional
+flares as weapons, and we will be discussing
+the notion of using solar flares as a weapon
+in an extended edition of today’s episode
+over on Nebula, and for those watching on
+Nebula rather than Youtube you can see that
+extended version in place of our usual sponsor
+spot.
+Nebula is our rapidly-growing streaming service
+where you can see all of our episodes ad and
+sponsor free and a couple days early, as well
+as some bonus content like our extended editions
+or Nebula Exclusives like our Coexistence
+with Alien series.
+You can also see tons of content from many
+other amazing creators and help support this
+show while you’re at it.
+Now you can subscribe to Nebula all by itself
+but we have partnered up with CuriosityStream,
+the home of thousands of great educational
+videos, to offer Nebula for free as a bonus
+if you sign up for CuriosityStream using the
+link in our episode description.
+That lets you see content like “Our Violent
+Sun”,and watch all the other amazing content
+on Curiositystream, and also all the great
+content over on Nebula from myself and many
+others.
+And you can get all that for less than $15
+by using the link in the episode’s description.
+So that will wrap us up for today and we will
+close the Month out on Sunday May 30th when
+we will have our End of the Month Livestream
+Q&A at 4pm Eastern Time, hopefully from our
+new studio.
+Then we will head into June with a look at
+the concept of two alien races both evolving
+civilizations on the same world, and if they
+might share it in peace, then we will look
+at some Future Manhattan Projects, which might
+be handy for those who can’t share their
+world in peace, and will follow that up with
+a look at Death Rays.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us itunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

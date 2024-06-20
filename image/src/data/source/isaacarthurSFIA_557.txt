@@ -1,0 +1,691 @@
+Whether it’s wealth or influence or electricity,
+all the power in the world is worthless if
+you can’t access it where you need to.
+So today’s topic is portable power and energy,
+and we’re going to cover everything from
+the classic modern batteries up to peculiar
+stuff on the hazy edge of theory, like ultra-small
+black holes, antimatter, and bottled light.
+We’re not really that interested in batteries
+for today’s discussion though, nor are they
+our first portable energy source. In the past
+we’ve used flywheels or big containers of
+water, like tidal mills, to store energy but
+neither is very portable. Nor is firewood,
+one of our first ways of storing energy outside
+what we’d use in our bodies, though it’s
+actually more energy-dense than even the best
+modern batteries.
+Of course we’ve been storing food for longer,
+and doing so predates humanity as a lot of
+critters squirrelled food away. But we’ve
+been storing energy as triacylglycerols[a][b]
+in fat cells and as glycogen in liver and
+muscle cells and even proteins since long
+before life crawled out of the ocean.
+Batteries are technically devices for converting
+chemical energy into electrical energy, which
+is also reversible if the battery is rechargeable.
+Capacitors, on the other hand, store electrical
+energy directly as charge. There weren’t
+any batteries when Benjamin Franklin started
+looking at electricity, which he called liquid
+fire at the time, but those earliest devices,
+Leyden Jars, a basic form of capacitor, reminded
+him of a group of cannons, called a battery.
+I spent many years working in artillery and
+a friend once asked me if we called the guns
+and our company-sized unit a battery, and
+the wads of gunpowder we’d load into them
+a charge, as some reference to electric batteries
+and it’s actually the reverse. Battery and
+electric charge both derive from cannons and
+Franklin also coined conductor and positive
+and negative electric charge too, though those
+make more sense, even if some argue that positive
+and negative should be reversed.
+For today’s discussion, we’ll borrow the
+way Benjamin Franklin looked at a battery,
+basically anything you deliberately store
+energy in for future withdrawal, to save time,
+and because fundamentally we don’t actually
+care what type of energy is being stored or
+how, we just want to be able to store our
+energy for easy withdrawal and little loss
+during storage or difficulty moving it around
+and using it..
+But storing energy, storing food, storing
+money or information or anything else always
+has the same basic problems. It’s valuable
+and you want to put it somewhere safe where
+it is convenient to access or move around.
+But storage always has a cost.
+A battery is a lot like a grain silo, our
+first real dedicated energy storage structure
+except for maybe a woodshed. You need to take
+a lot of time and energy to build one, and
+to maintain it, and you need to guard that
+silo from rodents and weather and thieves,
+and even while the grain is safely stored
+it’s decaying, losing its food energy. Batteries
+are the same way only far worse. Energy units
+can get confusing, amp-hours aren’t exactly
+energy but basically that’s the term for
+it for batteries.
+It’s a little cumbersome like saying kilowatt-hours
+instead of 3.6 megajoules but it’s the standard,
+same as food still tends to be given in calories
+instead of kilojoules and lots of fuels are
+given in BTUs or essentially miles or kilometer
+per gallon or liter but fundamentally it’s
+still energy and all those terms can obfuscate
+how they all compare. Your typical 1.5 volt
+AA Alkaline battery is 2.4 amp-hours and weighs
+about 15-20 grams, meaning it is storing,
+when brand new, about 13,000 joules or a bit
+under a thousand joules per gram, and costs
+about a buck. A buck will also usually buy
+you about 10 kilowatt-hours of electricity,
+equal to 2800 AA batteries or about 40 kilograms
+of them.
+Of course, your wall socket isn’t portable
+and even a cord for nearby use is often quite
+a hassle. Considering those batteries are
+a few thousand times more expensive per unit
+of energy, not that much of a hassle. Thus
+bigger energy using devices either come with
+a plug or a small engine. Weight-wise, 40
+kilograms worth of AA batteries contain less
+energy than a single kilogram of gasoline,
+about a third of a gallon. Wood, fat, and
+carbohydrates, our more classic energy storage
+systems, all fall short of gasoline in energy
+density but not by that much, and store far
+more than an electric battery.
+Actually, about the only thing they match
+in energy density is the even older mechanical
+flywheel, that you spin up and tap for rotational
+energy, of which the bicycle wheel and car
+wheels are among the last common modern examples.
+Those also leak energy to air drag and friction
+even faster than the worst batteries and are
+anything but portable. They are large and
+bulky and actually very hard to walk around
+corners with due to conservation of angular
+momentum.
+We see more of a push to improve batteries
+nowadays mostly because we’ve already so
+improved small electronic devices to need
+less power that they can actually run on the
+fumes of the typical battery. But if you loaded
+a pair of AA’s into a microwave they’d
+power it about long enough to heat a glass
+of water.
+A modern smartphone battery has about the
+same amount of juice in it when fully charged,
+even laptops aren’t much more. These devices
+use little power so they can run off batteries.
+Our batteries have gotten better, especially
+rechargeable ones, but ultimately it’s the
+improved power efficiency that’s allowed
+us to have more and more devices that don’t
+have to be plugged in constantly to operate.
+Like I said earlier though, this is not an
+episode on batteries, it’s about having
+power where you need it, and we don’t care
+if that’s by a battery, a solar panel, a
+fuel tank and generator, or miles of power
+lines and local extension cords. I want to
+talk about a few of those methods before we
+launch into the high-tech options because
+they tie into the real fundamental issue,
+which is getting your energy where you need
+it, when you need it, for the least hassle
+and loss.
+As mentioned for energy storage we’ve got
+problems. You have to build and maintain that
+storage device, you’ve got losses filling
+it up, you’ve got losses while it stores
+it, and you have them when you make a withdrawal.
+To make it portable you also have to drag
+it around and batteries are very heavy, generally
+having only a small percentage of the energy
+an equal weight of the typical chemical fuel
+will have. Size matters too, not just weight,
+by making things cumbersome.
+For these non-battery approaches we’ve got
+problems too. With power cords you have the
+obvious problem, you need a cord and I don’t
+need to elaborate on the hassles involved
+there as we know them all too well. They also
+require a big generator somewhere making the
+energy and countless kilometers of power lines
+that require space, right of way, heavy initial
+investment, continuing maintenance, and also
+bleed off precious energy due to the wires
+not being superconductors.
+I want to spend a little time explaining why
+the losses in power storage and delivery are
+an important consideration. For an electrical
+cable, loss is proportional to the amount
+of current passing through a given length
+of conductor, and this was a major headache
+for the likes of Thomas Edison around the
+1900s. The thicker the cable, the more efficiently
+it carries a given amount of current. Edison
+found that to get power at 110 volts DC to
+nearby homes and businesses required very
+thick, heavy and expensive power cables and,
+even so, the losses to get power from a power
+station just a couple of miles away to a house
+were staggering.
+Another famous man discovered something that
+revolutionized the way that we transport power.
+His stroke of genius was to use alternating
+current, or AC power, as opposed to direct
+current, or DC power, that Edison used. I
+am, of course, talking about Nikola Tesla
+here. What makes AC so brilliant is that you
+can easily transform it.
+Now, electrical power is the wattage that
+the electricity can deliver and it is volts
+times amps, for single phase systems anyway.
+If we put that power through a transformer,
+we can play with the ratios of the volts and
+the amps. So, if we increase the voltage to
+thousands or even hundreds of thousands of
+volts, we can decrease the current proportionally.
+This means we don’t need to have thick cables
+to carry the power on. This is the reason
+that typical energy grid power lines run at
+anything from a couple of hundred thousand
+volts to some that run close to a million
+volts. It means we can get power hundreds
+or even thousands of kilometers without huge
+losses and using relatively small cables.
+However, large voltages have their problems
+too as the electricity can jump between conductors
+and if you get zapped by a high voltage, one
+carrying even a moderately small current,
+it will electrocute you. We are trading off
+one type of problem for another.
+Ideally you want wires with little to no resistance
+but even if you could use superconductors,
+those need coolant that has to be made and
+replaced and the amount of current that can
+be carried by a given conductor size is also
+limited as the conductor loses its superconductivity
+if too much current flows through it. Should
+we ever get a warm temperature superconductor,
+the coolant problem goes away, but the other
+problems remain.
+That is an example of how one tech can cause
+damage to the development of others though,
+and we see that a lot with energy. Some new
+improvement to some type of energy technology
+makes it better and the other worse, relatively
+speaking, so R&D drops off to those areas
+and slows improvement. We actually had solar
+power long before cars were common and most
+houses had electricity, but research in improving
+that died off, and indeed probably would have
+stayed dead if we hadn’t invented semiconductors
+and improved them for their value in computing.
+We’ve been using wood and other biofuels
+a long time too, and had wood powered vehicles,
+but seen very little improvement in those
+because gas and diesel were better. Ditto,
+even solar and wind have probably hampered
+improvements in safer & cheaper atomic energy
+because they tend to be viewed as more ecologically
+attractive alternative energy sources, which
+is very debatable. Economics and perception
+matter a lot in this field though.
+So batteries and land line power we know well
+enough. How about a local generator? Of course
+we do that too. Lots of yard tools have their
+own gasoline engines, but these need to be
+fairly large, require additional maintenance,
+have reliability issues, acquiring and storing
+fuel, and also tend to be loud. We can’t
+really do wind power for smaller objects either,
+as while it’s great for windmills, it -, like
+the flywheel - is quite cumbersome and large,
+and not something you can easily make smaller.
+If the wind dies off, or if your windmill
+is in a blocked or sheltered location, you
+get no power; meaning you need a battery or
+flywheel in it or would need to blow on it.
+Solar isn’t terribly energy dense either,
+200 watts is a very good output rate for a
+square meter of solar panel under full sun,
+but you won’t usually get that and obviously
+not inside a building or at night. Even if
+you did though, it couldn’t power a car.
+A horsepower, our unit of power for cars,
+is 746 watts, and you’d barely get just
+one if you coated the whole surface of a car
+in solar panels. It generally take tens of
+thousands of watts just to maintain cruising
+speed of an automobile on a highway. Still,
+solar is a very attractive option, in conjunction
+with batteries, for powering smaller devices.
+Atomic power sources are also pretty tempting.
+Now, you can’t stuff a thorium reactor into
+a car, but you can use Radioisotope Thermoelectric
+Generators, RTGs, as a power source. Such
+things are phenomenally energy dense, on an
+order of a million times that of any chemical
+fuel and a billion times better than most
+batteries, though it drops off quite a lot
+as you add in shielding from radiation, and
+factor in the incredibly low efficiency of
+thermocouples, which have never broken 10%
+and generally do about half that. But these
+are incredibly durable objects lacking moving
+parts, that just put out a constant supply
+of power and metamaterials hold promise to
+improve the efficiency of the thermocouples
+in the foreseeable future.
+Most RTGs are pretty heavy affairs, able to
+turn out hundreds of watts for decades off
+only a few kilograms of fuel, and a good deal
+more of shielding. But we actually have something
+called a betavoltaic battery that can be quite
+small. The name comes from them running on
+beta radiation, which is electrons or positrons,
+and beta radiation can be stopped by virtually
+anything, including a thin piece of tin foil
+or your own top layer of dead skin.
+So you can take a quick beta-decay isotope
+like Strontium-90, half-life of 29 years,
+and have a power source that creates a steady
+supply of energy for decades. Indeed we used
+these in older pacemakers and use tritium
+based ones in a lot of tiny low-power, long
+term devices. Two key caveats there though,
+first, the power supply is not actually constant,
+it slowly decreases over time and at the half-life
+of the isotope will be down to half-wattage
+so a 20 watt Strontium-90 betavoltaic battery
+would be down to 10 watts in 29 years and
+5 watts in 58 years. Second, it is a steady
+power supply. You can’t stop it, it just
+keeps going and going and going at that wattage.
+Meaning unless your device needs a constant
+power supply of X amount, all the rest of
+that energy is being wasted, and if you need
+more than X power sometime, you will need
+a battery attached too.
+A new type of betavoltaic device that shows
+a lot of promise is the diamond battery. This
+device takes advantage of Carbon-14, a radioisotope
+made in our own atmosphere by cosmic rays,
+or in graphite in fission reactors, and of
+course diamonds are made of carbon. The outer,
+non-radioactive Carbon-12 slows the electrons
+being emitted by the inner, mildly radioactive
+Carbon-14. This is a very low power device,
+just 3 watts, and isn’t the most energy
+dense, but it does allow for a more than 6000
+year lifetime before reaching half power,
+making it attractive for space missions and
+other remote or difficult to reach applications.
+These kinds of isotopes are expensive too.
+That’s the real limit on RTGs, not them
+being dangerous. An atomic power plant uses
+a reaction that causes fission, RTG’s and
+the like rely on natural decay. Needless to
+say, things with half-lives of less than many
+millions of years are not found much in nature
+because they don’t live long after the event
+that made them, which for many was some giant
+supernova billions of years ago.
+And tritium, the most popular to use, costs
+about 30 thousand dollars per gram, hundreds
+of times more than gold or platinum, though
+it produces about a watt of power and has
+a half-life of 12 years. Still insane though
+that sounds, you could power quite a few devices
+off that much juice, especially with an attached
+battery to handle peak use, and its cost comes
+from production, you need a fission reactor
+to make it, so there are scenarios where that
+could become much more plentiful in the future.
+Ignoring that cost, you could easily have
+a 10-watt tritium ‘battery’ that with
+shielding and thermocouple loss included weighed
+no more than a typical smartphone battery
+and lasted decades, or you could have, say,
+3 or 4 smaller ones where you just staggered
+the usage and pulled one for replacement every
+5 or 6 years with no radiation concerns.
+Another option is to not use radioactive decay
+as your power source, but to use micro fission
+reactors. The smallest thermal nuclear reactor
+ever designed is only 4.6 kg, including all
+shielding. Less than half a kg of Americium-232,
+the most easily fissioned fissile fuel known
+that can sustain a chain reaction, it is dissolved
+in nitric acid, then this is mixed with water,
+and placed in a sphere 9.6 cm across that
+serves as a neutron reflector and radiation
+shield. While this is only produces a few
+hundred watts, the fission reaction can be
+throttled to meet energy demands, and it is
+able to be refueled or replaced.
+This is the smallest you can go for a reasonably
+traditional reactor, but there are experiments
+being conducted into other quirks of neutronics
+that may make it possible to go even smaller.
+Two related concepts have been bounced around
+for a number of years, ultra-cold neutrons
+and tetraneutrons. Briefly, ultracold neutrons
+move very slowly and are thus more likely
+to be captured and cause a fission event,
+and tetraneutrons are bundle of neutrons that
+are also more likely to be captured and cause
+fission. If we can advance this technology
+we may be able to produce smaller, safer reactors
+that can actually be throttled quickly to
+allow you to produce power only in the amount
+you want when you want it.
+We also have energy beaming and wireless energy,
+and like the others these are not new concepts
+but are seeing more interest these days. Energy
+beaming is more of a space-based application,
+where instead of a wire, you beam light or
+microwaves to something like a spaceship or
+satellite. We’ve discussed that here on
+SFIA a lot so we’ll skip it today. It’s
+not very ideal for terrestrial applications.
+Wireless power, though, is seeing more use,
+due in part to the quantum uncertainty of
+power plugs and USB ports, which are always
+backwards from whichever direction of the
+plug you are attempting to insert, particularly
+if said connector is in an awkward place to
+reach or see. Wireless power has its pros
+and cons too. Range is quite an issue, which
+is why most devices using it now require them
+to be practically physically touching to work,
+meaning it’s basically just an easy plug.
+But those are improving, and I wouldn’t
+be surprised if that became common enough
+in homes in a decade or two that ‘wireless’
+started meaning power supply for devices rather
+than an internet connection.
+This is a good place to jump in to higher-tech
+stuff. Even if we had a teleporter, like we
+discussed two weeks back, we can’t just
+freely refuel things or move power, at least
+not under the methods that look like they
+might be allowed under known physics. But
+that is also one potential option, as is quantum
+energy teleportation. I generally tend to
+expect these to be impossible, or at least
+impractical, but we can’t rule it out yet.
+Like energy beaming though, it potentially
+lets you move energy over huge distances and
+not have to carry it with you like fuel. And
+considering the big issue with such things
+is scaling it up past the atomic scale, micro-sizing
+it for portable electronics is presumably
+not the issue, rather the reverse, getting
+it even that big.
+We were also talking about atomic batteries
+as a great option, and they absolutely are
+if you can find a way to produce those low-half-life
+beta-decaying isotopes cheaper, and that derives
+from them being atomic rather than chemical,
+millions of times more energy dense. . Another
+way to harvest energy from decay would be
+to develop gammavoltaic systems. These are
+basically a lot like solar panels, but working
+in a MUCH higher frequency than visible light.
+Because of the way traditional Photovoltaics
+works, the wavelength of the light and the
+size of the components actually converting
+the light into electricity are linked, so
+traditional silicon wouldn’t cut it, even
+if the radiation wouldn’t overwhelm the
+thing first. The two most promising options
+here are perovskites, which are already being
+used in the newest generation of solar panels,
+and biogammavoltaics, which are really interesting.
+Biogammavoltaics come from certain radiotrophic,
+or radiation eating, fungi that have been
+studied fairly extensively in Russia. One
+of the most promising is a fungus that lives
+in the same room as the Elephant’s Foot,
+or the melted down corium from the Chernobyl
+meltdown. These fungi contain a LOT of melanin,
+with basically just enough room to squeeze
+in the rest of the things that they need to
+live, and this melanin converts the gamma
+radiation into biochemical energy. Since most
+radioisotopes also produce gamma radiation,
+being able to use this to harvest power would
+truly be a game changer, not just for RTGs,
+but for antimatter devices as well.
+Antimatter lets us get even denser than atomic
+energy. Under Einstein’s famous E=mc²,
+a single gram of matter contains about 100
+trillion joules of energy, as we mentioned
+earlier you only get maybe a thousand joules
+out of an equal mass of batteries and at most
+a hundred times more than that out of a gram
+of chemical fuel, so raw matter to energy
+conversion batteries are around a billion
+times more energy dense than chemical fuels
+and a hundred billion times as dense as modern
+batteries.
+Now that would be the penultimate energy supply,
+just short of being able to yank power out
+of nothing. And we have two approaches that
+let us more or less do this. The first is
+antimatter, which is technically twice as
+good since it will render itself and an equal
+amount of regular matter into energy. It’s
+more properly thought of as a battery too
+because there’s no real source of naturally
+occurring antimatter in any significant quantity,
+you have to make it. And right now not only
+can we not store it, but we need to spend
+millions of times more energy to make a bit
+of anti-matter than it would release. Like
+being able to cheaply mass produce radioisotopes,
+if we could ever mass-produce antimatter and
+safely store it, it would be an amazing power
+storage medium. Not only is it even more energy
+dense than fissionable materials and radioisotopes
+- indeed it even outstrips fusion - but you
+can throttle your power output. An RTG produces
+a set power supply, constantly, whether you
+need it or not and you can’t squeeze any
+extra out.
+Antimatter is more like a fuel, you only burn
+it when you want to at the rate you want to.
+Since it has otherwise identical properties
+to normal matter, long term storage without
+decay isn’t really an issue, though considering
+touching any matter makes it explode, even
+short term storage is an issue. But a big
+ball of antihydrogen or anti-iron left to
+itself isn’t decaying and can just sit there
+indefinitely awaiting use without loss to
+time and decay.
+You can also potentially use antimatter to
+catalyze fusion. We generally think of a fusion
+power source needing to be very large. But
+you might be able to make a very small one
+that ran on a little antimatter and much more
+common and mundane fusion fuel instead. Which
+is nice unless you have very cheap antimatter
+production, more so since the assumption is
+the process will always require at least as
+much energy be put in as you get out, whereas
+you might get a net positive output using
+it to catalyze fusion.
+Our other approach for raw matter to energy
+conversion is black holes. Now needless to
+say these are not normally portable, but as
+we discussed way, way back in micro-blackholes,
+you can potentially make very tiny ones by
+jamming a lot of energy into one place at
+once, usually by targeting a tiny spot with
+a huge array of lasers, energy has gravity
+too, not just mass, and lasers are the only
+type of non-mass energy we usually can get
+anywhere that dense. This is called a kugelblitz
+black hole, and according to current theory
+they decay and release energy via Hawking
+Radiation at a speed roughly inverse to the
+cube of their mass. Making one ten times lighter
+means it lives only tenth-cubed or one thousandth
+the time. It will also produce ten-squared
+or one hundred times the power. We’ve talked
+about moving starships with ones weighing
+hundreds of thousands of tons, or fueling
+whole civilizations with far more massive
+but lower-powered versions that will keep
+going for eons.
+However you could potentially make very tiny
+but ridiculously high powered ones too. Ones
+that shine nearly as bright as a star for
+just a few seconds. This, needless to say,
+is pretty darn useless for most applications,
+as would be some billion ton black hole producing
+only a few thousand watts even if it did so
+steadily for a trillion years.
+But the solution comes with the problem. We
+regard these as batteries because it’s virtually
+impossible to feed new matter into such a
+black hole, so they run out. This sounds counterintuitive,
+since normally feeding a black hole is very
+easy, eating stuff is what they are best known
+for. But these tiny black holes are even tinier
+than an atomic nucleus and so it’s hard
+to get fuel into them while they are gushing
+out so much energy, it will push away the
+stuff you are trying to get in.
+It’s kind of like trying to jam a beach
+ball into a hole in the wall the size of a
+dime while someone is spraying a pressure
+washer through the other side. So if you can
+feed one, you have a power generator rather
+than a battery; but trying to do so is nigh
+impossible. They also - like our RTGs - produce
+a set amount of power constantly, not on demand.
+Though unlike them, that power rises as the
+black hole shrinks, instead of diminishing
+as the radioisotopes decay.
+Now last week we were talking about metamaterials
+and possible perfect mirrors and better lenses,
+so let’s imagine for the moment we had a
+truly perfect mirror around such a super-tiny
+black hole. Everything keeps reflecting around
+and going back in eventually. Now you have
+an ideal battery, and you can use even a very
+low-mass black hole for this, and just let
+some energy leak out in the amount you need.
+This is much easier said than done. For one
+thing, the energy released this way is going
+to be mostly gamma radiation; which we not
+only don’t have any perfect mirrors for,
+but honestly any mirrors at all. But it may
+be possible. Still fairly dangerous though
+since the lighter ones are so short-lived
+that if it started leaking, it would basically
+explode.
+So feedable blackholes, or mirror contained
+ones, at the larger scale are possibly on
+the table but one light enough to carry around
+in your pocket probably are not.
+That said, if you’ve got perfect mirrors
+you maybe don’t need a black hole for power
+storage. Instead of making a kugelblitz black
+hole by shooting tons of lasers at one atom-sized
+spot, you shoot them all into a box with perfect
+mirror sides and close it up. All that light
+bounces around until you release it. This
+is definitely physically possible, even now,
+it’s just miniaturizing it that’s hard
+because light moves very fast and mirrors
+aren’t perfect, though we’ve made some
+that are perfect for a single wavelength.
+Every bounce on an imperfect mirror loses
+some energy, so if you had a mirror box billions
+of kilometers long you aren’t getting many
+bounces and loss.
+Micro-sizing that to a useful size means your
+mirrors need to be perfect. at least for that
+wavelength of stored light. The energy density
+is the same as matter, stick a hundred trillion
+joules of photons in a box and it will weigh
+one gram more. This basically ties with anti-matter
+as your penultimate battery, and depending
+on how mirror technology goes, might be the
+most plausible approach. Indeed it might not
+be all that far off either, again we’ve
+made perfect mirrors for individual wavelengths.
+Can we do even better? Well nothing beats
+entirely free energy produced wherever you
+want it in the amount you want it, and while
+we have no theory for that, vacuum energy
+potentially offers something pretty close.
+There’s an awful lot of energy sitting around
+in the seeming emptiness of the true void,
+and being able to tap that or dark energy
+or even reaching into other universes to snatch
+some are things we can’t rule out for the
+future, but sadly we also can’t discuss
+them much as we don’t have anything approaching
+a solid understanding of any of those yet.
+This is something that Iain Banks described
+in his Culture novels with his Gridfire weapon,
+and this weapon truly dwarfs any other type
+of weapon that we could possibly obtain in
+this universe.
+That would however, be the ultimate game changer,
+vast amounts of energy available to you wherever
+you go when you want it that you didn’t
+even have to lug around, the ultimate in portable
+power.
+All right, we’ll wrap up there for the day.
+One quick announcement before we get into
+the upcoming episodes, folks have been asking
+me to make some channel merchandise for a
+long while now and we’ve finally gotten
+around to starting that up. The big request
+was for T-shirts and coffee mugs and I was
+delaying a bit in large part because I wanted
+to make sure it wasn’t junk that would melt
+in folks’ dishwashers, once we found a good
+company, Signil, we were ready to proceed.
+We’ll add to the available options as time
+and interest permit, but those are now available
+at Signil.com and will be linked below in
+the video description.
+Next week we will be looking at how humans
+and life in general need to adapt to live
+in the empty expanse of space, and probably
+not surprisingly our SFIA Book of the Month
+is Leviathan Wakes, the first book of The
+Expanse series, whose TV adaptation has its
+third season premiering next week too. The
+week after that we will go the opposite direction,
+and talk about making habitats in space tailored
+to humans, with a detailed look at the O’Neill
+Cylinder, the largest rotating habitat you
+can make from materials we can currently cheaply
+mass produce, and probably the first megastructure
+you would build in space.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others, or donate
+to support future episodes at our website,
+IsaacArthur.net, or Patreon, or of course
+you can buy some channel merchandise.
+Until next time, thanks for watching, and have a great week!

@@ -1,0 +1,763 @@
+This episode is brought to you by Brilliant.
+Humanity has many ambitions to reach upward
+to the stars, but those ambitions are only
+as strong as the materials those foundations
+are built on.
+So today, we’ll be looking at what advances
+in materials we may see in the next generation
+or century, though, we will also leap distantly
+into the future near the end to discuss the
+near-magic materials we hope future science
+might give us a path to, materials so strong
+they make steel seem like warm butter.
+Now we often do deep dives on certain topics
+here on Science & Futurism with Isaac Arthur,
+like we did with our focused look at Graphene
+last year, or Metamaterials a few years back.
+However, today’s topic is a bit broader,
+and so we will be touching on many different
+topics and many different applications.
+We’ll be looking at objects that emit smells
+or light when exposed to air, advances in
+aerogels, smart materials, self-repairing
+ones, programmable matter, zero-g materials,
+new uses for liquid crystals, two-dimensional
+materials like graphene, but less-known, plus
+many more.
+Some of them, like Graphene, probably do deserve
+their own episodes, and so we’ll follow
+this episode with a poll over on the Channel’s
+Community page to pick one of these topics,
+so it will get its own dedicated episode in
+a few months.
+In the meantime, though, we’ve got a lot
+to cover in a single episode, so grab a drink
+and a snack.
+There is a tendency to think of super-materials
+in terms of those which are super-strong,
+that you can hang a building from a string
+of, or which could survive a tank battalion
+firing volleys of shells into it.
+Things you could make Captain America’s
+Shield or Wolverine’s Claws out of.
+And yet there are a lot of other equally valuable
+traits a material might have, and I thought
+we’d start by cataloging a few of those,
+and what the current reigning champion is,
+very quickly.
+For strongest or toughest materials, those
+can vary whether we’re talking about how
+much weight it can hold, versus how much can
+press down on it, tensile strength versus
+compressive strength, and indeed even that
+can vary on the situation a lot, since one
+metal might be much weaker at a change in
+temperature or pressure.
+Bulk Modulus, the ability of a material to
+resist being compressed, as opposed to strained
+or sheared, is generally thought to be all
+about the electrons around that atom, and
+results in a graph that oscillates up and
+down and back up again as you move through
+the periodic table.
+Major peaks occur at Carbon – particularly
+its allotrope diamond – and Ruthenium and
+Osmium, with some lesser peaks including Silicon
+and Uranium.
+Osmium’s is the highest but this is a very
+rare substance, also the densest known element
+and it’s dual champion status as strongest
+and densest is not coincidental.
+We do not expect any alloy would be stronger
+in terms of Bulk Modulus, so Osmium will probably
+keep that champion status unless some transuranic
+element can be found that is stronger and
+has a half-life long enough to be worth building
+out of.
+This is one interest in the often discussed
+Island of Stability, a hypothetical region
+of the periodic table usually thought to be
+around 140 where materials would have long
+half-lives, or so some believe, we haven’t
+made any yet.
+Of course, even those transuranic elements
+we have discovered are so small in quantity
+– since we have to make them an atom at
+a time – that their properties are poorly
+known.
+We can now begin to test things like compressive
+strength of just a handful of atoms with lasers,
+and that also raises an interesting use of
+lasers for creating unique materials we’ll
+discuss later.
+Also while alloys might not be stronger in
+this regard, allotropes of a given substance
+would vary in strength, like Graphene and
+Diamond both do as allotropes of carbon.
+So we may find some unknown allotropes of
+materials that do better than regular Osmium
+does, but we would not expect a big jump,
+if any.
+For strongest tensile strength, this title
+also remains with a long running champ, Graphene,
+though it is but one of many quasi-two-dimensional
+materials, many with interesting properties
+and some better than graphene in one role
+or another, and we’ll discuss those more
+today too.
+Incidentally while the densest material is
+Osmium, the least dense solid is Aerographene,
+a type of Aerogel made of graphene, it is
+less dense than actual air.
+Aerogels are surprisingly strong materials
+that are feather light, and whose main use
+is as a thermal insulator as they can hold
+a lot of weight and pressure but barely transmit
+heat.
+This means they can potentially replace vacuum
+flasks, though their main uses are insulation
+for specialized markets, like pipeline insulation,
+paint thickeners, battery heat insulators,
+and so on.
+Right now it costs around 50,000 dollars a
+kilogram - though this is only a dollar a
+cubic centimeter given how light it is, hence
+why it's economically viable for keeping your
+laptop battery from heating up your laptop.
+As costs drop, as they probably will, expect
+to see it in many more residential applications,
+potentially including your coffee mug and
+cookware.
+Additionally Aerographene has shown itself
+to work very well for 3D printing, which opens
+all sorts of new doors.
+Aerogel’s lightness makes it unsurpassed
+as a sturdy light-weight heat insulating material,
+but in terms of how hot it can go, we have
+a new champion.
+Tungsten was the long running leader for highest
+melting temperature of any metal, at nearly
+6200 Fahrenheit or 3400 Celsius, though it
+usually gets mixed with Rhenium – whose
+melting point isn’t much lower – to create
+an alloy with a higher strength and corrosion
+resistance when used as a refractory material,
+and it's often alloyed with nickel, iron,
+copper, or even thorium to produce high-temperature
+sturdy materials with other necessary properties
+like electric conductivity.
+However the new champion for highest melting
+point of a metal is an alloy of hafnium, with
+Tantalum and carbon, at 7460 Fahrenheit or
+4126 Celsius, vastly higher than Tungsten.
+We’ve also had good results with Hafnium
+alloyed with Nickel and Carbon.
+I should probably note that carbon actually
+has a slightly higher melting point than Tungsten
+does as an element but not as a metal, and
+still far short of this Hafnium-Tantalum-Carbon
+alloy.
+On the low end, the element with the lowest
+melting point is still Helium, at just about
+absolute zero, 4.2 Kelvin, or -458 Fahrenheit
+or -272 Celsius.
+You mostly won’t find helium in its solid
+form outside a lab as even the Cosmic Microwave
+background radiation that permeates all the
+Universe is at 2.7 Kelvin and the coldest
+known place in the Universe is the Boomerang
+Nebula, about 5000 light years away, and it
+is at 4 Kelvin.
+The hottest place in the Universe is quite
+debatable - but barring the Big Bang, the
+invisible hearts of black holes, supernovae,
+or laboratory supercolliders - it would go
+to neutron stars, and with those aforementioned
+exceptions they’d also be the densest things
+in the Universe, far beyond Osmium, and is
+where the term Neutronium comes from, a popular
+superstrong material in science fiction.
+It probably wouldn’t be strong in reality
+as degenerate neutron matter is not so much
+‘strong’ as gravity is, binding all that
+matter together at crushing pressure, the
+neutrons are all that’s strong enough to
+resist being crushed by gravity at that strength.
+Ironically gravity is the weakest force, and
+one portion of one of those other forces,
+the magnetic fields of the electromagnetic
+force, is very hard to shield materials against.
+Any ferromagnetic material can help shield
+against magnetic fields but not very well,
+and for a long time the leader in this regard
+was mu-metal, which is a bit of blanket term
+for various nickel-iron ferromagnetic alloys
+with a high permeability, the symbol for which
+is mu, the Greek Letter that looks like a
+lower-case u and where the name mu metal derives
+from.
+However some year back experiments with metamaterials
+started showing us options like dielectric
+singularities and magnetic wormholes and while
+mu metal remains the reigning champion, it
+seems almost certain that title will next
+be given to some sort of metamaterial, it’s
+just a question of when.
+I should note that any sort of material that
+can block or dampen any of the forces is very
+handy.
+As an example, while current physics doesn’t
+really allow for a gravity-blocking paint
+of material such as we see in some early scifi
+like Cavorite in H.G. Wells’s The First
+Men in the Moon, something able to block,
+reflect, or focus gravity waves or gravitons
+would be of incredible value, and same for
+anything able to interact strongly with neutrinos
+or dark matter.
+See our Dark Matter Technologies episode for
+some more discussions of those sorts of far-future
+options.
+Things which can reflect, absorb, or transmit
+other particles or forces are always of interest
+to us in material science, whether we’re
+talking about something photons can pass through
+but is sturdy, as clear as glass but tougher
+than steel, or something which moves smoothly
+through other things, like a friction-less
+material better than Teflon, or superior to
+oils in viscosity.
+For clear options, the Transparent Aluminum
+famous from Star Trek has in many ways long
+since been bested, but it's hard to call a
+winner because some options are strong and
+clear but not super clear, others handle shock
+well, making them good for collision resistance
+but not good for ultraviolet wear and tear,
+and so on.
+Diamond probably remains the all around favorite
+if we can upscale production – making diamond
+is quite easy in many ways but it's still
+not something we can do in bulk to start making
+windows.
+Polycarbonate remains the cheap and tough
+champ, while clay nanosheets mimicking the
+brick-and-mortar molecular structure of seashells
+continue to gain ground in that and many other
+applications.
+We do actually have literal Transparent Aluminum
+– Aluminum Oxynitride or ALON is a transparent
+ceramic made of Aluminum, Oxygen, and Nitrogen,
+and it is quite sturdy compared to glass,
+coming in around the hardness of sapphire
+and spinel.
+It’s also already commercially available
+for windows and domes, well ahead of its use
+in the 23rd century of Star Trek, much like
+the flip phone communicator.
+Communicators and Computers advanced far more
+rapidly than Star Trek expected but Moore’s
+Law of Transistors and ever better computers
+halving in size or doubling in power every
+couple years does seem to be done.
+That said, progress continues if slower, and
+we are seeing commercial production of chips
+with transistors in the single digits of nanometers,
+with experimental chips down to about 2 nanometer
+transistors.
+Silicon crystals generally are just over half
+a nanometer across, with nearest neighbors
+at about a quarter of nanometer, so it's hard
+to imagine this getting much smaller.
+Other crystals aren’t really much smaller
+either – for instance the hexagonally-spaced
+carbon atoms in graphene are .142 nanometers
+apart.
+Graphene also offers a pathway toward mechanical
+computing, where we replace the electric switch
+of a transistor with a super-tiny mechanical
+switch.
+None of these seem to offer paths to much
+smaller computer chips but that isn’t necessarily
+a big deal.
+Our best supercomputers are building-sized
+still and run on a megawatt of power, while
+being parallel in processing power to a human
+brain, which is vastly smaller and runs on
+about 10 watts.
+Our chips are 2-dimensional powerhogs, so
+switching into more power and heat efficient
+methods, and ones more 3D, is likely to be
+the pathway to faster computers that seem
+small.
+Existing chips are already using transistors
+vastly smaller than a human neuron after all.
+In terms of smallest conventional transistor,
+we are limited by the size of crystals, and
+spacing between atoms.
+A chemist would know better, but if I had
+to guess, metallic hydrogen would probably
+be the default densest crystal in terms of
+atoms per volume.
+Not in terms of mass per volume mind you,
+that would go to Osmium or far denser degenerate
+matter states, indeed metallic hydrogen’s
+density is just a bit higher than water, more
+than a dozen times less dense than Gold, Osmium,
+Platinum, Uranium and other dense metals.
+But hydrogen is the lightest atom, containing
+a single proton and electron, so both Solid
+hydrogen – which is just a bit less dense
+than water – and Metallic hydrogen have
+very tight spacing, around an angstrom, or
+tenth of a nanometer.
+I’m not sure how you’d make a semiconductor
+out of these, maybe by doping with some other
+small nuclei or even deuterium or tritium,
+but you’d have to do it at ultra-cold temperatures,
+which admittedly is awesome for computing
+anyway, but not handy for pocket computers,
+maybe ones wrapped in aerogel to keep them
+cold.
+Incidentally the current record for coldest
+temperature was set earlier this year by physicists
+in Germany, on a quantum gas, which they dropped
+to 38 trillionths of a Kelvin.
+For folks familiar with the Landauer Limit
+of temperature and computing that we so often
+discuss in our Civilizations at the End of
+Time series, that insanely cold new record
+would permit computer processing or digital
+intelligence 8 trillion times more efficient
+than room temperature.
+Getting back to Metallic Hydrogen for a quick
+moment, this material still seems to hold
+the potential as the most power-dense chemical
+fuel for rockets or engines in general, and
+the ability to mass manufacture and store
+it would be incredible for both rockets and
+more mundane purposes.
+We would have to make it though, mining it
+from Jupiter’s Core wouldn’t seem viable.
+See our episode Reusable Rockets and Metallic
+Hydrogen for more on that.
+Before we leave materials at ultra-cold temperatures,
+I should mention that Superconductors have
+left those temperatures themselves.
+And we do finally have a room temperature
+superconductor, or close enough, operating
+at 15 celsius or 59 fahrenheit.
+It is also made of the utterly mundane materials
+of hydrogen, carbon, and sulfur, so not a
+cost issue to produce.
+Unfortunately it doesn’t superconduct until
+it reaches pressures you’d expect to find
+in Jupiter’s core, not on Earth’s surface,
+with the temperature it could superconduct
+at, rising with pressure until reaching 15
+Celsius at 267 Gigapascals, over a couple
+million standard atmospheres.
+On the other hand we might be able to pull
+off pressures like that inside one of our
+superstrong tube materials like carbon nanotubes,
+the rolled cylinder form of graphene, and
+a lot of 2D materials are emerging, many of
+which have fascinating electrical properties,
+like Stanene, which might turn out to be a
+room temperature superconductor, though has
+been hard to make, and it is like Graphene
+only made of Tin not carbon.
+Last I checked, Graphene was the most conductive
+material at room temperature and regular pressure,
+and silver keeps the role of highest conductivity
+of a mundane metal at standard pressure and
+temperature.
+Incidentally we shouldn’t rule out materials
+that not only need high-pressure to create
+but maintain, as we’ve gotten very good
+with using lasers to create tiny spots of
+ultra-high pressure.
+The University I went grad school at was very
+big on Liquid Crystals – these are crystals
+that act as a liquid but have non-symmetric
+shapes that can line up when temperature changes
+or electric fields are imposed, and thus can
+have varying optical properties – giving
+them great value when utilised in TVs and
+computer monitors, and it occurs to me that
+you might have substances that do the same
+for specific wavelengths of light – changing
+some property or another, not just optical
+but hardness or viscosity or permeability
+– and millions of tiny lasers might let
+you pixelate that at the small scale.
+Not a current tech or prediction, just throwing
+that one out there, materials that responded
+by changing properties under the wavelength
+or radiant pressure of a laser beam..
+Speaking of viscosity, Superfluid Helium still
+holds the record for lowest viscosity of any
+liquid, being zero, as superfluids are the
+viscosity equivalent of superconductors and
+generally need even lower temperatures.
+This has that creepy effect of making thin
+films of Superfluid climb up and out of beakers,
+which is only possible by that utter lack
+of viscosity.
+Needless to say any superfluid that could
+exist at Room temperature or engine temperatures
+would have some amazing uses and in roles
+besides lubrication.
+The solid material with the lowest friction,
+slippier even than Teflon, is BAM, a mix of
+Boron, Aluminum, and Magnesium that not only
+has just 40% of the frictional coefficient
+of Teflon, but is very nearly as hard as diamond.
+Needless to say, an ultra-hard material more
+slippery than ice is probably not a good option
+for ice skating rinks, especially for skaters
+like myself who tend to slip and fall on our
+backsides a lot, but might be an easier option
+for summer time rinks, and obviously has tons
+of other less athletic uses, like engine pistons.
+That’s a non-exhaustive list of a lot of
+material properties and their current advances
+and record-holders, and I thought we were
+talking a lot about things made at ultra-high
+pressures, so I thought we would flip around
+to looking at materials made in a vacuum or
+made in zero-gravity for a moment.
+When it comes to space, our interests these
+days are mostly in what ultra-lightweight
+material can handle radiation damage and the
+general corrosive effects of space dust and
+unfiltered sunlight, and improvements in those
+materials offers us a path to better space
+ships and space stations, but space stations
+may be the place we do a lot of manufacturing
+in the future.
+We discussed a lot of these in our episode
+Kickstarting Space Industry, but one I’d
+point to for today, as we were discussing
+ever-smaller semiconductors, is that you can
+grow semiconductors with far fewer defects,
+in microgravity.
+It is very hard to make atomic scale patterns
+of elements to allow supersmall semiconductors
+because almost anything can throw-off clean
+defect-free formation, and gravity is no friend
+to this process.
+So space offers us much cheaper and better
+crystals, and semiconductors are just one
+such example.
+Cost-wise, transistors and computer chips
+are already much more valuable than their
+weight in gold.
+So the time and fuel spent running them up
+and down from orbit isn’t as prohibitive
+as it would be for other current purposes.
+Interestingly there are materials that will
+be handy for space we might not tend to expect,
+like a material that fluoresces or one that
+gets smelly when cracks emerge in them to
+indicate weaknesses in that material, for
+in a spaceship hull or helmet.
+Much like we put artificial scents in fuel
+gases to make people notice leaks, films of
+undercoating on materials that when exposed
+to oxygen or light grabbed our attention through
+glowing or stinking has a shocking number
+of real world applications, and such materials
+are now being explored for those applications.
+One of the most obvious is maintenance, as
+vast amounts of money are wasted and injuries
+un-avoided from folks simply not knowing a
+device or structure they are nearby is needing
+some routine maintenance.
+Someone once joked to me that the upside of
+a sewer pipe over a water pipe is that when
+they started leaking people noticed and reported
+it, and that is one application of scratch
+and sniff tech, damaged components getting
+smelly or glowing.
+Needless to say, while Smell-o-vision as a
+way of augmenting audio and video has been
+a joke for decades, digital or material generation
+of smells or flavors is also something of
+great value if achievable.
+Not really something I hear much about in
+serious discussion, but same as hearing-loss
+really hurts quality of life, loss of taste
+and smell does too, and smell and taste simulation
+or stimulation has applications in near-future
+quality of life issues, not just really good
+virtual reality.
+It could make prosthetic options available
+for damage to those types of organs, which
+is common.
+It's also a reminder that not all material
+advances involve some property like strongest,
+coldest, lightest, densest, and so on, but
+properties more biological.
+As these last couple years have shown us,
+rich as they have been in Grandfather Nurgle’s
+Blessings, material advances in biotechnology
+will matter a lot too in preventing disease.
+I mentioned prosthetics a moment ago and we
+are constantly battling the rejection issues
+we have with prosthetics, implants, and biotechnology
+in general, and that’s where materials which
+minimize rejection or prevent biofilm developing
+to allow growing infections can come in handy.
+Polyethylene glycol is one of the most widely-used
+polymer coatings for preventing bacterial
+adhesion, as are titanium nanotubes.
+Sadly we haven’t got time to go into discussion
+on these or some other neat options like Programmable
+matter, which will be one of our poll options,
+which is mostly not about robots – rather
+it’s stuff like liquid crystals, folding
+proteins, quantum wells, and metamaterials,
+but it does include a couple robot examples
+like claytronics, which is essentially very
+tiny and simple machines designed to clump
+up to form more complex machines like a person
+molding clay in clay animation.
+It's not the same as nanoclay, just a similarity
+of name, but that’s another interesting
+material hitting the commercial and ecological
+realms.
+Nanoclays are tiny particles of mineral silicates
+that are relatively easy to make and which
+have been explored in recent years for their
+use, when incorporated into polymers, of improved
+mechanical, electrical, and thermal properties,
+as well as flame and corrosion resistance,
+offering potentially superior alternatives
+to coatings that are widely-used today.
+Coatings on materials to alter their properties
+or improve them is nothing new in chemistry,
+but ultra-thin coatings, bordering on the
+two-dimensional, is also an emerging option
+and takes us to 2D materials.
+Now there’s way too much on this topic for
+us to do justice to it today, so it will be
+a poll option for a future episode too, but
+graphene was just the first of many emerging
+quasi-two-dimensional materials, one-atom
+thick sheets, many of which also have fascinating
+properties when stacked two layers thick or
+with a second layer of a different 2D material.
+But four recent developments I wanted to mention
+quickly are boron nitride, sometimes nicknamed
+‘white graphene’ which when stacked with
+another sheet of itself has ferroelectric
+properties showing promise as an option for
+ultra-dense and quick computer memory.
+Boron Nitride has also been heavily used in
+quantum computing, and recent use of it in
+tandem with gold films has been enhancing
+the brightness of qubits to make ‘seeing’
+them far easier.
+We also have these materials being used to
+make ultra-tiny electrodes, which would be
+able to be used for many purposes but for
+channel regulars probably the most interesting
+would be that you could use it to do a neural
+lace good enough to attach to every single
+neuron individually, so a powerful development
+for mind-machine interfaces and mind augmentation.
+Lastly, for today anyway, a mix of tungsten
+selenide 2D sheets with black phosphorus sheets
+is giving us a polarized and photovoltaic
+material, meaning a solar panel light and
+flexible enough to be woven into your clothing
+to provide power to your devices or woven
+into pretty much anything else.
+There are a lot of materials we barely had
+a chance to touch on, some not even all that
+high-tech and many in use now and often strange,
+like Blood Bricks – which are exactly what
+they sound like, a building brick made out
+of sand and blood – and Pykrete, and ultra-strong
+material made of ice and fibrous materials,
+usually sawdust.
+Wood may be waning as a building material
+after a period of sharp lumber cost increases
+but wood may even have a role in future skyscrapers.
+Plyscrapers, as some dub them, utilizing cross-laminated
+timbers, have begun to see some use, and are
+being sold as a quicker and lower-energy cost
+means of tall construction, one maybe safer
+ecologically and also weirdly, safer in event
+of fires than many buildings too.
+As to how tall you can go, even beyond super-strong
+materials, we have options like active support
+that permit the construction of supertall
+buildings we call Space Towers - see that
+episode for details.
+But folks sometimes ask what might be even
+stronger than Graphene, and a lot stronger
+at that.
+To finish up for today, I thought we would
+discuss a few of the hypothetical materials
+that are only theoretical possibilities for
+now but may one day leave the pages of science
+fiction novels for science textbooks.
+One of those is Magmatter, which gets its
+name from Magnetic Monopoles.
+Now magnetic monopoles are a topic of hot
+debate in physics and have been for many years,
+but if they existed they would represent a
+particle that only had a north or south pole.
+Normally a magnet has a north pole and south,
+and if you cut it in half, you just get a
+new north and south on each half, much as
+you would get a new top and bottom on each
+half.
+It’s rather hard to imagine cutting an object
+with a top and bottom in half so that it only
+had a top on one half, with no bottom, and
+vice versa on the other half, and the same
+is true of magnetic monopoles but there’s
+some decent reason to think they exist in
+theory, and indeed they are predicted by string
+theory and most grand unified theories too.
+If they exist they would effectively be a
+very tiny particle, tinier than atoms, and
+one limit on material strength is atom spacing.
+As I mentioned earlier, the spacing on graphene
+for carbon atoms is very small, only .142
+nanometers apart, and as an over-simplified
+example, an electron and proton at this distance
+from each other pull four times harder on
+each other than they do if twice as far apart,
+so it takes four times more force to rip that
+bond apart, and this is essentially what tensile
+strength is, tearing apart those bonds between
+atoms.
+It’s all electric and magnetic forces though
+and so distance matters, and magnetic monopoles
+are so small they might be spaced to create
+“Magatoms” millions of times smaller than
+normal atoms and thus with bonds millions
+of times stronger, making things like space
+elevators a breeze to build.
+Indeed I’ve heard some calculations of this
+put it as much as a trillion-trillion-trillion
+times stronger than normal chemical bonds,
+which if true would let you flat out construct
+tensile-strength titans like Banks’ Orbitals
+and Ringworlds.
+These sort of strengths also open the door
+to options like Neutronium, which is matter
+made entirely of neutrons and which is so
+dense it can absorb neutrinos, though I should
+note both it and Magmatter are dense the way
+neutron stars are dense, even single-atom
+thick sheets, or rather single neutron or
+magatom thick sheets, are going to be monstrously
+heavy if monstrously strong, able to withstand
+direct hits from nukes or even antimatter.
+Also monstrously sharp, they should be able
+to cut basically anything.
+If we reach to the deeper future and more
+Clarketech style options, those bordering
+on magic, we can even imagine materials that
+are composed of dark matter or interact with
+it, or weirder options like materials so sharp
+they can cut space or time.
+Materials that can take photons and turn them
+into neutrinos or gravitons, much as we have
+photovoltaics to turn photons into electricity.
+Materials that might be able to generate gravity
+directionally or even warp space or time directionally,
+crunching it or sending it as a beam.
+In a world where superconductors and superfluids
+were thought impossible only a couple generations
+back, we probably don’t want to rule out
+what wonders we might discover hundreds of
+generations from now, but as we’ve seen
+today, we don’t have to wait generations
+to encounter wondrous new advances in Material
+Science.
+So today’s topic was as much chemistry as
+physics and ranged over a broad variety of
+subdisciplines, but at its core a lot of the
+material on materials is about those basic
+chemical reactions and if you’re looking
+to understand the science behind those better,
+there is an excellent course, “The Chemical
+Reaction” over on Brilliant.
+Now if you’re a regular of this channel
+or lots of other science channels for that
+matter you’ve probably heard us talking
+about why we love Brilliant, and I think for
+myself and others a lot of it is that Brilliant's
+the sort of interactive, handson platform
+we all wish we had when we learning science.
+And I thought that was worth noting here in
+the holiday season because so many of us know
+folks looking to learn science and math, and
+there really is no better gift than the gift
+of knowledge.
+Brilliant makes an awesome gift for any of
+the ambitious learners in your life.
+Whether it's an inquisitive niece, an all-knowing
+parent, or the neighbor who seems to have
+everything, I know your curious loved ones
+of all ages will be excited to grow with Brilliant's
+interactive learning approach.
+Brilliant is the hands-down best hands on
+interactive STEM-learning platform out there
+which can assist you or loved one in learning
+concepts by visualizing them and interacting
+with them, the best way to learn.
+On Brilliant you can just pick a course you’re
+interested in and get started, be it the basics
+or advanced.
+If you get stuck or make a mistake you can
+read the explanations to find out more and
+learn at your own pace.
+Knowing and understanding Math, Science, and
+Computer Science unlocks whole new worlds,
+and if you’d like to start your journey
+to them, you can try out Brilliant for free
+and get 20% off a year of STEM learning, click
+the link in the description down below or
+visit: brilliant.org/IsaacArthur.
+So we’re winding our way towards new years
+and only have 3 more Thursday’s to go but
+we also have our Scifi Sunday episode this
+weekend, December 12th to look at folks staking
+and jumping claims on asteroid mines and similar,
+and two weeks after that we’ll have our
+End of the Month Livestream Q&A, on Sunday,
+December 26th at 4pm Eastern Time.
+But first, a week from now we will have a
+discussion of Vertical Farming, the technology
+that may let us nourish many billions of people
+while keeping our planet pristine.
+Then we’ll take a look at Escaping the Galaxy
+the week after that, if we need to get away
+from someone who has blown up our planet,
+before closing out the month and the year
+with a look at the Challenges we will be facing
+in the next 100 years.
+Then we will explode into 2022 with a look
+at using Nuclear Bombs to propel Spaceships.
+Now if you want to make sure you get notified
+when those episodes come out, make sure subscribe
+to the channel, and if you enjoyed the episode,
+don’t forget to hit the like button and
+share it with others.
+If you’d like to help support future episodes,
+you can donate to us on Patreon, or our website,
+IsaacArthur.net, and patreon and our website
+are linked in the episode description below,
+along with all of our various social media
+forums where you can get updates and chat
+with others about the concepts in the episodes
+and many other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!

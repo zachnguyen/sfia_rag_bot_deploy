@@ -1,0 +1,964 @@
+﻿The galaxy is an immense and mysterious place 
+we may one day explore and settle, but for now,  
+we have only one planet, and the galaxy holds 
+many dangers, so what can we do to defend Earth?
+One of the more fascinating things about 
+the Moon is all the craters[a] on it,  
+some of which are the size of continents, but when 
+pondering those it does raise the worrisome issue  
+that Earth has probably been hit just as hard and 
+often and probably by rocks even bigger than the  
+one we tend to say got the dinosaurs. Indeed, the 
+Moon’s very existence is thought to be due to some  
+small planet hitting proto-Earth and spewing 
+out a debris cloud from which the Moon formed. 
+Needless to say, that’s not a survivable 
+strike, and indeed if we detected anything  
+like that coming our way right now, or an alien 
+armada or any of a number of other potential  
+astronomic catastrophes, our best strategy would 
+be to drop to our knees and pray. Should divine  
+intercession not be forthcoming, it leaves you in 
+an excellent position to kiss your butt goodbye. 
+There’s essentially no defense strategy available 
+to us if we haven’t got at least months to prepare  
+right now, and against an alien armada or a 
+full-scale planet careening our way that wouldn’t  
+be enough time either, outside of a Hollywood 
+movie. Indeed there’s not much you could do  
+without centuries of advancement and forewarning 
+in those two cases, which you might actually have,  
+and we’ll get to them later, but at the moment 
+even something a kilometer across would be  
+something we’d need a large lead up time to 
+deploy against and deflect enough to not hit us. 
+Thankfully, there are two important caveats 
+here even for those very large asteroids or  
+alien invasion fleets. First, such catastrophic 
+astronomical natural events are rare enough that  
+the odds of one getting us this next century 
+or so are pretty minimal, and lower the more  
+severe the incident. We’ll talk about the odds of 
+asteroids by size and destructive capacity later  
+but for things well below the dinosaur-killing 
+scale, if we can detect it a couple days out,  
+even now we could mitigate damage, in the sense 
+human casualties, by calculating the strike  
+location and evacuating that area and bringing in 
+personnel and resources to handle the aftermath.  
+I doubt you could get everyone out of a major 
+metropolis in that time but you might be able to  
+get most and from smaller cities, probably nearly 
+everyone, plus it is unlikely to impact on one. 
+Second, we do have defensive strategies 
+we can prepare with time and resources,  
+and those work best on the ones more likely to 
+occur, like a mile-wide asteroid heading our way  
+rather than something like an ejected black hole 
+headed through our inner solar system. And even  
+against such an overwhelming threat, we do have 
+options, even if we might need some centuries  
+to be developed enough in space to manage them. 
+We also do know where most 1-mile wide asteroids  
+near Earth are and none are plausible to hit 
+in the next century, so that mostly limits it  
+to deep space or interstellar asteroids.
+We are going to look through a number of  
+threats today in increasing order of concern and 
+dwelling on those earlier and milder threats like  
+asteroids, rogue spacecraft, orbital bombardments, 
+solar flares and coronal mass ejections,  
+but we’ll move onto look at extreme scenarios 
+including supernovae and gamma ray burst defense,  
+the asteroid being an entire planet instead, 
+an ejected black hole passing nearby,  
+a von Neumann Swarm of alien or earthly origin, 
+or perhaps launched from an interstellar colony  
+of ours that lost control of an experiment, or 
+deployed relativistic kill missiles our way,  
+or even a Nicoll-Dyson Beam, before contemplating 
+what we do if an alien armada really does show up. 
+The key defense against the milder scenarios 
+though is the successful development of cislunar  
+space so you can get resources and equipment in 
+play, and so that you have a detection system  
+that can give you the earliest warning. This is 
+why Defending Earth is one of the four pillars of  
+the National Space Society along with last week's 
+topic of Clean Energy from Space, and those two  
+along with Developing Space and Communities in 
+space were up on one of our audience image polls  
+back in November and won, you voted for them, 
+and now we’re giving them each their own episode. 
+You’re probably not creating vast power or 
+detection grids, or defenses to protect Earth,  
+without developing space and creating those 
+communities up in orbit and connected to  
+support from down here on the ground. Which 
+is why they are so important to the NSS,  
+and for folks new to the show wondering who this 
+guy with the weird voice is, I am Isaac Arthur,  
+host of this show, Science & Futurism, for 
+almost 10 years now, and president of the  
+National Space Society for just over a year now.
+I’m a theoretical physicist by training and a  
+veteran of the US Army, and I’ve also had the 
+honor of guest lecturing at the US Air Force  
+Academy and consulting for the Space Force back 
+when it was just starting. You have to rattle off  
+the qualifications occasionally so folks assume 
+there’s a chance you know what you’re talking  
+about rather than spouting crazy nonsense, though 
+as some folks often note, sanity is an optional  
+trait for scientists and futurists anyway.
+And like a lot of you probably also have, I’ve  
+spent a lot of time reading & watching science 
+fiction and pondering the threats presented  
+in those and saying “Well if they’d just done X 
+instead…” or “Hey, that’s not how physics works!” 
+I’ve consulted on a lot of science fiction 
+over the years, usually where the author or  
+game developer wants to see if something is very 
+realistic, and while I always encourage that,  
+it comes attached with the advice that you should 
+never let reality get in the way of a good story.  
+I’m very fortunate to have a lot of friends 
+and colleagues who’ve also spent a lot of time  
+seriously thinking and writing on these topics 
+that I can draw from. Also, I tend to take the  
+reverse approach of what I recommend to sci-fi 
+authors by trying to figure out how to deal with  
+over the top projects and threats, I figure out 
+what we want to do and then to see if reality  
+permits it, even if only by extreme measures that 
+seem unbelievable to us now. Otherwise you can get  
+lost in conventional wisdom and stuff everybody 
+knows, or everybody knows isn’t possible. 
+And that’s a good place to segue into Asteroids, 
+because every so often I’ll hear someone saying  
+you wouldn’t want to blow one up with a 
+big nuke or that wouldn’t work. And the  
+answer is implied by one of our show’s favorite 
+mottos, “If Brute Force isn’t working, you just  
+aren’t using enough of it”, which was also the 
+unofficial motto of my old artillery regiment. 
+Nukes are a great solution to a lot of problems, 
+in accordance with the first Rule of Warfare,  
+that there is no such thing as overkill,[b][c] 
+but they often are not going to be your easiest  
+or best approach. You can’t just launch an ICBM 
+up into space, they don’t carry enough fuel to  
+get into orbit let alone away from Earth. Nor 
+can we just slap an ICBM into a big rocket,  
+get it into orbit then launch it from there at 
+an asteroid. Now the Department of Energy is  
+responsible for our nuclear stockpile and I’m 
+glad to say they take planetary defense quite  
+seriously, but our detection window is still small 
+and our ability to respond is very limited. We  
+need a lot more development up there to pull off 
+the delivery of a nuke to a large asteroid far  
+enough away to matter, and that same development 
+does offer some other solutions. On the plus side,  
+Lawrence Livermore National Laboratory did some 
+modeling on nukes against asteroids recently and  
+was pretty optimistic about their potential too.
+I want to talk about some of the other approaches  
+we’ll use on an asteroid, but I also want 
+to ask about what sort of infrastructure,  
+capabilities, and development we need to pull 
+these off. Last week we spent a lot of time  
+talking about power satellites and beaming 
+technology, for instance, to provide Earth  
+with clean energy, and such platforms offer 
+us a couple ways to engage asteroids too. 
+Now asteroids are going to be unlike 
+many of our other threats in that they  
+tend to be pretty visible and give 
+you a lot of reaction time, compared  
+to a Relativistic Kill Missile for instance, 
+which might be moving 10,000 times as fast,  
+and perhaps a hundred-millionth the size of an 
+asteroid carrying the same damage potential.  
+Meaning it needs to be 10,000 times closer 
+before you’d see it with the same detector and,  
+since it is moving ten thousand times faster, will 
+give you a hundred-millionth of the reaction time. 
+Asteroids also won’t generally be moving in 
+a straight line toward us, they’ll be on some  
+elliptical orbital path of their own that happens 
+to intercept us and we may get decades of advance  
+notice by spotting and calculating that in 
+a few more of its orbital cycles it’s going  
+to cross our path too closely. It is generally 
+not hurtling in from deep space and if it were,  
+it would probably have a nice ice shell that began 
+giving it a comet tail we could spot more easily. 
+Instead your default asteroid is from the 
+various Near Earth Objects or asteroids,  
+of which there’s many thousands, and after that 
+one of the many millions hanging around in the  
+asteroid belt or the various loose families of 
+asteroids elsewhere in the system. Lots of those  
+are the broken remnants of bigger asteroids that 
+collided with something in the past. And often  
+some collision like that is what pushes them into 
+an orbit that’s going to eventually hit a planet,  
+since otherwise their mass has been orbiting 
+the Sun just fine for billions of years  
+and hundreds of millions of orbital cycles.
+Of these, the specific characteristics of the  
+asteroid matter, as a metallic one, is different 
+than one more composed of silicon or carbon,  
+or ices for that matter. But I would say anything 
+over ten meters across has a non-zero chance of  
+damaging something here on Earth, very non-zero 
+if it is made out of nickel or iron and is bigger,  
+and even things as small as a millimeter across 
+can damage some spacecraft, station, or satellite  
+in space. So your detection goal is to begin 
+by detecting anything threatening Earth, and  
+the bigger the threat the bigger the asteroid, and 
+easier it is to spot, and gradually you get better  
+at spotting and managing them till you are able 
+to protect even against small ones that threaten  
+only your orbital infrastructure, not your planet.
+By examining craters here, and on the Moon where  
+they are easier to see, as well as the 
+composition of the asteroid belt, we know  
+about how often bigger ones come, statistically 
+anyway. And frequency is essentially inverse with  
+mass or inverse with the cube of diameter, as 
+mass rises with the cube of diameter. So, ten  
+times the diameter, one thousand times the mass 
+and destructive potential, and we would expect  
+them to show up about a thousandth as often.
+We estimate an asteroid one kilometer across  
+tends to hit Earth a couple times per million-year 
+period. Such an asteroid carries more kinetic  
+energy in it than all the nuclear weapons 
+we’ve ever built combined but is arguably a  
+smaller threat than them since we can target those 
+strategically to hit cities while an asteroid or  
+volcano – which is in a similar energy scale – are 
+statistically unlikely to come down on any city,  
+let alone break up to hit each one of them. 
+As such it could certainly wreak havoc on  
+civilization but not in a civilization-ending 
+way, and it is something that has occurred  
+repeatedly while humans have existed, 
+depending on where we want to place that  
+cutoff in either what qualifies as human or 
+how big the asteroid needs to be to qualify. 
+But I should note that even one just 10 meters 
+across is typically carrying as much energy as  
+our earliest nuclear bombs and we typically get 
+one of these once a decade. These are as going  
+to airburst, which makes them leave multiple 
+small craters if any, as opposed to a big one,  
+and that further reduces their threat as 
+the atmosphere is soaking up most of their  
+energy. We would generally expect anything 
+much under 40 meters across not to leave  
+a single crater, even one made of iron.
+This is one reason breaking an asteroid  
+into pieces right before it hits us can be 
+a good thing, though it can also result in a  
+shotgun blast style effect and one very likely 
+to set off a Kessler Syndrome Event in orbit,  
+damaging or even ruining our orbital 
+infrastructure in the process. Which  
+is why it's better to get them sooner.
+Right now, if we had maybe a month’s warning,  
+we could potentially get some nukes up into 
+higher orbit and on an orbital path that  
+would take them near the asteroid as it came 
+by to be hit by some of that nuclear explosion,  
+maybe even a close proximity strike would break 
+it apart. Whether or not you want to break an  
+asteroid apart, especially that close, is very 
+debatable. So is where you should detonate a  
+nuke for maximum effect, though I think the 
+strongest argument is for a short distance  
+from it to spread the blast over its surface, 
+similar to when we contemplate using a nuke on  
+the pusher plate of an Orion drive spacecraft.
+Where, how, and when are tricky topics though,  
+more modeling and experience is needed, 
+and depends on a lot of factors specific  
+to the asteroid and intercept scenario. 
+We discussed the specifics more in our  
+Asteroid Defense episode some years back. 
+But ultimately, the bigger our warning time,  
+the better we can handle the problem.
+That capacity to ensure a warning like that  
+has slowly been growing and is nearly upon us, 
+and largely because of AI, which can scan a big  
+cluster of data – such as telescope and radar data 
+– for something tiny like the sunlight or radar  
+scatter off a rock a hundred million miles away, 
+pick it up a handful of times in a short interval,  
+and automatically calculate its trajectory 
+to see if it’s in a threatening window,  
+then forward those on to people at a big telescope 
+they can aim at it. Or a big gun for that matter. 
+And that helps but honestly such a rock still has 
+a high probability of landing somewhere virtually  
+uninhabited, and 70% chance of hitting the ocean, 
+and just doesn’t carry enough energy to cause a  
+sweeping tsunami along a coastline. Over a certain 
+mass range it’s gonna hurt pretty much no matter  
+where it lands, but most asteroids are smaller. In 
+sci-fi we always encounter one big enough to wreck  
+a city or big enough to wreck a continent, and the 
+former are a million times more frequent and have  
+way less than a one percent chance of landing 
+near any city, let alone a major metropolis. 
+If you actually knew where the rock was going 
+to land and it wasn't catastrophically big,  
+then in most cases you would rather let 
+it come in than have its blasted remains  
+whacking through your orbital infrastructure. 
+Unless it’s hitting something heavily populated  
+you just evacuate all your people, pets, 
+and precious objects from the blast radius  
+and rebuild afterward. But the smaller that 
+asteroid, the harder it’s going to be to see  
+it and get a precise vector a long time out, and 
+the more likely it is to have fragmentation during  
+atmospheric entry significantly alters its course.
+Does that mean we should ignore this threat? No,  
+though on the scale of thousands of years it’s 
+really more of a threat to our developed orbital  
+space than a reason to develop that orbital 
+space to protect Earth from asteroids. Also a  
+nice economic boon too, because an asteroid is 
+valuable raw materials entering Earth orbital  
+space rather than one we have to mine from 
+a hundred million miles away. So your real  
+aim is to capture it into a nice stable 
+orbit and without too much fragmentation. 
+Aside from Nukes, there’s a few other mature 
+ideas on deflecting asteroids. You can Impact  
+it with something, which we tried with 
+the Double Asteroid Redirection Test,  
+or DART, a couple years back, and this might be 
+a series of collisions with multiple spacecraft  
+or projectiles. There’s also the idea you could 
+paint the object, either dark or light, so that  
+it reflected or absorbed sunlight which might 
+push it off course as it absorbs that momentum. 
+But the method I tend to prefer is to just focus 
+an energy beam on the rock or iceball to ablate  
+or vaporize some material off the rock as 
+a rocket stream that pushes it off course,  
+and that will do, but I’d imagine in the more long 
+term you would expect a spacecraft to go to one,  
+place a microwave receiver and engine on it, 
+and let an incoming energy beam power a more  
+controlled thrust that efficiently and predictably 
+brings the rock into a new orbit of your choosing  
+with little loss or fragmentation.
+That’s the sort of exercise a good  
+asteroid mining company will probably excel at 
+and which I would expect us to have a modestly  
+robust supply of within a century or two, thus 
+I don’t really worry much about asteroids as  
+a threat to Earth. Fist-sized rocks in orbit, 
+which are very common, are more of concern and  
+only grow more so as we develop more things 
+in space, especially large cross-section  
+satellites like solar power satellites. See 
+our recent episode on clearing space debris  
+for more discussion of managing those though.
+As mentioned, another option is to ram one with  
+a high-speed and high-mass spacecraft, though 
+that’s likely to produce a lot of debris, as we  
+discovered with DART about two years back. Also, 
+that high speed ramming craft option actually  
+represents a bigger threat to us than those 
+asteroids and requires a better detection system.  
+A Rogue Spaceship moving at interplanetary speeds 
+isn’t all that high-energy compared to an asteroid  
+of the same size, it might be moving faster and 
+carrying an order of magnitude more kinetic energy  
+per kilogram, but it is also mostly hollow. As 
+such it is easier to detect, pound-for-pound,  
+so-to-speak. Unfortunately, it can also be aiming 
+itself rather precisely, letting it hit any given  
+space station or space habitat, and it might have 
+atmospheric re-entry protection so as to allow it  
+to come through intact to hit a major metropolis 
+right in downtown. It can also unpredictably  
+change course. So it might only have the energy of 
+a rock 10 meters across but that’s still a small  
+nuclear bomb, and one presumably any person with 
+access to a shuttle-sized spacecraft could hijack. 
+This means you need monitoring and active defense 
+measures in place for handling such scenarios and  
+that conveniently handles your smaller and more 
+frequent asteroids too, as they’re easier to spot,  
+slower, and easier to target with longer 
+to work with. A bit like aircraft,  
+scale is the biggest factor in damage so you 
+can escalate your security measures with scale  
+in mind. This is also where regulation matters 
+earlier-on, as until we have enough assets in  
+space to make such monitoring both necessary and 
+possible, we can mostly relax in the confidence of  
+knowing that current spacecraft would need the 
+assistance of flight control to calculate such  
+a suicide run so as to hit their desired target.
+When you’re moving several kilometers per second  
+you can’t really be placing yourself in 
+wherever you please using your mark-one  
+eyeball. But as computers and AI get better 
+and more compact, and spacecraft more common,  
+one Loonie with some skill or a terrorist cell 
+with some coordination might be able to pull this  
+off. Or they might be a spacecraft owned by some 
+rogue state that’s going to have an ‘accident’. 
+The good news is that for detection purposes 
+we don’t need more advanced science here,  
+we just need more telescopes and detectors 
+aimed at space or up in space, and better AI  
+and algorithms for helping on it. And this will 
+come organically in our continuing development  
+of both astronomical and defense assets.
+At some point we’ll probably need a formal grid  
+up there. Things like the Space Fence system but 
+scaled up, and that’s going to be a non-trivial  
+defense budget item and is more ideal for 
+something like the emerging Space Force as opposed  
+to NASA and its cousin agencies around the world. 
+I would also tend to assume the US wouldn’t be the  
+only folks working on that, but while we might 
+see NATO or allied nations developing one used  
+together, I would not expect global participation 
+on that, and exactly because the bigger threat is  
+manmade objects which a rogue agency might deploy.
+Of course a nation state might be the secret  
+backers of such a rogue agency, but they also 
+might consider full scale orbital bombardment  
+this way rather than some singular strike, 
+and in a case like this the full-escalation  
+scenario probably involves seeking to cripple 
+the detection grid and orbital defense grid  
+first. This escalation is likely to come with 
+some advanced warning. Generally speaking,  
+wars rarely start without advanced warning. When 
+they do, they tend to either start small, or start  
+barely coordinated, or both. There’s a lot of 
+logistics involved in a major operation like that  
+and trying to keep any whiff of it from getting 
+out in advance tends to be nigh-impossible,  
+and comes with a tradeoff between a decent chance 
+of secrecy at the cost of lots of unprepared or  
+underprepared errors. Need to know operations 
+tend not to scale well and start forgetting  
+to include important folks in the planning. 
+You show up for the invasion and half your  
+troops are missing or half asleep and logistics 
+wasn’t told to move spare fuel into the area. 
+You are also not likely to have all your orbital 
+detection and defense system in orbit themselves,  
+with a lot inside nicely shielded groundside 
+bunkers, and anybody who starts enthusiastically  
+blowing orbital infrastructure up is doing 
+so with the full knowledge that it is an  
+open declaration of war on everybody else with 
+assets up there, since all that space debris is  
+likely to damage things indiscriminately. See our 
+orbital bombardment episode for more on the types  
+of weapons those can entail, both near-term 
+and higher tech, as well as the groundside  
+defense strategies you can employ, which can 
+also entail mobile and stealthy submarines  
+as opposed to bunkers in the actual ground.
+Generally speaking space itself doesn’t allow  
+a lot of options for stealth, beyond the 
+sheer speed and enormity of things making  
+it hard to spot and react to things in time, 
+especially as that speed lets them be relatively  
+small objects for their damage potential.
+Some things also move a lot faster than  
+even spacecraft and asteroids. Solar Flares 
+& Coronal Mass Ejections thankfully take some  
+time to develop where we can spot them, and they 
+are pretty visible, but they move fast. Solar  
+wind in general moves a couple orders of magnitude 
+faster than orbital spacecraft, and while it isn’t  
+subtle, you can’t defend against that by blowing 
+up the individual particles, since in this case  
+they are indeed individual particles at the atomic 
+scale, not millimeters to kilometers across. 
+This is another example of where prediction 
+and early detection are vital, but here we  
+have options like placing a big solar deflector at 
+our L1 LaGrange point, much as we discuss using to  
+help protect a possible future Martian atmosphere 
+in our episode on giving Mars a Magnetosphere. We  
+discussed these more in our January episodes on 
+Statites & Lagites and Lagrange Point Settlement,  
+but short form, while Earth's Magnetosphere is 
+huge and powerful, deflection in space is just  
+as easy to achieve with an early and small push as 
+a late and powerful one, much like with asteroids. 
+Our L1 Lagrange point is four times further from 
+us than our Moon is and is always between us and  
+the Sun, and is 200 times further from Earth’s 
+center than Earth’s own surface is, let alone  
+that big spinning ball of molten metal in 
+our core. As such, it needs only give a  
+fractionally smaller magnetic nudge to incoming 
+ionized particles as they approach from the sun  
+to scatter them away from our planet and its 
+vulnerable infrastructure on Earth and in orbit. 
+Indeed with Lagites we can put it even closer, 
+and the sort of huge power collector running a  
+massive electromagnet is exactly the sort 
+of device that works well as a Statite or  
+Lagite. Or perhaps a swarm of such devices at 
+a smaller scale but operating in tandem. Nor  
+are we contemplating massive objects for this 
+purpose, merely large but thin solar collectors  
+running fairly simple electromagnets and at power 
+levels we already generate here on Earth. This,  
+incidentally, would also work against something 
+like a shockwave coming off the galactic core,  
+though would need to be lined up in that 
+direction and keeping things between us and other  
+stars is a bit trickier than with our own Sun.
+But speaking of giant explosions and other stars,  
+while the danger of Supernovae and Gamma Ray 
+Bursts to Earth tends to be somewhat exaggerated,  
+it is a possibility. A key point today is that we 
+are most threatened by other intelligences rather  
+than natural catastrophes. We can hardly 
+ignore the latter as they’re quite real,  
+but we principally need to prepare ourselves 
+against man-made, or AI or Alien made attacks,  
+not just natural disasters. However the devices 
+built to protect against intelligent actors will  
+often work for natural disasters too, and often 
+more easily. A Supernova scatters an intense blast  
+of radiation and high-energy particles in a wide 
+omnidirectional blast and thus loses potency with  
+distance. And while they are insanely powerful, 
+they generally would leave planets behind even in  
+their own solar system, especially gas giants.
+Nobody living on their surface or in orbit of  
+them is surviving of course, even stuff 
+living in ultra-deep underwater trenches,  
+which would be boiling their way off into space 
+with the blast. But planetary distance is on an  
+order of ten to a hundred thousand times smaller 
+than distance to the neighboring solar system  
+and because it falls off inverse square, those 
+energies are falling off on an order of hundreds  
+of millions to billions of times weaker. Such 
+explosions are visible at the moment they strike,  
+both moving at or near light-speed, 
+so there’s not much immediate warning. 
+But there’s no supernova candidates close enough 
+to Earth to cause any serious damage to us at the  
+moment and such stars are always going to be 
+easily naked-eye visible to us if they’re in  
+range, so they don’t sneak up on you. Here you 
+could employ a large thin metal shield that was  
+literally hanging between us and that star and 
+was paper thin, and which you would need to use  
+some fairly coordinated energy beaming and station 
+keeping to remain at that spot or moving window,  
+probably way out in a Trans-Neptunian orbit or 
+even further. We can’t determine exactly when a  
+supernova is going to occur down to a precise 
+moment yet but our observations of supernovae  
+are mostly after-the-fact so we don’t know 
+if there’s very obvious pre-detonation signs. 
+At a minimum you should get a few hours advance 
+notice if you have decent neutrino detectors and  
+then you could have some big guns packed with 
+shells full of folded up shielding that could  
+fire them in that star direction and which 
+could then pop off and expand to form a cloud  
+of shielding the supernova particle wave would 
+run into. Indeed you might use a whole ton of  
+big inflatables full of gas to help absorb the 
+energy and re-emit in less harmful frequencies.  
+It is an awful lot of energy, even a few dozen 
+light years off a Type 1a supernova might whack  
+Earth with as much radiation as the Sun gives us 
+over many hours and not in benign wavelengths. 
+But if some shield or cloud absorbs the energy 
+coming toward Earth and is vaporized by it,  
+that gas is emitting what it absorbs 
+omnidirectionally now and in low energy  
+photons. Based on the star or stellar remnant in 
+question you will know how much its blast will  
+produce and can prepare to put the right amount of 
+matter to absorb the blast in between you and it,  
+but you could easily have several million 
+joules impact per square meter so this is not  
+a case where your shield is tissue paper thick 
+the way our statites we discuss normally are,  
+but you don’t need a planet sized 
+slab of metal meters thick either. 
+For a type II supernova anyway, that’s a big 
+star exploding and you will be expecting that  
+event and build such detectors and defenses 
+if you have such a star in threat range or  
+migrating into threat range or age. Centuries of 
+advance notice are implied there at a minimum. 
+Type Ia supernovae, which is when a white 
+dwarf absorbs enough matter to detonate,  
+do not give that specific core collapse warning 
+that big stars when fusing and imploding on their  
+iron core do. However that amount of mass is 
+fairly precise, the Chandrasekhar limit of 1.4  
+Solar masses, and we are likely to get even 
+more accurate with that, and also unlikely to  
+miss any white dwarf in that mass range with 
+our modern capabilities, especially as it is  
+likely to have a binary partner donating mass. 
+Same basic defense applies. Gamma Ray Burst are  
+less well understood at this time and also 
+directional, so they can be dangerous from  
+thousands of light years away, not dozens, and 
+this is exactly where more knowledge and better  
+observations are vital and the cornerstone 
+of defense. Knowing is half the battle,  
+or maybe more, and the same sort of defense work.
+When it comes to truly large objects like Rogue  
+Planets, that knowledge is even more important 
+because unlike stars, or even dead stars like  
+white dwarfs, they don’t emit much radiation of 
+their own for us to detect. Neither do asteroids  
+but distance is a big deal here. The amount 
+of sunlight bouncing off an object is inverse  
+square to its distance, and the amount of light we 
+need to see an object by follows this same ratio,  
+so an object ten times further from us and the 
+Sun is giving off a hundredth the light and only  
+a hundredth of that light reaches us, so its ten 
+thousand times harder to see. This is why Mercury  
+and Mars are visible to our eyes but Pluto 
+requires a decent telescope to spot. A rogue  
+planet entering our solar system that’s just 
+a sixth of light year away, just a few percent  
+of the distance to the nearest star, is 10,000 
+AU, Astronomical Units, or 10,000 times further  
+from the Sun than Earth is and thus getting a 
+10-millionth of the sunlight to reflect off itself  
+and a 10-millionth of that is what reaches us so 
+it’s a not even a trillionth as bright as Mars. 
+Correction: 10,000 squared = 100 Million, not 10 million.
+and 100 million squared is 10 quadrillion.
+Thankfully, it will be emitting light of its 
+own, from its own internal heat, and that won’t  
+be much and will be in the infrared but will be 
+significantly more and is in the spectrum we are  
+looking for with infrared exoplanet or rogue 
+interstellar planet hunts. If we detected it  
+10,000 AU away, even if it was moving at a hundred 
+kilometers per second relative to us, we would  
+have about 500 years advance warning. Now the 
+problem is what you can do with that much warning  
+since it doesn’t have to hit us to seriously 
+screw up the solar system. Indeed, if it passes  
+between the Earth and the Sun, in that volume, the 
+damage could be in the form of Earth being heavily  
+and fatally perturbed from its orbit. The odds 
+of a direct impact are slim but utterly ruinous. 
+Can you defend against that?
+Yes, yes we could potentially send a  
+mission there and with the intent of blowing 
+it off course or into a stable orbit in the  
+outer solar system where it would pose no threat 
+other than possibly perturbing some comets and  
+asteroids to migrate in-system, which is a much 
+more manageable situation. See our episode Planet  
+Ships for a full discussion of how to either move 
+a planet so it doesn’t hit us or to make Earth  
+able to survive such an ejection into deep space 
+itself or even move Earth out of the course of  
+direct collision. As always, time is your ally, 
+the longer you have to act, the smaller a push  
+the incoming rock needs to be deflected, and the 
+more time you have to assemble a stronger push. 
+This can even work on an Ejected Black Hole 
+more massive than our own sun which might  
+be making its way out of the galaxy and 
+at a few hundred kilometers per second.  
+Thankfully black holes are not terribly 
+hard to see in spite of their reputation,  
+especially one winging through the void perturbing 
+other stars and gathering interstellar gas into  
+its accretion disc. We probably would not 
+see one well right now, but even within a  
+century or two we should be able to comfortably 
+spot one even several centuries before arrival. 
+This was the catastrophe premise in the prologue 
+of our episode Colonizing Alpha Centauri and is  
+to this day the only natural catastrophe I’d say 
+represents a true threat to humanity’s existence  
+beyond the next century or so, and even then, only 
+for a few centuries, as it would endanger not just  
+Earth but all our other planets and asteroid 
+habitats and so on. In that episode we pointed  
+out that the main risk would be it passing by 
+and causing perturbation to eject Earth or put  
+us in a bad orbit, though it’s worth noting that 
+planetary orbits are not as stable and eternal  
+as we tend to think and we could get ejected from 
+our solar system without any external astronomical  
+disruption coming in from deep space. Of course 
+a black hole has far more mass to cause such a  
+disruption and it could end up devouring our sun 
+explosively too, though more likely would pass  
+through in a dangerously perturbative way to 
+orbits and possibly devour something smaller  
+in a vicious blast of gamma radiation.
+Now humanity would be in a good position  
+to survive this if we already had a decent 
+supply of space habitats and asteroid colonies,  
+and getting yourself in the orbital wake of such 
+a behemoth leaves you in a powerful position as  
+we’ve discussed in other black hole episodes. A 
+stellar mass black hole is a rare and valuable  
+object we are likely to actively seek out and 
+colonize around, but trying to save Earth from  
+a close passage of one is a definite uphill fight 
+and the sort best done by a Kardashev-2 Scale or  
+interstellar civilization with some practice at 
+stellar engineering and the resources implied,  
+as you will need to be throwing the mass of whole 
+planets at such an object to move it much off  
+course and it will be blowing that mass out 
+as ultra-high energy radiation as you do this,  
+which is exactly what makes them so valuable if 
+you can do this in a controlled and long term  
+fashion, as opposed to trying to starlift your 
+sun to provide a matter beam to hit it with or  
+chucking planets at it or trying to build a 
+megastructure around it to create one of the  
+stellar engines we discussed in Fleet of Stars 
+to make it a big spaceship under your control. 
+This is exactly the sort of tasks self-replicating 
+machines like von Neumann Probes presumably excel  
+at, along with making paper clips, but we 
+have to worry about them going crazy or  
+encountering some alien Hegemonizing Swarm. 
+These don’t have to be dumb but it’s usually  
+assumed they are fairly locust-like and stupid 
+as you don’t give such things tons of brains  
+unless you’re feeling especially reckless 
+and suicidal as a species. As such they  
+represent a sort of in-between case straddling 
+natural catastrophes and intelligent enemies. 
+They are the locust swarm or sledgehammer 
+hurricane that comes to your planet intent on  
+turning it into more of themselves, or automated 
+killamajigs, or paperclips or whatever they wander  
+space doing. We tend to assume their exploratory 
+probes or automated terraforming machines run amok  
+and might be our own coming back to say hello 
+from an early space settlement effort. Which at  
+least means you have some forewarning and an 
+instruction manual. See your favorite sci-fi  
+show for handling the variations of these but I 
+would rate them as considerably more likely to  
+trouble us and in a serious way than any of the 
+natural disasters we’ve discussed to this point. 
+Your biggest ally here is that you do have brains 
+and you can even consider defenses like releasing  
+other self-replicating machines that specializes 
+in killing these other ones or hijacking them,  
+like immune systems or viruses do.
+As I’ve mentioned on other occasions,  
+while I don’t expect to find any intelligent 
+aliens in this galaxy or their left over toys  
+or mistakes, if there had been other intelligent 
+civilizations out there that made it to space,  
+I would have expect the reason for their 
+absence and our continued existence to be  
+because a lot of these sorts of devices and 
+counter-agents had gotten deployed and left  
+whole ecosystems of dumb machines and gray 
+goo infesting regions of the galaxy. See our  
+Aliens vs AI episode and its discussion of 
+the aliens known as the Recluse and their  
+crazy sector of space for more contemplation 
+of that. But in the end, brains beat muscle,  
+especially when those brains can make machines 
+that can make more of themselves to give you  
+more muscle at your disposal, because brains are 
+even better when armed with a giant space gun. 
+Once you start putting brains and malice into 
+play, things get worse of course, and we have  
+to consider not just aliens but intelligent 
+AI and options like angry interstellar space  
+settlements of renegades or mutants deciding 
+they want to wipe us out. This is where RKMs,  
+Relativistic Kill Missiles and Nicoll Dyson 
+Beams come into play, and the former are small  
+and discrete hunks of metal with a little 
+bit of detection and guidance on them,  
+moving at near light speed, while the latter is 
+basically a star converted into a giant laser. 
+See our orbital defense platforms episode for a 
+full discussion of how to protect against these  
+sorts of attack along with fleets and armadas, 
+but it tends to be like a lot of warfare,  
+if your enemy is building it, you do too, and 
+you use smaller forms for protection and threats  
+of mutually assured destruction. Diplomacy is 
+generally in play once other intelligence is  
+involved too, albeit it might be very limited and 
+confined to nothing but threats of mutual murder.  
+But if someone is throwing dumb matter at you at 
+super-high speeds, you defend by being ready to  
+detect that far out and throw something dumb in 
+its path to destroy both. And you build response  
+systems the enemy knows exist so that they know 
+if they attack your homeworld with some doomsday  
+devices, some doomsday devices you’ve got on 
+alert in deep space or at another star system  
+will launch on them, and you make sure you’ve 
+got lots of scattered colonies who can survive  
+you or accept refugees, or get you some vengeance.
+Of course, they may be the ones attacking you too,  
+and that brings us to our final threats 
+for discussion today, a giant alien armada,  
+because this is both more and less survivable than 
+it might at first seem. As we’ve discussed in our  
+alien civilization series, there’s not much motive 
+to conquer Earth unless you subscribe to the idea  
+that all the resources in the Universe must be 
+yours or that all other intelligence must be  
+wiped out, in which case its very statistically 
+unlikely that in a galaxy billions of years older  
+than our own planet such a species would just 
+happen to have never evolved until maybe the last  
+million or so years and just now be reaching us.
+They do not and never needed any signal from us to  
+alert them we existed, because Earth is very 
+visible, and the galaxy is not a dark forest  
+to them, because they either chopped it all down 
+for lumber or set the whole thing on fire to help  
+them see and kill their prey. That means that odds 
+are if there are aliens nearby us who could send  
+armadas, they are numerous in kind and type, with 
+many of them not being motivated to consume all  
+or exterminate all. Thus anyone trying to do that 
+doesn’t just have us to worry about, which would  
+be no worry at all right now, they would trash 
+us completely if they showed up tomorrow, but  
+all those other neighbors, be they other aliens 
+or disparate colonies, and their own internal  
+factions and feuds too, act as a check on them.
+Again, see our Alien Civilization and Fermi  
+Paradox series for more discussion of those sorts 
+of scenarios, Earth might get destroyed for some  
+seemingly weird reasons by aliens like uploading 
+our minds to a virtual sub-verse or sending the  
+Vogons in to demolish Earth to make way for 
+a hyperspace bypass. At the moment at least,  
+they seem to either not exist anywhere 
+near us or not be interested in conquering,  
+absorbing, or obliterating us.
+Ultimately, I wouldn’t want us to  
+rely on that good fortune of having friendly and 
+non-expansionist neighbors. The best way to defend  
+Earth is to develop space and technologies to 
+help us detect threats earlier and prepare robust  
+measures. And the best way to defend humanity is 
+to explore and develop space and make sure not  
+all of humanity is located on this one beautiful, 
+precious, but terribly vulnerable, Pale Blue Dot.
+Odds are if you’re watching this show you’re 
+a big fan of science, and probably like me  
+enjoy scifi too, be it books, TV, video games, or 
+good old tabletop RPGs. I’ve been rolling dice,  
+making characters, running games, and building 
+settings for almost thirty years now and  
+as you’d probably guess, I tend to be noted 
+for the depth of worldbuilding I tend to do,  
+and if you’re running a tabletop, or writing a 
+novel or designing a game, the audience always  
+appreciates those extra touches that help with 
+immersion and adding depth to the setting. 
+That’s where World Anvil can be an amazing tool 
+for organizing your campaigns or stories, and also  
+for helping craft content and share it. World 
+Anvil, the award-winning Worldbuilding Toolset  
+is an amazing suite of software for gaming and 
+worldbuilding that lets you use all the awesome  
+modern computerized options while still enjoying 
+the versatility of pencil and paper gaming, or  
+fantasy and sci fi novel writing for that matter.
+Create customized articles and entries,  
+interactive maps, wiki-style presentations, 
+character chronicles, event timelines,  
+genealogies of characters, and many other awesome 
+features to help you craft your world. World Anvil  
+is also amazing for helping you run your game, 
+with a Digital GM screen & campaign manager  
+with support for over 45 tabletop RPG systems, 
+including a robust library of character sheets  
+and stat blocks. Not to mention wonderful 
+tutorial videos exploring features to make  
+it easy for you and your players to use, and 
+giving great worldbuilding and storycrafting  
+ideas to help you on your Hero’s journey. 
+World Anvil has all the tools you need, to  
+try it out, just click the link in this episode’s 
+description and start forging new worlds, today!
+So as I mentioned this episode is one the 
+foundational topics of the National Space Society,  
+as is last week's episode on Clean Energy 
+from Space, and I wanted to thank John Dagle,  
+Dale Skran, and Rod Pyle from the NSS for lending 
+their expertise to writing these episodes. Every  
+year we host the International Space Development 
+Conference, where experts in the field,  
+be they from NASA to commercial space leaders 
+like Elon Musk and Jeff Bezos have given talks,  
+and where you can meet with astronauts and 
+best-selling sci-fi authors. This year’s  
+conference is in Los Angeles at the Sheraton 
+Gateway, May 23rd to 26th, and will be hosted  
+by Melissa Navia, helmsman Ortegas from Star 
+Trek Strange New Worlds. We also give out  
+awards and two folks coming by to receive them 
+this year will be my good friend Brian McManus,  
+from the amazing show Real Engineering, and 
+the legendary William Shatner. Come join us  
+as we boldly explore strange new worlds.
+Speaking of scifi, this weekend it will  
+be time again for Sci Fi Sunday here on 
+SFIA, where we’ll be looking at the idea  
+of Stargates and parallel devices for bridging 
+between worlds and ask if there’s any theories  
+bridging between science and scifi there. Then 
+we’ll take a look at a different type of tunnel,  
+the immense lava tubes on the Moon, and what life 
+in those might be like for lunar settlers. Then  
+we’ll finish out the month with a pair of episodes 
+looking at colonizing white dwarf star systems,  
+bringing new life to those dead stars, 
+and binary star systems, and their unique  
+challenges with habitable zones and stability.
+If you’d like to get alerts when those and other  
+episodes come out, make sure to hit the like, 
+subscribe, and notification buttons. You can  
+also help support the show on Patreon, and if 
+you’d like to donate or help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early 
+and ad free on our streaming service,  
+Nebula, along with hours of bonus content like 
+Galactic Beacons, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

@@ -1,0 +1,878 @@
+This episode is sponsored by Audible.
+The expansion and evolution of life is not
+impeded by the extinction of a species, rather
+when one door closes, another opens for someone
+new, or something.
+Today we’re celebrating our fifth anniversary
+here on SFIA, and I thought we’d commemorate
+the occasion by revisiting one of our favorite
+topics, the Fermi Paradox, and specifically
+the line of reasoning we call the Dyson Dilemma
+that derives from our discussion of megastructures
+in that original episode five years ago.
+Wrapped up in the core reasoning of those
+ideas is a notion that extinction, while a
+popular notion for explaining the Fermi Paradox
+and the seeming absence of other civilizations
+in the galaxy, often drives life forward faster
+rather than stopping the train or ending the
+story.
+Also to celebrate the occasion, we’ll go
+back to our roots with a very long episode,
+so grab a drink and a snack, hit the like
+and subscribe button, and settle in, as we’ll
+be here a while.
+Since we just did our 200th commemorative
+episode, we’ll skip much celebration this
+time, but non-coincidentally the original
+episode came out right before my birthday
+on September 20th and the second episode sprung
+out of a chat I had on New Year’s Eve, birthdays
+and new years are good times for introspection
+and contemplating the past and planning the
+future, and unsurprisingly led me to write
+up scripts about humanity’s future.
+Our world whirls around the sun and the seasons
+change and new stories begin even as chapters
+end, and while birthdays and calendar changes
+are admittedly rather arbitrary moments in
+time, they are a good one for reflection and
+deep thoughts.
+The concept of extinction is inextricably
+linked into this idea too, as most times things
+go extinct it’s because something else has
+risen up to replace them.
+We tend to think of species as being defined
+by a specific type of DNA.
+However, they’re not a single exact sequence
+but a broad zone of similar DNA, and that
+zone is often nearly as arbitrary as calendars,
+and that’s a good comparison in this context
+because a species tends to occupy a distinct
+bit of space and time.
+In many ways extinction is what drives evolution,
+as much as the other way around, but it can
+be a troublesome concept when we try to think
+of it in terms of species, which is honestly
+a bit of hangover term from earlier eras of
+knowledge when we didn’t know we were all
+related, down from some distant common ancestor
+billions of years ago.
+Such a time was so incomprehensible to us
+that we never even considered the world could
+be that old, probably part of the reason our
+ancestors - who were quite acquainted with
+mutation and breeding - never really contemplated
+shared ancestry until we started realizing
+just how ancient our world, and our universe
+was.
+And indeed it’s that very age, it’s sheer
+hugeness, and the incomprehensibility of such
+times to us at an intuitive level, that I
+tend to think causes so much problems contemplating
+the Fermi Paradox and it’s myriad proposed
+solutions.
+But I’m getting ahead of myself.
+No organism has identical DNA to another,
+not even twins, indeed your own DNA varies
+a little from cell to cell and from time to
+time as mutation is a constant thing.
+In an asexual organism, one that divides into
+two, species is an almost meaningless concept
+because everything branches like a tree at
+that point, never intertwining again.
+All those descendants just keep dividing and
+mutating and further diverging from one another.
+Indeed if we call such an asexually dividing
+organism a species then one could argue that
+the very first organism, way back in the mists
+of early Earth, was a species and we are of
+that same species.
+We of course have names for categories of
+relation above species, like Genus, Family,
+Order, Class, Phylum, Kingdom, and Domain
+in ascending order, but it stops there because
+the category above is just “Life”, and
+we only have Earth life to look at, nothing
+of extraterrestrial origin.
+If we get into sexually reproducing organisms,
+who can exchange DNA, then you don’t get
+this constant divergence of clades, a group
+of organisms of common descent, but an intertwining
+of those still genetically similar enough
+to reproduce, which we call a species.
+That’s a bit blurry too, as for instance
+you can get hybrids of species like a lion
+and tiger, the liger, but the normal way is
+for some prospering species to get two or
+more chunks of it fairly isolated from each
+other for many generations, so that cross-breeding
+shared mutations doesn’t happen much, and
+grows less likely to occur or produce viable,
+fertile offspring.
+That original species is now essentially extinct,
+even though its descendants might be quite
+numerous and prosperous.
+Even without isolation creating distinct branches,
+you still eventually have the original species
+go extinct, humans a million years from now
+– even without technological tinkering – probably
+couldn’t breed with us even if nothing earth-shattering
+in terms of mutation occurred, like an extra
+eyeball or finger.
+Though of course with technological tinkering
+they probably could, and for advanced civilizations,
+even just at our level, genetic mutation really
+is no longer a big factor.
+We could, if we wished to, keep our basic
+gene-template for billions of years, since
+DNA printing allows you to store that genetic
+data digitally and avoid the equivalent of
+copy-fatigue.
+We could also of course go all-in on genetic
+or cybernetic alterations, and we’ve discussed
+all those options before.
+Critically though, when we talk about extinction
+of high-tech or spacefaring civilizations
+we usually mean a total wipe out, rather than
+the progressive changes of slow mutation.
+Which has a parallel for civilizations too.
+Folks like to talk about civilizations or
+empires falling, but this usually mirrors
+classic extinction, this or that empire moves
+its capital or a chunk of it separates off
+or allies to a neighbor who conquers part
+of it and renames it.
+There are exceptions, but they are exceptions,
+not the rule, as folks often imply.
+It’s very easy to argue that Rome never
+really fell, any more than whatever common
+ancestors humans had with monkeys and apes
+went extinct, as there are almost countless
+modern and historical cultures and nations
+that claim to be its successor or at least
+its descendants, and the city that empire
+arose from might have been sacked, but it
+had been before and would be again and is
+now larger, more populous and more prosperous
+than under even the greatest of the old emperors.
+So what does all this have to do with the
+Fermi Paradox?
+And what is the Fermi Paradox?
+I usually give an abridged form, that it is
+the big question for why, in a Universe so
+vast and ancient, we don’t seem to see other
+civilizations all over the place.
+But there’s some critical assumptions in
+there.
+One of those is the Dyson Dilemma, an abridgment
+of a note I scribbled down on a napkin one
+winter morning at breakfast with my friend
+Jason, who was a sounding board for a lot
+of the concepts on the show.
+I rarely mention my friends or family in episodes
+to respect their privacy, but it seemed doubly
+appropriate to do so today since he had just
+started seriously dating a young lady at the
+time and they just got married a few weeks
+back, congratulations Jason and Christina!
+At the time we were continuing a conversation
+we had at his place on New Year’s Eve, where
+my recent messing around on Youtube to discuss
+megastructures had come up and somehow we
+ended up discussing aliens and the Fermi PAradox.
+I mentioned how if megastructures offered
+a vastly more spacious and convenient alternative
+to terraforming relatively rare Earth-like
+planets, they should naturally progress to
+fully englobe a star - a Dyson Swarm, as you
+could just keeping adding them as need demanded
+and resources permitted.
+That even if we did colonize planets around
+distant alien suns we’d likely repeat that
+process of englobement around them too as
+those distant colonies grew and built more
+and more of them to use every beam of stray
+sunlight.
+That even as that was happening, some pioneering
+sorts would doubtless decide to go stake a
+claim on the next empty solar system and repeat
+the process over and over until every star
+in the galaxy was fully englobed in Dyson
+Swarms.
+I noted that these Dysons are quite a dilemma
+for the Fermi Paradox.
+Not just that we don’t hear from distant
+alien civilizations around all those stars
+in the night sky, but that we can even see
+any of those stars, since they ought to be
+shrouded inside a fog-like swarm of orbiting
+megastructures sipping at that sunlight.
+Essentially that there are no advanced civilizations
+we can see - inside our light cone - and thus
+probably none closer than a few billion light
+years.
+As I said I’d been scribbling on napkins
+at the time, and tucked them in my pocket,
+a habit of mine since my early days studying
+physics in college, and I decided to make
+another video discussing this Dyson Dilemma
+of the Fermi Paradox.
+Not long after I decided I really ought to
+list all the various solutions to the Fermi
+Paradox I knew and did yet another video,
+and the rest, as they say, is history.
+A light cone by the way is essentially a distance
+or volume modified for the time it takes for
+light to reach you.
+We cannot observe events on Mars more recent
+than several minutes ago, because light from
+there hasn’t reached us yet to observe,
+or at our nearest stars more than several
+years ago.
+Needless to say light from galaxies millions
+of light years away is millions of years old,
+so someone could be living there right now.
+Now, when you’re talking about swaths of
+Dyson Swarms, whole chunks of galaxies going
+black, or infrared anyway, you can see something
+like that out as far as the effective edge
+of the Universe, but out past a few billion
+light years, you wouldn’t expect an advanced
+civilization to have emerged yet when that
+light left.
+Regardless, we don’t see any such thing,
+near or far, and we could if they existed,
+and we have looked.
+But you can’t rule out life emerging after
+the most recent photons to reach us had left,
+so Andromeda, 2 million light years away,
+could have some galactic civilization by now,
+you can go from primitive tool-using apes
+to galactic sprawl in that much time, and
+we ourselves probably will do just that in
+around that timeline.
+The thing is, it’s all a stats game.
+A galactic civilization could have formed
+in Andromeda a million years ago, and the
+light from their expansion just not reached
+us yet, but if it were so common our nearest
+neighbor had such a civilization within a
+million years of our own, then many of the
+other galaxies a bit farther away ought to
+have one too and one of those ought to be
+old enough to be in our light cone, as a few
+tens of millions of years is really nothing
+on astronomical timelines.
+If you double your search distance, that represents
+8 times the volume and 8 times the stars or
+galaxies on this scale, if you look a hundred
+times further out, that’s a million times
+more stars and galaxies, and indeed there’s
+about a million times more stars in that volume
+than in our galaxy, which has hundreds of
+billions of them.
+Past that distance, where everything is over
+a billion years old when we see it, you can
+start arguing that the odds of a civilization
+has already arisen by then is pretty low,
+particularly as you know it has to be pretty
+low in the first place if there aren’t tons
+of ancient galactic empires nearer.
+You don’t see many stars with high metallicity
+much older than that, and you aren't likely
+to have a lot of large rocky planets like
+Earth around stars without high metallicity.
+We’re formed out of the same stuff the Sun
+was formed out of, but our gravity was too
+low to keep all that hydrogen and helium,
+leaving only the heavier elements behind.
+Go far enough back and you just don’t get
+many rocky planets, maybe a few, but again
+it is a stats game, if those rare handful
+of rocky planets way back could have evolved
+life and advanced civilizations, that implies
+it’s so easy and likely to happen that we
+ought to be swimming in alien empires by now,
+many arising before our world even formed.
+The farther we look out from Earth, the more
+space there is in the distance, but the younger
+those galaxies were when they emitted the
+photons we see now.
+So life is far less probable to be in those
+earlier galaxies than it would be now, and
+if you go far enough out, vastly less likely,
+but the farther you go out, the more places
+and hence more chances for civilizations to
+have formed, and the quantity will rise far
+faster than the probability should drop, until
+you get so far away life just isn’t plausible
+that early on.
+I don’t know if dinosaurs would have evolved
+to be a civilization if they hadn’t gone
+extinct, they were around as the king of the
+hill for around a hundred million years and
+didn’t, but if we assumed every galaxy had
+formed only a few such species like that around
+a hundred million years ago, and only a few,
+well that’s a million such examples inside
+our light cone that we’d be able to see
+if just one of them had built spaceships and
+sailed out to new worlds and dyson swarmed
+them up, instead of going extinct, presumably
+with the help of an asteroid impact.
+Go back far enough in time and there just
+wouldn’t be any planets to evolve on, but
+our planet isn’t even vaguely at the beginning
+of the period that rocky worlds started becoming
+normal.
+And for the first billion years or more life
+was on Earth, it didn’t do all that much,
+it’s very easy to believe even worlds the
+same age as ours might have evolved into complexity
+just a couple hundred million years faster
+than we did.
+Based on what we know of astronomy, and assuming
+we’re fairly mediocre as evolution goes,
+we just have no reason to think someone couldn’t
+have been at the level we’re at now at least
+a billion years ago and that would make so
+many galaxies candidates that you’d figure
+even if very few such civilizations ever went
+the Dyson route, we ought to see at least
+one.
+But we don’t, and it makes so much sense
+to follow this strategy that you’d expect
+nearly everyone to do so, not a small minority.
+After all, you can't climb up Darwin’s ladder
+if you aren’t biologically prone to growing
+your numbers and that should generally give
+you that expansionist leaning.
+That’s the extrapolation of the Dyson Dilemma,
+that because no one is apparently pursuing
+this strategy they probably aren't because
+they don’t exist.
+Technological civilizations are so darn rare
+that you’d have to scour at least millions
+of galaxies to find another example of it.
+That civilizations will tend to build up around
+their stars so much that they occlude it from
+view, in visual light anyway, they absorb
+that for power and re-emit it as waste heat
+in the infrared range.
+You and I can see stars, so if anyone lives
+there, they aren’t very advanced yet.
+There’s some assumptions about how civilizations
+work and we’ve also discussed alternative
+but equivalent pathways in other episodes,
+like how a black hole centered civilization
+will still look like a dyson swarm because
+they take stars apart via starlifting to feed
+them into those black holes, but you can catch
+those episodes or the Dyson Dilemma episodes
+for details.
+As mentioned though, there are a couple of
+assumptions there for the Dyson Dilemma.
+Beyond assuming that a given civilization
+has to desire to grow this way, they have
+to have both the capability to do so and not
+have the capability to expand in some other,
+better fashion.
+One example that would break it is if someone
+developed a thermodynamics breaking technology,
+that let them perfectly recycle waste heat,
+which might also obscure them from detectability
+by infrared waste heat.
+You only expand this way in the first place
+because you need more energy and raw materials
+if you want to expand, and there’s countless
+billions of stars waiting nearby offering
+those to you.
+Another option then would be the ability to
+easily move to parallel Universes, near-infinite
+uninhabited clones of their original homeworld,
+since there’s no place like home and no
+point building massive interstellar generations
+ships if you can step through a portal to
+a copy of Earth where everything was the same
+but smart apes haven't evolved yet or went
+extinct.
+Essentially scenarios that give you a superior
+alternative to galactic expansion, though
+it should be noted that many of them folks
+suggest merely slow down when this would happen,
+such as going digital or miniaturizing.
+You don’t need more space and resources
+because each person needs way less of them.
+The core assumption is that a growth-oriented
+group is going to grow exponentially as long
+as they can comfortably do so, and whether
+that rate is faster than it was last century
+for humanity, where we doubled our numbers
+twice, or that doubling takes thousands of
+years, that’s nothing on astronomical timelines.
+A modern Earth-sized population only needs
+to double their numbers 70 times to fill an
+entire galaxy with fully populated Dyson Swarms,
+so it would take us only 3500 years at 20th
+century growth rates.
+However, even if it took a million years to
+double, that’s just 70 million years, nothing
+on galactic timelines.
+And something offering greater efficiency,
+like going digital and running your uploaded
+citizens on hyper-efficient amounts of power,
+is only going to add some extra doublings.
+Such a thing might actually speed up your
+timeline too, since pathways like going digital
+usually imply operating at faster subjective
+speeds, so your generations might take mere
+days, even if to those folks it felt like
+centuries, and they went extinct in mere centuries,
+in the sense of being replaced by a new version.
+Not too mention it makes colonizing space
+way, way easier, see the Seeding the Stars
+episode for details.
+So you inevitably need some reason why your
+population growth drops off even when it offers
+no obvious advantage.
+Modern comparisons are tempting, as our population
+growth has slowed in the 21st century, but
+even ignoring some dubious reasoning about
+causation and correlation attached to modern
+birth rates, it just doesn’t apply to galactic
+expansion by a high tech civilization.
+You’re probably dealing with folks who do
+not age or grow less fertile with age, who
+do not have to worry about priorities of kids
+versus career, and who do not feel any particular
+resource pressure, with an unused galaxy at
+their fingertips.
+If you’re two hundred years old, souped
+up on physical and mental augmentation so
+that you probably qualify as a genius by modern
+standards, have a lifestyle that would make
+a modern millionaire look like a beggar, but
+are still considered rather young and middle-class
+for your era, your basic biological strategies
+on reproduction just aren’t the same as
+now.
+You can basically have as many kids as you
+want, if you want, and some folks will want
+just that, probably most.
+If you live centuries in a resource-rich,
+labor-low civilization, you can wait till
+your centuries old to have kids, the equivalent
+of a modern millionaire with multiple doctorates,
+and focus on only one kid at a time, and still
+have dozens of them and raise them in ideal
+conditions.
+Keeping those kind of factors in mind, there
+either has to be a dynamic in play that disinclined
+all advanced civilizations to adopt no-growth
+policies universally, or you have only a temporary
+hiatus on growth until some faction of that
+civilization that is pro-growth has enough
+time to become the majority and the prior
+no-growth elements go effectively extinct.
+So as long as there’s no compelling reason
+to encourage folks to have few kids, you keep
+heading back to the notion that some will
+have a bunch and will pass that tendency on
+to their own kids and you end up again with
+a society that favors growth, at least until
+it runs into some other compelling reason
+to not grow, and that takes us right back
+to the Dyson Dilemma.
+The Dyson Dilemma incidentally is not a Fermi
+Paradox solution itself, it’s just a problem
+most Fermi Paradox solutions have no good
+answer for.
+In fact the only one that does is the solution
+that just says advanced civilizations either
+rarely develop or life rarely evolves to complexity,
+or worlds life could evolve on are super rare.
+The Rare Earth or Rare Intelligence or Rare
+Technology camps.
+None of these are exclusive by the way, it
+could be Earth-like planets are fairly rare
+and the evolutionary path to complexity and
+intelligence rarely get followed and that
+not many of those intelligences go on to abstract
+thinking and also to inventing serious technology,
+and there are many steps along the way, many
+hurdles, some of which may filter out most
+worlds.
+We call these hurdles Filters and they can
+be minor things, coin flip odds, or major
+ones few worlds pass, or even lottery-odds
+ones, what we call great filters, and you
+can see the Great Filters series for further
+discussion of those.
+For those curious, while I have no official
+stance on the Fermi Paradox, too many unknowns
+still, I tilt to Rare Technology and consider
+that the best stance on available data, or
+the least worst anyway, that spacefaring technological
+civilizations, the only kind we could detect
+right now, seem to be absent.
+I’ve no idea why, maybe intelligent life
+only develops on one in quadrillion planets
+but once it happens technology is inevitable,
+and there’s billions of worlds in our galaxy
+alone covered in simple algae or its alien
+equivalents.
+Or life only kindles under such rare conditions
+it’s only happened a few times in the whole
+Universe but inevitably proceeds to galaxy-spanning
+civilization when it does.
+Maybe intelligence isn’t nearly as advantageous
+to life as we tend to assume, and most times
+when something develops it, it isn’t worth
+the energy-bill to run such a big brain and
+they go extinct.
+We don’t know, but I’d tend to guess there’s
+a lot of little filters that each lower the
+odds and a few big or Great Filters too.
+We just know such technological civilizations
+appear to be very rare.
+That again is the point of the Dyson Dilemma.
+One popular alternative related to this idea
+that civilizations are rare is that they actually
+aren’t, they just don’t turn into galaxy-spanning
+ones much.
+That such civilizations just tend to stay
+at home rather than spread out, and we could
+easily miss them then so long as they aren’t
+super common, since the Dyson Dilemma is about
+looking for huge dark blobs of millions of
+darkened suns in the middle of galaxies or
+galaxy sized spots emitting tons of infrared
+light.
+Another is that they have access to physics-breaking
+technologies, what we call Clarketech, like
+my earlier example of being able to violate
+the laws of thermodynamics, or just meander
+off or ascend to some higher planes of existence,
+which we’ll look at more next week in Aloof
+Aliens.
+The other option, of course, is that they
+do want to expand and grow but they go extinct.
+Critical to this whole idea is that a species
+can travel to and colonize other stars, and
+that they have a tendency to grow in numbers
+and expand.
+It’s hard to do that if you get wiped out,
+but as I was saying earlier, species extinction
+rarely means that and when it does, it either
+means an ultra-catastrophe or that it was
+out-competed by something better at survival.
+We looked at some of the possible catastrophes
+that might hit interplanetary or interstellar
+civilizations some weeks back, and the only
+plausible options that work with the Fermi
+Paradox are those where it’s sort of an
+inevitable convergence.
+An example, though a bad one, would be a tendency
+to make computers and artificial intelligence
+and be wiped out by that AI.
+That’s a bad example, not because it would
+be super-implausible if almost every advanced
+species made AI and got hammered by it, but
+because it still leaves you an AI.
+That species is extinct but that AI is still
+around, Homo erectus is gone but Homo sapiens
+remains, Rome burned down but Constantinople
+is flourishing, the humans are all dead but
+Skynet is busy colonizing the galaxy.
+So in that regard extinction only works as
+a Fermi Paradox solution if it is both going
+to end with nothing left with colonial or
+growth tendencies, and is virtually inevitable.
+We have a concept called Non-exclusivity that
+comes up in Fermi Paradox discussion here
+a lot, and it’s the basic notion that any
+solution that can’t plausibly apply to every
+likely case isn’t a good one.
+Asteroids might wipe out a civilization, though
+not an advanced one, which would regard an
+approaching asteroid as a great economic boon,
+but statistically not many civilizations would
+get hit with Earth-killers.
+Indeed the only time we had one was probably
+when we got slugged by the hypothetical dwarf
+planet that gave us our moon.
+The one that allegedly wiped out the dinosaurs
+would not wipe us out, just set us back a
+few generations, and indeed it may not have
+wiped them out either or just been a contributing
+factor to a long process already in progress
+for million of years.
+Assuming it was even a factor, not just an
+event that happened to occur during around
+the same million year swath of time they left
+the scene.
+If that was the case, that they would have
+stayed the king of the hill, then maybe they’d
+not have evolved high intelligence, they arguably
+weren’t well designed for improving in that
+regard.
+That freak extinction may have removed a strong
+player who was a dead end but too strong to
+have otherwise died off.
+Alternatively if they could have, that just
+raises the whole issue again of someone getting
+a jump start on us.
+65 million years is a big headstart, we’ll
+probably have swarmed over not just our galaxy
+but our whole local cluster by then, and would
+expect anyone nearby who had that head start
+to have long since done so and be rather visible
+to us now, particularly as they might have
+colonized Earth, in which case I guess they
+wouldn’t be visible to us, but only because
+we wouldn’t be here to see them.
+Similar things apply to most extinction events,
+even when we say it was ‘sudden’ we mean
+on geological timelines.
+Of course some might have been rather sudden,
+that asteroid case or a super-plague, or if
+a species only lives on one specific island
+and a volcano erupts, another good reason
+to colonize the galaxy, don’t keep all your
+eggs in one basket.
+But for extinction in general, normally it’s
+a gradual fall off to mutation and competition.
+This doesn’t work well for advanced civilizations
+and the Fermi Paradox.
+First, because once you’re interstellar,
+it’s really hard to have a natural calamity
+kill everyone off.
+Truth be told, it really shouldn’t be possible
+even once you’re genuinely interplanetary
+since unless your own sun goes supernova – which
+it won’t since such stars live way too briefly
+to even let their planets form and cool down
+enough for life to even think about starting
+– you’re going to have stuff survive,
+even if it’s a handful of asteroid or comet
+mining colonies buried deep under the protective
+layers of rock or ice.
+Second, because fundamentally the same principle
+applies as with species expanding out from
+an origin spot onto a fertile continent.
+They don’t need to be coordinated, it doesn’t
+matter if the ones still living at the origin
+spot are around, and the chunks of that original
+group that most favor growth and expansion
+are going to be the ones who make the most
+of it and probably pass that trait on to their
+descendants, until and unless they encounter
+something that makes them revise that policy.
+And there may be such things in our future,
+but none of the suggested candidates seem
+to hold up, especially in the face of Non-exclusivity,
+again the notion an individual scenario has
+to apply to everybody, every strange and diverse
+alien, for it to work.
+Otherwise stuff can go extinct but generally
+just gets replaced by something tougher and
+more aggressive or expansionist.
+Don’t assume that means nasty or locust
+like, aggressively colonizing sterile dead
+planets so you can fill them with life, or
+some post-biological equivalent, is the exact
+opposite of locust like behavior.
+I think my habit of talking about tearing
+about planets to build space habitats to build
+dyson swarms sometimes conjures that rapacious
+locust swarm to folks mind.
+It’s not that locusts are evil of course
+or that we’re really nice, they’re just
+really dumb.
+Of course sometimes so are we, but generally
+our expansion approaches are rather more long
+term and getting longer all the time.
+This incidentally is why we assume most alien
+species will be expansion oriented, fast or
+slow, violently aggressive or peaceful.
+In nature, you don’t exist as a species
+for long if you don’t manage to birth and
+mature enough offspring to replace your numbers,
+and any branch of your species which does
+that more or better will rapidly replace the
+others too.
+This doesn’t mean you spawn litters or lay
+thousands of eggs, anymore than humans do,
+just that your pre-technological origins have
+to be able to replace your numbers and probably
+also keep up with some expansion into unexploited
+areas.
+This means tribes that get a bit big and have
+lots of free territory nearby can divide up,
+and keep doing that till they get all the
+good spots.
+Key point though, they have to be able to
+replace their numbers or they go extinct,
+and since pretty much all the early applications
+of technology are about making it easier to
+not die, they will have a surplus of people
+being born.
+Overpopulation is nothing new, and truth be
+told, even though were more numerous than
+ever before, we actually are less pressed
+by that than our ancestors usually have been,
+since we’ve been technologically boosting
+our carrying capacity – how many people
+we can support off a given chunk of territory
+– much faster, and also have technologically
+made accidental increases in population less
+common.
+Nature has plenty of ways of dealing with
+overpopulation, as did pre-modern human cultures,
+like I said, not a new problem.
+It just doesn’t work out from a Fermi Paradox
+perspective, going extinct from a decline
+in birth rates.
+There’s no pressure to discouraging expansion
+that really makes much sense, if you have
+the technology for sailing off to new worlds
+or building them, and if your population is
+just declining because folks don’t like
+having kids, and so you don’t bother colonizing,
+eventually some group or faction is going
+to be all for big families again and after
+a handful of generations they’ll outnumber
+everyone else.
+That original culture basically went extinct,
+but merely to be replaced by one that liked
+big families again, and that might go out
+of style in a place and time where population
+pressure arose again.
+For that matter, you’ve got all sorts of
+technological options for rapidly boosting
+your population if you need to, and it seems
+improbable a high-tech civilization would
+just have extinction from low birth rates
+sneak up on them and not attempt any of the
+many obvious solutions for avoiding that.
+Potentially even including mass cloning or
+uploading minds and duplicating them.
+You can do that same trick if you have the
+technology for colonizing other stars but
+life is so Utopian back home no one really
+wants to go.
+You just find a decent small sample of willing
+and able colonists, say a few thousand, and
+randomly copy and send a group of a thousand
+of them off to each new world, the originals
+can even stay home in Utopia if they like.
+They’ll diverge so much in those unique
+settings and groups they’ll be all new people
+anyway, and their kids will be too.
+They all diverge and evolve on those new worlds
+under aliens Suns.
+We looked at that option more in Mind Uploading
+last year.
+This is the fundamental idea though, extinction
+doesn’t usually end life and growth, but
+rather drives it on to more of both.
+On those rare occasions it’s by cataclysm
+and genuinely results in a scenario where
+something is wiped out and not replaced by
+something better at survival and growth, advanced
+civilizations would mostly be immune to those
+anyway, and unless there is some inevitable
+suicide-pact technology everyone discovers,
+like some awesome-seeming power source you
+will always discover and always use without
+realizing it will kill you off before it’s
+too late, then non-exclusivity would apply.
+Some might die that way but not all and not
+most.
+But even if it were most, or nearly all, you
+only need that one civilization that can expand
+and likes to do so to swarm the whole galaxy
+over, or many galaxies.
+And they will get every star not just those
+with an earth-like planet, and they won’t
+really care that much about such planets anyway,
+because they can build better places to live.
+Last week we noted how hard it is to terraform
+a planet like Mars and I mentioned then that
+it’s easy to build habitats instead, and
+of course our original episode, 5 years ago,
+was a summary of some of the cooler such megastructures
+you can build and we later expanded that into
+a series focusing on each one.
+The planet-centric focus of a lot of science
+fiction was part of the reason the channel
+started, as I wanted to encourage more authors
+to feature these sorts of artificial worlds
+or the sort of massive ships and structures
+advanced civilizations could build, and few
+authors tended to look at.
+There are some exceptions, Larry Niven’s
+Ringworld maybe being the best known, but
+nobody really explores it like the late Iain
+M. Banks does in his Culture Series, beginning
+with Consider Phlebas.
+He not only gives us a look at such giant
+constructs but contemplates the kind of civilizations,
+or cultures, that might build and live on
+such things.
+A lot like we do on the show, he tries to
+see how a given technology, from the fairly
+plausible and mundane to outright Clarketech,
+alter a culture and it’s members outlook
+on life.
+Banks’ Culture series is one of the biggest
+influences on this show and one of the handful
+of books mentioned way back in the original
+episode, and it’s past time he won our Book
+of the Month.
+You can get a free copy of Consider Phlebas
+at Audible.com/Isaac or text Isaac to 500-500.
+Audible offer a 30 day free trial, but each
+month you’re a member you now get a free
+audiobook and 2 audible originals, and those
+credits rollover to the next month or year
+and stay yours, along with any books you got,
+even if you later discontinue your membership.
+And with their convenient app, you can listen
+on any of your devices and seamlessly pick
+up where you left off, whether you’re listening
+at home, commuting, running errands or off
+jogging or at the gym.
+Audible makes it cheap and easy to access
+a vast collection of amazing stories.
+Another thing the Culture Series likes to
+look at is the notion that spacefaring civilizations
+tend to leave behind the mortal universe and
+‘sublime’, or ascend to another plane
+of existence or something similar, and we’ll
+be looking at that and some related notions
+next week as we return to the Alien Civilization
+series with “Aloof Aliens”.
+Banks also gives us some interesting looks
+at the sorts of extreme environment and space
+suits you might need to visit some places,
+like walking around on Venus, and we’ll
+explore Space Suits and extreme environments
+in two weeks, to look at some of the challenges
+in making better suits and some options advances
+in technology might give us for really awesome
+ones, before heading to Venus to look at how
+we might go about terraforming that molten
+hot world, in Winter on Venus.
+If you’d like to help support 5 more years
+of episodes like that, we’d appreciate your
+support, and you can go onto our website,
+IsaacArthur.net, to see some options, from
+Patreon to Paypal to buying some awesome channel
+Merchandise, or even sending it by snail mail,
+and for the record, I am always delighted
+to get postcards,
+or given the date, birthday cards.
+Until next time, thanks for watching, and
+have a great week!

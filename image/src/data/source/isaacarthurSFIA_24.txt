@@ -1,0 +1,666 @@
+The Moon is a harsh mistress, with an airless
+surface wracked by two-week periods of scorching
+sunlight followed by the long night, but below
+its surface lies caverns and tunnels we might
+shelter in that are greater in scope than
+anything on Earth.
+Today we’ll be examining the pros and cons
+of settling lava tubes on the Moon, and other
+places, along with asking what life inside
+one would be like for those early settlers.
+Lava tubes are natural underground tunnels
+formed by flowing lava under the surface of
+a planet or moon, or a larger asteroid for
+that matter.
+They are created when the surface of a lava
+flow cools and solidifies, while the lava
+beneath continues to flow.
+When the lava flow stops and drains away,
+it leaves behind a hollow tube.
+As best as we can tell, most lunar volcanic
+activity was between 3-4 billion years ago
+but some activity was as recent as a billion
+years back.
+Normally, where Earth is considered normal
+anyway, such tubes would be long gone but
+there’s no continuing geological activity
+to shake them,nor wind or rain or flood to
+collapse them or fill them with sediment.
+Nor organic proceses inside to break them,
+as moss or tree roots can do to stone on Earth,
+and indeed on some planets lava tubes might
+be the only place life could reside or begin,
+but that life might damage those tunnels and
+self-destruct their ecosystem in the process.
+This lack of destructive forces also means
+they can get very large, even compared to
+the ones we get on earth where they can be
+wide enough to drive a truck down and miles
+long.
+We think some on the Moon might be as much
+as 500 meters or 1600 feet wide, and tens
+of miles long.
+We can spot these by various entries where
+it’s collapsed, called skylights, and the
+basic notion is that you find such a tunnel,
+dome over those skylights, and fill the lava
+tube with air.
+This can be a short term base inside a small
+lava tube that really is just pressurized
+with oxygen, probably produced by taking oxides
+minerals and turning them into metals for
+use and with oxygen as a waste byproduct.
+Or we could be looking at huge affairs with
+liners put into to help seal air and moisture
+in and entire ecologies that we might transport
+to the Moon.
+We’ll discuss such options in a bit, but
+let’s cover the basic advantages first.
+Lava tubes are of significant interest for
+lunar exploration and potential settlement
+for several reasons:
+Protection from Radiation and Micrometeorites:
+The Moon's surface is bombarded with cosmic
+radiation and micrometeorites due to the lack
+of a protective atmosphere like Earth's.
+Lava tubes, being underground, provide natural
+shielding against these hazards.
+In this regard it is much easier to create
+pressurized environments as well, since you
+do not need to import or manufacture your
+wall and ceiling, and thick and redundant
+enough to survive radiation and micrometeors.
+Radiation will generally be very rough on
+most materials we would use for a dome and
+thus limit service lifetime.
+Temperature Stability: The Moon experiences
+extreme temperature variations, ranging from
+very hot during the lunar day to extremely
+cold during the lunar night.
+Needless to say, temperatures ranging from
+colder than the Antarctic to hotter than the
+Sahara are not optimal for human habitation.
+Lava tubes maintain a more constant temperature
+inside, which would be beneficial for human
+habitats and sensitive equipment, and which
+seriously cuts down on how much power you
+need for heating and cooling.
+Structural Integrity: Lava tubes are believed
+to be structurally sound, providing a natural
+"roof" and walls that could support lunar
+bases.
+I think you would want to shore them up if
+you planned to spend a lot of time in them,
+but the far lower gravity on the Moon makes
+that easier too.
+So, this would reduce the need for heavy construction
+materials to be transported from Earth or
+that need to be fabricated on the Moon, since
+at the very least you need less structural
+materials and don’t need them on Day 1.
+Potential for Water Ice: Some lunar lava tubes,
+especially those in permanently shadowed regions
+near the poles, may contain water ice deposits.
+As we’ve discussed in other episodes on
+lunar ISRU, or in situ resource utilization,
+if we have ice we not only have drinking water
+but a lower energy way to produce oxygen,
+and even fuel production if it is in sufficient
+quantity.
+And unlike other scarce resources, we’re
+not really worried about depleting the Moon
+of ice if it helps us develop in space, since
+once you get out past the Asteroid Belt there’s
+an ocean of the stuff available for importation.
+Indeed, as we’ll discuss next month in Colonizing
+Ganymede, there’s more water on some of
+those outer system moons than in all of Earth’s
+oceans.
+Ice inside a lava tube is also easier to extract
+and store without needing huge and sturdy
+surface tanks.
+In zero or low pressure environments, there’s
+only a very narrow window of temperature a
+substance can be a liquid, it is essentially
+a state at which matter can no longer hold
+together on its own because it is vibrating
+too fast but doesn’t fall apart as a gas
+because some other gaseous materials around
+it are helping shove it together, remove those
+and it turns into a gas.
+And in an airless environment like the Moon
+liquid water effectively cannot exist, just
+ice and steam.
+Next is Scientific Exploration: Lava tubes
+might contain geological and mineralogical
+treasures that could offer insights into the
+Moon's history and evolution.
+They also make great base camps for extended
+exploration activities as you can plausibly
+hole up inside one, maybe find ice for drinking
+and air, and with the lower temperature variation
+potentially survive a lunar night without
+freezing or escape the intense sunlight of
+the lunar day.
+Speaking of that…
+Natural Habitats: Lava tubes could provide
+ready-made habitats, requiring only minimal
+alterations to make them habitable, which
+is more efficient than building structures
+from scratch.
+Much like caves in a mountain, lava tubes
+on the Moon become safe places for those roaming
+the Moon and logical first bases in a given
+area.
+Given that gravity is very low there, you
+can still construct a surface base nearby,
+including a dome over the skylight and solar
+panels, while having easy access to the large
+underground lava tubes.
+Even stair cases hundreds of feet high on
+the Moon would be easy climbs, so long as
+you’re not doing them in a full spacesuit.
+In summary, lava tubes on the Moon could provide
+natural, safe, and stable environments for
+future human explorers and settlers, reducing
+the need for extensive and heavy construction
+materials and offering protection from the
+harsh lunar environment.
+Now back in our episode the Domes of Mars
+we went over the pros and cons of domes versus
+underground facilities, and as we noted there
+it isn’t an either-or situation, you will
+have both, but the ratio will be very dependent
+on practical considerations, many of which
+we really don’t know yet.
+Many of those disadvantages to underground
+living or advantages to surface life are essentially
+the same on the Moons as Mars but there are
+some vital differences, and one of those is
+that the day on Mars is basically the same
+as Earth’s, just a hair longer.
+Not so on the Moon, where the day is a month
+long.
+Two weeks of sunshine followed by two of darkness.
+Which means living in a dome on the surface
+of the Moon is not a close approximation of
+Earth conditions except for a little lower
+gravity, like on Mars.
+We detailed those disadvantages more in that
+episode but here’s a summary of them and
+in regard to lava tubes on the Moon specifically,
+and there are also notable disadvantages and
+challenges:
+First is Accessibility: Lava tubes may be
+located in regions that are difficult to access
+with current technology.
+We are not going to just land a spaceship
+in one, indeed that would be a rather bad
+idea for a number of reasons, nor are you
+landing right next to it unless dropping a
+spaceship on or next to it gives you immediate
+data on how stable that lava tube happens
+to be.
+So, to get to one includes challenges in both
+landing as near these structures as circumstance
+allows and entering them safely.
+This is why we usually see them as a phase
+2 operation on the Moon, not the place you
+land your first astronauts at to set up an
+Alpha Base.
+Which brings up Structural Stability: While
+lava tubes are generally stable, their structural
+integrity could vary.
+Some may have weak spots or be prone to collapse,
+especially under the stress of human activity
+or lunar quakes.
+Again, trying to access them or land near
+them might be all it takes to set one off.
+Limited Natural Light: Inside a lava tube,
+there is no natural light, not even the two
+weeks on and two weeks off the surface gets.
+Which would necessitate artificial lighting
+systems for both practical and psychological
+well-being of inhabitants.
+It’s a bit debatable if they’d be a better
+place to grow food at then a surface dome
+since either one needs supplemental lighting,
+though considerably more in a lava tube, and
+a plant can undergo low lighting, such as
+a protracted cloudy week, and rapidly bounce
+into growth when the lunar day begins again.
+So, a dome probably wouldn’t need more than
+a fraction the artificial lighting a lava
+tube needs.
+Isolation and Confinement: Living in a lava
+tube would mean being in a confined, enclosed
+space for extended periods, which could have
+psychological effects on the inhabitants.
+This isolation could also make emergency evacuation
+or resupply more challenging.
+Though I think the time in a cave is probably
+no more psychologically worrisome than time
+in a thin glass dome surrounded by a total
+lack of atmosphere.
+Communication Challenges: Communicating with
+the surface or Earth might be more difficult
+from within a lava tube, requiring relay systems
+or other technological solutions.
+On the Earth-side of the Moon, Earth is there
+day and night, always more or less in the
+same place in the sky varying depending on
+where on the Moon you’re at.
+Getting a signal there is pretty easy, whereas
+a lava tube might require many hundreds of
+feet of wire if not entire miles.
+There’s also Environmental Unknowns: We
+just don't know what they are like inside
+beyond educated guessing, as we have never
+probed one.
+The environment inside a lava tube could present
+unknown hazards, much as the sharp regolith
+on the Moon surprised us during the Apollo
+era.
+There’s also the question of not what they
+might have but what they might turn out not
+to have, like sturdy sides and ceilings.
+And off our own moon, they are the sorts of
+places where we might find existing life on
+a planet or moon whose surface seemed otherwise
+barren.
+Resource Availability: While some lava tubes
+might be located near potential resources
+like water ice, or a good place to build a
+landing field, others may not be.
+This could necessitate long-distance travel
+on the lunar surface to transport resources,
+adding complexity and risk.
+I sat through a talk by my friend Pascal Lee
+last year where he was examining good landing
+sites based on where we might get water ice,
+and the Moon is a place of sharp and steep
+features, so very often a rover wanting to
+navigate between two places might have to
+go miles out of the way just to get to spot
+very nearby.
+It is easy to forget that the Moon is huge,
+and traveling around on it is much harder
+than on Earth.
+I think we tend to assume after traveling
+huge distances to get there or to some planet
+like Mars that we can ignore those distances
+on the ground but they are very difficult
+places to traverse even if you had a large
+supply of equipment and fuel to do it with,
+whereas we are likely to be very limited in
+that regard early on.
+Here on Earth where moving is easier, we would
+never say a supply of ice ten miles from where
+I wanted to build my home was ‘easy access
+to water’.
+Which takes us to Technological and Logistical
+Challenges: Setting up a base inside a lava
+tube would require advanced technology and
+significant logistical planning.
+This includes the transport of materials,
+life support systems, and the development
+of infrastructure for energy, waste management,
+and habitat maintenance.
+In theory an inflatable dome can simply be
+kicked out the side of your lander and inflated
+from tanks.
+There’s also Limited Expansion Potential:
+While huge in terms of any near or mid-term
+need, the size and shape of a lava tube might
+limit the potential for expanding a lunar
+base.
+Like caves on Earth, they are not big enough
+for truly impressive civilizations.
+This could be a significant constraint as
+the needs and numbers of inhabitants grow.
+Though they could potentially dig more tunnels
+or simply spill onto the surface, digging
+in low gravity can be easier.
+Lack of Emergency Exits: In case of an emergency,
+options for quick evacuation could be limited,
+especially if entrances and exits are few
+and far between.
+I think this is outweighed by the protective
+advantage they have, but it is very true that
+unless you’re right by a skylight, in event
+of collapse you’ve only got two directions
+to travel, at least one now blocked off.
+So, while lunar lava tubes provide some natural
+advantages for establishing a lunar base,
+they also present a unique set of challenges
+that require careful consideration and advanced
+technological solutions.
+All that said, they remain very attractive
+as spots to set up shop in and many will be
+big enough for big communities, though the
+question would remain why you wanted to build
+one there.
+Why live in a lava tube and why build a base
+or settlement there?
+And I don’t just mean why you would live
+in a lava tube as opposed to some random crater.
+To settle the solar system you need a reason
+you might want to live somewhere as opposed
+to moving off Earth, and to some godforsaken
+rock as opposed to a nicely tailored O’Neill
+Cylinder orbiting it.
+Economically it probably means you’re in
+the mining or refining trades, or build or
+maintain large power collectors.
+At least as the main lifeblood of the local
+economy, you could be anywhere in the galaxy
+doing just about anything, maybe even including
+a pirate base, and probably still find lots
+of shops, retail stores, restaurants, teachers,
+road crews, and excluding the pirate case,
+police.
+So, let’s take a visit to New Souterraine,
+a lunar lava tube settlement founded principally
+from eastern Canada and New England, and it
+runs in a lava tube 30 miles long that winds
+its way around the Eastern Edge of the Moon
+where Earth is always visible but on the horizon.
+New Souterraine has something fairly rare
+in Lunar Lava Tubes, and that was deposits
+of gold, found in the year 2149, and before
+the year was out claims were in place and
+several hundred tons of equipment dropped
+there in order to facilitate establishment.
+By the late 22nd century it also had the largest
+tourist income of any principally underground
+settlement on the Moon.
+The Gardens of New Souterraine are often loftily
+compared to the Hanging Gardens of Babylon,
+though mostly by their tourist bureau.
+At a population of 20,000.
+New Souterrains is a long skinny settlement
+30 miles long and varying between half and
+quarter of a mile wide, with an estimated
+10 square miles of subsurface living area,
+or 6400 acres.
+In addition to its handful of skylights, which
+are now domed over, several artificial skylights
+have been added.
+These use a shifting filter to brighten and
+darken the dome, and alter how much red or
+blue light is coming through to simulate time
+of day better.
+The sunset on the Moon, incidentally, is not
+red, as there’s no air producing that prism
+effect.
+Running down one side of the colony, and about
+a mile to the side, is a long field of solar
+collectors that help run their refineries
+during day time, with excess energy pumped
+into molten salt thermal wadis for night time
+usage.
+In tandem with a nuclear reactor, this helps
+power the night phase, where daylight is simulated
+at closer to that experienced on a cloudy
+day.
+New Souterraine holds the interesting title
+of highest number of tanning beds and sunrooms
+per capita in the Guinness Book of Solar Records.
+Shade plants tend to be most popular for personal
+gardens on the Moon, since they need less
+artificial lighting to keep them thriving
+in dark weeks, but mushroom gardens are also
+very popular, and often fed on nutrient mass
+from crops that can bloom well under just
+2 weeks of bright sun, such as algae.
+Domed Algae farms on the moon are rather common
+since they are a good way of creating topsoil
+from the existing regolith and ice, and various
+strains can be used to create feedstock for
+plastic or fuels, and edible sources of protein
+too, for both humans and what limited livestock
+are adapting to the Moon thus far.
+You can cycle up algae in domes when the sun
+rises and have a full supply for processing
+2 weeks later, and use the same personnel
+for both operations, as well as getting the
+domed vats ready for their next round.
+The folk of New Souterraine do the same for
+mineral extraction too, typically mining during
+the dark weeks then doing their energy intensive
+smelting and refining during sunnier days
+when the solar farms are producing.
+There’s talk of more microwave power satellites
+being placed in orbit to beam energy down
+to those in the dark weeks, and the settlement’s
+mayor, Camille Cormier, did campaign this
+last election on helping raise capital for
+that project.
+The Cormier family is a trusted name in lunar
+circles, especially the lava tube communities,
+as the Cormier family is among the original
+hundred to first to call the Moon their home,
+back then they were nestled in a smaller lava
+tube beneath the Moon’s powdery surface
+and were instrumental in prototyping both
+the algae-mushroom farm cycle and lava tube
+mineral extraction.
+They were pioneers, part of a grand experiment
+to test the feasibility of extraterrestrial
+living.
+Their new home was a cylindrical habitat sealed
+within the ancient, hollowed rock.
+The tube's entrance was a marvel of engineering,
+a dome of transparent aluminum allowing a
+panoramic view of the stark lunar landscape.
+Inside, Luna Haven was a stark contrast to
+the barren outside.
+The interior was spacious, designed to mimic
+a comfortable, Earth-like environment.
+It even had a small garden, where genetically
+modified plants thrived under artificial sunlight.
+Serena and Baptiste Cormier, along with their
+two children, Camille and Leonardo, adapted
+quickly to their new life.
+Their days were structured yet varied, filled
+with maintenance tasks, scientific research,
+and homeschooling, since even remote teachers
+from earth had an uncomfortable signal lag
+time.
+The family had to be self-sufficient, relying
+on their habitat's closed-loop life support
+systems for air, water, and food.
+One of the most significant challenges was
+the lack of natural sunlight and Earth's gravity.
+The Cormiers combated this with daily exercise
+routines and a special lighting system that
+simulated the natural progression of day and
+night.
+This helped them maintain their circadian
+rhythms and kept the plants in their garden
+growing, but they knew that was an uphill
+fight and they needed to create ecologies
+and agriculture more suited to their new home
+on Luna.
+They had access to a vast collection of entertainment
+and data though, albeit not without limitations
+from light lag and bandwidth constraints.
+Despite these comforts, life on the Moon was
+not without its trials.
+The isolation was palpable.
+Communications with Earth were limited to
+video calls and messages with a delay, making
+them feel even more distant from their friends
+and relatives.
+However, they found solace in each other's
+company and the unique experience they shared
+within their family and a handful of those
+other early settlers living similar lives,
+and within instant communication range.
+For Camille and Leonardo, they learned about
+lunar geology right from their home, exploring
+different parts of the lava tube with their
+parents.
+These expeditions were the highlight of their
+week, donning their small space suits and
+venturing into unexplored sections.
+The most significant event for the Cormier
+family was when they discovered ice deposits
+in a remote section of the tube.
+This discovery was monumental, as it promised
+a more sustainable water source for future
+lunar settlers.
+Over time, the Cormier family became a team,
+each member playing a vital role in the survival
+and success of their mission.
+They were among the first to celebrate the
+new lunar holidays, created new traditions,
+and even shared their experiences to those
+back on Earth by video, which indeed was one
+of their major sources of funding and endowment.
+Unfortunately, Leonardo’s plans to be the
+first Professor of Lunar Geology, or Selenology
+on Earth who was trained for it on the Moon
+fell through when the terrestrial gravity
+proved too much for him, being used to only
+a sixth of what it is on Earth.
+He returned to the Moon in 2148 rather depressed
+but determined to continue his work, and was
+grateful when Camille encouraged him to go
+on one more exploratory mission together,
+where they traveled further than ever before
+to check out a lava tube that had only ever
+had the most cursory robotic surveying.
+This turned out to be where they found a gold
+strike and helped Camille become a major figure
+in the rise of a reasonably self-sufficient
+lunar economy that brought her back to New
+Souterraine some years later to start her
+own family.
+For Leonardo the journey was only beginning
+as he won a spot on the upcoming colony mission
+to Ganymede, Jupiter’s largest Moon, but
+that's a tale for another day.
+So how likely is this all to happen?
+Well, the good news is that robotic exploration
+of the Moon is getting easier every day, even
+with setbacks like landers tipping over on
+their sides, and that helps us with lava tubes
+as NASA has often had an understandable reluctance
+to attempt to send a manned mission to one.
+Given all the risk and difficulties of even
+just a regular mission to Luna, adding in
+a spelunking journey exacerbates that quite
+a lot.
+But dropping a robot probe down into one is
+a lot more viable.
+The exploratory module for that might need
+to be nuclear powered, or perhaps a ground
+base with solar power and a transmitter could
+maintain a hardline physical connection to
+the probe, given that the low gravity makes
+it quite viable to use your power cord as
+your rope down one of those skylights too.
+Indeed Asugumo, a spider probe that was to
+be Britain’s first ever moon rover, was
+designed with lava tubes in mind and unfortunately
+it was delayed due to Covid.
+If you’re curious, the name I’m probably
+mispronouncing derives from a Japanese spider
+that brings good luck, which might be appropriate
+given that delay is why it wasn’t on Peregrine,
+which ended up burning up in Earth’s atmosphere
+just a few days before I wrote this script’s
+first draft.
+Fun sidenote, I was in Pittsburgh to give
+a talk at the Carnegie Science Center the
+same week Peregrine was shipping out from
+Astrobotic’s lab there and my wife Sarah
+and I were the last two guests to get to see
+it.
+Space is neither kind nor forgiving, so we
+must always be relentless in its pursuit,
+and here’s hoping their next launch later
+this year has better luck.
+I am quite confident we’ll see robots exploring
+those lava tubes inside a decade or two, though
+full exploration may truly require a human
+presence, and for all the endless delays,
+I think that human presence returning - and
+staying – on the Moon is fast approaching,
+and with it, in time perhaps, people living
+in those lava tubes.
+They’re safe places we could build settlements
+from which might hatch our wider dreams of
+space, but are they places people would want
+to live and raise a family?
+Let me know what you think in the comments
+on today’s episode.
+We were talking about the difficulties of
+trying to raise a family on some outpost far
+from earth today, education is a pretty big
+part of that.
+As we head towards summer break for the school
+year, one of those challenges, whether as
+a student or a parent, is trying to make sure
+you don’t lose any knowledge during the
+long break.
+The best way to learn is daily and establishing
+a daily learning habit is one of the most
+important things you can do, both for personal
+and professional growth.
+That’s where our friends at Brilliant can
+help.
+Brilliant helps you build real knowledge in
+minutes a day—with fun lessons you can do
+whenever you have time.
+Brilliant focuses on fun and interactive learning,
+where you learn by doing, with thousands of
+interactive lessons in science, math, data
+analysis, programming, and AI.
+From simple to complex, whatever your skill
+level, Brilliant customizes content to fit
+your needs and lets you start where you should
+and improve at your own pace.
+I’ve been using and recommending Brilliant
+for years, they’re our show’s longest
+running sponsor, and I’ve yet to hear a
+single complaint, but I’ve heard plenty
+of satisfied customers.
+And you can try everything Brilliant has to
+offer for free for a full 30 days, visit brilliant.org/isaacarthur
+or click on the link in the description.
+You’ll also get 20% off an annual premium
+subscription.
+So next week we’ll finish out the month
+of April with a pair of episodes looking at
+colonizing white dwarf star systems, bringing
+new life to those dead stars, and binary star
+systems, and their unique challenges with
+habitable zones and stability.
+After that we’ll start May up with a look
+at the Banks Orbital, also known as God’s
+Bracelet, a megastructure space habitat hundreds
+of times larger than Earth, that advanced
+civilizations might build as an alternative
+to terraforming planets.
+And speaking of advanced civilizations, the
+week after that on Thursday May 9th we’ll
+look at the Interdiction Hypothesis of the
+Fermi Paradox, which asks if civilizations
+out in the galaxy might leave large buffer
+zones between their empires, and ask if Earth
+might be inside one such empty buffer zone.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you’d like to donate or help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content
+like Galactic Beacons, at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

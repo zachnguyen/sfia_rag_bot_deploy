@@ -1,0 +1,681 @@
+Current theory says the dinosaurs came to an end  
+when a giant asteroid from space crashed 
+into Earth, wouldn’t it be ironic then if  
+we sent asteroids out from Earth into 
+deep space to colonize other worlds? 
+A few weeks back we were discussing Interstellar 
+Colonization Strategies and next week we’ll be  
+discussing Planetary Terraforming Strategies for 
+when a colony spaceship arrives at a new world,  
+but one of the strategies we didn’t cover 
+last week was the possibility of using  
+asteroids as spaceships to travel to new systems.
+Now, normally I don’t think of this as a good  
+option, for many reasons we’ll discuss today, but 
+the big one has usually been that they are simply  
+a fuel hog compared to a far less massive ship 
+made from hollowing out the asteroid and refining  
+its ores to make a ship. While I was writing 
+Interstellar Colonization Strategies though,  
+I talked about how bigger was better when it 
+came to colony ships, as they have more cargo,  
+redundancy, and endurance. Those are fuel hogs 
+too, but we wouldn’t really care because the fuel  
+in question, hydrogen or perhaps deuterium 
+or helium-3, is so incredibly abundant. 
+So the idea of launching some asteroid massing 
+a trillion tons into space using trillions of  
+tons of fusion fuel seems absurd at first - but 
+the economics say otherwise. As it turns out,  
+the fuel part is the easy part. Even by modern 
+standards, the cost to pump liquid hydrogen into  
+some tank is going to be way less than the cost 
+to build that tank. Hydrogen is relatively rare  
+on Earth and helium more so, but they are the 
+two most abundant elements in the Universe, each  
+outnumbering every other type of element combined. 
+So, in an economy with advanced automation and  
+humanity scattered all around the solar system, 
+tanking huge amounts of hydrogen from one of the  
+gas giants or from a comet to fill some big rock 
+up is going to be easier than refining all that  
+rock down into metals to make spaceships anyway.
+Alternatively, some big asteroid or comet offers  
+a lot of advantages as a spaceship, 
+interplanetary or interstellar. There  
+are some definite downsides, but once you remove 
+the fuel burden from the equation, I think the  
+positives might outweigh those in many cases.
+Additionally, fuel is not always an issue. For  
+instance, we have a device known as a Planetary 
+Cycler or Aldrin Cycler. This is essentially  
+a large spaceship or space station on its own 
+planetary orbit, typically a very long elliptical  
+one, timed to bring it close to two separate 
+planets or bodies. So an Earth- Mars Cycler  
+will be on a long elliptical orbit around the Sun 
+taking a couple years and spending most of it out  
+beyond Mars, but would make for relatively short 
+journeys of 5 months from Earth to Mars and Mars  
+to Earth for any ship that docks with them as they 
+pass by either planet. This also works for moons,  
+and the Backflip cycler option for Earth 
+and our Moon, which would be on more of a  
+monthly timeline, is probably a good option.
+What’s neat about these cyclers is that once  
+you put them into their orbit, aside from some 
+optional contingency fuel for emergency maneuvers,  
+they require no more fuel to continue their 
+orbit than any other heavenly body orbiting  
+the Sun does: basically none. Objects in motion 
+remain in motion unless acted on by another  
+force and barring minor perturbations, the only 
+force acting on a planet orbiting our Sun is the  
+Sun’s gravity acting like a sling to whip the 
+planet around in circles, or elliptical orbits. 
+Thus they’re perfect for some big asteroid we 
+nudged into that orbit and may just require us  
+to apply a little station-keeping to 
+occasionally. Ships dock with it and  
+take advantage of its huge mass to provide 
+radiation shielding and resupply, allowing  
+faster passenger or cargo ships to use far less 
+fuel, and armor, and rendezvous with what’s  
+essentially a mixture of ferry and truckstop, 
+slow but cheap and reliable bulk transport. 
+The Same reasoning applies to interstellar ark 
+ships as they will run up to speed and then cruise  
+through space for decades before slowing down 
+at their destination. What’s neat about them is  
+that you can also be working to refine parts 
+of that asteroid into raw materials for your  
+onboard industry, and your colonization gear once 
+you arrive. So, in theory, a very basic and small  
+colony organization could grab an asteroid, 
+ranging from less than a kilometer wide to  
+several, fill it with fusion fuel, and head out 
+to the stars on a multi-century journey while  
+transforming that asteroid into a bigger community 
+and possibly even a fleet of escort vessels. 
+Now, we keep saying that we’ll hollow out the 
+asteroid but that’s probably not the right way  
+to think of it. More likely you would just have 
+big thin balloons of fuel you attached behind the  
+Asteroid since most of the fuel would be burnt in 
+a few months as you accelerated to cruising speed,  
+so any complex and long-lasting storage system 
+would seem a waste. By default, folks assume  
+you need the same fuel to speed up and slow down, 
+but that’s not true. Since you have to accelerate  
+your slow down fuel too, it generally takes about 
+3 times as much starting fuel as stopping fuel.  
+So for every 4 tanks of fuel you need, 3 will 
+need only simple storage for while you bring  
+them to the ships and the launch it, the fourth 
+will need to be stored for decades at least. 
+Of course there’s probably a fifth for us on the 
+ship for running power production during the trip  
+and as a reserve and backup. These we can strap 
+behind too, and then we could cut some rock out  
+of the asteroid for some living area and stack 
+that around our tanks to make them sturdier,  
+like bricks, or an ice wall, and further minimize 
+leakage. A lot of the asteroids we might use for  
+this are likely to be those deeper out in the 
+Asteroid Belt or even its larger twin, the Kuiper  
+Belt, and those would have a lot of ice on them 
+too. Many asteroids aren’t solid rock either, but  
+more like giant piles of frozen gravel, so using 
+ice and gravel as an exterior shield for bits you  
+are building behind the ship makes a lot of sense.
+We tend to think of using metallic asteroids  
+so we would have plenty of metal, 
+as opposed to carbonaceous ones,  
+but carbon is the material that ultra-hard diamond 
+and ultra-strong graphene are made of, so much  
+of our structure might be provided by carbon-rich 
+asteroids rather than the rarer metallic variety. 
+Graphene has a lot of great properties but 
+three interest us in particular. First, it can  
+make a great liner for fuel tanks, as hydrogen 
+is prone to leaking out and also corroding  
+things – part of our problem using it for rockets 
+and for a hydrogen fuel economy. Graphene is much  
+better at storing it compared to other methods. 
+Second, since we can make graphene into strong  
+ultra-thin sheets just an atom wide, we can 
+make huge sails out of it for catching sunlight,  
+laser or energy beams, or even interstellar dust. 
+More on that later but a single square sheet  
+of graphene a kilometer on each side would only 
+weigh 2.27 grams, and few layers would be needed. 
+Indeed, a sheet big enough to cover every bit of 
+our own planet would only weigh about 1200 tons,  
+versus trillions of tons for even a fairly 
+small asteroid, and you could coat an asteroid  
+or comet in layers of graphene to keep it from 
+leaking away from melting or micro-collisions,  
+or from disintegrating. Your typical asteroid 
+isn’t really held together by much, gravity inside  
+them is tiny even compared to our Moon, so bits 
+of asteroid would go flying off into deep space  
+just from tapping it. We would need spin gravity 
+to give people gravity to live with, but we can’t  
+spin the asteroid or it would fly to pieces.
+Which takes us to the third handy bit, graphene  
+has enormous tensile strength, which is great for 
+space elevators and other tethers, such as if we  
+want to tow things far behind the ship for safety, 
+like an antimatter reservoir or radioactive  
+fission fuel. It also makes it a nice net for 
+holding our asteroid together if we did spin it,  
+but we probably wouldn’t want to anyway. It makes 
+more sense to dig out a cylinder-shaped crater and  
+put a small rotating habitat drum in there as 
+opposed to trying to spin the whole thing. In  
+practice you would probably find a nice crater of 
+about the desired diameter, then dig it out a bit  
+and use the parts extracted to build up and around 
+so you had a hollow cylinder partially protruding  
+from the asteroid and partially embedded into it.
+Or you might dig your hab drum in completely, for  
+maximum shielding, and use the extracted bits for 
+constructing fuel drums, manufacturing facilities,  
+hydroponics, or other areas of lower priority for 
+shielding. You can use this same technique on a  
+comet, which tends to have a lot of rock and 
+metal too but are principally ices of water,  
+ammonia, and methane, and you can melt 
+out tunnels, separate the components,  
+and pipe the fluids to radiated areas to 
+refreeze it and use for construction or storage. 
+As time goes on your big rock is going to start 
+taking on more artificial characteristics and  
+probably shifting toward being long and skinny, as 
+that’s a better shape for high speed travel than  
+a sphere. Not that many asteroids really 
+are spherical. The big famous ones are,  
+like Ceres, which is practically a dwarf 
+planet, but most are no more spherical than  
+any other rock you’d find on Earth. They’re 
+a lump or glob, and any resemblance to a  
+specific geometry is mostly coincidental.
+Over time the rock might start to look  
+more streamlined but that might be a project of 
+years or even millenia. Even a modest asteroid,  
+like the kind we have thousands of in our 
+solar system, might have thousands of miles  
+of tunnels and hundreds of cylinder 
+habitats and giant chambers in it.  
+I should also note that you can merge asteroids 
+fairly easily in most cases, they’re just heaps  
+of gravel or ice, so merging a comet with your 
+asteroid to give it fuel and an icy coating  
+might be a common exercise, as would adding a 
+second asteroid to one you’ve already built on. 
+A lot depends on how long the mission is planning 
+to last, and that involves many factors. The first  
+of course is your power supply and starship drive. 
+We’re assuming no FTL or warp options though,  
+if you had those, I’m sure you’d utilize them, and 
+such a ship might still be great for intergalactic  
+travel. By default, we tend to assume fusion 
+power, and we discussed that a bit already,  
+but there are other options. Antimatter of course, 
+if you can make and store it. Blackhole drives are  
+excellent, same problem though. But with black 
+holes, you can feed them anything. Both would  
+have little difficulty getting up to somewhere 
+between a quarter and half-light of speed,  
+versus the more like 5-15% that fusion might 
+permit. Nuclear fission using uranium or thorium,  
+via an Orion Drive or Medusa Drive or some other 
+variant, is probably getting you somewhere around  
+1-5%. And those are top speeds, in any case 
+you may be a whole order of magnitude slower. 
+Those are vague numbers, I know it drives folks 
+nuts that we can’t give more specific values for  
+how fast this or that ship drive might go, but 
+it’s sort of like asking the Wright Brothers how  
+fast a plane can go and expecting a specific 
+speed. They don’t know how to engineer a jet  
+yet and even if they did, a fighter jet and a 
+big cargo plane are very different animals with  
+very different speed profiles, which are 
+also dependent on cost of fuel or pilots. 
+You also aren’t always willing to go for maximum 
+speed, it’s just so easy to think of that vast  
+supply of hydrogen and assume you’re going 
+to max things out when it saves years on a  
+journey. However, engines probably cost a 
+lot of money and time to build and repair,  
+and probably wear down proportional to usage, so 
+there’s no real guarantee folks will go for 12%  
+of light speed, if that was the maximum fusion 
+allowed, if 10% basically cost half the price. 
+We also have options like laser sails, where 
+it’s all about huge energy collectors pouring  
+incredible amounts of energy into the back of 
+the ship to either push it along with reflected  
+light or power huge ion drives that are more 
+like particle accelerators than rockets.  
+Here, a ship’s speed is basically about how 
+much energy you dump in from home and this  
+method of propulsion is less reliant on the rocket 
+equation, especially for the laser reflection,  
+and so the amount of power needed to get it to 
+higher speeds is lower but also it takes real  
+energy you already made back home, so people 
+might be a bit more miserly with it than with  
+tons of hydrogen on some gas giant, especially 
+when we’re talking about moving a mountain. 
+But let’s consider a few specific scenarios 
+as options, and start with 1036 Ganymed,  
+which in spite of its name is a Near Earth 
+Asteroid, not Jupiter and its moon Ganymede,  
+and is also a Mars Crosser, so might be ideal for 
+turning into a planetary cycler one day. With one  
+big, big problem. It’s 40 kilometers across and 
+should have mass somewhere near 100 trillion tons,  
+making it billions of times heavier than 
+any spaceship we’ve ever made before and  
+each ton of that would need many millions of 
+joules of kinetic energy to nudge it onto the  
+desired course - think millions of megatons of 
+explosives. So on the one hand common sense says  
+pick another smaller asteroid or even break 
+a chunk of this one off and use that instead. 
+On the other hand, a 1000x1000 kilometer orbital 
+mirror sending its power to that rock 24/7 could  
+get the job done in a few years, and as we 
+noted earlier, a single sheet graphene panel  
+that size would only mass a couple thousand 
+tons, and even if made many layers thick,  
+it's still pretty minimal. I’d imagine you would 
+do dozens of circular ones of a more modest  
+diameter orbiting closer to the Sun where they get 
+more power, and use those to move it up to speed. 
+Scale matters though, because I can casually talk 
+about a giant ultra-thin mirror only massing a  
+few thousand tons but the power output 
+of that object is a billion megawatts,  
+around 50 times what the power consumption of 
+humanity is these days. We do actually have  
+some lasers that are that powerful incidentally, 
+they just usually fire for a nanosecond or less,  
+meanwhile this would be going on for years. 
+You can run a lot of industry and economy on  
+something like that, and it is usually why I don’t 
+think civilizations would use asteroid ships. 
+But we do have to remember that scale and what 
+it is to them. Interstellar space colonization  
+is likely to occur at a time when all of 
+humanity is still numbered in billions  
+or maybe low trillions but has easy access to 
+space, and a Sun that puts out 400 billion times  
+the power this beam needs and a couple billion 
+times what lands on Earth as sunlight. They’re  
+not having a shortage of available sunlight, 
+nor carbon or aluminum for mirrors or lenses,  
+so to them the cost is simply producing the 
+mirror and the focusing equipment and controls.  
+That wouldn’t even have to be graphene either, 
+robots rolling aluminum foil on the Moon – or  
+from the asteroid – would need to make a lot 
+more in mass, a few hundred megatons probably,  
+but even so, that’s comparable to modern 
+production of aluminum. But in this scenario,  
+the cost of aluminum is probably way cheaper 
+since the bottleneck on aluminum production is  
+electricity… which means once you get it going 
+it gets even cheaper still to actually do. 
+Now, such immense beams are far more than that 
+asteroid is going to need to run life support  
+and hydroponics once it is positioned on its long 
+orbit around the Sun that makes it pass Earth and  
+Mars over and over. More likely it would have 
+its own sets of parabolic mirrors towed around  
+with it that beam power into collectors for it, 
+or maybe it would have a lot of nuclear reactors.  
+This thing is a giant star fortress too, it’s not 
+for ferrying a few dozen people and some cargo  
+around. It’s not like smaller cyclers that might 
+be thought of as a cruise ship or container ship.  
+It’s basically a hollow mountain, and it’s going 
+to become a major space city or nation all on its  
+own. On the surface of its 35-kilometer-wide 
+bulk are a vast number of craters and canyons,  
+natural, artificial, and those in-between.
+Each one of those is a potential spacedock  
+and sometimes that’s for big cargo haulers that 
+are hundreds of meters long themselves and other  
+times it’s for small space yachts. All around 1036 
+Ganymed would be various antennae and dishes and  
+tethered solar panels or facilities, and inside 
+it, dozens of cylinder habitation drums stretching  
+a kilometer each or more. It’s huge and home to 
+millions, most on temporary five month journeys  
+between Earth and Mars or Vice Versa. It could 
+house billions, and one day will, and is probably  
+vastly bigger than you really need for a Cycler. 
+We’re basically turning something considerably  
+bigger than the island of Guam into a giant 
+shipping vessel, and it’s three dimensional too,  
+not just a small island surface, but the whole 
+mountain connecting it down to the ocean floor. 
+You could stuff every building humanity has 
+made into that volume, with room to spare,  
+and it has enough raw materials to build that 
+many times over, as our buildings are generally  
+hollow. 1036 Ganymed is the biggest of the Near 
+Earth Asteroids but there are hundreds of bigger  
+ones in the Asteroid Belt and millions that would 
+honestly be better suited as a cycler, we were  
+using an intentional large case. An Asteroid that 
+was maybe half a kilometer or less across probably  
+is a better pick in the nearer-term. That could 
+be hollowed out to form a large metropolis with  
+plenty of warehouse and tank space, and needing 
+barely a millionth the energy and thrust to get  
+them aligned on a good trajectory to serve 
+as a cycler to various planets and moons. 
+You might transform one into a giant 
+hydroponics farm too, mostly hollow and huge,  
+that had a growth phase when it was closer to 
+the sun, then dropped its food off afterwards,  
+and maybe concentrated the weaker light it got 
+further from the sun into a smaller region for  
+getting younger plants growing. In this 
+way, a long stream of cyclers might bring  
+food to Jupiter for instance and bring 
+deuterium or Helium-3 back to Earth. 
+But let’s take our big asteroid 
+and see what might happen to them.  
+Say that after serving as a big cycler for 
+a couple centuries and reaching a population  
+of a couple million, it decides it’s tired of 
+being a constant pawn between various Earth and  
+Martian power groups. It’s even been invaded 
+a few times, though the thick crust of stone  
+and rabbit warren of tunnels inside made that a 
+very unsuccessful effort the last try. They’re  
+not interested in another, and they’ve done great 
+financially over the years, so they’re cutting a  
+deal with the Governor of Neptune’s largest 
+Chandelier City to refit them for new model  
+fusion reactors and pump them up on fusion fuel.
+They’re going to sell all their local holdings  
+to pay for that and for some serious beaming 
+power from the various solar conglomerates.  
+They’re not stopping at Neptune, everything 
+is going to be carefully timed to rendezvous  
+with them as they corkscrew out of the 
+system, and they’re going to drop a big  
+dish behind them to focus that beaming power 
+on them as they head out into the Oort Cloud. 
+By the year 2626 they’re moving out of the solar 
+system at 10% of light speed and have finished  
+installing their reactors and rigging their ship 
+for interstellar space. You might be picturing a  
+big rock tumbling through the void but in reality 
+that’s just the centerpiece. Strung out behind it  
+are millions of buckyball shaped fuel reservoirs 
+and some other ancillary facilities, even a few  
+small habitation rings for the folks who tend 
+the trailing fuel pods. Way behind them is a big  
+satellite dish and detection array for monitoring 
+space to the side and behind, and for talking back  
+to Neptune, with whom they have a multi-century 
+contract to send them news and tech updates. 
+If you’re looking sideways from the asteroid 
+or from the trailing fuel tanks, you don’t  
+actually see stars. Rather there's a lot of thin 
+sheets of graphene spun out around it as rings,  
+just a few atoms thick, and lots of them of 
+slightly different diameters and spin rates. Their  
+only real job is to get smashed up by any space 
+rock that comes in at an angle and at high speed,  
+shredding the panel in question but shredding 
+the rock too, so it’s more like scattered dust  
+when it hits the ship. Forward of the asteroid 
+ship is something similar, the ship looks like  
+it has a giant umbrella poking forward out of 
+it. That thin forward shield exists only to get  
+hammered by any space junk the asteroid would 
+otherwise run into at relativistic speeds. Skinny  
+Diamond shafts hold the umbrellas out in front.
+Such collisions are of such high energy that they  
+match a nuclear bomb of the same mass and utterly 
+vaporize everything involved, so a thin sheet is  
+ideal for this. You just replace the damaged 
+section with another patch. They are working  
+on a second layer even further out, and are 
+trying to decide what the best approach will  
+be for mixing in forward physical shields with 
+detectors and point defense lasers. This isn’t a  
+sail in the classic sense, but they treat it 
+a bit like their prow’s figurehead or flag,  
+and have an elaborate quilt of colored 
+patches on the forward shield. The newest  
+one was painted by a class of third-graders in 
+the ship’s schools. There’s several thousand  
+students in each grade level these days.
+Now, originally they had been planning to  
+use the remaining fuel to run up to a slightly 
+higher speed and save the rest for deceleration  
+and operations en route, but they’ve decided 
+they’re going to go faster and instead opt  
+to build more ships out of the asteroid's mass. 
+Again, the asteroid contains more raw materials  
+than humanity has ever used in every single 
+building and vehicle humanity ever made before  
+the Space Age really kicked off. One of those 
+ships will outpace the fleet by a few light  
+months and deploy the sequential solar slowing 
+method we’ve discussed elsewhere, firing off big  
+shells from its forward rail gun, containing 
+packed-up solar sails and beaming equipment. 
+Those will fly toward their destination Sun, 
+slowed by its light as they unfurl, and the  
+first one will soak up that light and fire it as 
+a beam back at the second one, slowing it more,  
+and it will repeat the process to the third, and 
+the fourth, with each sail crashing into the star  
+until one finally slows enough to orbit that 
+star instead. At the success of that operation,  
+1036 Ganymed, known these days as The Rock, 
+will briefly open holes in its umbrella and  
+begin a volley of rail gun fire containing 
+thousands of those shells, each containing  
+billions of square meters of graphene sail cloth.
+Once those are fired, it will begin unfurling an  
+even larger sail to receive that energy as it 
+gets beamed in, becoming briefly larger than  
+a planet in cross section. That sail will 
+get torn to pieces as it gets pummeled by  
+space dust and beamed energy, but will protect 
+The Rock and its escorts as that huge energy  
+supply from their destination slows them down.
+That’s all in the future though, for when they  
+arrive at their destination around the year 3000.
+Right now it's the 28th century and they’ve been  
+cruising along and growing their numbers. Day to 
+day life inside the asteroid is culturally a lot  
+like the late 20th century to early 21st because 
+a lot of the early space cultures idolized the  
+early space race period in the same way folks 
+often do for Elizabethan England or the Roman  
+Republic or Classical Athens, so lots of 
+denim jeans and Coca-Cola, plus some extra  
+culture mix of neo-Appalachian coal miner that got 
+popular in the Asteroid Belt in the 23rd century. 
+They’re not short of technology of course, they’re 
+essentially the opposite of a post-scarcity  
+civilization in the traditional sense since 
+they have a set amount of fuel and resources,  
+but their losses to production and consumption 
+and recycling inefficiencies are small enough  
+that their engineers claim they could coast all 
+the way the Draco Dwarf Galaxy a quarter of a  
+million light years from home, a spheroidal galaxy 
+that is one of our main galaxy’s many, many,  
+many cannibalized victims, and is perhaps best 
+known as the object with the highest concentration  
+of dark matter that we have currently observed. 
+That’s not their destination, but they’d get  
+there in just over a million years at their 
+current cruising speed of 20% light speed. 
+There’s some debate on if they really have 
+enough fuel to run their reactors that long,  
+especially as leakage happens, but they are 
+confident their current telescopic arrays  
+could spot any decent-sized frozen ball of ice 
+in interstellar space, and they could send a  
+robotic tender behind to power-decelerate and 
+land on it and deploy an automated refinery  
+and rail gun system to launch fuel pods to them 
+to capture. Several cousin vessels are planning  
+on similar attempts and will report success or 
+failure as it happens, plus light lag for the  
+signal of course. They’re planning to field test 
+that at some point but they don’t really plan on  
+needing it as they already have a destination.
+With a population now over a few million and  
+with a couple centuries of breeding 
+and advanced medicine, they expect to  
+have a pretty big colony when the time comes but 
+still won’t have used up most of their rock yet.  
+Now, it’s sort of the tradition on The Rock 
+to have worked as a miner at some point,  
+up to and including swinging a real vintage 
+pickaxe, which is quite a trick in micro-gravity,  
+but most real mining is done by robots with 
+minimal human supervision, and honestly that’s  
+true of everything on the ship in terms 
+of primary production of goods and food. 
+Tunnels don’t really need much shoring up 
+in microgravity and they use something like  
+spray-on diamond foam for them, so the whole 
+place is shot through of thousands of kilometers  
+of tunnels these days ranging from just wide 
+enough for a person to float down head first to  
+big wide ones with a rotating cylinder inside. 
+Many of these will feature lighting and small  
+gardens but generally people only live inside 
+habitation drums a hundred meters wide or larger,  
+which are plentiful enough. The Rock itself has 
+all sorts of cylinders and towers and tethers  
+hanging out the back of it and what people call 
+the Curtain Wall, where giant blocks of stone  
+a couple meters wide were placed back from the 
+equator of the rock to form a vast cylinder wall  
+over 200 kilometers in circumference, and growing 
+in height toward the back of the ship every year. 
+Neat thing about microgravity is that you can 
+actually move a 10-ton block on your own as a  
+person, though in air it will resist being shoved 
+on more and slow down as the air drags it to a  
+halt. It’s more of a psychological barrier but 
+it’s another tradition, every adult has put a  
+block in at some point and carved their name 
+on it, usually many times, a lot of people  
+nowadays make it birthday tradition, and some 
+similar ones apply to carving out new tunnels,  
+slowly turning The Rock into something that looks 
+a bit like a floating island with skyscrapers and  
+towers on top of it falling through the void with 
+millions of fuel pods dragged behind it, or above. 
+They estimate they could easily house billions 
+but would need to send out resource gatherers  
+at that point, and would need many more centuries 
+than their journey requires to reach that number,  
+though some talk about just leaving 
+colonies behind and never stopping the Rock,  
+and maybe going all the way out to Draco, and 
+they already are less of a single community and  
+more like a metropolis with many suburbs and 
+satellite communities, all the way from the  
+deep caverns in the rock to communication 
+arrays tenders nearly a hundred kilometers  
+behind, dragged by long strong tethers.
+Such could be our experience with Asteroid  
+Ships. In the end, if you can pay the power bill 
+or the shipping costs for the fusion fuel, it’s  
+incredibly easy to just land on one and dig in 
+and convert it over time and need into a spaceship  
+and other facilities. A comet, especially one 
+with a rocky center, would work even better  
+for this purpose, and partially because they’re 
+already nearly interstellar, saving you the fuel  
+needed to break them away from the solar system.
+We’ll continue this discussion next week though,  
+as we contemplate Planetary 
+terraforming Strategies.
+As someone who tries to cover the future and 
+science, it's important for me to stay up to  
+date. And one of the things that drives me 
+nuts is having to check in every morning  
+to see what is going on in the world and 
+getting slammed by endless clickbait news  
+articles pitching sensationalism and typically 
+just copying each other and whatever point of  
+view that particular journalist got from the 
+echo chamber they write for. It’s a problem  
+everyone recognizes regardless of where they’re 
+at on the political spectrum or the planet,  
+but it seems like anyone proposing a fix is really 
+just offering another echo chamber to visit. 
+And that’s what impressed me about 
+Ground News. It’s not a news site,  
+rather it's the world’s first news comparison 
+platform that shows you how breaking news is  
+being covered across the political spectrum, 
+and gives you a visual breakdown of the new  
+sources covering a story and where they align 
+politically. It also shows you blindspots,  
+like which new stories are being underreported 
+by one side or the other. And you can watch  
+how international stories are being covered 
+across the globe using the interactive map. 
+Cofounded by Harleen Kaur, who got her start 
+working for NASA on the New Horizons Spacecraft,  
+Ground News is a Platform that makes 
+it easy to swipe between headlines  
+to discover which details are emphasized, 
+exaggerated, or left out entirely, and you  
+can even see your own news bias preferences, 
+if you’d rather not live in an echo chamber. 
+Ground News is not better news, it’s 
+a better way to read the news, and you  
+can go to Ground.News/IsaacArthur to try Ground 
+News for free, or subscribe to get access to all  
+the features you see here and support our show 
+and a small team of independent media outsiders  
+working to make the news more transparent, 
+again, that’s Ground.News/IsaacArthur.
+So that’s it for today but we still have our 
+Monthly Livestream coming up this weekend, Sunday  
+January 29th at 4 pm Eastern time, where I, and my 
+lovely wife and cohost, Sarah, take live questions  
+on the show and our topics from the audience chat.
+Then it's on to February to talk about turning  
+barren planets into homes for humanity, with 
+Thursday February 2nd’s episode, Planetary  
+Terraforming Strategies. Then on February 9th 
+we’ll discuss a surprising candidate for possibly  
+hosting alien life, large oceanic worlds with 
+massive hydrogen atmospheres, or Hycean Planets.  
+And don’t forget to join us after that for the 
+mid-month Scifi Sunday episode, on February 12th,  
+where we’ll look at the concept of Super Soldiers.
+If you’d like to get alerts when those and other  
+episodes come out, make sure to hit the like, 
+subscribe, and notification buttons. You can  
+also help support the show on Patreon, and 
+if you want donate and help in other ways,  
+you can see those options by visiting our website, 
+IsaacArthur.net. You can also catch all of SFIA’s  
+episodes early and ad free on our streaming 
+service, Nebula, at nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

@@ -1,0 +1,553 @@
+Welcome to a short in-between episodes episode.
+The reason I’m releasing this now is there
+was a draft paper released recently, titled
+“The Fermi Paradox and the Aurora Effect:
+Exo-Civilization Settlement, Expansion And
+Steady States” and it started getting discussed
+and I had several requests to do a video explaining
+it, so I thought we’d go through it and
+then get into some of the pros and cons for
+the theory.
+Let’s start with the title.
+If you’re watching this episode odds are
+you already know what the Fermi Paradox is,
+which is the apparent contradiction between
+how empty of life the Universe appears to
+be, and just how huge, ancient, and filled
+with potentially habitable planets it is,
+or basically, where are all the alien civilizations?
+But the Aurora Effect is probably unfamiliar
+unless you’ve read Aurora by Kim Stanley
+Robinson, author of the Mars Trilogy.
+We’ll use the definition from the paper,
+that “Good worlds are hard to find”, which
+is to say, just because you might find a planet
+you could settle and terraform, doesn’t
+mean it’s really one you’d invest the
+effort into, or for that matter be able to
+transplant a civilization there that could
+successfully grow.
+History is full of settlements that failed
+or stalled out after all.
+Let me start by saying that I have issues
+with the theory, which I’ll expand on once
+I’ve laid out what that theory is.
+So, let’s first go through that paper in
+a more relatable way so we understand what
+it’s all about.
+If you assume that most systems don’t have
+a place anyone wants to live or will thrive
+at, it really puts a dent in the classic expansion
+model for the galaxy.
+That assumes you colonize in a first wave
+from Earth, or our solar system anyway, and
+then those colonies colonize those near them
+eventually, who do the same.
+This is a very common approach for modeling
+galactic settlement timelines and we often
+refer to it as percolation because you can
+then model it like a fluid going through some
+porous substance.
+How many worlds are viable for settlement
+and how quickly those settlements grow to
+being willing and able to dispatch a daughter
+colony of their own, rinse and repeat.
+Models based on this are very sensitive to
+a number of variables, and can thus produce
+a wide range of galactic colonization timelines.
+For instance, if our colonists can and want
+to settle every star system, can travel at
+1% of light speed, and we assume the typical
+colony begins with 10,000 people, doubles
+in numbers every 50 years like we did in the
+20th century, and will colonize a new system
+when they get to 10 billion people, they need
+to double 20 times, to go from 10,000 to 10
+billion, and it will take them just a millennium
+after settlement to get to colonizing their
+own new systems.
+Just to keep the math easy, if they only travel
+at 1% light speed and only settle within 10
+light years, it takes them another millennium
+to get a colony ship to all those systems
+in range, so basically your colonization wave
+percolates out at 10 light years per every
+2000 years.
+It means you colonize at 0.5% of light speed,
+you travel at 1% but spend half your time
+stopped and growing in numbers.
+Galactic Colonization, everything within 100,000
+light years, would take 20 million years.
+That sounds like a long time, but to put that
+in perspective, a single rotation of our galaxy
+takes roughly a quarter of a billion years.
+So, this 20 million-year timeline means not
+much in our galaxy has changed, At the local
+level, a score of centuries won’t rearrange
+the locations of neighboring stars much either,
+so we treat the galaxy as basically static.
+In other words, the stellar motion can be
+ignored for colonization.
+However, you can play with those numbers a
+lot, or even outright discard the model when
+using something like our Gardener Ship approach.
+If your ships can move at a modest fraction
+of light speed, say 10%, then most of the
+percolation time is growing your numbers on
+each new planet, and you can advance from
+each one a lot further for each step, since
+they can hurl new colonial ships much faster
+& further each time.
+You might make steps of 100 light years every
+two millennia, colonize at 5% light speed,
+and settle the whole galaxy in just 2 million
+years.
+You are also way less likely to stall out
+on any given front because you’ve got such
+a large range encompassing so many settled
+worlds that if some don’t grow quick and
+send out colonies, many others are plugging
+that gap, like broadcasting lawn seeds.
+On the flip side of this, if you have to go
+slower, or if many worlds just aren’t desirable
+for colonization or if they grow much slower
+or tend to lose a desire for colonization
+and don’t send out ships once they can,
+then you percolate far slower and might even
+stall out completely.
+If we were assuming it took 100,000 years
+to grow enough to make each new jump and it
+was 10 light years a jump, you’re creeping
+outward from Earth at just a percent of a
+percent of light speed and will need a billion
+years to colonize the galaxy, during which
+time you can basically discard the notion
+that humanity is even doing this, as your
+civilizations are diverging massively at each
+step so that even your nearest neighbors or
+mother world are basically different species
+and you might argue about who colonizes what,
+since there’s not likely to be much team
+spirit even in your local expansion area.
+This is even more hindered if you can’t
+expect to find a suitable candidate in 10
+light years of you.
+If you can only make a successful colony around
+maybe 1 in 100 stars similar enough to our
+own, and only maybe 1 in 100 of those has
+a planet that’s a desirable candidate for
+terraforming, you’re only going to have
+a couple candidates within a 100 light years
+of you, not the many thousands we normally
+assume when discussing this topic here on
+SFIA.
+If your ships aren’t relativistic, and you’re
+focused on terraforming planets, that’s
+a real long voyage to ask folks to make for
+the honor of living on desolate wastelands
+for the many millennia it will take to terraform
+them properly.
+And it is the basic reasoning behind the classic
+scifi space opera of galactic empires with
+only a few million inhabited worlds.
+That colonization process is very slow and
+very hard and very disorganized and can peter
+out as colonies fail or just barely prosper
+and aren’t interested in repeating the Herculean
+task of colonizing again themselves.
+It also implies you might have dead colonies,
+ones that just failed and that went extinct,
+and timelines long enough that even if an
+older alien one did so on a world we came
+across, we might not even know they had.
+That’s also a popular notion in scifi, that
+great civilizations arise and eventually end,
+leaving little or nothing behind in their
+wake when a new civilization evolves and sends
+out its sons and daughters to do as they did
+before us.
+On such timelines you really can’t treat
+the galaxy as a static place either, not only
+might a civilization that once looked like
+a vaguely spherical blob have smeared itself
+across the galaxy as all the stars moved around,
+but they might actually be taking advantage
+of local stellar motion for colonization.
+If you are going the slowboat route of colonization,
+taking many centuries to prepare for missions
+that might move not much faster than our modern
+space probes, you might bypass nearer stars
+in favor of ones moving toward you.
+So the paper lists a number of parameters
+and assigns various values to them, those
+values we need not consider, they weren’t
+chosen out of a hat, but still are fairly
+arbitrary, even if reasonable guesses.
+And like Drake’s equation when you’ve
+got a lot of parameters, many of which you
+can’t nail down to even an order of magnitude,
+you can’t draw many concrete conclusions
+from them.
+We’re not going to walk through their math,
+though it’s an interesting model.
+Some of those parameters are the fraction
+of systems that are settleable, the density
+of systems, which is not uniform, some regions
+of space will be near wastelands while others
+will be much closer and richer in worlds than
+our own region.
+We’ve also got probe or ship range, and
+velocity, as those both are major factors
+in not just how far and fast you can go, but
+how many candidate worlds you have access
+to and if you’re even willing to do it.
+Others include probe or ship build and launch
+times, lifetime of the settlement, average
+stellar motion if you’re going slow enough
+you need to factor that in, and many more.
+This includes the notion that if settlements
+are dying off, folks would have to resettle
+them to continue expanding.
+Now this gets back to the Fermi Paradox more
+directly by reminding us of Michael Hart’s
+Fact A in his original conjecture about the
+Fermi Paradox, which is sometimes called the
+Fermi-Hart Paradox because Hart is basically
+the guy who began the discussion of the Fermi
+Paradox.
+“Fact A” is that there are no aliens currently
+on Earth, obviously not everyone agrees with
+that but it’s the basis of discussion for
+the Paradox, since there’s obviously no
+Paradox about where all the aliens are if
+the answer is out in a farm field crushing
+corn stalks to make modern art.
+I also usually don’t like calling that a
+fact, as a lack of evidence to me is more
+of an assumption than a fact.
+I’ve never seen leprechauns, don’t believe
+they exist, but I’m hesitant to say “Fact:
+Leprechauns are not on Earth”.
+Whichever, it’s the basic assumption of
+the Fermi Paradox along with the idea that
+while Earth and it’s life might be fairly
+special, it’s probably not so special we
+wouldn’t expect lots of other places where
+life can pop up and get a foothold and potentially
+be spawning other civilizations that might
+be interested in colonizing new worlds too.
+But there’s a second half of that, because
+while it says there are no aliens currently
+on Earth, it also implies none in the past
+too.
+By fossils and genetics, we can rule out us
+being an alien colony that got abandoned,
+unless it either happened a few billion years
+ago, since we can see a clear relation to
+other life on Earth and a common origin, or
+that they took more of the bioforming route
+and basically adapted themselves into our
+existing world very subtly, which is possible
+but tends to involve a lot of weird choices
+and handwaves to make much sense without ramming
+into the fossil record.
+That brings us to an outright failed colony,
+one that just didn’t take off and was being
+done to minimize disruption to the local and
+current life, and could maybe escape notice
+in the fossil record.
+Just to throw one out there for daydreaming,
+if some aliens came here 65 million years
+ago and settled near Yucatan, they might have
+domed things over at their base to avoid too
+much back and forth ecological leakage while
+they were setting up and since they and their
+own life would probably not match well for
+existing conditions.
+That’s something we’d do, even if we meant
+to totally replace the ecosystem already on
+a world, we’d want to study it in detail
+first and keep ourselves isolated.
+If after a few centuries things just weren’t
+working out, we weren’t growing much, and
+many of those born since were fond of the
+existing ecosystem and didn’t want it destroyed,
+I could see them abandoning the colony or
+setting the reactor to blow up and vaporize
+all the extraterrestrial life, leaving behind
+a big crater.
+This would effectively erase most of the evidence
+they were here, and time would do a good job
+removing the rest.
+This is an example of how you can decouple
+Hart’s Fact A, no aliens here now, from
+no aliens here ever.
+So the paper argues there’s an effective
+temporal horizon that would obscure our ability
+to see previous visitors or settlements.
+See the Cyclic Apocalypse episode though for
+why this normally won’t tend to work for
+expecting time to erase signs of prior civilizations,
+or short form, bones aren’t the only things
+that fossilize or otherwise leave a long-term
+remnant, and civilizations would tend to leave
+a ton of mysterious right angles in their
+geological records.
+The caveat here is you must have been a fairly
+large civilization to leave enough of those
+kinds of footprints that we’d be likely
+to have some survive and numerous enough we’d
+find them.
+So this is the basic notion: civilizations
+arise probably not too often, don’t find
+too much to colonize, take a very long time
+to do it, and often have local pockets grind
+to a halt or die off.
+When new civilizations arise, the time between
+these civilizations and their smaller scope,
+means you could easily not even see them if
+they’d had a colony next door at some point
+or maybe even on your own planet.
+We’ll mostly bypass the paper’s discussion
+of stellar motions because I think that overdoes
+things, if you are already assuming colonization
+so slow that each colonization front is incorporating
+the motions of stars and the galaxy not being
+static into their plans, I’d think you could
+just assume they will throw their hands up
+in the air and not colonize just because of
+the time needed.
+Whether you’re doing it by slowboat generation
+ships or probes that arrive and unpack and
+replicate and build a civilization, time remains
+a hurdle that many are not going to want to
+try jumping over, especially if that’s such
+a long time that whatever is doing the colonization
+isn’t going to even vaguely resemble what
+their mother system has mutated into or the
+original colonists who left.
+Hard to get the dinosaurs to colonize the
+galaxy if they know it will be humans who
+actually arrive, essentially.
+All right, that brings us to the question:
+what’s the flaw in the paper’s reasoning?
+Channel regulars are probably raising an eyebrow
+with me at that “Good worlds are hard to
+find” aspect, asking why you even care about
+finding good worlds since we normally wouldn’t
+even expect spacefaring civilizations to much
+care about planets, to quote my friend Fraser
+Cain, “Gravity wells are for suckers”
+you’ve just gone to all that effort to escape
+your own planet’s gravity well, why would
+you go set up shop on another one?
+So, when we talk about colonizing other star
+systems, we usually emphasize that you start
+not by landing on a planet there, but by linking
+up to various resource-rich low gravity objects
+like Asteroids and Moons, build rotating habitats
+there if you want or need gravity, and settle
+planets if you want to, but only after you’ve
+setup your basic space based industry and
+infrastructure.
+Planets may or may not have their value and
+might end up very prized by civilizations
+as potential centers, but in their own right
+are no bottleneck to expansion.
+If we assume that approach, it pretty much
+ends the theory under discussion today right
+there.
+Interstellar colonization is mostly done by
+civilizations that back home already mostly
+don’t live on planets, as they build and
+breed their way up to K2 civilization status,
+and while Earth-like planets might be highly
+valued, or not, most folks live in artificial
+habitats already.
+They’ve lived on one for the long trip to
+the new system, and ought to be happy enough
+in one at the destination or even prefer those
+over spending centuries to terraform a planet.
+Such being the case, virtually every star
+and planet, habitable or not, becomes prime
+real estate, because to you they are really
+just an electric outlet and building supply
+shop.
+But even if those systems are more valued,
+as they may well be, you will tend to backfill
+as you go, same as settlers always claim the
+best spots first and fill in over time.
+So, let’s get into the meat of my objection.
+This concept is very dependent on the notion
+that colonists are likely to be either limited
+or picky about what systems they settle and
+might tend to fail even then.
+That’s a perfectly reasonable assumption
+inside the usual space opera context of just
+settling Earth-like planets, but even ignoring
+the notion that we’re likely to build most
+of the places we live in, not terraform them,
+we aren’t going to make our first colonized
+world around another star.
+We’d try for Mars or Venus first, and either
+we find out that’s not practical, and either
+stay at home or go the artificial habitats
+route, or for a more cybernetic or digital
+existence, or we’d have gotten practice
+making places like Venus and Mars habitable,
+in which case we already know how to do it
+and if we can do them, then “Earth-like”
+gets very unimportant.
+Worlds of similar mass and temperature to
+Earth might not be too common, but if we widen
+the range to include wretched miserable rocks
+like Mars and Venus, then odds are you won’t
+ever have to look far for a star that’s
+got a candidate, and you also have a couple
+planets whose inhabitants won’t find them
+unappealing and can supply colonists.
+Even if you expand the habitable world definition
+to be safe, amenable star systems, without
+exposure to dangerous stellar events like
+supernovae, pulsars and quasars, the time
+horizons and backfilling of systems from continued
+growth will just leave gaps in your galaxy’s
+colonization, not roadblocks.
+The second flaw is that it probably won’t
+be a process of planet-hopping anyway.
+Even if planets are preferable, especially
+to folks who live on them, a future population
+of this solar system is likely mostly to be
+people who weren’t born on a planet, and
+live inside a great big cylinder, or on a
+computer chip, and neither of those cares
+much about either travel times or the destination’s
+planets, just so long as the destination has
+free matter and energy to exploit.
+The former already live on a spaceship, since
+a rotating habitat is a spaceship, and the
+latter can literally just send copies of themselves.
+Remember, we all suffer from confirmation
+bias, the tendency to search for, interpret,
+favor, and recall information in a way that
+confirms one's preexisting beliefs or hypotheses.
+We all currently live on a planet, so our
+bias is to naturally think that planets are
+good things to live on and in the future,
+our descendants will continue with that trend.
+However, that’s dangerous thinking because
+if we asked a farmer a couple of centuries
+back whether the majority of the world’s
+population would live in cities in the future,
+they would have laughed at us.
+They would have rightly argued that the majority
+of folks live as farmers and if everyone moved
+to towns or cities, there wouldn’t be enough
+farmers to feed all the city dwellers.
+Now, we know from our history that the farmer
+was ultimately wrong.
+Mechanization and technology revolutionized
+farming and today, the majority of folks now
+live in urban environments.
+We have to be careful not to apply the same
+confirmation bias to the notion that humanity
+will always want to live on planets too.
+By the time we’re ready to aim for galactic
+colonization, we’ll be a K2 civilization
+or moving toward that.
+Our solar system will be peppered with thousands
+or millions of space habitats, possibly far
+more, and the majority of humanity will not
+have set foot on a planet let alone lived
+on one.
+They won’t be wedded to the notion that
+planets need to be colonized any more than
+we are wedded to the notion that most of us
+need to be farmers.
+Another objection is just this general notion
+that civilizations can go extinct — they
+don’t.
+They can collapse and we’ve tons of examples,
+but they don’t just die off without external
+pressures, usually a rival civilization eroding
+them, even more so when they are high-tech
+and thus resilient to things like natural
+disasters.
+Collapse is not synonymous with extinction
+then, it’s just an alteration, usually to
+something tougher and stronger, except for
+when discussed by a historian who had a crush
+on the civilization under discussion and dislikes
+the barbarians who ended them.
+I don’t usually like to broaden the term
+evolution to include social aspects, but it’s
+valid on longer timelines and particularly
+in this case.
+Applying the survival of the fittest litmus
+tests to a large sample size, you should generally
+expect civilizations over time to get better,
+not worse, at surviving.
+You can argue that evolution, which generally
+breeds to make things tougher and more adapted
+to their area, does not apply to high-tech
+civilizations, but it basically doesn’t
+because through forethought, planning, and
+strategy we can do better than random odds.
+Which again kind of negates the notion that
+such civilizations will dwindle on new worlds,
+when they’re drawing on centuries of planning
+and prior experience and know what challenges
+await them.
+And even if we accept the idea that a combination
+of slow colonization, a low fraction of settled
+worlds of stars available, and modest long-term
+success rate for colonies would create “silent
+bubbles” in our galaxy, that won’t necessarily
+solve the Fermi Paradox.
+It will strongly depend on the visibility
+of civilizations; even if Earth is in the
+middle of a thousand-light-year bubble of
+space that’s not settled yet, or not anymore,
+the closest Dyson swarm or space beacon may
+still be visible.
+Especially as the folks living there know
+they are not alone and not hidden, since their
+launch would have been a big and recorded
+event, thus have every reason to be heard
+and none to hide, and we see none.
+Or short form, it’s a good theory for the
+more classic notions of planet colonization
+but like a lot of Fermi Paradox approaches
+for intelligent life being reasonably common,
+it’s leaning too heavily on classic notions
+of settling new places.
+What we’d tend to expect is our own system
+boasting many trillions of people living in
+space habitats that aren’t too interested
+in living on or colonizing planets.
+If you’re curious about some of the solutions
+we’ve discussed for that, check out our
+Generations Ships Series and Outward Bound
+Series, and if you want to know more about
+other solutions for the Fermi Paradox or the
+problems with them, try our Fermi Paradox
+series.
+And of course all of those, along with this
+paper, focus on the idea that while our technology
+will improve, it probably won’t get a lot
+of the neater advantages often seen in science
+fiction that tend to violate the speed of
+light or the laws of thermodynamics.
+This upcoming Thursday we’ll relax about
+that a bit and contemplate some of those more
+hypothetical technologies so advanced they
+are indistinguishable from magic, and what
+their implications would be for the civilizations
+that wield them, in Clarketech.
+For alerts when that and other episodes come
+out, make sure to the subscribe to the channel.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+You can also support the channel on Patreon.
+Until next time, thanks for watching, and
+we’ll see you Thursday!

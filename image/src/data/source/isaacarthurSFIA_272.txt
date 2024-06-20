@@ -1,0 +1,722 @@
+﻿This video is sponsored by CuriosityStream. 
+Get access to my streaming video service,  
+Nebula, when you sign up for CuriosityStream 
+using the link in the description.
+ 
+You’ve probably heard a lot lately about 
+the limitations of solar power as a green  
+renewable energy source. But with some 
+new supporting technologies on the way  
+and others already in the field, the future of 
+solar power looks as bright as the sun!
+ 
+So, in the last couple of years we’ve looked 
+at the Future of Fusion Power, of Fission,  
+of Thorium, and of Power Satellites, and I 
+thought it was time to take a look at the future  
+of solar power. So we will be looking at solar 
+photovoltaic, solar thermal, space-based solar,  
+and some more variations and trying 
+to see how the landscape will unfold.
+ 
+Now, whenever I do an episode on the future 
+of a given power supply, I feel obliged to  
+say upfront that my own philosophy on which 
+sort of energy we should research is “Yes”.  
+Barring something like a micro-sized and instantly 
+throttleable matter to energy converter or  
+similar, none of the power concepts really on 
+the table these days holds such an advantage  
+over the others that we should ignore them or 
+opt for a single energy option, which doesn’t  
+really seem a good idea even if one of the energy 
+sources is significantly cheaper than the others.  
+Diversity has its value, and just because you can 
+grow corn for half the price you could wheat or  
+sugar or rice, doesn’t make it a good idea to get 
+90% of your calories or fuel from that one crop. 
+ 
+We probably want to err on the side of caution and 
+assume the same is true for power generation, but  
+if you were going to pick one current technology 
+to go all in on, solar isn’t a bad one, since  
+it’s fairly plentiful everywhere. SUNMetrix ran 
+the numbers once for the worst place for Solar:  
+a cloudy archipelago north of Russia, and it 
+still has roughly a quarter of the sunlight as the  
+best place for solar over the course of a year. 
+And it’s not really subject to the same supply  
+chain issues we have for other fuels, mostly, 
+we’ll get to some of those problems in a bit.
+ 
+This is a big part of why folks like solar, 
+a sturdy and cheap panel offers long term  
+energy independence if slapped on a roof or in a 
+backyard, and combined with a good battery system,  
+gets around the issues of weather and nighttime.
+Now the materials to build those panels have  
+supply chain issues, same for either batteries or 
+another backup, but not for the fuel itself which  
+is renewable as long as the Sun exists. We have 
+to put that caveat in, because this is SFIA, where  
+we do regularly contemplate how to handle stuff 
+like refueling our Sun or civilizations lasting  
+long after even the stars burn out. But certainly 
+our Sun offers a more reliable and long term power  
+supply than fossil fuels. The point is a bit 
+more debatable for fission as nuclear has some  
+definite pros, including a very long term supply 
+of fuel as we looked at in the Future of Fisson.  
+Of course so would chemical biofuels or renewable 
+fuels, and another way you can use solar is  
+to grow crops and biofuels with it. For that 
+matter, it is a fairly chemically simple process  
+to suck carbon dioxide and water out of the air 
+and turn it into hydrocarbons like gasoline,  
+making them a carbon neutral fuel, but it 
+takes a lot more power to do this than you  
+get from burning that fuel, so it’s 
+value is in portability and storage.
+ 
+As a result there are pathways forward, 
+if solar panels get cheaper but batteries  
+mostly don’t, where we might use the sun to 
+power gasoline production to take advantage  
+of the high energy density and portability 
+of hydrocarbons or even hydrogen by itself,  
+if we get better at hydrogen storage. Which we 
+are, we could probably do a whole episode just  
+on hydrogen storage improvements and 
+their uses as a fuel, or propellant,  
+or in tandem with solar or nuclear energy. 
+Nonetheless, it's a topic for another time.
+ 
+Key notion as we go into these concepts, we will 
+explain how classic solar energy systems work,  
+but we aren’t even vaguely interested in trying to 
+break down the exact economics of a solar economy  
+compared to wind or oil or uranium, because that 
+is simply unpredictable 20 years from now. It's  
+nothing ever so simple as finding out what the 
+price point is for solar panels as roofing tiles  
+is so that everyone installs them, because we 
+could get to that price point tomorrow if someone  
+invented a cheap megabattery, or never if someone 
+invented a trusty Mr. Fusion for every home. In  
+the same notion, tomorrow someone could come out 
+with a clanking self-replicator that could mass  
+produce things like solar panels, but governments 
+might ban it being used Earthside so that we ended  
+up with microwave beaming from orbital solar 
+power satellites built by robots on the Moon. 
+ 
+There’s simply too much variability to 
+technology and economics in a generation to  
+speak with confidence, and for that matter we 
+can’t really do that with modern tech either.  
+Though we should never let that uncertainty 
+cripple us into inaction and not picking policies.  
+But we need to be cautious in picking those and 
+sourcing our data. Folks tend to compare the  
+rosiest numbers for their preferred energy source 
+to the worst numbers from other power plants and  
+usually from the crumbling old models rather than 
+the brand new ones, like comparing a brand new  
+wind turbine to the mileage of some 1970s Cadillac 
+getting 8 miles per gallon when it was brand new,  
+and using its mileage on some worn down 
+engine still kicking around. This is the  
+same thing we see a lot with nuclear power too, 
+or spaceships and airplane designs, folks often  
+don’t just pick on all the technology they don’t 
+like, but even do circular firing squads on the  
+version of the preferred technology they don’t 
+favor. We’ll skip examples as I’d imagine you  
+all can think of plenty, and most of us are 
+guilty of doing it ourselves at times too. 
+ 
+But most importantly, the tech just tends 
+to render all the neck-and-neck competition  
+of today irrelevant tomorrow. As an example, 
+one way around weather is to just float your  
+solar panel up on a hydrogen or helium 
+balloon to above the cloud layer, and the  
+higher altitude also gives you longer daylight 
+periods. However, this isn’t economical because  
+hydrogen and helium are really tiny compared to 
+other elements and tend to leak through them,  
+meaning you’d have to reel your blimp panel down 
+regularly to refuel it with expensive helium,  
+but advances in various 2D materials like graphene 
+show promise of ending that, in which case it  
+suddenly gets very viable to basically permanently 
+float objects, be it solar panels or wind turbines  
+or delivery blimp-drones using solar to drive 
+pumps and turbines to move around. Indeed you  
+can potentially float houses and cities that way, 
+see our Cloud Cities episode for more details.
+ 
+Graphene is also an amazing conductor and 
+superstrong, making it perfect for a discrete  
+power cord and tether holding that floating 
+panel to the ground and the houses or cities its  
+powering. In this very same way though, those same 
+2D materials, with amazing conductive properties,  
+are the ones that seem to promise us 
+the super-batteries we really want.  
+New materials being used in cathodes and anodes, 
+like graphene or ruthenium, appear to hold  
+the promise of making our current lithium ion 
+batteries old, obsolete, and clunky. Naturally,  
+that would screw with the economics of floating 
+panels connected by graphene wire tethers,  
+if it was simply cheaper and easier to 
+build and maintain twice as many panels  
+down on the ground and connected to cheap 
+and long-lasting super batteries that get  
+us around not just the weather and night, 
+but those unusual long-term outages too.  
+Very approximately, since its new tech still in 
+development, a battery incorporating graphene,  
+and new cathode technology, can hold about 6 times 
+the energy a current Lithium Ion one can, at about  
+a watt hour per gram, which is 3600 joules 
+per gram, or a kilowatthour per kilogram.   
+ 
+That’s actually very low compared to gasoline, 
+which comes in at a dozen times more dense,  
+though the battery is storing electricity 
+directly, rather than us combusting fuel  
+which we can convert into electricity at an 
+efficiency loss, and with additional heavy  
+machinery. What’s awesome about it though, is 
+that it would charge very quickly and store  
+energy at a very low rate of loss compared to 
+modern batteries, though it’s worth noting that  
+while modern batteries can lose a percent of 
+charge a day and be considered good, coal can  
+keep its energy bound up for geological timespans. 
+I think sometimes folks forget that it is not just  
+cost and inertia that keep fossil fuels in use, 
+they have a lot of edges over other options,  
+as those other options narrow those edges, 
+resistance to using them will probably decline.
+ 
+Another thing with graphene and other 2D materials 
+is that they appear to make for good solar panels,  
+which would circumvent some of the other 
+supply issues we have with modern solar panels.  
+Most panels are made mainly of silicon, a 
+substance basically as abundant as the carbon  
+we make graphene from, but frequently incorporate 
+lots of rare earths, which while not as rare as  
+the name implies and folks tend to think, are 
+hardly super abundant either. Current research  
+suggests that graphene-based panels would take 
+hardly any or no rare-earth materials at all,  
+and might even defy the Schockley-Quessier limit, 
+meaning you can get far higher efficiencies from  
+them than silicon semiconductor-based panels. 
+Amusingly you can actually generate power  
+from raindrops with graphene panels, which is 
+handy when it’s raining. Also a good reminder  
+that an ultra-strong and light conductive 
+material has some fairly broad applications  
+with rival technologies like giant 
+wind turbines or deep sea generators.
+ 
+This is not an episode on graphene, see our 
+episode the Impact of Graphene for that,  
+but it’s a good reminder how one technology 
+can massively disrupt tons of others,  
+much as computers and internal combustion 
+engines both did. And there are many other  
+technologies being developed for grid-scale power 
+storage, such as Iron-Air batteries, where power  
+density and weight are secondary to cost and 
+scalability. And computers and engines are  
+good analogies for cheap energy and solar because 
+they share that trait of being force multipliers.  
+The effect of cheaper and more reliable energy is 
+way bigger than simply a lower electric bill. 
+ 
+In this same way, a civilization where 
+most homes have solar panels on the roofs  
+and banks of batteries in the basement 
+is different economically - and probably  
+even culturally - from one with 
+that home solar for daytime use,  
+but nuclear power on the wider community 
+power grid for nights and weather.  
+Both of those approaches have a lot going for 
+them, as would other hybrids. You get a secondary  
+economy if you fully and smartly develop cottage 
+power production like that too, where folks  
+either opt to spend more to build and maintain 
+solar panels at their house in excess of their  
+regular needs, or build to those regular needs 
+and get more off the grid for peak consumption.
+ 
+I use the term cottage industry because folks 
+might supplement their income by overproduction  
+or restraining their usage, in much the same 
+way subsistence farmers do with their gardens,  
+livestock, or craftsmanship. In the grand scheme, 
+this wouldn’t be a huge economic impact I suspect,  
+but might have big cultural impacts since 
+it would tend to influence family life.  
+Families tight on cash have even more reason 
+to turn the lights off when not in a room,  
+since they can sell that energy, and so on.
+One problem with solar for this though, is that  
+peaks and valleys in use and production will tend 
+to flow together. I can’t really sell my excess  
+power on a sunny day to my neighbors to run their 
+Air Conditioning because it's sunny for them too,  
+and because I presumably want to run my air 
+conditioner too, of course I can probably leave  
+the temperature a degree higher for less comfort 
+and sell that excess energy for peak value. 
+ 
+That’s hardly a unique conundrum in supply and 
+demand, it tends to be common for anything that’s  
+hard to store, like produce for instance, or 
+bulky, like water. Nonetheless it’s always  
+a fairly irritating one and one that better 
+batteries or energy storage gets around, though  
+also assisted by using other power types in tandem 
+with solar, like nuclear, and by easier transport,  
+like massive superconducting electric trunklines 
+running around the planet – and of course those  
+introduce supply concerns too since folks can cut 
+those lines. When contemplating the future though,  
+we need to be pondering this stuff at least as 
+much as the basic science, because it’s how we  
+notice that it’s a very different future for 
+folks with big roofs and lawns versus those in  
+a multi-story apartment in a city, or for folks in 
+sunny deserts versus cloudy northern climates. 
+ 
+That is another example too. Because solar has 
+peak production in both time of day and time of  
+year, it's handy to either be able to store it or 
+use it for something you don’t need steadily. One  
+example of that would be for folks living in sunny 
+deserts to run a big pipeline out to the ocean and  
+run pumps and desalinate during the day and summer 
+– conveniently when your need for fresh water is  
+highest anyway – but water is relatively easy 
+to store en mass too, you just dig a hole and  
+line it. These kinds of binge and purge, famine 
+and feast sorts of production can often result  
+in things being economically viable – like 
+greening up the desert in those spots – simply  
+because you have a big surplus in production 
+at your peaks and need something to do with it.  
+This is also potentially handy for 
+doing things like producing aluminum,  
+an energy-intense process, or even that trick I 
+mentioned earlier for jamming carbon dioxide and  
+water vapor back together to make hydrocarbons.
+It’s probably worth noting though that bits of  
+your economy that are surviving because of such 
+a cheap surplus at peaks are often vulnerable to  
+rapid obsolescence from a new bit of technology. 
+In this case, better and cheaper energy storage.  
+Though all energy storage is likely to have a 
+significant cost in money, space, and maintenance  
+attached that it is likely to leave a decent 
+niche market for relatively cheap peak energy,  
+noontime solar and such. Batteries fell under 
+$100 a kilowatt-hour for the first time in 2021,  
+but that still means a household needing 5 
+kilowatts to run their home would need $5000  
+in battery storage in their basement just for a 10 
+hour night, before considering all the extra costs  
+surrounding getting those batteries installed 
+in the first place. Batteries need replacing  
+after anywhere from 5 to 13 years, and need 
+a fair amount of space and maintenance during  
+that time too. If you are spending $100 per 
+month maintaining your battery capacity,  
+you are probably not getting anything like the 
+savings on your bill you were hoping for. 
+ 
+I’ve been saying batteries a lot this episode 
+– and partially because I tend to be bad about  
+using it as a catch-all for energy storage, so 
+that I sometimes refer to even black holes as  
+batteries – and improvements to batteries will 
+help a lot, but I’m sure folks are expecting us  
+to get around to molten salt and solar thermal, 
+and now is a good time to segue into that.
+ 
+There’s a lot of ways to store energy – 
+indeed that desalination of water trick  
+is a more metaphorical example, akin to selling 
+energy and putting the money in the bank, to buy  
+energy later when you need it – but in terms of 
+easy manipulation of energy, modern rechargeable  
+batteries have a lot going for them, and maybe 
+the biggest part of that is portability.
+ 
+Sunlight coming into Earth either reflects off of 
+things or gets absorbed by them; this warms them  
+up and we can use that heat for power, just like 
+in any thermal power plant, which is most of them.  
+Indeed for outer space or a vacuum, we can 
+actually have reflective windmills pushed by  
+sunlight itself, but neither of those approaches 
+is considered a form of classical solar power.  
+We won’t get too deep into the woods here, 
+but when we say “solar power” we usually mean  
+photovoltaic power, which is where photons of 
+light hit a substance and spit out an electron  
+resulting in voltage and current. Hence, 
+photovoltaic. Volts are the measure of the  
+electromotive force, named for Alessandro Volta, 
+who invented the electrochemical battery cell,  
+or voltaic pile, in 1799. 
+This basic effect of electrons  
+moving around as a result of absorbing photons, 
+or emitting them, called the Photoelectric Effect,  
+was proposed in 1905 and is what Albert 
+Einstein actually got his Nobel Prize for,  
+not relativity, and it’s the basic principle 
+behind fluorescent and neon lighting.  
+However it wasn’t until we discovered 
+semiconductor materials about half a  
+century later that photovoltaic power began being 
+contemplated as a power source. This is not the  
+birth of solar power in general of course, which 
+predates humanity and drives every storm and fuels  
+every plant, and we have been using it for things 
+like solar ovens, heating houses, or sun-dried  
+bricks for making houses for a long time. 
+So the terminology can get a bit confusing.  
+When people are referencing solar power, they 
+do mean photovoltaic power, and less often but  
+still frequently, solar thermal. Solar Thermal 
+is taking advantage of sunlight to create heat  
+and then to run that through a heat engine in 
+the same way as we do for coal, gas, geothermal,  
+or nuclear, typically by running hot water through 
+a steam engine or turbine. Now there are several  
+ways to turn heat into energy, maybe the most 
+conceptually simple for solar thermal would be  
+a steam engine whose boiler had clear sides and 
+which many parabolic mirrors or magnifying glasses  
+angled towards it, heating the water into steam 
+and turning that engine or driving its pistons.  
+Indeed, the very first attempts at solar thermal 
+power did something along these lines, and never  
+really caught on due to their efficiency.
+The fluid that’s popular to discuss for use  
+in a modern solar thermal power plant tends to be 
+molten salt storage. This is where you have a big  
+field with a ton of moveable mirrors encircling 
+a big tower, and those mirrors tilt with time of  
+day and season to reflect sunlight at the top of 
+the tower in the center. Such mirrors are called  
+heliostats, short for helios stationary or Sun 
+stationary. That receiver superheats molten salt  
+which we then pump through to run a steam powered 
+generator. Molten Salt is handy because it is a  
+hot liquid at temperatures water would be steam 
+at, so it isn’t under any pressure and isn’t going  
+to burst pipes - that’s why there’s so much talk 
+about using it for other thermal power sources  
+too. Even on the Moon or other airless worlds, 
+relatively weak pipes can keep it a liquid and  
+just as importantly, some giant storage tank 
+can be built that’s well insulated but doesn’t  
+need to be super strong to avoid blowing under 
+the internal pressure like a hot gas would. 
+ 
+Since heat storage by quantity is about 
+volume, and heat loss from such objects  
+is about surface area, using molten salt lets 
+you make giant vats of solar-heated molten salt  
+that you can store for very long times. Under the 
+square cube law, scaling objects up squares their  
+surface area while cubing their volume, hence 
+a storage tank 10 times bigger has 100 times  
+the surface area leaking heat but 1000 times 
+the total heat storage, or energy storage,  
+so that it’s effectively cooling at a tenth the 
+speed the smaller tank would, in terms of energy  
+loss. So the molten salt heated in the day can 
+keep powering you at night, and if you build tanks  
+big enough, you can keep the salt temperature 
+fairly stable over many weeks or even longer.
+ 
+Indeed, since pressure isn’t as much of an issue, 
+you could do large vacuum flasks for even better  
+insulation, though this might be cost prohibitive 
+over simply building conventionally insulated but  
+bigger tanks. Insulation would not be costly 
+on a place like the moon though, where vacuum  
+comes with the location, and is a great way to 
+manage the problem with solar power on the Moon,  
+where the sun rises for two weeks and then 
+sets for two weeks. It’s an excellent approach,  
+and we often show an animation of such a 
+system on the moon in our moon-based episodes.  
+Also another example of good tandem use is with 
+nuclear, which often contemplates using molten  
+salts in this capacity (called a stable salt 
+reactor), though most people tend to take more  
+interest in using the salt as part of the fuel 
+and coolant rather than as a giant reservoir.
+ 
+Solar thermal works very well on any airless 
+world, and also in the vacuum of space. We often  
+contemplate using it for power satellites 
+in orbit of Earth instead of photovoltaics  
+for this reason. It’s a bit easier there 
+too because you don’t need heliostats,  
+you can just use a big parabolic dish 
+that stays stationary to the sun,  
+which removes a lot of the complex 
+components and therefore reduces the cost.  
+Also the lack of air prevents birds flying 
+through the solar flux and being incinerated.  
+Concentrating light on active support power towers 
+still results in some problems like that though,  
+which are hard to avoid with the intent of 
+efficient commercial power generation. 
+ 
+These issues are one reason passive solar or more 
+tuned down options are popular too. Passive solar  
+of course is where you make your roofs or 
+curtains reflective to bounce light away,  
+cooling your house, or very absorptive to 
+heat it. This of course is nothing new,  
+but if your rooftop was covered in mirrors 
+or heliostats pointing at your own personal  
+power tower and you had your own molten salt 
+reservoir and generator, that probably keeps  
+things low intensity enough to avoid obliterating 
+local birds without losing all your efficiency. 
+ 
+One nice thing about molten salt and steam 
+generators is they are definitely easy tech,  
+so it’s plausible that they could be something 
+installed at the neighborhood or even personal  
+home level. Outside of cases like that, 
+we tend to assume home based solar is  
+strictly either photovoltaic or passive. Don’t 
+assume it's limited to solar heating though;  
+solar cooling, or cooling things with 
+heat sources of any kind, such as with  
+the Einstein Fridge, is no more complicated 
+than the typical electric air conditioner. 
+ 
+In our contemplations of the Fermi 
+Paradox or cyclical civilizations,  
+folks often wonder how a civilization could get 
+technological if their world didn’t have fossil  
+fuels, either having never developed or getting 
+used up, and these alternative solar options  
+are good examples of parallel approaches without 
+electricity specifically or without fossil fuels,  
+and there’s some fairly fascinating options 
+for civilizations who develop fiber optic  
+cables for light transmission too. 
+That’s another topic for some other time,  
+but a key notion is that we always want to be 
+careful of comparing old techs to newer ones,  
+as the old tech has often had millions of folks 
+working for decades to improve its functionality  
+in myriad ways. We’re pretty amazing with what we 
+can do with internal combustion engines compared  
+to back in the 19th century for instance. Solar is 
+a great example of that and amusingly the science  
+that would have made it viable sprung up just 
+after we got very into using oil and coal. If the  
+order on that had been different, semiconductors 
+being discovered in the late 1800s for instance,  
+we might have gone solar sooner, and 
+be way better at it than we are now.
+ 
+Solar has a bad reputation in a lot of circles, 
+and I think a lot of it is a holdover of prior  
+times, much as with fears of nuclear energy. 
+Back in 2008, when companies like Solyndra  
+failed, the technology wasn’t as efficient and 
+cost-effective as it is today. For a lot of folks,  
+getting solar power and ethanol jammed down 
+their throats at increased costs while being  
+scolded for complaining about how inferior 
+they were as power sources did not sit well,  
+and tends to be one of my favorite examples of 
+horrible ways to roll out technology and policy.  
+You catch more flies with honey than vinegar, 
+but humans can handle vinegar just fine,  
+they just tend to get surly if you tell 
+them they should feel lucky about it.
+ 
+It can be hard to grasp just how quickly Solar 
+and Wind have developed thanks to the massive,  
+seemingly “wasted,” investment 
+in it at the turn of the 2010s.  
+Humans aren’t great with rapid change sometimes, 
+and the idea of solar going from unaffordable  
+to competitive in just 5 years, and competitive 
+to the cheapest source in another 5,  
+is foreign to many of us. Continued improvement 
+will help to speed that up, and of course  
+more widespread use will help with cost and 
+innovation too, much as with computers, cars,  
+and all sorts of household tools and appliances. 
+Economies of scale are a beautiful thing.
+ 
+It's easier to be confident about solar gaining 
+ground nowadays, but there is a reason it had a  
+lot of enthusiasm going for it even back when 
+solar panels were barely able to run a cheap  
+little calculator. Realistically the big appeal to 
+solar is that there’s hundreds of watts of power  
+hitting every square meter of this planet, 
+which amounts to about a liter of gasoline per  
+square meter per day, in terms of incident energy, 
+depending on your location and time of year. That  
+means even at 10% efficiency a hectare of solar 
+panels would be producing as much energy per day  
+as you’d get from burning 10,000 liters of fuel, 
+or 1000 gallons per acre per day. Forever, or for  
+billions of years anyway. And our newest solar 
+panels are running at over 25% efficiency now.
+ 
+Now that’s not free, you’ve got to make those 
+panels, maintain them, replace them, clean them,  
+and build and maintain the wires running to 
+them, and so on. However, I want you to imagine  
+you had some solar panels on your garage, say 
+just 5 square meters of them, 54 square feet,  
+or 9 by 6 foot, and some tanks on the side that 
+hummed and gurgled away and managed that 25%  
+conversion of sunlight into gasoline, getting 
+you 12.5 liters of fuel a day or 23 gallons  
+of gas a week. How much do you think most folks 
+would pay for that? Even at half the efficiency,  
+you’d need twice as many panels, but they would 
+still fit on most garages with room to spare.  
+Now batteries might do better, or hydrogen fuel 
+cells, or even molten salt, emphasis on the  
+word ‘might’ but it is a reminder that none of 
+these power techniques needs to be exclusive. 
+ 
+As we noted in our power satellites episode, even 
+with working fusion plants you’d probably still  
+either beam energy down to Earth as microwaves, 
+be it from fusion in those plants or fusion  
+from the sun collected as solar, simply because 
+generating power groundside produces more heat  
+on Earth per watt of electricity than beaming 
+it down as microwaves would. Even in space,  
+fusion might simply be more effort than equal 
+amounts of power collection by solar would,  
+at least until you hit the asteroid belt. Folks 
+tend to forget, it takes tons of actual solar  
+matter at temperatures of millions of Kelvin to 
+produce a single watt of power, that’s how rare  
+fusion events are in stars like our sun. It seems 
+like the containment system for something like  
+that would be big and maintenance heavy compared 
+to, say, a thin sheet of reflective material  
+for bouncing light and thin sheets of solar 
+panels or solar thermal power tower apparatus. 
+ 
+It’s very hard to say just how the 
+future of solar will go; we’ll use  
+and abuse all sorts of panels and batteries 
+and technologies in the next few decades,  
+and see what improvements and innovations 
+rise up from that. Fundamentally though,  
+as far as I can tell, solar power’s future 
+is as bright as the sun that fuels it.
+ 
+There’s an awful lot more to solar 
+power than we didn’t get to cover today,  
+and I’d recommend checking out Catalyst’s episodes 
+on Super Solar Cells and Battery Powered homes,  
+over on Curiositystream, for some more insights 
+on how solar might be arriving in our homes  
+in the next decade or so. One thing 
+I didn’t cover today and wished I  
+had in hindsight is the various types 
+of solar panels, like monocrystalline,  
+polycrystalline, thin-films, and PERC or 
+Passivated Emitter and Rear Cell panels.  
+These each have their current pros and 
+cons and how those pros and cons might  
+shift with some potential advances, may alter 
+the field and market in years to come. So I’ve  
+decided to make it the subject of another 
+of our extended editions over on Nebula.
+ 
+If you didn't know, Nebula is our streaming 
+service full of awesome content from creators  
+focused on informative but fun content. 
+It’s designed to give creators more freedom  
+than other platforms, and all our episodes of 
+this show appear early and ad free on Nebula,  
+and many have extended editions too like 
+today’s, as well as some Nebula Exclusives  
+like our Coexistence with Aliens Series. And 
+thanks to all of our NEbula subscribers since  
+it lets me do extended editions, which are 
+nice ways to do addendums on videos I usually  
+write a few months before they air and often have 
+additional thoughts on during final production.
+ 
+Now you can subscribe to Nebula all by itself but 
+we have also partnered up with CuriosityStream,  
+the home of thousands of great educational 
+videos like Catalyst, to offer Nebula for free  
+as a bonus if you sign up for CuriosityStream 
+using the link in our episode description.  
+That lets you see the amazing content on Curiositystream
+and Nebula for less than $15 a year, just use the link in the episode’s description.
+ 
+Incidentally we had a livestream Q&A this 
+weekend, and afterwards we posted a poll of  
+topics the audience came up with during that, and 
+there is still time to vote for your favorite of  
+those topics and as usual the winner will get 
+made into an episode, just head over to the  
+Channel’s Community tab and vote. Also all those 
+livestreams are available afterwards, indeed  
+most folks catch them after, but I gather many 
+folks aren’t aware that they basically just turn  
+into an episode after the stream ends.
+All right, next week we will take a couple  
+episodes to contemplate Kessler Syndrome, the 
+risk of a cascade of orbital debris around Earth,  
+and the implications it might have on the 
+Fermi Paradox as well as other scenarios,  
+natural or artificial, which might imprison a 
+civilization on their homeworld. One other case  
+folks often mention for that are worlds where the 
+gravity is too high to let them send rockets into  
+space, Super Earths, and so the week after that 
+we will examine those and how life might evolve  
+on them and how we might colonize them. Then 
+we’ll finish out February with a look at building  
+Water Worlds and Marine Space Habitats, and our 
+next Livestream Q&A on Sunday, February 27th.
+ 
+Now if you want alerts when those and other 
+episodes come out, make sure to subscribe to the  
+Channel and hit the notifications bell, and if you 
+enjoyed this episode, please hit the like button,  
+share it with others, and leave a comment below. 
+You can also join in the conversation on any  
+of our social media forums, find our audio-only 
+versions of the show, or donate to support future  
+episodes, and all those options and more are 
+listed in the links in the episode description.
+ 
+Until next time, thanks for 
+watching, and have a great week!

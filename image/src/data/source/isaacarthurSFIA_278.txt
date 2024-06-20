@@ -1,0 +1,863 @@
+﻿This episode is brought to you by World Anvil!
+ 
+Here on SFIA we like to say that if Brute Force 
+isn’t working, you are just not using enough.  
+If a spaceship propelled by detonating nuclear 
+bombs doesn’t count, I don’t know what would.
+ 
+So welcome to 2022 and the start of our Eighth 
+Season here on Science and Futurism with Isaac  
+Arthur, and I am your host, Isaac Arthur. 
+I thought we should start the dawn of this  
+new year by looking at the first Spaceship Design 
+that offered a realistic chance of sending a human  
+colony to a new solar system alive and intact. 
+That is Project Orion, initiated in the 1950s, and  
+we will ask what upgrades and modifications modern 
+technology might make Project Orion even better. 
+ 
+So we’ll be focused on essentially four things 
+today. First, a brief explanation of how Project  
+Orion works, along with an equally brief tour 
+of the history of it and some of its sibling  
+projects. Second, how to scale it up to be bigger 
+and more efficient. Third, how to scale it way  
+down to be cheaper and more viable to launch. 
+And Fourth, some hybrid scenarios, like using  
+atomic bombs to slow a ship at the destination 
+but pushing beams or lasers to speed it up.
+ 
+Now the entire Orion Project revolves around 
+a few pivotal concepts. The first of those is  
+that whether we’re talking fission or fusion or 
+even matter to energy conversion like antimatter,  
+the power involved at the nuclear level is 
+millions to billions of times higher than  
+what chemical fuels release. As an example, almost 
+every chemical fuel, or our best modern batteries  
+for that matter, is somewhere in the tens to 
+low hundreds of millions of joules per kilogram.  
+Body fat for instance is about 37 Megajoules per 
+kilogram, sugar and carbs about 17 megajoules,  
+gasoline about 44. Whereas a kilogram of uranium 
+fuel runs about millions times that range, fusion  
+loosely about ten million, and matter to energy 
+conversion is roughly a billion times denser than  
+chemical fuels, at 90 million-billion joules 
+per kilogram, from Einstein’s famous E=mc².
+ 
+To bring that into focus, Little Boy, the 
+bomb dropped on Hiroshima in 1945, released  
+63 Trillion Joules of Energy on detonation, and 
+weighed just under 5 tons at 4400 kg, or 14.3  
+Gigajoules per kilogram. That includes all the 
+housing and conventional explosives in the bomb,  
+which was a very primitive and inefficient device, 
+and yet it still pushed out 100 times the energy  
+per kilogram that hydrogen fuel could have, 
+our most energy dense chemical rocket fuel.
+ 
+This led to it being seriously contemplated as 
+a possible spaceship propellant as early as 1946  
+by Stanislaw Ulam, the co-designer of the 
+first thermonuclear weapons with Edward Teller,  
+though the notion had been played with before, 
+even written about by scifi juggernaut Robert  
+Heinlein in his 1940 short story “Blowups 
+Happen” that somewhat predicted fission  
+bombs before the Manhattan Project even began.
+This leads to problem two, nuclear bombs are  
+awesome power sources but give their energy off 
+way too fast, in a near-instantaneous detonation,  
+whereas nuclear reactors propel a spaceship by 
+using their awesome power to either heat up a  
+gas and shoot it out the back or to generate 
+electricity for running something like an ion  
+drive, to magnetically propel an ion stream out 
+the back or generate a beam of light that acted  
+as your rocket flame. You obviously lose 
+a lot of efficiency converting the nuclear  
+reaction into electricity and have a lot of heavy 
+equipment you have to carry around for that task,  
+but an electric ion drive or photon rocket 
+can make for a very good spaceship.         
+ 
+Another option would be super-heating 
+a gas to use as a propellant.  
+This certainly works to create an engine better 
+than a classic chemical rocket, but not by as much  
+as you’d think from those million-fold energy 
+densities, because the entire reactor and any  
+exchange materials have to be built from real 
+materials, which melt at certain temperatures.  
+It’s hard to get a rocket flame to temperatures 
+of 10,000 Kelvin if your entire apparatus melts  
+at 2000 Kelvin. And the hotter the gas, the 
+faster it pushes a rocket. Nuclear level  
+temperatures permitting ships to reach fractions 
+of light speed tend to involve temperatures  
+of millions of Kelvin, like we find in the 
+cores of stars where nuclear fusion occurs. 
+ 
+The smaller the atom or molecule serving 
+as propellant, and the hotter it is,  
+the faster a rocket can go by using it. Hydrogen 
+atoms coming out at stellar temperatures  
+are something we can produce and something that 
+lets you make ships propelled by them get up to  
+reasonable interstellar speeds. Unfortunately 
+we can’t rapidly produce them inside ships or  
+reactors without melting them, and we basically 
+produce them by setting off a nuclear bomb…  
+which is something you usually would not 
+want occurring in or near your spaceship,  
+it tends to void the warranty.
+This was all well known to scientists  
+at the time working with the notion of nuclear 
+reactors on spaceships. There were no treaties  
+about nukes in space at the time, and we 
+worried less about radation safety back then.  
+Nuclear engines looked good but not nearly as 
+good as a bomb would. See our episode the Nuclear  
+Option for more discussion of where the science 
+led there, with ion drives and photons rockets.
+ 
+Now Project Orion came later but for the next 
+decade the notion of using nuclear spaceships got  
+explored a lot, especially with the development 
+of the hydrogen bomb, the first of which,  
+Ivy Mike, massed a huge 74,000 kilograms, 17 
+times as much as Little Boy, but generated an  
+incredible 10.4 Megatons of explosion, 700 
+times more than Little Boy. As a reminder,  
+many of these devices weigh tons, but we measure 
+explosive yield in the equivalent weight of TNT,  
+10,400,000 tons in this last case, many 
+packed supertankers worth. It can get a  
+bit confusing at times which is why I 
+often use joules of energy instead. 
+ 
+The Mark 21 Bomb design, famous 
+from Castle Bravo’s TX-21 Shrimp,  
+would mass a mere 8000 kilograms and have a 
+yield of 18 megatons, 75 million-billion joules,  
+1200 times the yield of Little Boy for less 
+than half the mass of the overall device.  
+That’s nearly 10 Trillion joules per kilogram of 
+total nuclear device, a hundred thousand times  
+better than our rocket fuels. The entire Apollo 
+16 mission, the most fuel heavy Apollo mission,  
+came in around 30 trillion joules, or just 
+3 kilograms worth of that nuclear device. 
+ 
+And since most of an orbital rocket launch’s 
+fuel is going into lifting its own fuel,  
+basically a kilogram of a nuclear device would 
+let you get a modest-sized spaceship to and from  
+the Moon on one kilogram of bomb.
+With two obvious problems… first,  
+detonating bombs in our atmosphere is 
+politically and ecologically non-viable.  
+Since most of a rocket’s fuel is for getting out 
+of that atmosphere, a chemical rocket and a second  
+nuclear drive for use further from Earth is less 
+awesome as an option, though still very handy.
+ 
+Second, and it’s the big one, we can’t really make 
+a one-kilogram nuclear bomb and we can’t make it  
+detonate slowly, over a period of a few hours. 
+Now we can actually make bombs in that size zone  
+but we’ll come back to that later. Nuclear bombs 
+generally are way more efficient the bigger they  
+are, more energy per kilogram of fuel and device, 
+making for higher final speeds and by large  
+margins. The smallest nuclear device ever actually 
+made, the Mark 54, was a single kiloton device,  
+weighed only 51 pounds or 23 kilograms, and that’s 
+only a yield of 180 Gigajoules per kilogram,  
+better than Little Boy but only about 2% of 
+Shrimp and other thermonuclear bombs of the  
+50s. Nonetheless, that’s still more 
+than a thousand times energy denser  
+than even hydrogen rocket fuel, and a single 
+kiloton bomb is a lot more viable as a fuel. 
+ 
+How does this get done? Inside an atmosphere 
+you’re trying to ride a shockwave but up in space  
+your bomb is producing a ton of gamma radiation 
+which is only getting absorbed by the device, not  
+the air around it, so there’s no real shockwave, 
+just a massive release of radiation akin to a  
+neutron bomb. So you need a great big tough – and 
+massive – shield behind your ship to protect you  
+from the radiation and convert that radiation into 
+kinetic energy. This is where the pusher plate,  
+or various accordion designs, or front-mounted 
+parachute designs, come in to absorb the blast,  
+then convert that violent jerk into a slow push 
+or pull on the actual main inhabited part of the  
+ship. Or basically the blast kicks the pusher 
+plater forward into a giant spring system,  
+which then slowly relaxes back into 
+place, and that near instant hit  
+translates into several seconds of 
+acceleration up in the crew module. 
+ 
+We’ll get to ways to improve that, but the basic 
+idea then is that you detonate the bomb as close  
+to the pusher plate as you can without breaking it 
+so as to waste as little of the blast as possible,  
+and you just rinse and repeat. Closer 
+is better, and a bigger pusher plate in  
+width lets you detonate further away while 
+absorbing more blast, but the plate needs  
+to be strong too. Operation Plumbbob for 
+instance tested this concept with a one  
+ton steel plate pushed by a nuclear blast under 
+it, after which they never found the plate. 
+ 
+This is where project Orion comes in, 
+headed up by Ted Taylor and Freeman Dyson,  
+who any channel regular knows the work of, as 
+he’s a legend on this show, but their project  
+came in 1958 and five years later ended with the 
+signing of the Partial Test Ban Treaty of 1963.  
+That treaty might have greatly aided the mission 
+of peace, but sadly did a lot to limit nuclear  
+research. We could devote an entire episode to 
+just discussing that project and Curious Droid did  
+a good video on that topic a few years back.
+The report released by General Atomics in 1959  
+offered three basic sizes for Orion spacecraft, 
+the Satellite, the Midrange, and the Super Orion,  
+massing 300 tons, 1-2000 tons, and 8 
+million tons for each. Needless to say  
+that latter is eye-poppingly large, 
+8 Million Tons of ship and fuel,  
+and it is suitable for an interstellar arkship 
+and is the version most often being referenced,  
+along with various improvements that were added 
+later. It’s thousands of times more massive than  
+the satellite or mid-range, and tends to grab 
+all the focus from the public and scifi writers.  
+Those other smaller versions though tend to be 
+more of interest for folks actually in the field  
+because they’re a lot more practical and might 
+actually get funded in their lifetimes. 
+ 
+Many other in-between sizes of ship were also 
+proposed at various times, including some designed  
+to launch from Earth itself into orbit, which are 
+very economical ways to move a ship from Earth to  
+other planets using only atomic bombs, but we’ll 
+bypass those today because while they might  
+see use on other planets for early colonization 
+periods, I just can’t see us using them on Earth.  
+Mind you, launching Orion ships on 
+Earth is not some cataclysmic event,  
+but I think we would only be okay with testing, 
+building, and using these if we were expecting a  
+cataclysmic event. Like we needed to get people 
+off Earth to some other world before a doomsday  
+here occured. This is also essentially what 
+the Super-Orion design is for, though it  
+is typically envisioned as being assembled 
+and launched from Orbit or far from Earth.
+ 
+Super Orion designs might permit us to move whole 
+cities to other solar systems at about 1% light  
+speed, but we don’t need to move that many folks 
+or go that fast to get around the solar system,  
+and Super Orion ships costs on the order of 
+the entire US economy for a year to build,  
+at least circa the 1950s. The smaller ones cost 
+way less and work very well for colonizing our  
+own solar system from infrastructure on the Moon 
+and in Earth orbit and Cis-Lunar development. 
+ 
+While tests were done, obviously it didn’t 
+get built in their lifetimes for the folks  
+on Project Orion, that 1963 treaty basically 
+ended the project. Things shifted to more of  
+a theoretical basis since experimentation was 
+heavily curtailed. Nonetheless at this point we  
+have a spaceship engine and design that could 
+permit relatively fast missions from Earth’s  
+orbital volume to other planets and even to 
+other solar systems. It's not been built,  
+it's expensive, it's big, but it's all entirely 
+proven concepts and we have a lot of areas we have  
+gotten better at in the 60 years since the project 
+shut down and that’s what I want to focus on.
+ 
+One big thing folks often argue against is 
+that since it is nuclear bombs folks will  
+never be okay with such a ship being built. 
+I hear where they’re coming from but that’s  
+a very generation and culture specific viewpoint. 
+They can be handled fairly safely so long as you  
+limit the ships to not coming closer to Earth than 
+Geostationary with actual control of those bombs,  
+and for the tiny yield ones, even low orbit 
+unauthorized use is not exactly cataclysmic  
+though definitely a good reason to have orbital 
+defenses and intense monitoring in place. 
+ 
+One option that might help too would 
+be the Project Medusa approach,  
+which replaces the pusher plater to the rear 
+with a giant sail to the front that the nuke  
+gets detonated in and the ship gets pulled by a 
+tether. This lets you detonate your nukes further  
+from the actual planet while the ship is still in 
+low orbit or even stationary, like it was sailing  
+off a space tower or orbital ring. Such tethers 
+could potentially be thousands of kilometers long,  
+coming in from angles like cords on a parachute. 
+Folks might feel more comfortable with nuclear  
+ships in Cislunar space if the detonations 
+were only occurring above geostationary,  
+and you could potentially have the nuclear 
+magazine and launcher kept outside that space too.  
+The bombs for use further from Earth could 
+be sent by railgun from orbit or the Moon to  
+rendezvous with the ship once it's safely far 
+from Earth, or even sent as multiple packets. 
+ 
+It's not that I think folks would ever come to 
+love nuclear bombs and feel safe around them,  
+it's more that I think we’ll be comfortable using 
+them constructively when every country has them  
+and any asteroid miner with the right 3D printer 
+gear and robots can spit some fission bombs out  
+without anyone knowing – building nukes in secret 
+on Earth in your basement is a lot harder to hide.  
+I am hardly a fan of encouraging nations to 
+build nuclear arsenals but I generally see the  
+approach of preventing nuclear proliferation 
+as a losing strategy in the long term,  
+though effective currently. If they’re much more 
+available, then all the fears of their legitimate  
+use resulting in proliferation are redundant and 
+you might as well use them for productive ends,  
+since doing so no longer increases the risk 
+of anyone getting them for destructive ends. 
+ 
+There are a ton of productive uses of nukes too, 
+besides for spaceships, indeed our entire episode  
+on High-tech Search and Rescue was written on a 
+dare that I could come up with a valid reason to  
+use nukes in search and rescue… and I didn’t come 
+up with a single reason… I came up with four.
+ 
+So the smaller ones might have a role in 
+colonizing the solar system and sp let’s  
+examine improving those first. As mentioned, 
+Project Orion is the big original project,  
+but there were a lot of successors who worked 
+on it without being able to do any testing.  
+One is Mini-Mag Orion, or Miniature Magnetic 
+Orion, from around the turn of the century  
+that suggested doing fission with a magnetic 
+field compressing the fissile material. 
+ 
+Normal reactors are slow and nukes are fast 
+because we rapidly compress the fissile materials  
+so that every neutron made gets sucked into 
+neighboring compressed uranium or plutonium to  
+cause that chain reaction in microseconds. Every 
+neutron emitter and absorber is closer together,  
+so virtually every neutron is absorbed and 
+quickly, this causes the explosion. However,  
+a magnetically compressed fissile material 
+might let you bridge that gap between slow  
+reactor and hyperfast bombs. Most of the 
+weight of smaller bombs is the conventional  
+chemical explosive used to detonate them, and 
+discussions of minimum critical mass are always  
+in the context of such implosions. Expected 
+yields would be as low as 50 gigajoules,  
+about 4 seconds worth of the power emitted by 
+rockets during the launch of the old shuttles,  
+and about a dozen tons of TNT equivalent, rather 
+than the thousand tons or kiloton TNT equivalent  
+of the smaller nuclear bombs. You can make 
+a much smaller orion device and potentially  
+a pretty efficient one, for a fission-only 
+version, by being able to bypass all the  
+chemical explosives and the sizes needed for 
+critical mass of a conventional nuclear bomb.
+ 
+Now I love Mini-Mag and would 
+love to see it get developed more,  
+it holds a lot of promise as both a propulsion 
+system and a weapon system and could potentially  
+be ramped up to creating micro-fusion bombs too, 
+but development of it is probably not going to get  
+lots of interest in funding in the near future as 
+it's not really super-tempting as a power supply.  
+It also runs parallel to a lot of looks at using 
+magnetic confinement for fusion too. So I think it  
+will get explored but sadly not sooner than later, 
+it's got a lot of potential. Magnetic confinement  
+or compression of fusion fuel is also present in 
+the Project Daedelus and Longshot variations.
+ 
+Another approach is to use bombs, just make 
+them a lot smaller. Suitcase nukes are mostly  
+a myth – the W54 warhead was still 23 kilograms 
+and easily detectable so not something you’re  
+sneaking it in a classic suitcase, but we can 
+make them smaller. We’ve pretty much maxed out  
+conventional explosives but nukes are made out of 
+weapons grade uranium or plutonium mostly because  
+of cost. There’s more to fission than Uranium-235 
+or Plutonium-239, as we looked at in the Future  
+of Fission and its companion episode the Future 
+of Thorium, and last I checked Californium-252  
+had the lowest Critical Mass, at 2.7 kilograms, 
+versus 10 kilograms for Plutonium-239 and 50 for  
+Uranium-235. Californium-252 only has a half-life 
+of 31 months and has to be made by first making  
+Curium from Uranium-238, which is fairly expensive 
+at hundreds of thousands of dollars per kilogram.  
+But then you have to turn that curium 
+into Californium-250 by alpha bombardment,  
+then into 252 by further neutron bombardment. So 
+very expensive to produce currently compared to  
+U-235 or Plutonium, but that could change. 
+As a reminder, aluminum used to be hugely  
+expensive, rivaling precious metals, then we made 
+cans out of it when it got cheaper. One problem  
+though is that bombs using materials with short 
+half-lives might not work well for an interstellar  
+ship, since its bombs will decay before arriving 
+and thus can’t be used to slow the ship down.
+ 
+Uranium-233, incidentally, has a critical mass 
+of only 15 kilograms, which is the reason that  
+sometimes comes up as a worry in concerns about 
+Thorium for nuclear proliferation. Certain  
+technological pathways might make U-233 very easy 
+to produce and refine, which might make it very  
+handy as an alternative to plutonium or U-235 for 
+off world nuclear power and propulsion scenarios.
+ 
+Now there’s a couple other things that could 
+make light-weight Orion variations viable  
+but some also work for the bigger version 
+too. As an example, the basic pusher plate  
+design is a big flat plate on a big huge 
+spring or accordion system because, frankly,  
+that is a system which is hard to screw up and 
+can take a lot of abuse and still work, which is  
+handy for something you are repeatedly nuking. The 
+upside of a big metal plate is any of its surface  
+vaporized off in a given detonation is basically 
+acting as a rocket flame giving some push too.  
+Alternatively something more like a piston 
+head shove by the blast into a cylinder of gas  
+which compresses and slows it is very susceptible 
+to pressure compromises and leaks busting out. But  
+that is an option, and so for that matter, in the 
+very big version even larger than Super Orion, is  
+detonating the bomb inside a big pod of gas that 
+blasts out the back of the ship as a rocket burst.  
+As we’ll see when we get to enlarging the Orion 
+design, at big enough scales even a nuclear blast  
+is simply no different than the little explosions 
+in your car engine that drive the pistons.
+ 
+Incidentally you can use excess bombs as a 
+normal power source, though most of the time your  
+best approach is to either recycle the fissile 
+material into a normal power plant or for fusion,  
+set the bombs off in enormous underground 
+cavities that are scaled up pistons basically,  
+or use a molten salt working fluid to detonate 
+the bomb in. This concept was explored more in  
+Project Pacer in the 1970s but I can really only 
+see it being used in a case like an Orion-style  
+spaceship moving at about 1% light speed or less 
+either being used for Oort Cloud settlement or  
+deciding it needed to stop mid-journey and instead 
+settle some deep space ice ball like a dwarf or  
+rogue planet instead of continuing onto a solar 
+system with a nice sun providing solar power.
+ 
+I wouldn’t rule that out though, the thing 
+about Super Orion scale ships is they are  
+often envisioned as gambles to save 
+humanity from something ruining our  
+solar system and some hastily built version 
+without prototyping sailing through deep  
+space at half a percent of light speed needs a 
+thousand years to get to even Alpha Centauri,  
+so spotting some rogue planet with extractable 
+resources part way through that journey would seem  
+very likely to result in a detour and powering 
+that colony or temporary base on solar obviously  
+isn’t an option at that point. Whereas it's fairly 
+easy to dig big underground piston-cylinders  
+inside low-gravity bodies like a dwarf planet.
+One other scenario for small ships is antimatter  
+catalyzed fusion, which requires a source of 
+anti-matter, and a way to safely store it,  
+but if you can produce and store it then tiny 
+little bits of antimatter can be used to catalyze  
+much larger fusion explosions, letting you 
+translate micrograms of antimatter into  
+multi-gram fusion explosions producing yields that 
+are still manageable like the MiniMag approach.
+ 
+For raw efficiency, a pusher plate can also 
+be replaced with something more akin to a  
+parabolic dish where the detonation happens at the 
+focal point of the reflector – this incidentally  
+lets you use nukes for ridiculously high power 
+focused communications. It’s not really ideal for  
+propulsion since the point of the pusher plate 
+is to absorb the blast while slamming forward,  
+but a combination of plate and adjacent parabolic 
+dish could be used to let you gather up energy  
+released on perpendiculars to the ship’s direction 
+of motion for other uses, like making electricity.  
+This also parallels the forward parachute 
+approach we see with the Medusa variant.
+ 
+An awful lot of all this energy is being lost 
+as heat too, such as in that big spring setup,  
+and that can potentially be reused for electricity 
+or even re-emitted somewhat directionally to add  
+thrust. Heat in space can be moved around a 
+ship normally by convection and conduction,  
+big radiator systems, but can only leave 
+the ship by radiating away as infrared  
+photons – or visible light if hot enough - and 
+you may be able to arrange your radiators to  
+spit more photons out in one direction than in 
+the reverse direction, providing net thrust. 
+ 
+Now as I said earlier we have contemplated 
+using nuclear reactors to power light production  
+as a rocket engine, this is a photon rocket, 
+and photons of light do indeed have momentum  
+and can push a ship. This is exactly what you’re 
+doing with gamma radiation with those bombs and  
+the pusher plate. It would work even better if we 
+had a material which reflected gamma rays instead  
+of just absorbing them but we do not at this time 
+and I’d be rather skeptical about their creation.  
+When a photon hits something and gets absorbed, 
+that object gets the photon’s momentum added to  
+it, slowing it or speeding it. When instead the 
+photon reflects, it heads back in the opposite  
+direction with the same but opposite momentum, 
+and the thing it hits will have absorbed twice  
+the momentum instead. So reflecting photons is 
+preferable when they come from an outside source  
+like the sun or a laser or a nuclear blast.
+Laser propulsion is of interest to us  
+and we will come back to it shortly as a 
+means of enhancing a normal Orion drive,  
+but we do have something called a bomb-pumped 
+laser, which is basically a single use laser  
+powered by a nuclear detonation, and which can be 
+coming as something reflectable rather than gamma  
+rays. One of perfect efficiency could be dropped 
+out behind a spacecraft, detonated, and have its  
+beam hit the pusher plate or sail and bounce 
+off, which is at least an order of magnitude  
+better in terms of propulsion than detonating 
+a bomb behind a plate that absorbs it. 
+ 
+You won’t get anything even close to that 
+efficiency but for hypothetical discussion  
+it seems worthy of note, and bomb-pumped lasers 
+were a major feature of Project Excalibur,  
+an X-Ray Laser system intended for ballistic 
+missile defense. X-rays are also hard to  
+directly reflect but we have some tricks 
+that would permit us to use it this way,  
+and so too, in a big enough ship you could 
+just do bomb-pumped laser out the back of it,  
+though firing a laser from a ship as a means of 
+propulsion does not allow you to reflect it and  
+gain that extra momentum, which hardly matters 
+if it's gamma and you cannot reflect it anyway.
+ 
+Now those pusher plates are slowly losing layers 
+of material with each blast vaporizing some off  
+and it being made of layers which raises 
+some hybrid options. As an example,  
+a pusher plate made of many layers of graphene 
+would have something like a billion sheets per  
+meter of plate thickness, and pusher plates are 
+definitely things made in meters of thickness,  
+not thin sheets. However, much as a book can be 
+thick while paper is thin, we might imagine a  
+solar sail many kilometers wide, for reflecting 
+sunlight or outside light beams, that could be  
+folded up to serve as the much smaller pusher 
+plate. And these things are both massive affairs  
+compared to the payloads of their ships so getting 
+double-duty out of one makes a lot of sense.
+ 
+A solar sail setup like project Medusa potentially 
+works well with a pushing laser but a foldable  
+solar sail that can be squeezed into a pusher 
+plate after being used could let you push the  
+ship to far beyond Earth before it began using 
+its bombs, using solar powered orbital lasers to  
+create pushing beams, which can also probably be 
+used to tear that ship apart if the folks on board  
+start contemplating wicked uses for their bombs 
+instead of as fuel. Hitting a ship with a beam  
+gives you lots of options including ridiculously 
+high-resolution and high-powered scans of the  
+space between you and it and nearby, in case 
+they decided to machine gun their nukes back  
+home to Earth, and you can just vaporize them en 
+route back, the bombs, and the rogue ship both.
+ 
+Nice added safety feature, but instead 
+we could use that big sail and lasers to  
+skip the bombs in the first step, accelerating 
+the ships to a higher speed before using bombs  
+to either speed up a bit more or entirely to 
+slow down at the destination. This lets you use  
+time-sensitive tamper proof detonators on your 
+nukes too. Indeed you could use a smaller Orion  
+craft near the end as a vanguard for your Super 
+Orion Ship to carry a big solar array into the  
+destination star system to power a pushing laser 
+to help slow the big main ship or fleet down. 
+ 
+Fleets also offer the option of doing things like 
+firing a nuclear device out of a rail gun from  
+one ship to go behind another, if for instance 
+a vanguard ship was running low on warheads as  
+it slowed. We explored this and other types 
+of tandem use approaches, like with lasers,  
+and with Orion and with Fusion, in our Generation 
+Ships series, episode two, Exodus Fleet.  
+That series talks a lot more about generation 
+ships, building, flying, and living on them,  
+and even scaling up Orion style ships to run 
+on things like artificial novae or supernovae.
+ 
+Now can we do Orion today? Yes, absolutely and 
+frankly I think it's past time we modified the  
+various testing treaties to at least allow 
+joint testing of atomics for propulsion  
+off Earth. There’s a lot of reasons, some valid 
+and some not, for worrying about the safety or  
+viability of an Orion approach to propulsion 
+but they are the only propulsion system we  
+currently have that could definitely be built and 
+definitely allow us to get to another star system  
+or do a real full fledged sustainable colony 
+on another planet in our own system in short  
+order. It’s also the best approach for 
+handling dino-killer and bigger asteroids,  
+especially as one could machine gun its excess 
+h-bomb fuel into the asteroid in question.  
+But it can be used for none of those 
+roles if we haven’t got real hands-on  
+experimental data and prototyping.
+All right, to close out for the day,  
+how big could we plausibly make an Orion-sized 
+ship these days and how would it run? I’d say a  
+total crash project of the kind we sometimes 
+envision if we expected the end of the world  
+and people unified to work on it might allow us 
+to throw together something on the smaller O’Neill  
+Cylinder side of things, running on supplies 
+of fissile fuel for interior life support,  
+that could probably let us get a hundred 
+thousand people off toward a solar system,  
+or maybe half a dozen scaled down ones of only a 
+few thousand each sent to multiple solar systems,  
+combined with solar-powered pushing lasers to 
+get them moving, to perhaps 5% of light speed. 
+ 
+In a more controlled fashion, same basic tech 
+but deployed decades from now when we have a  
+developed orbital infrastructure and resources 
+coming in from the Moon and/or Near-Asteroids,  
+we could probably be launching a few 
+of these 8 megaton Super Orions a year.  
+However, let me note that a cylinder 
+habitat built with some durability in mind  
+is probably running you about a megaton 
+per square kilometer of interior area,  
+and is likely making up only about 10% of 
+this ships overall mass since you’ve got  
+the bombs and the shielding and plate and 
+probably hydroponics in no or slow-rotating  
+smaller stations. So honestly if we’re talking 
+an interstellar ark ship intended to bring, say,  
+10,000 people in suburban style with lots of that 
+used for ecosystems and zoo space, then think on  
+an order of a few kilotons of ship per person, and 
+only a couple thousand folks on a Super Orion. 
+ 
+Those absolutely scale up though, and again 
+we get better efficiency the bigger our nuke  
+and the bigger our ship, so my hunch would 
+be that a Super Orion would be the small  
+and bargain size for an interstellar ark. Not so 
+for interplanetary colonies or trading vessels,  
+though big mega-freighters trying to bring 
+Ice in from deep space to Mars for instance  
+might dwarf even interstellar arks and 
+you can move big icy bodies by careful  
+Orion-style detonation of nukes on one too. 
+Will we ever see them? Very hard to say, there’s  
+an assumption that almost any scenario that gets 
+us working fusion as a power source would make the  
+Orion concept Obsolete but that’s not necessarily 
+true. A big and efficient fusion plant might not  
+transfer into one than could be used in starship 
+propulsion or anything small either, but might  
+be awesome for creating transuranic elements 
+like Californium-252 on the cheap or for simply  
+up-gunning your economy so much you could 
+churn out the ships and bombs to run them. 
+ 
+In either scenario, or if fusion turns out to be 
+that technology that’s 20 years in the future and  
+always stays on that distant horizon, then the 
+Orion Spaceship concept, with some modifications,  
+is the one that will take us to the stars. 
+And it can do it too, the same nuclear bombs  
+that scared whole generations into fearing the 
+end of our world and the twilight of our species,  
+may hold the keys to humanity seeing the 
+Dawn rise on a million alien worlds.
+ 
+So we are into a new year now and we have some 
+announcements, notes, and episode schedule that  
+we’ll get to in a bit but one of those notes 
+is on just how much information we had to cut  
+out of today’s script just to get it shortened 
+enough for a single long episode. Another part  
+of that though was how many other things came to 
+mind as I wrote the script and one of those was  
+that not only can nuclear bombs potentially 
+take us to new worlds, they can be used to  
+help us forge them too. And we will be examining 
+that topic, with a focus on nuking Mars till its  
+blue and green, at the end of this month.
+Speaking of forging new worlds though, odds are  
+good if you’re a show regular you’ve spent a lot 
+of time daydreaming about strange new worlds and  
+peoples and maybe tried your hand at writing some 
+science fiction or fantasy or have played in a RPG  
+like D&D or modded a video game. If not they are 
+great ways to spend the winter months, cooped up  
+inside but with your mind soaring to strange new 
+worlds of your own construction. But if you have,  
+then you probably have had that worldbuilding 
+effort grow in complexity till you needed notes  
+and wanted to share it with others, and probably 
+been frustrated with how much time got spent  
+organizing those or learning some software to 
+help develop them, or maybe even lost them. 
+ 
+I doubt it would surprise any show regulars 
+that I’ve experienced that a lot myself and  
+always wished there was a good world building 
+software that was easy to learn and comprehensive,  
+and when I first saw World Anvil, the 
+award-winning worldbuilding toolset, I was  
+both amazed someone finally made that software and 
+irritated my own gaming group was going on hiatus,  
+but it didn’t stop me from exploring all the 
+features like map notes and map connecting,  
+history, timeline and genealogy building, and 
+wiki-like crafting options. It’s great for DMs and  
+folks wanting to let their audience peak into the 
+novel’s setting more collaboratively as it does  
+have a free version and also has ways to monetize 
+your content on platforms like Patreon, Kofi,  
+or your own storefront, and you can share that 
+content selectively to keep secret content hidden.  
+They also have an amazing collection of great 
+tutorial videos so not only can you learn how  
+to use World Anvil but so can anyone you’re trying 
+to introduce to it, though it is very intuitive. 
+ 
+World Anvil offers wikipedia-like 
+articles for your world setting,  
+interactive maps, timelines, an RPG Campaign 
+Manager and a full Novel-Writing Software,  
+all the tools you’ll need to run your 
+RPG Campaign or write your novel,  
+and never lose your notes again! If 
+you’d like to give World Anvil a try  
+and let it help you forge new worlds, just 
+click the link in this episode’s description!
+ 
+I was mentioning my gaming group going on 
+extended hiatus a moment ago and I wanted  
+to give a shout out to my best friend Bill on the 
+birth of his first daughter Evelyn in December.  
+Bill and I served together in the Army 
+and have been like brothers since 2004,  
+and us and some other close friends used to 
+play D&D back then even when we were in Iraq,  
+and he and I kept that up even when he got 
+out to college to become a history teacher  
+and still do to this day. I was contemplating on 
+that 18 year friendship how much he and a lot of  
+my other army brothers helped shape this show, 
+as so many of the concepts and examples I’ve  
+used in episodes here first got crafted and 
+honed chatting about those ideas with them.
+ 
+There are a lot of folks who helped make this 
+show in one fashion or another, and this episode  
+in particular is one such example as we have 
+a lot of forums and groups either directly  
+attached to this show or loosely affiliated and 
+one of those approached me around a year back  
+about this topic and I suggested they might 
+try writing a collaborative outline or draft,  
+and they did and it was comprehensive and ran 30 
+some pages. I didn’t even try trimming that down  
+in favor of writing from scratch with the paper 
+fresh in my head and it really drove home to me  
+how much more we could do on this topic, and also 
+how grateful I am for getting to work with so many  
+amazing and talented folks not just on this 
+episode or this show but down the decades.
+ 
+Speaking of more on this topic, we will be having 
+that episode on Nuking Mars Green at the end of  
+this month, and one on Nuclear Transmutation in 
+March that I just got done recording, but we have  
+plenty more topics for this month beginning next 
+Thursday with a return to the Alien Civilizations  
+series to look at the concept of civilizations 
+going into hibernation. Then we’ll be having  
+our mid-month Scifi Sunday episode on the classic 
+scifi trope of Telepathy. After that we return to  
+Civilizations at the End of Time Series for a look 
+at the Big Rip, the cosmological model that might  
+see the Universe torn to shreds trillions of times 
+sooner than we normally expect things to end.
+ 
+Now if you want alerts when those and other 
+episodes come out, make sure to subscribe to the  
+Channel and hit the notifications bell, and if you 
+enjoyed this episode, please hit the like button,  
+share it with others, and leave a comment below. 
+You can also join in the conversation on any  
+of our social media forums, find our audio-only 
+versions of the show, or donate to support future  
+episodes, and all those options and more are 
+listed in the links in the episode description.
+ 
+Until next time, thanks for 
+watching, and have a great new year!

@@ -1,0 +1,853 @@
+This episode is sponsored by Audible.
+We often wonder where all the ancient alien
+civilizations are, and if they might not exist.
+But could the reason be something as simple
+as a vital element being scarce?
+So we had a big new discovery recently that
+we found Phosphine gas on Venus, a possible
+biosignature for life, and while this episode
+was written before that, and is focused principally
+on what the scarcity of Phosphorus might mean
+for looking for alien life, it’s a bit too
+important and relevant of a discovery not
+to address and so we’ll be getting to it
+at the end of the episode as an addition.
+Our regular viewers know that one of our favorite
+topics, and indeed the topic that inspired
+me to start the channel in the first place,
+is the Fermi Paradox.
+This is the great looming question in our
+so-far fruitless search for other lifeforms
+in the galaxy.
+Why, when the universe is so vast and old,
+and life can form spontaneously from base
+molecules and evolve into sentient beings
+like we did, have we not detected any clear
+signs of life anywhere, let alone galactic
+civilizations.
+The answer is that so far don’t know why,
+but we have come up with a number of theories
+as to what might make it more rare and difficult
+than we thought for life to form or for intelligence
+to arise, what forces might just occasionally
+kill all life off and start the process over,
+and what errors in judgement might lead civilizations
+to destroy themselves not very long after
+they start producing signals we could even
+detect.
+And to be honest, I kind of hope that if life
+really is as rare in the universe as we think
+it may be, the reason is something amazing
+and dramatic like supernova storms or cognitive
+contagions, because then at least we are alone
+out here because of something interesting.
+It is frustrating to think that the vast resource-rich
+universe out there might be mostly empty and
+wasted and that we’re in it alone because
+of some mundane quirk of chemistry.
+That is the troubling topic we will be discussing
+today.
+The element phosphorus is essential to life
+as we know it.
+But phosphorus appears to be rare in our solar
+system, and more rare in the universe.
+There are good reasons to suspect that many
+stellar systems, large swathes of our galaxy
+and others, where it may be very scarce or
+at least lack enough of it for life to start.
+If this is true, the rarity of essential phosphorus
+might be not only be the reason for the rarity
+of life, it might also put a hard limit on
+how much life there can ever be—which would
+really put a crimp in our plans to populate
+the galaxy with quadrillions of humans.
+Even if “Life finds a way” to arise and
+evolve in stellar systems that lack phosphorus,
+that doesn’t change the fact that we, in
+our current physical form, absolutely need
+it.
+And as we saw in our episode “Non-Carbon
+Based Life”, the prospects for life not
+sharing our basic chemistry are not very good.
+So, let’s take a moment to understand why
+phosphorus is essential to life as we know
+it.
+We describe the lifeforms of Earth as carbon-based
+because so many molecules essential to organic
+metabolic processes are built around branching
+chains or loops of carbon atoms.
+But phosphorus is so ubiquitous in essential
+organic compounds, it would not be unreasonable
+to refer to Earth-like lifeforms as carbon-phosphorus-based
+life.
+If you ask most science writers why phosphorus
+is essential, they’ll tell you immediately
+about Adenosine Tri-Phosphate, ATP, the chemical
+that all known lifeforms on Earth use to transfer
+energy.
+When plants absorb sunlight and produce oxygen
+in photosynthesis, that oxygen is actually
+just a byproduct of the first step of photosynthesis.
+The end result of the last step of photosynthesis
+is converting ADP, Adenosine Di-Phosphate
+into higher energy ATP.
+Pushing the third phosphate group onto the
+adenosine is somewhat like compressing a spring,
+storing energy that can be released later
+and where it’s needed.
+When enzymes within cells convert the ATP
+back into ADP, that huge energy release is
+what powers the enzyme and the basic functions
+of the cell.
+Multicellular lifeforms, ourselves included,
+who don’t do photosynthesis but instead
+just breathe oxygen to burn sugars to power
+a different process that also converts ADP
+into ATP and then uses the ATP to power enzymatic
+cellular processes in pretty much the same
+ways plants do.
+So every known lifeform on Earth—except
+a few that are just big molecules that strain
+our definition of the term lifeform—are
+powered by a cycle of pushing phosphate groups
+like springs down into ADP and using that
+stored energy that’s released when they
+pop back off.
+But an even better illustration of why phosphorus
+is essential to Earth-based life is right
+there in the structure of DNA and its simpler
+ancestor RNA.
+Every other link in that vastly long molecular
+chain is a phosphate group with a phosphorus
+at the center.
+So without phosphorus, we lose the very means
+by which all known life encodes the instructions
+for becoming alive, remaining alive, and making
+more stuff that’s alive.
+Of course you could point to any atom in RNA
+or DNA—the carbon, nitrogen, oxygen, or
+hydrogen—and declare that without it life
+as we know it couldn’t exist.
+And you would be correct, but all of those
+elements are quite abundant throughout the
+universe.
+We are only a little over 1% Phosphorus by
+mass, but it is even rarer on Earth, making
+up about 0.1% of the crust and not even in
+the top ten most common elements here.
+It’s even rarer than that in our Solar System,
+coming in at seventeenth place for abundance,
+making up a paltry 0.0007% of the mass of
+the solar system.
+We aren’t sure how common it is Universe-wide
+and there’s some debate if it’s more abundant
+in our solar system or not, but planets and
+stars older than Earth would tend to have
+lower concentrations as fewer supernovae would
+have occurred in the distant past to add heavy
+elements to the galaxy at large.
+And for the Fermi Paradox, a critical concept
+is why we don’t see older civilizations
+around and perhaps it is from Phosphorus scarcity
+preventing life from emerging in the first
+place.
+Earth’s amount and the general reactivity
+issues of phosphorus already are low enough
+that for decades the “Phosphate Problem”
+has stumped scientists trying to figure out
+the origin of life on Earth, and we’ll discuss
+that in a bit, if you go to some planet with
+an even lower concentration of Phosphorus
+that problem would only be worse.
+The most ten common elements in the Universe,
+in descending order, are hydrogen, helium,
+oxygen, carbon, neon, iron, nitrogen, silicon,
+magnesium, and sulfur.
+Only 1 in 2000 atoms are not one of those
+ten, and Phosphorus only makes up 3 out of
+every ten million atoms.
+Silicon atoms are 100 times more common.
+So why is phosphorus so much less abundant
+than the other elements essential to life?
+To answer, it helps to look at how and where
+the various elements are produced.
+It’s a common misconception that most heavier
+elements are produced in supernovae, but this
+is not correct.
+Almost all elements with more than 40 protons
+in them – like gold, platinum, or uranium
+– come from the collision of neutron stars.
+In contrast, the lighter elements mostly come
+from the death pangs of smaller stars, the
+final stages of fusion.
+For example, silicon is the last element for
+fusion fuel and one that only the most massive
+stars only burn for about a day before they
+explode.
+Big stars are very inefficient users of fusion
+fuel and burn in layers, so when they detonate
+plenty of unfused fuel of various types gets
+scattered.
+Many of the elements said to come from Supernovae
+are actually produced in this way, as fusion
+products in the star’s old age, and just
+get scattered when it explodes.
+And not all supernovae are Type II, giant
+exploding stars.
+The other common variety, Type 1a, are white
+dwarfs stellar remnants that explode after
+pulling mass off some close binary partner.
+But phosphorus seems to mostly be produced
+in Type II supernovae, and only during the
+supernova event itself.
+The most likely mechanism is when the Silicon-30
+isotope captures a neutron during the explosion,
+briefly becomes unstable Silicon-31, then
+quickly emits an electron and decays into
+phosphorus-31.
+But silicon-30 is not the most common silicon
+isotope, and its capture cross-section for
+neutrons is very small, meaning the neutron
+has to hit just right to get absorbed, so
+it doesn’t happen very often.
+We also know that Type II supernovae are not
+distributed evenly in the galaxy, and supernova
+remnants appear to have significantly varying
+concentrations of phosphorus.
+Shockwaves from supernovae carry matter into
+space and are thought to be what compresses
+the interstellar material and triggers it
+to begin coalescing into proto-stellar systems.
+If phosphorus were lower in concentration
+in those shockwaves, then those new star systems
+and their planets will also have less phosphorus
+than other systems like our own.
+So the problem isn’t just that phosphorus
+is rare, it might also be unevenly distributed,
+with huge swathes of our galaxy almost lacking
+it.
+And the mere existence of phosphorus in a
+stellar system doesn’t necessarily mean
+it’s available to facilitate the formation
+of life.
+The abundance of elements in the crust of
+our planet doesn’t match up too well with
+the solar system at large, even ignoring the
+hydrogen and helium differences as they’re
+super-abundant but only in places like the
+Sun and Gas Giants that can hold onto the
+ultra-light particles.
+Our crust is not our planet and some materials
+sank in toward the core when the place was
+molten.
+Especially those prone to forming up big dense
+molecules, while Silicon for instance tends
+to float on magma well and stay near the surface,
+and thus is right behind oxygen in it’s
+crustal abundance even though carbon, nitrogen,
+and neon are more common in the solar system.
+Earth has a lot of phosphid[a]e, relatively
+speaking, but most of it is down in the planetary
+core.
+What’s more, phosphide isn’t very useful
+for life, unlike phosphate, which is phosphorus
+linked up to oxygen atoms… which might be
+a bit problematic on Earth for the purpose
+of life forming since there was not an oxygen
+atmosphere on this planet until long after
+life had formed.
+But Phosphorus also tends to bind into molecules
+that are insoluble in water, which is very
+problematic for life, since it is pretty much
+predicated on water-solubility.
+Indeed of all the biogeochemical cycles for
+life, many of which are quite quick and often
+involve the atmosphere, the phosphorus cycle
+does not involve the atmosphere and has one
+of the slowest cycles.
+It slowly grows rarer on land as it washes
+out to sea and sinks, and only gets refreshed
+by tectonic activity.
+If you have some hypothetical chemical solution
+from which the first building blocks of life
+needed to arise, then we have an issue with
+there being virtually no phosphorus around
+in that solution.
+If the stuff is rare, in forms that aren’t
+water soluble, and prone to sinking, then
+you’ve got a bit of a problem.
+Just to take a simplified example, we said
+there were six key elements for life, Oxygen,
+Carbon, Hydrogen, Nitrogen, Calcium, and Phosphorus
+in that order, and that is same number as
+there are sides on a dice.
+Let’s say we were rolling a bunch of dice,
+10 of them.
+The odds of any specific combination getting
+rolled is 1 in 6^10, about 1 in 60 million.
+On fair dice anyway.
+So our odds of rolling 10 6’s are pretty
+low.
+Now if our dice are badly balanced so that
+instead of a six coming up 1 in 6 times, 17%
+of the time, it only came up 1% of the time,
+or 1 in 100, then the odds of rolling 10 6’s
+isn’t 1 in 6^10 but rather 1 in 100^10,
+not 1 in 60 million but rather 1 in 100 billion-billion.
+For perspective, if we had some solution that
+was forming molecules once a second on that
+1 in 60 million odds, and dropped the concentration
+so it was now 1 in 100 billion-billion, that
+formation reaction goes from once a second
+to once every 50,000 years.
+And if we dropped the odds from 1% even more,
+down to .1%, that would now happen on average
+once every 500 trillion years, 40,000 times
+longer than the Age of the Universe.
+That gives you an idea how important having
+the right concentration of Phosphorus in the
+primordial soup of life is.
+Even just halving the chance of rolling a
+six in our previous example would have lowered
+the odds a thousandfold, requiring either
+a thousand times as much of the solution or
+a thousand times as long, so even a relatively
+minor variation in the abundance of phosphorus
+in a planet’s crust is a big deal.
+Using our 10-dice example, a thousand planets
+with half the concentration would have the
+same odds of generating life on just one of
+them as one planet with double the concentration
+has, and for the ones with a tenth the concentration,
+you’d need 10 billion of those planets to
+equal the odds that one lone planet had.
+As you can see, even an entire galaxy of planets
+doesn’t need much of a drop in availability
+of phosphorus to be very unlikely to have
+a single planet have life form on it.
+And as I mentioned earlier, Earth has unusually
+high concentrations of Phosphorus in the crust,
+but they’re still troublingly low for models
+of life forming here.
+So how did we get a high enough Phosphorus
+concentration here on Earth?
+Well, we generally assume life formed in one
+of 3 ways, in tidal pools, or around deep
+sea thermal vents, or with it originating
+in space and coming in on a comet or meteorite
+– a concept called Panspermia, see that
+episode for details.
+And indeed we suspect that a lot of the phosphorus
+available to early life came in by meteorites
+after the planet formed.
+For life to originate near geothermal vents
+or tidal pools, the problem is the phosphorus
+concentration.
+Phosphorus in seawater nowadays is 0.1 parts
+per million, quite low and not really very
+conducive to life, but we see it higher near
+thermal vents, if not really high enough,
+and tidal pools tend accumulate runoff, get
+stirred up and muddy, and evaporate to higher
+concentrations, so either is an okay-ish candidate,
+in the absence of something better, but still
+don’t exhibit anything like the concentration
+of phosphates that would make the odds good
+and we always assume life started in or near
+an ocean given that life was around for billions
+of years in the ocean before land life emerged.
+And this is the “Phosphate Problem” I
+mentioned near the beginning.
+There just doesn’t seem to be any good options
+for anything in the sea to have had a decent
+concentration of phosphates to make a primordial
+soup which life could emerge in.
+However, recently it’s been suggested that
+carbonate rich lakes, those in dry environments
+where runoff water flows in but evaporation
+keeps them salty and alkaline might be a better
+candidate.
+While they vary in concentration a lot, we
+have found some of these carbonate-rich soda
+lakes with 50,000 times the phosphorus levels
+of seawater.
+Such lakes might have been a good deal more
+common in the past too, given that a Primordial
+Earth with no plants and roots holding the
+soil in place would have a lot of runoff and
+erosion.
+Those lakes being carbonate-rich helps too.
+Normally if you have a lot of calcium present,
+and there’s more of it than phosphorus,
+it will bind with phosphorus into calcium-phosphate
+which life can’t access, but carbonate can
+bond to the calcium as calcium carbonate and
+leave some phosphorus free.
+Primordial Earth is thought to have had an
+atmosphere principally of nitrogen and carbon
+dioxide, and also far more volcanic activity,
+which may have allowed even higher concentrations
+of phosphorus than these modern lakes we’ve
+investigated.
+Phosphate levels might have been able to climb
+in some cases to a million times the concentration
+in seawater, potentially 1 in 10 atoms rather
+than 1 in 10 million, vastly higher than any
+suggested in normal tidal pools or deep sea
+thermal vents.
+So, okay, maybe phosphorus is rare, and biologically
+accessible phosphorus even rarer, and key
+biological processes require phosphorus.
+But didn’t Ian Malcolm from Jurassic Park
+teach us that “Life finds a way”?
+Surely, life and evolution being as inventive
+as they are could concoct some alternative
+molecular mechanism for energy transfer that
+doesn’t involve phosphorus, right?
+Well, that’s why I keep using the phrase,
+“Life as we know it”.
+Of course we can’t know for sure if life
+needs to run on water and carbon and phosphorus
+like it does here and in the same way it does
+here.
+We took an in-depth look at that in our episode
+Non-Carbon Based Life and covered a ton of
+options from alternative chemistries to crystal
+or metal deposits forming into big natural
+computers.
+In our episode Void Ecology we contemplated
+how complex life might arise in space rather
+than planets with atmosphere and oceans, and
+we even contemplated wilder scenarios like
+life emerging inside stars in our episode
+“Conscious Stellar Objects”
+However, the very fact that life on Earth
+evolved to make such ubiquitous use of phosphorus
+when phosphorus is not all that common tells
+us one of two things, possibly both.
+Life based on phosphorus was easier to form
+than a non-phosphorus mechanism, and/or life
+based on phosphorus was far more successful
+once it did form.
+And that strongly implies that whatever life
+could form in a primordial ooze lacking phosphorus
+won’t form easily and/or might not be nearly
+as adaptable or successful.
+If you’ve got a creature on an alien planet
+than can eat iron ore and another that can
+only eat gold nuggets, all things being equal
+that iron-eater is going to be wildly more
+successful, so if you find a world dominated
+by gold eaters but plentiful in iron ore,
+it tells you iron-eating life is either wildly
+improbable to develop or that gold-eating
+life is way more likely to prosper.
+Same concept for phosphorus, if life had been
+able to develop using something less scarce,
+Occam’s Razor says it would have.
+So this is a very plausible solution to the
+Fermi Paradox.
+We might very well be alone because we are
+on a very rare planet that has enough of a
+rare element that life doesn’t form easily
+or work well without.
+And the rest of the universe is just out of
+luck.
+Or alternatively, such planets are pretty
+rare and were even rarer in the Earlier periods
+of the Universe, which is almost as good for
+the Fermi Paradox, because as we saw in the
+Great Filters series, there’s plenty of
+other things that can lower the odds of life
+forming too, and lower the odds further of
+it getting intelligent and building spaceships.
+Remember, the Fermi Paradox isn’t about
+if other civilizations exist equal to modern
+day humanity, but rather if older ones exist
+who could have gone out and colonized the
+galaxy and be noticeable to us with our current
+technology.
+So if worlds older than Earth tended to be
+scarcer in Phosphorus, you might have more
+worlds with life but just not that developed
+yet.
+We might just be the first to be building
+spaceships, as we looked at recently in our
+episode Fermi Paradox: Firstborn.
+Time is a factor too.
+Keep in mind I gave concentrations of Phosphorus
+in the modern Universe, not what it was 4
+or 5 billion years ago when our young planet
+got it’s allotment.
+The Universal average would have been much
+lower at that time than now because there
+hadn’t been as many stars that became Type
+II supernovae.
+The younger a planet or solar system is, the
+older the universe was when it formed, and
+the better its odds of having higher concentrations
+of Phosphorus.
+So there’s an optimistic angle on this story;
+as the Universe gets older, it might be becoming
+more fertile for life to form.
+But the most annoying part of the Phosphorus
+Problem for futurists is that, since we humans
+require phosphorus, we might not be able to
+just rush out and populate that vast universe
+full of resources awaiting us, because how
+much phosphorus we find or make sets a hard
+limit on how many of us there can ever be.
+Humans and our food are mostly made of water,
+which by mass is mostly made of oxygen, but
+we’re also about 1% phosphorus.
+So let’s say we send a colony ship to a
+stellar system abundant in every imaginable
+resource except it’s sorely lacking in phosphorus
+that’s reasonably easy to get to.
+But say we send those colonists off with a
+generous stock of a million metric tonnes
+of phosphorus from Earth, a billion kilograms.
+And let us say that they don’t waste any
+precious phosphorus on pleasant grasslands
+or forests or pets, and they strictly recycle
+every precious atom of it.
+And let’s further assume that every human
+has a mass of about 70kg and that at any given
+moment there’s another 30kg of feedstock
+on hand, which makes a nice round number of
+100kg of biomass and hence 1kg of phosphorus
+required per human.
+That means that the billion kilograms of phosphorus
+they brought will build one billion humans
+and their food, and that’s it.
+Perhaps you could double that by making people
+smaller and keeping less food in reserve,
+but clearly there’s a hard limit where they
+can’t make any more food or babies until
+they find some more phosphorus.
+And that’s assuming there are nothing but
+humans, when in practice, our planet has about
+3 trillion tons of life on it, 18% of that
+is carbon and we often give biomass in tons
+of carbon, and 1% is Phosphorus, or 3 billion
+tons.
+That means for terraforming and colonizing
+a world to our current population and ecology,
+you’d have about 400 kilograms of Phosphorus
+per person, not one kilogram, only including
+the Phosphorus tied up at any given moment
+in something alive, and if you’re terraforming
+planets or building big space habitats, you’re
+going to need values like that.
+Again you might lower that by having a higher
+percentage of biomass be people, or it might
+be lower if you like garden parks and rural
+space habitats and planets, and of course
+you need a lot sitting in soil not just lifeforms.
+Let us ballpark it at one ton per person for
+simplicity’s sake.
+Earth is the most massive rocky planet in
+the solar system and indeed masses around
+as much as all the other rocky planets, moons,
+and asteroids combined do.
+However only about 1% of its mass is in the
+crust and only about .1% of that is Phosphorus,
+so if we extracted every last bit of it from
+our crust we would have about 10 million-billion
+tons, enough for 10 million-billion people,
+a million times our current population.
+And that is only Earth and only Earth’s
+crust, it might have a high abundance but
+there is more phosphorus in the solar system.
+Now we often talk about how a Dyson Swarm
+is the likely fate of solar systems where
+technological life develops or visits – A
+Dyson Swarm or Dyson Sphere being a collection
+of objects around a star using up all it’s
+available energy.
+Since the Sun gives of 2 billion times more
+light than reaches Earth, we generally just
+multiply our population by 2 billion to guess
+as Dyson Swarm populations, and that would
+be 16 billion-billion people, 1600 times the
+10 million-billion figure for a ton of phosphorus
+per person and still a bit larger than the
+one kilogram of phosphorus per person we could
+have if humans were the only life period.
+For Dyson swarms, we don’t assume that collection
+of objects orbiting the sun and using all
+its light would all be space habitats, but
+we’re often worried about finding enough
+mass for all those and one solution to come
+up with the raw material is to engage in starlifting,
+as stars form from the same stuff as the planets
+around them so are heavy in metals, just way
+heavier in hydrogen and helium.
+And indeed most of the Phosphorus in our solar
+system is in our Sun, it doesn’t make Phosphorus,
+mind you, and never will, but again it formed
+from the same nebula Earth did.
+If you sucked all the Phosphorus out of our
+Sun, which is presumably where 99.8% of our
+solar system’s stockpile is since it is
+99.8% of the solar system’s mass, then you
+would have a lot more.
+Our Solar system masses 2 billion-billion-billion
+tons.
+Again though, Phosphorus is less common off
+Earth, making up only 7 parts per million
+of the mass or 14 billion-trillion tons.
+So that’s your hard limit, if you suck out
+every drop from the Sun, excluding the Sun
+it drops a lot, and leaving in the Gas Giants,
+which have most of the remainder, leaves you
+28 billion-billion tons.
+So there is enough for space habitats, barely,
+but it turns out to be a major control factor
+on building them if you want life on them.
+And this is only if you’re dismantling solar
+systems, not if you’re just mining asteroids,
+and we can’t assume at the moment that phosphorus
+will be decently abundant in other solar systems,
+especially on the crust of big planets, so
+folks going out and colonizing distant planets
+around other stars are going to need to find
+some phosphorus.
+Or make some.
+We never want to limit ourselves to assuming
+natural sources when dealing with advanced
+civilizations.
+After all we’ve barely reached our own Moon
+but we already make elements that don’t
+occur naturally in the Universe.
+So a civilization might avoid a Phosphorus
+bottleneck by just getting it out of stars
+– not simply by starlifitng, but by using
+the star’s power supply to run a ton of
+supercolliders or atom smashers to make some.
+Silicon-30 is fairly common, the heaviest
+of the 3 stable silicon isotopes and about
+3.1% of natural silicon, you whack that with
+a neutron at a speed that captures it and
+you’ve got silicon-31, with a half-life
+of a couple hours before it decays into regular
+old stable phosphorus.
+As we mentioned last week in the Future of
+Fission, we do this type of transmutation
+in labs all the time via breeder reactors,
+it’s how we make plutonium.
+Transmutation is rather expensive, but if
+phosphorus turns out to be a bottleneck for
+the growth of our civilization, I’m sure
+we’ll develop the means to get a lot better
+at it.
+But even if we do develop such industrial
+processes for mass-synthesizing phosphorus,
+synthesizing just about anything is a lot
+more expensive than simply finding it.
+Any native deposits of phosphorus will be
+prized, mined quickly and maybe even become
+a critical commodity folks have wars over,
+perhaps even more prized than the precious
+metals in the asteroids since, literally,
+we can live without precious metals.
+There might be life out there somewhere that
+eats gold, but we don’t, we need phosphorus,
+and the odds are high that life out there
+does too.
+So as I mentioned at the beginning, we had
+a big piece of news come in while we were
+working on this episode, the discovery of
+clouds of Phosphine gas on Venus, and I didn’t
+think we could run this episode without giving
+that a mention.
+The phosphine molecule consists of one phosphorus
+atom bonded to three hydrogen atoms, forming
+a trigonal pyramid.
+It’s highly flammable in oxygen and highly
+toxic to life on Earth.
+In fact, it’s a substance we normally only
+encounter on earth in life that’s falling
+over dead.
+It’s literally rat poison, so phosphine
+gas actually kills things, at least things
+that breathe oxygen.
+Importantly, though, it is only poisonous
+to aerobic, oxygen-breathing organisms.
+Anaerobic life is a completely different consideration.
+On Earth, it’s produced by some anaerobic
+microbes in water low in Oxygen as anaerobic
+life depends on low Oxygen levels.
+Venus has very little molecular oxygen in
+its atmosphere, so any airborne organisms
+there would be anaerobic and might emit phosphine
+like their Earthly cousins.
+To understand the excitement around discovering
+phosphine in Venus’ atmosphere, we need
+to talk about atmospheric biosignatures.
+We usually mean by this that a given molecule
+either shouldn’t exist in the atmosphere
+or should be far lower in concentration without
+some biological process in place to replenish
+it.
+High concentration of molecular oxygen is
+the big one, because we know of photosynthesis
+and not many other processes that produce
+it, and because it’s so reactive that plenty
+of processes would consume it all if it wasn’t
+being replenished by life.
+Something similar might apply to phosphine
+gas.
+As I said, some anaerobic Earth microbes do
+produce the stuff, and it breaks down very
+quickly in our oxygen-rich atmosphere.
+Earth microbes produce it from environmental
+phosphorus or indirectly by fermentation of
+organic matter to get energy.
+It also acts as a defense mechanism for them,
+both to poison oxygen-breathing competitor
+microbes and to remove deadly oxygen from
+the water around them.
+So if you find any concentration of it on
+a planet with an oxygen atmosphere, it would
+be a strong biosignature.
+But it’s not such a definite life sign in
+Venus’s atmosphere, which has abundant clouds
+of acid to react with any metal phosphides
+present to release phosphine, and where the
+phosphine would be broken down reacting with
+other gases that break it down more slowly
+than oxygen does.
+So the phosphine could be being created and
+replenished by life on Venus, but the evidence
+isn’t strong.
+It’s really just a could-be.
+We also shouldn’t discount the differences
+in chemistry between Earth and Venus.
+Venus has some truly hellish environments,
+both on the planet’s surface and in its
+thick atmosphere and I’m not only talking
+about high temperatures and pressures, but
+also the highly acidic and chemically reactive
+environments too.
+Phosphine is a very simple chemical and we
+know that even comparatively more complex
+amino acids that we have detected in comets
+and asteroids appear to be a purely chemical
+byproduct without the need for life to produce
+them.
+We are far from fully understanding the very
+different chemical melting pot that is Venus
+and the phosphine could simply be a product
+of that chemical stew.
+As to Phosphorus scarcity, Venus certainly
+has a decent amount of Phosphorus but don’t
+take this as an indicator it represents a
+great stockpile, the amount of Phosphine found
+in the atmosphere is quite small compared
+to what we might expect for a biosignature.
+The shock of this discovery was mostly just
+that we found any phosphine gas at all.
+Still, it can’t be ruled out that there
+might be life in the clouds of Venus, and
+strange life at that.
+That is all the more reason to get ourselves
+out there for a closer look, and we contemplated
+some ways for doing just that in our episode
+Colonizing Venus.
+We’ll get to the upcoming schedule in a
+moment.
+But first, if you enjoyed this episode, you
+can thank Jerry Guern, one of our regular
+editors on the show who pitched the idea to
+me.
+He also co-wrote this episode and quite a
+few others.
+Jerry’s is also a sci-fi / fantasy author,
+and last year I encouraged him to start his
+own YouTube channel for his short stories.
+He now has several posted on his channel,
+Jerry’s Stories, that I’ve really enjoyed.
+The most recent is a philosophical time travel
+story called Paleontology.
+I helped review this one while he was drafting
+it, and I instantly loved it.
+If you like time travel, dry humor, and very
+good writing, check out Paleontology at the
+link in the Description.
+That’s actually a piece of advice I give
+a lot of authors who ask for suggestions,
+narrate your own short story or some samples
+chapters and put it out there for folks to
+listen to, either on youtube like Jerry Guern
+did or even on Audible, folks are often surprised
+how simple it is to publish your work there.
+As I often say, a good narrator makes a good
+book even better, and some of my favorites
+have been the audiobooks narrated by the author,
+some of my favorite self-narrated audiobooks
+include the works of Douglas Adams, Niel Gaiman,
+and Roger Zelazny.
+Speaking of Douglas Adams, while he’s best
+known for the Hitchhiker’s Guide to the
+Galaxy, another of my favorites by him is
+Dirk Gently’s Holistic Detective Agency,
+our Audible Audiobook of the Month.
+The novel offers its own interesting discussion
+of how life arose on Earth, inspired by some
+of his time as a script writer for Doctor
+Who during Tom Baker’s amazing run, and
+unsurprisingly it also features time travel.
+It’s one of my personal favorites, and Adams
+narrates as well as he writes, though there
+are other versions with different narrators
+and even a full cast audio drama version,
+and they are all available on Audible.
+You can find that audiobook, along with the
+rest of Douglas Adams’ legendary work, over
+at Audible.
+They also have podcasts, guided-wellness programs,
+theatrical performances, and exclusive audible
+originals, indeed they have over three centuries
+worth of audio if you just hit the play button
+and ran it through every title.
+If you want access to that massive collection
+of great audiobooks, like “Dirk Gently’s
+Holistic Detective Agency”, you can join
+Audible for a 30-day free trial, and Audible
+members not only get discounts on any audiobooks
+they buy, but a free book every month.
+Additionally, they are now giving unlimited
+access to their audible originals.
+You can start listening today with a 30-day
+Audible free trial.
+Just visit the link in the episode description,
+Audible.com/Isaac, or text “Isaac” to
+500-500.
+So this wraps our episodes up for September,
+but we still have our Monthly Livestream Q&A
+coming up this Sunday, September 27, at 4
+pm Eastern Time, and as usual we’ll be taking
+questions from the audience in the livestream
+chat as we go.
+Then we’ll start October off with the Third
+episode of our new series, Becoming an Interplanetary
+Species, as we return to the Moon, and stay
+there this time.
+Then the week after that we’ll be taking
+a look at Mega-Cities, the popular concept
+in science fiction, and we’ll see what sort
+of challenges and surprises await us in the
+future if our cities keep growing.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

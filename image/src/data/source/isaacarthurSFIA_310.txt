@@ -1,0 +1,708 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+Our future lies out among the stars, but to
+get there, we are going to need gateways.
+Space Stations are ubiquitous in science fiction
+and almost all discussions of our future,
+and yet with the ISS having already exceeded
+its planned lifetime, and no successor yet
+built, or even formally planned and funded,
+I thought it might be nice to ask what we’re
+looking for in our next space station and
+what might accommodate those needs.
+It's easy to forget that the ISS or International
+Space Station is actually our ninth inhabited
+space station, since only Mir operated for
+a long time, for 15 years from 1986 to 2001.
+Skylab and the various Salyut Space Stations
+had mixed successes as long term orbital facilities
+in the 1970s and 80s, and while we often discuss
+bigger and bolder stations on this show, we
+tend to skip over the gap between a successor
+to ISS and truly massive affairs like the
+Bernal Sphere, O’Neill Cylinder, or the
+more modest Kalpana design, which we’ll
+discuss toward the end of this episode, along
+with the Lunar Gateway.
+The eponymous “Brick Moon”, appearing
+in Edward Everett Hale’s 1869 scifi novella
+of the same name, is the first known depiction
+of an inhabited artificial satellite, serving
+in the role of a navigational aid long before
+GPS had been imagined.
+Since then, there have been hundreds of station
+designs conceived, with some predating even
+the famous von Braun wheel design.
+We’ll be showing a lot of diagrams and animations
+of them while we discuss space stations in
+this episode, though today we’re less interested
+in specific designs than critical purposes
+and features.
+We may devote future episodes to specific
+space station designs.
+Though truth be told, I would not expect any
+of the current space station designs to become
+a reality without a lot of modification.
+One big thing to keep in mind is that the
+next space station probably needs to be cheaper
+than the ISS, which would cost a couple hundred
+billion dollars in the currency of today.
+I don’t think any countries, let alone corporations,
+are interested in forking over that kind of
+cash again in the near future, even if it
+was for a bigger and cooler station.
+As an upside though, the next space station
+can get its components into space more cheaply,
+especially if we can use material that can
+be flown up in the existing rockets and essentially
+plugged in or plugged together.
+The ISS is around 400,000 kilograms, and the
+old space shuttle used to run us about $55,000
+per kilogram, by some estimates, meaning that
+to get stuff into low earth orbit back then
+was around 20 times more expensive than what
+it would currently cost.
+Though it’s worth noting that there’s
+always some debate on calculating those figures,
+projecting for new launch systems in terms
+of optimal usage and production, and so on.
+If we had to redo the ISS now, we could do
+it better and for less, but we don’t actually
+want to or need to redo the ISS.
+We’re interested in what the future holds,
+and what a station that might fit our eventual
+needs for research, habitation, or expansion
+might eventually look like.
+As an example, we often assume that the next
+station will need to be integrated into a
+plan for returning to the Moon or going to
+Mars, in which case a rotating section providing
+simulated Martian or Lunar gravity might seem
+handy.
+And yet building a space station for a single
+mission to either, probably isn’t an ideal
+use of resources.
+Nor do we really need to simulate lunar gravity,
+since the Moon is only a few days of travel
+away and we can skip that step in favor of
+just building a lunar base and seeing how
+folks fare.
+Mars is a different matter though, since the
+astronauts would be stuck there for many months.
+Having both lunar and martian gravity simulated
+on the same station might have some utility
+though, since you could essentially acclimatize
+folks in stages simply by spacing rings at
+different distances outward from the centre
+of a rotating wheel.
+But in this case, you’re really getting
+it as a bonus from making use of otherwise
+empty construction space.
+Rotating sections for stations and long duration
+space travel might seem critical to avoiding
+all the problems with zero-gravity, but that
+rotation in itself presents some potential
+issues.
+Trying to match a space station’s rotating
+wheel up to a non-rotating section is problematic,
+and an entirely rotating space station has
+one key problem – the whole thing has gravity,
+even if it diminishes to next to nothing near
+the axis of rotation.
+The reason this poses a problem is that one
+of the main purposes of space stations has
+been to run zero-gravity experiments, and
+having any form of simulated gravity would
+skew your results.
+Indeed, having multiple sources of gravity,
+as would be the case for a station orbiting
+the earth, could be the source of additional
+errors.
+We’re hardly done doing those experiments,
+and they’re arguably a lot more important
+as a whole than checking the effects of lower
+Martian and Lunar gravity.
+Trying to do it all with a rotating section
+connected to a non-rotating one, would create
+additional problems both in terms of cost
+and technical challenges, which would likely
+be solved by simply having separate stations
+instead.
+Now, the good news is that we do finally have
+a new space station under construction, the
+Chinese Tiangong space station has its first
+module up there as of this spring, 2021, 23
+years after the first module for the ISS was
+sent up.
+However due to geopolitical issues here on
+Earth, this is a single-country effort, and
+while I’d love to see several national space
+stations, the one big upside of the ISS was
+that it was international and collaborative,
+even if it wasn’t in any way spread equally
+in terms of cost or control.
+So I’m not sure Tiangong would qualify as
+a successor to the ISS, even if it’s successful,
+and it’s also much smaller, closer to Mir
+in size, when our nominal goal is for a bigger
+and bolder successor.
+Though that in itself might raise a valid
+point: perhaps we should consider using many
+smaller stations rather than one big one?
+This also raises a few key points on the practical
+side.
+First, do we need an international station?
+Second, who is paying for it?
+Third, is there an ‘it’, and should we
+really be thinking in a singular way?
+And finally, what purpose or purposes might
+such a platform serve?
+On the international front, I’d argue that
+we don’t necessarily need a multinational
+station.
+It would have upsides and downsides, as we
+have found with the ISS, but we also don’t
+really have international satellites, a given
+nation or company owns them, and indeed the
+actual modules for the ISS are the responsibilities
+of the nation that launched them under the
+Outer Space Treaty.
+Personally I like Multinational efforts, but
+they invariably create a lot of political
+and bureaucratic issues.
+Multi-decade programs require multi-decade
+funding and interest, and multi-entity control
+generates lots of problems including hurt
+feelings at being asked to do more than your
+fair share or being pushed out of control
+or not benefiting as much as another party.
+These are hard to avoid since they are at
+least somewhat subjective.
+The other half of that is asking if we even
+want this to be government-owned at all, much
+less multi-government-owned.
+We have seen a lot of the renewed interest,
+success, and innovation in space in recent
+years from the private sector, with SpaceX
+and its peers.
+Traditional multinational efforts might be
+done just as well or better on a station built
+and owned by a corporation, which rents out
+its facilities to others, and saves on a lot
+of red tape.
+On the flip side, one of the nice things about
+the ISS is that nobody could be doing anything
+very nefarious like secretly moving orbital
+weapons platforms on board, because it was
+internationally controlled and monitored from
+multiple sources.
+In the context of multiple stations, we might
+also want to consider that we don’t actually
+need to have modules which are physically
+connected.
+One station might be a docking and habitable
+section, with a dozen interchangeable experiment
+modules simply lashed on by tethers, and reachable
+by spacewalk if something goes wrong.
+By and large, as robotics and automation improve,
+most of the internal operations for experiments
+could be monitored, performed, and tinkered
+with by one or more small robots.
+The same goes for external repairs, especially
+given how clunky spacesuits are, and how little
+manual dexterity they offer.
+In that case, your international or corporate
+space station focused on scientific research
+is really just a maintenance crew for handling
+experimental modules and anomalies.
+You launch the module and they attach it to
+the hub, possibly with a tether that also
+serves as a power and communication cable,
+thus cutting out two of the big issues with
+isolated experiments in space, namely running
+out of fuel and needing to carry their own
+power and communications.
+The other side of this is space tourism, with
+a space hotel essentially being manned by
+definition, and requiring safe and easy transport
+for humans around its interior, regardless
+of how many modules might be involved.
+Down on Earth, the idea of having a research
+lab next to or inside of a resort would seem
+absurd, and the only reason we even contemplate
+it for space stations right now is this assumption
+the station needs to be multi-purpose and
+because so many folks interested in space
+tourism are also geeks.
+Your typical tech millionaire who might contemplate
+travel to space would probably enjoy helping
+out with an experiment as much as trying their
+hand at zero-gravity sports, but beyond those
+early days of space tourism, we should assume
+there would be little to no overlap between
+space-based R&D and tourism, and thus little
+point in having them at the same facility.
+Similarly, differing areas of research rarely
+need the same kind of lab space, and indeed
+for various reasons might require entirely
+different environmental constraints.
+Outside of fiction, there’s not a lot of
+standardized lab gear, and you don’t have
+beakers lying around every type of lab, let
+alone every type of experiment.
+Heck, even the trademark scientist lab coat
+isn’t universal.
+I’ve only worn one three times myself, once
+just trying one on, once for a photo op, and
+once for a visit to a biology lab with heavy
+safety restrictions.
+It’s not something the typical theoretical
+physicist tends to wear, anymore than a mathematician
+or a History professor would.
+They are a cheap, and a fairly disposable
+bit of easily donned clothing whose color
+makes it clear when you’ve spilled junk
+on it.
+But even though they’re a commonly recognized
+symbol of all science in the public sphere,
+even something as simple and utilitarian as
+a lab coat is just one example of how requirements
+can differ in reality from what we might imagine.
+I’ve never seen anyone wear one on the ISS
+for instance.
+In our episode discussing whether we should
+first go to Mars or back to the Moon, we talked
+about how even these two seemingly-similar
+projects actually have very limited overlap
+between them.
+Labs are the same, so while we have a concept
+in science fiction of more purpose-built space
+stations, trade stations, fuel depots, research
+facilities, and so on, we probably need to
+acknowledge that an object in orbit that is
+purpose-built for research isn’t likely
+to be some sort of all purpose lab, but more
+like the Hubble Space Telescope and its various
+kindred, with each one dedicated to a particular
+use.
+An experiment-specific, or possibly lab-specific
+environment, like a zero-g fish tank to see
+how fish adapt to swimming around in a giant
+tank of water with no gravity or pressure
+difference, could be used to see how many
+different marine organisms and even ecosystems
+might operate in microgravity.
+But while that’s great for fish, it’s
+going to have specific design features for
+those projects, and probably isn’t going
+to be useful for seeing how birds live in
+that environment, or how microgravity affects
+early childhood development.
+This isn’t to say that you can’t mix and
+match.
+A Space Hotel might be a good place to conduct
+studies on how the environment of space impacts
+human behavior, but I think in general we
+want to move away from the assumption that
+the successor to the ISS is going to be an
+all-purpose multi-national affair, and more
+toward the idea that the Next Space Station
+is likely to be plural in some sense.
+Such being the case, it's probably more logical
+to ask which type of space station will be
+built next: what’s most likely to be the
+first of this hopeful constellation of new
+space stations, and why.
+Tiangong might then qualify as that next space
+station, but in many ways it’s essentially
+parallel to Mir, Skylab, and the ISS, as a
+small, all-purpose station.
+It's also currently in-progress so for now
+we’ll turn our eye to other options.
+There’s a controversial sentiment I’ve
+heard fairly often, and partially agree with,
+that says essentially that an all-purpose
+space station can attempt any purpose but
+excel at none, and there are similar comments
+about this or that design for a new military
+aircraft carrier, or naval cruiser, or any
+number of other projects, including software
+platforms.
+Over-generalizing is often as bad an idea
+as over-specializing, but generalizing and
+specializing are often useful.
+Since a manned station would be able to share
+a lot of the same facilities, there’s a
+lot to be said for a single big one that can
+serve multiple purposes.
+So which one will it be?
+Specialized stations, or a big hub in which
+many specialized tasks might occur?
+Alternatively, might it be some sort of splitting
+of the difference?
+For instance, while a city is a generalized
+hub, a University campus is a mix of general
+and specialist, focusing into the broad category
+of research and teaching, and of course over
+time often adds things to the campus or its
+periphery that’s more generalized.
+Universities aren’t just labs or housing
+complexes, and most of them manage to function
+just fine with this type of multitasking,
+it’s just that we don’t usually consider
+it in that light.
+There’s a time factor on any space station
+too, in the sense that it can grow and evolve
+in purpose, though such changes might incur
+additional expenses depending on how extensively
+that focus shifts.
+But any station which specializes in mining
+asteroids might mutate over time into a city
+in which mining is minimal, even as many mining
+settlements in our own past grew into something
+else, and this applies to all sorts of different
+examples, from logging camps to military outposts,
+and thus we might expect it to apply to space
+settlements too.
+But that constitutes long-term growth, not
+near-future.
+What does the next space station need?
+Some features seem obvious, like a docking
+hub to allow people to move from ship to station,
+though ironically this wasn’t a feature
+on most of the early space stations, with
+crew instead being transferred by spacewalk
+from ship to station.
+Improvements in spacesuits or airlocks might
+negate or diminish the need for these.
+It also might not be entirely necessary to
+have a docking hub on every station, such
+as with the tender station model we mentioned
+earlier, where hundreds of modules might be
+attached by tether, and mostly overseen and
+visited either remotely or robotically.
+Indeed, in such a case the hub might actually
+be a spaceship that simply cycles out occasionally
+by passing those tethers to the next manned
+ship, like passing a cluster of balloons.
+So, even this seemingly obvious feature of
+a docking connection to allow unsuited travel
+between ships and modules shouldn’t necessarily
+be taken as a given.
+Tied in with the other assumptions we often
+make about space stations is the idea of how
+we’ll recycle air and water.
+Contrary to what science fiction might suggest,
+it won’t necessarily be the case that all
+long term facilities and ships will make use
+of plants for recycling the air and water,
+though I feel like this is going to be one
+of the big characteristics of ships and stations
+as we move from brief visits to space to actually
+living there, since having actual plants on
+board would allow us to recycle air, water,
+and also produce some fresh food.
+But just as we rarely see more than the occasional
+houseplant in the typical workspace, we shouldn’t
+necessarily assume that air and water recycling
+will be done in this fashion on your typical
+smaller station.
+For most of those, carbon dioxide scrubbers
+and filters for air and water are generally
+going to take up less space and resources,
+(and most importantly be more reliable) keeping
+them more attractive for those smaller applications.
+And it’s worth noting that while space is
+huge, there’s a reason why spaceships and
+stations are currently small and fairly light,
+since as it stands mass is a bigger bottleneck
+on all space construction than cost of materials.
+It takes a lot of material to build walls
+and hulls and shielding, and with our current
+technology, that’s all very expensive to
+bring up from the surface.
+We might expect this to change as we start
+developing real space infrastructure, and
+get into mining resources from the moon and
+asteroids, but right now we are still looking
+at price tags of around a thousand dollars
+a kilogram, and that’s down a lot from when
+the ISS was being built.
+But once we make that step toward obtaining
+resources from space instead of Earth, and
+building things off-planet, we can start talking
+about making those big space habitats and
+O’Neill Cylinders.
+The issue of launch cost is also why we so
+often saw space station designs that reuse
+booster rockets during the era of the space
+shuttle.
+You’ve got a great big cylinder floating
+around in orbit with about 2000 cubic meters
+of internal volume, more than the entire ISS,
+that presumably can be retrofitted into a
+space station module to save a lot on fuel
+and effort, while also managing some of our
+space debris.
+In truth this was a lot easier said than done,
+hence why it hasn’t been done, but it was
+always a temptation and one that probably
+could have been made a reality.
+However, with the new age of reusable rockets
+moving to include even the upper stage booster
+this is likely to end this option.
+So we have four main concepts here, in terms
+of recycling.
+The first is that a shift in technology can
+alter the dynamic of what provides discounts
+for construction.
+No empty booster rockets milling around orbit
+means no easy access to empty ones to reuse.
+In the same way, setting up cheap solar shade
+production on the Moon a few decades from
+now might allow us to reuse damaged ones as
+hull components, wrapping them around a structure
+like a protective cocoon.
+Second, it reminds us that while one man’s
+trash is another man’s treasure, sometimes
+the process of repurposing is ultimately more
+problematic than it might initially seem.
+Third, it reminds us of the space debris issue,
+and that as a consequence we also need to
+be thinking of how to better protect astronauts
+from the general hazards of space, everything
+from radiation to micrometeorites, and even
+bits of junk.
+A thicker hull is probably the easiest way
+to go here, but more weight means more money,
+unless we’re making use of stuff we already
+have up there.
+Even then more weight means orbital correction
+requiring more fuel.
+And finally, recycling on board would be useful,
+but probably only in cases where the equipment
+is going to get enough use to justify the
+mass and maintenance requirements of tools
+for repair and reprocessing, so I’m not
+expecting to see something like a large hydroponic
+setup on the next station.
+This might be less true if we get a big space
+tourism industry going, and there’s a chance
+that will take off soon.
+A lot of recycling gear for any type of waste
+does better at larger scales, so a facility
+of 3 or 4 astronauts benefits less from having
+these than one with 3 or 4 crew and 10 or
+20 guests.
+We don’t know what the price point for stable
+space tourism would be, but we do know that
+Virgin Galactic has already booked several
+hundred people at a ticket price of around
+a quarter of a million dollars a piece, and
+there are over a million people who make more
+than a million bucks annually and might look
+seriously into doing that.
+So as surprising as it might seem, we might
+already be at or near the price point for
+discussing larger stations.
+If I can have a hotel with 10 folks at any
+given time for say, a week at a time, that’s
+just 520 people a year.
+Would that be a separate station or separate
+module, or something integrated into a larger
+station?
+Probably the latter, if for no other reason
+than sharing all the costs and diversifying
+the investment.
+The other big business case for the relatively
+near term is going to be manufacturing in
+space.
+We don’t know where the space industry will
+take off to the point where we actually manufacture
+stuff there, though we’ve examined several
+plausible options in our episode on Kickstarting
+Space Industry.
+There’s something of a Catch-22 to space-based
+production, where often the demand that justifies
+a new economic sector focused in space can’t
+exist until after other space-based infrastructure
+exists, which themselves rely on other demands.
+But if we’re confident we’re going back
+to the Moon or Mars, or the main intent is
+to cheaply gather metals for power satellites
+or solar shades, then a factory and port for
+that in orbit is a justifiable expense, and
+just represents an early investment to prove
+and prototype the process for future development.
+Which brings us to the Lunar Gateway, or simply
+the Gateway.
+This is an upgrade and adaptation of the Deep
+Space Habitat design from about a decade back
+which is being proposed as part of the New
+Artemis Program to return to the Moon.
+The basic notion is to place a space station
+around the Moon, and there’s a lot going
+for that.
+I’ve heard folks object to the idea on the
+grounds that we should be returning to the
+Moon itself, not building a space station
+there, but there's a reason why all those
+Apollo Missions involved orbiting the Moon
+and sending down a vehicle.
+I think it makes a lot more sense to have
+some waypoints established first, and the
+same applies for Mars.
+If you have a sort of relay system where folks
+can train, resupply, or have assistance along
+the way, it decreases the amount of stuff
+you have to bring with you for the longer
+journey, which ultimately translates to lower
+costs over time.
+A semi-permanent presence in orbit of the
+Moon would ultimately make doing missions
+there and getting established on the surface
+a lot easier in the future.
+Plus, after waiting 50 years to go back, a
+short delay to establish a station seems a
+minor wait.
+We also aren’t interested in just landing
+and poking around, we want to be back there
+forever.
+We’d want to set up real industry there,
+and a space station orbiting the Moon is good
+for that.
+I think the Gateway has a lot going for it,
+starting with being rather modest, but also
+committing us to going back to the Moon and
+in a big way.
+For less modest options, we have options like
+the Kalpana One Station.
+This obviously isn’t going to be our next
+space station, but it’s a reminder of what
+we’re aiming for, and what we can achieve
+if we get a moon or asteroid mining operation
+on the go, or build up a space-tourism and
+orbital-construction industry.
+It’s a stepping stone not just to the Moon,
+but toward larger settlements like the Stanford
+Torus, Bernal Sphere, or O’Neill Cylinder.
+But where the ISS is around 400 tons, Kalpana
+is around 10,000 times that, with some estimates
+putting it as much as 7 megatons.
+With launch costs of 1000 dollars per kilogram,
+or a million dollars per ton, you’d still
+be looking at 7 trillion dollars in launch
+costs, more than 30 times what the ISS cost.
+With an intended 3000 residents, you’d have
+to charge more than 2 billion dollars per
+resident just to get the thing off the ground.
+I imagine this is probably off the table for
+most folks, so a project like this definitely
+needs to be one where you’re sourcing that
+mass from somewhere else, or else finding
+a way to vastly decrease launch costs from
+what they are today.
+But that being said, it’s not as far off
+as it might seem, and may well be something
+that could happen in this century.
+The good news is that we’re really moving
+forward again with space.
+The ISS may be past its original expiration
+date, but it’s still running strong.
+China’s busy building a new one, not just
+planning it, and the Artemis Program and Gateway
+Station look like they are likely going to
+happen.
+Fundamentally though, as I said near the start,
+it's not about what the next space station
+will be in a singular sense, but what the
+future of space stations looks like as a whole
+in the coming decades.
+In the next ten years or so, we’re likely
+to see multiple space stations functioning
+at the same time, and it won’t be long before
+folks can’t just say “The Space Station”
+like we do today, without getting a lot of
+confused looks.
+The future will likely be one of an increasing
+number of increasingly specialized structures
+in space.
+That time is coming sooner than many might
+believe, and with it getting launched this
+decade, it’s definitely going to be fun
+to live through.
+We were talking about space hotels in passing
+today and folks often ask me to do an episode
+on space food, and we might do one, one day,
+but in the meantime there’s a great discussion
+of the challenges of cooking in space with
+famous chef Heston Blumenthal over on Curiosity
+Stream.
+Now we do have an extended edition today available
+on Nebula, where we’ll spend a few minutes
+discussing the Stanford Torus design & the
+Bernal Sphere as alternatives to the O’Neill
+Cylinder or Kalpana.
+I think we will end up giving each their own
+episode at some point but I keep not getting
+around to it and wanted to in this episode
+but the reality is neither is a legit candidate
+for our next space station.
+The nice thing about the extended editions
+on Nebula is I don’t have to worry as much
+if my rabbit trails or tangents get a bit
+off topic.
+If you didn’t already know, Nebula is our
+new streaming service full of awesome content
+from STEM creators like Real Engineering,
+Mustard, Answers with Joe, MKBHD, Rene Ritchie,
+and a bunch of others including lots of awesome
+non-STEM content like Devin from Legal Eagle,
+and the notion of having extended editions
+replacing sponsor reads in our episodes was
+Devin’s idea as I recall.
+Our episodes of this show appear early and
+ad free on Nebula, and some have extended
+editions too, plus we have some Nebula Exclusives
+like our Coexistence with Aliens Series.
+Now you can subscribe to Nebula all by itself
+but we have also partnered up with CuriosityStream,
+the home of thousands of great educational
+videos, to offer Nebula for free as a bonus
+if you sign up for CuriosityStream using the
+link in our episode description.
+That lets you see content like “Heston’s
+Dinner in Space”, and watch all the other
+amazing content on Curiositystream, and also
+all the great content over on Nebula from
+myself and many others.
+And you can get all that for less than $15
+by using the link in the episode’s description.
+So this wraps us up for today but not for
+the week, as we have our mid-month Scifi Sunday
+episode: Alien Artifacts & Xenoarcheology,
+this weekend on August 15th.
+Then next week we’ll look at Fusion Propulsion
+designs and concepts for Spaceships before
+closing the Month out by heading all the way
+out to the Edge of the Universe, on Thursday,
+August 26th, then we’ll have our Monthly
+Livestream Q&A on Sunday, August 29th at 4
+pm Eastern Time.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us iTunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

@@ -1,0 +1,836 @@
+People often wonder what space has to offer
+Earth, besides near infinite strange new worlds
+to seek out and explore, but it also offers
+us a number of clean and abundant energy options
+for back here at home.
+Whenever I think about the future I try to
+do it in the context of imagining a civilization
+out there where they have the sort of energy
+abundance that we would have if we had an
+unlimited supply of oil and no environmental
+negatives to burning it.
+Where we could pump and refine it for 10-20
+dollars a barrel and a gallon of gasoline
+cost a buck in modern cash.
+That’s a civilization that has cheap transportation,
+cheap heating and cooling, cheap supplies
+of fresh water for homes and farming, and
+cheap fertilizer for those farms.
+It results in the drop in cost of almost everything,
+while ensuring more funds are available publicly
+and privately for other services and projects
+to benefit humanity in general and raise the
+standard of living for the individual and
+family worldwide.
+This is not a pie in the sky idea, or a thing
+of the distant future, it’s just what happens
+when you don’t have a dwindling supply of
+oil that also causes environmental issues
+when we use it.
+There’s a lot of solutions we can contemplate
+down here on Earth but the Solar System is
+a much bigger place and also where the Sun
+is actually at, not here on Earth, and today
+we’ll be talking about ways we can get that
+clean and super-abundant energy we need from
+space.
+Our primary focus will be on solar power,
+particularly power beaming, but there’s
+a few different forms of that, like solar
+thermal, and we also want to contemplate a
+couple other options like Earth’s magnetic
+field or rotation, or nuclear power, fission
+and fusion.
+One thing we won’t be doing here is talking
+too much about price per joule or kilowatt
+hour, while that’s vitally important to
+deployment, the reality is that trying to
+price power up on any system that’s not
+even been fully prototyped is more than a
+bit dubious, and more importantly, the space
+market place itself is constantly shifting
+and so is the energy marketplace.
+We also often have arbitrary values getting
+plugged in by those in favor or against a
+system in the absence of hard data or even
+just because it's a round number.
+Just as an example, we had a recent report
+out saying solar power satellites, or SPS,
+would run about 60 cents a kilowatt hour,
+at the time I’m writing this the US national
+average is 19 cents, so just over three times
+as much.
+It did that by assuming SPS lifetimes of 10
+years, whereas the SPS-Alpha group usually
+puts that service lifetime at 30 years, three
+times as long, and longer if maintenance was
+possible.
+Since virtually all the cost is launching
+that satellite, 30 years would suddenly make
+it economically viable.
+It was also assuming rather high launch costs,
+not what Space-X is anticipating for a few
+years down the road, let alone if we were
+trying to move a multi-trillion dollar sector
+of the economy into space which would see
+launch costs drop massively as everything
+just scaled up.
+Also, while we generally want these devices
+in higher orbits, which takes more fuel, they
+need their own method of station-keeping,
+like an ion drive, and obviously have their
+own power supply, so they do not really need
+the additional and significant cost of moving
+from low orbit to higher orbits included in
+their launch cost.
+It’s rarely a bad idea to be pessimistic
+about new technology start-up costs but that
+report is assuming much too high of launch
+costs and much too low of service lifetimes.
+And this is always current technology too,
+which is proper when you’re doing a business
+plan for a start up but not when you’re
+trying to guess the state of play two generations
+from now.
+Trying to determine how much a given power
+system would cost at least 20-30 years before
+it deploys at scale would be like trying to
+determine how much backing up your computer
+would cost in nowadays money using available
+storage from the late 90s, when writable CDs
+were still all the rage and floppy disks were
+still common, and memory cost many thousands
+of time more than now.
+For my part I think we could make a system
+like SPS work right now, and I was a late
+convert to the idea maybe 6 or 7 years back.
+I have a lot of friends and colleagues who
+work on it and other systems and who also
+have the job of being critical of them too,
+and that’s only grown since I was elected
+president of the National Space Society, which
+is a big advocate of space-based power unsurprisingly.
+It also means I’m not the most neutral source
+on the matter, nor am I an economist, but
+I’ll try to present the topic as fairly
+as I can while in a general advocate role.
+I want to stress though that neither advocates
+nor critics are really in a good place to
+offer concrete numbers on costs and performance
+at this stage other than to say that the march
+of time and progress will tend to improve
+them.
+Though as I often like to note on this sort
+of topic, it tends to improve their competitors
+too, and some systems might improve 100% in
+efficiency and surpass how a current competitor
+performs, but that same competitor might improve
+60% in the meantime and thus still be ahead.
+Either way, we as consumers and citizens generally
+benefit, but it can mean that a given up and
+coming alternative energy or production method
+can still hit all its goalposts to improve
+and not become a clearly superior choice simply
+because one or more existing methods also
+improved in that time and enough to make a
+conversion less than tempting.
+With that caution in mind, we still have lots
+to be optimistic about in the energy front
+for space and as we’ll see, that includes
+pathways other than solar panels there too.
+Again, looking at launch costs and tempo from
+the last decade doesn’t paint a clear picture
+of price that we would see if we were launching
+dozens of big solar satellites a month.
+Nor does it tell us what the economic environment
+looks like if we’re just launching delicate
+components and assembling a given power generator
+in orbit from those and bulk materials like
+metals or silicon sourced from the moon, or
+asteroids.
+Or alternatively, if we were bringing in fission
+or fusion fuel from those sources or a gas
+giant for non-solar power sources.
+Many of these systems do have extensive white
+papers done on them that seek to estimate
+cost, some more up to date or developed than
+others, if you want to continue your research
+after today.
+And I would say almost without exception such
+papers represent sincere and diligent efforts
+to be honest in projection, but there’s
+a lot of unknowns and unknown unknowns out
+there.
+I should also note that there’s production
+of energy in space and then shipping that
+energy back to Earth, and we should not assume
+these are always hand-in-hand.
+They also have very different key dynamics.
+For instance, the default system for moving
+energy back to Earth is typically microwave
+transmission.
+Microwaves are easy to convert from electricity
+and then back into electricity, at a relatively
+low loss rate, and they go through almost
+anything.
+The microwaves in your home projecting your
+wi-fi signal and heating your food in the
+microwave oven are the same thing, and pass
+harmlessly through virtually everything but
+are very easy to absorb or reflect with certain
+materials and equipment.
+Hence, the typical microwave photon in your
+oven may bounce around inside that oven a
+million times before it actually gets absorbed,
+but a photon can bounce around a space like
+that a billion times a second.
+I think folks worry about getting cooked by
+microwaves themselves and don’t really understand
+that we use them because they get absorbed
+by virtually nothing and easily pass through,
+compared to say visible light, which is also
+thousands of times stronger per photon too,
+so even when a microwave hits a piece of flesh
+it isn’t doing anything but slightly warming
+it and less than a random visible light photon
+would.
+But a light photon will only heat the surface
+of food, whereas microwaves are better at
+getting in deeper, precisely because they
+get absorbed less.
+It is also very hard to focus beams of any
+photon into tight spots and harder the bigger
+the photon’s wavelength - microwaves are
+many thousands of times higher in wavelength
+and lower in energy than visible photons.
+You can build one that could concentrate microwaves
+very intensely on a spot, much like you can
+with light, and indeed the microwave equivalent
+of a laser is called a maser.
+The thing is, trying to focus one tight enough
+to hurt people or the local environment rather
+than move energy - making a death ray - would
+mean a costly and expensive upgrade to such
+a beaming system which would also not be even
+a little bit covert.
+Everybody can see your satellites, especially
+the ones with huge sunlight collectors on
+them.
+Indeed one of the bigger objections to these
+is that they would be naked-eye visible and
+add to light pollution, even though we tend
+to put them in much higher orbits where they
+don’t get shadowed much by Earth, though
+that adds costs.
+By default we tend to think of putting an
+SPS system at Geostationary, which is a hundred
+times further away than low orbit, and thus
+thousands of times dimmer to our eyes, but
+these things are huge mirrors so even there
+you are going to tend to see them.
+They also can be in higher and lower orbits,
+this requires you to be able to switch where
+you’re beaming energy down to, but also
+avoids the issue with geostationary being
+fairly limited and valuable real estate.
+Regardless, they’re just not covert.
+So nobody builds them as a secret weapon nor
+can someone easily hijack one and convert
+it.
+It could be done, but it would be a really
+inefficient and risky way to obtain a fairly
+weak weapon.
+Conceptually, it would be like trying to build
+a compressed gas machine gun by hijacking
+a porsche or jet plane, when you could have
+spent far less time and energy to get your
+hands on a vastly superior weapon system.
+I wanted to get that out of the way because
+the main objection to power-beaming is usually
+this and yet you won’t see it come up much
+in papers on the topic except to clarify why
+it wouldn’t work and isn’t a worry.
+And there are plenty of papers critical of
+this approach, but not on the weaponization
+point, usually cost and transmission coordination
+concerns.
+Another thing I like to note though is that
+everything is weaponizable, especially energy,
+it’s just that in a case like this you are
+better off weaponizing a power satellite by
+using it to power a weapons factory.
+Or running a normal factory and using the
+increased prosperity and tax revenue to pay
+for troops and tanks.
+But while that’s the main method contemplated
+for moving power to Earth, it isn’t the
+only one and more to the point, it can be
+used for moving multiple types of power.
+We picture a sunlight-collecting power plant
+sending it down to Earth but these could as
+easily be solar-thermal plants or thermal
+wadis on the Moon or even nuclear fission
+or fusion reactors.
+Indeed we often contemplate using micro black
+holes as a power source and one orbiting the
+planet at a distance and beaming energy home
+might be viewed as wiser approach, even if
+a micro black hole would need longer to eat
+our planet than we have before the Sun burns
+out, so that under known theory, one wouldn’t
+be a threat even if it got lost in the middle
+of Earth or the Sun.
+Beaming stations also represent a very interesting
+economic marketplace.
+One of the things we like about orbital solar
+power is there’s no weather or nighttime
+up there so except for when your station moves
+into the planetary shadow for a bit, assuming
+it even does, you can transmit at full power
+constantly and to the dark side of Earth or
+right through bad weather.
+But your satellite isn’t stationary and
+while we might be able to target individual
+houses or yards with their own receivers,
+we usually assume large receiver fields servicing
+a modestly large region like a city or county.
+Such fields could still serve other purposes
+too, you can grow crops or pasture in one,
+and indeed I could make a very good case in
+colder climates for weaving the receivers
+into greenhouses since a modest fraction is
+turning into heat when received and converted
+back into electricity.
+Thus you get to put a receiver into a structure
+easily modified to that end which gives it
+some free warmth and an abundant energy supply
+for supplemental lighting.
+This means that a satellite is constantly
+shifting who it transmits too, as it orbits
+Earth, and odds are you get a very elaborate
+and fairly automated auction system.
+We might have a million of these satellites,
+each generating 10 megawatts of power, and
+each selling power for one hour blocks.
+That would be 10 trillion watts, which is
+about half the total power consumption of
+humanity right now, and just gets auctioned
+off constantly and works in conjunction with
+other existing power sources.
+Prices go up, people build more of them, they
+go down, people build less or folks start
+buying those non-peak supplies to use for
+marginal purposes.
+That can include sucking carbon dioxide right
+out of the air to combine with hydrogen from
+water into methane, gasoline, or other hydrocarbon
+fuels, which then become carbon neutral.
+You’ll spend more energy doing that then
+you’ll get out of it, but much like charging
+a battery, there’s a lot of cases where
+that mobile power supply is very worth that
+increased cost.
+It is not the only way to get power down to
+Earth though, and the most obvious is us bringing
+it in on space freighters.
+Nuclear can make folks hesitant, especially
+when it's being used near Earth, but it's
+great for interplanetary spaceships or on
+places like the Moon that are already soaked
+in radiation anyway.
+I could easily imagine a nuclear fission economy
+growing in space and using lots of breeder
+reactors to produce more abundant and handy
+fuels like plutonium, and shipping those back
+home to Earth.
+This is even more true if we get fusion working,
+though a note of caution here.
+You will hear a lot about helium 3 and the
+Moon and there’s two big caveats that tend
+to get left out.
+First, there isn't much Helium-3 on the Moon,
+it's exaggerated as a source, and second,
+it is much harder to fuse than deuterium is.
+So it’s mostly attractive because the aneutronic
+process of helium-3 fusion allows a much lighter
+reactor with less shielding and less wear
+and tear.
+Which means it’s much more useful for spaceships
+than down on a planet where shielding mass
+is cheap, and replacement parts are abundant.
+More importantly, if you’ve got helium-3
+reactors then you’ve got fusion-powered
+spacecraft that can fly out fairly quickly
+to the outer planets where Helium-3 is vastly
+more abundant.
+See our episode Colonizing Neptune for a more
+detailed discussion of such an economy and
+its dynamics.
+Deuterium is also abundant there and much
+easier to fuse but critically, there’s a
+huge amount of it here on Earth and no reason
+not to use it first.
+The overwhelming majority of the normal matter
+in this universe is hydrogen or helium, and
+both of their isotopes of deuterium and helium-3
+are very common everywhere you go except the
+inner-system and Earth-like planets, where
+helium is rare and hydrogen and deuterium
+are still abundant but not nearly as much
+as elsewhere.
+This is another reason photovoltaics are popular
+for space, because water is fairly rare near
+the Sun and most of it is down here on Earth,
+so your option for cheap and abundant working
+fluids and coolants for classic heat engines
+like coal power plants or nuclear reactors
+is fairly limited.
+Though we’ll return to that point in a bit
+to discuss solar thermal power.
+It’s also a reminder that we’re not just
+interested in power production in space for
+here on Earth.
+There’s all those future facilities we’d
+like to make in space, all those spaceships,
+moon bases, Martian colonies, and even habitats
+in deep space or on seemingly unlivable worlds
+like Mercury and Venus.
+We should also be mindful that in some scenarios
+it might be easier to transmit power from
+a planet to space instead of the other way
+around.
+We tend to assume we’re using abundant and
+renewable solar which is more plentiful and
+stable in space, but we could have fusion
+reactors down here that transmitted to low
+orbital satellites when they were in Earth's
+shadow.
+One of the biggest issues with power in space
+is hauling your equipment up there and maintaining
+it there, and if it costs you a tenth the
+price to build and maintain down here, then
+you might find that easier.
+One big exception is when you start having
+enough power generation that simply creating
+and using electricity is producing too much
+heat for your planet.
+This is beyond greenhouse gas concerns - which
+clean energy from space is meant to fix but
+which fusion reactors groundside would too.
+The thing is that such engines are always
+producing at least half their energy, and
+typically more, as raw heat in the process
+of making electricity, so if you’re doing
+that up in space instead, it lets you increase
+the electricity available on Earth without
+overheating the planet.
+Now this is where microwaves are handy because
+we can reliably pull off much higher rates
+of microwaves to electricity and lower rates
+of microwaves to heat then we can with any
+steam engine or turbine.
+85% efficiency is very achievable with a rectenna
+- which is the type of antennae we use for
+grabbing microwaves.
+We delved into that process in more detail
+in our power satellites episode way back in
+2016 and it remains the same now.
+The thing is, you only really need to worry
+about that electricity to heat loss as a maximum
+cap on your civilization if you’re aiming
+for some trillion-person ecumenopolis or planet-wide
+city.
+However, that same civilization could simply
+use space towers to bring electricity down
+on superconductors or ultra-low resistance
+wires.
+And we might do something like that too.
+An alternative to power satellites is simply
+sticking your solar panels up above the weather
+on something like an orbital ring or tethered
+ring.
+Which keeps them at a spot in the atmosphere
+safe from space debris issues - or causing
+space debris issues for that matter - while
+also giving you a launch platform to space
+that massively outperforms modern rockets.
+There are even some extreme engineering methods
+that can allow physical tether connections
+to the Moon or Lagrange Points, like we discussed
+in Interplanetary Infrastructure, and while
+those would be major projects, they are well
+within the bounds of known science and the
+construction capability of such a civilization.
+Which circumvents the entire issue of beaming
+energy to Earth.
+So too, ships bringing in plutonium or helium-3,
+or pods going down such space towers, elevators,
+or tethers, are carrying a super-dense energy
+source where even a single modest freighter
+landing once a month would likely supply the
+entire planet’s energy needs for that period,
+if not far longer.
+And a ship full of helium-3 crashing is utterly
+harmless - minus the debris - while fuels
+like uranium and plutonium are so dense and
+sturdy that they wouldn’t fragment much
+on re-entry and be fairly easy to recover
+without much concern if a ship did fall apart
+during atmospheric entry.
+Needless to say you can find them easily with
+a geiger counter in any place they might land
+that is dangerous to humans.
+And because water is so good at absorbing
+radiation, any small fragments landing in
+the deep ocean would be relatively harmless,
+and would sink like bricks and get buried
+in the sediment.
+You should still retrieve them though, and
+for entirely non-altruistic reasons, plutonium
+is very valuable stuff.
+All in all, I still favor a solar power satellite
+especially in the near to mid-term, but we
+do have options and their viability is hard
+to really assess compared to alternatives.
+I’m sure no one will be shocked when I say
+I’d like to see trial and pilot projects
+on all of the above.
+I don’t think we gain much by focusing down
+on one when we have thousands of enthusiastic
+scientists and engineers who’d like to try
+each of several approaches and enthusiasm
+is a huge and often underappreciated aspect
+of productivity in every area of human endeavor
+but particularly science and engineering.
+I tend to feel the populace as a whole prefers
+the multi-pronged and aggressive approach
+to R&D too, which is why I tend to be irritated
+at circular firing squads in science that
+emerge when one group wants to get their project
+funded and beats up on their perceived competition.
+Though that can be a healthy and necessary
+process too.
+As an example, there tends to be a focus on
+photovoltaics these days, and improvements
+in semiconductors and solar panels justify
+a lot of that, but you’ve probably heard
+of solar thermal towers.
+This is where we get a bunch of focusing mirrors
+on the ground that point their light at some
+central spot that gets heated up and moves
+water or molten salts around with that heat
+to generate power.
+One big problem with them is that unless you
+want to open a rotisserie on that site, you’ve
+got a problem with birds flying through the
+concentrating spot and getting themselves
+extra crispy.
+You could dome that over but then you’re
+losing some light to transmission through
+that dome and of course, paying for a big
+dome.
+Many other solutions have been suggested for
+that but there are no birds in space and there’s
+also no complex supply chains there for making
+solar panels.
+Alternatively there’s tons of metal on the
+Moon and it’s easily extracted with solar
+kilns and nothing complex is involved in taking
+that metal and rolling it into big polished
+sheets which are fairly immune to wear and
+tear in space.
+So we could do this with robots, especially
+since those robots could be controlled remotely
+from Earth with minimal time lag.
+Even if you’re taking up twice as much space
+to generate the same amount of power, you’re
+not exactly short of that in the empty void
+of space or on places like Mercury where there’s
+no concern of dust covering your mirrors or
+panels.
+It would also be very easy to design some
+cleaner or polishing bot that walked around
+on magnetic legs around such panels or mirrors
+and went back to its hub to recharge or even
+had a wired electric connection which served
+as a safety tether too.
+This might be entirely automated or even remote
+controlled from groundside facilities here
+on Earth.
+And these might be groundside facilities too.
+One reason we like molten salt on Earth is
+that it remains a liquid even when very hot
+and full of energy, rather than turning to
+steam like hot water does, requiring pipes
+that can handle a lot of pressure and are
+prone to rupture.
+You can store a lot of heat in such molten
+materials and for a long while, and on airless
+rocks like the Moon, we can do this even better
+inside what we call thermal wadis.
+This can be as simple as pouring heat into
+a big natural thermal reservoir, by having
+a lot of metal mirrors focused on it or on
+a heater attached to molten salts piping that
+heat in, and back out later for power generation.
+This can also involve the equivalent of a
+thermos-cup, since there’s no air and any
+container suspended on the Moon to minimally
+touch things around it can only lose heat
+by radiation and can store it a long time,
+and longer the bigger it is.
+This is mostly viewed as a way to help keep
+power at a base on the Moon, where its ultra-slow
+rotation makes it so the lunar day is two
+weeks long and the lunar night just as long.
+But while the Sun may disappear from the Moon’s
+sky for weeks at a time, Earth doesn’t.
+It’s either there all the time, on the side
+of the Moon facing us, where we can send a
+beam from constantly, be it communication
+or power, or you are on its metaphorical dark
+side where we cannot.
+This is what’s tempting about the Moon for
+Solar power as it might beam excess energy
+home to Earth while using the majority for
+the creation of more of these big metal sheets
+and rocket fuel to be used for ships in orbit
+of Earth planning on interplanetary voyages,
+and saving on rocket fuel we need to make
+and burn here on Earth, few of which are noted
+for being terribly eco friendly either.
+Some by how you mine or refine them, and some
+like aluminum are just energy hogs, readily
+available and easy to mine and make if you
+have a cheap power source beamed in to run
+things.
+Alternatively you can move a lot of more problematic
+industries off Earth if you have power, especially
+if you have good automation.
+Power made in space can be used for making
+fuel for space travel or running industries
+or space stations and habitats.
+One way to get cleaner energy on earth is
+basically just to reduce how much of it we
+have to produce here and that includes lowering
+our demand.
+And strange as it sounds, it might be easier
+or better to ship metals home not just to
+Earth orbit but Earth itself in some cases,
+rather than making them here.
+You don’t have to use microwaves for power
+transmission either.
+They just tend to be our easiest and most
+efficient to convert energy back and forth
+from heat or sunlight into electricity somewhere
+else.
+Sometimes you might want to use a visible
+range laser beam as an alternative, especially
+if you’re trying to send it far away where
+having a shorter wavelength can allow a tighter
+focus.
+We often contemplate them for helping push
+spaceships along, either by the raw radiant
+pressure of those photons or super-heating
+some propellant to temperatures beyond what
+any fuel might burn at and thus achieve higher
+speeds.
+Or for moving comets in-system.
+A weird quasi-tractor beam can be used to
+on a comet or asteroid by having a power receiver
+on that ice ball or rock and using the received
+energy to vaporize matter there and propel
+it out in the direction of your choice like
+a rocket flame, including in-system toward
+that beam, which pushes against it but not
+nearly as much as the matter stream coming
+off in terms of net momentum.
+So you send a simple robot probe there to
+land, embed itself, or perhaps two probes
+to the north or south pole, spread out their
+receivers, and use that to collect energy
+and vaporize material to be fired out in the
+direction you want.
+Which might be out-system too.
+Interstellar speeds are possible this way,
+and it's something to do with excess power
+production since you always want to have some
+production even above your peak needs.
+This is also a good way to support settlements
+or outposts far from the Sun.
+Now I mentioned two probes landing on a comet
+or asteroid for such a push and that’s because
+if you are at a pole you probably can keep
+your receiver constantly visible from your
+distant power transmitter, but if you start
+blowing material from just one spot like that
+you’ll start spinning the asteroid or comet
+into a wobble or rotation, whereas two points
+would negate that.
+But it’s a good reminder that while we’ve
+been talking about heat engines producing
+power by moving heat around, the way we originally
+generated electricity is by using that to
+spin a dynamo.
+That’s just some spinning object, usually
+a disc, spinning through a magnet which slows
+it down and generates electric current in
+the process, converting that kinetic rotational
+energy to electricity.
+These days we generally use an alternator
+over a dynamo, which generates alternating
+current, dynamos generate direct current incidentally.
+Spinning an asteroid around to act as a power
+storage might seem crazy but you can do that
+and a lot of rotating habitats, since they
+rotate to produce spin-gravity anyway and
+through a frictionless vacuum, might subtly
+alter their spin rate to store or withdraw
+energy this way.
+So maybe gravity is higher in the evening
+by a few percent and lower in the morning
+by a few percent.
+Or they might just pump water or some other
+liquid from their core to the exterior to
+compensate with changing angular momentum
+but stable gravity.
+You can actually do this to an entire planet,
+especially one like earth with a big magnetosphere,
+and we’ve discussed doing this before to
+alter a planet’s rotational speed.
+You spin it faster to shorten the day length
+or withdraw energy to lengthen the day.
+Earth’s rotational energy is a 214 billion-billion-billion
+joules, so if we were okay with sucking 1%
+of that energy out over a million year period
+we would be getting about 2 billion-trillion
+joules a year out, which is 68,000 gigawatts
+of power, 20 times the current power consumption
+of humanity.
+I doubt that we’d ever opt for this path,
+but it is available and you can also restore
+it later if you want, and many terraforming
+projects on other planets might pursue this
+method to get the day length they want.
+You can also move things around in Earth's
+magnetosphere this way via electrodynamic
+tethering, which lets you use a long thin
+conductive tether - potentially thousands
+of miles long - to suck energy from that magnetosphere,
+or alternatively, push up and out from Earth
+by running power into it in reverse.
+We contemplate that in the devices known as
+skyhooks and rotavators, and you can do it
+with a full space elevator too.
+I could imagine planets with more eccentric
+orbits or a north or south hemisphere that
+had more land but was colder, opting to add
+rotational energy during one season or orbital
+phase to store it, and withdraw that to warm
+them during the other phase.
+This would be a barely measurable change in
+rotational energy for an object of that scale
+too.
+Obviously one of those options that’s fairly
+far out there and probably never of use on
+Earth, but it’s good to know our options
+and there’s a reason this show is called
+Science & Futurism after all.
+You can learn more about power satellites
+in our episode of that name from 8 years back
+or over at the National Space Society’s
+website, nss.org, and we’ve discussed most
+of the topics today in more detail in other
+episodes though usually with different focuses,
+often for developing the moon, settling Mars,
+or terraforming planets.
+Our playlist on the future of power and industry
+also examines many of the options from basic
+fission and solar through advanced concepts
+like thorium, fusion, black hole power generation,
+and even vacuum energy and zero point energy.
+For my part I remain a big fan of solar power
+satellites and hope our improvements in both
+solar power and space launch costs will see
+some prototypes fielded sooner than later,
+and while it has it challenges and downsides
+too, like many of the others we looked at
+today, I think it offers a promising way to
+meet our rising energy needs in a way that
+lets us get our power cheaper, safer, and
+more abundantly than now.
+And I think it’s very proper that our path
+to a brighter future might involve bringing
+more sunlight down to Earth.
+So as we saw today, there are a lot of ways
+to get power from space, especially for use
+up in space, to let us run a growing orbital
+and even interplanetary infrastructure and
+that inevitably raises that big question about
+how if we could be expanding robustly into
+space like this, couldn’t other older civilizations
+too?
+And if so, where are all the giant beacons
+shouting into the Great silence?
+After all, there’s abundant power to run
+beacons so titanic you could hear them galaxies
+away.
+In this month’s Nebula Exclusive, Galactic
+Beacons, we’ll dive into ask if stellar
+empires might create beacons and to ask how
+those would work, what types there are, and
+why you would or wouldn’t make them.
+Galactic Beacons is out now exclusively on
+Nebula, our streaming service, where you can
+also see every regular episode of SFIA a few
+days early and ad free, as well as our other
+bonus content, including extended editions
+of many episodes, and more Nebula Exclusives
+like last month’s episode Crystal Aliens,
+Topopolis: The Eternal River, January’s
+Giant Space Monsters, December’s episode
+The Fermi Paradox: Hermit Shoplifter Hypothesis,
+Ultra-Relativistic Spaceships, Dark Stars
+at the Beginning of Time, Life As An Asteroid
+Miner, Nomadic Miners on the Moon, Space Freighters,
+Retrocausality, Orch Or & Free Will, and more.
+Nebula has tons of great content from an ever-growing
+community of creators.
+Using my link and discount it’s available
+now for just over $2.50 a month, less than
+the price of the drink or snack you might
+have been enjoying during the episode.
+When you sign up at my link, https://go.nebula.tv/isaacarthur
+and use my code, isaacarthur, you not only
+get access to all of the great stuff Nebula
+offers, like Galactic Beacons, you’ll also
+be directly supporting this show.
+Again, to see SFIA early, ad free, and with
+all the exclusive bonus content, go to https://go.nebula.tv/isaacarthur
+So this weekend we’ll be having an extra
+episode on Sunday April 7th on the Fermi Paradox
+to ask if the reason why we don’t see expanding
+alien civilizations is because they eat their
+own colonies, in the Cronus Scenarios.
+After that, we’ll have a look at Defending
+Earth, be it from asteroids, aliens, AI, astronomical
+explosions, or just mundane human threats,
+possibly including rebellious space colonies.
+Then it will be time for Sci Fi Sunday, where
+we’ll be looking at the idea of Stargates
+and parallel devices for bridging between
+worlds and ask if there’s any theories bridging
+between science and scifi there.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you’d like to donate or help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content
+like Galactic Beacons, at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

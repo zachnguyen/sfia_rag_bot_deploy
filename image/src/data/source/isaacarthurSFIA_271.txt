@@ -1,0 +1,832 @@
+This episode is brought to you by Brilliant.
+Imagine living on a world where you could
+see all the starry majesty of space, but it
+was denied to you by firestorms in the sky
+in a constant rain of meteors.
+Now imagine that world was Earth.
+So today we are going to be looking at Kessler
+Syndrome, a cascade effect in orbit of a planet
+that clutters it up with dangerous hypersonic
+debris, and discussing how that can happen,
+what you can do about it, and the impact it
+would have on a world – in many cases this
+impact will be fairly literal too.
+A little while back, one of our regular editors
+on the show, Jerry Guern, suggested to me
+we might do an episode looking at how Kessler
+Syndrome might happen naturally in orbit of
+a planet, and if that might make civilizations
+native to such worlds unable to ever pursue
+space colonization.
+I instantly leapt on the idea, and put it
+on the schedule, but it reminded me that I’ve
+been meaning for some time to do a Fermi Paradox
+episode on various scenarios that might keep
+a technological species planetbound, like
+higher gravity or thicker skies or several
+other options, and so we will be doing a companion
+video to this one focusing on those other
+options for this weekend’s scifi Sunday
+episode.
+As always, make sure to hit the subscribe,
+like, and notification buttons for alerts
+when that and other episodes come out.
+Today though, while we will discuss that Fermi
+Paradox case of Kessler syndrome, natural
+or artificial, I think we should start by
+discussing what the heck Kessler Syndrome
+is, because it sounds more like a disease
+than a space phenomenon.
+In truth it has some similarity to a disease
+too.
+Kessler Syndrome, also known as the Kessler
+Effect, collision cascade, or ablation cascade,
+was proposed in 1978 by Astrophysicist Donald
+Kessler as a concern about space pollution.
+As more and more satellites went up, and rockets
+went up, more clutter accumulated.
+Now space is huge but virtually every object
+we put up is in Low Earth Orbit, the region
+above the atmosphere to about 2000 kilometers
+or 1200 miles up.
+It’s also the place where objects orbit
+Earth every couple hours or less and are ripping
+around at about 8 kilometers or 5 miles per
+second.
+It is a huge volume even when contemplating
+millions of objects, a volume bigger than
+all of Earth’s surface and mantle, but the
+objects in it move fast and they stay there
+for years.
+Remember that the atmosphere doesn’t just
+end abruptly at some certain altitude, it
+just gets exponentially thinner and thinner
+as you go upward and outward, and the defining
+attribute of Low Earth Orbit is that it’s
+as close to Earth as you can get to have little
+enough air drag that it's possible to keep
+something at orbital speeds for many orbits
+without constantly burning fuel.
+Now it’s astronomically improbable that
+two of our satellites should ever run into
+each while up in orbit even given that one
+a meter wide is plowing through a volume of
+nearly a million cubic meters a day, because
+there’s something like a billion-trillion
+cubic meters of low orbit space and two such
+objects encountering each other at the same
+time in that volume is about that probable
+for any given moment.
+Indeed, even when we’ve got a million such
+satellites up these odds don’t change much,
+satellites might occasionally collide but
+the odds of it happening to even one of those
+million during their typical operational life
+would be rather slim.
+Of course that can be a touch misleading,
+because there is a lot of junk up there and
+a lot of satellites on similar paths, and
+we estimate we lose about one satellite a
+year to debris collisions, and once two of
+them collided.
+That’s usually assumed to have been accidental
+but it's worth noting that it’s pretty easy
+to make them intentionally collide.
+Artificially and intentionally generated Kessler
+Syndrome is a real concern as a potential
+threat.
+However, space is full of plenty of natural
+objects in orbital space too, ranging in size
+from grains of dust to dinosaur obliterating
+asteroids.
+Earth gets hit by about 5000 tons or 10 millions
+pounds of the stuff every year, with more
+that wings through orbital space and either
+doesn’t hit Earth itself or orbits around
+many times before hitting.
+Let’s say one thumb-sized rock hits a satellite
+or space station or similar.
+What happens?
+Well let’s say it massed about 10 or 12
+grams and slammed in at roughly orbital speed,
+for a single megajoule of kinetic energy exchanged.
+That’s hundreds of times more energy than
+your typical bullet has and indeed is roughly
+the energy of a stick of dynamite or hand
+grenade.
+But on impact it will behave a lot like a
+bullet.
+With such intense impact energy, it could
+easily disintegrate, but even if it mostly
+holds together, it will blast fragments of
+itself and the satellite outward, quite violently,
+in many directions.
+If we were down in the air, the air would
+slow these fragments and gravity would pull
+them to the ground after a short blast radius.
+In low orbit though, while many of those pieces
+would end up on trajectories taking them down
+into the atmosphere or out of Earth orbit
+entirely, thousands of objects carrying bullet-level
+energies might hit something on the way out.
+But a lot of those fragments will end up in
+new, semi-stable orbits around Earth, where
+they can crash into something else, something
+also moving at orbital speed but on a different
+path, resulting in collisions at even higher
+relative speed.
+And even if a satellite and a debris chunk
+are on very different orbits, any two orbits
+at the same altitude intersect in two places.
+Each subsequent collision has a good chance
+of shredding or ablating more material off
+the next object, causing a cascading effect
+of more and more collisions.
+This is the syndrome or disease aspect, because
+in and of itself a single satellite getting
+mauled and turned into debris isn’t too
+bad, but it’s actually contagious.
+The more objects you have up there, the more
+likely you are to get collisions and debris,
+the more likely such a cascade is to start,
+and the more intense such a cascade can get.
+With so much empty space up there, the odds
+of a collision might be pretty low on any
+particular day, but these bits will be flying
+along for years if not decades, awaiting their
+opportunity.
+In fact, while you might be tempted to visualize
+Kessler Syndrome as a sky cluttered with debris
+and ships passing through being destroyed
+immediately, it would be more accurate to
+picture the orbit still looking mostly empty,
+but with objects in it having a very short
+halflife, an average period in which they
+have a 50% chance of being destroyed.
+In a relatively mild but still disastrous
+version of the scenario, new satellites might
+be just fine for a month or two on average
+before something hits them.
+That’s not exactly a dense debris field,
+but it certainly keeps you from having a functioning
+satellite network.
+In more intense cases though, such as the
+obliteration of a developed orbital infrastructure
+massing in the many trillions of tons, those
+half lives of new satellites might measure
+minutes.
+I will say I’m not a big fan of the term
+itself, Kessler Syndrome, I favor Kessler
+Effect or an Orbital Collision Cascade, but
+the term seems fairly locked in these days,
+probably because the other two just don’t
+sound very dramatic.
+Now once such a cascade begins it would not
+stop until everything that can get shredded
+up there gets shredded.
+Armoring your ships and satellites will just
+provide more material to turn into shrapnel,
+unless you armor them very, very heavily,
+and correctly, which is doable but then every
+launch becomes enormously expensive.
+And it makes low cost launch options like
+Orbital Rings, Space Elevators, and Space
+Towers much harder to maintain safely without
+being destroyed by debris.
+See our Upward Bound series for more discussion
+of those launch methods and the costs of launching
+bigger or armored vessels.
+It needs to be understood that by and large
+this is not an instant effect, though it could
+happen very fast if someone blew up something
+big like an O’Neill Cylinder, which is also
+rotating fairly rapidly to spread its debris
+on many more trajectories.
+Normally though, we would imagine a protracted
+period of dangerous debris building up till
+it went critical, it’s not a single instant
+explosion rippling out to trash everything
+in seconds.
+The slow buildup does give you some time to
+react and intervene, too, and there are numerous
+but expensive ways to clear the debris, even
+once the cascade begins.
+But you definitely want to prevent such a
+cascade from starting and to have the means
+to stop it ready before it begins.
+If it happened to us right now, with us barely
+having a toe in the proverbial water, the
+results would be bad.
+Communications would be severely curtailed.
+GPS satellites would fail, and military operations
+would be hampered.
+Our ability to detect ICBM launches or major
+fleet movements and similar would breakdown,
+meaning nuclear first strike options would
+become more viable as a winning strategy,
+and the problem with winning first strike
+strategies is sometimes it provokes folks
+to use them for fear that the other side might
+do so first.
+By and large it’s a first strike victory
+option, not mutually assured destruction,
+that tends to result in tense and arguably
+irrational decision making, not something
+you want involved with the ownership of weapons
+of mass destruction.
+Unfortunately Kessler Syndrome, unless the
+debris field becomes very, very dense - which
+it might be shortly after a cascade - would
+have minimal impact on the reliability of
+the ICBMs, as they are not even making a single
+complete orbit, and as I mentioned earlier
+we are generally contemplating scenarios where
+satellites will have halflives of dozens if
+not thousands of orbits.
+On the other hand, ICBM reliability might
+be very handy since nukes in high altitudes
+is one way to clear Kessler Syndrome debris,
+although we have to assume that it will be
+a geopolitically tense time in a Kessler scenario,
+and launching ICBMs even with good intentions
+might lead to some violent misunderstandings,
+all the easier when communications are severely
+hampered by a ruined satellite grid and global
+panic.
+Moreover we are sufficiently reliant on satellites
+economically that satellites being out of
+play for decades is almost bound to cause
+an economic crash, which is definitely not
+a great place to be when folks are worried
+about their neighbors and contemplating war.
+So again, the cascade is best prevented, and
+barring that, all efforts to be bent to quickly
+clear the cascade during buildup or after
+as quick as you can.
+It would be a good idea for nations to have
+their clearance procedures fairly transparent
+and available in advance to minimize spooking
+each other too, given the nature of such clearance
+procedures, which is basically guns, bombs,
+and drones.
+These are likely to make your neighbors worried
+if they don’t know what they’re doing.
+It should also be understood that if you miss
+your window for preventing or stopping the
+cascade, this effect can last quite a long
+time but it’s not eternal.
+An object randomly moving on a trajectory
+after a collision in Low Earth Orbit has a
+pretty narrow window of trajectories that
+won’t put it into Earth or it’s atmosphere,
+either of which would see it gone very quickly.
+A fair number of those trajectories would
+be at escape velocity too, so that it disappeared
+for good, though that’s much more likely
+to occur for Kessler Syndrome up in the higher
+orbits.
+For the chunks that do end up still in orbit,
+there is still some very thin atmosphere there,
+slowing everything down ever so slightly,
+making every orbit slowly decay.
+The Earth is also not a perfect and homogeneous
+sphere and the Moon does not stay in the same
+place relative to Earth, so there is no such
+thing as a stable low orbit.
+And any time the orbit of a chunk gets perturbed
+in a way that takes it down lower, for even
+part of its orbit, it will get slowed down
+even more on every orbit.
+In fact, strategies to clear space debris
+do exactly this, just nudge it into an orbit
+that dips down into a slightly thicker atmosphere,
+and let Earth’s greatest natural defense
+shield do the rest, burning up the debris.
+And at the same time the atmosphere is slowly
+decaying those orbits, all those small collisions
+will tend to average out the debris’ speed
+and direction until it forms an accretion
+disk and starts clumping back together, either
+into proto-moons or just chunks that de-orbit
+together, though only for very large amounts
+of matter, such as in our case of an advanced
+civilizations with trillions of tons of orbital
+infrastructure getting wrecked.
+So if we’re considering Kessler Syndrome
+as a Fermi Paradox solution, a reason a developed
+civilization might fail to colonize space,
+we need to remember that the Kessler Syndrome
+they caused themselves probably would not
+last long.
+Most of the debris from any early space faring
+civilizations is going to be in low orbit,
+exactly where clouds of debris will have the
+shortest durations.
+For low orbit, think a timeline of a century
+for it to be pretty clear though it’s going
+to be an exponential decay, with the supermajority
+of initial debris gone in mere months.
+Now we should differentiate between a few
+thousand tons of satellites and ships, like
+we have nowadays, and the millions or even
+trillions of tons of space stations, habitats,
+and orbital infrastructure that a more advanced
+civilization or our futures selves might have
+in place.
+We also want to keep in mind that little pebbles
+of debris striking off an armored hull of
+a big space habitat has a very different effect
+than of hitting billions of square meters
+of thin but wide solar panels or mirrors or
+shades in orbit of a world.
+In a period of active spaceflight, you can
+potentially have tons of gas, dust, and small
+vaporized grains of debris acting as a wind,
+causing erosion or drag on objects in orbital
+space.
+Up in medium or high orbit, and certainly
+above geostationary orbit, debris can persist
+much longer, almost indefinitely in terms
+of civilization timelines for distances significantly
+farther from Earth than its own radius, though
+the perturbing effect of the Earth Moon system
+is probably going to be too strong for any
+natural debris cloud to persist for geological
+timelines.
+The relative absence of any space debris of
+a natural variety hanging around Earth speaks
+volume as to how quickly it tends to disappear.
+But the situation could be different on other
+planets.
+You could think of Saturn’s rings as an
+extreme case of naturally occurring high-orbit
+Kessler Syndrome, but you should keep in mind
+that Saturn’s rings are out where its atmosphere
+isn’t a factor.
+Saturn also has moons with cryo-volcanos that
+replenish the rings, and “shepherd” moons
+that keep the material of the rings from escaping
+Saturn’s orbit but also help keep it from
+coalescing into more moons.
+For many years, we believed Saturn’s rings
+were inherently unstable, 100 million years
+old at most, formed by collision with a comet.
+But based on data from Cassini, NASA now believes
+they might be billions of years old, possibly
+around since the formation of the Solar System.
+So even though we’ve been at this orbital
+mechanics thing for decades and doing it with
+evermore powerful computers and detailed models,
+the universe can still surprise us with what
+structures can turn out to be stable.
+Now if there are any alien creatures living
+on Saturn, the difficulties of space exploration
+is probably the least of their problems.
+But let’s consider the case of a civilization
+developing on a natural Kessler planet that
+happens to be more hospitable to life than
+Saturn.
+Worlds have debris clouds, both from sweeping
+junk up from space and from the occasional
+ultra-hard collision.
+Indeed we believe our entire Moon formed from
+one such collision and the huge cloud around
+proto-Earth it left, and we imagine the majority
+of that cloud either fell back down to Earth
+or wandered off elsewhere in the solar system.
+Smaller collisions of the dinosaur killer
+size or less are going to send debris up into
+space.
+For that matter, while a volcano, even the
+super powerful kind, cannot throw debris into
+orbit here on Earth, worlds of lesser gravity
+might be able to get that.
+A tectonically active low-gravity world might
+have a constant debris cloud replenished by
+its own volcanoes.
+Nonetheless the main way a planet would tend
+to get a big debris cloud would be the capture
+of a new small moon that was inside the Roche
+Limit of that planet.
+The Roche Limit is the distance an object
+held together by its own gravity can be from
+a bigger object, like Earth, and not be pulled
+apart by that object’s bigger gravity.
+Bbasically where that other object exerts
+more force upward on that smaller body’s
+surface than its own gravity pulls the ground
+back down, causing the dirt to rain upward.
+For context here, an object a thousand kilometers
+across, like Ceres, which is either a dwarf
+planet or the largest asteroid, has a surface
+gravity of just 3% what Earth’s is.
+If it were orbiting a thousand kilometers
+above Earth, with its furthest side 2000 kilometers
+up, then that low side would experience 75%
+of Earth normal gravity on its surface, pulling
+down to Earth, while it was pulling back with
+only 3%.
+Which would be fine except it’s far side,
+2000 kilometers up the gravity of Earth is
+down to under 60%, and while there Earth and
+Ceres are pulling material in the same direction,
+it still means there is a huge difference
+in the force on the surface of that dwarf
+planet turned Moon, in excess of the pull
+of that planet, and the lower surface is going
+to start coming off.
+Eventually the object gets ripped apart.
+Though think of this as a slow erosion not
+an explosion.
+Now the Roche Limit for any given planet and
+smaller object is actually based on the mass
+of that object – bigger massed objects can
+be closer before shredding – and the material
+of that object, as a big pile of gravel falls
+apart easier than a metallic asteroid or an
+artificial satellite or any other object held
+together by forces besides just gravity.
+Nonetheless for objects significantly less
+massive than Earth, many orders of magnitude
+less, that Roche Limit is 18 to 28,000 kilometers
+in altitude above Earth, or 12 to 20,000 miles,
+depending on how rigid that object is or how
+fluid.
+That places it above Medium Orbit in High
+Orbit or even a little above geostationary.
+Beneath that limit, it will fall apart, spreading
+debris, and again that’s where all our own
+stuff is, so they will get hit by that debris.
+In addition to that, when we talk about modern
+era Kessler syndrome we are talking about
+collision cascades occurring while the entire
+orbital infrastructure and junkyard combined
+masses less than a megaton, while a kilometer
+wide rock ball would mass thousands of megatons,
+and the one that allegedly killed the dinos
+is estimated at 7 million megatons, and both
+are rather small to be contemplating a Roche
+Limit breakup.
+So any object disintegrating from gravitational
+tidal forces near a planet is dumping millions
+or billions of times more debris as it goes
+and as an example, a small moon like Phobos
+around Mars, which isn’t that far over the
+Roche Limit for Mars, if it got hit by a decent
+sized asteroid, might get whacked down toward
+the Roche limit even as millions of tons of
+debris sprayed loose and begin orbiting with
+it to cause constant collision cascades, which
+might further drop that Moon, eroding it over
+a protracted time while causing a near constant
+replenishing of debris around that planet,
+each bit of which increases the odds any near-miss
+asteroid passing by that planet will get whacked
+and set off another collision cascade.
+Earth’s single enormous moon tends to prevent
+us having other smaller and closer moons,
+and its perturbation makes orbital debris
+shorter lived before burning up in our atmosphere.
+Many think our big Moon is a major factor
+in why Earth has life, what we call a Great
+Filter of the Fermi Paradox.
+However that is speculative and Earth without
+our Moon is big enough it might have several
+smaller and closer moons, much like the gas
+giant planets have, and they have all got
+rings of debris and Moons which may have undergone
+Roche Limit shredding before, or even currently.
+Many solar systems might have far more asteroids
+or temporary heavy amounts of them.
+Any collision in a solar system between larger
+bodies will generate them, as would any supernovae
+inside a reasonable distance, and while such
+swarms of deadly hypersonic bullets and bigger
+asteroids is not very friendly to life, like
+the Dinosaurs, there is likely to be a number
+of middle grounds or scenarios where a planet
+might have rich debris rings or clouds for
+tens of thousands of years or longer while
+still enjoying a livable surface.
+Incidentally you can actually get Kessler
+Syndrome at the Solar Scale, and it’s a
+real concern for K2 civilizations, Dyson Swarm
+builders, not just those around one planet,
+especially for a fully built habitat swarm
+which might have hundreds of Earth’s worth
+of material in the form of rotating habitats,
+and in thin solar collectors and heat radiators.
+Amusingly solar systems where such cascades
+were common would also be great candidates
+for Panspermia or a natural solar ecology
+like we hypothesized in our Space Whales and
+Void Ecology Episodes.
+Anyway, could such a civilization actually
+get into space, one that came from a Kessler
+Planet?
+The simple answer is yes but with more effort.
+It is also possible they might look up, see
+that, run the numbers when they are still
+barely inventing rockets, and decide it was
+a doomed effort.
+On the other hand a civilization with such
+rings would be enjoying constant meteor showers.
+Which probably means getting magnetized lodestone
+and other heavenly bounties showered down
+on them while they are at it.
+This might make them really into sky watching
+– which depending on the debris cloud might
+make seeing stars harder too, at least near
+the equator where we would tend to expect
+debris to be densest.
+They might long to go to the stars or have
+an Icarus or Tower of Babel-like fear of doing
+so, I could see it going either way.
+A lot depends on how dense and stable the
+debris was.
+As an example, a megaton of debris of randomly
+scattered rock decaying over a thousand years
+isn’t going to pose too big a worry or offer
+much of a light show, as it would parallel
+what Earth already gets from the solar system
+in a year.
+I could also imagine a culture seeing it,
+seeing that each year the debris decreased,
+and viewing it as some divine barrier lessening
+over time and a challenge to those willing
+to risk it soonest to get out and claim the
+grand prize of the galaxy.
+Or alternatively, as an imposed barrier to
+prevent them going out to the stars before
+they were ready, as a variation of the Star
+Trek Prime Directive.
+On the other hand the shattered remains of
+a 10 trillion ton space rock like Phobos,
+struck by a smaller asteroid ten thousand
+years before and whose initial carnage nearly
+obliterated the civilization there at the
+time, might see civilization slowly rebuilt
+under 10 thousand years of fiery meteoric
+rain of a billion tons of space junk dropping
+a year in size between gravel and houses.
+Constant strikes from above might tilt to
+fearing to travel to space too, but if you
+got up there you’d be inside a constant
+cloud of debris that would be rough to work
+around.
+So they might be forever planet bound, especially
+if civilizations with weapons of mass destruction
+tend to have short half-lives when occupying
+a single planet, as many think would be likely.
+Still, that would be a beautiful place to
+live, albeit in a deadly sort of way that
+probably would have meteors up there with
+weather and fire deaths in terms of frequency.
+This ties back into the notion that Kessler
+Syndrome might just be something that’s
+constantly ongoing, like the way storms are
+and other weather constantly impact sailing
+ships or farming or almost everything honestly.
+A civilization might clear major cascades
+but also might tolerate a constant haze of
+junk and dust and gas as the background orbital
+smog and litter that comes with space travel.
+They might expect everyone to either armor
+their ships or facilities enough to handle
+that background orbital smog or build those
+facilities elsewhere.
+And there is plenty of ‘elsewhere’ to
+put things.
+After all, an orbital mirror or power collector
+doesn’t need to be within a few thousand
+kilometers of Earth, it could be way up beyond
+geostationary or honestly even out past the
+Moon.
+Earth’s Hill Sphere, the volume it gravitationally
+dominates and in which orbit of Earth is possible,
+is 1.5 million kilometers, just under a million
+miles, four times the distance the Moon is
+and 64 times the volume of CisLunar Space.
+It is also roughly 40 times the distance geostationary
+is from Earth, and 64,000 times that volume,
+and low, medium, and high orbit are all inside
+that geostationary and geosynchronous radius.
+Low orbit is hundreds of times less wide than
+Earth’s Hill Sphere and a billion times
+smaller in volume.
+So there’s a lot more space to leave a big
+power satellite array beaming energy down
+to Earth.
+So too, the orbital velocity of the Moon around
+Earth is around a kilometer a second, everywhere
+out past the Moon is even lower, so you are
+down to collision speeds happening at bullet
+speed or less out there.
+Not that such speeds are trivial, emptying
+a machinegun on the side of space station
+is not likely to be healthy for it, but there’s
+a big difference between the energies in a
+bullet, or the energies in rocks or debris
+sprayed by a hurricane or tornado, and one’s
+moving at hypersonic velocities.
+Kinetic energy and collision damage go with
+the square of relative velocity, ten times
+the speed, 100 times the damage.
+And you need not go that far either, out past
+the Moon, as even up at geostationary you
+are already looking at a thousand times more
+volume for things to be spread out and those
+carrying a tenth the kinetic energy.
+Now clearance of debris is possible.
+In a quick and dirty way, if it happened tomorrow,
+we could prepare everyone for an EMP attack
+then intentionally set off a lot of nukes
+in low orbit.
+That would help a lot, and nukes are a way
+to blow a temporary launch window through
+too, for a very thick haze.
+However the better way is probably a mix of
+absorptive armor for minimizing cascades and
+Laser Brooms for sweeping up the debris.
+We are very fond these days of ablative armor,
+armor that blows off chunks of itself as part
+of its damage mitigation method, such as some
+tanks now use, but that’s opposite of what
+we want to minimize debris.
+Such armor also helps your ships survive in
+a cloud of debris if there’s a lot of it
+around in survivable bits.
+A lot of heavily used orbital space might
+eventually take on a sand-blasting quality,
+where there’s just a lot of finer grain
+stuff too small to be individually tracked
+or cleared.
+This still permits orbital infrastructure
+but would require more mass and armoring on
+all ships and facilities and also represent
+an additional wear and tear on them, as they
+are essentially all sitting in a constant
+hypersonic sandstorm.
+Once the debris is there though, what you
+need to sweep it away is either explosions
+or what we call the Laser Broom.
+This is a fairly simple concept as it relies
+on hitting objects with a laser beam to superheat
+its surface enough to give off some gas, shoving
+it away like a little brief rocket plume.
+You can do this from many angles but for conceptual
+purposes, assume it was done from above, hit
+the debris so each emitted a quick squirt
+of gas upward, and was shoved a bit downward,
+putting them on a decay orbit into Earth’s
+atmosphere.
+This incidentally is a lot of how clearance
+with a nuclear bomb works too, the radiation
+blast ablates some material off and gives
+the object a shove downward, or onto a more
+eccentric and shorter lived trajectory.
+You can vaporize stuff in its entirety but
+that takes more energy and requires deploying
+a laser able to blow objects apart, rather
+than simply burn a quick microns-thick layer
+off the surface.
+Which sounds good, but ‘objects’ can include
+ships and facilities, not just debris, and
+those lasers don’t care what they aim at
+presumably, thus are subject to hijacking.
+So lower-powered and more numerous and also
+automated lasers is a good approach, as in
+space hitting an object with a laser is child’s
+play, so you have a big radar grid and lots
+of small lasers automatically targeting small
+objects much smaller than a person and not
+next to anything large, or that doesn’t
+have a friend-foe transmitter.
+There are a ton of reasons you want a big
+radar grid and laser system around a planet
+that we have discussed on other occasions,
+and it would be relatively cheap to deploy,
+especially if you’re using such components
+for those other reasons and just let them
+be retasked as needed to handle debris incidents
+major and minor, routine and urgent.
+I should note that any civilization with a
+developed orbital infrastructure is likely
+to have those constant bright objects and
+fiery tails in the sky too, and so we might
+see a lot of use of non-visible lasers – infrared
+or UV – and collection drones trying to
+snag debris rather than roast it.
+That will depend a lot on the economics involved,
+and whether the public enjoys lots of small
+and harmless meteor showers or not.
+So Kessler Syndrome is definitely a threat
+to our future in space, and one we and any
+other civilization should take seriously,
+natural or the product of our own voyaging
+out, but it is a manageable one, and possibly
+a fairly majestic problem to see managed.
+We’ll be discussing some of those harder
+to manage obstacles to reaching space in this
+weekend’s episode.
+So we have a couple announcements along with
+our upcoming schedule, but first, we spent
+a lot of time talking about orbital mechanics
+today and those can be confusing to folks
+but do become a lot clearer with some practice
+and examples, and there’s some really good
+explanations and interactive quizzes in Brilliant’s
+Course on Gravitational Physics.
+Their hands-on, visual approach to learning
+is the most effective way for you to learn,
+and their ever-growing catalog of courses
+in math, science, and computer science gives
+you many topics to pick from.
+Another thing we were talking about was how
+clearing space debris in the future might
+require automated lasers to make split-second
+decisions to fire and while these days the
+idea of quick computer decisions is very familiar,
+we are often less familiar with how those
+computers make such decisions.
+For instance, did you know most of these decisions
+can be broken down into very simple processes?
+Brilliant's Computer Science Fundamentals
+course explains this kind of procedure with
+easy-to-understand visuals like this decision
+tree, letting you learn in bite-sized pieces
+and tackle big topics one simple explanation
+at a time.
+To get started for free, visit brilliant.org/IsaacArthur
+or click on the link in the description, and
+the first 200 people will get 20% off Brilliant's
+annual premium subscription.
+We have a couple quick announcements before
+our schedule, and we’ll start by wishing
+a quick happy 91st Birthday to physicist and
+inventor James West, who among 250 other patents
+can claim credit for the technology that runs
+90% of all modern microphones, particularly
+small ones.
+As someone who spends a lot of time recording
+and on the phone, I’m rather grateful for
+those audio improvements he and others have
+made.
+When you have a speech impediment, anything
+that makes you easier to understand by phone
+or recording is very appreciated.
+Second, speaking of audio, I mentioned that
+ringed planets like Saturn could be thought
+of as extreme cases of natural Kessler Syndrome.
+And while rings of ice and rock would be a
+real problem if you lived on a planet’s
+surface and wanted to leave, they would be
+great if you happened to be a squid-like creature
+that lived in the vacuum in those rings.
+If you’re curious what life in the rings
+of a gas giant might be like, I highly recommend
+a short audio-story called Momentum, written
+by my friend and long-time SFIA editor Jerry
+Guern, who cowrote this episode and several
+others.
+You can listen to Momentum and lots of other
+very unique sci-fi and fantasy from Jerry
+that I’ve thoroughly enjoyed, over on his
+channel “Jerry’s Stories”, and I’ll
+include a card for that and put it in the
+episode description.
+Jerry was also the one who suggested today’s
+episode though I decided to split it into
+two to contemplates its effect on the Fermi
+Paradox, and add in some of the other spacefaring
+hurdles, like not having fossil fuels or other
+scenarios, natural or artificial, which might
+imprison a civilization on their homeworld,
+and that will be our topic for this weekend’s
+Scifi Sunday episode.
+One other case folks often mention for that
+are worlds where the gravity is too high to
+let them send rockets into space, Super Earths,
+and so next week that we will examine those
+and how life might evolve on them and how
+we might colonize them.
+Then we’ll finish out February with a look
+at building Water Worlds and Marine Space
+Habitats, and our next Livestream Q&A on Sunday,
+February 27th.
+Then we’ll jump into March with a look at
+Nuclear Transmutation and Alchemy.
+Now if you want alerts when those and other
+episodes come out, make sure to subscribe
+to the Channel and hit the notifications bell,
+and if you enjoyed this episode, please hit
+the like button, share it with others, and
+leave a comment below.
+You can also join in the conversation on any
+of our social media forums, find our audio-only
+versions of the show, or donate to support
+future episodes, and all those options and
+more are listed in the links in the episode
+description.
+Until next time, thanks for watching, and
+have a great week!

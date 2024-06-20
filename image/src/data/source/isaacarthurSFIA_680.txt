@@ -1,0 +1,1261 @@
+Today we’ll be looking at a number of concepts
+in terraforming, the field which looks at
+how to make other worlds more hospitable to
+humans and other Earth life by making those
+worlds more Earth-like.
+If you’re a subscriber to the channel you
+probably know the videos on the channel fall
+into two basic categories…
+the long ones… and the incredibly long ones.
+This one is going to be of the second type,
+because it is a long subject, so now probably
+would be a good time to grab a drink and a
+snack.
+Also if you’re not a subscriber to the channel,
+you can become one just by clicking the subscribe
+button in the lower right corner, and while
+you’re down there you probably want to turn
+on the closed captions for the video.
+I can be a bit hard to understand even when
+I’m not spouting technical terms and we
+will have a lot of those in this video.
+Since this is a summary video I will be including
+both some links to other sources expanding
+on the subject in the video description as
+well as referencing some other videos by myself
+and others, these we will usually appear as
+thumbnail with a yellow box around them, most
+will appear again at the end of the video
+but you can click on these any time and it
+should just pause this video and open that
+one in another window.
+Just as an example, while we’ll talk about
+Mars a great deal in this video it’s not
+our real focus and if you’re interested
+in the nuts and bolts of getting to Mars and
+starting terraforming with only modern technology
+Shaun Moss’s “The International Mars Research
+Station” is definitely a good place to get
+started, and the attached video of his TED
+talk is a great introduction to getting to
+Mars.
+Another person I’ll be referencing a lot
+is Martyn J. Fogg, and if there’s anyone
+who knows more about terraforming them him
+I haven’t met them.
+A link to his website on terraforming is below
+in the video description and he literally
+wrote the book on the subject.
+We also all tend to hang around the same online
+forums discussing these kind of subjects,
+so while I’ll try as always to answer any
+questions you have in the comments section
+you may want to give those a try too.
+They tend to be friendly stomping grounds
+for scientists, science fiction writers, hobbyists,
+and people just curious about the ideas.
+So one of the first things we need to discuss
+is ‘what is terraforming?’
+The word is plain enough, terra forming, terra,
+Latin for Earth, or earth-forming.
+Historically it first popped up in a short
+story by Jack Williamson called ‘Collision
+Orbit’ back in Astounding Fiction in 1942.
+This was the same story that saw the first
+use of Anti-Matter in science fiction.
+Williamson also coined the term ‘genetic
+engineering’, and probably tops the list
+of greatest and most influential science fiction
+writers most people have sadly never heard
+of.
+In his story, the example of terraforming
+is an asteroid just over a mile across with
+an artificial gravity field in it, so originally
+it wasn’t a planet or even a large asteroid
+or moon.
+I stress that because ‘making a planet like
+Earth’ tends to be the concept and image
+most think with terraforming but it’s not
+limited to planets and hasn’t been since
+Day 1.
+Genetic engineering is of interest to us too
+because there’s an alternate approach to
+terraforming, or one used in tandem with it,
+sometimes called ‘bioforming’, and that’s
+where you aren’t changing the world to be
+more Earth like to support Earth life but
+changing Earth organisms to be able to live
+on an alien planet.
+Terraforming and Bioforming are two sides
+of the same coin in some respects, and often
+assumed to be used together.
+Still, you often have people very opposed
+to terraforming for wrecking an alien environment,
+inhabited or lifeless, or opposed to bioforming
+because it involves genetic engineering.
+This isn’t an ethics class though, and it
+also isn’t one on bioforming.
+Nor am I qualified to talk about it in real
+detail since I’m not a biologist, so we
+won’t be discussing it in detail.
+Another term in common usage is Planetary
+Engineering, a fairly straight forward term
+and in many ways better than terraforming
+since its maybe a bit more on the nose.
+You’re engineer planetsing for habitability
+by Earth life more than you’re trying to
+make the planet a close copy of Earth.
+You’ll also occasionally hear the term para-terraforming,
+and this usually means just building domes
+on a planet.
+If taken to the extreme, so that the entire
+planet is domed under, we call this a Worldhouse.
+Essentially a world-spanning greenhouse.
+Also paraterraforming is often used to reference
+the first steps in most terraforming processes,
+where you’re setting up small living areas
+like domes on Mars or floating cloud habitats
+on Venus to live in while you’re making
+the planet more livable.
+If you’ve seen my original Megastructures
+video or any of the follow ups discussing
+rotating habitats those are sometimes considered
+para-terraforming examples too, especially
+if embedded in something like an asteroid.
+They replicate the conditions on Earth much
+more closely than you could plausibly get
+on Mars for instance, because you can tailor
+them to whatever you want.
+‘Want’ is the key word there because not
+everyone considers certain differences between
+Earth and another world as important to fix.
+They might not care, for instance, if the
+gravity is a bit heavier or the day is 30
+hours long.
+With rotating habitats you’re pretty much
+able to tailor everything, but even though
+the original example of terraforming in fiction
+was a small asteroid, building giant cylinder
+habitats inside asteroids normally isn’t
+considered terraforming so we’ll look at
+those more properly in the Megastructures
+videos.
+So Terraforming itself is a pretty simple
+concept, make a place more like Earth, but
+which factors are most important?
+In which ones is a close approximation to
+Earth okay?
+To a degree it’s an Eye of the Beholder,
+Your Mileage May Vary kind of thing, especially
+when it comes to setting which differences
+are priorities and how close to Earth is close
+enough.
+So what are the big differences that need
+to be changed to make a world like Earth?
+We’re not focused on Mars or Venus but let’s
+take a look at some of the key differences
+both have with Earth, in this chart.
+In some ways it’s a very Goldilocks, not
+too hot, not too cold issue, too much air,
+too little air, but for neither is it what
+we can breathe.
+You need to make them warmer or colder, so
+how do we do that?
+You need add breathable air and remove unbreathable
+air.
+How do we do that?
+Venus’s Gravity is just about right, Mars
+has a Day Length that’s just about right,
+but its gravity is too low and Venus’s Day
+Length is almost a year long.
+Can we change those?
+How?
+Can we even change things like gravity, or
+year length or a planet’s axial tilt?
+The simple answer is that any planet, any
+moon, any asteroid can be made very like Earth
+in most ways, how close depends on which quality
+we’re talking about, what tools we have,
+how much of the tools we have, and how stubbornly
+persistent we are at the goal.
+Even the most basic terraforming takes centuries
+and must take centuries, as we’ll see, even
+if you’ve got something really neat like
+near limitless energy or self-replicating
+robots.
+The good news is humanity has an impressive
+track record of being stubborn and has been
+known to spend whole centuries working on
+projects.
+From the pyramids and cathedrals to highway
+systems, canals, and walls, we have shown
+a willingness to dedicate massive resources
+and long term efforts to getting projects
+done, and we did most of those back when people
+lived about half as long as we do now and
+with far less excess wealth to devote to them.
+People often wonder if we’d be willing to
+devote centuries to projects like Terraforming
+and for my part, though I often get accused
+of excessive optimism, I think the answer
+is a clear yes.
+So let’s start by talking about those three
+most basic qualities a planet needs to have.
+The right temperature for life, the right
+atmosphere for life, and water.
+Water’s actually quite easy, on the surface
+anyway.
+It’s one of the most common molecules in
+the universe because its constituents, hydrogen
+and oxygen, are the first and third most common
+elements in the Universe and it’s a very
+simple molecule to form.
+Ironically in most cases it’s coming up
+with the Hydrogen, the most plentiful substance
+in the Universe, and not the Oxygen, which
+is the problem.
+Hydrogen tends to be a touch rare on rocky
+planets, as is helium, the second most common
+atom.
+The reason for this is simple enough.
+Planets we’re interested in are hot, and
+regularly hit by ionizing radiation, asteroids
+and other items that tend to help evaporate
+atmospheres into space.
+I’ve mentioned in the past that people tend
+to mistakenly assume places like Mars and
+our own moon have too little gravity to hold
+atmospheres, and we’ll talk about that briefly
+in a little bit, but the key thing is that
+the various means by which matter escapes
+from atmospheres, regardless of the various
+physical mechanism being used, relies very
+heavily on the mass of the molecule.
+Hydrogen and helium molecules are quite light
+and fly away quite easily.
+Hydrogen unlike helium can bind to other,
+heavier atoms to form heavy molecules so even
+though it’s lighter as an atom than helium
+it often remains in larger quantities.
+Still it will often find itself free from
+molecular bondage to heavier kindred, either
+paired up with another hydrogen atom or kicked
+free entirely by radiation in the upper atmosphere
+and can then be sent shooting off into space
+much more easily than things like oxygen.
+Oxygen, being heavy, stays around, but actually
+disappears from atmospheres in the other direction
+by getting sequestered into rock.
+Most rocks, be it sand or limestone or granite
+or metal ores tend to be composed in large
+part of oxygen.
+If there’s not a lot of water or ice already
+on a planet you can always get more oxygen
+by taking it out of those rocks.
+That’s quite energy intensive.
+It is so energy intensive that even if you
+covered every inch of a planet with efficient
+solar panels that did nothing but cook oxygen
+out of the rock by melting or electrolysis
+it would still take anywhere from many centuries
+to many thousands of years to collect all
+the oxygen you need for even modest shallow
+oceans and breathing air.
+Of course you also have to worry about keeping
+that oxygen, if removed from dirt, from going
+right back into it.
+Separate iron oxide, rust, into iron and oxygen,
+and the iron will just rusting again and sucking
+the oxygen back in.
+Still you can get oxygen out of it to make
+air and water.
+But you’d still need hydrogen for water
+and odds are you’ll need to bring it in
+from elsewhere.
+If the planet had large quantities it would
+already have oceans.
+Now you could opt just to bring in water directly
+as it is plentiful in the form of ice in the
+outer solar system and likely would be in
+any solar system, but it’s debatable if
+this is much of cost saving exercise since
+most of the weight of water is oxygen, nearly
+90%, and moving that oxygen millions of miles
+costs energy in a similar range to cooking
+oxygen out of rock.
+It also matters where you’re getting that
+energy from.
+Planets we’re interested in terraforming
+tend to be good places for solar power, places
+where ice is plentiful are obviously not.
+If they got a lot of sunlight they wouldn’t
+have ice.
+The flip side is that there are places in
+this solar system where hydrogen exists in
+massive quantities by itself instead of as
+water or methane or ammonia, but these tend
+to have massive gravity wells.
+Gravity is never your friend when trying to
+ship matter in bulk.
+We’ll talk about moving hydrogen when we
+talk about air, since it’s a similar process
+for getting nitrogen, another thing not in
+much supply on Mars for instance.
+Before we move on to that we’ve two other
+big concerns that often get overlooked in
+terraforming where water is concerned.
+First, while Mars for instance isn’t a great
+example because its crust is both similar
+in composition to Earth’s and has previously
+had water on it, we need to remember that
+water dissolves stuff.
+Like continents.
+The rate water evaporates at, and therefore
+rains at, isn’t too well related to the
+amount of it now on your planet in your early
+terraforming days.
+Long before you’ve swathes of ocean miles
+deep you’ll have rainfall, lots of rainfall,
+because a thin puddle of water a few inches
+deep evaporates water just as fast as deep
+trench with the same surface area.
+So long before the planet has anything like
+the volume of water Earth has you’ll start
+getting serious amounts of rain.
+Especially if there’s not much atmosphere,
+because water evaporates quicker in low pressures.
+Now lots of rain is good.
+Except rain dissolves dirt and there won’t
+be any plant roots helping prevent erosion
+since plants need rain.
+And without pre-existing rivers you’ll end
+up with floods and building destroying waves
+of mud.
+So terraforming requires you to either get
+an atmosphere in place before there’s much
+water or requires you go out cutting spillways
+and reservoirs all over the place.
+If you know the kind of engineering muscle
+it take to keep the Mississippi river in check,
+or to prevent soil erosion of farmland, think
+of that and multiply it by a thousand.
+That other issue is that you don’t just
+want to keep toxic heavy metals out of your
+soil and water, but you also need to make
+sure some other things are dissolving into
+it.
+Like salt, if you want seawater.
+Earth’s crust has a lot of sodium in it,
+2-3%, similar to the salinity of our oceans.
+Sodium and Chloride though not terribly rare
+aren’t going to be abundant on every planet’s
+crust and aren’t particular common in asteroids
+either.
+So water, which initially seem simple, turns
+out to be a bit more complex than we first
+thought.
+How about air?
+We’ve already mentioned one way to get air,
+baking it from the rocks, or electrolyzing
+it from water if that’s very abundant.
+But that’s just oxygen.
+We need nitrogen too, for plants to live.
+Now on both Venus and Mars nitrogen is the
+second most abundant component of air, right
+after carbon dioxide.
+But for Mars the atmosphere is quite thin
+so that doesn’t equal much, only a small
+fraction what is needed, and it doesn’t
+appear to have it in abundance in the rocks
+either.
+If we’re wrong on that, and we may well
+be, then we can cook it out of the local rock.
+In Venus’s cases we have the reverse problem.
+Venus may only have about 3 or 4 % nitrogen
+compared to Earth’s own nearly 80%, but
+Venus’s atmosphere is nearly a hundred times
+more massive than our own and Venus is a bit
+smaller than us too, so it has few times more
+nitrogen in its air than we need for an Earth-like
+atmosphere there.
+Now you need some more for in the dirt and
+plants themselves but not much.
+So Venus is one place we can get Nitrogen
+for Mars at, the other is Saturn’s moon
+Titan which has an atmosphere composed of
+almost pure nitrogen and the rest mostly methane
+which is quite handy itself for terraforming
+cold worlds like Mars because it’s a greenhouse
+gas and has a lot of hydrogen in it too.
+How do we move air from one place to another?
+How do we move hydrogen from a place like
+Jupiter to Mars or Venus, which itself has
+very little hydrogen?
+Just imagining a giant ship moving billions
+of tons from place to place is probably a
+bit unrealistic.
+A million tons of air at normal pressure takes
+up about a cubic kilometer, and even a ship
+that big would need to make a few billion
+trips to move a planet’s atmosphere.
+The biggest oil supertankers on Earth can
+haul a few hundred thousand tons of oil, and
+if you were thinking of things that big, making
+the round trip once a year for a thousand
+years, you’d need ten million of them in
+service.
+Even when we’re talking about redirecting
+comets at a planet we’re talking about needing
+hundreds of millions if not billions of them.
+If you’ve seen any of the Megastructures
+videos on this channel you might be thinking
+of a few solutions.
+The first three episodes of that deal with
+nothing but moving huge amounts of matter
+off of planets cheaply.
+And it needs to be cheap, for context if it
+were costing only one dollar per ton you’d
+still spend over a quadrillion dollars, which
+is more than our entire planet’s GDP for
+a decade.
+Don’t have many illusions about terraforming,
+people often talk about how we can do something,
+then just sort of handwave how that goes from
+in the lab to being done at the planetary
+scale.
+With the exception of para-terraforming, and
+one of the reasons why it’s so popular,
+there’s not a single planet we could terraform
+without having massively improved automation
+and power sources.
+Sometimes I’ll mention heating planets with
+orbital mirrors the size of planets themselves,
+or rather many mirrors with a total size on
+that scale, and people will object on the
+grounds that doing something like that would
+be ludicrously expensive.
+Then they’ll turn right around and suggest
+moving planet’s worth of air and water.
+Those planet sized orbital mirrors will be
+thin sheets a few millimeters in thickness
+tops, so a planet sized one would not even
+mass a trillion tons.
+Whereas Earth’s atmosphere weighs about
+5,000 trillion tons.
+That doesn’t mean it can’t be done.
+The resources needed are in this solar system,
+Jupiter has many times more hydrogen than
+Earth has rock, Titan and Venus both have
+abundant nitrogen, and oxygen is plentiful
+everywhere in the inner solar system except
+on Mercury.
+On a place like Titan we’d likely go the
+mass driver route, filling metal pods about
+as thick as soda cans and as big as semi-trailers
+full of high-pressure gas and just firing
+them off, one after another, from the surface.
+Titan’s gravity is so weak compared to Earth
+that we can build structures miles long and
+high peeking out over the top of the atmosphere.
+Coming up with the metal for the structures
+and pods isn’t too hard, Titan has a rocky
+metallic core and digging very deep on low-gravity
+worlds is actually quite easy, especially
+when you’re mostly just melting your way
+through ice until you get to the rock, and
+Saturn has other more rocky moons that could
+be sources.
+Mass drivers are perfect for a place like
+Titan, as are space elevators, except that
+Titan doesn’t get much sunlight for solar
+power, only about 1% of what Earth gets per
+unit area, and isn’t likely to be abundant
+in fissile materials like Uranium.
+So Titan is only a good source if you’ve
+got Nuclear Fusion.
+Without that you might still be able to run
+mass drivers, solar can be concentrated with
+thin mirrors and lenses for instance, but
+it wouldn’t be easy and we’re talking
+about shifting trillions of tons of matter
+to another planet every year just to get enough
+to finish the job in a timeline of centuries.
+If we’re imagining those pods, say containing
+ten tons of nitrogen gas, you’d have to
+launch one every second for thirty million
+years to get about the right amount of nitrogen
+to Mars.
+That means needing a lot of mass drivers and
+a lot of energy to get it done on any timeline
+worth doing and the entire solar energy budget
+of Titan if we wrapped the thing in solar
+panels is only around a billion megawatts,
+compared to Earth’s own 200 billion megawatts.
+Even with very efficient conversion of that
+light straight into kinetic energy you need
+several thousand megawatts per ton of matter
+flow you’re trying to get into space and
+off to Mars and that level of efficiency is
+not too realistic.
+But if you achieved that you could move enough
+nitrogen to Mars in several centuries to get
+the job done, lower efficiency, longer timelines,
+and more panels and mirrors all needing maintenance
+and needing it for longer.
+Needless to say nuclear fusion makes things
+much easier if you’ve got it, and it makes
+terraforming Titan much more plausible too,
+which you might want to do too if you if you’re
+planning to hang out there for centuries pumping
+off gas anyway.
+For Venus and Jupiter the game’s a bit different.
+You could put floating mass drivers in the
+upper atmosphere, shooting nitrogen and carbon
+dioxide off Venus, and hydrogen from Jupiter,
+but for Jupiter you have the advantage that
+it’s got a very strong magnetic field, and
+if you’ve seen the video on skyhooks you
+know that those ideally operate by regenerating
+their momentum by using electricity to shove
+off a planet’s own magnetosphere using a
+process called Electrodynamic Tethering.
+So they can rotate down, drop off empty pods
+at floating refineries, pick up full ones,
+fling them off to their destination, and end
+a little lower in the process from friction
+and momentum transfer.
+They then shove off the magnetosphere to get
+back up.
+Hypothetically you can mine Jupiter’s moons
+for the metal for the pods, fling them to
+Venus, which catches them, steals momentum
+in the process, empties their hydrogen into
+Venus’s atmosphere and fills the pods with
+nitrogen that then get flung to Mars.
+And rotating skyhooks – often called rotovators
+in this context – can still work on Venus
+since it does have some magnetic field and
+there’s abundant solar power, and other
+ways to regenerate momentum too.
+But since there is it might be easier to just
+use floating mass drivers.
+When it comes to floating structures, ones
+being held up same as a blimp, a thing to
+remember is they can be very big and that
+the top can be higher than the bottom so you
+could build a mass driver where the refineries
+and launch point are lower down where the
+air is thicker while the exit point and solar
+panels running it are up higher where there’s
+less air to cause drag on the projectile and
+attenuate sunlight.
+We’ll look at Venus in a bit more detail
+in a moment but I want to give a quick mention
+to Wormholes.
+Wormhole are obviously another way to move
+mass fast, same as artificial gravity is a
+great way to adjust a planet’s gravity to
+Earth-normal and nuclear fusion is a great
+source of cheap and abundant power.
+Of the three of these only the last, Nuclear
+Fusion, appears has much chance to appear
+in the near future for us, and personally
+I don’t hold out much hope we’ll ever
+have the other two.
+This video is about all the options though
+so it wouldn’t be right to skip mentioning
+them.
+Fusion is quite likely to be available for
+us to help in Terraforming, and will help
+a lot, but we’ll try in this video to address
+options without using it.
+Ditto, nanotechnology or genetically engineered
+organisms able to eat rock and spit out gas
+on an otherwise airless world would be very
+helpful too, but none of these things allow
+super-rapid terraforming because of Thermodynamics.
+As we discussed when talking about nanomachines
+and grey goo in the Fermi Paradox Apocalypse
+How video, every mechanical process, or chemical
+or electrical process, generates heat.
+When you start running the numbers on this
+stuff you find that planetary transformations
+like terraforming usually generate way more
+heat regardless of the method than the planet
+gets in several years of Earth-like sunlight
+so you can’t go too fast or you’ll melt
+everything including your machines in all
+the excess heat.
+Even with things like wormholes you have to
+consider how all that mass transfer is going
+to effect pressure and heat.
+We won’t look at these options much though
+because not only are they outside the realm
+of the near future but they also make the
+subject pretty boring.
+If you can dump a vial of nanomachines on
+a planet and just come back to it ready made
+in a couple of decades there’s not much
+to discuss.
+Similarly if you’ve got functioning wormholes,
+then you can not only open them to places
+with abundant water or air, and open them
+to places with pre-existing industry to make
+transport of people and infrastructure easy,
+but you could also open them near or maybe
+even in your own sun, which is obviously a
+pretty handy way to get more light on Mars
+or more hydrogen on Venus and would give you
+a power source on at least on par with nuclear
+fusion.
+Also while discussing nuclear fusion I’d
+be remiss if I didn’t mention the one working
+form of nuclear fusion we currently have,
+and its application for terraforming.
+Thermonuclear bombs, or fusion bombs, have
+a long history with terraforming contemplations.
+You can use them to blow off the excess air
+on a planet or rapidly cook air out of a planet’s
+soil.
+Needless to say you’ve got fallout issues
+but the bigger bombs generate almost all their
+energy from fusion which isn’t a big radioactive
+fallout generator anyway.
+A lot of people flinch away from terraforming
+Mars by starting with a nuclear bombardment
+that would eclipse the worst Cold War scenarios
+but it is a lot more manageable than you might
+think in terms of irradiating a planet beyond
+habitability.
+Truth be told it gets a lot of mention in
+terraforming conversations exactly because
+it is such a good approach in spite of the
+radiation issue.
+And there’s really just no such thing as
+non-destructive terraforming, that’s why
+there’s such a bioforming versus terraforming
+ethics debate.
+Let’s get back to Venus.
+Often overlooked in favor Mars it’s easy
+to forget that Venus has a lot more going
+for it in some areas.
+Its gravity is nearly the same as Earth’s,
+it’s got plenty of nitrogen, and it’s
+got plenty of light.
+Those last two are actually the big problem.
+Venus is very hot and its atmosphere is nearly
+a hundred times more massive than Earth’s
+and it’s mostly carbon dioxide, which is
+heavier than nitrogen and oxygen air.
+Short term, in the para-terraforming sense,
+that atmosphere is so thick you can float
+normal air in it.
+Conveniently in the upper atmosphere of Venus,
+by the time the pressure drops to earth normal
+the temperature also drops to something comfortable
+too.
+At about 200 miles up you can float a balloon
+made of normal human-breathable air at normal
+human temperature and pressure and still have
+lifting power since its less dense then carbon
+dioxide.
+Now that needs to be in a metal shell and
+support some weight but if you’re not clear
+on how lifting power of gases works it’s
+pretty straight forward.
+You just take a given volume of your local
+air and figure out its mass for that pressure
+and temperature, than subtract the mass of
+an equal volume of your lifting gas at the
+same pressure and temperature, or at a higher
+temperature for a hot air balloon for instance.
+Whatever mass is left over is the mass you
+have to work with for your shell holding the
+gas inside and for your payload.
+The advantage of using normal air is that
+you can use the entire volume of your object
+instead of attaching something separate like
+you need to do with helium, and you have a
+reserve of breathable air.
+If you’re curious, for air and carbon dioxide
+that difference is about 700 grams a cubic
+meter or about 44 pounds for a 10x10x10 foot
+cube of a thousand cubic feet.
+So if you made an aluminum balloon, for instance,
+200 meters in diameter, that gives you a volume
+of about 4.2 million cubic meters or about
+3 million kilograms or 3000 tons of lifting
+force.
+It also means your shell is 125,000 square
+meters and a millimeter thick sheet of aluminum
+weighs just under 3 kilograms per square meter.
+So if you were willing to devote half you
+lifting mass to making the shell it would
+be about 4-5 millimeters or a fifth of an
+inch thick.
+Now if you double that diameter you get 8
+times the volume and lifting force, but only
+increase the surface area by a factor of four,
+so you can get double the thickness on your
+shell or use the same thickness but only needs
+a quarter of your payload to be the shell,
+not half.
+And that keeps going, as volume always rises
+faster than surface area, so you can make
+some fairly impressive floating structures
+on Venus, especially if you’re bringing
+in hydrogen which has even more lifting power.
+You could have whole floating continents,
+like tied together rafts.
+This doesn’t work as well on gas giants
+because they are made of hydrogen and helium
+so your breathing air has to part of your
+payload, not your lifting gas, which would
+probably need to be hot pure hydrogen to be
+even a little feasible.
+But it works on Venus, and worlds like Venus,
+just fine.
+Problem is, what next?
+Well there doesn’t need to be a next necessarily,
+same as you could just dome over Mars as a
+Worldhouse you could swath all Venus in floating
+cities and even if you took all the nitrogen
+away, to use on other worlds, you’d actually
+float a little better since it would be make
+the air outside your balloons a little denser
+by removing it.
+But if you want to live on the surface and
+slowly remove the super-dense atmosphere you’re
+going to eventually need transition out from
+those floating habitats and that would probably
+mean supporting them from underneath with
+pylons.
+For Venus those would need to be a couple
+hundred miles high.
+If you saw the video on mass drivers and launch
+loops you might recall at the end we discussed
+space fountains, giant thin structures that
+can be built to heights far beyond what normal
+building materials allow.
+These would be an example of how you could
+keep holding those habitats up while you made
+Venus’s atmosphere thinner and cooler.
+How would we do that?
+Well one option is to just transport it away,
+bit by bit.
+Another option for cooling the planet is to
+erect giant solar shades between Venus and
+the Sun.
+At the kind of pressures Venus’s atmosphere
+has, by the time it hit about Earth Temperature
+the Carbon dioxide will reach its supercritical
+point and start falling down and forming seas
+of carbon dioxide.
+It’s only at Earth pressures that carbon
+dioxide has no liquid phase, going straight
+from dry ice to gas.
+At pressures five times higher than Earth’s
+it forms a liquid, and Venus’s pressure
+is ninety times Earth’s, not just 5.
+So you get seas of carbon dioxide.
+You just keep shading the planet then, dropping
+its temperature below Earth’s by not letting
+much or any sunlight in.
+Soon it will drop to temperatures too cold
+for life, and at 217 Kelvin, or -70 Fahrenheit,
+those oceans will freeze into dry ice.
+And you just pave over them.
+When Paul Birch ran the calculations on this
+cooling time, it worked out to be only a couple
+hundred years.
+You could speed even that up by erecting cooling
+towers rising from the lowest and hottest
+places to higher places.
+So for instance our floating cities could
+wait till the atmosphere cooled enough near
+the ground to build towers, space fountains,
+to hold them up and use those to pump heat
+off Venus faster.
+While you’re cooling the planet you steal
+nitrogen from the air and bring in water or
+hydrogen to make water.
+In a couple hundred years you pave over the
+dry ice frozen seas and then remove some but
+not all of your solar shades to bring the
+temperature back up to Earth normal.
+The 1991 paper by the late Paul Birch, “Terraforming
+Venus Quickly” goes into more details on
+floating cities, atmosphere cooling, solar
+shades, and the works.
+It’s fairly short and Birch had a knack
+for putting in all the technical details while
+still making papers readable without understanding
+those, so I do recommend it and it is linked
+below.
+Now giving Venus a day as long as Earth’s
+is another matter and we’ll come back to
+that later.
+First I want to talk briefly about the opposite
+case, places where this isn’t enough air,
+like Mars or our own moon.
+I mentioned earlier that people tend to mistakenly
+assume these places are too small to hold
+an atmosphere.
+There’s some truth to that but not the way
+they think.
+Air, depending on what it’s made of and
+how hot it is, has a speed associated to it.
+That speed, essentially the average speed
+of gas molecules for a given mass and temperature,
+is called the root mean square speed.
+The equation I’ve got up shows you how to
+calculate that, and this table shows you what
+it is for various common gasses at roughly
+Earth Temperatures.
+Take a moment to note that the temperature
+is in Kelvin, and speed rises with its square
+root.
+So if you wanted to double the speed you’d
+need to quadruple the Temperature.
+We live at around 300 Kelvin, quadruple that
+is 1200 Kelvin, which is even hotter than
+Venus or Mercury.
+But even doubled, most of these would still
+have a speed far, far short of escape velocity
+from even a place like the Moon where the
+escape velocity is just over a fifth of Earth’s.
+Now not all particles will be moving at the
+same speed, some will move faster, following
+a Boltzmann distribution curve, and this is
+called the Jeans Escape Mechanism.
+A very small fraction of the gases will be
+moving much faster, at any given time about
+a millionth of them will be moving four times
+faster than normal.
+Meaning for Earth free hydrogen and helium
+gases will occasionally be moving at sufficient
+speed to leave.
+Earth loses an estimated hundred thousand
+tons of gas a year this way, almost all of
+it hydrogen and helium.
+If a planet is cooler, like Mars, it would
+lose less, and if it’s got a lower escape
+velocity, like Mars, it would lose more.
+But as huge as a hundred thousand tons a year
+sounds like, Earth’s atmosphere masses about
+50 billion times that.
+Even places like Mars or our moon would take
+geological timescales to shed an atmosphere
+via Jeans Escape.
+But that’s not the only way to lose air.
+We know of two others, planets can leach air
+into rock and dirt, called sequestration.
+It can also lose it to being blown off by
+nukes, and of course comet and asteroid impacts
+can do the same.
+Another way, a bigger way, is for the individual
+particles to be hit by radiation and slammed
+clean free of the atmosphere.
+If you picture a helium atom kicking around
+the thin upper atmosphere of a planet, that
+then gets hit by a powerful photon like a
+gamma or X-ray particle, it just soaked up
+that photon’s entire momentum.
+If we’re looking at a helium atom on the
+terminator of the planet spinning away from
+the sun then it’s got some additional momentum
+already from the planet’s spin.
+Same as we launch rockets west to east to
+take advantage of Earth’s own spin to get
+into orbit.
+If that helium atom is already moving in that
+direction, as many will be, and has the planet’s
+own spin, and gets hit by photons which are
+also moving in that direction, the combined
+energy and momentum can send it zipping off
+into space.
+This is generally going to throw off far more
+atmosphere than Jeans Escape.
+This is also why you hear about the importance
+of Magnetospheres to making planet’s habitable.
+It’s not just that the radiation off the
+sun, before it’s been filtered by our own
+air and magnetosphere, is inimical to life.
+It’s that without a magnetosphere to help
+counter the highest energy particles you’d
+have more air particles getting launched away,
+and magnetospheres can also deflect charged
+particles, like a lone hydrogen, nitrogen,
+or oxygen atom, back down into the atmosphere.
+There’s more to it than that, for instance
+Venus has a very dense atmosphere in spite
+of being way hotter than Earth and having
+no appreciable magnetosphere, but that’s
+all the more time we can spend on it today.
+Summary form, any planet or moon massive enough
+that its escape velocity is a couple thousand
+meters a second can hold an atmosphere for
+a very long time by human standards so long
+as you shield the planet from high energy
+particles and radiation.
+You do that with a magnetosphere, though there
+are other ways we’ll also discuss.
+Now you occasionally hear people suggest you
+could get Mars’ core spinning again to produce
+a sufficient Magnetosphere, and that is possible,
+but it is way harder than just dumping a nuke
+down a very long shaft.
+If you’ve seen the movie the Core, where
+Earth’s core stops spinning and they travel
+down to get it started again, then just ignore
+every single thing in that film mentioned
+as science.
+Honestly I’ve seen better science in some
+of the old 50’s scifi serials like Commando
+Cody where they walk around on the moon without
+spacesuits or take off in rockets with rolling
+chairs in them.
+You can, of course, dump millions of nukes
+off to reheat and re-spin a planet’s core.
+You wouldn’t want to be on that planet while
+this was happening though since things tend
+to expand when heated and the kind of Earthquakes
+that would set off would make a major Earthquake
+on Earth seem like a light ground tremor and
+they’d probably go on like that for centuries.
+So you’d probably go the artificial route.
+You can make a magnetosphere by doing rings
+of solar powered satellites around a planet
+generating magnetic fields.
+This is a lot more power and energy efficient
+than melting millions of trillions of tons
+of iron and nickel in a planet core.
+Similarly, just like with solar shades, you
+can stick magnetic deflectors out at a planet’s
+L-1 Lagrange point with its sun and deflect
+solar wind away.
+The other option is to just use straight matter
+to stop radiation.
+Same as you can stick thick domes overhead
+on a planet to cut it down, you could litter
+the planet’s orbit with many concentric
+layers of thin material or do the same at
+the Lagrange Point.
+All of these approaches need maintenance too,
+parts replaced, but they’d be a tiny fraction
+of the mass of a planet core and a lot of
+planets would already have various small moons
+in orbit that could just be pulverized carefully
+to generate such a shield.
+Superconducting magnets are a lot easier to
+keep working in space in many respects, so
+as these hopefully get better and cheaper
+with time an artificial magnetosphere becomes
+a lot saner as an option.
+We’re already looking at this as a protective
+system, like in the tethered magshield design,
+for interplanetary spacecraft to get both
+their radiation protection and some artificial
+spin gravity.
+If you saw the video on orbital rings then
+you already know the idea of a giant superconducting
+ring around a planet is pretty feasible, a
+lot more feasible then reheating a planet
+core, and also lets us do it for place like
+our own Moon that couldn’t realistically
+produce enough on its own anyway.
+It’s also good for options like Venus where
+the day is so long that you don’t have much
+magnetosphere even though the entire planet
+is molten, not just the core.
+Same issue for Terraforming Mercury.
+Yes it’s really close to the Sun, yes it
+is even less massive than Mars, yes its day
+is a couple months long, and yes it could
+be terraformed too.
+Solar shades, artificial magnetosphere, solar
+mirrors to bounce light around so night and
+day doesn’t last months.
+Paraterraforming on a place like Mercury isn’t
+terribly bad either.
+If you want to build a base on Mercury, where
+there’s no air to transfer heat, you stick
+you base up on stilts of sturdy materials
+that don’t conduct heat well and you stick
+a shiny thin metal umbrella over it to shade
+it.
+I sometimes call this a mushroom habitat.
+Mercury’s surface gravity is about the same
+as Mars has, almost identical, because while
+Mercury is smaller than Mars it’s also denser.
+It’s denser because almost all the light
+elements have baked away so you can’t expect
+to get your water and air locally.
+Now we don’t really know if Mars and Mercury’s
+surface gravity is really enough for people
+in the long term, it probably is, but as I’ve
+mentioned in the past you could build your
+bases there to spin and combine natural and
+spin gravity to get something more comfortable.
+If you’re already built up on stilts and
+under an umbrella spinning a base through
+a near non-existent atmosphere isn’t that
+big a deal.
+You could forego that setup by just placing
+solar shades in orbit or at the Lagrange point
+too, and give the planet a few decades to
+chill out.
+Most solar system expansion ideas usually
+call for Mercury to be mined until there’s
+nothing left to make artificial habitats out
+of, so I don’t usually spend much time thinking
+about terraforming the place, but even then
+you’d need thousands of years minimum to
+rip the place apart so bases on stilts under
+mushrooms makes a lot of sense.
+If you’re using a planet’s own sunlight
+to extract its minerals for offworld export
+then even with maximum efficiency you are
+talking timelines of many thousands of years
+to do that even for a place like Mercury with
+far less gravity and mass than Earth and far
+more sunlight than Earth.
+We’ve mentioned daylight too.
+Most planets don’t have day lengths we’d
+find comfortable.
+Mars has a day very similar to Earth’s own,
+but Venus and Mercury definitely don’t,
+and most large moons like Ganymede or Europa
+or our own take many days or even weeks to
+complete one day for themselves.
+We talked about the example of moons with
+Earth-like days in the third video on in the
+Habitable Planets series, but most moons don’t
+have 1 day orbits and don’t have Earth-like
+mass.
+So what do you do to get a 24-hour day if
+the planet doesn’t have one?
+We mentioned mirrors, and it is possible to
+use a combination of orbital mirrors and shades
+to produce a 24 hour day on a planet, in terms
+of its night and day length not its actual
+spin.
+This gets pretty muscular and complicated
+but it’s nothing like as muscular as changing
+a planet’s spin.
+Still it can be done.
+You can change a planet’s spin without needing
+any super-science.
+This isn’t easy but it’s not any harder,
+and in some ways easier, than trying to screw
+with the planet’s core to make a magnetosphere.
+If a planet is spinning too fast, as many
+would be – the Earth’s day used to be
+12 hours long after all - you can actually
+harvest that energy to power your terraforming
+while slowing the planet.
+Earth’s current rotation energy is about
+2x 10^29 Joules of energy.
+Which is a lot of juice, for comparison, it’s
+equal to all the energy the sun shines on
+the Earth for a trillion seconds, or about
+30 years.
+That also tells you how long you’d need
+to power something like that strictly off
+solar power or how long you need to spend
+to avoid dumping so much energy on a planet
+you’d melt the place.
+The energy involved doing this is fairly comparable
+to what you’d to spend to get a planet’s
+core spinning to generate a decent magnetosphere.
+How would you do that?
+Well you could attach rocket thrusters right
+to a planet or detonate millions of nukes
+but a better route would be to build giant
+towers over the planet’s atmosphere and
+point orbital mirrors at them, like a big
+water mill.
+Or aim those same mirrors at one edge of the
+planet and use the energy to bake air out
+of the soil while you’re at it.
+This is going to take a long while but that’s
+okay because increasing the spin rate of a
+planet should be done slowly to give stuff
+a chance to settle.
+Slowing it down, same concept, but you could
+potentially power things with that.
+A planet’s spin isn’t the easiest thing
+to tap for energy but waste not, want not.
+Same concept for adjusting the year, except
+if you want to adjust a planet’s year you’re
+also changing the sunlight it gets.
+Only thing is Earth’s Orbital energy around
+the sun is about 10,000 times its rotational
+energy around its own axis.
+Even ignoring the energy issue, or how to
+get that much energy, it’s hard to do this
+in a non-destructive way in less than many
+millions of years.
+You’d normally use a gravitational tractor,
+which is where you stick something, like our
+own moon, in orbit around the planet and shove
+that object away from the planet when it is
+one the far side of the sun then back toward
+the planet when it is near the sun.
+That keeps the object in the same relative
+position to the planet while pushing the planet
+further away from the sun.
+Do the reverse to bring the planet closer.
+You could do this with a giant solar sail
+being hit by sunlight, or many of them, but
+you can’t make them too thin or dump too
+much energy on them at a time or they’ll
+fly off.
+This is a lot like the Shkadov Thruster I’ve
+discussed before in the Megastructures or
+Dyson Dilemma videos as a way to move entire
+suns.
+Moving planets, moving stars, moving whole
+galaxies, isn’t the realm of super-science
+it’s just the realm of brute force.
+It’s the difference between stacking a few
+stones across a creek to make a small pool
+one afternoon and building the Great Wall
+of China.
+Same process, just way more time and effort.
+The key thing to remember is even if you have
+an infinite power source you can’t move
+the planet too fast without heating the planet
+up.
+Your average planet’s orbital energy tends
+to be on a similar scale to what you’d need
+to vaporize a planet so you can’t be applying
+this all at once.
+The other aspect is that since it is similar
+to the energy needed to vaporize the planet
+someone’s going to point out that it makes
+way more sense to just convert the entire
+planet into trillions of orbital habitats
+with a million times the living area.
+Earth’s rotational Energy is comparable
+to the sunlight it receives over thirty years,
+its orbital energy is more like half a million
+years.
+Energy used in such processes is going to
+see a big chunk dissipate as heat so if you
+don’t want to roast the planet you need
+to go very slow even if you have the energy
+to go faster.
+Needless to say it’s always going to be
+both faster and easier to use orbital mirrors
+or shades to replicate the effect so moving
+planets is probably the sort of thing you’d
+only ever do with a planet to move it away
+from its own star as it heats up over its
+lifetime.
+You can take billions of years to do that
+and would want to anyway, slowly moving a
+planet further from its star as the star gets
+hotter.
+Now axial tilt can be adjusted in a similar
+fashion but is more like adjusting day length
+then year length.
+Same sort of concept, you use gravitational
+tractors or various other means.
+Takes time, it’s very brute force, but it
+can be done.
+Gravity is harder.
+If you don’t like a planet’s gravity you
+can only add or remove mass.
+If the gravity is lower than Earth’s than
+you can make spinning habitats that combine
+natural and spin gravity.
+If the gravity is higher the only way to do
+it is to hang some material like ultra dense
+deuterium or neutronium over your city to
+locally negate some of the gravity.
+This isn’t necessarily completely undoable,
+but people might feel a little nervous living
+under a billions tons of matter hanging over
+their heads.
+On the other hand if you live in the lower
+floor of a skyscraper you live with thousands
+of tons of matter hanging over your head anyway
+and a thousand, a million, or a trillion,
+you’re basically just as dead if it falls
+down.
+Gravity’s also very hard to bioform around,
+because while low gravity would likely not
+be a big issue high gravity is.
+Slip and fall in the shower a high-gravity
+world and you’d shatter every bone in your
+body.
+We discussed in the launch loops and mass
+drivers video how the big limitation on mass
+drivers launching people is that we just can’t
+handle high acceleration, which is the same
+as gravity according to Einstein.
+So barring someone inventing the cool artificial
+gravity most scifi tv shows have… because
+it’s hard to film in zero gravity…
+world’s with much higher gravity than Earth
+aren’t good for terraforming, and even for
+paraterraforming unless you’re cool with
+transferring your mind into a cyborg body
+with titanium bones.
+Which to be fair, a lot of us would be fine
+with, especially the generally pro-science
+sorts who probably make up the majority of
+my audience, but I usually try to focus on
+the routes that don’t involve cyborging
+people up or tinkering a lot with their genes
+even though I’m basically a transhumanist
+or extropian.
+Key thing, if you get a way of generating
+or negating gravity, same as if you get wormholes
+or perpetual motion machines, the entire landscape
+changes so much I don’t see much point analyzing
+it.
+Same as in my Dyson Dilemma video, where I
+mentioned we might find a way to just open
+portals to uninhabited parallel Earths and
+if we did you can pretty much write off any
+space exploration not done specifically for
+scientific research or ‘because we can’
+prestige efforts like climbing Mount Everest.
+We climbed that mountain many a time, nobody
+has ever built a city up there.
+Now, we’ve looked at a lot of terraforming
+notions but we haven’t even scratched the
+surface.
+I may came back and do some more videos on
+this subject in the future if people seem
+interested, and I’ll continue to mention
+planet-specific options in the Habitable Planets
+series, but for more information take a peek
+at some of the links below and videos I’ve
+attached.
+We’ll be looking at alternatives to terraforming,
+in the form of building worlds and mega structures
+in the Megastructures series too.
+I can’t give you any good links on bioforming,
+I’m not qualified to evaluate biology and
+genetic engineering but if you happen to be,
+feel free to leave some comments or links
+below.
+Next in the video series we’ll be taking
+a look at Rogue Planets in the Interstellar
+Void, where terraforming can only be done
+with artificial power sources like fusion,
+then doing another stand alone video discussing
+early interstellar colonization concepts like
+we did with interplanetary colonization here.
+After that we’ll be diving into Rotating
+Habitats as an alternative to Terraforming.
+If you’ve enjoyed this video, which I assume
+you have if you’ve made it this far, make
+sure to subscribe to the channel and like
+the video, and try out some of my other videos
+as well.
+As always, thanks for watching, and have a
+great day!

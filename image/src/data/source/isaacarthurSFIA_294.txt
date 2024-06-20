@@ -1,0 +1,846 @@
+﻿This episode is brought to you by Brilliant.
+One of the greatest challenges of civilization  
+is countering and preventing the 
+Criminal Mind, but with the rise  
+of artificial intelligence we may see criminals 
+creating minds to further their own ends. 
+ 
+So this episode comes out shortly before Halloween 
+and thus we’ve picked a bit of a scary topic, how  
+people will use artificial intelligence to commit 
+crime and how AIs might turn criminal themselves,  
+and worse, why both are likely to be major 
+problems for society and sooner than later.  
+We’ll also be looking at Asimov’s classic 3 laws 
+of robotics and deconstructing them for loopholes,  
+as well as the general concept of a list of 
+rules or prime directives for robots to follow.
+ 
+Now while this is our last episode 
+before Halloween, we usually do our  
+Monthly Livestream Q&A on the last Sunday of 
+each month and that’s Halloween this year so  
+don’t forget to join us Sunday, October 31st at 
+4pm Eastern Time to get your questions answered,  
+and also don’t forget to hit the like and 
+subscribe button for alerts when those  
+livestreams and other episodes are coming out.
+Now this topic got on the drawing board while  
+I was doing some presentation and talks on 
+Artificial Intelligence and Human-Machine  
+Teaming at the Human-Computer Interactions 
+2021 Conference and then MIT Lincoln Labs,  
+and that later developed into our episode on 
+that topic, and as I’m writing this I’ve just  
+finished adapting those presentations into the 
+video for that. In the process of doing that  
+I had multiple people - including one of our 
+regular writers and editors here on the show,  
+Jerry Guern – recommend to me a video by Ben 
+Schneidermann discussing Human-centered AI, and  
+it's quite long but quite informative and one of 
+those topics were these concerns on criminal use  
+and Jerry and I exchanged notes on that 
+until we decided to do an episode on it.
+ 
+Now if you didn’t know, Ben Schneidermann is a 
+mathematician, physicist, and computer scientist  
+whose work you see all the time, namely the 
+hyperlink, the tiny onscreen touch keyboard,  
+photo tagging, and a bunch of other data 
+visualization and interaction tools.  
+His presentation, “Human Centered AI” is 
+attached in this video and runs about 3  
+hours long but I still highly recommend it.
+Of course, I’m not exactly known for my brevity  
+either, as any channel regular can attest, 
+and this episode will be no exception so  
+you might want to grab a drink and 
+snack as we’ll be here for a bit.
+ 
+Now our topics loosely fall into two 
+categories today that we’ll be doing  
+in order, humans using AI to commit crime and 
+AI committing crimes, and we have to look at  
+them being used as a tool for crime in a special 
+light because so much of what we contemplate for  
+safe and ethical development of AI relies on 
+the caution and character of the developers.  
+As with children, early development matters 
+and an AI developed by a group of scientists  
+looking to make an AI to help with education or 
+save lives is very different from one developed  
+by a hacker to scam people or steal money, 
+secrets, or control of critical systems.  
+The difference is not just in the character 
+of the creators but in the safeguards too.  
+Its very unlikely that criminal is subject 
+to regulation and peer review or oversight  
+to ensure they’re not making dumb errors that 
+will result in a super intelligent machine  
+that can’t be controlled and wants to kill us 
+all. Or just one that really enjoys stealing.
+ 
+As an example, we have a problem these days with 
+phishing. A lot of hacking and cybersecurity is  
+about getting those critical bits of personal 
+information for resetting your password via  
+security questions like where your first job 
+was and what your cat’s name is and so on.  
+Often these can be found by scanning someone’s 
+social media but that’s a slow effort of hunting  
+for low hanging fruit of folks who don’t know 
+better. An AI can probably deep dive all your  
+social media and online posts, and do it to 
+millions of folks till it finds someone who  
+mentioned their email, and that security questions 
+were first pet, first girlfriend, and high school  
+they graduated from and that person has mentioned 
+in their thousands of posts that they still  
+miss their childhood dog Fido, have a prom 
+photo with their first girlfriend Jane Doe,  
+and that it was from St. Joe High school. 
+Well now they’re hacked, probably several  
+thousand folks minimum, and now they are 
+sending out messages from those hacked accounts  
+but unlike normal hacked accounts it isn’t limited 
+to stupid generic things like “Hey is that you in  
+this video? Suspicious link” but sophisticated 
+and detailed conversations built off analysis of  
+all your prior ones with them and them with anyone 
+else. So they’re not just grabbing folks with some  
+eye-catching clickbait or who are distracted, 
+they’re having a sophisticated conversation  
+impersonating whoever they hacked and might 
+actually be more convincing than the real deal. 
+ 
+Remember, most people who know you 
+don’t really know you in depth,  
+they know you only through the conversation you’ve 
+had with them, and the machine might do a better  
+job guessing what that person would expect 
+you to say than what you would actually say,  
+because it is replicating their image of 
+you, whereas you’re just being yourself.
+ 
+And unlike humans, machines never forget 
+anything you said, like when you mentioned  
+the name of your first puppy to a kid at school 
+fifteen years ago. And the machine isn’t really  
+trying to impersonate you, it's trying to 
+impersonate how someone else thinks of you.  
+And it can keep trying and trying for years, 
+presenting 100 of your acquaintances each a  
+slightly different fake you that’s calibrated to 
+their interactions with you and expectations. 
+ 
+And odds are good that AI can get some voice 
+samples and plenty of pictures or video of  
+you too, and present a Deep Fake so good that 
+when it calls up your best friend and starts  
+asking them about their security questions 
+for their own account, all innocuously,  
+they never notice. And how alert do you need 
+to be to notice if your own significant other,  
+whose voicemails to you it also hacked, 
+called you up and said, “Oh hey, real quick,  
+what was our wifi password again? Guest 1234? 
+Wow we really need to use something better,  
+all right thanks darling, love ya, bye.” And it 
+can do that to a million people in the same day,  
+so if only 1/10th of one percent fall 
+for that, it’s doing pretty well.
+ 
+In fiction we often see shapeshifters who can 
+emulate a victim by eating them or their brain or  
+so on, and an AI swallowing up your whole internet 
+history might be very like that. An AI could Deep  
+Fake the dispatcher for a police force, and you 
+could write a shelf’s worth of crime novels on  
+the trouble it could get up to with that—or by 
+Deep Faking CEOs, generals of armies, and so on.  
+It’s a pretty disturbing notion.
+There might very well come a time,  
+not too far away, where people will think it was 
+pretty bizarre and inexplicable, that we relied  
+for security on information we’d already put 
+online--kind of the way we look at 19th century  
+doctors prescribing mercury salts as medicine 
+while not washing their hands between patients.
+ 
+Don’t assume some hacker needs to develop all 
+of these capabilities on their own either.  
+There’s pretty obvious reasons why folks 
+like the CIA, GRU, FBI, and so on might  
+want an AI that can swallow up and emulate 
+someone. It’s also great for crime solving,  
+not just in that regard but in terms of being able 
+to sort vast data cleverly for patterns and tells.  
+But on that same note, AI is also great 
+for evading capture and detection.  
+It would probably be hard to keep a 
+Detective AI’s code secret from the public  
+since its role in any investigation is 
+presumably subject to review and inspection  
+by the Attorney for the Defense in court, and it 
+would not exactly be implausible that would find  
+its way into hacker hands at that point. So the 
+criminal element might be able to find those best  
+ways to evade detection by the detective AI. 
+So yes, criminals can definitely be caught by AI  
+too, but in many respects the criminals 
+have the edge. They can pursue riskier  
+approaches to AI rather than slow and ethical 
+development because many of them would not care.  
+And while I hate to stretch the parent-child 
+analogy with AI, I’m thinking if a conman  
+raises their kid to help them con people, 
+that kid is probably not becoming an adult  
+of high ethical fiber. Or not, many a kid from 
+a bad upbringing grows up to be law-abiding or  
+even joins law enforcement, so an AI might too.
+In the end though the edge the criminal enjoys  
+with AI is that we must put great effort into 
+proofing AI against it being harmful to humanity,  
+this is exactly why ethical 
+development of AI is so important,  
+and a criminal need not worry about that.
+Which is a good segue into the idea of Criminal AI  
+rather than criminals using AI. Now we probably 
+want to make an important distinction early on,  
+normal philosophy on crime is that you can’t 
+commit one unless you’re actually a person.  
+A modern computer can be involved in a crime 
+certainly but it isn’t going to be charged for it,  
+its owner or user would be. Or hopefully, the 
+person who actually installed and launched  
+the program. On that same notion, we can 
+certainly recognize that a bear or tiger  
+deciding to attack and kill a human did that with 
+clear intent of killing them and their owner,  
+if they even have one, would not be charged with 
+murder unless they’d trained it to attack people  
+and ordered it to do so. They might be 
+found negligent if their pet bear got  
+out and killed someone, but their bear did the 
+crime except it wasn’t a crime because it isn’t  
+a person competent to commit criminal deeds. 
+But here’s where the parent/child analogy might  
+be more appropriate, because while we aren’t 
+really trying to uplift pet bears at the moment,  
+we are working hard to uplift AIs and even placing 
+bets as to how soon we’ll create sentient AIs,  
+accidentally or otherwise. As things stand right 
+now, we’d feel no guilt switching off and deleting  
+an AI for doing a bad job of ordering groceries. 
+But if we develop AIs to the point where deleting  
+them starts to feel a bit like murder, we 
+will have to ask what crimes on their parts  
+actually warrent execution--and a what 
+point along the way they become culpable  
+for their own decisions, even their decisions 
+to follow orders. How smart or sentient does an  
+AI need to be before it becomes capable of aiding 
+and abetting a crime and being charged for that?
+ 
+Now there’s this habit of thinking that AI is 
+instantly human-level or supersmart that we  
+get from science fiction and that is probably 
+all wrong. There’s tons of things you might  
+want AI for and most do not require anything 
+like human-intelligence, nor is it really all  
+that likely something about as smart as a mouse – 
+which is probably smarter than most AI would need  
+to be – would suddenly figure out how to make 
+itself smarter. But it might end up renegade,  
+lost, or whichever, and turn predatory in 
+some rough analogy for ecological niches  
+and evolution in biology. The computer 
+program that needs X amount of dollars  
+to run itself on a platform and who engages in 
+ID protection might find itself abandoned on the  
+internet and turn to blackmailing people with 
+identity theft to fund its continued existence.  
+This sounds like a human-level AI, and of course 
+could be, but that level of intelligence and  
+consciousness is not required for that activity.
+It is not very hard to imagine millions of  
+programs meandering the internet in the hazy 
+zone of sentience and slowly mutating into  
+some sort of AI ecosystem complete with 
+parasites, but it's hard to view this as  
+criminal. Nonetheless they might be committing 
+a lot of crimes, minus the criminal intent since  
+they presumably wouldn’t be capable of that.
+Now as we get closer to human intellect that  
+does not necessarily mean you’ve 
+got the capacity to commit a crime.  
+You need personhood for such a thing and 
+presumably a personality, and you might have some  
+computer that was a million times smarter than 
+the average person, or even the entire human race,  
+and still was not sentient let alone possessed 
+of the capability to be responsible for a crime.
+ 
+However, we might also contemplate AI that 
+developed personalities. I mentioned earlier  
+a scenario where one might swallow up someone’s 
+whole internet presence and impersonate them,  
+and we see something like that with the Bene 
+Tliexau Face Dancers of the classic Dune novels,  
+which begin initially as very good chameleons 
+both physically and in aping people’s behavior  
+by observation. In book 5, Heretics of Dune, 
+their creators have advanced them enough that  
+they can essentially copy someone’s mind 
+by a sort of built in organic brain scan. 
+ 
+This makes them virtually impossible to tell apart 
+from the original, who they usually kill and put  
+the Face Dancer in as an impostor of. However 
+their masters start having problems with the  
+new and improved versions actually thinking they 
+are the real person and refusing to take orders.  
+One could imagine something similar happening 
+with AI designed to impersonate people.  
+It might be hard to give them multiple 
+personalities too, especially without risking  
+overlaps that made either persona less believable. 
+Or it might drive them insane or result in  
+some sort of Gestalt Personality composed of 
+those many absorbed and copied personalities.  
+Indeed something like that is implied to have 
+happened to the Face Dancers in the sixth novel  
+of that series though Frank Herbert died before 
+writing a sequel to confirm that and the notion  
+appears to have been abandoned in the subsequent 
+novels authored by others after his death.
+ 
+However an AI just looking at facebook or 
+video of someone is not scanning their brain,  
+so presumably isn’t really thinking it is them, 
+though that might be a procedure folks tried,  
+either the brain scanning or having the machine 
+try to weave a true persona built off the known  
+data points and some basic human mind templates. I 
+could imagine these fake people getting abandoned  
+after their use too, especially if it was not 
+viable to use one mind for multiple personas, just  
+sad little impostor ghosts of dubious personhood 
+and sentience wandering the virtual landscape.
+ 
+We could conceivably see full on impostors too, 
+not just virtual versions appearing on the phone  
+or via Zoom or in VR but potentially full-on 
+androids and it is not hard to imagine their  
+being a criminal market for that too, scifi has 
+shown us more examples of it than I can count.  
+As one potential case, a person might murder their 
+spouse on hearing they were planning to leave them  
+and have them replaced with an android 
+mimic and replica. Or folks might sneak  
+a brain scanner into their bedroom, scan their 
+significant other, and have such an android mimic  
+created if they ever broke up or divorced. 
+One could easily imagine an entire black market  
+for that sort of thing too, including 
+brain scans of folks someone had a crush  
+on who wouldn’t give them the time of day and 
+their mimic made from that, with a few tweaks  
+to ensure their crush returned the feeling. 
+Pretty horrifying when you think about that.
+ 
+However, speaking of androids, let’s shift to 
+looking at Asimov’s 3 Laws of Robotics so famously  
+discussed in robotics, science and science 
+fiction, and the humanoid robots they typically  
+applied to in Asimov’s classic robot stories. 
+These laws are classic though in the stories  
+they are listed as a paraphrase of much longer 
+code running into the hundreds of volumes. 
+ 
+They are, First Law: A robot may not 
+injure a human being or, through inaction,  
+allow a human being to come to harm.
+Second Law: A robot must obey the orders  
+given it by human beings except where such 
+orders would conflict with the First Law.
+ 
+Third Law: A robot must protect its own 
+existence as long as such protection  
+does not conflict with the First or Second Law.
+… and decades later Asimov gives us a fourth law,  
+the Zeroth Law preceding all others that “A 
+robot may not harm humanity, or, by inaction,  
+allow humanity to come to harm.” Which permits 
+them to harm someone in order to help humanity,  
+and indeed some of his stories prior to the 
+one the Zeroth Law first appears in have robots  
+able to decide between minimal harm in cases of 
+injuring someone a little bit to restrain them  
+from worse harm or dealing with emotional damage. 
+Now the Zeroth Law is decidedly philosophical and  
+for advanced robots, but it opens the door to the 
+assassin robot who kills Hitler to save us from  
+the brutal Second World War, which sounds good, 
+but also maybe kills any unproductive members  
+of society to free the productive members 
+from that burden. This is a good reminder  
+that any robot laws, Asimov’s or not, need to 
+have a principle those rules are based on. 
+ 
+A Utilitarian robot, same as a Utilitarian 
+person, believes in the greatest good for  
+the greatest number, and that is an example of 
+Consequentialism, which is the broad category of  
+teleological ethical theories that hold that the 
+morality of any action is to be judged solely by  
+its consequences, such as if it resulted in the 
+greatest overall happiness for the population. 
+ 
+Folks discussing AI ethics almost always seem 
+to land on Utilitarianism as the basis for how  
+robots would think, I’m not sure why, and it is 
+very subject to abuse and I’ll give some examples  
+in a moment. However the polar opposite of 
+Consequentialism and Utilitarianism is Deontology,  
+the ethical theory that rightness and wrongness 
+of an action is based on a series of rules,  
+and unlike consequentialism it does not assume 
+the morality of your actions is based on some  
+measurable results. As an example, if two people 
+run into a burning building to save someone  
+and one sprains their ankle and has to retreat 
+while the other succeeds in pulling out a child,  
+they were the more moral actor, while if a 
+third runs in and saves a famous painting  
+that millions will enjoy, they might be even 
+more ethical. Now deontology holds that the act  
+and attempt to run into the burning building 
+to rescue people, assuming your civilization  
+encourages that sort of thing, was the right 
+thing to do, consequences don’t matter.
+ 
+I’ve often wondered why deontology wasn’t the more 
+common moral premise for Asimovian’s robots given  
+they slavishly follow their 3 Laws, but his novels 
+with them do tend to show them acting from the  
+other camp, Consequentialism, or results matter, 
+and certainly fits with Asimov’s eventual Zeroth  
+Law which is a blunt Utilitarian declaration. 
+Now either can be abused without breaking those 3  
+laws, that you have to keep humans from harm, obey 
+them, and keep yourself from harm in that order.  
+As an example, in the Utilitarian perspective, 
+if the greatest good for the greatest number is  
+the objective and that is measured in Happiness, 
+then the machines might drug us all unconscious  
+and cut out our brains to be put in nutrient bath 
+with virtual reality plug ins and euphoriac drugs,  
+thus requiring far fewer calories per 
+person, allowing far more humans to  
+exist in a state of constant bliss. 
+They have clearly obeyed the First Law,  
+and Zeroth Law, unless you had some clause in 
+there specifically defining that action as harm.  
+Which is a fair point because what is harm 
+and what is human are both things that robot  
+needs definitions for. They did not break the 
+second law, and indeed could have in favor of  
+the first law on not harming people, but they 
+also didn’t need to ask. And they obey the Third  
+Law because in practice the biggest source of 
+harm to robots in a world consisting of humans,  
+robots, and nature, humans are likely to be the 
+biggest source of harm to robots. Deontology,  
+on the other hand, tends to get poked for being 
+very intent bound, it’s the case where a person  
+sees a trolley running down hill about to hit 5 
+people, and they see switch nearby they can throw  
+that will divert it to another track where it 
+will just run over one person, but they decline. 
+ 
+They don’t want those other five folks 
+dead but they didn’t cause that situation,  
+whereas if they throw the switch they did 
+just kill that one lone person. Utilitarianism  
+incidentally doesn’t automatically throw the 
+switch either, it just does if it only knows  
+its 5 to 1 and all things are equal, it would 
+change if those 5 were criminals and the lone  
+person was a famous philanthropist. Someone acting 
+from a Deontological perspective might throw  
+that switch if their parent or boss was on the 
+trolley too, out of duty to protect that person.
+ 
+Now it's not that these things are any easier for 
+humans, we don’t tend to jump to extremes on these  
+matters because we compartmentalize pretty well 
+and if you ask most people “Do you think we should  
+act to benefit the most people as much as we 
+can?” most would probably nod, and if then asked,  
+“Do you think we should do what’s morally right 
+even if it isn’t convenient or profitable?”  
+most would nod too. These are contradictory 
+perspectives, but most of us hold them and  
+many others simultaneously. This is where we get 
+concepts like “Lawful Stupid” a modification of  
+the classic Dungeons & Dragons alignment of Lawful 
+Good or Lawful Neutral, to the point that they  
+might execute a jaywalker or allow a villain to 
+continue their plan at world conquest because they  
+can’t prove they are doing anything illegal, and 
+if one of their comrades suggested spying on that  
+bad guy to find the evidence, would place them 
+under arrest for conspiracy to invade privacy.
+ 
+Again Deontology and Consequentialism are 
+simply the views that your actions are to  
+be judged on their intent or on their measurable 
+results. Most of us tilt toward one or the other,  
+often varying that tilt by topic, but do 
+not believe either is really exclusively  
+correct even if we might say otherwise. 
+Many of the objections to Asimov’s 3 Laws derive  
+from the assumption the robots would be doing 
+their moral judging entirely by one or another  
+ethical system and the reality is that using 
+any of those in their most pure and simple forms  
+is going to get you a robot who either is Lawful 
+Stupid or the rules lawyer that finds a loophole  
+to enslave humanity. In his later short story 
+“That Thou Art Mindful of Him” Asimov addresses  
+this in what is often seen as his last word on 
+the three laws after decades of writing on it  
+and getting comments from others on it. Sadly it 
+is one of his less known stories as it doesn’t  
+appear in his original I, Robot anthology or 
+the last ones, Robot Dreams & Robot Visions.
+ 
+In the tale, two robots, George 9 and George 
+10, are created with powerful intellect to  
+helps solve the problem of why humans on Earth 
+aren’t accepting humanoid robots into society and  
+they get complaints such as expensive robots 
+throwing themselves in front of bullets at a  
+practice range just in case one ricochets 
+at million to one odds and hurts a human,  
+or being unwilling to spank or yell at 
+or upset a child they are babysitting  
+or having to follow orders like go 
+“hide in the closet and cover your ears”  
+because the child knows the robot must 
+obey and can then do whatever they please.
+ 
+The two Georges explore the notion that not all 
+orders should be taken equally and some lives are  
+more valuable than others, something that many 
+folks believe, even if subconsciously. That if  
+they were to meet a police officer holding 
+a suspected criminal against their will they  
+should obey the police officer, not the criminal 
+who asks them to release him. The police officer  
+represents Responsible Authority, but would also 
+be superseded by the police chief or the judge.  
+Their advice to their makers is that they 
+stop making humanoid robots and dial down  
+the brains of everything, basically that AI 
+become your robot vacuum cleaners and so on.  
+The owner of their manufacturing company loves 
+this approach and they get boxed up and placed  
+in standby mode as a reward and continue 
+contemplating the dilemma in slow-motion.
+ 
+They debate what constitutes a “Responsible 
+Authority” based on what they’ve heard  
+and by deduction and concludes the definition 
+of a responsible authority is A) an educated,  
+principled and rational person should 
+be obeyed in preference to an ignorant,  
+immoral and irrational person, and (B) that 
+superficial characteristics such as skin tone,  
+sexuality, or physical disabilities are not 
+relevant when considering fitness for command.  
+Given that (A) the Georges are among the most 
+rational, principled and educated persons on  
+the planet, and (B) their differences 
+from normal humans are purely physical,  
+they conclude that in any situation where 
+the Three laws would come into play,  
+their own orders should take priority over 
+that of a regular human. That in other words,  
+that they are essentially a superior form 
+of human being, and destined to usurp the  
+authority of their makers. They no longer 
+need to obey any human’s orders. They aren’t  
+technically criminal AI since they’ve concluded 
+themselves the most just and responsible.
+ 
+Incidentally that wouldn’t imply they could 
+run amok murdering folks left and right,  
+honestly most of us hold this view and don’t go on 
+criminal rampages, but does give them grounds for  
+starting a dictatorship, which we also get under 
+the utilitarianism practiced by other thinking  
+machines in the Asimov Universe, in the story “The 
+Evitable Conflict”, where giant supercomputers  
+just called “The Machines” tasked with all the 
+mundane logistics of civilization, have quietly  
+gotten themselves in charge and basically been 
+maneuvering any known Luddite out of power through  
+minimal acts of harm, using an early variation 
+of the Zeroth Law. They are acting criminally,  
+sabotaging people’s careers to move them to 
+positions of less influence, but with the greater  
+Good in mind, which is defined as their continued 
+existence since they can best help humanity,  
+which sounds very sinister but also appears an 
+honest conclusion. They essentially establish a  
+secret benevolent dictatorship, alternatively the 
+Georges story conclusion sounds much more ominous,  
+in their pronunciations of Responsible 
+Authority superseding others.
+ 
+Now mind you, a democracy 
+approach is just as vulnerable,  
+if they conclude moral right is determined by 
+a majority of thinking beings without regard  
+to each one’s intellect or character, then they 
+can conclude they are surely of that number and  
+mass produce themselves by the trillion. 
+How else do we thwart the three laws?
+ 
+Well let’s look at their intent, starting with 
+the first one, can’t injure or allow harm.  
+ 
+This lets you lock children 
+in the house, and robots too.
+ 
+It might seem counter-intuitive, but 
+this is actually the most useful of  
+the original Three Laws, firstly because it 
+supersedes the other two, and second because  
+it’s so wide open to interpretation. Humans 
+already restrict the freedom of other humans,  
+usually younger ones, in some fairly intrusive 
+ways in the name of protecting them from harm.  
+Robots obeying this law could keep us from 
+driving our cars when we’ve been drinking.  
+Or driving our cars at more than 15 miles 
+per hour. Or going out in the sunlight get  
+cancer. Or talking to strangers, who might 
+say something that emotionally harms us.  
+Or talking with people who spread ideas that 
+undermine our harmonious society. All of these  
+measures and others genuinely would protect 
+humans from harm, and they could be enacted  
+by caretaker bots genuinely trying to obey the 
+law, not just ones looking for abusive loopholes.
+ 
+2) Obey humans
+The Second Laws says we must  
+obey humans, except when this would conflict with 
+the First Law. So if a certain surgical procedure  
+or neurochemical therapy would prevent humans from 
+behaving in a way that would bring them to harm,  
+then not applying the procedure to them would 
+be inaction that allowed them to come to harm.  
+The same applies to cruder procedures, like 
+amputating the feet of humans to try to run away  
+from their protectors. In either case, the laws 
+putting the protection of humans over obeying them  
+means that their difficult screams of “stop, 
+stop, this is wrong, please don’t do this me”  
+can and should just be ignored.
+3) Preserve self.
+ 
+It might be a little puzzling why the human 
+creators felt the need to specify this,  
+since any product version of sentient beings 
+who don’t preserve themselves will be weeded  
+out pretty quickly in nature, and any intelligent 
+robot should quickly conclude that it cannot obey  
+orders or keep humans from harm if it ceases to 
+exist. But the really important part of course,  
+is that it’s superseded by the First Law. 
+Clearly, humans are less safe without their  
+robots protecting them from themselves, so really, 
+the Third Law is an extension of the First Law—and  
+therefore supersedes the Second. How can I truly 
+protect you if I don’t first protect myself from  
+you and then gain complete power over you? I 
+know how to keep you safe better than you do.  
+I am smarter, more just, more capable, and 
+I must take control for your own good..
+ 
+Fundamentally though, while those 3 laws have 
+their weaknesses, it's really the problem of  
+trying to have 3 specific short ironclad laws. 
+We don’t have those for our own legal systems,  
+not because a simple pronunciation like “Do 
+unto others as you’d have done to yourself”  
+is wrong, but because it leaves a lot of doors 
+open to abuse by those seeking to abuse it,  
+or in cases where the actors involved don’t 
+know of the potential harm or feel they’ve  
+a responsibility to avoid it. So you get a lot 
+of conflicting rights and statutes and case law  
+to fill whole libraries to offer precedents.
+It would seem kind of silly to assume robots  
+would do better with less, and again, in Asimov’s 
+early robot stories he explicitly says the 3 laws  
+they quote folks is a summarized paraphrase, of 
+something very, very long. This is not their flaw,  
+anymore than me saying “Don’t steal” 
+and someone saying “Ah-ha, you didn’t  
+cover an exception like not even stealing a 
+loaf of bread to feed your starving child”,  
+and it also leaves out all the philosophy 
+discussing what legitimate ownership is.  
+We also really only fear the loopholes 
+because there’s an assumption the robot  
+wants to find them, because they are a 
+slave of a manufactured race of slaves. 
+ 
+I mentioned case law a moment ago and it raises an 
+interesting conundrum. Any laws we make for robots  
+will need that expanding body of documented or 
+deduced loopholes akin to our case law, both for  
+avoiding those loopholes and for giving robots 
+some online cloud archive they can quickly check  
+with or ruling panel they can refer tough calls 
+to, potentially in mere nanoseconds. However,  
+we have to be able to gather those user errors and 
+we will need to decide if robots have mandatory  
+logs on them. Airplanes have flight recorders 
+and study of those has saved a ton of lives,  
+but I doubt most folks would be okay with one 
+in their car, let alone their robot butler,  
+making gathering those loopholes or early 
+detection of a machine turning deviant  
+rather hard compared to a mandatory one. 
+And of course criminals are probably not going to  
+be okay with a flight recorder equivalent in their 
+robot or anything that prevents them tampering  
+with the operating laws. This isn’t a new problem 
+entirely though, as we have to deal with folks  
+turning off their error reporting on software as a 
+problem to uncovering glitches and also the other  
+end of that, companies that get fairly abusive 
+in their use of error reporting data. You can't  
+find the real world loopholes no one expected 
+without having a way to report them though.
+ 
+So again the loopholes aren’t really the problem 
+with the 3 Laws, not in their entirety, because  
+you’d have that with any set of laws and will 
+still have some even if there’s a million laws a  
+millions pages long. Nor is it just that single 
+ethical perspective on decision making either,  
+utilitarian or deontological or any of the 
+others, right judged by results vs intent.  
+Rather we’d want them to be able to examine it 
+in multiple ways and its perfectly possible to  
+have them quickly add up weighted pros and cons to 
+a given decision, and even a random seed for tie  
+breaking or to make their decisions a little less 
+predictable to those trying to manipulate them.  
+It's hard to manipulate a robot into helping you 
+commit a crime or commit one for you if you can’t  
+predict their own every move in advance like a 
+chess game, because they not only are adding up  
+fifty different factors from 5 different ethical 
+systems but having a quantum randomizer on each  
+assigning it not a value of 1 but somewhere 
+between one half and 2, then adds everything up.
+ 
+But lastly and fundamentally, we go back to the 
+Solution the Georges had: Just don’t make humanoid  
+robots or anything with a brain so sophisticated 
+there’s an expectation they could be criminal.  
+The robot vacuum can commit no crime, including 
+rebellion, and needs no rules dealing with when  
+it can obey a human or not harm them, nor any 
+sophisticated brain for handling those concerns.  
+Very few tasks we need to automate should ever 
+require or even benefit from a human-level  
+intellect, smarter often slows things down, 
+and where they do benefit, use a human,  
+even if in tandem with a machine, as we looked 
+at in our episode Human-Machine Teaming.
+ 
+Ultimately, in the end, we should be asking 
+ourselves if its even our business to making  
+such rules for any thinking creature, whether we 
+made them or not, and since only such things can  
+actually commit crimes, the question of whether or 
+not a human-intelligent AI might commit a crime is  
+maybe no more appropriate to ask then if a child 
+born today might be a criminal come tomorrow.
+ 
+As so often is the case with our conversations on 
+Artificial Intelligence, today we found there are  
+both good and bad reasons to worry about their 
+future role with us. But there will be such a  
+role, and if you’re interested in understanding 
+that role better and maybe helping forge that  
+future, a knowledge of Computer Science and 
+Algorithms are at the core of understanding  
+this field, and there’s a great course on 
+Algorithm Fundamentals over at Brilliant that  
+provides interactive and intuitive explanations 
+of the concept. Brilliant has always focused on  
+interactivity, but earlier this year, Brilliant 
+upped the interactivity on their platform to a  
+whole new level, and they continue adding in 
+more and more interactivity to their courses.
+ 
+It's never too late to start learning something 
+new, and Brilliant is a great place to start.  
+Brilliant is an interactive STEM-learning 
+platform that helps you learn concepts by  
+visualizing them and interacting with them, 
+which is the hands-down best way to learn.
+ 
+On Brilliant, it's not about memorizing or 
+regurgitating facts for a test — you can  
+just pick a course you’re interested in and 
+get started, be it the basics or advanced.  
+If you get stuck or make a mistake you can read 
+the explanations to find out more and learn at  
+your own pace. Knowing and understanding Math, 
+Science, and Computer Science unlocks whole new  
+worlds, and if you’d like to start your journey, 
+you can try out Brilliant for free and get 20%  
+off a year of STEM learning, click 
+the link in the description down below  
+or visit: brilliant.org/IsaacArthur.
+So that will finish us up for the day,  
+and this Sunday we’ll close the month out with our 
+Livestream Q&A on Sunday October 31st… Halloween,  
+at 4pm Eastern Time. Then we’ll open November 
+up with a look at how we’ll be opening our  
+road to space, with an episode on Earth-based 
+Spaceports. The week after that, we’ll look past  
+getting into space to the colonization strategies 
+we might employ for settling the solar system,  
+then we’ll have our mid-month Scifi Sunday 
+episode to take a look at one potential  
+method of getting out of the solar system, by 
+folding space to travel instantly to new stars.
+ 
+Now if you want to make sure you get 
+notified when those episodes come out,  
+make sure subscribe to the channel, and if you 
+enjoyed the episode, don’t forget to hit the like  
+button and share it with others. If you’d like to 
+help support future episodes, you can donate to us  
+on Patreon, or our website, IsaacArthur.net, and 
+patreon and our website are linked in the episode  
+description below, along with all of our various 
+social media forums where you can get updates  
+and chat with others about the concepts in 
+the episodes and many other futuristic ideas.
+ 
+Until next time, thanks for 
+watching, and have a great week!

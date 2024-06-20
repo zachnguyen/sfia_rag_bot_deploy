@@ -1,0 +1,861 @@
+﻿This Episode is sponsored by Audible
+ 
+Biotechnology offers us a road to 
+virtually endless ways to modify,  
+alter, and improve on nature… but should 
+we use it to do the same to ourselves?
+ 
+So today we will be examining biotech and 
+we should start by asking what we mean by  
+biotech. We are likely at the start of what 
+will be a long revolution in biotechnology  
+which will change life for humanity as thoroughly 
+as the industrial revolution and information  
+revolution have, if not more so, especially given 
+that it might involve changing people literally. 
+ 
+The word “biotech” means a lot of things to a 
+lot of people, so I think it would be useful  
+to spend a little time discussing what we 
+mean when we use the word in this episode.
+ 
+The most obvious type is genetic manipulation. 
+In principle, if any person, animal, plant,  
+or microbe has an ability, it should be possible 
+to recreate that ability through genetic  
+manipulation. This should allow everyone to be as 
+smart as the smartest human who has ever lived,  
+as strong as the strongest, and so on. It could 
+allow us to hibernate during long journeys through  
+space, or navigate by the Earth’s magnetic 
+field. In reality, the possibilities are  
+probably far greater than what has naturally 
+evolved and happens to have not gone extinct.  
+It could allow the restoration of long dead 
+species, or the creation of ones which we’ve  
+never seen, like walking trees, or intelligent 
+trees, or trees that grow candy or bacon.
+ 
+I suspect that when most people hear the term 
+genetic manipulation, what first comes to mind  
+is something like CRISPR, or using tailored 
+retroviruses as a way to alter the genes  
+of a living person by adding, subtracting, or 
+altering their DNA. This is known as “in vivo  
+gene therapy”, and is such an incredibly risky 
+and difficult approach that it may be very rare.  
+Retroviruses are pretty sloppy machines, and tend 
+to cause a lot of damage while making such edits,  
+potentially resulting in cancers. On top of 
+this, those viruses can also trigger dangerous  
+and potentially fatal immune responses. 
+Since this approach is akin to modifying  
+an airplane while it’s in flight, it shouldn’t be 
+surprising that it’s difficult and very risky. 
+ 
+Of course, if it can be made more 
+reliable it could hold a lot of potential,  
+but we often instead imagine using more artificial 
+approaches like tiny robots instead of viruses,  
+which itself can be a fairly blurry 
+distinction of life versus machine,  
+especially given how tenuously viruses tend to 
+meet the definition of life and that such machines  
+would likely be reproducing and aping the viral 
+approach to that. Be it nanobot or retrovirus,  
+we still have a long way ahead before such methods 
+would become available for mainstream use.
+ 
+An alternative to gene editing that might be 
+more likely is known as ex vivo gene therapy.  
+This is where you remove some tissue from a 
+person, perhaps just a few cells, and conduct  
+your gene modification on that. This approach 
+is much safer, since it’s completely external.  
+If there are any problems with the editing 
+process, the cell culture can be destroyed  
+and a new culture started. This method also 
+makes available the use of some chemicals which  
+might be tolerated by the cell culture, but are 
+unsuitable for injection. Perhaps a chemical has  
+some benefit for a culture of liver cells, but 
+produces psychedelic effects on neurons: being  
+able to modify those liver cells in isolation 
+could be a handy solution to that problem.
+ 
+The third gene editing approach, and by far the 
+most controversial, is germline editing. Folks  
+often make the mistake in assuming this involves 
+germs somehow as an analog to retroviruses,  
+but it’s using the other, older meaning of 
+‘germ’ as a seed or sprout, and works from  
+the premise of making your genetic edits from 
+that first seed with its single DNA copy.
+ 
+This is where you would modify the genome of 
+an embryo, which then is modified in every cell  
+subsequently divided from that embryo, and grows 
+up with those edits integrated into the future  
+child or adult. Not only does this alter the 
+genome of every cell that child is ever able  
+to grow, but it also alters the genomes of 
+that child’s descendents. The consequences  
+of any decision to conduct germline editing 
+will last a lifetime, perhaps many lifetimes,  
+and could have far-reaching consequences indeed. 
+But despite its currently controversial status,  
+my guess is that germline editing is 
+likely to be very widespread in the future,  
+especially for non-human use. 
+Incidentally, this is generally  
+why I tend to like retrovirus and nanobot 
+options over germline editing. They rely  
+on using untold trillions of little viruses or 
+robots to change every necessary copy of DNA  
+inside a mature organism, which is trillions of 
+times more work, but leaves the door open for  
+agency. An adult would still be able to decide 
+for themselves what to change about themselves,  
+including whether they want to change themselves 
+back if their parents modified them earlier and  
+they, as an adult, decided they don’t want those 
+changes. Whether or not parents have a right to  
+modify their child’s genes, and how broad that 
+right is if it exists, is an interesting debate,  
+but one you can mostly circumvent if you have the 
+option of waiting and the option of reversal.
+ 
+In general, we should probably expect gene 
+editing of humans in the foreseeable future  
+to be widespread but cautious. Swapping out 
+dysfunctional or lower-performing genes for  
+better-performing examples already found in 
+the wild human genome is pretty low risk,  
+but it’s difficult to imagine ethical 
+ways for novel genes to be safety tested.  
+Of particular difficulty would be verifying 
+that novel genes don’t cause mental illness,  
+as proving safety would require testing on 
+a large population of sentient humans. 
+ 
+Any other testing protocol would still 
+allow some outlying cases to slip through.  
+If you’re planning on genetically modifying people 
+to be vastly smarter and stronger, you might have  
+to worry about them going all hyper-aggressive and 
+narcissistic and trying to take over the world,  
+like the classic sci fi example of Khan from 
+Star Trek. Needless to say, that’s hard to test  
+out safely or ethically, so you’d probably take 
+an incremental approach, even just when using  
+existing genes. We also have to keep in mind 
+that whatever approach most folks think is safe  
+doesn't mean that’s all we have to deal with.
+If some mad scientist and ambitious parents decide  
+to try making a person who is very outside the 
+normal template, say they spliced in some squid  
+neurons because they thought it would result in 
+faster reflexes and overall mental augmentation,  
+we’d still have to deal with that person made 
+by that process. Similarly, while someone like  
+Khan might be imprisoned or executed for crimes 
+committed while trying to take over the world,  
+any children they had would still presumably 
+enjoy the same rights and if the Khan’s  
+kids or the squid-person wanted to set up 
+families that is something of a dilemma. 
+ 
+An area that is often neglected when people talk 
+about sci fi biotech is pharmaceuticals, but it’s  
+important not to underestimate the enormous 
+potential still left in the realm of drugs.  
+In particular, developments in genetic 
+research are assisting the development of  
+new pharmaceuticals in a variety of ways. 
+Better understanding of what genes are  
+doing - especially when they malfunction 
+- can also point the way to new drugs.  
+For example, if a malfunctioning gene is causing 
+a serious health problem by producing a malformed  
+protein, you might solve the problem by 
+supplying the right protein in a pill.  
+If the malformed protein is directly harmful, 
+you might solve the problem by making a drug  
+that binds to it, blocking its effect. 
+If you want to introduce a highly complex  
+molecule into a person’s cells, a more efficient 
+route than injecting them with that molecule  
+might be to inject them with messenger RNA, 
+or mRNA, which codes for that molecule.  
+mRNA serves as instructions that the cellular 
+machinery follow to produce complex molecules  
+in your cells. Incidentally, this is how some 
+of the COVID-19 vaccines work - by tricking your  
+cells to manufacture the spike proteins present 
+on the surface of the outer shell of the virus. 
+ 
+Beyond more familiar applications of 
+pharmaceuticals, there are also some ways  
+they might be used in combination with genetic 
+modifications. You might control novel gene  
+expression by making the gene require a chemical 
+or element that it will never encounter in nature.  
+Some gene-tailored animals that needed Tungsten 
+to live, for instance, are easily supplied with  
+tungsten but not from random plants and animals 
+in nature. This approach is potentially handy for  
+controlling tiny designer microorganisms, viruses, 
+or even nanobots we might make in the future.
+ 
+When pharmaceuticals can’t fix the problem, 
+you might resort to cloned transplantation.  
+Failing organs or amputated limbs could 
+be grown as part of a full human body,  
+or with more advanced techniques, as individual 
+parts. It’s likely to be a slow process to grow  
+adult-sized body parts from an embryo, but there 
+is likely a lot of potential for speeding up that  
+growth rate from decades to mere years or months. 
+Obviously the preferred goal is just to clone  
+the needed organ, not a whole person, science 
+fiction has a lot of examples of the latter case,  
+people grown to maturity just to serve 
+as an organ bank for another person,  
+or for a full body transplant of someone who 
+is old and plans to transplant their brain  
+into a younger clone. Being able to grow the 
+organs individually circumvents that issue. 
+ 
+Being able to take donated organs or advanced 
+prosthetics and implant them into people with no  
+fear of rejection is another goal of biotech, and 
+something that overlaps with the less-discussed  
+fields of synthetic or xeno cellular implantation. 
+Xeno Cellular Implantation is the implantation of  
+animal tissues modified to be compatible with 
+human biology and immune systems. For example,  
+you might implant modified bird cells into a 
+person’s scalp so they can grow feathers, or  
+cuttlefish cells into a person’s irises to produce 
+eyes that change color depending on mood. 
+ 
+Tissues might be living cells, or non-living 
+scaffold material which is then colonized by  
+human cells. The example you might have heard 
+of is washing a pig heart free of its material  
+until just the protein scaffold is left beneath, 
+on which we may grow a human heart. This might  
+be done inside or outside a human. Currently 
+non-living scaffolds from pigs are used to grow  
+organs from human stem cells. Since the 
+non-living scaffold material contains no cells,  
+it generally doesn’t trigger an 
+immune response when implanted. 
+ 
+If you want to produce complicated structures 
+already present in the animal kingdom,  
+it is much faster and easier to produce 
+them this way rather than trying to  
+program those structures into the genome. 
+These techniques could also be used with  
+fully synthetic cells which do not come from 
+nature, but were instead designed by engineers  
+from the ground up. Tremendously useful 
+things can be done by modifying nature,  
+but at some point in the past we stopped spending 
+so much time modifying parts of trees and rocks  
+and instead spent time casting metals and weaving 
+carbon fiber. It seems likely that fully synthetic  
+biology will provide advantages over modified 
+natural biology in certain situations. 
+ 
+One type of biotech that is almost never 
+depicted in sci fi is engineered microbiota.  
+Microbiota are the various microorganisms 
+which live on and inside of our bodies.  
+Engineered microbiota can be naturally evolved 
+organisms implanted from a different individual,  
+domesticated organisms, or fully 
+synthetic organisms designed by  
+engineers. The gut microbiota can be used 
+to produce and administer pharmaceuticals,  
+detect ingested substances, control appetite, 
+and metabolize previously indigestible  
+substances - for example, lactose. Some people 
+never develop dental cavities or obesity despite  
+eating the same diet as those who do. Often 
+this is due to a difference in microbiota.
+ 
+On the other hand, perhaps the most wildly 
+exaggerated type of biotech in sci fi  
+is mechanical implants or cybernetics. Cyborg sci 
+fi generally uses cybernetics for shock value,  
+so they’re depicted as bulky, intrusive, 
+asymmetrical, and almost always penetrating  
+the skin. The writers and special effects 
+team are specifically shooting for inhuman  
+and disturbing appearances, perversions 
+or adulterations of humanity,  
+and as is often the case for science fiction, 
+the science part often suffers for the fiction. 
+ 
+Needless to say, adding a 150 pound steel robot 
+arm in place of a flesh and blood arm doesn’t  
+allow you to lift enormous weights as the arm 
+is still attached to your flesh and blood torso.  
+In fact, you would likely struggle to even stand 
+up straight due to the asymmetrical weight load,  
+so you would have to do a rebuild 
+basically from the ground floor up  
+and that shouldn’t look all 
+non-symmetric and haphazard,  
+though I suppose a cyborg sub-culture might 
+have big cyberpunk roots and enjoy that look.  
+Also any device that permanently penetrates 
+through the skin is prone to infection. 
+ 
+In reality, mechanical implants will likely 
+only be used when a biological solution is not  
+yet available, either not being invented yet or 
+because there’s a long lead time in manufacture,  
+like it takes a year to clone a lung or heart 
+or arm and you get the cybernetic version in  
+the meantime. They will tend to be as small as 
+possible, as soft as possible, and will avoid  
+breaking the skin whenever possible, at least 
+for physical augmentation, situations like mental  
+augmentation by including digital memory implants 
+or interfaces might need to be very inorganic. 
+ 
+One of the most useful implants would be a 
+digital radio circuit able to communicate  
+with the future equivalents of bluetooth and 
+wifi. This would allow internal systems to  
+communicate with worn objects, and objects in 
+the environment. For example, you don’t need  
+to implant large quantities of digital memory. 
+Instead, you wear a small gadget on your person  
+which contains the memory chips, and this gadget 
+communicates with the implanted digital radio. 
+ 
+This type of neural radio would also give one 
+a communication capability that would have some  
+similarities to telepathy. You might be able 
+to communicate entire concepts or emotions,  
+or you might just be limited to something like 
+hands free texting or silent phone calls. Even  
+with the more limited versions though, people with 
+this ability would seem connected in a way that is  
+qualitatively different than what is possible 
+via a cell phone. The cultural differences this  
+would produce are likely to be analogous 
+to trying to explain internet meme culture  
+to someone who has never seen a computer. 
+The second most useful implant would probably be  
+input and output taps on your sensory systems, 
+giving you access to augmented reality,  
+virtual reality, and sensory recording. 
+With the audio tap, you can play music with  
+perfect fidelity without headphones. So long as 
+your neural pathways are intact, it doesn’t even  
+matter if your hearing has been damaged. You 
+can turn off background noises, or the steady  
+whine of tinnitus. You can play audiobooks 
+and podcasts while showering or scuba diving.  
+By linking to an external gadget capable of voice 
+transcription and real time language translation,  
+you could mute the actual voice of someone 
+speaking in a language you don’t understand, and  
+replace that audio feed with the translation. 
+With the video tap, you could overlay a wide  
+variety of augmented reality elements, including 
+anything you currently look at your phone to see.  
+If that sounds annoying, imagine the display as 
+less like a bunch of obnoxious cluttered icons,  
+and more like a small window that you call 
+into existence when you perform some gesture,  
+for example perhaps reaching into your pocket. 
+It behaves very similarly to a cell phone except  
+you can resize it to be as big or small as you 
+want at the moment, and when you let go of it,  
+it floats in midair. If you want, you can pull 
+more windows out of your pocket. But they weigh  
+nothing and they don’t make awkward, pointy 
+bulges in your pocket. When you’re done with it,  
+you just put it back in your pocket to dismiss 
+it, or maybe just blink a quick pattern. 
+ 
+Recipes or tutorials could hover in 
+front of you as you try to learn a skill.  
+Multifunctional appliances used to have zillions 
+of buttons and knobs, but then they started  
+replacing that with touch screen interfaces. 
+In an era of ubiquitous augmented reality,  
+appliances will have almost no hardware interfaces 
+at all. They’ll be stylish and sleek. If you need  
+to make an adjustment to your breadmaker or 3D 
+printer, you’ll just pull out a virtual interface  
+that becomes as large as you need it to be. And 
+when you’re done, you make the interface disappear  
+again. They’d probably have no other buttons, 
+just a jack for manually adding some universal  
+control device if needed. They might not even 
+have power cords, as we are making progress on  
+wireless power transmission and that too might be 
+a very handy way to power some internal machinery  
+on a person, like implants or nanobots.
+You could view movies on arbitrarily large,  
+virtual screens, and even dim the rest of your 
+vision if you want. The movie might completely  
+surround you, as though you were inside of a 
+spherical screen. Go further with this concept,  
+and you can imagine replacing all of your 
+sensory inputs with a full virtual reality.  
+If the computer generating the virtual imagery 
+is smart enough, the VR experience might tailor  
+itself to the real-world environment around you 
+to prevent injury. Doorways and staircases would  
+still be there, but they might look like a dungeon 
+portal or a marble staircase from a mansion. 
+ 
+Full VR would presumably benefit from an olfactory 
+and taste override, so you could smell the jungle  
+or taste elvish cooking. Humans have a lot more 
+senses than the commonly claimed seeing, hearing,  
+smelling, tasting, and touching. For example, 
+touch could be broken into a tactile sense,  
+proprioception, temperature, pain, and balance. 
+Hunger and thirst don’t seem to easily fall into  
+any of those categories. Some of these senses 
+can be kind of dangerous to mess with, though.  
+For example, it’s hard to imagine much good 
+coming of messing with one’s sense of balance,  
+unless you’re lying on the ground.
+Messing with proprioception (which  
+is your sense of where your body parts are 
+located in space) seems even more dangerous,  
+as you could be flailing around without realizing 
+it. Pain overrides might take some people aback,  
+but at least moderate levels could presumably 
+spice up video games. Conversely, the usefulness  
+of being able to dampen down severe, natural 
+pain goes without saying. It’s still not without  
+dangers though, as pain often serves as a warning 
+that you’re doing something you shouldn’t be.  
+Presumably, plenty of injuries will result from 
+people using pain dampening for stupid things,  
+but that’s also the case with literally 
+every technology ever invented. 
+ 
+So how do you interact with 
+all of these virtual objects?  
+One way would be for a computer to read the 
+neural signals actually produced by your retinas,  
+and use that to determine where your hands 
+are, assuming they’re in your field of view.  
+A better method might be to tap into the neural 
+circuits involved in your sense of proprioception.  
+Either of these techniques would allow you 
+to use your hands and fingers to interact  
+with virtual objects and user interfaces. 
+As we looked at in our episode on Mind  
+Augmentation, we also have the learned and 
+programmable Universal Remote option. 
+ 
+We can currently insert a few thousand leads into 
+animal’s brain that would react to stimulation,  
+which is what Neuralink has been 
+working on for the last few years.  
+In a human, these could act as a rather deliberate 
+mental button the person learns to mentally push,  
+with each connection being something a person 
+could learn to flip by thinking in a certain way,  
+much like flicking a finger or blinking, and 
+this could act like some blank keyboard we could  
+set each mental button or hotkey combination as a 
+control for some device and the person would learn  
+to be rather deliberate in flipping it. 
+This gives you all the advantages of  
+thought-control without the concerns about 
+accidentally activating it, especially if  
+its a mental button combination, as it would be 
+more akin to accidentally punching in your pin  
+code or accidentally saying a specific sentence. 
+You’re not going to accidentally write a contract,  
+sign it, and file it while you’re asleep. 
+Such neural augmentation is something we  
+can already do, on animals anyway, and I 
+suspect this will be where we see our first  
+thought control devices emerge from.
+But presumably it would eventually be  
+possible for a more invasive system 
+to read your intentions directly.  
+Rather than opening a virtual user interface for 
+the air conditioner, you would simply desire the  
+temperature to lower slightly and the machinery 
+would respond. This is often how such things  
+are depicted in science fiction, but reading 
+intentions is likely to be a far more complicated  
+task than simply reading sensory inputs. 
+But as I said before, these types of implants  
+would likely only be mechanical until 
+they could be replaced with biological  
+versions capable of doing the same things. 
+One technique that’s almost never discussed is  
+what we might call “neural shaping”. This would be 
+the artificial guiding of a person’s own neurons  
+to produce engineered circuits. For example, one 
+might implement digital calculator circuitry in a  
+tiny corner of your brain, giving you the ability 
+to calculate the cube root of a 10 digit number  
+as quickly and easily as you parsed this 
+sentence. It also allows wiring shunts around  
+neural damage/scarring, enabling us to cure most 
+forms of paralysis, and some mental illnesses.
+ 
+Lastly, there is the possibility of nanobots, 
+and as I mentioned earlier the line between  
+them and something like a retrovirus or 
+engineered microorganism can be blurry.  
+But I think it’s reasonable to say the term 
+nanobot should only be used for things which  
+don’t already have a good name, and thus would 
+not apply to bacteria, viruses, or enzymes.  
+This is more to do with defining our terms 
+for the sake of easy discussion than accuracy.  
+The capabilities of these devices in fiction are 
+often either wildly exaggerated, or just as often,  
+wildly underestimated. For a nanobot to 
+work it needs some systems which are very  
+challenging to engineer at nano scales including 
+power, data processing, and sensory input. 
+ 
+It will also produce heat and get 
+worn and torn by doing activities,  
+which is the missing bit that prevents them from 
+being the super-fast magic wands sometimes seen in  
+fiction. The faster a mechanical device works, the 
+more damage it causes to itself for each activity,  
+and the more energy it needs to do 
+that activity, generally speaking,  
+while at the same time it produces heat faster 
+simply from doing more things in a shorter time.  
+As is often the case with technology, the real 
+bottleneck on it is getting rid of the heat,  
+and we explored this notion in more detail 
+in our episode on the Santa-Claus Machine.
+ 
+Of course, to make heat it needs to have a source 
+power that’s fueling the work it does to produce  
+heat as a waste product. The most readily 
+available sources of power in an organism  
+are either blood sugar and oxygen, or beamed 
+power from an external source. The latter is  
+sufficient in a clinical setting, but can be 
+awkward to maintain as part of day to day life.  
+Beamed power for nanobots is more complicated 
+than at macro scales due to minimum size  
+restrictions on antennae versus wavelength.
+One alternative is the multi-tiered approach  
+we sometimes discuss for nanotech, 
+where you have bigger microscopic  
+factory and controller bots who produce and 
+manage many specialized species of nanobots,  
+and in a similar way to how mitochondria produce 
+fuel for our cells, you might have a large control  
+bot producing some nanobot-specific fuel via 
+beamed power. There are a lot of chemicals that  
+can be used as a fuel and assembled to provide 
+abundant power, and this might make a good way to  
+prevent problems like grey goo - where nanobots 
+who build other nanobots get loose and turn  
+everything on a planet into copies of themselves. 
+In the same way a rare element or alloy could  
+limit excessive production, a control-fuel 
+specific to the body, or to certain situations,  
+could provide an extra layer of safety.
+Data processing would also consume a large  
+portion of a nanobot’s total power budget, and 
+space is limited for complicated logic circuits.  
+Sensory input is important too, as you probably 
+only use nanobots if you have a task that needs  
+to be done at a particular location in your 
+body, but not in others. Most importantly,  
+they might not self replicate. Designing a 
+device to self replicate is more challenging  
+than designing a similar device that doesn’t, 
+and requires additional hardware, resources,  
+and capabilities. It also raises enormous 
+liability risks in the event that it colonizes  
+people without their consent, or replicates out 
+of control within the intended host. Again this is  
+why the larger microscopic, or even macroscopic, 
+robot factories and control centers we discussed  
+a moment ago might be handy, potentially 
+with many tiers of bot, each manufacturing  
+the next lower tier of smaller robots.
+An important subject worth mentioning with  
+networked biotech is data security. A complete 
+VR sensory overlay sounds like amazing fun  
+until you contemplate someone hacking 
+your hardware to blind and deafen you  
+while cranking your pain levels up to maximum. 
+Or the hacker could compromise your sensory taps  
+in order to see and hear everything you do without 
+your knowledge or consent. More advanced implants  
+allow more advanced hacks, allowing the hacker to 
+literally read your thoughts or expose you to fake  
+realities. Hacked nanobots could do whatever 
+nanobots can do, and it won’t be pretty. 
+ 
+So what’s possible with all this stuff? I’ve 
+already mentioned a number of applications here,  
+but the possibilities are almost infinite. 
+Other easy stuff includes curing all genetic  
+disorders forever and using vaccines and other 
+immune system enhancements to eradicate many  
+contagious diseases the way we have eradicated 
+smallpox. Cancer is an inherently tricky disease,  
+but survival rates have been increasing and 
+will likely continue to do so for a long time. 
+ 
+Appearance modifications have always been on the 
+cutting edge of medical science and this will  
+undoubtedly continue. The trend toward increasing 
+obesity will suddenly go into rapid reversal.  
+Noses and jawlines will be sculpted, and 
+sometimes in ways that are inheritable.  
+Presumably there will be a brief period 
+where there are suddenly large numbers of  
+people walking around looking like Barbie dolls or 
+Conan, and possibly a phase afterward where this  
+was seen as excessive and tacky. I mentioned that 
+early cyborgs might embrace the cyberpunk genre  
+and intentionally go for the jarring or gross 
+imagery we often see with cyborgs in that genre,  
+while others would presumably try more 
+desperately for a natural human look the  
+more augmented they were, like getting 
+moles, baldness, or liver spots added. 
+ 
+So that could go either way, with folks embracing 
+inhuman forms, or idealized human forms, or very  
+natural forms, and we’ll probably have periods and 
+subgroups doing all of the above in various ways.  
+A lot of the stigmas we have about body alteration 
+have to do with safety and cost, and concerns  
+about the psychology of the person doing them 
+when we view those as potential problems. 
+ 
+We view getting a rhinoplasty to alter the nose to 
+a more preferred but normal human shape as being  
+vastly different than putting on cosmetics 
+that include colors found on no human skin,  
+because the latter is cheap, safe, and 
+fast to add or remove, so why someone  
+might choose to do it doesn’t raise concerns 
+about an unhealthy mental state or body image.  
+In a civilization where you can change physical 
+characteristics cheaply, quickly, and safely,  
+and change them back again cheaply, quickly, 
+and safely, you would presumably see a lot of  
+folks doing so, and with less concerns 
+about mental health and body image.
+ 
+Extensive Biotech should let people live 
+longer, and they'll be healthy for longer too,  
+so I would not be surprised if folks felt like 
+changing things up physically from time to time.  
+I mentioned mental health a moment ago and 
+Biotech has a role to play there, as well.  
+Mental health problems such as clinical 
+depression, schizophrenia, and anxiety disorder  
+are likely to become less and less common as we 
+develop a better understanding of the causes,  
+and better drugs and implants to help us treat 
+them, as well as better counseling techniques  
+I would hope, but we’re focused on biotech 
+today. Certain gene variants are likely to  
+be associated with certain mental health 
+problems, and Biotech should allow options  
+for easy early detection and intervention.
+Augmentations - possibly excluding cosmetic ones  
+- are likely to creep in slowly and quietly unless 
+some avenue for unethical human experimentation  
+suddenly opens up. The risks to subjects 
+being augmented are literally life and death,  
+and the risks to organizations doing this research 
+are severe financial and reputational damage,  
+possibly even criminal penalties if everything 
+isn’t above board. A certain amount of risk is  
+likely to be viewed as acceptable when battling 
+leukemia or MS, whereas scientists taking risks to  
+add cat ears to people is likely to get a lot less 
+leeway or sympathy when something goes wrong.
+ 
+One of the big risks is the potential for 
+unanticipated interactions between different  
+biotech treatments. Maybe a rare gene variant 
+is discovered that is associated with cavity  
+free teeth, and another one is discovered that 
+is associated with champion weight lifters.  
+Great! So, a generation of parents pays gene 
+clinics to add these two discrete genetic  
+modifications to their embryonic offspring. 
+Unfortunately, when the children reach middle age,  
+it’s discovered that the specific protein forms 
+produced by the two gene variants combine to leave  
+plaques in the brain, resulting in early onset 
+dementia or hyper-aggression in the mid-life.  
+Doctors have been administering these two 
+genes to kids for decades by the time the  
+interaction is discovered, and now you have 
+a bunch of musclebound, cavity-free lunatics  
+wandering the Earth, presumably turning to 
+cannibalism with those perfect teeth of theirs.
+ 
+In the more distant future, people living in 
+space habitats and colony ships will likely  
+no longer experience muscle wasting or other 
+maladies which result from long periods in zero  
+G. Their tissues might be made tougher to allow 
+them to hold their breath for long periods of time  
+while working unprotected in space. You might 
+add something like an additional eyelid,  
+like cats have, with the intent of allowing 
+folks to keep their eyes open in a vacuum,  
+where liquids normally freeze or turn to gas. 
+It’s uses in turning desolate planets habitable,  
+either by molding the planet to 
+be more earth-like, terraforming,  
+or sculpting species to be more adapted to that 
+planet - Bioforming - are topics we have examined  
+on other occasions, but are clearly enormous.
+Biotech is potentially both a great danger to  
+humanity, but also a great potential boon, as 
+is often the case with an emerging technology.  
+But it differs from most, as it doesn’t just allow 
+humans to alter their environment or interact with  
+it in novel ways. Biotechnology lets us alter 
+the human itself, for better or for worse.
+ 
+So we have a couple of announcements 
+along with our upcoming schedule, but  
+first... Last week we were looking at the 
+impact of Multiverses on the Fermi Paradox  
+and we mostly looked at the alternate 
+reality types of Multiverses,  
+not those dealing with older Universes or parts of 
+our own Universe beyond the edge of the Observable  
+Universe, where the CMB originates, the 
+Cosmic Microwave Background Radiation,  
+and it's a topic we’ll probably look at in the 
+future but I wanted to give a shout to my friend  
+Brian Keating, host of the Into the Impossible 
+Podcast which is also available here on Youtube.  
+Brian’s been one of the strongest forces for 
+conceiving and pushing forward research for Cosmic  
+Microwave Background Radiation, having worked 
+on BICEP2, and he’s currently the Director of  
+the Simons Observatory under construction in the 
+Atacama Desert that will continue that research. 
+ 
+He’s also the author of the book “Losing the 
+Nobel Prize” which discusses the BICEP experiments  
+but also zooms in on some problems we 
+have nowadays with how we go about these  
+super-large or important research projects and 
+how it might be hindering scientific progress.  
+It’s a wonderful exploration of how scientific 
+progress takes place and the audiobook version is  
+excellently narrated, so I’m glad to name it our 
+May 2021 SFIA Audible Audiobook of the Month.
+ 
+Audible has the largest collection of Audiobooks 
+out there, indeed it is so large you could hit the  
+play button and still be listening to new titles a 
+few centuries from now, and as an Audible member,  
+you will get (1) credit every month good for any 
+title in their entire premium selection—that means  
+the latest best-seller, the buzziest new release, 
+the hottest celebrity memoir or that bucket list  
+title you’ve been meaning to pick-up. Those titles 
+are yours to keep forever in your Audible library.  
+You will also get full access to their 
+popular Plus Catalog. It’s filled with  
+thousands and thousands of audiobooks, original 
+entertainment, guided fitness and meditation,  
+sleep tracks for better rest and 
+podcasts—including ad-free versions of  
+your favorite shows and exclusive series. All are 
+included with your membership so you can download  
+and stream all you want—no credits needed.
+And you can seamlessly listen to all of those on  
+any device, picking up where you left off, and as 
+always, new members can try Audible for 30 days,  
+for free, just visit Audible dot com 
+slash isaac or text isaac to 500-500. 
+ 
+As a sidenote, this episode and 
+the one from two weeks back,  
+Post-Human Species, began as a a single episode 
+suggested by a pair of our regular editors,  
+Jason Burbank and Jerry Guern, and 
+evolved into two separate topics,  
+and maybe a third for down the road, each of 
+which they assisted in writing with Jason being  
+the principal co-writer of today’s script and 
+Jarry the Post-human script from two weeks back. 
+ 
+I’ve said it before and will say it 
+again, it’s awesome to get to meet  
+and work with so many talented folks, and most 
+times they come right from our own audience,  
+pitching an episode idea to me or volunteering 
+some time to edit script or make graphics. 
+ 
+On a personal note, my wife Sarah and I are moving 
+this month so there may be some disruptions,  
+delays, or errors as we get out and over 
+and settled into the new place and studio.  
+It's more out in the country so I can 
+further enjoy solitude and the hermit life,  
+and Sarah can move and expand her blueberry farm 
+and start her new beekeeping hobby - which I  
+blame in part on my friend Cody don Reeder from 
+Cody’s Lab - though mostly for me finding them  
+interesting and safe enough to have hives in my 
+backyard. If you’re looking for some fun stuff to  
+watch while waiting on our next episode, Cody’s 
+Lab and Brian Keating’s “Into the Impossible”  
+both contain endless hours of fun 
+and mentally stimulating content.
+ 
+Speaking of those upcoming episodes, this was our 
+first for May and we have plenty more ahead. Next  
+week we will move on to Alien Languages and how 
+to decode them, then we have our mid-month Scifi  
+Sundays episode on Laser Pistols, Lightsabers, and 
+other scifi weapons. After that we’ll be discuss  
+Arcologies, giant buildings containing whole 
+communities and ecologies and how to design them,  
+before wrapping up our episodes with Solar Flares 
+and their impact on the Fermi Paradox. Then  
+Closing May out with our Monthly Livestream Q&A on 
+Sunday, May 30th, hopefully from our new studio.
+ 
+If you want alerts when those and other episodes 
+come out, make sure to subscribe to the channel,  
+and if you’d like to help support future 
+episodes, you can donate to us on Patreon,  
+or our website, IsaacArthur.net, which are 
+linked in the episode description below,  
+along with all of our various social media forums 
+where you can get updates and chat with others  
+about the concepts in the episodes and many other 
+futuristic ideas. You can also follow us itunes,  
+Soundcloud, or Spotify to get our 
+audio-only versions of the show.
+ 
+Until next time, thanks for 
+watching, and have a great week!

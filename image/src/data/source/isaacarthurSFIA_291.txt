@@ -1,0 +1,867 @@
+﻿This episode is brought to you by Brilliant!
+It becomes ever clearer that humanity’s future  
+is among the stars, a journey to trillions of new 
+worlds. But every journey has to start somewhere,  
+and to reach the heavens we must first 
+sail from starports here on Earth.
+ 
+A little over a century ago, in 1909, Wilbur 
+Wright established College Park Airport in  
+Maryland, the oldest continuously operating 
+airfield, the first commercial airliner arrived  
+in 1914, and the first airport with scheduled 
+international commercial services opened in London  
+in 1919. It was only 16 years from that first 1903 
+Wright brothers flight to regular international  
+commercial passenger traffic, permitting people 
+to travel almost anywhere in the world in a mere  
+day or two, something we now take for granted.
+The first manned launch to orbit was 60 years ago,  
+and we are only now starting to see a real 
+stage up to commercial manned space flight.  
+There are quite a few launch pads but 
+there’s no place right now where you can go,  
+buy a ticket, get a seat, and fly to space. 
+That time is coming though and today we’ll be  
+asking what those will be like, these groundside 
+facilities that will take us up to the heavens.
+ 
+And that will be one point we’ll be 
+looking at today, will they be groundside?  
+Or will they be out on the sea on ships or small 
+islands, or even up in the air. For a discussion  
+of those facilities up in space, see our episode 
+The Next Space Station from a few months back  
+or Spaceports from a few years back. Which does 
+raise a question as to what a spaceport is,  
+is it a space station in space or is it a facility 
+not in space for traveling to space or from space.  
+And that’s not something we can define just yet 
+so for today we’ll say that any facility on land,  
+sea, or air meant principally for getting up 
+into space is a spaceport. So an airport with  
+a sideline launching spaceships 
+is still an airport, even if it  
+has a spaceport terminal in it, I suppose.
+So they might be on the ground, or in the sea,  
+or in the air, but the nature of the launch 
+system helps control where they are too,  
+for instance space elevators are tricky 
+to have away from the equator while most  
+conventional rockets are so powerful and loud 
+that we can’t have them anywhere near a city,  
+not even as close as airports on the outskirts 
+tend to be. With that in mind we’ll be considering  
+a lot of the launch systems discussed in our 
+Upward Bound series and what their facilities  
+might look like. Those will include Conventional, 
+Reusable, and Nuclear Rockets, Space Elevators,  
+Space Towers, Mass Drivers, Launch Loops, Orbital 
+Rings, Spaceplanes, Floating Platforms on Sea  
+or in the Air, and even more scifi scenarios like 
+wormhole gateways such as we see in Stargate.
+ 
+Speaking of scifi, while we are principally 
+focused on spaceports on Earth today,  
+we also want to consider a more distant future 
+and spaceports elsewhere. So we do want to look  
+at putting them on other worlds, as for instance 
+a cheap & dirty nuclear rocket is probably just  
+fine on some airless radiation blasted moon 
+everyone lives a hundred meters underground on.
+ 
+Speaking of other worlds though, we need to 
+acknowledge that for us to have a need for  
+big spaceports that folks and cargo move 
+through in large quantities, there needs  
+to be destinations for people to visit, and 
+those will influence those spaceports too.  
+If the vast majority of travel to space is to 
+Earth Orbit, as it will be for the near future  
+and likely will be in a future where more space 
+habitats are built in orbit of Earth than any  
+other place, we’re talking a very different 
+sort of travel – hours – than traveling to  
+distant worlds orbiting further from the Sun 
+or even around another Sun. Alternatively in  
+some scifi-wormhole-gate case, your spaceports 
+might entirely circumvent space from the equation  
+and not need any special facilities far from 
+urban centers where they can be as loud as heck.
+ 
+That option is also available to space elevators, 
+orbital rings, mass drivers, and space towers,  
+as none of them have a big loud rocket engine 
+going on, and of some types of spaceplanes which  
+fly like normal planes till getting far from their 
+launch location then turn on the big engines.
+ 
+For anything using a rocket, be 
+it a chemical rocket or atomic,  
+and this currently includes essentially all 
+of our current and near-term launch vehicles,  
+sound is a big issue. Fundamentally sound is 
+random excess energy vibrating into the local  
+landscape and turning into pressure and heat, and 
+it doesn’t really matter if it’s a big flaming jet  
+or a some hyper-accelerated ions, all that 
+stuff coming out the back is hitting other  
+stuff and making noise and heat. Only something 
+very outside the loop like a neutrino rocket  
+would get around that, and that’s something 
+we don’t even have on the drawing board.
+ 
+If you didn’t know, the decibel scale for 
+measuring sound and how loud something is starts  
+at 0 decibels being the quietest audible sound a 
+human can detect, or a perceived total silence.  
+10 times more powerful than that is 10 decibels, 
+ten times more powerful than that is 20 decibels,  
+ten times above that is 30 decibels. It is a very 
+stupid unit of measure, in that the original unit  
+is the Bel – B-E-L, named for Alexander Graham 
+Bell whose name has two L’s. And in that scale  
+2 Bel is twice as loud as 1 Bel and a tenth as 
+loud as 3 bel, but a decibel, a tenth of a bel,  
+conveniently makes the decibel system more 
+confusing by using a logarithmic scale.  
+Critical notion though is that something 
+100 decibels loud is a million times louder  
+than something which is 40 decibels, 
+130 is a billion, 160 a trillion. 
+ 
+The Shuttle launch was 194 Decibels, very nearly 
+the loudest thing on Earth which isn’t hyperbole,  
+194 decibels is the theoretical limit for 
+undistorted sound in Earth’s atmosphere  
+and it gets real debatable if its sound if louder 
+than that. The Saturn V rocket did 204 decibels.  
+At this sort of scale sound is essentially 
+shockwaves of a blast, they aren’t moving  
+through the air, they are moving the air, and over 
+194 decibels you have an actual vacuum between  
+pressurized shockwaves. Krakatoa was so loud that 
+it still measured 172 decibels 100 miles away.  
+In general sound falls off 6 decibels 
+every time the distance doubles,  
+so Krakatoa would have been 178 decibels at 50 
+miles, and still 148 decibels at 1600 miles, which  
+is well above the pain threshold of 140 decibels.
+This is a thing we want to be keeping in mind when  
+talking about spaceports and picturing ones from 
+scifi, because it’s not the rocket being chemical  
+that makes it loud, it’s the sheer power of the 
+engine interacting with everything around it.  
+The shuttle launch was 12 billion watts, a billion 
+times more powerful than your typical speaker,  
+even 3 miles away from the launch pad, or 5 
+kilometers, the shuttle was still 120 decibels,  
+which is also the volume of thunder from right 
+near a lightning strike, and a thousand times  
+louder than your lawnmower or the headphones 
+you’re playing on max to hear over it,  
+which are themselves a thousand time louder 
+than the typical conversational voice level. The  
+ambient urban noise level is usually around 60 or 
+70, and as high as 80. If you’re trying to avoid  
+hearing the shuttle blast off from your local 
+spaceport at above 90 decibels, it would need  
+to be 32 times further away than what would make 
+it 120 decibels, or 160 kilometers, or 100 miles.
+ 
+Bigger and more powerful engines, like to launch 
+something like the USS Enterprise-D, are even  
+louder. Sound is critical to citing spaceports and 
+why we spent this time discussing how it works,  
+and its not something that you fix without 
+having engines running on different physics,  
+like antigravity or magnets 
+pushing right off the atmosphere,  
+or something shooting weakly interacting particles 
+like neutrinos or dark matter out the back.
+ 
+So how do we get around this? Well if you want to 
+have a spaceport near your city it can’t operate  
+on those rockets and thrust approaches, and 
+we’ll get to those options. You can also do  
+sound dampening, which we did at the shuttle 
+launch site, but it's hard to dampen a rocket  
+already in the air and we’re worried about 
+the entire launch area not just the pad,  
+as that rocket hardly stops making noise just 
+because it’s a mile high, though a launch tower,  
+well padded against vibration, and empty of 
+air in its launch tunnel, also works – this is  
+essentially what a mass driver is. They probably 
+would not be utterly quiet but vastly quieter.
+ 
+The alternative is just to have your spaceports 
+far from your cities. That’s why when folks start  
+talking about building artificial islands for 
+launches or putting them in the middle of nowhere  
+it makes sense, even when it effectively requires 
+building decent sized towns just to operate the  
+things. On the other hand, when talking about 
+seasteading, the notion of building artificial  
+islands that are micro-nations in their own 
+right, folks talk about making a rocket launch  
+site and using that as the kickstarter for 
+some combination of port, resort, casino,  
+and independent nation state and I’m not sure a 
+rocket launch so loud it shattered every glass on  
+the island would make for a good place to visit.
+This works much better for alternate launch forms,  
+like the space elevator which is much easier 
+to build at the equator of a planet, and which  
+means you either need an artificial island as its 
+base or some deal with one of the few countries  
+on the equator. That equatorial advantage 
+applies to more than the space elevator too,  
+but to virtually every launch option. It takes a 
+certain velocity to orbit Earth, and since Earth  
+spins, launch with that spin gives you a small 
+free boost of speed, and that’s biggest at the  
+equator where the world spins 460 meters per 
+second, versus, say, New York City, at about  
+350 meters per second or the North Pole, at 0.
+Equatorial Spaceports then have the advantage of  
+cheaper launch costs – mostly – and better weather 
+– mostly. Indeed the ideal site for a mass driver,  
+a big cannon we shoot craft down to get into 
+space, is running up the side of a tall mountain  
+on the equator, making Mount Chimborazo in 
+Ecuador, at 6.3 kilometers tall, the furthest  
+point from earth’s center, and the one moving 
+fastest too, and the thinner air doesn’t hurt  
+either. Mount Chimborazo probably holds the 
+status of most ideal site for a spaceport.  
+Equatorial mountains on other worlds likely will 
+be early settlement sites for the same reason.
+ 
+Now speaking of Mass Drivers, this is a system 
+that can be placed in a city because the ship  
+is not being rocket propelled 
+and is not moving through air.  
+The general notion is to have a long vacuum tube 
+ramp that a ship is propelled down magnetically  
+till it exits at a very high speed 
+and altitude, and low air pressure.  
+You can have this begin inside a city as a result, 
+indeed underground like a subway if you want,  
+but it will exit thousands of miles away 
+and that’s a lot of right of way issues  
+through a lot of valuable real estate, including 
+building a pipe as wide as your ship, hanging over  
+the landscape for that whole distance. 
+I could imagine many cities in a region  
+using a single long mass driver 
+that had multiple connecting tubes  
+that curved and joined together before the 
+ship was going too fast for such maneuvers,  
+which certainly saves on costs given how much 
+time a ship spends in any given piece of the tube.  
+It would also be nice to have multiple ships 
+able to move through the mass driver at once.
+ 
+You also would tend to put this out on the 
+sea anyway, coming from classic coastal ports,  
+not because it needs to but because it cuts 
+down on the right of way issues for building it,  
+a feature the mass drivers sibling, the launch 
+loop has, that we’ll get to in a minute.
+ 
+Now I mentioned only one ship going through 
+a mass driver tunnel as a cost issue,  
+ideally you want many going through at once, and 
+we have a parallel concern with space elevators.  
+Space Elevators are often seen as the 
+ideal form of ground to space travel,  
+because once one is built it takes very 
+little energy to go into orbit by climbing it,  
+but they’re not quite the wonder-method 
+often implied even ignoring that they require  
+material strengths we haven’t got yet. 
+Now technically they do not have to be on  
+the equator, there’s a trick around that which 
+essentially involves placing a single station up  
+at geostationary orbit then having 3 or more 
+elevators come down from it like guy wires,  
+so that their forces balance out, and this 
+allows you to use one station in space for  
+multiple groundside spaceports as well as letting 
+you put those spaceports anywhere so long as the  
+forces balance out to keep it at the equator, 
+so at least one on each side of the equator.  
+This also presumably lets cities 
+team up to operate and maintain one  
+and represents another often neglected use 
+of space ports, which is rapid transit off  
+the planet and right back on it again. 
+One might imagine a pyramid of several  
+space elevator tethers ascending to that 
+geostationary space hub but with secondary  
+stations part way up that and secondary 
+tethers running right to neighboring lines,  
+allowing you to get just out of the atmosphere 
+than pour on the juice to another tether  
+and drop to another spaceport, shaving hours off 
+of trips made at subsonic air travel speeds.
+ 
+This of course requires even stronger materials 
+than a normal single line equatorial elevator  
+does, but if you can do it you probably would 
+because the thing folks tend to miss about space  
+elevators is how long they are, comparable to 
+the circumference of the planet at the equator,  
+not the couple hundred kilometers it is to low 
+orbit. And while you could climb one up part way  
+then drop and coast in on wings like a plane to 
+a location, after building lots of speed on the  
+drop, you would have to drop because you’re not 
+at orbital speed on a space elevator until you  
+get all the way to geostationary orbit 36,000 
+kilometers up. Orbital speed of earth drops  
+the further away from Earth you go, and your own 
+speed from spinning with the earth rises as you  
+go up – which is why Mount Chimborazo is also the 
+fastest moving place on Earth. On a space elevator  
+your rotational speed around Earth’s center 
+rises as you rise, while the necessary orbital  
+speed drops, until they match up way out at 
+geostationary at a mere 3 kilometers per second,  
+not the 8 km/s it normally is to low orbit. 
+When you’re 400 kilometers up, which is how high  
+the international space station is, and you’ve 
+gotten there by climbing up a space elevator  
+or space tower, you’re only going 492 meter per 
+second, just 32 meters per second or 72 mile per  
+hour faster than the speed at the equator’s 
+surface below. Not really a big speed bump,  
+though it would rise as you got higher. It would 
+also rise as you dropped though, in terms of  
+vertical speed not lateral speed, but that’s a 
+long drop through a lot of very thin air that  
+lets you use any wings you might extend to convert 
+that speed into a direction of your choosing. 
+ 
+That would seem to indicate that these would 
+be great ports for getting around Earth too  
+but they have a bottleneck, that space elevator is 
+holding itself up, all 36,000 kilometers and more,  
+and every pod traveling up it at any moment, 
+which also gain speed to climb by shoving down  
+on the elevator, straining ti further. And they 
+exert the most force and breaking force on that  
+tether down low, where the most tether is 
+hanging and where gravity is strongest. 
+ 
+So pragmatically, unless you’ve got a very cheap 
+material that’s quite strong even compared to  
+graphene, that lets you do tons of pods on a 
+space elevator tether at once and place them  
+at angles off the equator, space elevators 
+don’t make for ideal spaceports from cities,  
+though are handy for being quiet. I could imagine 
+cities sprouting dozens of these tether cables  
+though and have airports just outside the city 
+that personal wingeds aerospace ships could  
+fly through to get to the airport, climb the 
+tether, then drop and glide to another spot,  
+though I suspect this would simply 
+save fuel, not time, in most cases. 
+ 
+Space Towers are the alternate way of building 
+tall and they have the advantage that you only  
+build as high as you need, the problem is like 
+all active support, you need to keep the power  
+running and you really benefit from having 
+cheap energy and/or superconductors and/or  
+materials that shield well against magnetics.
+Now for a discussion of how active support works,  
+see either our Launch Loops, Space Towers, 
+or Orbital Rings episode, but in summary form  
+you’re keeping something from falling by 
+constantly pushing on it. This is easiest done  
+with tiny streams of objects subject to magnetic 
+attraction or repulsion but doesn’t require  
+electricity in and of itself. A piece of paper 
+hanging over an air vent is actively supported,  
+so is an object orbiting Earth. For safety, 
+we also have batteries – which superconductors  
+are amazing for too - for uninterruptible power 
+supplies, and also parachutes for slowing large  
+objects that might be hanging in the sky and 
+suddenly begin falling. So things like launch  
+loops, orbital rings, and space elevators 
+are not nearly as dangerous as they sound.  
+They also don’t drop at re-entry speeds, 
+they just fall down like any other object,  
+and a space elevator if cut just 
+flies off into space above the cut  
+and the segment below the cut just plops down 
+from above. And given that space elevators rely  
+on super strong materials to operate, well those 
+also make for ridiculously light parachutes.
+ 
+Now when it comes to seasteading and small 
+nation states that act as spaceports,  
+active support makes this a bit better as an 
+option and the launch loop is a great example  
+of an active support system that does best at 
+sea. Conceptually imagine you were to shoot a  
+big cannon and its shell moves so fast and high 
+it landed a couple thousand kilometers away,  
+then upping that to a machine gun sending a 
+constant stream of them, then keeping a big  
+magnet hanging over the stream of iron slugs. 
+Instead we do this with a big tube and a stream of  
+magnetic materials being pushed by electromagnets, 
+but it results in an aborted orbital path that  
+you can use as a big launch platform turning 
+electricity directly into spaceship velocity,  
+letting you plug it into a a big nuclear 
+power plant or whatever on the ground,  
+or floating in the sea, and running it. You can 
+also lower and drop it to avoid weather issues.  
+A space elevator getting hit by a 
+hurricane is problematic for instance.  
+Not nearly as bad though as the notion of a super 
+long cord of super strong material whipping around  
+in a hurricane probably sounds but one advantage 
+of a Lofstrom Launch Loop is that if you cut the  
+power it slowly descends and you can speed that 
+descent up by tapping it for power. Indeed, most  
+of our active support systems make for very good 
+energy storage systems in that sense too, much  
+like a flywheel but without the friction losses.
+A Space Elevator can actually be detached and  
+reeled up above the atmosphere if needed, 
+though reconnecting it might be quite a pain.  
+Similarly the Orbital Ring, which makes use of 
+tethers too, can just pull in any threatened  
+by the weather though it’s also a lot sturdier 
+against that. We’ll come back to those though.
+ 
+Now I suspect we’ll have our first commercial 
+spaceports before we have Orbital Rings and those  
+early ones will probably be a mixture of airport 
+and launchpad, one to each side as it were,  
+decently far from any city or existing built up 
+area and close to an eastern coast so the launch  
+is over the ocean. Expect the facility itself to 
+just be very buffered against sound and vibration,  
+and possibly have any hotels and 
+hospitality along a tram line  
+running perpendicular to the direction of launch, 
+so north or south of the facility and launch pad.  
+Deserts work for this too incidentally and 
+for something like a mass driver or launch  
+loop offer the option of solar power, as would 
+floating solar panels on the water in the ocean,  
+or, in the air. So also potentially on a big 
+helium balloon a kilometer across that your  
+launch vehicle can basically fly off the side 
+of and ignite its rockets as it heads off,  
+see our Sky Platforms or Cloud Cities episodes 
+for more discussion of that approach. 
+ 
+I would expect that to be the rough 
+setup, whether its on land or sea,  
+coast or desert or mountains, for any spaceport 
+built if and until we have another big shift  
+in space launch method away from rocketry. 
+That combination of airport and spaceport,  
+located in the middle of nowhere, with 
+the spaceport on the east side of things  
+and everything highly insulated against 
+sound and connected to the north or south.
+ 
+Spaceplanes though might get around lot of these 
+issues, but as we noted in that episode, it's very  
+hard for us to make an airbreathing vehicle 
+get to orbital velocities if it has to carry  
+its own fuel, so the approach of having personal 
+vehicles you could fly from your airport - our  
+even your home garage – right into space, relies 
+on either a compact high power to weight ratio  
+nuclear drive – fission or fusion – or power 
+beaming… which as we noted in our spaceplanes  
+episode is actually very simple, you just build a 
+pair of SCRAMjet stovepipes which are particularly  
+microwave receptive and let them take the place 
+of the normal reckless fuel burn of SCRAM jets. 
+ 
+A SCRAM jet itself, or stovepipe, is a mostly 
+non-mechanical device whose purpose is to let  
+you suck in air and superheat it and shove it 
+right out the back, its geometry is doing all  
+the heavy lifting so long as you supply heat. In 
+such a setup your spaceport is just an airport  
+and your spaceship is similar to a personal 
+or commercial airliner modified to receive  
+microwave energy beaming. If the beam is lost 
+the vessel just glides till it is re-acquired  
+and unauthorized vessels can just have their 
+beam shut off. In that episode I referred to  
+it as probably the only plausible pathway 
+under known science for people to own their  
+own personal spaceship they could fly to orbit 
+in. Partially because big improvements to nuclear  
+options still means someone personally owning and 
+piloting something nuclear, whereas a beam powered  
+ship with some batteries or a small conventional 
+engine for backup or takeoff avoids your neighbor  
+having a super powerful device in their garage 
+they could Kamikaze into a city at Mach 10.
+ 
+That’s another reason you probably want 
+your spaceports far from urban centers,  
+accidents and malice, and even small spaceships 
+carry all the destructive potential of a  
+trainwreck or even a small nuke in a tiny package. 
+I haven’t mentioned it as much but spaceships  
+have to land too, not just take off, and they 
+have to pass overhead at hypersonics speeds,  
+so it pays to be keeping crash scenarios 
+in mind and what to do if someone does  
+decide to do a suicide run, or crash one by 
+remote control. The good news about landing  
+ships is that it can be done at conventional 
+landing strips, they just aerobrake and head  
+on in like a plane at that point, or come 
+down as a reusable booster rocket does.
+ 
+Now this one advantage of Space Towers, they get 
+around that whole atmospheric drag thing that  
+cost a lot of fuel on launch, and while trying to 
+land on one is a bit trickier than aerobraking,  
+you might do that to recover energy rather than 
+burn it all off in the atmosphere – indeed a  
+developed spacefaring world might have bans on 
+aerobraking outside of emergencies to keep the  
+heat down and minimize sky noise and the 
+distraction of giant fireballs constantly  
+raining on the planet as thousands of giant ships 
+take off and land in any given day, or minute. 
+ 
+A spaceport on a space tower might be a big 
+pad high above the planet or it might be a full  
+launch tube extending kilometers below ground 
+and hundreds or even thousands of kilometers  
+above ground. You don’t necessarily have to 
+follow straight lines either. A spaceship can  
+only turn so fast without pancaking its crew 
+but the tiny electrically charged particles  
+or metal beads or whatever that you use for 
+your active support’s working fluid can turn  
+at pretty high g’s permitting you to do a pair of 
+towers leading to a long flat runway between them  
+hanging right over the atmosphere. The ships 
+using that still need to accelerate but they  
+can leach energy off the active support 
+structures for speeding ships up though,  
+avoiding carrying lots of fuel or needing a 
+giant loud and bright rocket flame out the back.
+ 
+Big thing to remember for both space towers and 
+orbital rings though is that when you get above  
+the atmosphere on one you are not in orbit. Step 
+off the side of a space tower roof or orbital ring  
+and you will fall down to the ground – and 
+I assume people will do this constantly  
+given that a pressurized skin suit and wings or a 
+parachute would let you glide down safely for the  
+sport of spacediving, the ultra high-octane 
+version of skydiving and cliff jumping.
+ 
+Fundamentally a Space Tower really is just a 
+very tall building, though I’d imagine a very  
+tall cellphone tower might be a better analogy, 
+even if it might be a tube kept vacuum tight to  
+serve as a launch tube. You could also have many 
+along the path of a mass driver to allow one to  
+exit well above the atmosphere and operate with 
+much thicker components and bigger payloads than  
+the kind we tend to contemplate now using balloons 
+or similar as part of the ramp support structure.
+ 
+Now in the long term the Orbital Ring would 
+probably come to dominate space launches  
+and essentially eliminate groundside spaceports 
+to be replaced with something like a local train  
+terminal. One problem with Space Elevators 
+is that need to have a superstrong material  
+you can make a 40,000 kilometer long cord out 
+of able to hold up its own weight plus others,  
+and we do have some that can barely doing this 
+on paper using tapered designs and Earth’s  
+lowering gravity as you get farther away, see the 
+Space Elevators episode for discussion of that
+ 
+However, those same materials do just fine for 
+a tether only a hundred kilometers or so long  
+and that same active support method 
+works much easier for an orbital ring.  
+Which is fundamentally just two hoops 
+around the planet, one inside the other,  
+one spinning faster than orbital speed and 
+one spinning just as fast as the planet below,  
+whose combined momentum equals 
+what’s needed for a regular orbit.  
+This gives you an apparently stationary ring 
+hanging in the sky, to which you can drop tethers  
+or even just fly up to with a plane modified for 
+high altitude – though a ring could be way above  
+the atmosphere or even hanging just above mountain 
+heights, though it’s not too handy for launching  
+spaceships that deep in the atmosphere.
+What’s more, while orbital rings not above  
+the equator will precess and wobble left to 
+themselves, those same superstrong tethers  
+can counteract that and pin it to a path circling 
+Earth not along the equator, cocked at an angle,  
+and you can also connect up to it with space 
+towers which can serve as additional support  
+or backup, and you can then run electricity up 
+those or the tethers. Though you might let it  
+roll instead and leave your tether hanging like 
+skyhooks for planes to link up to on whatever  
+schedule brought the precessing ring near their 
+service area. In such a case, any sort of cable  
+evenly vaguely in the space elevator strength 
+region ought to be able to hang a small spaceport  
+at the end of that – with parachutes built 
+in just in case of catastrophic failure – for  
+planes to link up to which I suspect would make 
+for some very popular resorts or mansions too.
+ 
+Now classically we assume the shortest 
+possible tether to require the least strength,  
+which would be straight down, but if you’re 
+trying to stabilize one from precessing you  
+want those tethers out at an angle like a guy 
+wire. Which also means you could run a cable  
+car up one carrying people and cargo back and 
+forth. And given that one that runs out wide at  
+a 60 degree angle from one 400 kilometers up would 
+represent a 800 kilometer long tether stretching  
+sideways 700 kilometers to either side of our 
+orbital ring, makes for a very large service area  
+especially given that none of the tethers need 
+to be as long as each other or at the same angle.  
+Meaning some orbital ring of that type could 
+have a big long wire reaching out from atop  
+a tall building in a city to the orbital ring 
+from any city within a 1400 kilometer wide band.  
+That’s a pretty big service area. And if 
+you have multiple rings around a planet  
+at different angles and slightly different 
+altitudes you could drop a tether between  
+any two at any of the two points of overlap. 
+This both eliminates groundside spaceports and  
+vastly increases their number, because they go 
+from a handful of big ones far from habitation  
+to thousands of them stretching up from every city 
+to every orbital ring they can run a tether too,  
+like a train station or exit ramp truck 
+stop. There’s no big noise or disruption  
+going on here either, they’re just a cable 
+car moving at whatever speed we feel like,  
+probably speeding up to a few hundred 
+kilometers an hour till out of the atmosphere  
+and maybe not speeding up much more then either. 
+Up to space from any city that can afford one in  
+an hour or less for an energy cost comparable 
+to driving your car to the neighboring town.
+ 
+If you felt like making very big rings 
+and very robust tethers you might see  
+those become train station 
+equivalents of spaceports,  
+with huge strings of cars running that tether 
+like trains on its rails. You can hypothetically  
+even scale something like that up to being a 
+physical highway cars could drive on, to space,  
+though they’d need a pressurized tunnel 
+or to be modified for vacuum presumably.
+ 
+Its always hard to guess how space development 
+will take place but I tend to think this is the  
+best candidate for how the situation will look on 
+Earth in a couple centuries as we develop orbital  
+space, get millions working and living there, 
+and head out to colonize our moons, our planets,  
+the moons around other planets, and all those 
+asteroids. And probably how it would remain for an  
+extended period unless we did get some technology 
+like gate-syle wormholes, which might circumvent  
+space travel entirely. Now if you’ve seen 
+Stargate you know the wormhole type in question,  
+and kudos to Peter Hamilton for being the first 
+author I know who considered the idea that you’d  
+pretty much leave these on all the time and not 
+have folks walk through them or fly through them  
+in favor of running trains, electric cables, and 
+fiber optic data cables through them to the other  
+world. These, if we could ever make 
+them, would probably replace all  
+spaceports and arguably aren’t spaceports 
+since they circumvent it entirely.
+ 
+One other farther-tech option is spaceports by 
+teleportation, you just beam yourself to space  
+stations, and for a digital civilization 
+of AI or folks living as uploaded minds,  
+this sort of teleportation is vastly 
+easier, your spaceport becomes a radio dish.  
+Though even then high-bandwidth cables running 
+up to orbital rings probably works better.
+ 
+Atmospheres aren’t any kinder to signals than 
+to spaceships trying to plow through them,  
+but those aren’t the norm in the Universe let 
+alone our solar system, and to close out for  
+the day, lets quickly contemplate spaceports on 
+other worlds. Now we’ve got two big factors here.  
+First, any spaceport we build off Earth is our 
+keystone to settling that world, the entry port,  
+not the exit, so you want one you can quickly 
+assemble and easily too, and initially landing  
+is more important than taking off. Second, each 
+world has different conditions making landing  
+or leaving by different methods preferred. 
+On any airless world like the Moon, your Mass  
+Driver is your pay dirt because there’s no need 
+to elevate one above the atmosphere, you can just  
+run a track of magnets right along the ground, 
+until the ship speeds up enough to leave it,  
+and usually need not speed up too much since 
+airless worlds tend to have low gravity.  
+Landing is a whole different story, you need 
+fuel for that because you can’t aerobrake  
+and trying to connect to some landing strip to 
+slow you down at thousands of meters per second  
+sounds like a recipe for disaster, maybe even 
+with computer pilots reacting in nanoseconds.  
+Here you might prefer a space elevator - which 
+are much easier to build around faster turning  
+and lower gravity worlds, that you could have 
+whirling around your planetoid for a ship moving  
+at about the same tangential speed to connect 
+up with then be slowly winched down on, like  
+big tentacles extending out form an asteroid to 
+catch spaceships and eat them, Spaceport Kraken. 
+ 
+Works just fine for taking off too, and offers a 
+longer takeoff track to speed up on, as smaller  
+moons and asteroids don’t offer a lot of diameter 
+or circumference for a track. Getting off those  
+requires virtually no fuel but speeding up 
+more would, and so if you want to leave at a  
+good speed without blowing tons of propellant, 
+from some world with a tiny escape velocity,  
+tentacle-like space elevators and tethers might 
+be very handy. Indeed I could imagine a number of  
+circular rails wrapping such a planetoid with long 
+tethers swinging around them just to allow you  
+to have your tentacles extending and spinning at 
+directions the spin of the object wouldn’t permit.  
+This works on orbital rings around planets too but 
+strikes me as one of those things like skyhooks  
+that represents dangerous clutter if you have 
+a lot of traffic. Alternatively space is huge  
+and asteroids small, so the Asteroid Kraken 
+Spaceport does not have those clutter issues
+ 
+Places like Venus easily allow aerobraking, ditto 
+Titan, and any fast ship heading to the moons of  
+a gas giant can slow to better orbital speed 
+by skimming that gas giants atmosphere before  
+winging off to whichever Moon they were destined 
+for. On such worlds though your spaceports might  
+be floating sky platforms, hanging over Venus or 
+Jupiter by buoyancy, mining the clouds for gases,  
+volatiles or fusion fuels, and for 
+the latter might skip buoyancy for  
+electric engines or fusion candles. 
+There’s a virtually unlimited number of  
+possible options for which types and variants 
+of spaceports and launch systems we might use  
+on other worlds, for us to imagine and 
+discuss and hopefully one day build.  
+I’d make a joke about the sky being the limit on 
+space port options but it obviously is not.
+ 
+Whenever we find ourselves discussing space 
+launch methods and megastructure concepts like  
+orbital rings and active support techniques, 
+there’s often an urge to go into the math a  
+bit deeper and I avoid doing that because our 
+episodes are meant to be accessible to everyone.  
+At the same time though, I really can’t 
+encourage everyone enough to look into a  
+deeper mathematical and scientific level on a 
+lot of these concepts because it does open up  
+a whole new level of understanding and wonder. 
+Math and science can be pretty intimidating but  
+with the right learning path they will unfold to 
+be clear, intuitive, and horizon-broadening. 
+ 
+The key is to find that right learning path 
+and our friends over at Brilliant have,  
+by embracing interactivity and feedback for 
+handson and intuitive learning. Brilliant has  
+always focused on interactivity, but earlier 
+this year, Brilliant upped the interactivity  
+on their platform to a whole new level, like with 
+their newly updated Geometry Fundamentals Course,  
+and they continue adding in more and 
+more interactivity to all their courses.
+ 
+It's never too late to start learning something 
+new, and Brilliant is a great place to start.  
+Brilliant is an interactive STEM-learning platform 
+that helps you learn concepts by visualizing them  
+and interacting with them, which is 
+hands-down, the best way to learn.
+ 
+On Brilliant, it's not about memorizing 
+or regurgitating facts for a test — you  
+can just pick a course you’re interested in 
+and get started, be it the basics or advanced.  
+If you get stuck or make a mistake you can read 
+the explanations to find out more and learn at  
+your own pace. Knowing and understanding Math, 
+Science, and Computer Science unlocks whole new  
+worlds, and if you’d like to start your journey 
+to them, you can try out Brilliant for free and  
+get 20% off a year of STEM learning, click the 
+link in the description down below or visit:  
+brilliant.org/IsaacArthur.
+So we were looking at how to get  
+from ground to space today and next week we’ll 
+look past getting into space to the colonization  
+strategies we might employ for settling the solar 
+system. Then we’ll have our mid-month Scifi Sunday  
+episode to take a look at one potential method 
+of getting out of the solar system, by folding  
+space to travel instantly to new stars. Then in 
+two weeks we’ll return to our Alien Civilization  
+series to contemplate aliens with tempers and 
+aggressive tendencies in Belligerent Aliens.
+ 
+Now if you want to make sure you get 
+notified when those episodes come out,  
+make sure subscribe to the channel, and if you 
+enjoyed the episode, don’t forget to hit the like  
+button and share it with others. If you’d like to 
+help support future episodes, you can donate to us  
+on Patreon, or our website, IsaacArthur.net, and 
+patreon and our website are linked in the episode  
+description below, along with all of our various 
+social media forums where you can get updates and  
+chat with others about the concepts in the 
+episodes and many other futuristic ideas.
+ 
+Until next time, thanks for 
+watching, and have a great week!

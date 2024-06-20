@@ -1,0 +1,727 @@
+One day people will travel to Mars, hopefully
+soon, and perhaps come to live there.
+Which means they’ll need to grow their own
+food, and that isn’t easy on a planet that’s
+more barren than any desert or tundra.
+Probably one of the best science fiction films
+I’ve seen in the last decade is the Martian,
+starring Matt Damon, and based on the excellent
+novel by Andy Weir, and while it generally
+got great reviews it was often criticized
+for a lack of realism about the astronaut’s
+emergency potato farming on Mars.
+As far back as we could see Mars, even when
+we thought it had canals, we have discussed
+agriculture on the Red Planet, both in terms
+of terraforming the world and in terms of
+building domes and greenhouses.
+I thought today we would walk through the
+challenges and how we can address them so
+that future visitors or colonists to Mars
+don’t have to import all their food and
+drink.
+And speaking of food and drink, we will be
+here for a bit so you might want to grab a
+drink and snack, possibly some potato chips,
+and don’t forget to hit the like and subscribe
+buttons while you’re at it.
+Now there’s three obvious problems right
+out the door for agriculture on Mars, and
+that’s the general lack of air, water, and
+sunlight.
+Mars does have all three but its sunlight
+is weaker than we get, it has precious little
+water, and its atmosphere barely counts as
+one.
+It’s a cold world whose highest recorded
+temperature is 70 Fahrenheit or 21 Celsius,
+while its average temperature is -80 Fahrenheit
+or -60 Celsius.
+Giving it more sunlight, air, and water would
+help to fix that, but in its absence you either
+need insulated domes or entirely enclosed
+options like an underground hydroponics bay
+that’s artificially lit.
+Our next problem comes down to the soil, or
+rather the lack of it.
+Mars technically doesn't have any because
+by definition, soil must contain organic matter,
+and we currently assume life on Mars is either
+non-existant or ultra-minimal.
+Terran soil contains 50% air and water, 45%
+minerals and 5% organic matter.
+Martian soil on the other hand, is 98% minerals,
+only 2% air and water, with 0% organic matter.
+Not much can really grow in that.
+Although high in nutrients, Mars is basically
+just volcanic rock.
+It has various clay or silt sized particles
+but it’s mostly sand, and as we’d expect
+from the Red Planet, it’s iron rich.
+Surprisingly, it’s also rather homogenous;
+unlike terrestrial soils which vary considerably
+by location, the dirt on Mars is similar all
+over.
+The planetary dust storms distribute the material.
+Mars does have all the nutrients plants need,
+and again is high in some.
+However, some of these minerals are spread
+pretty thin.
+The nutrient’s in the dirt are so low in
+many that we would need extensive fertilizer.
+In 2015 in the Netherlands they simulated
+Martian soil and grew ten crops in it, as
+well as trying it for simulated Lunar Soil;
+those were chives, cress, garden rocket, leeks,
+peas, quinoa, radishes, rye, spinach, and
+tomatoes.
+Obviously water and air were added, and while
+none of them produced as much biomass as on
+Earth, only spinach was particularly poor.
+They didn’t eat any of it though because
+it was rich in heavy metals like arsenic and
+mercury, and everything was high in iron.
+We’ll get to discussing handling those as
+well as perchlorates in the soil in a bit.
+Inspired largely by that movie, there have
+been experiments growing potatoes in Martian
+soil simulants as well as other Martian conditions
+and with modest success, but everything does
+better once organic matter is added in.
+That will always be available after a first
+generation of plants and by the simple presence
+of humans, since we produce a lot of organic
+matter, but it nonetheless tells us that we
+need to be creating our soil on Mars, not
+just expecting to dump seeds in Martian dirt
+and having a garden grow.
+Speaking of gardens, we might imagine the
+plants we grow on Mars will primarily be for
+food or feed for animals, as well as herbs
+for adding some flavor and smell.
+However, there's another important thing we
+might want to grow too: medicine.
+We're far from a short trip to the emergency
+room to get some antibiotics or painkillers,
+and any medicine sent from Earth has an expiration
+date.
+By the time we get any medication shipped
+to someone sick on Mars, they might already
+be dead.
+So we might want to be growing plants that
+have some kind of a medical benefit too.
+There have been some early experiments to
+genetically modify fast-growing plants like
+lettuce to let us grow acetaminophen, the
+active ingredient in Tylenol.
+You could imagine using the same method to
+create a bunch of useful compounds that we're
+used to having on hand for first aid or common
+ailments.
+But we might also need some other pharmaceuticals
+that we don't need on Earth.
+For instance, since we know that humans lose
+bone density in space, we might want to start
+taking supplements that will help stimulate
+bone growth.
+So we’ll probably have a mix of plants for
+food, feed, and pharma that we need to grow,
+and as I said earlier, insulated domes and
+underground artificially lit hydroponics are
+good options.
+Now if you’re building a dome over something
+it's not much harder to give it a floor, and
+given that initial farms on Mars need to be
+pressurized and airtight, you need a floor
+anyway and are probably doing either hydroponics
+or raised beds to start.
+Algae grown in vats is a good way to get some
+initial biomass and potentially feedstock
+for plastics, including polycarbonate domes.
+It's also a good way to process Martian Dirt
+into soil while you’re building domes so
+the first agriculture there might be setting
+up large insulated water tanks with grow lights
+in them.
+Those might be supplemental or primary, depending
+on if using sunlight is convenient.
+How we cultivate crops depends on what the
+base’s power situation and workforce look
+like, so let’s discuss that first.
+The truth is, even on a two year round trip
+to Mars it is likely to be easier to pack
+food along than grow most of it, as dehydrated
+foods are pretty low mass, and you need equipment
+for growing food on the trip anyway, both
+in the ship and down on Mars, so we’re mostly
+interested in plant growth on early Martian
+missions for supplemental fresh food, emergency
+medicines, and for scientific research into
+future space and Martian farming.
+We need something low on manpower, both to
+build and maintain.
+Robots might help but they take mass too,
+and we need to know our power supply.
+For my part I don’t think any mission to
+Mars should fail to have a nuclear power source
+involved unless our solar power and battery
+options get way better than they are today.
+Admittedly, given how much they’ve improved
+in recent years, that is plausible.
+Alternatively we have some very robust, lightweight,
+and safe atomic options.
+And unlike the common light water nuclear
+reactors on Earth, anything going to Mars
+can’t require lots of water to work.
+I suppose my ideal first attempt would be
+to send a nuclear power plant down to Mars
+first, near a preferred manned mission site,
+complete with some drone harvesters and a
+stockpile of LEDs, and automated manufacturing
+and refining gear, so it could just land and
+start making and assembling big old algae
+vats for mass producing biomass and fuel.
+That tends to be a bit beyond the scope of
+robot manned missions aiming to arrive before
+the first explorers but I tend to feel that’s
+about where our technology will be by the
+time the public permits a manned Mars Mission.
+You might be wondering about that choice of
+phrasing but right now Mars missions enjoy
+the general goodwill of the public who don’t
+really mind paying for one, though that’s
+mainly because it's not seen as something
+that’s about to happen.
+When a serious mission is on the table, it
+will start getting picked apart for many reasons,
+such as the missions’ cost, odds of success,
+and what it will actually accomplish in the
+short term.
+For any plan to be approved, it is also going
+to need high public confidence that nobody
+will die or come back with cancer.
+People can accept risk, but I suspect even
+10% will be too high.
+To seriously discuss those kinds of odds at
+all means a lot of preliminaries, like a protracted
+moon base and dropping supplies and robots
+down on Mars first.
+And that’s not exactly science fiction anymore,
+we could be talking even just a decade.
+Every extra year improves all of our associated
+technologies and lowers the mission cost,
+so we aren’t necessarily contemplating a
+few trays of plants growing in a prefabricated
+habitation module as part of a half-trillion
+dollar mission where the ship has good odds
+of becoming a coffin.
+By the time the first mission is a go, we
+might be in a position to contemplate landing
+automated assemblers, who can just get their
+reactor setup and start milling out heavy
+items like grow vats, glass or even the main
+components of habs and solar panels.
+So we would just assemble and install the
+small expensive electronic and mechanical
+bits on arrival.
+Not everything is necessarily heavy though.
+Aerogel is a potentially awesome insulator
+for space applications.
+It’s ultra-light, so could be easily transported
+along, and it's also typically made of silicon
+which is abundant on basically every rock
+in this solar system, so we might be able
+to make it onsite anyway.
+It's also translucent and can now be made
+transparent, so I could easily imagine us
+opting for domes made of two layers of glass
+or polycarbonate with aerogel sandwiched between.
+Done right that might make for a very shatter
+resistant dome.
+Speaking of dome glass and breakage, on places
+like the Moon where micrometeors commonly
+rain on the surface, or in space, such panels
+would be even better with multiple layers
+and wire mesh woven in, for added strength
+and fracture resistance.
+But on Mars our concern is more about scratching
+and wear from dust storms.
+Now a note on that, we tend to portray those
+dust storms on Mars as being wildly powerful
+affairs, but the wind speed of those famous
+storms is typically 10 or 20 miles per hour
+or 16 to 32 kilometers per hour, and can get
+up much faster.
+About every 3 Martian years, that's 5 and
+half Earth years, these storms become planet
+wide and can move as fast as 60 miles or 100
+kilometers per hour.
+Here’s the thing though, the air is very
+thin and you wouldn’t be getting thrown
+around in that, indeed you’d probably have
+problems flying a kite.
+Think of the force on a lightly breezy day,
+not a hurricane, even when the wind is moving
+at hurricane speed there.
+On a typical day you wouldn’t really notice
+it.
+But you would notice the accumulation.
+The storm would be depositing a lot of dust
+and that dust is small electrostatic particles,
+which makes them stick to everything, as we’ve
+found with our rovers, which get filthy fast.
+Now this is manageable for manned missions
+because we can just have someone go out and
+brush the solar panels off after storms and
+a scratch resistant coating should let them
+easily have a lifetime in excess of the mission
+duration, but for domes and panels that need
+to be operating, and preferably with minimal
+human effort, a robot window and panel cleaner,
+or even scratch polisher, seems a good plan.
+I would personally bet on that being tech
+that makes rapid strides in the next decade
+given the success of robot vacuum cleaners,
+mops, and lawnmowers, to see robot solar panel
+and window cleaners.
+Of course we usually clean with water and
+that might be tricky on Mars.
+On the other hand, we need a water source
+for those domes and a setup that allows the
+robot to spray water under a pressurized cup
+while it cleans them then lets it dump that
+muddy water into the domes for the plants
+to use as soil, might work very well.
+If filtered anyway.
+Now I mentioned heavy metals earlier and perchlorates
+and that’s probably the next topic to address.
+Chlorine based compounds actually are pretty
+valuable for a lot of applications on Mars,
+including making fuel and air, and indeed
+make for good antifreeze, which is handy on
+a cold planet, so we’re interested in extracting
+them rather than just getting rid of them.
+They are water soluble which is partly why
+I often talk about algae vats in the context
+of terraforming alien soils.
+We can use algae for removing heavy metals
+from wastewater.
+That’s been under study for decades now
+for use back here on Earth, I recently saw
+a study in Frontiers of Environmental Science
+last year, “Synthetic Biology-Based Approaches
+for Microalgal Bio-Removal of Heavy Metals
+From Wastewater Effluents” where they said
+they had studied 49 unique genes for their
+bioremoval properties of various heavy metals,
+so I think there’s definitely room to be
+considering genetically engineered algae for
+soil and water reclamation in both our own
+future and Mars and sooner than later.
+Centrifuging is an option too of course.
+That can get pretty energy intensive at the
+large scale though and while we can always
+get freebies on our heating bill by using
+our electricity to power something that then
+lets its waste heat warm us, Mars is pretty
+cold so would need more than that to stay
+warm especially in the context of insulated
+and airtight living, working, and growing
+spaces.
+It’s not just humans that need to be warm,
+and plants also have their own different needs
+when it comes to a safe temperature and humidity,
+as well as air composition which having many
+airtight domes lets us fiddle with.
+Not to imply we just want to go nuts on nuclear
+or solar power there, though you might have
+to go nuts with excess heat for the purposes
+of terraforming or para-terraforming, which
+is where you dome large chunks of a planet
+over and terraform under the domes.
+An alternate thought, especially seeing the
+gravity on Mars is much lower than Earth and
+may require spin gravity to be added to the
+equation, for us and animals to stay healthy,
+is spinning habitat areas.
+This typically involves a wide ring or cylinder
+with a tilted floor to combine centrifugal
+force with natural gravity, what we call a
+Rotacity or Rotahab, see the Megastructure
+Compendium for details.
+Big tall cylinders have other advantages too,
+especially for insulation and shielding, and
+are easier to build on low gravity places
+with little to no wind pushing them over.
+A big thing to think about here is usable
+space or volume from stacking multiple levels
+with minimal surface area exposed to the outside
+while still conforming to a structure commonly
+accepted on Earth for habitation, the skyscraper.
+This is probably an outer shell with normal
+gravity and some spinning interior sections,
+and maybe much underground too, but might
+be a preferable arrangement over our normal
+notion of sprawling domes, or used in tandem
+with them, like the foothills of a mountain.
+That outer shell of shielding is your expensive
+bit, the more surface area the more air you
+leak, heat you leak, damage you take, and
+radiation you need to stop, so minimizing
+that is ideal and a cylinder gets you way
+more interior area per surface than a typical
+rectangle.
+Spin-gravity aside, a cylinder or ring or
+circular dome is also a good shape for plant
+growth, as you don’t need as much insulation
+and don’t get as much air and water leakage
+if you have less surface area.
+There’s always going to be losses, and for
+that matter recycling still has losses and
+a place like Mars, or the spaceships that
+get there, need to work to be very good at
+recycling.
+In the short term though it’s not like energy
+is hyperabundant on Mars.
+As it is mostly an airless desert we’re
+not needing to be super-concerned about maximum
+safety with early nuclear power there but
+it also makes it a pretty good place for power
+beaming too, especially as you have an orbital
+network there from the get-go.
+Solar power always works great in space, even
+if it's 45% of the strength at Mars of what
+it is in Earth Orbit, and power beaming works
+well there too, but so does concentrating
+light with mirrors in orbit.
+It wouldn’t take too much sophistication
+to get a thin mirror sent in a capsule to
+Mars and have it spin itself out into a big
+wide lens, focused down on a base on Mars.
+They can keep that power going even at night
+time too, a satellite above you when it's
+dark isn’t necessarily in the Planet’s
+shadow, and a ring of power satellites would
+always have light on most of them and could
+shift power to groundside locations as needed.
+Early on it would seem easier and cheaper
+to bring solar panels from home and drop them
+off in orbit, rather than trying to get them
+groundside and installed.
+So let's consider a hypothetical case, it’s
+the year 2060 and our outpost on Mars is one
+of a couple dozen run by various countries,
+multinational agreements, or private companies.
+There’s maybe five hundred people on Mars.
+Every big country wants a base there and can
+have it these days for an initial entry cost
+of tens of billions and about a billion in
+annual upkeep.
+Our base is a private one, but receives a
+lot of funding and logistical help from various
+countries, and we basically just grow food
+as one of our missions and study botany and
+ecology as our other, with a long term goal
+of paraterraforming our location, just south
+of Elysium Mons in Elysium Planitia.
+We have a 100 kilowatt nuclear reactor that’s
+essentially blackbox technology with an anticipated
+lifespan of 30 years, and we’re 10 years
+into that.
+We have some groundside solar and limited
+chemical and organic fuels, plus batteries,
+but we rent beaming time from the network
+of satellites overhead who can send power
+not only to us but also to vehicles that are
+parked.
+The positioning system isn’t good enough
+at tracking to allow power beaming to mobile
+vehicles like back on Earth, but it can recharge
+them when they pause.
+This system is expanding and improving and
+is expected to become the mainstay for small
+bases on Mars.
+We have a trio of big robotic land crawlers
+who do nothing but drive north and collect
+ice from a base there and come back with it
+in a never ending circuit bringing 50,000
+liters of new water to us each week.
+We lose a couple thousand liters in that same
+time to exports of food and losses to a never-perfect
+containment system but we’re bringing in
+a net 2.5 Million liters of water each year,
+660,000 gallons.
+We have found that between our hydroponics,
+aquaponics, and water reserves making up most
+of our water on hand, we can still create
+a new square meter of soil under dome for
+every 100 liters of water we get in, or one
+hectare for every million liters, or 100,000
+gallons per acre or about 2.5 gallons per
+square foot.
+That’s not exactly a one time investment,
+we anticipate leaking water from our domes
+fast enough that we’d need to replenish
+it every 25 years, which is actually an amazing
+reclamation rate.
+Which means once we’ve built enough domes
+to cover about 60 hectares or 150 acres we’ll
+either be needing new land crawlers to run
+up to the north pole if we want to keep expanding,
+assuming one hasn’t broken down irreparably
+by then, or to have built a pipeline.
+Realistically that’s not in the cards anytime
+soon, thousands of kilometers of piping, but
+bulldozing a better makeshift road there might
+be.
+Either way on a planet of 500 people where
+most of the food is still imported or made
+at local bases, that’s a lot more growing
+space than we need to keep up with current
+food needs, which is mostly done hydroponically
+anyway.
+We don’t have that many domes yet and currently
+it takes up a big chunk of the domes we do
+have.
+We’re the medicine and luxury goods place,
+so to speak, where things like coffee and
+orange juice and bananas and such can get
+grown, and where there are actual animals
+and non-food crops.
+We’re less a farm than an ecological research
+station, garden park, and zoo, and a lot of
+budget from home comes from groups and wealthy
+individuals who endow a new dome for a dedicated
+purpose by paying for the plant, animal, seed,
+or embryo to come in on the next Aldrin Cycler.
+There’s talk of building big solar mirrors
+and there’s been some prototypes, Mars is
+almost all prototype some-or-other, but we
+do have mirrors made of sheets of glass with
+layers of wire mesh and aerogel sandwiched
+in them, on domes made of aluminum with very
+thick earth sides.
+Some domes are long tunnels or rectangles
+but the main work is a growing collection
+of geodesic domes 100 meters wide and arranged
+in a hexagonal pattern, with the empty space
+between being filled with storage and other
+facilities, including living quarters for
+our 10 person crew, and occasional visitors
+from other bases, as we’re the closest thing
+to a resort on the Red Planet.
+Each of those domes, which currently number
+12, is .785 hectares or 1.94 acres and each
+is designed to be a semi-self sufficient ecosystem,
+emphasis on ‘semi’, as it takes a lot
+of effort to keep these going.
+All in all such an operation is set to expand
+as long as we can locally fabricate dome glass,
+can keep bringing in power and sunlight, and
+keep finding water and nitrogen.
+Supplemental lighting can be electric or it
+can be reflected down by mirrors in space,
+on the ground or on local towers reflecting
+light in, you can expand as quickly as your
+technology and resources let you add domes
+and make soil.
+And we are creating new soil on top of the
+old, typically scraping the existing regolith
+off and lining the bottoms with a moisture
+proof layer and processing the heck out of
+the future soil.
+We usually grow very simple grasses in domes
+in the first seasons, which can be grazed
+by animals, with the resulting manure added
+back into the soil mix.
+There’s the other half of the farming, to
+leave our narrative tale behind, Mars isn’t
+really able to support a heavy meat diet for
+inhabitants, but there is lots of room for
+fish and even chickens or larger livestock,
+like sheep or goats.
+It raises the question of when the first animal
+goes to Mars, and what it would be.
+I would guess it would be one of fish, ants,
+or bees.
+As for 4-legged critters, I’d make a joke
+about it probably being a rat since they always
+find a way on ships, but they’ve only ever
+gotten to space as contained lab rats, and
+that’s probably how they’ll first get
+to Mars.
+I don’t think it would be long before someone
+arranged to ship a dog or cat to Mars.
+Generally we assume that cows would be among
+the last well-known critters to make the journey
+as even a baby cow is nearly adult human weight
+and more inside a month or two, and even our
+most optimistic travel times to Mars without
+massive advances in propulsion take longer
+than that, plus beef isn’t well-known for
+its efficiency compared to other meat animals
+and isn’t the only source of dairy.
+The usual assumption is we would send lone
+female critters and lots of frozen sperm or
+even fertilized embryos for implantation,
+which circumvents the inbreeding issue, but
+realistically I think we’ll have gotten
+our artificial wombs pretty good by the time
+we’re importing ark’s worth of critters
+to Mars so weight might not matter much.
+There are also all sorts of problems with
+creatures with social needs that we discussed
+in more detail in our episode Exporting Earth,
+and we also dipped into ecological issues
+of alien worlds more there too.
+There's also the possibility of cellular agriculture
+to support a taste for meat, if we want it,
+but don't want to ship up Bessie the Cow.
+For that to work, we'd need to make some kind
+of nutrient solution in order to grow animal
+cells directly and then 3d print those cells
+into dinner.
+Several companies have been successful doing
+this already and although we're still figuring
+out how to make lab grown meat more like a
+filet and less like a blob, by the time we
+need Martian meals, there's good reason to
+think we will have figured things out.
+The good news is farming on Mars should be
+much easier than on the Moon, the bad news
+though is that while a lot of our Mars plans
+and equipment can be more easily proof-tested
+on the Moon before being used on Mars, basically
+nothing involving farming and domes will really
+translate over.
+More good news is that while the sunlight
+is dimmer on Mars, it's enough for essentially
+any plant, though many of the most sun-living
+would not thrive away from the equatorial
+region of Mars and may need supplemental lighting
+even there.
+There are many different ways to concentrate
+light if it’s needed and it will depend
+on many different factors, a lot of which
+we can’t foresee yet, which works best or
+easiest and becomes the norm.
+If we begin seeing more cold climate greenhouses
+emerging here on Earth that’s likely to
+tell us much about how best to do it on Mars,
+and vice-versa, those experiments there may
+help us learn how to better green our own
+arctic regions and tundra if we wish to do
+so.
+The other good news is that while we don’t
+know how humans will fare under Martian gravity,
+or other animals, it seems likely that most
+plants will do well and insects and aquatic
+life also, though until we get there and test
+it out, there’s more speculation than information
+available.
+As always, we need to head out to space to
+learn how to live there, but the time is coming
+soon when we will, and one day soon you or
+maybe your great-grandchildren might be farming
+out in space, helping bring life to a new
+world.
+So we have a couple of announcements coming
+up as well as our upcoming schedule as we
+get ready to head into 2023 but first, a question
+folks who watch the show sometimes ask is
+if a STEM career in Science, Technology, Engineering
+or Math is for them and one of the factors
+that can never be ignored is if your future
+career is going to actually pay decent, and
+if you’re curious, the Bureau of Labor and
+Statistics cites folks in SREM earning 238%
+more than is typical non-Stem Careers, or
+95 dollars for every 40 others make.
+So if you enjoy science-focused shows like
+our own and have been considering going into
+a STEM field, there’s a ton of good reasons
+to follow that dream.
+A lot of folks also worry that it might be
+too hard, and science definitely needs some
+brains and willpower, and it helps to have
+a good learning partner like our friends at
+Brilliant.
+Brilliant focuses on interactive and hands-on
+learning, and breaking big important concepts
+down into understandable and interactive pieces,
+like they do in their intro to algebra lessons.
+The best way to learn math, science, and computer
+science is by interactive problem solving.
+With thousands of lessons and more be added
+each month, Brilliant can help you reach your
+goals.
+In just 15 minutes a day with bite-sized lessons,
+you can master topics that you once thought
+impossible, be it the basics like fractions
+or advanced topics like calculus.
+Learn the core concepts so you can help pioneer
+new innovations.
+With Brilliant, you can learn at your own
+pace, learn on the go, and learn a little
+something new every day.
+To get started for free, visit brilliant.org/IsaacArthur
+or click on the link in the description, and
+the first 200 people will get 20% off Brilliant's
+annual premium subscription.
+Before we get to the upcoming schedule, some
+of you have probably noticed that today’s
+episode is available in 4k resolution and
+so was Sunday’s Scifi Sunday episode, Planetary
+Civil Wars.
+I’ve had folks requesting we do that for
+some time and I noticed that these days more
+than half of our animations and footage is
+in 4k resolution anyway, and some of the animations
+just look so much nicer in their full resolution,
+so I figured we would try it on a few episodes.
+It takes a fair amount of extra rendering
+and uploading time, and that might turn out
+to be prohibitive in the long term, and there
+will be spots in episode where it's still
+1080p or even lower, but I figured we should
+at least try it out and I hope those watching
+on 4k devices are enjoying the higher resolution.
+Also, today happens to be my mother’s 74th
+birthday so I wanted to wish her a happy birthday,
+and as she does often watch the show, thanks
+for everything Mom, and I love you, and I
+hope you’ve had another excellent year as
+this one draws to a close, because you’ve
+helped make so many of mine wonderful.
+Speaking of closing out the year, our normal
+time for our livestream Q&A would have fallen
+on Christmas Day, and with three new little
+kids in the house, doesn’t seem a great
+plan on my end, so we’re shifting that to
+Saturday, December 31st, to have it on the
+afternoon before New Years.
+As we usually do Sundays, for those who can’t
+join us then, this is a great chance to get
+your questions about the show and its topics
+answered.
+Before then though we still have a couple
+more episodes, starting next week by asking
+whether or not our Universe might be a black
+hole, as some believe, and also if it might
+be possible to live inside black holes.
+And we’ll closing out the year by exploring
+the future of Transhumanism and Humanity.
+If you want alerts when those and other episodes
+come out, don’t forget to subscribe to the
+channel and hit the notifications bell.
+And if you enjoyed today’s episode, and
+would like to help support future episodes,
+please visit our website, Isaac Arthur.net,
+for ways to donate, or become a show patron
+over at Patreon.
+Those and other options, like our awesome
+social media forums for discussing futuristic
+concepts, can be found in the links in the
+description.
+Until next time, thanks for watching, and
+have a great week!

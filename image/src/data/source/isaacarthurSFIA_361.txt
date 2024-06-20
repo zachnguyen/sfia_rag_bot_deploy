@@ -1,0 +1,655 @@
+This episode is brought to you by Brilliant
+There are trillions of planets in this galaxy,
+but nature probably didn’t hand us any other
+pre-made worlds we can just move into, so
+we’ll have to forge them into livable worlds,
+but as they say if you want something done
+right, you have to do it yourself.
+So today we return to our Becoming an Interplanetary
+species Series to look at Terraforming and
+Para-Terraforming.
+In the previous 5 episodes we followed the
+National Space Society Roadmap to Space Settlement,
+which is linked in the episode description,
+and which breaks it into 6 parts.
+We covered the first 5 in each of the previous
+5 episodes.
+However, part 6 is a bit broader, consisting
+of more separate topics and I felt the Topic
+of Terraforming needed its own episode.
+It’s a topic we have looked at before but
+I wanted to discuss our available Techniques
+for Terraforming, along with what certain
+advanced technologies might permit, as well
+as discuss the motivation for doing it.
+Terraforming is changing a planet to be livable
+for Earth-based life forms, it literally means
+to form a world to be Earth-like.
+Alternatively, we have Bioforming, which is
+the adaptation of life to live on a new planet,
+rather than altering the planet.
+In practice we would expect a mixture of the
+two, rather than a pure use of just one, but
+either should be possible if you are willing
+to go to the effort.
+One key notion from the outset, terraforming
+is all about how much effort you’re willing
+to throw at a planet – not that we’re
+limited to planets – and while some of the
+processes are gradual improvements you can
+do in steps, others are all-or-nothing procedures
+that you have to commit to from the beginning.
+For some of the processes, it would be little
+different and little easier to terraform a
+world to be like Earth than it would be to
+construct a planet in its entirety, like one
+of the Megastructures we often discuss on
+the Show, entirely artificial worlds ranging
+from the size of an island to the size of
+a galaxy.
+You can build a planet, though it is obviously
+no easy feat, and in truth terraforming one
+can be just as hard.
+It just depends on how far you need to go
+and how far you are willing to go.
+We have two terms, para-terraforming and terraforming,
+the former usually meaning doing things more
+along the lines of building pressurized domes
+and creating ecologies inside, but there is
+no distinct line between the two or between
+a megastructure built as an artificial habitat
+and a planet that has been terraformed.
+Indeed, many of our terraforming processes
+will involve the use of megastructures.
+Let us start with that basic variety though,
+domes over large areas, potentially over an
+entire planet, what sometimes gets called
+a Worldhouse.
+Conceptually this is easy enough and likely
+a common process to start on worlds.
+You build transparent or translucent domes
+over an area and just build more and more
+of them, until you have covered an area like
+a film of soap bubbles.
+This is easily accomplished in-situ as well,
+as we can make transparent materials out of
+many substances but silicon and oxygen, the
+main constituents of glass, are generally
+going to be abundant on any rocky surface
+be it the Moon or Mars or a random asteroid.
+Transparency is not necessarily your goal
+either, as you might be getting too much light
+or too much of certain spectrums.
+Regular glass for instance does not allow
+much ultraviolet light through, and in many
+cases you will need to block ultraviolet light.
+Ultraviolet is one of the primary spectrums
+of the electromagnetic spectrum, and comes
+in three types UV-A, UV-B, and UV-C. UV-A
+is what we mostly encounter on Earth, and
+is often called Soft UV.
+UV-B is mostly blocked by our atmosphere,
+while UV-C is completely blocked and a good
+thing too as it's germicidal and hard on lifeforms.
+Nor is it the only type of radiation our atmosphere
+blocks, and it takes more than a few hundred
+meters of air to do that.
+Even worlds farther from our Sun that get
+less light, still get far more of these dangerous
+frequencies of radiation than we do, simply
+because they have nothing filtering it out,
+so any domes need that protection too.
+Atmospheres also help to minimize debris hitting
+Earth, as it burns up before reaching the
+ground.
+Planets will generally be hit by millions
+of kilograms of random space debris in a given
+year and every gram of it moving faster than
+any bullet from a gun.
+Whatever the escape velocity of the planet
+you're on is, you can assume that without
+an atmosphere a piece of space debris will
+strike the ground with at least that velocity,
+as it will pick up that much speed just from
+entering the gravity well of the planet.
+Your typical bullet fired from a gun has less
+than a hundredth the kinetic energy it would
+have moving at Earth’s escape velocity,
+and the space debris is mostly very small,
+far more tiny rocks than big ones, so in a
+given year a planet might get peppered with
+billions of tiny pebbles carrying more force
+than a bullet without an atmosphere.
+Now that’s not as bad as it sounds, a dome
+about the size of a house is only a hundred
+square meters or so, whereas planets generally
+have hundreds of trillions of square meters
+of surface area, so even if a billion bullets
+fell from the sky every year a dome that size
+would only have about a 1 in thousand chance
+of being hit.
+If you’re building thousands of domes though,
+let alone millions or billions, some will
+get hit.
+Nonetheless without an atmosphere you need
+to be building sturdy domes and you want to
+keep them small.
+You might want them multi-layered too so that
+an object striking one of the outer panes
+can shatter and lose energy before striking
+the other layers.
+You might even fill them with something denser
+and clear like water.
+Alternatively, the light on most worlds won’t
+match what we have either.
+The Sun is weaker on Mars and Stronger on
+Venus, for instance.
+So you might decide instead to live under
+an opaque and thick armored dome, something
+like a mushroom, with a clear stalk and thick
+stone above as the cap, and mirrors around
+it to shine light inward.
+We also need to remember that you can’t
+just build a dome above a piece of dirt and
+start farming.
+Our soil on Earth – as opposed to Regolith
+on other worlds – is very weathered and
+soft from untold centuries of erosion and
+biology, and the latter results in many important
+microbes in that soil too that help it live.
+Alien Regolith might be quite toxic too, beyond
+just having sharp flakes, so you don’t just
+dome above but place floor below, and build
+your ecology over that floor after carefully
+processing the regolith.
+You would crush and mix and separate it till
+it had a safe chemical composition and then
+probably dump it into big vats of churning
+water with algae and microbes till you got
+yourself a nice muddy brew of soil to use.
+We have a notion of dropping comets on planets
+to add water, and nitrogen too – oxygen
+is always plentiful on rocky planets even
+if it is tied up in those rocks – and you
+can do this but it is easy to forget how much
+mass you are talking about moving.
+The Biblical story of Noah and the Flood,
+or other flood tales, is either the work of
+an omnipotent being or mythology, and thus
+the mechanics involved in actually doing that
+aren’t terribly relevant but they would
+be if we were trying to do it ourselves.
+If it rained 10 centimeters or 4 inches of
+water every day for forty days, planet wide,
+you would only have raised the sea level 4
+meters or 13 feet.
+The average depth of Earth’s oceans is around
+a thousand times that, so you would have to
+rain at that rate for around a century to
+add that much water[a].
+You could certainly add it faster, but keep
+in mind what we said early about objects striking
+a planet having at least the speed of that
+planet’s escape velocity.
+If you try to add a meter, or 1000 kilograms,
+of water to a given square meter of Mars’
+surface every day, at an incoming speed of
+say 10 kilometers per second, that means you
+are adding 50 billion joules of energy to
+it every day and 580,000 joules a second,
+or 580 kilowatts.
+That is around a thousand times the energy
+places like Mars and Earth get from the Sun
+on a given square meter of land and also more
+than enough heat to boil all that water, indeed
+it is a good deal more energy than an equal
+amount of gasoline or jet fuel has.
+You wouldn’t think of warming Mars up by
+hitting it with icy comets but that is what
+you would do.
+If you limited yourself to just 100 watts
+per square meter of incoming mass, which would
+probably let you avoid burning or boiling
+everything on that planet to death, that would
+let you add about 6 centimeters of water to
+Mars per year, and achieve the Earth-average
+Ocean depth in a mere 50,000 years.
+Terraforming is not a fast process and ironically
+the major delay is more likely to be heat
+dissipation issues than manpower or resource
+limitations.
+In all the talk I hear about adding mass or
+water or even air to a planet, nobody ever
+seems to bring up that whole heat issue of
+raining all that material down.
+Air is a lot lighter than water to be sure,
+and our oceans mass about 300 times what our
+atmosphere does, but that still means you
+need to take centuries to import that mass
+of gas to avoid overheating the place.
+Though if the place is already fairly cold
+like Mars would be, much of that heat might
+be absorbed into the upper levels of rock
+so long as you give it time.
+Of course changing the temperature of rock
+also changes its size, materials expand and
+contract with temperature changes and if you
+are massively altering the temperature of
+a planet because it's too cold for people,
+or too hot, expect a lot of shaking and shattering
+and shifting as the ground expands or contracts,
+plus all the flash floods and erosion of adding
+air and water.
+Terraforming is not a gentle process on a
+planet and is not something that makes the
+place look the same except for seeming to
+spray paint it with ocean blue, plant green,
+and cloud white.
+This is remaking whole continents, you are
+going to mess with the geography as much as
+if you engaged in asteroid orbital bombardment
+or flat out nuking the surface, even if you
+are doing things slow.
+Incidentally we often do talk of nuking planets
+as part of terraforming them, usually in humorous
+tone but it’s not actually a joke, that
+is one of the cheaper ways to terraform in
+terms of rapid atmosphere generation and warming,
+and lifeless planets are generally already
+radiation scoured hellholes so temporarily
+irradiating the surface when you plan to plow
+that all under anyway while making your soil
+is not really a big deal.
+Fall out is fairly short term before decaying,
+and even if you didn’t bury it under meters
+of rock as shielding it would be long gone
+as a threat before that planet was some place
+people walked around on in shorts and t-shirts
+eating fruit grown on trees under an open
+sky.
+You also aren’t just dropping a few comets
+on a planet to bring it water and air.
+The entire Asteroid Belt is only two or three
+times as massive as Earth’s Oceans, for
+all its millions of rocks, and wouldn’t
+have enough ice for it.
+You need to add around a billion cubic kilometers
+of water to a planet to get to Earth levels
+and your typical big comet might get you a
+millionth of the way there.
+Fortunately there is no shortage of ice, even
+at this scale, out in the Kuiper Belt and
+Oort Cloud, water is one of the most common
+molecules in the Universe.
+Though you might find it cheaper to import
+in hydrogen from gas giants and bind it to
+locally available oxygen to make your water.
+Alternatively a dome is a lot easier, you
+only need to add about a kilogram of air per
+square meter of floor for every meter of height
+the thing has.
+You probably only need a few hundred larger
+comets rich in ammonia for the nitrogen to
+provide all the air, and water, that you would
+need to fill up a domed-over planet of gardenscapes
+and shallow lakes.
+That is a lot more manageable and something
+you can build incrementally.
+Eventually you will leak enough air from them
+all to create an atmosphere, but if you want
+that ocean you need to leak a lot more and
+you might want to be thinking about making
+your domes mobile or buoyant, since they do
+need floors anyway.
+Atmospheres on planets leak for a variety
+of reasons and leak faster the thicker they
+are, but the main method of losing air and
+water is from hydrogen atoms, when some bit
+of radiation or chemistry breaks them free,
+to be bounced out of the atmosphere.
+Wrapping the planet in a magnetic field causes
+them to deflect back down and be recaptured.
+Magnetospheres are made naturally by having
+a ton of molten metal spinning around in the
+core of a planet but are hardly the only way
+to make a magnetic field and not a good way
+of doing it either.
+If we’re considering trying to protect Mars
+from the solar wind our Sun generates, as
+the major cause of atmosphere depletion, then
+we need not even give Mars a magnetic field,
+we could just stick a big electromagnet at
+Mars’ own L-1 Lagrange point with the Sun,
+run on solar power, and rely on that to deflect
+the already weaker solar wind away.
+Calculations vary but something in the 1 gigawatt
+range should be sufficient and that’s the
+equivalent of a modern nuclear reactor or
+about a square kilometer of solar panels.
+It’s also nothing compared to the energy
+budget of terraforming in general, remember
+we were talking about adding water at a rate
+of half a billion joules per cubic meter,
+and needing a billion-billion of them, and
+that’s way more energy than it would take
+to run that Lagrange Magnetic Shield for the
+entire lifetime of this solar system.
+Alternatively you can also put your magnets
+in orbit or even in big loops around the planet
+underground.
+We often talk about using active support structures
+like the Orbital Ring to create super-strong
+shells for hollow planets, what we call Shellworlds,
+and those are essentially giant electromagnets
+and easily convertible into magnetospheres.
+So if you are building your world that way,
+making a shell you plan to fill with cheap
+hydrogen gas or something more exotic like
+dark matter or black holes to generate your
+gravity, you already have the magnetosphere
+built into it.
+Though for that matter a shell-planet built
+around a spinning dead star, be it black hole,
+old neutron star, or old and cold white dwarf,
+do have an awful strong magnetic field all
+on its own.
+This is why you don’t bother drilling into
+some planet’s core and nuking the heck out
+of it to create a magnetic field around the
+planet.
+Indeed about the only reason you would ever
+drill down to some big rock’s core is if
+you were planning to make a hollow chamber
+down there and stick a black hole in it for
+generating artificial gravity.
+That’s a pretty extreme thing to do, and
+of course requires you be able to make artificial
+micro black holes, but is one way to add gravity
+to a planet.
+As a heads up, it doesn’t matter how big
+a planet is, or asteroid or moon, it takes
+the same mass per area of surface to generate
+Earth-like gravity, about 12 billion kilograms
+per square meter.
+Gravity falls off in strength as the inverse
+square of distance while the surface area
+of a sphere rises with the square of distance,
+so they counter each other out.
+However mass does not rise with the square,
+but rather the cube of radius, and various
+bits of solid and mundane matter occupy only
+a range of about a ton per cubic meter, like
+ice, to 20 times that, for fairly rare and
+dense materials like gold and osmium.
+I’d emphasize rare because most dense materials
+are pretty rare and valuable to be wasting
+on generating gravity compared to hydrogen
+and helium, which make up nearly all the mass
+of normal matter in the Universe.
+Terraforming very large shell planets, like
+Saturn whose gravity at the edge of its atmosphere
+is equal to Earth’s, can use cheap hydrogen
+and helium gas compressed under its own gravity,
+but if you want to make some place like Mars
+have Earth-like gravity then you’d have
+to hollow out the core and replace it with
+something dense like Osmium or Gold, or otherwise
+use an artificial black hole or some sort
+of degenerate matter you found a way to keep
+stable, like a white dwarf or neutron star.
+Those are kept stable at their density because
+they have the whole mass of a star pulling
+them together without any fusion going on
+to push them apart anymore, but it is conceivable
+you might be able do that electromagnetically,
+and if you could do that, or create black
+holes, then you could arrange for Earth-like
+gravity on any decently sized rock, even a
+fairly modest asteroid, and the same would
+apply if you figured out a way to generate
+artificial gravity with electricity.
+We have no idea how but there is a decent
+chance it is possible to generate gravity
+without mass.
+Indeed the term “Terraforming” was coined
+by sci-fi author Jack Williamson in regard
+to making asteroids have Earth-like gravity
+via an artificial gravity device.
+One way around having to use 12 billion kilograms
+of matters per square meter of living area,
+with known technology, is to simulate gravity
+by rotation, but if you like your planets
+spherical and your gravity natural you do
+have the option of building multiple layers
+of surface, concentric shells, what we call
+a Matrioshka Shell World, see that episode
+for details.
+You might be saying isn’t all this a little
+high-tech and resource intensive?
+How about simpler methods?
+And that is kind of the problem, the simple
+methods all involve the brute application
+of raw mass and energy too, we can just cheat
+sometimes by using what’s already there
+or automation – including biological automation
+such as genetically engineered microbes – to
+get the job done.
+We can make a device that will turn a rock
+into oxygen and either glass or metal.
+Your typical rock is just oxygen plus silicon
+or iron or aluminum or such after all.
+It takes a lot of energy, but we could probably
+engineer a microbe that did that and used
+photosynthesis to power it.
+That sort of approach is a popular notion
+too, but often makes folks think it would
+happen fast.
+In practice biology is less efficient than
+some giant machine we might build to do the
+same thing but using solar power.
+So given that photosynthesis is usually less
+than 1% efficient, and probably a good deal
+less if we were measuring that efficiency
+in terms of converting sunlight into oxygen
+and soil, it means your typical planetary
+budget for biological terraforming is going
+to be on the order of a billion megawatts
+at most.
+Which sounds huge, and indeed is, but is planet-wide,
+and you need around 30 megawatts to get a
+kilogram of oxygen per second, so you are
+generating about a quadrillion kilograms a
+year – though that is probably optimistic
+– and you need around a thousand times that,
+plus whatever is leaking back into solid form
+through oxidation.
+So it is viable but it isn’t quick.
+It really would be faster to carpet-nuke the
+place and wait for the fallout to decay.
+A machine will be more efficient and thus
+faster.
+But machines don’t build themselves, microbes
+do, so are preferable, if you have the time,
+unless you’ve got self-replicating machines.
+Of course we probably will have those inside
+the century so it mostly comes down to practical
+application and preference, and the line between
+self-replicating machines and biological lifeforms,
+especially ones genetically engineered to
+exist on some dead planet, is fairly blurry
+and probably fairly arbitrary.
+Critical notion though, whether you’re building
+giant rotating orbital habitats or terraforming
+planets or outright fabricating shell-worlds
+and megastructures, automation is the key,
+and one of the reasons we tend to favor rotating
+habitats is because it uses so much less mass
+per unit of living area, which also makes
+them faster to build.
+You have to terraform the insides of those
+too and that is not just a matter of dumping
+in rock and water and air, you will go through
+many epochs of complexity as you build from
+simple organisms that can live without a complex
+and diverse ecosystem to slowly altering it
+into something big plants and animals and
+people can live in.
+Fortunately epochs, when we’re talking microbes,
+are quick things, lifespans of days not decades,
+so you can move up the complexity chain faster,
+and you’re not waiting on evolution either.
+You probably are looking at massive dirt factories
+involved in any terraforming project that
+are using the kind of energy and automated
+manpower that would dwarf our whole modern
+industrial infrastructure though.
+Fundamentally para-terraforming, whether its
+big domes or big spinning cylinders, is your
+incremental approach, and thus the one you
+are likely to use.
+When we want to terraform a promising planet
+in another solar system, it’s likely to
+be the last place in that solar system colonists
+move onto, as they get all their other habitats
+and industry built up off-world, while carrying
+out the long and energy intensive process
+of terraforming that planet as some sort of
+crown jewel.
+In general you are better off not having anyone
+living on that planet until terraforming is
+well under way too, as noted, the process
+is very destructive, especially when done
+quickly.
+It's also not likely to ever be something
+where folks cared if it was made natural and
+eternal, no natural planet is a static thing
+anyway, but you are far more likely to see
+solutions like that LaGrange Magnetic Shield,
+or the use of giant swarms of mirrors or shades
+to increase or decrease the sunlight and temperature
+of a world, than doing stuff like nuking the
+core or moving the planet closer or further
+from its sun, because it’s the difference
+between wanting to keep your yard a bit shadier
+by planting a tree or erecting a shade umbrella,
+versus moving a mountain to just shade your
+yard.
+The mountain will shade your lawn much more
+naturally and require no maintenance once
+it's done, but replacing a shade every couple
+years or planting a new tree every few decades
+is still way less effort than moving that
+mountain.
+If your civilization has enough energy and
+automation it might not care, but there are
+plenty of other awesome things you can do
+with that energy too, so someone talking about
+moving whole planets around to make them warmer
+or mashing two together to make one bigger
+planet with better gravity is likely to have
+folks asking why you don’t just tear the
+planets apart to make trillions of rotating
+habitats given that it would be faster, easier,
+and provide a million times the living room
+for people or nature preserves or whichever.
+This doesn’t mean we’re not terraforming
+in the future, it’s just recognizing that
+you have a whole sliding scale of effort,
+and it is probably way easier to engineer
+an ecology around living on a planet with
+lower gravity, a different day and year length,
+and relatively shallow lakes rather than oceans,
+than it is to adjust all those.
+Adding air is not too hard, adding that protective
+magnetosphere is not either, and lakes a few
+meters deep get most of the weather and ecology
+options that oceans kilometers deep offer.
+Replacing and repairing your solar shades
+and mirrors is easier than dragging that planet
+around.
+So I think that is what we’ll mostly see
+for terraforming, para-terraforming of most
+places to create human comfortable environments,
+and bioforming everything to cover the remaining
+gap.
+For purists who hate bioforming, there’s
+always O’Neill Cylinders and those can be
+made continent sized if need be.
+Mars will probably be terraformed, as will
+Venus, and possibly some of the Moons of Jupiter,
+we looked at the specific approaches in our
+Springtime on Mars, Winter on Venus, and Summer
+on Jupiter episodes, but terraforming beyond
+this solar system is likely to be either very
+heavy on bioforming, and very heavy on the
+engineering side to the point of being effectively
+megastructures as much as planets, or be limited
+to those planets a lot closer in mass and
+makeup to Earth than Mars or even Venus are.
+The good news is that there are probably billions
+of planets that are better picks for terraforming
+out there in the galaxy than Mars and Venus.
+Of course it’s a long trip to get there,
+to claim those billions of worlds and terraform
+them, and to do that we have to become more
+than an Interplanetary Species, we have to
+become an Interstellar Species, and we’ll
+look at that in the next and final episode
+of this series.
+Whether our future will be on Terraformed
+Planets, Artificial Cylinder Worlds, Virtual
+Paradises, or any of the scenarios we discuss
+on the show, one thing that seems certain
+is that the key to unlocking it will be with
+ever improving science and technology, and
+as we head into the holidays, if you’re
+still looking for gifts, I’d suggest the
+gift of knowledge and problems solving skills.
+If you know an inquisitive investigator that
+loves asking “Why?”, our partner, Brilliant
+may be just the thing for you, and them.
+Brilliant is a problem solving based website
+and app with a hands-on approach, with over
+60 interactive courses in math, science, and
+computer science, like their course on scientific
+thinking, which helps show scientific principles
+and how valuable they are to have in your
+problem solving toolbox.
+It’s a great course to introduce you to
+Brilliant’s fun and thought-provoking approach
+to learning, and from there you can go on
+to any of their 60+ other great courses.
+If you are looking to improve your own skills
+in math, science, and computer science, and
+want to help support our show and have fun
+while you’re doing it, or know someone else
+who would, you can try Brilliant out, for
+free, or get is as a gift for a loved one,
+by going brilliant.org/IsaacArthur.
+So we’ll be finishing our series on Becoming
+an Interplanetary Species, along with finishing
+the year 2020, with a look at Becoming an
+Interstellar Species, but before that we’ll
+be looking at how to navigate interstellar
+space, and also how we might begin the process
+of going beyond being an interplanetary species
+in this solar system, as we look at Low-Tech
+Kardashev-2 Civilizations.
+We also have our monthly livestream Q&A coming
+up on Sunday, December 27.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!
+[a]As an interesting aside, this is the reason
+terraformed planets will probably have quite
+shallow oceans--the flatter geologiclly dead
+terrain and the relatively less native water.

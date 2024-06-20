@@ -1,0 +1,562 @@
+When it comes to dreaming up giant buildings
+and projects, we often say “The Sky’s
+the limit”, as we’ll see today, the sky
+is most certainly not the limit.
+So today we will be looking at Space
+Towers, Space Fountains, and Buoyancy-assisted
+launches.
+These are always popular concepts, and today
+we will see they have some advantages, but
+a lot of their popularity comes from a misconception
+about space and orbits.
+We tend to use ‘up in orbit’ as synonymous
+with being in space, but they are not the
+same thing.
+Just flying straight up in the air a couple
+hundred kilometers is not being in orbit and
+won’t keep you up there.
+You could jump up and wave at everyone on
+the International Space Station but only for
+an instant before you fell back down, and
+you’d only see them as a blur as they sped
+by at about 8 kilometers per second.
+They are in orbit, and you, unfortunately,
+are not.
+So simply building a giant tower up
+into space doesn’t get you into orbit, and
+launching from up high, from on top of a mountain
+or an airplane, does help, but not a lot.
+That said, it has a lot of other advantages
+that shouldn’t be ignored.
+For instance, there is a reason why we build
+cellphone and radio towers very high, it gives
+them a far larger coverage area, and up above
+the clouds you can also use solar power a
+lot more reliably.
+Before we get into the notion of active
+support structures, I thought we’d spend
+some time on buoyant structures instead.
+People often wonder about using blimps to
+lift spaceships up.
+Now as we have discussed before, it does help
+to be higher up when launching, but it mostly
+doesn’t help much.
+The advantage of the Launch Loop we discussed
+last episode isn’t that it lets you take
+off at high altitudes, but rather that it
+lets you accelerate against something while
+at high altitudes and speeds.
+Towing a rocket up on an airplane or
+blimp then releasing it for launch does have
+some advantages, so does launching from the
+top of a mountain, but they’re not usually
+substantial enough to justify the hassle.
+Partially that’s because buoyancy
+is limited, not by the total mass and density
+of the lifting gas and the object it is lifting,
+but the environment around it.
+A helium balloon filled on the Moon will fall
+to the ground for the same reason a ship can
+float on the ocean but will fall and smash
+if you push it off the side of a building.
+It’s all about relative density, that’s
+why a steel ship which is mostly full of air
+can float on water, even though steel is much
+denser than water, and why even a solid block
+of steel can float on mercury, the substance,
+not the planet, since mercury is denser than
+steel.
+Now the higher up you go the thinner
+the atmosphere gets.
+But it never actually reaches zero.
+So imagine for the moment if instead of suspending
+a rocket from a balloon you instead suspend
+a section of platform.
+You could have a maglev track down the middle
+and solar panels and batteries be attached
+to the sides.
+If you then lined up another balloon and another
+platform, and so on in series, until you had
+a long track, you would essentially have a
+mass driver, something we discussed earlier
+in the series.
+We also discussed, in the mass driver’s
+episode, how those have big long vacuum tunnels
+the vehicle races down and how we need the
+top to exit high in the atmosphere where the
+air is thin.
+You could hold up that end with balloons.
+We’ve gotten those as high as 50 kilometers,
+and could probably do higher with some modern
+materials, but they were not holding up any
+weight.
+Now a balloon loosely follows the Square-Cube
+Law, make it twice as wide and it has eight
+times the lifting force, two-cubed, but only
+four times the surface area, two-squared.
+If you didn’t need to make the balloon’s
+surface material thicker to make it bigger,
+you could make a balloon quite huge.
+A normal rubber balloon’s size is based
+on the external pressure pushing it to contract,
+plus the force of that rubber pulling itself
+to contract, minus the internal pressure of
+your lifting gas, trying to stretch it.
+We can increase that pressure by heating that
+gas, or by adding more gas particles, like
+when you inflate one, but we need it to float
+so adding more gas isn’t ideal.
+A rigid hollow structure that is airtight
+could have no lifting gas in it, be a vacuum,
+like the tubes from the mass drivers.
+Indeed they do have a buoyant force lifting
+them it is just assumed to be a lot smaller
+than the sheer weight of all those magnets
+and air tight walls.
+But if we imagined some very strong airtight
+material, that was strong and airtight even
+when only the thickness of aluminum foil,
+we could build some truly monstrous floating
+objects, even at high altitudes.
+Indeed at higher altitudes you don’t need
+the material as strong, since the air pressure
+outside pushing on it goes down.
+A hollow steel sphere a millimeter thick and
+100 meters across, empty of all air, would
+mass in at a quarter of a million kilograms.
+That’s a volume of just over half a million
+cubic meters, or 630,000 kilograms of air
+at normal pressure and temperature.
+That would give you about 380,000 kilograms
+of lifting mass.
+However, even if it were lifting nothing at
+all, it would stop rising and float in place
+when air got down from about 1.2 kilograms
+a cubic meter to about half a kilogram a cubic
+meter.
+That would happen at about 8 or 9 kilometers
+up, which is high but not much higher than
+mountains, indeed that’s how tall Mount
+Everest is.
+If we doubled that sphere, 100 meter radius
+instead of diameter, but could keep the same
+thickness of steel on the outside, we’d
+need 4 times the steel to cover it, since
+it has 4 times the surface area, and we would
+mass in around a million kilograms, but the
+volume went up eight-fold, so it will now
+stop floating up when the density of air around
+it reaches about half what the previous one
+did, about 14 kilometers up.
+Now as I mentioned, we’ve gotten balloons
+a lot higher, up to 50 kilometers, that was
+simply a quick math example of it, but we
+can imagine materials strong enough to let
+us build and float vacuum spheres of quite
+impressive size quite high in the sky, and
+suspend the end of a mass driver from them
+or even an entire mass driver that started
+up in the sky.
+Also using active support, which we’ll get
+to in a moment, we can make some very rigid
+spheres that might be able to float on places
+like Jupiter or Saturn, where we can’t rely
+on hydrogen or helium as lifting gas since
+that is what their atmospheres are made of.
+Our biggest problem making vacuum balloons
+is that you have to build rather sturdy, and
+thus heavy, to avoid the outside atmosphere
+crushing them like an empty beer can.
+But as we will see in a moment when we get
+into active support, we can make some impressively
+strong and light objects that way which could
+allow very strong but light containers.
+Especially circular or spherical ones, as
+we’ll see with the Orbital Ring next week.
+But a buoyant object doesn’t need to be
+a sphere, and indeed people have looked into
+making buoyant towers.
+One whose insides or walls contained either
+a lifting gas or vacuum.
+Ignoring that wind can cause serious problems
+for these, you can build some very tall towers.
+They don’t need to be connected to the ground
+either, you can have floating buildings, you
+just need to watch your weight.
+Floating condominiums probably would not look
+kindly on you buying a grandfather piano or
+two-tons steel safes.
+At the tops of such structures we can launch,
+but more importantly a vehicle can either
+run up the side of it picking up speed without
+burning fuel, or run along a track laid down
+like a bridge between several towers.
+However there are some real limitations on
+this, not least being that while you can go
+wider and get taller, you really have to worry
+about the wind, and this just isn’t a great
+approach for moving lots of mass quickly.
+When buoyancy isn’t an option, we
+still have Active Support available.
+We’ve talked about this before and in detail
+last episode, but let me review it briefly.
+In active support, unlike passive support,
+we are constantly pushing on something.
+The simple example would be a piece of paper
+floating in the air above an air vent, or
+holding something aloft on a stream of water
+from a fountain.
+We usually mean something magnetic
+though, since we can accelerate something
+electromagnetically, like a small iron ball
+bearing, and have it slow down or deflect
+from something magnetic above it without touching
+it and doing any damage or losing energy to
+friction.
+Needless to say this would work way better
+if you have superconductors, especially cheap
+mass produced warm temperature superconductors.
+From a physics and engineering standpoint,
+this is easy enough, but it can get quite
+energy expensive, and of course if you shut
+off the juice, things fall down.
+Your simplest active support structure,
+often called a dynamic structure, is basically
+a levitating pad, a simple form of Space Fountain.
+Tons of small mass drivers down on the ground
+firing pellets up at the bottom of some pad
+which are magnetically deflected down or away,
+imparting their momentum to the pad and keeping
+it up.
+This works better if there is a long vacuum
+cylinder up the whole way which has no air
+resistance inside it, and can also keep the
+pellets on course, but it isn’t absolutely
+necessary.
+Without those walls, you can also just raise
+your pad when you are using it and slow down
+the matter stream to let it descend gently
+when not, or just use parachutes and shut
+it off.
+We usually call this a space fountain.
+It also isn’t hard to rig this up to use
+that stream to generate electricity up on
+that pad.
+Same as before, with the floating pads we
+can lay down a track between them and shoot
+things down those up to orbital speeds.
+This isn’t as nice as a Launch Loop because
+it’s not a neat closed system, and so it
+uses a lot of energy.
+We might not care if we invented fusion and
+we can also make them more neat and closed
+systems.
+Beyond just getting into space cheaper,
+active support is very important for building
+things that are simply very large.
+The basis for a lot of the megastructures
+we’ve discussed and very tall buildings,
+is something I call an Atlas Pillar.
+In its simplest form, this is just a contained
+space fountain acting as a support pillar,
+and since we usually think of using these
+on things like Matrioshka Shell worlds, which
+is basically where you build a series of relatively
+thin shells around a planet, each essentially
+the surface of a new planet, each held up
+by pillars like these, I call them Atlas Pillars
+in reference to the Titan of Greek Mythology
+who held up the sky.
+That image of a single stream of matter
+holding things up bothers people as flimsy,
+but it is just a simplification of the concept.
+It wouldn’t be one long hollow cylinder,
+it might be composed of hundreds or thousands
+of individual segments stacked next to and
+on top of each other, themselves working in
+tandem with other pillars for lots of redundancy.
+A warm temperature superconductor could actually
+form a closed system, accelerating the particles
+or rotor up and draining that momentum on
+the way down to power accelerating it back
+up again.
+This is a lot like a perpetual motion machine,
+but those usually supply energy too, this
+is just 99-100% efficiently recycling it.
+Of course it would doubtless either need maintenance
+or have a working life after which it needed
+replacement.
+One using normal superconductors will need
+coolant supplied constantly, and one not using
+superconductors will be radiating a lot heat
+lost in the process and need a steady supply
+of power.
+Needless to say it’s a good idea to build
+in batteries and coolant tanks as backups.
+They can break and be sabotaged, but so can
+any pillar or support, thus, you build for
+redundancy.
+If you want to build a long runway in space
+like the Lofstrom Loop, but held up by these
+instead, and you need one pillar able to hold
+up a hundred tons every 2 kilometers, you
+build each pillar to hold 200 tons and put
+them every kilometer.
+That sort of thing.
+Since you now have a support structure
+that can handle ridiculous forces, you can
+build some very tall buildings, things that
+dwarf modern skyscrapers, or even go up past
+the sky so they are scraping the stars not
+the sky.
+These Starscrapers are also cheaper to build
+in one key respect.
+The most expensive thing about skyscrapers
+is doing all that construction high up in
+the air, building from the bottom up.
+You actually can build active support structures
+from the top down, you start on the ground,
+build a level, levitate it up, build the next
+level, levitate those up, and so on.
+It's sort of like those new buildings that
+we can make with large 3D printers, only backwards,
+the building just rises up as you go, and
+hypothetically you could keep adding more
+height to the thing as it grows.
+I remember a couple months back some
+architect proposed something called the Analemma
+Tower, one hanging down from a space elevator
+to just off the ground.
+It would be hard to forget, over a dozen people
+messaged me the article and the mods on the
+channels Facebook Group had to keep deleting
+redundant postings.
+Very popular, beautiful artwork too, but from
+an engineering perspective it’s terribly
+flawed.
+You’re hanging a giant building from the
+end of a space elevator, tens of thousands
+of kilometers long, instead of rooting it
+to the ground a few kilometers below.
+Not an entirely new concept either, I usually
+have heard these referred to as chandelier
+cities.
+Of course, if you want a moving city you probably
+do want to go the hanging route, or just make
+it buoyant, but if you specifically want a
+city with no visible connection to the ground
+for some reason, even though it presumably
+needs connections for transport of people
+and supplies, you would just use some thin
+atlas pillars.
+Remember the rotor for the Lofstrom Loop,
+the thin metal wire that provided all the
+support to it, is only 5 centimeters wide,
+wrist-width, and hollow.
+You can’t see that unless you are pretty
+close and we can make things harder to see.
+Paint it blue or white, or give it a changing
+color surface to do the whole chameleon effect.
+You’d want a lot of these and they’d need
+wider feet to support the ‘legs’, but
+you could have it ‘walk’ like Baba Yaga’s
+hut.
+Floating or walking cites always seems a really
+popular notion, like humanoid battlemechs,
+everyone likes them but they’ve got no real
+practical purpose.
+But not everything has to, we wouldn’t have
+art if it did.
+You could have a building suspended along
+a space elevator, tethered to the ground or
+not, but you can have more weight higher up
+anyway so you might as well build a very long
+and tall building on the whole length rather
+than just the end.
+Of course, you can build these starscrapers
+arbitrarily high which gives us an alternative
+to a classic space elevator.
+A Space Elevator is tens of thousands
+of kilometers long, with only the last hundred
+or so kilometers in the atmosphere, but there’s
+a lot of concerns where wind and sabotage
+are concerned there, so you might prefer a
+more robust space tower rising up above the
+atmosphere which connects to a space elevator
+at its top.
+Again though, there are not many limits on
+how tall an active support structure can be,
+so you can remove the space elevator and its
+tensile strength issues entirely from the
+equation.
+An Active Support Space Elevator can be of
+any height, and doesn’t require precision
+manufacture of super-materials like graphene.
+It works anywhere, even on Super-Earths with
+far more gravity than here.
+You can build them wide enough to run trains
+up and include multiple redundant active support
+structures.
+Once you get over the atmosphere you can get
+rid of all the weight of making the fountain
+airtight to make it a vacuum too, and like
+the space elevator as you get further from
+Earth gravity weakens too, both of which make
+higher sections easier to build and support.
+Another neat application of Space Towers
+is with Skyhooks.
+We’ve discussed before how on airless places
+like the moon a rotating skyhook could swing
+right down and snatch something off the ground.
+That doesn’t work on Earth because you’ve
+got kilometers of air the hooks need to swing
+down through at hypersonic velocities, burning
+up huge amounts of energy even if the hook
+doesn’t disintegrate.
+At the top of a space tower though, one rising
+up just above the atmosphere, you could have
+a cargo pad suitable for direct pickup with
+either the rotating skyhook or cardiorotovator
+design we discussed in that episode.
+We also discussed buoyancy earlier
+on, and the notion of holding up a launch
+track using these dynamic structures as support
+pylons, but we can use active support for
+buoyancy too.
+Those vacuum balloons I mentioned earlier
+can be constructed a lot thinner and lighter
+by using active support to make the skin around
+them stronger.
+We picture active support as pretty big, but
+recall that the active support element from
+the Launch Loop was just a wire 5 centimeters
+wide and hollow, and that’s intended to
+be strong enough to support a 5 ton ship and
+stretch thousands of kilometers.
+You can use that exact same principle, scaled
+down, say a wire a few millimeters wide and
+hollow, to craft a series of rings tilted
+at angles to each other to form a spherical
+shell for instance, and we will actually discuss
+using a scaled up version of that concept
+to create artificial planets briefly next
+episode.
+But this allows much larger and safer buoyant
+structures for Earth and for places like Venus
+or Jupiter.
+Safety is a pretty big concern with
+an active-support structure, since if you
+turn off the energy the thing falls down.
+Now in the past we’ve mentioned that you
+can put explosive bolts on large objects to
+break it into smaller segments, then let parachutes
+gently carry them down, and that works here
+as well, but with a couple notes.
+First, if you go that route you also
+need to give everything a lateral shove too,
+otherwise your segments start smacking into
+each other and higher segments landing on
+top of lower ones.
+Though space towers do not have to go straight
+up either, you can build at angles just fine.
+Indeed you might build such structure like
+the vertices of a pyramid instead of a tower
+or as large skinny upside-down U.
+We also often think of these as considerably
+more massive objects too, not wispy structures
+like a space elevator or launch loop, these
+are buildings, so the parachute approach gets
+a bit trickier.
+This is why I wanted to discuss the
+second point, which is that it’s nonsense
+to regard active support as somehow more fragile
+than passive support.
+I’ve already said you’d use multiple redundant
+atlas pillars in any construct, but I suspect
+many folks think “Oh, well, someone could
+still shut the power off for all of those”.
+And they could, they could also go
+blow up all the support pillars on a conventional
+bridge or skyscraper.
+People get cautious about safety on any new
+technology, which is a good thing, but there
+is such a thing as being overly cautious and
+active support is just as safe as passive
+support.
+More so, since it allows stronger structures.
+As to cost, that’s really hard to
+estimate.
+On the one hand you get a huge cost savings
+on vertical structures since you can build
+each level low and push it up then work on
+the next, which makes it cheaper than traditional
+tall building methods.
+On the other hand, you do have to provide
+a constant power flow and quite a lot.
+If you’ve got cheap superconductors, especially
+room temperature ones, this isn’t a big
+deal.
+Nor if we’ve got very cheap electricity
+from fusion.
+Having both would make this approach viable
+enough I’d expect to see it incorporated
+into regular architecture.
+This has nothing to do with launch costs though.
+It is the nature of an active support structure
+that you always have access to energy when
+on the thing, unlike a space elevator where
+you either need to beam in power or add a
+lot of weight running thousands of kilometers
+of wire, usually very wide wire too.
+So for launching we have no need to carry
+onboard fuel, the vehicle climbing the tower
+has all the energy it needs and something
+to push off, eliminating the need for propellant.
+This allows very low launch costs compared
+to most systems we’ve looked at, dollars
+per kilograms, not thousands or hundreds,
+but then you’ve got to factor in the cost
+to keep it up there.
+Space Towers are not really our most
+attractive launch system, in terms of active
+support the Launch Loop from last episode
+or the Orbital Ring from the next are more
+attractive, but they can be quite advantageous
+and are far better, if you’ve got the energy,
+than most modern options.
+Though they are useful for defense purposes,
+where spilling a lot of matter into low orbit,
+that will then fall down, can be handy.
+It’s one way to clear space garbage from
+orbit for instance, since whatever you spray
+up with a space fountain will fall down as
+will anything that wanders into it.
+But their real value lies in how they can
+be used for construction of very large objects.
+So while I don’t expect them to play much
+of a role in getting into space, I actually
+expect us to see them used a lot more in the
+future than any other system we have looked
+at.
+Active support isn’t absolutely necessary
+for technologically advanced civilizations
+but it forms the keystone, in a very literal
+way, to building a lot of the truly impressive
+structures of the future that we can only
+dream of now.
+We will also see they are quite valuable,
+though not absolutely necessary, additions
+to concept of the Orbital Ring, a truly huge
+launch structure that wraps around an entire
+planet, and our topic for next week.
+These structures allows the lifting of massive
+amounts of cargo into orbit, and at dirt cheap
+prices, but can also be used to help us go
+beyond orbit into interplanetary space as
+well.
+For alerts when that and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until Next Time, Thanks for Watching, and
+Have a Great Week!

@@ -1,0 +1,683 @@
+In gold rushes in the past, prospective miners
+traveled for months to reach a site.
+In the future they might do it again,
+because there’s gold in them thar asteroids!
+So today we return to the Outward Bound Series
+to look at Ceres and the rest of the Asteroid
+Belt.
+Sort of like when we looked at Colonizing
+Jupiter and Saturn, where the planet itself
+is not where most of the people live, but
+on the smaller objects nearby, our focus today
+won’t be entirely on Ceres.
+Though with one key difference, as we’ll
+see, Ceres is likely to be where folks tend
+to live or visit, but not where a lot of the
+people actually work.
+This is a good point to address earlier on
+though.
+We always say the asteroid belt, referring
+to a swarm of smaller objects, unlike how
+we’d refer to Jupiter and its moons.
+But in some ways, while Ceres is not central
+to the Asteroid Belt the way a planet is to
+its moons, it’s better to think of that
+whole asteroid belt as focused around Ceres.
+There may be millions of asteroids in the
+belt, but Ceres makes up about a third of
+the mass.
+To match its size, you’d need to include
+the next dozen biggest asteroids , leaving
+the remaining third of the Belt’s Mass to
+be distributed among its remaining millions
+of members.
+Even then, while we always warn people not
+think of the Asteroid belt as a dense place
+you’d have to dodge around, a lot of the
+Belt is composed of Asteroid families, often
+centering on a larger asteroid, and some,
+like Sylvia, the eighth largest asteroid,
+even have moons.
+Fairly impressive ones too, from a visual
+perspective.
+Some small rock a few kilometers across is
+fairly impressive when it’s only a few hundred
+kilometers away, and from the surface of such
+a tiny moon, its parent asteroid would dominate
+the sky more than Jupiter does to the Galilean
+Moons, and the gravity is so weak you could
+jump off and float there.
+That weak gravity is a big issue for colonization
+too.
+Even the biggest ones have escape velocities
+so low you could shoot a gun and the bullet
+would never land, and a baseball tossed upwards
+would take many minutes to land.
+On the smaller ones, you’d float off into
+space just by trying to take a step.
+We’ve talked about enhancing gravity on
+larger moons or places like Mars or Mercury
+by using large bowl or vase shaped habitat,
+which could spin around, combining centrifugal
+force with regular gravity, but even on the
+largest asteroid, Ceres, such things are fairly
+redundant.
+A cylinder set on the surface, with its axis
+of rotation parallel to gravity, would just
+have a slow creep toward the bottom you could
+manage with some minor sloping or walls.
+One turned perpendicular to gravity would
+simply result in gravity feeling a little
+higher when your feet were pointing down,
+and a little lower when you were upside down.
+For that perpendicular version, on Ceres where
+gravity is 3% of Earth’s, if you weighed
+100 pounds and stood on a scale, you could
+watch it slide from 97 to 103 as you spun.
+Almost anywhere besides Ceres and those handful
+of largest asteroids, you wouldn’t be able
+to notice.
+It’s a big place in some ways.
+Ceres, again, is a full third of the Belt’s
+mass, and yet Earth’s Moon is about 80 times
+more massive than Ceres, and in turn, the
+Earth is about 80 times more massive than
+the Moon.
+We talk about exploiting the resources of
+the Belt, indeed we’ve done a whole episode
+on Asteroid Mining, and yet every single asteroid
+combined has only 1% of the mass and resources
+of Mercury, the place we last visited in the
+series and spoke of mining for resources.
+So what is the attraction of the belt?
+Traditionally in this series we followed a
+storyline of a traveler visiting place after
+place as we colonized them.
+We left the Traveler out in Alpha Centauri,
+but let’s join an aspiring asteroid miner
+on their way to Ceres, not to be the first
+to land and plant a flag, not for great honor
+or prestige, but just to make a living.
+The half year trip from Earth was long and
+uncomfortable, but our ship has finally arrived
+at Ceres and will land in Occator, a vast
+crater almost a hundred kilometers across,
+dotted with dark-tinted domes showing a bit
+of green shade and roving tractors, scooping
+up ammonia rich clays for nitrogen, and the
+other deposits rich in sodium carbonate, magnesium,
+and sulfates.
+Water ice is quite plentiful on Ceres, as
+everyone knows, but as we get on a crawler
+with some of our shipmates for the trip from
+the landing site to the main base, one of
+them points out that what makes Ceres so nice
+as a port of call is that it has an awful
+lot of what we need for life.
+We came out here to do some mining, but he
+did not.
+He spent all his funds on his ticket and a
+box full of seeds and microbial cultures.
+He’s renting a whole small dome from Occator
+Company, the biggest consortium on Ceres and
+the one that runs this crater and base.
+He’s going to start growing blueberries,
+the first blueberries in the Belt, and selling
+them to the hungry miners and base personnel,
+who are particularly eager for something fresh.
+Food is a big industry on Ceres.
+The domes are tinted to keep out more harmful
+frequencies and help keep in heat.
+This surprises us though, as we are far from
+the Sun, surely plants can’t grow here.
+But he gestures around, and points out it
+isn’t dim at all, even way out at Pluto
+the daylight is as bright as a cloudy day
+on Earth.
+See, light’s a tricky thing and our eyes
+don’t really realize that the light of noon-time
+Sun is carrying a million times more photons
+to our eyes compared to what the Moon does
+at night, and a thousand times what we tend
+to think of as comfortable indoor lighting.
+The asteroid belt is farther from the Sun,
+with most of asteroids between twice and thrice
+as far away as Earth, but also has no air
+interfering with light reaching the ground,
+or filtering out the harmful parts of the
+spectrum, so lighting in the belt can range
+from nearly a quarter what it is at Earth’s
+equator to as little as a ten percent in the
+outer parts of it.
+Our companion tells us that between the dome
+filtering and the latitude here at Occator
+Crater, the domes get a peak illumination
+of 10,000 Lux.
+A lux, one lumen per square meter, is how
+bright stuff is in the visible range of light,
+which is more or less the one plants use,
+even though they do best with boosts to red
+light.
+Very approximately, one Watt per square meter
+of visible light is 125 lux, and it’s about
+what we find comfortably bright indoor lighting.
+Plants fall into four loose lighting types,
+low, medium, high, and very high.
+They can often live, but be slow growing and
+weak, at as little as 10% of their preferred
+lighting, so you can grow anything under the
+sunlight anywhere in the Belt, even its outer
+reaches.
+However many hardly need that much light.
+Low light plants are 500-2500 Lux, Medium
+is 2500-10,000, high is 10-20,000, and very
+high is 20-50,000.
+Here at Ceres, in the middle belt, any of
+the first three categories do just fine, and
+the very high category can be accommodated
+by just having some LED lights in the Red
+range boosting things a bit.
+The domes are very insulated to keep heat
+in because it’s still quite cold here and
+we need to domes warm.
+Plants tend to like it warmer than people
+too, so every insulation trick has been used
+to cut down on the energy needed.
+Occator’s a big company, the biggest located
+only in the Belt, but still not big and rich
+enough to afford a fusion reactor, in these
+early days of colonization.
+So they use fission and solar, and have big
+pipes running around the crater carrying steam
+off from the reactors and running back through
+when it condenses back to water.
+This helps warm the domes.
+Some of that power runs mineral processing
+and manufacturing, some supplemental red lighting
+for the growth domes, some for human comforts,
+but a lot is for the “Big Fettling Gun”,
+a mass driver stretching around the crater
+rim wall that smaller ships can race around
+and get some speed up to launch into space.
+Racing around that, clutching on to a small
+but sturdy rail, they can build up to 1400
+meters per second at 4 gees of acceleration
+before letting go to sail off around the belt.
+We ask a technician why it’s called the
+“Big Fettling Gun”.
+He replies that fettling is trimming the rough
+edges off a piece of metal, or in this case,
+a spacecraft.
+If the craft is falling apart or things aren’t
+strapped down, the crew finds that out the
+hard way when they get slung.
+That and the abbreviation, BFG, he smirks.
+Another of our companions is going to work
+on the launcher, and tells us how much fuel
+it saves.
+Big ships, like the one we came in on, with
+their own reactors, don’t use it or need
+to, but for small ships or drones it’s a
+big deal.
+One of our other companions is here to work
+in the entertainment industry, and that’s
+a big industry here too.
+Of course all the TV and virtual reality comes
+straight from Earth, other than the Belt News
+Network, but there’s a lot of call for recreation.
+Tourism from Earth isn’t too common, but
+folks spend a lot of time cramped on board
+ships, and often come home to Ceres with lots
+of money to spend on leave.
+Such services vary a lot, from the cheap to
+the expensive, the wholesome to the downright
+indecent.
+If you’ve seen one extraterrestrial entertainment
+precinct, you’ve seen them all and we’re
+neither much interested in that and nor is
+our meager bank balance.
+And that is a key point, most of our companions
+are planning on living here.
+Out of the whole arriving group, we seem to
+be the only miner, although even most of the
+miners already in the belt live here when
+they’re not out prospecting and mining.
+One of companions objects, and says she’s
+going to be in mining too, just here on Ceres.
+But she doesn’t mean mining the dwarf planet
+itself, though that’s a common enough occupation.
+She runs drones.
+Small packages of not much more than some
+sensors and guidance.
+They fly off, make a close pass on an asteroid,
+take some readings and photos, and do a small
+course correction to the next one.
+The thing about the Belt is that everything
+is sort of meandering around on its own trajectory,
+and except for the asteroid families that
+tend to huddle up a bit, your neighbors are
+constantly changing.
+Not everything orbits on the same path or
+period so it is a big ever-shifting cloud.
+If one asteroid gets mined out near Ceres,
+another will eventually enter the area too.
+She’ll be keeping track of hundreds of drones,
+and doing first analysis for signs of a rich
+strike.
+Our bank account is mighty thin, but we still
+make sure to buy her a drink before heading
+off to our temporary quarters here.
+That, and most areas meant for people, are
+deep underground, and we’ll be staying in
+a cheap small rotating cylinder block with
+marginal gravity and where the floor isn’t
+quite lined up with the direction of that
+gravity.
+It’s minor, but when we spill a glass of
+juice we can watch the puddle creep under
+our bed.
+Standing up in a hurry or moving quickly are
+also nauseating experiences as the changes
+in perceived gravity are easily picked up
+by our inner ear.
+We decide that we’ll want to upgrade to
+some place nicer as soon as possible.
+For the moment our goal is to get on board
+a mining ship, and it doesn’t take us long
+to find where the crews hang out when on shore
+leave.
+Unsurprisingly, it is in the less wholesome
+and more expensive portions of the station.
+The crews are easy to spot because a lot of
+them sport precious metals as jewelry.
+Out here mining for gold and platinum, apparently
+the jewelry shows one is a miner and a successful
+one will sport a lot of bling.
+We figured a lot of openings would be free,
+from folks coming home after making their
+fortune, but to our surprise, not so much.
+Many inquiries we make are waved aside by
+miners trying to unwind after long stints
+in space and not wanting to talk business.
+Especially the ones from crews who just struck
+a big find, and are not yet interested in
+looking for the next.
+We thought these would have plenty of open
+slots, folks heading home, but we start noticing
+that when we say home, most think you’re
+referring to their place here in Occator,
+not Earth.
+A ride to Earth takes a long time, costs a
+lot of money, and luxuries are getting more
+common here, for those who can afford them.
+Many see no reason to return to Earth.
+Most of the folks on Ceres aren’t miners,
+they work in other trades and provide other
+services, but miners do seem to be the default
+job here, and again are easy to spot by all
+the bling they wear.
+After a week, we have reached a dangerously
+low bank balance.
+We finally find a ship’s captain who is
+almost willing to bring us on board but declines.
+Fortunately for us, our friend from the drone
+department is in a celebratory mood from finding
+a pair of nice promising strikes, and lets
+us know about one she forgot to record, a
+smaller one that could be chalked up to a
+distraction.
+It turns out, this sort of thing is fairly
+common here in Occator, and she agrees to
+give the captain coordinates for it in exchange
+for some reciprocation.
+We sigh a bit, disappointed that people are
+people everywhere, even here on the hopeful
+frontier of humanity, but we’re not going
+to complain, it got us a slot on the ship
+and a share of the claim.
+No pay though, just room and board and a share,
+a historical common practice.
+We head out, and our ship is a decent-sized
+one, home to a dozen crew, of which we are
+the most junior and unsurprisingly stuck with
+the least fun jobs.
+We also assumed spaceships would be a lot
+nicer and more high-tech, and the ship we
+came out on was a bit of a let-down but the
+mining vessel, the good ship Rockhopper, looks
+like it was clapped together in someone’s
+garage.
+One upside about moving around the Belt is
+it doesn’t take the cream of the crop to
+design, build, or maintain a ship meant for
+use only in the Belt.
+It doesn’t have or need any fission reactor,
+we’ll buy fuel here on Ceres where it’s
+made, along with most of our supplies.
+But first we have to buy mining rights on
+the small metallic asteroid a week’s travel
+away.
+We will be doing all that through Occator
+company, but the rights are actually held
+back on Earth.
+Some bizarre and labyrinthine treaty that
+requires a fee and a share of any spoils that
+gets divided up by all the countries back
+on Earth.
+So we pray to whatever mining gods might be
+listening that Rockhopper is stronger than
+it looks as we go off, whirling around on
+Rockhopper in Occator Crater’s Big Fettling
+Gun.
+Mercifully, we survive with a few metallic
+groans and bits of equipment that haven’t
+been properly stowed smacking into the bulkheads,
+but we’re off to space.
+Quarters are cramped, nothing seems clean,
+and the food is all packaged stuff because
+the ship is too small to bother with spin-gravity
+or its own hydroponics.
+The captain says nicer ships have extending
+sections that can provide gravity during flights
+or when the ship settles into an asteroid
+to mine, but not the Rockhopper, which literally
+has duct tape holding components together.
+But we do get there and shoot a bunch of harpoons
+into the asteroid and winch the ship up against
+it, inside a nice crater next to our find.
+We don’t walk out, because there’s just
+no gravity, and because we have our own drones
+to fly over and look.
+It is a good chunk of minerals, rich in gold,
+and when we start going EVA and poking around,
+we find there’s tons of it deeper down.
+Indeed there’s more than we have fuel to
+refine down and send back to Earth directly,
+or take on board the ship to fly back.
+The captain decides that in order to find
+out just how much there is, we’ll do some
+mining and refining.
+We’re are going to settle in for a while,
+and decide to erect a dome over the ship so
+we pop up an inflatable dome.
+The nice thing about micro-gravity is even
+a thin sheet of plastic won’t break under
+the weight of whole boulders.
+We pressurize that area so we can work without
+suits, and get to work.
+As an added precaution against micro-meteor
+strikes, we cover the plastic in pykrete,
+and then cover it more with soil we dig up.
+Pykrete is basically frozen water plus some
+fibrous material.
+It’s sturdy enough to hold air in, and being
+opaque makes it hard for anyone to see what
+we’ve found.
+Pykrete’s handy stuff in space, it’s much
+tougher than ice, and while not permanent,
+it’s easy to make and lasts more than enough
+time for what we need it for.
+We have a pod on board and we fuel it up and
+send it to Earth on the slowest trajectory.
+The captain says it’s already sold.
+Not at a great price though, the company buying
+is getting a good price because it won’t
+get home for years, and it has security and
+fraud concerns.
+The money is handy though because it can get
+a remote cargo pod sent off to us with some
+supplies and fuel so we can keep working.
+It doesn’t take much fuel to go from the
+Belt to Earth’s orbit, especially if you
+don’t mind it taking years, and precious
+metals on their way are almost as valuable
+as ones already in your vaults.
+We never do finish though, once the ship is
+loaded to capacity we head back.
+Same as we sold the gold we’d refined years
+before it will get home, the captain sells
+the whole asteroid claim, with its documented
+mineral wealth, and notes that more undocumented
+materials may be there too.
+We didn’t get as much as if we worked it
+ourselves, but we also don’t have to worry
+about guarding it from claim jumpers or outright
+pirates.
+Stealth may be impossible in space, but that
+only applies to the ability to actually hide,
+not to someone bribing the folks who watch
+claims not to alert us and Occator on Ceres
+is not the most honorable place.
+Its rivals in other craters or other major
+asteroids probably aren’t any better.
+Back on Occator Station, we are very wealthy
+now.
+You might normally go many missions without
+finding a good strike, even with probes doing
+advanced looks, but all it takes is one good
+one to make you phenomenally rich.
+Even after the loss from selling most of it
+at a fraction of its real value, even after
+the bribes and taxes, and even being the junior-most
+crewmember with the smallest share, we are
+quite rich and can easily afford a nice fast
+trip home to Earth.
+But the next one leaving isn’t for a few
+days and we’ve barely been here a couple
+months, only a week on Ceres and several on
+the Rockhopper.
+We spent months getting out here.
+There’s a lot going on here so we just can’t
+bring ourselves to leave yet.
+No rush, we’ll take another ship back.
+We’re getting a bit restless and thinking
+about leaving again when we bump into the
+captain, who is not going home and in fact
+buying a new and nicer ship, to be christened
+the Lucky Strike.
+He invites us to join the crew with a bigger
+share, nicer quarters, and more seniority
+and we do, and next thing we know it’s been
+a few years and while we’ve never had another
+strike like the first one, we’ve done pretty
+well down the years and eventually buy our
+own ship to captain, which we dub the Rockhopper
+2, the original long since sold for scrap
+after it finally broke apart during a BFG
+sling.
+We’ve never gone home to Earth, but Ceres
+is home now, and indeed we’ve got a place
+there we stay when not out prospecting, we
+even bought a share in our friends expanding
+blueberry business.
+Ceres is growing quite well and more people
+come in every day.
+What’s interesting is that more and more
+folks are just stopping in for a while to
+buy supplies and refuel for elsewhere in the
+Belt or the long haul to new colonies on Jupiter’s
+moons.
+We bump into one Traveller en route to Callisto
+and after talking to them we start seeing
+whole new possibilities for the Belt.
+All those asteroids being mined out mostly
+leave some sort of infrastructure in place.
+Folks move on when the main mineral strike
+gets dug out but a lot of folks are increasingly
+setting up protracted operations on these.
+What’s more, it’s always handy to have
+smaller outposts around, and while there’s
+a lot of fast money on shipping precious metals
+back to Earth, a lot more folks are going
+into mining and manufacture of more mundane
+stuff, and agriculture.
+Many of those old mining sites are getting
+small cylinder habs installed in them and
+becoming small communities.
+They’re close enough to get quick signals
+back to Ceres, or even Earth, but they can’t
+get a ship to Ceres or one of the other major
+asteroid colonies like Vesta fast.
+A ship carrying goods, just a remote drone
+in many cases, can get supplies to them though,
+and Occator is increasingly becoming a company
+involved in shipping goods out to those, the
+Amazon of the Asteroid Belt.
+At first we wonder how long before such things
+drop off, but even ignoring that vast supplies
+of valuable minerals lie still untouched out
+there, we realize that even though the Earth
+has thousands of times the mass of the whole
+Belt, it actually hasn’t got nearly as much
+living area.
+So, using our wealth, and our contacts with
+other miners, we open a new business, buying
+up asteroids with depleted excavated deep
+mines.
+Folks are bemused.
+Why would you buy up depleted claims?
+We explain that one little asteroid only a
+kilometer across, of which there are nearly
+a million, can house a smaller O’Neill Cylinder.
+Those, even the smaller versions, can house
+tens of thousands of people easily.
+With a million such asteroids each supporting
+a cylinder habitat inside them each housing
+tens of thousands, or tens of billions of
+people total, versus seven billion back on
+Earth.
+Much of the hard work has already been done
+for us because the miners subtracted material
+from inside the asteroid, mined it out and
+without much more work we are now putting
+hollow cylinders in it.
+We’re not shipping most of that mass anywhere.
+We can make a very large cylinder, or network
+of cylinders, inside an asteroid that’s
+been slowly hollowed out during mining.
+All we need to do is dump the spill outside
+of it.
+A typical kilometer-diameter asteroid contains
+around a gigaton, enough raw material for
+a full-sized O’Neill Cylinder, the kind
+8 kilometers across and 32 kilometers long,
+and able to house a million people comfortably,
+albeit that cylinder would be thinner than
+I’d like, but protected by the walls of
+the asteroid from radiation and meteor strikes.
+While a majority of asteroids are in this
+size range, the majority of the raw materials
+in the Belt are not.
+You could get a good billion full-sized O’Neill
+Cylinders out there each with a million folks.
+That’s a Quadrillion people, and that’s
+without stretching any comforts or pushing
+the envelope on food production.
+You don’t have to bring those any closer
+to the Sun either, even sunlight can be concentrated
+by having mirrors nearby, which would be quite
+thin, though you could, bring them either
+nearer to Earth or Mars or in-between them.
+See that episode, O’Neill Cylinders, for
+more discussion on the topic.
+Others are discussing other options for the
+Belt.
+They want to move asteroids, and bring them
+or megastructures made from them nearer Earth.
+Another idea is to bring Ceres closer to Mars,
+much closer than our own Moon is to Earth
+but still well above where you’d be keeping
+Martian Orbital Infrastructure, even long
+space elevators.
+That might be pretty, Mars’s own moons being
+rather tiny and uninteresting, but more importantly
+could be used to generate tidal forces and
+maybe get the inner core of Mars spinning
+up again for a decent magnetosphere and warm
+the place up a bit to release some much needed
+gases into the atmosphere.
+This is quite a big project compared to our
+plans but small compared to many we’ve discussed
+on this channel.
+As an aside, it would be a bit silly for me
+to say it’s hard to move something just
+a percent of a percent of Earth’s mass around
+when we’ve discussed moving Earth or even
+the whole solar system before.
+But discussing building big habitats inside
+asteroids or moving them large distances brings
+up the notion of interstellar travel too.
+Any good space station can be made a spaceship
+too, and the Belt is a good place to make
+spaceships at.
+Although more so, since while the Belt is
+far from the Sun, a fairly developed asteroid
+colony will likely have lasers for pushing
+ships around inside the Belt all over the
+place, not mention dealing with debris hazards
+and meteors, and lasers are a nice way to
+give a ship some free speed without the mass
+of extra fuel.
+We’ll be talking about that more in next
+week’s episode as we get into generation
+ships, vessels meant for getting us out to
+the stars, something we’ll be looking at
+a lot in the coming months.
+But before we can settle other star systems,
+we need to settle our own first, and the Asteroid
+Belt is likely to be a big factor, and Ceres
+is probably the best focalpoint for doing
+that.
+For our aspiring asteroid miner on their way
+to Ceres, the cheapest way will always be
+by the Interplanetary Transport Network, a
+series of slow but low energy transfer maneuvers
+that are essentially the trade winds and currents
+of the solar system.
+The key to understanding those is the Hohmann
+Transfer Orbit, and if you want to learn more
+about that, then I recommend that you check
+out Brilliant.org.
+You learn about the physics by breaking the
+problem down into relevant concepts, thinking
+clearly through each part, and then building
+it back up to the conclusion.
+This approach to problem solving is extremely
+crucial for the asteroid miner, as it allows
+them to figure out what to do when faced with
+novel situations in the mining and O'Neill
+Cylinder business.
+If you want to learn how to quickly understand
+the depths of everything an asteroid miner
+would need to know, then go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription.
+That's the subscription I've been using to
+build up my problem solving skills.
+As mentioned, we’ll be discussing Generation
+Ships a lot for the next few months and we’ll
+be beginning next week with an overview of
+the basic topics and talking about the key
+aspects of how to manufacture them and why
+you might use this approach over some other
+approaches for settling the galaxy, along
+with looking at some fictional examples of
+them, such as our Book of the Month, Arthur
+C. Clarke’s classic novel, Rendezvous with
+Rama, which is a type of O’Neill cylinder
+itself.
+The week after that we’ll be teaming up
+again with John Michael Godier for a two-part
+look at what the galaxy might be like after
+we colonized it, if we encountered no aliens
+as we colonized the galaxy, or at least no
+civilizations that naturally occurred on their
+own.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, please like
+it and share it with others.
+Until next time, thanks for watching,
+and have a great week!

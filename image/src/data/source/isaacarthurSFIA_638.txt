@@ -1,0 +1,848 @@
+So today’s topic, the Kardashev Scale, is
+a familiar one for channel regulars.
+We have talked about it before in passing
+a few times but we have never actually focused
+down on it and discussed the implications
+of what it means, what sort of abilities civilizations
+with it would have, or what sort of flaws
+it has as a scale.
+This episode can also be viewed as either
+a culmination or summary episode of a lot
+of the other episodes or as an introduction
+to them, as we have discussed a lot of the
+individual abilities of these kind of civilizations
+before.
+So I am going to be referencing previous episodes
+a lot.
+If this is your first time to the channel
+you might want more detail and can go to those
+episodes for them, and you probably also want
+to turn on the closed captions.
+We might as well start with the basics, back
+in 1964 astronomer Nikolai Kardashev created
+a clever scale for identifying the size of
+civilizations.
+Unfortunately, it only has three official
+steps, planetary, solar, and galactic.
+This is kind of like have three sizes of drinks,
+where you’ve got large, extra-large, and
+gigantic, and to make it worse if the large
+size was a one liter cup, the extra-large
+would be an Olympic Swimming Pool, and the
+gigantic is the Earth’s oceans.
+This is a bit of an awkward scale to use if
+you want to describe a tablespoon sized civilization
+or maybe a bathtub sized one.
+The other issue is that it goes strictly off
+available power, which isn’t bad if you
+have to pick one thing to use, but is not
+really ideal either.
+After all a modern computer can walk all over
+something like ENIAC from back in the days
+when vacuum tubes were state of the art technology
+and a modern one uses much less power.
+So too, the post-stellar civilizations we
+discussed in the Black Hole Farming video
+run on so little power they make a Double-A
+battery look like the Hoover Dam, and yet
+they would regard even the biggest civilization
+we will discuss today as tiny newcomers.
+Kardashev wanted a quick and simple system
+and it caught on.
+So we are kind of stuck with it now.
+I doubt he expected it to go into common usage
+or he likely would have scaled it better.
+I will link the English translation of the
+original 1964 paper, “Transmission of Information
+by Extraterrestrial Civilizations”, in the
+episode description, but it will put context
+on why it seems like I am being critical of
+the scale but not of Kardashev himself.
+The scale itself is a quick aside to give
+a general notion what we ought to be looking
+for when looking for alien civilizations.
+He does not even care about our own, which
+does not even make it onto the scale as a
+Type I civilization, let alone anything pre-technological.
+Now the three types he outlines, types 1,
+2, and 3, are defined by how much power they
+have access too.
+A Type I has access to an energy budget equal
+to a whole planet, a Type II a whole star,
+and a type III a whole galaxy.
+Humanity would not yet be a Type I. Though
+a planet sprawling super-city like we discussed
+in Ecumenopolises Episode would be.
+A Type II would be a full on Dyson Sphere
+or Dyson Swarm which we have talked about
+in many episodes, but as a reminder it is
+a collection of power collectors or artificial
+habitats around a star that absorb most of
+its light, though it is often portrayed as
+a big shell.
+Type III is not a galaxy-spanning civilization
+as most tend to think, where people inhabit
+most of the decent planets around most yellow
+stars.
+That might sound bigger than a Dyson Swarm,
+a Type II, but in fact a Type II, or K2 civilization,
+one with a Dyson Swarm, would flat out smash
+such a galactic empire.
+A Type III, or K3 civilization, is one where
+every single star has been turned into a Dyson
+Swarm.
+Lots of folks have proposed minor alterations
+to the Kardashev Scale, or whole new scales,
+but I think Carl Sagan had the best modification
+that keeps it as basically the same scale,
+but a bit more useful.
+He basically just tweaked it to follow a better
+order of magnitude scale, nice even tens.
+So in Sagan’s a civilization with access
+to about a Megawatt of power, or 10^6 Watts
+is a Type-0, a Type-1 one would be 10^16 Watts,
+a bit less than Earth gets, a Type-2 would
+be 10^26 Watts, which is pretty close to our
+sun’s output, and a Type-3 would be 10^36
+Watts, a bit less than the Milky Way’s output.
+This is a lot better, because it means you
+can just take the exponent of 10 to the whatever,
+subtract 6 and divide by ten and have a nice
+smooth scale.
+It’s not quite as smooth and intuitive as
+I’d prefer, but it holds to the basic Kardashev
+scale and is a lot easier to work with in-between
+states.
+In the Sagan modified version a classic Kardashev
+1 would actually be a 1.1, but K2 and K3 would
+remain a K2.0 and 3.0, and now we can scale
+smoothly to any size, so I will use that the
+rest of the episode.
+I should also note that while planets and
+galaxies vary in size quite a lot, stars vary
+even more hugely, from ones that are millions
+of times more powerful than our star to ones
+less than a ten-thousandth as powerful.
+That’s ten whole orders of magnitude, an
+entire level on our scale.
+And possibly excluding the very brightest
+and shortest lived stars, you would want to
+build a Dyson swarm around any star.
+It is not like planets, where those you might
+terraform to be Earth-like will all be within
+an order of magnitude or so, and even galaxies
+do not vary that much in size.
+Now as I mentioned, energy access does not
+necessarily tell you much about the technology
+or population of a civilization, but we also
+have to decide what we mean by energy access.
+Current world power consumption is about 12
+terawatts, or about 10^13 watts, which would
+match up on our Sagan modified Kardashev Scale
+as a 0.7 civilization.
+We would be a Type 0.7, or K.7.
+But we use a lot more power than that in truth,
+arguably the whole planet, since our food
+crops use a lot of energy, way more than we
+do.
+Once you get past the K1 stage that sunlight
+energy for plants starts to be something you
+have to pay for, either by creating it in
+fusion reactors or building habitats in space
+exposed to sunlight.
+In that regard we would already qualify as
+a full blown K1.0 civ, or close to it.
+Of course viewed that way we have been pretty
+close to that for a long time.
+Alternatively a K0 civilization ought to have
+about a megawatt of power, which in more classic
+terms is 1300 Horsepower.
+Or in more humans terms, about 10,000 people-power.
+I find that an appropriate number, since the
+term civilization originally referred to living
+in cities, and those do not emerge until you
+start having thousands of people bonded together
+a bit more interdependently then even loose
+associations of multiple tribes that hunter-gatherers
+often had.
+This is also when you can start having machines
+more complex than very simple one that just
+amplify or focus human strength, like the
+level or wedge or axe.
+So I would say the dawn of history would be
+when we reached K0
+The Scale is inevitably arbitrary in many
+respects, after all if I included all the
+energy used by a hunter-gather civilization,
+to include the sunlight used to grow the plants
+which produced the nuts and berries they gathered
+and the fed the animals they hunt, an individual
+person requires very nearly a gigawatt to
+survive.
+While that same land and sunlight could support
+a hundred times as many people with fairly
+unsophisticated farming techniques.
+One would think the latter civilization ought
+to be much higher on the scale.
+Similarly those of you who recall the Ecumenopolises
+or Matrioshka Brains episodes would see how
+these would also presumably rank much higher
+than the usual K1 or K2 civilizations they
+would be compared to.
+These energy levels tell us nothing about
+technology, again the scale was meant for
+civilizations past where we are now.
+But higher states doesn’t imply more technology,
+except insofar as you would expect that to
+get to those higher places on the scale you
+had to be around for quite a while with a
+very large population, meaning you have a
+ton of researchers who have been working for
+a very long time.
+Of course technology might just come to a
+halt, we cannot assume we can always just
+discover new things.
+You do not need much more technology than
+we have now thought to colonize the galaxy.
+We have discussed before how we basically
+only need fusion, and maybe not even that,
+to colonize the entire galaxy.
+So while we can at least say no one is getting
+themselves onto the classic Kardashev Scale
+without roughly modern technology, we cannot
+assume any technology beyond that.
+With that in mind, we will be looking at scenarios
+where the only new tech of significance ever
+invented are just those we might call near
+horizon, not necessarily guaranteed but in
+that zone where most scientists would say
+‘yes, that’s quite likely’ and few if
+any would say ‘no, that is probably impossible’
+or ‘I would not even know where to start’.
+And be it K1, K2, K3, or even higher, we figure
+they have not discovered one new big thing.
+None of us think that will be the case, but
+as we discuss some of the awesome things K2
+and K3 civilizations can do, just using technology
+we have now or nearly do, just remember how
+much more majestic they would be with those.
+As we will see, they are pretty awe-inspiring
+without them too.
+Now even the modified Kardashev Scale, which
+is way better at doing increments, is not
+that great at providing scale.
+In some way it easier to think of it as a
+population scale, and the Sagan-modified one
+is pretty decent for that since you can just
+remove the decimal place and treat that as
+the order of magnitude.
+A 1.0 is 10^10, or 10 billion people, a 2.0
+is 10^20, or 100 billion-billion people, a
+3.0 is 10^30 or a million-trillion-trillion
+people, and the in-betweens increments will
+work pretty well too.
+As we have also discussed before, while delaing
+with people who are basically human in their
+biological needs, a megawatt of power is a
+pretty generous power budget per person even
+when you need to supply the sunlight for your
+food too.
+It’s not perfect but it gives a decent zone
+that is about right.
+If we assume a classic K1 civilization, one
+with the full output of all the energy that
+hits their planet, you would probably wonder
+where one that had terraformed all the other
+rocky planets and moons in the solar system
+would be.
+You might be disappointed that it was only
+a 1.1 or 1.2.
+It goes up in orders of magnitude after all.
+Something like the Federation from Star Trek
+might make it in as a 1.3, Isaac Asimov’s
+Empire from the Foundation series of tens
+of millions of worlds a 1.7.
+And a galactic empire of billion of planets
+would just manage to make it in as a K2 civilization.
+A whole sprawling galactic empire just barely
+manages to match one lone Dyson sphere in
+scale and power.
+Yet as we have discussed many times on this
+channel, a star encompassing Dyson Sphere,
+the thing which defines a K2 civilization,
+is not super-advanced technology that only
+some ancient high-tech civilization sprawling
+over thousands of solar systems might build.
+Quite to the contrary you would probably have
+started construction before the first interstellar
+colony ships left on their long voyages.
+I imagine you would get better at building
+it as your technology improved but you do
+not actually need to have that improvement.
+So what can a K2 do?
+We have talked about some of their abilities
+before.
+They can move their own star, albeit slowly,
+by means of the Shkadov Thruster we discussed
+in megastructures episode 8 and which is an
+innate ability of any Dyson Sphere.
+It can flat out blow up any planet in the
+galaxy, as good as the Death Star from Star
+Wars, either by use of giant laser beam or
+more likely laser propelled relativistic kill
+missiles, RKMs, that we discussed in episode
+9.
+It can send those out one after another destroying
+planet after planet and even arrange for them
+to hit all at the same time.
+It is civilization that regards building a
+death star sized object as a minor expense.
+It also is not one that has any shortage of
+construction material.
+We talked about that a couple weeks ago in
+the Starlifting episode.
+They also have no shortage of labor to use
+to construct stuff with even if they haven’t
+got the kind of super-automation we discussed
+in the self-replicating machines episode.
+A K2 civilization would outnumber us by at
+least a billion to one.
+For every citizen we have on Earth they have
+an entire Earth’s worth of population.
+Even with no other major new technology to
+their advantage they simply would dwarf us
+like an elephant next to ant.
+They would presumably have better tech too
+since where we have hundreds of thousands
+of researchers they would have hundreds of
+trillions.
+I have mentioned before, in regard to the
+Fermi Paradox, that no civilization would
+bother hiding themselves since once they have
+sent out those first radio waves the cat is
+out of the bag.
+I have also mentioned that interstellar empires
+do not need to wait till a world has discovered
+radio to detect them.
+This is why, because while we employ thousands
+of professional astronomers, a K2 civilization
+could as easily employ trillions.
+Enough to employ more than one person to constantly
+watch every single star in the galaxy.
+And you could build telescopes much bigger,
+and also much cheaper, when you already have
+an industrial base in space.
+They could build a trillion telescopes, each
+of which made the Hubble telescope look like
+a toy, each aimed at a solar system constantly
+and manned.
+This does not even include that they can send
+ships to all those places too.
+In the star lifting episode we saw that a
+civilization could pull thousands of Earth’s
+worth of metal out of their own sun, but even
+one-thousandth of an Earth’s worth of building
+material would be enough to build an aircraft
+carrier mass spaceship 100 trillion times
+over again.
+Enough to send whole fleets to every single
+star in the galaxy without making a tiny pinprick
+in your available construction mass.
+And they can man every single one of those
+fleets with millions of crew members too.
+Not that you need to send giant armies out
+to invade other solar systems hundreds of
+light years away since you can breed your
+invasion force during the long trip.
+Colonizing the galaxy is obviously not a big
+problem for them.
+Whether they leap frog from star to star or
+just settle everything directly from their
+home system doesn’t much matter.
+They can get out and colonize the galaxy and
+turn every single star into another Dyson
+Sphere.
+This is where fiction just breaks down.
+Authors rarely seem to try to tackle a K2
+civilization let alone a K3.
+I am not sure if the scale just blows their
+mind, it certainly blows mine, or if they
+think the audience just won’t be able get
+into any story that is set on that kind of
+scale.
+It’s hard to write about a battle with one
+when it could dump a billion soldiers on a
+planet as an invasion force and regard that
+like sending in a single small squad of advance
+troops.
+Or that, even if they were quite peaceful,
+they could have the equivalents to Arlington
+National Cemetery that could sprawl over entire
+planet sized areas as labyrinthine necropolises.
+Of course a K2 might be a biologically immortal
+one, we talked about that option in the Transhumanism
+video, but if it weren’t, if they were just
+like us, then they’d have several billion
+people being born and dying every single second.
+I wouldn’t expect they would bury them all
+in the same place, or even to necessarily
+bury them at all, but using the typical 50
+square foot burial plotyou would fill up several
+thousand square miles in a second and have
+the entire North American continent as nothing
+but head stones in every direction inside
+an hour.
+You’d be able to layer the entire planet
+with corpses every day, and a new one each
+day.
+Of course there’s no reason you would bury
+everyone in the same place, and indeed I do
+not want to imply a K2 would be some unified
+civilization.
+The thing about a classic Dyson swarm, say
+one made of rotating habitats in the O’neill
+Cylinder range, which has about a sixth of
+land area of Long Island in New York, is that
+you would need trillions of these things each
+home to around a million or more people.
+Or less if it was a dedicated nature preserve
+or something.
+That’s another ability of K2 civilizations,
+they could devote a tiny portion of their
+energy budget to nature preserve habitats
+and have thousands of planet’s worth of
+habitats just for critters.
+A K2 has over a billion times the living area
+we do, and you can make habitats on par with
+large islands or places like Yosemite National
+Park without needing any super-strong materials
+and you could make billions of those without
+them being even a percent of your space, because
+you have trillions of those kind of habitats.
+Yet in spite of that, when formed up as a
+Dyson Swarm, they would not be any nearer
+to each other than a few thousand miles or
+kilometers.
+Space is big, and a Dyson Swarm is not a 2D
+flat shell, it can be tens of millions of
+kilometers thick.
+It’s a foggy cloud not a shell.
+Each of those habitats is basically its own
+nation-state and if it is orbiting as part
+of a ring then it only has two permanent neighbors,
+the one before and the one after it in their
+orbit around the Sun.
+These are very self-sufficient constructs
+and it probably could not even be blockaded
+from the sun’s light since it likely would
+have a backup fusion reactor or something,
+and if it did they could have billions of
+years’ worth of fuel stored up on hand,
+and they can pretty much recycle everything
+else.
+Trying to besiege one might be a process of
+several million years if you are not willing
+to actually attack it, just embargo it.
+You can certainly blow up an O’neill cylinder,
+but trying to invade and occupy one would
+be a nightmare with essentially only two skinny
+openings to come through.
+So you have a setup that trends toward a lot
+of autonomy, since once built, especially
+if they do have fusion technology, they do
+not need new shipments of material or fusion
+fuel more often than on huge timelines and
+you are pretty much limited to telling anyone
+who feels like being isolationist to do as
+you tell them or you will kill all of them.
+Which is not as good a negotiating position
+as it sounds like.
+You have got ‘we will cut off your internet’
+and ‘we will blow up your habitat’ as
+your diplomatic arsenal.
+Presumably you would end up with at least
+a lot of leagues of associated habitats who
+had at least a loose set of rules you had
+to follow to stay in that group.
+It could be a lot more unified than that too,
+but that is the caveat on the sheer scale
+of these civilizations because there is no
+obvious means of compelling unified action
+short of outright blowing up habitats.
+Don’t expect that to result in inaction
+though, we have never had a single unified
+planetary government and we still get a lot
+done, and that has been the case for countries
+with very autonomous subdivisions or very
+unified ones too.
+A billion colony ships launched by a tiny
+sliver of a K2 instead of hundreds of trillions
+is still pretty effective at colonizing a
+galaxy.
+Any individual habitat ought to be quite capable
+of building an interstellar ark all on its
+own too, or people from all over could crowdsource
+them.
+But it is another good reminder of scale,
+you could have entire religions or political
+parties kicking around a K2 whose numbers
+dwarfed even our biggest modern ones that
+could get regarded as a tiny little cult.
+I was joking after I made the megastructures
+videos on Discworlds and Hoopworlds that they
+are indeed very impractical but I figure someone
+would still build one.
+They are quite impractical but you could crowdsource
+construction of something like that in a K2
+civilization just off the tiny percent of
+the population who thought it was amusing
+enough to chip in the equivalent of ten bucks
+to the fund it.
+They could do the same for whole fleets of
+colonizing vessels.
+I keep coming back to scale on this because
+it is what always gets missed in contemplating
+it.
+I think the mind shudders back from the concept
+of a K2 civilization, something we might easily
+be in under a thousand years, because that
+scale is just so overwhelming.
+It is a civilization in which a band most
+people have never heard of could fill a planet
+with their audience and have them packed in
+as tightly as a mosh pit.
+It is one where the heat energy released by
+everyone watching a primetime TV show, if
+released on the Earth, would incinerate every
+living creature on land.
+Going to war with such a civilization, even
+if you did not have a technological edge,
+would not be comparable to the United States
+fighting a small country like Malta, it would
+be like the entire NATO alliance picked a
+fight with a single kindergartener.
+There’s no point trying to hide from such
+a thing, especially because a classic K2 civilization
+is not a real one anyway, since they have
+means to engage in robust colonization of
+other solar systems long before they reach
+full K2 status.
+It does not matter what other technology you
+might have, once you have a basic Dyson Sphere
+partially built, even just a percent of a
+percent of percent, you get access to all
+the energy you need for Interstellar travel.
+We have talked about that before, even if
+you never get fusion and never get cool things
+like kugelblitz black holes to drive your
+starships, you can shove even large ships
+up to relativistic speeds using nothing more
+than modern technology and a ton of power.
+Slamming trillions of watts of laser into
+the back of a spaceship is not the image of
+space travel we normally have, it is a very
+brute force technique, but it gets the job
+done.
+And as I pointed out in the Interstellar Colonization
+episode, you would also expect them to be
+settling all those frozen rocks and rogue
+planets that hang out between solar systems.
+Not to mention colonizing your own outer solar
+system which we will have an episode on soon.
+So even as that Dyson Sphere is getting built
+ever more completely, slowly adding more and
+more objects to the swarm, your outer solar
+system is getting colonized, your Oort Cloud
+and every frozen rock in it is being made
+someone’s home, and all those stars nearby
+you are getting colonized too.
+And I mean all of them.
+There might be a marked preference for Yellow
+Suns with Earth-sized planets that have liquid
+water but when you get to the point that most
+of your population was not even born on Earth,
+but in some rotating habitat, a nice ring
+of asteroids around some red dwarf looks quite
+appealing.
+Or even a dead white dwarf or a gas giant
+that’s out in the frozen void
+This does not even consider that those people
+might not be much like us, they might be transhuman
+cyborgs or outright digital people who live
+on microchips and only care about how many
+watts of energy they can get their hands on,
+not what color the sun is.
+Though of course every star is basically white
+regardless that we tend to call them yellow
+or orange or red.
+So I would tend to think that by the time
+most folks completed their first Dyson Sphere
+they would actually be 2.1 or 2.2.
+Even if 90% of the population lived back around
+their own sun they could easily have several
+thousand solar systems settled inside a century
+of the first ships leaving.
+The nearest star might be 4 light years away
+but space is three-dimensional, and there
+are over a thousand solar systems within 50
+light years.
+And if you sent a million colonists to each
+one, they would fill up quite fast.
+People can double in a single generation,
+more actually, and even more if you have life
+extension technology good enough that folks
+are still having children when they are also
+having great-great-grandchildren.
+People mostly like children, we are kind of
+wired up to do so, and in a post-scarcity
+setup they aren’t a huge burden.
+Especially if you are some 400 year old Methuselah
+who has centuries of knowledge, experience,
+and accomplishments behind you, and still
+have all the vigor and hormones of 20 or 30
+year old.
+Colonists to new solar systems have no reason
+not to increase their numbers and quite likely
+jumped on a ship for a long voyage partially
+for the ability to do so with impunity, or
+even applause.
+So you could see Dyson Spheres getting under
+way around those even before we finished our
+own while new systems are still being colonized
+further out way back from Earth and then they
+start getting underway.
+At the edge of new space you’d probably
+always have a shell of a few hundred light
+years of newly colonized systems at various
+degrees of expansion, around an iron core
+of Dyson Spheres.
+This would eventually absorb the entire galaxy
+into a genuine K3 civilization.
+The funny thing is that unless you actually
+have found some way to travel faster than
+light, or at least communicate faster than
+light, both of which are probably impossible,
+you never get a K3.
+I mentioned already in regard to K2 civilizations
+that the default setup, trillions of rotating
+habitats that seem packed together but in
+reality have a lower population density than
+earth, would probably tilt toward a lot of
+autonomy and local sovereignty.
+But there at least you do have the option
+to have common authority of some sort since
+you can threaten to just blow up habitats
+that misbehave too much and there is at least
+a minimal need to get along and make sure
+you have some basic rules for radio traffic
+and ships and habitats to move around.
+It is not much, but there is some minimal
+need for cooperation and some option to compel
+people to cooperate.
+Once you get into other solar systems there
+is just none.
+Yes the original solar system and later the
+core systems near it will probably have a
+strong headlock on technology and science
+and new art and entertainment.
+But it would be very hard to prevent anyone
+from getting their hands on it considering
+it would only take one infiltrator with a
+decent laser beam to send that information
+on to their rebellious home system.
+So to be honest I just don’t think anyone
+would try to maintain an interstellar empire.
+I don’t think you would see interstellar
+wars either.
+I can imagine hundreds of wars going on inside
+a K2, with armies and fleets that would make
+World War 2 look like a schoolyard brawl,
+though ironically even such conflicts might
+be considered minor squabbles inside an otherwise
+peaceful solar system.
+But interstellar ones, without faster than
+light travel, would almost have to be limited
+to squabbling over all those tiny icy rocks
+in between those solar systems which might
+best be regarded as rural villages of mighty
+metropolises.
+Space, again, is also 3-dimensional, so you
+have not got a few neighbors to pick a fight
+with, you have dozens.
+Now I could see interstellar organizations,
+or relative loose confederations with agreed
+on trade rules and currency, that sort of
+thing, but not what we would think of as an
+interstellar empire, maybe the occasional
+close union of a few hundred systems set against
+the backdrop of a few hundred billion colonized
+systems.
+So in that sense a K3 civilization, as a unified
+thing, is probably something that can never
+happen without some sort of workaround to
+the speed of light.
+As a caveat to this though we need to remember
+that there are quite a few places in the galaxy
+where stars are much closer together and in
+those you could get some genuine interstellar
+empires.
+Similar, from what you can do with Starlifitng
+and Shkadov Thrusters you could easily see
+fairly tightly packed artificially created
+pockets of red dwarf stars forming some sort
+of super Dyson.
+Or with fusion, no stars at all just a massive
+cloud of habitats packed in as tight as they
+can without cooking form their waste heat
+or collapsing in together under their collective
+gravity.
+You get this kind of swarms even if you have
+better sources of power than suns or fusion,
+like black holes or antimatter, because you
+want to be as close as you can to others for
+communication and the distances between objects
+in these swarms is already huge enough to
+satisfy privacy.
+The average distance between habitats is huge,
+and if that is not intuitive enough, the average
+distance between individual people if we scattered
+them evenly would be on an order or tens of
+miles or kilometers.
+So people are not spacing themselves out more
+for privacy, they’ve got it.
+They are doing it for waste heat and gravity.
+Closer together allows you to talk to people
+who are not in your habitat real time or with
+minimal light lag.
+Historically empires have often managed to
+keep things welded together even when it took
+routine communications months to get from
+point A to B and armies a year or more to
+travel.
+So if we were generous an and assume a 1-light
+year radius could hold together, and we contemplated
+that as a place where we just packed habitats
+in as much as we could without needing some
+new way to get rid of heat, that could actually
+be a few billion times more energetic than
+a classic Dyson sphere and that would be pretty
+close to a K3.
+I have no idea what to name something like
+that and I don’t feel like coining a term
+so if anyone can come up with one let me know
+in the comments.
+Some giant sprawl of habitats numbering in
+the billions of trillions, each running on
+their own fusion reactor in some giant light-year
+wide cloud bathed in infrared waste heat.
+Probably with quadrillions of ships flowing
+in to stop at each one every few thousand
+years to re-tank their fusion fuel from massive
+bunkers left over from using starlifting to
+cannibalize a thousand suns.
+Anyway, that’s about the only scenario I
+can see, if the speed of light remains a barrier,
+for anything like a unified K3 civilization,
+and that could stomp all over a K2 the way
+a K2 could stomp all over us.
+Now there really is not anything a K3 can
+do that a K2 could not do anyway.
+They would probably have way better technology
+but we already agreed not to use that as our
+standard.
+After all the Kardashev scale is entirely
+power based and a classic K3 would be a tiny
+slow pipsqueak compared to a single Matrioshka
+Brain, which is a K2 or maybe a K2.1 at best,
+But there is a long way between a K2 and a
+K3, and any number if 2.1 or 2.2 or 3 could
+engage in all sorts of projects like moving
+or making stars.
+I joked about a K2 crowdsourcing the construction
+of a discworld or hoopworld earlier, these
+could probably get away with crowdsourcing
+an Alderson Disc.
+Such civilizations can be moving and making
+Stars.
+They could be crowdsourcing bizarre megastructures
+like an entire star with a shell around it
+in the shape of face of a popular philosopher.
+Or they could be taking an example like the
+horsehead nebula and sculpting one to look
+like their favorite musician when viewed from
+their area of the galaxy.
+You can do some pretty extreme stuff at that
+level even if you are still running only on
+the sort of technology we can see ourselves
+developing in the next century or so.
+You can even start launching projects to go
+grab other galaxies that left to themselves
+would drift over the cosmological event horizon
+and drag them back.
+You can move galaxies as easily as stars,
+technology-wise anyway, obviously you have
+to scale things up a lot.
+Our own galaxy will stay locked to a handful
+nearby us even as the expansion of the Universe
+drags other galaxies away but you can get
+out to probably at least several thousand
+nearby galaxies and convert large chunks of
+them into Shkadov thrusters powerful enough
+to shove their galaxy our way fast enough
+to beat that out.
+Maybe a good deal more too.
+Even if you had to expend fully half that
+galaxy’s mass to get it back here and it
+would take a hundred billion years that might
+be worth it.
+This brings up the notion of civilizations
+beyond a K3, something Kardashev deliberately
+avoided defining as he viewed it as rather
+pointless.
+Even a civilization that had swarmed out over
+an entire Galactic Supercluster still would
+not meet the definition of a K4 using our
+open-ended Sagan modified form.
+And even a civilization which somehow had
+access to the entire mass of the Universe
+and could convert it into energy could still
+only operate as a K5 civilization, on with
+10^56 Watts of power to work with, for a few
+million years.
+Civilizations at that scale can only be contemplated
+if you definitely have access to either faster
+than light travel or there is a multi-verse
+and you can access that.
+Or you have just learned to sneer at the Laws
+of Thermodynamics and genuinely do have the
+equivalent of a power strip that can run by
+plugging it into itself.
+I think we will wrap up on that note.
+As mentioned, we discuss a lot of these ideas
+more in other episodes and will probably have
+even more episodes on some of these topics
+in the future.
+By now you ought to have some feel for how
+immense these sorts of civilizations can be
+and why we could and will probably become
+one ourselves.
+This also wraps up closely with the Dyson
+Dilemma of the Fermi Paradox since it is contemplating
+what these sorts of civilizations can do and
+how likely they are that leads to the conclusion
+of the Dyson Dilemma that intelligent life
+must be exceedingly uncommon or we should
+see these everywhere by now.
+By the way I would like to thank Martin Rezny
+of Rezonance for providing the musical accompaniment
+for this episode.
+If you would like to hear more of his work,
+or just hear it without me talking over it,
+he’s on soundcloud and there’s a link
+in the episode description to his work.
+If you enjoyed this episode, make sure to
+subscribe to the channel for alerts when new
+episodes come out, and please like and share
+the episode with others.
+Unitl next time, thanks for watching, and
+have a great day!

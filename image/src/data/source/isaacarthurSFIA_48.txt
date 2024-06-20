@@ -1,0 +1,604 @@
+We often fly through thin air to get to places 
+faster, but in the future we might travel  
+through no air at all, even here under the sky.
+So today we’ll be looking at the concept of the  
+vacuum train, which is a very large category 
+of vehicles for use on and off planets,  
+including one designed for getting off planets 
+like a mass driver, and more recently a strangely  
+controversial subject. I’m assuming some of 
+this is because of Elon Musk’s Hyperloop, and  
+all sorts of videos pointing out real or perceived 
+engineering or economic issues with the design or  
+its planned implementation along with rebuttals.
+I’m going to preface this video by noting that  
+the Hyperloop is one type of vacuum-train, 
+indeed one running on very low-pressure  
+rather than a full vacuum, and there 
+are many designs for many purposes,  
+both of hyperloops and of the wider category of 
+vacuum trains, along with pneumatic options like  
+scaled up versions of the message tube systems 
+a lot of office buildings or banks have. Some,  
+like the gravity train, aim to move objects 
+around a large body with virtually no energy  
+expended. Some are akin to the Hyperloop while 
+others are meant to run around planetary-scale  
+megastructures at near orbital speeds.
+There are a lot of points of overlap  
+in basic function with the Hyperloop so we will 
+address some of the common concerns raised about  
+that where it is relevant. And I should emphasize 
+that some of those are quite legitimate concerns,  
+though others are less so, and none of those 
+criticisms or rebuttals gain or lose validity  
+based on whether or not Elon Musk suggested 
+building it. There’s around a dozen startups  
+that were seriously looking at the Hyperloop, 
+and it's back in the news because one of those,  
+Hyperloop One, shut down recently, and until 
+last year it was called Virgin Hyperloop and  
+had Richard Branson as a backer rather than 
+Musk, so a different space mogul entirely.  
+Also the core concept of vacuum trains is over 
+a century old, and atmospheric or pneumatically  
+propelled railways even older, and it has 
+collected many problems and concerns as a  
+concept in that period along with many solutions.
+The first and most obvious is in the name, vacuum,  
+because the biggest limitation on speed and 
+guzzler of fuel is shoving your transport  
+through the air or water. In the absence of 
+friction or drag, once you got your car up  
+to speed on a freeway, other than slowing going 
+uphill a bit and speeding up on the way down, it  
+would stay the same speed the whole time and need 
+no more fuel. An object in motion stays in motion,  
+and at rest stays at rest, unless acted upon by 
+an outward force. This is Newton’s first law of  
+motion and the reason why you don’t need cruise 
+control in space. You only burn fuel to speed up,  
+slow down, or tweak your trajectory.
+If Earth were airless, ignoring that  
+your car’s combustion engine wouldn’t 
+work or would need to carry an oxidizer,  
+your mileage would more than double, as generally 
+speaking you have a bit more drag than rolling  
+resistance on a road. We can lower that ground 
+resistance a lot too, especially on a rail system,  
+where we aren’t worrying about the vehicle 
+needing to rapidly stop or change lanes or  
+skid on ice. Friction with a road surface costs 
+fuel but adds safety in maneuvering and reaction. 
+What’s more, air drag generally rises with the 
+square of velocity, so if we try to go 10 times  
+faster, we are getting 10-squared or 100 times 
+the drag, and things are getting even worse as  
+we hit the sound barrier, which is why we mostly 
+try not to. We can cheat in a tunnel though,  
+by lowering the air pressure or by moving 
+that air the same direction we want to go,  
+like being carried along by water in a 
+pipe, in which case the dynamics change. 
+Never try to think of any vacuum train as being 
+in true vacuum – as we discussed in zero point and  
+vacuum energy last year, that doesn’t exist and 
+honestly even near-vacuum isn’t worth obtaining  
+in general. Never think of them as zero energy 
+either, you will always have some sort of friction  
+and for this same reason, don’t assume one 
+running around outside of a space megastructure  
+like a Ringworld or Topopolis is going to be 
+moving at near-light speeds or even close. 
+Their functionality is a lot like that of better 
+roads. We figure out the economics based on if the  
+fuel savings from using an improved roadway 
+exceed the cost to make and maintain it,  
+and combine that with the time savings. Time 
+cost or opportunity cost can’t be ignored,  
+if I can get somewhere faster I can get more 
+done. Though we don’t want to assume someone  
+making forty dollars per hour driving an hour 
+into work who can commute in one hour each way,  
+and cuts that down to one hour for the round 
+trip, is truly saving forty bucks a day or  
+losing an hour by not doing so. Your transport 
+time can be productive for work or relaxation,  
+audiobooks come to mind, and all the more so 
+as we move into an era of automated driving,  
+though that’s been common with trains and planes 
+for a long time. You relax and nap or read a book  
+or the paper while stuffing yourself into a 
+small seat and hoping that the toddler sitting  
+in the row next to you is feeling sleepy.
+This is not an episode on the merits of  
+self-driving cars or mass transit, but we need to 
+be mindful that the raw engineering numbers never  
+tell the whole story and that as a result, that 
+story can turn out to be very different depending  
+on additional circumstances. Any minor new and 
+seemingly unrelated invention or even cultural  
+change in how transport or commuting is viewed 
+can alter the future of any of these systems. 
+Realistically, the basic notion of a 
+lower-pressure or vacuum transport system is  
+not to save fuel at lower speeds, though that can 
+be a powerful tool for mass cargo transport. It's  
+more about permitting high-speed point-to-point 
+transport between hubs and at speeds near or in  
+excess of the sound barrier at normal pressure, 
+this is the same reason planes fly so high, with  
+less air drag. In a more distant hyper-efficient 
+society it might be used for fuel-saving freight  
+and in a post-scarcity environment it could 
+manifest as underground vacuum tubes running  
+right to an individual home. Indeed pneumatic 
+tubes, which use air-pressure differences to push  
+cargo in a pod, have been considered as an option 
+to install to houses or individual apartments as  
+a means of mail and package delivery, much 
+as we often consider automated drones for  
+that nowadays. A vacuum tube big enough for a 
+passenger vehicle is obviously a big step up. 
+Strictly speaking a pressure vessel underground 
+isn’t using any more material than a driveway. It  
+is more sophisticated to build and maintain, but 
+we must not assume that to be a barrier forever.  
+The lower floor of my house has radiant heat 
+and carpet in my studio where I’m writing this,  
+a bunch of little tubes carrying around hot water, 
+which is pretty sophisticated compared to the dirt  
+floor my not too distant ancestors had, and 
+indeed even carpet is pretty sophisticated  
+stuff in the absence of modern machinery.
+In the context of large future societies  
+where our numbers might have grown and real estate 
+gotten to such a premium we build mega-skyscraper  
+arcologies or artificial space habitats for 
+more living space, the idea that those might  
+have lots of local hubs or even individual 
+connections to vacuum tunnels is not too hard  
+to fathom. It may be costly to go underground to 
+build transportation, if the alternative is to  
+stay on the surface, but if you are building the 
+arcology from scratch, you are building it anyway,  
+same as your elevator shafts. Same goes for 
+air, if your arcology is designed to be built  
+anywhere on the planet from tropics to arctic, it 
+probably has air pumped into to maintain desired  
+air pressure and composition. In which case it is 
+quite easy just not to pump it into some tunnels. 
+I should also note that one of the challenges I’ve 
+heard about hyperloops is that we can’t build a  
+tube that wide that has different pressure. 
+As mentioned, there are legit hurdles and  
+objections to these sorts of systems but this is 
+not truly one of them. It is a serious engineering  
+challenge to do it economically and we won’t dip 
+into that today, as others have discussed it more,  
+but I’ve seen a lot of folks on the internet imply 
+it’s physically impossible. It is not, and for  
+some current examples, for higher pressure within 
+than without, we of course routinely do that with  
+pipelines, though routine does not mean easy.
+For the other way around, lower pressure inside  
+than out, that’s called a submarine, and they’re 
+a lot wider and deal with a much larger pressure  
+differential than some transport tubes. And 
+while saying we’re going to run a tube at a  
+thousandth of Earth normal pressure might sound 
+impressive, remember that a tube with that inside  
+and normal air outside requires no more strength 
+than a tube sitting 10 meters under water would,  
+with normal air pressure inside and two 
+atmospheres of pressure in the water outside,  
+and we do have a lot of structures that exist 
+in far deeper and higher pressures situations. 
+Again, this doesn't mean there aren’t engineering 
+challenges involved in trying to build a  
+thousand mile long tube under pressure that pods 
+will be moving down at very high speed, all while  
+that tube gets rained on or hit with a wind gust 
+and is undergoing constant temperature variation  
+to expand or contract. That’s why an actual 
+vacuum train in space or one buried underground  
+where there’s no weather or temperature changes 
+is much easier, especially if you have a cheaper  
+way to dig tunnels than we currently do. But 
+there’s solutions for all of those problems,  
+it’s just trying to find which one is best 
+overall in cost, safety, and simplicity. 
+As an example, there are concerns about the 
+individual segments expanding thermally and that  
+being a hard problem to solve, and that likewise 
+is a well-understood problem in engineering that  
+we can handle with expansion joints. And which 
+requires tweaking to use in the actual vacuum  
+of space where heat comes and goes only by 
+radiation rather than convection or conduction,  
+except conduction along that tube of course.
+I should also note that while folks tend to  
+visualize these as some clear glass cylindrical 
+tube running above ground, it could just as easily  
+be a wide arched tunnel underground with several 
+rail lines running down it just like any other  
+transport tunnel we build nowadays. I don’t want 
+to be too blasé about that, things like airlocks  
+are tricky and costly additions and you also need 
+to run pressurized vessels inside these evacuated  
+tubes so people don’t die on the trip.
+We need to know what our ideal speed is  
+before we decide the pressure inside the tube 
+though, because while any drop in air pressure,  
+or more accurately air density, is going to lower 
+your air drag, the speed of sound drops a bit as  
+pressure does too. That’s for air though, and 
+I should note that Heliox, a mix of helium with  
+some oxygen, is a popular suggestion for filling 
+such tubes and we should be mindful that helium  
+is super-abundant in the universe and our solar 
+system, it just doesn’t like to hang around Earth.  
+Big tankers from Jupiter or Saturn might deliver 
+it here or to various other human habitats for  
+such uses in a future interplanetary economy.
+A helium filled tube is obviously not a vacuum  
+tube, and if you are wondering, the reasoning 
+is that you can run a Heliox tube at the same  
+pressure as a normal air tube and have way less 
+air drag. Helium also is chemically inert so you  
+don’t have to worry about it corroding things 
+or minimal leakage of it into your travel pods  
+having any other effect on people beyond making 
+their voice a bit higher. And your voice is higher  
+in helium because the speed of sound is about 
+three times higher in helium too, raising that  
+sound barrier limitation. The frequency of your 
+voice, or any wave, times the wavelength, equals  
+the speed of waves in that medium and you can 
+calculate any of those if you know the other two. 
+It's a debatable point but I lean toward 
+near-vacuum as better than filling things  
+with other gasses, and of course that’s only when 
+on a big planet with an atmosphere. On places  
+like the Moon, which is airless, or MArs, with 
+its very low air pressure, your vacuum tube is  
+only a tube to keep dust from getting on your 
+track and either messing up your low friction  
+rail or damaging your maglev equipment, as it’s 
+already vacuum or nearly so. On some planet with  
+stronger gravity you might have significant helium 
+still in the atmosphere and then it's cheap to  
+use too. So it just depends on the location.
+We assume this is fairly standard equipment  
+for any orbital megastructures, especially big 
+conglomerations of them that we often imagine  
+for collections of O’Neill Cylinders and their 
+associated or ancillary facilities. This might  
+be a simple tether you ran down or it might be a 
+tube, even in vacuum it can be good to have some  
+protective layer between you and the void. You 
+also need some mass to be pushing and pulling on  
+so even if you have super strong tensile materials 
+that can handle a train’s mass on a hair-thick  
+tether it makes things easier to go thicker or 
+have a tube to shove on. Though the more contact  
+points you have, the more friction, which is 
+why a magnetic field is preferable for that. 
+So they’re valid options for space applications 
+but they’re also good for getting into space. We  
+touched on that application more in our episodes 
+on Mass Drivers and Interplanetary Infrastructure,  
+but the basic notion is that you can build a 
+giant launch ramp into space using an evacuated  
+tunnel that exits over the atmosphere, as 
+we see with Star Tram’s design. A lot of  
+folks prefer the engineering of a platform 
+that begins and ends above the atmosphere,  
+that you reach by tether or elevator, and that’s 
+the launch mechanism used in the Lofstrom Loop,  
+the Tethered Ring, and the Orbital Ring. This 
+is also our default approach to them on places  
+like Venus or Titan with very thick and dense 
+atmospheres where a tube might float on balloons. 
+Needless to say, if I can launch something up into 
+space without rocket fuel, that’s a huge savings,  
+assuming I can put enough traffic through that to 
+justify the construction and maintenance costs.  
+You will never get things into space for the 
+actual kinetic energy they need to orbit there,  
+but you can get a lot closer with this method. 
+As an example, a person with a suitcase whose  
+combined mass is 100 kilograms needs about 
+3.2 billion joules of kinetic energy to orbit  
+Earth. Which sounds like a lot but it’s 
+about the same energy as in a year worth  
+of the typical human diet, or a couple tanks of 
+gasoline or half a barrel of crude oil. Whereas  
+those modern big rockets blow through a million 
+pounds worth of fuel per launch to get a few  
+folks into orbit and not much more cargo up there.
+A mass driver or vacuum train isn’t going to let  
+you get yourself into orbit for one barrel of oil, 
+which is trading as I write this for $78 a barrel,  
+but it’s able to get you into orbit for that order 
+of magnitude, so that flying to space costs in  
+the same sort of fuel ranges as driving or flying 
+across country. Which is why we contemplate these  
+for ground transit as it means getting from one 
+side of a continent to another faster than any  
+plane can get you there and for less fuel than we 
+get from ultra-efficient but slow freight trains,  
+which themselves tend to do as good as 500 
+miles per ton of cargo per gallon of fuel,  
+and are an order of magnitude more efficient 
+than even modern cars. So our vacuum train aims  
+to do even better than that for fuel efficiency 
+while outpacing a supersonic jet. This is the  
+fundamental appeal to them and why the idea 
+tends to have a lot of momentum in spite of  
+the engineering and right-of-way issues. 
+And I would say the right of way issue is  
+the bigger of those two problems currently.
+Now that gets us to the notion of a gravity  
+train and the simple conceptual notion is to cut 
+a hole right through the center of the planet  
+and evacuate it so that if you dropped down it 
+you’d accelerate on the way to the core and then  
+decelerate as you rose up to the surface on the 
+other side, all from gravity and needing no more  
+fuel or energy than whatever was lost to friction.
+Ignoring the issues with driving a tunnel through  
+the center of your planet, which we discussed 
+more in our episode Accessing Earth’s Core,  
+Earth is actually one of the best places to make 
+such a tunnel as it is the densest object we know  
+of in this solar system and density controls 
+your acceleration in vertical tunnels. The time  
+it takes to fall, assuming a sphere of uniform 
+density, is a formula that dates all the way  
+back to Sir Isaac Newton and his original work on 
+gravity, physics, and calculus. Needless to say,  
+worlds are rarely of uniform density but it tends 
+to give a decent approximation, and for the Earth  
+that trips is about 40 minutes each way, or 
+about 80 minutes to fall through a tunnel to  
+the otherside of the planet then back to where you 
+left, and a peak speed of 8 kilometers per second. 
+Non-coincidentally it’s a travel time similar 
+to one orbit around Earth at low altitude  
+and with a near-identical peak speed. You are 
+essentially on a high-eccentricity elliptical  
+orbit, though one in which the mass pulling on 
+you diminishes with radius, so don’t try to plug  
+that into Kepler’s orbital equation. Alternatively 
+on the Moon, with a radius of 1.7 million meters,  
+around a quarter of ours, and a surface gravity 
+of 1.6 m/s², that gives us a time of 3250 seconds,  
+or 54 minutes, and in our episode Moon, Mega-City, 
+we discuss this technology in more depth,  
+pardon the pun, since it is easier to dig there. I 
+think you wouldn’t just drop though under gravity,  
+but opt to accelerate and decelerate 
+magnetically on the journey to boost  
+the effect of gravity. You may also be using this 
+as a launching device to space on smaller bodies. 
+That said, while that can work on smaller bodies 
+like asteroids or moons, we really mean these to  
+run on tangents through the skin of a planet, not 
+through magma and a molten core. You can build a  
+lot of speed up by dropping a single kilometer in 
+a vacuum tube to run along a low friction track  
+buried underground. In a vacuum it will take 
+you about 14 seconds to drop a kilometer and  
+you would have a speed of 140 meters per second or 
+313 miles per hour at the bottom, which is quite  
+respectable for traveling around the planet.
+We have dug tunnels and mines a lot lower than  
+that too, and we may opt to make such tunnels 
+deeper, allowing a longer fall and thus faster  
+travel, but you have to fall four times further 
+to get twice the speed and nine times further  
+to get thrice the speed, so there’s going to be a 
+practical cutoff and probably at a less depth than  
+we can actually go. We also can still accelerate 
+in such a vacuum tunnel, we’re not limited to  
+gravitational freebies, they just make it cheaper.
+I think digging tunnels that deep is not going to  
+be cheap itself but it might circumvent a lot of 
+right-of-way issues trying to build on or near the  
+surface. It’s not hard to imagine us having such 
+tunnels all through various lower-gravity bodies  
+where less effort is needed to hold that tunnel 
+up or keep a vacuum on it. But as we discussed  
+in Domes of Mars, superstrong materials 
+like Diamond and Graphene are just carbon,  
+a very abundant substance and indeed one more 
+abundant in our atmosphere than we’d prefer,  
+and we can make them in the lab and have discussed 
+sequestering carbon by making such materials. So,  
+we could easily have costs on mass-manufacturing 
+them drop the way they did on steel or aluminum  
+in the past, and then your equation for 
+a lot of building projects shifts hugely. 
+As such, on Earth it’s a bit harder to say 
+if such tubes would ever be practical enough  
+that we’d dig them everywhere. Realistically 
+I think if we were making underground vacuum  
+tunnels on Earth our focus would be on putting 
+them wherever the engineering worked best, which  
+would vary on location. Much like with highways 
+and railroads, we can bend around as needed  
+but try to keep it straight. That’s a lot more 
+important for high-speed vehicles too, as your  
+safe turning radius rises sharply with velocity.
+I think you would want to dig well under whatever  
+the common building depths were, which might 
+mean hubs in cities dipped down quite a bit,  
+while we might even run them just under the soil 
+in some places or even over ground. I don't think  
+we would care as much about the free energy to 
+speed up because on a normal track there will  
+still be some friction and on something like 
+a maglev train over superconducting magnets,  
+you can still do regenerative braking 
+to pull some of that energy back. 
+So the gravity train only works in a vacuum 
+train context, otherwise you are still dumping  
+in tons of energy to maintain speed, but that same 
+setup makes the gravity aspect rather secondary,  
+at least on Earth and for transport of people and 
+parcels, because the lack of friction and need to  
+constantly apply energy to maintain speed just so 
+overwhelms the free speed up from falling down. 
+Still, I could see mass freight being done 
+this way and by deeper tunnels and ones that  
+made use of thermocouples and the large 
+temperature increase at greater depths to  
+provide your power for maintaining that tunnel.
+We can also imagine it for very high acceleration  
+rates to launch objects where even a minimal 
+curvature such as a planetary surface represents  
+too sharp a turning radius. You might run a tunnel 
+underground in a near-straight line from LA to an  
+opening in the Atlantic Ocean that rises above 
+the atmosphere where after 10,000 kilometers  
+and a 10-g acceleration rate you are hitting 
+space at 44 kilometers per second after just  
+over seven minutes. Very much a nice and usable 
+interplanetary speed. And we have lots of cargo  
+that could handle a 100-gee acceleration 
+and come out of that tunnel into space at  
+140 kilometers per second, while raw materials 
+like metal ores might easily handle 1000-gees  
+and emerge at 440 kilometers per second. 
+That is sufficient for interstellar travel,  
+albeit the really slow kind we only contemplate 
+for shipping of raw metals or other substances  
+that time doesn’t take much of a toll on.
+So as we can see, these are handy everywhere and  
+whether or not you build them just depends on how 
+cheap and sturdy you can make your infrastructure.  
+It’s a no-brainer on megastructures simply 
+because those only exist if the answer to  
+the cheap and sturdy question is ‘yes, very”, 
+as stringing some tunnel along the outside of  
+your massive county-size pressurized can sitting 
+in the vacuum of space is about as big a feat as  
+running an electrical wire through your home, 
+compared to building and decorating it. And it  
+lets you cut down on roads inside your habitat. 
+This means most folks living in a cylinder  
+habitat probably have basement access to various 
+trains, though you still may run tethers up to the  
+central axis too. And while we say trains, you 
+don’t need to be that much more sophisticated  
+to go for individual pods, or even something 
+a person in a space suit could travel along. 
+These are going to have a maximum speed though and 
+I think we can say well short of relativistic. Any  
+accident inside one, on the outside of a rotating 
+habitat, is blowing most of that force out and  
+away from the station but not all of it and some 
+ten-ton cargo pod moving at 1% of light speed,  
+even if only 10% of its energy is going into 
+the walls, is still hitting like a megaton nuke.  
+Which your hull might be designed to handle 
+without catastrophic rupture with damaged or  
+hijacked spacecraft in mind but probably is on 
+the high end of what you’d even consider for any  
+transport tube. I’m guessing by at least an order 
+of magnitude, and moving at a thousandth of light  
+speed instead is very sufficient for travel around 
+even enormous megastructures like Banks Orbital,  
+A Niven Ringworld, or even a Topopolis.
+And a cool thing about them, as we discussed in  
+Interplanetary Infrastructure, is that you might 
+build your rail lines between planets themselves,  
+which requires some additional 
+engineering tricks but is doable  
+under known science, see that episode for details.
+So I don’t know when vacuum or low-pressure trains  
+are going to emerge on Earth, probably before 
+we build many off Earth, but I am confident the  
+future of transportation will see lots of vacuum 
+trains speeding along and carrying us around and  
+off our pale blue dot into the galaxy beyond.
+Today we were talking about how vacuum trains  
+might be vital for moving around 
+big megastructures, like Ringworlds,  
+and one megastructure that would really 
+need vacuum trains is a Topopolis,  
+a rotating habitat that’s essentially a very 
+long O’Neill Cylinder, many miles wide but  
+potentially thousands or even millions of miles 
+long. But you might also travel inside one more  
+conventionally and the Topopolis seems like it 
+would inevitably have one long river running  
+down its whole length, like a giant fertile river 
+valley civilization of incomprehensible length. 
+In this month’s Nebula Exclusive Topopolis: The 
+Eternal River, we explored these megastructures  
+and what they’re like inside. Join 
+us in journey down a river so long  
+it traces out a thousand worlds as we explore 
+a megastructure buildable with known science  
+and materials but of unbelievable proportions.
+And again, that’s out now exclusively on Nebula,  
+our streaming service, where you can also see 
+every regular episode of SFIA a few days early  
+and ad free, as well as our other bonus content, 
+including extended editions of many episodes,  
+and more Nebula Exclusives like last month’s 
+look at Giant Space Monsters, December’s  
+episode The Fermi Paradox: Hermit Shoplifter 
+Hypothesis, Ultra-Relativistic Spaceships,  
+Dark Stars at the Beginning of Time, Life As 
+An Asteroid Miner, Nomadic Miners on the Moon,  
+Space Freighters, Retrocausality, Orch Or & 
+Free Will, Colonizing Binary Stars, and more. 
+Nebula has tons of great content 
+from an ever-growing community of  
+creators. Using my link and discount it’s 
+available now for just over $2.50 a month,  
+less than the price of the drink or snack you 
+might have been enjoying during the episode. 
+When you sign up at my link, 
+https://go.nebula.tv/isaacarthur  
+and use my code, isaacarthur, you not only get 
+access to all of the great stuff Nebula offers,  
+like Topopolis: The Eternal River, you’ll also 
+be directly supporting this show. Again, to  
+see SFIA early, ad free, and with 
+all the exclusive bonus content,  
+go to https://go.nebula.tv/isaacarthur
+Next week we’ll be finishing the month of  
+February on the 29th with a journey to a colony 
+ark ship that is itself journeying to new worlds,  
+and yet in which entire cultures might exist 
+for generations on board one, and we will ask  
+what life on an ark ship is like. That will take 
+us into March, where we’ll begin by heading to  
+the beginning of time for a look at Primordial 
+Planets. Then we’ll continue our discussion of  
+terraforming from earlier this week when we looked 
+at terraforming our own Moon by asking if and when  
+terraforming in general is ethical, and what 
+sorts of challenges future civilizations will  
+face on deciding whether or not a planet should be 
+terraformed and to what degree. Then we’ll travel  
+toward Mars to look not at the Red Planet, but 
+instead at its two tiny moons, Phobos and Deimos,  
+and ask why and how we could settle them.
+If you’d like to get alerts when those and  
+other episodes come out, make sure to hit the 
+like, subscribe, and notification buttons. You  
+can also help support the show on Patreon, and 
+if you’d like to donate or help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early and 
+ad free on our streaming service, Nebula,  
+along with hours of bonus content like Topopolis: 
+The Eternal River, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

@@ -1,0 +1,865 @@
+A million years is a long time.
+A million years ago mankind did not yet exist,
+and yet, we can still contemplate the same
+timescale for an interstellar mission in our
+future.
+So today we return to the Generation Ships
+series for our fourth episode.
+In the first we looked at the basic concept
+and its history; in the second, “Exodus
+Fleet,” we looked at more of the physics
+of building, moving, and powering these ships;
+and in the third episode, “Exporting Earth,”
+we got some idea how big these ships need
+to be in order to move viable ecosystems to
+new worlds on centuries long voyages.
+Today, we’ll be focusing more on how you
+keep such a colony ship or fleet maintained
+that whole time, particularly in regard to
+the civilization on it, the social drift involved,
+and if we could realistically keep a ship
+going for vast amounts of time, potentially
+a million years.
+It does no good to keep a ship running for
+many centuries if the people have forgotten
+what the mission is, or to keep them focused
+on that goal only to have the ship simply
+break or run out of resources before they
+arrive.
+A million years is an eye blink in astronomical
+terms, but it’s a near eternity in human
+terms.
+It’s about how long humanity has been around,
+depending on how you define human, but it’s
+a couple of hundred times longer than our
+entire recorded history.
+Even a century is a long time for a civilization,
+as not many last more than a few centuries
+and even if they do they’ll change radically.
+This episode will come out on October 11th,
+2018, a month from now, on November 11th,
+it will be the 100th anniversary of the end
+of World War 1.
+That’s a time that’s similar enough that
+most of us could still function in our homelands
+of that era - speak the language and navigate
+the social mores etc - yet it’s a very different
+world, with different priorities, and not
+just because of technology.
+The 20th century probably had the most dramatic
+changes of any of its predecessors, but every
+culture changes a lot from one century to
+the next, something that can get missed when
+we read quick surveys of history.
+That said, human culture does tend to pivot
+around basic biological imperatives.
+A culture can get very far away from the norm
+but generally it does stay mostly leashed
+to a general area.
+I’d be hesitant to say a culture can drift
+far off that basic biological norm, particularly
+since we can’t really pinpoint what that
+is, but it would tend to seem the more numerous
+and spread out a culture is, the less it will
+tend to drift far away from the median and
+the longer it takes to do it.
+One thing we’ve seen throughout the series
+is that generation ships tend to do better
+the bigger they are, and this is just one
+more reason to think bigger is better.
+Alternatively, technology we have now or close
+on the horizon eliminates a lot of the needs
+for bigger populations.
+As we saw last time, when discussing the biological
+and ecological aspects of generation ships,
+the need for large populations has to do with
+social continuity, something not unique to
+humans and not genetics itself, as we can
+circumvent or fix that problem with frozen
+or digital DNA and gene therapy.
+Even on a million year journey, far longer
+than anything can last even frozen, that digital
+option of having DNA encoded and being able
+to print it, tech we already have even if
+it’s still in its infancy, ensures no generation
+ship would have genetic issues.
+Of course, that’s assuming they keep their
+technology, and that’s a popular theme in
+fiction for colony ships and colonies themselves,
+that they lose their tech during the flight.
+We see examples in works like Robert Heinlein’s
+“Orphans in the Sky” and Gene Wolfe’s
+“Book of the Long Sun.”
+In the former, they essentially are maintaining
+the ship with a Cargo Cult mentality.
+They don’t really get the science and technology,
+they just have rituals for it, very akin to
+the Adeptus Mechanicus of Warhammer 40k.
+There’s a certain legitimacy to this, too.
+A generation ship, even a pretty big one,
+is still one lacking a very large population.
+If we scooped up the population of a medieval
+city of maybe ten thousand and dumped them
+into a full-size O’Neill Cylinder, they’re
+very unlikely to ever develop modern technology.
+There’s no coal or oil, and at a few hundred
+square miles of living area, that drum has
+a carrying capacity of maybe 30,000 people
+using medieval farming technology.
+It’s hard to imagine them making much technological
+progress.
+If they fell back to being hunter-gatherer
+tribes, they could support only a few hundred
+people.
+So you do not want to lose your technology
+on a trip like this, because if you do, you’re
+never getting it back.
+Even ignoring that, the ship probably needs
+maintenance and will fall apart otherwise.
+It’s also very unlikely to happen.
+Common sense says a ship maintained by a bunch
+of modern scientists and engineers is going
+to fare better than one run by medieval peasants
+trained to perform ritualized tasks.
+So you wouldn’t do it intentionally.
+We already memorize a lot of stuff like start-up
+or maintenance procedures for this or that
+piece of equipment, you don’t need to invent
+a religion or culture devoted to that.
+One might tend to emerge naturally with time.
+We tend to incorporate our priorities and
+goals into our belief systems, spiritual or
+secular, and indeed we often develop subcultures
+around specific fields or professions, but
+that doesn’t imply forgetting our science
+or history.
+Consider, any given maintenance or production
+aspect of a ship that’s important will tend
+to draw folks to it who value that.
+When a leader is getting selected for that
+group, it’s going to be based on some combination
+of competence in the field, at skilled administration
+of the work, and at being a good spokesperson.
+None of those qualities would tend to result
+in a mindset that wanted to change it from
+an effort at true understanding to ritualized
+performance of duties.
+Let’s also not ignore that there’s likely
+to be some competition for positions or shifting
+to other duties, both of which encourage folks
+to try to be good at what they do and cross-train
+to other skills, neither of which would encourage
+memorization over true understanding
+Now, overtime duties could still develop into
+ritualized tasks, one could imagine positions
+being passed on as hereditary offices, that
+tends to happen a lot with skill trades traditionally
+because Dad is a blacksmith and his son grew
+up helping out in the shop and is pretty good
+at it.
+If you get raised doing something, you are
+typically better at it than another random
+person who started later, but there will be
+other folks with a deep passion and talent
+for it too.
+If a system is working well, an awful lot
+of folks in a field will be second-generation,
+having picked up a passion and talent for
+a field while growing up surrounded by it,
+but most won’t be.
+Other folks will acquire a passion for it
+and apprentice in it, while many kids will
+want to grow up and do something else.
+That’s the problem with hereditary succession.
+Not everyone is going to have the passion
+or talent their parent had, but if they do
+it anyway, they’re just good enough at it
+that more skilled folks are bypassed, nepotism
+creeps into the whole system, and actual incompetents
+sneak into important positions.
+And the system can go entirely hereditary
+if a trade guild keeps its knowledge secretive
+to protect their interests and rarely permits
+new folks in.
+Those processes take generations, but this
+is a generation ship.
+One advantage we have here is that those colonists
+are probably supplementing their gene pool
+with frozen or digital stock, so you’d expect
+a lot of kids would not be genetically related
+to one or more of their parents, which would
+probably discourage a focus on hereditary
+privilege.
+Though note that I said supplementing.
+You likely only need a gene pool of a few
+hundred people breeding normally to keep things
+healthy so long as a decent minority of kids
+were getting born from frozen stock.
+They also are probably pretty good at genetics
+and automation, this has some major consequences.
+First, they likely are longer-lived than you
+or I, meaning decay is likely to be much slower.
+Even just having most people live the natural
+human lifespan like we have now has a pretty
+big impact on our culture and if folks routinely
+live over a century – potentially much longer
+but we’ll save that for another day – they
+should be much better at retaining knowledge
+and skills and the original mission intent,
+more than just proportionally to their lifespan
+increase too.
+They probably do have access to fairly sophisticated
+gene therapy as well, which again is handy
+for avoiding genetic problems but also means
+they probably can tweak kids to be smarter
+or healthier on average.
+Add to that, they are good at automation,
+the existence of a giant generation ship tends
+to indicate that in the first place, you can’t
+realistically build such things without a
+lot of automation.
+This means they don’t have many tasks people
+can do better through a ritual than thinking
+about it, because those are the first and
+easiest things to automate.
+The colonists aren’t working in a factory
+recycling and reforging new bits of hull plating,
+they’re working on the robots who do that,
+or the robots who do the robot maintenance.
+They are still vulnerable to rote memorization
+over understanding, since any standardized
+piece of equipment is going to have a lot
+of maintenance issues where a memorized diagnostic
+and maintenance procedure will be outlined,
+but again having those doesn’t mean you
+lack understanding of what’s going on, just
+that you don’t have to think much to do
+it.
+When I was in the Army I spent a lot of time
+fixing, maintaining, and instructing people
+on various weapons and equipment, all three
+of those tended to involve a lot of memorizing,
+but they’re also great ways to learn.
+Taking something apart and fixing it, or teaching
+someone how to use it, are two of the best
+ways to learn yourself, and in doing so I
+went from fairly mediocre at marksmanship
+and maintenance to being a sharpshooter and
+skilled gunsmith, somewhat atypical skills
+for a scientist admittedly.
+But we all have those extra skills, especially
+nowadays when technology means we have more
+free time each day, access to all of human
+knowledge, and a longer average lifespan to
+pursue that knowledge.
+I’d have problems imagining us turning into
+cretins, cultures change on unpredictable
+lines, but background influences matter.
+If you picked the hundred or so cultures that
+have existed and that most valued knowledge
+and learning, the overwhelming majority of
+them would be around right now, this would
+not seem like a bizarre coincidence.
+That would be even more noticeable if we specifically
+limited it to technical and scientific knowledge.
+Again cultures place an emphasis on what’s
+important to them, I could imagine a ship
+on a very long journey losing its focus on
+the eventual colony effort, I can’t see
+them losing interest in maintaining the ship
+they’re living on.
+We can’t rule it out entirely, but it’s
+seems unlikely even on a very long trip.
+However, forgetting how to terraform a planet
+is another story.
+Now, if they’ve kept their interest in science
+and technology they presumably kept their
+colonization skills recorded and should be
+able to train those back up fairly quickly,
+and their real limit is the unavoidable one
+that they had when they left, none of them
+had ever done it before.
+However, you probably do have plenty of colonies
+already, we should never have to employ true
+generation ships to reach the nearest stars.
+It might take a century or two for a ship
+to reach the hundred or so nearest solar systems,
+and that means there are generations going
+on, but not so long that you’d expect them
+to lose their technology or mission goal,
+and they’d be getting constant updates from
+each other about other missions that had arrived
+and were busy terraforming.
+After that, every ship would have endless
+updates and progress reports and papers about
+terraforming to draw on from prior missions.
+You colonize closest first, so folks leaving
+for more distant missions will be passing
+by already established colonies on the way
+out from which to draw tips, indeed they’d
+generally have systems nearby them who were
+a generation or two ahead on the task, they
+don’t have to phone home all the way back
+to Earth for help.
+Indeed, since new colonies are likely to have
+kept their spaceflight capacity, you might
+easily be joined near the end of your trip
+by a passenger ship full of eager experts
+who have gotten bored with their work on their
+own system a dozen light years back and are
+racing to join you to ply their trade on a
+virgin world.
+A passenger ship doesn’t need to be very
+big or redundant, if it’s just chasing to
+rendezvous with a fleet still cruising to
+its destination, particularly if they can
+freeze their passengers, something we’ll
+talk about next time.
+But it’s important to note that while you
+are on the one hand all alone in the empty
+night, potentially hundreds or thousands of
+light years from home, all but that last generations
+of travelers on a colony ship may be moving
+through space where other colonies already
+exist.
+You can’t rely on them for much physical
+aide, as there’d still be years of delay
+for them to even know of a problem and many
+more to get something to rendezvous with you,
+but they are providing a constant background
+hum of aid, well wishes, knowledge, culture,
+etc.
+Things differ a bit if the mission isn’t
+colonization, or if your colony was intentionally
+aiming for isolation and picked a world far
+from the frontier, a fairly likely scenario
+and one which amusingly means the expanding
+sphere of main colonization might bump into
+strange colonies hiding on the fringe.
+Particularly since an isolationist group likely
+already is more prone to many of the behaviors
+that might cause certain aspects of their
+culture to drift quickly from the human norm,
+so they might be quite alien.
+But drifting off the original mission could
+happen fairly quickly, even if it doesn’t
+involve them losing their knowledge.
+A common concern is that the second generation
+of colonists didn’t pick the mission, they
+were born on it and are stuck with it and
+might resent that.
+Let’s not even say might, many will.
+It doesn’t have to be rational, people gripe
+about things without good logical basis for
+them all the time, but it is a legitimate
+complaint.
+I didn’t pick where I was born, none of
+us did, and we don’t tend to resent that,
+but I can leave, and people often do “get
+out of this Podunk town when I grow up”.
+Even if they don’t, the option was there
+as a release valve.
+Folks on a generation ship cannot and do not
+have that release valve.
+This is one reason I’d tend to expect a
+preference for a colony fleet rather than
+a single ship, and for habitation on those
+ships to still break up into groups.
+Better a dozen medium-sized ships than one
+large one.
+We already discussed the advantages of that
+in Exodus Fleet for redundancy, but here we
+see a social advantage.
+You could have a fleet, all close together
+while cruising so folks could shuttle or even
+tether back and forth, and each with redundant
+components but some specialization.
+Never anything that would cripple the mission
+if that ship blew up, but you might have Hulltown
+on one ship, where they gather worn down and
+eroded ship plating and recycle it to make
+new ones for every ship.
+Each ship might have an Engineberg, where
+the focus was on maintaining the power plant
+and ship drive, and an Ecotown, devoted to
+providing food and overseeing the flora and
+fauna they couldn’t freeze for the trip.
+This gives everyone a place to go if they
+want to leave their community or get ostracized,
+gives them a sense of independence from each
+other that would act as a check on any changes.
+It’s easier to seize power in a city of
+10,000 on one ship and try to implement a
+course correction to a new world than to seize
+power in 100 villages of a hundred scattered
+across 10 ships.
+This doesn’t mean that if the mission is
+long enough you can’t have this breakdown
+in science and technology.
+Engineberg might go from being dominated by
+engineers who work on the power plant to engine-seers
+who oversee the Holy Temple of the Sun God,
+given thousands of years to do so.
+However you’d still have one on each ship
+and likely not all would go the same way and
+act as a break on each other drifting, and
+moreover drifting in ways that didn’t work
+well, since there’s likely to be at least
+some competition in such situations.
+If two ships in a colonial fleet are in competition
+or conflict, over their approach to maintaining
+engines, the one using the method that works
+better is generally going to win in the long
+term.
+Also, the more technology and science you
+have, the harder it is to lose, to a certain
+point, since it enhances things that make
+learning easier and more necessary.
+You need technicians to fix the robots, those
+robots give you a lot of free time to think,
+and so on.
+At a certain point this could break down though.
+A ship that is automated enough might actually
+be a hindrance, particularly if it can maintain
+itself and the humans on board are simply
+passengers, like the animals, not crew.
+I was joking about ritually applying holy
+oil to machines a bit ago and I imagine many
+of you caught that as reference to the Mechanicum
+of Warhammer 40k, and one of their notions
+is that every machine has a spirit in it,
+some fragment of the Machine God, their literal
+Deus Ex Machina, that they worship.
+That fictional setting is full of contradicting
+canon but a thing a lot of folks miss about
+it is that it isn’t meant to be taken as
+necessarily them being stupid and non-scientific,
+though it depends on the author of any given
+book or game in the setting.
+Beyond that their Universe is full of weird
+warp entities that tend to possess people
+or machines anyway, they had a huge robot
+rebellion way back and tons of viruses unleashed
+then or in any of the virtually endless wars
+40k is known for.
+A popular fan theory at least some of the
+writers seem to subscribe to as well, is that
+virtually every piece of technology they have
+has some computers in it and they are all
+infected with various artificial intelligences
+of various levels of quirkiness and insanity,
+so the Tech Priests of the Mechanicum might
+actually have to genuinely appease the machine
+spirit of a device and probably unsurprisingly
+appeasement methods would tend to correlate
+strongly to proper maintenance methods too.
+If your car had a personality, odds are good
+that changing the oil regularly would be ones
+of those things that you’d need to do to
+keep it happy and not deciding to suddenly
+stop working because it feels abused.
+It’s a crazy and contradictory setting,
+which is generally worse about keeping the
+science in their science fiction than Star
+Wars is, but much like satires like Futurama
+or Rick & Morty they often manage to hit some
+bull’s eyes.
+A term I sometimes borrow when thinking about
+maintenance of various space habitats and
+megastructures is Genius Loci, the Roman concept
+of a protective spirit of a place.
+It would be very easy for me to imagine virtually
+every space habitat having an artificial intelligence
+that existed to maintain it, given a lot of
+intelligence to handle unpredictable events
+or sabotage too.
+It would also be very easy to imagine such
+a thing mutating down the years until it thought
+of itself as essentially the protective spirit
+of such a place and might even branch out
+how it did that protecting, like hitting someone
+with a lightning bolt if they misbehaved.
+It would also be easy to imagine almost every
+device intended for self-maintenance to have
+a limited intelligence and personality.
+This brings up a problem.
+People might forget a lot of knowledge if
+they themselves don’t have to practice it,
+because the ship maintains itself and its
+mission, and rapidly take a backwards approach
+to Arthur C. Clarke’s famous quote that
+any sufficiently advanced technology is indistinguishable
+from magic.
+They might forget stuff as they replaced it
+with close parallel rituals meant to keep
+those devices happy and working.
+This also brings up another disturbing issue.
+I can make a smart machine with a specific
+set of priorities it will stick to and which
+can exist indefinitely, there’s concerns
+about it going rogue or mutating, but probably
+on far longer timelines than a human culture.
+A problem with smart people is that they are
+actually more dangerous than dumb ones, especially
+to large systems with lots of redundancy that
+can survive someone just smashing them with
+a blunt object.
+In fact some crewmember going nuts is one
+of the reasons bigger crews are better, one
+person going ax crazy from isolation in a
+crew of six is a much bigger threat to a ship
+than one person in a hundred thousand.
+Note how we keep converging to bigger is better
+for colony ships.
+So you might willingly dumb folks down for
+these voyages.
+You might rely on the Genius Loci of the ship
+to command and train them when they approach
+their destination, similar to the seed ship
+notion we’ll discuss a few episodes down
+the line where an AI ship arrives and grows
+and raises all its colonists, but more modest.
+You might steal a page from Isaac Asimov’s
+Foundation series, where Hari Seldon predicts
+the future and guides humanity after he’s
+dead by having holograms of himself pop up
+to explain what’s going on and nudge them
+on the right path.
+You also might take the Pacman ship approach
+we discussed a couple episodes back where
+you litter the ship’s course with new raw
+materials and include redundant copies of
+knowledge databases and mission profiles.
+More on that in a moment.
+While we were brainstorming for this episode
+we thought of tons of way to keep the knowledge
+around or revive it, both the technical knowledge
+and mission goals, but most had new problems
+they introduced too.
+Many could be used in combination to work
+better, others could not.
+One thing they all had in common is they were
+very manipulative.
+We launch people, and whether that first generation
+was in on it or not, every future generation
+at least was essentially a pawn being manipulated
+by a dead hand.
+This strikes me as both very unethical and
+a poor strategy too.
+I don’t want someone dead a thousand years
+trying to tell me what to do, not just because
+I’m my own person, but because I am on the
+scene in the present with a better knowledge
+of the situation.
+I don’t have to be as wise as they to come
+up with an equal or better solution, because
+I know the problem at hand better and what
+tools I have to deal with it, but I probably
+am wiser in that regard because I live now,
+and have had all those centuries of other
+people since then who have been learning and
+solving problems.
+Moreover, and it’s a personal attitude that
+I think helps me keep more positive about
+the future in general, it’s not just that
+I think we do get wiser as a civilization
+with time, it’s that I don’t actually
+care what happens to our descendants if they
+don’t.
+I expect them to solve their own problems
+as well as we could if we were resurrected
+in their time to deal with them, and if they
+can’t, then that’s on them.
+So for colony ships, my attitude is to give
+them a mission in mind, and the tools, resources,
+and flexibility to accomplish it, knowing
+that it probably won’t be exactly what I
+had in mind but where it diverges from that,
+it’s more likely to be in a good way than
+a bad way, on the whole.
+Of course that’s another reason I don’t
+think of single colony ships but fleets of
+them for each system to be colonized and millions
+of those fleets.
+In that context, with you simply expanding
+as a vast sphere, you can afford some failures
+and nobody is truly isolated.
+Of course this was all the social preservation
+aspect, the mechanical side is either much
+easier or much harder.
+There are some things we could build that
+would keep functioning for thousands or even
+millions of years, especially in the vacuum
+of space, where so long as they are shielded
+from radiation they have little to erode them.
+However complexity is not your friend in case
+like this, nor is compactness, a mountain
+can last eons and still be a mountain whereas
+a modern computer will cease being a computer
+pretty much in mere years.
+Also, while we might be able to design a ship
+that can keep its crew on ice and just plow
+through the void without much maintenance,
+humans tend to accelerate decay around them
+as does biology in general, and as we mentioned
+back in the first episode, you can only freeze
+people for a few thousand years before the
+radioisotopes in their own body will kill
+them.
+This means your ideal strategy is to go for
+maintenance, not endurance, and that means
+you need to be able to replace every single
+component of that ship.
+This is handy as it means you can manufacture
+at your destination too, making all the colonial
+gear you need and even making new ships if
+needed, but it means you need to have that
+manufacturing capacity on the ship, know how
+to use it, and be very good at recycling.
+You also need to keep stockpiles of reserve
+raw materials around.
+You will be losing some with even the best
+recycling, and whatever you are using for
+power will be slowly depleted.
+That will likely need to be atomic, be it
+fusion or fission or even passive decay, but
+such materials are energy dense enough to
+allow you to power a ship for a million years.
+A thing to remember too, some materials have
+half lives short enough that a million years
+might deplete them, so you will be losing
+mass to various factors no matter what you
+do, and that loss can stack up.
+Just as an example, a ship that lost 1% of
+its mass to outgassing or lost parts every
+century, a very high rate of efficiency, would
+arrive just fine at a nearby star a century
+away.
+One on a voyage of a thousand years will have
+lost just under 10% of its mass.
+It will be down to 37% of it mass in 10,000
+years, and will be down to just .0043% of
+it mass in 100,000 years.
+In a million, even a ship that started off
+the size of mountain would be down to a single
+atom.
+So you need to do way better than 1% loss
+a century, with an effective ship half-life
+of 7000 years.
+Or you need to be able to pick up material
+along the way.
+For this first, we have some examples, and
+again, bigger is better, Earth is a spaceship,
+and one working fine after over 4 billion
+years of travel.
+We do lose material, but far slower than 1%
+a century.
+The bigger your ships are, the easier it is
+to prevent losing mass, you can have thicker
+ship hulls, even multi-layer hulls, that leak
+less and little cracks or losses to an airlock
+are proportionally much smaller.
+Build big enough and you’d actually retain
+some material by gravity, but you have to
+get very big for that, and we’ll discuss
+Planet Ships another time.
+Now to gather material along the way you either
+have to stop fairly often or be keeping to
+speeds that allows you to profitably gather
+materials.
+That start and stop method is something we’ll
+discuss more later too, in Gardener Ships,
+since it would tend to make sense to stop
+for a while and setup a colony, then move
+on and do it again.
+We also have the Pacman approach, where pods
+are sent at fairly similar speeds, so the
+ship need not slow to gather those resources.
+As to grabbing resources as you go, this all
+has to do with your internal power plant.
+If you’re flicking along at 2 or 3 percent
+of light speed on a fusion engine, you can
+probably absorb interstellar gas as you go
+and refine it for fusion fuel and heavier
+elements, but if you’re going much faster,
+trying to suck that matter in is going to
+result in slowing you down by more than the
+energy in that fuel is worth.
+If you run on uranium or thorium, much rarer
+than hydrogen and much lower in energy density
+than fusion, you’ll have to go even slower.
+Alternatively if you’ve got matter to energy
+conversion or a black hole drive, something
+we’ll also discuss more later in the series,
+you can probably achieve a cruising speed
+of more like half of light speed.
+You will have a breakeven point for any drive
+where if you go any faster, you’ll slow
+down more than the fuel you are running into
+can speed you back up.
+This break even point becomes your cruising
+speed.
+But the void of space isn’t a complete void,
+there’s gas and dust, and it isn’t just
+hydrogen and helium, so you could resupply
+this way.
+It’s not as cool as a bussard ramjet, which
+was proposed to let you indefinitely accelerate
+this way, but it should be viable whereas
+the Bussard ramjet isn’t.
+It’s an interesting ship design paradigm
+shift too, we always picture spaceships, especially
+interstellar ones, as long and narrow, to
+cut down on collisions and drag from those
+gases and dust, but if you’re collecting
+them you want to be wide, and for many of
+our designs that rely on long distance laser
+propulsion, you also want to be wide.
+We usually assume extending a cheap thin sail
+or collector for those ends, or even just
+a magnetic field, but it does give you an
+excuse to make ships that aren't shaped like
+needles or arrows.
+And it’s not just gas and dust out there,
+it accumulates into small clumps and you could
+possibly send a smaller ship to harvest that
+and then catch back up.
+It still has to pay the energy bill to slow
+down and speed back up, but it might be able
+to cheat.
+A collector ship could stop on a small rogue
+planet you spotted, burning a lot of fuel
+to do that, and collect much of it but leave
+much behind, building a big laser powered
+by materials on that mined out object to push
+it back up to speed, so it can catch back
+up and just decelerate a little so it doesn’t
+overrun the fleet.
+This would be very handy on long term missions,
+particularly those far from any other place,
+since they could set those up as communication
+relays back home, and which follow up missions
+could also use.
+Where that’s not an option, which should
+never be the case except maybe in the intergalactic
+void or between the spiral arms of our galaxy,
+you could send pods of material out ahead
+of the ship for it to catch up to or behind
+it but moving a little faster.
+A big slab of iron should handle eons of travel
+through the void just fine, and comets prove
+volatiles like water or ammonia can last a
+long time too, again, bigger is better though.
+And we shouldn’t think of a journey of a
+million years as only intergalactic, 5% of
+light speed is fairly realistic and even high
+speed for a generation ship, and for such
+a speed, even a journey of 20,000 light years
+across a piece of the galaxy could take a
+million years.
+There’s other reasons bigger is better and
+that is that bigger things are generally harder
+to break.
+Also, bigger populations tend to innovate
+a lot more than smaller ones and tend to be
+more resilient too.
+A small crew is unlikely to provide much in
+the way of innovation and something relatively
+small could wipe them out, whereas a bigger
+population in a bigger ship could do a lot
+more on that front.
+In the cold void of space or in alien systems,
+the need for innovation might be the difference
+between survival and total destruction.
+So, while it’s harder to produce a large
+ship that could accommodate hundreds of thousands
+or millions of inhabitants, it’s probably
+the way that a successful mission would have
+to go.
+If we accept that we need a large population
+to innovate to deal with the unexpected or
+downright weird, we also have to expect that
+change is inevitable.
+We often say that a battle plan never survives
+the first skirmish and we are dealing with
+a war of humankind versus the radiation-soaked
+cold vacuum of space that is out to get us,
+a war that will last for longer than we have
+been around in our current form as humans.
+Trying to maintain a ship for thousand of
+generations is more about trying to maintain
+the civilization on it than the ship, though
+that will be no easy feat either.
+However, by techniques like we discussed today,
+it may be possible to create a generation
+ship able to last almost indefinitely and
+stay on mission, an Ark of a Million Years.
+For a civilization to thrive on a generation
+ship, it’s going to have to emphasize retaining
+its knowledge and skills.
+For it to retain its knowledge and skills,
+it has to value them and show how they are
+useful and applicable to the people on board
+the ship then, not far in the future at their
+eventual destination.
+But this is true of the here and now too,
+we focus on skills that are applicable here
+and now, and while we place a value on knowledge
+for its own sake, that grows out of coming
+to love a field as we see how useful and enjoyable
+it is.
+I mentioned last time that showing how knowledge
+is applicable to problems was one of the pillars
+of education for our sponsor, Brilliant, and
+another of those, as we’ve seen to day,
+is that it needs to be community driven.
+If a community doesn’t value knowledge and
+learning, it can wilt away, but if it does,
+it can inspire people to learn and they can
+learn alongside friends and peers.
+However some knowledge is less immediately
+useful, be it nowadays or on a colony ship
+far from its destination, and to make sure
+folks are learning those, that knowledge needs
+to be exciting and cultivate curiosity.
+We try to do that here at SFIA and so does
+Brilliant.
+To truly learn math and science, to be able
+to master it like the folks on a generation
+ship will need to, you need a community and
+environment focused on enhancing our curiosity
+and showing how exciting and applicable such
+knowledge can be.
+If you want to increase your own skills and
+understanding, you can go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription
+We’ve explored a lot about generation ships
+in recent episodes and have more yet to come
+in the series, but next time we’ll look
+at an alternative approach, the idea of freezing
+everyone to be awoken at arrival, in “Sleeper
+Ships”.
+Before we get there we’ll be returning to
+our new Earth 2.0 series to continue our look
+at living in the seas, with Colonizing the
+Oceans, and see some of the amazing habitats
+and cities we might be able to make on the
+sea floor.
+We’ll also take a look at our book of the
+month, Jules Verne's’ classic novel, “20,000
+Leagues Under the Sea”
+Two weeks from now we’ll be exploring more
+on the ecosystems and landscapes we’d expect
+to find on various rotating habitats we discuss
+here, like on our generation ships or other
+megastructures.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the Notifications bell.
+And if you enjoyed this episode, please hit
+the like button and share it with others.
+Until next time, thanks for watching, and
+have a Great Week!

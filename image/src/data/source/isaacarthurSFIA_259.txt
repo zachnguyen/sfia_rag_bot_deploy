@@ -1,0 +1,765 @@
+This episode is brought to you by Brilliant!
+In the future we will need to create Earth-like
+environments on hostile, barren worlds, so
+we can grow food, plants, and animals at those
+outposts.
+But what if we could also grow those outposts
+themselves?
+So today we will be looking at the notion
+of self-growing habitats, bases able to grow
+from relatively small seeds into large habitats
+with little to no human assistance, and we’ll
+be examining this notion in the context of
+some current designs for Moon or Mars Bases,
+all the way up to the notion of a tiny probe
+not much bigger than a normal plant seed,
+that might be able to impact on an asteroid
+or Moon and turn it into a giant colony waiting
+for humans to move in, or perhaps even growing
+the humans there too.
+But we should begin with the basic concept
+and why it’s so appealing for space.
+In simplest terms, it's about two things:
+First, not needing to carry much equipment
+and building material to a site for a base,
+sourcing those in situ, and second, to minimize
+human effort once there, especially if the
+base needs some time and effort to provide
+basic life support.
+Now neither of those are new ideas, indeed
+as a semi-nomadic hunter-gatherer species,
+the problem of having to carry your home with
+you has been pestering humanity for as long
+as we’ve been around and has quite a few
+interesting answers in nature, as we see with
+animals like the crab, that carries its home
+around with it.
+This is also a key notion in the seeds of
+most plants, but especially lightweight ones
+meant to be carried far away by the wind.
+So, we can learn some answers from nature
+and also from modern business.
+I mentioned how a habitat or base might need
+to be able to be ready for humans the moment
+they arrived, or as quick as it can be.
+Right now, being an astronaut is a heroic
+and pioneering thing, but I suspect as time
+passes and we begin building or growing bases,
+outposts, and colonies on ten thousand minor
+planets in our solar system and a thousand
+on each of the major planets, that a lot of
+that allure will go away.
+It will seem less like a bold exploration
+and more like moving to a sparsely inhabited
+swamp with no electricity or running water,
+except for the swamp water running through
+the cracks in your shack.
+With that in mind, getting people to voyage
+out there might require offering a lot more
+than basic necessities on arrival, and we
+can take a page from the books of various
+hotels, motels, resorts, and AirBnB’s.
+The general notion there is that it should
+be easy to find, easy to check in, and as
+soon as you walk in the door you’ve got
+all the basic comforts right there, especially
+some comfy bed, chair, or couch to rest your
+weary self in.
+So we want to be contemplating more than just
+having air and water available when our astronauts,
+or settlers, arrive.
+A warm bed and a hot meal waiting when you
+walk is probably ideal.
+Sometimes it might need to be ready before
+they arrive too, especially in the case of
+things like Stellasers, big pushing beam platforms
+you build around stars to push whole fleets
+of spaceships up to interstellar velocities
+and which we assume they would build at their
+destination too, allowing cheaper and faster
+travel between any two systems which have
+one.
+It’s a lot nicer if some small vanguard
+ship or probe can arrive before the main colonial
+fleet does, to build such a stellaser and
+save them the slow down fuel or let them travel
+there faster, like building an airport at
+a destination so you can fly in rather than
+trudge through tangled forests on foot the
+first time.
+In the short term though, when contemplating
+a trip to the Moon or Mars and having a base
+there, our two big objectives are minimizing
+the mass they need to carry there and minimizing
+setup time of the living space and its life
+support gear.
+Inflatable habitats are very interesting to
+us in this regard, as are options like robot
+construction crews who could bulldoze the
+local rock and regolith in, to form shelters
+or reinforce them.
+Air, water, and shelter are the immediate
+needs and shelter is the heaviest one of those.
+To be sure, a thin inflatable wall might do
+the job, indeed we can imagine an ultra-strong
+bubble made of just a few layers of graphene
+that can keep the air in and the vacuum out,
+or the hostile non-breathable air of some
+world like Titan or the swamp world of Dagobah,
+breathable but smelly.
+The thing is, you have to worry about micrometeors
+and radiation in a lot of environments and
+your best protections against both is a nice
+thick layer of mass, to substitute in for
+all that missing atmosphere.
+Handily a lot of airless worlds will non-coincidentally
+be low in gravity, which makes building easier.
+Your typical cinder block weighs about 35
+pounds on Earth but only about 6 pounds on
+the Moon.
+Incidentally it would be 16 kilograms in both
+places, a kilogram is a measure of mass not
+weight and thus is the same anywhere in the
+Universe, whereas weight is the product of
+mass and local gravitational force.
+It is mass that protects us from radiation
+though, so it's handy that on the moon, an
+inflatable structure no thicker or tougher
+than a modern tire inner tube could easily
+have several tons of material stacked on top
+of it.
+We have a lot of options for those materials,
+and of course the basic version is usually
+whatever regolith is lying around, but water
+is a pretty good option too, especially as
+you need that to live.
+Packing that loose regolith into some compact
+and sturdy block you can build with is trickier.
+We have a lot of proposed methods, and one
+I recently got to hear explained by Christopher
+Maurer of Redhouse Studio, is being experimented
+with at NASA’s AMES with Dr. Lynn Rothschild,
+and also down in Namibia, to create homes
+and food, and it's all about mushrooms.
+There we see a plant that has run rather amok,
+damaging ecosystems and farming and sucking
+up water, that isn’t good for animal grazing
+either but is excellent as a substrate for
+growing mushrooms in, they can then eat or
+sell those mushrooms and use the remainder
+of the substrate to compress into a building
+brick for homes.
+Very innovative and very easy to see in play
+on early outposts where you need to be using
+and reusing everything in every way you can,
+like having your plants do quintuple duty
+producing food, recycling air, recycling water,
+and serving as your fibers and building materials.
+The project in Namibia and these bio-bricks
+or mycoblocks are a fascinating approach,
+and one of many examples of new materials
+being made from mushrooms – in this case
+a building block as strong as concrete and
+dimensional lumber – and more than we can
+discuss here today so I will link the Namibia
+Bio-Hab project in the episode description
+for you to check out.
+But the basic idea of adapting this to off
+world bases is that you are going to inflate
+your habitat as a twin-walled and many chambered
+tent, then you’re going to fill those chambers
+with water and grow algae in them.
+That algae will later be dried out and used
+as a substrate for growing mushrooms or other
+mycelium for food and the waste matter compressed
+into sturdy building blocks, which can later
+be composted for soil if you want.
+In the meantime, the water and algae are absorbing
+radiation and recycling carbon dioxide.
+There’s a melanin-rich fungi that can absorb
+and transduce radiation into biomass, radiosynthesis.
+That accumulated melanin can promote radiation
+attenuation through compton scattering.
+There’s also radiation absorbing lipids
+formed by mycelium metabolization.
+We have types of fungi and also algae that
+produce fats and lipids which are better at
+absorbing some radiation than water, and we
+have types that are melanin-rich and good
+for ionizing radiation…
+you’ve probably heard about the fungus growing
+around the ruins of Chernobyl.
+Both algae and fungus have a wide and growing
+versatility of applications and are not terribly
+picky about where they grow.
+One of current special interest is Fat Choy,
+colony forming diazotrophs potentially able
+to fix nitrogen from Martian Air, though the
+algae is principally for making biomass.
+This technique might work on some worlds better
+than others, for instance while Mars doesn’t
+have a lot of atmospheric nitrogen, it still
+has way more than the Moon, whereas Venus
+and Titan have more than Earth and we could
+potentially be trying something like literal
+hanging gardens on Venus by having buoyant
+floating growth chambers high in the Venusian
+atmosphere rather than domes deep down on
+the molten surface.
+Indeed we might with even better biotech having
+growing balloons that self-inflated from their
+gas exhalations and byproducts.
+Interesting sidenote, mushrooms hold the status
+of being the protein source with the lowest
+water needs, which makes it potentially an
+ideal crop for a lot of settings out in space.
+One can easily imagine a sunlight and ice-poor
+asteroid being very reliant on mycoculture
+for protein, clothing – mushrooms make a
+create leather alternative – and as fiber
+feedstock for building materials and 3D printers,
+and the same for fungi in general and algae
+as well.
+New space habitats will generally be both
+small for ecosystems and simplistic in biodiversity
+initially and so fungi, algae, and microbes
+in general, are ideal for those locations.
+We may be able to come up with tailored blends
+of those organisms, that could take a mix
+of water and the local regolith and break
+it down into soil and nutrients for more picky
+terrestrial plants.
+Or break down regolith and release oxygen
+gas as a byproduct, for breathing and inflation.
+And as we are seeing, while trying to set
+up a livable habitat and biology on another
+world is no easy matter, transplanting the
+biology of Earth, using that same biology
+of Earth, offers a lot of possible solutions.
+This is not to downplay the mechanical and
+electronic roles, or those for robots and
+artificial intelligence, but we have a tendency
+to picture biotech, growing organic structures,
+or of robots building inorganic ones.
+My own belief is that we will see a constant
+hybridization going on, and that this will
+all be Grown Architecture, but that this will
+come in a lot of forms.
+Early on, expect a lot of robots to be dumped
+out of spaceships, onto the moon, and remote
+controlled directly from Earth, by people,
+since the signal lag is just a few seconds,
+and some of those vehicles could be carrying
+a lot of inflatable structures and power generators.
+Expect the robots to be all about manipulator
+arms and scoops.
+With that in mind, don’t think of inflatable
+as weak.
+Indeed you can make it quite rigid and sturdy
+by dropstitching and segmenting as we see
+with a lot of modern inflatables for camping.
+That’s a great reminder too how technology
+developed for space can be used down here
+and vice-versa, camping gear alone is a multi-billion
+dollar industry.
+Drop Stitch incidentally is basically having
+a lot of connecting strings betweens the walls
+and membrane and that can potentially be quite
+a mesh, especially as things start growing
+on it, and even more especially if you are
+adding in your own light rather than raw sunlight,
+your algae filler can grow a lot faster and
+better if the LEDs or fiber optics bringing
+in light are also your drop stitching, making
+your light source permeated through a given
+chamber, not just the edges.
+It’s an interesting option for the Moon,
+where your cycle is algae or something else
+photosynthetic that you grow using sunlight,
+then use the remains of, for growing fungi
+on, in the dark, since the moon has a day
+that lasts a month, 2 weeks of light, 2 weeks
+of dark.
+That can be very rough on a lot of larger
+plants, but the fast growing and simplistic
+microorganisms seem to handle that better.
+So you might do that in a month-long production
+cycle, like growing cyanobacteria for two
+weeks, harvesting it, then letting the leftovers
+be a mycoculture substrate for two weeks,
+getting those mushrooms, and then baking and
+compressing it when the sun returns in solar
+kilns and presses.
+Speaking of meshes inside inflatable chambers
+though, I should also note that when it comes
+to lightweight filler, that aerogel is likely
+to be your king.
+We can spin that out of carbon or silicon
+so long as we have both the power to do so,
+and a supply of either of those two materials,
+and silicon is very abundant on the Moon’s
+surface, and carbon and silicon are plentiful
+on many asteroids too.
+And it is decently likely that we could get
+aerogel manufacture running on the moon.
+Aluminum is also common there, and honestly,
+there’s not many places you’d have problems
+finding silicon, carbon, or aluminum, or oxygen
+or iron.
+There’s a lot you can build out of those
+five elements and that includes rocket fuel.
+When it comes to robots on the Moon, and one
+reason I favor a Moon Base before Mars, you
+can control everything from Earth, letting
+you prototype all your equipment there, and
+I would say our robotics is already up to
+the task.
+Automated robots run by even simple AI far
+from Earth, like Mars or an asteroid, is another
+story but I’d rather get the mechanics down
+first, then worry about the AI controlling
+it where we cannot.
+Though in many cases you’d have processes
+that humans could control, either accepting
+the light lag for communications or being
+done by astronauts in orbit or on their ship,
+before debarking.
+Truth be told, given that the spaceship needs
+to be designed to keep people alive for extended
+periods anyway, the only thing the landing
+site absolutely needs built before arrival
+is the actual landing pad.
+Obviously you can skip that too, as we did
+with the Apollo missions, but those same missions
+taught us why a dust-free solid pad was not
+a luxury.
+A ship landing and unloading its delicate
+cargo or people and gear on a dust-free hardened
+pad is going to make your life much easier,
+you do not want nasty lunar regolith getting
+into your gear.
+This is not just an inconvenience either,
+we’re honestly lucky we didn’t lose any
+of our Apollo astronauts to regolith damage
+to them or their gear or other complications.
+Self-growing or self-repairing concrete is
+a material that would be amazingly useful
+here on Earth, and obviously great for space
+colonies, but in any case, landing a robot
+with a bulldozer and a hydraulic press to
+scoop and tamp till you’ve got something
+decently rigid and dust free would probably
+do.
+Mid-term, I think we would see solar kilns
+for making our building material beginning
+with something that can take regolith, separate
+out the aluminum, and then melt and roll that
+into shiny sheets we could use as mirrors
+for more solar kilns.
+Your first ones would probably be inflatable
+reflective mesh panels brought along from
+home.
+The image we paint then, is one of bots for
+obtaining ice, and scoop bots, scooping materials,
+for construction, or manipulation into other
+forms, and those bots would likely bring along
+the electronics and rarer materials that they
+might need.
+It’s building huge tanks of algae and huge
+arrays of mirrors for aiming at solar kilns
+or solar panels or other solar thermal applications.
+A lot of the furniture for people is likely
+to be inflatable too, since we already have
+some nice inflatable furniture and humans
+weigh less there, making those a better option.
+This is probably what our early moon bases
+look like on Day 2, where Day 1 was the arrival
+of the astronauts.
+They probably bring all their personal gear
+and furnishings with them.
+We usually imagine months or even years early,
+we are dropping robots and not just once but
+following up with additional inflatable structures
+and construction supplies, and with extra
+air, water, and food as redundant backups
+for the astronauts.
+That gives more survival modes for a screw-up,
+since as an example, it's not hard to imagine
+your landing pod getting damaged on the actual
+landing, and wrecking a lot of your supplies,
+and getting the people out and the gear out
+before that happens is needed for survival,
+but not if you only need the people because
+they have those supplies as backups.
+Prepositioning spares is in many ways as important
+as pre-building the base.
+But we wouldn’t expect these to be all that
+self-growing, just self inflating and maybe
+good at stockpiling rock, air, water, and
+maybe reflective materials, building materials,
+and raw biomass for plastics or bioreactors
+or soil.
+Which is a lot but we’re not talking about
+some pea-sized seed, landing on the Moon and
+becoming a whole community, and with that
+in mind, as we move into the deeper future,
+it stands repeating both what ‘self-replicating
+machine’ really means and also how a single
+type of replicating robot, like a tiny little
+nanobot, isn’t the be all, and end all,
+of self-replication.
+We don’t currently utilize simple self-replicators
+on Earth not just because they’re technologically
+tricky, but because there’s no real benefit
+yet, to developing the technology, solely
+for Earth-use; there is very little that a
+self-replicating machine can do on Earth,
+that humans couldn’t already do for cheaper,
+using simpler methods, or off-the-shelf components.
+A big factory or a Walmart is already a self-replicating
+machine, it just includes humans as part of
+that process, the Walmart isn’t undergoing
+mitosis to spawn a new pair in the parking
+lot, it’s relying on us to plant it, but
+so is a seed inside a tasty berry that some
+bird ate and later left fertilized far away.
+We don’t actually need self-replicating
+buildings and structures here on Earth.
+They offer no tangible advantage compared
+to self-repairing or self-assembling structures,
+or those which do so in some fashion that
+requires little attention or effort or cost
+on our part.
+Drones that repair your road for you are just
+as appealing as some organic road that heals
+itself.
+So too, as we’ve discussed elsewhere, while
+you could probably send a harddrive the size
+of a pea across interstellar distances full
+of terabytes of data and diagrams and just
+a few hundred tiny nanobots able to copy themselves
+and build things, and from that colonize an
+entire planet, there’s no advantage to doing
+so.
+You could as easily plant that pea on an asteroid
+here at home and tell it to turn that into
+a thousand giant colony ships instead.
+Small seeds are useful and are focus for the
+remainder of the episode, along with what
+we can do with them, but we should not assume
+that this automatically means we will hurl
+a trillion of them out across the galaxy as
+opposed to armadas of classic self-replicators…
+which is to say, fleets full of people with
+resources, energy, a goal, and willpower.
+One modest asteroid of the size of which we
+have thousands here in our solar system, contains
+the raw materials to build millions of ships
+that would each dwarf an aircraft carrier,
+and if only 1 in 10 of them successfully arrived
+in another solar system and repeated that
+blossoming and sent out more of themselves,
+the galaxy would be filled up pretty quick
+and easy, with no appreciable time difference,
+over sending a colony seed out to each system
+directly from Earth.
+With that caveat aside, just because we can
+build bigger doesn’t mean that we should.
+If a tiny self-replicating pod gets the job
+done, it is presumably no harder to build
+a hundred more of them than one a hundred
+times bigger.
+Now there are reasons why you can’t throw
+something tiny up to ultra relativistic speeds
+and expect it to survive the trip with its
+data intact, and it’s the same reason we
+want to be able to get mass in situ for moon
+bases.
+Radiation blocking is principally about mass
+and density and thickness.
+Space is full of dangerous photons and particle
+radiation, and at fast enough speeds, even
+regular photons you or I can see are so blue
+shifted, they’re damaging things.
+So you need a nice thick-walled ship and it
+kind of stands to reason your ship should
+have as much cargo as it does hull plating.
+And things containing dense data, like frozen
+embryos or ultra-miniaturized computer memory,
+tend to be the things most vulnerable to radiation
+damage.
+But that might just mean your minimum interstellar
+‘seed’ was a 10 ton lead sphere rolling
+through space with a 1-ton core full of frozen
+fertilized eggs, digital memory, and microscopic
+self-replicating bots.
+You don’t need that much computer memory
+for DNA either, DNA data is vastly compressible
+as there’s a ton of overlap between species,
+and inside a species, the differences are
+virtually nil, you could probably get them
+all on a single modern hard drive.
+Plus while there are many millions of species,
+not just the several thousands of big animals,
+bacteria have short DNA strands and any non-microscopic
+species, so rare, we don’t even know of
+it yet, probably is not irreplaceably critical
+to life on some new world under an alien sun,
+or inside a giant cylinder habitat.
+If it is later found, a digital copy of its
+DNA can be sent to that colony at light speed
+anyway, and printed.
+So more likely, any large harddrive on a pod
+would not only include their DNA or historical
+highlights or great novels, but also be copies
+of their minds.
+You might not be waiting for colonists, just
+growing them bodies or building them android
+shells and downloading their minds into them
+on their arrival.
+So what do we really mean by a self-growing
+habitat and what would one really be like?
+Well it is possible to send DNA, frozen or
+digital, and grow it on site.
+Indeed it need not even be sent with the pod,
+you could beam the data there after it arrived.
+So a self-growing base could absolutely include
+a seed that had seeds for all sorts of other
+lifeforms.
+This is actually a really good lifeboat or
+nature preserve option.
+You can design hypothetical ecosystems back
+home, load up the right DNA and parameters,
+and ship it off to find or build a suitable
+world.
+This definitely requires sophisticated AI
+however; it’s not just playing Noah to a
+lot of existing animals on a ship.
+It has got to grow and birth each species’
+equivalent of Adam and Eve, and raise them,
+though I should be careful using the term
+‘it’, as it might simply be an uploaded
+human mind.
+I can easily imagine us being reluctant to
+rely on an Artificial Intelligence to make
+new worlds or grow new humans.
+It really would not be hard to imagine getting
+asked to let them copy my mind to send off
+to countless worlds to go build the place
+and raise its first generations.
+I’d probably say yes and I suspect many
+of our viewers would too, and since you can
+make copies, you don’t need that many volunteers.
+Of course if you can do that, there’s no
+real reason you couldn’t send the minds
+of those first generations or a whole uploaded
+civilization, rather than one lone advisor
+and parent.
+Indeed you could copy the same digital colony
+for use on many worlds, or use variations
+drawn from a slightly larger pool to have
+many varying colonies, built from the millions
+of perturbations of colonist copies.
+This is part of why I would expect bigger
+ships as seeds.
+You can only send the really small ones if
+you’ve got great self-replicators, in which
+case your only real limit on ship size is
+available spare mass, because building and
+equipping a spaceship is no longer like carefully
+hand-tailoring a pocket watch, it’s like
+growing a field of wheat instead.
+Some folks who have grown wheat or corn or
+some other staple crop, might now be saying,
+“Yeah Isaac but that’s not super easy
+either, you’ve got the weeds and pests issue”
+and I’d say “great point, thank you for
+that awesome segue” because while on the
+surface we wouldn’t expect self-growing
+habitats to have to deal with pests or weeds,[a]
+as we initially tend to assume sealed, sanitized
+environments, it would seem that an environment
+of self-growing architecture or space habitats
+would almost inevitably get its mutants, weeds,
+viruses, and so on eventually and at the scale
+of trillions of habitats all with different
+control measures and exchange rules.
+For context, Imagine a self-growing O’Neill
+cylinder, one of many sprouting off the side
+of some asteroid, growing until ready to be
+cut free, like fruit off any tree, one of
+millions produced this way or by other methods.
+That’s not an environment a known virus
+or cold can spread through, the void of space,
+empty of everything but radiation and hypersonic
+debris, but if our habitat can be said to
+grow there, then that means other things can
+too.
+Just probably not very natural things, but
+same as we have symbiotes, parasites, predators,
+and invaders in our own ecosystem, I can’t
+really imagine a solar system packed full
+of self-growing habitats wouldn’t get them
+too, even if they were only created by a handful
+of malicious people.
+It’s more likely you’d have all sorts
+of overlapping programs and species of self-replicator
+and habitat grower or species forger that
+just accidentally got dropped somewhere or
+transplanted.
+I could imagine that as a handful of tiny
+nanobots that came over in a bottle of wine
+from some other habitat’s vineyard, and
+now kept trying to repurpose any dead tree
+into vine supporting trellises, and maybe
+folks even wake up one morning to see that
+a kilometer of telephone poles and cables
+has been turned into trellises, complete with
+the wire bound up like it was a grapevine.
+An amusing case, compared to say, your cylinder
+habitat getting a cancerous growth where some
+foreign replicator was trying to grow antennae
+and radiators, and yet that amusing case is
+the sort of thing I’d expect, as it would
+just be a low priority for trying to get rid
+of and folks might find it an amusing prank
+to dump it somewhere.
+Civilizations with good self-replicators and
+AI just smart enough to do their job can get
+some weird things going on too, like they
+are all banned from growing or copying humans
+themselves but are built to want colonists
+and are allowed to advertise for them, so
+one goes and parks itself near an inhabited
+world and grows a giant banner or figurehead
+of whatever it sees as the most popular topic
+or meme on the internet, which to keep the
+show family friendly we will assume will be
+a picture of a cat asking for a cheeseburger.
+Or it playing commercials saying it is such
+a family-friendly habitat it populated its
+entire ecosystem out of various creatures
+that look like kittens, puppies, and ponies,
+and that’s not a single sharp corner anywhere
+in it for kids to hurt themselves on.
+Weird examples but probably a case where reality
+would be even stranger than fiction, or those
+examples.
+To make a self-growing habitat that has to
+manage and create a viable ecosystem, all
+the way down to the bedrock and superstructure,
+means giving it a lot of creative control
+and brains to manage all the perturbations
+that will occur in the system as it grows
+and establishes itself.
+This could result in a lot of strange options,
+especially if it was allowed access to some
+open-source colonial equipment and organism
+database, a Standard Template Construct, which
+is something I’d almost take for granted
+would develop inside the next millennia or
+so.
+It is also very likely any such self-growing
+habitat, be it a big home base or an individual
+home for a family, a cylinder habitat or a
+terraformed planet, would have some sort of
+prime directive and various secondaries of
+various priority.
+Whether that’s ‘take care of people’
+or ‘attract new colonists’ or ‘hoard
+resources’ or whichever, that leaves a lot
+of room for Perverse Instantiation and Paperclip
+Maximizer types of scenarios.
+I should note that having actual humans on
+site guiding these decisions or implementing
+them is no sort of barrier to weird developments
+either, quite the contrary I’d think.
+It seems almost inevitable that we will be
+wanting to develop these sorts of self-growing
+habitats to get out there in space, and they
+are likely to vary a lot in purpose, independence,
+and variety, and evermore so, the further
+forward in time and deeper out in space we
+go.
+One thing that seems sure though, as our habitats
+grow, whether under our direct oversight or
+not, mostly built or mostly grown, much like
+our own ecosystems here on Earth, they will
+only grow in variety and diversity.
+Just like the ecosystems and civilizations
+contained inside them.
+One of the 
+things we try to do on this show is encourage
+people to rekindle their love affair with
+science and curiosity about the Universe around
+us, past, present, and future.
+Watching videos like today’s is a great
+way to get an overview and learn the basics
+of different topics, but to gain an understanding
+of “why” and “how” concepts work the
+way they do, you have to try it yourself,
+and for that, I recommend heading over to
+Brilliant, today’s sponsor.
+Brilliant is an interactive STEM-learning
+platform that helps you to truly understand
+concepts in math, science, and computer science
+by guiding you through engaging, hands-on
+courses.
+And if you feel stuck, Brilliant provides
+in-depth explanations to break down the material
+for you even more.
+Haven’t touched these subjects in years
+and need a refresher on the basics?
+Don’t be intimidated, even pros often need
+refreshers, just try Brilliant’s new Everyday
+Math course, which takes you through foundational
+subjects with their trademark interactivity.
+For instance, a lot of people have struggled
+with fractions, but when you approach them
+in a visual way, they make a lot more sense.
+With Brilliant, you will be presented bite-sized
+pieces that you can learn at your own pace
+when and where you want.
+To get started for free, visit brilliant.org/IsaacArthur
+or click on the link in the description, and
+the first 200 people will get 20% off Brilliant's
+annual premium subscription.
+So we’re done for today but we have our
+scifi sunday episode, Multi-Species Empires,
+coming up this weekend, followed next week
+by asking what would happen if Earth lost
+the sun and became a rogue planet?
+After that we’ll ask how people travel around
+planets once they settle there, be it hang
+gliding through the clouds of Venus or darting
+between shadowy craters on sun-roasted Mercury.
+Then we’ll take a look at the concept of
+a Technological Singularity, an artificial
+intelligence of stunning capability appearing
+seemingly overnight, and ask if that outcome
+is inevitable.
+Now if you want alerts when those and other
+episodes come out, make sure to subscribe
+to the Channel and hit the notifications bell,
+and if you enjoyed this episode, please hit
+the like button, share it with others, and
+leave a comment below.
+You can also join in the conversation on any
+of our social media forums, find our audio-only
+versions of the show, or donate to support
+future episodes, and all those options and
+more are listed in the links in the episode
+description.
+Until next time, thanks for watching, and
+have a great week!
+[a]We envision a sealed sanitized environment,
+totally sterile except for the exclusive growth
+of cyanbacteria then mycelium .
+FYI at the Oniel cylinder conference i went
+to (https://space.nss.org/space-settlement-summit/)
+they were amendment that all the food growing
+compartments would be very separate from human
+domains.
+A very clean untouched environment as well.
+and if there was contamination, they could
+"burn it down!"

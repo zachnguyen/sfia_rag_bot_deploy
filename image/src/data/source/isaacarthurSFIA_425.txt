@@ -1,0 +1,758 @@
+This episode is sponsored by Brilliant.
+Geoffrey Chaucer said that all good things
+must come to an end.
+But this channel is not the place for that
+kind of pessimism.
+So today we’ll be discussing ways we might
+postpone the Heat Death of the Universe, and
+possibly even delay it entirely.
+To do that we must first discuss what the
+Heat Death is and why we think it is going
+to happen.
+The best place to begin is to note that there’s
+a bit of difference between what we normally
+think of as heat and what the term means in
+physics.
+Heat, to us, in a casual and day-to-day sense,
+is how warm it is.
+But in a physics and thermodynamics sense,
+it refers more to how entropic a system is,
+essentially what portion of its total energy
+is heat energy.
+Heat is random motion of particles, and we
+can only get work done using such a system
+if it’s got other energy still stored in
+it in other ways or if we connect it to something
+colder.
+As an example, the Sun is very hot, so we
+can easily get work done off it by connecting
+to something cooler, which we obviously have
+plenty of choices for.
+It is making that heat by converting hydrogen
+into helium, photons, and neutrinos, converting
+mass energy into heat energy in the process.
+A system is at maximum entropy when all those
+options have been used up, and everything
+is converted to heat that can be, hence Heat
+Death.
+It’s a bit confusing though since we’d
+expect this to happen, nowadays, when it’s
+rather cold, but beyond that term really meaning
+maximum entropy, we should keep in mind that
+our cosmological models have changed over
+time.
+As an example, we often talk about how you
+can’t hide a megastructure like a Dyson
+Sphere because it needs to radiate away all
+the heat it’s been absorbing from its own
+star or get cooked, and when we think of space
+as cold, it’s easier to forget that not
+only is it not cold, but most of the mass
+in our solar system for instance is blazing
+hot.
+There’s very little heat, as heat energy,
+in empty space, but that’s not temperature,
+the temperature of outer space near Earth
+is about 283 Kelvin, a temperature of 10 Celsius
+or 50 Fahrenheit, light jacket weather.
+There’s just virtually no particles around
+actually containing heat in a near vacuum
+but those that are around are warm enough.
+Alternatively, 98% of the Solar System’s
+mass is inside the Sun and boiling hot, and
+half the remainder is in Jupiter and quite
+hot too.
+We used to think we lived in a Steady State
+Universe, one which does not expand, or is
+infinite but basically homogenous.
+Go anywhere and find about the same density
+of stars, all bits more or less the same.
+In such a Universe, a Heat Death can be pretty
+literal, all the mass energy that can be converted
+to heat eventually does get converted as even
+photons made in this process eventually get
+absorbed somewhere and even those emitted
+as heat radiation by warm objects will just
+get absorbed somewhere else down the road.
+Your whole Universe turns into warm objects
+bathed in a flood of photons of about that
+temperature’s blackbody wavelength.
+We’ve not discussed Olbers’ Paradox in
+detail here before, mostly because it’s
+not a paradox anymore under new cosmology,
+but you can look that up if you want details
+on this notion.
+Short form, in a static and non-expanding
+infinite Universe, you have a star in every
+direction you can look, so the sky is bright
+white, not mostly black, and everything gets
+real hot.
+This is even true in a Universe that isn’t
+infinite in size or age too, if it isn’t
+expanding, and in such a Universe a Heat Death
+is quite literal in the normal meaning of
+Hot too.
+Alternative cosmologies like the Big Rip also
+circumvent our normal concept of a Heat Death
+too, though by killing everyone on a shorter
+timeline.
+It’s only in an expanding Universe that
+our particular form of Heat Death can occur,
+be that universe finite or infinite, because
+it means the total volume of space is constantly
+on the rise – and yes an infinitely large
+object can keep growing even though infinity
+plus infinity is still infinity, infinity
+is not a number.
+The size of a Universe doesn’t matter for
+this purpose, just that it keeps expanding
+and thus eventually you get distances big
+enough that the expansion rate between galaxies
+is faster than light can catch up to.
+That’s what lets us get around Olber’s
+Paradox, and why the Cosmic Microwave Background
+Radiation, or CMB radiation, which is left
+over light from when the Universe was younger
+and hotter, is redshifted all the way down
+to chilly microwaves.
+Originally, when those photons were first
+emitted, they were mostly visible and high-infrared.
+If the Universe weren’t expanding constantly,
+we’d be bathed in those original photons
+at their original energy.
+It has been suggested that if we could somehow
+stop Dark Energy and stop the Universe expanding
+we could stop the Heat Death, but quite to
+the contrary, that would actually kill us
+faster.
+We can keep extracting work from matter only
+as long as we have some cooler places to move
+that heat, and if expansion ends, everything
+would just start warming up because none of
+those emitted waste heat photons would have
+anywhere to go but other bits of matter they
+eventually ran into.
+Everything would also start falling back together
+into a big clump, unless the Universe was
+actually infinite so that stuff was pulling
+equally strongly with gravity in every direction,
+and even then you’d get a lot of local clumping
+ending in giant black holes everywhere eventually.
+Had this expansion stopped back when the Universe
+was smaller and that CMB radiation first emitted
+itself, around the year 300,000 ABB, After
+Big Bang, the Universe would be a thousandth
+its current size and about 3000 Kelvin everywhere
+and bathed in photons of about that frequency.
+Instead, that expansion is fast enough that
+everything is on average cooling down.
+Regardless of whether or not the expansion
+of the Universe is accelerating, and whether
+or not that acceleration is a good thing,
+that expansion itself is a very good thing
+for us, both that it was expanding and that
+it continues to expand.
+A quick note on that idea, that you can’t
+travel faster than light but that these galaxies
+are separating faster than light, which obviously
+confuses people.
+First, it’s not that stuff can’t go faster
+than light, a shadow for instance can.
+Rather, it’s that information and cause
+and effect can’t go faster than a certain
+speed, and that objects with no mass happen
+to move at that speed – such as photons
+of light and presumably gravitons – and
+we just happened to discover photons first
+and name that speed the speed of light.
+Second, those objects aren’t exactly moving
+away in a classic sense.
+Everywhere in the universe little pockets
+of new space are popping into existence, presumably
+very, very, very tiny bits of space, probably
+Planck Volumes, a space so small it makes
+atoms seem galactic in scope, and probably
+appearing inside you and me this very moment.
+Locally this is irrelevant because all those
+normal forces binding matter together easily
+compensate for that, though in a Big Rip Universe
+the rate at which these new bits of space
+pop into existence keeps increasing until
+they start popping up so fast and numerous
+that even electromagnetic forces binding your
+molecules together can’t yank them together
+fast enough to keep you together.
+Right now it’s slow enough that even gravity,
+the weakest force in nature though the only
+one that meaningfully functions at galactic
+scales, can keep galaxies together and with
+their nearest neighbors too.
+Above this scale all those little new pockets
+of space add up to so many that the new bits
+of space between two objects are emerging
+quicker than the light between them can cover,
+so photons or gravitons emitted by those objects
+never reach the other object.
+Those galaxies are moving away from each other
+faster than light, but because new space is
+popping up between them faster than light
+can cover.
+This can be confusing because we believe the
+vast majority of the actual Universe is already
+beyond this point and more gets added everyday,
+moving away from us faster than light.
+We then turn around and tell people nothing
+can move faster than light, even though virtually
+all the matter in the Universe is moving away
+from us faster than light, it can be a bit
+perplexing.
+In any event, we know what this cosmological
+future holds for us, more or less.
+The Universe expands and every galaxy merges
+with any nearby neighbors into slightly larger
+galaxies that get left as islands in a locally
+empty Universe.
+In a couple hundred billion years all the
+Universe we can really see except as red-shifted
+galaxy ghosts will be our big new merged galaxy
+about an order of magnitude more massive than
+currently and various isolated small stars
+and clusters that were moving away from us
+a bit too fast to get yanked into that merger
+but not yet shoved far enough away by expansion
+to have disappeared.
+Like a big continent with islands and archipelagos
+of stars drifting further away.
+All those other galaxies we can see now will
+be off and gone and in their own dark pockets
+of space, each considerably bigger than the
+current Observable Universe.
+Emphasis on Observable Universe, because most
+of the Universe is presumably already further
+away from us than we can see, over the Cosmological
+Horizon, as we explained a moment ago.
+This is not the Heat Death of the Universe,
+star formation will have slowed a little bit
+by then but as far off as this date is, around
+ten times the age of our current Universe,
+star formation won’t significantly slow
+for considerably longer and shouldn’t start
+heavily ebbing off for at least ten times
+longer than when this period begins.
+Indeed most of the stars alive nowadays will
+still be alive then.
+Our Sun may only have a lifespan of 10 billion
+years and will be getting ready to enter its
+death throes when our final galactic mergers
+begin, but our star is on the big and short
+lived side.
+Most stars are red dwarfs and live hundreds
+of billions or even trillions of years.
+Indeed, while we might then say our Universe
+at this point is a big empty one far larger
+than in the present day and centered on a
+conglomerated large galaxy, ‘our universe’
+is pretty debatable.
+We probably can build ships fast enough to
+have caught up to those fleeing galaxies before
+they got too far away and too fast to catch.
+However, for those folks still living in our
+galaxy at this point, or its larger merged
+form, we’ll have to say goodbye to our cousins
+who made that voyage by this point.
+Or any alien civilizations that arose in them
+and that we’d struck up conversations with.
+Unless we’d discovered actual faster than
+light travel by then, and if it’s possible
+I’m sure we would have as a hundred billions
+years is a lot of time to do research - especially
+with galaxies worth of colonies to add their
+efforts to the research.
+For my part I don’t expect we ever will
+get a work around to light speed, but many
+such technologies offer their own options
+for postponing the Heat Death, and we’ll
+get to those shortly.
+First let’s finish up the forward progress
+to the Heat Death.
+It will take a long time but those stars will
+eventually stop forming as often and dying
+off and we’ll go dark, a Universe of random
+gas floating around dead suns and slowly drifting
+apart or falling into black holes.
+Whatever mass remains cannot be used to extract
+more work.
+Now in an inhabited Universe, folks have probably
+stockpiled lots of mass they can feed into
+fusion reactors or make new suns with.
+But that will run out eventually.
+They can also feed that matter into black
+holes and extract energy that way – see
+Colonizing Black Holes for details on that,
+and indeed they might help super-size our
+local galactic merger by even shoving slightly
+more distant galaxies together, as we looked
+at in Fleet of Stars.
+But in the end, everything is either too scattered
+out to reach or in those black holes, and
+this is the default End of the Universe.
+As we discussed in Civilizations at the End
+of Time, even once all that matter is down
+in those black holes, they are thought to
+slowly decay and give off radiation and you
+can theoretically live off that.
+Since the Universe is going to keep expanding
+and cooling, those black holes should all
+eventually evaporate too.
+Right now they don’t lose mass even when
+they’ve no matter nearby to suck in because
+of that CMB radiation, it’s everywhere and
+as thin and weak as it is, it’s still stronger
+than the Hawking Radiation emissions of even
+the most powerful natural black holes, so
+they emit a little bit of Hawking Radiation
+but suck in more CMB radiation and grow in
+mass from that alone.
+As that weakens and thins out as we expand,
+they’ll start hitting tipping points where
+more comes out than goes in, and less massive
+black holes emit Hawking Radiation faster,
+and emit it ever faster and more powerfully
+as they shed mass.
+Eventually any black hole will have reduced
+in size to something emitting enough power
+you can usefully collect energy off it.
+Hawking Radiation off a natural black hole
+for instance couldn’t even power a light
+bulb continuously, even if it emits insane
+amounts of energy, just because it does it
+so slowly.
+Capturing that energy and maintaining the
+equipment that does it over timelines of trillions
+of trillions of trillions of years is no easy
+challenge, and indeed might be impossible.
+Whereas gathering power off a black hole by
+dumping matter into it is actually quite easy,
+see the Black Hole series for details.
+But they generate far more power as they evaporate
+and shrink in mass.
+One that’s shrunk to about 20 billion tons
+of mass would be giving off a megawatt of
+power, and would continue to do so for a couple
+billion years, slowly rising in power as it
+did this.
+A civilization could carefully add set amounts
+of matter to black holes, getting power as
+they dropped mass down into them, but cutting
+off the flow when they hit a certain mass
+on each, and measure a bunch of them up to
+slightly differing masses to stagger their
+lifetimes out so they were giving off useful
+amounts of energy one after the other in series.
+Of course ‘useful’ depends on your technology
+and your nature too.
+As we discussed in Black Hole Farming, a post-biological
+civilization living as uploaded minds should
+take way less energy to run a mind on a computer
+than biology does, potentially billions of
+times less, and thus might be able to run
+a pretty massive digital civilization on something
+like a single megawatt black hole power plant.
+However, the Universe does cool and the theoretical
+minimum amount of energy needed to flip a
+bit on a computer, or several to produce a
+digital person’s thought, is proportional
+to the switch’s temperature.
+We call this the Landauer Limit, and in a
+cooling Universe it means you get way more
+computational bang for your buck, you can
+do ten times the calculation with the same
+energy at a tenth the temperature, or a million
+times the computation at a millionth of the
+temperature.
+Again see Black Hole Farming for further discussion.
+That of course merely postpones things for
+civilization, though in a massive way, and
+either by staggering your black holes masses
+or getting more effective at colder computation
+or both, you can keep this running for trillions
+of trillions of trillions of trillions of
+trillions of trillions of years.
+Indeed, if proton decay doesn’t occur, and
+we have little evidence to indicate it does,
+you might be able to survive this way to the
+end of the black hole era and maybe even stretch
+things out to the Iron Star era somewhow,
+a period of time so far in the future that
+it makes even that Black Hole era look like
+an eyeblink of time, and that era is already
+so long that it likewise makes the entire
+period of the Universe stars would occur in
+look like an eyeblink.
+That’s a pretty good postponing of things,
+and none of it requires any new physics though
+for much of it you need some beyond impressive
+improvements in engineering to take full advantage
+of it, though the staggered black hole mass
+trick requires only the ability to make black
+holes less massive than stars and we ought
+to be able to do that using some of the techniques
+we discussed in our Black Holes series.
+Even if you can’t make black holes less
+massive than a large asteroid, by imploding
+giant balls of iron wrapped in nukes, which
+should be doable, such things should be short
+enough lived we could huddle around reserve
+power sources or trickle feeding mass to other
+natural black holes till they started expiring
+and giving off useful amounts of power.
+This is nothing like the great and glorious
+digital period that a post-biological civilization
+that’s mastered artificial micro-black hole
+generation could enjoy, but it would allow
+at least some remnant on par with modern population
+numbers to dwell on for ridiculously long
+periods of time under known physics.
+But let’s start considering some options
+for unknown physics.
+I mentioned faster than light travel earlier
+as a work around to the Heat Death, and one
+of those methods is that FTL is usually the
+same thing as time travel and as we mentioned
+some weeks back in our Time Travel episode,
+you can always jump back in time to an earlier
+period of your Universe, or possibly a different
+Universe, and escape the heat death that way.
+Needless to say any technologies that permitted
+travel to newer or younger Universes, assuming
+they exist, also allows this option.
+And not just for escaping either.
+Entropy or Heat Death is what happens when
+a system runs out of available work-energy
+in a closed system, you can always add more
+energy from outside or connect that system
+to another system that’s colder and run
+a heat engine between them till they reach
+equilibrium.
+So if you can travel to new universes or dimensions,
+and travel back and forth, you can postpone
+the Heat Death of our Universe that way.
+You just open a gateway to a younger or lower
+entropy place.
+Or one where that concept doesn’t even apply.
+We don’t want to assume the sum total of
+reality is merely different variations on
+the events and age of our own but with the
+same rules.
+After all there is always that irritating
+question of where all the Energy in this Universe
+came from initially and where all that Dark
+Energy came from.
+And as a side note, while some folks in Cosmology
+like to occasionally suggest it might not
+need to have come from anywhere, and while
+that is presumably possible, there’s nothing
+even vaguely scientific about that claim at
+this time.
+We know nothing more of what’s come before
+or outside this Universe than we knew back
+in the time of folks like Plato and Socrates,
+with the exception of having a bit clearer
+view on how space and time are merged together
+and run, and while I entirely sympathize with
+a lot Cosmologists and theorists wanting to
+weave that into our current models, it’s
+all very hand-wavey and maybe a bit irresponsible.
+Time in this Universe doesn’t have to have
+had a beginning and presumably doesn’t have
+a zero minus one moment, but that doesn’t
+just let you say cause and effect at a grander
+scale do not exist.
+Of course it might not, we just don’t know,
+but critically, we don’t even have a hint
+of the tiniest clue at the moment, scientifically
+speaking.
+That’s not just me poking at theorists for
+speculating a lot on stuff without evidence
+to back it up, but also a warning since we’ll
+be doing that ourselves for the remainder
+of the episode.
+From this point on while we’ll be sticking
+to concepts with at least decent theoretical
+framework behind them, we are moving outside
+known science or strong theory.
+So grain of salt, or dump truck of salt perhaps.
+First, it’s always possible that expansion
+of the Universe is not an eternal thing and
+eventually dries up into a non-expanding or
+steady state one, or that the broader multiverse
+or whole grand Shebang is effectively steady
+state and all those other Universes and realities
+you might be mining for energy would dry up
+too.
+However, such a case leaves the door open
+for random reset, what we call a Poincaré
+Recurrence.
+Shuffle a deck of cards enough times and it
+will eventually return to the order it was
+originally in.
+Take anything random and changing and it will
+eventually repeat states, and when we’re
+discussing it in entropic terms, it need not
+perfectly reset either.
+A deck of cards will return to its original
+state but along the way it will form a lot
+of patterns, like having several cards in
+a row be in numerical order, or lower entropy
+so to speak.
+The amount of time involved for this to happen
+even for a simple deck of cards, 52 objects
+in 52 possible states each, are simply enormous,
+and grow vastly more enormous for each element
+and possible state added.
+However, the bigger your deck, the more small
+patterns or randomly lower entropy spots you’d
+have emerging.
+If you could find and access those in our
+analogous universe, you could presumably run
+a civilization off them indefinitely.
+But all that assumes you can’t either reverse
+entropy in some deliberate fashion or create
+reversible processes.
+It may be possible to do reversible computing,
+cases where you can flip, unflip, and reflip
+bits without expending any net energy or raising
+entropy.
+However, from a practical standpoint it’s
+rather debatable if this really allows true
+and lasting computation in the context of
+thought and memory, since you’re arguably
+undoing the computation or thought when you
+reverse it, and of course you always get some
+loss around the edges on any system so Reversible
+Computing might only allow a postponement
+of entropy, rather than a stand still or reversal.
+The same will generally be true for any reversible
+process besides computation too.
+Can you reverse entropy though?
+Break the Laws of Thermodynamics?
+Turn back the growing chaos of a system without
+doing so by adding more chaos to another system?
+We don’t know for sure of course, and folks
+have often suggested ways to do it or even
+claimed to have accomplished it, and not simply
+random loons or scam artists offering perpetual
+motion machines.
+Back in 2016 researchers at Argonne National
+Labs came up with a way we might be able to
+do negative entropy gain at a local, temporary,
+and quantum way and quantum does seem to offer
+us some avenues that might permit local entropy
+drops.
+This does not necessarily mean they actually
+do, or that such a thing could ever be scaled
+up to the macroscopic scale, taking advantage
+of quantum behavior by simply scaling it up
+or building huge numbers of copies of it does
+not generally work, or at least is insanely
+more difficult than folks tend to assume.
+Though I’m not too pessimistic about such
+avenues, most of our theoretical notions for
+where all the stuff for the Big Bang might
+have originated from usually do tie into quantum
+where stuff can just appear out of nowhere
+anyway.
+Although let me caveat that by saying we just
+tend to say ‘appear out of nowhere’, we
+don’t know that it does any such thing,
+and use the phrase to mean ‘we don’t know
+where from, possibly from nothing at all’
+rather than ‘yes, this definitely appeared
+from nothing at all’.
+Its problematic when discussing how to escape
+or delay the death of the universe when you
+don’t know where it came from or what the
+underlying quantum structure is beyond that
+there seems to be one and it seems to constantly
+foam and froth with vast amounts of hazy potential
+particles and energies.
+If we could learn to tap those, basically
+the concept behind Vacuum Energy, then that
+might let us get around the Heat Death too,
+though maybe not since they seem by their
+nature to be random and it’s not possible
+to get work done from randomness, that’s
+basically the notion behind the Laws of Thermodynamics
+in the first place.
+Of course, playing around with that, if we
+ever start figuring out how to and assuming
+it’s actually possible, might change our
+outlook on the matter.
+Amusingly, if darkly so, it might also have
+the opposite effect of postponing the End
+of All Things.
+There’s a bit of concern that if you poked
+around at that stuff you might effectively
+poke around at the bottom of the Universe
+and metaphorically drain it away, and you’ve
+probably heard of the notion of the False
+Vacuum.
+The Universe is mostly empty space but not
+quite a true vacuum, little bits float around
+in it and any given bit of it has photons,
+such as CMB radiation, passing through it.
+But even if you remove those, create a true
+vacuum, it still isn’t one.
+It also has vacuum fluctuations, little bits
+of things popping in and out of existence
+at the quantum scale, a false vacuum, not
+quite a lowest possible state of energy.
+We’ve some reasons to worry you could accidentally
+poke this, or that Vacuum Decay might happen
+naturally, so space in a spot did drop to
+a true lowest state and that this lowest state
+would then begin expanding at the speed of
+light in every direction, basically wrecking
+the Universe in an expanding bubble of true
+nothing.
+Such a thing might already have happened somewhere
+in the Universe, naturally or in some alien
+lab, and be working its way here even now.
+Or of course have happened in some prior iteration
+of the Universe, and our Universe resulted
+from that cataclysm.
+That’s an amusing answer to the Fermi Paradox,
+where all the aliens are at in this huge and
+ancient Universe, since so long as we don’t
+assume intelligent civilizations are too common,
+not more often than once per galaxy every
+few billion years, this might account for
+their absence.
+They figure out how to access this false vacuum
+and accidentally ignite a vacuum decay, which
+spreads out at light speed eating their planet
+and even catching up to any of their colonies
+and slower-than light ships.
+Only their early and weak signals would precede
+this catastrophe to anyone out there listening,
+so they’d probably miss the signal, and
+regardless, even if they heard it, would only
+have a short time before the vacuum decay
+reached them anyway.
+Or that every civilization that first emerges
+in a Universe eliminates themselves and everyone
+else by doing this.
+It’s not really a Fermi Paradox solution
+you need in a no-FTL Universe, but it works
+for ones in which FTL travel is assumed to
+be possible since it offers you a way to kill
+off those species before they’d discover
+how and removes the problem to the Fermi Paradox
+of having to deal with the absence of aliens
+if we have to include one spawned in far distant
+galaxies including those over the Cosmological
+Horizon.
+Though perhaps not, since Vacuum Decay happens
+at light speed and expansion can occur faster
+than that.
+However, while it’s often noted that anything
+useful for bettering our lives can be made
+into a weapon, the reverse is also usually
+true, your swords can be turned into plowshares,
+so potentially such a cataclysmic option like
+Vacuum Decay might be in some way usable as
+a controlled power source too.
+We don’t know how to mess with that False
+Vacuum yet, assuming it even exists or exists
+as we think it does anyway, but the ability
+to mess with it implies a potential ability
+to manipulate or contain it, and that could
+open the door to flat out making new bits
+of matter and energy or even whole new Universes.
+For my part I think that’s a much more interesting
+Fermi Paradox solution, that folks learn how
+to play around with stuff to make new matter,
+energy, or spacetime, and finding it better
+and easier to pursue that option for expanding
+their civilization as opposed to building
+giant slow generation ships to colonize new
+worlds.
+The Heat Death of the Universe, and postponing
+or reversing or evading it, ought to be the
+top priority for any advanced civilization,
+and to end the episode on a hopeful note,
+since that would be the Grand Work of any
+ancient and vast civilization, an alternative
+to us not seeing ancient alien empires all
+over the Universe might not be that they simply
+don’t exist, but rather that they solved
+the whole problem of finite resources in an
+entropic and decaying universe and thus had
+no need to venture far out from their home
+world to find new resources to let them expand
+into to grow or stockpile against the grinding
+engine of entropy.
+If they did, then that means we can too, and
+All Good Things don’t have to come to an
+End.
+As we mentioned the fundamental concept of
+the Heat Death of the Universe is all about
+Statistics, Entropy, and the Laws of Thermodynamics.
+If you’re interested in learning more about
+those and other statistical concepts I’d
+recommend the Quizzes on Thermodynamics in
+Brilliant’s Classical Mechanics Course,
+or their Statistics Fundamentals Course, with
+over two dozen interactive quizzes that will
+help you master statistics, one of the most
+valuable areas of math and reasoning to know.
+Brilliant is an online learning community
+with over 60 interactive courses and many
+quizzes and puzzles, plus Daily Challenges
+that help get the brain warmed up for the
+day.
+Those Challenges provide a context and framework
+that you need to tackle, so that you learn
+the concepts by applying them, which is the
+best way to learn new concepts.
+Brilliant makes learning fun and easier, and
+their online community gives you places to
+discuss the material or ask questions, and
+their mobile apps offline feature lets you
+take courses even when you’re not getting
+a good signal.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+So today we were talking about potential distant-future
+calamities like Heat Death and Vacuum Catastrophes,
+and next week we’ll be looking at ways to
+fix or mitigate catastrophes a bit closer
+to home in both space and time, in Climate
+Change Mitigation, where we’ll explore what
+options we have now or in the near future
+for everything from greenhouse gases to volcanoes
+and asteroid impacts that might mess with
+our planet’s thermostat.
+We also discussed some post-human civilizations
+in passing today that might live around black
+holes one day, and in two weeks we’ll look
+at something similar but also sooner on the
+horizon, as we discuss DNA Manipulation in
+Living Subjects.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to support future episodes,
+visit our website, IsaacArthur.net, to donate
+to the channel or check out some of the awesome
+SFIA merchandise.
+Until next time, thanks for watching,
+and have a Great Week!

@@ -1,0 +1,825 @@
+This Episode is brought to you by Brilliant.
+One of the most fun but inaccurate tropes
+in science fiction is the
+crowded harrowing Asteroid Belt,
+navigated by an ace pilot on a quick interplanetary
+jaunt.
+But once humanity fills vast open stretches
+of space with artificial habitats,
+that trope might actually turn out accurate.
+So today we are back to the Megastructures
+series here on Science & Futurism with Isaac
+Arthur, and I am your aforementioned host,
+Isaac Arthur.
+Normally in this series we talk about this
+or that giant artificial structure humanity
+might create, but today we’ll be looking
+at them from a different perspective, how
+folks might navigate between them and how
+that might impact both the creation of these
+structures and the civilizations living on
+and near them.
+However there are many different types of
+structure to discuss, many of which lend different
+approaches to travel, and while we’ll briefly
+explain each one, in the interest of brevity
+I’ll also reference other videos that detail
+these concepts in greater depth.
+Nonetheless this will be a long discussion
+so now’s a great time to grab a drink and
+a snack, and if you enjoy the content, don’t
+forget to hit the like & subscribe buttons
+while you’re at it.
+So, what’s the big deal about navigating
+between megastructures?
+You’re in space afterall, so it would seem
+like the obvious mode of transportation would
+be spaceships.
+But it’s not quite that simple, especially
+when you’re building truly *mega* structures
+-- and building a lot of them.
+We’ll start by defining what we mean by
+a megastructure.
+The term basically means anything really big
+that we build, but in this episode we’re
+focusing on ones we build in space.
+That can include habitats we build to live
+in or farm in, like rotating O’Neill Cylinders
+which use centrifugal force to emulate gravity,
+or Birch shell-planets built around a star
+or a supermassive black hole, or even planets
+built in the shapes of discs, sombreros, or
+donuts that we’ve discussed in some of our
+more theoretical episodes.
+There are also non-habitat megastructures
+built to disassemble planets or stars for
+raw materials, accelerate spaceships to enormous
+speeds, or to move entire stellar systems
+themselves.
+Not to mention computation and artificial
+intelligence or simulated intelligence focused
+ones, like the Matrioshka Brain, where transportation
+might simply be by radio waves or communication
+lasers.
+Travel between these objects obviously is
+going to vary a lot from size to size and
+purpose, not to mention available technology.
+Normally on this show we try to stay firmly
+inside known physics but we also don’t like
+to bypass theoretical options and things like
+artificial gravity, anti-gravity, and wormholes
+all have a big impact on our discussion if
+they are available technologies.
+Artificial Gravity, meaning gravity not created
+naturally by mass or emulated with centrifugal
+force, something like the gravity plating
+we often see in science fiction starships
+and space stations, lets you get by without
+rotating things, which is a problem for coupling
+objects together.
+Anti-gravity lets you get around the issue
+of them needing to orbit very fast around
+planets or stars in favor of just hanging
+in place effectively stationary to whatever
+they are orbiting or each other.
+Wormholes, if you can make them small and
+basically portals like we see in sci-fi not
+only makes transit between two megastructures
+easy but opens up whole new types of megastructures.
+We have some tricks that will let us mimic
+in whole or part some of these effects that
+we will discuss today too.
+Another big factor in navigating around is
+density of people and structures.
+For much the same reason you do not build
+a freeway between your house and your neighbors
+or a sidewalk to run freight between two metropolises.
+Or passengers for that matter too.
+If we are talking about a planet with just
+a pair of space stations, one in low orbit
+and one in high, with maybe a few thousand
+people on each, then a little shuttle probably
+is sufficient.
+Alternatively we need to keep in mind that
+something like a Ecumenopolis, a planet wide
+city of a few trillion people, which might
+be portrayed in science fiction as a great
+galactic empire capital having a few dozen
+shuttles flying around the sky at any moment
+in reality probably needs to move a billion
+people and a billion tons of cargo back and
+forth from orbit on any given day, so that
+at a given moment there might be a million
+ships flying around there.
+So too, some of our megastructures are designed
+for millions of people to live in, others
+billions or even trillions, and some of the
+truly monstrous ones like the Birch Planet
+might have trillions of trillions of people
+calling them home.
+These ironically might have low traffic simply
+because while they have Earth-like gravity
+on their surfaces, they are so enormous that
+their escape velocity is a decent fraction
+of light speed and off-world travel might
+be very rare, except by something like digital
+transmission, a kind of teleportation where
+we’d just move a digital copy of someone’s
+mind to an android or cloned body instead
+of moving them.
+Not that you need to travel much off a Birch
+Planet, even the smallest of them has more
+living area than an entire galaxy’s worth
+of planets while most versions would have
+more living room than we’d expect to find
+on every single planet in the Observable Universe,
+so you don’t have much need for off-world
+tourism.
+Of course, we might not need much travel between
+more mundane megastructures either.
+After all, remote-work and remote-tourism,
+whether more classic options like the internet
+or virtual reality, or the mind-digitizing
+and transfer method, may be quite common things
+in the future to the exclusion of transport.
+Indeed, many systems might frown on non-vital
+physical transport simply for all the navigation
+and debris issues involved, which we will
+also get to today.
+One type of Megastructure is what we call
+a Dyson Sphere, or usually a Dyson Swarm,
+which is less an individual structure than
+a vast cloud of many of them englobing a star
+to make use of all its light.
+We also have a smaller and denser version
+of this called a Planet Swarm, which is essentially
+when you fill all the orbital space up around
+a planet with various megastructures.
+Scale in astronomy is always so hard to convey
+but your typical O’Neill Cylinder Habitat
+is bigger than a large metropolis or mountain,
+they are enormous and on the small side of
+what we consider a megastructure.
+It would take about a million of them to equal
+the living area, and solar cross-section,
+of Earth, and we’d need a couple billion
+Earth’s worth of living area to absorb all
+the Sun’s Light and use it for artificial
+land and ecosystems, so you’d be talking
+about sticking over a million-billion of them,
+a quadrillion, in orbit around our Sun.
+A Planet swarm is far more modest, relatively
+speaking, in that it might only be a few billion
+such stations orbiting that planet, but again
+denser as they are packed into an area maybe
+a million kilometers around Earth rather than
+a volume around a million times larger than
+that around a Sun.
+Sounds cluttered in either case, and on the
+one hand it is and on the other it is not.
+Megastructures are hardly limited to habitation
+cylinders and we’d never expect a Dyson
+Swarm to be composed of nothing but O’Neill
+Cylinders and evenly spaced at that, but if
+they were, we’d except each to be the sole
+occupant of a volume of space a couple thousand
+kilometers wide while themselves only being
+a couple dozen kilometers across.
+That’s no denser than a continent with two
+or three cities or mountains on it and empty
+space between, and only considers it in two-dimensions
+rather than a volume.
+Planet Swarms are denser affairs, but would
+still tend to have an average density, especially
+in higher orbits, of hundreds of kilometers
+between such titanic space habitats.
+When it comes to traffic between them though,
+we should still not picture one lone shuttle
+going between two O’Neill Cylinders.
+At these sort of distances you could build
+cheap and simple spaceships no bigger than
+a personal automobile, and no more high tech,
+that could flit across the distance between
+the two much faster than a car could and on
+a great deal less fuel, as there is no air
+or road trying to slow you down, just vacuum.
+Such being the case, you would expect a lot
+of back and forth travel.
+Such a cylinder habitat can house around million
+people, and if we assumed most folks needed
+to fly to their neighboring habitat on average
+once a week, then you’d have a personal
+shuttle launching between them about once
+a second, and a big long chain of spaceships
+between them much akin to a stretch of freeway
+between two cities.
+In something like a planet swarm, and if folks
+drove around as often as we tend to, you might
+see several trillion spaceships flitting around
+that planet’s orbital volume at any given
+moment.
+Needless to say, that is quite the traffic
+nightmare, and you might have all sorts of
+local or system wide laws, treaties, regulations,
+and discouraging fees or taxes to minimize
+personal vehicle usage just to limit this
+congestion and high-speed collision and debris
+concerns.
+Though again all things being relative, those
+ships might tend to move in columns through
+space but evenly distributed would still have
+many kilometers between them.
+They also don’t have to be moving very fast
+relative to everything around them, two space
+stations on the same orbital path are effectively
+stationary relative to each other, and if
+a thousand kilometers apart you wouldn’t
+expect to ever see folks going between them
+at much faster than airplane speeds.
+Potentially that saves a lot of fuel and twice
+over since you don’t need to push as much
+mass around at slower speeds since you don’t
+need to have thick armor on your ship to avoid
+being killed by all the random space debris
+floating around.
+And you will need armor on your ships because
+space is very empty and things moving between
+it need to move very fast, and at those kinds
+of speeds even something very small can ruin
+your whole day if it hits you.
+And just because two stations on the same
+orbital path are relatively stationary and
+the ships between them wouldn’t likely move
+very fast, doesn’t mean any of the debris
+from other orbital paths or ships crossing
+lanes, so to speak, would not be going at
+normal orbital speeds.
+So even if the ships are just intended for
+short jaunts between neighboring habs, they
+either still need thick armor or the system
+needs very good debris clearance, or both
+– we detailed more issues with debris in
+our Megastructure Maintenance & Space Janitors
+episode, and realistically you need a decent
+amount of heavy armor even with good clearance,
+and armor is proportionally heavier for smaller
+vessels because of the square-cube law.
+If ships need 10 centimeters of steel plating
+to protect against the sorts of debris that
+commonly escapes routine debris clearance
+methods then it needs 10 centimeters over
+all its surface whether it is the size of
+a car or a bus, or a basketball and a city
+for that matter.
+Some basketball size sensor, maintenance,
+or delivery drone needs that same armor – maybe
+less of a safety margin as its more expendable,
+but it’s cargo capacity generally rises
+with the cube of it’s width whereas it’s
+armor needs will rise with the square of width,
+so some bulky mega-freighter just isn’t
+using much of its mass for armor even if it
+has thicker armor than a personal space yacht.
+The thing is, armor doesn’t need to move,
+which is why space stations can get away with
+having so much more mass and protective hull.
+For the stations that are not moving relative
+to each other we can get away with physical
+connections like tunnels and tethers, or tethers
+with an armored tunnel around them, and while
+a vacuum tunnel is a handy transport method
+since there is no air drag, you do have the
+option of pressurizing them for folks to walk
+through.
+Except they can’t walk because there is
+no gravity, so they float… except such a
+tunnel can be a long cylinder and thus be
+spun like any other cylinder habitat, so long
+as it's wide enough not to cause big differences
+in gravity from your feet to your head or
+a vertigo feeling.
+Bigger habitats in the same orbital path might
+opt to connect via vacuum trains on tethers
+inside an armored shell or they might connect
+with something like a ten meter radius long
+spinning cylindrical tunnel complete with
+gardens and boulevards and bike paths.
+Or both or combinations of both, a wide cylinder
+but with a train along the central access
+tether.
+This is a key notion for space habitats though,
+because as long as the tethers are reasonably
+sturdy, you can use them to lash habitats
+together not only on the same orbital path
+but off to the side a bit too, creating conglomerations.
+Generally you could lash two small stations
+a hundred meters apart with nothing more sturdy
+than some yarn, and two very large space stations
+together separated by a couple kilometers
+with nothing more advanced than the sorts
+of cables we use in a suspension bridge, let
+alone the superstrong tensile materials like
+graphene we often envision building these
+habitats out of.
+They’re also mobile so you could be detaching
+them or lengthening or contracting them with
+winches if things weren’t quite stationary
+or you wanted to move the stations.
+These also become great for moving people
+and cargo down at essentially no fuel expenditure
+and also as high-bandwidth communication or
+power lines.
+Or other utilities too.
+As I’ve mentioned, the O’Neill Cylinder
+is on the small side of megastructures – and
+we’ll get to the bigger ones in a bit – but
+it is still huge and not only will they tend
+to outnumber all the bigger megastructures
+by quite a lot, but they are also likely to
+be vastly outnumbered by smaller structures.
+These could be smaller human habit drums just
+a couple dozen meters in radius and length
+or support facilities, like factories, spaceship
+docks and dockyards, low-gravity, low-armor
+space farms or big huge but light solar panels
+or great big armored mirrors for bouncing
+and concentrating light to smaller solar collectors
+while providing extra collision barriers to
+the space habitat and it’s ancillary stations.
+Either way, you might be transmitting more
+than power between such small facilities,
+like water or air recycling, a smaller station
+having its own supply tanks for backup probably
+but relying on more centralized or specialized
+places for production, recycling, and primary
+storage.
+On the notion of armoring a solar panel or
+mirror.
+A Solar panel in space can be very light and
+thin, and a mirror more so, and thus is quite
+vulnerable to damage as well as being pushed
+around by sunlight and solar wind, or eddies
+of spaceship exhaust, so you might opt cover
+them in armor as ballast and shield and wrap
+you space station and all its ancillary stations.
+That lets you use smaller craft internally
+with little need for protection as the whole
+conglomeration.
+This is a key notion though, conglomerations.
+In something like a Dyson Swarm or Planet
+Swarm you do need your overall density of
+structures to be low but they hardly need
+to be spread out at the local level.
+You probably would see conglomerations of
+habitats well into the billions of people
+all lashed together sharing ancillary facilities
+also lashed together and inside some big protective
+framework of collision armor and point defense
+systems, which helps minimize incoming debris
+issues and also outgoing junk.
+See the Life on board an O’Neill Cylinder
+episode for more discussion of this notion
+of tethers and connected structures.
+What about more isolated megastructures?
+Or much bigger ones?
+Ones with their own gravity or where the atmosphere
+isn’t kept inside a can that ships dock
+externally with?
+And how about moving around inside them?
+As we saw in our episode Continent-Sized Rotating
+Habitats, cylinder and ring habs can potentially
+be made very large, essentially worlds unto
+themselves or bigger.
+For them, someone coming in might dock externally
+on the rotating section, or some non-rotating
+protective superstructure.
+Or they might come down the rotating axis
+to a hub port in the center of the cylinder
+cap.
+Assuming it has one.
+Stations might opt to have curved ends, internally
+those places would curve up to the axis and
+have low gravity as you rose up to them, and
+it is arguably structurally better to have
+a curved end to your cylinder then a flat
+cap.
+But the bigger ones do not need this cap to
+go all the way to the central rotational axis.
+Things like McKendree Cylinders – essentially
+an O’Neill Cylinder but a hundred times
+wider and longer – only need a rim wall
+to keep the air in and much like our own atmosphere
+it thins out to near-nothing eventually so
+above that height no rim wall is needed and
+you can just fly right in.
+That’s handy for slowing down, which costs
+fuel in the vacuum of space, just as much
+as speeding up and indeed more since you need
+more fuel to speed up initially since you
+also need to accelerate your slow down fuel,
+meaning you need more than double the fuel,
+often far more than double.
+A ship that can slow down by plowing into
+air in an open-air megastructure is much more
+economically efficient.
+So too, the Rocket equation that makes that
+the case also only applies to rockets and
+ships carrying all their fuel, and such megastructures
+will often be quite capable of hurling a spaceship
+away at high speeds, saving them all or at
+least a good fraction of their fuel.
+On such stations you might have ships landing
+on the rotating sections and departing by
+them to save some launch and stop fuel, quite
+a lot on these larger ones too as a McKendree
+Cylinder might be spinning a few kilometers
+per second or ten thousand kilometers per
+hour, a decent speed to be traveling inside
+a solar system where habitats are only thousands
+of kilometers apart not millions like planets.
+The bigger ones like Banks Orbitals and Niven
+Ringworlds would hurl you off at about hundred
+or a thousand kilometers per second respectively.
+You can dock – very carefully – using
+this same trick to save fuel.
+Assuming the outside is a rotating cylinder,
+and on these bigger ones they might be.
+However you can also run a big mass driver
+right down the central axis of these bigger
+habitats, a thousand kilometer long rail gun
+gives quite a shove to a spaceship, you could
+exit at standard orbital speeds of around
+10 kilometers per second from one.
+Plus it’s just a long shaft so there’s
+no reason you can’t make it even longer
+by extending it out past the end-caps or rim
+walls of the hab.
+Indeed if you were docking ships at the central
+axis of a cylinder or ring hab rather than
+on the outside rotating part, you might tend
+to do a long extended axis out to spacedocks
+just to keep them fairly clear of your habitat
+and give you extra length to shoot spaceships
+out via mass driver.
+As a sidenote, we tend to see ships docked
+in open space in science fiction, except in
+a drydock meant to be pressurized, but that
+exposes them to all sorts of radiation and
+debris and while they are designed for that
+while traveling, it’s quite likely a spacedock
+would tend to have a protective shell around
+it’s docked ships, even if it wasn’t pressurized,
+as that at least protects drones or maintenance
+crews working on the outside from debris or
+needing bulkier armor or spacesuits.
+It also helps with docking and berthing which
+can be time consuming while you wait for all
+your connections and pressure tests and matching,
+all the more so if you have to use big sturdy
+docking collars and ports designed to handle
+constant erosion from space dust and radiation
+or the need for spacesuits to be on during
+docking and berthing in case of rupture or
+leak.
+There’s also a big difference between a
+spacesuit that just keeps air in, and which
+you don’t mind if it leaks because you can
+recapture that air leaking into your enclosure,
+and a suit meant for long outside use and
+radiation and debris issues.
+This might be a hard shell structure always
+in place or something that folded out to cover
+ships or even inflated around them, and again
+might not need to be air tight unless you
+wanted it pressurized.
+Often you wouldn’t since spaceships mostly
+wouldn’t be designed for operating in atmospheres
+too so might have been built without air and
+corrosion or pressure issues in mind.
+They could dock at some relatively remote
+spacedock - in terms of both distance and
+personnel on board - then take a train into
+the habitat down that long axis shaft, which
+might also be a mass driver or other style
+of space catapult.
+You can also slow ships with Mass Drivers
+too, like a runway for an aircraft, but that’s
+a very tricky and precise thing to do.
+Of course piloting spacecraft generally is
+and when it comes to coming and going around
+megastructures in space the odds are the human
+pilot ain’t piloting jack, the on board
+computer is and probably has a required override
+switch for traffic control to activate.
+Accident and terrorism are also big worries
+with spaceships so I would not be too surprised
+if all ships had to have an active transmitter
+that included a direct line override that
+was constantly being tested to make sure it
+worked by traffic control, and if it didn’t,
+automated defense cannons started tracking
+that ship.
+If you’re operating a private or commercial
+spaceship you’re essentially flying a nuclear
+bomb with all that kinetic energy, so they’re
+going to want assurances that you’re not
+going to strike them by distraction, neglect,
+accident, or malice and they will probably
+want more than your word of honor that won’t
+happen.
+This is even more extreme for interstellar
+spaceships which might be moving at a high
+fraction of light speed, where a single truck-sized
+vehicle represents a major threat to an entire
+planetary civilization let alone a megastructure…
+though we should never assume megastructures
+are particularly fragile and indeed the folks
+living inside them are arguably better shielded
+than planet-bound folks since all that protective
+rock is under you on a planet whereas on a
+megastructure it will generally be between
+you and whatever is colliding.
+You live inside the land, not on top of it.
+We could probably adapt a lot of our current
+aircraft and maritime control to this, including
+the difficulty of matching different rules
+between different nations and polities but
+that is one key difference, spaceships are
+weapons of mass destruction and will be known
+to be that from Day 1, unlike aircraft in
+the early days of the 20th century let alone
+the first person to ever hollow out a canoe.
+They are also very fast, which is not only
+why they are so destructive but a big issue
+for control, as you might have to make near
+instant decisions.
+For this reason you might tend to have large
+no-go zones around megastructures where only
+auto-pilot or even tugboat approaches were
+used.
+Tugboats might be drones designed to attach
+to hard-points on a ship hull, though we also
+have options for things like laser-propulsion
+being used as something like a Star Trek Tractor
+Beam.
+But a very good deal of the traffic might
+not be from self-propelled ships in favor
+of tether connections to spacedocks some way
+off from the main structure or via mass driver
+launch.
+Now this mass driver approach to launching
+is likely to be even more the case on natural-gravity
+habitats, the ones that actually produce gravity
+by sheer mass rather than spin, be they a
+classic sphere or something more exotic like
+donut-shaped hoopworld or flat earth.
+These don’t have no-gravity areas anymore
+than Earth does so you can orbit them and
+you do have to pay all that energy to launch.
+However unlike our planet they are artificial
+and often work using a ton of active-support
+technology like the Atlas Pillars or Orbital
+Rings we’ve discussed building them out
+of in those episodes.
+Such being the case it would be very easy
+to make mass drivers under the surfaces during
+construction and which protruded out above
+their atmospheres via space towers using the
+same core technologies you built the thing
+out of.
+You would also probably tend to incorporate
+those as your routine on-world long-distance
+transport systems too, same as we often discuss
+using vacuum trains or hyperloops for cheap
+high-speed transit on Earth and since you’re
+building them in from the outset it makes
+it much easier to do, plus you only build
+these sort of megastructures if you have really
+mastered the core technologies needed for
+such devices anyway as they all operate on
+the same basic principle of accelerating mass
+magnetically down long vacuum shafts.
+You would probably see some sort of vacuum
+trains on any megastructure too, or even larger
+spaceships.
+It is probably nice to go for a long walk
+or car drive or flight through your garden
+landscape in such a thing but time is money
+as they say and moreover you don’t care
+if your commercial freight vehicles and drones
+are getting to enjoy the scenic landscape
+and would not want the extra delay and cost
+of them doing so.
+It is neat to think of sailing down the world-river
+of a Topopolis - a super long skinny rotating
+habitat that might be tens of kilometers wide
+but millions or billions long, see the Continent-Sized
+Rotating Space Habitats episode for details
+- but neat as that is, you still stick access
+ports for ships on the outside and vacuum
+trains in the hull, for when speed matters.
+Interestingly that means many folks might
+tend to have their equivalent of a garage,
+driveway, or front door in their basement
+on such structures, as traffic might tend
+to mostly arrive via underground shafts.
+Of course as we discussed in Life on board
+an O’Neill Cylinder, same as smaller stations
+in conglomerations could detach and move to
+another one if they liked, the hulls of many
+rotating habitats might be designed to have
+house-ships come dock and rise up into the
+internal landscape in some high-tech far-future
+version of mobile homes or houseboats.
+You just rent, lease, or buy a plot of land
+with a house-hub dock in it and move there
+and move on when you want.
+I don’t think most folks would opt to commute
+that way but then we don’t know that many
+folks would commute to work in the future,
+in favor of either remote work or simply because
+we might not tend to have classic employment
+in a post-scarcity future where robots do
+nearly everything.
+Which is another point, most traffic in, around,
+and between megastructures is probably robots
+and a lot of the remainder is probably robot-piloted
+passenger vehicles.
+I mentioned the Topopolis a moment ago though,
+and earlier that you could connect two megastructures
+together with a long skinny rotating habitat
+corridor and two really big structures, or
+a long chain of them, might just use a Topopolis
+as a connection method.
+However, if we are talking very big megastructures,
+potentially self-gravitating ones, could we
+connect them with land bridges?
+Or at least pressurized tunnels?
+Could we connect two planets together so you
+could walk between them?
+And without any Clarketech like artificial
+or antigravity?
+As so often is the case, the answer is yes
+if you have a nearly limitless supply of money
+and manpower and really want to… and civilizations
+that build artificial worlds generally meet
+these qualifications.
+There’s nothing stopping you from building
+a Topopolis all the way through an orbital
+path, as a big long circle, and you could
+have all sorts of cylinder habitats hanging
+off the sides of it connected to its non-rotating
+protective sheath, or have two such rings
+with habitats in between them like rungs on
+a Ladder, what we call a Rungworld.
+Though the junction on these is a bit tricky
+especially if you want to maintain the sensation
+of gravity as you transfer.
+You are not limited to circles, so you could
+also do an ellipse like Earth’s orbit around
+the Sun is.
+Such being the case, there is nothing stopping
+you from building one right over or under
+Earth’s poles and held from dropping by
+a massive space tower protruding several thousand
+kilometers up.
+Then you just build a big spiral ramp up that.
+Gravity would begin to drop off from Earth
+– unless you are really good with making
+micro-black holes or containing ultra-dense
+materials like neutronium and suspend them
+along the path to compensate for the lower
+gravity as you ascend.
+You then enter the Topopolis.
+Now that is spinning and still getting some
+gravity from Earth, but as I mentioned earlier
+cylinder habitats don’t have to have flat
+end caps, they can curve to narrow down, and
+a long skinny hab can have sections that get
+skinnier too and thus spin slower in terms
+of their tangential velocity… though at
+the cost of lower gravity at that spot.
+You can potentially play around with having
+many separate segments that spin at different
+speeds, especially if you’ve got ultra-low-friction
+materials so that you get a tiered ring setup
+that amounts to a long series of steps around
+the interior but that might be more trouble
+than it's worth.
+Either way, be it smooth or rather more clunky,
+you are now inside that Topopolis that rings
+Earth’s solar orbit – this is an example
+of what I sometimes refer to as a Terran Ring
+incidentally, though they come in other forms.
+You can build the same Topopolis out around
+Venus or Mars, a Martian Ring.
+These can also be connected between each other
+by more Topopolis, stretching from the Terran
+Ring to the Martian Ring like spokes.
+Though this gets much easier if you adjust
+both planets to nicely circular orbits on
+the same orbital plane which you can probably
+do if you are building stuff like this anyway.
+Connecting these spokes to the two rings,
+which do not orbit at the same speed, is also
+tricky but there’s a few ways you can do
+that, including having many Topopolis or habitation
+rings between those two primary ones so the
+connection speeds were lower and more gradual.
+Potentially thousands, after all you’ve
+plenty of empty space between them.
+It seems pretty neat to be able to walk to
+Mars or Venus from Earth - though considering
+these structures would have vastly more land
+area than all those planets combined it’s
+less a highway system than a habitat with
+a few smaller hubs of note attached to them.
+It would also take a regular human several
+thousand years to make that pilgrimage on
+foot, but there’s presumably a lot along
+the way to see and you probably have radical
+life extension long before you build this
+sort of stuff so someone probably would give
+it a try.
+Done properly you can lace together Dyson
+Swarms or more mundane solar systems via physical
+connections even if it is probably not terribly
+efficient, but it certainly is awesome conceptually.
+That is the one unifying concept of coming
+and going between megastructures, since the
+methods vary so much by type of structure,
+available construction and transportation
+technologies, and motivation for travel.
+How you might come and go between them is
+hard to predict, all we know is that they
+are so numerous and variable, and so awesome
+in their scope, that folks will want to build
+them and to travel to see them.
+So today we were talking about Megastructures
+and engineering, and seeing many of the immense
+structures we could build under known science,
+and if you’re interested in learning more
+astronomical concepts, or the math and physics
+behind them, I’d recommend Brilliant.
+The Universe is an immense and amazing place,
+and knowing the math and science behind it
+only makes it seem more amazing, and Brilliant’s
+thought-provoking, fun, and interactive courses
+makes them a great choice for learning, whether
+you’re a student, a parent trying to enhance
+your kid’s education, a professional brushing
+up on cutting-edge topics, or someone who
+just wants to use this time to understand
+the world better, you should check out Brilliant.
+Try adding some learning structure to your
+day by setting a goal to improve yourself,
+and then work at that goal just a little bit
+every day.
+Brilliant makes that possible with interactive
+explorations and a mobile app that you can
+take with you wherever you are.
+If you are naturally curious, want to build
+your problem-solving skills, or need to develop
+confidence in your analytical abilities, then
+get Brilliant Premium to learn something new.
+Brilliant’s thought-provoking math, science,
+and computer science content helps guide you
+to mastery by taking complex concepts and
+breaking them up into bite-sized understandable
+chunks.
+You'll start by having fun with their interactive
+explorations, over time you'll be amazed at
+what you can accomplish.
+If you’d like to learn more science, math,
+and computer science, and want to do it at
+your own pace and from the comfort of your
+own home, go to brilliant.org/IsaacArthur
+and try it out for free.
+So we were talking about navigating around
+megastructures today, but another common question
+is how such immense places would govern themselves
+and what governments might be like in the
+future while trying to handle trillions of
+these colossal habitats in a single solar
+system, and in two weeks we’ll explore that
+notion in “Government Types of the Future”.
+Before that though, we’ll be looking at
+alien civilizations this weekend in our bonus
+3-part episode “Talkative Aliens & Laser
+SETI” which will be a collaboration with
+PArallax Nick and the Exoplanets Channel.
+Then next Thursday we’ll be back to the
+Fermi Paradox series to consider the possibility
+of Galactic Disasters.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

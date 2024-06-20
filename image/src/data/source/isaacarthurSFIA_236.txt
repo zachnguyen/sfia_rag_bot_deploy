@@ -1,0 +1,690 @@
+﻿This episode is brought to you by Brilliant
+Probably two of the most common and important  
+questions in astronomy are what black 
+holes are and what dark matter is,  
+but many wonder if dark matter and black holes 
+are the same thing. Others suggest black holes  
+might be the key to finally shedding 
+some light on dark matter.
+        
+ 
+What are black holes? What is dark matter? And 
+do they have anything to do with each other? The  
+simple answer is yes, they are very related, we’re 
+just not sure how much, and today we’re going  
+to talk about both the notion that mysterious 
+dark matter might be composed of black holes,  
+and the newer idea that we might be able to use 
+black holes to learn more about dark matter.
+ 
+One thing both have in common is that they are 
+seemingly invisible except by their gravitational  
+effect on the outside universe and that’s probably 
+a good place to begin for the entire subject  
+because until the last couple decades, there was 
+real doubt about if black holes actually existed,  
+and many folks still wonder if dark matter 
+itself is just some measuring error. 
+ 
+Both concepts are similar in age to the term 
+galaxy coming to mean one of many giant clusters  
+of stars, dating to the early 20th century, 
+and are very much intrinsically connected to  
+that early understanding of our Universe being 
+vastly bigger and distinct from our galaxy.
+ 
+We had some suspicions about black holes 
+as a possibility even before Einstein  
+predicted them as a consequence of general 
+relativity, and at the time, the theory of  
+choice was still a Steady State Universe that 
+was assumed to be infinite in size and age,  
+and the notion that stars ran on fusion, 
+rather than just being hot from gravitational  
+contraction, was just popping up too. At the time 
+we thought stars started hot and cooled with time,  
+and it turned out to be the other way around. 
+Either way, it was assumed that stars cooled down,  
+died and went dark and that the Universe 
+might be littered with all those remnants.  
+We were starting to be able to calculate the mass 
+of our galaxy once we understood the concept of  
+galaxies, and we were guessing at the number of 
+stars and seeing that, based on their mass, there  
+just weren’t enough of them to cause the orbital 
+rates of stars around the galactic central bulge.  
+More mass means faster orbits.
+There was a lot of missing mass,  
+but it was generally assumed that this was dimmer 
+stars, gas giants, nebulae, interstellar gas,  
+dead stars and so on. And a lot of it was, but 
+the problem was, as we got better and better at  
+astronomy, we were able to survey many of these 
+types of objects and we just kept coming up way,  
+way short. For decades we could kind of handwave 
+that because there were so many question marks  
+and huge margins of error on those estimates 
+too. Estimating the density of interstellar  
+dust for instance requires knowing the distance 
+to some stars so you can see how much light  
+is being absorbed by gas and dust for every 
+light year of distance between you and them.  
+But, not only does that amount change 
+significantly between various regions  
+of the galaxy but we often had star distances 
+that, as best guesses, were off by 50% or more. 
+ 
+It’s also very hard to count dim objects, and 
+virtually all dead stars qualify as dim compared  
+to main sequence ones let alone red giants or 
+hypergiants, which are not that common but seemed  
+a lot more common in earlier days of astronomy 
+since we could see them much easier than regular  
+stars let alone stellar remnants. Indeed, we 
+had problems seeing even stars like our own sun  
+beyond a few thousand light years even with big 
+early telescopes. So a lot of the stars we saw  
+early on were giant stars, hundreds or thousands 
+of times brighter than our own, resulting in us  
+mislabeling our sun as a yellow dwarf, even though 
+19 out of every 20 stars is smaller than our Sun,  
+and that’s not even including Brown Dwarfs. 
+Most stars turned out to be red dwarf stars,  
+and one just a tenth our sun’s mass 
+might only be a thousandth as bright. 
+ 
+So, essentially, we knew about the weird 
+paradox in galactic mass for a long time  
+but since we had so many uncertainties in this 
+mundane matter, looking for an entirely new type  
+of matter that was also basically invisible wasn’t 
+easy and we weren’t sure it was necessary yet.  
+Also a lot of folks figured all this missing 
+mass would just turn out to be black holes,  
+old and cold white dwarfs and neutron stars, and 
+a lot of Jupiter-like and Brown Dwarf objects.  
+We had assumed there was really only two events 
+that could form black holes at this point,  
+a supernova and the immediate moments after the 
+Big Bang, what we call Primordial Black Holes. 
+ 
+Supernovae are so bright, they briefly outshine a 
+galaxy and come from stars that are thousands of  
+times brighter than our own, so we had a fairly 
+decent guess at how often such black holes were  
+formed, fairly early into our observations. It 
+might have been a few times larger or smaller than  
+some estimates but it just wasn’t making a dent in 
+that missing mass. Even that monster black hole in  
+our galactic core, possibly massing 4 million 
+solar masses, is peanuts compared to galaxies  
+massing in several hundred thousand times as much. 
+For post-supernovae black holes, even permitting  
+many to gobble other stars, which would be a very 
+bright event, we couldn’t plausibly give them even  
+1% of that missing mass without them gorging on 
+other matter so fast we would easily notice.
+ 
+However, we had no idea how many primordial 
+black holes there might be, and given the  
+insane conditions in the moments right after the 
+big bang, where, even the interior of a giant  
+star would seem cold and mild in comparison, 
+it wasn’t too crazy to think maybe most of the  
+mass of the Universe got itself squeezed into 
+a lot of smaller, primordial black holes.  
+Indeed, one the mass of a freight truck, say 
+10,000 kilograms, would be millions of times  
+smaller than an atomic nucleus and if you got hit 
+by one, rather than plowing you down like being  
+hit by a freight truck or sucking you into itself 
+like the typical black hole in scifi, you’d never  
+know it even happened. It’s statistically unlikely 
+it would hit even a single atom in your body,  
+any more than a baseball sized rock is likely 
+to hit the Sun if it were randomly tossed into  
+our solar system, and even if it did, it would 
+just suck in that one atom and keep on moving.  
+You wouldn’t be sucked into it anymore than you’d 
+get sucked into a freight truck by its mass.
+ 
+By the 1980s though, we had a lot more data and 
+also one critical new theory about black holes,  
+is one that propelled a young physicist 
+by the name of Stephen Hawking into fame  
+among physicists. He took quite an interest 
+in primordial black holes as an option and  
+studied the concept. He’d proposed that, if black 
+holes exist, which was still debated at the time,  
+then we should see the occasional dribble of 
+thermal radiation off one, what we now call  
+Hawking Radiation and which we’ve discussed 
+in more detail in our black holes series.  
+The amount was pitifully tiny in 
+the case of supernovae remnants,  
+but as they slowly radiated energy and lost mass, 
+the rate of energy loss would increase. Indeed,  
+it meant that that freight-truck-mass black hole 
+I mentioned earlier would be radiating fully 1% as  
+bright as our entire Sun, though, thankfully, it 
+would be radiating so much mass energy to do that,  
+it would only last a few millionths of a second. 
+This of course has interesting possibilities for  
+starship drives and weapons, see our black 
+hole series for more discussion of those.
+ 
+But, what this meant was that, you could predict 
+the lifetime of a black hole from its mass, and  
+one that was formed massing 210 billion kilograms, 
+or 210 megatons, would have been getting brighter  
+and brighter until expiring today, 13.8 billion 
+years after it formed, assuming it hadn’t snacked  
+on anything in the meantime. Any primordial 
+black holes more massive than 210 megatons  
+should still be around and nearly invisible.. 
+That sounds great as a dark matter candidate, but  
+we don’t have anything telling us that only black 
+holes more massive than that could have formed. 
+ 
+Practically speaking, any primordial black hole 
+massing less than 6 megatons would have expired  
+before the Surface of Last Scattering, the 
+point 380,000 years after the Big Bang where  
+the Universe had cooled and thinned enough to let 
+neutral hydrogen form and that allowed photons to  
+travel without almost instantly running into 
+something else, and this is when the Cosmic  
+Microwave Background radiation is from. We 
+would see no evidence of black holes formed  
+during the Big Bang that died before this event. 
+So, the search for primordial black holes between  
+6 and 210 megatons, allows us to hunt for black 
+holes that may have died since the Surface of Last  
+Scattering, until modern times, and there’s no 
+background glow of radiation in the right ranges  
+with no other known source to account for this.
+This dealt a bit of blow to the idea of Primordial  
+Black Holes being dark matter. However, primordial 
+black holes have so much going for them as  
+candidates, that there was – and indeed still 
+is – a great reluctance to knock them off the  
+candidates list, they’re definitely still in the 
+top 10 and probably in the upper half of that.  
+There are good reasons not to kick them off that 
+list yet, even if the Weakly Interacting Massive  
+Particle or WIMP does seem a better option for 
+dark matter than the MACHO, Massive Compact Halo  
+Object. Now MACHOs are not limited to black 
+holes, but massive and compact could include  
+a dim brown dwarf or black dwarf, or even some 
+exotic options like cosmic strings I suppose. 
+ 
+The Halo part of MACHOs comes from 
+us getting better at calculating  
+mass locations from orbits of stars around 
+the galaxy and notice that the missing mass  
+was spread out in a roughly spherical glob for 
+our galaxy – which is more disc-shaped with its  
+stars – and with other spiral galaxies 
+too, as well as spherical galaxies. 
+ 
+Most of that matter is dark, not giving 
+off light, visible or other frequencies,  
+and is in a spherical blob. Matter in our galaxy 
+is mostly in a disc form for the same reason solar  
+systems tend to have their planets fall into a 
+roughly disc layout. Stuff tends to whack into  
+each other until you get an averaging effect 
+of momentum and inertia into a loose disc,  
+which slowly congeals into planets and such, or 
+at the galactic scale, nebulae and stars. Massive  
+but compact objects though can potentially 
+avoid this simply by having so much inertia  
+compared to their collisions that they are still 
+very close to their original orbital paths,  
+which by default would have been more random 
+and thus spherical in layout as a whole. 
+ 
+Also, we know the effective temperature – which is 
+essentially speed – of these Halo Objects, big or  
+small, because we know what the escape velocity 
+of the galaxy is. There is gas and dust still in  
+a spherical blob around the galaxy too, even if 
+it is mostly in the disc, and we call this the  
+Galactic Corona. It is moving very fast but not 
+quite fast enough to escape our galaxy’s gravity,  
+this gas and dust has an effective 
+temperature around a million Kelvin.  
+It wouldn’t burn you because it’s so diffuse, 
+but it's still hot, or rather, cold.
+ 
+This is where we get the notion 
+of “Cold Dark Matter” from,  
+because Dark Matter does appear to clump up around 
+galaxies, as their velocities, or temperatures,  
+are not big enough to be permitting them to 
+be evenly distributed around the Universe  
+rather than clustering around galaxies, 
+that have sucked them into orbit.  
+Now, a million degrees might seem absurd 
+to refer to as cold but everything is  
+relative and the Big Bang was incredibly hot. 
+We know dark matter is old, as we can see it as  
+far back as we can see anything, to that Surface 
+of Last Scattering as before that all light got  
+reabsorbed by matter. We assume it was formed 
+during or shortly after the Big Bang, primordial,  
+the only way for primordial dark matter to have 
+lost any ‘temperature’ or velocity is to hit other  
+things, which would result in the more disc-like 
+distribution we see of mundane matter in galaxies.  
+That means it does not interact 
+much and when it does hit something,  
+very little of its inertia is lost, which fits 
+either an object that is exceedingly weak in its  
+interactions or which is just insanely compact 
+and massive – like a black hole, which is not  
+much slowed by running into the occasional atom.
+But, this also means that dark matter isn’t ‘hot’,  
+or isn’t moving at ultra-relativistic speeds like 
+neutrinos do, so close to light speed as to make  
+no difference. Neutrinos are common and have a 
+little mass and interact with virtually nothing,  
+passing through our planet as though it wasn’t 
+there, but they can’t clump around a galaxy and  
+orbit it because they move hundreds of times 
+faster than the escape velocity of galaxies.  
+They’d be an example of ‘hot dark matter’ and 
+indeed, it isn’t that they aren’t dark matter  
+themselves, it’s that, once we detected them and 
+were able to get a mass range for them – less than  
+1% of the missing mass – we excluded them from 
+dark matter, same as we have with galactic dust,  
+gas, brown dwarfs and so on, because dark also 
+means ‘unknown’. Which is a good reminder that  
+we don’t know that the remaining dark matter 
+is one single thing, it could still be a range  
+of options dividing up to form that mass, 
+related or totally unrelated to each other.
+ 
+Anyway, there’s reluctance to let black 
+holes go as dark matter and for good cause.  
+Here are some of the reasons given. First, we 
+have no experimental proof that black holes give  
+off Hawking Radiation, that’s why Hawking could be 
+the most famous and respected physicist alive in  
+decades that still hasn’t had a Nobel Prize. Those 
+tend to go to experimentalists over theorists,  
+because it has to be proven and the only way to 
+prove Hawking Radiation would be with primordial  
+black holes expiring. Post Stellar Black holes 
+are so massive that their Hawking Radiation  
+in its entirety is dimmer than any human eye 
+could detect, even if you were close enough to be  
+ripped apart by one, and the nearest known black 
+hole is many hundreds of light years from us,  
+and its Hawking Radiation wouldn’t 
+power even the dimmest light bulb.
+ 
+Second, we don’t know that it would 
+function exactly as theorized.  
+This is more important because to most of us 
+in physics, the basic reasoning for Hawking  
+Radiation is so sound that we can’t really see 
+how it could be wrong, but, so often, some tiny  
+little unexpected interaction or aspect, utterly 
+alters how something functions in practice.  
+Third, we know nothing about quantum gravity 
+yet, that strange realm of physics of how  
+gravity operates down at the atomic scale, 
+and every primordial black hole we might  
+hope to detect Hawking Radiation from 
+is far tinier than any known particle.
+ 
+As an example, right now, no black hole that used 
+to be the interior of a star is losing any mass,  
+because while they trickle out a tiny amount 
+of Hawking Radiation, in theory at least,  
+they also absorb bit of gas and dust in excess of 
+that anywhere they would be, even in intergalactic  
+space. What’s more, they would be absorbing 
+that Cosmic Microwave Background Radiation,  
+which would all by itself exceed what they lose to 
+Hawking Radiation, and which was also far denser  
+and stronger in early periods of the Universe, 
+feeding them even more than now. Stellar mass  
+black holes will only begin to evaporate away 
+when the Universe is so old and thinned-out,  
+that the Universe isn’t adding mass or 
+energy faster than the black holes will  
+evaporate it, trillions of years from now, when 
+the Universe is colder than their Event Horizon. 
+ 
+Primordial black holes should be an exception to 
+this, being so small that they cannot even absorb  
+an atom if they hit it, like a human mouth 
+trying to take a bite out of a steel sphere  
+the size of Earth, and which has to swallow the 
+whole thing. But, again, we don’t really know how  
+black holes that tiny interact with things, or if 
+they can even be made to exist. Cosmic Microwave  
+Background radiation has a wavelength of about 
+a millimeter, a trillion times wider than your  
+typical atomic nucleus, and thus, it doesn’t get 
+absorbed by them nor do atomic events emit them.  
+They emit gamma radiation, much more 
+energetic and shorter wavelength photons.  
+Very dense packets of energy. The assumption is 
+that a black hole even smaller than that can’t  
+absorb one either but there’s a lot of ‘ifs’ on 
+that. If a subatomic-sized black hole can actually  
+grab matter or energy better than we expect, then 
+those 6-210 megaton primordial black holes might  
+still be around. Even smaller ones might still 
+be around too since they could have been fed.
+ 
+Indeed, given that, during the period prior to 
+the Surface of Last Scattering, the Universe was a  
+much denser place, full of much shorter-wavelength 
+photons, each baring far more energy,  
+it is plausible that primordial black holes might 
+have fed themselves up above a certain size and  
+thus all those too tiny to eat, died before that 
+period ended, leaving no footprints, and all the  
+others got themselves up to some mass above 210 
+Megatons, and thus are still around. Better Big  
+Bang Epoch modeling might let us accurately define 
+that mass range for primordial black holes, right  
+now there’s a lot of question marks. Amusingly 
+Dark Matter’s nature being determined, be it black  
+holes or not, might help us figure that out.
+We also don’t know that the forces which could  
+have formed micro-black-holes in that primordial 
+epoch didn’t favor discrete distributions. As  
+best as we can tell, most subatomic and 
+quantum things come in very specific  
+masses. You don’t get a proton that’s twice as 
+massive as the normal proton mass, or as best as  
+we can tell, even 1% more massive. They seem to be 
+all the same mass as each other, for some reason.  
+Same for electrons, muons, and so forth. 
+They all have a distinct or discrete mass,  
+unlike photon energy packets which can range from 
+the two or three electron volts you and I can see,  
+to billions of times more – like gamma rays 
+- or less – like ELF radio waves , and with  
+no apparent cap on either side. Primordial 
+black holes might come in some discrete sizes,  
+one or many sweet spots of formation, and 
+none in that Hawking Evaporation range.  
+Or they could come in bands, we see distributions 
+that are thick separated bands in nature fairly  
+often too, like our asteroid belt, which is 
+really multiple belts, thick bands and gaps.
+ 
+Now, how did those primordial black holes 
+potentially form? Well, we generally accept  
+that the early moments after the big bang didn’t 
+have nice flat or gently curved spacetime. Think  
+of a sheet of aluminum foil you crunched up into 
+a wad then tried to spread out, lots of crinkles  
+and even some tears, then imagine you used 
+it as a Jello mold for a thin layer of Jello.  
+The resulting thin Jello Sheet is going to have 
+thicker and thinner spots and even total gaps,  
+and that’s essentially what we think 
+that early Universe looked like that  
+caused normal and dark matter distribution and 
+possibly even primordial black hole formation.  
+Over the eons this uneven distribution, plus 
+dark energy, caused the clumping we see with  
+galaxies and galaxy clusters and cosmic voids.
+There are a number of pros and cons to primordial  
+black holes as a dark matter candidate and I’m 
+going to rattle through those fairly quickly,  
+I just want to emphasize that, while they are 
+not considered the leading candidate right now,  
+they are still considered a strong contender. 
+Here are some of the reasons why that’s the case.
+ 
+Tiny black holes might not interact much with 
+interstellar dust, but one passing through an  
+incredibly dense object, like a white dwarf, 
+could potentially reignite one and cause a runaway  
+explosion or supernovae at rates which do not seem 
+to occur in the Universe. Supernovae aren’t common  
+enough. Based on how often we see white dwarfs 
+and the necessary amount of primordial black holes  
+to be dark matter, black holes between 10,000,000 
+and 100,000,000 megatons can not be a significant  
+portion of dark matter. Stars between 100,000,000 
+and 10 billion megatons also are doubted to fit.
+ 
+So too, the capture of black holes between 
+one million and one quadrillion megatons  
+by neutron stars, leading to detonation, would 
+also be expected to happen often enough in dense  
+old globular clusters, that we would have expected 
+to have detected it. Micro-lensing of stars  
+as these primordial masses pass between us 
+and other stars doesn’t appear to happen as  
+we would expect if they were in the mass range 
+of 10 billion megatons up to low stellar mass.  
+There is a lot of other good data in the last 
+decade or so, pushing against the idea that  
+primordial black holes of stellar mass ranges 
+are around too, and we just don’t seem to be  
+detecting many intermediate black holes, those 
+of hundreds or thousand of solar masses that  
+represent the range between normal post-supernova 
+black holes and big galactic core black holes.
+ 
+All of those leave plenty of room for debate – 
+there’s more too, but they get more technical in  
+their reasoning – and we also have some ranges 
+of mass that aren’t accounted for as well.  
+We think the primordial black holes, Planck 
+Relics, could have been as small as a single  
+Planck Mass, about 10 micrograms, and again we 
+would expect them and anything less than 200  
+or 300 megatons to have expired by now or 
+be glowing hot with Hawking Radiation. 
+ 
+Does this mean that black holes are dark 
+matter? Well, possibly. For my part,  
+I favor WIMPs and it doesn’t bother me that this 
+requires a particle more massive than a proton or  
+neutron with very little interaction. Neutrinos 
+barely interact, and of the 17 known elementary  
+particles in the current Standard Model, of 
+which neutrinos are three, virtually every  
+bit of mundane matter is made of three others, 
+the up quark, the down quark, and the electron.  
+Two others, the photon and gluon, have varying 
+mass or energy, rather than specific discrete  
+amounts. That’s 8 particles, and of the remaining 
+9, only the strange quark and muon mass less than  
+a whole proton, half the remaining elementary 
+particles mass thousands of times as much as  
+the up and down quark and hundreds of thousands of 
+times as much what the electron masses. So another  
+massive particle would not surprise me.
+And their mass has nothing to do with  
+how they interact with things except by 
+gravity, which dark matter also exerts.  
+So, a massive particle that just happened to be 
+no more interactive than a neutrino is no weirder  
+to me than a primordial black hole with some 
+unexpected properties and discrete mass ranges.  
+There’s too many unknown unknowns in particle 
+physics to even rule out something utterly  
+mundane of source, like Tau particles and top 
+& bottom quarks having some non-interacting  
+particles they form, or even them and antimatter 
+having, for unknown reasons, been common right  
+after the big bang but biased toward falling into 
+each other to make primordial black holes, which  
+do not have to be made of Baryonic Matter either, 
+like you and I and our planet and Sun are made of.  
+I’d rather doubt it but none of our contenders 
+for dark matter, be it WIMPS or Primordial Black  
+holes or MACHOS or another, really deserve to 
+rest confidently and easy as top contender. 
+ 
+If you’d like to find out more about some of 
+those lesser-known dark matter contenders,  
+we did an episode looking at many 
+of them some years back, in our Dark  
+Trilogy of episodes covering Dark Matter, Dark 
+Energy, and Dark Flow & the Great Attractor,  
+that we did as a collaboration with my 
+friend Joe Scott from Answers with Joe.
+ 
+Before we close out though, black holes represent 
+a way we can learn more about dark matter,  
+even if they turn out not to be dark matter 
+themselves. Earlier this year, I was at a  
+conference at the Rand Corporation that I’d been 
+invited to by my friend Scott Harold and one of  
+their physicists on staff, Christian Johnson, 
+was talking to myself and another attendee,  
+David Kipping, about a paper he’d co-authored 
+a few years back “Search for Gamma-Ray Emission  
+from Local Primordial Black Holes with the Fermi 
+Large Area Telescope” and another on electrically  
+charged black hole relics, “Direct detection 
+of Primordial Black Hole Relics as Dark Matter”  
+which I’ll link in the description. 
+This was of course about the Primordial  
+black hole option but the discussion led 
+to the option of using the giant black hole  
+in the center of our galaxy – Sagittarius A - as 
+a Dark Matter Accelerator that Christian looked  
+at in another of his papers and the reasoning 
+goes as follows: Some types of particle-based  
+dark matter options would have two particles of 
+dark matter collide and annihilate, as with normal  
+antimatter interactions, and this is called s-wave 
+annihilation and is assumed to release a specific  
+amount of radiation dominated by the mass of those 
+dark matter particles, the photons have their  
+mass energy plus some momentum energy from their 
+collision, but not much, relatively speaking. So  
+they’re energies are not really based on the speed 
+of the particles for how likely it is to occur.  
+And we look for that but haven’t found it yet. 
+Alternatively, in some models of dark matter the  
+speed of the particles would affect the energies 
+and cross-section and they think this should be  
+magnified near a black hole where they’re getting 
+accelerated to very high speeds and densities  
+and releasing radiation that would stick out from 
+background noise, somewhere in the 10 to 600 GeV  
+range, or gamma rays many billions of times more 
+energetic than the photons we see with our eyes.  
+In this case, there was no signature, adding 
+evidence against that range of dark matter,  
+but it is a great example of how black holes 
+can be used to help do dark matter research and  
+astronomy in general. And since that discussion 
+inspired this episode, I wanted to make sure I  
+gave Christian a shout out and my thanks for some 
+very pleasant and stimulating conversations.
+ 
+I think it also raises the point that we have 
+learned a lot about both black holes and dark  
+matter in the century or so since we got a hint of 
+them, and while they’re mysterious objects still,  
+they may turn out to be the bedrocks of 
+power and technology in centuries to comes,  
+something we explored more in that Black Hole 
+series and our Dark Matter Technologies Episode.  
+They represent virtually unimaginable 
+levels of energy and resources,  
+and any civilization that learns 
+how to manipulate or make them  
+would be staggeringly powerful.
+Of course they are mysterious,  
+so it might turn out that learning to tap them 
+is a dangerous process that could obliterate  
+a civilization, and we’ll explore that concept 
+of technological time bombs, in two weeks, and  
+the possibility of wrecked civilizations fleeing 
+such events, next week, in Alien Refugees.
+ 
+So we’re well into summer and while it's always 
+nice to take a break from school, if you’re a  
+student or parent of students it is important 
+not to let what was just learned rust away over  
+the summer. I like to think shows like SFIA with 
+a math and science focus help keep that interest  
+up but it is still important to practice and 
+that’s where our friends at Brilliant can help.  
+Their online and interactive learning can help you 
+stay in practice and have fun while you’re at it,  
+so you’re not losing the knowledge you worked 
+so hard to get, indeed they can help you learn  
+even more and also help discover practical 
+uses of math and science in your daily life.  
+Brilliant’s Everyday Math Course provides a great 
+new perspective on foundational math topics like  
+percentages, fractions, and basic geometry..
+These topics are often thought to be hard to learn  
+but they don’t have to be, they are much 
+easier to learn with interactive examples,  
+everything is. The best learning is hands-on and 
+interactive learning, hands down, and Brilliant is  
+an amazing tool for learning STEM interactively.
+Brilliant makes it easier for anyone to learn,  
+be it the basics or advanced materials, and is 
+the perfect partner for a lifetime learner.
+ 
+With Brilliant, you can learn at your own pace, 
+learn on the go, and learn something new. To get  
+started for free, visit brilliant.org/IsaacArthur 
+or click on the link in the description,  
+and the first 200 people will get 20% off 
+Brilliant's annual premium subscription.
+ 
+So we’ll get to the schedule of upcoming episodes 
+in just a moment but if you enjoyed the music  
+accompanying today’s episode, those were all from 
+Stellardrone, who does some amazing and often  
+haunting compositions, and like all of the music 
+on this show, it is listed in our credit roll at  
+the end of episodes and linked in the episode 
+descriptions. Folks often ask in the comments  
+who did this or that song so they can hear it 
+more and more loudly and as we mostly work with  
+artists who kindly let use their songs and 
+are show fans, I like to make sure folks  
+know where to find more of their great work.
+And speaking of more, this is our last episode for  
+July but we still have our livestream Q&A coming 
+up this Sunday, July 31st, at 4 pm Eastern Time,  
+where you can get your questions from the 
+Chat answered on any of our show topics.  
+Then we’re into August to examine the notion of 
+survivors fleeing disasters or attacks to new  
+worlds, like Earth, in Alien Refugees. The week 
+after that we will look at the possibility the  
+reason we don’t see any aliens is that they all 
+blow themselves up with Technological Time Bombs,  
+leaving no surviors. Then it will be time for our 
+Scifi Sunday episode, Dumbest Alien Invasions,  
+where we’ll examine the weirdest attempts 
+and motives in fiction to invade Earth.
+ 
+If you want alerts when those and other episodes 
+come out, don’t forget to subscribe to the channel  
+and hit the notifications bell. And if you 
+enjoyed today’s episode, and would like  
+help support future episodes, please visit our 
+website, Isaac Arthur.net, for ways to donate,  
+or become a show patron over at Patreon. Those 
+and other options, like our awesome social  
+media forums for discussing futuristic concepts, 
+can be found in the links in the description.
+ 
+Until next time, thanks for 
+watching, and have a great week!

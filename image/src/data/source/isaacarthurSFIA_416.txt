@@ -1,0 +1,594 @@
+This episode is sponsored by Audible.
+In the future humanity may come to reside
+on strange new worlds, and likely many will
+have lower gravity than Earth.
+We may find native life on those worlds or
+adapt to them ourselves.
+But what would those adaptations be?
+There is a fairly common assumption in science
+fiction that folks living on low-gravity planets
+or on spaceships would tend to grow tall and
+willowy while folks on high-gravity worlds
+would tend to be squat and muscular.
+On initial inspection this seems to make sense.
+Trees have evolved to reach up high to get
+sunlight, above their neighbors and other
+plants, and are limited in height largely
+from issues like weight and fluid pumping
+which are obviously reduced in lower-gravity,
+so it stands to reason they’d be able to
+get taller if there was less gravity.
+Of course they also need to be strong enough
+to resist wind, so where there is more of
+that they can’t grow as tall.
+When we consider places like Mars, with its
+infamous dust storms, we sometimes forget
+that those aren’t actually very strong for
+the speed the air moves at, since the atmosphere
+is so thin.
+If the atmosphere is thinner, as we often
+expect on low-gravity worlds, this makes it
+even easier for a tree to grow tall.
+However, thin atmospheres are not a guaranteed
+thing on low-gravity worlds, and neither is
+a tree a very good analogy for an animal let
+alone a human.
+Our catalogue of planets besides Earth has
+grown massively in recent decades, numbering
+a thousand times what it was in my childhood,
+but not only are most of the new worlds around
+distant suns little more than vague blobs
+we know little of, but they are almost all
+planets that are vastly more massive than
+Earth.
+It’s easiest to detect the bigger worlds
+after all, because they block more light when
+they pass in front of their sun, make their
+sun wobble more with their mass, and noticeably
+change the gravitational lensing effects when
+their sun lenses a more distant star.
+But smaller planets may prove far more numerous
+when we can better detect them.
+And so far we really only have Mars, Venus,
+and Mercury to look at in terms of places
+with less gravity and obviously none host
+any known life.
+There are four basic factors that make a planet
+keep or lose atmosphere.
+High gravity holds it in place, high temperature
+boils it off, ionizing radiation zaps it away
+a little at a time, and geomagnetic fields
+protect it from that ionizing radiation.
+But remember that an atmosphere is generally
+a mix of several gases, and the high-molecular
+weight gases are easier to hold onto than
+light ones.
+Venus illustrates this very well, because
+compared to Earth it’s worse on every one
+of these factors—lower gravity, high temperature,
+more solar radiation, and no magnetic field—and
+yet is has a thicker denser atmosphere than
+Earth.
+To explain how low gravity works on Venus,
+we have Peter, the voice of What If.
+What If is a science show here on YouTube
+where you explore epic hypothetical scenarios.
+Well when low and high molecular weight gasses
+are mixed, they reach the same temperature,
+but the high weight gasses aren’t moving
+nearly as fast.
+This means, the escape velocity, which is
+the speed needed to break out of a planet’s
+gravity well, is the same for any molecule
+mass, but far fewer of the slow molecules
+are needed to break out of it.
+Earth actually loses little bits of elemental
+hydrogen and helium to space all the time,
+but it manages to hold onto heavier elements
+like nitrogen and oxygen.
+But Venus has lost those gases and holds onto
+much heavier ones like carbon dioxide, sulfur
+dioxide, trioxide and some nitrogen.
+So in theory, a low-gravity planet could have
+a dense atmosphere, but this means it would
+have to be composed of heavier gases than
+what we have on Earth.
+A magnetic field would definitely help keep
+the atmosphere in place, but as Venus shows
+it’s not completely necessary.
+Thanks Peter.
+And Folks, make sure to check the link in
+the description and subscribe to What If.
+Back to low gravity...
+Given the timelines involved, a planet that
+has developed complex life is probably either
+going to have a pretty thick and stable atmosphere
+or have long since lost all but a trace of
+it.
+There’s no real reason it would have a thin
+atmosphere compared to Earth and yet be thick
+enough to permit surface water.
+Moreover, we can’t really assume our solar
+system is a good model for this, as our Sun
+is bigger than most stars and also rather
+stable as these things go.
+Many stars will be far more volatile, while
+others might have less output in the more
+dangerous bands of radiation that would tend
+to ionize particles.
+For that matter, under lower atmospheric pressure,
+water boils at a lower temperature, putting
+more water vapor in the air that can be broken
+into hydrogen and oxygen and that hydrogen
+lost.
+Whereas if the atmosphere is higher pressure,
+water evaporates at higher temperatures.
+You also need more air on low-gravity worlds
+to get the same surface pressure due to the
+lower gravity.
+Pressure is the cumulative result of weight
+of air and weight is a function of gravity,
+so the same quantity of air on a lower gravity
+planet as Earth has would be at a lower surface
+pressure.
+We would also expect that atmosphere loss
+is a bit of a runaway process, as you lose
+more and more air it goes faster.
+The pressure drops and the oceans evaporate
+easier, and particles hit by high-energy particles
+can travel farther in the thinner air without
+hitting another particle to lose speed, and
+so you lose more pressure and lose air faster.
+Add to that, hotter planets are nearer their
+Sun, and hit by more ionizing particles and
+solar wind.
+So too, they’re more likely to become tidally
+locked and have their metallic inner core
+slow down as a result, and it’s those big,
+spinning balls of molten metal that generate
+those magnetospheres, if that weakens, they
+lose air even faster.
+So we do indeed have reason to think low-gravity
+worlds and hotter worlds will lose air faster
+and be less likely to have an atmosphere by
+the time life of complexity had developed,
+but we also can’t assume that’s a hard
+and fast rule.
+Large Moons around gas giants might be shielded
+in part by the magnetosphere of their massive
+parent world, for instance.
+Worlds around less volatile suns might get
+less pounded by solar radiation and wind.
+Planets might get hit more often by comets
+bringing more water and other materials in,
+and so on.
+They will be less likely overall to have thick
+atmospheres than bigger worlds, but they are
+also likely to vastly outnumber those bigger
+worlds, so it may be that the majority of
+worlds with oxygen-nitrogen atmospheres are
+actually worlds less massive than Earth, simply
+by raw numbers.
+As I mentioned a moment ago, Venus is hot,
+has virtually no magnetosphere, and has slightly
+less gravity than Earth, yet possesses a very
+dense atmosphere – though much of this is
+heavier carbon dioxide.
+Beyond not wanting to assume life definitely
+needs water to live, or oxygen to breathe,
+a world heavy in carbon dioxide might retain
+a higher pressure atmosphere while also being
+warm farther from its sun, as carbon dioxide
+is a greenhouse gas.
+Many other permutations of atmospheric composition
+are potentially plausible and viable too,
+and needless to say this only applies to worlds
+with surface oceans and atmosphere, many moons
+and lesser planets will have oceans beneath
+the layer of ice in which life might originate.
+We’ll focus on the liquid water under an
+atmosphere case though.
+Now this all assumes a natural setup, when
+it comes to terraforming worlds we could probably
+keep an atmosphere even on our own moon simply
+by setting up a powerful magnetic field around
+it.
+And it’s easy enough to do too, you don’t
+need a big ball of spinning molten iron for
+this and it’s far easier to simply create
+a big solar-powered electromagnet ring around
+such a moon or planet, as we discussed doing
+in Springtime on Mars.
+It’s a big task to be sure, but less than
+folks tend to think, it doesn’t require
+that much power, and is far easier than trying
+to drill down to a core and dump millions
+of megatons of atomic bombs down there, as
+folks often suggest for Mars.
+For comparison, it’s like deciding your
+backyard gets too much wind and building a
+wall or hanging tarps to block the wind, versus
+trying to set off Earthquakes and volcanoes
+to make a new mountain arise to block that
+wind.
+And of course you can always just go the construction
+route and cover a world with vast numbers
+of domes to hold air in, what we call para-terraforming.
+It sounds like quite a project too but it
+is tiny compared to actual terraforming.
+So too, bringing in the occasional comet to
+hit the world, or get detonated right before
+hitting to avoid a big impact, allows you
+not only to add an atmosphere but refresh
+it if it’s leaking a bit too much.
+And since it is mostly leaking hydrogen, and
+a little bit of helium, the first and second
+most abundant materials in the Universe, you’re
+hardly in short supply of replenishment sources.
+As to oxygen, it is the third most abundant
+element in the Universe and most rocky planets
+are overflowing in it, tied up in those rocks,
+it usually makes up the first or second most
+abundant material of those places.
+You can easily remove it from those rocks
+for your atmosphere and atmospheres are only
+a tiny part of the total mass of planets like
+Earth anyway.
+Needless to say this only is allowed under
+artificial circumstances, planets we come
+to inhabit with our technology and industry,
+though we might imagine any number of interesting
+phenomena that might allow it to be natural.
+As an example, planets around red dwarf stars,
+the most common kind of star, might easily
+have their own robust Kuiper Belts or Oort
+Clouds full of icy comets, water is ridiculously
+common in this Universe due to hydrogen and
+oxygen being so abundant, and any such comets
+entering in close would have a shorter path
+between the frostline where they melted and
+impacting the planet, which also takes up
+a bigger effective cross-section for collision
+in that solar system since it’s more compressed
+around that smaller, dimmer star.
+So they might get hit by comets much more
+frequently and replenish their gases that
+way.
+Now as to life living there, however it arose,
+natural or transplanted, what really is different?
+Again it’s likely to have a decently thick
+atmosphere or none worthy of note, so we shouldn’t
+assume the natives need giant lungs, or that
+trees can grow however tall and broad they
+want without fear the wind will knock them
+over.
+What about the critters though?
+Are they more tall and willowy from the low
+gravity?
+Perhaps but we have to ask why they would
+get taller.
+A tree has a reason to get taller.
+Tall is only advantageous in nature because
+it makes a critter look more threatening or
+reach food that’s higher up, and there’s
+a reason we don’t really have as much megafauna
+as we used to.
+As to thinner bones and less muscle, one might
+ask why?
+Birds have thinner bones to make them lighter
+for flight, though hardly lack in muscle.
+That comes at a price of being less sturdy
+against blows.
+We need thick skeletons to support our mass
+and absorb the shock of falling and walking
+but also to support us against inertia of
+hitting or being hit and inertia is not affected
+by gravity, just weight.
+Nature also cooked up ways for critters to
+get big, like having air pockets in their
+bones, as large dinosaurs often had.
+Peter, are there any alternatives?
+Well, a cool thing you’ll find on a low
+gravity planet is that you can have thicker
+bones, as well as more muscles compared to
+what you might have on Earth.
+This is due to your body weighing less.
+It will still take effort to alter your enertia
+but you’ll weigh a lot less and be able
+to carry way more mass.
+Heh, think of how cool you’ll look when
+you’re at the gym.
+We can look at Megafauna in the past who also
+benefited from higher oxygen levels.
+If we wanted to achieve similar pressure than
+we have on Earth we’d need more air, which
+would significantly impact the weather, as
+well as the biology and chemistry on the planet.
+Flight is easier in lower gravity as well.
+Though flight mostly has to do with speed
+and air density, we could see massive critters
+flying about.
+Ew, gross.
+Since gravity would affect swinging and jumping
+as well we could also see a lot more creatures
+living in trees, engaged in branch hopping
+or even gliding.
+These wouldn’t just be tiny little squirrels
+either.
+The creatures living in these trees could
+be massive.
+The reason why they aren’t up there right
+now is because it’s too dangerous for large
+predators to be in up in tall trees, as it’s
+too risky for them.
+With this low gravity we could also see creatures
+who could parachute as well as ones with wings!
+However, this low gravity world could hurt
+smaller flying creatures, like insects.
+These creatures rely on the air being thicker
+at small scales which helps for flight and
+maneuverability, even in lower gravity.
+The new insects we find on a lower gravity
+planet would be kind of like dragonflies,
+only smaller, or they might be microscopic.
+But what would happen to these insects if
+we lived on a planet with much higher gravity?
+Well you can check out our episode "What if
+Earth was as big as the Sun?"
+right here.
+Back to you Isaac.
+That part about bones having air pockets in
+them from a moment ago might result in quite
+the opposite effect on tree height too, on
+higher-gravity worlds.
+As we said earlier hydrogen and helium escape
+fastest from planets, and gravity really does
+play a role in retaining gas.
+What’s more a bigger planet is likely to
+have a stronger magnetosphere to hold on to
+those gases.
+Such being the case, we might see higher gravity
+worlds featuring tree-equivalents that made
+use of biochemistry to separate the lighter
+gases from the atmosphere and used internal
+bladders of lifting gas to let them grow far
+taller, potentially even photosynthetic bladders
+as a leaf analogy.
+Such plants would still be vulnerable to wind
+but they might be able to deflate themselves
+in wind and storms then re-inflate.
+Of course something like that could have evolved
+under any gravity, it really depends more
+on if the atmosphere’s composition is rather
+spread out in terms of the mass of air particle
+types.
+Virtually all of our atmosphere is diatomic
+nitrogen and oxygen and they are about the
+same mass, only a 14% difference, as opposed
+to diatomic hydrogen and carbon dioxide, where
+the latter masses 22 times as much as the
+former.
+If it had larger portions of gases that differed
+by much in molecular mass, such lifting-gas
+approaches to weight might show up, creatures
+that were essentially organic blimps that
+sucked in the air and retained the lighter
+molecules to serve as a lifting gas.
+We do after all see it in regard to oceanic
+creatures which frequently use air and water
+ratio changes to alter their buoyancy.
+Indeed it’s possible you might not simply
+end up with two ecological layers, ground
+and treetop, but an entire biosphere layer
+suspended in the air, if that lighter gravity
+world was maintaining its atmosphere in large
+part from having a big molten core and much
+tectonic activity, you might have a good deal
+of dust and moisture in the air and organisms
+floating up there to maximize light and feed
+off those atmospheric contaminants to achieve
+both nutrient and buoyancy.
+In lower gravity it’s easier for wind to
+pick up dirt and soil and loft it into the
+air too.
+But speaking of dirt, we’re not limited
+to going upward either.
+Much of our own ecology is beneath the ground,
+and is partially limited by the rising pressure
+and density of the dirt.
+You might have deeper topsoil just from a
+reduction in gravity and weight compressing
+things.
+Such worlds might have far more caves too.
+The Moon has many large underground lavatubes,
+as probably would many smaller worlds, because
+they don’t collapse as easily, and it is
+easier to dig through dirt or gravel and shore
+up tunnels in lower gravity.
+You might have far more burrowing creatures
+and far more large caverns as well.
+What we’re seeing though is that the gravity
+itself, while a major factor in how a world
+is setup, still leaves a very broad ranges
+of options available.
+Taken as a whole, I don’t think we can make
+the assumption that critters would evolve
+to be skinny and large, though large seems
+plausible.
+Just in this case large might also be musclebound
+brutes carrying a lot of bone.
+You might also tend to see more internal storage
+too, akin to the camel and its hump of water,
+motion still takes energy and is mass-dependent
+but a lot of critters spend a lot of their
+energy just standing, you burn more calories
+standing than sitting or lying down for instance,
+and that’s purely a function of weight.
+But big also moves slow, even if it’s got
+the muscle to run quick, because it’s not
+very agile, it’s very hard to turn on a
+dime when you’re an elephant after all,
+compared to a mouse.
+As I said, many of the planets, and most large
+moons that we will encounter in the Universe
+will be smaller than Earth.
+We’d expect to find more worlds with less
+gravity than more.
+I suspect life, at least surface based land-life,
+to be more likely to exist where gravity was
+a bit higher but it could be that the larger
+number of smaller worlds will make up for
+them being less likely to host atmospheres.
+But I also mentioned that while we were focusing
+on worlds with surface oceans and atmospheres,
+we would have a lot of such worlds where the
+water was trapped under a layer of ice, places
+like Jupiter’s Moon Europa.
+Such worlds would be scanty and meager in
+their life, there’s just not much energy
+to run an ecology without the Sun, but they
+may be quite prone to having life develop
+regardless.
+It’s also a good reminder that our oceans
+are affected by gravity too, and not just
+tidal forces.
+Pressure is a function of weight above you
+and that’s lower if gravity is lower, so
+you might see quite an expansion in oceanic
+layers.
+Now, the top thin layer of water where light
+can reach abundantly is still where most of
+the action would take place, with much beneath
+it being those organisms living on debris,
+marine snow, descending from that top level.
+That might see some interesting adaptations
+toward the vertical.
+Near the shore we often see plants that grow
+on the seafloor, getting nutrients there,
+but reach up to the top for light.
+Out in the deeper sea things either live on
+the bottom without light or up top with light
+but little nutrients.
+In lower gravity that shore-zone where they
+can reach from the seafloor to the top is
+expanded as plants can grow taller and reach
+from seafloor to surface further from the
+shore.
+Possibly a great deal as traits that improved
+that option would probably be more easily
+favored by evolution.
+You might see plants growing rather tall in
+the sea, moving your coastal ecologies out
+much deeper.
+However, nutrients that are heavier than water
+also sink faster in higher gravity so we might
+tend to see more abundant ocean life.
+Most of Earth is covered in deep sea, life
+is not terribly abundant there compared to
+the shores or inland because sunlight is up
+at the top and nutrients far below, or scarcely
+diffused into the water near the surface.
+If it’s easier for nutrients floating in
+the water to persist near the top, then more
+biomass would arise in those areas away from
+the coastline.
+Combined with the lower pressure, this might
+result in very verdant oceans, potentially
+clogged with life on the surface so that you
+could literally walk across the water.
+Hard to say of course, and this is all very
+speculative, but we see a door open to far
+more ecological options than we might initially
+expect, compared to the usual notion of thin,
+dusty, dry worlds of low gravity.
+Of course that is very dependent on having
+a thick atmosphere and as mentioned earlier,
+once one of those begins dissipating it probably
+is a bit of a chain reaction, losing air faster
+and faster.
+Such things would still be on geological timelines,
+so life might adapt as the air thinned and
+oceans diminished.
+Until the early 20th century, we thought Mars
+had canals left over from ancient oceans.
+And while better telescopes have revealed
+that those barely-visible lines were just
+surface fissures, it also appears that Mars
+did have oceans and an atmosphere, long ago.
+Hopefully someday soon, we’ll get to do
+some serious excavating and geology there
+to see how long ago it was and how quickly
+it ended once that atmospheric loss hit critical
+tilt.
+There’s a lot of books set on Mars of course,
+and while modern ones usually focus on us
+colonizing it and bringing life there, those
+of a few generations back tended to assume
+life was already there, but diminishing, that
+Mars was dying off.
+We see one such example in C.S.
+Lewis’s “Out of the Silent Planet”,
+the first book in his Space Trilogy, our Audible
+Book of the Month.
+C.S. Lewis is best known for his classic fantasy
+series “The Chronicles of Narnia”, which
+along with his friend J.R.R.
+Tolkien’s Lord of the Rings helped breathe
+life into the emerging fantasy genre.
+But over a decade before Narnia he wrote the
+Space Trilogy, and its protagonist, Philologist
+Elwin Ransom, is said to have been modeled
+on Tolkien as an inspiration.
+I happened to have gotten an omnibus edition
+of the trilogy as a Christmas gift from my
+fiancée Sarah, who promptly borrowed it to
+read on a trip, leaving me to need to grab
+the audiobook version instead, which to be
+fair is my preference as I quite prefer listening
+to tales anyway.
+Unsurprisingly it inspired today’s episode.
+While the science is of course dated and never
+was C.S.
+Lewis’s strong point anyway, the first book
+paints a fascinating portrait of the Red Planet
+and the life that emerged there, the culture
+and language that developed, and the philosophy
+of colonization of other worlds.
+Audible has an amazing catalog of audiobooks
+and Audible members can choose 3 titles every
+month: 1 audiobook and 2 exclusive Audible
+Originals you can’t hear anywhere else,
+including access to news, original audio shows,
+and guided fitness programs, and since you
+can listen to your audiobooks anywhere on
+any device, and seamlessly pick up where you
+left off, they’re great for commuting, running
+errands, or going to the gym.
+You can start listening today with a 30-day
+Audible trial.
+Choose 1 Audiobook and 2 Audible Originals
+absolutely free.
+Just visit the link in the episode description,
+Audible.com/Isaac, or text “Isaac” to
+500-500.
+So we have our monthly livestream coming up
+this weekend, Sunday March 29th at 4pm Eastern
+Time, and then we’ll move into April’s
+line up starting with a look at New Technologies
+that might be in the cards in the coming decades.
+Then two weeks from now we’ll flip that
+around, and ask ourselves what things might
+be like if Technology came to a stand still,
+and what might cause that, in “Technological
+Stagnation.”
+Don’t forget to check out the video “What
+if Earth was as big as the Sun”, over on
+What If
+and subscribe to their channel
+and of course don’t forget to hit the like
+button and subscribe to this channel if you
+enjoyed today’s episode,
+and remember we’ve got our monthly Livestream
+coming up this Sunday.
+Until then, thanks for watching,
+and have a great week!

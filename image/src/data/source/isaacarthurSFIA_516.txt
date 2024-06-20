@@ -1,0 +1,655 @@
+This episode is brought to you by Audible.
+We often think of the Arctic as being cold
+and inhospitable.
+But in the future, folks may have warm memories
+of growing up there.
+Today we will be looking at colonizing our
+polar and tundra regions, borrowing from some
+of the techniques we’ve discussed for colonizing
+icy planets and moons.
+In many ways, the arctic is the final frontier
+for humanity, nobody reached either the North
+or South Pole until the 20th century and permanent
+outposts at either took a good deal longer.
+However, living in the frozen wastes themselves
+is hardly new, our ancestors often went far
+north hunting and of course something has
+to live there to be hunted.
+It’s hard to live up there, but many species
+have adapted to do so.
+Today we want to look at both how we could
+adapt to live there and how we could adapt
+the Arctic to be more livable, and a bit of
+an in between.
+When we talk about other planets we often
+distinguish colonizing methods between terraforming
+– make a planet more Earth-like – and
+Bioforming – make species able to live on
+a planet as is, but in all probability you’d
+often do a mix of both and that’s likely
+to be true of the Arctic too.
+There’s a few ways you can approach this:
+you can enhance the arctic while keeping it
+essentially the same ecologically, or you
+can alter its climates and ecology to match
+more temperate regions.
+It depends on your goal.
+Last time we talked about the deserts, whose
+oases harbor lots of life, and it’s reasonable
+to assume we can make similar setups in the
+tundra.
+For instance, we might enclose a sizeable
+chunk of land with a dome and heat and light
+it to provide food, akin to an oasis in a
+dessert or a clearing in a forest.
+Alternatively, you can blast whole areas with
+orbital mirrors so it gets the same kind of
+lighting as the temperate regions.
+Which approach you take depends, again, on
+your goals and of course your available technology.
+The Arctic is also a big and nonhomogeneous
+area with many different climates and environments
+already.
+And we don’t have just one; there’s the
+Arctic and the Antarctic, meaning “near
+the bear” and “anti-bear land.”
+While actually referring to the constellations,
+not the presence of polar bears, it gives
+you a good idea that they have very different
+environments.
+The Arctic has many ice-buried islands, but
+the Antarctic is an entire continent, and
+you’d want to take different approaches
+to each of them.
+You’ve got different motives for colonization
+too.
+The Antarctic is essentially a buried treasure,
+with vast mineral resources, while the Arctic
+is more valuable for its oceanic and subterranean
+resources.
+These areas are also potential farmland, at
+least in marginal regions.
+They are cold and the ground is frozen in
+permafrost, and they don’t get much light,
+but there is enough light if you can keep
+them warm.
+In many cases you need no active heating,
+just unfreezing the large reserves of greenhouse
+gasses in the permafrost could heat up a domed-over
+farm on its own.
+That only works on the edges though, as further
+in we need to actively heat and illuminate
+the enclosure.
+Some ecosystems don’t benefit from being
+warmed either.
+A lot of oceanic ecosystems rely on Krill,
+and would breakdown if you warmed the arctic
+waters too much.
+That seems counter-intuitive, as warmer is
+generally better for life.
+Warming waters would cause filter feeders
+such as krill to become more active, resulting
+in increased feeding on phytoplankton.
+However, since the amount of light hitting
+the ocean would remain the same, phytoplankton
+populations wouldn’t be able to grow at
+comparable rates.
+This would result in a net depression of the
+total number of krill that could be supported,
+which would impact the rest of the food chain.
+Causing a drop in the total biomass in the
+ocean.
+Additionally, in colder places, meltwater
+helps lift nutrients to those phytoplankton,
+who need both sunlight and nutrients, which
+are otherwise rarely mixed together in deeper
+seas.
+You could likely replace or tinker with a
+cold-dependent ecosystem to get one that was
+heavier in biomass, but it’s an another
+example of unintended consequences of messing
+with complex dynamic systems: warming up the
+cold regions of the ocean can result in them
+becoming barren.
+We have another issue with warming these regions
+up, and that’s the ice sitting there.
+There is a lot of ice up there, and while
+ice floating on water can be melted without
+changing its volume all that much, ice on
+land is much more complex.
+Melt all that ice on land to get more land,
+and you flood a lot of other existing and
+valuable real estate, not to mention the ecological
+issues that would occur.
+I do want to take a moment to clarify, that
+something I’ve noticed with a lot of debates
+on Climate Change, is that there’s often
+confusion about melting ice raising water
+levels.
+If I stick an ice cube in a glass of water,
+the water level does rise, and you’d expect
+it to rise more as the ice cube melted, but
+it doesn’t.
+Ice has a lower density than water, and that’s
+what causes a small part of it to surface
+when floating.
+A quick caveat though: ice is freshwater,
+the seas are salt-water and thus slightly
+more dense, so when ice melts in them you
+do get a slight net volume increase.
+It’s not very large, but it’s not zero
+either.
+The actual concern of course is about ice
+on land, rather than sea ice, as when it melts
+it won’t have a net-zero effect, and there’s
+also a lot more of it.
+Floating Arctic ice is usually not very thick
+at a few meters deep, while the ice depth
+on Antarctica is a few kilometers.
+That’s a lot more ice, and thus a lot more
+water.
+Of course that requires a caveat as well,
+because continents float too.
+We all float on a vast sea of magma, and if
+you pile a lot of mass on the mantle, it pushes
+down on it.
+Remove it, and it will rise, though this rise
+is more like a cushion or mattress slowly
+returning to normal after someone stands up
+from sitting on it.
+Indeed, the arctic region is rising about
+a centimeter per year as they rebound from
+the Ice Age.
+Related to that matter, you also have to consider
+thermal expansion.
+Water might expand when it freezes, but most
+materials expand when warmed.
+You also can’t you assume the geology would
+remain static, since while most human activities
+have no real effect on volcanoes and earthquakes,
+shifting continents is probably an exception.
+You might also get water dumped down into
+the mantle, or even new volcanic hotspots.
+Fortunately, that would be pretty minimal,
+although there’s evidence glaciers mitigate
+magma flow.
+However, it is a thing to keep in mind for
+later in the series when we will discuss intentionally
+moving continents.
+It’s also why we always say, when it comes
+to terraforming other planets, by the time
+you’re done the place looks nothing like
+it used to.
+You’re not just spray-painting some green
+and blue on a planet.
+Needless to say, any sort of precision modeling
+of this is tricky at best, especially since
+it depends a lot on mantle viscosity and composition
+and we’re not too sure of that.
+Melt all the ice on the planet and the overall
+coastlines will change an awful lot, but the
+specifics are way harder to calculate and
+that is part of why you’ll often see differing
+figures on rising sea levels.
+Models change as we learn more, and we often
+find out a given effect was overlooked or
+exaggerated, or may be disputed in terms of
+severity of effect.
+We’re still relative novices at climate
+and tectonic modeling.
+Of course being novices one might argue that
+it’s not terribly wise to mess around too
+much with what we have, and of course as we’ve
+mentioned throughout the series, we’re exploring
+the options available, not the ethics or wisdom
+of them.
+However we do have some options for colonizing
+the arctic that wouldn’t melt everything,
+and similarly you’d presumably start small
+with things like this, even if you were planning
+to go all-in down the road, so let’s begin
+by looking at them.
+At the center of every ecology is the quantity
+of available energy, but we mostly mean food
+energy, not raw sunlight, even if the two
+are fairly intertwined.
+The home range size for the typical polar
+bear is gigantic, literally tens of thousands
+of square kilometers, while a similarly sized
+carnivore in a temperate region needs mere
+hundreds, and a herbivore just a handful.
+We, alternatively, can support several individuals
+on just a kilometer of farmland using even
+rudimentary agricultural techniques, let alone
+what we can pump out from a climate controlled
+greenhouse using our best modern technology.
+Coming up with an economically viable source
+of energy to do this is another matter we’ll
+address shortly, but if you have it, you can
+create small warm oases which will not seriously
+impact local temperature or melt all our ice.
+Indeed, since it’s critical to keep them
+well insulated to save power, and also to
+keep the whole place from sinking, the effect
+on the whole ecosystem would be minimal.
+Sinking is an issue when building arctic outposts.
+Incidentally, you can sink into the ice slowly
+even if your connection to it is below freezing,
+but you’d rapidly melt through if your exterior
+temperature was above freezing, and if you’re
+doing this on pack ice, you’ll drop right
+into the ocean.
+A quick note on ice: you’ve got 3 main types
+of sea ice.
+Drift ice, often called brash ice, which is
+small bits floating around; pack ice, which
+is the same only jammed together; and fast
+ice, which is fastened to the ground rather
+than floating.
+You’ve also got glacial ice, which accounts
+for most of our freshwater on Earth, and this
+would be on land or attached to it as a massive
+ice sheet.
+You’ve also got permafrost, areas where
+the ground is always frozen except for a seasonal
+thin layer at the top, and these are regions
+of interest for early colonization.
+For those warm oases, if you’ve got the
+energy and it’s for people, you’re fine
+as-is.
+If it’s intended to bolster local wildlife
+by increasing the food supply, things are
+a bit more complex.
+They need to be able to get in and out of
+those enclosures, and they also have to be
+focused on growing food the indigenous species
+can eat and which won’t represent an invasive
+species.
+Entry is kind of tricky since sticking holes
+in something you are trying to insulate tends
+to be counterproductive, and tunnels will
+rapidly become hunting bottlenecks.
+We can use a lot of tricks we’ve developed
+over the years for houses or grocery store
+freezers or doorways, like air curtains, to
+help keep the heat in, but you’d still have
+that bottleneck issue and end up with a polar
+bear camping in your entry tunnels.
+There’s ways around this, and you could
+also make the whole thing basically a ship
+so that melting through the ice wasn’t a
+problem, but you still might prefer some approach
+like having drones distribute that food over
+a wider range.
+If you’ve just got a few such places, they’d
+be nice for tourism since they’d attract
+the wildlife, and endless empty ice is much
+more boring to look at, but if you’re making
+a lot of these places you might prefer they
+be almost entirely automated since not many
+folks would want to live there anyway.
+You might also go that anthropic-ecology route
+we mentioned a month back in the episode “Environments
+of Space Habitats”, where you tweak the
+local flora and fauna to mesh better with
+an ecosystem that’s essentially manmade
+and human-specific, akin to urban ecosystems
+but a bit more deliberate.
+There we used the example of crows or squirrels
+retrieving litter and turning it in at depots
+in exchange for food, thus allowing a higher
+net density of wildlife by supplementing their
+food supply while also getting some work done
+for us.
+These don’t have to be sitting on land either;
+again you could make one a ship, or attach
+it under a chunk of floating ice.
+As an example, a big floating lens in the
+water would concentrate some light in the
+volume below it, creating a little boost in
+the local temperature and light availability.
+This is similar to the domes we discussed
+in colonizing Ceres, where you’re just focusing
+the available light to concentrate it, rather
+than adding energy.
+This is a decent approach if you just want
+small areas or pathways to be warmed too.
+An often mentioned silver lining of the ice
+caps receding, is that you could sail freighters
+or fishing boats along the Northern Coast
+of Eurasia.
+However, by just warming a narrow canal through
+the ice, you’d achieve much of the benefit
+without the major climatic impacts.
+This concentrated light method only works
+for part of the year.
+Both the days and the light intensity get
+very short as you go further north, and if
+you get far enough, end entirely during a
+the dark season.
+You can’t concentrate nothing.
+However, while the permafrost may stay frozen
+year round in such places, if you go deep
+enough things warm up, and you can use geothermal
+energy as your power source by drilling down,
+providing plenty of warmth and an electricity
+supply.
+There’s not enough to thaw the whole place,
+but you could have large pylons bringing heat
+up to oases or string them in a line along
+the coast to keep fast ice from forming on
+those and keep your sea lane clear.
+Nor are the depths of the Earth the only place
+that’s got a surplus of heat – though
+subterranean colonies up north is an option
+we’ll explore later in the series.
+Last time we mentioned you could bring freshwater
+down to deserts by towing icebergs, but this
+need not be a one-way trip.
+You could build huge pipelines to act like
+radiators, bringing freshwater to hot deserts
+and warm saltwater back up to the arctic.
+We talked about doing something similar around
+the polar regions of Mercury to deal with
+its incredibly long day-night cycle and wide
+peak hot and cold temperatures.
+We’ve also talked about how to deal with
+the long day and night cycles on the moon,
+or on the genuinely dark sides of tidally
+locked planets.
+The simplest answer would tend to be orbital
+mirrors.
+This is something we’ve discussed before
+and was even in the headlines recently as
+a suggested way of replacing streetlights.
+You hang a mirror overhead and bounce light
+down on a city.
+That’s a pretty bad idea itself, since street
+lighting is about safety, not agriculture
+or temperature, so it being blocked out whenever
+its cloudy is a serious issue.
+However, you can light up a small area with
+one quite well, and we have two handy lesser
+known orbital paths that works well for this
+purpose: the Tundra Orbit and the Molniya
+or Lightning Orbit.
+They’re perfect for adding sunlight to high
+latitudes, and can also be configured to block
+sunlight at lower latitudes if you want to
+balance out how much light you’re adding
+to the planet.
+Both orbits are eccentric elliptical ones
+that are angled up well above or below the
+equator, but the tundra orbit is a bit less
+eccentric and is geosynchronous, though not
+geostationary.
+It stays over the same general longitude of
+the Earth as it rotates, but moves north and
+south to describe a very lop-sided figure
+eight.
+This lets it do something called ‘apogee
+dwell’, where it spends a much larger portion
+of its orbital period over an area.
+As you may recall, elliptical orbits do not
+have the orbiting object always moving at
+the same speed: when they are furthest away
+they move slowest.
+We call that furthest place the Apogee for
+Earth, and Aphelion for the Sun.
+As it falls back down on its orbital path,
+getting closer, it speeds up until it reaches
+its closest approach to the object it orbits:
+the Perigee for Earth or Perihelion for the
+Sun.
+Then it begins to slow as it climbs back up
+and around to Apogee again.
+This highly cocked orbit provides a better
+angle at high latitudes, much the same as
+the Sun in the summer or equatorial regions.
+The Molniya orbit differs in that it orbits
+every 12 hours, and has a long apogee dwell
+over some high latitudes.
+This is a very good way to shine light on
+places with very short days or during their
+no-light period.
+Of course our space-based warming method doesn’t
+have to be done entirely with light.
+As we discussed with power satellites, beaming
+down microwaves lets you circumvent a lot
+of atmospheric interference, and it’s fairly
+easy to convert that into heat energy.
+If you are deriving most of your electricity
+from power satellites, you don’t have to
+worry so much about greenhouse gas emissions
+either, and can even begin removing them.
+Plus warming areas gives you something to
+do with power from such satellites if you
+have peak power usage times that requires
+surplus capacity.
+That of course is one of the nice things about
+fission, fusion, and renewables too: with
+zero-emissions energy, you can suck up carbon
+dioxide and water and convert them into hydrocarbons,
+making your plastics and gasoline carbon neutral.
+If one has access to significant stockpiles
+of fissionable materials, you do have another
+interesting option that is also handy for
+cold asteroids that we mostly skimmed over
+in Colonizing Ceres.
+Radioisotope Thermoelectric Generators are
+relatively easy to make, maintenance free,
+and long lasting, but their efficiency is
+low so most of the energy is lost as heat.
+Needless to say, ‘lost as heat’ is a pretty
+relative term in the frozen arctic.
+You could slap a dome up in the tundra with
+some nice sturdy LED lights spectrum-tailored
+for photosynthesis and powered by an RTG in
+the basement whose waste heat is warming the
+ground.
+Something like that is basically maintenance
+free, there’s just nothing in it that would
+be likely to break.
+Strontium-90, a waste product of fission with
+a half-life of 29 years, is almost ideal for
+this use.
+We can’t say this setup is completely independent,
+but there’s no need to bring in a continuous
+fuel supply.
+Greenhouses offer a nearly power-free option,
+though you obviously have capital investment
+and maintenance, ditto if you opt to throttle
+things up by including a passive geothermal
+system stretching down beneath the permafrost.
+As we’ve mentioned before, we do open air
+farming now because we don’t actually need
+that much farmland.
+Our population has risen but how much food
+we can get out of one chunk of land has risen
+too.
+If we want to keep increasing our numbers
+without adding to our farmland, we’ll probably
+have to convert over to dedicated greenhouse
+facilities rather than open air farming.
+This comes with huge advantages in crop yield
+and water savings, plus helps to mitigate
+a lot of farming issues since it’s a more
+controlled environment, but it isn’t cheap
+to dome over and maintain that.
+However it does instantly grant you a lot
+of new farmland since you can use them on
+land too arid or cold for normal crops.
+They trap moisture and heat, converting marginal
+areas to fertile ones, though you also have
+to build up your fertility since those spots
+don’t really have decent soil initially.
+Since the construction cost is the same on
+good existing land, arid land, or tundra land,
+this would probably be where you’d start
+seeing a vast amount of greenhouse agriculture
+begin: desert and tundra.
+The land is cheap, and since not much lives
+there you aren’t doing as much damage, especially
+since you can take some of your yield to supplement
+the diets of the local critters whose territory
+you purloined a chunk of.
+This still is disrupting that local ecology
+a lot, but it’s better than just clear-cutting
+a forest or jungle.
+It does come with one other issue though.
+Trapped in all that permafrost is a ton of
+methane, and methane is a worse greenhouse
+gas than carbon dioxide, about 25 times worse
+in terms of heat trapping potential, so amusingly
+you are better off torching the stuff rather
+than letting it get free into the air.
+However, this brings up an interesting silver
+lining.
+If we dome over a chunk of permafrost, thawing
+out some methane to drift into that dome,
+we can use its heat trapping ability to warm
+that dome even more, capture it to burn it
+for heat and electricity, and then use that
+dome, now warm and high in CO2 levels which
+many plants love, to sequester that carbon
+into new and healthy soil.
+It’s debatable if releasing that methane
+even in this controlled way is beneficial,
+but since it seems likely to be released anyway,
+you might as well profit while minimizing
+the damage, and convert those areas into more
+livable places.
+We can also offset its release through our
+aforementioned arctic carbon capturing.
+This is also assuming you want to live on
+the surface or do agriculture in Alaska or
+build beach resorts on the north shores of
+Siberia.
+However, we mentioned that these places have
+a lot of unexploited mineral wealth, and we
+have hundreds of underground lakes in Antarctica
+and some with life in them.
+Lake Vostok, the largest of them, has a huge
+volume, beating out every one of the Great
+Lakes except Lake Superior, and hosts a lot
+of strange and unique life.
+It’s also very easy to tunnel through ice,
+and very easy to insulate inside it to maintain
+a decent temperature.
+There’s also no sunlight for a lot of the
+year in Antarctica, and the sun never sets
+for much of it too, so an underground city
+in an ice cavern, presumably for mining, might
+be appealing as you don’t really have a
+decent natural day-night cycle there anyway.
+It’s not as cold either, since you stay
+right around freezing when buried deep in
+the ice, avoiding the atrocious sub-zero temperatures
+you get on the surface.
+Needless to say cold can be advantageous too,
+as we’ve noted before for manufacturing
+and computing.
+The handy thing about tunnels and cavern cities
+is it doesn’t much matter what latitude
+you put them at, and if they release a little
+heat up to areas above, it’s beneficial
+to the local ecosystem.
+We’ll discuss those more next time though.
+One last approach that ice caverns and underground
+living suggest though, is to make the ice
+deeper.
+If water levels rising from ice melt is our
+biggest concern, and keeping in mind that
+in Antarctica at least most of the center’s
+surface is essentially devoid of life, we
+might decide to increase that big kilometers-thick
+ice sheet by pumping more water there to freeze
+in an ever growing mountain.
+And this trick also works on mountains, which
+have glaciers on them even in equatorial latitudes.
+They’ll keep melting, and more so as you
+add mass on top to push on them, but you can
+keep pumping and stay ahead, growing the things,
+and indeed you could build them in a framework
+to stack them higher and stronger.
+Think of the Wall in the North from Game of
+Thrones, built of ice and gravel, or Pykrete,
+ice mixed with fibers that makes it very strong
+which we’ve discussed using as a construction
+material in colonizing icy planetoids.
+The taller you go, the more energy is needed
+to pump the water there, but the easier it
+is to get the water to freeze.
+We discussed using very deep artificial cisterns
+for storing excess water earlier in the series,
+this is the other approach: storing it in
+giant ice mountains, potentially with frameworks
+and small ice cavern cities inside.
+Maybe even ones that slowly melted their way
+up to stay nearer the top.
+As we can see there are a lot of options for
+colonizing our colder climates.
+Sadly, though, there’s not a lot of decent
+science fiction on the topic.
+It seems like authors tend to use the polar
+regions as a backdrop, a cold and hostile
+place that intensifies the danger the protagonist
+is in.
+This often makes for some great fiction, indeed
+two of our books of the month for this year
+were set in Antarctica: H.P.
+Lovecraft’s “At the Mountains of Madness”
+and John W. Campbell’s “Who Goes There?”
+a.k.a.
+“The Thing”.
+I wanted something a bit more upbeat for the
+end of the year, and with us recently looking
+at Flat Earths, and discussing Santa Claus
+Machines next week, it seems a great time
+to finally give the Book of the Month to Sir
+Terry Pratchett, author of the amazing Discworld
+Series, and his novel “the Hogfather”:
+a fun winter wonderland tale of the Discworld’s
+parallel for Santa Claus, the Hogfather, going
+missing and the Grim Reaper having to take
+his place.
+Discworld is a fantasy parody series covering
+around 40 books, so you’ll have no shortage
+of extra reading if you enjoy the book, and
+the Hogfather is one of my personal favorites.
+Sky1 also made a movie for it, and there’s
+been a few other TV and film creations from
+the series.
+If you’d like to grab a free copy of “The
+Hogfather”, just use my link in this episode’s
+description, Audible.com/Isaac or text Isaac
+to 500500 to get a free book and 30 day free
+trial.
+I have literally never met anyone who didn’t
+enjoy the Discworld series once they got into
+it, but if you should happen to be a first,
+you can exchange it for another book free
+of charge.
+So speaking of Santa, our last episode before
+he sets off with his Reindeer will be on Santa
+Claus and Cornucopia Machines: the catch all
+terms for devices that can make just about
+anything, like the Replicators from Star Trek.
+Next week we’ll explore the possibilities
+of, and societal impact of, such devices,
+and look at some of our technologies developing
+in that direction, like 3D printing, and some
+of the challenges we face in improving them.
+We will then close out the Fourth Year here
+on SFIA on December 27th with a look at colonizing
+the stars with technologies like that, and
+the Seed and Data Ships concepts we’ve mentioned
+as alternatives to Generation Ships, in “Seeding
+the Stars”.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a Great Week!

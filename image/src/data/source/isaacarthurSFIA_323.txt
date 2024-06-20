@@ -1,0 +1,626 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+A long time ago in an engineering project
+far, far away, I had occasion to help on some
+death ray designs.
+Unfortunately the prototype was destroyed
+by militant protestors and the two gentlemen
+running the show had a falling out, but I
+remain optimistic about future attempts to
+build death rays and the potential peaceful
+purposes for people’s prosperity.
+So it’s another Scifi Sunday here on Science
+and Futurism with Isaac Arthur and I am your
+aforementioned host, Isaac Arthur.
+On this show we mostly focus on future technologies
+under known science but once a month we like
+to let our hair down and put our Vulcan ears
+on and dip deeper into science fiction concepts.
+Today we will be looking at the classic Death
+Ray, what it is, why you might want it, and
+if such a thing is possible.
+Now as to why you might want it, while a death
+ray is obviously useful to any supervillain
+looking to upgrade their toolbox, the thing
+we always have to keep in mind is that weapons
+and tools tend to be interchangeable, swords
+to plowshares and so on.
+Even variations of Death Rays that literally
+just kill someone with no outside damage have
+peaceful applications, like potentially being
+able to be calibrated to kill something specific
+like a virus or microorganism, while the classic
+giant laser is handy for everything from mining
+to asteroid defense to energy beaming or pushing
+spacecraft to other solar systems.
+Indeed such things aren’t usually called
+death rays, but handy devices, and the big
+concern is often if they could be repurposed
+or hijacked to serve as a death ray.
+So we’ll be looking at what might serve
+in that role and how we might protect against
+such malign reuse.
+Of course we’ll also discuss how to malignly
+use them.
+So as we discussed in last month’s Scifi
+Sunday on Lightsabers and Laser Pistols, these
+sort of directed energy weapons have a long
+history in science fiction, but we have two
+early accounts of them in science.
+First from Edwin Scott, who claimed he had
+developed a death ray and tried to sell it
+to the RAF precursor, the British Air Ministry,
+a century ago in 1924, for killing humans
+and bringing down airplanes, but he never
+demonstrated it or produced a working one.
+The next one is a ‘Death Beam’ and comes
+from the famous and controversial Nikolai
+Tesla, though he explicitly said it was not
+a Death Ray and such a thing wasn’t viable,
+instead preferring ‘Teleforce’ and this
+is more along the lines of the electromagnetic
+cannons we often discuss for rapidly accelerating
+metal pellets or slugs, such as a mass driver.
+Again it specifically was not a death ray,
+but thanks to the New York Sun and New York
+Times it got mislabeled as one in 1934, and
+also as a “Peace Ray”.
+Again Tesla himself was specifically saying
+such beams or rays weren’t possible and
+we should use electromagnetically accelerated
+bullets instead, but it stuck in the public’s
+awareness.
+Incidentally the Laser – Light Amplification
+by Stimulated Emission of Radiation - was
+first demonstrated in 1958, and Scott and
+Tesla were discussing this in 1924 and 1934
+respectively, and while Einstein raised the
+basic concept of Lasers in 1917 in terms of
+stimulated emission, that didn’t suggest
+a beam, and it wasn’t until 1939 that Valentin
+Fabrikant even theorized you could use stimulated
+emission to amplify radiation, this still
+implied no beam.
+Again Tesla called it a “Teleforce” and
+it got confused as a Death Ray, I’ve also
+seen folks confuse it as a precursor to an
+equivalent of a Tractor Beam, but it’s just
+a machine gun that runs on electromagnets
+rather than gunpowder, throwing electromagnetic
+slugs or pellets out, not energy beams or
+rays.
+Prior to that the notion was that light and
+energy could be focused in, but no sort of
+tight beam was even considered.
+This episode is not on Lasers but the basic
+notion is that you can hit an atom with a
+light particle, a photon, of a specific frequency
+to make it spit out another one, to stimulate
+emission of a photon or electromagnetic radiation.
+You do this between a pair of mirrors, one
+totally reflective and the other nearly so,
+and a beam of light will come out of that
+latter mirror.
+That’s a laser and we also have the Maser,
+which does this with microwaves rather than
+visible light, though both are electromagnetic
+radiation, and we have other chunks of the
+spectrum you can do this with too but in general
+we would just call it an “Ultraviolet Laser”
+or UV Laser rather and a UVaser or maybe IRaser
+in the case of Infrared, though given that
+heat rays are a popular option for rayguns,
+and an infrared laser is a heat ray, a powerful
+one for vaporizing beams being called an Iraser
+or “Eraser” would be apt.
+We’re simplifying the explanation of how
+lasers work for today, but that’s it in
+a nutshell, and without that approach you
+can only focus light and energy in on a spot
+using the classic mirror and lens approach
+with a focal length.
+This has been contemplated as a weapon for
+a long time, maybe all the way back to Archimedes
+time, for using mirrors and lenses to focus
+sunlight and burn things.
+However this requires some very big lenses
+if you want a focal length able to shoot down
+airplanes or hit anyone not close enough to
+throw a rock at.
+As an example, while the Hubble Telescope
+is not our most powerful lens, it's certainly
+up there, in both size and literal location,
+and its focal length is a bit under 60 meters
+or 200 feet.
+Hubble certainly looks like a big cannon,
+but in spite of being able to see across the
+Universe its lens and mirror system, if reworked
+for weaponization, would not let you nail
+even other satellites in orbit of our planet
+by just shining a bright light at it and letting
+that be pushed and directed into a ray.
+Pre-Laser this was how you focused a beam
+down to be a weapon, just a bigger version
+of the magnifying glass using sunlight to
+kill ants.
+We have a device called “The Sun Gun”
+suggested by Hermann Oberth in 1929, Oberth,
+also known for the Oberth Effect, is one of
+the founding fathers of rocketry, but in this
+case his suggested use for those rockets would
+have been to haul up a 100-meter wide mirror
+to concentrate sunlight on a spot on Earth.
+I should note that we do have some methods
+for producing pretty impressive lenses in
+space, the low gravity and rotation offer
+some options for spinning a liquid lens up
+for instance, and at the top of the atmosphere,
+up there in Low Earth Orbit, the Sun is hitting
+Earth with 1360 Watts per square meter of
+light in various frequencies, and a 100-meter
+diameter lens would have 10.7 Megawatts of
+power available to it, which would definitely
+be lethal, and rapidly so, if focused down
+into some beam a few meters across.
+A 1000 meter wide one would offer a hundred
+times the power, over a gigawatt, delivered
+down on a tighter spot.
+The problem of course is actually focusing
+it down that tight.
+On the other hand, we do have lasers easily
+capable of keeping a decently tight dot on
+an object at even larger distances, though
+they spread out eventually too.
+Lasers do indeed have a focal length.
+Now again the episode is not on Lasers and
+that’s largely because they are not good
+options for death rays, but when it comes
+to just pouring energy down on a distant target
+quickly and accurately they’ve got a lot
+going for them.
+On the other hand an upgrade on Oberth’s
+Sun Gun might be a liquid lens stored in compressed
+form in a stealthy satellite waiting to pop
+open, spin out a very wide thin lens, and
+aim it down on some place.
+We’ve contemplated various giant lenses-
+particularly in our megatelescopes episode
+– able to make Oberth’s suggested 100-meter
+concave mirror look like a hand mirror.
+There’s little need for perfection in such
+a lens as we’re not worried about resolving
+an image, like with a telescope, just pouring
+light down on some spot, so a cheap big and
+expendable lens works well, and orbital weaponry
+is ideally expendable because its easily retaliated
+against, see our Orbital Bombardment episode.
+So a cheap and replaceable giant inflatable
+or spinnable lens and mirror works nicely
+as a weapon.
+Of course you don’t really want such things
+as weapons because a nuke would work much
+better, though a Sun Gun has the advantage
+of speed, a signal to one can presumably have
+it inflating or spinning up in under a minute
+and aimed on target.
+Still it's more their use as a hijackable
+weapon that worries us.
+It's nice to be able to focus a gigawatt of
+juice down on some offending installation,
+or city, but day to day it's far nicer to
+have the ability to focus it down wider on
+a power collector.
+Power needs vary by time, season, nation,
+and household size but we usually put it at
+about 1000 watts, or 1 kilowatt, per household.
+That’s less than a square meter of orbital
+power collection, and a 100 meter wide Oberth
+Sun Gun would supply about 10,000 households,
+and a few of the kilometer wide gigawatt ones
+would run a major metropolis.
+Now that’s assuming you had 100% conversion
+of sunlight in orbit to electricity in a house,
+which ain’t happening, but even a 10% efficiency
+rating would make this very tempting and is
+hardly ambitious under known science and engineering.
+Getting things up to space is expensive, but
+all the equipment needed for power satellites
+and receivers down on the ground is simplistic.
+See our power satellites episode for the full
+details, but in short form if we could manufacture
+up in space for anything approaching the cost
+down here, then supplying Earth with power
+this way is cheap, abundant, renewable for
+the next 4 billion years, and is even an upgrade
+on Fusion.
+Those are your two big hurdles though, getting
+it into orbit cheaply and durably or making
+it there, and the concern about it being used
+as a Sun Gun or Maser.
+The intent is to send the power down in Microwave
+format.
+Microwaves are easier to control than light,
+and highly-efficient to convert to and from
+sunlight to maser to electricity, but that
+Maser is a potential weapon and so is the
+enormous collection of mirrors used to gather
+the light into the power production on the
+satellite making the microwave beam, they
+can probably be turned into a crude sun gun.
+Now before we get into preventing that, let
+me just note that even if we couldn’t this
+is hardly a superweapon.
+Anything in orbit is easily wrecked during
+a counterattack, and a giant thin mirror reflecting
+the sun isn’t exactly hard to locate and
+target, given that even an Oberth Sun Gun
+should be naked-eye visible when deployed,
+let alone some massive multi-kilometer power
+satellite array.
+They’re also nowhere near nuclear weapons
+in destructive potential.
+A big Kilometer-wide array can presumably
+focus a whole gigawatt down on a place, but
+that means it needs 4 second to release the
+equivalent of a ton of TNT in damage, whereas
+even small nukes are measured in kilotons,
+or thousands of tons of TNT, and a megaton
+nuclear device would represent something like
+a month worth of energy release by such a
+beam.
+Which isn’t to imply its weak, except in
+comparison to a nuclear bomb, again it is
+releasing more energy each second than several
+large artillery shells going off, however
+it does have to be compared to a nuclear bomb
+because folks able to build big orbital power
+satellites can build nukes too.
+Now for hijacking one, it’s not going to
+happen in seconds and it isn’t going to
+result in cities being razed, but one hijacked
+to be used as a Sun Gun might be able to wreck
+a lot of buildings in the few minutes between
+seizing control and getting shot with intent
+to destroy, though you could also have beams
+redirected at it meant just to shove it off
+focus which we might permit to be fairly automated,
+since an unfocused pushing beam under computer
+control is less worrisome than a primary weapon.
+Barring that it could do some real damage
+before being destroyed but nothing cataclysmic.
+And again this is assuming some sort of setup
+that let’s them decently focus the beam
+too.
+The Maser is a different story, as it's already
+designed with focus in mind, but the thing
+is it's designed to focus to a specific amount,
+and there’s no reason you’d design it
+to have an ability to focus much tighter.
+It should have a range of focal length so
+that it can beam down to a receiver station
+a few hundred kilometers directly below it
+or one off at an angle and maybe a few thousand
+kilometers, but it's not going to be built
+to focus more than a kilowatt per square meter
+and that’s not going to do much damage.
+Microwaves are those things that heat our
+food up in the microwave oven, but they’re
+also what we use for wifi signals and radar
+because they are absorbed by so few things
+including air.
+Your microwave oven is built out of materials
+that are reflective to microwaves to make
+them bounce over and over till some food inside
+absorbs them, a crack in a microwave that
+lets it leak – which usually run at about
+a kilowatt – isn’t going to kill you.
+Though it isn’t super safe either, it still
+means these masers from above are vastly less
+dangerous than other routine forms of power
+we already use, and you can’t just jury-rig
+one to focus some kilometer-wide power beam
+into some meter wide death-ray, anymore than
+you can jury-rig a pair of binoculars and
+a flashlight into some laser rifle.
+Building a focusing apparatus for some device
+is hard and expensive, and harder and more
+expensive the tighter the focus you want,
+so you don’t casually build in more focus
+than you need into a power beaming satellite,
+given that its spending a ton of money for
+no better benefit than needing to worry it
+could be hijacked as a weapon now.
+This doesn’t mean it isn’t a good weapon,
+a powerful microwave signal beamed at a city
+is going to play crazy with communications
+there and shoot sparks all over, but it's
+no death ray.
+What is?
+Well we mentioned nuclear bombs and we have
+some beam options for those too, and we also
+have sonic weapons to consider.
+Let’s consider neutrons for a moment though.
+Neutrons are the wrecking ball when it comes
+to radiation damaging organic life, which
+is ironic given that they make the majority
+of the mass in your body.
+They’re slightly heavier than protons and
+with the exception of hydrogen every atom
+has equal or more neutrons than protons.
+Yet when one escapes an atomic nucleus they
+are highly unstable and short-lived, having
+a half-life of about twelve minutes.
+They smash up any complex molecule they hit,
+including DNA, and they make a wonderful weapon,
+hence the neutron bomb.
+Not a beam or ray weapon though, and hard
+to turn into a beam given that they are electrically
+neutral.
+Can we make a bunch of neutrons and aim that
+at something?
+Potentially yes, but while we have neutron
+beams nowadays they are essentially made by
+surrounding a neutron emitting source with
+some shell and poking a hole in it so neutrons
+can exit, neutrons, unlike neutrinos, interact
+with basically all matter and nothing really
+bounces them backward nor does a magnet impact
+them much since they are electrically neutral.
+If you could control and focus them as a beam
+though, then yes this would be a brutally
+effective and deadly weapon that would hardly
+be gentle on inanimate objects but would be
+particularly lethal to living matter and complex
+devices.
+Needless to say charged particles beams of
+protons would be a decent death ray too, but
+hard to keep focused and dense since protons
+would repel each other, same for electron
+beams, and antimatter beams make a good weapon
+option too, but a neutron beam if you can
+make one has more of a death ray effect.
+The rationale behind the neutron bomb was
+that it would kill your enemies but leave
+the infrastructure more intact and the neutrons
+only have a half life of 12 minutes so that
+part of the radiation disappears fairly quickly
+though its hardly a clean bomb either.
+It’s basically a normal bomb dialed low
+on yield to allow lots of neutrons to escape
+rather than enhance explosive yield in a fusion
+bomb, and a neutron beam, if you could make
+one, would again be terribly devastating to
+living material for the same reason, but presumably
+leave no significant radiation behind.
+Of all our options under known science, I’d
+say a controlled neutron beam would be the
+lead candidate for a genuine death ray, but
+it would realistically require either a material
+specifically reflective to neutrons or a field
+able to turn them, akin to how a proton or
+electron can be turned by an electromagnetic
+field.
+The former implies a potential armor hardened
+against neutron beams, the latter a potential
+shield.
+I’m only aware of one major fictional setting
+with neutron laser, Warhammer 40k, and they’re
+quite right to eyeball these as nasty devices
+if you’ve got the tech to use them.
+On the subject of atomic bombs and beams,
+we do have something called a bomb-pumped
+laser, and these would be familiar to folks
+who are fans of David Weber’s Honor Harrington
+Novels where they’re called Laser Warheads.
+The method is surprisingly straight forward,
+and was developed in Project Excalibur as
+an X-ray laser that would have been a tube
+lined with Uranium-235 filled with a lasing
+medium, Helium and Argon were often suggested,
+and a bomb goes off to supply the huge and
+rapid energy input, causing a very powerful
+x-ray or gamma ray beam to fire in a chosen
+direction.
+The first successful test was back in 1980,
+a couple months after I was born, but it didn’t
+get too much experimentation as the 80s saw
+a curtailment of nuclear weapon research.
+They’ve been contemplated for more than
+just weapons though, and indeed even as a
+weapon it was viewed as mostly of interest
+for ABM application, blowing up ICBM’s carrying
+nuclear warheads.
+Using it to propel a ship being pushed by
+the laser or using the smaller non-bomb-pumped
+types, driven just by a nuclear reactor, for
+things like deep cut welding or cutting materials
+has also been suggested.
+Needless to say a bomb-pumped laser is a stupidly
+powerful one, though by definition a single-use
+weapon since the bomb incinerates the mechanism
+nanoseconds after it fires, which makes mounting
+them in a missile for deployment an interesting
+option, letting you shoot your laser from
+a different angle at a target.
+We’ll contemplate an even bigger laser power
+source in a moment, but let's consider a death
+ray not based on electromagnetic energy or
+radiation.
+Sonic and ultrasonic weapons have often been
+suggested.
+Indeed they’ve been developed and used too,
+and much like light waves, sound waves are
+subject to being focused on a target.
+What’s more we have developed the thermoacoustic
+laser or Saser, the sound wave equivalent
+of a laser.
+Simple sonic weapons, like loud or frightening
+booms, have a long history, but we also have
+devices like LRAD – the Long Range Acoustic
+Device – which is a type of sound cannon
+– and LRAD has seen extensive use in the
+last couple decades as both a sound weapon
+and a notification system, it makes a megaphone
+sound like a stage whisper.
+Now sound weapons can be deadly but are mostly
+of interest as non-lethal weapons, not as
+sonic death rays.
+However extra-aural effects – that is ones
+not related to hearing – of various sonics
+weapons appears to include central nervous
+system effects, muscle contraction, effects
+on chest and lungs, tissue shearing, and hypothermia
+strangely enough.
+Testing and documentation of all of the above
+is limited and disputed to various degrees.
+The other thing sound weapons tend to be contemplated
+for is the exact opposite of a death ray,
+blasts of sound designed to shatter ultrahard
+substances without damaging things around
+them.
+And while this isn’t what we’d consider
+a death ray it does raise a point.
+For those familiar with the Dungeons & Dragons
+games, a long time popular and powerful spell
+is the prismatic spray or ray, which is actually
+seven beams of differing colors and causes
+different types of damage with each, one being
+fire, another acid, electricity, and poison,
+with the other three effects including being
+turned to stone, driven insane, or banished
+to another plane of existence.
+I raise it in this case from the last option,
+which is where someone gets hit by two of
+the beams at once, and of course ideally such
+a weapon should hit someone with all 7 effects
+at once, and a really good weapon might incorporate
+several effects, so that something designed
+to be immune to or hardened against one effect
+still gets swatted by the others.
+Strategically this is valid too, you don’t
+nuke a planet, you drop biological and chemical
+weapons all over it, then nuke it, then send
+in hunter-killer drones to find the survivors,
+then you virus-bomb and nuke it again.
+Get the job done, no half measures, but a
+death ray might be something conceptually
+along those lines, you torch someone with
+a particle beam, a neutron beam, superhot
+plasma beam, laser beam, and then a string
+of micro-sized metal pellets electromagnetically
+accelerated to high speed, which might also
+include tiny metal tubes or ampules full of
+viruses or nano machinery to finish the job
+up.
+We’re starting up a series on Galactic Domination
+this upcoming week, and a critical aspect
+to taking over a galaxy is being ready to
+deal with all sorts of insane superweapons
+the enemy might have, and this sort of over-the-top
+approach to planetary bombardment or prismatic
+spray weapons might come in handy.
+So does sheer power too, and death ray could
+just indicate a conventional weapon dialed
+up to 11, like the Stellaser, the sun-powered
+pushing lasers we often contemplate driving
+spacecraft out to the stars with or the Nicoll-Dyson
+Beam, which where you convert a star into
+a single enormous laser.
+But these shouldn’t be assumed to be as
+big as it gets, and concepts like the bomb-pumped
+laser work just fine if that bomb is a Supernova
+or if you’re using a neutron star or black
+hole to generate your X-ray beams or Gamma
+Rays, big focused in versions of gamma ray
+bursts, or running the power system for some
+other type of death ray.
+Sometimes quantity has a quality all its own,
+and as we like to say on the show, if Brute
+Force isn’t working, you’re just not using
+enough of it, but setting off a supernova
+to bomb-pump a laser is the kind of brute
+force you should only be needing for killing
+gods, galaxies, or Lovecraftian Horrors…
+which to be fair might be the sort of things
+you run into out in the Universe and need
+to handle.
+We spent a fair amount of time today talking
+about satellites and putting weapons in space,
+and there’s a great episode on the Militarization
+of Space over on Curiositystream if you’d
+like to know more about the current endeavors
+and worries, as well as the history of weapons
+platforms in orbit.
+As I mentioned near the start of the show,
+today’s episode was a follow up of our conversation
+last month on laser pistols, light sabers,
+and other common scifi weapons as I felt it
+deserved more than a quick aside in that episode,
+and after that episode came out folks asked
+about certain types of weapons that killed
+them in the past or entirely erased someone
+from history, essentially temporal weapons,
+and that struck me as something that might
+qualify as a Death Ray.
+So we’ll discuss that notion briefly in
+the Extended Edition of today’s episode
+over on Nebula.
+Nebula is our rapidly-growing streaming service
+where you can see all of our episodes ad and
+sponsor free and a couple days early, as well
+as some bonus content like our extended editions
+or Nebula Exclusives like our Coexistence
+with Alien series.
+You can also see tons of content from many
+other amazing creators and help support this
+show while you’re at it.
+Now you can subscribe to Nebula all by itself
+but we have partnered up with CuriosityStream,
+the home of thousands of great educational
+videos, to offer Nebula for free as a bonus
+if you sign up for CuriosityStream using the
+link in our episode description.
+That lets you see content like “The Militarization
+of Space”, and watch all the other amazing
+content on Curiositystream, and also all the
+great content over on Nebula from myself and
+many others.
+And you can get all that for less than $15
+by using the link in the episode’s description.
+Incidentally I’m sure many of you have noticed
+that today’s soundtrack came from the video
+game Stellaris from Paradox Interactive, and
+we use it fairly often, and I wanted give
+them a quick shout out for letting us do so
+and for endless hours of good games down the
+years.
+I’ve played a lot of 4x video games and
+setting up space empires or achieving galactic
+domination is a great way to spend an afternoon,
+and next Thursday we will be having the first
+episode of our new series, Galactic Domination:
+Empire Eternal, and episode two a few weeks
+later will look at Strip Mining the Galaxy.
+But Before that, we’ll examine Brain Computer
+Interfaces then wrap up June with our end
+of the month livestream Q&A.
+Then we will start July off with a long-requested
+return to our Faster Than Light series for
+Cheating Reality.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us iTunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

@@ -1,0 +1,916 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+In the future, the brightest empires will
+be born around dying stars.
+Colonizing other star systems in this galaxy
+is probably one of the most foundational topics
+we cover on this show, and a few weeks back
+we looked at colonizing red dwarfs, those
+smallest of stars which outnumber all the
+other types of stars combined.
+I mentioned at the time that even though they
+were the most numerous, they were far less
+bright, amounting to less than a percent of
+the current starlight in the Universe, and
+that they probably wouldn’t have the most
+planets either.
+Both those honors belong to giant stars, and
+I thought we should follow up looking at colonizing
+dwarf stars by looking at colonizing giant
+ones too.
+As we will see today, such systems around
+giant stars may be crowded with dozens of
+planets, all potentially habitable, and each
+taking decades or even centuries to orbit
+their star.
+However, as I was writing that sequel, I began
+feeling likely it was a topic that needed
+to be broken into a few episodes instead,
+so this week is not just a sequel episode
+but also the first of three episodes, or the
+second of four perhaps.
+In a couple weeks we will follow up with Killing
+Stars, where we will look at those giants
+so big they go supernova and if and how we
+can manage them or even colonizing them.
+Then after that we will go the opposite direction
+and ask about living without stars, colonizing
+the deep voids between them or even between
+galaxies, in Exo-Stellar Civilizations.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and this will be a longer episode, so if you
+haven’t already grabbed a drink and a snack,
+now’s a great time to do so.
+Giant stars can cover a pretty big range of
+systems, since the term itself has a bit of
+vagueness.
+We will be looking at all the types of giants
+today which are larger than our sun, but too
+small to go supernova, saving those for the
+next installment of the series.
+The term dwarf and giant, when applied to
+stars, is essentially a relic term of when
+we could basically only see their color and
+make a loose guess as to their distance.
+All stars are white, but will have a peak
+spectrum associated with the surface temperature.
+If you know roughly how far a star is away,
+then by taking its apparent brightness to
+our eyes and instruments, you can calculate
+its actual brightness or luminosity, and from
+that, if you know its temperature or peak
+wavelength, you can determine its surface
+area and from that its radius.
+A star twice as hot as another for instance
+gives off 2^4 more energy per unit of surface
+area, or 16 times as much, while an object
+10 times further away would give off 10-squared
+or 100 times less light.
+When plotting this data on a chart with peak
+wavelength on one axis and luminosity on the
+other, we started noticing that they’re
+mostly grouped into two fairly distinct categories,
+or sequences and we named the physically big
+and very bright stars “giants”, and named
+the more numerous dimmer and smaller stars
+on the main sequence “dwarfs”, a word
+which now is synonymous with a star burning
+hydrogen during the first phase of its life.
+At the time we could disproportionately see
+the brighter stars, and we could not even
+see M-type Red Dwarf Stars, which make up
+the majority of stars, and thus the dwarf
+and giant monikers made sense.
+Also at the time we often called them old
+and young stars, as we did not know about
+nuclear fusion yet and assumed that stars
+glowed brightly when they were young and cooled
+as they aged, this terminology has been dropped
+but stuck around as a relic for quite a while
+after we figured out fusion drove stars.
+Giants and dwarfs fit better but are still
+relics and don’t work well, as it means
+that 99% of stars are labeled dwarfs, including
+our own sun.
+Of course it depends a lot on what we mean
+by ‘bigger’ and in this context I mean
+mass but volume and brightness also work.
+The more massive a star is, the bigger and
+brighter it is, but the biggest stars are
+always those that have left the main sequence,
+stopped burning hydrogen, and expanded to
+become red giants or even red supergiants.
+Stars get hotter, rather than colder, as they
+age, and eventually reach a phase called subgiant,
+then their red giant phase after that.
+The period a star spends in those latter two
+phases varies a lot but will generally be
+more than a percent but less than 10% of their
+main sequence period.
+So shorter but not so short we want to ignore
+these objects for colonization.
+Indeed stars the mass of our sun might see
+these late periods last a full billion years,
+whereas a star just twice as massive as our
+sun will barely live a billion years on the
+main sequence.
+Stars smaller than our own stun, which is
+the vast majority of them, will have even
+longer red giant phases.
+Though interestingly since stars the mass
+of our sun live 10 billion years before going
+red giant, and the Universe has only been
+forming stars for a few billion years longer
+than that, there are no red giants formed
+from stars 10% less massive than our sun,
+and few even of our size.
+The universe just isn’t old enough for these
+to have come to exist yet.
+Yet red giants, and subgiants, are quite common,
+indeed they will generally be more common
+than stars twice as massive as our Sun simply
+because those are so short lived.
+So our primary interest today will be to look
+at these three categories of stars: First,
+those stars 2 to 8 times more massive than
+our own sun but not big enough to go supernova
+and which are also still on the main sequence,
+which are not proper giants under the nomenclature
+we explained earlier.
+Second, the sub-giants, which are that range
+leaving the main sequence but not true giants
+yet, and a fairly distinct category.
+Third, the red giants, those stars now burning
+helium.
+We will ignore the main sequence Stellar Classes
+of F, G, and K, G being our Sun and F being
+those a bit bigger while K a bit smaller.
+Incidentally each stellar classification,
+like F, G, and K, also divides into 10 sub-types,
+0-9, with 0 hottest and 9 coldest.
+Our Sun is a G-2 Type V sun, the 5 being in
+roman numerals and thus folks often will incorrectly
+say “V” and that indicates a star on the
+main sequence, or a star burning hydrogen
+in its core.
+I’m guilty of doing that myself incidentally,
+I made note that B2V stars are the ones on
+the cusp of being able to go supernova, and
+thus for discussion in that future episode,
+and everytime I look at it I mentally pronounce
+it as “B2-V”, bad habit but also a common
+one even with astronomers in my experience.
+A III in roman numerals indicates a giant,
+a IV a subgiant, in the Yerkes Luminosity
+Class, 0, I, and II are hypergiants and supergiants,
+and we will save those for another day.
+Today we will look at 3 example stars, Vega,
+Procyon, and Arcturus, the 5th, 8th, and 4th
+brightest stars in the night sky respectively,
+and an example of a larger main sequence star,
+a subgiant, and a red giant, again respectively.
+Incidentally the brightest star, Sirius, is
+fairly similar to Vega but wasn’t selected
+today as an example, even though it’s closer,
+because it is a binary with a white dwarf
+companion.
+We will talk about binary systems today but
+I wanted to start with single-system examples.
+You can also see our Stellar Compendium episode
+for a deeper dive into star classification
+and history.
+Vega is a type A-0 star, the hottest of A
+type stars, and is 2.1 times more massive
+than our sun, 2.4 times wider, and fully 40
+times brighter.
+Vega is only 25 light years from Earth, making
+it pretty close as things go and the reason
+why it is the fifth brightest star in our
+sky without being a giant of any type.
+It is our closest example for today, but there
+are still over a hundred star systems closer
+to us, and we will want to start by asking
+what Vega has going for it to appeal to would-be
+colonists, these future Vegans?
+Of course proximity is the top of that list,
+and fame too, there are good odds all the
+named stars that are regularly and easily
+visible to the naked eye will be easier to
+find colonists for, and Vega again is the
+fifth brightest star and also used to be our
+north star several thousand years ago and
+will be again in several thousand more.
+Incidentally, Polaris, the current northernmost
+star, is a yellow supergiant 5 times more
+massive than our own sun, or includes a yellow
+supergiant, it is a triple-star system and
+we’ll return to it later today too.
+Vega is surprisingly low in metallicity – elements
+heavier than hydrogen or helium – for a
+star as young as it is.
+Usually the older a star is, the less metallicity
+it has, as the Universe had less of such elements
+earlier on, but that’s only a general rule
+of thumb, a star’s metallicity is mostly
+determined by the nearest supernova in whatever
+Nebula it formed from, but as the Universe
+ages the overall metallicity rises.
+Vega is about half a billion years old, about
+a tenth our Sun’s age, but is also about
+halfway through its life, same as our Sun.
+It started to shine about the time life was
+crawling out of our oceans.
+While it’s metallicity is fairly low for
+a star so young, it does have a thick circumstellar
+disk of dust, which results in an excess emission
+of infrared light emitted from that dust after
+it absorbs sunlight, and indeed stars with
+this behavior are termed “Vega-like stars”.
+Other interesting notes, Vega was the first
+star besides our sun ever photographed, and
+it also varies in brightness quite a lot,
+and rotates very rapidly, about twice a day
+compared to the monthly rotational rate of
+our Sun, though exact rotation velocity is
+hard to see because Vega not only is up near
+our celestial north pole, but also has its
+own polar axis pointing toward us.
+We’re not sure what the cause of the dust
+ring is, but the most popular solution is
+that it’s from a planetary collision.
+The inner boundary of that debris ring is
+fully 100 AU out, a hundred times further
+from Vega than Earth is from our Sun, so this
+is more like a Kuiper Belt than an Asteroid
+Belt, even accounting for Vega being brighter.
+We suspect Vega of having planets but it is
+basically at the worst possible angle to use
+for detection, showing us its poles not its
+equator, and while that is handy for detecting
+a big ring of dust around it, that is awful
+for planetary detection.
+This is where Habitable Zones come into play.
+Now the Habitable Zone of a star system, or
+Goldilocks Zone, or CHZ, Circumstellar Habitable
+Zone, is hypothetically where a planet could
+be in terms of distance from its star and
+support life, but specifically is where we
+think a planet could be and have liquid water
+on its surface, and that’s vague too, estimates
+vary from as little as just a few percent
+closer or further from the Sun than Earth
+is to as much as ten times further out.
+Since today we are not contemplating stars
+with naturally evolved civilizations around
+them – Vega for instance is not even a giant
+star yet and still will only live around a
+billion years, we might as well be on the
+more generous side of habitable zones.
+Planets we could as easily terraform to be
+Earthlike as Mars or Venus, without using
+solar mirrors or shades, in favor of manipulating
+the atmosphere’s insulative traits and just
+adapting to a warmer or colder climate.
+We will keep it fairly round at half the distance
+to twice the distance from the Sun as Earth
+is, in terms of relative brightness anyway.
+A star twice the distance from our Sun only
+gets a quarter of the light, and one half
+the distance, four times the light.
+Vega though gives off 40 times the light our
+Sun does, and thus to get the light Earth
+does, a planet would need to be 6.33 AU away,
+further from Vega than Jupiter is from our
+Sun.
+If we are assuming our Sun’s habitable Zone
+was half an AU to 2 AU, then Vega’s analog
+would be about 3 AU to 13 AU.
+That is an enormous range, and would still
+be big enough for multiple planets to be in
+it if we picked a more constrained CHZ width
+of something like a tenth closer or further
+from its sun, not double or half as we did.
+Incidentally the year length will vary a lot.
+In our system, a planet twice as far from
+the Sun has a year of almost 3 Earth years,
+while a planet half as far from the Sun would
+have a year of only about 4 months.
+That would be the upper and lower lengths
+of years on the Goldilocks Zone of our Sun
+for our picked lighting of a fourth to four
+times what Earth gets.
+Alternatively around Vega, the Earth-like
+year length is 11 Earth years long, and would
+vary from 4 years to 32 years on the inner
+and outer edge of Vega’s Goldilocks Zone.
+The more massive an object is, the more quickly
+things orbit at a given distance.
+But that period goes with the square root
+of mass, a star needs to be 4 times more massive
+than our Sun to make a planet orbit in half
+the time at the same distance, and a hundred
+times more massive to make it orbit in a tenth
+the time, again at the same distance.
+However, luminosity of a star rises far faster,
+at somewhere between the cube and fourth power
+of mass, and brightness only falls off with
+the inverse square of distance, thus the brighter
+stars are, the longer the year length they
+will have for habitable planets.
+In many of our bigger examples, especially
+of red giants whose brightness rises even
+though their mass stays the same, habitable
+zone year lengths will rise to centuries or
+even millennia.
+Now that is important for a couple reasons.
+First, such long years help emphasize why
+we can pack so many planets into these system’s
+habitable zones, they have an enormous volume
+of space and slow orbits so that planetary
+perturbation and merger or collisions should
+be relatively reduced, add into that the shorter
+lifetimes for such perturbations and collisions
+to have occurred in and you might get systems
+swimming with planets.
+Second, such long years make seasonal variation
+pretty extreme and argues against habitable
+zones being quite that wide as we offered
+earlier, half to double.
+We can contemplate lifeforms able to survive
+cold hibernation of months, but centuries
+is another story, and we formally begin our
+summer and winter seasons with the longest
+and shortest day of the year because it takes
+time for the planet’s temperature to catch
+up to whatever the temperature should be for
+that increase or decrease in lighting, but
+it takes a month or two, and would on a planet
+around a brighter star too, even if that planet
+had a century between its solstices.
+Again it does not matter as much as it did
+when looking at red dwarfs or other yellow
+suns like ours because we are not talking
+about naturally occurring life.
+Vega is on the small side for main sequence
+“giants” for today’s use of giant to
+include just stars 2-8 times as massive as
+our own and still main sequence, but a star
+8 times more massive won’t live about a
+billion years, it will live more like 50 million
+years, less time than it has been since the
+dinosaurs exited the stage, not even enough
+time for a planet to have finished coalescing
+and cooling to form a planet water could be
+on.
+So we’re just not talking about natural
+life, only what we add, barring maybe the
+simplest microbes for the smaller stellar
+examples like Vega.
+On the far end, up around 8 solar masses where
+stars begin ending their lives as supernova,
+and only live tens of millions of years, we
+have plenty of examples because they are so
+easy to see far away, but they are rare, there’s
+only Vega at the top of the A-type stars and
+beyond then it goes into the B-type blue stars,
+and out of the over ten thousand stars within
+a hundred light years of us, only a handful
+are B-type: Regulus, Algorab, Algol, and Alpheratz,
+and none of those 4 are even 4 solar masses.
+Such stars, and those more massive yet, also
+tend to be multi-star systems more often than
+not, which can often have a big impact on
+habitable zones.
+Again Polaris, the North Star, would be one
+such example, and with its three stars all
+nominally inside each other's habitable zones
+it's difficult to imagine any stable planets
+around them.
+Two binaries in close orbit, which is common,
+just have a wider habitable zone for planets
+that orbit both, while those in distant orbits,
+also common enough, would have two separate
+habitable zones nowhere near each other, but
+those in the medium distance can have habitable
+zones overlapping or nearly touching and you
+could get some weird examples where a planet
+orbiting one star would have been a bit too
+cold on its own just from that star but was
+warmed enough by the other to be habitable
+and have a double seasonal cycle based on
+its normal year and axial tilt, and how often
+that other Sun was nearer or further from
+it too.
+The rough border zone for stars to go Supernova,
+and thus for discussion in our next episode
+on Killing Stars, is those that are main sequence
+B2 stars.
+Just a bit smaller, the nearest B3’s are
+Alpha Pavonis, also called Peacock, at 180
+light years away, at 5.9 Solar Masses and
+Alkaid, the leftmost star in the Big Dipper,
+at 6.1 solar masses and just over 100 light
+years away, neither could go supernova at
+that mass.
+If you found an Earth-like planet, in terms
+of lighting, around Alpha Pavonis or Peacock,
+that planet would need to be orbiting 47 AU
+out – well beyond Pluto’s distance – and
+would orbit Peacock every 130 years.
+Such a planet would need a strong ozone layer
+from the sheer amount of Ultraviolet light
+it would get from this star being 3 times
+hotter than our own with a correspondingly
+blue-shifted spectrum.
+Using our half and double distance habitable
+zone range, planets in it would orbit between
+45 to 370 years.
+Values are a bit iffy here too, as we suspect
+it of being a close binary.
+Should we colonize such systems?
+And if so, how?
+Well it's common to say no given how short
+a time they live, and yet I think that’s
+an example of how often we let our non-intuitive
+sense of astronomic scales of space and time
+interfere in our thinking.
+Some star might only live 50 million years,
+but that’s still nearly a million times
+longer than you or I would live and represents
+a couple million generations for humanity.
+We have only had a couple hundred generations
+of recorded history, and that’s being generous
+given that you could barely fill a single
+book with all the recorded history of the
+first half of that.
+Humanity has been around a lot longer than
+that, but even a generous definition of human
+probably only could be stretched to a hundred
+thousand generations or so, and thus still
+only represent a few percent of the lifespans
+of these shorter lived stars.
+Indeed even the shortest lived stars, the
+genuine supergiants that go boom, live around
+as long as humanity has been around.
+Given that, it's hard to argue it doesn’t
+make sense to colonize these stars.
+Their planets might not be ideal for terraforming,
+numerous though they are likely to be, simply
+as they might not be done cooling and there
+are likely to be a lot of protoplanets and
+dwarfs still hanging around that haven’t
+merged or been collected as moons yet too.
+However such stars give off dozens or even
+thousands of times more light than our Sun
+does, and likely will have far more available
+mass orbiting them to build stuff like megastructures,
+space habitats, and solar collectors out off.
+We build houses and call them old if they’ve
+been around a century, spending decades building
+an O’Neill Cylinder and knowing it will
+only be in service 50 million years wouldn’t
+seem like something that would stop folks
+building one, especially given that it would
+seem unlikely they would last that long without
+far more maintenance invested into them then
+went into building them originally.
+Even outright artificial planet construction
+taking millenia, like shell worlds, would
+still seem a very good investment.
+Such things are mobile too, if it comes down
+to it, though we will discuss evacuating planets
+in the follow up episode Killing Stars.
+Now it is fairly common to start referring
+to stars in this mass range or higher as blue
+giants, even if they are main sequence, but
+the classification system that has roman numeral
+V or 5 as a main sequence, the Yerkes Luminosity
+Classes, has III as normal giants and meaning
+something fairly specific for that, typically
+red giants like Arcturus, which we will get
+to in a moment, but between those we have
+the sub-giants, like Procyon, and here we
+have stars already on their way out of the
+main sequence where it would seem less wise
+to invest in a colony.
+Procyon is just 11.5 light years away, one
+of the 53 star systems and 78 known stars
+– some being binary – within 5 parsecs
+or 16.3 light years that we designate as our
+neighboring stars and first colonial targets.
+50 of those are red dwarfs, 11 are known brown
+dwarfs – and there are probably many more,
+and these are also interesting colonial targets
+we’ll look at more in Exo-Stellar Civilizations
+– 4 are white dwarfs, and only a dozen other
+are larger stars.
+Procyon is a star just leaving the main sequence
+and entering the sub-giant phase, and it also
+has one of those white dwarfs stars too, Procyon
+B, as a companion.
+However the white dwarf is a distant companion
+with an orbital period of 41 years, and our
+Sun is 2000 times brighter than Procyon B
+so it would have no effect on planets close
+to Procyon A in terms of temperature.
+However it is very eccentric and gets as close
+as 9 AU to its partner, so on a habitable
+planet around the primary it could be as close
+a 5 or 6 AU at times and thus while it would
+seem 50,000 times dimmer than our Sun, it
+would still be several times brighter than
+our Moon.
+It also still has a lot of mass and would
+be very disruptive to planets in the habitable
+zone of Procyon A.
+It's also a dead remnant, and would have been
+the bigger of the pair beforehand, as it died
+first, we estimate it would have been 2.6
+Solar Masses, compared to Procyon A’s 1.5,
+and we believe it left the main sequence about
+a billion years ago, with both stars being
+just under 2 billion years old.
+Procyon B is now doing the same, and is about
+7 times brighter than our Sun, whereas a main
+sequence star of its mass would generally
+be more like 4 times as bright.
+Though stars get brighter as they age and
+their cores begin to deplete of hydrogen,
+they still have a lot of hydrogen left as
+they get to subgiant phase but less of it
+so the core gets hotter as it begins to crunch
+down and increase the fusion rate.
+For such stars, this is not necessarily terminal
+for life living around them, but a planet
+that evolved life when that star was young
+will receive double or more light and solar
+wind hitting it to strip off atmospheres and
+so on.
+They are certainly colonizable but you know
+the end is coming.
+However, this is a phase every star that can
+go red giant will go through and it lasts
+a fraction of that star’s lifetime, meaning
+for most of the stars that will go subgiant,
+this phase lasts longer than those B-type
+giants we were just discussing that only live
+tens of million of years.
+So I would say yes you would certainly colonize
+such a system, but I do not know that you
+would bother with terraforming its planets.
+You could, of course, keep terraformed planets
+around a subgiant or even a red giant, but
+as we often discuss on the show, planets are
+not the ideal method of making living space
+so I would tend to assume folks really determined
+to go the effort of terraforming a planet
+would be more worried about the long term
+aspect, and even if such a terraformed planet
+might have tens of millions of years left
+before the red giant phase began, I suspect
+they might opt for another system, given that
+there’s no shortage of them.
+Not even 1 in 10 stars is massive enough to
+be subgiant yet, even if they formed at the
+dawn of the galaxy, and most stars did not,
+stellar formation rates are fairly constant.
+For those less focused on planets these systems
+make very nice targets for colonization, lots
+of light, plenty of room and raw material,
+and since most artificial habitats are essentially
+spaceships, if you built one sturdy enough
+it could last for a hundred million years,
+you can just pick it up and move it when the
+subgiant and giant phases end, as well as
+moving it outward gradually as those stars
+brighten.
+Now let’s get into the first true giants
+in classic astronomy, our red giants.
+Arcturus is a red giant 37 light years from
+us, of spectral type K0, which would actually
+make it an orange giant bordering on yellow
+giant, being right on the edge of the K and
+G stellar classes, but it gets called a red
+giant and I’m not sure if I’ve ever heard
+the term ‘orange giant’ used.
+I mention that though because it means that
+Arcturus’ light spectrum is pretty close
+to our own.
+Arcturus is old, around 7 billion years, and
+8% more massive than our own sun, thus why
+it is already going red giant at only 7 billion
+years of age.
+It is currently 25 times wider and 170 times
+brighter than our Sun.
+At only 10% more massive we can mostly ignore
+orbital period changes, and simply note that
+Earth would need to be 13 AU from this Star
+to get the same lighting and that’s it habitable
+zone would basically be your Saturn through
+Uranus distances, with planets orbiting it
+having years of multiple decades to perhaps
+a century.
+Red Giants are the end of life phase for stars
+over a quarter of a solar mass, though as
+I just mentioned, Arcturus is not actually
+‘red’, hovering in the orange to yellow
+stellar classification and the biggest and
+brightest stars, those so massive as to go
+Supernova, do expand too but are still so
+hot we start calling them yellow supergiant
+or blue supergiants, but we’ll discuss supergiants
+next time.
+Can we colonize these red giant stars?
+Yes, certainly.
+Should we?
+Again, yes certainly, and in many cases they
+will have habitable planets around them as
+they slowly warm up.
+Some longer lived red giants might have once
+frozen planets that slowly thawed and did
+so over a long enough timeline that native
+life could evolve there.
+They give off tons of light, making them nice
+candidates for Dyson Swarms, and likely will
+have plenty of raw materials around them too.
+Our Sun might expand enough to get Mercury
+and Venus and even maybe Earth but that’s
+not the majority of raw material in the solar
+system.
+Now red giants are often thought of as the
+death throes of a star, but it should be noted
+this phase can last as long as a billion years,
+indeed longer on smaller stars though again
+none have yet gone red giant, the Universe
+is too young.
+A star’s red giant phase is shorter than
+its main sequence phase but it is still a
+very long period, and for most stars, their
+red giant phase will be longer than the lifetimes
+of stars like Regulus, or even Vega.
+This is the period where they are burning
+helium rather than hydrogen, though that’s
+way down in their core, and at this point
+that star is a big thin blob you could literally
+fly through.
+What we normally think of as the surface of
+our Sun, or any star, is just where the light
+comes from, it’s very thin even compared
+to air, not some solid you’d fall into and
+burn up in like we tend to picture with someone
+falling into a vat of molten metal.
+If it weren’t for all the radiation burning
+you on the way down you could fall very deep
+into a star and this is even more true in
+a red giant.
+They are so spread out you could literally
+run a spaceship through one without burning
+up and doing this as a way to slow down their
+ship or turn it.
+Indeed planets ‘swallowed’ by expanding
+red giants would endure for centuries, continue
+to orbit that star, albeit as cinders, while
+orbiting inside that star.
+What’s truly interesting about these stars
+though is that they might be what we choose
+to colonize first, rushing to get out to them
+not because their time is almost up, but rather
+because they permit us to reach them first.
+These are common types of stars to find, and
+decently evenly distributed, and if we’re
+thinking of sectors of space a couple hundred
+light years across containing several thousand
+stars, odds are good you will have a couple
+red giants in here and one of them will be
+ground zero for colony ships, and as such,
+likely the local capital or spawning point
+for other colonies.
+Why is that?
+We have often talked about being able to boost
+ships up to very high-speed using known technology
+by using laser propulsion systems.
+This means if you are willing to build up
+your space infrastructure enough to shine
+lasers on your ships as they leave their home
+system they can be pushed up to as fast a
+speed as your ships ability to detect and
+handle space debris would permit.
+There’s no real limit on how fast you can
+go, and it lets you go much faster than a
+classic rocket would permit, be it chemical
+or fusion powered, but there is a problem,
+you need some way to slow down and if you’re
+approaching a new system, there is no laser
+braking system to do that yet.
+We contemplated some methods for doing that
+back in our episode Exodus Fleet, but crashing
+into a star might work well too.
+In last week’s episode on Orbital Bombardment
+I mentioned that one alternative to aerobraking
+is what we call lithobraking, which is where
+you slow a ship down by slamming it into rocks.
+Ramming a spaceship into a star, especially
+at very high speeds, would seem even more
+crazy but in truth it’s not a bad way to
+do it.
+At those speeds the temperature of the star
+is essentially irrelevant, especially if your
+ship is shiny to reflect light away.
+Indeed there are large tracts of essentially
+empty interstellar space at a higher temperature
+than a red giant’s surface.
+What matters is that it’s a thick bit of
+gas, compared to interstellar space, but not
+too thick, so a ship might be able to pass
+through one’s outer skin and get rid of
+a lot of speed, essentially as much as their
+current speed allowed them to drop while running
+the diameter of that star at whatever acceleration
+rate they could bear.
+I wouldn’t want to try to come down from
+near-light speed this way but even things
+moving at about 10% of light speed should
+be able to brake down to a complete halt for
+just the cost of a heat shield using this
+method, though this is a very rapid deceleration
+and is probably better suited for something
+automated and unmanned.
+Other methods for braking ships that we have
+looked at, see our Episode Exodus Fleet, would
+also work better on a red giant system than
+a normal star, such as those that focus on
+solar wind.
+Being very bright and emitting lots of solar
+wind, a vessel could begin slowing sooner
+out and faster with conventional light sails
+and braking using the solar wind than in other
+star systems, then plunge through the star
+to take off more speed.
+This also works well in tandem with sending
+some automated probe out just ahead of you
+into the solar system which can break this
+way, undergoing higher g-forces, then deploy
+as a stellaser to slow the mothership down.
+Even if the ship can’t achieve total deceleration
+using ones of these methods and has to use
+on board fuel, it will be able to slow down
+from a higher speed than any twin ship relying
+only on that fuel.
+As a result, since it is very likely that
+systems will be colonized by ships approaching
+them as fast as their braking technique will
+safely allow, rather than as fast as we could
+make them move, then red giants would be the
+fastest stars to reach and the first things
+colonized in any volume of space far from
+Earth.
+Red Giants produce anywhere from hundreds
+to thousands of times the light and energy
+that our Sun does, and will likely be the
+first reached and with all that available
+energy are ideal for setting up huge laser
+pushing systems to slow more incoming ships
+or help turn them or send them on their way
+to other neighboring stars.
+They might be natural hubs for the vast Interstellar
+Cycler castles we discussed in interstellar
+trade, and many of these red giants, subgiants,
+and bigger stars like Vega may have vast planetary
+systems and potentially orders of magnitude
+more raw material than most systems do.
+They will frequently have companion stars
+too, many of which might be full solar systems
+in their own right.
+Such systems make up the minority of stars
+by far, but may be the glowing capitals of
+stellar empires, even around these dying stars,
+which may serve as the birth spot for new
+stellar civilizations arriving from distant
+Earth.
+Of course they are dying stars, and we will
+continue this series by looking at how to
+avoid that problem, how to mine stars, evacuate
+systems threatened by ones that exploded,
+how to prevent those explosions, how to move
+or kill such stars, and how civilizations
+might live without stars, in our future episodes.
+So after I finished the script up for today’s
+episode I came up with another reason why
+you might aim to colonize giant stars and
+that’s for their military applications in
+terms of dominating that region of space or
+sterilizing the galaxy.
+This episode’s already overly long though
+and I suspect our episodes have been getting
+a bit too close to what Youtube’s AI starts
+demonetizing or lowering in the algorithms
+as violent, what with last week’s episode
+being on blowing up the planet and next week’s
+being on the future of warfare, and the one
+after that being about Killing Stars.
+So I am going to include that discussion of
+the military advantages of Giant Stars in
+our Nebula version as an extended edition.
+Worries over what Youtube permits or being
+able to add bonus material or try out new
+things is why a bunch of us creators got together
+to found Nebula, our Streaming service, and
+thanks to our audiences it’s been growing
+strongly and letting a lot of Youtubers enjoy
+greater creative freedom, and you can see
+a lot of extended and original material from
+folks like Joe Scott, Jade from Up and Atom,
+Minute Physics, Real Engineering, Braincraft,
+Mustard and more . We have also partnered
+up with Curiositystream, the leader in educational
+streaming content, to bring you both Curiositystream
+and Nebula for free while you’re a curiositystream
+user.
+There’s a lot of original and extended content
+on Nebula by creators, like our own Coexistence
+with Alien series, and our regular episodes
+play there ad-free.
+If you like this episode, the Nebula version
+removes this ad entirely and replaces it with
+the extended version where we’ll discuss
+the military advantages of these systems.
+As I mentioned we’ve been revisiting the
+topic of space warfare recently and there’s
+some great video on that topic over on Curiositystream,
+like “World War A: Aliens Invade Earth”
+where leading scientists weigh in on the scenarios
+that might unfold if aliens found us and visited.
+Curiosity Stream has thousands of fun and
+educational videos, and they have partnered
+up with us at Nebula, our Streamy-Award Nominated
+streaming service, to offer Nebula’s content
+along with their own, if you sign up at the
+link in the episode description.
+That means you will not only get Curiosity
+Stream, and at a 26% discount, but also lets
+you catch SFIA episodes a couple days early
+and without ads, and helps support our show
+while you’re doing it, not to mention getting
+to see our extended version of today’s episode.
+Again you can get a year of both Curiositystream
+and Nebula for less than $15, get to support
+the show and see our episodes early, and get
+all that for less than $15 by using the link
+in the episode’s description.
+As a quick sidenote before we get to our schedule,
+and on the topic of enclosing giant stars,
+I’ve often mentioned that the Dyson Dilemma
+of the Fermi Paradox is essentially asking
+why we can see any stars in the Night Sky,
+since older civilizations should have surrounded
+them all in Dyson Spheres by now, and we saw
+the advantages to doing that to even very
+big and short lived stars today.
+I often joke that I wish I hadn’t named
+it the Dyson Dilemma but that “The Dark
+Night Sky Paradox” was already taken, also
+known as Olber’s Paradox, which asks why
+we have as dark a sky as we do and haven’t
+been incinerated by the Universe’s combined
+sunlight yet.
+I’ve been meaning to do an episode on it
+forever but it kept getting put off for other
+projects, and I’m very glad to say my friend
+Jade from Up and Atom recently did an episode
+on it, which I’ll link in this episode.
+Jade’s one of those folks like Joe Scott,
+Cody don Reeder, Fraser Cain, and John Michael
+Godier I’ve known since the early days of
+the show and collaborated with before, on
+our episode on Boltzmann Brains and the Anthropic
+Principle, and if you haven’t already seen
+her work, I’m sure you’ll love it.
+So that will wrap up our episodes for the
+month, but we still have our Livestream Q&A
+this Sunday, February 28th, at 4 pm Eastern
+time, for you to get your questions answered
+live.
+Then we’ll leap into March to continue our
+look at the future of combat with “The Next
+Century of War” followed by the sequels
+to today’s episode “Killing Stars” on
+March 11th and Exo-stellar Civilizations on
+Sunday, March 14th.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us iTunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

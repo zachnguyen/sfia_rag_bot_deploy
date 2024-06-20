@@ -1,0 +1,748 @@
+It’s hard enough figuring out who we are
+now.
+In the future, we’ll also have to contend
+with who else is you too.
+So today we will be looking at the concept
+of transferring or uploading your mind to
+a computer, and we’ll be digging into basic
+science of how we might do that along with
+the many philosophical and ethical concerns
+that often come up on the topic.
+We will also be looking at some that sadly
+tend to get skipped a lot and raise even more
+existential concerns.
+Now this is hardly a new topic for us.
+After the Fermi Paradox and how to get into
+space and all the cool and huge things you
+can build up there, cybernetics, AI, transhumanism
+and so on is probably the topic we look at
+the most.
+However we typically treat mind uploading
+as a quick sub-topic of a larger topic and
+skim over it, and I felt it deserved a primary
+focus for a change.
+It’s a popular topic in fiction too, and
+if you throw in brain transplants into robots
+or other bodies, it goes back to the dawn
+of science fiction.
+Typically it gets a pretty pessimistic portrayal,
+and I’m not going to be portraying it in
+the rosiest of lights today either, but in
+most fiction simply by doing it one inevitably
+goes down a path toward madness or evil.
+In more recent years it’s gotten a better
+portrayal, often as one with no downsides
+or problems, which I think is not a fair view
+either.
+New technology generally solves more problems
+than it creates, but it still creates new
+problems.
+That’s a major theme of our look at post-scarcity
+civilizations this year, that even if you
+avoid utter catastrophes with new technology,
+even apparent utopias still have their problems.
+For my part I appreciate fiction that tries
+to take an even-handed approach to new tech
+and how it might alter our lives, rather than
+sugar-coat or wave away problems or just assume
+a given technology is unusable and inherently
+evil.
+One of the best new authors for that is Dennis
+E. Taylor, who is a welcome addition to the
+hard sci-fi genre.
+I was introduced to his work by members of
+our audience here and have recommended his
+first trilogy, the Bobiverse, in prior episodes.
+I’ve gotten to know the author since and
+was lucky enough to get an advanced copy of
+his newest novel, the Singularity Trap, and
+as soon as I finished listening to it I messaged
+him how great it was and realized afterwards
+it was 6 in the morning.
+It’s a great book, one that covers a lot
+of the themes we discuss on the channel, and
+while he treats the topics seriously, there’s
+also always a light-hearted and humorous tone
+to his work I appreciate.
+The Singularity Trap just came out, and is
+exclusively available on Audible for now,
+but you can pick up a free copy of the Singularity
+Trap today, and also get a 30-day trial of
+Audible, just use my link, Audible.com/Isaac
+or text isaac to 500-500.
+In order to discuss mind uploading we first
+must ask what a mind is, where it is, and
+what you’d be moving it to.
+A key point to hit from the outset is that
+the mind and the brain are not synonymous,
+the one is not necessarily the other.
+This is good place to introduce a term that
+gets used a lot in these discussions, and
+that’s substrate.
+Substrate is a term with a lot meanings, depending
+on your field, but typically means the thing
+lying underneath something else that it’s
+built on, or in printing, the medium something
+is printed on, like paper or parchment.
+In the case of our minds, the only substrate
+we currently have is our brains, that squishy
+grey lump in your head.
+In the future, that could change, though.
+Now, it’s not unusual to say that the mind
+is essentially software and the brain the
+hardware it runs on, but that’s oversimplified
+and why we prefer to use the term substrate.
+I can print words on to paper but I can also
+print them on a T-shirt or the side of a mug,
+in this digital age we often tend to forget
+how much text or an image can be altered by
+the medium or substrate it exists on, and
+of course the ground you build a house on
+or grow your crops in can impact both a lot
+too.
+This is vastly more true for something dynamic
+and ever-changing like our minds, which are
+heavily impacted not only by the format and
+function of our brain, but also by our bodies
+and our hormones.
+However, it’s not just obvious stuff like
+getting nutrients and energy to run a brain
+on from our body, or even how our hormones
+can alter our thinking.
+Your height for instance, as most of us can
+recall from our childhood, alters your perspective
+on the world in both a literal and metaphorical
+way.
+So too, a person with very good vision sees
+the world very differently than someone with
+impaired vision or who is blind.
+Our bodies impact our thinking a lot, and
+whether you tilt toward nature or nurture,
+hereditary or environment, as the dominant
+factor in a person’s worldview, both are
+inseparable from that body.
+So when we talk about replacing it with something
+cybernetic or uploading the mind to a computer,
+we have to take into account problems which
+would arise either by leaving that body out,
+or by not emulating it well enough.
+Failure to do so could cause serious issues,
+total failure, or rampant insanity in the
+uploaded mind.
+Your computer runs an operating system, like
+Windows, MacOS or Linux, which has been written
+by programmers from the ground up.
+To complicate matters, our minds aren’t
+like that.
+Instead, they are a product of our evolution.
+They have been created and refined in the
+crucible of selection over billions of years.
+So, if a mutation meant, for example, that
+we got better at remembering where our food
+was stored, how to trick our prey, react faster
+to a predator that was trying to eat our ancestors,
+or used less energy to think, they thrived
+that little bit better than the other individuals
+who didn’t have those mutations.
+Those with the beneficial mutation survived
+to pass their genes onto the following generation.
+A lot of the makeup of our minds are a product
+of things we might never understand, a reason
+buried deep in our genetic past that gave
+our ancestors an edge over whatever problem
+or calamity was facing them at the time.
+Evolutionary leaps also added new functionality
+to our brains, producing reptilian, mammalian,
+and primate layers which must communicate
+with each other.
+Much of our individual personalities may be
+a result of how these areas interact.
+Our minds don’t come with instruction manuals
+or documented code.
+Even so, our minds have made us the successful
+apex species we are today, but they are more
+like Heath Robinson contraptions, products
+of a mad scientist, than the relatively well
+ordered, documented computer programs that
+run on our computers.
+Emulation is another term to add in here,
+as we often talk about emulating the mind,
+or emulating the whole body, and it often
+accidentally gets used as basically meaning
+to run or operate, when emulation is a bit
+more specific.
+You are attempting to replicate the operating
+conditions with something else when emulating,
+and this often means a loss in efficiency
+or an addition of complexity in order to do
+that.
+You can emulate a screwdriver with a butter
+knife, or vice-versa, but it’s kind of clunky.
+You can emulate a book with a Kindle or other
+e-book reader, but while that lets you carry
+around thousands of novels, clearly better,
+there is a different feel to it, and the originals
+were often poor substitutes.
+So often the benefits far outweigh the downsides,
+and those downsides can often be minimized
+or removed, but a device being emulated by
+another device is often not as efficient as
+the real device.
+Odds are that a mind based on neurons but
+running on neurons being emulated by microchips
+would not function as well as a synthetic
+mind designed to run on those microchips in
+the first place.
+Basically, the human mind is a seemingly random
+collection of junk assembled at random by
+evolution to operate.
+This is why in spite of still being slightly
+more powerful than our best modern supercomputers,
+even our math savants can’t keep up with
+a cheap calculator with less complexity than
+an insect’s brain.
+The flip-side is true too, though.
+Our computers are not the same as our brains
+and we cannot simply run our minds on silicon.
+To do that, we first need to mimic the brain
+itself on the substrate in the computer.
+Emulation is a type of bridge, something that
+allows us to mimic our brains while running
+on a computer substrate.
+That bridge needs to be quite accurate, though
+how accurate is hard to say.
+There may be a lot of wiggle room.
+On the other hand, since we often talk about
+enhancing a mind once its uploaded, it’s
+potentially possible even a small tweak to
+improve performance in a minor area could
+cause insanity, something we talked about
+more in the Cyborgs episode.
+Emulations can be touchy too, you can often
+improve the graphics of an old game by emulation
+on a more powerful modern computer, but it
+often results in system crashes or odd behavior
+from unexpected problems.
+If your goal is specifically to emulate a
+human mind, then efficiency is secondary,
+but if you want an AI that is doing some task
+at a human level, you can probably do it with
+less processing power because we don’t need
+to emulate the brain substrate in the computer.
+Many mental tasks, like physical processes,
+may not require a full human and may actually
+function better when built to that task.
+Much as it’s cheaper to make a machine to
+turn a crank than it is to raise a child to
+be a crank-turner, and this may apply to more
+generalized and abstract things like problem
+solving or creative art too.
+If you want to upload and emulate a brain,
+it’s assumed you need to actually replicate
+the neurons and their connections.
+You craft an emulation of a neuron that completely
+emulates all its necessary functions for thought,
+do that 100 billion times, once for each neuron,
+and now you load a mind to run on those, copying
+the states of the mind’s real neurons and
+the synaptic connections between them.
+A lot of folks have tried to estimate how
+much processing power that would take, many
+of them familiar names here at SFIA like Landauer,
+Kurzweil, Bostrom, and Sandberg, and the major
+approach is the Multiplicative Method, where
+you figure out how much computing you need
+to properly emulate a neuron, in terms of
+how it contributes to thought, then multiply
+that by 100 billion.
+“How it contributes to thought” is debatable,
+your average neuron is composed of a billion,
+billion atoms, but you presumably do not need
+to model each one of those, same as you don’t
+need to model each atom in a concrete road
+or a steel truck chassis to model vehicle
+traffic patterns accurately.
+Choosing which ones to emulate, though, is
+quite a trick but we can make some educated
+guesses.
+In 1999, Kurzweil put the figure at 200 bits
+per second per connection, 1000 connections,
+and 100 billion neurons, or 20 quintillion
+bits per second.
+Or 20 million GigaFLOPS, 20 PetaFLOPS.
+That’s the one we usually use here but many
+argue it’s way too low, and Thagard estimated
+it 5 million times higher in 2002, at 10^23
+FLOPS, reasoning that the number of basic
+computational elements was not the 100 billion
+neurons, but rather the proteins in those
+neurons and that you’d need to model those
+for an accurate emulation.
+In 2006, Tuszynski estimated it even higher,
+way up at 10^28 FLOPS, though while I find
+Thagard’s reasoning for including proteins
+as the base computational unit fairly reasonable,
+I think this last estimate is too high.
+Most discussions of transhumanism you will
+encounter, even here at SFIA, tend to use
+Kurzweill’s lower figure.
+Though it isn’t the lowest nor the only
+approach.
+I am going to attach a link to Sandberg and
+Bostrom’s 2008 paper, “Whole Brain Emulation:
+A Roadmap” in the video description, that’s
+a very good but long paper at 130 pages, but
+in Appendix A they include a table of many
+of the various estimates with appropriate
+citation as to who did it and when and how,
+if you want to see the range of values and
+the reasoning given to judge for yourself.
+You’ll see many values given in MIPS instead
+of FLOPS and I won’t discuss the difference
+between those two here, but they do there,
+lower in the appendix.
+Needless to say the paper is a decade old
+and like most from that period makes some
+fairly optimistic claims about improvements
+in processing speed.
+Right now you can buy a teraflop processor
+for a couple thousand bucks, and if Kurzeweil’s
+figure is right than 20,000 of those would
+let you emulate a human mind for 40 million
+bucks, plus all the additional hardware, plus
+an electric bill that would make the Sierra
+Club weep at a couple thousand bucks per hour.
+Of course that’s all chump change by modern
+computer research budgets so you’re probably
+wondering why no one has done this yet, but
+they’ve certainly been trying, and getting
+pretty close as these things go.
+IBM managed to simulate 500 billion neurons
+and 100 trillion synapses a few years back.
+The hardware appears to be just about there
+now, Moore’s Law might be staggering or
+even dead in recent years but we are just
+about fast enough now and in a decade or so
+should be there
+There’s more to it of course, beginning
+with capturing an image of an actual brain
+to genuinely render, you can have the computational
+power but still need that basic program, as
+it were, same as you can make a 500-page blank
+book fairly quickly but filling that up by
+writing a novel takes much longer, and until
+we’ve done one and have some digital person
+to talk to, we can’t say if that produced
+a solid mind emulation.
+Indeed you’d have to chat with the original
+donor whose mind was copied to see if the
+emulation was really matching up, not just
+an AI, the point of such a thing is not just
+to produce a mind able to act human, but to
+be a true copy of a specific mind, and if
+it is acting very differently than the original,
+ignoring the shock to perception and worldview
+of being uploaded, you didn’t succeed.
+It’s also important not to think of the
+computer as particularly necessary to this
+or a black box.
+The substrate matters, but so long as it is
+emulating neurons, it shouldn’t matter too
+much.
+If we upload someone’s mind, call him Bob,
+to a computer simulating neurons, if done
+correctly it should act the same as the version
+of Bob running on real neurons or some other
+substrate.
+For instance, assume someone has integrated
+a device to convert what you say to the signal
+Bob’s emulated neurons for speech receive,
+and vice-versa for him to reply, you are still
+talking to Bob whether you are talking to
+a cloned copy of his brain sitting in a vat,
+one running on a supercomputer, one being
+handled by a giant hive of ants or vat of
+algae, or one running on people.
+You could be strolling around a crowded planet-city,
+an Ecumenopolis, of a trillion or so folks,
+most of whose job was to take shifts throughout
+the day to play neurons for Bob, stopping
+at restaurant to eat meal and talk to Bob
+on the phone, while effectively sitting inside
+his brain, surrounded by folks who are busy
+doing some tiny piece of Bob’s emulation,
+or on a lunch break from doing so, and have
+their own, totally independent brain that
+Bob can’t see, and you are still talking
+to Bob.
+Indeed on a big enough Ecumenopolis there
+could be many different distributed minds
+running on the place and that restaurant might
+have one or two folks from each mind there,
+and they might be assigned new scripts for
+different neurons, even of different minds,
+every shift.
+So it’s hard to even think of it as being
+inside Bob’s brain.
+His mind still exists though, by any logic
+that permits a brain emulation on a computer,
+it’s just as valid and you can talk to Bob.
+Or a version of Bob anyway.
+Much as I can handwrite a book, the first
+edition, and photocopy it, and that book will
+still exist if I torch the original, we can
+have many Bobs at once, a legion of them.
+Now, the mind is constantly shifting and these
+will diverge too, over time, as they get different
+experiences.
+They can also diverge very quickly if the
+copying process isn’t quite perfect or if
+the shock of the process alters their worldview,
+as suddenly being uploaded to a computer is
+presumably a life-changing event at least
+on par with something like a heart attack
+that makes you revise your diet and exercise
+routine and decide you should focus more on
+family than work.
+Nothing new there, but something that gets
+overlooked occasionally is that simply being
+a copy, and knowing you are, can make you
+act differently.
+In Taylor’s prior trilogy, the protagonist,
+Bob, has each copy pick a new name and being
+a bit of geek, Bob and his copies tend to
+borrow them from science fiction, and as more
+exist, other popular fiction.
+The thing is, many of them put an extra focus
+on being a bit like that person.
+If copy number 100 of me took on the name
+James T. Kirk, 101 might be Picard, and 102
+might pick Sisko.
+I’m very fond of all three of those characters
+and by my very nature will want to stand out
+as an individual, even among copies of myself,
+indeed probably more so.
+I’m also fond of D&D and role-playing games
+so acting out the part a bit for fun would
+come easily enough.
+I’d still be me, at the core, but I could
+easily see Kirk-100 being more brash and daring,
+Picard-101 trying to be thoughtful and diplomatic,
+and Sisko-102 being more confrontational and
+ethically-gray, right from the outset, just
+because I value individuality and diversity
+of opinion, and so not only is that character
+influencing me a bit as a theme, but I’m
+going to try to let that part of me that resembles
+them have more of the lead.
+So that divergence of behavior can happen
+really fast, even in perfect copies, if they
+know they’re copies.
+A person who wants to be a doctor or an astronaut,
+but also has heavy family obligations that
+interfere with that, could copy themselves
+twice and have each follow those paths.
+When they come back they will be changed by
+that, but they will also be different from
+the moment of that assignment.
+If you’ve been awoken and told you are both
+free of all family and social obligations,
+and also told you aren’t too welcome to
+continue those relationships because another
+copy of you is handling that, that mix of
+liberation and exile is going seriously change
+you far more than a typical day will.
+Speaking of astronauts, a common concept nowadays
+is to colonize the galaxy by sending uploaded
+minds.
+They can be packed on compact hard drives
+and later transferred to biological bodies
+to help survive the rigors of the journey,
+and lower costs, and can be beamed at light
+speed to distant colonies.
+In our post-scarcity civilizations discussion,
+we’ve mentioned the dilemma that it might
+be hard to find colonists if life back home
+is a Utopia.
+I don’t find that too plausible, but you
+only need one copy of a colony, a couple of
+hundred volunteers.
+Heck, you only technically need one.
+They will all diverge pretty quickly, there’s
+years of lag time between star systems and
+each will also start at a different time and
+have a different lag time getting news and
+tech updates from back home on Earth, so each
+colony will be pretty different right from
+the outset.
+What’s more, even if you only had a 1,000
+volunteers and needed 500 to fill all the
+roles for a new colony, you ought to have
+a huge number of permutations of specific
+colony composition even considering that you
+might need 2 doctors at each and only have
+7 folks qualified to hold either slot, you’d
+have 21 unique medical teams, more if one
+was the boss and the other was the deputy
+at random, which would give 42.
+If you had a commander for each shift, 3 shifts,
+selected from 20 decent candidates, you’d
+have 1,140 possible trios, but 6,840 possible
+duty rosters, and that matters, because whether
+you are on the morning shift or the evening
+shift alters who you are interacting with.
+Two completely identical colonies, same 500
+people, could turn out very differently.
+In one, Jessica got the morning watch, and
+becomes fast friends with her comm officer
+Jane, and they share a love of pottery and
+start a club that does Ceramics on Wednesday
+evenings, and then since the colony wants
+a unique name rather than a number, and polls
+its crew, that club suggests Kiln and it wins
+the name.
+The planet goes on to take pride in pottery
+and trades in unique hand-crafted pots a lot,
+which many folks back on Earth collect.
+In the other, Jessica get the night shift,
+and her Comm Officer is Jake, and they hit
+it off too but romantically.
+It doesn’t work out though, and they have
+a bad break up, and Jessica is stressed and
+snappish and makes some enemies and Jake,
+being a bit bitter, helps lead those to stage
+a coup.
+Two very different histories from the tiniest
+change.
+This shouldn’t be surprising though, for
+all that we talk about diverse human genetics,
+we are all basically copies of each other
+with very small changes to DNA, we just focus
+on those changes a lot.
+Your DNA contains about a billion bytes of
+information, the equivalent of around 10,000
+books, a good sized library.
+Trying to hunt down those differences between
+you and another human would be like hunting
+through that whole library to find typically
+about one word being different every other
+page, and a lot of those are pretty trivial,
+like replacing the word sphere with ball or
+globe, or large with big or sizable.
+The significant ones are much fewer.
+That divergence is enough to create unique
+people, even before we include environmental
+differences of experience.
+I don’t think you’d have any problems
+coming up with a thousand colonists, especially
+since they don’t have to leave, just include
+a copy for use, but that’s a near infinity
+of options when we toss in obvious differences
+in destinations and challenges too, with years
+of divergence to work with.
+I’d bet I could get the full thousand right
+out of my own audience with room to spare.
+Even if you only got one, though, you could
+just do your copying here, make a few thousand,
+and give them a few years to diverge as they
+all train separately in each needed specialty
+and randomly pick the crew from those and
+ship them off.
+By making copies of the copies for future
+use, you only add to those changes and diversity.
+Another option, as a way to deal with declining
+populations if birth rates tumble because
+people don’t want to raise kids, is you
+just copy people old enough to care for themselves.
+Notice by the way that we are not talking
+about artificial intelligence.
+Someone like this might be able to match one,
+since they could add more processors or be
+sped up to experience subjective centuries
+in minutes, as we’ve discussed in our Transhumanism
+and Cyborg episodes, but they aren’t an
+artificial intelligence.
+Okay, the last major concern on this is always
+about the upload itself and the copying issue,
+along with the idea that you might slowly
+replace a person’s neurons with tiny computers
+instead, the gradual approach.
+As I’ve mentioned before, this is copying,
+I wouldn’t consider an upload of me to be
+me, and of course neither would that upload
+since it shares my views, at least initially.
+He would not regard himself just as a copy
+since I wouldn’t, we’re just two different
+Isaacs, but not everyone shares this view
+and if someone walked in and shot original
+me I would expect my copy to act as original
+Isaac since we both have duties and obligations
+important to us, so he can’t take off to
+Tau Ceti without at least duplicating himself
+again.
+Other folks might feel differently and there’s
+no real way to prove or disprove a lot of
+the varying opinions on this topic.
+My copy acts in accordance with my opinions
+on the matter and in my own case, if it was
+just me and him, we’d break down all the
+things we had to do by what each of us might
+have an easier time handling, then flip a
+coin on the rest, trading them around a bit
+to ensure that we were setup to be functional
+as we diverged, and we’d always introduce
+a random element to decision making.
+Alternatively, if I were gradually replacing
+neurons with computer chips, just having little
+robots scan recently dead or dying neurons
+and then replacing them, I would consider
+that still to be original me, and that seems
+to be the majority view in my experience.
+There’s no real copying going on that doesn’t
+happen all the time by biology, the replacements
+just happen to be of a different substrate.
+So I expect this one to be the more common
+approach for civilization in the future.
+Also, our bodies and brains are constantly
+being refreshed and replaced.
+You would be hard pressed to find atoms in
+your brain that you have had since birth,
+so the concept of completely replacing neurons
+with machines is hardly much different.
+That’s to a point anyway.
+I think most folks would start that way and
+after a while decide they were still themselves
+and order a final rapid conversion of all
+remaining cells, just to get it done with.
+When contemplating this philosophically, whether
+the gradual change takes one century or one
+minute, it’s hard to argue that anything
+different has occurred.
+Of course if some super-powerful laser is
+scanning your brain so hard and accurately
+it is vaporizing a layer of brain at each
+step, and uploading that to a computer, it’s
+very hard to argue that’s functional different.
+Continuity of consciousness is arguably interrupted,
+which it is not if you are just replacing
+a neuron at a time, but by that argument if
+I freeze you and thaw you out a century later,
+or shut down a computer emulating a mind for
+a night and turn it back on, consciousness
+was interrupted too.
+For that matter consciousness is interrupted
+every night you fall asleep, your brain keeps
+going and doing stuff, but you are literally
+unconscious, and I don’t think we can just
+toss that aside as semantics owing to these
+words and terms predating modern science.
+I can’t offer any answers on continuity
+or identity, incidentally.
+That’s been a furious discussion since the
+Ship of Theseus thought problem in Ancient
+Greece, about if replacing components of an
+object makes it cease being that object anymore.
+I consider these to be the sort of things
+you probably can’t prove or disprove.
+Even my own opinions on them mostly represent
+me trying to be pragmatic when contemplating
+these things.
+I can’t prove I have free will either, but
+I take it as a given I do, not because I can
+in anyway prove that, but because I consider
+the alternative, and its implications, to
+have no value.
+In the same way, I can’t prove this reality
+is real, not a dream, but there’s no value
+to me in believing it is a dream, even if
+it is.
+So I come down on whichever side of these
+discussions seems best suited to avoid me
+losing my mind or sense of identity and purpose,
+but I don’t confuse that preference with
+proof.
+I think we’ve got enough food for thought
+for today.
+We could spend whole episodes discussing the
+mechanics or philosophical issues or applications
+of mind-uploading, and we probably will revisit
+the topic and we have looked at some of those
+in other episodes, we’ve also got some great
+books on the topic we’ve recommended before
+and we did recently get around to finally
+compiling an almost complete list of all the
+books I’ve recommended over our 137 official
+episodes and some specials, I’ll link that
+in the episode description too and I would
+appreciate anyone letting me know if there
+any missing or listed wrong.
+However, one of the most fun of those for
+me was the Bobiverse Trilogy by Dennis E.
+Taylor, and his newest novel, the Singularity
+Trap, takes an interesting direction on the
+gradual replacement approach too, along with
+several of the other topics we look at here.
+A novel doesn’t have to be hard science
+fiction for me to enjoy it, but I always like
+seeing more books where the author takes their
+science and research seriously, without dumbing
+it down either, and still have a good time
+with it too.
+However instead of telling you more about
+the book, I’ll turn it over to someone who
+knows it better.
+Singularity Trap touches on things like the
+Fermi Paradox, Uploading, and the questions
+of consciousness and individuality.
+All timely topics in science fiction but a
+long way from what I grew up with.
+As science fiction evolves it is getting simultaneously
+easier and more difficult to write.
+I grew up reading Golden Age science fiction
+with Captain Future and gravitometers and
+Podkayne of Mars and the lush jungles of Venus.
+Those days of swashbuckling spare opera that
+plays fast and loose with science aren’t
+necessarily gone—witness the Star Wars franchise—but
+it can be a lot harder sell now.
+This doesn’t mean there’s a lack of subject
+matter, though.
+Now we have multiverses, Fermi Paradoxes,
+alien biologies, Quantum Weirdness, terraforming,
+megastructures, various forms of ‘punk’,
+post-biological intelligences, and anything
+with “Einstein” in the name.
+But the SF readership is much more educated
+and discerning these days, thanks in part
+to resources like Isaac’s SFIA channel.
+So authors have to do their homework or face
+the possibility of a good old fashion flaming.
+Not that this is in any way a bad thing.
+SF has always been about positing “What
+if this were true” and then running with
+it.
+We are in as much a Golden Age as the days
+of Jack W Campbell and Robert Heinlein.
+Only the specific subject matter has changed,
+not the sense of wonder.
+And Dennis does a great job covering a lot
+of those topics in his novels.
+The newest, The Singularity Trap, is exclusively
+available on Audible right now, and you can
+get a free copy today, just use my link in
+this episode’s description, Audible.com/Isaac
+or text Isaac to 500-500 to get a free book
+and 30 day free trial, and that book is yours
+to keep, whether you stay on with Audible
+or not.
+Next week we will be returning to the Outward
+Bound series for a look at Colonizing Mercury,
+and we’ll discuss some pretty interesting
+ways we can make that barren, sun-scorched
+rock a nice place to live.
+For alerts when that and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a great week!

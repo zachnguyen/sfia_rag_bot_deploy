@@ -1,0 +1,827 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+Dark Matter is the most mysterious substance
+in the Universe, and also what most of it
+seems to be made of, and yet it may be the
+keystone of building future civilizations.
+Dark Matter… we don’t even know what the
+heck the stuff is, so it might seem hard to
+discuss technologies that make use of it.
+At the same time, we do know a few things
+about it with great certainty, and a few more
+with some confidence, and one of those is
+that Dark Matter makes up the vast majority
+of everything in this Universe. Given that
+it does make up most of everything, finding
+ways to use it is likely to be on every civilization’s
+wish list of technological advancements, and
+that’s our main focus for today, how civilizations
+would use this hyper abundant material if
+they could, and in what ways they might.
+For a type of matter that is apparently so
+common, it is rather irritating that we know
+so little about it, and we should probably
+start by talking about what we do know about
+it.
+First, it almost certainly exists. That irritates
+a lot of folks and often raises many objections,
+some are reasonable objections, but some of
+those aren’t terribly valid. As an example,
+we’ve never seen any dark matter directly,
+and that seems a good objection, until one
+remembers that we’ve never seen most of
+Earth directly, including its mantle and core,
+and never hesitate to discuss its interior,
+nor the interior of our sun or any other star.
+We also don’t “See” subatomic particles,
+they’re smaller than light waves and we
+detect them mostly by blowing stuff up and
+looking at the pattern of the wreckage to
+see what could have caused it, so to speak.
+So there are a lot of legitimate objections
+to dark matter and we’ll discuss some of
+them, and discussed more of them a few years
+back in our Dark Matter episode, but the ones
+hinging on us not being able to directly detect
+it aren’t good ones. Most particles we first
+detected were detected by indirect means,
+like picking up gamma rays to prove the mass
+of the electron and positron, after a pair
+of them had collided and emitted those gamma
+rays. Generally we’ve measured the mass
+of other atoms and their interiors by seeing
+how much other charged particles were deflected
+by the protons in their core when passing
+by them.
+Nor is the time argument a good one. Folks
+say we’ve been looking for it for a couple
+decades now and still haven’t found it,
+but that’s not true. We haven’t been looking
+for dark matter unsuccessfully for a couple
+decades, we’ve been looking for dark matter
+unsuccessfully for over a century.
+We have all sorts of particles we hypothesized
+decades before we proved they existed… and
+considerably more we hypothesized and haven’t
+found yet or even ruled out. Dark Matter has
+been bugging us a lot longer, since before
+we even knew what a galaxy was, what subatomic
+particles were, what 2 of the 4 fundamental
+physical forces were, or how those particles
+interacted with those forces or didn’t.
+Way back in 1884 Lord Kelvin estimated that
+there had to be a lot more mass we couldn’t
+see than we could see to explain the velocities
+of stars orbiting the milky way. He didn’t
+assume any type of exotic matter at the time,
+just mundane matter not in stars, and that
+was the general notion for a long time. We
+just assumed it was various things which were
+normal but dark, like interstellar dust or
+planets, or later even stellar remnants. Indeed
+that was one suspected culprit back in Kelvin’s
+day because we assumed stars gave light off
+from being formed very hot and slowly cooling,
+as we had no clue that nuclear fusion took
+place inside stars. Problem was, we did find
+a lot of this mundane dark matter, and it
+never even came close to adding up.
+In modern times, we know that virtually every
+galaxy we can see has a lot more mass than
+the stars we see in it can account for. But
+how do we know that? The calculation uses
+the fact that for an object in a roughly circular
+orbit, the centrifugal force on it is equal
+to the gravitational force it’s subjected
+to by the body it's orbiting. So if we determine
+the distance to the galaxy of interest, we
+can use it’s angular size in our field of
+view to determine its radius. If we observe
+it over time, we can measure the speed of
+the objects orbiting at the galaxy’s edges.
+From the orbital radius and velocity, we calculate
+the centrifugal force, which is equal to the
+gravity exerted on it, which tells us the
+mass of the galaxy. But when we use the starlight
+from a galaxy to determine the numbers and
+types of the stars in it and add up the masses
+of those types, we consistently find that
+the luminous mass of most galaxies is only
+about 1/10 of their gravitational mass.
+We can see the speeds of stars on the outer
+edges orbiting them and we can see how much
+they pull on neighboring galaxies, and every
+alternative answer for it not being gravity
+didn’t work out. Tons were tried.
+Well then we had to ask ourselves what generates
+gravity. In point of fact it isn't actually
+mass, any type of energy generates gravity,
+but mass is one type of energy, under Einstein’s
+E=mc², and all the other types of energy
+except light speed objects like photons are
+associated with mass. For instance you can
+have an awfully lot of kinetic energy on an
+object with mass, but for it to come anywhere
+near paralleling the amount of energy tied
+up in the mass itself, it needs to be moving
+at relativistic speeds. Galaxies are hugely
+massive affairs but even they can’t contain
+objects moving at those speeds for long, so
+your only two remaining options are rotational
+energy of certain very dense objects, like
+black holes, neutron stars, and white dwarfs,
+or the random kinetic energy of particles
+in very hot objects, again like neutrons stars
+and black holes. Only a tiny fraction of stars
+end up as neutron stars and black holes, and
+all known stars combined won’t add up to
+the missing mass, so it's not these stellar
+remnants, there just aren’t enough of them.
+But it also means that missing energy generating
+all that gravity in galaxies has to be mass
+energy.
+Probably, we can’t rule out some other type
+of energy storage besides the known 5, which
+are mass, kinetic, potential, thermal, and
+radiant energy. Dark Energy does not fit the
+bill incidentally, that appears to be evenly
+spread throughout the Universe whereas this
+missing mass we call dark matter clumps in
+galaxies. This is also why we often say it
+has to be cold, which in physics terms and
+context means the individual particles or
+objects of dark matter can’t be moving very
+fast or they would exceed a galaxy’s escape
+velocity and not clump into galaxies, this
+overall motion is random and thus can be thought
+of as heat energy or temperature.
+Galaxies tend to have escape velocities on
+the order of of hundreds of kilometers per
+second, so ‘Cold’ is a rather dubious
+term here, something with the velocity sufficient
+to escape a galaxy and the mass of a proton
+or neutron still has a temperature comparable
+to the inside of a star, in the sense of random
+kinetic energy being heat energy. That’s
+nothing compared to relativistic hot temperatures
+though, and is a bit problematic considering
+we always assume everything in the early Universe
+was ultra hot and cooled down by radiation
+and collision. Dark Matter doesn’t emit
+photons as heat radiation, and do not collide
+with anything, even other bits of dark matter,
+or do so very infrequently.
+Which is the other thing, what is a collision?
+Down at the atomic scale the whole concept
+of physically rigid objects is out of play,
+it just doesn’t mean anything. Collisions
+occur using those fundamental physical forces.
+Not every known particle interacts with all
+of those either. Electrons, and their big
+brothers the muon and Tau particles, along
+with their anti-particles, are what we call
+leptons, and they don’t even notice the
+strong nuclear force that binds quarks together
+to make things like protons and neutrons.
+We have 4 fundamental forces, quarks, and
+thus things made from them, interact with
+all of 4, though many of those constructs,
+like the electrically neutral neutron don’t
+interact much with one of those. In the same
+way, neutrinos don’t interact with the strong
+nuclear or electromagnetic force, just gravity,
+which everything seems to, and the weak nuclear
+force, and the latter so weakly that a neutrino
+could pass through a light year of lead and
+likely make the trip uninterrupted. Our best
+neutrino detection methods manage to nab the
+occasional one interacting with matter, while
+countless trillions will have passed through
+that same spot first.
+Neutrinos move at near light speed, within
+the tiniest fraction of a hairsbreadth of
+light speed, and have only a smidgen of mass,
+less than a millionth of what an electron
+has or a billionth of what a proton or neutron
+has, and a neutrino-antineutrino rest annihilation
+would produce an infrared photon, not the
+millions or billions of times more powerful
+gamma ray photons those other particle produce
+when annihilating with their antimatter opposites.
+They carry far more energy though, and it's
+almost all kinetic energy.
+Neutrinos are not our focus for today, they
+are not dark matter though have been a popular
+suggestion in the past, but if you could make
+a thin foil able to absorb or reflect neutrinos,
+you’d have a rather awesome solar sail,
+and if you could make the equivalent of a
+Laser, a neutrino beam, that would be a great
+way to shove spaceships around, since it would
+mean a super powerful beam only handy for
+ship propulsion, not a giant doomsday beam
+like laser propulsion platforms would be if
+used for militant intent.
+The most popular suggested particle for dark
+matter these days is most easily thought of
+as something like a heavy neutrino. Neutrinos
+move at near light speed because they are
+created in events that typically kick out
+an electron and proton, or their antiparticles,
+at fairly high speeds, and the neutrino gets
+the same kick, but having vastly less mass,
+exits the event at a vastly higher speed.
+Imagine instead that such a particle had the
+mass of proton or neutron or maybe even more,
+we do have some elementary particles more
+massive than them, 3 of the 6 quark types,
+charm, top, and bottom quarks out mass protons
+and neutrons, the top quark by a factor of
+a couple hundred, as does the electron’s
+big brother the Tau particle, and two of our
+4 gauge bosons, the W and Z Bosons – the
+other two types of gauge bosons are the photon
+and the gluon, gauge bosons are what transmit
+the fundamental forces and the W and Z Boson
+being supermassive is why the Weak Force,
+which they transmit, is so weak, which is
+to say, so short range, they decay so rapidly
+they barely have time to carry the force anywhere.
+The Higgs Boson also outmasses protons and
+neutrons, and by more than a hundredfold.
+So of the current 17 elementary particles
+in the Standard Model, of which neutrinos
+are 3 incidentally, 7 of them are more massive
+than protons and neutrons, which are not elementary
+particles, and between the most massive, the
+top quark, and the least massive, the neutrinos,
+there is a mass difference of around a trillion.
+Keeping all that in mind, the idea that there’s
+a particle as weakly interacting as a neutrino
+but more massive than a proton or neutron
+doesn’t seem that far fetched. These Weakly
+Interacting Massive Particles, called WIMPs,
+are probably the most popular category of
+candidate for dark matter and will be our
+primary focus for technologies to discuss
+today. But they don’t have a lock on the
+title for dark matter constituents, and not
+all of them require some new elementary particle.
+Many of these don’t even require some unknown
+type or quantity of matter, like MACHOs, or
+Massive Compact Halo Objects, such as black
+holes or brown dwarfs, and we have extensively
+discussed how valuable black hole technologies
+can be in other episodes, though MACHOs are
+not viewed as a good dark matter candidate
+at this time. However mundane solutions other
+than new types of particles can still represent
+valuable knowledge for new technologies. Remember,
+one way or another something generates an
+effect that causes either a great deal more
+gravity than all the known mundane matter
+around, or alters a fundamental force like
+gravity or electromagnetism to operate other
+than inverse square at big enough distances.
+If such variations exist, they can probably
+be exploited for technology, such as reversing
+them so gravity was stronger at nearer distances,
+for instance.
+One example is MOND, Modified Newtonian Dynamics,
+which was suggested in the earlier 1980s as
+a dark matter solution by proposing that gravity
+only acted as an inverse square force – weakening
+with the square of distance – out to a certain
+distance, beyond which it got much weaker.
+That doesn’t necessarily require magic either,
+force carrying particles can decay over distances,
+that’s exactly why the weak force is so
+weak, the W and Z Bosons decay before covering
+even atomic distances, let alone astronomical
+ones, so if the graviton had a half-life of
+a billion years, gravity a billion years travel
+away would be half as strong as suspected.
+There’s an issue with that, a graviton would
+have to have some rest mass, particles with
+no mass experience no time and thus can’t
+have a half life, and gravity moves at light
+speed which no particle with mass can do,
+but gravity is hard to detect and the neutrino
+has a tiny amount of mass and moves within
+a fraction of light speed, as the theory suggests,
+so could a graviton, potentially being less
+massive and faster than even a neutrino. MOND
+had quite a following and had a fair few variations,
+but fell out of favor with the detection of
+the Bullet Cluster in 2006, a pair of colliding
+clusters of galaxies about 4 billion light
+years away. We’ll skip discussing why today,
+especially as there are some rebuttals in
+spite of many folks saying the bullet cluster
+shot MOND dead. See the episode on Dark Matter
+for more of the suggested types too.
+I mention it because if you found out that
+gravitons had a rest mass and could decay,
+for instance, that might start implying ways
+to generate gravitons without lots of mass
+or reflect or bounce them around, make a gravity
+laser, or GRASER, things like that. We are
+very limited in discussing technologies relying
+on matter, or forces, we don’t understand,
+but this is what we can discuss today.
+Some are easy, if Dark Matter is any sort
+of particle that has mass, but doesn’t interact
+much, then if you can find something it does
+interact with, you can scoop it up and use
+it as a cheap source of mass. It would be
+useless as a building material, but becomes
+great not just for making gravity on artificial
+planets, freeing up not just valuable heavy
+elements but even hydrogen and helium for
+other uses, it also lets you do strange stuff,
+like create a big ball of dark matter with
+a deep gravity well, and yet so weakly interacting
+you could fly right through it.
+As an example, what happens if you dump around
+a stellar mass of dark matter into an existing
+star? None of that dark matter is getting
+blown away by that or sinking into the core,
+it just floats around generating gravity and
+minding its own business. The gravity it creates
+though would not, and would squeeze that star
+down even more, speeding up fusion. It is
+potentially handy as a fuel source too, dark
+matter should have all the energy per unit
+of mass anything else does, so if you stuff
+it down a black hole it would work as a starship
+fuel, see our black hole starships episode
+for discussion of how we can use black holes
+for ships and power.
+So we do have at least one known way to manipulate
+dark matter. It does react with gravity, and
+while it would be very hard to get into a
+black hole, once over the event horizon it
+is as stuck in there as anything else. It’s
+hard to get in because black holes are small,
+so the only way matter ever ends up in one
+is if by some freak chance it happens to run
+into the event horizon straight on. Normal
+matter can be sucked into an orbit of a black
+hole and as more of it accumulates, the bits
+orbiting the black hole can start bumping
+into each other, getting hot and falling in
+– this is the accretion disc. Dark Matter
+doesn’t do that. If it gets into orbit around
+something, it will just keep orbiting, not
+clumping together. This is why dark matter
+in galaxies forms a roughly spherical shape
+while the matter in galaxies tends to form
+more of a disc.
+But dark matter can be absorbed by a black
+hole. And we estimate there’s a bit more
+than a proton’s mass of dark matter per
+cubic meter of intra-galactic space. Now a
+3-solar mass black hole, which is generally
+about as small as can naturally form, will
+have a cubic volume inside its event horizon
+of about 3 trillion cubic meters, and would
+have absorbed all that dark matter locally
+present, but that’s only going to be about
+4 picograms of mass, and even the big monster
+at our core, with a million times more mass
+and a billion, billion times more volume,
+would only have swallowed about 4 tons of
+dark matter.
+Of course the stuff is moving, not static,
+so it would be more than that. Let’s assume
+we shot a black hole with a square kilometer
+of cross section through a galaxy on a 100
+thousand light year path, or 10^21 meters,
+or slicing a column through a galaxy of 10^27
+cubic meters. We’d still have only swept
+up a couple kilograms of dark matter. You
+can throw on more sail, so to speak, by having
+a cross section tens of thousands of kilometers
+across or even larger, one 10,000 kilometers
+across will sweep up dozens of trillions of
+tons of matter. Or deflect it or capture it
+for later use if we’re talking about a material
+that absorbs dark matter instead of a black
+hole, or an artificial event horizon. Collecting
+dark matter is not likely to be an easy task,
+but if you can do it, then it represents a
+vastly bigger supply of matter and energy
+than all our mundane sources combined.
+It’s also quite possible there are dark
+matter only interactions, such as dark matter
+antimatter annihilation, or dark matter fusion,
+that might only be possible when you squeeze
+the stuff in rather tightly. If you had two
+such beams, one dark matter and one anti-dark
+matter, when and where they collided might
+be a very energetic event. That might also
+be a terrifying weapon since dark matter would
+be hard to detect or deflect. And that’s
+assuming it doesn’t have other strange properties,
+many proposed dark matter candidates interact
+strongly with space, time, other matter, or
+other forces.
+As a reminder certain scenarios for dark matter
+would imply the ability to play with gravity
+more than we’d currently expect, and things
+like flat event horizons or gravitational
+scoops might be on the horizon at that point.
+Imagine for the moment we had some bit of
+Clarketech that let us stretch a black hole
+into a disc, like it was some balloon we could
+squish flatter. Now that implies the ability
+to manipulate gravity so it didn’t radiate
+omnidirectionally, but let's say we could,
+either flattening the gravity out into a disc
+or squishing it into a pair of polar jets.
+See our anti-gravity episode for more discussion
+of gravity-based technologies, but such manipulation
+might let you have a spaceship that could
+suck in matter, even dark matter, as it flew
+by. That’s also a potentially potent weapon
+and shield too, though it should be noted
+that any time two event horizons touch they
+will merge to an external viewer.
+A black hole event horizon has a radius proportional
+to its mass, and a cross-section proportional
+to the square of mass, so you can make really
+enormous black holes and get dark matter that
+way and presumably an awful lot of dark matter
+will get absorbed in the post-stellar era
+of the Universe as you start having all other
+matter get sucked into black holes all orbiting
+each other and perturbing everything else
+orbiting, including dark matter, till it combines
+together or gets ejected into the extra-galactic
+void.
+Of course that scenario would tend to imply
+you didn’t have little bits of physical
+dark matter lying around in favor of something
+like MOND, but it's also possible the solution
+to dark matter will turn out to be two different
+effects. Which is to say we have problems
+pinning down what dark matter is because our
+predictions keep missing, and they might do
+so because its two overlapping and unrelated
+effects that amplify a given net effect we’re
+seeing, as in we do have WIMPS and we do have
+decaying gravity, but fewer and less of them.
+You would need to have someway to manipulate
+the stuff, but if you do it is very useful
+– probably with valuable properties we don’t
+even know about, you might be able to make
+unique materials out of it, but in space where
+things are quite empty, it's nice to have
+something to push against but only when you
+want to. Neutrinos and neutrino-like particles,
+weakly interacting particles, if you have
+something that can interact with them more
+strongly, it lets you use them – potentially
+selectively – to interact when you want.
+When flying through space I want to interact
+with nothing, except for when I do, like for
+slowing down or turning, so we often contemplate
+unfurling reflective solar sails or magnetic
+fields to interact with solar wind. Ones able
+to work with neutrinos or neutrino—like
+types of dark matter would be useful for the
+same reason. Dark matter is not dense, but
+with a big enough sail you’ll hit some,
+and the momentum exchange is going to be based
+on your speed.
+Also if these are particles, it may be possible
+to build something out of them if we understand
+them better, on the flip side, the ability
+to mimic this weak interaction or non-interaction
+can be handy. We often see force fields in
+science fiction as a means of defense, but
+the other popular method tends to be turning
+invisible or ethereal, so you either couldn’t
+be seen or things went right through you.
+In practice that has to be both, since folks
+can only see you if light bounces off you,
+which means a laser beam would bounce off
+you too, or more importantly would vaporize
+you. If I can see you I can interact with
+you and if I can interact with you, I can
+hurt you, or use you to hurt someone else.
+But if you can make yourself unable to interact
+or be interacted with, that’s a very good
+defense, and if you could make your ship or
+space station have that weakly interacting
+property temporarily, or even build out of
+dark matter, that’s a very good method of
+both stealth and defense.
+As an example of weaponizing WIMP-style Dark
+Matter, you could probably put a cloud of
+it around someone’s planet as a way of keeping
+them earth-bound, positioning it either to
+raise the surface gravity, or to make a cloud
+in circular orbit over the planet, so the
+surface gravity stayed the same but the escape
+velocity was arbitrarily high. You could wrap
+that planet so thick in dark matter that time
+slowed down on it and only relativistic spaceships
+could leave it, a good way to quarantine a
+worrisome species you didn’t want out in
+the galaxy but didn’t want to interfere
+with or destroy - a situation reminiscent
+of the people of Cricket from Douglas Adams’
+novel Life, the Universe, and Everything.
+So we’ve talked about spaceships and power,
+and again it’s a great power source simply
+as raw material we can feed into a black hole
+that is abundant and not useful for other
+things, assuming of course we can find a way
+to gather it. However, same as we discuss
+filling shell worlds up with hydrogen or black
+holes to generate gravity, dark matter offers
+that same route. We don’t know much about
+it, but we know it doesn’t interact much,
+even with itself, so we should be able to
+cram the stuff together quite tightly without
+the normal pressure issues. We normally say
+if you want gravity on something small, without
+using spin-gravity, you need micro-black holes,
+but ultra-dense dark matter might be an option
+too, squeezing tons of it into a volume the
+size of a pinhead. It's going to act very
+differently than normal matter in a lot of
+counterintuitive ways.
+For instance if you had a solid block of the
+stuff cooled down to ice cube temperatures
+and threw it into a pot of boiling water,
+it would not heat up. Partially because it
+would fall right through the pot, but if that
+pot were lined with whatever your hand was
+covered in to toss it in, then the ice cube
+of dark matter could sit in that boiling water
+for eons and pick up no heat from the water.
+It would also bounce up and down on the bottom
+of the pot over and over again, unaffected
+by the water. Same dark matter could fall
+through the pot, and the Earth, and fall through
+the center and right back up again, then down
+again, over and over. If you’ve got something
+you can sheath it in, that it does bounce
+off of, then you could be making ultra-dense
+and heavy objects, which is very handy for
+certain more abstract megastructures where
+you want gravity lower or higher in certain
+places.
+Unsurprisingly its use as a source of cheap
+mass appeals to me for worldbuilding, and
+that might bias me towards the WIMP version
+of dark matter, but other versions would have
+their uses too. Some dark matter options include
+particles that interact with gravity and some
+unknown fifth force, and if that force only
+interacts with dark matter we wouldn’t even
+see it, except in its tendency to draw dark
+matter together but not very much. This has
+some problems, for instance it can’t be
+too strong or, since dark matter does interact
+with gravity, that fifth-force interaction
+should allow more clumping and result in giant
+black holes all over the place.
+We also tend to assume dark matter, if a particle,
+would have an antiparticle, and when it annihilates
+it obviously doesn’t produce photons as
+most commonly happens in matter-antimatter
+annihilation, as we would notice that. Unless
+it does so at the 1.9 millimeter range, that
+of Cosmic Microwave Background Radiation,
+which is unlikely and would really mess with
+our current cosmological models. But it might
+annihilate into some other form of energy
+too, for instance dark energy, which causes
+bits of new space to emerge all over the place.
+I often make a point of telling folks that
+in spite of the similar name, and extreme
+abundance, dark matter and dark energy don’t
+have anything to do with each other. That
+we know of anyway, and there are a few dark
+matter theories that do tie it to dark energy,
+such as GIMPs, Gravitationally-Interacting
+Massive Particles, which some folks feel fit
+better with the Vacuum Solutions to Einstein’s
+equations for gravity, the basic notion being
+bits of dark matter were singularities of
+dark energy.
+As I mentioned earlier, its not mass that
+generates gravity, its energy, and mass is
+just the easiest dense form of it, and so
+you can make a black hole or singularity out
+of any very dense clump of energy, cram enough
+photons in one place fast enough and you’ll
+get a little black hole. So presumably cram
+enough dark energy in one place and you get
+a singularity too. Though given that dark
+energy’s only known property is its association
+with expanding space I’d wonder how you
+would cram it together. But it might be crammed
+together initially, and decays, as we expect
+small black holes to do, and causes space
+to emerge when it does.
+Primordial black holes is another popular
+dark matter option. The early universe was
+super-dense and black hole formation without
+a supernova implosion, or even bits of energy
+that never expanded in the first place, are
+certainly plausible options. One issue with
+that is that we think black holes decay, and
+the smaller the faster, that’s Stephen Hawking’s
+original famous contribution to physics. It
+is only a theory, there is no experimental
+proof of black hole evaporation. Assuming
+that is right, then a primordial black hole
+could not mass less than 10^11 kilograms,
+100 megatons, or they would have evaporated
+by now. Now this means none of them could
+be, or we would see the radiation of their
+evaporation all over the place. We don’t
+know that primordial black hole mass would
+be evenly distributed, with some massing a
+ton, some 100 tons, and some 100 billion,
+and all points in between, but we do know
+it can’t be evenly distributed at masses
+below 100 megatons unless our concept of black
+hole evaporation is wrong. Otherwise we would
+see radiation being emitted corresponding
+to those black holes evaporations.
+There are a number of other issues with primordial
+black holes as dark matter and the option,
+like MOND, is less popular these days, but
+if true it would make for a great technology,
+see our black hole episodes for why. But there’s
+some more problems there too. First, if black
+holes do not evaporate, then they become eternal
+traps for matter, though we can still generate
+power with them by dumping matter into them,
+though it is hard to put matter into a micro-black
+hole.
+However they should be able to absorb matter
+rapidly inside something like a neutron star,
+and were that the case the larger ones, in
+excess of a trillion tons, would be able to
+capture mass in a neutron star and ought to
+cause detonations of them that we’re not
+seeing. Indeed all things included, it's really
+only black holes in the 10 to 500 gigaton
+range that would have a decent chance of not
+leaving various other telltales of their existence
+we’re not detecting, and we don’t know
+any reason why primordial black holes would
+have formed in that mass range but not in
+others. Of course we don’t know why all
+the various subatomic particles come as specific
+masses either, like 511 kilo-electronvolts
+for the electron, so primordial black holes
+might do so for the same reason.
+Assuming they did though, and were our dark
+matter candidate, they would potentially be
+very handy. The ones on the higher end could
+be force-fed matter to make them bigger, but
+the smaller ones, at 10 gigatons, would give
+off about 3.6 megawatts of power, and do it
+for quadrillions of years, while those on
+the higher end, 500 gigatons, would give off
+1400 watts, and for even longer, nearly a
+billion-trillion years. Because of their sheer
+mass they don’t make for good starship drives,
+but would be created for stationary places
+and indeed you’d probably just build around
+such medium sized primordial black holes as
+you found them. We would also hopefully be
+seeing them in the future by getting better
+at detecting the background radiation they
+would be giving off universe wide and isolating
+it from other known sources, like the CMB.
+Fundamentally though the real power of Dark
+Matter probably won’t be for power generation,
+that’s just something that seems a probable
+use based on what little we know. As a last
+example, one of the candidates for dark matter
+is that it isn’t crunched down mass or even
+energy but crushed down dimensions, and both
+additional space dimension and additional
+time dimensions, and if that were true and
+became something we could work with, opens
+up all sorts of scenarios like storing time,
+manipulating time, and maybe even twisting
+or ripping space-time.
+Fundamentally the more we learn about Dark
+Matter, the more we can explore what we might
+do with it, but I hope from today it becomes
+clear why wanting to find out what dark matter’s
+properties are is about more than just answering
+a big question about what the Universe is
+made of, it's about recognizing that anything
+that abundant is useful simply in its abundance,
+and that its sheer mysterious nature implies
+properties we might be able to use for goals
+as mysterious and massive as dark matter is
+itself.
+One of the things we were discussing today
+was how even though we cannot see Dark Matter
+directly, we can still know it’s there in
+much the same way we know what the inside
+of atoms or our planet or our Sun looks like.
+It reminded me of a topic in a similar vein
+folks often raise, and that’s if mathematics
+is a real thing or something humanity made
+up, is math invented or discovered, and my
+friend Jade from Up and Atom, who were previously
+teamed up with to discuss Boltzmann Brains
+& Anthropic Principle, recently released a
+Nebula Original addressing if Math was invented
+or discovered.
+She is one of a number of science and education
+creators we teamed up with to form Nebula,
+our Streamy-Award Nominated streaming service,
+a little over a year back and its exploded
+since its inception, allowing us to invite
+in more creators and get a bit more ambitious
+with original content, like our Coexistence
+with Aliens series. It’s also where you
+can watch episodes of SFIA a couple days early
+and ad free.
+Now you can subscribe to Nebula by itself
+but our friends over at Curiositystream, which
+is home to thousands of top notch science
+and education videos, have teamed up with
+us to offer Nebula’s content along with
+their own, if you sign up at the link in the
+episode description. That means you will not
+only get Curiosity Stream, and get to see
+their excellent shows like Space Phenomena’s
+episode on Black Holes, but can also catch
+SFIA episodes early and without ads, and help
+support our show while you’re doing it,
+as well as see amazing exclusive content from
+our sibling shows.
+Again you can get a year of both Curiositystream
+and Nebula for less than $15, get to support
+the show and see our episodes early, and get
+all that for less than $15 by using the link
+in the episode’s description.
+I also wanted to thank everyone who's been
+supporting Nebula, and for those watching
+the episode there, I was just expounding on
+some of the improvements we’re making and
+planning and how much fun it is to get to
+interact with so many other creators. I’ve
+heard some horror stories of working with
+various artists or actors over the years,
+who were monstrously egotistic or hard to
+work with, so I’m always pleasantly surprised
+by how fun and down-to-earth just about everyone
+I’ve met has been, from the smaller shows
+all the way up to the giants ten times our
+own show’s size or more. 2020 was a hard
+year for a lot of folks and some creators
+did end up tossing in the towel, especially
+those with newer channels still in growth
+phase. I know in some cases it was from funding
+drops, so while I’m thanking the folks supporting
+us on Nebula, let me also thank all our Patreon
+subscribers who stuck with us through the
+crisis, and the recent re-shuffle on that
+platform, this channel literally would not
+exist without you, nor would countless other
+shows.
+So this weekend we have another SFIA Scifi
+Sunday episode, where we will be examining
+the notion of alien cohabitation, and we will
+discuss both the structures meant to support
+multiple alien ecosystems and the relationships
+we often see in science fiction, of aliens
+and humans marrying and having hybrid kids,
+on Sunday, February 14th, Valentine’s Day.
+Then next week we’ll be looking at Orbital
+Bombardment, as we return to our Space Warfare
+series, before closing the month out with
+an episode on Colonizing Giant Stars in two
+weeks and our Monthly Livestream Q&A on Sunday,
+February 28th.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas. You can also follow
+us iTunes, Soundcloud, or Spotify to get our
+audio-only versions of the show.
+Until next time, thanks for watching, and
+have a great week!

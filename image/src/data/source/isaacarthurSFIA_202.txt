@@ -1,0 +1,737 @@
+Our destiny may lie among the stars, 
+billion upon billions of new worlds,  
+but what strategies might we 
+employ to claim that future? 
+Welcome to the first episode of our ninth season 
+of Science and Futurism with Isaac Arthur,  
+and I am your aforementioned host, Isaac Arthur. 
+Over the years our show has become known for many  
+things. From my borderline jingle of “get a drink 
+and snack before we begin,” to my peculiar speech  
+impediment and accent, but maybe most of all 
+for the topic of Space Colonization, and it  
+seemed a good topic to start the year off with.
+How to colonize the stars is a big topic, and the  
+strategies depend a lot on your technologies as 
+well as your goals and the current geopolitical,  
+or intrasolar political situation. Many of these 
+topics are ones we have explored in greater detail  
+in other episodes so as we usually do on the 
+show, we’ll put a thumbnail of the cover of the  
+relevant episode or playlist up on screen and do 
+an in-video card for as many as youtube lets us  
+put up there. And you can watch those deeper 
+dives now or at your leisure, allowing us to  
+keep things reasonably brief in today’s episode.
+That’s still a lot to cover, so we’ll be here for  
+a bit, and so you might want to grab a drink and 
+snack, and if you’re new to the show, feel free to  
+turn on the closed captions for the episode, right 
+down there by the like and subscribe buttons. 
+Now on this show we tend to assume that 
+traveling FTL, faster than light velocity,  
+is not something we should expect to ever become 
+a reality, and in that context every colony can be  
+thought of as being abandoned from the outset. 
+When the nearest gas station, grocery store,  
+or hospital is trillions of miles away and 
+even simple radio communications can take  
+many years to travel each way, there’s 
+a limit to how much real support some  
+colony is getting after it gets shipped out.
+Even if we did achieve FTL travel though,  
+there’s likely to still be huge bottlenecks 
+on colonization, especially early colonization  
+which would presumably begin occurring as soon 
+as it was practical rather than easy. But this  
+raises a good starting point for discussion, 
+because many notions folks have about space  
+colonization are from science fiction and some of 
+these don’t really hold up to scrutiny very well. 
+For instance, a common theme in science fiction is 
+for space colonization to start slowly, with great  
+big ark ships traveling at a fraction of light 
+speed, and for them to often be superseded by FTL  
+ships later on. Given the timeline for traveling 
+between stars at sublight speeds it tends to be  
+assumed some or even all of these ships will get 
+to their destination and find some faster vessel  
+launched after them has already arrived. Or 
+even come by and picked them up on the way. 
+The latter could be possible as it’s an easy 
+way to grab some extra colonists and cargo,  
+but in such a scenario I could imagine people 
+bypassing those ships or even pirating them.  
+Instead of a friendly pickup of fellow colonists 
+and sharing of gear, they might simply want to  
+cannibalize their remaining reaction mass and 
+gear and kill or brainwash the crews. After all,  
+by jumping their claim on a new world, they’re 
+already taking a bit of a thief or predatory role. 
+Regardless of whether or not we ever 
+achieve some hypothetical FTL technology,  
+it is realistic to assume our first 
+ships won’t be our fastest ships,  
+but it’s less realistic to assume they 
+would get passed by en route. For one thing,  
+they wouldn’t actually be on the same course 
+even when traveling to the same star, as stars  
+move relative to each other and quite quickly at 
+that. Tens or hundreds of kilometers per second,  
+times billions of seconds given that even a 
+short interstellar journey would involve decades. 
+All while your own departure and arrival spots 
+inside a solar system would be likely to change,  
+after all even two ships launching from Earth six 
+months apart are 300 million kilometers distant  
+relative to the Sun, which is considerably further 
+than any human has ever traveled in a spaceship.  
+Space is vast and while we often contemplate 
+building massive interstellar laser highways  
+to speed ships between colonized systems, 
+those come later than early ark ships. Your  
+railroads and airports come after 
+your covered wagons, so to speak. 
+So you’re not on the same course and you’re not 
+going the same speed, and if your ship moves  
+at a quarter of light speed and the old model 
+moves at around 10%, that would require a huge  
+expenditure of fuel to match courses and speeds 
+with them. A journey to colonize Epsilon Indi,  
+a star system 10 light years away, would take that 
+first ship moving a tenth of light speed an entire  
+century to reach, but merely 40 years for the 
+second ship moving at a quarter of light speed.  
+That’s ignoring relativistic effects which would 
+be fairly minimal even at that higher velocity,  
+shortening your own experience of the trip 
+but by just a few percent. Generally speaking,  
+slowing time down internally by relativity at 
+very high fractions of light speed, is not going  
+to be a viable strategy for extending crew life 
+to reach a destination, too much energy waste,  
+and too much enhanced risk of damage, 
+and we’ll discuss alternatives in a bit. 
+It’s entirely plausible that in the decades 
+following a colony ship launch we might  
+improve the engines by that much, 10% to 25% of 
+light speed, but I’m not sure we would launch  
+a ship there as opposed to one of the countless 
+other neighboring stars just a bit further away,  
+unless it was an engine improvement 
+made very soon after the first launch.  
+So too, it is likely any interstellar ark would  
+have the manufacturing capability to 
+perform an engine upgrade while moving. 
+This also tends to imply very fast engine 
+improvements relative to travel times,  
+so these sorts of overruns would likely be rare. 
+Also any enmity is less likely to result in an act  
+of piracy and more likely to be performed using a 
+stealthy mass driver or missile shot to the rear.  
+Killing spaceships from behind is very easy and 
+made easier because a colony ship needs to slow  
+down, and it takes the same fuel to reach twice 
+a speed as it does to reach that speed and slow. 
+Stealth in space is very hard, but a missile 
+following behind you is much stealthier to you  
+than the reverse, and your ship isn’t likely to 
+have a massive and exceptional detector pointed  
+behind you. Even with the same engine design 
+as you it can run up on you at least twice  
+as fast and devote its cargo to more fuel, 
+guidance, tracking, and even submunitions.  
+It doesn’t need to be very big compared to your 
+ship either, so they can probably send thousands  
+of them after you. And if it’s going 20% of light 
+speed and you’re going 10%, then if your detection  
+gear is so good that you could pick out this 
+dark projectile at a million kilometers, which  
+would be pretty amazing, you’d still only have 
+about half a minute to get your countermeasures  
+online and blow it away, and it probably is 
+going to have some fuel remaining to engage  
+in a final approach random jittering to make that 
+harder, assuming it doesn’t split into a thousand  
+fist sized relativistic cannonballs, each also 
+possessing some guidance and maneuvering ability. 
+And at that relative speed, each object carries 
+more destructive potential on collision than  
+a nuclear warhead of the same mass. Mind you, 
+there are defensive countermeasures available,  
+like leaving a trail of even smaller missiles 
+in your wake or a thin sheet of material you  
+tow hundreds of kilometers behind behind you 
+that they’d smash against and detonate on,  
+but then there’s ways around that too, 
+countermeasures and counter-counter-measures  
+and so on, but the core advantage lies 
+with the pursuer, both from chasing you,  
+and from having a planet behind them from which 
+to churn out endless missiles and pursuit vessels. 
+This definitely is relevant to colonization 
+strategy because it means that if your home  
+solar system is not unified then colonization 
+needs to be negotiated, and is likely to see many  
+different groups claiming various bits in disputed 
+and somewhat chaotic chunks, rather than an evenly  
+cut pie. That doesn’t mean those negotiations are 
+particularly fair or equitable but even a smaller  
+nation would be in a position to detect every 
+colony ship launch and hurl missiles after them.  
+That means some rogue state can’t get away with 
+launching thousands of automated colony ships,  
+such as Von Neumann probes, which we’ll be 
+discussing insome detail next Sunday, and by  
+that get a jump on everybody else, because ships 
+are very easy to track from behind and moreso  
+during launch and acceleration, so they will chase 
+them all down and kill them before they ever reach  
+another location to replicate themselves. They 
+must slow down in order to rendezvous with some  
+source of material like an asteroid in order to 
+replicate, because rendezvousing with an asteroid  
+at 10% of light speed is not an interaction 
+that results in producing more interstellar  
+probes, unless you count the high-speed 
+interstellar dust spawned by that collission. 
+This takes us to the use of artificial 
+intelligence and also freezing people.  
+It is generally the position of this show that 
+the same technologies that let you thaw out and  
+revive a frozen person from a century long trip 
+also let you repair the cellular damage of aging,  
+so that freezing people would be more 
+about minimizing resource usage and saving  
+on boredom than getting your colonists there 
+alive, and the power savings for running life  
+support for people for centuries is actually 
+rather small compared to the energies need to  
+accelerate and decelerate that ship so it's not 
+super-vital to freeze people for that reason. 
+It seems very likely that all ships would 
+make extensive use of computers and AI,  
+and we understand AI better now so we know that 
+AI is as large a domain, if not larger, than the  
+entire biological kingdom, from amoeba to human 
+or oak tree. There’s no real reason to expect  
+any human-level AI to be required in the future 
+on spaceships, interstellar navigation itself  
+is well inside the computational capacity of your 
+smart phone for instance. There’s not any obvious  
+jobs we would need them for. The general lone 
+exception would be a mother-AI whose job it was  
+to incubate and raise humans from frozen embryos 
+at the destination, as that seems a specific case  
+of needing a human-equivalent, though that’s 
+not guaranteed, more an educated guess that  
+seems reasonable, but so did all our assumptions 
+about needing human-level AI for other jobs in  
+the past, that turned out not to be required.
+But in such a case a copy of a human mind,  
+or several, selected for existing 
+parenting and colonizing skills  
+and able to remotely control robots or even 
+androids would seem just as effective. Your  
+mileage may vary on if such a copied and 
+uploaded mind was an AI or a human or both.  
+It’s a gray area we also have to view through a 
+fog bank of ignorance at a distance right now,  
+so while I tend to refer to a case like that 
+as a human, it is just a semi-informed opinion.  
+We would usually refer to that sort of colony ship 
+as a Seed Ship, one with frozen or digital DNA and  
+embryos on board and run by AI or uploaded human 
+minds. It may be sub-human too, and only intended  
+to set up the basic space infrastructure and begin 
+terraforming with colonists expected to follow  
+later, bringing a menagerie, while the AI plants 
+microorganism and vegetation and maybe insects. 
+Also a key colonization strategy, we would expect 
+arriving colonial efforts to begin in space,  
+building up all the satellite grids and 
+asteroid or comet mining operations,  
+not just land on some planet and live under 
+domes. Indeed it would be more likely that the  
+early focus would be on orbital habitats such as 
+O’Neill Cylinders, habitats that provide gravity  
+by rotation. This might be preferable to some 
+alien planet very unlike Earth, especially as the  
+crew and passengers would presumably already have 
+been dwelling in one for decades on the journey.  
+Terraforming is also an inherently devastating 
+process, tearing up the terrain and altering the  
+atmosphere in a way that would make a nuclear 
+war look mild, so it's not really a place you  
+would want to live while that process is ongoing.
+Another option beside androids is to use cloned  
+bodies and uploaded minds downloaded into 
+them, and that gives you the option for  
+reusing colonists too, as ships designed for 
+bringing 10,000 colonists to new worlds can  
+have near infinite unique permutations out of 
+a recruitment pool only a little bit larger,  
+if finding volunteers is hard. Noumenon by Marina 
+J Lostetter discusses some of these themes. 
+A colony founded under an alien sky a hundred 
+light years from a very different world is already  
+going to be massively divergent before they ever 
+interact with each other or their homeworld,  
+even if the crew was identical, but various 
+combinations selected from a somewhat larger pool  
+guarantees that, not just for the kids of those 
+crew and colonists but those original colonists as  
+they have changed workloads and friends circles 
+influencing their life. Crewmember X has a  
+different boss on one voyage, marries a different 
+lass on another. They may live on the ship or be  
+stored digitally or a hybrid, where they live 
+in virtual reality till they arrive and are  
+loaded on to clones, androids, or some equivalent.
+They may have arrived frozen directly from Earth  
+of course, and we would call those Sleeper Ships, 
+see that episode for details, which also includes  
+any version of stasis or hibernation. One note 
+there is that while biology and most chemistry  
+stops at ultra-low temperatures, atomic processes 
+don’t, so the mild radioactive decay in your own  
+body from isotopes like potassium is smashing up 
+your frozen DNA without repair, so after around  
+3000 years on ice, you will have absorbed a lethal 
+radiation dose from your own body and bones. It's  
+very likely the same technology that can revive 
+you from being dead and frozen could fix that too,  
+or that we could feed people diets of foods 
+grown on nutrients purified of those isotopes,  
+but it's one of those examples of unexpected 
+problems with a given colonial strategy. 
+The Methuselah Ship is one where we assume 
+everybody is biologically immortal and doesn’t  
+go on ice, in favor of simply using the trip 
+to catch up on their colonial training and  
+back reading. A colony ship is likely to be 
+a town or even medium-sized nation so it's  
+not likely to be boring and would probably 
+still be getting books and TV from home,  
+just ever more delayed as light lag increased. 
+These have an overpopulation issue though,  
+since we tend to assume colonists like larger 
+families to begin with and have a lot of time  
+on their hands on the trip, and are not dying off 
+as they and their own grandkids keep having kids. 
+This is also a problem on a classic 
+generation ship, where folks just live  
+and die normal lifetimes but inside a limited 
+space with limited resources. It is far worse  
+with a nigh immortal crew, and while population 
+control is likely to be easy in the future as  
+contraception options improve, it’s entirely 
+possible it wouldn’t be necessary and takes  
+us to a hybrid design we call the Gardener Ship.
+We explore that more in our episode Gardening the  
+Galaxy, but the basic notion is that instead of a 
+ship launching from Earth and disassembling itself  
+for scrap at its singular destination, this one 
+instead assumes good automation and life extension  
+technology, and simply parks on some resource 
+rich asteroid or moon in the destination system,  
+resupplies fuel and raw materials while 
+building colonial gear, and then gives  
+everyone the option of staying on the ship for a 
+future destination or remaining at this colony.  
+That layover may be days or years, but 
+the next journey is likely to be many  
+decades or even centuries which is a 
+long time to breed up new colonists. 
+If most want to stay at the new colony, the 
+Gardener Ship picks its next destination with  
+that in mind, one further away perhaps, giving 
+people time to breed back up to a good colonial  
+and crew number. Alternatively, if most opt 
+to remain on the ship, they pick a nearer  
+destination as their next stop, or even consider 
+remaining longer in the system to help the fewer  
+colonists setup while replicating their ship 
+to pick two or more next destinations. This way  
+a few thousands such gardener ships might leave 
+Earth in the next couple centuries and colonize  
+the whole galaxy in an expanding and diverging 
+trail of new colonies out to the galactic rim,  
+and even beyond, as we contemplated in 
+our episode Intergalactic Colonization. 
+Which raises a point on replacement. 
+Given the timelines involved in travel,  
+while backups are handy, it would seem important 
+to only use equipment in your ship, or colony,  
+which you could reproduce entirely on board. 
+Nothing that can break and only be replaced  
+by existing spares or waiting for a shipment 
+from home. Though we can’t ignore the option  
+that the Gardener Ship is building and deploying 
+laser highway relay stations along its journey and  
+shipments from home or former settlements behind 
+that have developed might be trailing right behind  
+them, launched later but at higher speeds.
+Nonetheless, if you can’t get your on board  
+or in-situ manufacturing up to the advanced level 
+to make all you need during the trip or on site,  
+then you need to make sure you’ve over-supplied 
+like crazy, with lots of redundancy, which is only  
+partially solved by resupply trailing you from 
+later launches. Alternatively, making your gear  
+en route might cut down on costs and keep folks 
+occupied on the trip, plus be able to adapt and  
+adjust as new designs arrive from back home or 
+are thought up by the colonists as they find out  
+more about their new home and contemplate options. 
+The think tanks back on Earth likely will play a  
+big role in delivering new technological designs 
+and techniques to colonists but at the same time,  
+light lag will put some limits on that.
+A million experts back home might get a  
+great solution back to you a century later, but 
+one or two on-site experts might get a very good  
+one much quicker. So too, the colonies can 
+probably share techniques and pass them to  
+neighbors or back home. As they get farther 
+from Earth the shared knowledge will expand,  
+as will the lag time, and if the Gardener Ship 
+route was chosen those are very likely to have  
+enormous amounts of institutional knowledge as 
+to what does and doesn’t work best for colonies,  
+so I would expect them to have an upper hand over 
+colonies being launched from existing colonies  
+that grew in size and dispatched their own. 
+Especially as the daughters colonies of gardener  
+ships likely maintain loyalty and communication 
+to them for some time. Simultaneously it’s very  
+likely Earth could be sending out millions of 
+colonial fleets on direct paths to specific stars,  
+which aren’t being slowed by stopping and 
+starting every couple dozen light years,  
+and which are leaving with maximum tech.
+A Couple of notes on that. I said ‘fleets’,  
+and I find that more plausible than lone ships 
+honestly. A quartet of ships running parallel  
+a few hundred kilometers from each other is 
+protected by distance from any damage one acquires  
+from space collisions or internal explosions, 
+even of large ships full of antimatter. But  
+that distance still permits unimpeded real time 
+communication and can ship shuttles back and forth  
+with minimal flight times and fuel expenditures, 
+they could even keep a physical tether between  
+each other to run ships and high density data 
+lines on. For that matter these ships hardly need  
+to be streamlined other than aiming for minimal 
+forward cross-section, and could be expanded with  
+time., even during the journey Fundamentally 
+they’re just cargo holds and habitation drums  
+with engines and fuel pods strapped on.
+Fleets also permit separation to multiple  
+locations nearer the destination, and serve as 
+as a pressure valve a single ship can’t have.  
+If people come to hate their leaders, a division 
+is possible, and so a gardener fleet could add  
+a ship every stop, or manufacture it during a 
+trip, and divide whenever the fleet got a bit  
+big or restless with unified leadership.
+Now I said a moment ago big ships full of  
+antimatter could explode at a decent desperation 
+distance without hurting their neighbors and  
+meant something in the gigaton range and that’s 
+roughly the mass range we’d expect when we start  
+talking about enormous colony ships stretching 
+kilometers in length and transporting human  
+communities and our terraforming zoos. This poses 
+the strategy conflict of ultra small ships that  
+have the minimum necessary mass and resources to 
+colonize versus behemoths that can do it in-style. 
+The normal notion is that there are a set number 
+of places to colonize and you want to race out  
+with the smallest and fastest and cheapest 
+ship you can, but as I mentioned earlier,  
+this requires cooperation from your neighbors. 
+Your tiny colony ship is still a lot bigger and  
+slower than the relativistic kill missile chasing 
+behind it. So you either need to conquer the whole  
+solar system first or you need to get tacit 
+agreement from everyone as to who gets what.  
+Neither scenario requires a rush to colonize 
+after or a need for minimalist colony ships.  
+Again such deals need not be equitable, it could 
+be some major player basically setting the terms  
+in exchange for not nuking their neighbors or 
+wrecking their economies, but still isn’t a  
+100% policy of claiming everything and 
+needing to do it as fast as possible. 
+Second, all such minimalist colony attempts tend 
+to assume some robot able to make more of itself  
+and colony operations. It might be some ten ton 
+probe that arrives at some new system and grabs  
+an asteroid and replicates more copies of itself 
+to go to other systems and develop this one,  
+sending on more waves of ships to other systems. 
+This is the Von Neumann Probe or Chicken,  
+and the Berserker Version would be where 
+it replicates missiles to find and kill  
+anyone without the right friend or foe 
+signal. Again we’ll be discussing this  
+more next sunday in our episode The Dark 
+Forest, Aliens, and a Hostile Galaxy. 
+Now Von Neumann or Berserker probes are fine as 
+a strategy but makes you wonder why they didn’t  
+start those replicators off here in this system. 
+You drop it on an unused asteroid here, not around  
+Alpha Centauri, and anyone of the million or 
+so asteroids in the belt that are as big as  
+a mountain or larger could supply you hundreds of 
+millions of such probes, while many of the larger  
+ones could provide enough to send hundreds of 
+probes to each of the hundreds of billions of  
+stars in the galaxy. Assuming they’re using fusion 
+drives of some kind, they have an even easier  
+access to fusion fuel in far larger amounts here 
+in-system, from places like Jupiter or Saturn. 
+The reality is though that building an 
+enormous gigaton sized ship for each of the  
+nearest billion solar systems would still only 
+use up one of the largest asteroids or moons,  
+and while acceleration and building times 
+aren’t likely to be trivial, when measured  
+across tens of thousands of light years, stopping 
+occasionally for building another wave locally or  
+refueling is kind of trivial. Especially if 
+nearer systems can be relied on to ship some  
+material home in repayment for their founding, 
+which is very likely but also unnecessary,  
+it just makes it profitable. Indeed, while some 
+automated probe might accelerate at a rate no  
+human could survive, let alone a big spinning 
+cylinder habitat, the ability to accelerate  
+to a cruising speed of half of light speed in a 
+few days instead of a couple years really means  
+nothing on a trip of a hundred thousand years, 
+which is what will be needed for most stars in  
+this galaxy at that speed, as opposed to stopping 
+every couple light centuries to build locally. 
+We don’t know how good automated building is but 
+if you can trust a ship of only a few tons to  
+replicate itself, one much bigger is likely 
+to be more successful, and really shouldn’t  
+take something like self-replicators all that 
+more time, especially as we fit it out with  
+human habitats and natural environments as it 
+builds. So you build several thousand of those  
+and launch them out, and each of them builds a 
+hundred clones at stop 1 and rinse and repeat,  
+or you go the big gardener ship path. Either 
+way you’ve barely nicked the resources of  
+this single solar system, so why go small? 
+Especially when asking them to ship ten or  
+even a thousand times the mass home we gave them 
+for their ship is an almost trivial repayment. 
+Moreover, it doesn’t matter how many gees of 
+acceleration you can handle if your engine  
+can’t supply them, and generally speaking 
+a longer slower burn gets you more final  
+speed than a rapid one. Further, we don’t have 
+fusion yet but all indications are that it will  
+be easier and more efficient if it's bigger. 
+So bigger is likely to be faster when it comes  
+to ships. It’s also superior for options 
+like Hawking Radiation Black Holes Drives,  
+which the laws of physics basically 
+dictate need to start out no smaller  
+than an aircraft carrier or supertanker, and for 
+maintaining connection on something like a laser  
+highway or energy beam hitting a distant 
+mirror or sail, bigger is easier to hit.  
+You also essentially need the same forward 
+shielding to protect against radiation  
+and micro collisions too, it scales with 
+your cross-section, not your total mass. 
+Now as to where to settle, while the default is 
+to pick those systems which are nearest and which  
+have a nice yellow sun like ours and an Earth-like 
+planet to terraform, in practice it’s not likely  
+you would ever bypass any star, even red and 
+brown dwarfs, or even a rogue planet or gas giant.  
+That doesn’t mean they’re your first wave 
+targets though, your gardener ships might  
+opt to stop at the best 1% and leave the rest for 
+future colonists from behind or spreading from  
+that newest and nearest seed. Same for folks 
+commissioning fleets from home, and hurling  
+them at better but more distant candidates first, 
+which later colonize those empty stars around them  
+or get filled in from expansion waves behind. It 
+could go either way, hurling seeds into the wind  
+to hope some take root and seed nearby them, or 
+carefully seeding a field like we do in farming. 
+This might favor places having a shared origin 
+with those nearer them, a homeworld that’s second  
+generation from earth, or further, like some 
+genealogy of worlds. Terminus colonized from  
+Catachan 9 from Cadia from Fenris out 
+of Delta Pavonis from Alpha Centauri,  
+yea even back to Terra. Realistically though 
+divergence will be so high with these time lines  
+and distances that your neighbors are going to 
+effectively be aliens. Note we are assuming here  
+we have the galaxy to ourselves and are bypassing 
+other alien civilizations or primitive worlds  
+with simple but alien environments and critters. 
+We’ve discussed those scenarios in other episodes. 
+I also said the best 1% might be colonized 
+first but that’s not necessarily based on blue  
+planets around yellow suns. Indeed I could make 
+a good case for some very surprising candidates,  
+like a red giant with a very big asteroid belt 
+around it. For the speed of development nothing  
+beats a vast collection of asteroids, and red 
+giants make a great power supply. They may be  
+in a brief and final phase of life but everything 
+is relative and our Sun for instance would spend a  
+billion years in its red giant phase. That’s twice 
+as long as life on land has existed on Earth, and  
+a hundred thousand times as long as civilization 
+has been around, so ‘brief’ is kinda debatable.  
+Plus as we discussed a couple months back, 
+there are ways to extend stellar lifetimes,  
+and some of them, like star lifting, are great 
+ways to get metals and building materials while  
+you’re at it, indeed far superior supplies in 
+terms of quantity than anything you’d get from  
+asteroids or even disassembling entire planets.
+Critically though, in the absence of some cheap  
+way of making antimatter and safely storing 
+it, or of making artificial black holes,  
+your best option for fast ships is massive energy 
+beaming arrays, and indeed these circumvent the  
+rocket equation and thus allow even faster 
+travel than black hole drives or antimatter,  
+but with less independence as you rely on 
+the beam from elsewhere, though they could  
+be used in tandem. You build a massive energy 
+collector near a star and beam energy to the ship,  
+pushing it up to speed, and at the destination 
+slow it by another such beam. But they do require  
+infrastructure on both ends, so they make great 
+new hubs or destinations for more colonists to  
+arrive once you get the terminal array built.
+We have some tricks for forward deploying these  
+from ships to still slow them down, like launch 
+a solar shade or solar moth toward a star as you  
+approach and having it slow from solar pressure 
+while using that light to beam backwards to  
+another one, which is more quickly slowed by 
+that beam, and does the same, and so on until  
+you get a beaming arrays around that star that can 
+slow your approaching fleet. So too we have some  
+options for slowing down like magnetic drag on the 
+local interstellar medium, or even flying through  
+the outer shell of a red giant for air drag, 
+as they are much, much thinner than thin air,  
+its not like running into volcanic 
+magma as usually portrayed in scifi. 
+Additionally, while red giants might be desirable 
+systems, red dwarfs are far more numerous and  
+dense as solar systems go and thus might make 
+good places for non-planet focused colonization,  
+like Dyson Swarms, while dead stars like black 
+holes or neutrons stars offer some amazing  
+pathways as civilization and traffic hubs. 
+We’re low on time so check out the episodes  
+colonizing black holes or colonizing Red Giants 
+for more details on those options, and likewise  
+I think we’ll save a discussion of planetary 
+colonization strategies for its own episode. 
+To wrap up for today though, the key take away 
+does seem to be that bigger is better and not  
+slower, and that colonizing the galaxy is very 
+difficult to do without at least reasonably  
+cooperative strategies with neighbors, or 
+at least not openly hostile interactions.  
+That probably is doubly true as I suspect it will 
+be very hard to claim an entire planet as your own  
+for a colony of under a million, as others might 
+land separately years later and claim some other  
+continent, and that claiming an entire solar 
+system would be far harder. And help from home,  
+by fleet or court, is probably centuries 
+away, so the squatters claiming territory  
+you aren’t even vaguely using anyway probably 
+would need to be treated as new neighbors. 
+And while elbow room or bad relations with 
+neighbors here on Earth might motivate many  
+future colonies, sending pilgrims off to 
+their promised land far from persecution,  
+perceived or genuine, even as big as space is,  
+it is still a good strategy to learn 
+how to get along with your neighbors.
+So as we mentioned, today marks the start of our 
+9th Season of SFIA, and it has definitely been a  
+process of changes since the early days when it 
+was just a hobby. One of those switch overs that  
+came when we went to a weekly show was getting 
+a website and I was rather lucky that I have a  
+fairly uncommon name, so it wasn’t too hard to 
+get our domain, IsaacArthur.net. That is not the  
+norm though and whether you’re running a youtube 
+channel or posting your resume or working as a  
+consultant or running for office or just building 
+a brand name in general, having a website and its  
+accessibility are still critical to success.
+Your website should show your passion,  
+and that starts with something easy to 
+say and remember, and that’s where Hover,  
+with over 400 Domain extensions to choose from, 
+can help you brand yourself or your business  
+online. The .ME domain extension in particular is 
+popular and appropriate for websites focusing on  
+names and bios, and it's great for launching your 
+portfolio showcasing who you are and what you do. 
+And Hover can help you find that perfect domain 
+name and their easy to use hover connect feature  
+allows you to connect your domain to many website 
+builders with just a few clicks, and it comes with  
+a Best in Class Customer Support Team to help you 
+out without trying to upsell you and personalized  
+emails that match your domain to further 
+support growing your online identity and brand. 
+These days, who doesn’t need a domain name? 
+It feels like everyone has got one, so it’s 
+important that yours stands out! 
+Have you never used Hover before? 
+Lucky you! Get an additional 10% off any of all 
+domain extensions offered for your entire first 
+Year, just use the link in the 
+episode’s description. It’s time to get 
+your portfolio website up and running! 
+So that will wrap us up for today but it's 
+only the start of a New Year of SFIA and  
+we’ll continue rolling out 2023 next week with the 
+big question of what we will do if all our dreams  
+of post-scarcity civilization turn out wrong and 
+unattainable, and some reasons why I don’t think  
+that will be the case. Then that weekend we’ll 
+have our mid-month scifi Sunday episode, examining  
+the possibility we live in a hostile galaxy and 
+some of the Fermi Paradox solutions discussing  
+that like Dark Forest Theory and Berserker Probes. 
+Then in two weeks we’ll explore both the Big  
+Crunch Cosmological model and the Omega Point, 
+along with options for Eternal Intelligence, and  
+some new models like Conformal Cyclic Cosmology.
+If you’d like to get alerts when those and other  
+episodes come out, make sure to hit the 
+like, subscribe, and notification buttons.  
+You can also help support the show on Patreon, 
+and if you want donate and help in other ways,  
+you can see those by visiting our website, 
+IsaacArthur.net. You can also catch all of SFIA  
+episodes early and ad free on our streaming 
+service, Nebula, at nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

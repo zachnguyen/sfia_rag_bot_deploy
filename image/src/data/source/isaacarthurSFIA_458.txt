@@ -1,0 +1,670 @@
+This episode is sponsored by Brilliant
+A pristine natural environment sounds idyllic…
+if you’re on a planet that’s naturally
+lush green and blue.
+But if your planet is just red, dusty, and
+airless, nature is going to need some work.
+You and I live in an era when even a single
+human boot print on Mars would be an historic
+accomplishment, one that we hope with fingers
+crossed will happen in our lifetime.
+However, there may come a time when Mars is
+no longer a frontier but is thoroughly colonized
+and populated.
+Martian babies will be born, and some Martian
+adults will live their whole lives without
+ever visiting Earth.
+The geology of Mars will be surveyed thoroughly
+and completely quite early on, and preserving
+its pristine state will become less important
+than making Mars a better place for Martians
+to live.
+The processes of making a planet more Earth-like
+has long been known as terraforming, “Terra”
+meaning Earth.
+A term, by the way, that originated in science
+fiction before making its way into science.
+You can of course never really perfectly duplicate
+a place nor is that really desirable even
+where you can, and as channel regulars know,
+we have a lot of alternatives for finding
+extra living space, such as O’Neill Cylinders,
+and that’s often been our focus for colonizing
+and when we do discuss colonizing planets
+on the show it’s typically more about how
+we go about using them and living on them
+in comfort, rather than genuinely terraforming
+them to near-Earth copies.
+Today though we’ll look at how we’d go
+about doing just that, and while in many cases
+a difference between Mars and Earth would
+not be worth the trouble to alter, like its
+year length and surface gravity, we nevertheless
+will bring up the option for changing even
+those things today.
+Since there are a lot of factors and options,
+many of which we have discussed in more detail
+in other places, I’ll toss out references
+to those if you want more details, beyond
+that, grab a drink and snack and let’s get
+to it.
+I think there’s this general notion that
+you’d start terraforming Mars from one of
+those early bases and slowly doming areas
+over will do ‘something’ that ends in
+the planet all blue and green.
+This is really not how you terraform a planet,
+and indeed that doming approach, if you’re
+just expanding by adding dome after dome,
+is what we call para-terraforming.
+You could have bases down on the planet that
+you could keep intact through terraforming
+but you don’t settle a planet while you’re
+terraforming it anymore than you start hanging
+up curtains and moving furniture into a skyscraper
+penthouse apartment while they’re still
+bulldozing and putting in the foundation.
+Key concept, terraforming is ultra-destructive.
+You could make structures that could weather
+the storm, very literally, as you reshaped
+that world at a fundamental level, but it’s
+actually rather unlikely you’d terraform
+a planet you’d already settled in a major
+way.
+Just for context, Earth’s got over a billion
+cubic kilometers of water in its ocean, and
+likely more down in the mantle, and while
+Mars has less surface area than Earth, that’s
+about the right zone for what you need to
+truck in if you want great deep oceans like
+we have here.
+You haven’t got that in its polar ice caps,
+and while those if melted would easily supply
+domes across that whole world, that’s because
+you may only need the equivalent of a meter’s
+depth of water, not kilometers.
+If you trucked that in as comets, it would
+mean dropping several million comets of a
+size with Halley’s Comet on Mars, which
+is actually a bit bigger than the asteroid
+we think killed the dinosaurs.
+If you were trying to accomplish that in a
+mere thousands years, it would mean dropping
+such a comet on Mars several times a day.
+Now, of course you could break those up just
+before they hit so they’d burn up more easily
+in the atmosphere – which Mars doesn’t
+really have much of yet – but I should note
+that quantity and rate would mean you got
+around a meter or a few feet of rainfall each
+year just from that, forgetting about any
+normal rain being made by evaporation.
+So if you want to give Mars water faster than
+that, not taking many centuries to do it,
+you better be ready for non-stop torrential
+rain, along with all the erosion and mudslides
+accompanying it.
+Or you better be ready for some serious mega-engineering.
+Like docking those comets in orbit at a host
+of orbital rings and slicing them up for transport
+down to places they can melt rather than plummet
+down as ice, snow, or epically large hailstones.
+Just to put a scale to that, freight trains
+typically carry a few kilotons of cargo, so
+it would take a few hundred thousand of them
+to move a cubic kilometer, or gigaton, of
+water or ice.
+And if you’re trying for one a day, you’ve
+got thousands of trains constantly coming
+down from orbit and around the ground, hauling
+ice, and they complete that project in a mere
+million years or so.
+These options probably sound the next best
+thing to impossible, and if you’re new to
+the channel, is why we so often suggest building
+things like O’Neill Cylinders instead and
+why most terraforming plans call for a very
+modest approach.
+If you’re curious by the way, we’ve identified
+about 5 million cubic kilometers of ice on
+Mars, which sounds like a lot, and again it
+is if you’re going the shallow lakes and
+domes route.
+My own beloved Lake Erie, just a stone’s
+throw from home, is only 500 cubic kilometers
+and so that’s enough to make 10,000 such
+lakes.
+But it’s only a little more than is in the
+Mediterranean Sea.
+When terraforming planets, we’ll often be
+confronted by what is ‘good enough’ where
+that’s obviously a subjective concept and
+where trying to exceed that to truly replicate
+something Earth-like might require a million
+times more effort.
+Two really good examples of that are day length
+and surface gravity.
+Mars’s day is quite close to Earth’s,
+indeed there’s no planet closer to it, being
+a mere 37 minutes longer than ours.
+And it is longer, which means you get to have
+an extra 37 minutes of sleep, something few
+of us would object to.
+But that could be sped up, and is hardly a
+high tech process, simply Olympian in effort.
+You’re talking about needing to add several
+thousand, trillion, trillion joules of rotational
+energy.
+But if you’re dumping lots of ice down on
+a planet at orbital velocities, each gram
+having several thousand joules of energy on
+entry, a trillion, trillion grams would do
+the trick, which happens to be a billion cubic
+kilometers of ice, our rough target number
+for proper deep oceans.
+You just have to aim it all to hit in the
+same direction so as to add rotation, rather
+than randomly hitting at every angle.
+It doesn’t exactly require precise timing
+and coordination to get a giant slab of ice
+to hit a planet in about the right spot.
+Incidentally, if you had a planet that spun
+a bit too fast, shorter days, you could do
+this backwards in entry direction to slow
+it down, and I suspect that would be a more
+likely terraforming scenario too, as few would
+object to an extra hour of sleep but would
+resent a 23 hour day.
+Remember the scale of that effort though,
+and ask if you really need deep oceans and
+an exactly 24 hour day, or if lots of nice
+lakes and shallow seas and an extra 37 minutes
+in bed is enough.
+I suspect most folks will say ‘yes’, even
+in some post-scarcity high-automation civilization
+where robots do all the grunt work, since
+even if humans aren’t spending millennia
+doing the actual lifting, they do have to
+wait for the robots to do it instead.
+A thousand years is a long time to wait on
+your contractor to finish the perfect job
+when he can get something 99% as good done
+in 1% of the cost and time, even if cost doesn’t
+matter to you.
+Same applies to altering surface gravity,
+only scaled up far, far more.
+As heavy as our oceans are or would need to
+be to match that for Mars, you’d still need
+to bring in around a thousand times that mass
+to bring the gravity up to snuff.
+Martian gravity is only 38% of Earth normal.
+And no you couldn’t dump asteroids on it,
+because the whole Asteroid Belt wouldn’t
+even make a sizable dent in the amount you
+needed, you couldn’t equal Earth’s mass
+if you used every moon and asteroid in the
+solar system.
+Indeed, all three other rocky planets combined,
+Mercury, Venus, and Mars, still mass just
+a bit less than Earth, and it would seem rather
+wasteful to jam them and a few of our larger
+moons together to make a single planet.
+You could do that of course, and if you’re
+shoving all that stuff together you could
+arrange to make the new Earth as far from
+the Sun as our own but on the opposite side,
+a Counter-Earth, which has been a popular
+idea in science fiction, especially before
+we had satellites far enough from Earth to
+take a peek at what’s behind the Sun.
+Needless to say, this is very destructive
+to the local real estate even by terraforming
+standards.
+You could do it slowly, but if you’re adding
+a meter a day of new rock to that world, you
+are talking about centuries of folks going
+out and sweeping and shoveling.
+I’m willing to believe folks might be willing
+to put up with heavy rainfall and perpetual
+clouds for centuries, especially if we picked
+our settlers from places like Seattle or London.
+You might even get a few adventurous souls
+hoping to imitate Noah and willing to live
+there for an expedited process of constant
+torrential rain for many years.
+But I’m thinking having it rain dirt for
+centuries would be a non-starter for anyone
+trying to sell housing there.
+ 
+So again we have to ask what is good enough?
+Now we do have some tricks for sourcing that
+much matter, and actually needing less to
+achieve the right gravity, that involve using
+artificial black holes dumped into the middle
+of the planet, as we discussed in Colonizing
+Black Holes, or ripping the planet apart to
+reform it into a shell around a gaseous interior,
+but those are about the only sane ways to
+bring gravity up to Earth norm for Mars.
+Also I love running a channel where dumping
+a black hole on a planet or ripping it apart
+to make a big shellworld can be referred to
+as ‘sane’ without the slightest trace
+of sarcasm.
+However there’s a decent chance humans and
+flora and fauna and pets and parasites can
+live comfortably in Martian gravity without
+any real modification at all, and such modifications,
+genetic or cybernetic, are certainly not off
+the table as pragmatic options.
+Even for things like hosting a Solar System
+Series of baseball or football, where you
+want the gravity the same as Earth to avoid
+arguments over home team advantage and records,
+you do have options like making a big deep
+bowl shaped stadium and spinning it, to combine
+local and spin gravity to achieve the Earth-norm,
+and cities could be made as such too.
+In the absence of the right gravity you’ve
+also got a problem with the right atmosphere,
+getting it thick enough and made of the right
+stuff and keeping it from flying away.
+That last is not actually a gravity problem,
+more gravity helps for keeping atmospheres
+longer – they all leak incidentally, even
+ours – but it mostly comes down to a lack
+of a real magnetosphere.
+With that Mars could hold an atmosphere, and
+even our Moon probably could.
+But there’s more to it than simply dumping
+air down or baking oxygen out of the rocks.
+In this case it isn’t such a big issue for
+transport though.
+Air does have weight but it is pretty light
+compared to things like oceans.
+Trucking air in from other places is no mean
+feat, but this is an example where going beyond
+‘good enough’ isn’t that restrictive.
+A couple notes, Mars has plenty of oxygen,
+oxygen is the third most plentiful element
+in the Universe and it’s easy to forget
+that just about everything we think of as
+rock or dirt has a ton of oxygen in it, a
+third of Earth’s mass is oxygen and very
+little of that is in our air and any rocky
+object will be similar, and any icy object
+is almost entirely oxygen, as H20 might be
+two hydrogen and one oxygen, but oxygen masses
+16 times as much as hydrogen and makes up
+89% of the mass of water.
+So you don’t need to bring oxygen in for
+air but most of what we call air is nitrogen.
+No we don’t need that to breathe but our
+plants do.
+You can pressurize domes to normal Earth atmosphere
+even though they’re only a few meters, not
+kilometers high, and thus use very little
+nitrogen, which Mars hasn’t got a lot of
+as best we can tell, but if you want to grow
+plants outdoors you need that nitrogen in
+bulk and probably need to raid Venus or Titan
+for it.
+Now you also don’t need full pressure to
+walk around in, indeed we routinely under-pressurize
+space suits so they leak less, leakage is
+always faster the bigger the pressure difference
+on the sides of a crack or seam.
+So we go with pure oxygen a lot for suit mixes
+and a lower pressure inside that suit.
+But if you want that regular pressure and
+air on Mars, you actually need to use more
+air per unit of surface area than Earth has,
+as pressure outside a sealed suit or a can
+is essentially weight of air over you, and
+the same mass of air on Mars has less weight,
+so you need more air to get the same pressure,
+and since there is less gravity yanking it
+down, it’s going to rise up even higher
+toward space than our atmosphere does.
+Another option is to use a denser mix of gases,
+possibly using a gas like Sulfur Hexaflouride
+which is an inert, non-toxic gas that is a
+potent greenhouse gas and is 5 times heavier
+than air.
+It also has the effect of lowering the tone
+of your voice, which may mean we come to think
+of Martians which live in such an atmosphere
+as having deep voices.
+That is going to result in some very different
+weather patterns but they’d still be fairly
+analogous to Earth, especially in contrast
+to the current weather there, which is dust
+storms.
+It also means all your orbiting objects need
+to orbit higher not to be getting dragged
+on by the atmosphere, and furthermore, it
+also negates some of the advantage Mars has
+over Earth to a spacefaring civilization,
+since its low gravity and minimal atmosphere
+make launching from ground to orbit much easier.
+You need to launch higher and through more
+air, though it would still be easier than
+on Earth.
+Of course speaking of orbits, and of weather,
+which is largely driven by the Sun, which
+Mars gets less off, we should talk about the
+orbital infrastructure that has to come with
+terraforming Mars.
+One critical difference in colonizing planets
+as opposed to getting off one, you always
+build your orbital infrastructure up before
+and during building your civilization up,
+not after, as we did here on Earth.
+It’s easier to get into the orbit of Mars
+than to land there.
+Truth be told it makes more sense to put a
+space station around Mars or on one of its
+tiny moons before we set a base up on Mars,
+though I can’t imagine us bringing ourselves
+to make the long trip there to drop off a
+station then follow that up with a later mission
+to plant a flag down on the surface.
+Key point though, if you’re doing big stuff
+down on Mars, you’re doing it with a space
+and orbital industry in play and in a big
+way, so you might as well look to that for
+options for dealing with the magnetosphere
+and low temperatures.
+Folks like to ask about drilling a hole down
+into the Martian Core and setting off nukes
+to spin its core up to make a magnetosphere,
+and honestly that’s not a logical approach.
+Especially as you’re talking about sending
+down so many nukes to get that job done that
+it would make the whole cold war arsenal look
+like a package of firecrackers.
+While that is admittedly not that big a deal
+when we’re talking about trucking in whole
+oceans its still overkill for no effect.
+As it turns out we actually know how to make
+magnetic fields without using a billion, trillions
+tons of spinning molten metal, and an electromagnet
+around the planet or placed between Mars and
+the Sun at the Lagrange point is an option.
+There’s often a desire in fiction or discussions
+of the future to make a terraformed planet
+somehow absent of technology after the process
+is done, I think that’s part of the objection
+folks often have about orbital habitats like
+the O’Neill Cylinder too, but an artificial
+magnetic field like that, even if it broke
+down, would not result in the planet outgassing
+its atmosphere in mere minutes or even centuries.
+That’s more than enough time to fix the
+problem, even if somehow things got so bad
+that a handful of survivors had to rebuild
+and repopulate the planet and rediscover the
+technology too.
+Terraformed planets are going to require maintenance
+too, and the more terran you want the place,
+the more maintenance is going to be needed,
+even for stuff like the local ecology.
+If you’re wondering about how much power
+it takes to run a magnet around Mars, or put
+a big magnet at the Martian L-1 point with
+the Sun, the usual figure is about a gigawatt,
+which is fairly trivial even by modern standards,
+let alone that of any civilization thinking
+about transporting many quadrillions of tons
+of matter to a planet or dumping million of
+megaton atomic devices down into its core,
+and whose uranium or plutonium could easily
+run that magnet’s powerplant for millions
+of years.
+Of course there’s also a giant fusion plant
+on hand too with the Sun right there and that’s
+a handy thing, since giving Mars enough light
+to be comfortably warm will take way more
+juice.
+It’s a popular notion to suggest we could
+just release a lot of greenhouse gases there
+to raise temperatures, but that’s a non-ideal
+patch.
+Just as a reminder, Carbon Dioxide in large
+concentrations has a lesser known effect of
+making the people breathing into lethargic
+morons, and it kinda defeats the purpose of
+terraforming a planet if you need a breathing
+mask and air scrubber when outside.
+Other greenhouses gases are certainly options
+but water for instance, while a great greenhouse
+gas, has this tendency to form clouds and
+to fall down, and if you’re aiming for high
+concentrations, that rather spoils the option
+of going on walks on the Martian lands or
+having a picnic.
+Methane is a great greenhouse gas, and is
+actually odorless it just tends to be produced
+by processes that aren’t, it’s also flammable.
+We have plenty of others like Ozone or Nitrous
+Oxide, but my feeling is that folks would
+not want any of these in their air in large
+enough quantities if there was an alternative.
+Which there is.
+The notion of building a great big lens at
+the Martian L-1 or a whole lot of orbiting
+mirrors can strike people as a huge effort
+but it really isn’t.
+Indeed it’s probably the easiest manufacturing
+process involved in the whole terraforming
+effort, as mirrors and lenses are very thin
+things.
+We were talking about dropping many millions
+of cubic kilometers of water and air on the
+planet, in contrast a mirror as thick as the
+one in your bathroom but with a volume of
+a single cubic kilometer of glass or aluminum,
+would fold out to be as big as most countries,
+and we can make mirrors a heck of a lot thinner
+than the one hanging on your wall or medicine
+cabinet.
+Not that you’d make a single mirror or lens,
+you’d do a ton of them, and you’d have
+to be replacing, re-polishing, or recycling
+them occasionally, but I’d be surprised
+if it took as much effort to build and maintain
+enough of those to heat Mars up to tropic
+weather and keep them up till the Sun expanded
+to produce that effect on its own in a few
+billion years took anything like as much effort
+as trucking in all that air and water did.
+And if you’re putting in all this orbital
+or Lagrange point infrastructure, you might
+as well put in power satellites and keep your
+industries mostly up in orbit, no point despoiling
+the planet you just invested huge amounts
+of effort into turning green.
+It’s also way easier and faster than moving
+the planet.
+Of course it’s not Springtime on Mars unless
+you’ve got trees and grass blooming new
+leaves and flowers, and that takes us back
+down to the ground, because we also have to
+make all our soil.
+This is another case where what we can do
+in domes is a lot easier than planet-wide
+and in the open.
+Given sufficient mastery of biotechnology
+we can probably tailor us up some lifeforms
+that could cheerfully live in a vacuum stuck
+to the side of a desolate airless asteroid,
+so cooking up something that can live on Mars
+is almost certainly doable long before we
+have sufficient power and automation to be
+thinking about these kinds of mega-engineering
+approaches to terraforming we’ve discussed
+today.
+That does require advanced tech, whereas most
+of what we’ve discussed thus far does not,
+it’s huge but simple, like the pyramids
+or the Great Wall of China.
+In a dome, you can pressurize and light it
+and mix up some basic dirt that’s not toxic
+for plants to live in.
+While the gravity is lower we already know
+plants do fine in lower gravity, but things
+change when you’re talking about an open
+and planet-wide ecology.
+We can’t ignore all the biogeochemical cycles
+that help us deal with a lot of nutrients
+flowing down out of dirt and into the bottom
+of the ocean, we can’t ignore that the rock
+on Mars is not chemically the same as what
+it is on Earth and not something you could
+just throw in box with air and water and light
+and some seeds and micro biota and expect
+to get healthy plants from.
+You are going to have to make every last inch
+of soil on that planet, and you might decide
+the easiest and most sustainable approach
+is to plow up several meters everywhere you
+go, throw that into giant mobile separators
+to get the basic chemistry and soil particle
+size and shapes right, dump it into huge bioreactors
+full of nutrient and bacteria, bake down a
+layer of ceramic or foil to act as a liner
+to keep lower layers of Mars from contaminating
+that new soil, then dump the slurry back down
+again in layers as you start getting plants
+and roots in there so all the stuff doesn’t
+mudslide on you as you start the weather and
+rains going.
+Again, terraforming is a very destructive
+process even when done right.
+Especially if you want to do it fast, and
+since even fast is a process of centuries,
+that’s probably the path you’ll go, especially
+since you are not going to even try terraforming
+planets unless you’ve got so much power
+and automation that you don’t really need
+to try to be frugal about manpower.
+Keep in mind though that’s why we often
+say rotating habitats are better, since, ironically,
+it is actually easier to build and terraform
+a big metal can than a genuine existing planet,
+even adjusting for the size differential of
+living area.
+You go beyond domes, you’re going all in
+for a project that will dwarf any endeavor
+we’ve ever done before, and indeed probably
+all of them combined, before you ever see
+your first oak tree blossoming there that
+hasn’t been so gene-hacked that it probably
+has less relation to a terrestrial oak tree
+than you or I do.
+We can’t ignore all the ecological cycles
+that even once in place in simple form, are
+not going to mimic Earth too well.
+A tree might grow just fine in low Martian
+gravity, indeed it might grow far better and
+get you trees that sneered at little redwoods,
+but that sort of thing really affects all
+the ecology going on under its majestic branches
+and canopy.
+You can probably force it to mimic Earth,
+but this is an example where not only would
+‘good enough’ tend to come into play,
+but likely be viewed as a bonus feature.
+There’s probably a trillion planets out
+there in this galaxy that are as amenable
+to terraforming as Mars is, and doubtless
+at least many thousands will be close enough
+to Earth in almost every variable of lighting,
+gravity, calendar, etc that most folks wouldn’t
+notice without careful measure, so for all
+the others, why bother making carbon copies?
+Better perhaps to make every planet unique,
+where you terraform only the low-hanging fruit
+or those aspects we really need to feel at
+home, once we’ve adjusted to our new home,
+mentally or even physiologically.
+In that light, of course, we might often find
+that expediting our own adaptations, or going
+beyond what evolution or even biology would
+permit, might be a path that is easier or
+offers us more uniqueness options than terraforming,
+what we call bioforming.
+And of course that’s something we arguably
+have already done extensively with a lot of
+life on Earth, even our best friend, the dog,
+just ask the poodle.
+But for Mars, the first world we think to
+terraform, and arguably our closest sandbox
+to experiment and perfect our technique on,
+I think we can’t really all say we’ve
+terraformed it, brought spring to a desolate
+and dead world, until any regular old modern
+human could take their regular old modern
+dog out onto the Martian prairies and forests
+with a Frisbee and a picnic basket, and in
+no more gear than a t-shirt, shorts, and hat.
+For me, that’s ‘good enough’, and while
+getting there would take a long time, and
+an incredible amount of work, as we are essentially
+building an entire world, as we saw today,
+it can be done, if we want it bad enough.
+We were talking today about how you need to
+generate a magnetosphere on Mars to keep the
+air in and adjust pressure and how that’s
+going to work out as a thicker and taller
+atmosphere than on Earth because of the lower
+gravity.
+Things like this can be counter-intuitive
+sometimes and it helps to have a background
+in the sciences to grasp it, and if you want
+to learn more about pressure and how it works,
+there’s a good quiz on it over at Brilliant,
+as well as courses on magnetics if you want
+to understand how those help keep atmospheres
+in and how much energy it would take to run
+one for a whole planet.
+Brilliant is a problem solving website and
+app with a hands-on approach, with over 50
+interactive courses in math, science, and
+computer science.
+All of their courses have storytelling, code-writing,
+interactive challenges, and problems to solve,
+and you can even download these courses to
+take offline with their mobile apps.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+So next week we’ll be celebrating SFIA’s
+fifth anniversary by returning to one of our
+favorite topics, the Fermi Paradox, to look
+at the role that Extinction might play in
+either limiting the number of intelligent
+civilizations that arise or ending them after
+they’ve arisen as galactic players.
+The week after that, we’ll return to the
+Alien Civilization series to look at the popular
+concept of Ascended Aliens or other examples
+where an advanced civilization might simply
+lose interest in our Universe, or at least
+it's more primitive occupants, in Aloof Aliens.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to support future episodes,
+you can donate to us on Patreon or our website,
+IsaacArthur.net, linked in the video description
+below.
+Until next time, thanks for watching, and
+have a Great Week!

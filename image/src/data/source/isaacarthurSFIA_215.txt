@@ -1,0 +1,892 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+We often refer to solar energy as the ultimate
+renewable energy.
+Strictly speaking, that’s only true if you’ve
+figured out how to periodically renew the
+Sun, but don’t worry, as we’ll see today,
+it is possible.
+A few weeks back we were discussing what happens
+if we can’t leave Earth, if all our hopes
+for interstellar colonization, to build homes
+around new stars, just turns out to be impractical
+or undesirable.
+I argued that while I very much hope for a
+future in which we journey out to the galaxy,
+that even if we were confined to our own solar
+system or just our own world, that we still
+had a very bright future ahead.
+Indeed somewhat ironically, that is very literal
+as our sun grows brighter everyday and a billion
+or so years down the road would be too bright
+for our world to keep its seas and sky.
+If nothing is done, Earth would be turned
+into a hot airless world much like Mercury,
+and then as the sun grows old and expands,
+and Mercury is swallowed up, there’s a chance
+that solar expansion into a red giant might
+consume Venus and even Earth itself.
+Older models of stars tended to assume they
+grew cold and died out slowly, freezing planets,
+and indeed that would be Earth’s fate if
+the Sun didn’t consume it.
+After that roughly billion-year long epoch
+in which the Sun had been an enormous red
+giant, and then had shedded much of its matter
+and collapsed into a white dwarf, Earth might
+very well get resettled , but that white dwarf
+would be far too dim unless Earth was brought
+closer, and it would continue to grow dimmer
+as the eons rolled by.
+In speculation, both science and science fiction,
+it was often contemplated that we might find
+some way to refuel our own Sun, and that’s
+what we’ll be discussing today, but it is
+important to understand that, much like running
+out of air in a space station or spacesuit,
+the first problem isn’t actually running
+out of a substance, but generating an excess
+of another.
+Humans breathe oxygen and exhale carbon dioxide,
+the amount varies by the individual and activity,
+but think between a pound to a kilogram a
+day, but carbon dioxide is lethal to us at
+relatively low levels, so, long before we
+run out of oxygen, we would be poisoned by
+our own CO2, though we often get around this
+by blowing air out that still has plenty of
+good oxygen in it, just to purge the CO2 building
+up.
+Same concept applies to our Sun, it is burning
+through its fuel, hydrogen, but in the process,
+it turns that into helium.
+It also contains plenty of other, heavier
+elements made in the older, dying stars that
+formed our solar system.
+Most of the elements heavier than hydrogen
+and helium, which are all called metals in
+discussion of stars, are in our Sun, not just
+our planets.
+They also positively affect a star’s lifetime,
+actually extending it, whereas the buildup
+of helium shortens a star’s lifetime.
+And today we’ll discuss harvesting those
+for construction uses, but also as part of
+a process of extending our Sun’s lifetime
+almost indefinitely, and even other stars
+as well.
+Including rekindling dead stars like white
+dwarfs, neutron stars, and even black holes.
+Now, this episode isn’t going to be a deep
+dive on how stars fuse hydrogen into helium
+or into other final products, nor on how stars
+die, but the key point for today is that,
+when you have a high enough pressure and temperature,
+protons will slam into each other far more
+often, and with far more energy, and for a
+given collision energy, they have a chance
+of sticking together in a way that turns the
+three quarks in each of those protons, two
+up quarks and one down quark, into a new big
+ball of six that has 3 quarks of each type
+rather than 4 up and 2 down.
+Most of the time, that is not what happens,
+we get a diproton, which just falls back apart
+into two protons.
+But sometimes we do get that quark change;
+this is a proton and neutron now, or a deuteron,
+the atomic nucleus of a deuterium atom, an
+isotope of hydrogen.
+In our antimatter factories episode, we discussed
+more on how quarks work and how they can change
+like that.
+Deuterium running into another deuterium to
+form helium, is often mistakenly thought to
+be the next step, since a pair of deuterons
+contains a pair of protons and neutrons, which
+is what helium is, but that’s actually not
+the normal situation.
+Once a deuteron is made, there are four main
+fusion reactions that can occur with it; inside
+your typical star.
+It can run into another proton and absorb
+it, and now it’s helium-3, two protons and
+a neutron.
+Two of these can collide and produce a helium-4
+atom, plus a pair of regular hydrogen nuclei,
+lone protons again.
+And we call this the proton-proton or the
+p-p 1 branch.
+Sometimes a pair of deuterons slamming together
+will make Helium-3 plus a neutron, sometimes
+it will make tritium and a proton, or a hydrogen
+nuclei with 1 proton and two neutrons and
+another lone proton.
+Deuterium bouncing into tritium is very rare
+because tritium only lasts around a dozen
+years before decaying into helium-3, but it
+is a very easy fusion process into helium-4
+plus a neutron, and is why we want it for
+controlled fusion here on Earth.
+A Deuteron plus Helium 3 can also produce
+a helium-4 atom plus a lone proton too.
+Key thing is that none of this ever happens,
+from an observer standpoint.
+These particles are moving insanely fast in
+a very dense environment, so they are slamming
+into each other constantly, and at high energy,
+but the odds of two protons colliding and
+forming a deuteron is less than one in many
+trillions, when these collisions happen.
+The average proton will kick around the Sun’s
+core for 9 billion years, colliding almost
+constantly with other protons and bigger nuclei,
+before successfully completing step 1 and
+merging with another proton to become a deuteron.
+A star with higher pressure and temperature
+is exponentially more likely to have this
+process occur, which is why a star only twice
+as massive as our own Sun will go red giant
+in less than 2 billion years, whilst a star
+that’s half as massive as our Sun can live
+nearly 60 billion.
+It’s also why you don’t get stars much
+bigger than our own Sun; the way Jupiter is
+bigger than our planet, they couldn’t even
+form before they would hit such a rate of
+fusion that they’d be torn apart by their
+own immense heat.
+This is a factor in why you often have a whole
+bunch of giant stars form near each other,
+and often a big star will burn itself out
+and explode before it could gain more mass,
+especially as its blowing tons away as solar
+wind once ignited.
+This is also why a supernova, in mere seconds,
+can fuse more particles than our sun will
+in its whole lifetime.
+A given particle is colliding many times per
+second, they’re smushed together very tightly
+compared to normal matter, and moving vastly
+faster.
+When the odds for fusion, from those many
+collisions per second drop, from 1 in a quintillion
+per second, like in our Sun, to just one in
+a second, like in a supernova situation, things
+change.
+This is why we joke on the channel about controlled
+fusion not being about trying to replicate
+the fiery conditions in the heart of stars,
+but rather needing to go far beyond that,
+and we achieve something closer to that with
+a hydrogen bomb detonation.
+It is all about having an energy-level in
+the particle collisions high enough to make
+a fusion event likely.
+Core matter of our own sun produces very little
+power, it would take several tons of it to
+run a lightbulb, but there’s an awful lot
+of sun and those tons of matter will run that
+lightbulb for eons, fusion is millions of
+times denser in energy than an equal weight
+of chemical fuel, like gasoline.
+Now, in a star, all these fusion events, rare
+as they are, make the star hotter, and heat
+can only escape from them by radiation, so
+the star cools very slowly.
+Dead ones take eons to cool enough to not
+be glowing white-hot anymore.
+In living ones, or stars on the main sequence,
+all that trapped heat makes the individual
+particles move very quickly and they then
+shove apart, while gravity holds them together,
+and the hotter it is, the more likely fusion
+is to occur, which would make it even hotter,
+but the hotter it is, the harder it is for
+gravity to hold it together and keep the core
+pressure high, so every star reaches a size
+and temperature that is stable, what we call
+hydrostatic equilibrium.
+Pressure and temperature are maintained by
+the rate of fusion and radiation – or sunlight
+given off.
+But it’s not really stable.
+As time goes on, all the deuterons and helium-3
+and helium-4 particles start getting more
+common.
+In a younger star, there’s less helium,
+and helium is denser than hydrogen, so, as
+fusion makes more of it the star gets denser.
+The star’s pressure is a function of that
+density and temperature, so, it rises; and
+the fusion rate rises with it.
+Thus stars slowly get hotter as they age,
+and thus brighter.
+Eventually this tips them into being a sub-giant,
+which can be several times brighter than the
+star was when it first ignited, and then it
+transforms into its red giant phase, which
+can be many hundreds of times brighter than
+the original star.
+In truth, in these stars, what you really
+have is a small core and an enormous, thin
+atmosphere, whereas main sequence stars have
+relatively large cores.
+Emphasis on relatively, as our Sun packs about
+a third of its mass into its core, but that’s
+only about a fifth to a quarter of the Sun’s
+width, about a percent of its volume.
+So a grape inside a grapefruit, small but
+still huge compared to a red giant, where
+the analogy of the core would be more like
+a shriveled-up grape, our raisin inside a
+big beach ball, or even larger.
+All that beachball region is too expanded
+out from the core to swap in new fuel, and
+the helium content is rising and making the
+core even denser, so it chokes the star off
+eventually, as layers of the outer red giant
+are shoved out, away into space, while that
+inner bit just shuts down into a big ball
+of helium in most stars, though bigger ones
+can go through another fusion cycle to make
+heavier elements.
+I mentioned earlier that the buildup of helium
+accelerates fusion and thus kills a star,
+but, I also mentioned that other metals slow
+fusion down – every star has a metallicity,
+and older stars that formed when the universe
+was young, and with fewer metals, have lower
+metallicity… which again, in astronomy,
+is anything which is not hydrogen, helium,
+or one of their isotopes.
+It is far harder to shove two bigger nuclei
+together to fuse into something yet larger,
+so it requires far more pressure and density
+and temperature to make that likely.
+So, in a normal star, those as massive as
+our sun or less, all those metals inside it
+just bounce around and their collisions produce
+nothing, a hydrogen isotope slamming into
+a bit of iron or neon is just going to bounce
+off.
+The more of those metals that are in there,
+the slower a star burns.
+It might seem strange then, to try to remove
+those metals, solar systems form from the
+same basic cloud; planet and star alike, and
+that means most of the metals and useful elements
+are in our Sun.
+It might seem crazy to think of removing those
+from a star, but as we’ll see in a bit,
+it can be done.
+Now, a white dwarf is the final state of very
+nearly every star, but because most stars
+are less massive than our own Sun, and the
+Universe hasn’t lived long enough for those
+stars to die off yet, the ratio of bigger
+stellar remnants is higher, but 97% of all
+stars currently in our galaxy should end as
+white dwarfs.
+But again we do have a fairly large percentage
+of neutron stars and black holes, just because
+the overwhelming majority of stars large enough
+to form either, having lifetimes much less
+than a billion years, have died already.
+Thus, we think we have about 10 billion white
+dwarfs, about a billion neutron stars, and
+about 100 million black holes in this galaxy.
+Those are estimates, but it makes us about
+1% black holes, 10% neutron stars, and the
+rest, white dwarfs, currently, with dozens
+of times that as stars still on the main sequence
+or red giants.
+Over time, the white dwarfs will become more
+common, but they’ll also slowly cool to
+being black dwarfs; ultra-dense balls of helium
+or carbon, mostly.
+Now, this episode is really more about refueling
+our Sun so it never goes sub-giant let alone
+red-giant and white dwarf, but let’s talk
+about refueling these first.
+Giant stars exploding as supernovae is just
+one type of them, called Type II, and these
+end as neutron stars or black holes.
+Type 1a are actually white dwarfs which sucked
+in new hydrogen off a binary partner and exploded.
+This is actually very common because stars
+often form as binaries and those pairs are
+usually not the same mass.
+So one will go red giant first, the more massive
+of the pair, and often they’re close enough
+that the other smaller star will end up orbiting
+inside that red giant or stealing mass off
+it, this can cause them to slow in their relative
+orbit, from drag and mass exchange, so that
+they’re even closer.
+However, once that bigger star turns into
+a white dwarf, it will be the second star’s
+turn to go red giant, and now that white dwarf
+is gaining hydrogen from the outer layer of
+the red giant.
+A White dwarf is essentially a star core that’s
+run out of fuel, so dropping hydrogen on it
+just causes fusion and it glows again.
+Big chunks of this can cause a regular nova.
+These are far more common and less bright
+kind we see that are temporary new stars in
+the sky.
+There are usually several in our galaxy each
+year, typically in Sagittarius, which is where
+the galactic core is, and novae can happen
+repeatedly to the same star, but they are
+less bright so we only see the ones in our
+own small corner of the galaxy, whereas supernovae
+are visible galaxy-wide.
+There were a few naked-eye visible ones in
+2021, though barely visible, some are much
+brighter, they last days to weeks, and recurring
+novae can be periodic.
+For example if the binary twin and it orbit
+every decade, then a lobe of gas can get sucked
+away at that frequency.
+You also can get white dwarf pairs left behind
+that eventually spiral into each other.
+White dwarfs vary in mass, often around half
+that of the original star, but they can only
+be about half again as massive as our own
+sun before they hit a critical point and can
+now begin burning carbon and that result in
+a rapid progress to supernova and nothing
+is left behind by this, no neutron star or
+black hole.
+This results in a very specific and characteristic
+explosion, and one visible by telescopes billions
+of light years away, so we can very precisely
+determine distance to a type 1a Supernova
+by measuring its brightness to us and the
+red shift of its various spectra.
+That’s been instrumental in so much of our
+research into the size and nature of the Early
+Universe, Hubble Expansion, and Dark Energy.
+But it’s not the sort of thing you want
+to have happen in your backyard, and indeed
+your typical nova is a bit much and brief,
+so instead you would be manually feeding in
+hydrogen at a steady rate.
+You could potentially set this up in a binary
+system with sufficient megastructures, but
+you could trickle feed our own Sun Jupiter
+for many millions of years of good light.
+And if its white dwarf version was about half
+its current mass, it should be able to take
+a thousand Jupiters before exploding.
+However this light is not sunlight, indeed
+we have objects called Super Soft X-Ray Sources
+that emit low energy x-rays, between 90 to
+2500 electron volts, where red photons are
+about 2 electron volts, or eV, and blue light
+is about 3.
+UV, or ultraviolet, runs from 3 to 30 eV,
+then you get into the X-ray range, Hard X-rays
+are about 1000 to 20,000 eV, beyond that you
+get into gamma rays.
+We believe these soft x-rays sources are from
+white dwarfs and produced by steady nuclear
+fusion on a white dwarf from small but constant
+matter injection from a companion.
+They’re still enormously bright, the dimmer
+ones are a hundred times brighter than our
+Sun, but a shell constructed around one which
+could absorb the x-rays and emit them as safe
+visible light could run a Dyson Swarm a hundred
+to even ten thousand times as large as one
+made around our modern sun could support,
+whereas the typical white dwarf is hundreds
+or even thousands of times less bright than
+our Sun.
+You should be able to import hydrogen to a
+white dwarf though and with sufficient effort
+keep it fed and modified to mimic the original
+star it came from and for a period of time
+longer than it originally lived on the main
+sequence.
+Everything landing on it is fusing after all,
+whereas most stars don’t fuse all their
+mass.
+That mass limit, the Chandreskar limit, where
+they explode, is slightly higher if the star
+is spinning very rapidly – dead stars typically
+do too, pulsar neutron stars can spin in seconds
+or less, rather than days or months like many
+planets and stars do.
+It should be a bit higher if the white dwarf
+has cooled a lot too, so a civilization reigniting
+a white dwarf this way probably could push
+that limit out a bit by a mix of patience
+and dropping the matter to maximize angular
+momentum, speeding the dwarf’s spin rate
+up.
+Eventually though your star is going to reach
+that maximum mass and you would then have
+a ton of time while a white dwarf that massive
+cooled, but you are done, and anything more
+will blow it up, possibly excluding the careful
+dropping of a micro-black hole into it.
+Neutron stars would follow a similar path,
+though adding mass to them not only eventually
+would push them into being a black hole, but
+could cause a starquake, which can result
+in a gamma-ray burst good enough to wreck
+the ecosystems on worlds around neighboring
+stars several light years away.
+Again not something to play around with in
+colonized areas of the galaxy.
+Ironically black holes are the safest thing
+to feed, you just pick a material that can
+absorb gamma and x-rays well and has melting
+temperature hot enough to glow in the visible
+light range, like tungsten, and put that as
+a spherical shell around that black hole,
+then dump matter down into it at the rate
+which you want.
+The accretion disc that forms will give up
+energy at a rate far more efficient than normal
+stellar fusion and thus let you extend star
+lifetime even more.
+Indeed you could trickle feed a white dwarf
+into a black hole and get positive energy
+out of that.
+There’s all sorts of ways to use black holes
+for power this way, including creating a micro-black
+hole whose radius was exactly the right size
+to let you dump it into a gas giant and have
+it suck in matter at a sustained rate, heating
+the gas giant up, and probably producing secondary
+fusion near the black hole too.
+Blackholes don’t really gobble things up
+the way scifi tends to indicate.
+See our episodes Making Stars or Colonizing
+Black Holes for more on these options.
+And they are neat options for reviving dead
+stars, but let’s get to keeping our Sun
+alive.
+First, as we discussed in greater detail in
+our episode Starlifting, it is possible to
+remove matter from a star.
+Indeed they naturally push matter off them
+all the time, that’s what solar wind is
+and what flares and coronal mass ejections
+or CMEs are.
+If we heat a spot on the sun up, it will tend
+to erupt out with a spray of hot plasma.
+Now the upper layers of the sun are not thick,
+don’t think of these eruptions as magma
+like blasts.
+The photosphere of a star is considerably
+thinner than air.
+That photosphere is what we usually think
+of as a star’s surface because it’s the
+layer the light we see comes from.
+Light particles created below it usually will
+pass through enough matter to be absorbed
+by it and reemitted at a new frequency as
+a new photon.
+The Photosphere is where we’re far enough
+out from the Sun that things have thinned
+down and there’s not much left above, so
+a photon passing through can often get away
+without being absorbed and reach our eyeball
+millions of kilometers away.
+The temperature of the photosphere therefore
+controls what frequency of light we see.
+The core itself emits light in gamma and x-rays
+ranges just like those naked or collapsed
+degenerate cores we see with white dwarfs
+and neutron stars, or the accretion discs
+of black holes.
+That photosphere is about 100 kilometers thick
+and is made up of giant convective cells of
+plasma we call granules that move at around
+7 kilometers per second and usually last about
+20 minutes.
+Think of these as your boiling bubbles in
+a pot of water.
+If we heat these up more, they will blow more
+matter off into the solar system that we can
+capture.
+Everything coming off the sun is ionized plasma
+of ions and electrons, so shoving it around
+magnetically is an option that works well.
+Now, folks tend to assume all the heavier
+elements collect in the centers of stars and
+the onion models we show of supernovae don’t
+help with that, where you have layers of ever-heavier
+elements, but that’s not really how it works
+and why the bubbling pot analogy is more apt.
+Bigger atoms are denser and thus do tend to
+slowly sink but the whole thing is highly
+mobile and thus the photosphere of our Sun
+is 74.9% hydrogen, 23.8% helium, and the remaining
+1.3% is other metals, with oxygen, carbon,
+neon, and iron making up most of that and
+in that order.
+Mining those out is just a matter of blowing
+them out, and we detailed how in our Starlifitng
+episode but the key ways are either to shove
+it off magnetically or by super heating spots
+on the Sun, or some combination thereof.
+One of the methods involves making many rings
+of satellites around the star, made of stations
+that you can lift or drop, to let us expand
+and contract each ring, which creates a big
+magnetic shove below, then to do them as in
+sequence as a wave to force matter to be squeezed
+off at the north and south pole then caught
+somewhere above by some mixture of magnetic
+vacuum cleaner, reverse ion drive, stellar
+windmill, and statite.
+Your rings then use solar power to shove magnetically
+back up in altitude for another drop, creating
+an accordion-like pumping action.
+This method pushes it out the poles rather
+than into the orbiting plane of the planets
+and an emerging Dyson Swarm.
+And this can all be powered by the Sun’s
+own illumination and requires no special new
+science or super materials.
+Just massive effort, and it’s the sort of
+thing a civilization does when it's already
+disassembled all its asteroids and smaller
+moons and is trying to decide if they need
+to disassemble planets for construction materials.
+The Sun has more mass than all those planets,
+and metals, so it becomes an attractive option,
+but more relevant, it’s a civilization that
+already has a massive presence in space and
+has climbed a long way up the Kardashev Scale.
+So building big ring stations around your
+own Sun is not some leviathan task, it’s
+probably comparable to building a highway
+system for them, and it's how they get the
+mass to build more civilization.
+This might be something we’re contemplating
+in even a few thousand years, but for our
+purposes today it would be okay even if we
+waited several million.
+Because the key thing is that while it is
+nice for removing metals, for fun and profit,
+you are also removing tons of hydrogen and
+helium too.
+And you can just drop the hydrogen back in
+if you want but keep the helium.
+Indeed, lowering any star’s mass is going
+to lengthen its lifetime, but by pulling the
+helium out of the photosphere constantly,
+as it mixes with lower layers and seethes
+around, we can decrease the overall helium
+content.
+This is step one to lengthen the Sun’s lifetime,
+because we’re removing the poison of helium,
+which speeds fusion up and heats a star, and
+in doing so we’d actually make the sun a
+bit dimmer by lowering its mass too.
+We get about 600 megatons of hydrogen turned
+into helium, neutrinos, and sunlight by the
+Sun every second, and virtually all of that
+mass is helium.
+So, while removing any at all would help extend
+the Sun’s life, to keep up with things,
+we want to remove 600 megatons per second.
+Again we’re not refueling the Sun yet, just
+removing things which kill it quicker.
+The Sun masses two billion-trillion megatons,
+about three quarters of which is hydrogen
+currently – it had a lot to begin with incidentally
+– but that represents about 75 billion years
+of remaining burning if that was all used
+and at a steady rate, not the five billion
+or so we have before the red giant phase would
+naturally occur.
+Again, we haven’t done anything to refuel
+the sun yet, just removed the helium, and
+we’ve extended its lifespans many times
+over by doing this.
+Technically we are dumping a lot of hydrogen
+back in, since most of our star lifting will
+be hydrogen, but this is more like a solar
+fountain off the poles that we’re filtering,
+not refilling from.
+Which brings up a good question of what we’re
+doing with all that helium. 600 megatons,
+or a bit less, every single second.
+It’s not a horrible propellant for spaceships.
+You could run some very impressive shipping
+by directing external power beams into helium
+tanks that spewed them out the back of a ship
+at a million degrees.
+See our episode from a couple weeks back on
+Owning your own personal spaceship for more
+discussion of that.
+Helium makes a decent radiation shield too,
+if you want to cram it into hollow tanks on
+the outside of spaceships and space stations.
+And you could dump it down black holes for
+more power if you’ve got that technology.
+I generally assume that if it is possible
+and practical to make artificial black holes
+then you’ve figured out how by several millions
+years from now so it should not be out of
+our thoughts for contemplating how civilizations
+power themselves.
+Incidentally Jupiter is 73% hydrogen and 24%
+helium, very similar to what our Sun is and
+what Saturn is, which is what I meant about
+our Sun starting off with a lot of helium
+in the first place.
+I think folks hear the amount of the Sun that’s
+helium and assume that it being nearly a quarter
+helium is why it's halfway through its life
+but no, it inherited almost all of that from
+previous dead stars and the big bang.
+Jupiter contains about 75 million years worth
+of new hydrogen fuel for the Sun, Saturn about
+25 million, and Uranus and Neptune a few million
+each.
+Small potatoes compared to the Sun’s normal
+lifetime let alone its extended helium-filtered
+life, but keep in mind just how long a million
+years really is for a civilization, even the
+smallest of our gas giants would be buying
+us an extension of life hundreds of times
+longer than our entire recorded history.
+Speaking of that, when we’ve discussed colonizing
+giant stars I pointed out that even though
+those measure their lives in millions not
+billions of years, that it still made them
+logical to colonize.
+Its occasionally suggested we would colonize
+everything but these immense and short lived
+stars and I argued in that episode that quite
+to the contrary, these mega-systems which
+might have hundreds of planets and be able
+to support a Dyson swarm a thousand times
+bigger than what our Sun could, might be the
+great empires of future humanity.
+Those stars simply have so much more power
+output and so much more mass.
+They are also way easier to starlift off of,
+as the bigger ones are already gushing off
+planets worth of matter from their sheer enormous
+internal fusion and heat.
+So it’s not too hard to mine them and to
+helium filter them too, especially as you
+lower their mass.
+Well, what to do with that lower mass?
+For our sun, as we pulled off all that plasma,
+we sorted it and dumped the hydrogen back.
+That’s an easy sort too because a magnetic
+field will act a bit like a prism does on
+light for ionized matter of different masses,
+breaking things up by element on large distances,
+a matter rainbow so to speak.
+In these other suns though, fated to short
+lives, we can massively extend their lifetimes
+by not dropping all the hydrogen back in.
+And while I think most systems would prefer
+to keep their excess hydrogen around for long
+term use, I’d imagine they would sell a
+lot and I’d also imagine that Earth and
+our Sun would be in a very good position to
+stockpile at least several thousand solar
+masses worth of hydrogen from the hundreds
+of billions of them spread throughout the
+galaxy.
+Drop in the bucket, bought the planet and
+solar system that’s likely to be the richest
+and most technologically advanced system in
+that galaxy for many millennia to come.
+Presumably you store that as big planet-sized
+or even brown-dwarf sized gas stockpiles.
+Saturn-sized ones are a nice compromise spot
+as a planet composed of hydrogen of Saturn’s
+mass and size could have a shell wrapped around
+it to further minimize leakage of hydrogen,
+which would have a surface gravity similar
+to Earth’s.
+Shellworlds or Supra-Mundane Worlds of this
+size don’t really need active support, because
+the hydrogen inside – or helium for that
+matter – would prop the shell up the way
+gas in soccer or basketball keeps them rigid.
+You build them about as far from the Sun as
+Earth is, then you cover them with dirt and
+air water and call it a planet, one with around
+a hundred times the living area of Earth,
+and containing enough fuel for the Sun to
+run itself for 25 million years.
+Incidentally, the Sun produces enough sunlight
+to light up 2 billion Earths or 20 million
+of these Saturn-Shells, so, hypothetically
+you could have 500 trillion years worth of
+fuel stored in them, and you could be replenishing
+their hydrogen with helium to keep the mass
+right as you tapped them.
+I think you would probably not go that route
+since it would spike the solar system’s
+total mass up 6000-fold which definitely does
+some strange things to orbital periods, plus
+making a dyson swarm of actual planets is
+not a good plan.
+You could do many Klemperer Rosettes of Planets
+in rings around the Sun, and each one further
+out, and maybe has light beamed in by statite
+mirrors above the Sun.
+Done right, the increased mass of each ring
+can let you keep the ring past it at the same
+year length, as more mass in the center to
+orbit around makes orbits faster.
+Done really right, you could keep each ring
+orbiting with the same year length and fixed
+relative position and build giant bridges
+between them, but that’s a whole different
+topic for a whole different episode.
+But you could have many thousands of them
+near the Sun and many more far away in the
+Oort Cloud, maybe getting power beamed out
+to them.
+Or just running on fusion reactors, a big
+star pump for removing helium is a great way
+to grab deuterium too.
+And while there’s still room to doubt if
+we’ll ever get commercial fusion reactors
+working, you should be able to at least make
+planet-sized deuterium fusion reactor work.
+If we do have artificial fusion, one might
+ask why we would bother doing this extension
+on our own Sun, and more so if we had artificial
+black holes.
+The latter is trickier to argue but that’s
+also much harder technology, and stars are
+likely to be the cheapest fusion power systems,
+it’s a process where letting raw mass do
+the work is likely to result in the minimum
+maintenance and cost.
+It is possible we might never colonize beyond
+this solar system, though it’s hard to imagine
+we could engage in starlifting but not star
+travel.
+We discussed a few weeks back why we might
+be able but unwilling to leave Earth and our
+system, but we might send out robot collectors
+even then.
+So too, our Sun is not stationary, it orbits
+through a giant sea of galactic dust and gas
+and we could harvest a lot of that as we spiraled
+around, by setting up collectors out past
+the heliopause, it's not even a light day
+away.
+We have already sent spacecraft that far,
+Voyager 1 and 2 both got there functioning,
+so we should be able to do it again, and it
+may be feasible to collect ionized interstellar
+gas and bring it home to our own sun.
+I don’t think we should rule that option
+out, or for that matter other higher-tech
+ones like opening a wormhole from our Sun
+to empty space to clear out core matter and
+replace it with hydrogen, or even weirder
+options like opening a gateway to a younger
+universe as an infinite supply of hydrogen.
+More importantly though, Earth is always going
+to be our first planet, and our Sun, Sol,
+our first star.
+And it wouldn’t be like hypothetical birthplaces
+of mankind, where we only know in modern times
+where our first tribe might have come from,
+we’ll never forget Earth and the Sun, so
+it's easy to imagine extreme efforts being
+taken to preserve them for as long as possible.
+Our first sun could then easily end up being
+our last sun too, as others were disassembled
+or died, but Sol remained.
+Rising every morning for untold trillions
+of days to come to give life to our world,
+as it has for so many days before.
+So we were talking a lot about Fusion today,
+in stars and hopefully in power plants in
+the future, and if you want an update on how
+progress is going and what the challenges
+are on Fusion, there’s a great episode of
+Engineering the Future on Fusion over on Curiositystream.
+Also, when I was working on this episode’s
+video portion I ended up subtitling it Holding
+Back Eternity because it seemed like that
+was the main motive for refueling our sun
+specifically, and I thought we’d take a
+few minutes to run the numbers on how long
+we could do that in an Extended Edition of
+our episode, over on Nebula.
+Nebula, which is now the largest creator-owned
+streaming service, was started by a handful
+of us as a way to give creators more options
+for their work and a platform designed for
+creators and their audiences, not ads, and
+every new episode of SFIA comes out there
+a few days earlier and without ads or sponsor
+reads.
+We also have an audio only-version of our
+show available there too, early and ad free,
+as a podcast, as well as all of our extended
+editions like we’ll be having today and
+some Nebula Exclusives like Planets vs Megastructures
+and the Coexistence with Alien series.
+Nebula is a great way to help support some
+of your favorite channels while getting ad
+free content and bonus material.
+Now you can subscribe to Nebula all by itself
+but we have also partnered up with CuriosityStream,
+the home of thousands of great educational
+videos like Engineering the Future: Fusion.
+That lets us offer Nebula for free as a bonus
+if you sign up for CuriosityStream using the
+link in our episode description.
+Again, you can get Curiositystream and Nebula
+for less than $15 a year, just use the link
+in the episode’s description.
+So these kind of insane megaprojects require
+efforts that are mind-boggling, but they get
+a bit more believable when you have superior
+automation, and next week we’re going back
+to the near future to look at what automated
+economies will look like in this next century
+and also discuss worries about unemployment
+in those emerging economies.
+That will be a somewhat serious topic so we’ll
+go from that to our Scifi Sunday episode,
+Stranded on an Alien World, to lighten the
+mood and contemplate how we would survive
+if left on one and we’ll follow four stories
+of people stranded on everything from places
+much like Earth to worlds deader than the
+most barren desert.
+And two weeks from now we’ll contemplate
+the exact opposite of a dead world, a world
+which was alive itself, as we discuss the
+Gaia Hypothesis Theory.
+If you want alerts when those and other episodes
+come out, don’t forget to subscribe to the
+channel and hit the notifications bell.
+And if you enjoyed today’s episode, and
+would like to help support future episodes,
+please visit our website, Isaac Arthur.net,
+for ways to donate, or become a show patron
+over at Patreon.
+Those and other options, like our awesome
+social media forums for discussing futuristic
+concepts, can be found in the links in the
+description.
+Until next time, thanks for watching, and
+have a great week!

@@ -1,0 +1,689 @@
+Sun Tzu said, “Rapidity is the essence of
+war: take advantage of the enemy's unreadiness,
+make your way by unexpected routes, and attack
+unguarded spots.”
+Imagine the strategic advantage then of being
+able to get your troops anywhere on the planet
+in mere minutes by dropping them from the
+heavens above.
+So, today we’ll be discussing dropships,
+troop transports, orbital insertions, drop
+pods, boarding torpedoes, and the general
+notion of how you move relatively fragile
+ground forces around in space and down to
+planets.
+This is a concept we normally think of as
+not being a real-life issue outside of sci-fi
+except in some distant and dystopian future,
+but as we’ll see today, some of the techs
+involved might be in play here on earth in
+this century.
+Dropships is a term that most fans of science
+fiction know pretty well already, it’s one
+of those concepts that pops up in sci-fi and
+has picked up its own name even though it
+has no widely-known existence outside of fiction.
+Wikipedia mentions it as an alternative term
+for a shuttlecraft in a little stub article,
+much like mothership, another term everyone
+knows in the sci-fi community but that isn’t
+a commonly used military, maritime, or aviation
+term.
+But while everyone knows what both are in
+sci-fi, neither is exactly well-defined.
+Motherships are great big vessels out of which
+fighter and enemy landing craft emerge in
+terrifying quantities, something of a mix
+of aircraft carrier and troop transport, dialed
+up to 11.
+Dropships are those landing craft, coming
+down from space or maybe a very high or fast
+aircraft.
+They need to be able to keep their cargo safe
+– soldiers and gear or robot war machines.
+Safe from enemy fire and from the stresses
+of ultra high-speed travel and landing.
+For our purposes today we’ll loosely define
+a dropship as a vessel capable of also acting
+as a pickup ship, in essentially a helicopter-like
+role, with a pilot and possibly able to drop
+off or pick up whole platoons or armored vehicles
+– or maybe even entire battalions – whereas
+a drop pod is assumed to be an uncrewed vessel
+in which a single soldier, vehicle, or maybe
+a squad are landing, and when the pod is down
+it’s down.
+Your forces aren’t able to retreat back
+into it and back to orbit.
+Now, this might be an invasion force landing
+on a planet like Earth, where those dropships
+are burning through the atmosphere at several
+miles or kilometers per second, experiencing
+the same punishing stresses and heat that
+our own spaceships encounter during atmospheric
+re-entry.
+An alien invader isn’t re-entering the atmosphere,
+they presumably weren’t in it to begin with,
+but we often use re-entry as the familiar
+term for that, but atmospheric entry is better,
+and for today’s topic, we also need the
+term orbital insertion.
+These terms often get a bit confused in sci-fi
+jargon versus actual spaceflight terms, which
+themselves are not always uniform either.
+But we do need to contemplate re-entry for
+drop pods too since a sub-orbital flight is
+a very good way to get troops from one side
+of a planet to another, very, very quickly.
+And sub-orbital refers to speed and trajectory
+as opposed to height, suborbital trajectories
+often go to higher altitudes than orbital
+ones.
+Those folks would be re-entering the atmosphere
+but not as fast, as would folks who were in
+something like a quick reaction force that
+orbited a friendly planet ready to deploy
+troops or emergency first responders, such
+as from an orbital ring, or maybe a levitating,
+antigravity propelled ship if you’ve got
+that tech.
+And a lot of the conversation in modern spaceships
+is about minimizing fuel use, so we don’t
+normally contemplate certain options.
+As an example, dropping down at orbital velocities
+makes you a very hard target in some ways
+by sheer speed, but you’re pretty predictable
+in general course.
+But not completely predictable since things
+are bouncing around at hypersonic speeds,
+hitting differing density pockets of air,
+jittering around a bit randomly, so you’re
+still a hard target.
+This is basically what makes ICBMS hard to
+intercept even though you know what the target
+is almost right away.
+In practice, if fuel is no longer your ultimate
+constraint, you want your dropship randomly
+jittering around even more, following some
+random acceleration pattern from side to side
+and even a little up and down on the descent,
+so that nobody can be firing flak cannons
+at you with utter confidence of hitting.
+Especially since most explosives have a rate
+of expansion or speed of shrapnel much less
+than ICBM or orbital speeds.
+And you need that edge since they are probably
+firing a lot of stuff at you.
+A flak cannon is probably cheaper than a dropship
+after all, as is a one-time use missile and
+its hundred siblings sitting in a launch rack.
+Moreover, you don’t want to drop at only
+the speed gravity gives you, faster is better,
+and you don’t want to aerobrake till the
+last moment.
+We need to do that to save fuel but we’re
+in the realm of chemical rockets.
+We can’t rule out a vastly superior spaceship
+drive or fuel to what we have now, as is common
+in science fiction, or other options like
+a dropship coming down on a superstrong and
+superconducting tether that is pumping electricity
+into its enormous engines.
+Or even beaming it down, after all, the troop
+transport or mothership can know the pattern
+the dropship would be using and the dropship
+can use a powered descent to make sure it’s
+at the right place at the right time for intersecting
+with a power transfer beam, which in turn
+can probably be used to cause a lot of havoc
+on the enemy sensors.
+Coordination is a big deal anyway, as even
+if your ships are keeping the orbital bombardment
+to a minimum rather than nuking the place
+till it glows in the dark, they presumably
+are using targeted counter battery fire on
+all the surface to air batteries firing on
+your drop pods.
+Don’t assume those are all getting blown
+up before the drop occurs either.
+Odds are they are giant cannons designed to
+be withdrawn into heavily-shielded bunkers
+or wads of fire-and-forget missiles stashed
+under cover or mobile launchers.
+It doesn’t take much to damage items moving
+at high speed, so they can be small munitions
+they’re firing at you.
+Slamming into a handful of pea-sized metal
+fragments at several kilometers per second
+will scrap anything not as heavily armored
+as a modern tank.
+So you could have an innocuous semi-truck
+or RV that moved around, but it and its hundred
+thousand siblings could all burst open and
+each fire ten thousand anti-ship missiles
+when you begin your landing.
+A billion missiles swarming up to get your
+dropships does not seem an auspicious way
+to begin an invasion, and unless you’re
+planning to wholesale glass the surface, which
+would kind of imply the ground troops were
+unnecessary, you should be assuming your dropships
+are getting fired on as they come in.
+It sure is nice then if your own fleet is
+firing back, taking out those missiles or
+at least putting enough clutter and noise
+in the sky that tracking systems aren’t
+ultra-reliable and all the various shrapnel
+around is more likely to wreck some unarmored
+tiny munition than the armored drop pod it’s
+aimed at.
+It is entirely likely that up in orbit you
+already have a Kessler Syndrome Event going
+on, a cascade of debris from billions of tons
+of space ships and stations blowing up, much
+of which will be falling into the atmosphere
+and could probably be biased in that direction.
+If ground forces are firing on your landing
+vessels, dropping lots of chunks of wrecked
+satellites and defense platforms on them gives
+them lots of other targets to deal with and
+cuts down on the ones slamming into your own
+fleet.
+As we’ve discussed in other episodes, contrary
+to what sci-fi often implies, planets are
+not defenseless if some big armada shows up.
+That seems to make sense when we consider
+how much effort it takes to launch a rocket
+to space while anything in space can just
+drop unpropelled metal balls down on that
+planet as hypersonic munitions.
+Problem is that if we’re talking giant armadas
+of interplanetary or interstellar ships, we’re
+assuming they can get ships moving at faster
+than orbital speeds and much easier than we
+do now, so it isn’t that big an edge, especially
+since the more heavily-armored your ships
+are, the more mass you presumably can casually
+push around at high speed.
+If you can move a megaton battleship and its
+hundred sisters and escorts around a solar
+system at hundreds of kilometers per second,
+then that giant industrialized planet you’re
+headed to can also shoot hundreds of megatons
+of ship-killing projectiles out of kilometer
+long cannons at you at hundred of kilometers
+per second.
+If you can both shoot projectiles at 200 kilometers
+per second, while theirs might lose ten kilometers
+per second of speed climbing out of that gravity
+well and yours gain that, the result is only
+a 10% difference in projectile speed and a
+22% difference in kinetic energy or raw damage.
+Such being the case, the high ground in space
+doesn’t help that much.
+Quite to the contrary it’s like running
+up to some militant fortress factory in pajamas
+and shouting that they had better surrender
+because you have the high ground on this hill
+you’re standing on.
+It’s not that it isn't an advantage, but
+when ten thousand hatches swing open to present
+anti-personnel guns, it's hard to argue the
+balance of forces is on your side simply because
+you have the high ground.
+So the classic sci-fi case of fleets in orbit
+opting to send in ground troops when they
+have the enemy below at their mercy, but don’t
+want to pursue a Scorched Earth strategy,
+is not something we should be taking for granted.
+This might be true if you have a big technological
+or manpower advantage over an opponent, like
+going after some small colony or lower-tech
+civilization, but then your real advantages
+are your quality or quantity of forces, not
+their altitude.
+We need to remember also that the simple existence
+of big invasion fleets, outside of you having
+your enemy at a huge population or resource
+advantage, tends to imply that planet had
+a huge orbital infrastructure and probably
+not just in low orbit.
+You need to be sending in forces to seize
+orbital facilities and habitats, and you probably
+also had to go through layers of other structures.
+Outside of sci-fi we’ve no reason to expect
+the norm is to pop in on the outskirts of
+some star system and zip in at high speed
+unopposed beyond having to engage a few enemy
+system defense ships and a few orbital defense
+stations.
+More likely you’ve spent months plowing
+through minefields and ambushes while any
+of a million space habitats orbiting that
+star are either shooting at you too or demanding
+you acknowledge their neutrality and detour
+around them.
+You are not charging in at ultra-high speeds
+across the landscape unopposed till you get
+to the enemy’s stronghold to sit down for
+protracted siege.
+And when entering a hostile system, the high
+ground isn’t helping much either.
+The Sun is the bottom of our solar system,
+you climb out of its gravity well to get to
+ever more distant and colder worlds orbiting
+it, and that includes millions of minor planets
+in our current solar system, without even
+adding in artificial space habitats and stations,
+and billions of things big enough to be a
+concealed multi-megaton nuclear bomb.
+And if you’re running into a solar system
+at some percentage of lightspeed every random
+rock you hit basically is a nuclear bomb.
+So it is entirely likely your future ground
+forces are getting years’ worth of combat
+experience while you cut your way in trying
+to bribe, intimidate, or invade every minor
+planet and space habitat on your attack vector
+in toward that planet, and it itself might
+have millions of giant mile-wide space habitats
+and facilities in it’s own higher orbits
+that you’d have to plow through too.
+Those folks are not engaging in high-speed
+drops, the various minor planets and megastructures
+have too little gravity to worry much about
+orbital mechanics or to give your dropships
+any free speed.
+I suppose these are technically boarding actions
+but then they’re not really ships and you’re
+not dropping a wooden board or plank across
+your decks to run over and get them.
+Space is not an ocean and we want to be careful
+treating it like it is.
+Which is irritating because all the old Age
+of Sail Ship of Line, or World War 1 and 2
+battleship and aircraft carrier tactics, are
+easily converted into the ocean of space for
+some compelling space combat in sci-fi.
+The same is true of infantry tactics, or rather,
+untrue.
+Your dropship needs to either be able to absorb
+lots of damage or evade it or move so fast
+it barely has time to be shot at, preferably
+all of the above, or your troops aren’t
+getting to the target, except maybe as vaporized
+ash.
+However, it often seems like all the dropships
+or drop pods or boarding missiles we see in
+sci-fi are a lot more expensive and weaponized
+than the troopers on board the ship.
+And in the context of space, where mass is
+your limiting factor, it makes us wonder about
+not just why we’re even bothering to send
+ground forces in those vessels, as opposed
+to large bombs, but also if all that armor
+and technology on the vessel is more valuable
+than its cargo.
+And yes, those are human lives, or alien lives,
+but you’re seriously endangering them by
+having them on board and dumping them into
+a ground battle, and we need to justify why
+that ship isn’t just an AI carrying war
+robots instead of a living pilot and crew
+landing to drop off living troops.
+Even the classic drop pod example, where it’s
+just a big cocoon with a few defense measures
+like maneuvering thrusters and chaff, still
+seems like it’s a lot of extra mass.
+Two of the better known settings for using
+dropships and drop pods, BattleTech and Warhammer
+40,000 respectively, have decent handwaves
+for their settings.
+Those are tabletop games where you’re trying
+to get your giant battlemech or superhuman
+warriors into short range combat, and much
+like Space is an Ocean fleet combat analogies,
+it doesn’t hold water very well and exists
+for the rule of cool.
+That said, a drop pod needs not to be heavy,
+or single-use.
+By which I don’t mean reusable for another
+drop at a later date, it may or may not make
+sense to be hauling these back into orbit
+– rather, the idea that the drop pod might
+serve some function when it gets to the ground,
+even if it is simply dumb metal serving as
+a blast shield.
+We might imagine one blowing a crater at its
+landing site and then rapidly swinging its
+side apart to form shield walls around that
+complete with converting its point defense
+guns into defense turrets on that wall.
+So too, that armor, the bits not too damaged,
+might be a ton of supplies instead.
+It’s your drop pod armor but it’s also
+your power packs for your infantry’s guns
+and power armor, or food, or anything that
+can serve some role as armor and doesn’t
+explode when it gets hit and can then be used
+groundside in some other role too.
+The individual plates of armor might all unfold
+into a hundred small war robots and drones
+too, those not damaged on the landing.
+Assuming whatever you use for fuel doesn’t
+explode easily it might be that you’ve got
+hundreds of armored fuel tanks on your pod
+and the fuel acts as armor too, and you then
+have a lot more options[a].
+Your pod isn’t a dumb brick falling through
+the sky.
+Same if you’ve got classic sci-fi force
+fields running on energy and the same pool
+your thrusters use too.
+You can burn mass or armor or energy to gain
+speed or jink around evasively or lose speed.
+Even a drop pod that’s just dropping under
+gravity needs to use a lot of energy to slow
+that fall, and in practice you want to get
+to your target as fast as you can, meaning
+faster than gravity will accelerate you.
+That’s more speed to burn fuel reaching
+and decelerating from.
+You can save fuel by aerobraking but that’s
+slowing you well before you land and once
+you blow a parachute you become a fairly big
+target.
+It is possible you could have some sort of
+weird inertial technology that lets you pull
+off an instant deceleration[b], or some sort
+of flash temporal stasis that lets your troops
+and pod survive slamming into an enemy ship
+they’re boarding or the ground – also
+known as lithobraking.
+However, your troops might be able to survive
+very fast decelerations.
+They might be robots or cyborgs – we’ll
+be examining the latter next month.
+They might be humans descending in a pool
+of breathable liquid, as opposed to air, that’s
+been kicked around as a way of allowing people
+to survive higher g-forces of acceleration
+for a long while and the European Space Agency
+has studied it and thinks it is plausible
+having people immersed in a liquid ,and breathing
+it too, lets you move from surviving low tens
+of gee’s to hundreds.
+Of course, contemplating surviving breathing
+liquid is not the same as fighting while breathing
+liquid.
+Any technology that widens the limits of possible
+this way probably relies heavily on the professional
+medical assistance at the destination, not
+people who literally want to kill you.
+There’s also the issue with finding a liquid
+that works.
+Perfluorocarbon is the substance usually <<suggested
+but it has a much higher density than water,
+or humans, and thus while you can do liquid
+breathing with it, it wouldn’t work for
+the high-acceleration application, you need
+something, or some mix of somethings, that
+has a density as close to water as you can
+contrive for best effect.
+If you can make such a substance, or modify
+people so they don’t need to breathe air,
+it becomes a bit of no brainer to be using
+it since it will also cushion you against
+impact damage from enemy fire or hitting the
+ground.
+And if you can survive a few seconds of, say,
+500-g deceleration or jinking, that allows
+a change in speed of 15 kilometers a second
+– more than orbital velocity – or a change
+in expected position of over 20 kilometers
+in those 3 seconds.
+That is a big enough shift in anticipated
+coordinates that you could survive a nuke
+going off where they thought you were supposed
+to be.
+And yes, it is entirely plausible that anti-dropship
+batteries might be firing low-yield nukes
+at you.
+High-tech civilizations not only probably
+have cures for cancer and the ability to build
+vacuum-tight bunkers under everyone’s house,
+but can probably contemplate using Geiger-counter
+armed drones to go clean up hot spots in the
+aftermath if they win.
+It also means you can be using some super-material
+like Graphene to deploy some micrometer-thick
+parachute and tethers that is ridiculously
+thin and light and strong, and that might
+let you pull off a very high-g no fuel maneuver,
+not just slowing your speed but whipping you
+around your location and also giving you a
+ridiculously big radar signature – potentially
+a kilometer wide one from a chute weighing
+only kilograms.
+That would sound bad and the enemy can shred
+that thing with weapon fire but it’s disposable
+and your pod does not need to be in its center.
+You can also send a first wave of duds or
+redundant supplies in using such chutes to
+blanket the area, literally, and make targeting
+and aiming at wave two very hard.
+Now, Graphene gets overhyped a bit but it
+does have amazing tensile strength and may
+be an amazing substance for using as a capacitor,
+or battery, so while we can imagine other
+super materials making a drop pod very sturdy,
+one might imagine a graphene-walled pod that
+was a bunch of batteries and which could blow
+out as various chutes or gliders, and upon
+landing could have all that chute and tether
+use the remaining power to drag the pieces
+back in, and hundreds of tons of dirt and
+rock with it that it had anchored into on
+impact, forming a nice little bunker at your
+landing site.
+It probably got ripped to shreds during all
+that descent and impact but whatever tattered
+bits are leftover could potentially get that
+job done, while the whole impact site is providing
+general cover and concealment from the tatters
+and the debris kicked up in the landing.
+But this need not be a pod at this point,
+and if we’re dropping people in power armor
+or exoskeletons anyway, as opposed to lightly
+armored infantry, it’s entirely plausible
+the drop pod would be more like a parachute
+backpack strapped on before kicking the trooper
+right out of the airlock.
+We don’t really need all that sophisticated
+materials, smart matter, or nanotech, to contemplate
+a small package of material that could envelop
+them for the drop and alter its shape for
+best effect and maneuverability, acting as
+an entry vehicle and glider, before going
+parachute and ground cover.
+And while this sort of thing sounds incredibly
+high-tech, none of this involves technologies
+that are necessarily out of reach this century.
+Folks might go to battle from suborbital craft
+or diving right out of low orbit space stations,
+or again to non-military search or rescue
+efforts, and maybe during our own lifetimes.
+Also if you’re breaking at hundreds of g-force,
+depending on the atmosphere and your altitude
+when dropping, you might only need a few seconds
+to make your deceleration and your whole drop
+from a ship in low orbit might be well under
+a minute, a supposed to the better part of
+an hour it would take to fall at terminal
+velocity from orbital altitude.
+During a boarding action or drop, you might
+be getting shot out of a cannon yourself,
+and for that matter, that ship sending the
+troops or boarding party might be firing an
+actual grapple and tether that a vessel can
+race down, which can also supply power to
+that vessel.
+We already have wire-guided missiles with
+as much as a 4 kilometer range and that’s
+probably scalable to a thousand or more.
+If you’ve got materials that can do space
+elevators, you could do that on a normal planet,
+and no special super materials are needed
+for ship-to-ship or for use against space
+stations or minor planets.
+We may be calling these drop pods or boarding
+missiles, same as dropships might also include
+landing craft or assault boats, many of these
+terms are hazily defined even in sci-fi and
+interchangeable.
+As to dropships, in the strictly guided sense
+and the ability to both deploy and extract
+troops, many of the bits we were discussing
+for drop pods apply in whole or part.
+A dropship doing a drop off doesn’t need
+to necessarily slow down much either, it could
+be jettisoning troops in big, rapidly inflating
+bubbles that aerobraked them and cushioned
+them on impact like an airbag.
+However, this can also apply to extraction,
+a dropship might not need to come to a halt
+to grab troops needing to retreat or reposition.
+Tethers with a bit of springiness could maglock
+onto a passing trooper and yank them up, then
+winch them in, we’ve discussed some tricks
+for decelerating spacecraft at destinations
+by this sort of harpoon and winch technique
+without ripping the target apart or whiplashing
+them and this would be a harder but technically
+possible adaptation of that.
+Extraction can also be more metaphorical too,
+like extracting a saved copy of the trooper’s
+mind, a non-ideal but better-than-nothing
+option if you are about to bite the bullet.
+So too, most of these techniques work well
+with minor modification for evacuating a spaceship
+or space station, as life boats or escape
+pods.
+Now, we’ve spent a lot of time talking about
+how to make these smaller, even one-man backpacks,
+but how about bigger?
+It’s often pointed out that spaceships wouldn’t
+be designed for atmospheres but your dropship
+might be, and assuming you’ve got the engines
+for it or some cool anti-grav tech, bigger
+might be better.
+You might be able to land giant walking battlemechs
+or entire armored battalions in one ship.
+Would that make sense though?
+All your eggs in one very large and easily
+targetable basket?
+Maybe.
+As always, it depends so much on the available
+tech.
+Generally speaking, it’s very plausible
+that reactors get more powerful and efficient
+in power-to-weight ratio the bigger you go,
+so it might allow stronger engines or more
+powerful shields if you’ve got that tech.
+Your options for defense might be limited
+to sucking it up and tanking enemy fire, after
+all if they are using options like lasers
+or smart bullets or AI guided missiles it
+may not be realistic to assume being smaller
+and more maneuverable offered much tactical
+advantage.
+Alternatively, being big and thickly-armored
+and able to boast tons of point-defense systems
+might be more effective.
+Meanwhile we might see dropships bringing
+in commando squads or platoons, we might just
+as easily have dropships the size of stadiums
+that came down like a brick while exchanging
+floods of fire with ground forces and just
+landing like a mobile castle and unleashing
+a deluge of war machines and troops.
+It all depends on the technology and scale,
+for instance your ground invasion force might
+be a bunch of hyper-velocity darts that slam
+into bunkers and unleash a swarm of nanobots
+or flip on your teleporter homing beacon or
+short-range hyperspace jump link, and out
+pops an assault force of heavily-armored space
+marines, killbots, or death commandos.
+This still doesn’t answer the question of
+if you would ever actually use ground forces
+over just blowing a place to smithereens,
+and I can offer no definitive argument for
+that.
+However, I would argue that we’ve had cheap
+explosives longer than we’ve had nukes,
+and there are few if any veterans alive these
+days who would have gone to war in a time
+before atomic bombs were available.
+Nonetheless a ton of those veterans went to
+war in helicopters or ground vehicles, and
+did their job mostly as infantry, myself included,
+and I think that many of those myriad and
+variable reasons for that would still apply
+in the future.
+Not that the future is in any way homogenous,
+we are likely to see lots of changes in tactics
+based on available technology and resources,
+not to mention ethics and worldviews, or galaxy-views.
+In the end, it’s hard to say how often we
+would use infantry in ground conflicts and
+a rapid assault role, but if we do, the same
+rule applies as always, get in fast and expect
+to get hit, and if so, big armored dropships
+or smaller drop pods certainly will be critical
+to deciding those conflicts.
+And they look cool too.
+So that will wrap us up for today but this
+weekend, on Sunday the 30th, we will have
+our end of the month livestream Q&A.
+After that we’ll head in August to look
+at building a space elevator not on Earth,
+but on the Moon, then we’ll head trillions
+of years into the future to the end of time
+and the final twilight on the Last Planet.
+Then it will be time for our monthly Scifi
+Sunday, on Cyborg Armies, and if you missed
+last weekend’s Scifi Sunday, Robots & Warfare,
+you can catch it now while you wait, along
+with last week’s episode, ammonia-based
+lifeforms.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content,
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!
+[a]Fuel on drop pod should probably most be
+expended while landing.
+Extra fuel is extra problem to delivery safely
+and should probably be delivered separately.
+Actually, in case of a drop ship that has
+enough fuel left to remain operational, there
+is no reason to actually "drop" it, it can
+drop whatever cargo, including troops and
+stay in the air.
+I don't buy that altitude does not matter
+:P
+it is always good to have something of yours
+flying above your head.
+[b]Painful even to imagine.
+Might also have teleportation, so all you
+are delivering is the teleportation gate to
+deliver nerve gas through. :D

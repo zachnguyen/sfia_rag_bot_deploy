@@ -1,0 +1,618 @@
+This episode is sponsored by Skillshare
+I had a really good time travel joke to start
+the episode with,
+but it turned out none of you liked it.
+So today we start off our sixth year here
+on Science and Futurism with Isaac Arthur,
+and I am your host, Isaac Arthur.
+As we travel from 2019 to 2020, Time travel
+seemed like a good topic, and I figured we’d
+start by discussing why we don’t think it
+can work under known physics, then talk about
+what the implications would be if it turned
+out we were wrong.
+Of course[a] the thing I always take as the
+biggest proof time travel isn’t possible
+is that nobody is offering package deals for
+temporal vacations. If time travel were possible
+we should see folks from the future and the
+past everywhere, and every when, and not just
+a few secretive folks with a time machine
+like we see so often in science fiction. People
+don’t really seem to look much at what the
+extended and expanded use of such a technology
+would be. While that may be forgivable when
+a story contains such technology having just
+been invented, so everything revolves around
+a prototype or its first use, this doesn’t
+really work with Time Travel since its being
+invented and used at any point means it’s
+basically been invented and used at all points
+in time. If you managed to invent time travel,
+you ought to be able to walk out of the machine
+a moment later and be welcomed by all your
+admirers and descendants from when you hopped
+back in time to, say, cure smallpox or similar.
+Needless to say, a lot depends on how time
+works, which depends a lot on what time actually
+is, and honestly we still don’t really know.
+We’ll try to look at how time travel might
+function, or not function, under a few of
+the main concepts folks have offered for explaining
+time later in the episode.
+First though, let’s talk about the issue
+with time travel under modern relativity,
+and then under modern quantum mechanics, where
+they don’t quite match.
+In relativity, time is a flat linear thing
+plodding on at a set rate in the same way
+planets are flat; which is to say they aren’t,
+unless you build one that way, but they usually
+look flat, or fairly flat, at low altitudes,
+get up high and it doesn’t look flat at
+all. Space-time, on the other hand, looks
+rather flat at low gravities and accelerations,
+but when those are high it doesn’t look
+flat at all.
+On a curved planet you also can only see so
+far because of the horizon, and something
+much the same applies to space-time curvature.
+The ‘edge’ of the Universe is actually
+our cosmological horizon and as far as we
+can see, but we’re pretty sure it keeps
+going on a long way after that. As we look
+further from Earth in any direction we see
+objects receding away from us at faster and
+faster speeds, eventually so fast they can
+no longer be seen because space expands between
+us and them faster than light can cover the
+new space being added.
+Or so we assume, we obviously can’t see
+those places, but if it didn’t we’d actually
+be at the center of our Universe. And indeed
+we are when we normally reference the Universe
+as that’s shorthand for the Observable Universe,
+which practically speaking is all there is
+since we can never see or speak to or travel
+to the rest, without some sort of faster than
+light technology.
+The problem is that the faster you go, the
+more energy you need to get to that speed
+and the more you need for each increment higher.
+More and more of your total energy is of the
+kinetic or potential variety, rather than
+mass-energy, that E=mc² thing. The more your
+total energy is not mass, the slower time
+is passing for you. If you look at some object
+that appears as stationary relative to you,
+like say a coffee cup you’re holding, all
+of its energy is just mass energy. Almost
+all anyway, there’s a little heat energy
+in that warm coffee which is trivial compared
+to its mass energy, which is the rough equivalent
+of a dozen megaton hydrogen bombs, hence why
+coffee is so great for giving you energy presumably.
+If you were to add an equal amount of kinetic
+energy, or speed, to that coffee cup, it would
+now have half of its mass energy in the form
+of kinetic energy, zipping along at 86% of
+the speed of light. Since only half of its
+energy is now mass energy, it will experience
+half as much time as would a stationary object.
+If we were to double the cup’s kinetic energy,
+with only one-third of its energy being mass
+energy and two-thirds of its energy is kinetic,
+and the cup would experience time at one-third
+of a stationary object - and it would be rocketing
+along at 94% of the speed of light.
+It’s impossible to actually reach the speed
+of light because it takes more and more energy
+- kinetic energy - for each percent closer
+to light speed you go. It took the same energy
+to get from 86% of light speed to 94% as it
+did from starting at rest and up to 86%, and
+in fact it takes 7 times that to get to 99%,
+22 times that to get to 99.9%, and 70 times
+that to get to 99.99%. So we say you can’t
+get to light speed because you’d need infinite
+energy to do that.
+But I think this sometimes gives people the
+wrong impression that you could actually hit
+light speed if you just had some phenomenal
+power source. Mass is essentially what experiences
+time and things without mass, like photons
+or gravitons, experience none. All objects
+split their energy between motion through
+space and motion through time. How much time
+you have pass is all about what portion of
+your total energy is your mass energy, go
+99.99% of light speed and time runs at a 70th
+the normal speed, and I think it’s easier
+conceptually to ask how you’d ever eliminate
+all your mass entirely, infinite power or
+not, as that’s the only way you can move
+at light speed.
+Time slows down until you hit light speed,
+at which point it stops entirely, and as a
+result photons and gravitons and other light-speed
+particles don’t experience time, whereas
+ultra-low mass particles like neutrinos, which
+move at nearly light speed, experience very
+little time. If you could go faster than light,
+then by that relativistic equation, you would
+be experiencing time not just very slowed
+down but running backwards. Again that’s
+the usual explanation and I imagine most of
+you have heard it before, for my part I think
+it’s a bit easier to ask first, how would
+you ever remove all your mass to be going
+light speed, and second, how you would somehow
+have a negative mass to be going backward
+in time. See the Things Which Will Never Exist
+episode for discussion of negative mass and
+other negative quantities.
+It is not coincidental that virtually every
+proposed type of faster than light travel
+relies on negative mass or energy, which we
+have not yet detected or created a single
+particle of, contrary to some grossly inaccurately
+titled popular science articles. For this
+same reason, we always point out that almost
+all these methods open the door to time travel.
+When it comes to normal matter at least, we
+could not move so much as a single atom at
+the speed of light if we used every bit of
+energy in the entire Universe, and we’d
+need more than infinity to make it move backward
+in time.
+We might get around these issues somehow one
+day, but hopefully it’s a bit clearer why
+FTL and time travel so often get phrased as
+an impossibility not just some technical issue
+that can be solved by sheer determination.
+It’s not like traveling to the Moon, it’s
+like making 2+2=5, and when we say this or
+that theory might allow FTL or time travel,
+what we usually means is that the theory doesn’t
+explicitly forbid it thus far.
+One of those methods that does get kicked
+around is using a wormhole, and those require
+the use of negative mass or energy, and actually
+only let you travel back in time to when the
+wormhole was created, a result of closed time-like
+curves or CTCs. This is a worldline, or path
+through space-time, that leads eventually
+back to the exact same coordinates in space
+and time. Think of it like any curved path
+you might walk down and end up coming back
+to where you started, like a circular running
+track, only you also come back to when you
+started.
+Now assuming we had this option invented,
+somehow, it might make for some interesting
+civilizations. You can’t go back and see
+the dinosaurs or end some war in ancient history
+before it began, but you can go back to the
+moment it was invented and built. Isaac Asimov
+uses this sort of time travel in his novel
+The End of Eternity, which happens to be my
+favorite book by him. There, a group of time
+travelers called the Eternals, who live in
+a pocket of space-time, and can travel anywhere
+inside time between when the device was invented
+till the end of the Sun, and use the death
+throes of the sun dying as their power source
+for time travel.
+The book spends a fair amount of time looking
+at how that impacts civilization, since they
+are not secret time travelers and actually
+engage in trade between centuries. Indeed
+that was the original purpose and they later
+began trying to change events to engineer
+better futures by making very tiny and calculated
+changes, like sabotaging someone’s vehicle
+not to start up before they’d have gone
+on to attend some major event that shaped
+them into being a dictator or similar. You
+can see our episode, the Butterfly Effect,
+for an idea just how small you could make
+a change and expect it to have world-altering
+effects a few centuries down the road. Trying
+to predict those in terms of an outcome is
+far harder of course.
+We’ll discuss that scenario for a civilization,
+one that can travel back to the time such
+travel got invented but not before, in a bit.
+First though, I mentioned quantum mechanics
+is a bit different than relativity for time
+travel and it actually offers us many pathways
+that could either allow time travel or just
+sort of trick us into thinking we had. One
+of those is the notion that you aren’t traveling
+to your own past but one very similar, out
+of the multiverse concept of the Many-Worlds
+Interpretation of Quantum Mechanics. We’re
+not going to get into the weeds of how Quantum
+permits, or might permit, time-travel, but
+here you’re not actually traveling to your
+own past so you don’t have to worry about
+the Grandfather Paradox, because it’s not
+your past you’re changing, just something
+very close to it.
+The grandfather paradox is where you go back
+in time and accidentally kill your grandfather,
+I assume accidentally anyway, and as a result
+are never born and can’t travel back in
+time to kill him. Needless to say that’s
+an extreme case but it’s the notion that
+something you do in the past would cause you
+not to be able or interested in doing the
+trip after you made that change. You travel
+back in time to save JFK from being assassinated
+and now you no longer have a motivation to
+do so.
+Against that we have the self-consistency
+principle, which is that you’d inevitably
+have events between when you went back to,
+and when you left from, play out so as to
+make the trip still happen. Conceptually this
+is like water evaporating from the ocean and
+falling down as rain on land. That water can
+take any number of paths back down to the
+ocean again but still gets there. For instance,
+you go back to next week with today’s winning
+lottery numbers but write yourself a note
+saying you need to make that trip. It’s
+not that any given action is predestined to
+happen the same, just that only those various
+sequences of events that lead back to causing
+you to get into that time machine actually
+continue to exist while all the others essentially
+poof out as hazy possibilities that can’t
+exist. The raindrop can fall many places and
+follow many courses to flow to the same place
+and time. Many timelines are possible but
+only those that lead to a self-consistent
+time travel event can be stable and exist.
+That one works a bit better under the Copenhagen
+Interpretation of Quantum, which is the Schrodinger’s
+Cat version where it’s alive and dead simultaneously
+till observed, as opposed to Many Worlds where
+in one universe it’s alive and in another
+it’s dead, and you just don’t know which
+one you’re in till you opened the box and
+checked. As an analogy to self-consistency,
+events are in quantum flux till observed,
+like with the cat, at which point only one
+possibility has happened and the others wink
+out, and only a self-consistent time travel
+event could be observed. This presumably results
+in no option for paradoxes, always a problem
+with time travel, as no paradoxical sequence
+will not wink out.
+This paradox issue is a sore spot in some
+science fiction franchises. What exactly was
+the point of the crew of Voyager going back
+in time to fix histories they didn’t like,
+when it was made clear elsewhere in the franchise
+that this wouldn’t change their history
+at all, only create a different history for
+someone else to enjoy, one among infinity?
+Another, more interesting possibility for
+paradox avoidance is that as the Many Worlds
+branch off from one another, some branches
+are pruned. Only the branches that contain
+no violations of the laws of physics or logic
+remain on the tree. And so, if you did try
+to kill your grandfather, then starting at
+the moment of his near death, the universe
+would branch into the histories where you
+succeeded and the histories where you failed,
+and only the latter would survive. What you
+would experience would be frustrating failure
+after failure, because no matter how bizarre
+or contrived a coincidence was required to
+prevent you from killing him, only the histories
+in which you failed and he produced your father
+would be left. If this is true, there’d
+be no reason for time travelers to worry about
+causing a paradox, because the universe absolutely
+would not let them.
+And indeed you can argue it can’t possibly
+be your true past anyway because the Universe
+we’re in has a set amount of matter and
+energy and if someone from next year just
+arrived here now, they’d be adding mass
+and energy, mass and energy that is interacting
+with stuff like producing gravity. So even
+if we transported you back in time to some
+sealed underground bunker that little extra
+mass is slightly altering the Earth’s spin,
+how much gravity it exerts on the Moon, and
+so on, changing the future, even if apparently
+very little. Little effects can have massive
+long term changes, again see the Butterfly
+Effect, but from a multiverse perspective
+it’s a different universe if even a single
+atom is not exactly where it otherwise would
+have been.
+Conservation of mass and energy isn’t the
+entirety of it, you can’t get around this
+by just exchanging equal masses of material
+between two times, they’d have to be identical,
+the same state, to switch and not produce
+changes to the state of the Universe, and
+throwing something backward in time to replace
+something identical in every way, which would
+include positions and state of memories in
+a brain or harddrive, is not meaningful time
+travel. So you couldn’t just teleport data
+from tomorrow back to today on your harddrive
+so it told you tomorrow’s lottery numbers,
+even though you wouldn’t seem to have changed
+the mass or energy of the universe. And indeed
+that sort of quantum teleportation, changing
+the states on bits on a harddrive, is one
+of those possible FTL or time travel notions
+that gets kicked around and probably would
+not work.
+Another ‘cheat’ approach to quantum time
+travel is that even though the odds of it
+are beyond minuscule, there’s always a chance
+of things assembling effectively at random.
+So you could have a bunch of atoms randomly
+assemble into a person with memories of being
+from the 22nd century. Those odds, while again
+vanishingly small, are still larger than the
+total number of universe combinations in a
+multi-verse where everything that can happen
+will happen, so if Many Worlds Interpretation
+is correct, there are universes where someone
+identical to you right now has emerged in
+the time and place your grandfather and grandmother
+first met and interrupted their date raving
+about being transported to the wrong date
+and causing them not to meet and fall in love.
+No grandfather paradox results from this though.
+There’s also one where you think you’ve
+invented time travel, blow yourself up turning
+the machine on, and a copy of yourself identical
+to the moment you threw the switch appears
+at the intended destination time and place,
+smugly convinced the machine worked. See the
+Infinite Improbability Issues episode for
+more craziness associated with Multiverses,
+but while that technically isn’t time travel,
+it effectively is for all practical purposes
+except the paradox, and of course not being
+something you can really choose to do.
+Okay, that’s the not-too-quick overview
+of the mechanics of how time travel and paradoxes
+might or might not work, let’s consider
+some scenarios for those if they did work.
+What sort of civilization gets produced?
+First, if the multiverse approaches work,
+and lets you just travel there, adding mass
+and energy to some place when you arrive,
+this becomes really good news because it means
+the number of possible Universes is now infinite,
+rather than just very large. Many-worlds generally
+assumes there’s a Universe for every single
+possible combination and arrangement of each
+particle, that’s a huge number but not infinite
+because the mass of the Universe is assumed
+to be finite, at least the pocket we call
+the Observable Universe.
+If I can add an atom to that, I now create
+even more universes. One might argue it’s
+still not actually infinite since you can
+only put so much matter in the Universe without
+collapsing it into a black hole, but as the
+Universe expands that amount increases. You
+also get FTL travel out of it, since you can
+jump back in time, move in a direction, jump
+back again, move again, and so on until you
+are at a destination, like the Edge of the
+Observable Universe. So the number of possible
+realities you could visit and colonize is
+either infinite or so large it makes no difference
+and you never have to worry about the Heat
+Death of the Universe because you could add
+or subtract mass and energy and entropy from
+any given time, or just move to a different
+one.
+Under more classic time travel you can avoid
+heat death too, by invading your own past.
+If the world was about to end you could jump
+back to when it was younger and colonize that,
+and it’s presumably fine to do so since
+you can’t do it if paradoxes are a problem
+as you’d erase the civilization that produced
+you and your time travel device.
+At the cosmic level you just jump back to
+a billion years after the Big Bang every time
+you run low on material. You might be wondering
+if that proves time travel can’t happen
+since clearly no one did that, but logically
+that doesn’t quite hold up as it’s a bit
+of a tautology, circular reasoning, which
+is kind of appropriate for contemplating circular
+bits of time I suppose. If the universe permits
+no paradox of this type, time travel isn’t
+possible so it doesn’t matter, but if it
+does it’s because you are getting new realities
+out of it, and there will be realities for
+every possible scenario including a reality
+that never had time travelers arrive in it
+prior to time travel being invented there,
+we’d just be in such a Universe. Or one
+where the footprint was minimal.
+Of course you also have the Self-Consistency
+angle as an option too, you jump back in time
+and colonize the Early Universe but the pattern
+of possible futures leading to us only allows
+the ones where we’d be ignorant that occurred,
+like they died off or grew very slowly and
+distantly from us so we hadn’t noticed these
+temporal colonists yet.
+Tenses are rather confusing in time travel
+too, how do you refer to your own future that
+is your world’s past or vice versa? I often
+get a bit confused when writing scripts on
+the show just because I often refer to things
+like last week’s video, also discussing
+problems with Time, which came out December
+26th, except that it is not January 2, 2020
+as I write this, it’s October 28, 2019.
+When I finish writing this script and upload
+it for the crew to edit, I’ll get to work
+on making the video for November 7, Cybersecurity,
+it can get rather confusing at times and yesterday,
+Sunday October 27th, I was doing a live chat
+session after our livestream on our Discord
+server and started referencing people to our
+Space Pirates episode for a detailed explanation
+of what I was discussing at that moment, only
+that episode hadn’t come out yet. I’ll
+also sometimes reference episodes that don’t
+exist, because some bit of material got removed
+from the draft for time constraints or to
+improve the flow of the episode, and I forgot.
+Those unused scripts or versions of scripts
+are similar to timelines that never happened,
+due to changing time, and presumably there
+are ones where those episodes were made.
+That’s probably a small hint at the sort
+of tense confusion time travel civilizations
+would get. How do you refer to something you
+plan to do yesterday, or that you already
+did tomorrow? If this sort of travel is common
+and non-paradoxical, because it’s a sequence
+of multiverses, how do you phrase an explanation
+to your friends when you come into the office
+in the morning sporting much longer hair and
+beard and say you just came out of a timeline
+where your wife died in a car accident so
+you had to skip back and fix that, and how
+it was a very nice funeral and then the two
+of you went on a vacation afterwards because
+it was a bit stressful.
+How about when a longer-bearded copy of your
+co-worker Bob walks in and say it’s going
+to be a busy day, and then one with an even
+longer beard comes in and says, “Good news
+everyone, tomorrow we closed the deal with
+our new client, but we all need to do some
+extra overtime last weekend”.
+It would tend to seem like cohesive timelines
+would utterly breakdown too, and you might
+get weirder day-to-day options like dating
+apps that let you swipe forward or back, instead
+of left or right, to find the girl or boy
+of your dreams from a different century and
+sit down on your first date and see what your
+future would look like.
+Now in fiction we often get some sort of rules
+preventing tons of time travel, concepts like
+inertia of future events or changes requiring
+more effort the further back you seek to make
+them. But often it’s actual legal rules,
+and that’s problematic because it doesn’t
+really seem enforceable to have temporal police.
+Someone just goes back in time and prevents
+them being formed. If they’ve got some widget
+that prevents such things happening, some
+sort of time shield, then they can presumably
+build a bigger one that protects their whole
+civilization too and folks can go do as they
+please elsewhere.
+I get a time travel device and nothing is
+stopping me from taking some classes in Latin
+and Roman History, grabbing lots of textbooks
+and schematics and modern widgets, and jumping
+back to Caesar’s day and setting myself
+up as Emperor, or jumping forward to the future
+to get some life extension treatments and
+awesome cybernetic enhancements and then jumping
+back to the past to set myself up an immortal
+leader. If you do have that infinite number
+of timelines option, this might be a better
+alternative to virtual realities where you
+can be whatever you please as it might be
+cheaper and easier and more real-feeling to
+just hurl folks to other timelines. There
+should always be one where the only difference
+with your normal history was that someone
+identical to you popped up at a given time
+and place, at which point it diverges.
+We usually say technologies like FTL and time
+travel only exacerbate the Fermi Paradox,
+the big question of where all the aliens are,
+because it now means you have to contemplate
+aliens from a much broader region of space
+and also ones from the future jumping into
+the early universe. But this is one alternative,
+that nobody spreads out to the stars because
+they just colonize earlier parallel histories
+of their own world, and we just happen to
+live in a timeline where that hasn’t happened.
+Confusing stuff that’s giving me a headache,
+so I’m going to close out here and get to
+work on the Cybersecurity episode for November
+7, 2019, which I already finished as I record
+this on November 1st, 2019, but first let
+me wish you an excellent 2020, now that 2019
+is over.
+When contemplating time travel, or fantasizing
+about it, which I imagine I’m not alone
+in doing, one common problem is all those
+missing skills you’d need to actually have
+to live back then, whenever then was. We have
+a very skilled based society compared to prior
+eras but they had a lot of skills we generally
+lack, so if you just popped up in some ancient
+kingdom you’d have a rough time surviving
+without knowing the language or how to do
+things like grind grain or swing a sword around.
+But we do live in a far more skill-based society
+than in olden times and it’s always handy
+to be acquiring more skills. Plus it’s nice
+to just have them, even when they aren’t
+meant for career purposes they offer fun new
+hobbies and a feeling of confidence that you
+can get stuff done.
+That’s why I like Skillshare. Skillshare
+is an online learning community with thousands
+pf classes in a wide range of topics like
+design, business, technology and many more.
+Even just those focusing on productivity or
+time management, like Thomas Frank of College
+Info Geek’s course, Productivity Masterclass.
+A premium membership is less than $10 a month
+and gives you access to that course and all
+the rest, and you can try it out for free.
+Join the millions of students already learning
+on Skillshare today with a special offer just
+for my listeners: Get 2 months of Skillshare
+for free. To sign up, visit the link in the
+description and get 2 months of unlimited
+access to thousands of classes for free. Act
+now for this special offer, and start learning
+today.
+So that will wrap our show up for the day,
+but we’ll be back next week to our alien
+civilizations series to take a look at alien
+conspiracies and aliens who conspire, and
+ask what sort of motives they might have for
+a given conspiracy. The week after that we’ll
+return to the Moon, to look at what industries
+might arise there and help us develop an interplanetary
+society, in Moon: Industrial Complex.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, visit our website IsaacArthur.net
+to donate to the show or look over our inventory
+of over 200 episodes or our awesome SFIA merchandise.
+Until next time, thanks for watching,
+and have a great year!

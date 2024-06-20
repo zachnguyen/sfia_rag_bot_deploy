@@ -1,0 +1,553 @@
+This Episode is sponsored by Audible
+For thousands of years, humans have sailed ships through Earth’s vast oceans,
+navigating by the stars.
+Someday, we might sail the stars themselves.
+So today we return to the Generation Ships
+series to finish out our recent look at colony
+ships of truly enormous size. As we mentioned
+earlier in the series, in Million Year Ark
+and again in Planet Ships, if you have to
+contemplate truly long voyages, not just of
+a few generations but potentially astronomical
+timelines, you have to plan for a level of
+redundancy that safeguards your colonists’
+survival even if their society collapses and
+rises again several times along the way.
+A few centuries is a fairly fast trip to even
+nearby stars, and it’s also a lot longer
+than most civilizations have lasted, at least
+in the sense of continuity of goals and focus.
+Now there are exceptions to that, and one
+is where the goal or focus is simply survival,
+as civilizations replaced or mutated with
+time keep basic goals like that and if you’re
+on a generation ship, that mission is basically
+survival. You aren’t necessarily limited
+in options to only surviving the trip to a
+new system and surviving that system’s colonization,
+but close enough. That goal, colonization,
+can be more easily maintained in the long
+term because it so closely mirrors our normal
+survival motivation.
+In addition, we shouldn’t overlook that
+we might have much longer lived civilizations
+simply because, in the future, we might get
+better at it, and have longer lives. Additionally
+civilizations often collapse from external
+pressures, usually intelligent ones, if they’re
+advanced enough to be resilient to natural
+disasters, and a colony ship has little external
+pressure.
+However, exceptions go both ways here, as
+on Earth if a civilization buckles, its neighbors
+can fill the gap, and its surviving remnants
+can rise back up again. On a long enough timeline,
+even a total species extinction might see
+another one evolve intelligence and technology.
+On a spaceship, both of these are less likely,
+as the spaceship needs maintenance and is
+generally too small for much redundancy and
+diversity, at least in ecological and cultural
+terms.
+We discussed lots of workarounds to those
+sorts of problems earlier in the series, but
+last time we also argued that for truly long
+voyages, to other galaxies for instance, which
+might take many millions of years, or even
+billions, you need a model for a spaceship
+that can survive that long, and the only example
+we’ve currently got is Spaceship Earth.
+The closer you can get your spaceship to being
+a planet, the more durable it is in virtually
+every respect. Of course the Earth is not
+strictly speaking capable of independent survival,
+it relies on the Sun for power, and this of
+course leads to part of the reason this episode
+is named Fleet of Stars.
+We have a lot of ways to move a star, and
+a lot of reasons to want to move one, or several,
+and we’ll look at those today, but there’s
+a second aspect of the name I want to comment
+on first.
+A point we’ve made before, most recently
+in Hitchhiking the Galaxy, is that transporting
+people over interstellar distance is very
+energy intensive; the amount of power needed
+to push along spaceships that might hold several
+thousand people at an acceleration rate of
+1-gee is, depending on how spacious the ship’s
+accommodation and cargo holds are, either
+enough to easily power our entire modern global
+economy, on the modest side, or enough to
+light the entire planet up as a second sun.
+As a result, not only might travel to other
+worlds be frowned on as wasteful of energy,
+beyond initial colonization, and because ships
+with such energies are effectively doomsday
+weapons, but also because of sheer light pollution.
+If you’ve got thousands of big ships going
+to and from your solar system on any given
+day, it is going to look like a literal fleet
+of stars. Science fiction often fudges scale
+by letting us see spaceships from the cockpit
+or bridge window of a ship they’re fighting,
+which is highly unrealistic, but only in terms
+of making them out, when they’d probably
+just be radar blips. In terms of brightness
+though they actually would look like bright
+little blips when their engines were on, even
+millions of kilometers away. Nobody would
+ever need a telescope to see a bulk freighter
+decelerating as it approached their system,
+let alone their planet.
+But getting back to the energy wastefulness
+notion of interstellar travel, we often point
+out that it’s enough energy to accelerate
+one person up to relativistic speeds as it
+is to keep someone alive and in luxury on
+a planet or space habitat for a million years
+or so. Thus a lot of cultures might frown
+on casual travel.
+As we’ve noted, this doesn’t apply to
+colonization since you can grab orders of
+magnitude more energy by going to a new and
+unused system. It’s a huge investment of
+energy, but for a vastly larger reward. There’s
+an implicit assumption though that these trips
+are way shorter than a million years, and
+that life support on such ships is a tiny
+fraction of their total energy budget, being
+the same as what folks on a stationary space
+habitat back home would use. Thus, while bigger
+is better for spaceships, you also always
+want to go as small as you can too, to save
+energy, and not even colony ships or drone
+fleets for harvesting distant stars are exempt
+from this.
+When we start contemplating really long trips
+though, not only is the ‘bigger is better’
+concept far more true, but that cost to get
+up to speed is no longer an overwhelming factor.
+The trips are just so long that the life support
+energy costs are no longer a drop in the bucket
+compared to energies needed to speed the ship
+up or slow it down, and as we noted in Planet
+Ships, for very large ships you don’t slow
+them down, you just send fleets of colonists
+out from that gigantic ship to nearby systems
+as you fly by.
+Now the obvious assumption, especially given
+the title, is that it needs a power source
+and Earth’s power source is the Sun, so
+we need to send a Sun with a planet around
+it instead, but realistically not so much.
+We can do that and will get to explaining
+how shortly, but when we say a planet ship,
+we’re still talking about something very
+artificial, even if for no better reason than
+you need protection against all the radiation
+and debris you’d be hitting at relativistic
+speeds during your interstellar journey.
+You might give these things sunlight and make
+them spherical but it’s going to be an artificial
+sun. We do have a motive for moving whole
+stars as ships, but not just to move a planet,
+it would be like picking up a mountain a house
+was built on instead of just moving the house
+to a new mountain, or just its occupants and
+their prized goods. If you just want to move
+a house, move a house, if you just want to
+move a planet, move a planet. Channel regulars
+of course already know we’ve got plenty
+of motivations to move entire mountains or
+entire stars too, and we’ll review some
+of those and introduce some new ones.
+First though, let’s get to the how to. The
+first, simplest, best known, and worst method
+is the Shkadov Thruster. For a given value
+of ‘best known’ anyway, the Shkadov Thruster
+is a decades old idea, but it’s only recently
+gotten much attention. Of course the others
+are even less well known, so much so that
+I’m stuck naming them and am just assuming
+somebody else thought them up before me.
+We’ll get to those, but what is a Shkadov
+Thruster and why is it both the simplest and
+worst “Star Drive”? We’ll keep it short
+since it does have its own episode and for
+that matter one of the regular editors here,
+Greg Leal, made his own video on the topic
+last year too, and we’ve other material
+to cover. A Shkadov Thruster works on a simple
+principle, stars emit light, light has momentum
+and can be used to push things, as we often
+discuss here, but by default a star emits
+light omnidirectionally, and even when that’s
+not uniform, it tends to be symmetric, like
+emitting more from the pole for something
+like a neutron star, but both poles, so they
+cancel out.
+The handy thing about light is the photons
+making it up are the absolute best rocket
+fuel in terms of achieving the maximum final
+speed. They are also basically the worst for
+acceleration, and a star is already a very
+heavy thing to be trying to push on, so Shkadov
+Thrusters are slow as heck to get going, though
+obtain a fairly decent top speed in the long
+run. The advanced technology employed to move
+stars, something most science fiction writers
+would view as Clarketech, so advanced only
+godlike aliens could do it, employs an ultra-sophisticated
+device known as the Stellar Photon Reflector,
+or more commonly, a mirror. Or actually any
+fairly shiny bit of metal will do, it need
+not be something good enough to shave in.
+The two tricky parts are first, you do need
+a lot of them, and second, you need to coordinate
+them all so they don’t smack into each other
+or fall into the star or off into deep space.
+See the episode for the specifics but one
+bit that often confuses people is why the
+star moves. You have to add up all the forces
+involved. Some of the star’s light flies
+off in the right direction, applying force,
+the rest flies off and hit mirrors, which
+bounce it in the right direction and the whole
+system gets its thrust this way. Those mirrors
+are absorbing a lot of momentum, but they
+are also being pulled by gravity, that star’s
+gravity, and the balancing act is making sure
+the light force on them, the radiant pressure,
+is the same as the gravitational force on
+them. Those mirrors, though vastly smaller
+than that star, exert the exact same force
+back on it, and so the mirrors are actually
+gravitationally tugging the star toward them
+too.
+Amusingly, since gravity and light both fall
+off with the square of distance, it doesn’t
+actually matter where you put those mirrors,
+so you presumably put them as close as they
+can be without melting the mirror or slagging
+the control mechanisms on it, to get maximum
+reflection for minimum mirror mass.
+If that’s all you’re doing, then any planet
+around that sun can be dragged along but are
+probably going to need pushing on too, but
+the Sun is so much more massive than them
+that it’s fairly simple to direct enough
+momentum their way at the right times to keep
+them attached to the star and in the right
+orbital paths. The advanced technology for
+this is in the accounting department, because
+you’ve got to be constantly keeping an eye
+on everything’s momentum and tweaking things
+before they get perturbed and need bigger
+pushes to fix them and everything else they
+perturbed in turn.
+So why is it slow? Well, in our discussion
+of using solar sails or laser sail spaceships,
+we’ve often noted that you need 3 gigawatts
+a ton or 3 megawatts a kilogram to push an
+object with light at an acceleration of 1-gee,
+Earth gravity. Assuming your Shkadov was perfectly
+efficient, all light eventually ending up
+headed the right way, our own sun, massing
+2x10^30 kilograms, would need 6x10^36 watts
+of power, 6 trillion, trillion, trillion watts,
+to accelerate at 1-gee.
+The sun is hugely powerful, but nowhere near
+that powerful, having a luminosity of 3.8
+x 10^26 Watts. It would need to be 16 billion
+times more powerful to get that 1-g or 9.8
+m/s² acceleration, so instead will accelerate
+16 billion times slower, or about .6 nanometers
+per second per second, which is quite slow.
+And the usual concept assumes you only get
+to thrust with maybe half the total light,
+so it takes you a million years just to get
+our Sun up to 20 m/s. Of course in a billion
+it could be doing 20 km/s, and would have
+covered about a third of the galaxy.
+A few notes, bigger stars than ours are far
+more luminous per unit of mass, and thus accelerate
+much quicker, but can’t accelerate as long
+and explode. Smaller ones than the Sun go
+slower but can achieve a far higher top speed,
+as they burn all their fusion fuel up and
+can live trillions of years. This means if
+you need to move stars in a hurry, like a
+nearby one is going supernova, you build your
+thruster around that big star instead and
+divert it, and if you want to travel to another
+galaxy, you pick that smaller star.
+Now you can potentially speed this up a bit
+by directing light back down on the star too,
+heating it up to produce more light, but the
+better aspect is this takes us into a second
+and faster way to accelerate, a type of Star
+Drive which I’ll just name the Helios Drive,
+as it’s more like a big Sun Chariot anyway,
+and I’ve never heard another name for it.
+The Helios Drive adapts the technology we
+discussed in our episode on Starlifting, our
+trick for mining stars. Here though, instead
+of reflecting light down and magnetically
+steering it to blow off the poles for collection,
+we instead turn it into a big pair of rocket
+jets, then we magnetically flip one of them
+back down so it’s only shooting one way.
+This is now a giant plasma rocket engine,
+and it is going to let you accelerate far
+faster BUT at the price of a lower top speed.
+You’re shucking off matter to do this, not
+just pure photons, and it is basically going
+to follow the rocket equation for a fusion
+torch drive. You’re starlifting so you can
+throttle it too, getting up to speed in, say,
+a million years, throttling it down or packing
+it up till you approach your destination,
+then unpacking or ramping it up again to slow
+back down. Ideally you’d probably want to
+entirely englobe the star and coming up with
+material for that is no problem since again,
+this is the same technique used for mining
+material from stars anyway.
+Interestingly the timelines involved would
+mean a small initial colony could reach such
+a star and grow to be a K2 civilization, one
+that englobes a whole star, before it arrived
+at its destination, presumably a very distant
+part of our galaxy or another one. Also, since
+you can use this technique to purge stars
+of poisonous materials like helium, you could
+be gobbling up material from other stars or
+gas giants to use as extra propellant and
+fusion fuel, and thus get a higher final speed
+out of it, another fleet of stars.
+We have a few more ways of doing it better
+though. One, like the Helios drive, sacrifices
+higher Speed for a faster acceleration, and
+that’s the Nova Drive and its big brother,
+the Supernova Drive.
+If we take a stellar remnant, like white dwarf,
+we can dump hydrogen on it and get some fast
+fusion, dump too much too quick and you get
+a nova, the regular old kind. Dump a lot more
+on one, and you get the far more energetic
+Type 1A Supernova. It’s a lot of energy
+and released quite quickly, even just the
+Nova version, containing and directing that
+as thrust, and releasing it slow enough to
+be thrust rather than smashing everything
+is no mean feat, and we discussed how that
+might be done in March’s episode, Civilizations
+at the End of time: Dying Stars. Fundamentally
+though, it’s the same concept as a pulsed
+nuke spacecraft like the Orion, which shoots
+nukes out the back and rides the blast. Obviously
+scaled up a lot.
+However, in Black Hole Ships, last week, we
+discussed various ways to use black holes
+as ship drives and even very big ones, and
+one of those methods was what we think powers
+quasars, thus giving us the obvious name of
+a Quasar Drive. This method is truly the best
+star drive, even if like the Nova Drive it
+is technically using a Dead Star, because
+it produces a vastly higher mass to energy
+conversion ratio and is basically a giant
+photon drive, and this is the behemoth we
+will want to use to move stellar masses around,
+it’s also the most massive and most efficient
+of the types we’ve discussed, as the power
+source is more efficient than fusion, allowing
+a higher top speed, and can be throttled,
+since you can add mass in or not. Needless
+to say you don’t live very close to the
+engine, but that’s true of all the others
+and honestly normal ship drives too.
+Handily, it’s also one we can accelerate
+externally very fast too. We often talk about
+giving things a speed boost by hitting them
+with light or matter beams to give it a good
+initial kickstart, and the handy thing about
+a black hole is you don’t have to worry
+about overheating anything by slamming energy
+in too fast. Anything you manage to get a
+dead center hit on the event horizon of that
+black hole is not going to splash. And like
+the Planet Ship, it can become a Gardener
+Ship that never slows down and just keeps
+speeding up, acting as a mother ship that
+dispatches smaller colonizing fleets it can
+easily slow down which stop on worlds and
+build beaming stations to feed their Dark
+Mother, who can obtain highly relativistic
+speeds, zipping through galaxies and leaving
+a thick trail of colonies in its wake.
+Like the Planet Ship, you can always abandon
+it if you don’t want to do the next long
+voyage or can’t aim it to another galaxy
+you can reach. Like the planet ship, it has
+a huge on board power system that could support
+a civilization for quite some time. Unlike
+the Planet Ship, that ‘quite some time’
+is orders of magnitude longer than the normal
+star-forming life of the Universe, and you
+can crawl down its gravity well, especially
+if you been feeding it lots of stars, to slow
+your own subjective time down.
+This is a ship that can almost cross the Universe,
+not just from side to side, but from beginning
+to end. See the “Civilizations at the End
+of Time: Black Hole Farming” episode for
+details, though we’ll be expanding on that
+concept next week in Colonizing Black Holes.
+All right, so the quasar drive gives us basically
+the ultimate generation ship, suitable for
+colonizing other galaxies and fast enough
+to get us to many millions of them while carrying
+enough material and energy to support huge
+civilizations for the better part of eternity.
+Indeed it could be carrying whole stars along
+with it, to use for propellant and living
+area, if you don’t want to hug the thing
+too closely. I suspect, though, you’d keep
+the whole thing inside some Mega-Earth or
+even Birch Planet arrangement. Build big enough
+and you can even cheat some of the time issues
+by a mix of special relativity from your speed
+and general relativity from your mass, both
+slowing time locally. Both of which are rather
+handy when trying to cover intergalactic distances
+without some form of FTL.
+All right, so we’ve got the methods, but
+what’s the point? I mean why would we ever
+build this? Why would you be moving lots of
+stars?
+Well, we’ve got a few obvious reasons first.
+We just mentioned the colonization aspect
+but I suspect you would never need to go this
+big even to colonize other superclusters,
+an artificial small black hole of substellar
+mass is probably something you can make and
+is probably more than sufficient at planetary
+masses. We’ve got moving stars so they don’t
+collide or go supernova in places we’d rather
+they didn’t, but to be honest you probably
+have the computing capability to be figuring
+out how to avoid such things with far less
+effort by acting very early before you’re
+thinking about using stars as engines.
+Not all stellar engines are for engines that
+move dangerous stars. The Matrioskha Brain,
+a giant stellar computing engine able to simulate
+a whole universe, offers you more than enough
+computational power to be plotting stellar
+motion and formation of a galaxy accurately
+enough that you can intervene with minimal
+actions to prevent novae and supernovae happening
+anywhere near places that might hurt folks.
+You might need them occasionally but not too
+often, and of course, a Shkadov Thruster is
+an innate ability of any of the other stellar
+engines, a classic Dyson Swarm of habitats
+or a Matrioshka Brain can reconfigure themselves
+to direct some of their energy and produce
+thrust. They also make phenomenal weapons,
+but we’ll save that for next month.
+So why would you do it?
+Two key reasons. First, the big problem colonizing
+our galaxy and others, and traveling around
+them, is the sheer distance involved. But
+a galaxy can be made far more compact, a thousand
+lightyears across rather than a hundred thousand,
+or even tighter, to allow far faster communication
+or travel. If you’ve got all that calculation
+and nudging ability, along with big engines,
+you can slowly push everything into tight
+stable orbits and make sure there’s no elements
+likely to go supernova or ram into others.
+A galactic Super Dyson Swarm, billions of
+stars orbiting as tightly as you can get without
+overheating everyone around a central black
+hole. Or even some far cooler megastructures
+we’ll talk about more next week.
+The second is that they can reach other galaxies,
+very distant ones, and they can move a lot
+of mass. Whether you are sending them there
+in the first place or building them in distant
+galaxies, these are serious bulk freighters
+that can achieve a large fraction of light
+speed and carry or drag stars with them. You
+could use this approach to wrestle many thousands
+of galaxies worth of matter back home, not
+as stars, only red dwarfs could plausibly
+live long enough to survive the trip from
+more distant galaxies and we wouldn’t really
+want to pack stars in too tight for heat worries,
+but as raw material for building or fueling
+your mega-galactic civilizations. Of course
+you might bring a lot of red dwarfs home from
+distant galaxies, herded along by massive
+quasar drives, and maybe so many of them that
+they weren’t fleets of stars but whole armadas.
+Or for feeding the giant dark monster in your
+basement, but we’ll discuss that more next
+week.
+So throughout this series we’ve been looking
+at generation ships, especially the impact
+of them on the culture that might develop
+inside one that is on a truly long voyage,
+and there’s some great books on that theme,
+like Gene Wolfe’s Book of the Long Sun,
+Harry Harrison’s Captive Universe, Poul
+Anderson’s Tau Zero, Arthur C. Clarke’s
+Rendezvous with Rama, and many more. One of
+the best of these is Robert Heinlein’s “Orphans
+of the Sky”, our Book of the Month, sponsored
+by Audible. Orphans of the Sky is one of the
+first books discussing generation ships and
+written well before the space age, and an
+inspiration for so many later stories where
+the crew forgot they were even on a ship.
+Heinlein, one of science fiction’s grandmasters,
+walks us through just how easy it would be
+for a generation ship, by its very nature,
+to get closed off from the outside world,
+and indeed as we’ve seen, the best designed
+generation ship, utterly self-sufficient for
+incredibly long times, are where this could
+happen the easiest.
+You can pick up a free copy of “Orphans
+of the Sky” today, just use my link in this
+episode’s description, Audible.com/Isaac
+or text Isaac to 500-500 to get a free book
+and 30 day free trial, and that book is yours
+to keep, whether you stay on with Audible
+or not. And if you don’t enjoy the book,
+you can exchange it for another book, no questions
+asked. But if you do enjoy it, and you will,
+there are many other amazing books by Robert
+Heinlein, and you can find them there on Audible
+too.
+So we were talking a little about interesting
+things you can do with Black Holes today,
+and next week we’ll get into those in detail
+and show some other advantages they have which
+might make black holes, natural or artificial,
+far more interesting to future space pioneers
+than planets and stars, in Colonizing Black
+Holes.
+For alerts when that and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell. And if you
+enjoyed this episode, hit the like button
+and share it with others. You can also visit
+our website, IsaacArthur.net, to see what
+other books we’ve recommended and discuss
+them on our forums.
+Until next time, thanks for watching, and
+have a Great Week!

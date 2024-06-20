@@ -1,0 +1,24 @@
+The Variable Specific Impulse Magnetoplasma Rocket 
+(VASIMR) is an advanced type of space propulsion  
+technology under development that uses plasma, 
+a hot, ionized gas, as its thrust medium. Unlike  
+conventional chemical rockets, VASIMR utilizes 
+radio waves to heat plasma to extreme temperatures  
+and magnetic fields to channel this hot plasma 
+out of the back of the engine, creating thrust,  
+while avoiding the temperature limits on rocket 
+engines that limits their specific impulse,  
+or essentially the maximum speed they 
+can reach with their available fuel or  
+propellant. It would be slow to accelerate 
+but able to reach higher maximum speeds,  
+potentially in excess of 120,000 
+miles per hour, or 0.02% light speed. 
+One of the standout features of VASIMR is its 
+ability to adjust the exhaust velocity of the  
+plasma, which allows it to vary its specific 
+impulse or thrust efficiency. This adaptability  
+makes it potentially useful for a variety of 
+missions, from fast transits between planets,  
+Mars in just a couple months, to maintaining 
+satellite orbits with high fuel efficiency.

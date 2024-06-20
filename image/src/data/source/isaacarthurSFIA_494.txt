@@ -1,0 +1,712 @@
+This episode is sponsored by Curiosity Stream
+Science tells us that the Universe is almost
+14 billion years old, yet will live many trillions
+of years more before the last stars die out.
+But that is a future that will never happen…
+So today we return to the Civilizations at
+the End of Time series after a year long hiatus.
+Today we’ll be exploring what civilizations
+might do as their own suns begin to burn out,
+and what options they have on the table to
+extend their existence after that.
+We’ll also be discussing the Supernova Engine,
+one of the most extreme forms of Stellar Engineering
+allowed under known physics.
+I should also warn viewers that while the
+Civilizations at the End of Time series is
+weirdly our most watched series, its episodes
+are always composed of concepts we’ve developed
+in more detail in other episodes.
+They’re not really meant to be standalone
+episodes, and I’ll reference some relevant
+episodes which you might want to consult,
+so that when I start talking about moving
+stars for instance, you already know and understand
+the physics involved in that.
+This month we’re also celebrating Douglas
+Adams’ Hitchhiker’s Guide to the Galaxy
+series.
+Unsurprisingly the second book of that series,
+“The Restaurant at the End of the Universe”,
+is our focus for today.
+Speaking of restaurants and food, we’ve
+a lot of concepts to cover so grabbing a drink
+and snack for today’s show is definitely
+a good idea.
+In Hitchhiker’s Guide we have the Restaurant
+at the End of the Universe and also the Big
+Bang Burger Shack, as both are events that
+any civilization with time travel would certainly
+want to see.
+But while we know when the Big Bang happened,
+as it was a fairly singular event, the End
+of the Universe is a much hazier concept.
+The distant future of the Universe is not
+something we can speak of with much certainty
+just yet.
+At the moment the weight of evidence tilts
+toward an eternal expansion.
+Dark Energy will expand space so that all
+but our nearest neighboring galaxies are so
+far apart that they will fly over the cosmological
+event horizon, gone forever.
+At the same time our galaxy and those neighbors
+will merge together into one big clump.
+This is not a very distant future on the epic
+timescales of this channel, either.
+That galactic merger isn’t a few billion
+years from now but something that’s already
+happening.
+Our galaxy and a couple of our bigger neighbors
+like Andromeda and Triangulum have been eating
+smaller neighbor galaxies for a long time
+and will merge with each other in just a few
+billion years.
+During that same time, we will have noticed
+a lot of the more distant galaxies we can
+presently barely see will have disappeared.
+Even though we’ll be able to see further,
+because space is expanding everywhere constantly,
+and the greater the distance from us, the
+greater the rate of expansion.
+At far enough distances, that expansion will
+happen faster than light can cover the new
+distance.
+In a hundred billion years or so, only those
+galaxies just outside our local group will
+still be visible to us, and soon they’ll
+fade away too.
+But our future merged galaxy will still be
+running strong at that point, and star formation
+will be slowing a little bit but not by too
+much.
+Our Sun will be long dead by then but our
+nearest neighbor, Proxima Centauri, will still
+be young in its own much longer life.
+But eventually it too will die.
+New stars will form less and less often, until
+sometime many trillions of years from now,
+all that will be left is a lot of cooling
+stellar remnants.
+Since stars are critical to life, we might
+think that the death of that last star is
+the effective End of the Universe.
+All that will remain will be a slowly expanding
+and cooling Universe of eternal darkness.
+This is called the Heat Death, because even
+though it will be quite cold, in physics we
+define heat as the entropic state of energy
+rather than a specific temperature.
+There are some alternative cosmologies for
+the fate of the Universe that are quite hot
+though, such as the Big Crunch, essentially
+a reversed Big Bang, and perhaps also something
+called the Big Rip, in which expansion continues
+to accelerate until it tears apart even atoms
+themselves.
+As of now, heat death is the most agreed upon
+theory.
+All stars will eventually die.
+While you might think that the last one’s
+death will signal the end of time in a meaningful
+sense, as we saw in Black Hole Farming and
+Iron Stars, this is not so.
+Civilization can continue past that point,
+and possibly even thrive.
+More to the point, this death will not be
+some spectacular explosion, just a slow turning-down
+of the lights.
+The longest lived stars are the least massive
+ones, and as available hydrogen gets scarcer
+in those final days, these smaller stars will
+tend to be the ones forming.
+Indeed, tiny, dim red dwarfs will eventually
+become the only stars in existence, since
+they persist for a very long time and will
+make up an increasing percentage of new stars
+near the end of things.
+And they don’t explode.
+In fact, very few stars do, just the most
+massive ones.
+Big stars run out of fuel and they enter a
+red giant phase, but the very smallest do
+not even do that, they will probably get hotter,
+turning into blue dwarfs.
+These stars take a very long time to evolve,
+and the Universe isn’t old enough to have
+any yet.
+Eventually, in their final death throes, they
+will flash into white dwarf stars.
+Finally, at the end of their lives they will
+cool into black dwarfs.
+The end of the Universe will not be marked
+by a discreet moment in time, nor is the death
+of most stars.
+The biggest stars, and tiniest fraction of
+them, will undergo a red giant expansion and
+a supernova, with the most massive of these
+turning into black holes and the smaller ones
+into neutron stars.
+We’ve often discussed ways to live around
+black holes, and neutron stars also slowly
+cool.
+Indeed what we call a pulsar is merely a relatively
+young neutron star that’s still rather hot
+and active, and happens to be tipped at an
+angle we can observe the pulsar beam from.
+Far more stars, including our own Sun, will
+expand as a red giant, then lose their outer
+layers and fall into a white dwarf that slowly
+cools off.
+And even more of them, especially as the Universe
+ages, will skip the red giant phase in favor
+of being a blue dwarf.
+We’ll discuss stellar engineering options
+in a bit, but let’s start by discussing
+the slow cooling off of white dwarfs, neutron
+stars, and indeed black holes.
+We’ll focus on our own Sun as our first
+example.
+Right now it’s about halfway through its
+lifetime on the main sequence, burning hydrogen
+to produce helium and light.
+The term main sequence implies it is the longest
+chunk of its life but this tends to falsely
+imply a fairly static and long period followed
+by something short and violent and final.
+Quite to the contrary, our Sun is slowly warming
+up with time.
+It will be about 10% brighter in a billion
+years and life on Earth will begin to die
+as the atmosphere and oceans are stripped
+away.
+About 5 billion years from now, when our local
+galaxies have essentially all merged or are
+just finishing that up, the Sun will exhaust
+the hydrogen in its core and will expand into
+a subgiant and then a red giant.
+It will proceed through the various phases
+of that process for hundreds of millions of
+years, blowing off matter into a planetary
+nebula before leaving an exposed naked core
+that’s about 100,000 Kelvin.
+Finally, it will become a white dwarf.
+Bigger stars will evolve into more energetic
+white dwarf remnants, and will take longer
+to cool down.
+But here’s a critical concept: light is
+radiated off into space as a function of surface
+area and the fourth power of temperature.
+The more they cool, the longer it takes to
+drop one more degree.
+A carbon white dwarf of 0.6 Solar masses,
+what our Sun will likely end as, would take
+a billion and a half years to cool down to
+be merely as hot as our Sun’s current surface
+temperature.
+It would then take another billion and a half
+to cool another thousand Kelvin, and the coldest
+white dwarf we’ve found thus far, a bit
+under 4000 Kelvin, warmer than many red dwarfs,
+are over ten billion years old.
+So the white dwarf phase of our Sun, where
+it is still giving off a significant amount
+of visible light, is going to last much longer
+than its actual main sequence, as it slowly
+cools and shrinks its habitable zone and shifts
+to a shade of white light more akin to incandescent
+bulbs or candles than what we think of as
+vivid sunlight.
+This, incidentally, is not when it becomes
+a black dwarf, a source of some confusion
+about the timelines involved as you’ll often
+hear how it takes trillions of years.
+As mentioned, it takes longer and longer to
+cool each increment, and in astronomical terms
+we don’t really care about visible light,
+so Black Dwarf is a fairly ambiguous term,
+sometimes given as when it would cool to the
+temperature of cosmic microwave background
+radiation, which is about 2.7 Kelvin and actually
+gets lower all the time.
+So defining a black dwarf this way is a bit
+of a moving goalpost, and which each progressive
+step takes longer and longer.
+Neutron stars, which are much hotter and far
+denser, should take even longer to cool down.
+Whereas white dwarfs can only cool by photon
+cooling from their surface, which stays a
+lot colder than their core, neutron stars
+can cool by neutrino emission and so cool
+quite rapidly, initially.
+However they cool much more slowly than white
+dwarfs over the long run, and may prove useful
+for maintaining a civilization long after
+the stelliferous era.
+Let’s consider our Sun though or a parallel
+one, once it has become a white dwarf and
+cooled to about our Sun’s temperature, around
+ten billion years from now, and some billions
+of years after all the debris has been cleared
+away or coalesced into planets again.
+Where’s the habitable zone?
+As mentioned this will constantly be contracting
+but don’t overly focus on that.
+I mean, it’s constantly expanding right
+now and civilizations shouldn’t just throw
+their hands up in despair because a billion
+years from now they need to move their planet
+to avoid being frozen or scorched, considering
+we generally rearrange our civilizations on
+timelines of decades or centuries, not billions
+of years.
+It’s as hot as our Sun, but only Earth-sized
+and extraordinarily dense, and it’s producing
+only about a ten-thousandth of its current
+light, or 1% of 1%.
+Which means its Habitable Zone, going with
+the Inverse Square of distance, is only a
+hundredth, 1%, of what it is now, about four
+times further from this new-Earth sized Sun
+than the Moon is from Earth.
+Amusingly it is going to appear about the
+same size and color in the sky of a planet
+orbiting at that distance as it does to Earth
+now.
+There’s an issue with gravity in this scenario,
+but we’ll get to that.
+I'd like to emphasize that right now the Sun
+is slowly warming up and we’ll need to eventually
+move the Earth away to avoid baking it.
+We'll have a problem during the red giant
+phase where we’d need to move it quite far
+away for several hundred million years.
+But we will then be able to bring it back
+in again toward the sun and slowly tap its
+orbital potential energy as it spirals inward
+as it needs to be closer to the cooling white
+dwarf, over many billions of years.
+This post red-giant phase of Earth's existence
+will not be some brief last-gasp epoch of
+life, it’s one as long as what we’ve already
+had.
+But it will not be quite the same though.
+For instance, the Sun will lose almost half
+its mass during that red giant phase, and
+the orbital period at just .01 AU for half
+a solar mass is only half a day.
+That’s a very short year, let alone day,
+but don’t despair, you could set the planet’s
+rotational speed backwards so that the Sun
+still rose every 24 hours, one of those tricks
+we discussed for Sun Moons around artificial
+planets in Making Suns a couple months back.
+It takes some effort to spin a planet backwards
+and keep it that way, but we’re already
+talking about moving planets at this point
+and those are both child’s play compared
+to what we’ll get to momentarily.
+We’ll talk more about how to actually move
+planets next week in Planet Ships.
+Another issue though is that while it’s
+only planet sized, and reduced in mass, it’s
+not that much reduced in mass.
+If you’re orbiting it just 4 times further
+away than the Moon is from Earth, about 1.5
+million kilometers, that white dwarf of about
+half the Sun’s mass is actually going to
+be exerting more force on the surface of that
+planet than that planet’s gravity does,
+and indeed it won’t be able to exist as
+a result, as that’s inside the Roche Limit.
+So we'll need to consider some variations
+on this plan to make the general idea workable.
+Now when the white dwarf is still warmer and
+brighter, a planet farther out can do okay,
+and if it's a little too cold it could be
+warmed by mirrors concentrating the light.
+You could build a big lens at the Lagrange
+point of the planet and its White Dwarf Sun
+and keep it nice and warm the whole time,
+just expanding that lens as the star cooled.
+Additionally, you could cheat by building
+a megaplanet too, which we’ve talked about
+before in the episode Mega Earths, and if
+there’s one thing you’re not short of
+in an older Universe, it’s dense materials
+like iron for building dense planetary cores.
+Several billion years is a lot of time for
+gradual adaptation to higher gravity too,
+so you could get away with building some giant
+iron ball far more massive than Earth as your
+new planet.
+There are also ways to counter stellar tidal
+forces exerting crazy effects on our artificial
+planet’s topology, which we will discuss
+another time.
+Unfortunately this all suggests that just
+dropping Earth around a future white dwarf
+Sun is not a great option.
+Our more classic Dyson Swarm approach would
+still work just fine, and using mirrors to
+concentrate light to warm those habitats is
+less of a big deal, since the sunlight is
+already a bit unnatural looking in the first
+place.
+See Environment of Space Habitats for details.
+However, if you built a big hollow sphere
+around our own present-day Sun, out at the
+distance that would have normal Earth Gravity
+on it, it would be 574 times wider than Earth's
+diameter, with 330,000 times more surface
+area.
+This sphere around a reduced white dwarf,
+with half the Sun’s mass, would be 400 times
+wider than Earth's diameter and 165,000 times
+more spacious.
+You could essentially use that white dwarf
+to provide your gravity to a massive shellworld,
+and help keep it warm, without needing to
+worry about close-in tidal forces.
+Of course, providing light is a little trickier,
+as we’ve discussed before.
+However, you would have a terrible gravity
+issue if you tried to build a civilization
+directly on a cooled down, room temperature
+white dwarf, which for the moment I will call
+a Grey Dwarf as I don’t think that term
+has been used for anything outside Dungeons
+& Dragons.
+The temperature on a Grey Dwarf is perfect,
+and it will stay that way for a very, very
+long time.
+But since it's ultra-compressed degenerate
+matter we’re talking about, not only do
+you need a protective shell between you it
+and it, you’re also talking about a surface
+gravity of many thousands of times what Earth
+has.
+Now, if you’re living on a shell around
+a cooling white dwarf, you can keep contracting
+that as it cools toward this grey dwarf state
+until you reach a point where the gravity
+is too much for normal life.
+An inorganic civilization, though, might be
+able to handle a very high gravity, especially
+a purely digital one like those we focused
+on in Black Hole Farming and Iron Stars.
+Such a Grey Dwarf civilization is no longer
+biological and constrained to that specific
+room temperature environment, so they can
+ride that grey dwarf as their heat engine
+all the way down to black dwarf status, quadrillions
+of years later, taking advantage of the massive
+computational bonuses of an ultra-cold universe
+as they do.
+Remember, the Universe is getting colder as
+time goes on as well, and as long as something
+is warmer than the environment around it,
+it can be used to generate power.
+By the Landauer limit on classic computation,
+the processing power per joule of energy used
+is inversely proportional to temperature.
+So these artificial beings will enjoy a very
+long and prosperous existence on that Grey
+Dwarf.
+Similarly we probably shouldn’t rule out
+the option of turning the degenerate star
+into an actual computer, some hypothetical
+computronium, which has been suggested as
+an option for neutron stars, such as the Hades
+Matrix in Alastair Reynolds’ novel “Revelation
+Space”.
+The big advantage of this, if you can pull
+it off, is that it’s literally the densest
+computer with the minimum signal lag between
+components that you can make, only slightly
+less dense than a black hole.
+For that matter, Robert L. Forward’s classic
+novel “Dragon’s Egg” actually has life
+evolving on a neutron star, with neutron starquakes
+endangering civilization.
+For these beings time proceeds very rapidly
+as as they exist on the microscopic scale.
+Improbable, but an interesting approach to
+alternative chemistries for life, and we might
+be able to do strange things like entangle
+entire stars to create oversize quantum computers
+too, one day.
+It is worth noting though that all that lost
+mass during the red giant phase is mostly
+unused hydrogen, and you could take most of
+that and make a very nice new sun: a fully
+convective red dwarf with a multi-trillion
+year life, that closely orbited that white
+dwarf as a binary.
+That’s one possible way of doing urban renewal
+on a recently dead star system ending its
+red giant phase, by sweeping up all that excess
+hydrogen to make a binary partner for the
+white dwarf.
+Indeed, this is how we get one of our major
+types of supernovae, Type 1a.
+When a bunch of hydrogen accumulates on a
+white dwarf, usually robbed from a close binary
+sibling, it will erupt as a giant explosion.
+I should also note here that there is such
+a thing as a regular old nova, the smaller
+cousin of the better known supernova, and
+they’re very common but don’t get much
+attention these days.
+Same basic process, just milder.
+A little bit of matter leaks onto a white
+dwarf, fuses, and releases a modest explosion.
+We get about 50 of these a year in the Milky
+Way.
+But as long as you’re doing it carefully,
+you can keep feeding a little more matter
+to a white dwarf, in a stable process of fusion.
+I dislike this approach compared to the normal
+star lifetime extension method we discuss
+here, starlifting out heavy elements and adding
+more fresh hydrogen as needed.
+But it is one way to rekindle a star that’s
+already dead, and since the light produced
+is soft x-rays, not something we’d want
+to get a tan with, it works well with an external
+shellworld approach where it’s just being
+used for power, not direct sunlight.
+Of course we’re not necessarily uninterested
+in making things blow up.
+The problem with almost every stellar engine
+we discuss here is they only produce a lot
+of power in a relative sense.
+A star is immensely more powerful than our
+own mundane power sources, but it’s still
+a trickle supply, taking billions of years
+to go through its fuel.
+Sometimes you might want a lot of energy very
+fast.
+We have previously discussed megastructures
+that make even a Dyson Swarm look tiny, like
+the Birch Planet from Mega Earths or the compressed
+galaxy, which is a swarm of stars like a giant
+Dyson swarm that we envisioned at the end
+of the episode Making Suns.
+But when we talk about moving stars via Shkadov
+Thrusters, or even whole galaxies, we're talking
+about a dreadfully slow process because as
+powerful as those stars are, they are also
+ultra-massive.
+So sometimes we might want to go the larger
+Nova route of white dwarfs, or even the type
+1a Supernova route to get vast amounts of
+energy quickly, if for instance we wanted
+to move a star faster.
+For that matter, this trick works on neutron
+stars too, which we haven’t mentioned a
+use for yet.
+When a Supernova explodes, the energy output
+tends to parallel what a star like our own
+will release during its whole multi-billion
+year life.
+It might seem like far too much energy to
+ever want to capture at once, but maybe it’s
+not.
+We often talk about fusion, a technology that
+often gets labeled as the energy source of
+the future, and always will be.
+But actually we’ve been able to do fusion
+for a long time, people just aren’t too
+keen on detonating hydrogen bombs in massive
+underground vats of molten salt.
+We’ve also discussed using pulsed nukes
+to drive ships, as in the Orion or Daedalus
+projects.
+A supernova is just a pulsed fusion reactor
+on a grand scale.
+And they do not release all their energy in
+a single instant, and they range in power,
+generally about 10^44 Joules, peak luminosity
+is usually around 10^38 watts, a bit under
+a trillion times that of our Sun.
+So a classic dyson shell running on something
+like that would need to be about a million
+AU, about 16 light years, in radius.
+It sounds really big, BUT, we can produce
+much smaller novae, and more to the point,
+if you’re constantly detonating them in
+the same place, you are going to have a lot
+of gas kicking around absorbing light and
+slowly releasing it.
+So you could go a lot smaller, and note that
+is one alternative to building something even
+bigger than a Birch Planet.
+Those are limited in size by how big you could
+make one with Earth-like gravity on the surface
+without being inside a black hole.
+However, what people can survive and what
+a big metallic shell or plate can survive
+are very different things.
+Besides being able to take a much stronger
+blast at once and in wavelengths that are
+harmful to us, a typical piece of metal with
+a very high melting point, like Tungsten,
+can handle thousands of times the constant
+radiant power compared to a human or plant
+on a planetary surface.
+So a very, very large metal dish or pusher
+plate, about 4 or 5000 AU out from the event,
+about a light month, should be able to withstand
+regular blasts of a supernova.
+Needless to say this distance could be reduced
+with smaller explosions or with stronger materials.
+If you were detonating a typical supernova
+about once a week, you now have a massive
+engine producing many billions if not a trillion
+times the power of our own Sun.
+This is by definition a Kardashev-3 Engine,
+not the usual Kardashev-2 stellar engines
+we normally discuss here.
+You can use it to power an entire galactic
+civilization or to move an entire galaxy.
+So far, we've mostly been talking about the
+natural end of the universe, if our present
+understanding of things is correct.
+But it won’t really end that way.
+We talk about how the Stellar phase of the
+Universe is just starting and we’re not
+even 1% of the way through the primary star-forming
+phase of our galaxy, but in truth, we’re
+probably in the last 1% of it right now.
+We can never speak with certainty about mankind’s
+future in space as there are just too many
+unknowns.
+But if we follow the general assumptions about
+colonization we’ve been discussing on the
+channel over the years, we can make a very
+educated guess.
+In the next few centuries we’ll start launching
+colony ships, not a few, but millions of them,
+huge interstellar arks that will race outward
+at a decent fraction of light speed to settle
+every star system in this galaxy and keep
+going till they bump into someone that says,
+“Stop, these places are ours”, be that
+in our own galaxy or out at the edge of our
+supercluster, billions of years from now.
+As the Universe ages there will be more and
+more worlds with the potential for life and
+more and more time for them to kindle their
+own native civilizations.
+Odds are, though, we won’t meet any in this
+galaxy, because if they were here we'd have
+encountered their colonists already, since
+at our current rate of technological progress
+we'll fill the galaxy in a blink of the eye,
+and we’d expect they would have too if they’d
+shown up first.
+So we're likely the first.
+Our descendents will not stop at merely terraforming
+a few Earth-like worlds around friendly suns,
+they’ll colonize everything, possibly demolishing
+whole suns by starlifting to make either tailormade
+stars or merely as feedstock for alternative
+habitats, organic or digital.
+Even if they don’t tinker much with existing
+Suns, they’re unlikely to let new ones form
+if they’re not as efficient as what they
+can cobble together.
+In this regard, all the stars of this galaxy
+are an endangered species, Dying Stars who
+count their lifetimes in mere millions of
+years, waiting for us to arrive and repurpose
+them.
+Most will probably be destined to either end
+as the center of a classic Dyson Swarm or
+as the furnace in the basement of some mega-civilization,
+or simply disassembled, torn down to a small
+convective red dwarf or just basic build material.
+If you have controlled fusion, or can build
+kugelblitz black holes, or cheaply transmute
+elements or efficiently make antimatter, why
+bother using stars at all?
+You’re still constrained by thermodynamics
+which puts limitations on how close you can
+mash a civilization together and effectively
+radiate waste heat, so that it resembles a
+Dyson Swarm, but that doesn’t mean you have
+to use a big, clumsy and unwieldy natural
+star if you’ve got better options.
+Efficiency will matter to them since every
+bit of wasted energy is someone’s life if
+you’re trying to stretch civilization out
+as big as it can go and for as long as it
+can go.
+Every star not contained and every galaxy
+allowed to drift away are potential civilizations
+that could have been.
+After the next million or so years of rapid
+galactic expansion, we’re likely to see
+a period where folks begin shepherding their
+resources so they can keep going and prospering
+long after the natural stars of this universe
+have burned out.
+In fact, that last natural star burning out
+might find itself the toast of the party,
+like at Restaurant at the End of the Universe,
+but not a going away party, rather a tribute
+to the dawn of new civilization, more prosperous
+than before, filled with artificial environments
+or simulated worlds based in ultra-cold computation.
+It's possible that the last star might not
+be seen for many trillions of years, or it
+may be just a few million years ahead of us.
+As we go about moving stars, or extinguishing
+them and moving their disassembled components
+into closer, more useful configurations for
+a future galactic mega-civilization, potentially
+composed of quintillions of simulated worlds
+and universes, I could see us making a big
+show of putting out that last star.
+A big celebration, a Restaurant at the End
+of the Universe for those last physical engineers
+working in the remnants of this old Universe,
+as we shuffle off to new ones of our own creation,
+leaving the ebbing light of those last dying
+stars of a dark and expanding Universe.
+As mentioned, a lot of the topics we covered
+quickly today are covered in other episodes
+on the channel, but we’ve never really discussed
+the full life cycles of stars that much and
+even today we mostly focused on the implications
+of their old age to future civilizations.
+If you’d like to learn more about the lifecycles
+of the stars, then try out “Seven Ages of
+Starlight”, a great documentary about the
+life and evolution of stars available on Curiosity
+Stream, one of many excellent astronomy videos
+they have.
+Curiosity Stream is a subscription streaming
+service that offers over 2000 documentaries
+and nonfiction titles from some of the world’s
+best filmmakers, including exclusive originals.
+You can get unlimited access starting at just
+$2.99 a month, and for our audience, the first
+30-days are completely free if you sign up
+at curiositystream.com/isaacarthur during
+the sign-up process.
+Next week we’ll be discussing how to move
+entire planets and even how to use them as
+a massive interstellar spaceships, or possibly
+even intergalactic ones, to colonize galaxies
+far outside our local group of galaxies.
+Lastly, we’ll close out the month with our
+monthly Livestream and Q&A, which will be
+on Sunday, March 31st, at 4 PM Eastern time.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a Great Week!

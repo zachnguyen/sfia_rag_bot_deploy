@@ -1,0 +1,774 @@
+Science fiction has popularized asteroid mining
+and cities in the sky, but could the future of mining be in cloud cities 
+hanging far above distant worlds?
+As we get ready to finally start returning
+to the Moon and contemplating mining it to
+get to the resources we need to settle the
+rest of the solar system, it’s a good reminder
+that very little of the actual resources in
+our solar system – and probably most others
+– is in conveniently-mineable low-gravity
+airless moons and minor planets.
+Off of Earth, in our own inner solar system,
+Venus makes up more mass than everything else
+there combined, Mercury, Mars, our Moon, Mars’s
+own two little tiny moons, and the millions
+of asteroids in the Belt, yet its surface
+is covered with a terribly thick atmosphere
+whose contents are more like something coming
+out of rocket jet than what people inside
+that rocket could live and breathe in.
+Beyond the Belt, we have the gas giant, Jupiter,
+which outmasses every other planet in the
+solar system combined, and most of that remaining
+mass is in its smaller sibling Saturn, which
+itself has the largest moon in the solar system,
+Titan, with a thicker atmosphere than Earth’s.
+Most of the remaining mass is in the two ice
+giants, Uranus, and Neptune.
+All these bodies are surrounded by thick atmospheres
+which make getting material off the surface
+very difficult, and sometimes bordering on
+the nonsensical to even discuss, with places
+where the surface rains diamond or acid or
+is a dense core that would crush and burn
+any known material in an eyeblink.
+And yet, the atmospheres of these places might
+themselves be gold mines of resources and
+that’s what we’ll be discussing today.
+First, we’ll look at worlds like Venus and
+Titan, then move on to Ice Giants and Hycean
+Planets like Uranus and Neptune, then we’ll
+move on to gas giants like Jupiter and Saturn,
+where we can discuss setups like the Cloud
+City of Bespin from Star Wars.
+Finally, we’ll look at how to mine resources
+directly from our Sun and other stars, or
+even stellar remnants.
+We’ll begin our discussion on Venus and
+then move to Titan, each of which represents
+a very different type of target but which
+will likely use similar technologies for harvesting,
+and the reason they interest us initially
+is because their atmospheres have an abundance
+of nitrogen.
+Venus’s atmosphere is almost entirely carbon
+dioxide, at 96.5%, and truthfully that doesn’t
+interest us too much as a resource in space
+colonization because carbon and oxygen are
+both plentiful pretty much everywhere; but
+virtually all the remainder of that is nitrogen,
+and Venus’ atmosphere is nearly a hundred
+times as massive as Earth’s, so while most
+of Earth’s atmosphere is nitrogen and that
+is vital to plant life, Venus has a supply
+far greater than our own.
+Oxygen, carbon, and nitrogen are the third,
+fourth, and seventh most abundant elements
+in the Universe, as a fraction of mass, and
+in our solar system as well.
+If you’re curious 1st and 2nd are hydrogen
+and helium, and 5th and 6th are neon and iron.
+Helium and neon are noble gasses, meaning
+they only form molecules of just themselves,
+monoatomic.
+A molecule’s total mass is the principal
+control on whether or not it gets blown away
+into deep space by solar wind and radiation,
+so the lighter molecules don’t stick around
+much, and thus even though they are very common
+in general, it’s very hard to find either
+helium or neon in the inner solar system outside
+of the Sun itself, which holds onto them by
+sheer gravitational strength.
+Hydrogen doesn’t do much better, but it
+can bond to other heavier atoms, like oxygen
+to form water, or carbon to form methane,
+or nitrogen to form ammonia.
+Unfortunately, nitrogen is less common than
+oxygen or carbon, and by quite a lot, and
+it isn’t as good at sticking around hot
+planets.
+Nonetheless if we want to be building ecologies
+inside large space habitats like O’Neill
+Cylinders, we’ll need a lot of nitrogen,
+and if we want to terraform Mars or paraterraform
+places like the Moon, we’ll need a lot more.
+Regardless, nitrogen and carbon dioxide can
+be separated in a variety of ways.
+I don’t think a centrifuge would be the
+most efficient process but it’s always an
+option for separating cases of significantly
+different molecular mass, especially if you
+don’t need to worry much about purity.
+Nitrogen is our main interest in early settlement
+in this solar system but that won’t be true
+everywhere and everywhen, so centrifuges are
+an option that basically works on everything.
+You suck in some gas and spin it fast, and
+the same centrifugal forces that we use for
+spin-gravity in rotating habitats will let
+the denser molecules separate to the bottom
+and the lighter ones float up, or toward the
+center.
+Carbon dioxide is nearly half again the mass
+molecular nitrogen is, so it’s an easy enough
+separation, and the centrifuges can be mounted
+on the same type of buoyant stations that
+we envision floating on Venus’s upper atmosphere,
+which is heavy enough that a balloon full
+of oxygen and nitrogen would float, so people
+can live in blimps high above Venus.
+You could potentially use your blimp’s engines
+to run your centrifuges when not running your
+propellers at full speed.
+The key to any competitive mining operation
+is going to be about overall efficiency, so
+any place where you can get two for the price
+of one, or use surplus resources for another
+purpose that are only required for their main
+purpose intermittently is probably a good
+way to go.
+Cryogenic distillation is another technique
+for separating out nitrogen; and a popular
+one here on Earth where nitrogen under pressure
+and cooled will turn to a liquid right out
+of the air.
+The usual technique on Earth is to compress
+a bunch of air, which will heat it up, then
+let it cool to the local environment’s temperature,
+about 10 Celsius or 50 Fahrenheit.
+Then, once it’s reached that local temperature,
+you release the compression, and the gas suddenly
+expands and cools, and assuming you’ve left
+it enough room to expand to the necessary
+temperature and pressure it would liquify
+at, it will condense just like steam will
+and you’ve got liquid nitrogen.
+It’s simple enough to separate liquid oxygen
+and liquid nitrogen from each other too, on
+Earth, though the process would be different
+doing it for carbon dioxide and nitrogen.
+Carbon Dioxide, for instance, is never a liquid
+at standard pressure, but does have a liquid
+form and even at room temperature for high
+enough pressure.
+We use this trick to get carbon dioxide out
+of natural gas, a process we call ‘sweetening
+of natural gas’, and for context, when you
+burn natural gas in conjunction with oxygen,
+the byproduct is carbon dioxide and water,
+and you don’t want either in your combustion
+mix.
+We also have the mechanical molecular sieve
+option, which is handy in cases where you
+mostly have two molecules of very different
+sizes and again don’t care much about purity.
+Essentially you make very skinny filters and
+press the gas through them, and the smaller
+molecules make it through the sieve and the
+big ones don’t.
+Graphene, that wonder material we always love
+for contemplating space elevators, is often
+proposed as a material for making a molecular
+sieve out of, and given that it’s simply
+carbon, you don’t really need to worry about
+running out of it on Venus.
+There are quite a few other methods of separation,
+and I would imagine a competent chemist would
+know even more that I’ve never heard of,
+but those are the big ones in terms of near
+universal effectiveness and simplicity.
+Given that Venus is full of carbon dioxide,
+it’s likely that our ever-growing pool of
+knowledge about carbon sequestration will
+come in handy there and offer some other methods.
+We also can cheat by letting temperature remove
+most of the carbon dioxide by first shading
+the planet so that it cooled, and then rained
+carbon dioxide into oceans below it, a technique
+for terraforming Venus we discussed in detail
+in our episode Winter on Venus.
+This technique may be fairly limited in application
+at the galactic scale.
+It’s hard to say how many Venusian planets
+would be in the galaxy, with its thick atmosphere
+but ultra-slow rotation and minimal magnetopshere,
+unlike most of the others we’ll discuss
+today which ought to be very common.
+The advantage Venus has going for it is that
+we have a huge supply of power available and
+all day round, since a refinery can hover
+in Venus’s atmosphere, sucking the local
+air in while crawling across its surface and
+staying perpetually in sunlight, as Venus’s
+day is so long, hundreds of Earth’s days,
+that a blimp moving at human-jogging speed
+could keep up with the sunset.
+A nonstop high-intensity solar power supply
+is a powerful industrial tool and also allows
+options like a mass driver floating high in
+the sky for firing pods of nitrogen off to
+planets or space habitats awaiting them.
+Those pods might be made of artificial diamond
+or graphene made from that plentiful carbon.
+On the flipside, Titan, far out in orbit of
+Saturn, does not have that abundant solar
+power.
+However large cold moons with large quantities
+of nitrogen probably are common enough.
+Titan’s atmosphere is somewhat thicker than
+Earths – not a hundred times as thick like
+Venus – but it’s 95% nitrogen and 5% methane.
+That methane provides a plentiful source of
+hydrogen so you can float around as a blimp
+here too, or by scooping helium from Saturn
+which we’ll get to later.
+But you can’t have floating blimp refineries
+full of normal air because oxygen is a bit
+heavier than nitrogen and Titan’s atmosphere
+is virtually all nitrogen, so an oxygen habitat
+is going to sink unless you keep it at partial
+pressure which you could do.
+Titan has very low gravity and is rich in
+hydrocarbons you can burn as fuel for engines
+and to heat air like a hot air balloon – and
+Titan’s local air is much cooler already.
+You have mundane ways to keep a refinery floating
+there.
+Or alternatively flying under power and connected
+by a tether to the ground below that it just
+orbited around a big circle in, with that
+tether scribing a cone shape, pointing apex
+to the ground.
+And you could run trams up that elevator line
+from surface mines.
+Titan’s atmosphere is tall, but the gravity
+is low and the orbital speed lower.
+While a conventional space elevator doesn’t
+work there, it’s for the same reason it
+doesn’t on our own moon, and as we discussed
+recently in lunar space elevators, for these
+moons which are tidally locked to their parent
+planet, you end up stringing it out to their
+L1 point rather than the local equivalent
+of geostationary.
+Or to the L2 point behind that moon, opposite
+Saturn, or even trailing further beyond that,
+which allows a nice whip-launch of cargo back
+into the system.
+In this regard, Titan is our better source
+for nitrogen and offers a very low power option
+for getting it.
+There are lots of other places we can get
+it too, as we discussed in our episode Comet
+Mining, but this might be the optimal one
+for habitats around Earth and the inner system
+out to and including the asteroid belt until
+it was exhausted of that nitrogen.
+Without knowing the available future technologies
+better it’s hard to say if any of those
+other options will become superior options
+to Venus in that regard.
+What Titan has that Venus hasn’t got is
+hydrogen, and while the other planets in the
+outer solar system have oceans more, they
+are trickier to access without a fusion economy
+or some extreme bruteforce engineering.
+Before we move on to those it’s worth asking
+if we are interested in anything besides nitrogen
+in these atmospheres and perhaps the hydrogen
+available in methane or ammonia or water vapor.
+And in the short term the answer is basically
+no because they haven’t got anything else
+in their atmosphere that we wouldn’t find
+all over the place anywhere else we were working.
+At most other elements might be shipped in
+simply because they were viewed as cheap by
+being a surplus waste product of another refining
+process, like oxygen would be from metal refining
+on the Moon.
+Outside of our solar system though, that could
+shift.
+Pluto, for instance, has no significant atmosphere,
+nor does any other dwarf planet we have, but
+Titan proves objects in that mass range can
+have them and there is nothing stopping a
+planet out past the frost line from being
+more in the Earth- Mass range.
+We may even have some out in the Scattered
+Disc or Oort Cloud.
+And those might have large quantities of neon
+or argon, or other noble gasses like krypton
+or xenon in their atmospheres.
+We wouldn’t want to rule out finding planets
+with phosphine in the atmosphere, or other
+molecules with elements we wouldn’t normally
+think would float about in the air for long.
+Worlds with volcanos, normal or cryovolcanic,
+will also be spewing lots of atypical elements
+into the air, sulfur for instance, and sometimes
+even into orbit.
+And for today we will assume cases like that
+would count as atmospheric mining still.
+There’s also the question of what still
+counts as atmosphere, which is a question
+that comes up when we start contemplating
+Ice Giants like Uranus and Neptune and Hycean
+Worlds, hypothetical super-earth planets with
+massive oceans under an atmosphere that’s
+largely hydrogen but may still hold life.
+On a place like Neptune, we speculate it might
+rain diamonds at certain altitudes, and that
+the atmosphere might be deeper than our entire
+planet is wide, not just a thin layer around
+the planet like ours is.
+That obviously provides a motivation for mining
+the atmosphere – again, it rains diamonds
+– but emphasizes that atmospheric mining
+has a lot of different types and levels.
+In the same way, I just said Earth’s atmosphere
+is a thin skin on our planet, but that’s
+a touch arbitrary.
+Go more than mountain-high and we can’t
+breathe anymore, but there’s no distinct
+end to our atmosphere and most of our satellites
+and space station are placed inside that atmosphere,
+as we generally want things as close to the
+ground as we can get them without any significant
+air drag de-orbiting our satellite or station.
+You can mine up at that altitude to, and we’ll
+return to that when we get to mining the sun
+later in the video, but atmospheric mining
+can vary from skimming off ions in a near
+vacuum up in orbit, to mining so deep into
+a mega-atmosphere that the pressure would
+crush a submarine, and where you might need
+something as hard as diamond to build your
+facility out of.
+It’s a good place to start looking at alternatives
+to buoyancy for keeping your refinery up in
+the air too.
+One advantage ice giants have over gas giants,
+and more so with Hycean Worlds, is that your
+atmosphere is not just hydrogen and helium.
+We get significant if tiny amounts of ammonia,
+water, and methane and that methane is thought
+to be the reason Uranus and Neptune are blue-green-tinted.
+We also have trace amounts of other hydrocarbons
+like ethane, acetylene, methylacetylene, diacetylene,
+and carbon monoxide.
+But to mine a place like Neptune or Uranus
+tends to imply you are no longer interested
+that much in hydrocarbons for energy, so what
+might really interest you here is the deuterium,
+which is at a high concentration, and likely
+vital for a fusion economy.
+And the same for Helium-3, which is vital
+to the harder but arguably more desirable
+aneutronic fusion reaction.
+Nonetheless you can float in there, you refine
+out hydrogen and that is likely to be your
+main export from that world, that or possibly
+deuterium, and both are lighter than the average
+volume of air on Neptune or Uranus, or probably
+any other ice giant, gas giant, or brown dwarf.
+On planets like this though, you can only
+use hydrogen, as even helium is too heavy
+to float a blimp.
+However, your basic refinery might be floating
+on its own huge storage tanks of hydrogen
+or deuterium awaiting shipment, and might
+even be able to let one free to float up higher
+for pickup, or on a tether to reel it back
+down for refill after pickup.
+Those heavier-than-methane hydrocarbons are
+thought to be far down, in a band about 100
+miles wide at the bottom of Uranus’s stratosphere,
+where the temperatures are colder than Antarctica
+and the pressure is still only about a hundredth
+to a ten-thousandth Earth-normal.
+So a buoyant refinery is probably down at
+the bottom of this layer and using hot hydrogen
+to keep the place floating.
+Buoyancy gets easier as we drop into the troposphere,
+and about where the pressure would be equal
+or bit greater than Earth-norm, we start seeing
+methane cloud formation, and for the next
+hundred or so miles below that the pressure
+rises to the point where a tough submarine
+could barely withstand it and cloud layers
+of ammonia and ammonium bisulfide, and below
+that, water clouds.
+There’s no limit beneath this where buoyancy
+stops working, and indeed it works even better
+at lower depths, but it all comes down to
+what you make that can withstand the pressure.
+We've explored some extreme tech options in
+our episode Accessing Earth’s Core, and
+in both cases, there is an unimaginable amount
+and variety of resources down there if your
+tech can survive it.
+We can easily imagine running huge fusion
+plants or fusion candles, which we’ll discuss
+in the gas giant section, and these might
+be enormous submarine city refineries made
+out of diamond or some other super-hard material,
+but it’s also likely we might use refineries
+up in the higher atmosphere suspended as orbital
+rings, with long tethers connecting to diving-bell-like
+gathering devices which grab material and
+are pulled or float back up.
+We discussed that more, along with the Neptunian
+Chainsaw – a planet-sized bucket excavator,
+and Chandelier cities hanging from such orbital
+rings, in our episode Colonizing Neptune.
+When it comes to gas giants and brown dwarfs,
+we don’t have to abandon buoyancy for our
+cloud cities yet, but it gets a lot more iffy
+and requires true immensity to make it work.
+Of course, we can’t rule out future options
+like anti-gravity which is presumably what
+kept the Cloud City of Bespin floating in
+Star Wars: The Empire Strikes Back, the best
+film of that franchise.
+But we want to mine these places if we can
+because they contain very nearly everything.
+Not including our own sun, Jupiter makes up
+almost three-quarters of our solar system’s
+mass, with very nearly all of that remaining
+quarter in Saturn, with Neptune and Uranus
+making up very nearly all the rest.
+We want that matter, and we want all of it,
+and let’s discuss how we get it.
+Now on Jupiter I could well imagine having
+harvesting facilities the size of continents
+– though still looking tiny compared to
+that planet - that were nearly hollow and
+full of hot, pure hydrogen.
+That will float, and on board you have all
+your separating gear as your huge facility
+spins out hydrogen, deuterium, helium, helium-3,
+methane, ammonia, neon, and more, and just
+mashes some of that methane into graphene-walled
+tanks that then fill with high-pressure gas
+or liquid, and those tanks might run down
+a massive linear accelerator or mass driver
+right into space.
+Or maybe it’s on an orbital ring, or down
+from that ring are your tethers that have
+extractors at their end or that connect to
+that buoyant continent, or maybe are just
+sucking air in.
+For some context though, Jupiter’s atmosphere
+varies a lot by altitude, but it’s a violent
+and eternal storm.
+So if I wanted to make a diamond-hard domed
+habitat there, where the floor and dome and
+everything else is generally only massing
+on an order of 100 kilograms a square meter
+– which is hardly thin and frail – then
+I need to be thinking about the structure
+under me, or over me, like an iceberg, and
+one kilometers deep and hollow and full of
+hot pure hydrogen, or that buoyancy isn’t
+working.
+If it isn’t, this is where we have to either
+use suspension from an orbital ring or active
+powered flight.
+Of course, if you’ve got great big fusion
+reactors and a fusion economy, this seems
+decently plausible, and then some sort of
+mix of aircraft carrier or Marvel S.H.I.E.L.D.
+helicarrier seems a real option - but maybe
+with a dome on it, and the giant cannon running
+down its spine is for launching its cargoes.
+Or giant bullets, after all a structure like
+this might attract pirates or tempt enemy
+attack to cripple the fuel supply in a solar-system-wide
+conflict.
+And it helps to have big guns if Darth Vader
+shows up trying to push you around or altering
+your deals further.
+This is one of the reasons why we always talk
+about there being no such thing as an unarmed
+spaceship, or atmospheric mining vehicle of
+this type.
+The sheer power involved in running the things
+tends to be convertible into a decent and
+insanely powerful weapon system.
+The same is true of fusion candles, which
+are basically a non-stop nova in the sky,
+blowing two jets of superhot plasma out, one
+it uses like a rocket flame to hold itself
+up, and the other for blasting matter into
+higher orbit or beyond.
+You can use these to jettison huge amounts
+of matter off the planet for easier access
+– potentially right down a magnetic funnel
+into a storage tank.
+But you can also use it to move planets around
+a solar system or take off their upper layers
+to get to the goodies below.
+There are a lot of them too, heavier elements
+we think of as being from terrestrial planets
+or asteroids are vastly more abundant overall
+in those gas giants.
+It’s just mostly down in the cores and at
+a far lower overall ratio, since they’re
+still mostly hydrogen and helium.
+I should also note that we could see a need
+to be extracting megatons of hydrogen or deuterium
+from Jupiter every day to run a true fusion
+economy of major interplanetary civilizations,
+the kind you describe on the Kardashev Scale.
+Between fueling spaceships for interstellar
+launches and running anything that solar power
+from the sun isn’t optimal for, you can
+use a lot of hydrogen.
+Indeed, if you were trying to replicate the
+power output of the Sun, you’d need to burn
+600 megatons of hydrogen every second and
+even Jupiter or Saturn’s massive supplies
+would only run it for tens of millions of
+years.
+And indeed, one of the things you might do
+atmospheric mining for is to bring the fuel
+from gas giants and brown dwarfs to stars
+or stellar remnants to refuel them.
+It emphasizes the sheer immensity of our Sun
+that it’s only halfway through its ten-billion-year
+life and that giants like Jupiter or Saturn
+could only extend that life by a few percent.
+But one of the ways you can extend that life
+is by removing non-hydrogen elements from
+a star and that’s where mining a star’s
+atmosphere, called starlifting, comes into
+play.
+Star lifetimes are about how quickly a star
+either runs out of fuel or builds up fusion
+byproducts that poison the process.
+By removing helium and other heavier elements
+from our sun, we can extend our Sun’s lifetime
+many times over without needing to add in
+more hydrogen from Jupiter or Saturn or other
+extrasolar hydrogen sources.
+This is a solar powered technique, as you’re
+right by the sun and using enormous mirrors
+to bounce light back down on the sun to further
+heat it while using the available energy to
+run large electromagnets.
+We discussed this process in detail, along
+with some alternative methods, in our episodes
+Starlifting and Refueling Our Sun, but all
+the matter on the Sun’s surface is ionized
+plasma and reacts strongly to electromagnetic
+effects.
+Thus, you can funnel matter off the Sun, aided
+by heating it up to locally increase solar
+wind output, and then separate it electromagnetically
+too.
+Indeed you might do this process by default
+on red or orange dwarf stars by star boosting
+them with polar statite mirrors, which heats
+that star up to make a larger habitable zone
+around that star’s equator and of a more
+sun-like spectrum, gaining those resources
+and that more habitable star in the process.
+As for separating the harvested material,
+an ion of iron and one of neon and helium
+and hydrogen all have different masses and
+will curve or accelerate differently in a
+magnetic or electric field and so you can
+use that plus the sheer enormity of space
+to separate those ions at a low cost, which
+is also solar-powered.
+So the process powers itself rather than needing
+something else, you’re just using the sun’s
+own sunlight to power its harvesting and cleaning.
+Folks wonder sometimes why taking the surface
+off a star would get you those heavy elements
+or helium from the core, but stars are like
+bubbling pots, some more than others, and
+while the concentration grows in the core,
+the reason stars go supernova from core poisoning
+of iron is because near the end the rate of
+fusion is going so fast that nothing has time
+to percolate around much.
+So you can use this trick even on big stars,
+indeed it’s easier on them, but only if
+they’re not too close to exploding yet.
+Were that the case you would need some other
+approach like opening a wormhole into their
+core.
+So, how much matter is in the Sun?
+Well ignoring the hydrogen and helium, about
+7,000 times Earth’s own mass, and that mass
+is pretty parallel to what we find elsewhere,
+as it’s what the solar system formed out
+of, the hydrogen and helium and neon just
+blew away relatively quickly from most other
+things.
+Every other mine we might run in this solar
+system, whether it’s on an asteroid or floating
+over Venus or drifting around the deep atmosphere
+of Neptune, all of them combined, won’t
+add up to even 1% of the material we’d get
+out of the Sun.
+Folks wonder sometimes where we’d get the
+material for a lot of these megaprojects we
+talk about on the show all the time, and that’s
+your answer.
+And that trick works in any star system, better
+in some than others, but it means even low
+metallicity stars with no planets are going
+to be able to offer rich pickings compared
+to mining an asteroid belt.
+Even a pure hydrogen and helium star could
+be sucked up to run a huge particle collider
+to make heavier elements, if you needed to.
+Albeit with a much higher capital investment,
+but I’d emphasize that while starlifting
+is a huge project, it really isn’t a high
+tech one, it’s just mirrors, solar panels,
+and electromagnets.
+Doubtless more tech helps, but it isn’t
+necessary, and it offers you vast resources.
+And it lets you profit, and build and grow
+while extending the lifetime of that star,
+to me that’s the definition of a positive
+symbiotic relationship and a nice counterpoint
+to folks who sometimes hear us talk of harvesting
+the galaxy and compare humanity to locusts
+consuming all in sight.
+Lastly, if harvesting stars isn’t enough,
+you can use this sort of technique, in conjunction
+with harvested gas giants, to even rekindle
+stellar remnants – very, very carefully
+– those stellar remnants can be factories
+to make heavier matter.
+We think of all our elements being made in
+supernovae from dying giant stars but that’s
+not the case, even for the heavier elements
+not made in smaller stars, a lot of the material
+arrives from white dwarfs exploding from gaining
+too much new mass or from neutron stars colliding.
+Now, while we might detonate a white dwarf
+to liberate some of the matter inside it,
+generally this sort of process is better conducted
+in slower steps.
+We can use the insane gravity near neutron
+stars or black holes to run processes not
+seen outside of supercolliders.
+We may be able to use these to produce heavier
+elements far more efficiently than they did
+themselves when they died.
+For more on options like that, see our Black
+Hole series, particularly Colonizing Black
+Holes.
+All in all, it shows you don’t need to do
+all your mining deep down inside dark holes,
+but can be out in the sunshine and fresh air,
+and that the future of Atmospheric Mining
+is a pretty bright one, especially when it’s
+a star’s atmosphere you’re mining, of
+course.
+So today we talked about mining planetary
+atmospheres and the stars themselves, after
+we’ve exhausted the easier to grab resources
+like comets and asteroids.
+We’ve discussed mining comets and asteroids
+before, but I thought it would be interesting
+to explore the life of an Asteroid Miner,
+to ask what that would be like and what reasons
+people might have to become an asteroid miner.
+That’s out now exclusively on Nebula, our
+Streaming Service, where we release a lot
+of Bonus Content, extra episodes and extended
+editions, and where every regular episode
+of the show also comes out ad free and a few
+days early.
+By signing up for Nebula at https://go.nebula.tv/isaacarthur
+and using code isaacarthur you get access
+to bonus content like Life as An Asteroid
+Miner, Nomadic Miners on the Moon, Space Freighters,
+Retrocausality, Orch Or & Free Will, Conformal
+Cyclic Cosmology, Colonizing Binary Stars,
+and more.
+Using my link and discount it’s available
+now for just over $2.50 a month, less than
+the price of the drink or snack you might
+have been enjoying during the episode.
+However, this month, September 2023, you can
+also get a lifetime membership to Nebula,
+for as long as both you and Nebula exist,
+for $300.
+Which goes to developing more and bigger Nebula
+Originals and platform improvement, and if
+you sign up using my code, isaacarthur, a
+third of that goes directly to the channel,
+and I’ll place the link for that option
+in the description right under the normal
+one.
+Either way you join Nebula you get access
+to all our content early and ad free, including
+the audio only podcasts, and access to tons
+of bonus content from our show and many other
+amazing creators.
+So for those curious, not only is this our
+first episode of Year 10 of the show, yesterday
+was my birthday and yeah the show’s birthday
+and my own coincidentally coincide a few days
+apart and wow has it been an eventful year.
+On a personal note it’s also the anniversary
+of my first date with my future wife Sarah.
+And also the anniversary of when we got the
+bios for our kids and acknowledgement that
+we were being formally considered to adopt
+them.
+We’re still waiting for that process to
+finish up but we do finally have permission
+to post photos of them and say their post-adoption
+names, which is a great birthday present,
+and if you’re curious, they are Kristofer,
+Isabella, and Geometry Arthur, ages 7, 6,
+and 5 respectively, and I’m very grateful
+they’ve come into my life, major distractions
+and stress though they’ve been this last
+year.
+Hopefully year 10 of the show and 44 of my
+life go a bit more calmly than this last one
+did, even if it has been a very good year.
+Not least because I love my job making this
+show and I have one of the best audiences
+anyone could ever hope for.
+So that’s it for today but we have our Livestream
+Q&A on Sunday, September 24th, at 4 pm Eastern,
+and then on the 28th we will have an exploration
+of what traveling the galaxy as an adventurer
+or lone wanderer will be like in Have Space
+Suit - Will Travel.
+After that we’ll jump into October to explain
+what Vacuum and Zero Point Energy are, on
+October 5th, and then we’ll have an episode
+not on spaceships, but the factories that
+will make them, on October 12th.
+Then it will be time for Sci Fi Sunday, on
+October 15th, where we’ll contemplate entire
+planets turned into giant factories, in Forgeworlds
+& Industrial Planets.
+Then we’ll ask the big question of if Life
+Extension Is Ethical on October 19th.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content,
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

@@ -1,0 +1,693 @@
+A space elevator might be tricky to do on Earth,  
+but they’re much easier on the Moon 
+and may be perfect for helping with  
+in-situ resource extraction to fuel our 
+expansion into the wider solar system. 
+The concept of a Space Elevator is one that has 
+fascinated folks since the late 20th century,  
+and one we have discussed on this show quite 
+a few times, but it also has some interesting  
+variants worth discussing too. One example of 
+that is a Space Tower, something we recently  
+did an episode on, and those are enormously tall 
+structures that rise up to low orbit rather than  
+hanging down from geostationary orbit, relying 
+on compressive strength rather than tensile  
+strength. We also have an abridged version of 
+elevators, such as the Skyhook or Rotovator,  
+that a spaceship meets halfway up into the sky 
+and uses to get the rest of the way into orbit. 
+But another example is an Elevator that is not 
+on Earth, but is on planets or moons with very  
+different gravities and day lengths, both 
+of which really change the dynamics of an  
+Elevator and what you need to construct it. And 
+indeed whether or not it would make sense to use  
+one of those other approaches instead, like a 
+Lunar Skyhook or Space Tower, or a mass driver  
+or space catapult to simply launch ships down a 
+very long track, up to high speed and into space. 
+Of course that’s our focus for today, the 
+particular case of a Space Elevator on the  
+Moon. This may turn out to be the first place we 
+end up building a space elevator, and building  
+one there rather than on Earth has several 
+advantages as well as a few additional challenges. 
+In order to discuss those, we’ll first need 
+to briefly discuss elevator basics, such as  
+material strength, how gravity impacts that, how 
+they hang in space, how long they need to be;  
+based on day length, and what their throughput 
+would be. That last one is a pretty big deal with  
+space elevators because they are long in the same 
+way a continent-spanning railroad or freeway is,  
+and the usefulness of something like that 
+is diminished if it can only have one  
+train or cargo truck on it at the same time.
+Before we discuss those space elevator basics  
+though, let’s talk about the Moon. The Moon orbits 
+Earth about once a month and critical to today’s  
+topic is the reminder that the month-long orbit of 
+the Moon around Earth is both the Moon’s day and  
+year. It turns very slowly and indeed orbits 
+very slowly. Earth orbits the Sun at around  
+67,000 miles or 108,000 kilometers per hour. 
+At its equator, Earth spins around once a day  
+at 1000 miles or 1600 kilometers per hour. The 
+speed needed for low orbit around Earth is 17,000  
+miles or 28,000 kilometers per hour.
+All of those are faster than the Moon, which  
+orbits Earth at 2300 miles or 3700 kilometers per 
+hour, and rotates on its axis at a mere 10 miles  
+or 17 kilometers per hour – which is about the 
+speed I usually average when I’m biking with my  
+wife, and we don’t aim for speed. It is certainly 
+not the supersonic rotational speed of Earth.  
+Low orbital speed on the Moon – which 
+is very low orbit indeed since there’s  
+no atmosphere to rise above, is roughly 
+3800 miles or 6000 kilometers per hour,  
+not even a quarter what it is on Earth 
+and that’s even less than it sounds like  
+in the context of the rocket equation 
+or kinetic energy of a ship leaving. 
+Which begs the question of if we really even need 
+some big piece of infrastructure like an elevator,  
+tower or mass driver on the Moon, and is 
+part of what we’ll be discussing today. 
+Now, the key concept of a space elevator is 
+that if you can find a material strong enough,  
+you can run a tether – or a tower, if we’re 
+talking compressive rather than tensile  
+strength – between the ground here on Earth and 
+orbit. We generally assume the bottom is attached  
+to the equator somewhere, though we’ll discuss 
+some other options like polar landing sites later. 
+If you’re on the ground, you’re whirling around 
+Earth’ equator at 1000 miles or 1600 kilometers  
+per hour, this obviously isn’t orbital speed 
+or all the ground would fly off into space from  
+there, and indeed it’s about 17 times faster, 
+and that speed is the circumference of Earth,  
+at its surface divided by how quick 
+the Earth turns, once every 24 hours. 
+But the higher you are, the wider the 
+circumference of a circle you’re making in that  
+same 24 hours, so the faster you would need to be 
+going in order to remain in geosynchronous orbit,  
+while at the same time, the speed you need to 
+orbit the further you are from the planet goes  
+down. This is the key concept of a space elevator, 
+eventually those two speeds meet, and for Earth  
+that’s at what we call geosynchronous orbit, once 
+every 24 hours, and the specific version of that  
+right over the equator is geostationary, as you 
+are orbiting right over the same spot all day. 
+Problem is, this is very high up, 22,000 miles or 
+36,000 kilometers above Earth, considerably higher  
+than the planet is wide. What’s more, we actually 
+want to go even higher if we can, since if our  
+tether or tower reaches still higher, then the 
+velocity it’s whirling around at will keep rising,  
+while the speed to orbit drops further, and 
+above geostationary it will exceed what it needs,  
+giving it a great boost to launch into deep 
+space. And you need a counterweight on a  
+tether above this height so it doesn’t just 
+fall down, towers don’t have this problem,  
+they can be arbitrarily tall provided you have 
+new materials with enough compressive strength  
+or have mastered active support technology. 
+See that episode, Space Towers, for discussion. 
+Either version needs to be way stronger 
+though because they are trying to not only  
+hold up the weight of whichever vehicles we have 
+climbing up them but also their own weight too,  
+and the stronger they are, the less of their 
+own weight they need to hold. Every material  
+has what we call a breaking limit, the amount 
+of that material, based on its tensile strength  
+and its density, that it could hold up as 
+a rope of uniform diameter in normal Earth  
+gravity before it breaks. Picture a rope, 
+if long enough and dangled from high enough,  
+it will reach a length where its own mass snaps 
+it free, its breaking length or breaking limit. 
+We have no material that at a uniform diameter 
+has a breaking limit of 22,000 miles or 36,000  
+kilometers, not even graphene or carbon 
+nanotubes, but we don’t need that because  
+you can make something thicker or thinner on one 
+side, rather than uniform in diameter, tapering  
+off like very long cylinder or cone, and so you 
+can put the thick end up in space where that  
+portion of the tether is practically weightless, 
+and you can hang a longer cord that way than the  
+breaking length would ordinarily allow. Also that 
+breaking length is in normal gravity, and that  
+gravity gets weaker as you get further away.
+So, we can do a tapered elevator on Earth,  
+maybe. There’s a lot of other challenges, 
+like weather, and we looked at that more in  
+our Space Elevator episode way back.
+The Moon is an easier case in almost  
+every aspect, one would think. After all 
+it has way weaker gravity and no air,  
+and both of those factors absolutely do help. We 
+have materials that you could build a lunar space  
+elevator tether from today, and one that’s tens 
+of thousands of miles or kilometers long. So too,  
+a space tower is way easier when you have vastly 
+lower gravity and no air or weather. By this same  
+logic, space elevators should work far better on 
+places like the Moon, Mars, or Mercury, which have  
+little to no atmosphere, and far weaker gravity 
+compared to Earth, and presumably even on Venus,  
+which while far closer to Earth’s mass, still 
+has a low enough gravity there that we could do  
+an elevator there much more easily than on Earth. 
+Indeed we need not anchor it to the ground there,  
+which is basically lava, we could have a moving 
+tether sliding through the upper atmosphere,  
+which lets us change some of the dynamics 
+involved in terms of altitudes and speeds. 
+Our problem here is that except for Mars, whose 
+day length is just a little longer than Earth’s,  
+all those places I mentioned have way longer 
+day lengths, or rotational rates. The term  
+geostationary is specific to Earth but to use it 
+generically for a moment: Geostationary on Mars is  
+8500 miles or 13,600 kilometers above the equator, 
+and at a velocity of 3300 miles or 5200 kilometers  
+per hour. Very doable and potentially useful, 
+but our topic today is not Martian Elevators,  
+and sadly it is the best case of those 4.
+It still works for our other two planets  
+though. For Mercury the geostationary is 150,000 
+miles or 240,000 kilometers high and the orbital  
+velocity up there is just about 700 miles 
+or 1100 kilometers per hour. Venus is worse  
+at first glance, at 950,000 miles or 1,530,000 
+kilometers height to geostationary, and an orbital  
+speed of 1000 miles or 1600 kilometers per hour. 
+We can actually cheat on Venus though, and leave  
+the bottom of our tower in the upper atmosphere, 
+moving faster than the planet rotates, and this  
+lets us makes a shorter tether and one a little 
+further out of Venus’ gravity well on the bottom,  
+though technically this is a non-rotating skyhook.
+This episode is not about skyhooks, mostly,  
+or other planets, but they illustrate the issue 
+the Moon has, and its own geostationary height is  
+54,000 miles or 87,000 kilometers up, and the 
+velocity up there to maintain geostationary orbit  
+is only 540 miles or 860 kilometers per hour. 
+Which is all fine except ‘up there’ on a Moon is a  
+tricky concept at that scale. The Moon is orbiting 
+Earth and is only about 4 times further away than  
+that geostationary height would calculate at, if 
+it were just the Moon. We can largely -though not  
+entirely – ignore the gravity the Moon has on an 
+Earth Space Elevator since geostationary height  
+over Earth is around a tenth the distance to the 
+Moon, not a quarter, and the earth is 80 times  
+more massive than the moon and 80 times stronger 
+in its gravity as a result, or 8000 times stronger  
+than the gravity the moon exerts at that distance.
+What that means is that not only does Earth  
+massively perturb anything orbiting the Moon 
+that far away, but it’s actually stronger  
+than the pull of gravity the Moon exerts at the 
+Moon’s own geostationary distance. Or in summary,  
+there isn’t any geostationary orbit over the Moon. 
+We’ve got several materials we can already mass  
+produce that are strong enough, even for that 
+enormous length, but there’s currently no known  
+stable place for a classic elevator concept.
+Now, does that mean we can’t build it?  
+No, we’ve got a number of options at this 
+point, including a modified elevator option,  
+skyhooks, space towers, and the mass driver 
+approach, and our real question is what is best,  
+but let’s discuss the basic lunar elevator.
+One of our options is to abandon aiming for  
+geosynchronous and instead aim for Lagrange 
+Points. Every two body system has 5 Lagrange  
+points, Earth has 5 with the Sun, and 5 with 
+the Moon. Jupiter’s has 5 with the Sun and two  
+of them, the L4 and L5 Trojan Points, which are 
+60 degrees ahead and behind it, have their own  
+large asteroid fields. These are reasonably 
+stable places to put artificial constructs,  
+especially if you have the option for some station 
+keeping, but the L1, L2, and L3 points are also  
+options. L1 is always in between the two objects, 
+and closer to the less massive of the pair,  
+L2 is behind them, and L3 is on the exact opposite 
+side. How far the L1 and L2 are is dependent on  
+the mass ratio of the two bodies in question, 
+and in the Earth-Moon case, it’s around 5/6ths  
+of the way to the Moon from Earth to L1, about 
+200,000 miles or 330,000 kilometers from Earth,  
+and about 7/6ths that distance to out past 
+the Moon from Earth to L2, about 240,000  
+miles or 385,000 kilometers from Earth, and that’s 
+basically where we put the James Webb Telescope. 
+For Lunar Space Elevators, the Earth-Moon L1 and 
+L2 are both attractive options. If you’re curious,  
+all 5 are potentially usable, but for L3, L4, 
+and L5 we would be talking about making a big  
+long ring along the Moon’s orbital path 
+around Earth. There are actual reasons  
+why you might do that in a more distant 
+future with a large build up of orbital  
+habitats and infrastructure in Cis-Lunar Space 
+but we’ll save that discussion for another time. 
+L1 and L2 are, in the Moon’s case, actually Lunar 
+Synchronous, the equivalent of geosynchronous,  
+but for the Moon. They are for any tidally locked 
+moon around its planet, objects in 1:1 Orbital  
+Resonance, which is true of very nearly every 
+moon, and would be for tidally locked planets  
+too. There are none in our solar system, Mercury 
+is in 3:2 Orbital Resonance, rotating 3 times for  
+every two orbits around the Sun, and probably 
+isn’t tidally locked simply because of how  
+eccentric its orbit is, and we tend to assume 
+most cinder-like planets or even habitable ones  
+around the smaller red dwarf stars are tidally 
+locked, and in all these cases their L1 and L2  
+points will be the places to put elevators, and 
+also out from which you would be putting any  
+arrays of solar shades to cool off the lightside 
+or give it a day/night cycle, and at the L2,  
+any mirrors for lighting the night side.
+Getting back to the Moon, the L1 and L2 are  
+not stable for the Moon and only would be in the 
+case of a perfectly circular orbit and with few  
+other bodies in play to perturb things. When the 
+Earth and moon are closest to each other, perigee,  
+the distance to L1, or L2 for that matter, 
+from the Moon’s surface, actually changes. 
+Pluto and its moon, Charon, is about as stable as 
+that arrangement gets of known bodies and there,  
+with both of them being tidally locked, you can 
+actually forge a cable right between the two,  
+surface to surface, we dubbed that construct the 
+Acheron River in our episode Colonizing Pluto,  
+but it should be noted that you could set 
+up ring and tether systems between moving  
+bodies like the Galilean Moons of Jupiter.
+In our case, if we built an orbital ring  
+around Earth out at geostationary, or further 
+out for that matter, we could run a tether  
+from that to the Earth-Moon L1 point, it would 
+need to move around that ring, and fairly fast,  
+but at speeds where a direct transfer is feasible, 
+allowing a rail car to leave any point on Earth,  
+and assuming it was air-tight, able to deliver 
+cargo or people directly to the Moon, non-stop  
+if timed well. That’s a little more far future 
+than we’re discussing today, though it requires  
+no super-advanced technology, and we’ll discuss 
+it more next month in our episode Interplanetary  
+Infrastructure. It’s mostly tricky because 
+the Moon’s distance to Earth is not constant. 
+Our Moon is not particularly eccentric in its 
+orbit but it still varies by about 10% in distance  
+from when it is closest to Earth, perigee, and 
+furthest from Earth, apogee. The upside about  
+unstable transport tethers though is that you 
+can do a lot of station keeping just by being  
+a bit smart and calculated about when and how 
+you move and release mass from the tether. You  
+can adjust tether length, by having winches and 
+excess length at either end or at midpoints even,  
+and just spool or unspool it as needed.
+Also tethers are not super-big and massive,  
+so on planets with decent magnetic fields you can 
+use solar panels to run electromagnets to give  
+them corrective shoves. Our moon can’t really go 
+that path but at the same time, an alternate use  
+for a very thin solar mirror besides shining light 
+on a photovoltaic or thermal power generator is to  
+bounce off incoming photons in a chosen direction 
+and you can do station-keeping with that too,  
+if you’re using solar-sail thin panels.
+That does allow some atypical scenarios  
+for elevators on low-gravity objects with 
+low spin rates and no real stable spots.  
+That generally means moons though, most 
+asteroids spin faster than Earth does,  
+often rotating in a few hours. Objects tend to 
+have their rotational rates slowed when they  
+get snatched up as moons of other bodies, and it 
+bleeds off until their rotational rate matches  
+their orbital rate, or they get ‘tidally locked’.
+In the moon’s case a lot of correction can be made  
+using all the metal or fuel being moved off 
+the surface, so the stability of that orbit  
+isn’t too big a concern. The question then is 
+if you want the L1 or L2 for your elevator,  
+and if you want to ship from the equator, as 
+the poles are often of more interest to us on  
+the Moon than the equator is. Though I was at 
+a great talk recently by my friend Pascal Lee  
+who made the case that the lunar polar regions 
+aren’t necessarily such great places to do in  
+situ extraction as we’d been thinking they were.
+The main reasoning though was that we think we  
+have a good chance of finding water ice there 
+on those poles. Particularly the South Pole,  
+and this is handy because you can actually run 
+a tether from the south pole to the L1 as well. 
+As we’ve noted in other discussions of space 
+elevators, one option for avoiding using the  
+equator for these is to have three or more tethers 
+with non-equatorial anchor points on the planet  
+or moon below, at least 1 in each hemisphere, 
+rising to a shared geostationary terminus point  
+and acting like guy wires on it. This requires a 
+stronger tether, though not a lot stronger, and we  
+have more than strong enough materials for a lunar 
+elevator so options like this become possible.  
+We also don’t necessarily need to use more 
+than two and one in both hemispheres for a  
+lunar elevator. You need not have your tethers 
+attached to the equator or poles for that  
+matter, it lets you put them anywhere.
+Critically it isn’t a bad idea to do a  
+pair of polar tethers, one from each pole, and to 
+equatorial tethers running out to L1 and L2. They  
+both serve different functions. Indeed you might 
+space 4 equatorial sites out at 90 degrees around  
+the equator with each terminus station at L1 and 
+L2 connected to 2 of those equatorial sites and  
+each of those poles, and you can now correct a lot 
+of perturbation simply by having big winches on  
+those tethers that can lengthen or contract each 
+tether, and you have 4 lines up to each station,  
+and down from them. More is better in my 
+opinion, both multiple tethers running a  
+few meters apart and parallel, and more sites, 
+which helps a lot if one gets damaged and severed. 
+The handy aspect here is that there are plenty 
+of mundane materials that can do the job,  
+and for a context, while these cables might 
+be made arbitrarily thick or thin depending  
+on anticipated throughput, a wrist-thick cable 
+of most of the materials contemplated for this  
+on the moon would mass in the vicinity of 
+10 kilograms a meter or 10 tons a kilometer,  
+and be able to move cargo like a freight train 
+would. But the basic design puts forth calls for  
+a pencil-thick cable coming in at something like 
+88,000 pounds or 40,000 kilograms for the whole  
+lunar elevator and allowing a tether-crawler 
+of significant capacity. You start small and  
+build up, or just add more parallel tethers.
+You can have an internal power supply in such  
+a crawler but we can also run a power cord 
+along the tether or beam energy to it. So too,  
+you can run fiber optics up it to allow very 
+high bandwidth communications, and the L1  
+point is always visible from Earth, something 
+that is not true of the back side of the moon,  
+or even a lot of the crater locations we might 
+be preferring for lunar installations. So you can  
+have a continuous and dedicated communication 
+portal from Earth to any point on the Moon. 
+Incidentally, in practice, while you can 
+build a non-tapering tether for the Moon,  
+you probably still would taper the tether to 
+be widest at the Lagrange point and skinnier at  
+the connections to the Moon or to any extending 
+whip-like segment going out even further. Also  
+note that this need not be a single tether, 
+you can multi-strand, have connection points,  
+and have redundant cables running parallel that 
+a crawler could connect to multiple of, and to  
+allow two-way traffic or passing slower crawlers.
+Alternatively, you can do a non-tapering tether,  
+one whose thickness or cross-section remains 
+the same, and put it on double-pulley setup,  
+one at L1, one down on the ground, and this 
+is considered easier to repair. It has the  
+downside of requiring a wide strut to 
+keep the cables from tangling but you  
+have similar concerns for cables running 
+close together in parallel for redundancy.  
+We don’t necessarily need redundancy here 
+either, the crawler is an air-tight pod and  
+there’s time to react to a severed 
+cable or pods that skip the tether. 
+Earth-side you can build a parachute in for 
+instance, and on the Moon we might strap on  
+an emergency fuel tank to allow options. It’s 
+even possible a liquid oxygen air reserve might  
+do double duty as an emergency fuel supply, or 
+rather oxidizer, since the majority of the weight  
+of many rocket fuels is oxygen and oxygen might 
+also be a common byproduct of industries on the  
+Moon and regularly shipped out in this form 
+for use on space station and ships. So too,  
+we often imagine shipping fuel from the Moon to 
+ships in cis-lunar space, and having a rig up  
+there that allowed cargo pods to use that in 
+an emergency is plausible enough as a safety  
+feature. There are a lot of other options too, 
+but critically that low gravity gives us way more  
+reaction time to help or rescue a damaged 
+or de-railed pod or with a broken tether. 
+Estimating the actual cost of a tether is a bit 
+of a wild stab in the dark, you’ll get figures  
+of anywhere from ten-thousand to a million 
+dollars a pound to get something to the Moon,  
+but a price tag of several billion dollars 
+seems plausible, if we’re shipping from home.  
+That’s viable of course, but the good news is 
+that some of the material options for a lunar  
+elevator would permit plausible manufacture on 
+the Moon from in-situ resources, which is handy  
+if you want to shift from pencil-thick cables 
+to several redundant wrist-thick megaton cables  
+running to multiple sites. We mostly want such 
+a tether for shipping things we’re making on  
+the Moon up into orbit, not for just a handful of 
+rovers or astronauts, so it would seem plausible  
+that an effort to get in-situ production of 
+fuel or construction materials going on the  
+moon could include the fabrication of the thicker 
+tethers for the elevator to ship stuff off with. 
+The upside of the L1 tether of course is 
+to ship stuff back home to Earth easier,  
+but also to make landing easier. The Moon has no 
+atmosphere to aerobrake in, and while its gravity  
+is low, it isn’t trivial etiher. You need fuel 
+for that descent. The upside of something like  
+a mass driver, a giant electromagnetic catapult 
+tube to shoot spaceships or cargo pods out of,  
+is that it can fire things out into space without 
+fuel and is very easy to build in a low gravity  
+and airless environment. The downside is that 
+you can’t really land on that and bleed speed  
+off. It is hypothetically possible to bleed 
+speed off a ship by that same arrangement,  
+instead of adding it, but that is trying to 
+thread the eye of a needle while moving over  
+a thousand miles per hour. And if you mess 
+up, you wreck that ship, that mass driver,  
+and anything or anyone on that ship or nearby.
+Alternatively, you can make a rendezvous with  
+a space station at L1 much easier, using fuel to 
+slow your relative velocities to a crawl before  
+docking, and we do have some tricks we discussed 
+in Colonizing Ceres for bleeding speed off ships  
+without using fuel for those seeking to 
+rendezvous with larger airless moons and  
+asteroids. Often this might be by basically 
+harpooning the ship with another tether. 
+Incidentally the L2 tether offers us the 
+advantage of interplanetary launch. That  
+L2 point behind the Moon is of interest as a place 
+constantly shielded from Earth’s transmissions for  
+doing good astronomy. As mentioned, that’s 
+where we put the James Webb Telescope and  
+others and for that reason, and it will only 
+get more crowded in the next century or two,  
+but the value of a tether extending to there 
+and beyond is that it’s a great slingshot for  
+hurling ships out into the deeper solar system.
+Earth orbits the Sun quickly, and far more quickly  
+than the Moon orbits us, but you can add the 
+Moon’s orbital velocity to ours for the purpose  
+of launching something out to Mars, the Asteroid 
+Belt, Jupiter and so on. You can add even more  
+with that L2 tether, and you could let that tether 
+extend as far as your materials could handle it,  
+keeping in mind that you are increasingly 
+far from both the Moon and Earth’s gravity  
+exerting force on the tether. Though it should 
+be noted that things accelerating down a tether  
+are yanking on it at their own acceleration 
+rate, so the faster you try to accelerate,  
+the more stress you put on that tether.
+And for a fixed tether or track length,  
+your final speed is very dependent on how fast 
+you can accelerate. That is one advantage a  
+mass driver has on an airless body like the Moon 
+over a tether, on the Moon it only needs to rise  
+high enough to clear any large crater rim walls 
+the track needs to pass through to stay fairly  
+straight and avoid having the ship slam into them 
+either. There’s no air to climb above to escape  
+drag forces like on Earth. That track can be 
+arbitrarily massive and pinned deep to the ground,  
+so your ship or launch platform can be both 
+very massive and haul down that thing in a  
+way a tether doesn’t accommodate as easily.
+The existence of a lunar elevator and lunar  
+mass driver do not conflict with each other, each 
+has their value and pros and cons, and a lunar  
+mass driver can contemplate blasting things into 
+space at speeds high enough to reach other planets  
+in weeks for instance, and we’re not really 
+contemplating that for tether-based launches. 
+We also have the abridged versions of 
+space elevators, the skyhook or rotovator,  
+which involves the same basic mechanics but, 
+much like in our Venus case, is not attached  
+to the ground or sea, but just dangles in the 
+air, and we can put it on a drift rather than  
+geostationary or lunar stationary orbit. 
+You can also whirl them around like bolas,  
+and all of this works way better without air 
+and with lower gravity. They’re a great option  
+when a space elevator isn’t as practical.
+See the Skyhooks episode for more details  
+on how those work. But for the Moon, I’d imagine 
+the more likely deployment scenario would be a  
+low orbit skyhook that orbited every 2 or 3 
+hours and revolved rather than just dangled,  
+to achieve a near stationary lowest dip 
+point at the top of crater wall or tower  
+near a mining site or fuel refinery to swing that 
+cargo back up into orbit or fling it off to Earth. 
+Speaking of towers, you might wonder if we 
+might just build a space tower off the Moon,  
+where no wind and low gravity make building 
+enormously tall towers much easier, and this  
+is definitely an option as an alternative to a 
+dangling tether. Indeed, you can even use them  
+in conjunction to allow a space tower that rises 
+out of the atmosphere and strongest gravity and  
+has a space elevator connecting to its top or a 
+skyhook that swings nearby periodically. Or your  
+tower stretches above the atmosphere and that’s 
+what your mass driver connects to for the top of  
+its track to allow an exit over the atmosphere. 
+But I don’t see the need on the Moon, with the  
+exception of towers at the poles that would be out 
+of the Moon’s shadow and thus eternally sunlit and  
+handy for solar power, and that requires no great 
+structural strength. I can definitely envision  
+shorter, wider conventional towers that had the 
+space elevator tether connected to their tops. 
+So, should we build a Lunar Elevator? For my 
+part I’d say yes. I think it’s definitely a  
+phase 2 or 3 project for developing the Moon, the 
+sort of thing that waits until you have permanent  
+installations already functioning. This is 
+why the polar or non-equatorial option for  
+the elevator is handy – you can potentially 
+run your elevator to a pre-existing base,  
+or bases, when that stage of development 
+is reached. No special apparatus is needed  
+at the connection site besides a winch to 
+allow tightening or loosening of the tether,  
+and pre-existing landing facilities 
+can still be converted if desired. 
+In the end, it is a great place to test 
+and practice with bigger scale tethers,  
+close to home but not so close as to represent 
+a hazard, so we can try them on the Moon,  
+same for skyhooks or mass drivers too, and 
+get that technology perfected before we try  
+deploying them on more distant planets, 
+moons, and asteroids. Or even on Earth. 
+In the end, we always talk about the Moon as a 
+gateway to space, literally and metaphorically,  
+and this is just one more example of how 
+that’s true, and who knows, one day you  
+might be able to take an elevator or train ride 
+straight from any city on Earth to the Moon.
+We'll get to the full upcoming schedule in a 
+moment but next week’s episode, the Last Planet,  
+is about life in the very distant future, at the 
+end of time, and one of the common solutions to  
+surviving that end is to time travel back to an 
+earlier universe, we don’t look at that option in  
+the episode but finishing production up on that 
+made me want to discuss time travel again and I  
+ended up writing the episode Retrocausality, 
+which folks who vote in Episode Image Polls  
+know has come in as a runner up a few times now. 
+I decided to do it as a bonus episode over Nebula,  
+and a chance to discuss what physics and quantum 
+really tell us about time travel and cause and  
+effect minus a lot of techno-speak and handwaves 
+that people often use for the topic. You can see  
+Retrocausality now over on NEbula, our streaming 
+service, and it’s just the latest of dozens of  
+bonus episodes and extended editions of our show, 
+which you can see, along with every episode of  
+this show, video and audio, without ads or sponsor 
+reads, and days before they’re out anywhere else.. 
+If you subscribe to Nebula, not only do you get to 
+see every regular episode of SFIA a few days early  
+and ad free, but we have lots of bonus content, 
+including extended editions of many episodes,  
+as well as bonus and exclusive content, like 
+Retrocausality, Nomadic Miners on the Moon,  
+Orch Or & Free Will, Conformal Cyclic Cosmology, 
+Planets Vs Megastructures, Space Freighters,  
+Colonizing Binary Stars, and many more.
+Nebula has tons of great content from an  
+ever-growing community of creators. Using 
+my link and discount it’s available now for  
+just over $2.50 a month, less than the price of 
+the drink or snack you might have been enjoying  
+during the episode, and it goes to supporting 
+new content from myself and other creators. 
+When you sign up at my link, 
+https://go.nebula.tv/isaacarthur  
+and use my code, isaacarthur, you not only get 
+access to all of the great stuff Nebula offers,  
+you’ll also be directly supporting this 
+show. Again, to see SFIA early, ad free,  
+and with all the exclusive bonus content, 
+go to https://go.nebula.tv/isaacarthur
+So that will wrap us up for today but 
+we’re just getting started for August.  
+And next week we’ll head trillions of years 
+into the future to the end of time and the  
+final twilight on the Last Planet. Then it 
+will be time for our monthly Scifi Sunday,  
+on Cyborg Armies, followed by exploring where 
+we might get water and other volatiles in space,  
+with Comet Mining. And after that we’ll 
+look at the concept of Devolution, and ask  
+if fictional mutant degenerates like Morlocks 
+and C.H.U.D.s might be possible in our future. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you want to donate and help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all 
+of SFIA’s episodes early and ad free on  
+our streaming service, Nebula, along with hours 
+of bonus content, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

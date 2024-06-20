@@ -1,0 +1,631 @@
+One day we may retire our rockets 
+and instead reach the heavens  
+by ascending towers so tall they dwarf 
+mountains, and rise above the sky itself. 
+The tallest structure in the world, at 
+over half a mile or 828 meters tall,  
+is the Burj Khalifa in Dubai. It’s 
+not very far from the Land of Shinar,  
+the region of ancient Mesopotamia where 
+it is said the Tower of Babel was built,  
+seeking to stretch to the heavens themselves.
+That story is typically associated with pride  
+and hubris and that’s often been true of many 
+projects for constructing the tallest buildings or  
+largest palaces or temples. Even in modern times 
+these gems have often been financially absurd,  
+and indeed the reason the Burj Khalifa 
+is the tallest building isn’t because we  
+can’t build taller, it’s because there’s 
+no compelling reason to build so high. 
+It is easy to forget that even the biggest 
+and grandest of cities like New York or Tokyo  
+only have a few hundred skyscrapers, while 
+each place boasts over a million buildings,  
+and often even those values come only from using 
+the most generous lowest mark for skyscraper,  
+which is unofficially viewed as being 
+at least somewhere between 100 to  
+150 meters tall or 40-50 stories or more.
+The reasons to build that high is partially  
+for maximizing super-valuable real estate in 
+packed downtown regions where your cost per  
+acre might run a few millions dollars, compared 
+to a few thousand in my own neck of the woods,  
+and that alters the equation for usage, where 
+the cost of an individual floor or level is  
+actually less than the land its sitting on, 
+unlike virtually everywhere else. They are one  
+reason to build tall, and even then, less for 
+economy than for premium space and prestige,  
+to have an office or apartment that grandly 
+looks out upon the vast city and coast below. 
+Rents for these higher floors are higher, which 
+is the only option that makes it profitable for  
+building so tall even in our densest cities. 
+After all, with the US average of around 1000  
+square feet or 100 square meters of house 
+per person, the entire world population  
+could be housed in a square 40 miles or 
+60 kilometers a side, if you had the 160  
+stories of the Burj Khalifa. That’s not even 
+a percent of a percent of Earth’s land area. 
+So, you really need a lot of people to build that 
+high out of actual economic necessity for living  
+space. We have discussed structures like that 
+where your building isn’t just apartments and  
+offices, but parks, factories, and farms. Immense 
+mega-buildings called arcologies. But even these  
+are rarely contemplated as being kilometers tall. 
+You just start getting heat issues with individual  
+floors at that point. We can already build that 
+tall if we want, it’s quite an engineering hassle,  
+all the more so if you haven’t got effectively 
+infinite budgets, but the science there is fine. 
+Alright, we can build pretty tall. 
+But can we build all the way to space? 
+A Space elevator is a structure most folks are 
+familiar with these days and ironically it is a  
+revision of the basic concept. Most buildings rely 
+on compressive strength to hold their weight up,  
+how much you can pile on something before 
+crushing it. Tensile strength is its twin,  
+how much weight some rope might hang before 
+it snapped under the weight. Around 30 years  
+ago we discovered ultra-strong tensile 
+materials, various carbon allotropes like  
+carbon nanotubes and graphene. So we envision 
+hanging a vast tether down from geosynchronous  
+orbit to run an elevator car up from below.
+But before that, we contemplated a different  
+option, just building a tower so 
+tall you could launch from it,  
+and we’ll be reexamining that option today.
+Now a space elevator actually goes beyond  
+geosynchronous height, 22,000 miles or 36,000 
+kilometers, but the principle is that at that  
+height, the speed an object orbits at 
+is the same as the planet’s spin rate. 
+The further you get from Earth, the slower you 
+need to move to remain in orbit, while the larger  
+the circle you actually need to orbit around to 
+complete one orbit, so the longer your orbital  
+period. It’s around 8 kilometers or 5 miles a 
+second just above Earth’s atmosphere, and gets  
+you around Earth every 90 minutes or so, but at 
+22,000 miles, you only need to orbit about 2 miles  
+or 3 kilometers per second, and that orbital 
+path is a lot wider than Earth, so it takes a  
+whole day to cover it, and the Earth is spinning 
+at the same rate below you, hence geosynchronous,  
+or geostationary when right over the equator.
+Tower or Tether, there’s still a decent amount  
+of gravity there, so you should be falling 
+downward, but the building itself is moving at  
+orbital velocity sideways as the planet spins, so 
+on that floor, if you jumped out, you’d just hang  
+in space, and indeed you’d have no net gravity on 
+that floor. One above it, and you would be swung  
+to the ceiling -- albeit under microgravity. 
+One below, a very tiny amount of gravity would  
+pull you down, and you could apply a little 
+thrust, even a sneeze, to enter a stable orbit. 
+Again, tower or tether, this makes a great launch 
+mechanism since you can use the heights above this  
+to slingshot off into space, as above this height 
+everything is swinging around the planet faster  
+than orbital speed. And even just part way up 
+the tower, you can jump out and spread some wings  
+and basically land anywhere on the planet.
+Now, building a tower 22,000 miles high is  
+ambitious, but even one just 100 miles up gives us 
+some options, especially if we do multiple towers.  
+At that height you’re above the vast majority 
+of the atmosphere, so you could build a runway  
+that didn’t have to mess with air drag and also 
+circumvented the rocket equation. You would need  
+no propellant since the runway is below you to 
+push of of, and propel you down it. This makes  
+space launch very cheap, albeit still more 
+expensive than the full blown geosynchronous  
+tower taller than the planet is wide.
+This is awesome as an airport and spaceport then,  
+the more so since it avoids loud rockets 
+that make leaving directly from a city bad. 
+So, we’ve an obvious motivation to build that 
+high, it makes for ultra-cheap travel around  
+earth and to space, and down from space too. 
+There are materials and methods that can allow  
+us to seriously contemplate building such high 
+buildings too, channel regulars would know of  
+active support for instance, but for the moment 
+let’s ignore the materials and ask about what the  
+rest of that tower does. For those wanting more 
+details, like how active support works and how  
+you can build things like this off the equator, 
+without them tipping over, see our Upward Bound  
+Series episodes, particularly Lofstrom Loop, or 
+our original Space Tower video focusing on Space  
+Fountain Launch Mechanisms, and Orbital Rings.
+Now, you might build a tower that juts out wider  
+at certain key altitudes, and was otherwise 
+super-skinny, but let’s contemplate one for  
+the moment that was not pencil thin. 
+Although a tower even just 100 miles  
+tall that was as wide as the widest skyscraper 
+around would still make a pencil look thick. 
+At that thing’s peak you would be able to see over 
+700 miles in each direction, and have something  
+like 50,000 stories in it. At maybe 4000 square 
+meters or 40,000 square feet per floor, a 200 by  
+200 foot square, in which you might easily have 
+40 modest apartments on each of 50,000 floors,  
+2 million dwellings probably housing around 5 
+million people. This raises the Elevator Conundrum  
+tall buildings have, see our arcology episode 
+for details, but we’ll skip that for today. 
+We tend to assume these things would be wider 
+since they are so tall but there’s no special  
+necessity for that, beyond it being easier 
+to taper as you rise. Since the value is in  
+the height, there’s no reason to build wider 
+when you can go taller, or not to just build  
+another one nearby or elsewhere once you’re 
+at the minimum useful or economic width.  
+We can seriously contemplate some structure 
+40,000 miles tall and 10 miles wide,  
+with 20 million floors, each of 100 square 
+miles, which is itself a space 10 times larger  
+than all of Earth, land and sea, and home to 
+56 Trillion people. There are hypothetical  
+technological pathways that might even see 
+something like that be viable and practical. 
+But the difficulties are more than 
+one might first think. For one thing,  
+buildings like this are better thought of like 
+some sprawling river civilization or one built  
+up along a highway. All long and stretched out 
+with problems running material from one side to  
+another, the vertical equivalent being that 
+elevator conundrum I mentioned a moment ago. 
+As an example, in that first more modest scenario 
+we mentioned of a 100 mile tall tower, imagine a  
+single, wide road with apartment buildings on it, 
+a few stories high, that was 100 miles long, and  
+every person or parcel entered on just one side. 
+That’s 5 Million people on one long road or river.  
+This is potentially viable, especially if it’s 
+a decently wide road and we can get away with  
+having crosswalks over and under it, but some 
+very extreme measures have to be taken to ensure  
+you don’t get log jammed, and it really helps if 
+most of the traffic is only moving a little bit  
+locally, not all the way to the end on most trips.
+This Elevator Conundrum, which again we’ve  
+discussed more in our Arcology videos, is major 
+limit on building tall, as it's hard to add extra  
+access high up the air, the way you might bisect a 
+river civilization with some perpendicular roads.  
+We usually get around the problem mostly by trying 
+to minimize how far traffic and cargo have to go,  
+so you don’t need to ship in all 
+the food because it’s mostly grown  
+a few levels up or down from your apartment.
+On space towers, your neighborhoods are by height,  
+not area, and your zip code presumably is 
+altitude related, Mile 12,345 or so on. 
+This is one of the ways we get around heat 
+radiation on an urbanized planet too, you do big  
+towers into space and pump heat up them from below 
+into great big radiating fins. A given space tower  
+might have thousands of tiny branches going off 
+it covering its vicinity in big leaf-like affairs  
+that pumped heat out to radiate into space and 
+possibly also absorbed sunlight for extra power.  
+These might be scaled up to be individual leaves 
+many feet wide or even football field wide,  
+and they might not always be thin and 
+flat, you might have protrusions that were  
+someone’s apartment or spacedock or village.
+Once you’re above the atmosphere, a lot of  
+engineering headaches go away… albeit a lot of new 
+ones pop up too. As an example, while you’re still  
+in the atmosphere, every window above a kilometer 
+or two high needs to be robust, airtight, and have  
+blast shutters and airlock designs in mind. This 
+need not necessarily be a big thick steel curtain  
+that slam shuts where the window is, it might be 
+the door into a given room was built to airlock  
+standards and the walls similarly, so that only 
+that room is vented into space from a puncture.  
+A lighter and easier option than a blast shutter 
+would be a strong thin net that could catch most  
+items while the pressure dropped, and then a 
+robot drone in the wall could pop out with the  
+equivalent of a sturdy garbage bag and oxygen mask 
+to cocoon someone while rescue forces spun up. 
+Or maybe even some robots and sensors at external 
+positions had that same setup but were complete  
+with a parachute, so if you or your dog went 
+flying out the window or off the balcony,  
+it can intercept you and attach the necessary 
+safety gear. I would not be surprised if this was  
+technology we saw in the next generation or two, 
+for handling jumpers of tall buildings or bridges,  
+or for rapid building evacuation for 
+infernos. Possibly in tandem with  
+drones bringing in heat-shielding garments or 
+latching onto people’s face to provide oxygen. 
+As an amusing sidenote, given how dubiously 
+biologically plausible the alien xenomorphs from  
+the Aliens Franchise are, I wonder if a team of 
+scientists first encountering a facehugger would  
+initially conclude it was an alien biomechanical 
+automated breathing mask for emergencies that  
+grabbed the first humanoid target in the event 
+of an atmospheric pressure or composition change. 
+The ways you handle damage, be they accidents, 
+or intentional acts of war or terrorism,  
+controls how plausible structures like this 
+are able to be built, and it attracts a lot  
+of wild and inaccurate speculation. For a space 
+elevator for instance, if you sever that cable,  
+the part above the cut is going to snap up like 
+a rubber band and begin drifting into space,  
+not fall down wrecking all in its 
+path as it wraps around the planet.  
+Even the part below the cut which 
+falls is not some kind of doomsday  
+scenario. It’s going to flop down at more 
+normal air speeds, not orbital speeds. 
+A cable designed for a transport car maybe 
+a foot thick is definitely damaging any  
+buildings or trees it flops onto and leaving a 
+small crater like a shallow roadside ditch in  
+its wake. Thinner ones might do some roof 
+damage, and for thicker ones you have the  
+option of including separation charges along the 
+tether and parachutes. After all, the same hyper  
+strong tensile material that makes for a good 
+tether makes for an awesome ultra-light parachute. 
+For an actual tower built on compressive strength, 
+it should be able to crumble straight down,  
+and that would be locally devastating. 
+In practice, it helps to build sturdy  
+and to use both compressive and tensile 
+strength if you’re building ultra-tall.  
+Safety is harder here than some thin tether, as 
+our 200x200 foot wide, 100 mile tall tower with  
+a cubic volume of 21 billion cubic feet might 
+easily mass a hundred million tons. It would  
+not be falling at the speed an asteroid does, as 
+it probably has a fairly low terminal velocity  
+for individual fragments, somewhere in the 50-100 
+meters per second range, so the net impact might  
+be on an order of hundreds of trillions of joules.
+That’s nothing to sneeze at but it converts to  
+around tens of kilotons TNT equivalent, 
+the smaller end of atomic bombs.  
+So it’s definitely in the ‘evacuate the city 
+around it, many folks will die, property damage  
+is huge’ category of catastrophe but not in the 
+‘civilization will come to an end’ sort of way. 
+Bigger towers are going to be way worse, of 
+course, but you’re essentially dropping a  
+mountain on a planet at that point, and it is 
+going to be like an asteroid impact. There are  
+things you can do to prevent and mitigate that, 
+though. We also need to keep in mind that nukes  
+aren’t magic handwaves that ignore materials, 
+and if you have ultra-strong building materials,  
+they might be able to handle being hit by jets or 
+spacecraft or even a modest nuke without being any  
+more damaged than a skyscraper that a car or truck 
+plowed into, or a single engine private plane. 
+Though how a nuke might function inside 
+such a building if detonated might get  
+rather counterintuitive, depending on 
+how it was built to handle pressure and  
+atmosphere loss. Radiation inside such a 
+tower would also be quite hard to remove. 
+Going up higher than the atmosphere, 
+into the actual void of space,  
+we also have to throw radiation into the 
+mix, as you have only your glass window – or  
+whatever material – protecting you from lethal 
+Ultraviolet and cosmic rays, and at higher levels,  
+even the Van Allen Radiation Belt.
+A material needs to be especially  
+robust to survive that sort of environment, 
+constantly peppered with space debris and  
+micrometeors while space dust and radiation 
+just erode everything. It makes windows at  
+those altitudes seem more likely to be steel 
+shuttered options that rise only when in use. 
+Of course, we can’t remove the option that 
+the towers might be self-healing or growing  
+either. We obviously aren’t building these 
+things unless we get some better technology,  
+for a tower like this, either ultra-strong 
+materials or energy abundance or warm temperature  
+superconductors or vastly superior automation for 
+construction. Active support provides potentially  
+infinite compressive strength, but only as 
+long as the power is on, which runs up quite  
+the power bill unless you’ve got cheap energy 
+or great superconductors and magnetic shielding.  
+Any of those technologies opens the door, some 
+better than others though, and it would be best  
+to have all of the above. Fortunately I’m 
+of the opinion we will by century’s end. 
+Let’s consider three specific cases to 
+close our discussion out. Our first will  
+be a Space Tower on Titan, the largest 
+Moon of Saturn. The second one being the  
+100 mile tall tower we discussed earlier, 
+which we’ll call the Houston Tower. The  
+other will be our true geosynchronous space 
+tower case, which we’ll call the Sundial. 
+Titan Tower represents an interesting case 
+as Titan has no real living area down on  
+the surface. It is 16% the surface area of Earth 
+but it’s not a great place to live, essentially  
+tundra but with ice that you wouldn’t want to melt 
+and drink. You can do domes, so long as you make  
+sure they’re well insulated to avoid freezing 
+you or melting the ground under you or causing  
+a spark near an oxygen leak to set off a fire, 
+since Titan has seas of hydrocarbons. The domes  
+also need to be built sturdy against the slightly 
+higher surface pressure – Titan has a far thicker  
+atmosphere than Earth but far lower gravity, so 
+air pressure is about 60% higher than on Earth,  
+comparable to what a diver would experience just 
+20 feet under the sea here on Earth. Leaks to the  
+dome would be fairly low-threat, as most of the 
+air coming in is nitrogen with a bit of methane. 
+Titan’s atmosphere is thicker than Earth’s and 
+high in nitrogen, something the industries of the  
+inner system need to fuel their habitat expansion 
+in the Asteroid Belt and the Mega-Domes of Mars.  
+So Titan Tower looks a bit like a tree, 
+thicker on the bottom with big roots and  
+with several skinnier branches curving off over 
+the atmosphere. It is built to suck minerals, sea,  
+and air in at the lower levels and process them on 
+the way up into immense metal nitrogen tanks which  
+are accelerated by magnets on the voyage up and 
+then shot out one of those branches at high speed.  
+Those branches are themselves spacedocks for more 
+conventional spacecraft, but the pods come out  
+as though shot by a cannon, and far faster.
+The pods contain a beacon, some sensors and  
+transmitter & receivers, and a tiny computer 
+can carefully ignite a bit of the hydrocarbons  
+also contained in the pod for some guidance and 
+course correction and power. Otherwise, those  
+tanks are giant pods of liquid nitrogen heading 
+to Mars or a space habitat needing more air. 
+Titan tower is fairly empty, having only a small 
+portion of its space given over to habitation,  
+but is still home to over a million people 
+working in the various support roles for the  
+tower’s operations and general improvements to 
+Titan, like ocean floating dome habitats. This  
+being the late 23rd century, they obviously 
+use robots for nearly everything work-wise,  
+and Titan Tower ships out over a 100 
+million tons of nitrogen everyday. 
+Unlike Venus, which also has a thick atmosphere, 
+Titan isn’t a good spot to be trying for large  
+towers with buoyant sections that can just 
+float. There will be places out in the galaxy  
+where this might be true. Super Earths or 
+Hycean Planets might be an option. However,  
+the low gravity on Titan largely eliminates 
+the need, though you might use a buoyant  
+section to float on oceans, placing the 
+tower on a wide raft rather than ground. 
+Houston Tower, an example of a large tower, 
+100 miles high and 200 by 200 feet square,  
+is part of a sequence of towers running across the 
+southwestern US, and its penultimate stop. Each  
+tower has a runway built from it to its neighbor, 
+a couple hundred miles away. A very great deal of  
+the interior space are vacuum train paths allowing 
+material to ship up and down faster and easier  
+than through air itself, and more people pass 
+through the Tower every day than live in it,  
+roughly 10 million people, and a megaton of 
+cargo take Houston Tower up to its runways,  
+many smaller, which are essentially long cannons 
+for electromagnetically slinging gee-resistant  
+cargos into space, and just as many folks take 
+the trains hanging under the runway as the ships  
+launching above, as it makes for fast access 
+to earlier destinations along the runway and  
+a higher final speed for any ship running the 
+whole length. Some trains on it are basically  
+open pads on which many personal spacecraft 
+can be carried on each car and released at  
+full speed at the end, flying into orbit, 
+with the empty train retrieved afterward. 
+Houston Tower’s Eastern Twin, the last on 
+the line, floats in the Gulf of Mexico on  
+an enormous raft city several miles wide that 
+includes many homes and lawns and ship docks. 
+Both towers and their siblings have many 
+observational balconies, some requiring airlocks  
+and pressurized suits to go out to, from which 
+tourists will jump with the intent of parachuting,  
+hang-gliding, or diving down. Each tower 
+cost over a trillion dollars to build,  
+though in the year 2323, that represents only 
+a couple hours’ worth of national production.  
+We’ll talk more about life in the year 2323 
+AD two weeks from now, in our 400th episode. 
+The Sundial and its cousins, built in the 23rd 
+millenia, represented far larger investment,  
+only possible on a planet that’s the 
+crown jewel of humanity’s sprawling  
+mega-civilization of quintillions.
+The Sundial is fully 10 kilometers wide  
+at its base and tapers as it rises but never 
+narrows to less than a kilometer in radius,  
+widening again as you approach geostationary, 
+where thousands of ships that would dwarf a modern  
+oil tanker dock at during any given moment. 
+It has 4 million levels, at an average of 10  
+square kilometers a level, and at its highest 
+are many long tethers hanging out and up behind  
+it that ships can run out on for even higher 
+launch speeds. Entire O’Neill Cylinders cluster  
+around its higher levels, tethered together to 
+share and cancel the minor perturbation tugs  
+from not being exactly at Geostationary orbit.
+The Sundial gets its name from the immense shadow  
+it casts that moves over the day, and it is so 
+wide that at many places, it eclipses the sun for  
+several minutes every day. Each of its 4 million 
+levels is essentially a city in and of itself,  
+though, in practice it has overlapping levels and 
+other places where the roof of a level might be  
+a hundred meters high, not 3 or 4. The Sundial 
+is so immense, it can be seen anywhere in the  
+hemisphere on a clear day, appearing to be a 
+thin, barely visible wire, rising into the sky. 
+7 Mile City, population 100 million, is a region 
+incorporating fully 30 entire floors and large  
+chunks of several adjoining ones above and 
+below, and 1500 square kilometers of city area,  
+including vast skydocks where airships and other 
+low velocity airborne vehicles and yachts often  
+dock and are manufactured. Large buoyant 
+structures ripple out from these levels,  
+enormous but dwarfed by the Leviathan that is 
+the Sundial, population 8 billion, not including  
+tourists and travelers. Most of its space is given 
+over to hollow vacuum transport tubes, followed  
+by large hydroponic facilities, water and air 
+recyclers, and only roughly 1% to actual living  
+quarters. A billion travelers pass through it from 
+Earth to Space or vice versa every single day. 
+The Sundial is the most popular destination for  
+wealthy interstellar travelers hoping to 
+walk on the surface of Humanity’s cradle  
+world. 100 billion visas are applied 
+for through the tower every year.  
+In its 200 years of construction and 20 centuries 
+of operation, the Sundial has survived multiple  
+attacks and rammings from spaceships, and 
+dozens of internal conflicts between sections,  
+three of which involved the employment 
+of nuclear devices inside the megatower.  
+While originally being a relatively homogenous 
+culture when first being built, over the  
+centuries and conflicts it has diverged into many 
+different peoples with many different languages.
+Could we go beyond even this? Make things bigger?
+Yes, in theory you could build even taller,  
+indeed you could make many such towers like 
+the spokes of a wheel and with a vast orbital  
+ring between them that could meet with an even 
+taller tower out from the Moon, which always  
+shows the same face to Earth, and directly 
+connect the two. That would work particularly  
+well on Pluto and its Moon, as we discussed 
+in Colonizing Pluto, where we contemplated an  
+actual rigid tower connecting the surface of 
+both places that we dubbed the Acheron River. 
+Nothing stops you from doing that at the 
+interplanetary scale, and such a tower might  
+begin having rotating ring segments as it rises 
+to add spin gravity to replace or combine with the  
+lowering surface gravity as you gain altitude. 
+Indeed you might do vast hollow vacuum launch  
+tubes down the center and use a thin, pressurized 
+ring around for people to live on, and these could  
+potentially end up as tubes something like a 
+Topopolis Mass Driver, entire astronomical units  
+long, designed for launching ships. Or a tower 
+lightdays tall, running between the millions  
+of world shell levels of a Birch Planet, where 
+time would run slower at the bottom, and the top  
+would open up only to the eternal darkness 
+of the galaxy you disassembled to build the  
+billion-billion worlds of that titanic megaplanet.
+It's hard to say when and if such supertall  
+structures would ever be practical, even the more 
+modest ones, or if superior options might prevent  
+them being built even if we could, but when 
+it comes to envisioning them for the future,  
+there’s no real maximum height placed on Space 
+Towers by physics, and they can rise into the  
+clouds and beyond. As we like to say on the show, 
+dream big, because the sky is not the limit.
+As I said a moment ago, one of 
+the show’s mottos is to dream big,  
+because the sky is not the limit, and yet it 
+can be hard sometimes trying to figure out where  
+to get started on turning a dream into reality.
+For a lot of people, summer is a time of change,  
+or a great time to begin a new 
+project and learn some new skills,  
+and if you’re looking for a great community to 
+develop new skills, I’d recommend Skillshare.  
+Whether you’re looking to relax and work 
+on your garden, do some sightseeing and  
+snap some breathtaking photos, or sit down 
+to write that novel you’ve been working on,  
+Skillshare has the courses to help you on 
+your learning journey. And you can try them  
+all out for 1 month for free by joining up with 
+Skillshare, giving you access to top notch content  
+like Lincoln Michel’s course on Science Fiction 
+& Fantasy, Creating Unique and Powerful Worlds,  
+that can help you take some of the concepts we’ve 
+discussed on this show or you’ve brainstormed up  
+and turn them into compelling worldbuilding for 
+a realistic and entrancing tale set in a distant  
+future or a fantastic and strange new world.
+Take control of your future and make it a reality,  
+and let Skillshare help you, try them out 
+today by using the link in this episode’s  
+description. The first 1,000 people to use the 
+link will get a 1 month free trial of Skillshare.
+So we wrapped up this year’s International Space 
+Development Conference in Texas and I hope you  
+had a chance to attend, but if not, there’s 
+many other online and in-persons events from  
+the National Space Society, and the National 
+Space Society of Australia is hosting the  
+New Horizons Summit Friday, June 9th, in Sydney 
+Australia, with a theme this year of creating a  
+thriving cis-lunar ecosystem of companies. I’ll 
+link the details in the episode description. 
+Well we reached up into the heavens in today’s 
+episode, and we’ll continue that a bit more  
+metaphorically this weekend, as we look at 
+higher dimensional aliens and 4D realities,  
+then next week we’ll discuss the 
+possibility of using science and  
+technology to create artificial afterlives.
+And two weeks from now we will have our 400th  
+regular episode of SFIA, as we contemplate 
+what life might be like in the year 2323 AD,  
+then we’ll wrap up June with our Monthly 
+Livestream Q&A on Sunday, June 25th,  
+and then on Thursday, June 29th, we’ll ask what 
+Earth might be like if humanity disappeared. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you want to donate and help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all 
+of SFIA’s episodes early and ad free on  
+our streaming service, Nebula, along with hours 
+of bonus content, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

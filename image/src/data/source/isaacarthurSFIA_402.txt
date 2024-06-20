@@ -1,0 +1,655 @@
+This episode is brought to you by Brilliant.
+We’ve occasionally said that Jupiter, with
+its many moons,
+is practically a second solar system inside
+our own,
+but what if we could actually make Jupiter
+a second Sun?
+In Arthur C. Clarke’s classic novel, 2010,
+the sequel to the legendary 2001: A Space
+Odyssey, Jupiter is turned into a second sun
+by mysterious alien benefactors with the message
+bearing a gift and a warning, “All these
+worlds are yours except Europa. Attempt no
+landing there. Use them together. Use them
+in peace.”
+Since then the notion that Jupiter might be
+turned into a sun has become a rather popular
+bit of science fiction speculation. Can it
+be done? Would it turn the Jovian moons into
+better sites for colonies? And what benefits
+or problems would it bring to Earth?
+We should start with the obvious, while Jupiter
+is enormous, roughly matching the combined
+mass of every planet, moon, and asteroid in
+the solar system, including the Oort Cloud,
+Jupiter is still only a thousandth the mass
+of our Sun. You may have heard Jupiter would
+need to be 80 times more massive to be a star,
+but the lowest mass star we’ve thus far
+found that burns hydrogen, 2MASS J0523−1403,
+about 42 light years away from us, is actually
+just 67 times more massive than Jupiter. Given
+that stars that small are the hardest to see,
+it’s very unlikely that one coincidentally
+a mere 42 light years away holds the record
+for least massive star, more likely that the
+galaxy contains some that we can’t see that
+are even lower.
+Of course, that only includes classic hydrogen
+burning stars, not deuterium burning stars
+or ones of an artificial nature, and we’ll
+explore those options today too.
+There are many artificial routes by which
+one might be able to ignite Jupiter, some
+of which we spoke of in more detail in our
+episode “Making Suns”, but one might want
+to ask what the effect would be if we could
+do that.
+Generally the larger a star is, the brighter.
+Doubling one’s mass will make it about 10
+times brighter, and the reverse is true too,
+half the mass, about a tenth the brightness.
+This is only a rule of thumb rather than a
+smooth curve but, for instance, that tiny
+red dwarf 67 times more massive than Jupiter
+we mentioned a moment ago, is quite dim, our
+own Sun being 7200 times brighter, even though
+our Sun is only 16 times more massive than
+it is.
+We would expect a Jupiter-star to be vastly
+less bright just following that mass curve,
+but if it were that bright, since Jupiter
+is 5 times farther from the Sun than Earth
+is, and usually 4 to 6 times farther from
+Earth than the Sun, we would expect it to
+be about 100,000 to 250,000 times less bright
+in our sky than our own Sun, and indeed actually
+a lot less to the naked eye as far more of
+that light it would give off is in the infrared
+range rather than visible wavelengths.
+As small as that number sounds, don’t assume
+that wouldn’t still be a very bright object,
+the Sun is 400,000 times brighter than the
+Full Moon so such a star would parallel that,
+giving off more total light but a big chunk
+of it invisible to our eyes. Our eyes are
+logarithmic in nature so we don’t really
+notice changes in brightness as much, for
+instance, most of us would consider the lighting
+of 10 Watt LED bulb in a room quite bright
+but would generally be only about a thousandth
+the light in that room that it would get if
+we ripped the roof off to expose the room
+to a cloudless noon sky. And indeed, the light
+of the Sun out at Jupiter, 5 times farther
+from the Sun than us and thus 5² or 25 times
+dimmer, is still brighter than most cloudy
+days here and quite enough for all but the
+most sun-loving plants.
+What would the light be like on Jupiter’s
+Moons if it became a sun though? Jupiter has
+many dozens of moons, but it’s really the
+core-4, the Galilean Moons of Io, Europa,
+Ganymede, and Callisto that generally interest
+us as they each outmass the rest of the tiny
+moons combined and approximate our own moon’s
+mass and size.
+If we did make Jupiter into a star as bright
+as that dim and tiny red dwarf, then Io, the
+closest to Jupiter and 350 times closer to
+Jupiter than Earth is to the Sun, would be
+getting 17 times more light from that Jupiter-star
+than Earth gets, while Callisto, 4 times farther
+away, would be getting about as much light
+as Earth does. That’s a bit problematic
+because Io, for instance, is already rather
+warm from tidal heating by Jupiter.
+Which raises the other problem, tidal locking.
+All of Jupiter’s moons are tidally locked
+to it, showing the same face to Jupiter as
+they orbit it. When most of the light they
+get comes from the Sun this isn’t a big
+deal, as they aren’t locked to our Sun and
+thus have day lengths the same as their orbital
+period around Jupiter, ranging from 1.8 Earth
+days on Io to 16.7 days on Callisto. The sides
+facing Jupiter always face Jupiter though,
+so if it was ignited into a star, only those
+sides facing Jupiter would get any of its
+light.
+Now they’d still be getting the Sun’s
+own light, which as mentioned is hardly trivial,
+more than your typical cloudy day, but it
+means your day night cycles would be quite
+bizarre on those Moons. On Io for instance,
+one side would still only get the Sun, with
+a 43 hour day-night phase, while the other
+side would have Jupiter burning over head
+all the time and our own sun meandering a
+bit more dimly across the sky for around a
+day then gone for around a day. Out at Callisto,
+the same would apply only our Sun would be
+putting in appearances for a bit over a week
+than disappearing for the same, as it has
+a 16.7 day orbital period. Incidentally on
+Europa that period is 3.5 days, and Jupiter
+would be about half as bright as on Io, while
+on Ganymede that period is 7 days and 15%
+as bright as on Io.
+Not exactly setting us up for success in making
+nicely terraformable worlds, and most of Jupiter’s
+Moons are even farther away, there are 4 tiny
+ones that are closer than the Galilean Moons,
+with Metis, the closest, orbiting every 7
+hours and it would get about 10 times more
+light than Io would and nearly a couple hundred
+times more than Callisto. Jupiter’s other
+71 moons – at last count - are a good deal
+farther away and indeed most have orbital
+periods of a year or more.
+Key notion here, before we discuss some of
+our options for making Jupiter a star, this
+doesn’t exactly result in a new miniature
+solar system full of terraformable worlds,
+in any classic sense anyway, and that’s
+before even remembering that these are not
+big places with lots of gravity, again the
+big 4 Galileans only roughly match our own
+Moon.
+Now why a star needs a certain mass to be
+a star and why the bigger ones are exponentially
+brighter than the smaller ones comes down
+to what makes fusion happen. Or to be more
+accurate, what makes fusion happen more often.
+As I mentioned in our episode Fusion Power,
+it’s actually rather rare even in our own
+Sun, so much so that if you took a portable
+generator’s volume of the Sun and kept it
+magically under pressure you’d be lucky
+to power a dim light bulb with that. That’s
+the whole problem with making fusion reactors,
+it's not enough to replicate the Sun’s interior
+conditions, because the Sun for all its brightness
+only generates about 1 watt of power for every
+5 tons of its mass.
+Now for our Sun most of that takes place in
+a smaller fraction of the core, but for comparison
+the biggest stars generate more than 20,000
+times as much brightness per unit of mass,
+which is still only 4 watts per kilogram,
+akin to a flashlight in brightness and mass,
+while that tiny little red dwarf we were referencing
+is generating about 1 watt of light for a
+couple millions kilograms of mass. If we could
+match that with Jupiter, it would still be
+67 times dimmer and thus barely able to warm
+even Io, the closest of its big moons.
+Why this is the case all comes down to temperature
+and pressure, the more you squeeze a gas down,
+the hotter and higher pressure it tends to
+be, which essentially means random atoms inside
+it are moving around faster, making them more
+likely to bump neighbors, who are also more
+densely packed in too, thus even more likely
+to collide in any given moment, and because
+they are higher temperature and thus moving
+faster, those are much higher-energy collisions
+and more likely to cause a fusion event. It’s
+still really rare even in the biggest stars,
+which still live a million years before having
+burned up a decent fraction of their hydrogen,
+and it's so rare in the smallest of stars
+that it takes them trillions of years to do
+that, meaning any given particle in the core
+undergoing a true fusion event will generally
+need a trillion years for that to be a likely
+event.
+Certain materials like deuterium are more
+likely to fuse when they strike, thus why
+you can have temporary deuterium burning in
+brown dwarfs, which can be thought of as either
+the very smallest of stars or the very biggest
+of planets if you prefer, but this is still
+minimal. Though it would be far higher if
+we made a star entirely out of deuterium,
+something we discussed in the episode I mentioned
+earlier, Making Suns.
+That pressure at the core of a star comes
+from all those upper layers pushing down on
+it and all that gravity from that mass. However,
+that’s not the only way to make pressure.
+You can just squeeze an object down. Not as
+hard as it sounds like with a star either
+as they generally have a low density, indeed
+our Sun’s surface – which is a pretty
+ambiguous concept – is a good deal less
+dense than our own atmosphere.
+We’ve often talked about making active-support
+structures on this show, including giant spheres
+the size of Jupiter, what we call Shellworlds
+or Mega-Earths, and while that usually is
+constructed with the intent of holding mass
+above it, not inside it, the principle still
+applies. We could make a giant shell around
+Jupiter and start squeezing it down. If that
+shell were constructed of a high-temperature
+melting point material like Tungsten, we might
+not even need to ignite fusion in Jupiter’s
+core to get light out of it.
+Before we had cheap LED light bulbs, the most
+common sort was the incandescent bulb, which
+worked by running electricity through a tungsten
+filament inside a glass bulb. That really
+has nothing to do with electricity, any given
+bit of wire has a resistance to electricity
+and heats up when you run a current through
+it, we just used that current and resistance
+to heat up a long strand of Tungsten till
+it glowed with its own contained heat and
+emitted light, same as a hot metal rod. Because
+it has such a high melting point, we could
+heat it up to temperatures that produced lots
+of light in the visible spectrum.
+Planets contain a stupid amount of potential
+energy from when they formed, as all that
+mass falling in to them gained as much energy
+as it takes to lift something out of orbit,
+and it rises sharply with mass. Jupiter, while
+only 300 times more massive than Earth, has
+about 10,000 times the binding energy, about
+as much as the Sun produces in a couple centuries
+of its sunlight. As a reminder the Sun’s
+total illumination is a couple billion times
+more light than actually hits Earth from the
+Sun since space is so huge, so that binding
+energy of Jupiter could illuminate Earth for
+400 billion years if it was all concentrated
+on Earth.
+And remember, we’re not even discussing
+fusion yet. If we compress Jupiter some more,
+its binding energy will actually increase
+as matter falls deeper down and injects more
+potential energy as kinetic energy slamming
+around as heat. If you crunch Jupiter down
+inside a big Tungsten globe, or some other
+high-temperature material, it will heat that
+Tungsten up till it glows red hot, literally
+a giant light bulb no different than the incandescent
+bulb most of us grew up with for interior
+lighting, and that would be a white light,
+same as those bulbs were, just a cooler more
+reddish orange tint than what we associate
+to sun-light or hotter-spectrum LED bulbs.
+You’d slowly lose energy as that radiated
+heat and cooled, and so you’d need to keep
+crunching Jupiter down, but if your aim was
+to produce something about a ten thousandth
+as bright as our Sun, you are looking at many
+thousands of years of illumination.
+Of course, while you’re doing this, that
+core is getting compressed more, though in
+fact that’s mostly metallic hydrogen and
+other heavier elements but you’d probably
+be getting a good deal more fusion events.
+Note that I say more, because there already
+is some. Hydrogen bumping around occasionally
+undergoes fusion, it’s just way more often
+the more energetic the particles are and the
+more frequent the collisions happen from packing
+them in tight together.
+Assuming you can keep ramping your pressure
+up in that core, you will get more fusion,
+and you can keep tightening your big globe
+down until that fusion is happening often
+enough to keep your big globe at super-hot
+temperatures but not actually melting, just
+glowing bright. Conceptually this is very
+similar to how stars normally work too, they
+achieve a hydrostatic equilibrium as all the
+heat they produce tries to force particles
+further apart while gravity tries to hold
+them together, and they equalize at a given
+radius where those uppermost layers are trying
+to fall down from gravity while heat is trying
+to push them apart.
+If the star collapses more, fusion rises,
+heating it and pushing the star wider, which
+lowers pressure in the core, decreasing fusion
+rates. This reaches a balance point based
+on stellar mass and composition which again
+we call hydrostatic equilibrium. We’re just
+cheating by using a big metal globe to shove
+down. Now doing that takes a lot of power,
+active support isn’t free neither is keeping
+cool any parts you need not to be running
+hot, but there is a bigger power source available,
+obviously, and since all energy expended eventually
+ends up as heat, which is our goal anyway,
+it hardly needs to be an efficient process.
+You can also potentially be doing this crunching
+magnetically, all that heat makes for a lot
+of ionized material after all, same as on
+a star, so you could potentially be crushing
+a star down by running a massive amount of
+magnets around it.
+You also don’t necessarily need to be making
+Jupiter all that bright. As mentioned, most
+of our Sun’s light meanders off into the
+void rather than hitting planets, and we can
+be using mirrors and lens orbiting a planet
+or a star to focus a dimmer light onto a planet
+or moon in the quantity we want. This is a
+good way of solving both the issue of Jupiter’s
+Moons being at differing distances from it
+and the issue of them having a dark side due
+to being tidally locked. You just put mirrors
+in lenses around your Jupiter-star to focus
+light on those moons and others out past that
+Moon to reflect light onto their dark side.
+You don’t even necessarily need to bother
+with regular orbits either, such a mirror
+is essentially a solar sail and that lets
+us play with orbital periods a lot, what we
+call statites and lagites, things with no
+orbital period or slowed orbital periods by
+using a mixture of light pressure and gravity
+to define their orbital period rather than
+just gravity. For that matter, since those
+moons have little mass and gravity, space
+elevators work fine on them and actually a
+good deal better if they’re being used to
+tether a giant mirror at their top that you're
+shining a powerful light beam on to reflect
+on the surface below. That light pressure
+decreases the effective weight of the structure.
+Indeed you could actually use that trick for
+space elevators around Earth, just having
+big mirrors fanning out around your tether
+as it ascended from ground to orbit and bouncing
+light beams off them to hold them up, and
+either bouncing that light off or skipping
+the extra momentum of bouncing the photons
+in favor of absorbing them into big solar
+power collectors, whose power could run down
+that tether to be used as electricity groundside.
+This is effectively a lagite space elevator,
+I’m not sure it’s the best approach to
+space elevators or power generation but it’s
+a notion I’ve played around with occasionally
+over the years and keep meaning to do an episode
+or aside on.
+Of course if we’re putting big mirrors and
+lenses around Jupiter we might want to just
+do that directly around those moons, and use
+our existing Sun, but that would still work
+better around Jupiter in many ways because
+those mirrors are thin and Jupiter makes such
+a good gravitational anchor to keep them from
+flying off, as they are solar sails, unless
+you add a lot of mass as ballast.
+That incidentally doesn’t have to be a huge
+amount, light pressure is pretty minimal which
+is why solar sails need to be so thin, but
+if we’re talking mirrors to move the Sun’s
+own light around the Jovian sub-system of
+moons, those don’t necessarily need to be
+orbiting. Jupiter is huge and we can float
+things in its atmosphere by regular old buoyancy,
+it’s a mix of hydrogen and helium and so
+pure hydrogen refined out from that inside
+a big balloon is lighter than the atmosphere
+and thus would float, and would float even
+better if we heated the content a bit. Jupiter’s
+surface area is 122 times larger than Earth,
+so even though it only gets light from the
+Sun at a fraction of Earth’s intensity,
+it’s still about five times as much total.
+Whereas the total surface area of all Jupiter’s
+Moons combined is a bit less than Earth’s,
+Ganymede having the most at 17%.
+If you start building tons of floating mirror
+platforms on Jupiter that bounce light at
+those moons, then you only need to cover a
+modest fraction of Jupiter’s surface with
+them to keep those worlds nicely illuminated
+and to the amount you want for each one. Which
+might be a good deal less than Earth, since
+these moons contain an awful lot of ice and
+melting them might not be a great idea, at
+least initially or quickly.
+Speaking of floating things in Jupiter’s
+atmosphere though, our main interest in Jupiter
+is usually in the context of a fusion economy,
+one running on some form of portable and compact
+fusion rather than stars or hyper-compressed
+gas giants. If that ever took off, we’d
+probably have huge floating refineries on
+Jupiter and other gas giants sucking out hydrogen,
+or deuterium, hydrogen’s heavier and more
+easily fused isotope. Such a refinery would
+probably have a fusion plant on hand and be
+separating out the hydrogen, deuterium, and
+helium, and be venting hot helium from the
+bottom to provide lift, keeping hot hydrogen
+inside as a lifting gas, and filling tanks
+of deuterium up as its export.
+You don’t necessarily need very good artificial
+fusion to want to use this approach either,
+hydrogen, deuterium, and helium all have a
+lot of value, and in a case like that you
+might simply use beamed energy or lasers generated
+closer to the Sun to power such floating refineries,
+as we mentioned in Colonizing the Sun, it’s
+actually fairly easy to make giant lasers
+in the Sun’s upper layers by using a pair
+of big mirrors and that atmosphere as your
+lasing medium between them. There’s any
+number of materials that could handle being
+mirrors in the Sun’s upper atmosphere though
+they’d wear down with time, but they are
+cheap to make.
+We call these Stellasers and they can be built
+big or small and easily keep a beam on target
+anywhere inside our solar system. Interesting
+thing about lasers is that they are just a
+pair of mirrors and a medium that gets excited
+by light and gives off light, usually some
+gas which is abundant in the atmosphere of
+not just the sun but gas giants too. So not
+only can you just pour lasers down on Jupiter,
+to heat it up, but you could also turn it
+into a giant fluorescent light bulb, as hydrogen
+and the other gases in Jupiter’s atmosphere
+do have excitation frequencies in the visible
+spectrum.
+More importantly though, if you are using
+stellasers a lot, you can create large laser
+highways throughout the solar system and between
+stars, as we looked at in interstellar laser
+highways, allowing very fast and cheap spaceship
+travel. You generally need places to dump
+momentum though, as that has to be conserved
+and pushes your mirrors around, so it helps
+to have large massive objects to dump momentum
+into.
+You can place mirrors in deep space being
+hit by lasers but they will move, and while
+you can bounce them off each other you do
+need to cement any given relay of mirrors
+with heavy end points and planets, especially
+giant one’s like Jupiter, are great for
+this, as even whole armadas of massive ships
+could ply the space lanes for millennia while
+barely nudging such giants. The connection
+doesn’t have to be physical either as you
+can dump into orbital mirrors gravitationally
+bound to the world with a little extra effort,
+and those are likely to scatter a lot of light,
+another way you might make them into a second
+sun.
+Indeed of all the scenarios we’ve discussed,
+this one seems the most probable, that you’d
+be using Jupiter and the other gas giants
+as large hubs of interplanetary and interstellar
+laser highways with some of the light diverted
+from surplus mirrors to reflect on those moons
+and artificial habitats built in orbit or
+to power other light sources, particularly
+if we don’t achieve useful fusion in the
+future. We often assume only with artificial
+fusion can we ever truly conquer the solar
+system and stars beyond but in truth while
+it might slow down expansion waves who’d
+have problems slowing down on approach to
+uninhabited regions using pushing lasers,
+once those are in place we can use existing
+suns to more than easily power solar economies,
+both the colonies themselves and the ships
+venturing around inside them or between other
+inhabited system.
+Of course, if you have artificial fusion,
+trying to make artificial stars is less necessary.
+It also probably opens up some routes to turn
+the planet into a star a lot easier, like
+some version of the magnetic compression technique
+we mentioned a while ago. In which case you
+could easily run lighting on Jupiter from
+the surplus of those gas refineries and extraction
+spots sending fusion fuel off to the colonies.
+But you might decide what you really want
+from Jupiter is to get all that gas off. It
+has plenty of value all on its own even without
+fusion economies, and you might decide it's
+easier stored and handled by being removed
+to smaller storage depots, where it serves
+a function as shielding or mass even when
+not in use. But more importantly, hydrogen
+and helium are incredibly common throughout
+the Universe, being rare only in the warm
+innner solar system where virtually all of
+it is in the Sun and the remainder is mostly
+tied up in Earth’s Oceans and crust. However,
+deep down under Jupiter’s layers we get
+to metallic hydrogen, which might be extractable
+and make a nice fuel itself, and below that
+is more rocky material, stuff like carbon
+and iron and gold and platinum, probably more
+than all the rest of the planets combined.
+If you strip that gas off, you get access
+to all of that.
+We’re not quite sure how much metal is inside
+Jupiter, it's hard to calculate and indeed
+we think it may have been hit early in the
+solar system’s formation by a planet ten
+times Earth’s mass – there were a lot
+more planets and proto-planets and dwarfs
+in the early days we think which consolidated
+into the current ones. However much it is,
+it is a huge amount of material we’d want,
+and if we have fusion we could boil it off
+by using fusion candles, essentially giant
+two way fusion rocket flames – see Colonizing
+Jupiter for more discussion of those - and
+mass export of gas to fuel fusion economies
+elsewhere.
+Without it though, if we want it fast, we
+can just torch Jupiter by death-starring it
+with mass Stellaser fire and remove that layer
+by evaporation and magnetic extraction, akin
+to the process we discussed for removing mass
+from the Sun in the episode Starlifting. This
+is not a fast process, as I said earlier,
+the gravitational binding energy of Jupiter
+is equal to 200 years of solar output, so
+even if you were directing all that light
+from the Sun at Jupiter, it would take that
+long to burn it all off – and obliterate
+all the Jovian moons as the place would be
+literally turning into a second Sun and not
+a tiny dim one. If on the other hand you were
+trying to slowly remove it, applying something
+more akin to what we contemplated when discussing
+replacing Jupiter with the smallest known
+red dwarf, it would take a good deal longer,
+more like a couple million years during which
+time Jupiter would glow quite brightly, and
+that would only use up about 1% of 1% of the
+Sun’s output. When you’re done, you’ve
+got all that raw material, but it’s a slow
+process.
+This also works on the other gas giants and
+indeed is a good deal easier and faster as
+they have far less binding energy, but that’s
+certainly one way to make Summer on Jupiter,
+and when you’re done, you have a rather
+large rocky planet left behind, though you’d
+have to wait for that too cool of course,
+but I suppose that would be Autumn on Jupiter.
+So we were talking today about making stars
+today by artificial means, and if you’re
+curious about stellar formation and star lifescycles,
+there’s a number of good discussions and
+quizzes on the life cycles of stars in Brilliant’s
+Astronomy Course, which covers everything
+from the basics to fairly advanced concepts
+and does so in a fun and interactive fashion.
+In a time when more folks are embracing online
+education, Brilliant’s focus on fun and
+interactive methods makes them a great choice,
+whether you’re a student, a parent trying
+to enhance your kid’s education, a professional
+brushing up on cutting-edge topics, or someone
+who just wants to use this time to understand
+the world better, you should check out Brilliant.
+Try adding some learning structure to your
+day by setting a goal to improve yourself,
+and then work at that goal just a little bit
+every day. Brilliant makes that possible with
+interactive explorations and a mobile app
+that you can take with you wherever you are.
+If you are naturally curious, want to build
+your problem-solving skills, or need to develop
+confidence in your analytical abilities, then
+get Brilliant Premium to learn something new.
+Brilliant’s thought-provoking math, science,
+and computer science content helps guide you
+to mastery by taking complex concepts and
+breaking them up into bite-sized understandable
+chunks. You'll start by having fun with their
+interactive explorations, over time you'll
+be amazed at what you can accomplish.
+If you’d like to learn more science, math,
+and computer science, and want to do it at
+your own pace and from the comfort of your
+own home, go to brilliant.org/IsaacArthur
+and try it out for free.
+So we have a fun schedule coming up for the
+rest of June, starting next week with a return
+to the Fermi Paradox to contemplate what it
+would like to be the first civilization to
+arise in the galaxy, and if we might be such
+a civilization ourselves, in the Fermi Paradox:
+Firstborn.
+Some folks have suggested the oldest civilization
+in a galaxy full of aliens might tend to act
+as a police force on the others, and in two
+weeks we’ll examine that notion, as well
+as how we might engage in bringing law & order
+to distant off world towns in space, in Space
+Police.
+And in three weeks we’ll take a look at
+Graphene, what it is and what we might use
+it for, and how this super-strong material
+might impact our civilization.
+For alerts when those and other episodes come
+out make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others. And if you’d
+like to support future episodes, you can support
+the show on Patreon or visit our website,
+IsaacArthur.net, to donate to the channel,
+see our list of episodes or book recommendations,
+or buy some awesome SFIA merchandise.
+Until next time, thanks for watching,
+and have a great week!

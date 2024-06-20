@@ -1,0 +1,366 @@
+So far we’ve discussed planets like Pluto
+that orbit far from their sun, and tidally
+locked worlds which orbit very close to their
+sun.
+Today we’ll be looking at worlds that don’t
+orbit suns at all.
+Moon is a pretty broad concept, as a term
+it just means any decently sized object in
+a reasonably stable orbit around a planet.
+They can vary in size from a rock a few miles
+across to things that are bigger than other
+planets.
+Our own moon is bigger than Pluto and Jupiter’s
+moon Ganymede is larger than the planet Mercury.
+The only size limit is that they can’t be
+bigger than the planet they orbit since if
+they were the relationship would be backwards,
+but in practice we would normally deem any
+moon of fairly similar mass to its planet
+to be a double planet.
+There’s no rigorous definition of a double
+planet, but we’d usually say anything less
+than a tenth the other planet’s mass counts
+as a moon.
+We’ll look at double planets another time.
+Life on moons like frozen Europa or Saturn’s
+moon Titan are also interesting possibilities
+but today we won’t be looking at those either.
+Our subject for today is going to be pretty
+long just by itself.
+We’ll be focusing on worlds which differ
+from ideal planets of Earth like mass only
+in that they are moons, presumably in orbit
+around gas giants.
+Same mass and composition, same day-night
+length.
+To avoid confusion we’ll refer to this a
+Gaian Moon.
+We’ll save the other cases for another day.
+Regarding them briefly though, before moving
+on to our main subject, the key difference
+between a moon and an asteroid or dwarf planet
+in terms of habitability is that they will
+receive tidal heating.
+As we’ve mentioned previously, the single
+biggest factor we look at for life arising
+on a world is if there’s enough energy coming
+in to as a power supply to biological life
+and permit temperatures in which the right
+kind of chemical interactions are commonplace.
+We touched on that more in the video on Pluto
+and we’ll talk about it more in the future.
+If you have two otherwise identical large
+asteroids much further away from the sun than
+Earth is, but one is a captured moon, then
+that one has all the extra power input of
+tidal heating to supplement its meager supply
+of sunlight.
+Which also applies to Earth-like worlds that
+are moons of gas giants.
+They can get away with being a bit further
+from the Sun than Earth is and still be warm
+enough for life.
+Our plants don’t use most of the sunlight
+that hits them a noon-time, so if there’s
+another power source keeping the moon warm
+the moon can be further from the sun than
+Earth is.
+Indeed they probably can’t exist as close
+to the sun as we are or they’d be baked
+by the extra influx of energy from both sources,
+tidal and solar.
+Now the difference between a moon and a planet,
+in terms of habitability, doesn’t stop there.
+Two major factors which also apply.
+The first is tidal locking, which we discussed
+in detail both last time and in the companion
+video on Tidal Locking.
+Like all the video links I use in these videos,
+you can click on this one and it will just
+pause this video and open the other in a new
+window so if you may want to do so now.
+So let’s talk about Gaian Moons.
+If a planet becomes tidally locked to a star,
+it has eternal daylight on one side and eternal
+night on the other.
+Moons locked to a planet are different.
+As we’ve discussed, there’s no dark side
+of the moon, just a side we can never see
+from Earth.
+We’ve also discussed why almost every moon
+is eventually going to end up tidally locked.
+Again click the tidal locking video link if
+you’re not familiar with that.
+So a moon tidally locked to a planet is going
+to have a day and night cycle.
+Our moon’s day-night cycle is a month long,
+which is also a Lunar Day and a Lunar Year.
+Same concept applies to an Earth-sized moon.
+Throughout this video we will use the term
+day to mean the moon’s day night cycle length,
+rather than saying year or month, since in
+this case they are all the same length.
+Now that moon wouldn’t have to have a 24-hour
+day for life to be possible but the table
+I’ve got up shows the distance a moon of
+Earth Mass needs to be from a planet to have
+a 24-hour orbit.
+Our Gaian Moon case.
+Here’s also a simplified equation you can
+use if you want to calculate Gaian Moon Distance
+from planets of different Masses, or if you
+want to calculate it for an Earth Mass moon
+with different day-length in hours.
+Pause the video if you want to review these,
+as I don’t want to turn the video into a
+math lesson, they’re just Kepler’s law
+simplified for this specific type of case,
+an Earth Mass moon.
+The distance up there are only accurate for
+a roughly circular orbit, for eccentric orbits
+those would be the semi-major axis.
+Similarly in a moment I’ll bring up the
+diameters of the planets and that is their
+equatorial diameter.
+Planets are rarely perfect sphere and gas
+giants in particular tend to be wider at their
+equator then poles but we’re working in
+approximations here so I will just be calling
+these distance and diameter.
+As you can see in the table I have our four
+gas giant worlds, Jupiter, Saturn, Uranus,
+and Neptune listed.
+But I’ve also included 6 other examples.
+3 at the beginning which are essentially double
+planet scenarios, which again we’ll discuss
+more in the future, and three at the end for
+a Larger Gas Giant, a thousand times Earth’s
+mass, then one of about 13 Jupiter Masses,
+generally considered the point at which gas
+giants become brown dwarf stars, and finally
+a minimum mass red dwarf star, one just massive
+enough to ignite stellar fusion.
+We’ll talk about life around brown dwarf
+stars another day as well.
+In a moment I’m going to talk about how
+big these objects are in the night sky of
+their Gaian Moon, compared to how big the
+Sun and Moon are in our sky.
+But let me mention the Roche Limit briefly
+since it occasionally gets mentioned in regard
+to habitable moons.
+The Roche Limit is the minimum distance a
+moon can be from a planet, or a planet from
+a star, before it gets shredded by gravity.
+The more massive the moon, the closer it can
+be because its own gravity holds it together
+better, even though its bigger diameter makes
+the tidal strain on it higher.
+Simply put, the Roche Limit is essentially
+never relevant to planetary habitability when
+we’re talking about close Earth parallels
+like Gaian moons, because the distance they
+have to be to have an orbital period of a
+day or so is well beyond the Roche Limit,
+and the distance a planet needs to be from
+even the dimmest main sequence star and not
+be roasted is also well outside the Roche
+Limit.
+It can be a concern for moons where we aren’t
+contemplating surface life, but that’s not
+our concern today.
+So what does the planet look like from the
+surface of our Gaian Moon?
+First, since it is tidally locked you can
+only see the planet from one side of the moon,
+where it will always be visible, and not from
+the other side, though moons on fairly eccentric
+orbits will have a wide band around the poles
+where it will sometimes be visible and sometimes
+not, due to Libration, as we discussed last
+time in the Tidally Locked Planets video.
+For those who can see it, the planet will
+be very large.
+Our table here show how large, in terms of
+how big our own moon appears to be in our
+night sky.
+What’s interesting is that while the planet
+will appear larger and larger as it gets more
+massive, it will actually peak out when you
+get to about Saturn’s size.
+Not only is the distance the Gaian Moon is
+from the planet rising as the planet’s mass
+rises, so that objects appear smaller, but
+the density of gas giants starts rising about
+then too.
+Earth is the densest planet in the solar system,
+because the bigger planets are mostly made
+of ice and gas.
+Saturn is less dense then Neptune and Uranus
+because it is mostly gas whereas Neptune for
+instance is slightly smaller than Uranus but
+slightly more massive.
+It is denser because it has a rocky core slightly
+more massive than Earth then a thick mantle
+composed of ices of water, methane, and ammonia.
+But Jupiter is much denser than Saturn, yet
+is still almost all hydrogen.
+Why?
+Well simply put at a certain point gravity
+kicks in and compresses planets a lot more.
+Brown dwarves, even though they are a dozen
+to several dozen times more massive than Jupiter,
+are all about the same size as Jupiter, just
+much denser.
+So to people living on a Gaian Moon, the visual
+size of their planet in their sky begins to
+slowly rise until you get to be about Saturns’
+size.
+It then peaks out and begins to drop off slowly
+as the planet’s stop getting much bigger
+as their mass increases while the moon’s
+distance continues to get larger to keep that
+24 hour day.
+Then at roughly Jupiter masses the apparent
+size is going to drop off even more steeply.
+This is very like the effect we noted when
+discussing red dwarves last time, that the
+smaller stars look bigger on their habitable
+worlds because you have to be so much closer
+to them to stay warm.
+Now this massive planet-moon in the sky has
+a big effect on night time brightness too.
+While on the back side of the Gaiain Moon
+they don’t see the planet, though they will
+likely see the planet’s other moon, on the
+front side they always see that moon and it
+is terribly bright.
+Roughly on par with the square of the diameter.
+Our own full moon is nowhere near as bright
+as our sun, even less than it seems because
+our eyes are logarithmic to light, but if
+you made it 20 times wider in the sky it would
+be 20-squared times brighter, 400 times brighter
+than now.
+Gas giants also have higher albedos than our
+moon, about four times higher on average,
+so they would look even brighter.
+If we plopped Saturn down next to us and stuck
+Earth in a 24-hour orbit around it, it would
+appear about 20,000 times brighter than our
+own moon.
+Now brightness is a very weird concept and
+hard to compare but simply put, in that case
+the planet would appear nearly as bright as
+the sun.
+Especially considering that in order for the
+Gaian moon to be habitable with all that reflected
+light and tidal heating from the planet, as
+well as infrared emissions, the Gaian Moon
+needs to be further from the sun anyway.
+So the planet in the sky is going to stay
+more or less stationary in the sky, day or
+night, wobbling a bit from libration, and
+go through phases like our own moon does.
+Both sides of the planet are habitable, but
+the planet side will be warmer than the ‘dark
+side’, which is again not actually dark,
+but will be a bit cooler.
+Now if that were all of it, we could stop
+and say that any moon of similar mass to Earth
+with a day length reasonably similar to Earth’s
+would be just as habitable as Earth.
+Unfortunately gas giants are massive sources
+of radiation, which as a side note would make
+for some truly massive auroras on Gaian Moons.
+We mentioned last time how planets around
+red dwarves need strong magnetic fields to
+avoid having their atmosphere’s stripped
+off by their sun and the same concept applies
+to moons of gas giants.
+In the case of a Gaian Moon it would have
+a strong magnetic field but it will be further
+shielded from its sun by its planet’s own
+huge magnetosphere.
+Which is good except that they also get inundated
+by radiation from that planet’s magnetosphere.
+Our Magnetosphere shields us from the sun’s
+radiation but a byproduct of that is the Van
+Allen Radiation Belt, where radiation is actually
+a lot stronger than it normally is.
+Gas Giants have a similar but stronger setup
+and many of their moons are right in that
+radiation belt.
+It’s not really possible for me to give
+you even a loose rule of thumb for how bad
+that radiation will be, because there are
+so many variables involved, even a planets
+rings can kick in to partially reduce the
+radiation for instance, but we can say it
+is a big problem for moons but ironically
+a smaller one for the two types of possibly
+habitable moons we’re interested in.
+One like Europa where the life would hypothetically
+exist deep under the frozen ice in seas protected
+from radiation and needing no atmosphere,
+and ones like our hypothetical Gaian Moons
+where a strong magnetosphere is very likely
+to exist and shield the atmosphere from being
+stripped away.
+It’s quite possible that wouldn’t be enough,
+and as we mentioned with red dwarf planets
+it may be that none can maintain an atmosphere,
+but we do have the example of Saturn’s Moon
+Titan, which has a thick nitrogen atmosphere
+even though it is far less massive than Earth.
+Though it also six times further than from
+Saturn than a Gaian Moon would be which reduces
+the radiation it gets.
+Still the habitability of Gaian Moons around
+gas and ice giant planets looks fairly promising,
+not just for simple life but quite possibly
+for complex life like us.
+So the Star Wars style forest moon of Endor
+or Yavin IV are definitely in the realm of
+the plausible to the best of our knowledge.
+In terms of colonization, we obviously don’t
+have any Gaian Moons in our solar system.
+Ganymede is the largest moon, but it’s still
+tiny compared to Earth and has a rotation
+period of a week, Titan’s is about two weeks
+incidentally.
+Both are far too cold for Earth-like surface
+life too.
+But if we did find a Gaian Moon around another
+star, it would be a fairly straightforward
+colonization.
+Hard to find much better than something with
+an Earth-like mass, composition, and day-night
+cycle after all.
+And as I mentioned last time that you can
+boost a planet’s, or a moon’s, magnetosphere
+by placing large solar powered magnets in
+orbit around the thing.
+These would actually work very well in tandem
+with something like an Orbital Ring if you’ve
+been following our Megatructures Series.
+Speaking of Megastructures, we’ll be returning
+to that series next to discuss Lofstrom Loops
+and other construct for launching objects
+into orbit before returning to this series.
+In the next episode of this series we’ll
+be looking at the possibility of life on Rogue
+Planets, objects that aren’t in orbit around
+any star at all.
+If you want to be alerted to when that or
+other videos come out, hit the subscribe button,
+and don’t forget to like and share this
+video if you’ve enjoyed it, and try out
+the other videos in this series or in my other
+two series, the Fermi Paradox and Megastructures.
+Comments and questions are welcome below,
+and please let me know which type of planets
+you’d like us to look at next.
+As always, thanks for watching and have a
+great Day!

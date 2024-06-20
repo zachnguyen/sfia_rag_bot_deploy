@@ -1,0 +1,767 @@
+The biggest danger of space elevators
+isn’t the risk of them falling down, it
+is the risk of homicidal insanity from sharing
+the trip with others for hours while listening
+to elevator music.
+So today we are looking
+at Space Elevators, a concept sufficiently
+well-known it needs little introduction but
+one which at same time is plagued with misconceptions.
+Our goal is to dispel those misconceptions
+and look at the concept in detail.
+As part of our continuing look at systems
+for getting into space cheaper, easier, and
+safer we will also discuss some of the safety
+and cost issues associated with space elevators.
+Space Elevators hit
+the public eye in a big way in the last decade
+or two but it is actually a pretty old idea.
+It got new life breathed into it with the
+discovery of certain super-strong materials
+in the last couple decades.
+The concept itself it
+pretty straight forward.
+If we built a very tall tower on the equator,
+one that reached up 22,000 miles or 36,000
+kilometers above the ground, you could step
+off the top and not fall down.
+At that altitude the top of the tower is moving
+at the same speed as what is needed to orbit
+the Earth at that height.
+Just above the Earth a stable orbit is just
+a couple hours, and way out at the moon it
+is a whole month, at the point where an orbit
+takes a day the ground stays directly below,
+since it also turns once a day.
+That is why we call orbits at that height
+geostationary.
+Now this is only true right above the
+equator and in a circular orbit.
+You can have a 24-hour circular orbit at an
+angle, but it won’t stay over the same spot
+on the ground, though it will pass over the
+same points each day at the same time.
+That is called a geosynchronous orbit, as
+it is still synchronized to the Earth’s
+spin but not stationary relative to the ground.
+If you watched such a satellite from the ground
+it would seem to bob north and south each
+day.
+You can also have an elliptical geocentric
+orbit, which would appear to trace a figure-8
+in the sky each day and if it were tilted
+off the equator one of those lobes would be
+bigger than the other.
+So a geostationary orbit is specifically
+a circular orbit directly over the equator,
+which means any space elevator we want to
+build needs to be above the equator, though
+we will discuss a few tricks to getting around
+this later on, so that your elevator station
+down on the ground doesn’t have to be at
+the equator.
+But the basic space
+elevator is simply that, a long rope or tether
+hung down from geostationary orbit.
+You could also build a tower up to that height,
+which was the original concept.
+This idea goes all the
+way back to the late 19th century, if not
+before, but at the time they were thinking
+of supertall buildings, and at that time the
+word skyscraper was just entering the lexicon
+and buildings were being constructed now that
+finally took the title for tallest building
+away from the Great Pyramid, which held the
+number one slot for five thousand years, barring
+a brief upset by the Lincoln Cathedral till
+its tower collapsed.
+Now, millennia later, we were routinely building
+taller.
+So it isn’t much of
+surprise that folks were considering even
+taller buildings not just scraping the sky
+but stretching far above it into the heavens.
+We’ve contemplated that notion all the way
+back to the Tower of Babel, but the advantage
+of structural steel was now letting us build
+tall much cheaper and safer.
+On the other hand orbital mechanics have been
+known for many centuries.
+Folks didn’t think much about putting people
+into space then not because they didn’t
+understand orbits, but because we didn’t
+understand rockets and had no computers.
+You really need both to get an object into
+a stable orbit.
+Now there is no material
+that can handle the kinds of stress involved
+with building a tower that high, or a rope
+that long, not straight up and as wide at
+top and bottom.
+That’s an important point for later on though
+because until structural steel replaced load-bearing
+masonry, building tall was quite trick unless
+you went the route the pyramids did, which
+was to have very little interior space and
+just build much wider at the bottom.
+That pyramid never collapsed
+not because its engineers were such geniuses,
+though they probably were the best in the
+world at that time, but rather because it
+is almost entirely one big solid heap of stone
+that is wider at its base then at its peak.
+Such an object works on compressive strength,
+how good a material is at being compressed,
+such as by stone being piled on top of it.
+When each layer is wider than the one above.
+it spreads that compression out, letting you
+go taller.
+Mountains, for instance, do not require much
+skill at engineering.
+So a cone or pyramid can be taller than a
+cylinder or rectangle made of the same material.
+Hypothetically there
+is no limit as to how tall you can build,
+if you can keep making the base wider, but
+obviously when you live on a spherical planet
+there are some limits in that regard.
+For a given material you can only build a
+column of it so tall before it collapse under
+its own weight, and by making the base wider
+than the top you can increase this limit.
+The same applies to ropes, only they are stretched
+rather than compressed.
+How much tension they can handle before snapping
+is based on their tensile strength.
+We will discuss this more in a bit since that
+is what matters for modern space elevator
+concepts, but for the moment it is important
+to note that you can go longer by making it
+wider at the top then the bottom.
+Tapering it just like a pyramid or cone, only
+upside down.
+Now building something tens of thousands
+of kilometers tall when the tallest building
+wasn’t yet a kilometer tall and the tallest
+mountain isn’t even ten tall seemed pretty
+ludicrous.
+However, the opposite idea, relying on tensile
+rather than compressive strength, wasn’t
+even on the table till we discovered certain
+super-strong materials in recent years.
+Ideas for building such a tower usually relied
+on a concept called active support which we
+will discuss in detail in future episodes
+but briefly is the idea that just as you can
+float a sheet of paper over a floor vent,
+you could float a platform up by bouncing
+things off the bottom, thus allowing even
+taller towers.
+The advantage of such a tower or tether
+though is obvious.
+Unlike a rocket, where you need to carry all
+your fuel with you, on such a tower you can
+run a power cable up it from a reactor on
+the ground, or solar panels in space, to supply
+energy to whatever is climbing the tower,
+presumably an elevator though in practice
+it might better be thought of as a train.
+And you can gain power when things are going
+down instead of up, so you are spending virtually
+no energy climbing up the tether and can get
+a lot of it back on the way down, losing some
+energy to transferring that power between
+the one going down and the one up.
+Needless to say we have discovered
+some materials that have far higher tensile
+strength than anything we had back in the
+19th century.
+Kevlar and Zylon far surpass steel cables
+in tensile strength, and carbon nanotubes
+and graphene far surpass them.
+Now any given material has what is called
+a breaking length or self-support length.
+This is how long that can be before it would
+snap under its own weight.
+For instance if we were standing on cliff
+2 kilometers up with a spool of rope that
+had a breaking length of 1 kilometer, once
+we unspooled more than kilometer of it off
+the cliffside it would snap even though no
+one was climbing it.
+A good nylon rope can have a breaking
+length of several kilometers, and some metals
+can be a hundred kilometers or more and Kevlar
+and Zylon can do a few times better.
+But carbon nanotubes appear to be good to
+5000 kilometers or more.
+Now here is where the first big misconception
+comes in that causes many flawed objections
+to space elevators.
+Our elevator needs to be 36,000 kilometers
+high, so if carbon nanotubes can only do 5000,
+we’d seem to have a problem, 5000 is a lot
+less than 36,000 and we need more than too
+because we want to carry material up it.
+But there’s two problems with this
+objection.
+First, as I mentioned, you can extend length
+by tapering your tether to be wider at the
+top then the bottom.
+And second, breaking length is how long something
+can be when hanging in Earth’s Gravity.
+It’s higher on Mars, for instance, where
+the gravity is lower, and even higher on the
+Moon.
+Of course we’re not on the Moon or
+Mars, we are on Earth, but the cable is not.
+Or at least most of it is not.
+The higher up you go the weaker Earth’s
+gravity is.
+For instance, up at 5000 kilometers above
+Earth, which has a radius of 6400 kilometers,
+gravity has dropped to just a under a third
+of what it is here on the ground, and the
+breaking length of a material is three times
+longer there, since everything weighs only
+a third of what it does down here.
+Out at geostationary orbit gravity is only
+a couple percent of what it is here and breaking
+lengths are almost 50 times longer.
+Second, we have the ability to taper
+the tether, making it wider at the top, which
+lets it hold up a longer length.
+So it doesn’t matter if something’s
+breaking length is lower than the distance
+to geostationary orbit, because by making
+it wider at the top than the bottom, by giving
+it a high taper ratio, we can increase that
+breaking length and it is further increased
+as gravity weakens from getting further from
+the planet.
+Hypothetically any substance can be used for
+a space elevator with a high enough taper
+ratio, but as before when we were building
+up taller objects with wider bases this does
+have a practical limit.
+Now actually mass manufacturing something
+that’s operating at its maximum tensile
+strength, and essentially has few or no flaws,
+is another matter.
+Very expensive.
+Especially since you either need to fly it
+up there or build it up there and spool it
+down, and getting stuff into space is incredibly
+expensive.
+I mean that’s the whole reason we want to
+build this thing.
+The usual notion is that you would actually
+build it here.
+You’d start with a thin wire, as thin as
+you could make it, again wider at top then
+bottom but still very thin, and fly that up.
+That first one doesn’t necessarily need
+to be able to handle double its weight, if
+you can either manufacture the next cable
+up there from material brought up in smaller
+bits or join sections without creating a weakness.
+These are massive things too.
+Even a thin string weighing a gram per meter
+on average would mass out at 36,000 kilograms,
+and probably couldn’t carry anything like
+that much mass as cargo.
+That’s a bit more than the Space Shuttle
+was designed to get into low orbit, and we
+need to go all the way to geostationary, so
+it would be either a very large launch or
+we’d have to find a way to join sections
+of tether together without introducing a weakness
+in it at the joins.
+They also don’t have to be circular tethers
+like rope, a ribbon would work fine too or
+other shapes, though you have to worry about
+wind on these things.
+There are a lot of forces acting on these
+besides just straight down gravity that can
+potentially cause some problems.
+Now you can build bigger, but by and large
+it makes more sense to build more of them
+instead.
+Better five or six cables right next to each
+other than one bigger cable of equal strength,
+and better another elevator elsewhere, servicing
+another region, than to just have a single
+elevator at some point on the equator.
+This raises two other points though.
+Having cables at places other than the equator
+and where the top of the cable actually is,
+because it isn’t at geostationary.
+We should cover that first.
+The tether doesn’t end at geostationary
+orbit, it has to go at least a bit further
+up, either ending in a massive terminus station
+just above that or a very long length of cable.
+Left to itself an object at geostationary
+doesn't fall, but any point beneath that would,
+and it is generating weight pulling the spot
+at geostationary.
+You need an equal force pulling upward, and
+past geostationary the tether is pulling outward,
+as those segments are now moving faster than
+orbital speeds for that height.
+A tether running out, say, another 17,000
+kilometers, which would make it 60,000 kilometers
+from the center of the Earth, would be moving
+about 4.4 kilometers per second, while orbital
+speed there is just 2.4, so you’ve got an
+extra 2 kilometers a second of free speed
+to launch into interplanetary space with
+That counterweight doesn’t have to be more
+tether running off for thousands of more kilometers,
+it could just be a big space station right
+over geostationary.
+It’s all about making sure the total force
+up and down at geostationary cancels out,
+this is sometimes inaccurately called the
+center of mass, but that’s not quite right
+in a non-uniform gravitational field.
+Anyway that station can be quite massive,
+even with tethers running higher up, because
+anything you build just a bit down and adjacent
+to it, also at geostationary, is going to
+float right there of its own accord, and you
+just connect to it.
+You could construct some fairly huge space
+stations there, more than big enough to make
+artificial spin-gravity viable.
+That also means you can ferry up huge amounts
+of material for whatever you are doing up
+there.
+Fuel for ships, solar panels for power, and
+all the building material and equipment you
+want, though it still costs money to make
+such things and carry them up.
+It is still fairly expensive but down to the
+point that the equipment and salaries for
+those there will be the bigger chunk of your
+budget.
+So you could have huge stations with industry
+and drydocks and hotels up there, all given
+artificial gravity by spinning them.
+Now by default you build your space
+elevators on the equator, probably on a floating
+platform in the sea.
+Geostationary is limited to a ring around
+the equator after all.
+This means that while space elevators are
+pretty awesome they would seem to limit you
+to having all your spaceports at the equator,
+whereas most of the nations with robust space
+programs are way north of the Equator, and
+they’d rather have their space ports near
+their cities.
+This is fixable though if your cables
+are decently stronger than the absolute minimum
+strength needed.
+Because again it is only the terminus station
+that needs to be above the equator, or rather
+the center of force of the tether.
+Now if we stuck one end of the tether at geostationary
+and the other down in, say, New York, we have
+a problem, the station is going to be pulled
+north and then go all out of orbit with problems
+to follow.
+But if we stuck another tether on the
+opposite side of the equator, say down in
+Santiago in Chile, that slightly off-center
+force of being a few thousand kilometers north
+and 36,000 kilometers up would be counterbalanced.
+Just like guy wires holding up a tower, only
+without the tower.
+You’d want to use at least three, more works
+too, and they don’t need to form an equilateral
+triangle or anything.
+You’d probably also want to have winches
+at top and bottom of the tethers to help keep
+the tension right for each and tweak that
+tension if it starts to drift.
+You can also stick one of these right
+in the middle of a city, unlike airports or
+some of the other designs where they either
+have a big footprint on the ground or are
+so loud they make a plane sound quiet.
+These would be quite quiet.
+Not much visual effect either, such cables
+would be virtually invisible from any serious
+distance and while the pods climbing them
+would be bigger and probably have navigational
+lights on them, you’d otherwise have to
+be quite close to see the tether.
+I often have folks worry that some of these
+launch assist systems will ruin the night
+sky but no more than airplanes or satellites
+or skyscrapers.
+Of course people also worry about them breaking
+and wrecking their city, or the planet.
+We might as well talk about that then.
+Can such a tether break?
+Yes of course, they can.
+I mean the stuff they are made out of is as
+tough as diamond but it’s not going to survive
+intentional sabotage of someone setting off
+a shaped charge or something on it.
+It is not easy though, you could chop at one
+with an axe all day long, stopping only to
+replace your broken axe heads, without accomplishing
+all that much.
+But yes one can be damaged.
+Where it breaks is what actually matters but
+first let’s crush this idea it would cause
+mass carnage.
+One popular portrayal is that the broken
+tether would wrap around the equator flattening
+everything in site.
+That’s very exaggerated, there’s not much
+reason to build these things individually
+thicker than an arm, if even that, just add
+more in parallel if you need them, and they
+are not crashing into the ground at hypersonic
+velocities.
+These are not thick cables, probably no thicker
+in most cases then a large electrical wire
+on a trunk line, and they won’t hit going
+much faster than one of those would if it
+fell, air will slow them.
+They’ll either burn up if the fell from
+high enough or slow to normal speeds before
+hitting, and very low speeds if they are ribbon
+shaped rather than cylindrical.
+So yeah, don’t stand underneath one or it
+will hurt or kill you, but you could also
+see it falling anyway.
+We also have a device for slowing things in
+air called the parachute, and while we don’t
+want to add a lot of static weight to our
+elevator by installing parachutes at certain
+intervals, what makes a parachute heavy is
+the material it is made out of.
+Parachute threads and ropes have to be very
+strong, in terms of tensile strength.
+Conveniently if you are building space elevators
+you have the ability manufacture superlight
+materials with huge amounts of tensile strength.
+So you get much lighter parachutes and you
+could place them at intervals with charges
+designed to sever the cable into smaller bits.
+So they wouldn’t do much damage falling
+in the first place, but with some parachutes
+on them this can be further minimized.
+Another important factor is where it
+breaks, and if it is anywhere inside our own
+atmosphere the cable is going to ripple up
+like a cut thread toward the station and then
+fall back down and dangle just over the atmosphere.
+You go in and repair it, and in practice you
+probably have a couple hundred kilometers
+of extra line up at the terminus station and
+can just lower it back to the ground station.
+The ten or twenty kilometers in the atmosphere
+will just fall down, straight down.
+I wouldn’t want to be in that station when
+it happened, but you’d probably have gantries
+and scaffolding around the base anyway.
+A decently sturdy roof should survive it and
+again parachutes are an option.
+So a lot depends on where the cut occurs.
+The problem is that orbital speeds around
+Earth get lower as you get further away, but
+on our tether, it gets faster the higher up
+you are.
+Up at geostationary the tether is moving at
+exactly the orbital speed for that height.
+Just a bit above it, at the Terminus station,
+the orbital speed is a bit lower but the station
+is actually moving a bit faster.
+If you cut the tether below that the station
+would drift off to a higher orbit and would
+need to have some thrusters on it to instead
+drop to geostationary while repairs were underway,
+then boost back up.
+It might need to cut free the tether higher
+up too, the one whipping ships into interplanetary
+space.
+As to the tether, once cut, its individual
+bits are moving too slow for orbit, orbital
+speed is higher than up at geostationary but
+the tether below that isn’t even moving
+at that speed.
+So it will fall down.
+This is where the notion of it wrapping around
+the planet comes from, it is still moving
+faster than the equator, they have the same
+angular velocity but not linear velocity,
+same as the equator is faster than the polar
+regions.
+The higher up, the faster it is moving, so
+it will fall and wrap around the equator.
+But as we saw, it isn’t ground damage and
+casualties we have to worry about, rather
+it is the folks on the tether.
+What happens to the people on the elevator
+when it snaps?
+We also have to consider what would happen
+if the climber falls off the cable for some
+reason.
+For the folks above 23,000 kilometers,
+they’re okay, they’ll fall gaining momentum
+and actually enter an elliptical orbit around
+the planet.
+Anything with lateral speed relative to a
+massive object will enter an orbit around
+it, it’s just that if that is too elliptical
+that orbital path will pass through the planet.
+Since those pods have to be airtight the people
+on them will be fine, so long as the air doesn’t
+run out, until someone can retrieve them.
+They’d have many hours if not days to be
+rescued, probably by shuttles from the Terminus
+station.
+We will talk about how you keep folks alive
+in such a pod or any other spaceship in a
+few weeks in an Episode appropriately called
+Life Support, because there’s a lot of misconceptions
+about that too.
+For the folks below 23,000 kilometers things
+are actually a bit easier.
+They won’t go into orbit, since the planet
+is in the way, but if your pods are built
+for reentry and have parachutes on them they
+should be fine.
+I mean for a given value of fine.
+I’m pretty sure crashing thousands of kilometers
+down to the planet in a passenger car full
+of dozens of other terrified people is going
+to leave some serious psychological trauma
+even if physical injuries don’t occur.
+And that is long fall too, dropping from halfway
+up that tether is going to take a few hours.
+Gravity is weaker there so you aren’t accelerating
+as much at first.
+There’s a lot of things that could go wrong
+on that fall for people to worry about, and
+a lot of time for them to worry, so I am not
+going to try to minimize how awful those hours
+of falling will be even if you do survive.
+When the cable snaps most pods won’t initially
+notice anything, if you have a string suspended
+from the ceiling holding a weight and cut
+that string, the string above the cut is going
+to snap upwards but that isn’t instantaneous.
+It seems like it to us because the string
+is short but on a long cable it will take
+quite a while for the wave to travel up the
+tether.
+This thing is thousands of kilometers long,
+so even if the wave is moving several kilometers
+a second it could be some minutes before your
+pod bucks.
+Plenty of time for the control station to
+notice the break and send the command to the
+pod to break off, some detonating bolts probably.
+A little bit of speed is handy too since you
+do not want to get lashed by a diamond hard
+cable whipping upwards like a rubber band,
+so giving yourself a few meters a second of
+delta-v is probably a good idea.
+So I don’t want to trivialize the dangers
+and risks, but they stack up pretty good compared
+to trains, planes, and automobiles.
+Our normal methods of traveling around the
+planet.
+Speaking of that, these elevators are pretty
+good for that kind of travel too, not just
+getting up to geosynchronous orbit.
+You can jump off part way up and do a controlled
+fall to some other part of the planet, again
+you are moving too slow for orbit so you could
+jump off a tether from Los Angeles and fall
+to New York, ride up a bit higher and fall
+to London or Madrid.
+You’d want wings and thrusters for control
+and maneuvering but it’s a pretty fast and
+cheap method of travel around the planet.
+This is even easier if you are doing the multi-tether
+option, where several ground stations run
+up to a single terminus station, especially
+if those cables are meeting part way up.
+You could have an airport up there, assuming
+your tethers are strong enough to handle that
+kind of weight.
+If they are you can also consider running
+tethers sideways between two tethers.
+Which would be faster than riding all the
+way up to the terminus station then down another
+tether, or taking a shuttle from that terminus
+station to another tether.
+You could also drop off those lateral tethers
+too, an option also available to us when we
+look at certain launch loops later in the
+series.
+But that’s a key point, these elevators
+are handy for more than just space travel.
+We should probably talk about speed on one
+of these elevators.
+That will depend a lot on how much power you
+have to spend, but the default trip is many
+hours.
+There are some tricks using some of the other
+systems we will look at in future episodes,
+essentially hybrid versions, that could make
+the trip faster, like shooting down a vacuum
+tube first and up a space tower that was also
+in a vacuum around that elevator to let you
+build up speed without air getting in your
+way.
+If you could pull off one gee of acceleration
+the whole way there, flipping midway through
+to decelerate, your trip would take an hour,
+faster than actually falling since again gravity
+is weaker up there.
+But even pulling 3 or 4 gees on the trip is
+only going to cut that trip time in half.
+Going that fast is rather energy wasteful
+but convenience is often worth that and it
+would also change your fall dynamics.
+Okay, let’s talk cost.
+We obviously have to be pretty vague here.
+At the moment graphene, our presumed elevator
+material, costs about $100 a gram.
+That’s more than double the price of gold
+and remember our thread-thin starter tether
+massed about a kilogram per kilometer, or
+36,000 kilograms, or 36 million grams, or
+3.6 billion dollars.
+The launch costs for getting that up there
+are in that neighborhood too.
+A tether as thick as a pencil or finger would
+mass out at more like a 100 kilograms a kilometer,
+or 360 billion dollars, with similar costs
+for transport.
+That’s why it’s important to start with
+the small tether first, so you can take advantage
+of the cheaper launch cost that tether will
+provide for subsequent ones.
+Now we expect the cost of graphene to get
+a lot cheaper as we get into mass production
+of it, it’s just carbon, preferably made
+of graphite which is more like a buck per
+kilogram, not a hundred bucks per gram.
+The real issue is making a single cable as
+one complete unflawed or mostly unflawed thing.
+And more importantly of doing that up in space.
+Once you get that first small tether up it
+might be strong enough to hold another tether
+of equal mass, but more likely it will only
+be able to hold a fraction of its own weight,
+so you bring up shipments of the stock material
+in small amounts along the starter tether
+and manufacture up there.
+Your first Terminus Station is going to basically
+be a big tether manufactory.
+I’ve seen cost estimates as low as 6 billion
+and as high as 40 billion, and I’ve seen
+even higher plus I’m a pretty conservative
+person where such estimates are concerned
+so I tend to automatically double them, but
+that’s a very affordable cost even if we
+take the high end one of 40 billion and double
+it.
+Even pessimistically it drops the cost per
+kilogram of material moved to space to about
+$100, whereas it cost several thousand dollars
+a kilogram right now.
+So those savings stack up pretty quick especially
+if you are increasing the amount of stuff
+you are sending into space.
+Which you would be too.
+If you build it they will come, because there’s
+all sorts of scientific, commercial, and industrial
+applications to space we don’t use right
+now because of the cost to transport things
+to and from space.
+Lots of folks would pay five figures for a
+vacation up there and you could haul whole
+film crews up there for months at a time to
+film a science fiction movie or TV series
+in actual zero-gravity for a change.
+So why haven’t we built one?
+Well first off the cost.
+To break even on such a thing, which will
+surely have maintenance costs too, you need
+to be transporting a lot more up into space
+than we do now.
+Second and most important, of course, we can’t
+actually build one just yet.
+We don’t mass produce graphene and certainly
+not as big long cables.
+We need a while to get to that kind of production
+scale and then we’ll need to take kilometer
+long chunks of it and stretch it and see what
+its actual tensile strength is in real terms,
+not just on paper.
+It works on paper but so do a lot of things
+that later fall apart in practical design.
+When we get to that point we can start coming
+up with specific designs and better estimates.
+And it might turn out to be impossible.
+As mentioned earlier, graphene’s breaking
+length is a lot shorter than the necessary
+cable length, tapering, having it wider up
+top, and the diminishing gravity as you get
+higher, might be enough, but it will be close
+and when we start making cables out of the
+stuff the real-world breaking length of those
+might not be viable.
+On the other hand we might find something
+even better than graphene or carbon nanotubes.
+So space elevators aren’t guaranteed, at
+least not for Earth, they work just fine on
+anything with less gravity like Mars or the
+Moon, but they are promising and something
+we could easily see even twenty years from
+now.
+Too soon to say, but there’s lot of room
+for optimism.
+It is also not our only option on the table,
+as we will see with sky hooks in two weeks
+even much shorter tethers can help a lot with
+getting into space, but as a I mentioned near
+the beginning this idea predates super-strong
+tensile materials.
+We can build tall towers instead, exact same
+dynamics only it requires an alternative to
+tensile strength, something we call active
+support, which we talk about in another episode
+too, and which opens just as many interesting
+doors as super-tensile materials.
+And we’ll be looking at a lot of those in
+the upcoming episodes.
+Next week though we will be looking at Quantum
+Computers, a topic that like Space Elevators
+has a lot of misconceptions about it, showing
+a lot of promise and also a lot of hype.
+We’ll clear away the noise next week.
+After that we will return to this series for
+a look at Skyhooks, then we’ll segue the
+week after that to discuss not getting into
+space but staying alive when you’re up there.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel.
+If you enjoyed this episode, please like it
+and share it with others, and join in the
+discussion down in the comments section or
+at the channel’s Facebook and Reddit groups,
+Science and Futurism with Isaac Arthur.
+Until next time,
+thanks for watching, and have a great week!

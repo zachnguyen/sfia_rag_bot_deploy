@@ -1,0 +1,1185 @@
+What we’ll be doing here today is reviewing
+some of the more common proposed solutions
+to the Fermi Paradox – which is essentially
+the question ‘if there are aliens, why can’t
+we see them?’ – and look over some of
+the strengths and weaknesses of those solutions.
+There are a lot of them so we’ll be moving
+fairly quickly over each, and we’ll also
+loosely categorize them into some groups.
+No grouping is really ideal but they are helpful
+so here are the ones I’ve selected:
+Category 1: Alien Civilizations are Incredibly
+Uncommon.
+There are no alien civilizations, or they
+are so incredibly rare that most galaxies
+have never spawned one.
+Category 2: They are common but hard to see.
+There are alien civilizations but we can’t
+hear them.
+Category 3: They exist and are not hard to
+see.
+We interact with them routinely but most or
+all don’t realize it.
+Category 4: Miscellaneous.
+Or in more generalized form, Category 1, we
+can’t see aliens because they don’t exist,
+Category 2 we can’t see them because we’re
+not looking hard enough or in the right way,
+category 3 we can’t see them because we’re
+being tricked or tricking ourselves, and category
+4 we have a massive flaw in our logic where
+this paradox is concerned.
+Category 1 we’ll cover pretty quickly because
+first I recently did a lengthy video discussing
+it in enormous detail and second it’s the
+camp I loosely align to so I’m not great
+at criticizing it.
+But inside Category 1 you basically have three
+subdivisions.
+1A: The conditions needed to achieve complex
+life are much less common than we assume.
+1B: Intelligence is not a common outcome of
+evolution, or Intelligence does not lead to
+technological civilizations.
+1C: Intelligence in this Universe does not
+occur naturally.
+Category 1A is fairly broad but essentially
+comes down to the notion of Great Filters
+and the Rare Earth Hypothesis.
+In the Fermi Paradox a Great Filter is something
+which assumes a lot of steps on the road to
+becoming a technological civilization and
+staying there for long enough to be seen and
+heard.
+Sometimes this is a single filter, like an
+assumption all or nearly all civilizations
+nuke themselves out of existence within a
+century of making a nuclear bomb, but just
+as often it can be a series of filters that
+each have a large chance of enduring the journey.
+1 in 10 stars can host habitable planets,
+one in ten of those worlds develop life, one
+tenth of those get complex life, one tenth
+of those luck out on some cataclysm or change
+that wipes out complex life too frequently
+to go further or makes it so it can’t continue,
+one tenth develop life with significant brains,
+one tenth of those achieve intelligence, one
+tenth of those develop technology, and one
+tenth of those avoid wiping themselves out.
+That’s 8 one tenths, or 1 in 100 million.
+Which would still result in several thousands
+of civilizations in this galaxy alone but
+if the odds were one in a hundred each step
+that would be less than one per several thousand
+galaxies and explain why we hadn’t detected
+them.
+There’s also potential criteria that might
+be uncommon but required for complex life,
+like having a large moon or Jupiter to vacuum
+up space debris so it doesn’t rain down
+on the planet regularly or that conditions
+on planets are very prone to toppling out
+of habitability.
+Here are some of those, and again we won’t
+really be challenging these as much as we
+will in other categories:
+Planetary habitable zones are narrow and move
+as stars age.
+We classify habitable zones basically as where
+liquid water can exist on something of near-Earth
+size but that’s a pretty big guess, and
+planets don’t move in circular orbits but
+ellipses.
+Planets might ice over or tilt into runaway
+greenhouse effects far more easily then we
+currently assume.
+Additionally, the luminosity of stars changes
+over time, they get brighter, that pushes
+the habitable zone outward.
+Many also fluctuate in brightness much more
+than our Sun, and give off regular deluges
+of light, like XUV radiation, which is inimical
+to life, not just Earth life but any life
+based on regular chemistry.
+Jovian planets are rare: The notion that a
+planet will get bombarded by asteroids without
+some other larger body around to pull those
+in is a fairly valid one but this idea has
+fallen out of favor as a strong filter because
+we’ve detected so many planets in other
+solar systems that parallel Jupiter in size
+and location to perform the vacuum cleaner
+function.
+Large moons are rare: Earth’s own moon is
+very nearly a double planet and it has a huge
+impact on our environment in terms of tides,
+weather, our axial tilt, and so on.
+It is usually assumed that early land life
+evolved from creatures that had evolved to
+handle tide pools.
+No big moon, no tides.
+Geological events have to be just right for
+complex life: A planet with no volcanoes or
+plate tectonics is going to erode away into
+a massive flat mudball or landless sea which
+is not well suited for diverse complex life
+let alone tool using life.
+And we have many others.
+Cells with nuclei develop rarely, specialized
+organisms with distinct organs are not common,
+galaxies are volatile place which often expose
+worlds to sterilizing blasts of radiation,
+and so on.
+Individually one of these might be a Great
+Filter that fewer than one in a billion pass
+or they may each just be something that just
+drops the odds of life by an order or two
+of magnitude which adds up to making complex
+life rare.
+The big ‘flaw’ here is that we really
+just don’t know the odds and none of them
+seem to work as a single Great Filter.
+None of those really seem like one in a billion
+type things and many are not even indicated
+to be less likely than not, let alone highly
+improbable, so stacking them all into a sequence
+that makes complex life rare is sort of like
+assuming the worst case scenario has happened
+each step along the way.
+Category 1B: That intelligence or technological
+civilizations are rare isn’t necessarily
+separate from 1A, since it can just be additional
+layers of filtering, but is distinct in that
+it argues that technological civilizations
+may be a freak anomaly and not an inevitable
+end goal of evolution.
+Now, of course, evolutions does not have end
+goals but it does tend to produce increased
+complexity and sophistication and we often
+assume intelligence to be one of those and
+technology inevitable from that.
+The other chunk of 1B is that tech civs might
+be uncommon because they inevitably take themselves
+out through nukes, biological warfare, runaway
+self-replicating machines, and so on.
+1B is complicated because ‘intelligence’
+is a bit hard to define.
+Humans are the only ‘intelligent’ life
+on Earth but of course are not.
+Besides other primates like chimpanzees we
+have cats, dogs, dolphins, elephants, pigs,
+raccoons, and many other creatures who we’re
+tens of millions of years away from in terms
+of common ancestors and yet have clear intelligence,
+problem solving abilities, and even tool use
+or building skills.
+Many have had this level of intelligence for
+a very, very long time even on geological
+timelines and yet never carried it any further.
+Now many assume humans just hit the complex
+tool use level first and that if we disappeared
+eventually one of them would get there but
+our brains, with the large, folded forebrain
+and cerebral cortex is a pretty big jump and
+there are a lot of little factors in our biology
+that probably contributed to our rise as a
+technological civilization which are peculiar
+or sometimes even harmful to us.
+We have large heads with skulls that are soft
+so they can expand later, and this is very
+dangerous for live birth, additionally that
+soft skull probably is a big factor in the
+plasticity of our brains which is very associated
+to learning, and a need for learning since
+you don’t have as many wired instincts.
+It’s not just that you can learn, it is
+that you must learn.
+We are omnivores, cats aren’t, they can
+probably never develop specialist societies
+because they can’t support a dense population
+through agriculture and everything they eat
+is terrified of them making it probably fairly
+hard to get into tending livestock.
+Even if you get the brain, and tool use, which
+we’ve had for hundreds of thousands of years,
+you might not use technology much.
+We have fire, but that might not be popular.
+We cook our food, which allows us store meat
+longer and also let’s us digest certain
+types of it better to derive more nutrient
+from it.
+A given critter might hate the taste of cooked
+food.
+Or the oxygen content of their world might
+be a little higher making forest fires the
+most dreaded bane and the very idea of someone
+keeping it around the tribe considered the
+equivalent of juggling hand grenades.
+Fire’s dangerous as is, but its exponentially
+more so as oxygen concentrations rise and
+you need it for technology.
+Some worlds, from different levels of tectonic
+activity or erosion, or just composition,
+might not have easy to find copper to make
+those first metal tools limiting you to flint
+and wood, which can not be used to make some
+tools well enough to make them better than
+employing old school methods.
+Pottery will never develop if you don’t
+have fire either.
+Planets with no seasons, or very mild ones,
+will not require means of preserving food.
+Tidally locked worlds will never see the stars
+where life can live, so no astrology or astronomy,
+or the world might have thin clouds almost
+constantly.
+The world might not have large deposit of
+fossil fuels.
+And so on.
+So essentially Category 1B challenges the
+idea that evolution will inevitably spawn
+technology, and throws in the caveat that
+technology might also inevitably kill a world
+too.
+Its big flaw is that we while we know evolution
+we really don’t have a clue about the probabilities
+involved on given steps nor do we know if
+we might stumble across some bit of seemingly
+great technology that amounts to signing a
+suicide contract by employing it.
+Self-replicating robots, a power source that
+makes fusion look shoddy but blows up a planet
+after a few years of operation, etc.
+Category 1C, that Intelligence in this Universe
+does not occur naturally, covers more of the
+supernatural cases though also includes the
+extreme version of 1B that a freak anomaly
+had to occur, rather than an improbable but
+natural evolutionary jump.
+If you’ve ever heard of Boltzmann Brain,
+essentially the notion that over a long enough
+time in a big enough place random events could
+make a computer assemble not through evolution
+but just freak odds, that’s basically the
+reasoning there.
+But this category includes ‘God did it’,
+or ‘aliens in a prior universe with different
+rules made this one’, or the near equivalent,
+that we’re running in a simulation of a
+universe where the laws differ from the simulators
+and intelligence would not naturally develop
+so they tweaked us specifically so it would.
+If we wanted to simulate a universe on giant
+computers where, say, the speed of light was
+10% higher and found out that life could exist
+but just couldn’t naturally evolve, that
+the steps to get there were just too improbable
+to occur, we might just throw them in ready-made
+on one world to see what happened afterwards.
+1C is not the scientifically popular realm
+but in truth many of the other solutions we’ll
+see are much akin so leaving it out would
+be unfair.
+It has the obvious flaw that there’s no
+scientific evidence to support and that most
+versions are ‘internally unprovable’,
+meaning that while an outside force that did
+it can come on down and say ‘hi’ you can’t,
+inside the box, ever show that’s what’s
+going on.
+Even in the case of a Boltzmann brain, one
+that assembled complete from particles with
+no evolutionary steps, it would be on sound
+ground to wonder if someone made it rather
+than assuming it was an astronomically improbable
+fluke event, even though it knows that is
+possible.
+A clock can assemble naturally, the odds of
+this occurring are just very, very low so
+outside covert construction isn’t too absurd
+if you find one.
+So that’s category 1, we don’t see aliens
+because they are super rare or don’t even
+exist.
+Category 2, they are common but hard to see.
+There are alien civilizations but we can’t
+hear them.
+This is where most of the argument goes on
+and where we’ll spend most of our time.
+It’s harder to break into sub-categories
+but here are the major ones:
+2A: They’ve got mouths but we lack ears.
+Typically that means they just don’t use
+radio for communication
+2B: There just hasn’t been enough time for
+us to hear them.
+2C: They don’t talk because they have no
+reason to.
+2D: They hide, intentionally
+The biggest flaws going into category 2 are
+the Mediocrity Principle and the idea of Exclusivity.
+Mediocrity Principle we know, when you’ve
+only got one example of something you should
+assume it’s probably a fairly normal, or
+mediocre, example of such things.
+It comes into category 2 because frequently
+this category relies on choices and behavior
+of alien civilizations and they probably have
+little similarity to humans in many areas,
+they are, literally, alien.
+However they also just as probably have that
+same alien-ness to each other.
+A given alien civilization might act in some
+way, but others won’t.
+Unless that behavior is exclusive.
+As an example, we can assume that no species
+that ever explores the stars or settles other
+worlds hasn’t learned basic Newtonian physics,
+you need that to build rockets, you can’t
+avoid seeing it in action very simplistically
+in space even if you somehow got up there
+without it or evolved in an asteroid belt
+or deep space instead.
+There’s no air friction interfering with
+the basic process.
+So we can say that space travel is ‘exclusive’
+to species who know Newtonian Physics.
+However, while many people believe in the
+inevitability of social progress to some predetermined
+and universal system of behavior, and often
+have some good arguments to back that, it’s
+pretty obvious that just among humans it is
+possible to get up into space with many different
+types of culture.
+So it is hard to argue that space travel is
+exclusive to democracies, or communist civilizations,
+or ones which have curbed population growth
+or given up war, etc.
+Space travel would seem to be non-exclusive
+of democracy, or human rights, or unchecked
+population growth, or so on.
+That last will come up a lot because as we
+discussed in the prior video, the Dyson Dilemma,
+if a species is prone to keep growing in numbers
+and territory, even if it’s a very slow
+growth, even if they are fairly rare they
+will soon become the super-majority of intelligent
+life.
+So you’ll hear me reference Non-Exclusivity
+with a lot of Category 2 solutions.
+2a: They’ve got mouths but we lack ears.
+Again, this typically that means they just
+don’t use radio for communication.
+This could include something faster than light
+or even instant, something like neutrinos
+that just go right through everything, or
+even just that they don’t use omnidirectional
+signals, which are pretty wasteful in most
+cases especially for long distance communication
+between two spots.
+Even if you’ve got a hundred colony systems
+around your homeworld it makes more sense
+to send a tight beam to each system rather
+than one big omnidirectional signal.
+They talk, but we don’t hear them because
+they’re talking in sign language and we’re
+listening with our ears basically.
+This is a pretty solid argument but it suffers
+from a few problems.
+First, if we don’t know what kind of new
+physics they are using to talk faster than
+light we’re not just assuming science we
+don’t have, we’re also assuming behavior
+based around something we don’t know.
+We have light speed communication.
+We have the internet but people still use
+fax machines and snail mail.
+We have TV but AM radio remains strong.
+The ability to send instant messages across
+the stars could be much more expensive, byte
+for byte, then radio and if so you’d still
+use that on your planet.
+We don’t know how this thing which breaks
+known physical laws would operate so it’s
+a huge jump to say that’s what’s going
+on.
+Second, this hits the problem in the Dyson
+Dilemma.
+We may well not be able to hear signals from
+an alien homeworld, even if they were in mundane
+radio, but if they are expansionist we don’t
+need to listen for their homeworld radio,
+we just need to listen for their colonies.
+Biological life tends to grow with time, when
+it has the resources to do so and no external
+pressure stopping them, over a long enough
+period you don’t need to look thousands
+of light years away for alien radio signals,
+you just need to look at any star nearby because
+they colonized it or someone else did.
+Indeed, there’s no obvious reason you’d
+need to listen for radio to see those nearby
+worlds either because they will probably be
+tapping that star for energy by surrounding
+it with solar collectors and artificial habitats.
+The Dyson Dilemma basically says it doesn’t
+matter if we can hear their phone, because
+any pro-growth civilization decently older
+than us is going to have surrounded their
+star and many nearby ones with Dyson Spheres
+or Dyson Swarms and just keep slowly expanding
+so you can’t miss them.
+And this is where non-exclusivity comes in.
+Unless one can show that the ability to engage
+in serious expansion of your own planet is
+exclusive to species which are no growth or
+destined to be no growth not long after, then
+it would only take one species, or even on
+sub-culture of a species, that was pro-growth
+to ensure this expansion happened.
+Now, as we mentioned earlier, many people
+do believe certain behaviors are inevitable
+as a part of social progress, if you believe
+that includes no growth even when you can,
+then category 2A is quite reasonable, if you
+believe it is not inevitable for all intelligent
+life, then 2A, and most of category 2, is
+shot down.
+And again watch the other video if you want
+that explained in detail.
+This also discusses the problem where civilizations
+kill themselves off in short order, which
+again hits the idea of Non-Exclusivity unless
+you subscribe to that being an inevitable
+event by any technological species.
+We will assume here that inevitable no growth
+or inevitable extinction are NOT the case,
+if you feel otherwise category 2 is a good
+Fermi Paradox Solution.
+Category 2b: There just hasn’t been enough
+time for us to hear them.
+This theory holds that technological life
+is a very recent development, there just hasn’t
+been enough time for aliens to develop and
+signals to reach us, and we haven’t been
+listening long enough to pick up some of the
+weaker signals.
+Indeed we might be the first intelligent life
+form, or if they’re a bit rare, the first
+in this galaxy and the guys in Andromeda beat
+us to the punch by a hundred thousand years
+but no signal or sign of mega-engineering
+like Dyson spheres would have gotten here,
+two million light years away, yet.
+Life couldn’t evolve to intelligence until
+relatively recently.
+Now the problem here is just scale.
+There is good reason to believe that complex
+life might be something that could only exist
+relatively recently.
+It takes several generations of stars to produce
+metals, many supernova events, and those same
+events can sterilize nearby worlds too.
+The problem is that ‘relatively recently’
+generally means ‘in the last couple billion
+years’.
+There are over a million stars within five
+hundred light years of us, the whole galaxy
+is within a hundred thousand light years of
+us, and there a many galaxies a few million
+to maybe ten million light years from us.
+Those are immense distance with correspondingly
+immense times for signals to travel or an
+even larger for ships that can’t go faster
+than light, or even a good percent of light,
+to travel.
+But the problem is, as we said, scale.
+A thousand years, or million years, or even
+ten million years, the often cited figure
+for colonizing a whole galaxy without any
+major new physics being discovered, is just
+a tiny, tiny number compared to even a billion
+years which based on what we know of the Universe
+and life ought to be the conservative and
+late timeline for technological civilizations
+to have arisen.
+By the Mediocrity principle we must assume
+that, barring evidence to the contrary, even
+if no worlds that gave birth to life are older
+than our star that roughly half will have
+beaten us to technology by several million
+years at least, and again there’s no reason
+we know of why stars a billion years older
+but otherwise identical wouldn’t have gotten
+technology a billion years ahead of us.
+So if we’re not assuming self-destruction
+or zero growth are inevitable results of technology
+and social progress we just have not justification
+for the idea that there’s not been enough
+time for signals to have gotten to us yet
+because they’ve had a billion years of broadcast
+time and a billion years to expand outward
+from their homeworld toward us to make those
+signals easier to see and with less time lag.
+2C: They don’t talk because they have no
+reason to
+Examples here would be that they just don’t
+see a benefit to talking to other aliens,
+and maybe consider it harmful.
+Maybe they’ve become some single machine
+intelligence that gains little from going
+elsewhere and sees nothing to gain by chat
+except cultural knowledge which it doesn’t
+value.
+Maybe they’ve all retreated to a simulated
+universe, a virtual reality utopia, and its
+much more interesting to them then 1000-year
+long phone conversations.
+Lots of options here for why they wouldn’t
+want to talk.
+This one encounters the same problems raised
+in the Dyson Dilemma, that we don’t need
+to hear their phones to see they are there
+if they’ve been expanding.
+But it also double-dips into Non-Exclusivity
+by assuming none of the aliens, who should
+all have as radically different behavior from
+each other as from us, don’t feel a reason
+to chat with other aliens, even just to broadcast
+over and over – “This area of space is
+ours, stay out, we don’t want to talk to
+you, this is ours, stay out and we will leave
+you be, come in and we will blow you up, message
+repeats”.
+It’s already stretching a point to say all
+aliens aren’t talkative, but to assume they
+don’t even broadcast to deter accidental
+invasions is stretching common sense.
+Animals routinely mark their territory and
+vocally discourage incursions because fighting
+if you don’t have to is dangerous and cost
+time and resources.
+Mediocrity principle tells us that animals
+on at least some other worlds probably do
+the same and non-Exclusivity would suggest
+some aliens ought to have giant omnidirectional
+broadcast arrays just screaming ‘stay out’
+even if they are otherwise not chatty.
+There’s also a reverse example of non-exclusivity
+here, of exclusivity, because while we can’t
+say that intelligence is exclusive to creatures
+with curiosity, common sense would indicate
+that curiosity is not likely to be a rarity
+among technological civilizations.
+It is hard to imagine they wouldn’t be curious
+by nature, let alone that this would be the
+universal rule.
+And unless they are afraid, then it doesn’t
+have to be the whole species, just a handful
+of them.
+We’ve no reason to think aliens are more
+homogenous in behavior and outlook then we
+ourselves are.
+So category 2D, maybe they are afraid.
+Aliens don’t talk, just listen, and actively
+hide, because they are afraid of being seen
+and heard.
+This makes a lot of sense.
+We have a term called METI, the version of
+SETI – the Search for Extra-Terrestrial
+Intelligence – which focuses on Messaging
+to Extra-Terrestrial Intelligence, also called
+active SETI or positive SETI.
+METI, in which you intentionally broadcast
+to aliens, is unlike SETI which passively
+listens.
+It is not popular.
+It is very controversial.
+Many SETI backers outright condemn it, will
+not support it, and I’ve even heard people
+suggest it should be considered a Crime against
+Humanity as its telling potentially hostile
+aliens how to find us.
+It wouldn’t be too hard to imagine other
+aliens do exactly that, ban transmission,
+and maybe even hide more so their world looks
+uninhabited.
+Problem here is that this also hits non-exclusivity.
+Now one can argue that all aliens will come
+to the conclusion that passive listening rather
+than broadcast is the path of wisdom but this
+breaks down over time even if true.
+Again it has to be every member of every species
+doing it, since it would only take a few people
+with broadcast equipment.
+But worse, they have to keep doing it.
+How long do you have to wait before you say
+“Look, we’ve been listening to silence
+for a million years, hiding here on our one
+planet for fear of drawing attention.
+Either no one is there or they are like us,
+just paranoid and hiding, let’s expand.”
+And if someone replies “Well, what if there
+is some galaxy-spanning species of xenophobes
+waiting to see us and jump on us, or killer
+robots in space quietly waiting for intelligence.”
+You’d just reply “Then they must be beyond
+stupid, because they could easily have investigated
+every single planet in the galaxy by now and
+even insured no life ever came to be on them
+in the first place.
+It just isn’t that hard for a determined
+species capable of wiping us out to have found
+us in the first place.”
+And this is pretty solid logic.
+Killer xenocidal species or robots make for
+good science fiction but also make just about
+no sense.
+If you were such a species, and could design
+long lasting and self-repairing robots to
+purge the galaxy of alien life, why would
+you settle for leaving a few million outposts
+all within a hundred or so light years of
+every world to listen for radio?
+Why not just sterilize every single world
+that could support life, and rinse and repeat
+every hundred million years?
+Or if it’s just intelligent life, why even
+wait for radio signals anyway?
+Why not just leave satellite telescopes near
+habitable worlds that would sit and stare
+at those worlds looking for any patterns at
+all.
+Pull up Google Earth sometime and zoom out
+till you can see many miles at once.
+Look at a natural area, like a national park,
+then look at any area settled by man, city
+or farmland, that is very obvious and requires
+no radio signals to see, and you’d be able
+to detect civilizations that way long before
+they got radios.
+Now in the face of that logic, it is hard
+to imagine a civilization, having thought
+of that, just staying hidden at home for millions
+of years especially considering that by expanding
+they’d have more resources to deal with
+an aggressor.
+More scientists to research weapons, more
+worlds to build weapons, multiple worlds to
+be safeguarded against natural disasters or
+surprise attacks.
+So while the idea that aliens just listen
+and don’t talk is reasonable, the notion
+that they all do that and keep doing it for
+hundreds of millions of years is not.
+That’s it for category 2, again fundamentally
+the problems with category 2 is that unless
+you believe extinction inevitably results
+from technology or that all societies evolve
+to act the same, category 2 suffers from Non-exclusivity.
+There’s just no reason to think they’d
+all act like that especially when there’s
+many obvious downsides to doing so.
+Category 3: They exist and are not hard to
+see.
+We interact with them routinely but most or
+all don’t realize it.
+We’ll break this into subcategories as well:
+3A: Aliens walk among us but hide themselves.
+[X-files]
+3B: Aliens used to walk among us and helped
+us get technological [Alien Astronauts]
+3C: Aliens are here, but are so unrecognizable
+we can’t see them for what they are
+3D: We are aliens ourselves
+Big flaw in #3 is just lack of evidence, but
+as we discussed way back in category 1C, just
+because something is very hard or impossible
+to prove internally doesn’t mean its wrong.
+Many of course believe we do have evidence
+of aliens walking among us and while I think
+they’re wrong this wouldn’t be complete
+if we left out one of the most popular groups
+of solutions to the Fermi Paradox nor am I
+going to sit around heaping scorn on them.
+It’s enough, in my book, to say there’s
+no hard evidence to back these solutions with
+the caveat that, in fairness, most of the
+solutions have the exact same problem, only
+difference being that we can actually gather
+evidence of stuff here on or near Earth, we
+can’t get to other worlds yet to examine
+them.
+Decent logic with a lack of evidence because
+you can’t get it yet get a little more respect
+tin my book than those where you can obtain
+evidence.
+So 3A: They walk covertly among us.
+It is impossible to have been raised in modern
+times and not know a bunch of TV and movie
+examples of this, and again the evidence for
+it is either absent or considered by many
+to be dubious.
+Nothing else to say.
+3B: They used to walk among us.
+Ancient Alien Astronauts helping us build
+the pyramids and similar has shown up in lots
+of fiction and again we’re all familiar
+with it.
+For this subcategory there’s tons of evidence,
+such as the pyramids, but that evidence itself
+is disputed by arguments that we could and
+did build such things on our own.
+My only add on to this is two fold.
+First, if they were willing to involve themselves
+then, what changed to make them stop and why
+are all the examples here things we could
+have done without any inclusions of stuff
+beyond us, like a lighthouse run on passive
+nuclear reactors or advanced alloys we couldn’t
+have made period?
+Second, and its not an evidence argument,
+I don’t like 3B because it demeans, in my
+eyes, the accomplishments of humanity and
+of individuals who’s efforts were a testament
+to themselves and humanity, because they didn’t
+happen in a vacuum.
+That’s not a logic or evidence based argument,
+but I think it is one worth mentioning anyway.
+3c: Aliens are here, but are so unrecognizable
+we can’t see them for what they are
+This sub-category would generally include
+both aliens who are so non-obviously thinking
+entities that we overlook them, like a big
+sentient rock that just parked itself here
+millennia ago to watch us.
+Or an intelligent gaseous entity that floats
+around as a cloud and communicates over the
+course of days by raining or emitting lightning
+bolts in a pattern we just haven’t seen.
+It might even think it is talking to us and
+getting responses because it rains on drought-struck
+areas and we raise around altering that place
+to grow plants in certain patterns and it’s
+busy trying to figure out what those are supposed
+to say.
+When we’re talking about really alien life,
+physiologically or psychologically, it’s
+not that hard to imagine we just don’t even
+see each other as alive or it sees us but
+cannot figure out how to chat.
+The problem with this is that once you abandon
+biology or logical behavior as means of detection
+you haven’t got much of anything to work
+with and maybe never will.
+There’s no evidence for or against and you’re
+basically left just shrugging and saying ‘Could
+be, maybe”
+3d: We are aliens
+Its often been suggested that human intelligence
+is the result of alien tinkering with early
+primates or that maybe we’re a lost colony
+of aliens, and for that matter the idea – called
+Panspermia – that original simple life might
+have originated in space and rained down on
+planets billions of years ago remains popular
+even with many scientists.
+The problem with the lost colony notion is
+that we share a ridiculous amount of DNA with
+other animals and plants on Earth, so we’re
+obviously not direct descendants of there’s
+except in a near panspermia case, where they
+came to a desolate Earth a billion years ago
+and left behind some microbes which replaced
+life or started it and we descended from them.
+The intentional tinkering with smart monkeys
+option is essentially the ancient alien astronaut
+option, category 3B, over again.
+It’s possible but you have to wonder why,
+where’s the evidence, and where did they
+go.
+As to panspermia itself, even if true, of
+which there’s no real evidence, one would
+have to say ‘so what?’.
+If simple life hangs around space raining
+down on planets then life ought to be all
+over the place and constantly reseeding itself
+if a planet gets sterilized by supernova and
+gamma ray bursts.
+It doesn’t change the Fermi Paradox except
+to maybe make it worse.
+Like faster than light space ships, if true
+it only exacerbates the problem of where all
+the aliens are, not solve it.
+So that’s category 3.
+In category 1, alien civilizations are rare,
+we mostly encountered the recurring problem
+of there not being any good evidence to support
+any given Great Filter or series of Filters
+being so effective at preventing life from
+moving from basic self-replicating proteins
+up to interstellar technological civilizations.
+In category 2 we kept tripping over the Mediocrity
+Principle and Non-Exclusivity of behavior.
+Here in category 3 it was always a lack of
+evidence from the one place in the Universe
+we can actively gather evidence from.
+Each had its strengths and weaknesses, and
+you probably have a favorite or ones you think
+are especially absurd and unlikely.
+Before we finish this video though we’ll
+do some miscellaneous ones, some of which
+are pretty decent, and many of which are fairly
+absurd, at least in my view.
+And if you’re wondering what my view is,
+or my bias, I haven’t personally locked
+on to any of these as my official stance but
+I favor Category 1B, that technological civilizations
+are just absurdly uncommon.
+I don’t think technological civilization
+wipe themselves out much, because I consider
+that terribly pessimistic, I think to go from
+inanimate lifeless rocks to modern human civilization
+has a huge number of hurdles in the way and
+they really do add up to make technological
+civilizations so uncommon that even most galaxies
+have never had one yet, but I also figure
+there are probably a lot of worlds out there
+with life on them so I’m not a Rare Earth
+supporter.
+So let’s do Category 4:
+4A: Technological civilizations hit singularities:
+A technological singularity originally just
+meant an ever more rapidly increasing rate
+of technology till you hit a point where you
+had so much of it that your behavior was unpredictable.
+This has tended to get used just as frequently
+these days for describing some truly super-intelligent
+computer mind a trillion times smarter than
+us.
+By intelligence that’s basically godlike
+it is assumed its motives are unknowable.
+Problem here, and I discuss this in the Dyson
+Dilemma video in more detail, even if this
+does occur we can still guess a couple motives.
+It will want more energy and raw material
+to achieve faster processing and more memory
+storage and this should result in interstellar
+expansion too, even if it’s just remote
+resource mining being brought back to the
+original homeworld.
+The other problem is non-exclusivity again.
+We already have way more computer power than
+we need to do interstellar travel and while
+computer modeling plays a huge role in discovering
+new science and technology that would help
+us do that travel it probably isn’t absolutely
+necessary.
+So non-exclusivity wins the day, we already
+know many of us consider Artificial intelligence
+or human all cyborged up and transhuman-ified
+a bit unnerving.
+The Frankenstein complex its sometimes called.
+And those fears are not dismissed as superstition
+by experts but rather considered very legitimate
+concerns.
+Presumably some other species will be, by
+the mediocrity principle, more or less concerned
+then us and some might ban any computers that
+could run anything like a human level intelligence.
+So beyond the fact that synthetic minds are
+not eliminating an intelligent species but
+just replacing them, there’s no reason to
+think this always happens and in such a way
+as to make them non-talkative or non-expansionist.
+Again unless you subscribe to the notion of
+social progress to a single inevitable type
+of behavior.
+4B: The Zoo Hypothesis or Quarantine: These
+are basically the same thing except the motives
+are different.
+In the Zoo hypothesis Earth is, surprise,
+a giant zoo, they don’t talk to us so as
+not to interfere with our behavior and have
+wrapped some cloak of deception around the
+world so we don’t see them.
+In Quarantine they view us as dangerous.
+What’s wrong with these?
+Well they are a lot like category 1C in that
+they have us perceiving a false reality where
+a group or individual with vastly more resources
+and intelligence is feeding us a line of bullshit.
+We can’t prove it internally.
+The other problems are, for the Zoo Hypothesis,
+we actually do interact with animals at the
+zoo, that’s the whole point of zoos originally.
+Rare animals brought from faraway you can
+see up close.
+Note that this is not necessarily benevolent
+behavior.
+The other point is preservation of those rare
+animals and appreciating them, and we do interact
+with them and don’t consider it automatically
+harmful.
+Humans don’t need preserving, we’re not
+rare.
+For Quarantine, one might ask what thing,
+biological or psychological, they would be
+so afraid of us for that they would need to
+quarantine us, and why they couldn’t fix
+it, and why if they couldn’t fix it they
+would risk us continue to exist and develop
+more 
+and more technology.
+This comes back to the problem I sometimes
+call the ‘Dumb Alien Theory’, where it
+assumes behavior by aliens which on examination
+is either absolutely stupid or beyond evil.
+It is one thing to say ‘well they might
+be watching us till we reach a certain technology
+level, preventing us from outside harm by
+others’.
+Sort of like the Star Trek Prime Directive.
+Only problem is, if you’re on the receiving
+end of that Prime Directive, you have very
+good cause to be beyond angry at the people
+enforcing it.
+Once the shock wears off you’re going to
+think of all the members of your species who
+died from resource scarcity, disease, old
+age, and other things the aliens could have
+fixed by just saying ‘hi, here’s some
+clean energy and all sorts of engineering
+and biological knowledge.’
+And if they say ‘well, if you didn’t discover
+it on your own you would appreciate its dangers
+you could point out that you did not personally
+discover the atom bomb, nor in all likelihood
+did that particularly alien you’re talking
+to, and yet you are quite aware, as are they,
+that they are dangerous.
+Space elves, or space hippies, who don’t
+want to talk to use because we abuse our environment
+would likely end up at the end accused of
+the worst hypocrisy since they obviously have
+figured out how to do so themselves and could
+have spared us, and our planet, a lot misery
+and extinction but giving us a hand.
+4c: Interdiction
+This is like Zoo or Quarantine but a little
+more plausible.
+In Interdiction various alien empires exist
+and enforce a no-contact policy with primitive
+worlds because xenocide is frowned on and
+they do not trust each other not to try to
+either exploit primitive civilizations or
+try to turn them to their side.
+It’s fairly plausible to believe that emerging
+alien civilizations on bumping into each other
+setup treaties of how far each can expand
+that include leaving territory for other civilizations
+that will emerge and voluntary accept limits
+on their expansion in exchange for that same
+limit on everyone else.
+There’s a lot of parallels in human history
+for that sort of behavior.
+In such a case its plausible that emerging
+civilizations are interdicted from contact
+for those reasons but while this is a bit
+better than zoo or quarantine solutions it
+still suffers from all the other problems
+in sub-category 2D, the one where aliens are
+afraid to talk.
+4d: Self-imposed Quarantine: This is the notion
+that they don’t quarantine us, or even really
+hide from each other, but all agree to stay
+on their homeworlds or not expand much out,
+because they’ve come to realize they have
+massive destructive potential and almost any
+interaction with any alien could spark wars.
+This suffers from a lot of the same problems
+as our similar cases but its big flaw is in
+it’s strength.
+This theory assumes that aliens definitely
+do not socially progress towards an inevitable
+behavior system, that they do things that
+absolutely disgust each other enough to spark
+wars when in proximity, and yet by giving
+that nod to non-exclusivity it also requires
+they all still engage in an exclusive behavior…
+of staying the hell away from each other,
+rather than, say, some of them being enthusiastic
+about genocide.
+It also requires the notion of irreconcilable
+differences between aliens but ones not bad
+enough to initiate crusades to wipe an alien
+civilization out.
+Just as an example though, it is entirely
+possible you might encounter a peaceful and
+benevolent species which had a high breeding
+rate and routinely killed 90% of their young
+off, the equivalent of butchering everyone
+in fifth grade who didn’t make the honor
+roll, and them being just as disgusted by
+use because we actually allow kids who show
+any signs of self-destructive behavior or
+psychopathy to live even though we have doomsday
+weapons they could conceivably get their hands
+on.
+In such a situation, even though neither species
+wants war, they know that clashes or war might
+easily happen if they have to interact much
+rather than ignore each other from afar.
+4e: Intelligent Life got wiped out relatively
+recently, replacements have genuinely not
+had time to expand much.
+This is popular solution in fiction but its
+big flaw, besides no evidence, is that it
+really couldn’t be limited to just this
+galaxy.
+The Universe does not end at the edge of the
+Milky Way and even if some natural or artificial
+catastrophe had occurred to recently for other
+galaxies to see it and move in on the fresh
+territory, we ought to be able to see them
+too, especially if they are engaging in multi-system
+Dyson Swarm construction.
+One would also have to ask what natural phenomena
+just killed intelligent life or why someone
+would go around killing intelligent life and
+not bother leaving mechanisms in place to
+continue that process after the purge and
+why they even let it get to a technological
+level if they are continuing the purge.
+Why not, as we mentioned earlier, leave telescopes
+on every system staring at planets looking
+for any patterns emerging like roads or canals
+or pyramids etc.
+4f: Rim Migration
+It’s been suggested that if most civilizations
+eventually go totally digital, then in order
+to deal with all their waste heat they’d
+migrate away from the inner galaxy to the
+rim where it’s colder.
+This would usually imply they built a huge
+supercomputer around their sun and moved that
+whole star system out to the edge of the galaxy…
+this doesn’t even require much technology,
+all Dyson Spheres are capable of being modified
+into interstellar vehicles by definition,
+this is called a Shkadov thruster and we discussed
+this in the Dyson Dilemma video.
+You just let some light out one side and it
+pushes you in the other direction.
+Now this isn’t even vaguely covert, you
+don’t hide a Shkadov thruster form the inhabitants
+of the galaxy it is leaving because it’s
+about as realistic to hide that as to hide
+an ICBM launch from the farmer living next
+to the silo, and since it takes a very long
+time, hiding daily launches for millions of
+years.
+But to be fair, we could easily have missed
+that, with our current level of detection
+ability, but if this was a regular thing it
+is one of the types we’d be able to see
+in the not too distant future.
+This also has the expansion problem, unless
+they’re only doing it to their home system
+meaning they don’t colnize other stars then
+we ought to see millions of stars constantly
+heading out of the galaxy and we wouldn’t
+miss that here and we’d see it even in other
+galaxies which we actually considered a realistic
+possibility for Ring galaxies like Hoag’s
+Object for a while.
+4g: “They’ve ascended”
+A popular idea in science fiction, and not
+too dissimilar to technological singularity
+models, is the idea that intelligent life
+eventually goes post-physical becoming beings
+of pure energy or taking off for higher planes
+of existence.
+There’s really not much to say about this,
+it works just fine as a solution to the Fermi
+Paradox especially if you get there before
+you go interstellar, but there’s no scientific
+basis for it and to me at least it sounds
+like options from category 1C, or basically
+it’s a bit heavy on the mysticism for my
+tastes.
+I told myself I wouldn’t go through this
+video mocking any of the ideas so I’m not
+going to say that it’s basically new age
+crap for people who didn’t like any of the
+legion of perfectly serviceable religions
+already around and went in for one produced
+by a sci-fi author instead.
+Of course that’s absurd since no one would
+ever convert to a religion some author just
+cobbled together one day.
+4h: We haven’t picked a long distance carrier
+yet
+This one was funnier back when people had
+long distance carriers for their phones and
+we had long distance phone calls but it also
+goes by ‘we need to put a deposit down to
+get the signal unscrambled’.
+Really just a variant of 2A, they have mouths
+but we’ve got no ears, except that by embracing
+the idea that we’re not getting reception
+because we haven’t picked a carrier or paid
+to get the signal unscrambled it gets the
+stamp of ‘Dumb Aliens’ from me because
+if you’re selling a product you have to
+be an utter moron not to advertise it.
+Though it matches up decently with the Interdiction
+or Self-Imposed Quarantine solutions, it’s
+out there, you can get it, but they don’t
+advertise because they’re not allowed or
+think it’s bad manners.
+Still has all the other problems associated
+to Non-exclusivity or mediocrity principle
+though.
+4i: Made out of meat.
+If you’re a big Fermi Paradox follower you’re
+probably wondering when I was going to mention
+Terry Bisson’s short story “They’re
+made out of meat” since I’ve just mentioned
+a lot of the other popular ‘weird ones’,
+and the answer was nearly no, that was covered
+in category 3C, aliens are unrecognizable,
+and I always considered that a very stupid
+one anyway.
+The notion that aliens couldn’t recognize
+humans as intelligent because we’re made
+out of meat trips right on the starting line
+by assuming they obviously know what the hell
+meat is, a material used to allow animals
+to move that implicitly requires a functioning
+nervous system.
+If they didn’t know what meat was they wouldn’t
+call it meat, they’d call it bundles of
+proteins and be shocked things used it for
+locomotion.
+It’s also implied they’ve encountered
+plenty of other aliens before and you really
+would expect locomotion to be a common trait
+of intelligent life and doing it by causing
+contractions via electrical stimulus to be
+one of the more normal routes.
+I saved this one for last because while I
+get that any attempt to impress an audience
+with the sheer alien-ness of a given alien
+can fall flat on deep examination I really
+have no idea why this one seems to make so
+many Fermi Paradox solution lists.
+And yeah, we’re done, I’m sure I missed
+a few in their but if you’re newer to the
+Fermi Paradox that covers most of the bases.
+The companion video, the Dyson Dilemma, is
+also worth watching if you’ve made it this
+far with being bored to death.
+I hope you enjoyed this and thanks for watching!

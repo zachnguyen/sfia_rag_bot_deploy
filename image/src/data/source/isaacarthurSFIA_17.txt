@@ -1,0 +1,22 @@
+The Medusa Drive is a variation of Pulsed 
+Nuclear Drives that use small atomic fission  
+or fusion bombs to drive the ship. The Medusa 
+Drive replaces the traditional pusher plate  
+behind the ship we see on designs like the 
+Orion Drive with the equivalent of a large,  
+thin parachute in front of the ship. A 
+sail assembly connected to the ship by  
+a very long tether is shoved forward by 
+detonating nuclear bombs inside the sail,  
+this shoves the sail forward, which then drags 
+the ship along by the tethers, rather than shoving  
+the plate forward to push the ship from behind. 
+This permits you to use less radiation shielding,  
+and place it up front where it will protect 
+against the interstellar gas, dust, and radiation,  
+saving total mass for the ship. As the sail gets 
+damaged it can be winched back in for repair  
+or recycling. It could also be deployed behind 
+to help slow the ship later, or be used as the  
+sail of a pushing beam system. See the Advanced 
+Spaceship Drive Compendium for more discussion.

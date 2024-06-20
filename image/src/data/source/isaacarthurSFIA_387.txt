@@ -1,0 +1,551 @@
+This episode is sponsored by Raycon.
+The galaxy is a big place, a billion-billion
+kilometers across,
+so if anyone is out there trying to talk to
+us, a signal would be very faint.
+So how would they go about boosting the transmission?
+So today we return to the Alien Civilization
+series to look at the notion of talkative
+aliens, aliens who actually wish to speak
+with us, as well as the general notion of
+interstellar communication.
+We’ll be considering the available options
+under known physics but also discussing some
+of the more theoretical scenarios like faster
+than light communication.
+We’re also teaming up today with Alberto
+Caballero, host of the Exoplanets Channel
+and Parallax Nick, who will be looking at
+Optical and Laser SETI in parts 2 and 3.
+They'll explore how we might use lasers to
+talk to aliens and how we might detect them
+if they were trying to chat with us, as well
+as why this is probably the most promising
+way to search for aliens.
+If you’re not already subscribed to their
+shows, make sure to give them a like and a
+subscribe when you head over for parts 2 and
+3.
+Also since this is 3-parter we’ll be here
+for a bit so now is a great time for a drink
+and a snack.
+SETI is the acronym for the Search for ExtraTerrestrial
+Intelligence, a collective term for several
+loosely affiliated scientific efforts.
+There is a prominent group called the SETI
+Institute that is very well known for their
+SETI work, but there are also several other
+groups involved in the search under their
+own auspices.
+And strictly speaking, though the name implies
+SETI only includes searches for intelligent
+life, we do often use it to refer to hunting
+astronomically for any signs of any alien
+life, including for atmospheric traces of
+oxygen-breathing microbes on exoplanets.
+SETI would also include looking for both intentional
+signals sent to us and general background
+signals of them talking to each other, as
+well as other telltales like the infrared
+waste heat of Dyson swarms.
+It can also include Active SETI, or METI,
+Messaging Extraterrestrial Intelligences,
+which is where we send messages out hoping
+for a reply and that is our main focus for
+part 1.
+This could be by current technologies like
+radio waves or lasers, or with more futuristic
+options like flashing a star to emit a signal
+or using some unknown method of faster than
+light communication.
+It is important to think outside the box when
+searching for extraterrestrial intelligence
+because thus far after decades of searching
+the most obvious method of radio transmission
+we have still come up with nothing.
+At least that’s the method most obvious
+to us, but that raises a key question of how
+they would communicate.
+Now we tend to assume it would be by their
+own preferred mode of communication, and of
+course if we’re discussing talkative aliens
+in the sense of them just talking a lot, then
+that makes sense and we have to consider alternatives
+to classic omnidirectional signaling including
+those outside known physics, like FTL communication.
+However, if we’re saying ‘talkative’
+in the context of wanting to talk to us specifically
+or more broadly some relatively young species
+lacking an interstellar presence, then we
+probably shouldn’t assume they are employing
+their standard method of communication in
+favor of what they think we would receive.
+If you want to talk to an uncontacted tribe
+in the Amazon, you don’t use radios, let
+alone try messaging them on facebook or hunting
+for their phone number or email address.
+If we were to assume they were trying to reach
+us by radio, it implies one of three things.
+First, that might just be how they communicate
+still too, that it is the best method available
+to them.
+Electromagnetic waves are the fastest thing
+we have and science fiction aside there really
+is no reason to think anyone could ever do
+better, quite to the contrary, I personally
+don’t expect anyone will ever figure out
+a way to send messages or traffic inside our
+Universe faster than light and so light based
+transmission, be it radio or laser or some
+other type of beacon, might be the best they’ve
+got.
+The second option is that it is the best they
+have for talking to us.
+They might have some better methods for communicating
+among themselves that they doubt we could
+hear, like FTL messages in tachyons, but perhaps
+they don’t have FTL travel or the desire
+or capacity to send ships or probes.
+The third is that it is the best method they
+are willing to try or can be bothered to try,
+which is to say they could land here or throw
+a radio link through a wormhole into Earth
+orbit, but they don’t want to talk to people
+beneath a certain technological capacity,
+either feeling it unethical in some equivalent
+to the Star Trek Prime Directive or simply
+not valuing that contact.
+From one perspective an advanced civilization
+isn’t going to learn much by chatting with
+us and might not value our art or culture
+beyond a minor academic interest and is just
+content to get the details of our more primitive
+periods from our own historical records down
+the road.
+They only want to talk to us once we reach
+a certain point and there’s a communication
+method we don’t know yet which folks generally
+discover when they get to about that point.
+In Star Trek for instance they don’t talk
+to pre-warp civilizations, and it’s implied
+not really because they think discovering
+warp somehow makes folks magically ready for
+chat so much as it is unavoidable they’ll
+discover other civilizations at that point
+anyway and are as ready as they’re gonna
+get at that point.
+There might be some equivalent to a galactic
+internet running on FTL-ions and as soon as
+you discover those you discover Galacternet
+and they just wait till then.
+So it might be one of those three or some
+combination of the three, like it’s hard
+and expensive to talk to us by one method
+and they figure an extra century of waiting
+to talk set against all the signal lag time
+and endless millennia of evolution isn’t
+worth the cost and effort.
+They also might not exist or be trying to
+hide or just wait for signals then send in
+warships not the diplomats.
+We’ve examined those options before in this
+series though and for today we’re focused
+on folks who want to talk to us.
+Using those assumptions and three scenarios,
+we should ask why it is not radio, since clearly
+no one is pumping out very loud radio messages.
+This of course depends a lot on their technology
+and resources.
+I generally tend to assume no-FTL or Laws
+of thermodynamics and energy conservation
+violating technologies on this channel when
+discussing our potential future as an interplanetary
+or interstellar species and if you’ve got
+those it only makes things easier, and if
+you’re a show regular you know the sorts
+of titanic resources available to even a K2
+civilization – one with access to most or
+all of its Sun’s energy output, usually
+via a Dyson Swarm, let alone the capabilities
+of those who have gone interstellar.
+Science fiction tends to discuss K2 civilizations
+as vastly far ahead in time but realistically
+you probably hit K2 status before your interstellar
+colonies represent even a percent of your
+population.
+That’s because K2 is not a population size
+or technology level, it’s just access to
+most of your Sun’s power, and you can achieve
+that by basically wrapping it in thin sheets
+of reflective aluminum foil and that’s exactly
+the sort of repetitive simple grunt work even
+the simplest of clanking replicators can do.
+This is basically a robot, or short chain
+of robots, that can make copies of themselves
+and mine aluminum and smelt it into mirrors,
+and I’d be surprised if we didn’t have
+that capacity in this century, at which point
+you just designate it a handful of asteroids
+or drop it on Mercury and tell it to get busy
+making copies of itself and stacks of aluminum
+foil.
+Ignoring that you could put pretty minimal
+guidance on those mirrors to let them all
+rotate and flicker in a coordinated pattern,
+turning your entire star into a big flickering
+lighthouse any primitive species with eyeballs
+would notice, you could take a miniscule fraction
+of that power, dump it into big radio transmitters,
+and still emit some hundred trillion megawatt
+slow-pulse radio signal anyone in the galaxy
+could pick up and recognize as artificial
+even on very simple radios and through pretty
+much any sort of noise and distortion you’d
+generally expect even over that much space.
+No one appears to be doing that though, from
+which we can conclude one of few various things.
+The first of course is that they might not
+exist, either never existed or they died off
+before they can do this for some reason, like
+being eaten by their self-replicating machines
+and turned into solar mirrors or paperclips.
+Second they don’t want to do that big transmitter
+even though they could, third they could but
+they have a better option, or fourth that
+they are just really frugal with their energy
+and value it more than early contact.
+They figure they can just wait an extra century
+till our telescopes can easily pick up weaker
+signals, or spot laser transmissions to us
+at low total energy per broadcast.
+Now the first impulse is to say if they are
+chatty, especially given signal lag times,
+that they want to chat as soon as possible,
+but that doesn’t mean they’d opt to do
+mega-loud radio over lasers, after all if
+time is everything they can flicker that star
+visually or just send a probe and be heard
+by primitives.
+That kind of energy expenditure, hundreds
+of trillions of megawatts for presumably thousands
+of years, is way more energy than you need
+to send out whole armadas of relativistic
+spaceships via light or laser propulsion.
+Alternatively, if they’re frugal, well that’s
+when we get into the notion laser communications
+or Laser SETI, the notion that they just send
+a relatively tight beam – be it in the microwave
+radio band or the optical – instead of something
+omnidirectional and way weaker at the receiving
+end than the tight beam would be.
+Frugality might matter too, because everyone
+has a budget and while it’s likely a decent
+chunk of their population would be in favor
+of reaching out, odds are good most wouldn’t
+particularly care especially in the context
+of potentially transmitting indefinitely.
+For context, back when SETI was getting government
+funding it was to the tune of several million
+dollars a year, not chump change but that
+was around a ten-millionth of the global GDP
+and that got pruned for budgetary reasons
+fairly quickly.
+If a K2 civilization was doing something parallel
+in terms of its total energy budget, then
+we’d be talking about transmission power
+probably around 10^19 watts or 10 trillion
+megawatts.
+That’s still a signal you can pickup galaxy-wide
+as an omnidirectional broadcast without needing
+super-sensitive giant dishes but someone is
+going to look at that budgetary item, nearly
+a million times the power our whole civilization
+uses right now, and pointedly ask if they’d
+be better off just using a lot of telescopes
+and computers to determine where all the plausibly
+habitable planets are and where they would
+be when a signal might reach them and tell
+the folks doing SETI to just use a bunch of
+lower power directed signals at all those
+places.
+This to me is the nail in the coffin of the
+omnidirectional approach.
+It doesn’t matter that they have the power
+for massive omnidirectional perpetual signaling,
+they won’t bother doing it.
+Not to us and not to themselves either.
+It wastes power and generates noise.
+This of course raises the notion of using
+lasers instead of omnidirectional signalling,
+right Nick?
+Absolutely right, Isaac, and on our channels,
+Alberto and I will be discussing the rise
+of Laser SETI, both the search for laser signals
+from beyond, and employing them ourselves
+to broadcast to the universe.
+After decades of radio, we’ve at last come
+around to the idea of optical lasers as an
+effective mode of ET communication, because
+they are so economical; they provide the most
+bright for your buck, so to speak.
+A single nanosecond pulse can outshine a star
+by a thousand times, and require just 20 kW
+of power.
+Obviously we would be assuming that these
+entities would possess such technology, but,
+given that the margins of error involved in
+the ages of extraterrestrial civilizations
+can run to millions of years, it doesn’t
+seem much of a stretch to assume they have
+made the leap from radio to optical.
+And given that any transmission would take
+hundreds or thousands of years just to be
+heard, it’s fair to assume they’ve either
+crossed that particular civilizational line,
+or they’re dead.
+Indeed, thanks Nick.
+The thing is you probably only bother transmitting
+like this if intelligent life is pretty rare
+and you want to talk to it, if high-tech civilizations
+are a dime a dozen and millions develop independently
+in any given galaxy you are going to know
+about that long before you’re contemplating
+giant trillion megawatt radio transmitters
+because it’s equally easy to build giant
+radio receivers and pick up on all that chatter.
+If that’s the case you would have a focus
+on talking to those friendly and more advanced,
+or at least talkative and more advanced civilizations
+first and would tend to expect them to be
+investigating worlds nearer to them than to
+you and can just ask for updates.
+Alternatively if intelligent life is so rare
+in frequency or duration that you need to
+shout across half the galaxy to be heard by
+one, then you might determine this is because
+they don’t last long in many cases because
+they discover some very dangerous technology
+that’s very attractive and not obviously
+dangerous, what we call a Suicide-Pact Technology.
+They might feel some haste was justified in
+contacting us, to for instance send out a
+message that said “Whatever you do, do not
+experiment or use Technology X, it will get
+you killed.”
+And obviously it helps to send that out as
+soon as they can hear it, before they play
+with technology X and blow their planet up
+or get turned into paperclips.
+Of course talkative doesn’t necessarily
+mean friendly, they might just really want
+to sell you a subscription to Galactanet,
+or they might be very hostile, and the message
+says “Hey guys, here’s the blueprints
+for a lot of cool technologies, we especially
+recommend technology X”.
+Now what would such a signal actually look
+like, in terms of content?
+Math is assumed to be more or less universal
+so that’s your first step for gaining notice,
+you repeat some series of numbers that is
+recognizably a pattern and so improbable to
+occur naturally that the odds of it ever doing
+so even once in the entire duration of the
+Universe is unlikely.
+That’s not really tricky, you pulse out
+the first thousand primes numbers in binary,
+then the first thousand digits of pi in binary,
+then the first thousand perfect squares in
+binary and even the most extreme skeptic is
+going to say “Yeah, that is artificial”.
+That is likely to be a universally recognized
+message too, and it tells you four things
+for sure.
+First, someone is transmitting, second that
+they are trying to get your attention, third,
+roughly where you should be looking, and fourth
+that binary and math is going to be the basic
+language.
+Essentially it is a big “Look at me, look
+at me, I’m trying to say something”
+But it also tells you a fifth thing, that
+this signal is not the actual message, it's
+just telling you to look that way for it,
+because it contains nothing and very clearly
+so.
+You are obviously not trying to inform folks
+who invented radio or telescopes what basic
+math is, so either the message is contained
+in that transmission to be decoded or is just
+“Stare here, there is more info” and they
+can hunt for a second transmission containing
+less easily recognizable but more informative
+information, the equivalent of a Rosetta Stone
+or explanation for building a Galactanet receiver
+or so on.
+We discussed this in more detail in our episode
+Cryptic Aliens, but even with little to go
+on an intelligent and curious mind – prerequisites
+for technology – is going to be able to
+make educated guesses even with no shared
+culture or biology about fairly abstract concepts.
+As an example, if you emit a specific pulse
+or pattern once an Earth Day it’s not hard
+for an alien to guess that is our day length,
+and if you are doing precision beaming to
+planets you probably have the telescopes to
+see their planet and know their day length
+and include a similar pulse at their day length.
+You could then do a pulse that had the same
+number of peaks as your year in days and vice
+versa, theirs.
+That tells them your day and year length and
+it also tells them you’re trying to talk
+about time and it also tells them “We can
+see you, specifically you” which is a pretty
+good way to nudge them into replying if they’re
+on the fence about the dangers of doing so
+since you’re pointing a finger at their
+face.
+This yet another reason why Laser SETI is
+probably a better approach, and to explain
+why, here’s Alberto from the Exoplanets
+Channel:
+Thank you very much Isaac for having me on
+your episode.
+Indeed, Laser SETI lets you target your message.
+It’s also, as Isaac discussed in Cryptic
+Aliens, way easier to crack a language when
+you have the equivalent of an entire library
+of data and massive computers to sort through
+for patterns.
+One of our examples there was that if someone
+is looking through a decade of our early radio
+transmission they are going to notice that
+words, or signal waveforms anyway, of certain
+types tended to be of very high density at
+certain times.
+Like the words morning and evening, Tuesday
+and Thursday, January and August, etc. [edit
+this as needed]
+Thanks Alberto!
+We’ll see you over in Part 2, on the Exoplanets
+Channel.
+Now a computer can help you pick that sort
+of thing out and is another reason you might
+decide to use communication techniques that
+were a bit more advanced to detect than massively
+loud omnidirectional radio chatter, because
+you know they’ll have pretty decent computers
+to help with this style of decoding and translation
+by that point.
+Folks talk about not being able to decode
+even human languages but context matters,
+those ancient mysterious tongues suffer from
+us only having a handful of examples written
+over large chunks of space and time.
+Languages mutate a lot, especially without
+dictionaries, so some loosely knit kingdom
+that existed for a few centuries and for which
+you only have maybe a dozen examples of writing
+that they left behind and maybe a paragraph
+in length from a dozen different authors all
+from different towns and different generations
+does not lend itself to this sort of brute
+force cracking ability.
+Alternatively if you’ve got the big “Look
+at me” transmission and a second that is
+just a repeating sequence of core concepts
+like time or physical constants or chemical
+formulas for simple and common stuff and then
+a third with several terrabytes of information
+repeating less frequently, you’ve got a
+good chance that if they’ve got the ability
+to receive that and the computational capacity
+to hack the data that they will figure out
+your language.
+And this is a great task for using lasers.
+And now you can talk.
+As to what you say, well hopefully it is “Hello,
+we look forwarding to a friendly and mutually
+beneficial relationship, here’s some handy
+diagrams for useful technologies as a show
+of friendship and good faith”… and hopefully
+it doesn’t include a diagram for one of
+those suicide-pact technologies we mentioned.
+A laser signal is probably a lot cheaper than
+sending an armada, plus, all your neighbors
+know what you’re saying if you’re sending
+a big omnidirectional signal.
+If it’s a tight comm beam, they don’t
+know what you sent and would have to be watching
+carefully to see any scatter indicating you
+sent anything, so you can’t be accused in
+front of the galactic tribunal of wiping out
+new civilizations.
+Again, Talkative doesn’t necessarily mean
+friendly.
+So we were talking about listening for signals
+today and the difficulty of picking out signals
+from the noise, and if you’ve used many
+bluetooth headsets or earbuds, you know how
+often it can be hard to hear them in a crowd.
+If you’re looking for a good pair of earbuds
+with noise isolating features, I’d recommend
+trying out Raycon’s Everyday E25 Earbuds.
+They fit in snugly and discreetly for a noise-isolating
+fit so you can hear them even in a crowd.
+Plus they’ve got a good battery life and
+a very compact charging case with its own
+battery that can recharge them four times
+while you’re on the go.
+So if you’re looking for a good pair of
+premium earbuds, and at about half the price
+of other premium earbuds, try out Raycon.
+Raycon was found by Ray J. and is a favorite
+of folks like Snoop Dogg and Melissa Etherridge
+for their wide range of stylish and fun colors
+and super-comfortable fits, and if you’d
+like to give them a try, you can get 15% off
+today, just use the link in the episode’s
+description, buyraycon.com/isaacarthur
+So we were looking at aliens trying to talk
+to us today and we’ll be exploring that
+more in parts 2 and 3 with Alberto and Nick,
+linked in the episode description and the
+in-video cards.
+And we saw today that advanced civilizations
+have means of transmitting galaxy-wide if
+they want to, but so far we’re not seeing
+them.
+In parts 2 and 3 will examine Laser SETI and
+ask if maybe we’re just not looking harder
+enough in the right place, but one alternative
+is that no one is transmitting inside the
+galaxy and one possible reason for that is
+that maybe there was some massive galactic
+disaster that either wiped out civilizations
+or prevented anyone arising before us.
+And we’ll be exploring that notion more
+this Thursday in “The Fermi Paradox: Galactic
+Disasters”
+Of course another option is that their civilization
+got to our point and just collapsed, and a
+lot of reasons get suggested for that but
+one is that their governments just are not
+able to handle expansion into space and the
+wider galaxy, and we’ll explore some future
+types of government on Thursday, August 27.
+Then two weeks from now we’ll close out
+August with our monthly livestream Q&A, on
+Sunday August 30th, 4pm Eastern US Time.
+I hope to see you there and don’t forget
+to bring your questions.
+For alerts when those and other episodes come
+out, don’t forget to subscribe to the channel,
+and don’t forget to hop over to Alberto
+and Nick’s Channels for Parts 2 and 3 and
+hit the like and subscribe buttons there while
+you’re at it.
+Until next time, thanks for watching,
+and have a great week!

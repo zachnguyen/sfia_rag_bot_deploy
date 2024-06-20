@@ -1,0 +1,367 @@
+Last time in the Megastructures Series we
+looked at building artificial worlds whose
+gravity was supplied by rotating them.
+Today we’re going to look at building ones
+which have their gravity supplied normally,
+by sheer mass.
+Now building a planet is obviously a pretty
+serious endeavor and uses up a lot of material,
+but in of itself it’s not high tech.
+Like a lot of these it’s really more of
+resource intensive affair.
+Here on Earth, for every square foot of land
+there’s about a megaton of rock and magma
+underneath you, for a rotating habitat, even
+a pretty elaborate and bulky one, a couple
+tons a square foot works.
+So artificial planets of this variety are
+usually considered impractical, but they are
+a lot more appealing to a lot of people so
+today we’re going to talk about a variation
+of this concept that is a bit more practical,
+Shellworlds.
+The concept behind a Shellworld is that you
+don’t need to make the whole thing out of
+rock and metal, which are rare compared to
+other things like hydrogen and helium.
+Done as a thin skin of rock and water and
+air around some filler material, a Shellworld
+wouldn’t use anymore material than a rotating
+habitat except for the filler, which could
+be hydrogen or helium in a low tech version,
+or could be stuff like artificial black holes
+or dark matter, which we’ll get to in a
+bit.
+The other advantage of ShellWorlds is they
+let you build your artificial planets at different
+sizes and still have Earth-normal gravity.
+You can tailor the gravity to be higher or
+lower than Earth’s own but the real appeal
+of the ShellWorld is that you can replicate
+Earth for all practical purposes.
+So let’s start with a quick look at gravity.
+When you’re outside a spherical object the
+gravity on you is linear to its total mass
+and inverse-square to its radius.
+Which is to say if you double the mass, you
+double that force, triple the mass, triple
+the force.
+Alternatively double your distance and the
+force falls to a quarter, triple it and it
+drops to a ninth, get ten times further away
+and it’s just 1%.
+But if you just scale up something like Earth,
+doubling its radius, you won’t have the
+same gravity at the surface.
+Volume rises with the cube, so it’s got
+2-cubed or eight times the mass and so eight
+times the gravitational force, but the distance
+has also risen by double, so the force drops
+to a quarter.
+Eight divided by four is two, so this scaled
+up Earth has twice the surface gravity.
+We don’t want that, so the fix would be
+to use a filler that was half as dense, so
+it had half the mass.
+Similarly if you wanted a planet half the
+size of Earth but with the same gravity you’d
+need a filler that was half as dense.
+That’s why gas like hydrogen and helium
+comes in so handy, you can change its pressure
+and density.
+Do it right and you can even have a hot and
+pressurized gas counteracting the weight of
+the shell so it needn’t be super strong.
+I sometimes think of this subset of a shellworld
+as a balloon world.
+The inside of a balloon is at a higher pressure
+than the air outside it to counteract the
+tension in the balloon and this is the same
+concept.
+In fact done right you could even get away
+with a magma layer and tectonic plates.
+But the key thing is that your filler’s
+density, to get the same gravity as Earth,
+is inverse to its size compared to Earth.
+Whatever the diameter or radius is in comparison
+to Earth, the density of your filler material
+is inverse to that.
+Triple your diameter and you need a third
+the density for your filler.
+Build a planet a tenth the diameter of Earth
+and you need a filler ten times denser.
+The other aspect is that regardless of how
+big or small you build one of these things
+you use the same amount of mass per square
+foot, one megaton.
+Whether your shellworld is a few dozen miles
+across or as big as Saturn, your living area
+costs you one million tons of matter per square
+foot.
+Saturn’s a great example of this because
+it is about a hundred time’s Earth’s mass,
+and ten times the diameter, if you built a
+shell around Saturn the gravity would be Earth
+normal and you’d have a planet with a hundred
+times the living area of Earth.
+All that actually matters is that average
+density, the matter can be all crunched up
+in one spot, like if you dumped an artificial
+black hole somewhere and built a shell around
+it.
+If you are building a shell that isn’t being
+supported by internal pressure it has to be
+very strong though.
+If you’ve got some very rigid and strong
+material you’re fine, but in many of these
+cases the strength needed way exceeds what
+any known material can handle.
+This where the orbital rings we discussed
+way back in the first megastructures video
+come into play.
+By using a stream of particle orbiting a planet
+normally, just like a planet ring, you can
+magnetically levitate material over that.
+You can go back and review that video if you
+want the details on how that works.
+So you build a ring, it appears as a solid
+object that is not moving though in reality
+it’s got its own filler of material orbiting
+the planet akin to a hose turned into a donut
+full of moving water.
+The more mass you pile onto that ring the
+faster the material inside needs to go.
+Now you build another ring at a different
+angle running a hair lower or higher.
+These don’t actually have to be perfect
+circles either, than can be ellipses, but
+circles would be preferable by and large and
+we’re building a sphere anyway.
+You build another ring at a different angle,
+and another, and another until you’ve got
+a grid mesh big enough to comfortably handle
+your shell and dump dirt and water and air
+on it.
+Now you would probably never build a shellworld
+like this unless you had figured out controlled
+fusion, both because you need access to that
+kind of energy source to build such a thing
+and keep it’s rings stable, but also because
+that’s what first justifies such a mass-expensive
+process in comparison to Rotating Habitats.
+If you’ve got controlled fusion, or artificial
+black holes, then hydrogen and helium become
+very important to you and you’d like to
+be able to keep your stockpiles in nice accessible
+chunks.
+I’ve mentioned earlier that you need a megaton
+of matter per square foot of living area on
+these things regardless of size, and to put
+that in terms of energy if you started off
+with a filler made entirely of hydrogen and
+converted it to helium you’d get about 6.3x10^23
+Joules of energy per megaton.
+Now the average solar illumination on Earth
+is about 30 Watts per square foot, or about
+a billion joules per year.
+So that means your filler mass would provide
+fusion fuel to run your world for about 600
+trillion years, more than a hundred thousand
+times longer than our sun has left to its
+life.
+You basically are using your filler mass as
+your power supply, either by using very tall
+lighthouses or a fake sun actually orbiting
+your planet.
+When that’s over you’ve lost about 0.7
+percent of your mass so your surface gravity
+would only be 99.3% of what it was six hundred
+trillion years ago.
+That’s a very long time to adapt to a miniscule
+gravity difference but if you really want
+it to stay the same you can slowly shrink
+your world just a little to keep it the same.
+Now if you can tap into black holes or raw
+matter to energy conversion you can extend
+that lifespan a hundred fold and keep shrinking
+your world to keep the gravity the same.
+Which would also reduce the power it needs,
+extending that life time even further.
+So Shellworlds, while way more mass-intensive
+than rotating habitats, actually aren’t
+over sufficiently long times since if you’re
+building for the very long term your mass
+requirement is mostly for energy supplies.
+I mentioned in the discussion of rotating
+habitats that you’d keep your fusion fuel
+in non-rotating tanks around the habitat that
+also provided shielding from radiation and
+meteor impacts, but if you are building for
+a trillion year civilization then you might
+as well keep your fuel inside where it can
+provide gravity.
+You might also use shellworlds on pre-existing
+worlds like Earth or Mars, since it let’s
+you slowly extract the rocky material inside
+and replace it with pressurized tanks of gas
+or buried orbital rings to be switched on.
+A lot of times when we talk about doing Dyson
+Spheres or Dyson Swarms I get asked if I think
+we’d eventually disassemble Earth to provide
+more material and I would actually bet the
+answer is no, that we’d hollow it out instead.
+But this brings up the Matryoshka variant
+of a shellworld.
+In this every shellworld has many layers instead.
+I would actually bet that Earth itself is
+destined for some version of this, because
+we are likely to be pretty attached to our
+homeworld.
+You just construct another shell around the
+first, then another, then another, and you
+could also go down too.
+Keeping gravity at the same everywhere isn’t
+all that hard either.
+The interesting thing about a spherical shell
+of matter is that if you’re inside it you
+don’t feel any gravity at all.
+It all cancels out.
+So every layer above you, that you build,
+has no effect on the gravity of shells below
+you.
+Alternatively the mass of that shell does
+effect people living on it or above it on
+higher layers.
+So you just need to make sure each layer has
+the right total mass based on its distance.
+As an example, ignoring air for the moment,
+if I built a shell forty miles over Earth,
+which is about 1% of its radius, we’d expect
+gravity to drop by about 2% meaning we need
+to add about 2% of the Earth’s mass to that
+shell to keep the gravity right.
+Another layer, 80 miles up, would need about
+4% of Earth’s mass to work, but you can
+count that lower layer against that total.
+A Matryoshka Shell can get very large indeed,
+just so long as your average density is decreasing
+to match that.
+Since air is about five thousand times less
+dense than the Earth, and about a thousand
+times less dense then water, you can build
+some pretty monstrously big worlds before
+this becomes an issue.
+Now you can’t just build a big globe of
+air without it compressing to higher densities,
+but if you’ve got layers of shells you can
+prevent that, and you can even have lower
+densities near to vacuum if those layers are
+far enough apart, same as our natural atmosphere
+decreases in density as you get up higher.
+Your individual layers can be a few hundred
+feet high or a few hundred miles high, dependent
+on what you’re aiming for.
+Of course if you have a layered shell world
+like this you need to provide artificial lighting
+and you’d have to worry about getting rid
+of heat.
+Neither plants nor human eyes need the level
+of lighting provided by noon-time clear sky
+sunlight so you can dim that down a lot.
+You can also pump heat outwards.
+A lot these designs use a variation of the
+Space Fountain we discussed back in the third
+video to hold up the sky in addition to orbital
+rings, and you can channel heat up that way
+too.
+Your actual top layer could be just a normal
+landscape but you might want to abandon that
+layer to a highly reflective heat pump with
+a bumpy surface to maximize how much heat
+you’re radiating away.
+In some versions of these with black holes
+in the middle you might go the other way and
+pump your heat into the black hole but that
+would depend a lot on how the thermodynamics
+of black holes actually works and we don’t
+know for sure if you can just dump heat into
+a black hole like that.
+If it is doable then there’s no real limit
+on your layers.
+If you need to vent heat via infrared radiation
+then you can only do so many layers and you’d
+probably be capped out at under a hundred.
+Sometimes we kick around the notion of the
+largest possible artificial world you can
+build, and this is an example since you could
+do this around, for instance, a white dwarf
+or neutron star and use them for power.
+Or even around a galactic core black hole,
+since those are about a trillion times more
+massive than Earth you’d get a trillion
+times more area on your shell, whereas even
+a dyson sphere only provides about a billion
+times the living area, and each layer would
+double that.
+Such a structure would be wider than the orbit
+of Pluto but it does have the mass energy
+of a million suns to run it so it could also
+stay powered for time increments way long
+than stars normally live.
+I’ve always liked this concept because the
+notion of some massive world with many trillions
+of times the living area of Earth located
+at the center of a galaxy just seems like
+the ultimate galactic empire capital.
+Now a common theme to these is always their
+longevity, even their natural gravity helps
+to prevent leakage of gases from slowly losing
+material.
+That’s why I mention white dwarf stars and
+neutron stars and black holes in context to
+these a lot.
+You really don’t gain much by building these
+unless you’re aiming for very long lasting
+civilizations, ones that outlast normal stars.
+Of course, if we ever find a way to manipulate
+dark matter, which is the supermajority of
+matter in the universe and far larger in quantity
+then rocky matter, it would also make a superb
+filler material.
+We don’t know much about dark matter yet
+besides that it generates gravity so if you
+could gather and contain it then it might
+have all sorts of useful purposes but the
+one we do know of for sure would be using
+it for filler material to generate gravity.
+It’s entirely possible that might be its
+only use, though sweeping it up and keeping
+it inside a shell is something we can’t
+do at the moment and may be outright impossible.
+Shell worlds are fun for fiction, though rather
+underused even there, and this particular
+video series is as much about fiction concepts
+as pure science so they are worth looking
+at.
+Usually they get dismissed as something you’d
+never actually build just because they use
+so much mass compared to something like a
+rotating habitat, but if you are building
+for the super long term or if you want a place
+like Earth to remain essentially intact but
+be bigger, they do start becoming realistically
+practical.
+They aren’t limited to examples of things
+you’d only ever build just because you can.
+Next time we’re going to take a look at
+something that you really only would ever
+build just because you can, by taking a look
+at flat earth Discworlds, and we’ll try
+to show that they aren’t actually all that
+impractical after all.
+If you want a reminder of when that and other
+videos come out, click the subscribe button.
+And don’t forget to like and share the video
+if you enjoyed it.
+Thanks for watching and we’ll see you next
+time.

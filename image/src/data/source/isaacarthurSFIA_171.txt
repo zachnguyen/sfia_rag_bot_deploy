@@ -1,0 +1,779 @@
+We often discuss our future in the Asteroid Belt,  
+and the glorious civilizations we 
+might one day build there. However,  
+it is but a pale shadow of its larger twin, the 
+Kuiper Belt, out at the edge of the solar system.
+When I was a kid, we were first beginning to 
+seriously discuss the possibility that the  
+Asteroid Belt might be as important to settling 
+space as the Moon, Mars, or Venus, and indeed,  
+I think it’s more critical to settling the solar 
+system than Mars or Venus are, and second only to  
+the Moon. However, if the Asteroid Belt is the 
+gateway to colonizing our solar system, it is  
+the Kuiper Belt, out past Neptune, that represents 
+the gateway to the galaxy, and today we’ll discuss  
+why that is and what that future looks like.
+In order to do that, we first need to say what  
+the Kuiper Belt is. The Kuiper Belt is a region 
+out past the orbit of Neptune of many unattached  
+minor planets and icy objects orbiting our Sun. 
+We typically define it as a donut or torus-shaped  
+region stretching from 30-50 astronomical units, 
+also known as AU, where 1 AU is the distance of  
+Earth from the Sun. As such, it contains a larger 
+volume in it than the entire inner solar system. 
+The name is in honor of Gerard Kuiper, 
+the astronomer who discovered two of the  
+bigger moons of Neptune and Uranus, and also 
+helped identify landing sites on our own Moon  
+for the Apollo Missions. He was also the Ph.D. 
+Dissertation director for Carl Sagan and the two  
+of them worked on Project A119, the US Air Force’s 
+1958 plan to detonate a nuclear bomb on the Moon. 
+Those are the highlights of a rather impressive 
+career in astronomy and planetary science up until  
+his death in 1973, but one that had nothing 
+to do with the Kuiper Belt, except that many  
+of the moons of Neptune might have been stolen 
+from the inner edge of that belt. Indeed, at the  
+time of his death there was only one known Kuiper 
+Belt Object – Pluto itself – the second wouldn’t  
+be discovered until 1978, Pluto’s largest moon, 
+Charon, then the next to be discovered was Albion,  
+a minor planet over 100 kilometers across, in 
+1992. We estimate there are at least 100,000  
+objects in the Albion size range out in the Kuiper 
+Belt, objects over 100 kilometers in diameter,  
+or 60 miles, whereas there are only about 
+200 asteroids in the Asteroid Belt that size,  
+which would mean there were roughly 500 times 
+as many of those large objects, if not more. 
+It is the loose rule of thumb that 
+the number of objects of a given  
+size follows a power law, that there are 
+a lot more smaller objects than big ones,  
+though we do seem to see bumps at 100 kilometers 
+and 5 kilometers in diameter. As an example,  
+while there are about 250 known Asteroid 
+Belt objects 100 kilometers across or bigger,  
+there are tens of thousands 
+that are 5 kilometers or wider. 
+If that distribution held in the Kuiper Belt 
+too, though it probably does not or does so  
+more weakly, we would expect tens of millions 
+of objects 5 kilometers or wider out there,  
+big mountain-sized balls of ice and rock. As a 
+caveat, we tend to believe that asteroids in the  
+Asteroid belt that are wider than 120 kilometers 
+are mostly the battered but intact remnants of an  
+original asteroid from the early solar system 
+and that most of those which are smaller are  
+scattered debris of those larger ones. Insofar as 
+the Kuiper Belt is much larger and slower moving,  
+it would stand to reason that collisions and 
+fragmentation were less common. Nonetheless we  
+estimate the Kuiper Belt to be anywhere between 
+20 to 200 times as massive as the Asteroid Belt. 
+Pluto is not the only large object out there, 
+it was the discovery of many others that led  
+to needing to ‘demote it’ from major planet 
+status. The Dwarf Planets of Orcus, Haumea,  
+Quaoar, and Makemake fall inside the Kuiper Belt, 
+and except for Orcus, which is a bit smaller,  
+each of those is larger than Ceres, the Queen of 
+the Asteroid Belt, often argued to be planet 5,  
+which makes up roughly a third of the asteroid 
+belt’s mass, with another third made of around  
+a dozen other large asteroids and the remaining 
+third making up the millions of other bodies  
+that are at least as wide as a football field.
+We have way more categories for planets these  
+days than major and minor, with dwarf being the 
+first of several added categories as we learned  
+more about exoplanets, but Pluto wasn’t the first 
+planet demoted. Before we even discovered Neptune,  
+let alone the Kuiper Belt beyond it, we had 
+discovered Ceres and a handful of those other  
+larger asteroids in the Asteroid Belt, and 
+we didn’t even know there was a belt there.  
+They got demoted to ‘minor planets’ after we 
+started finding dozens of them, and that soon  
+moved into thousands, and eventually resulting 
+in us recognising that the Asteroid belt was  
+divided into at least 3 distinct regions, and that 
+there were tons of other asteroids elsewhere too,  
+including 60 degrees ahead and behind of Jupiter, 
+where there are two massive collections of  
+asteroids named for the Trojan and Greek heroes 
+of the Homer’s Iliad, and it later turned out that  
+such collections on a smaller scale were normal 
+for planets, and are generally called Trojans,  
+at what we call the L4 and L5 Lagrange points, 
+much as more modest rings are present for planets  
+besides Saturn, whose immense rings include 
+many football field-sized objects and larger. 
+So, while focus on colonization of the solar 
+system tended to focus on the terrestrial  
+Major Planets, Mercury, Venus, Earth, and 
+Mars plus Earth’s own large moon, we began  
+seeing the Moons of the Gas Giant Planets, 
+Jupiter and Saturn, and the two Ice Giants,  
+Uranus and Neptune, as viable options too, if 
+not classically terraformable due to low mass  
+and distance from the Sun. But all those 
+asteroids and other minor planets began  
+looking like very good candidates too, in their 
+countless thousands, and realizing the Kuiper  
+Belt far outnumbered all those minor planets 
+in the inner system changed the dynamics a lot. 
+Now the problems with the Asteroid Belt are 
+three-fold. First, even the nearest of them is out  
+past Mars and gets weak sunlight, generally about 
+one fifth to one tenth the sunlight Earth gets,  
+with Jupiter’s Trojans being more like a 30th, and 
+between the Asteroid Belt and Jupiter’s Trojans,  
+that is the overwhelming majority of minor planets 
+in the inner system. As we discussed in the  
+episode Colonizing Ceres, that actually is 
+enough sunlight for agricultural purposes,  
+there are no clouds and no night time attenuating 
+sunlight in space, and many plants do not need  
+noon-time sunlight to prosper, nor is it 
+hard to provide very good insulation to  
+agricultural or habitation environments on 
+these asteroids, as your best insulator is  
+vacuum and it’s already all around you, and 
+airtight facilities are a necessity anyway. 
+You can also set up a glass dome on the surface 
+of a small asteroid to basically be a lens,  
+or several of them, concentrating light on a 
+smaller spot, or even construct a parabolic  
+dish as thin as tinfoil behind an asteroid 
+or tugged along by it on a tether, to focus a  
+larger amount of light on that asteroid. Indeed, 
+we even have a scaled-up version of this called  
+a Parabolic Hab, that I will detail in a bit, that 
+permits sunlight-enhancement to livable levels all  
+the way out in the Kuiper Belt, where sunlight is 
+a thousandth of what we’re used to here on Earth.  
+But sunlight is a weak fuel for most asteroids, 
+very few are closer to the Sun than Earth,  
+and of the 30,000 known Near Earth Asteroids, only 
+a minority spend much time closer to the Sun than  
+Earth and usually only briefly, being on highly 
+elliptical orbits. These gems are likely to be  
+among the most valuable real estate and mining 
+sites in the solar system in times to come. 
+The second issue with colonizing asteroids and 
+dwarf planets is Gravity, and that applies to all  
+of them, regardless of location. Out of the many 
+millions of these objects, only maybe a hundred  
+even have high enough gravity to even qualify as 
+significant. The most massive dwarf planet, Eris,  
+which lies out in the Scattered Disc rather than 
+the Kuiper Belt, still has less than a tenth of  
+Earth’s gravity and is weaker than our own Moon’s, 
+whereas Nemesis, the 33rd Largest known asteroid  
+in the Asteroid Belt, at about 100 miles across, 
+would have a gravity less than 1% of Earth’s, and  
+an escape velocity also less than 1% of Earth’s, 
+about three times faster than a car on a freeway,  
+and it only gets lower thereafter, with 
+most asteroids not even having enough  
+gravity to hold you onto them if you jumped.
+Now, this isn’t really a problem and indeed  
+is also a plus for colonizing them. We can create 
+a comfortable simulacrum of gravity by rotation,  
+what we call spin gravity, and while that 
+can be problematic on bigger objects where  
+natural gravity would be pulling you in one 
+direction while you spun perpendicular to it,  
+causing a slight tilt to one side, or parallel, 
+causing you to feel slightly heavier or lighter  
+as it completed each rotation, this can basically 
+be disregarded even on a place like Nemesis, again  
+the 33rd biggest known asteroid in the main belt.
+And while the Kuiper Belt is expected to hold many  
+bodies bigger than that, they will generally be 
+lower density ices rather than principally rock,  
+and thus have lower gravity. So we can embed 
+a rotating habitation drum, set to the gravity  
+of our choosing, inside any of these objects, 
+providing comfortable gravity for those living  
+there, where it can receive both the protection 
+of that rock or ice outside, and easy access to  
+those resources for mining and refining.
+As there is little gravity, mining those  
+resources and shipping them elsewhere is easy, 
+and a spaceship designed for moving between  
+asteroids and off them needs little more than to 
+be airtight, and could even run on a compressed  
+gas rocket or by mechanically shoving off objects, 
+opening the door to personal spacecraft that are  
+lower-tech than the typical modern car. With no 
+air drag for leaving, it takes less fuel to get  
+off your typical asteroid than it would take to 
+drive a car to the store. And for the most part,  
+since the Sun and inner planets are all downhill 
+in gravitational terms, you can throw mined matter  
+back into the solar system at low cost.
+The third issue with Colonizing asteroids  
+though is that matter and resources you want to 
+mine, because the entire Asteroid belt combined,  
+even including the Dwarf planet Ceres, masses only 
+about 3-4% of what our Moon does, 60% of which is  
+in the 4 biggest asteroids, and Earth outmasses 
+our moon by a factor of 80, so Earth itself has  
+thousands of times the raw materials the entire 
+asteroid belt has, and while the Kuiper Belt  
+might outmass the asteroid belt by as much as 
+factor of 200, that would still only be a tenth  
+of what Earth has. Of course, if you ignore the 
+Sun and the Giant Planets, Earth masses nearly  
+as much as the entire remaining solar system 
+combined, most of the remainder being in Venus. 
+Now, if your goal is to disassemble every single 
+planet for raw materials to build space habitats  
+and an eventual Dyson Swarm, this matters, but 
+in the meantime they represent the lowest hanging  
+fruit for mining and supplying colonization. 
+Scale is always deceptive in astronomical terms,  
+as we can say some giant asteroid like Nemesis 
+is still only a millionth of Earth’s mass,  
+which can sound pitifully tiny, but in terms of 
+mining or human scale, that is over a billion  
+Great Pyramids worth of mass, and a million times 
+more steel than we currently produce each year. 
+Iron and carbon are quite plentiful in the main 
+asteroid belt, we assume less so in the Kuiper  
+Belt and Scattered Disc, as a percentage of mass, 
+but they would still have plenty for building  
+spaceships and space stations and power collectors 
+and dishes and habitats out of. They also are very  
+rich in water ice and ammonia and methane, those 
+volatiles that are very important for life and  
+filling the biospheres of those space habitats, 
+or bio-cylinders or bio-rings, as the case may be. 
+Either belt, main asteroid or Kuiper Belt, or 
+for that matter, the Jovian Trojans or the Near  
+Earth objects or Scattered Disc, are all 
+pitifully tiny compared to the raw mass of  
+the eight major planets, but it is vastly 
+more accessible – especially for building  
+in space – and each of those contains far more 
+resources than mankind has ever mined or refined. 
+Or even tilled, as if you crumbled up an asteroid 
+like Nemesis and spread it over our whole planet,  
+seas and all, it would represent about a meter 
+deep of Earth. Which also means you can take an  
+asteroid about that size or a Kuiper Belt 
+object about that size and produce enough  
+cylinder habitats to have a combined total 
+internal living area roughly matching the  
+entire Earth, and there’s a thousand times 
+that mass and more in the Main Belt alone,  
+and again we think the Kuiper Belt has 20-200 
+times as much. So thousands of Earths worth of  
+living area made from Asteroid Belt objects and 
+potentially many times that with the Kuiper Belt,  
+all before we even have to consider disassembling 
+bigger moons or any of the Major Planets. 
+It is hard to say whether it would be easier 
+to ship a big comet in from the Kuiper Belt to  
+put air and water in a space habitat built in 
+orbit around Earth, or to ship it in from one  
+of the Moons of the various giant planets, the 
+big limitation is about your access to energy  
+and how much of a rush you are in, and everything 
+gets easier if you’ve got artificial fusion power  
+or something even better, to the point that 
+you might not care much about the energy cost  
+to move a million tons of water or ammonia 
+or methane around because the amount is so  
+trivial compared to what you would get by fusing 
+the hydrogen or deuterium inside that megaton. 
+And usually discussing colonizing the outer solar 
+system is in the context of a fusion economy.  
+But let’s say for the moment that we never make 
+that work economically. Can we still colonize the  
+outer reaches of the solar system, those outer 
+planets and the Kuiper Belt and Scattered Disc? 
+And, incidentally, what is the Scattered disc 
+and how is it different from the Kuiper Belt? 
+For colonization purposes today they are 
+basically the same and the boundary can  
+be a bit hazy in astronomical terms too. As 
+mentioned at the beginning, the Kuiper Belt  
+is a donut or torus-shaped region in the same 
+general plane around the Sun as Earth and most  
+of the planets are, and the Asteroid Belt too. 
+Think of the scattered disc as an expanding wide  
+disc from the edge of the Kuiper Belt to the more 
+spherical shell of the Oort Cloud. Essentially,  
+space is rather evenly distributed in the 
+interstellar void, but the area more dominated  
+by the sun’s gravity and the solar system's 
+initial angular momentum as it formed tends  
+to flatten toward a disc, the ecliptic plane, 
+which the planets generally are aligned to,  
+and the further you get from the sun, the 
+more things scatter away from being that  
+disc-shaped scattering of objects, to being more 
+of the spherical distribution of the Oort Cloud. 
+There’s no real official limit on the 
+Scattered disc and where it ends, more  
+than 100 AU certainly, and to encompass all the 
+outer planets beyond Pluto like Eris or FarOut,  
+or the current title holder for most distant 
+known object inside the solar system, FarFarOut,  
+which might be a dwarf planet about 500 
+kilometers in diameter, over 130 AU out,  
+and orbiting the Sun every 700 years or so. It’s 
+hard for us to see it precisely, but we think it  
+might have a very eccentric orbit and actually 
+cross inside the Kuiper Belt or even Neptune’s  
+orbit, as Pluto does. Interesting factoid but 
+Pluto was the eighth planet rather than the  
+ninth from 1979 to 1999, returning to beyond 
+Neptune’s orbit shortly before its demotion. 
+Such being the case in the grand scheme of 
+solar colonization, where Kuiper and Scattered  
+Disc objects orbit once every century 
+or longer, and many very eccentrically,  
+you might have colonization and trade that 
+began or peaked or dipped as they got closer  
+to the sun - perihelion – as opposed 
+to most distant from the sun, aphelion. 
+Are they too far from the Sun though 
+for us to live on without fusion? 
+Channel regulars probably wouldn’t be surprised 
+to hear me say no, and here are three ways we  
+might colonize these spots without practical 
+cheap fusion. First, we might simply use  
+classic nuclear fission. There’s plenty of 
+uranium and thorium out in the solar system. 
+Second, we can beam energy out from closer to the 
+Sun. It’s not the easiest thing in the world to  
+focus a beam that far out though. Your typical 
+laser pointer’s dot is apparently spread out  
+to be about 4 miles wide by the time it would 
+reach our moon, which is only a 400th of an AU,  
+so a dot an AU away on, say, Mars or a near Earth 
+Asteroid, would be around 1600 miles across…. the  
+size of Pluto. It would be 40 times bigger 
+than that by the time it reached Pluto too,  
+more or less in the middle of the Kuiper Belt. 
+It is possible to build an energy collector  
+that big of course, it hardly needs to be 
+very thick after all, just tin foil-thick. 
+Our preferred medium for power transmission is 
+usually microwaves, how tight a beam is focused  
+is generally linear to wavelength, and microwaves 
+are already a thousand to a million times the  
+wavelength of the typical photon being emitted 
+by the Sun. However, the spot also gets narrower  
+based on the original beam size, bigger is better.
+Your typical laser pointer beam is around  
+a millimeter in diameter when it leaves the 
+device, so one a full ten meters wide, or ten  
+thousand millimeters, would be ten thousand 
+times tighter, so instead of 4 miles on the moon,  
+a couple feet or half a meter, and 
+at 40 AU, about 1.6 miles across,  
+or about 5 million square meters. This might be 
+some large statite or lagite you built in near  
+Mercury beaming out gigawatts to that station, 
+something they owned, or they might be getting  
+it from auction out of billions of different 
+solar power collectors around the inner system. 
+The problem is though, this distance is a very 
+serious amount of juice that’s also tight. Even if  
+that beam were down to 1000 watts per square meter 
+when it arrived, akin to the intensity of noon  
+time sunlight, that means it is transmitting 5 
+gigawatts when it left the original platform at an  
+intensity of 67 Megawatts per square meter…. Just 
+a little brighter than the surface of the Sun. 
+So, not something you want to stand in front 
+of, and it would represent a potential hazard to  
+pretty much anything in the inner system that 
+crossed its path, though only things within  
+a million kilometers or so would really need 
+to view it as a death ray, and odds are that  
+any ship moving around inside Mercury's orbital 
+radius is already very mirrored-up to protect from  
+solar heating. I’d say it's doable and probably 
+reasonably safe, and this same power transmission  
+apparatus is great for moving ships out to 
+those places or even up to interstellar speeds. 
+As we discussed in Colonizing Pluto, which again 
+is roughly in the middle of the Kuiper Belt,  
+a ship undergoing constant 1 g acceleration to 
+Pluto at 40 AU, shoved by some beam would take  
+18 days to get there, assuming it was planning to 
+flip over and do a 1-g deceleration for the second  
+half. If you were just flat out accelerating, 
+13 days to go and at about 2.6% light speed.  
+If you’re curious, 30 to 50 AU for the Kuiper 
+Belt is 4 or 7 light hours of communication time,  
+each way. Everything in the Kuiper Belt is 16-20 
+days travel Time from Earth as 1-gee turn and burn  
+maneuver, and a flat-out acceleration to the 
+edge of the Kuiper Belt would get you to 4%  
+of light speed, and 100 AU out, just over 6%.
+The scattered disc keeps going beyond that,  
+though once you’re out to 1000-2000 AU 
+we’d be transitioning into the Oort Cloud,  
+and at 2000 AU of constant 1-gee acceleration, 
+that would be 90 days, and you’re going a quarter  
+of light speed at that point, to reach something 
+there at 1-gee, turnover is at day 64 at a speed  
+of 18% light speed, and your arrive 128 days after 
+departure, and a message there and back takes  
+23 days. See our episode: Colonizing the Oort 
+Cloud for more discussion of living out there. 
+Back in the Kuiper Belt though, while I 
+could see passenger ships moving that fast,  
+it would necessitate either a longer trip back 
+or a more expensive one where the return beam and  
+laser for slowing you was generated at the site, 
+with presumably a big loss in bouncing or catching  
+and re-emitting that beam after transferring it 
+into electricity and back into a laser. It is  
+also hugely power wasteful. Which might be okay in 
+that era though. Again, on your general path to a  
+Dyson Swarm of habitats – or giant computers – you 
+presumably eventually disassemble most planets,  
+even the giants, or starlift the Sun for metals, 
+as it has way more than every planet combined and  
+indeed a billion times the mass of the asteroid 
+belt, and around 10 million times the metals. 
+In such an era, where collecting all the 
+power of the Sun really only requires enough  
+metal to make a paper-thin tinfoil 
+ball around the Sun in near Mercury,  
+and we would be talking about a mass of one 
+of those larger asteroids at that point,  
+though not necessarily one of the top tier 
+like Vesta, maybe as little as 10^18 kilograms.  
+During this phase, where lots of automation is 
+probably in play and the human race is probably  
+still well short of a trillion people or maybe 
+low trillions. You could potentially have growing  
+colonies on every asteroid already but have 
+largely englobed the sun, especially its polar  
+regions where the light isn’t hitting any objects 
+in this solar system, just shining off to nowhere. 
+As wasteful as it sounds, it might not be viewed 
+as a very big deal, when every human alive,  
+if given an equal share, might have a hundred 
+terawatts of power production at their disposal,  
+and you would need about 14 terawatts to 
+push ten tons of ship, which would seem a  
+plausible amount for a single person and their 
+accommodations. Which would permit 27 trillion  
+folks traveling this way at any given moment, if 
+that’s all we used the power for, and entirely  
+efficiently. If our population doubled every 
+century, it wouldn’t be until 3200 AD before  
+we might feel the pinch on this sort of travel 
+method, which assumed really good automation for  
+production but no fusion power or better options.
+We would likely also see something more like an  
+up-gunned Solar Moth, where power is sent out 
+to the ship to be bounced into superheating a  
+propellant acquired from the area. You can 
+use this to move an entire comet inward by  
+beaming power to it and absorbing it rather 
+than reflecting it, gaining some momentum,  
+but then using that power to superheat 
+ice on the other side as its rocket flame  
+toward the solar system, which far more 
+than cancels out, hurling you inward. 
+You could also use this to shove the object deeper 
+into space too, as an interstellar craft. This is  
+one option for interstellar colonization, as we 
+looked at earlier this year in using Asteroids  
+and Comets as Spaceships. You core out some rock 
+or ice ball a couple kilometers across and use  
+that as your shielding in space, and as your slow 
+down fuel or propellant on arrival. It also saves  
+some energy, as the escape velocity from the Solar 
+System in the vicinity of Earth is 94,000 miles  
+per hour or 151,000 kilometers per hour. Out 
+there, the escape velocity is nearly nothing,  
+so that’s a lot of velocity and fuel you’re 
+saving from launching an arkship from there. 
+Indeed, the escape velocity is so low that 
+if you had to, you could create a rotating  
+habitat colony inside one of these icebergs and 
+give it a decent supply of fission fuel, uranium  
+or thorium or plutonium, and let it use a classic 
+ion drive to head into deep space. It might take  
+10,000 years to arrive at a new world but 
+you could run a decent-sized civilization  
+inside that rock, either having stockpiles 
+of raw materials, or mining them from it. 
+You can use all that ice on an object from this 
+area as propellant too, and move it much faster  
+by hitting it with an energy beam from closer 
+in-system as we discussed, and at the other end,  
+to slow down, just have a smaller Orion drive 
+vessel ready to launch from the big ship and  
+run a bit ahead, slowing down using nukes 
+and solar sails at the destination star,  
+and converting itself into an energy beam to hit 
+the mothership with. Fundamentally you can run  
+that enormous ship at around whatever speed you 
+can achieve as your exhaust velocity for those  
+ices it is mostly made of, when dumped into an ion 
+drive or propulsion system of your choice – see  
+the Advanced Spaceship Drive Compendium 
+episode for more discussions of the options. 
+Or at a smaller scale, back home, just for more 
+economically moving freight back into the system,  
+probably powering an ion drive or 
+even a flat out particle accelerator,  
+to get the highest exhaust velocity you can for 
+your propellant. Key notion though is that a piece  
+of matter given speed by a photon you beamed in 
+to serve as the propellant does better than that  
+photon bouncing off the ship does by itself, it 
+just represents a finite supply of propellant. 
+If the energy beaming trick does not work 
+though, impractical or too dangerous, and fusion  
+also doesn’t become viable, and there aren’t 
+ready supplies of uranium and thorium there,  
+can we still run a civilization out in the Kuiper 
+Belt and Scattered Disc? And if so, should we? 
+This is where we get the Parabolic Hab, a space 
+habitat that has an enormous parabolic dish  
+behind it, as discussed in the Megastructure 
+Compendium. To figure out its relative size,  
+we just need to know how many AU the Habitat is 
+from the Sun, as 1 AU is normal surface lighting  
+for Earth and light falls off with the square of 
+distance… also ignoring atmospheric attenuation.  
+A parabolic dish 3 kilometers in radius at 30 
+AU from the Sun is going to gather the same  
+sunlight as one 100 meters in radius out near 
+Earth. Basically 2-pi Hectares since you need  
+a day and night cycle, or about 16 acres. 
+Enough to feed a village worth of people,  
+assuming you’re efficiently using your sunlight 
+to grow plants in a climate controlled environment  
+like a greenhouse. That dish is probably 
+in the zone of a ton per square kilometer,  
+and you need 28 tons of dish at that point.
+Realistically you might build it heavier and  
+you also probably want more power per person, but 
+it is gathering about 40 megawatts of power. For  
+those wanting to build out hypothetical ones 
+and keep the math easy, at 37 AU from the Sun,  
+a given square kilometer of parabolic dish is 
+gathering 1 megawatt of power or sunlight, and  
+again ought to mass something like a ton, thought 
+that could go up a lot higher if you want thicker  
+dishes or stronger structural members, I generally 
+consider this sort of device to be recyclable,  
+you build it out of hexagonal segments and 
+let it get cut up and eroded by micrometeors  
+and space dust, and just detach and replace beat 
+up segments and recycle the remaining material,  
+which might be aluminum, iron or even carbon. 
+You could do it with ice as well but that’s  
+going to be heavier, and your reflectivity 
+or albedo on ice isn’t as high as a mirror so  
+you need more. It would also likely ablate ice 
+off the surface faster than you’d lose metal. 
+But be it a ton or a hundred tons per 
+square kilometer, it’s rather tiny  
+compared to a rotating habitat, which might 
+mass several megatons per square kilometer,  
+and nothing compared to a classic planet. Earth 
+masses almost 12 megatons per square *meter*,  
+not kilometers, a million times more than a 
+rotating habitat, and a billion to a trillion  
+times what you need for a mirror. And if you 
+find a nice rogue planet out there, as you might,  
+even one way out in the periphery of the Scattered 
+disc, 1000 AU out, where you need a million times  
+more light-collecting surface than living area, 
+that’s just then getting into the zone where you  
+spend as much mass on your parabolic dish, or 
+dishes, as on your space habitat’s living area,  
+and still a tiny fraction of what a 
+planet’s mass would be to light it. 
+In terms of setup, you could do two 
+counter-rotating habitats – which adds  
+stability – as we often imagine for actual O’Neill 
+Cylinders coming in pairs, and just move light  
+from one to another so it’s light in one and dark 
+on the other, though in practice I suspect you  
+would having many different dishes, and that 
+your ‘nighttime lighting’ would be going into  
+mostly automated smaller agricultural stations, 
+lighting those up, or your nature preserve or  
+forest setup if you had one. If someone felt like 
+rebooting the 1970 sci-fi film Silent Running,  
+this would probably be the approach to use to 
+avoid the plot holes and issues with that film,  
+some of them anyway. You could have a habitat 
+out in very deep space, far from any humans  
+who might harm it, or to be fair, maintain it, 
+being lit with an endless supply of sunlight. 
+Not very stealthy incidentally, being a 
+giant mirror. But in terms of habitats,  
+if we assumed every last icy rock out there 
+big enough to be turned into a spacehab was,  
+we are probably looking at several billion 
+giant icebergs in space, with some habitat in  
+them ranging from a Kaplana-Sized habitat, buried 
+in a snowball a kilometer across, to hundreds of  
+nested O’Neill Cylinders in some continent-sized 
+iceball. Those are spread over something like  
+a million Cubic AU, your default Dyson Swarm 
+is stuffing a quadrillion such habitats into  
+about 4-6 cubic AU and is still considerably 
+less population-dense than Montana. So you are  
+very spread out in this area. 10 million miles or 
+kilometers is probably the rough zone of distance  
+between you and neighboring facilities 
+at this point, the height of development,  
+and that’s a lot of breathing room, millions 
+of times the most rural places here on Earth. 
+Your hab might be home to thousands or billions, 
+or even one lone lunatic and his robot assistants,  
+Huey, Dewey, and Louie, but a phone call to 
+next door takes a minute to get a response,  
+which isn’t bad, and unless you’re feeling flush 
+on energy, probably days to weeks of travel time.  
+You might actually have a mobile agricultural hab 
+that used its excess sunlight to move it slowly  
+between various other facilities out there 
+and had shuttles swing out to grab small ice  
+chunks to replace lost mass from selling produce.
+You might be self-supporting and in isolation,  
+running on fission or fusion or parabolic mirror 
+or energy beam receiver or having a micro-black  
+hole in the basement, and how stealthy this 
+facility is depends on that. It might be a  
+beaming relay to deep space, and an observatory, 
+or a military radar outpost. It is a good place  
+to be putting your forward defenses to intercept 
+or fight anything coming in from another system,  
+as just about any weapon you can imagine is 
+safe to deploy out here, even self replicating  
+killbots, as they’d run out of matter.
+Fundamentally, it’s the hazy area between  
+inside a solar system and true deep space, so I 
+see it as a popular spot for those who want their  
+elbow room but don’t want to leave civilization 
+entirely. You are within a comm lag time of a day,  
+to get messages to Earth and back, so email 
+and social media still works fine, if we’re  
+being realistic, and someone living there could 
+go visit others inside the solar system. Also,  
+if you are doing a lot of beam run ships, the 
+Kuiper Belt is a good spot to place your beamers  
+for pushing things from outside, as almost all 
+traffic is in that plane of orbit. This allows  
+very quick travel and I suspect we will see it, 
+if not for freight, then for passenger ships. 
+You can move even quicker if we’re considering 
+uploaded minds and teleportation. It's also a  
+magnificent place for doing computation, where 
+colder is better for computing efficiency. You  
+are out far enough that you are about as cold 
+as you can get anywhere in the galaxy, so,  
+if humanity or some successor AI creation of 
+ours goes digital, this is the preferred place  
+for your civilization, and you beam the energy 
+out instead, from the Sun, or run your fusion  
+plants or black hole generators here.
+All in all, you can have some very  
+big and bright civilizations out there 
+in the Kuiper Belt, far from our Sun.
+Talking about the Kuiper Belt and harvesting rocks 
+or iceballs for resources no longer seems like a  
+thing of an unimaginably distant future, as it 
+seems like we are finally returning to space in  
+a big and ambitious way and asteroid mining is 
+likely to be part of that equation and sooner  
+than later. This and so many other areas we used 
+to think of as scifi, like AI, are now areas  
+where more and more folks are making careers.
+Maybe you’re thinking about a career in science  
+and technology, or maybe you already have one. If 
+so, as everyone in the tech world knows—if you’re  
+not staying ahead by building new skills, you’re 
+falling behind. AI isn’t the future—it’s now. And  
+to be part of the next tech revolution, you need 
+to understand the core concepts behind things like  
+AI, neural networks, and machine learning. And the 
+best place to learn them is at Brilliant dot org. 
+Brilliant is the best way to learn math 
+and computer science interactively,  
+they have thousands of lessons — from foundational 
+and advanced math to AI, neural networks, space,  
+rockets, and more — with new lessons added 
+monthly. Brilliant’s visual, hands-on approach  
+is such an effective and engaging way to learn— 
+it makes building a daily learning habit easy.  
+Interactive learning has been proven to be 6x more 
+effective than passive learning, like watching  
+lecture videos, so Brilliant helps you learn by 
+doing. Create programs with drag-and-drop coding,  
+interact with charts and graphs, and play 
+around with so many stunning visualizations. 
+Brilliant makes it easy to build a daily 
+learning habit, and you can try everything  
+Brilliant has to offer, for free, for a full 30 
+days, by visiting brilliant.org/IsaacArthur or  
+clicking on the link in the description, 
+and the first 200 people will get 20%  
+off Brilliant's annual premium subscription.
+So for anybody who's been wondering how my surgery  
+on my tongue went or how the International Space 
+Development Conference was, no news as of yet,  
+I intentionally recorded this before then, 
+and virtually everything for June too,  
+in case I lost my voice for a time. I’d imagine 
+if anything went unexpected I’d have mentioned it  
+over on our Community tab for this channel, and 
+as a reminder we do post general updates there  
+occasionally and it’s also where I post the 
+image polls for potential upcoming episodes.  
+We’ve generally been doing that twice a month on 
+a Sunday of late, typically offering a choice of 4  
+different episode topics and their draft cover 
+art, the winner of which becomes an episode,  
+and sometimes the runner up too. And we will be 
+having one this weekend and had one this last  
+weekend as well, that you can still vote for, 
+again over on our Youtube SFIA Community Tab. 
+So that’s it for today but June has barely 
+started. Next week we will explore how  
+we can build enormously tall and strong 
+structures in Space Towers. Then it will  
+be time for our scifi Sunday episode, and 
+a return to the Alien Civilization Series,  
+for a look at Higher Dimensional Aliens. And in 
+two weeks, we’ll ask what it would be like if we  
+or some other more advanced civilization sought to 
+construct artificial afterlives. Then in 3 weeks  
+we will celebrate SFIA’s 400th regular Thursday 
+episode with a look at life in the year 2323 AD. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you want to donate and help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all 
+of SFIA’s episodes early and ad free on  
+our streaming service, Nebula, along with hours 
+of bonus content, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

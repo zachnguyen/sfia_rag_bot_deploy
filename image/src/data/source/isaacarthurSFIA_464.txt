@@ -1,0 +1,774 @@
+This episode is sponsored by Brilliant
+We often talk on this channel about wonderous
+megastructures that will house countless billions
+and factory complexes that will dwarf our
+planet’s entire industrial output.
+But it makes you wonder…
+Who’s going to maintain all that stuff?
+Something often overlooked in building projects
+is that in general their maintenance and upkeep
+is rather staggering.
+Anything you build will cost you at least
+as much to maintain for a generation as you
+spent building it, and even more if you are
+lax on maintenance and something breaks.
+I’d imagine everyone here has experienced
+that wonderful shock of getting a repair bill
+and groaning.
+Should you be a true glutton for punishment
+the public and private sectors afford countless
+opportunities to stare down at a budget with
+grim certainty the taxpayers or shareholders
+will not be best pleased with the news you
+will be sharing with them.
+Left to themselves stuff breaks down, but
+it does so a lot faster when being used and
+in practice just from being in proximity to
+our civilization, and we’ll see that remains
+true even in space where by default you’d
+expect the vacuum not to cause erosion and
+corrosion.
+There’s a popular myth that the Ancient
+Roman roads were ultra-durable.
+But while the Romans were darn good civil
+engineers, roads always have to be built cheaply
+because of the sheer volume of materials involved
+and the distance they have to be transported.
+So while it’s practical to build comparatively
+small critical structures like bridges ultra-strong,
+roads have to rely on the ground beneath them
+for support.
+Heavy vehicles eventually crumble solid-surfaced
+roads, and wheels cut dirt roads into pairs
+of soggy trenches.
+The truth is, the Romans built a huge number
+of roads, and the ones that survived millennia
+were often the ones that fell into disuse,
+a tribute to quantity as much as quality.
+While we have built many robust structures
+that have weathered the centuries well, most
+of the buildings of the past are at best ruins
+and in most cases buried under layers of dirt
+and ash until some archeologist finds them.
+Most of what remains has either required vast
+amounts of repair down the centuries or is
+basically some rock, and usually that rock
+only vaguely resembles what they built which
+typically had nice layers of colorful coatings
+and ornamentation until decay, weather, erosion,
+or war stripped them down or later generations
+cannibalized it for building materials.
+This gives us a short list of basic maintenance
+strategies.
+First you can build from ultra-durable materials.
+Second, you can limit usage and exposure to
+background decay factors.
+Third, you can keep things simple.
+Complexity almost always requires more effort
+to maintain and is generally more costly for
+the components too.
+Fourth, you can engage in constant maintenance
+and replacement.
+And fifth, which is beginning to become an
+option as our technology improves, you can
+have things which repair themselves.
+That last is only a strategy in the effort
+and economic sense of course, otherwise it’s
+the same as the fourth, constant maintenance,
+it just doesn’t involve people as much,
+and makes the repairman more of a doctor or
+programmer than a classic craftsmen.
+Each of these will likely be employed of course,
+tailored to the object being maintained and
+what your tech permits, or your culture does.
+It’s important to understand that when we
+discuss things like megastructures, you have
+vastly more to maintain not just in quantity,
+but proportionally to your human population.
+This is true even for the smallest and simplest
+of these, such as an O’Neill Cylinder, which
+contains hundreds of square kilometers of
+internal living area and external hull, and
+which might house hundreds of thousands of
+people.
+To give a comparison of a simple material
+we build, our own modern highways usually
+need about a hundred people per square kilometer
+to maintain them, we normally discuss them
+in terms of linear length, where it is more
+like a person per kilometer or mile, but that’s
+the approximate zone for area, and for building
+artificial habitats, all that land area needs
+maintenance.
+Indeed it’s more three-dimensional too,
+as you’ll have layers to maintain.
+We don’t really have to maintain our air
+and sea and dirt and all beneath it rests
+upon – they do.
+Indeed they have more metaphorical layers
+to maintain too, they have to look to their
+weather – inside and out - their ecology
+– possibly also inside and out, and their
+electronic and digital layers too.
+To a degree we already have to do this, and
+to be fair our ancestors did more of it than
+folks often realize, carefully if clumsily
+shepherding their lands.
+When you’re dealing with a megastructure,
+you need to master these skills and use all
+the automation you comfortably can just to
+make them plausible.
+And to give an idea about this, let’s take
+a hypothetical O’Neill Habitat – again
+the smallest and simplest of megastructures
+– and look at what is likely being maintained.
+We’ll start from the inside.
+First we have the lighting itself, some versions
+call for big windows to let light in, others
+light is concentrated and bounced in through
+small ports by mirrors, others we generate
+it artificially by massive power plants and
+light bulbs.
+In the first case, windows, those are big
+structural weaknesses, even segmented into
+panes, that you must constantly maintain as
+they get scratched up and cracked from outside
+space dust and debris, and more so from inside
+dust, which must be swept out, and the windows
+polished, and likely replaced as they take
+UV damage, which is worse in space.
+Second, small windows with concentrated light,
+have these same problems but reduced, but
+need large mirrors and dishes outside too.
+The third requires those artificial lights
+be maintained and replaced and the wiring
+kept up, and maintenance of either the solar
+panels or internal power plants that fuel
+them.
+Then there’s temperature, not too hot, not
+too cold, and hot is likely to be the big
+problem, as it’s hard to get rid of heat
+in space.
+That wraps into weatherman… not guys who
+try to predict the weather, but guys who decide
+what the weather will be.
+Such habitats are big enough for natural weather
+and small enough not to get extremes that
+we’d see on the larger super-sized megastructures,
+but will likely be fairly planned and artificial
+regardless.
+On the ecology side, we examined that more
+in “The Environment of Space Habitats”
+and it’s where we also introduced the idea
+of tweaking and tailoring life not just to
+that environment but to help maintain it,
+as an alternative to robots.
+Work smarter not harder is humanity’s slogan.
+If you can get your critters in the habitat
+to do some of the work for some supplemental
+food, like squirrels or raccoons picking up
+trash or weeding gardens, in exchange for
+tasty treats, then it lets you also supplement
+how many critters you have in your garden
+worlds, as they have an additional food source.
+This allows more top-heavy food chains too
+which could not naturally exist, as your auxiliary
+space farms can add to the food supply at
+any level of that food chain.
+We talked about that and concerns about genetic
+diversity more in that episode, but a point
+we noted was that you might even be able to
+get them to help with your landscaping, like
+a modified coral that kept your shorelines
+intact against erosion, or some self-healing
+concrete.
+Land on Earth is old and natural and deep,
+yet it erodes a lot faster from our activity.
+On our habitat, all those hills and valley
+and beaches and fjords need a lot more work
+to make and maintain.
+And since rock isn’t free, you’re probably
+not that thick down to your outer hull that’s
+spinning around, and the inside of that might
+be damaged by erosion too and would be hard
+to get at to maintain.
+Now I said outer hull but in fact it probably
+isn’t.
+As we’ve often noted when discussing rotating
+habitats, while we typically depict them as
+a cylinder spinning in the void, in all probability
+they’d be a cylinder spinning in a superstructure.
+That cylinder hull is built for tensile strength,
+not absorbing micrometeor strikes or abrasion
+from space dust, all of which will be worse
+because they spin, often quite fast and faster
+the wider the rotating habitat.
+It’s worth remembering what the biggest
+source of space dust and debris is likely
+to be – ships leaving the habitat, spraying
+it with whatever propellant they use, be it
+rocket flames or charged ions or even just
+reflected concentrated light.
+That last is a lot less of an issue, and one
+of the reasons I often tout the benefits of
+laser propulsion in space.
+So a space habitat is less likely to be a
+cylinder than a big orb with a cylinder and
+other facilities inside it, mimicking the
+asteroid mining era where they’d probably
+be built into excavated shafts on asteroids.
+That outer lay is likely to be a sandwich,
+maybe a foam metal or ideally some thin outermost
+layer with liquid beneath that hardened over
+when exposed to vacuum to scab over punctures,
+and to which a micrometeor can fly through
+and lose energy.
+You might do several layers too, with deeper
+ones being places where you had many thin
+membrane compartments full of your reserves
+of water and air and fuel, ideally hydrogen
+or deuterium for fusion, though you might
+slap solar panels and radiators all over the
+outside instead.
+All of this of course needs maintenance, and
+different kinds likely need different robots.
+Some might magnetically crawl along the outside
+polishing solar panels or welding cracks or
+acting like the metal equivalent of a Zamboni
+machine, polishing, smoothing, melting, or
+laying new layers down on the outside.
+In fact, ice might be used as a cheap exterior
+shield too, instead of metal.
+You might have more drones flying around with
+wide spectrum cameras looking for cracks and
+weaknesses.
+Inside that thick shell you might have that
+liquid and drones that swam around in there,
+or even tailored lifeforms, fixing the inner
+layers.
+They might fly around in layers of gases.
+Indeed you might have a thin atmosphere inside
+that superstructure too, from everything leaking,
+you want to gather that back up, waste not
+want not, and higher pressures leak faster
+anyway, but you’re likely to have a low
+pressure fog in there between the various
+pressurized facilities, especially the ancillary
+ones where you’re building cheap and thin
+because it’s just some big hydroponic facility
+or mostly automated factory where people don’t
+actually live.
+Other organisms might, things might easily
+adapt to living on leak cracks venting air,
+and as we saw in Void Ecology and Space Whales
+last month, you could end up with a fairly
+rich near-vacuum ecology even if you weren’t
+intentionally engineering it.
+There’d be a lot trash floating around in
+that inevitably too, needing picked up and
+recycled, but also in habitat areas in general.
+A solar system is a big place, but when we
+think about the sheer quantity of megastructures
+we might build in one, potentially trillions
+of O’Neill Cylinders alone, it’s not so
+empty anymore.
+Especially around hubs, as most planets would
+likely be swarming with orbital habitats.
+Trillions of habitats mean even more trillions
+of ships, and if each was losing only say
+one random nut or bolt or wrench or soda can
+out into a space every week or so, you’d
+have quadrillions of hypervelocity bullets
+flying around the solar system.
+This is likely to be even worse near dense
+population areas as losses of trash are most
+likely when a ship is first taking off or
+arriving, meaning it’s close in distance
+and velocity.
+This also means that part of being a space
+janitor is writing up tickets for littering,
+and getting to operate giant laser cannons
+to vaporize trash or the offenders themselves
+if space littering became a capital crime.
+Seems extreme, but remember, throwing a soda
+can out your airlock is like throwing a bomb,
+and at relativistic speeds, an atomic bomb.
+So there are quadrillions of random nuts and
+bolts floating around at tens of thousands
+of meters per second.
+You can add a lot more rubbish coming off
+the hull of the megastructure itself, and
+while it would be slow moving locally, once
+it drifts away from the immediate area it’s
+only moving slow relative to anything that
+just happens to be on an identical orbital
+path.
+We’ve talked about Kessler Syndrome before,
+a chain reaction of collisions in Earth’s
+orbit spraying debris and shrapnel around
+to hit other objects which in turn spray out
+more debris, potentially shrouding a planet
+in a swarm of razor sharp hyper-velocity bullets.
+A civilization that’s building in orbit
+a lot, wrapping their world in thousands upon
+thousands of orbiting habitats, docks, and
+industries, has to deal with this constantly.
+Indeed they probably don’t worry about Kessler
+Syndrome happening because they probably exist
+in a constant state of it.
+Odds are someone will have run a massive cost
+analysis on how much detection gear, how many
+point defense or laser broom ablation systems,
+and how much armor to absorb hits various
+ships and stations need, how much extra energy
+and fuel and propellant that costs, and compared
+it to clean up.
+I’d just guess that it would probably mean
+they did a lot of debris clearance but that
+your typical inhabited planet still had millions
+of tons of millimeter sized junk floating
+around.
+So there’s going to be a lot of folks who
+make their living cleaning up that trash and
+others issuing citations and fines for making
+it.
+And the same applies to a full blown Dyson
+Swarm only scaled up a billion-fold.
+I don’t want to imply such civilizations
+are constantly living in a swarm of their
+own junk and hypervelocity shrapnel, or that
+this isn’t manageable, but rather that it
+is exactly that – manageable – and given
+that it’s being managed by humans, odds
+are it will be managed rather haphazardly
+and sloppily.
+And someone is going to be managing it.
+A recurring point on this channel is that
+while such civilizations will doubtless employ
+a lot of robots, they will probably tend to
+be fairly stupid robots requiring some oversight.
+This is not because such a civilization can’t
+make something smarter, but because odds are
+the cost of having people provide that oversight
+will be viewed as cheaper than purchasing
+tons of security and weapons to prevent or
+contain a machine rebellion or pay for all
+the public relations management and spin doctors
+you’d need to justify what is pretty much
+slavery.
+Build something as smart as a human and you
+either need to give it rights, in which case
+you’ve just created another citizen paying
+taxes and complaining about how much infrastructure
+maintenance costs, or you spend all your time
+fending off attacks, verbal or literal, about
+how you’re either overtly enslaving an intelligent
+mind or essentially created an entire brainwashed
+species that loves its job.
+Keep it simple, keep it dumb, or else you’ll
+end up under Skynet’s thumb… or being
+processed in its recycling center.
+Besides, the other big problem always facing
+post-scarcity civilizations is what to do
+with all the people going nuts from a lack
+of purpose.
+Speed of reflexes isn’t necessarily an issue
+either, computers mostly excel at doing simple
+tasks hyperfast, but there are options even
+there.
+I mentioned earlier that in terms of layers
+of infrastructure maintenance, you would also
+have the electronic and digital one, and it
+might be quite big, metaphorically speaking,
+as you might have a lot of uploaded digital
+people, cyborgs, transhumans, or folks who
+mostly live in virtual worlds.
+Don’t assume just because someone wanted
+to move to a classic habitat cylinder – which
+again is not the only type of megastructure
+– that they are a regular baseline human.
+Or that their kids would be.
+Just because your parents wanted to live on
+some orbiting garden park, doesn’t mean
+you do.
+Or that their AI would be, again it’s not
+that you don’t have AI, it’s just if you
+plan on making it as smart as a human, you
+best tread carefully about not thinking of
+it as a person, and that might mean it wants
+a home and time off too.
+Sub-human AI modeled on intelligent animals
+might be a popular approach too, and if your
+big mechanical hull inspector drone had a
+brain modeled after a bloodhound, you might
+be giving it a virtual dog world to hang out
+in when Rover’s not fixing your hull.
+This represents a sort of shadow ecology.
+You might have thousands of different species
+of critter, from slightly tweaked normal life
+to massively artificial mechanical and digital
+life, from amoeba dumb to human smart, and
+all points in between, all employed maintaining
+that megastructure.
+All probably mutating and being altered and
+patched and upgraded, all likely increasingly
+unique to each place, as each has its own
+special needs and diversification is a good
+strategy against sabotage or attack too.
+So I always assume people are building and
+maintaining these things, even if the definition
+of people might need to be expanded, or if
+the building and maintaining mostly involves
+shouting at welding drones too stupid to realize
+they’re trying to seal an airlock not a
+leak, and sending angry emails off to the
+programmers about the newest software patch
+causing your debris clearance drones to open
+fire on the ones tasked with inspecting the
+hull because they now thought they were debris.
+Then got themselves shot to smithereens by
+the station defenses that identified them
+as hostile after getting a distress call from
+the debris-collectors shouting about being
+under fire.
+Incidentally, this is another reason why I
+always describe space habitats not as a fragile
+shell but probably massively armed and armored
+facilities that would be deathtraps for an
+invasion force.
+Partially because you really do need to have
+some thick hulls swarming with anti-debris
+lasers if you expect folks to feel safe living
+there.
+And partially because that invasion force
+needs to be kind of careful going in, even
+assuming all those trillions of neighboring
+space habitats don’t care about you blowing
+that place up, they are not going to appreciate
+ten billion tons of flaming wreckage and debris
+flying around the solar system.
+Amusingly probably being chased by any remaining
+maintenance drones, a gathering swarm of salvage
+drones who identified it as valuable fair-game
+assets, and merrily getting shot to pieces
+by all those neighbors trying to take out
+the flaming wreckage with whichever of their
+defensive batteries aren’t currently busy
+retaliating against the invasion fleet that
+caused the problem.
+And yeah they probably will have those giant
+anti-ship guns because having a megaton space
+freighter get hijacked or sabotaged and crash
+into your habitat is a bad time to wish you’d
+invested in heavy artillery.
+Possibly not on individual O’Neill Cylinders,
+but as I said, those are on the small side
+of megastructures under discussion and you’d
+probably also tend to see them clustered in
+packs anyway.
+Even if they’re as big as you can build
+for engineering limitations or economic viability,
+you can lash a ton of them together with tethers
+for easy transport to and fro and proximity
+has value, so they’re likely to be clustered
+up like islands in an archipelago rather than
+evenly distributed, possibly with a superstructure
+all around all of them.
+Neat thing about most space habitats, they’re
+all basically spaceships too, albeit rather
+clumsy and slow ones, so it’s kinda like
+a giant houseboat you can move around to be
+on its own or park in clusters to share ancillary
+facilities, which presumably include giant
+defense guns.
+But it could easily be that those would evolve
+as some leviathan equivalent of RV parks,
+where instead of an RV going to a place that
+has hookups and support for lots of recreational
+vehicles, they have them for entire space
+stations.
+Again a space habitat it basically a somewhat
+clumsy spaceship, and also more like the gardener
+ships we discuss for interstellar colonization.
+An interstellar ship needs to be totally self-sufficient
+except for raw materials and fuel, so they
+can replace any components or colonial gear
+damaged or decayed in century long voyages.
+This effectively makes them mobile factories
+and colonial farms since instead of parking
+at their new world forever, they can stop,
+drop off half their colonists and colonial
+gear, restock on raw materials from some asteroid,
+and make new gear and breed more colonists
+on their way to the next star.
+Possibly also new ships, since they need to
+be able to manufacture every part for their
+own ship anyway.
+A similar philosophy applies to space habitats,
+they don’t have to be entirely self-sufficient
+if they live in built up solar systems able
+to supply them, but they will need to be constantly
+engaging in repair, and possibly growth too.
+This could result in cylinder habs that constantly
+grew in length like some coil of sausage links,
+occasionally detaching sections for major
+repair or retirement, or some big circle of
+a rotating habitat, a small version of a Topopolis,
+that had a manufacturing center that just
+slowly rolled through it at a glacial pace
+replacing sections, like the Ouroboros, the
+snake eating its own tail.
+So long as the hoop is far wider in diameter
+than the thickness of it, it can be bent and
+rotate for gravity just fine, same as even
+steel can be used like a rope if long and
+skinny enough.
+Obviously you automate anything you can, your
+limitation being how smart and sophisticated
+you’re comfortable with that automation
+being.
+And it can be human level or smarter too,
+just depends on what your civilization is
+comfortable with ethically, and smart enough
+to avoid killing themselves with.
+For instance, one of the more obvious maintenance
+pathways is to go the quasi-biological route,
+as we’ve discussed before and most recently
+in Space Whales & Bioships.
+If your megastructure is basically a big animal,
+biological or not, with various organs overseeing
+repairs and clean up, it need not be too smart,
+and certainly many of the parallels for microorganisms
+living in it doing work need not be, but it’s
+plausible you might find it advantageous to
+make something pretty smart.
+Needless to say you circumvent a lot of problems
+by designing something that likes what it
+does.
+You’ve essentially gone and made a big Space
+Turtle whose shell you live on or inside,
+and you’d prefer it not minding you doing
+so or actually felt happy as the home to a
+prosperous civilization there, rather than
+regarding you as some sort of mold living
+on it or cruel taskmaster hurting and compelling
+it.
+Incidentally when talking about artificial
+or engineered intelligence of human level
+or higher I generally mean that in regard
+to its capacity for reasoning, abstraction,
+creativity and so on.
+Raw processing power is mostly irrelevant
+unless it turns out that such things inevitably
+become sentient and sapient above a certain
+threshold.
+You are going to generally want that fairly
+often though, as while some megacomputer able
+to track a quadrillion objects simultaneously
+need not be even vaguely sentient, if it isn’t
+it is very vulnerable to something stupider
+but smarter, as it were.
+And of course if you’ve gone the heavy artificial
+intelligence route and your various megastructures
+are quite smart themselves, even if they generally
+like their jobs, some might want things changed
+up a bit or become bad eggs.
+You don’t want to be living on a space turtle
+that’s decided you’re all a parasitic
+mold and it needs to fly by the Sun for some
+cleansing UV rays, or regards you as its precious
+but unwise children deeply in need of brainwashing
+or it’s played the long game and subtly
+influenced everyone to breed for stupidity
+or complacency toward it.
+Add to that, outside of one of these megastructure-minds
+going entirely homicidal, folks would probably
+be very hesitant to kill one, which might
+be rather tricky to safely do anyway, but
+good odds are if you’re going this pathway
+you do regard it as inhuman but still a person
+or honored critter.
+I could imagine folks opting to evacuate such
+a place and leave it be or try to talk it
+into some new task.
+A habitat becomes a nature preserve instead
+or some massive warship foundry that decided
+each ship was it’s child and is panicky
+about where they’ve all gone or gotten destroyed
+gets repurposed into an uncrewed observational
+array or one with a skeleton crew, even if
+it’s not terribly good at the job.
+Another fun possible story there, tons of
+abandoned crazy derelicts that were still
+quite functional but only the brave, desperate,
+or equally crazy wanted to visit them.
+Which offers another sort of maintenance,
+psychologists for disturbed megastructure-minds.
+And again while you might have a single mind
+for a single place, the equivalent of the
+mythical Genus Loci, you’re just as likely
+to have several for many different functions,
+with many layers of complexity and oversight,
+that shadow or machine ecology I mentioned
+earlier.
+You might possibly have a single overmind,
+the Space Turtle, but more likely some equivalent
+to an ecosystem rather than a single organism.
+I don’t use the ecosystem parallel casually
+either, as we noted in Void Ecology, even
+ignoring that biological versus mechanical
+is a rather vague and arbitrary thing, and
+a bit of a false dichotomy, such things are
+likely to take on the characteristics of an
+ecosystem even if it’s designed rather than
+evolved.
+It’s also worth keeping in mind that most
+of these have ecosystems on board them too,
+which we mentioned earlier probably need maintenance
+in terms of things like genetic diversity,
+though the bigger megastructures can potentially
+be as stable as Earth in that regard, indeed
+some are artificial planets or larger than
+planets.
+Those usually also would need Active Support
+to keep them from falling in on themselves,
+like orbital rings, and those are going to
+need maintenance too.
+Not all megastructures have anything to do
+with humans habitation either, but we generally
+focus on those, partially for the obvious
+reason and partially because many things you
+need to do at a big scale don’t require
+big objects, I don’t need an asteroid sized
+mining facility to disassemble an asteroid,
+many smaller ones might do the job as well.
+See the various megastructure and generation
+ship series for more discussion of those.
+Similarly raw energy abundance can help with
+debris and maintenance, if you’ve enough
+juice everyone just vaporizes any debris right
+down to atomic dust and can go heavy-handed
+on the forging and recycling by just using
+lots of regular armor that’s just raw plain
+metal you detach and replace and smelt down
+occasionally.
+It’s good to be experts at recycling and
+repair in space but you can make up for that
+with just raw use of simple automation, raw
+material, and tons of energy.
+There are no free lunches nor infinite stockpiles,
+entropy wins out in the end, so civilizations
+should tend to want to be efficient even if
+they don’t have to be, but you might also
+see many phases of approaches, much as we’ve
+had here on Earth.
+Early energy-rich, high automation societies
+might cheerfully build many super-armored,
+resource intense habitats that were surrounded
+with space litter, that’s very easy to imagine
+in an early colonization of the Asteroid Belt
+for instance, what with all the mining and
+likely many habitats built inside those asteroids,
+then switch to other methods later.
+In all probability you pursue all these approaches,
+simultaneously, or in phases, or certain factions
+of civilizations prefer one route over another.
+Lots of types of megastructures but I don’t
+classify Dyson Swarms as one normally, because
+I never think of them as likely to be homogenous.
+At least civilization focused ones – there
+are other Dyson Swarm and Stellar Engines
+types.
+Trillions of small artificial worlds all spread
+out just never strikes me as a super-unified
+civilization or likely to remain one if it
+began that way, especially since as we mentioned
+a couple weeks back in Threats to Interplanetary
+and Interstellar Civilizations, diversification
+is a good survival strategy, and we saw a
+few more reasons why this is so this time.
+Of course, unless your maintenance is truly
+perfect, you’re likely to eventually hit
+a point of diminishing returns where you opt
+to build a new one and abandon the old, and
+we mentioned other ways you might get derelicts
+too, like one with an overmind that went nuts
+but was left be.
+In a system with trillions of these places,
+even if they are built to last as long as
+civilization has been around, tens of thousands
+of years, and even if they were only derelicts
+a little while, maybe a decade on average,
+that still means at any given time you have
+billions of them sitting vacant and derelict.
+Waiting to be scavenged, repaired, hauled
+off to the breakers, or just waiting miserably
+with a few stubborn hold outs hoping their
+ghost town will flourish again one day.
+Such a tiny fraction, small compared to the
+portion of vacant homes and buildings we have,
+and yet it’s still billions of derelict
+megasturures, quite possible acting as temporary
+homes to trillions of roamers and scavengers
+and pirates, a scifi author’s dream come
+true, and something we’ll look at more in
+a couple of weeks.
+But for now, that’s Space Janitors and Megastructure
+Maintenance, the gritty underside of our bright
+future, but still pretty awesome, I think.
+Civilizations like we were discussing today
+are shaped by and critically dependent on
+technologies like metallurgy or physics or
+automation, but then so are we even today,
+and more so every day as technologies like
+robotics and computer science move more and
+more into our daily lives.
+An understanding of how all this math and
+science works is no longer just valuable,
+but vital, and if you’d like to learn more
+math and science, and have fun while you’re
+doing it, try out Brilliant.
+Their online courses and daily challenges
+let you enhance your knowledge of math and
+science with easy to learn interactive methods
+from the comfort of your own home and at your
+own pace.
+To make it that even easier, Brilliant now
+lets you download any of their dozens of interactive
+courses through the mobile app, and you'll
+be able to solve fascinating problems in math,
+science, and computer science no matter where
+you are, or how spotty your internet connection.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+I mentioned derelict space habitats and megastructures
+probably being very common in the future,
+even in a civilization that’s pretty good
+about it’s maintenance and clean up, and
+that’s a topic that seems worthy of its
+own episode, so in two weeks we’ll head
+back to the Rogue Civilizations series to
+look at such derelicts, space hulks, trash
+planets, and the sorts of civilizations that
+might develop around them.
+But next week we will be celebrating our 200th
+Regular Episode here on SFIA, where we look
+at so many awesome things that might one day
+come to exist, and we’ll commemorate the
+occasion by turning things around and looking
+at things which will never exist.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and you can join in the discussion in the
+comments below or at any of our forums on
+Facebook, Reddit, Discord, Patreon, or our
+website, IsaacArthur.net, all linked in the
+video description.
+Until next time, thanks for watching, and
+have a great week!

@@ -1,0 +1,23 @@
+Astrochickens & Von Neumann Probes
+The galaxy is huge.
+It’s so big that if we sent out a new space
+probe to a star every single day, it would
+take over a billion years before we sent one
+probe to each star, and that’s just in this
+galaxy.
+And almost none of those probes would reach
+their destination, as they might need to keep
+functioning for tens of thousands if not millions
+of years just to get to their destination.
+One answer to that is the von Neumann Self-Replicating
+Probe, a class of probes that arrives at a
+nearby star, rendezvous with some asteroid
+or small moon, and make several copies of
+itself to explore that system and send others
+to every star in range.
+The Dyson Astrochicken is a type of von Neuman
+Probe massing 1 kilogram that hatches solar
+panels as it approaches a star and uses those
+to run an ion drive and self-replication processes.
+See our self-replicating spacecraft episode
+for more details.

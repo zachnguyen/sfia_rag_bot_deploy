@@ -1,0 +1,1182 @@
+As ever more automation works its way into 
+our legal system and courts, we must ask what  
+challenges and advantages AI has in justice, 
+and if AI will come to be our judge and jury. 
+Welcome back to Science & Futurism with Isaac 
+Arthur for another Sci-Fi Sunday here on SFIA,  
+where we take topics common in science fiction and 
+try to look at them through the lens of science.  
+Our topic today is Automated Justice, because 
+who wouldn't want their fate decided by the  
+digital offspring of calculators and spam filters? 
+We’ll look at using computers and AI to help in  
+legal decisions or even as judges themselves, and 
+what the misconceptions about that are in science  
+fiction and what some of the pros and cons are 
+to this approach, which has many advantages and  
+challenges, along with ethical conundrums.
+It’s not really a debate that we can make  
+a computer able to act as a judge or jury — 
+After all, we trust them with our playlists,  
+our love lives on dating apps, so why not our 
+legal disputes? Rather, it’s a matter of how much  
+input humans should have into that process. To 
+do this, we need to first look at two key issues:  
+first, what is a justice system and, second, 
+how much input should humans have into it? 
+The justice system structure
+Needless to say, before we can tackle the question  
+of the role that AI can play in the justice 
+system, we need to understand a little about the  
+justice system and its current challenges. The 
+justice systems we have are layered. I’ll talk  
+about the US system, but a layered court structure 
+is almost universally adopted world-wide. 
+At the top end, we have the US Supreme Court, 
+whose members are like the Avengers of legal  
+decision-making—minus the cool outfits and 
+superpowers, of course. That court rules on  
+precedent, policy and legality, and all the final 
+say after other lower layers have acted. In many  
+ways it's the weakest of the three branches of US 
+government, but it is also arguably more powerful  
+than the other arms of government, Congress and 
+the Executive branch, because it can overrule  
+both of them. The judges on this court are 
+also not democratically elected by the voters,  
+other than indirectly, and appointments are for 
+life. The importance of this will become relevant  
+later. Lawyers do appearances in this court on 
+behalf of their clients. As we go down layers, the  
+method of appointment or election varies by state, 
+and for instance in my home state of Ohio we have  
+a supreme court whose members are all elected to 6 
+year terms and cannot run for office after age 70. 
+At the opposite end of the spectrum, we have small 
+claims courts for civil disputes between people,  
+such as damage to a vehicle or compensation 
+for someone stealing their cat. These are  
+for small matters up to a certain ceiling, 
+such as twenty-five thousand dollars. The  
+people typically appear themselves 
+and the evidence provided is informal. 
+There are also criminal courts at the low 
+end of the spectrum too. These typically  
+hear minor traffic matters like failing 
+to stop at a stop sign or petty theft. 
+Wedged between the minor leagues of small 
+claims and the Supreme Court's all-star game  
+are a smorgasbord of courts and tribunals, each 
+with their own exciting flavor of bureaucratic  
+complexity. These deal with a variety of matters, 
+from bankruptcy, international trade disputes,  
+to administrative appeals of decisions 
+from different government sources,  
+and family law disputes to name just a few.
+Many of these courts and tribunals have  
+different evidence systems, restrictions on what 
+can be litigated or presented and limitations on  
+what the court can order as compensation or 
+compel the losing party to do. There is no  
+universal system that every court follows. 
+The point here is that AI may have a role  
+to play in streamlining, enhancing, or even 
+replacing some of these courts and tribunals. 
+Challenges
+Our current justice system is far  
+from perfect and is often not good at dispensing 
+true justice. The biggest challenge has been one  
+of funding. As population growth has taken off and 
+more people have become empowered to take legal  
+action, the courts have been put under increasing 
+pressure. Cases often experience years of delays  
+before courts reach a final determination. When 
+one of my friends took over as judge of our local  
+municipal court, about a decade back, she had a 
+backlog of almost 9000 cases to handle. As the  
+old saying goes, “Justice delayed is justice 
+denied.” Courts are mostly publicly funded,  
+and are not cheap to run. They aren’t in the 
+public eye much and are an easy target by  
+politicians and bureaucrats to help balance their 
+overburdened budgets. Courts are like the middle  
+children of government spending—often overlooked 
+and perpetually short on allowance. Though like  
+every other department, they also have their fair 
+share of waste and abuse, which AI has shown great  
+promise at helping identify and reduce.
+Such underfunding threatens the ability  
+of the courts to provide effective access to 
+justice, not only for protecting constitutional  
+rights, but day-to-day resolution 
+of criminal and civil matters too. 
+To address delays and caseload burdens on courts, 
+stopgap tribunals and systems are created. While  
+these have often been successful in reducing 
+caseloads on the courts, they typically have a  
+dark side. They offer limited damage awards, 
+restrict or largely eliminate the evidence  
+permitted, and often do not get to the core of the 
+case. These stopgap tribunals and systems seldom  
+provide true justice as a result, akin to putting 
+a band-aid on a broken leg and calling it first  
+aid. They prevent people from truly getting their 
+day in court. Most of these supposedly “temporary”  
+stopgap tribunals and systems all too often 
+become permanent fixtures in our justice systems. 
+On the criminal side, plea-bargains play an 
+ever-increasing role in relieving pressure on  
+the courts. Judges, prosecutors and bureaucrats 
+are happy, because they don’t need to go through  
+or fund a case, and a defendant mostly loses their 
+appeal rights after agreeing to the plea-bargain,  
+eliminating even more potential 
+litigation and court time and costs. 
+Failure to take a plea-bargain can exact a high 
+price to a defendant, because if the court finds  
+them guilty, the defendant faces a system heavily 
+geared to penalize them for having put the court  
+to the effort of holding a trial. Plea bargains 
+are like mystery boxes; sometimes you get a slap  
+on the wrist, other times it's a one-way ticket 
+to the big house. There are many instances of  
+defendants being railroaded by highly unfavorable 
+plea-bargains, even when they are innocent. 
+Victims of crimes also dislike plea-bargains, 
+because they don’t get their chance to have  
+their day in court, and they often correctly 
+believe that the penalty the defendant receives  
+in a plea-bargain is insufficient 
+for the crime they committed. 
+Even in civil courts, there are increasing 
+moves to eliminate a lot of the caseload  
+by encouraging - and sometimes insisting - 
+that litigants restrict down their claims,  
+and on parties undergoing alternative dispute 
+resolution processes, such as mediation. While  
+that can sometimes be beneficial, it often results 
+in extra time, money, and effort being spent by  
+the litigants just to get their case before 
+a judge. It can also be trauma-inducing if a  
+victim has to confront and retell their story in 
+dispute resolution and then later again in court. 
+Back in the day, evidence gathering was the legal 
+equivalent of a treasure hunt—except instead of  
+gold doubloons, you'd hope to find that crucial 
+misplaced comma that could turn the case in your  
+favor. It was an extensive process of combing 
+through every single document that the litigants  
+had, unlimited depositions, where you take oral 
+evidence, lots of inter-party communications  
+and mini-disputes within the main court case. In 
+contrast, these days, judges may often restrict  
+the number of depositions and interrogatories or 
+the length of depositions, and increasingly use  
+that power to cut down on the amount of evidence 
+that is gathered and presented in the main  
+hearing. While that often simplifies the court 
+case, it runs the genuine risk of eliminating  
+evidence and issues that could actually correctly 
+swing the decision in favor of one litigant. 
+So in short, there are considerable 
+issues with our current justice system,  
+more than I’ve mentioned thus far and of course 
+many are subjective, everyone’s mileage varies.  
+It’s therefore important, when considering AI as 
+a possible addition to or replacement of a court,  
+that we cannot judge AI against an ideal and 
+perfect justice system, because that’s not the  
+real justice system. The real question comes 
+down to whether AI can improve the current  
+justice system?
+Sci-fi tropes 
+The big thing early sci fi and its tropes tend 
+to get wrong about artificial intelligence and  
+machines is that the only thing they all have in 
+common is that they are designed with a purpose  
+in mind. A calculator’s job is to add numbers 
+and a drill’s job to put holes in a material and  
+both can do that better than you or I, because we 
+designed them to do that. They are purpose-built,  
+and have been improved on with time as 
+would be any other machine we might make. 
+I don’t know if humans have a general purpose or 
+what that purpose is but it isn’t adding numbers,  
+drilling holes, vacuuming floors, manufacturing 
+widgets, going through case law or rendering  
+judgements. Primarily because we tend to believe 
+that humans have the right and obligation to find  
+out and choose their purpose and not too many 
+of us like memorizing laws, though some of us  
+do enjoy it. Therefore, we should, in theory 
+at least, be able to make machines able to do  
+routine tasks better than we can, though in 
+the case of automated justice it depends so  
+much on what we mean by judgment and justice, 
+and even mercy. We’ll come back to that last  
+one a little later. Before that, though, let’s 
+consider AI in the law and the roles it can play. 
+Current use of AI in law
+AI is already being employed practically in  
+the law. For example, AIs are being used to sortl 
+through mountains of data to identify information  
+relevant for discovery in a case. This has 
+eliminated the time-consuming and expensive use of  
+junior lawyers, paralegals, and clerks to manually 
+undertake this task. Some lawyers might mourn the  
+loss of tedious paperwork to the unfeeling claws 
+of AI. Most, though, are probably happy that  
+this is gone, as it’s not something that clients 
+particularly understood the importance of anyway,  
+and it often ends up yielding nothing for finding 
+a “smoking gun” in the mountains of paperwork. 
+AI is also being used to generate legal opinions 
+and court filings. Often these are of good  
+quality, but sometimes they aren’t. For example, a 
+New York-based lawyer was recently fined after he  
+misused ChatGPT, relying on it for research for 
+a personal injury case. He ended up submitting  
+fake citations in a court filing, because he 
+didn’t double check the output it produced. 
+It’s important to realize, though, that 
+we are at the outset of the AI revolution,  
+and the quality of output is constantly 
+improving. There will come a time when  
+the AI will get the information correct, or 
+at least as correct as a human lawyer would. 
+AI has made good inroads into streamlining 
+what lawyers spend their days doing,  
+removing or at least minimizing the drudgery of 
+legal practice. This is increasingly allowing  
+lawyers to offer better value-for-money to 
+their clients. However, we’re not here today  
+to talk about lawyers and the use of AI in their 
+legal practices, but the justice system itself. 
+Roles in the justice system
+So what roles could AI play in  
+the justice system? To understand this, we need to 
+delve into what the current roles are in a court.  
+And we’ll limit discussion to a civil court case 
+for the moment. The court’s roles can be loosely  
+categorized as: minion, functionary, gatekeeper, 
+expert, hearing, and auditor. I’ve given these  
+roles quirky names that are not the actual 
+names of the positions in the various courts,  
+because they vary from court to court and 
+jurisdiction to jurisdiction, and sometimes a  
+role might combine two of them or spread it among 
+other roles. Let’s explore each of these in turn. 
+The minion role, not to be confused with 
+those yellow creatures many kids adore,  
+and many adults too, involves the thrilling task 
+of ensuring that your lawsuit isn't filed under  
+'L' for 'Lost Cause.' Administrative staff 
+mostly currently handle this in the courts.  
+When a person files a document at court, it 
+needs to be categorized, prioritized, and filed  
+appropriately. Even automated non-AI systems can 
+do this type of checking. Current AIs are more  
+than capable of effectively filling this role.
+The functionary role is a step up from minion.  
+This involves deciding on the validity of a 
+document. For example, if a lawyer files a case  
+in the wrong court, or they file documents late, 
+or the documents filed are lacking an attachment,  
+or mandatory information. Some non-AI automated 
+systems can detect and reject such filings,  
+especially with a little human oversight mixed 
+in. However, an AI would be more appropriate  
+for performing most of this role, because it 
+involves some basic understanding of language  
+and the particular laws that apply. Again, current 
+AIs could be easily trained to do these tasks.  
+As with most things, we do not replace all human 
+oversight or review, just limit it to making sure  
+all is working and improvements can be understood 
+and made, and errors detected. A lot of times  
+our concern will be avoiding a black box people 
+don’t understand, or have forgotten how it works,  
+and thankfully tasks like these are fairly 
+transparent and simple to understand,  
+thus good candidates for heavy AI use.
+We now move on to the first role that needs to  
+be carried out by a judge or someone like a judge. 
+The gatekeeper is like the bouncer of the legal  
+club, deciding who gets in and who's left arguing 
+with the velvet rope. It’s basically shaping the  
+case, making sure that irrelevant evidence is 
+kept out, and nuisances to the court and the  
+litigants is minimized by preventing litigants 
+from going down unnecessary rabbit holes, and  
+eliminating issues that aren't strictly necessary.
+In recent years, case management has become the  
+norm, basically getting the court involved early 
+to dispose of issues and control the case so it  
+doesn’t grow out of proportion. The gatekeeper 
+role ensures the case proceeds smoothly to trial,  
+and often encourages the parties to settle 
+through mediation or other processes to avoid  
+the need for a hearing in court, which again 
+has its pros and cons. Gatekeepers not only  
+shape the case but also maintain its focus 
+by keeping out any irrelevant evidence that  
+might confuse or distract from the main issues, 
+which is at risk of being subjective of course. 
+In addition, gatekeepers can help streamline 
+the process by eliminating any issues that  
+are not essential to the main issues in the 
+case. This can ensure a more efficient legal  
+procedure and reduces the potential 
+for undue delays or complications. 
+Over time, gatekeepers have become more 
+important, mainly because they help ease  
+some responsibilities and workload from the 
+hearing role. Much attention has been given  
+to the gatekeeper role recently because it cuts 
+down on costs. Cases and issues heard during the  
+hearing role are considerably more expensive in 
+time and funding. By shifting some of the burden  
+to the gatekeeper role, the theory is that 
+the entire system can operate more smoothly  
+and efficiently. And again we’re focused on civil 
+not criminal cases at the moment but arraignments  
+and grand juries fill a similar space.
+However, as mentioned earlier the gatekeeper  
+role also has a dark side in that limiting 
+the evidence or issues that reach the hearing  
+stage can prevent litigants from achieving 
+true justice. One significant disadvantage  
+is the power the role holds over redirecting a 
+case or restricting the court's consideration  
+of specific aspects of the case. This power 
+can hinder the pursuit of truth and fairness,  
+if misused or applied too rigidly. That’s not 
+necessarily the fault of the gatekeeper. Often,  
+it's the funding pressures and legislation put 
+in place to govern the case. Limiting the case  
+is often what bureaucrats want to achieve to 
+minimize costs and time spent dragging the case  
+through the court system, holding up other cases 
+in the queue, which delays them getting their own  
+justice in a timely fashion.
+Expert role 
+Let’s tackle the expert role. Experts in court 
+are like guest lecturers, except the students  
+are a judge and jury, and the final exam could 
+involve handcuffs. They help to educate the  
+decision makers, be they the judge or a jury, 
+in how to interpret the technical evidence in  
+a case. Experts don’t have firsthand knowledge 
+of the events that happened, but they can help  
+piece together parts of what happened looking 
+at what remains after the event. So an expert  
+could testify whether a bullet was shot from a 
+particular gun from the markings on the bullet. 
+You might be surprised that I added in the expert 
+role as a court function. Often, experts can be  
+partisan, favoring the person who paid them. 
+However, in many legal systems, experts have to  
+swear to be impartial and are considered to be 
+impartial by the court. In some jurisdictions,  
+experts can be appointed to sit alongside a judge 
+in cases involving complex technical issues and  
+can rule on the technical aspects of the case 
+overruling the judge on those technical issues. 
+Much recent research has made AI systems into 
+experts. AIs are like the know-it-alls of  
+data analysis, except they might actually 
+know it all. AIs excel at focussing on a  
+particular field or issue and painstakingly 
+analyzing mountains of data to spit out an  
+opinion on what that data represents. It’s 
+pretty much what caused the genesis of AI. 
+Even today, a lot of the expert evidence in 
+cases revolves around an expert explaining  
+that they plugged in the relevant data into an 
+expert model and it concluded some result from  
+that evidence. Judges and juries are easily swayed 
+if the machine generates a match for fingerprint,  
+DNA, or other biometric data. In fact, there 
+has been a worrying trend for juries to  
+exclude other expert and actual evidence 
+in cases, and focus almost solely on the  
+expert evidence of the match the machine found.
+There is no doubt that AIs will become experts  
+in cases in the future. We are pretty much 
+already there, their role is simply expanding. 
+Hearing role
+We've arrived at the main course,  
+the courtroom drama—the bread and butter of legal 
+TV shows where the only thing missing is dramatic  
+background music. The hearing role is actually 
+divided into a number of different functions, all  
+tied around running an efficient trial or hearing, 
+including acting as a gatekeeper to control what  
+evidence can be presented, how witnesses are 
+handled by the lawyers, what the jury can  
+and cannot be told, and keeping a record of the 
+proceedings so that any appeals from the court’s  
+decision have the full court record available to 
+the higher court. And of course, there’s also that  
+little function of deciding who won and who lost.
+The hearing role is conducted by a variety of  
+actual people. There are court reporters that can 
+provide the record of who said what in the trial,  
+the judge deciding on the gatekeeping 
+issues of what can be presented or not,  
+and the judge or jury making the 
+final decision, to name just a few. 
+Auditor role
+Ultimately, litigants often apply for a review  
+or appeal of a decision. This brings us to the 
+auditor role. This is where another higher court  
+gets to consider the gatekeeper and substantive 
+decisions made by the other roles in the process  
+for correctness. Litigants typically use this to 
+change the outcome of the case or to improve their  
+position, for example by reducing or increasing 
+the damages, or in criminal cases to get the  
+guilty verdict tossed out or get a new trial.
+A separate auditing function is a monitoring one,  
+where the auditor keeps track of decisions 
+that have been made and whether these are  
+appealed. This can identify a variety of 
+factors, such as cost overruns, trends, and  
+anomalies in the decision, such as differences 
+between how various courts perform against one  
+another. Is one court consistently punishing or 
+rewarding a given behavior, or type of person,  
+more or less than others?
+Where and how does AI fit in? 
+Let’s turn our focus now to how AI can be 
+used to satisfy those roles or at least  
+augment them. And again, as we discussed 
+in our episode human-machine teaming,  
+often we see superior results from using a 
+human with an AI over what either would produce. 
+There are several ways in which AI can improve 
+upon the current minion role. One way is through  
+natural language processing (NLP). NLP allows 
+machines to understand human language and process  
+it just like humans do. This means that they can 
+accurately categorize and prioritize documents  
+based on their content, rather than relying 
+on pre-set rules or templates. Additionally,  
+AI can learn from past cases and decisions 
+made by judges, which can help AI make  
+more accurate classifications in the future.
+Another way that AI can improve upon the minion  
+role is through machine learning algorithms. These 
+algorithms permit it to learn from experience and  
+improve its performance over time. By analyzing 
+large amounts of data, it can identify patterns  
+and trends that may not be immediately apparent to 
+us. This can lead to more accurate classification  
+of documents and faster processing times.
+So, AI can augment the minion role by providing  
+real-time updates on case progress and summaries 
+of where a case is at. By tracking the status  
+of each document and automatically updating 
+case files, AI can help litigants, lawyers,  
+court officials, and judges stay informed 
+about the status of a case at all times.  
+This can reduce delays and ensure that cases 
+move through the court system more quickly and  
+efficiently. This can also help the government 
+and public help oversee and monitor performance. 
+Let’s now move on to the functionary role. You’ll 
+recall that this involves making decisions on the  
+validity of a document or other evidence presented 
+during a case. Currently, this is often done by  
+human judges or clerks who review the documents 
+and determine whether they meet certain criteria  
+before allowing them into evidence. However, 
+AI can be used to automate many of these tasks,  
+such as identifying relevant keywords or 
+phrases in documents or determining its  
+authenticity, based on digital fingerprints 
+and corroborating evidence it has access to. 
+One way that AI could augment this role is 
+by providing real-time feedback to lawyers  
+or litigants and judges pre-hearing. For 
+example, an AI system could analyze the  
+arguments presented by each side and provide 
+immediate suggestions for relevant law or other  
+supporting or contradictory evidence. This would 
+help streamline the process of keeping the case  
+relevant and stopping litigants from going down 
+a rabbit hole that has poor chance of success. 
+Another way that AI could be used in this role 
+is through predictive analytics. By analyzing  
+large amounts of data from past cases, an AI 
+system could identify patterns or trends that  
+might influence future outcomes. This would 
+allow the functionary officer to make more  
+informed decisions about how to proceed with a 
+case based on the past likelihood of success,  
+given the case’s particular set 
+of facts and body of evidence. 
+Overall, there are many ways in which AI can be 
+used to improve the functionary role in courts,  
+leading to faster, more efficient, and accurate 
+decision-making processes. At some point,  
+it could even take over the role entirely, acting 
+less as a tool and more as a decision-maker and  
+assistant to the court and the litigants. 
+Though again, never without some monitoring  
+and oversight by us, this isn't a scifi 
+movie and we’re presumably not so stupid  
+as to leave no checks or oversight in place.
+So, let’s focus now on how AI could be used  
+to augment or replace the substantive role in 
+a substantive court trial or hearing. First,  
+AI could assist with gatekeeping functions by 
+automatically identifying relevant evidence and  
+flagging potential issues such as admissibility 
+of evidence, hearsay, or privilege. A lot of time  
+in hearings and trials is often spent dealing 
+with these types of objections. While a judge  
+usually easily addresses these, having the AI 
+there to act as a prompt and guide could be  
+beneficial to speed up the proceedings.
+This would also free up time for judges  
+to focus on more complex issues that 
+require their expertise. Additionally,  
+an AI can assist the court in considering the 
+weight that the evidence should be given. There  
+is often low quality evidence that needs to 
+be weighed up against other evidence. The  
+AI could quite easily address the nature of the 
+evidence and its weight. This could prove useful  
+to the judge or jury to consider the importance 
+of a particular piece of evidence or testimony. 
+Second, AI could be used to provide real-time 
+translation and transcription services during  
+hearings and trials, which would help to 
+ensure that all parties are able to communicate  
+effectively and understand each other’s arguments 
+and have an instant objective record of the  
+proceedings. I should add that these days AI is 
+so good it can even understand me and my lingering  
+speech impediment most of the time, though for 
+me at least it is still faster to type scripts,  
+and an actual recording could always be used 
+in cases where that Dan Autocorrect has struck  
+again and changed what the duck someone said.
+Third, AI could also assist with legal research  
+by providing judges and the parties with instant 
+access to relevant case law and legislation,  
+saving them time and ensuring that they have 
+the most up-to-date information available. No  
+chance of bringing in a piece of law that 
+is a gamechanger to the case only to find  
+out the legislature changed it 10 years ago.
+Finally, we get to the auditor role. One way  
+that AI could assist with this role would be 
+through the use of AI to analyze transcripts  
+and identify any discrepancies or inconsistencies 
+in testimony or evidence presented during a trial.  
+Additionally, AI could also help to detect any 
+potential conflicts of interest among judges  
+involved in a case by analyzing their previous 
+decisions and rulings. So too, AI could assist  
+with cost auditing by identifying areas where 
+costs could be reduced without compromising  
+the quality of justice being delivered.
+This can even be in non-obvious ways,  
+like letting an AI digitally mask a person’s face 
+and voice to avoid perceived bias issues. Or,  
+if we decide to go more remote for juries, allow 
+jurors to watch testimony of the case at home and  
+with the AI carefully and automatically removing 
+bits the judge has ruled to be stricken from the  
+record or potentially digitally alter every name, 
+or even face, in the case, to prevent the need for  
+them to be sequestered or fears of bias. This 
+has its own pros and cons too, but the goal of  
+technology is to give us more options, so we can 
+decide which to use, and when and how to use them.  
+Whether or not we learn to trust the judgment or 
+wisdom of AIs, neither is a cause to abandon our  
+personal pursuit of those faculties ourselves.
+So, AI has the potential to augment and take over  
+the various roles in courts much more effectively 
+than current administrative workers or non-AI  
+automated systems. Through NLP, machine 
+learning algorithms, and real-time updates,  
+AI can accurately classify documents, learn from 
+past cases, and provide timely information to  
+various people involved in the case.
+An example case 
+Let’s move away from the theoretical and look 
+at how this might operate in practice. We’ll  
+introduce two litigants. No murders, no intense 
+trauma, just a simple mundane sort of case. Joan  
+approached her neighbor, Charles, asking 
+that he cut down a tree that was looking  
+sick that was located half on Joan’s property 
+and half on Charles’. Joan thought it might  
+fall over. Charles, with the nonchalance 
+of someone deciding on a Netflix show,  
+said he'd mull over the arboreal dilemma. Fast 
+forward a couple of months, and Mother Nature  
+delivered her own verdict on the tree debate 
+with the subtlety of a Thor’s meteorological  
+hammer through Joan's roof. Joan wants 
+to sue Charles for $20,000 in damages  
+that she suffered in having to repair 
+her roof and cart away the fallen tree. 
+Joan, ever the digital citizen, logs onto the 
+latest in bureaucratic web interfaces at her local  
+court to file her grievance against gravity and 
+Charles. As the matter deals with a lower amount  
+of damage, she is entitled to sue using the new 
+Robojustice system they’ve just introduced. She  
+has an online consultation with the AI that asks 
+her a series of questions about what happened.  
+Joan says that Charles promised to pay her 
+for the damage the morning after the storm,  
+but he now denies ever saying he would do that. 
+The AI asks a series of other important questions  
+to begin the court case and draws up the court 
+documents for Joan. Joan agrees to proceed after  
+checking them. The AI also records the interaction 
+that can be used during the case as evidence. 
+The AI, the ultimate middleman, outsources the 
+awkward job of delivering the bad news to Charles  
+via a process server, who probably doesn't get 
+enough credit for their 'shoot the messenger'  
+risk factor. Charles, feeling betrayed 
+by both his neighbor and his now ex-tree,  
+decides to give the AI a piece of his 
+mind—because if you can't rant at a machine,  
+who can you rant at? He explains that there 
+was nothing wrong with the tree, and Joan was  
+just being a meddlesome and nosy neighbor. He 
+also says that she’s delusional, because she  
+is an alcoholic and often fall-down-drunk, 
+often knocking on various neighbor’s doors  
+to complain about minor or imaginary issues. He 
+never promised to pay for Joan’s damage. Anyway,  
+the amount Joan is claiming is ridiculous, because 
+the tree only dislodged a couple of tiles from her  
+roof. The AI creates the relevant court documents 
+to enter Charles’ defense, which is automatically  
+sent to Joan. Again, Charles’ interaction is 
+recorded and entered as evidence in the case. 
+The AI, doubling as a case management guru, 
+schedules a digital get-together to lay down the  
+law and give Joan and Charles their homework. In 
+the conference, the AI explains that some of the  
+allegations will not be able to be pursued, unless 
+they are relevant to the case. In particular,  
+Charles’ allegations about Joan being often 
+drunk is not likely to be relevant to the  
+case. The AI asks Charles to elaborate on how 
+that is relevant to the case. Charles says Joan  
+came up with the story that the tree was sick 
+when she banged on his door one night, swaying,  
+slurring her words and smelling of alcohol and he 
+just thought she was being her usual crazy self. 
+The AI explains that under the law, if the tree 
+was objectively sick and in danger of falling down  
+over, Joan's condition at the time of her warning 
+him is likely irrelevant. However, if Charles can  
+prove the tree was healthy and Joan's assessment 
+was impaired by her intoxication, it may be  
+relevant to whether Charles’ ignoring her was less 
+negligent. The AI schedules a hearing date and  
+instructs both parties to gather any evidence that 
+will substantiate their claims and submit them. It  
+gives examples of evidence that might be relevant, 
+such as photographs, bills and eyewitnesses. 
+This being the future there is a good chance 
+one of them had house cameras or high-resolution  
+photos taken somewhere near that tree and 
+recently, and indeed another AI might be  
+very good at scanning their image archives, 
+footage, or facebook postings to find those. 
+Central to the case is the health of the tree, so 
+the AI shifts to expert witness mode and advises  
+Joan and Charles to submit photographs of the 
+tree before and after the event. It also asks  
+pointed questions of both parties about the 
+state of the tree to gather data about its  
+health. Joan says that the tree was removed on 
+her instructions, but Charles says he saw the  
+workers cutting up and stacking up some of the 
+wood in her yard. He’s worried that since she  
+lied about having the wood, Joan might destroy the 
+wood so it can’t be analyzed. Joan admits that she  
+retained some of the tree as firewood, but says 
+she just forgot. Most of the tree was removed. 
+The AI, slipping into its robe of authority, 
+decrees that Joan's woodpile is now off-limits,  
+and must remain undisturbed, and issues a court 
+order, preventing Joan from destroying any of the  
+wood in her woodpile and requiring her to grant 
+access to a court-ordered expert to inspect the  
+wood and take samples. It also initiates 
+a specific request to an arborist selected  
+from the list of arborists that have signed 
+up to the court’s program to inspect the wood  
+and obtain samples. It also issues a court order 
+requiring Joan to permit Charles to get evidence  
+of the damage to Joan’s roof. It requests 
+3 quotations from Charles and asks Joan to  
+submit any other estimates that she obtained 
+before deciding on the removal of the tree. 
+Joan gets Terry, her brother, living across the 
+street to approach the AI to give evidence. The  
+AI asks open-ended questions to start and then 
+more pointed questions of Terry. He basically  
+says that he knows that Charles has had it in for 
+Joan for years, ever since she reported Charles  
+to the local authorities for illegally parking 
+his trailer on the street. On the night of the  
+tree’s collapse, he heard a loud crash somewhere 
+in the neighborhood, but didn’t investigate it  
+because it was storming outside. He’s certain 
+Charles promised to pay Joan for the damage when  
+they met the night the tree fell, but that Charles 
+then refused out of spite. When pressed by the AI,  
+he admits he didn’t overhear the conversation 
+between Charles and Joan that night the tree  
+collapsed, and the other stuff about the trailer 
+was what Joan told him after she reported Charles. 
+The AI issues a ruling excluding Terry’s evidence 
+from the case as it is hearsay and the fact that  
+there was a loud crash was not useful in the case, 
+because he couldn’t tell where it came from and,  
+in any case, both parties already admitted 
+that the tree collapsed during that night. 
+Charles uploads photographs of the 
+tree from a couple of years before,  
+showing it was healthy. Joan uploads photos of 
+the tree on the ground after it collapsed. Her  
+photographs are grainy, but there seems to be a 
+dark mass in the middle of the tree trunk that  
+she thinks shows it was rotten to the core.
+Charles submits photographs of the damage to  
+Joan’s roof. Joan also does that, and submits 
+the invoices from the tree felling company  
+and the roof repair company. Joan submits 
+three quotes for the roof repair and three  
+for the removal of the tree, as does Charles.
+The arborist submits the required photographs  
+and laboratory report on the wood samples 
+she collected. The AI contacts the arborist  
+and asks some questions about the wood. The 
+arborist says she was not able to get samples  
+of the tree near its base, because only the 
+smaller branches were retained as firewood. 
+Charles enlists Betty, the eagle-eyed sentinel of 
+the subdivision, who's armed with an encyclopedic  
+knowledge of Joan's happy hour habits, to share 
+her cocktail chronicles with the AI, and whatever  
+other gossip comes to mind.. The AI asks Betty 
+open-ended questions about Joan. Betty paints  
+a vivid picture of Joan as a drunk who regularly 
+serenades her neighbors. The AI issues a subpoena  
+for Betty to give evidence at the hearing.
+On the hearing date, the AI begins by  
+establishing the facts, using its database to 
+pull up relevant property laws, precedent cases,  
+and local ordinances about shared 
+tree ownership and responsibility. 
+The AI cross-examines Betty, asking if she knew 
+what was in Joan’s glass tha night. After all,  
+it might be water or a soft drink. Betty says 
+she often waters the plants near her fence,  
+which is immediately next to Joan’s porch and 
+could even make out the brand of bourbon she  
+regularly saw Joan refilling her glass with. 
+She also said she’s seen Joan go through a  
+whole fifth of bourbon in one sitting one night 
+all on her own. Joan often knocked on Betty’s  
+door late at night to complain about the smell 
+of the fertilizer she used on her flowerbeds.  
+When she did this, she was often swaying and 
+slurring her speech and smelled of bourbon. 
+When the AI cross-examines Joan, she says that 
+none of that was true and that Betty was just  
+being spiteful because Joan once threw her 
+lawn clippings over the fence onto Betty’s  
+flowerbed. She denies ever being intoxicated. 
+The AI asks Joan about the dates of the quotes  
+for the tree removal. Two of the quotes were 
+dated after the tree was already removed. Joan  
+admits that she simply used the tree felling 
+company she had used in the past and didn’t get  
+other quotes before getting the tree removed.
+The AI puts on its detective hat—figuratively,  
+of course—and grills Charles, gently reminding 
+him that estimating isn't an art form,  
+and lowballing isn't a sport. Charles admits 
+that he asked them to minimize costs and only  
+quote for items that were clearly needed. 
+He concedes that as the repairs had already  
+been completed when the contractors did the 
+quotes, some items on Joan’s bill were omitted. 
+Like a professor outlining the syllabus for a 
+course that no one signed up for voluntarily,  
+the AI lays out the legal framework, ensuring 
+everyone is on the same begrudgingly educational  
+journey. The AI sets out the principles 
+of justice, such as fairness, precedent,  
+and the balance of probabilities that apply.
+The AI explains that its expert opinion concerning  
+the tree is that it had markers for a tree disease 
+that would ultimately cause its destruction,  
+but the laboratory tests were inconclusive 
+as to whether the disease was sufficiently  
+advanced to have caused its collapse. The 
+photographs of Charles were too old to be  
+of value and those from Joan were too grainy 
+to tell anything worthwhile about the tree. 
+Based on the meteorological data from the night 
+of the storm, the usual resilience of that species  
+of tree in those conditions, the tree faced a 
+moderate chance that it would collapse during that  
+storm, even if it was healthy. All things being 
+equal, as the tree straddled both properties,  
+both parties had to share the loss under the law.
+However, if the evidence had shown that Charles  
+reasonably knew about the condition of the 
+tree and did nothing, his contribution would  
+be increased. The AI makes the finding 
+that Joan is frequently intoxicated and  
+prone to being a nuisance to her neighbors. It 
+rejects Joan’s protestations to the contrary,  
+as it detected she was lying from her biometrics 
+as well as the evidence from Betty and Charles.  
+Charles was therefore reasonable in ignoring 
+her complaint the night she complained about  
+the tree being dangerous. The AI also rejected 
+the evidence relating to Charles’ promise to  
+pay Joan for the removal as there was 
+no corroborating evidence either way. 
+The AI, tapping into its inner King Solomon, 
+decides to split the tree baby down the middle,  
+awarding Joan a judgment for half of 
+the reasonable cost of the repairs  
+and removal of the tree. In calculating 
+the reasonable cost of the tree removal,  
+the AI rejected applying the actual costs as 
+Joan had not obtained quotes before engaging  
+her preferred contractor. Instead, the lowest of 
+Charles’ quotes was used. For the roof repair,  
+Joan’s actual costs were reasonable 
+and Charles’ quotes were deficient  
+because they didn’t include everything 
+required to make the repair. Charles  
+was ordered to pay 50% of the AI’s calculated 
+reasonable costs for the repair and removal. 
+The AI, in its final act of bureaucratic 
+kindness, reminds the parties that they  
+can still seek solace in the arms of a human 
+judge on appeal - assuming they still prefer  
+flesh-and-blood over circuits and code. 
+If appealed, the full record of the case  
+and a detailed explanation of its decision-making 
+process and the legal rationale behind its verdict  
+will be sent to the appeals court, ensuring 
+transparency and aiding in any appeal process. 
+The AI diligently adds another notch to 
+its digital belt, logging the case and  
+contributing to a growing compendium of case 
+law that can be used for training and refining  
+AI judicial systems in the future. Again this is 
+not a scifi story, so no one is assuming the AI  
+can’t make mistakes or that improvement 
+shouldn't be perpetual. Over time, this  
+constantly evolving database will help improve 
+the accuracy and fairness of automated justice. 
+Analysis
+So what can we draw from this example? 
+First, the process can be less adversarial 
+and more inquisitorial, meaning that the  
+decision-maker, the AI, is actively involved 
+in the case and drives the case. In contrast,  
+in a conventional US courtroom, the process is 
+adversarial, meaning the parties drive the case,  
+decide what to present and effectively each run 
+the case. An inquisitorial system can provide  
+faster access to justice, is cheaper, and can 
+get to the heart of the case more quickly. 
+On the plus side, the AI promises 
+access to justice cheaper, quicker,  
+and permits a more nuanced access to justice 
+than many current human-directed courts and  
+tribunals do. The downside is that it 
+only works when the judge is unbiased. 
+While the promise of AI in the justice system is 
+considerable, we must also be aware of potential  
+limitations and ethical implications. The 
+reason is obvious, the AI is, to borrow an  
+old expression, acting as “judge, jury, and 
+executioner”, or more accurately, every role  
+currently handled by lawyers, court staff, judges, 
+and juries. We miss out on the checks and balances  
+that multiple different people acting in those 
+roles bring. If something is awry in the system,  
+one or more of the people involved can become a 
+whistleblower to highlight the problem. When there  
+is an AI in scifi, there is only the AI, unless 
+other robust oversight systems are installed.  
+We can keep other humans in the mix and indeed 
+other AI, who are not total copies of each other. 
+If AI gets a biased education, it's like that 
+one annoying friend who can't stop quoting  
+dubious historical facts they read on the back 
+of a cereal box. The bias can be derived from  
+biased training data or flawed algorithms that 
+perpetuate or amplify existing prejudices in the  
+legal system. Transparency and explainability of 
+AI decision-making processes are also crucial to  
+maintain trust and allow for meaningful appeal 
+processes. Additionally, the human element of  
+understanding, empathy, mercy, and the ability 
+to interpret the spirit of the law are nuanced  
+aspects that challenge the capabilities of 
+current AI technology. However, we should  
+not assume that will always remain the case.
+Using an AI in the courtroom also raises questions  
+about how it might be gamed. The obvious one is 
+subverting the AI by hacking. Another more subtle  
+one is finding unreasonable idiosyncrasies 
+demonstrated by the AI and exploiting those.  
+These are disproportionate reactions to stimuli 
+demonstrated by the AI that a human judge would  
+not be expected to demonstrate. That said, there 
+are many judges famous for their unreasonable  
+idiosyncrasies, such as overreactions to people 
+picking their noses or letting a mobile phone ring  
+in court. So the AI would be in good company here, 
+but its idiosyncrasies may be far more bizarre,  
+and either way, we would like to improve 
+the system, not shoot for the status quo. 
+The AI does have one failing that could be 
+a major problem, and that is it is only as  
+good as its training, though again that is 
+an issue with humans too. If it is trained  
+on data that leans in a particular way, 
+its outputs will reflect that training.  
+Concepts of justice and mercy are not universally 
+agreed on and shift with time and place, we do  
+not even have time to touch on the differences 
+between Rehabilitative and Retributive Justice  
+today for instance but you get very different 
+results based on which you choose to work with. 
+Depending on who you ask and the materials you 
+feed the AI for it to learn from, you will get  
+different results. You may not want some fringe 
+element of your society doing that feeding,  
+or alternatively, leave it entirely up to the 
+academics, or majority rule. It’s really up  
+to the developers of AI and society in general to 
+ensure that they don’t let those AI get subverted  
+for nefarious political, economic, or ideological 
+gains, or even well-intentioned but flawed ones,  
+after all, we know where the road paved with good 
+intentions can lead. Again, we see the importance  
+of not allowing such systems to be big black boxes 
+we just imbue with our trust and blind faith,  
+but that does not mean we can’t still use them.
+The biggest danger when it comes to AI  
+in our justice system is that most people’s 
+attention span when it comes to the justice  
+system, especially for non-dramatic cases, can 
+be limited and fickle. If your oversight is  
+limited to Tik Tok style short vids, expect your 
+justice system to rapidly collapse. If we fail  
+to pay attention to the detail of the AI being 
+produced, we stand a very good chance that this  
+technology will be controlled by a powerful 
+fringe group in society to further their own  
+agenda. We need robust safeguards and ethical 
+guidelines and a will to monitor compliance. 
+Human judges
+Judges in our current legal system  
+are human and I want to briefly touch on that. 
+I think people worry about AI making decisions,  
+and not without cause, but while we should be wary 
+of that we should also embrace it when it's wise,  
+and on a personal note, I’d like to see them 
+in more decision roles in a more controlled  
+environment. Making decisions, even mundane 
+ones, is just about the most stressful and  
+draining thing you can do in life, and it is way 
+harder when we’re talking about deciding something  
+life-changing for others. I’ve been lucky in life 
+to have some very good mentors, around a dozen,  
+and most were scientists or soldiers, but two 
+of them were judges, one passed away years ago  
+and the other will be retiring in a few years here 
+and both were the spitting image and character of  
+what people think of when they think of judges, 
+very good men and very burdened by their jobs. 
+Precedent and sentencing guidelines make that 
+burden lighter and I think an AI would too,  
+one that’s doing an emotionless analysis 
+of the facts, and again I tend to think  
+of that as a tool a judge would use rather than 
+a replacement for one, but one that might save  
+them a lot of gray hairs and ulcers. Decision 
+Fatigue is as real for judges as it is for all  
+of us but most of us are not making life and death 
+decisions all day. Nor is this limited to judges,  
+AI can advise on a lot of things, and give 
+appropriate assistance, wherever possible,  
+leaving humans to make decisions but letting 
+AI take away some of that burden and fatigue. 
+AGI
+The hypothetical example I gave earlier  
+is probably very close to being a reality, even 
+using our current state of AI development, which  
+is why we set it in the modern day rather than 
+some fictional case on Mars or Alpha Centauri,  
+like we often do for stories on this show.
+Though, once we have AGI, Artificial General  
+Intelligence, all bets are off, simply because it 
+is, by definition, expected to be self-teaching,  
+self-reflecting, self-improving, and constantly 
+evolving itself at a level of intelligence that  
+surpasses our own. While it might start out with 
+our own morality due to its initial training, an  
+AGI would probably rapidly diverge from that and 
+develop its own identity and morality. And that is  
+a scary thought. Do we end up with a destructive 
+Dune Buterian Jihad thinking machine or a more  
+benevolent Banksian Culture Mind? That’s up for 
+debate, but AGI and AI are not the same thing  
+and you can use the latter without the former.
+Earlier, I made the point that judges on the US  
+Supreme Court are appointed, not voted in and 
+they keep those appointments for life. That’s  
+intended to help them keep above politics, not 
+answerable to the political whims of the moment.  
+But many think that’s not how it has worked out. 
+Many feel Bias has crept in and indeed it probably  
+has always been in there. There is a parallel here 
+with AGI. If we replace the Supreme Court with an  
+AGI, it will go its own way and, as humans, we 
+may not like the result. Will its biases be any  
+worse than what we have now? I can’t honestly 
+say, but I’m not all that keen to find out  
+either. Better the devil you know, so to speak.
+But to wrap things up, the integration of AI  
+into the justice system represents a significant 
+shift in how we approach legal disputes and the  
+administration of justice. While it offers the 
+potential to improve efficiency, reduce costs,  
+and standardize outcomes, it is not without its 
+challenges, even if those are probably not the  
+kind we see with robo judges in classic scifi.
+As we move forward, it is essential to proceed  
+with caution, constantly evaluate the impact of 
+these technologies, and ensure that the pursuit  
+of justice remains a fundamentally human 
+endeavor, informed and aided by technology,  
+but not ruled by it. As with many things 
+in life, the best way forward is one of  
+balance and nuance. I should also say that 
+those who abandon a pursuit of justice,  
+simply out of laziness, probably should not 
+expect it or much sympathy when they don’t get it. 
+Resisting the urge to hand the gavel to an 
+AGI comes from the same place as not letting  
+your smartphone choose your dinner—it might be 
+smart, but it doesn't have taste buds! While I  
+believe that we should resist completely 
+handing over power to an AGI, as it will  
+inherently not be human and not bound by our own 
+standards and morality, I think there is a much  
+stronger case that AI can help us better deliver 
+justice in the future. But you be the judge.
+Before we get onto schedule and announcement, I 
+wanted to thank the crew over here at SFIA for  
+all the help on episodes over the years, 
+and two of our regular editors who helped  
+contribute to this script for instance, 
+Mark and Konstantin, are both lawyers,  
+and were pivotal to helping make this script come 
+together. One of the things I love about this show  
+is all the awesome and knowledgeable people I 
+get to work with and we’re always looking for  
+more folks to help if you’re interested.
+Another of the things I love about this  
+show is how one day we can be out in depths of 
+interstellar space a million miles or a millions  
+years from now, and next we can be right back in 
+the present with technological problems facing us  
+here and now, like we did today. Every topic 
+we do on this show is serious but we try to  
+have fun with them too, and that’s particularly 
+true when we look at things like alien biology,  
+as we did last year with our episodes on 
+Ammonia-Based Life and Silicon-based Life, and  
+we’re continuing that conversation this month in 
+our Nebula Exclusive on aliens based on Crystals,  
+in which we look at where and how crystals might 
+serve as a building block for life and look at  
+5 different hypothetical planets where it emerged 
+using different evolutionary paths and mechanics. 
+And again, Crystal Aliens is out now exclusively 
+on Nebula, our streaming service, where you can  
+also see every regular episode of SFIA a few 
+days early and ad free, as well as our other  
+bonus content, including extended editions of 
+many episodes, and more Nebula Exclusives like  
+last month’s episode Topopolis: The Eternal River, 
+January’s Giant Space Monsters, December’s episode  
+The Fermi Paradox: Hermit Shoplifter Hypothesis, 
+Ultra-Relativistic Spaceships, Dark Stars at the  
+Beginning of Time, Life As An Asteroid Miner, 
+Nomadic Miners on the Moon, Space Freighters,  
+Retrocausality, Orch Or & Free Will, and more.
+Nebula has tons of great content from an  
+ever-growing community of creators. Using my 
+link and discount it’s available now for just  
+over $2.50 a month, less than the price 
+of the drink or snack you might have been  
+enjoying during the episode.
+When you sign up at my link,  
+https://go.nebula.tv/isaacarthur and use my 
+code, isaacarthur, you not only get access to  
+all of the great stuff Nebula offers, like Crystal 
+Aliens, you’ll also be directly supporting this  
+show. Again, to see SFIA early, ad free, 
+and with all the exclusive bonus content,  
+go to https://go.nebula.tv/isaacarthur
+So this episode comes out on St.  
+Patrick’s Day, which managed to work itself 
+into the script as you probably noticed,  
+and I hope everyone is having a fun and safe 
+holiday, and thanks again to Mark for helping  
+write up that case we discussed with the falling 
+tree and making sure it was legally sound. This  
+is also the halfway point for the month, and 
+we still have plenty of episodes coming. This  
+Thursday we’ll return to the Fermi paradox on 
+March 21st to discuss that evolutionary jump  
+from the simple to complex, and if that might 
+be the solution to the big question of where  
+all the alien life is. Then we’ll finish our 
+discussion of last month on black holes by deep  
+diving kugelblitz black holes and using them for 
+power generation, before finishing out the month,  
+with a bonus scifi sunday episode on 
+the 31st, Multi-Planetary empires. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you’d like to donate or help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all of SFIA’s 
+episodes early and ad free on our streaming  
+service, Nebula, along with hours of bonus content 
+like Crystal Aliens, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

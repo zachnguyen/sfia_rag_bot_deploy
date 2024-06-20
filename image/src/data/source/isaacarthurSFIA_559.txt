@@ -1,0 +1,622 @@
+I teleported home one night
+With Ron and Sid and Meg.
+Ron stole Meggie's heart away
+And I got Sidney's leg.
+    So today’s topic is teleportation,
+the ability to move instantly from one place
+to another.
+This is a concept that is very common in science
+fiction, but it’s also very under-utilized.
+Our goal today is to talk about some of the
+options sci-fi overlooks, and also to talk
+about some ways to do teleportation, or something
+similar, under known science.
+    The concept was popularized by the
+Star Trek Transporter, as a way to avoid budget
+and time constraints of having the crew fly
+down in a shuttle.
+That necessary cost-saving measure got repeated
+in a lot of shows made before we had good
+CGI, likes Blakes 7, which was notoriously
+short on its budget.
+The problem it creates in a fictional environment
+was actually quite obvious to all those writers,
+but they didn’t have much choice.
+    And it definitely wasn’t a secret,
+even the earliest examples in fiction, like
+Fred T. Janes 1897 novel, “To Venus in Five
+Seconds”, highlights the big problem of
+having teleportation technology in a sci-fi
+setting focused on spaceships.
+J.J.
+Abrams showed that in his re-booted Star Trek
+films, I’m guessing accidentally, by letting
+folks get transported over far larger distances,
+interstellar ones.
+The problem is, if you can transport folks
+over light years you really don’t have much
+need for spaceships, so of course most writers
+slapped in all sort of range and condition
+constraints, along with a healthy amount of
+turning a blind eye to obvious alternative
+uses.
+    Some authors have opted to go the teleportation
+route for interstellar travel instead of spaceships,
+and our Audible Book of the Month, Richard
+K. Morgan’s “Altered Carbon” is one
+such example.
+In that series, teleportation occurs by transmitting
+digital copies of the mind from place to place,
+with an awaiting body, one of our examples
+for today of how you could do teleportation
+inside known science.
+    That book, which Netflix recently adapted
+into a TV show, explores a lot of the overlooked
+options and dilemmas with that approach and
+you can pick up a free copy of “Altered
+Carbon” and also get a 30-day trial of Audible,
+just use my link, Audible.com/Isaac or text
+isaac to 500-500.
+    We should start with that example though.
+Not all fictional teleporters work the same
+way but a common approach in the digital age
+is to take a scan of an object, or a human,
+or just their mind, digitize it, and send
+it as a normal data transmission to some place
+where it will be replicated.
+There’s obviously a lot of problems with
+this in terms of noise scrambling the signal
+or how you make the object on the other end,
+but folks tend to overlook just how much bandwidth
+is involved.
+    You have about 10^26 atoms in every
+kilogram of your body, you’d probably need
+a kilobyte of data just to accurately record
+each atom type and isotope as it was, where
+it was positioned, what sort of bonds it had
+with its neighbors and what the various electrons
+energy states are.
+A person might weigh 100 kilograms; so you
+could be looking at as much as 10^31 bytes
+of data, or 10 billion, billion terabytes.
+    Maximum bandwidth for a laser is inverse
+to its wavelength, and a 400-nanometer wavelength
+blue laser could do 200 Terabits a second,
+so an even shorter wavelength UV laser might
+be able to send 10^31 bytes in a mere 10^17
+seconds, or a few billions years.
+    Obviously not a very fast way to travel.
+Now just as obviously, we can compress the
+heck out of such a signal.
+Maybe you just do the gene sequences for each
+human cell and the brain state, some physics
+students at the University of Leicester looked
+at that approach and got similarly huge transmission
+times, but even so, it’s definitely overkill.
+We have another problem too.
+If you want to make a copy of something at
+the quantum level, you effectively can’t.
+Observing the energy of a particle means we
+cannot tell what its position was.
+Likewise, observing the position of a particle
+means we cannot tell what its momentum or
+kinetic energy was.
+To faithfully copy a particle, we need to
+know both the position and the energy of a
+particle, which is something that quantum
+theory says we can’t do.
+This is a major problem when it comes to traditional
+teleportation that copies everything at the
+quantum level; but we probably don’t need
+to take a copy of the teleported object down
+to the quantum level for us to achieve what
+arguably would still be considered to be teleportation.
+    We really don’t need the genetic
+information for each of your billions of fat
+cells, we just need maybe a few hundred.
+Of course they won’t be identical, the DNA
+in your cells mutates so they won’t all
+be the same.
+But we can send just those core bits to our
+receiver, after all your fat cell DNA is pretty
+similar to most people’s so we only need
+to transmit the very tiny amounts of data
+varying from the main template.
+Nor do we care if you new body’s fat cells
+match your old ones perfectly, including minor
+mutations.
+In fact we probably would prefer not to have
+most of those.
+After all, if you are replicating folks cell
+by cell, why make a defective one when a functional
+one could be used instead?
+    We only need that relatively tiny amount
+of data specific to your fat cells, and we
+don’t need the full variation, along with
+the approximate amount of fat and where it
+was stored.
+Where fat is concerned, most folks won’t
+mind if they arrive a little short either,
+and of course you can do similar compression
+with the rest of the body’s cells.
+    Of course this raises three key points.
+The first has to do with underutilization
+of the technology in science fiction, the
+obvious medical example being removing damaged
+cells, or cosmetically trimming weight off
+people.
+The second has to do with exactly how close
+a copy needs to be to be the real thing, and
+if a perfect copy even counts.
+The third has to do with what happens to the
+remaining thing, or person, you just copied,
+the same as we have with brain uploading,
+as it’s essentially a copy and paste not
+a cut and paste situation.
+When you’re done the original object or
+person is still there, what do you do with
+them now?
+    Let’s take those in order.
+Typically, scifi bypasses the medical applications
+implied by this sort of teleportation, though
+the writers will often play with it for an
+episode then subsequently  everyone conveniently
+forgets that option.
+Probably a good idea too considering its implications.
+    If you didn’t already zoom in on
+those implications, it happens to be automatic
+immortality.
+Got a virus or disease?
+Just transport the person and leave the viral
+cells behind, or just lock on to those and
+yank them out.
+Age-damaged cells?
+Transport them away or teleport the person
+but replace them with healthy ones on the
+re-render.
+Gunshot wound to the abdomen?
+Replace all those bits.
+Total vaporization?
+Just use a stored copy of their most recent
+scan.
+    This still has some of the issues we
+discussed for extreme lifespans and mind uploading
+in the Digital Death episode, it doesn’t
+truly grant immortality, just ridiculously
+long average lifetimes but we’re talking
+millions or billions of years, not centuries.
+    That second issue though can interfere
+with this, the one asking how good a copy
+needs to be to count as the real thing and
+if it even can.
+This dates all the way back to the Ship of
+Theseus, a thought problem and one we discussed
+before in the episode “Consciousness & Identity”
+a couple of years back.
+Theseus, the fellow from Greek Mythology who
+killed the Minotaur and escaped the Labyrinth
+to sail home did so on a ship that was allegedly
+preserved at Athens in memory of him.
+When Plutarch wrote about this he noted how
+every time a plank or timber got old they’d
+replace it with a new one, until the ship
+had not a single remaining original part.
+Philosophers argued over whether this meant
+it was the same ship or not, and it’s a
+conversation that has kept folks busy arguing
+all the way up to modern times.
+    Parallel examples would be the grandfather’s
+Axe, where a man has replaced the handle of
+the axe many times and even the axe head,
+and asks if it is really the same one his
+grandfather used.
+Another example would be rivers.
+A river not only constantly changes the water
+in it, but even changes its path and shape.
+    Even Marvin the Paranoid Android, from
+Douglas Adams’ Hitchhiker’s Guide to the
+Galaxy series, from which we also got our
+opening quote for this episode, refers to
+this.
+In that, Marvin remarks that between time
+travel and getting left to wait for his companions,
+he is actually older than the Universe itself
+and has had every part of himself replaced
+many times, except the aching diodes down
+his left hand side.
+    This issue is complicated since even
+before modern biology folks knew that people
+ate for fuel and for materials, since they
+gained size as they grew and gained and lost
+weight routinely.
+Nowadays, we know everything gets replaced.
+You still have some of the atoms you had as
+a kid, a few random ones that coincidentally
+stuck around or even left you to become part
+of some plant and ended up back in you when
+you ate it, but it’s minimal and irrelevant.
+Nor is there some precise body template you
+stick to, your exact structure constantly
+bounces around a basic template that alters
+over time from aging, damage, and decay.
+Even your brain is constantly changing.
+Every new memory we create alters the mind,
+which impacts the way you think forever.
+Nowadays, short of a soul, it’s pretty much
+the only thing we have left that we can think
+of as some essential quality that is core
+to our identity.
+If you are moving your mind, or brain pattern
+around between bodies, identity presumably
+moves as well, be it into an android, or into
+some cloned body, or even into some other
+body, as is this case with “Altered Carbon”
+where folks often change bodies and start
+calling them ‘sleeves’ instead, with consciousness
+moving between hard drives implanted in the
+body.
+    Interestingly, this means you basically
+don’t need the actual brain, and you can
+make a pretty good argument all those sleeves
+are really just androids, regardless of how
+organic they are.
+It also means you don’t have to transfer
+to a body, you could just make an extra copy
+in one instead, so that two of you were walking
+around, or three or four or forty billion.
+    Which brings up that third issue with
+this style of teleportation, what do you do
+with the extra copy left behind?
+As I mentioned, we have this same problem
+with mind uploading, you get your brain scanned
+into a machine and blink when it’s done,
+wondering if it didn’t work, just to see
+your digital copy waving back from a monitor
+and saying you both need to sit down with
+a lawyer to discuss who owns what and who
+the kids should be calling mommy or daddy.
+You are still there, just now there’s two
+of you.
+In the Outer Limits episode “Think Like
+a Dinosaur” an advanced saurian species
+facilitates human teleportation to their homeworld,
+after which they must “balance the equation”
+by destroying the original subject, Kamala.
+ However, something goes wrong this time
+and the original remains.
+While awaiting news of her teleportation results,
+Kamala’s human minder develops feelings
+for her, and when confirmation is received,
+balancing the equation seems more like an
+execution.
+    Star Trek played with this concept
+too, in the episode “Second Chances” where
+a then Lieutenant Riker beamed down to a planet
+and when they beamed him up, the transporter
+signal bounced back, leaving an extra copy
+of him marooned for many years on that planet
+while the other one returned to duty.
+Credit to the series, they actually brought
+the copy back for a later episode in Deep
+Space Nine’s “Defiant”, as opposed to
+forgetting entirely about the setting-breaking
+piece of technology as they normally do, though
+they do conveniently forget him after that.
+Still two very good episodes in the Trek Franchise.
+    Anyway, since they know what caused
+it, and indeed the implication is that they
+always knew how to do it intentionally if
+they wanted to, it sort of messes with every
+single death they have since they could just
+copy people from their last saved pattern.
+    You don’t want to be able to resurrect
+folks this way at will, or have to deal with
+leftover copies, so authors usually have some
+sort of handwave to deal with it, like the
+original being vaporized by the sheer energy
+needed to scan that accurately, but since
+we don’t live in a sci-fi novel, it’s
+an issue we need to consider for this type
+of teleportation.
+A common suggestion is to just vaporize the
+person anyway, as in that Outer Limits episode,
+even if the scan doesn’t do that, but even
+with their permission this seems a pretty
+dubious ethical stance skating on some very
+thin ice with murder below.
+    Don’t assume a court would regard
+resource scarcity and necessity as a factor
+for precedent either.
+Putting it bluntly, while it often gets ignored,
+the amount of energy needed to transport someone’s
+signal this way is generally going to massively
+exceed what you’d need to support the original
+for the rest of their life anyway.
+    At the end of the day, I suspect this
+type of teleportation would end up involving
+an android on the other side, ideally a very
+good simulacra able to do some cosmetic alteration
+to look like the replicated person uploaded
+to it, who goes and does whatever they are
+being sent there for while the other person
+either sleeps or goes into stasis back home,
+so as to experience no subjective time, and
+then those memories get integrated back in
+to the original mind.
+Done right, you might even be able to integrate
+them comfortably back into their awareness
+even as they experienced things in their original
+body so they could have copies of themselves
+coming back from doing all sorts of things,
+climbing mountains, traveling to new worlds,
+learning whole new fields, etc.
+That still leaves the issue of what to do
+with the data in that android though, which
+is arguably still a person, but it at least
+feels a little bit less like murder or suicide
+to wipe that hard drive.
+    This tends to be the most common type
+of teleportation in fiction these days as
+it does safely fall into accepted physics.
+The other common one is usually some variation
+of a handwave on quantum teleportation so
+let’s talk about that next.
+    Quantum teleportation, like quantum
+entanglement in general, has been horribly
+abused in scifi in recent years, see the Quantum
+Entanglement episode for clarification on
+that in general and its essential uselessness
+for faster than light travel or communication.
+Quantum teleportation doesn’t permit FTL
+travel either.
+The first thing to note is that when you quantum
+teleport some atoms, you’re not actually
+moving them at all, you’re copying their
+data onto some other atoms.
+Take a box full of atoms and quantum teleport
+them outside that box, and you’ve still
+got that box full atoms.
+In that respect, it’s a lot like our last
+example of transmitting the data.
+    It does happen to be destructive by
+its nature though, which removes the remnant
+copy issue.
+When you measure all those atoms you change
+their state so the new atoms get the copy
+of the original while the original changes.
+You can get many atoms entangled together
+and teleport, or copy if you prefer, the whole
+state onto something else.
+There’s no theoretical limit on how much
+can be entangled together, but keep in mind
+quantum entanglement is core to how quantum
+computers work too and even getting a hundred
+or a thousand entangled in very controlled
+and artificial circumstances is the best we’ve
+done, and you’ve got billions of trillions
+of times more atoms in you.
+This is the nicer technological handwave if
+you want teleportation that is a perfect copy
+you can’t alter if you wanted to.
+There’s no obvious range limits either but
+again it is NOT FTL.
+    This is also the sort of approach that
+works well for moving through time or to alternate
+universes, as it doesn’t violate conservation
+of mass and energy, though would still presumably
+violate entropy and cause temporal paradoxes.
+Jump back in time conventionally and you have
+the issue that the time you left is suddenly
+missing mass and the time you went to just
+gained it, that’s not an issue when you’re
+just copying the state rather than moving
+the matter itself.
+    Another option is a little more like
+a wormhole, indeed it’s essentially the
+same concept, you take a chunk of space and
+just move it along with everything in it,
+but not directly through space, into a wormhole
+or a quick jump into hyperspace or whatever.
+This approach we obviously can’t go into
+the science of much, see the Wormholes episode
+for discussion of them specifically, but is
+nice since it involves no concern over copying.
+    But we have a somewhat similar brute
+force trick for this.
+Even limiting yourself to light speed you
+can’t move someone across the planet in
+an eyeblink because their body couldn’t
+handle the acceleration.
+We encountered that same problem when discussing
+space warfare in terms of ships accelerating
+to dodge, or create a large window of positional
+uncertainty for folks shooting at them.
+Move or even turn a ship too fast and you
+turn the crew into pancakes.
+However one very high-tech approach, that
+doesn’t actually violate any physical laws
+at least, would be to have little nanomachines
+inside someone basically pad all their cells
+against acceleration by ripping them apart
+at the cellular level, and move that big cloud
+of disassembled cells to reassemble them elsewhere.
+I think the only place I’ve seen this trick
+was in Alastair Reynolds’ novel “Pushing
+Ice”, and if you can do it then you have
+a great method of moving around planets very
+quickly, and you would seem to just puff from
+one place to another since those machines,
+assuming they have the energy for it, can
+probably handle thousands of G-force.
+    You might ask why you couldn’t just
+do this at the atomic or at least molecular
+level, but keep in mind there is energy involved
+in ripping things apart.
+Your cells don’t really have a lot binding
+energy between them compared to all the energy
+holding your molecules or atoms together.
+Discussions of teleportation often worry about
+what happens if you beam directly into the
+side of a mountain, for instance, which ought
+to cause a sudden pressure increase there
+that’s more than modestly explosive, or
+even just pressure differences when you teleport
+down to some planet where the air pressure
+is less and suddenly your ears pop and you
+cough from the higher-pressure in your lungs.
+Keep in mind, though, that ripping things
+apart at the atomic level, especially quickly,
+involves a ton of energy that needs to be
+dissipated somehow.
+    That’s less of an issue for the cell-encapsulation
+method we’ve just discussed, but those bots
+pillowing and moving your cells still need
+energy to move.
+Neat method though, and it kinda makes you
+like the T-1000 from Terminator 2, as you
+could go sliding through cracks in doors.
+You could potentially maintain consciousness
+through that if those bots encapsulating your
+brain cells were reading and mimicking the
+normal neuron connections for you.
+And you might opt to exist like this all the
+time, only holding to human form rather than
+vapor out of personal preference.
+After all, we often talk about transhumans
+having nanobots all throughout their body
+anyway.
+    Another method that’s doesn’t technically
+violate physics even if we have no idea how
+to do it currently would be very parallel
+to one of the weapons we discussed back in
+space warfare, the Meson Beam.
+Mesons, particularly the kind called the neutral
+pion, can fly through normal matter uninterrupted
+before decaying rather explosively, so they
+make a good bunker buster or armor penetrator
+weapon.
+Same as neutrinos, they don’t really interact
+with anything either nor presumably does dark
+matter, but the difference in this case is
+that mesons are made up of normal quarks,
+same as protons and neutrons are, whereas
+neutrinos are not and dark matter almost certainly
+isn’t either.
+    Regardless of which weakly interacting
+particle one uses though, if you could turn
+some normal matter into some other non-interacting
+matter temporarily and set to decay back into
+that normal matter at a specific time, or
+a specific distance based on its velocity
+and time before decaying, then you could presumably
+beam right through any material.
+    Two caveats, first we have no idea
+how to do that, and second, mesons like most
+particles with half-lives do not magically
+decay at exactly that half-life, that’s
+just how long it takes on average for half
+of them to do so.
+That’s fine for a gun but not for re-assembling
+a complex object.
+If you had some sort of field that caused
+the decay when they hit, then maybe you could
+do it precisely.
+Of course that also implies a pretty obvious
+defense against unwelcome visitors too.
+    There are many more methods proposed
+over the years from the vaguely plausible
+to downright silly but those are the core
+methods that fit more or less into known science,
+with some obviously doing so better than others.
+Let’s take a minute to discuss some other
+options folks often overlook.
+    We pointed out that teleportation has
+some obvious medical uses for surgery or disease
+control or damaged cells.
+We also noted that you could use it cosmetically
+to remove fat for instance.
+Sounds a bit vain and lazy but it’s not
+nearly as lazy as, for instance, having a
+teleporter that locks onto your bladder or
+intestines to save you a walk to the bathroom
+or using one to clean off sweat and grime
+and dead skin cells.
+    It’s also got some industrial applications
+too.
+Tons, you can use it to assemble objects like
+the Star Trek Replicator does, or to move
+around matter, heat, and energy in general.
+You don’t stop at the gas station it just
+teleports more fuel in as you go by, for instance,
+though one would wonder why you need a car
+in such a case, but it would work for your
+lawnmower or even the batteries in your cellphone
+potentially.
+    However it isn’t just for making
+things, you can move them too.
+You no longer need a hammer or two in every
+household that most folks use a few minutes
+a year.
+Instead you wiggle your fingers the right
+way to tell your home computer what you want
+and it teleports a hammer to you from the
+local communal tool shed, which probably only
+needs a dozen hammers for several thousand
+people.
+    In this way a teleporter can work a
+lot like Hammerspace, something we see in
+fiction and a lot from the old cartoons.
+It takes its name from those old cartoons
+where a character could pull a hammer out
+of seemingly nowhere and hit another character
+with it.
+Like the TARDIS from Doctor who, that’s
+bigger on the inside than it looks.
+There’s a joke about most older action films
+having gun magazines in hammerspace because
+they never seem to run out of bullets, but
+a teleporter could achieve the same functional
+end.
+    All of which emphasizes the weird and
+unexpected uses it can be put to that a lot
+of writer’s skip seeing or examining, with
+this and other technologies and our Audible
+Book of the Month, “Altered Carbon” does
+a good job looking at many of those, particularly
+in terms of the possible effects on our psychology
+and civilization.
+Richard K. Morgan’s 2002 novel is also a
+fascinating detective novel with that cyberpunk
+film noir flavor we see in a lot of works
+like Blade Runner.
+Lots of examination of some of the implications,
+including some very dark ones, of what happens
+when folks can move their minds between bodies
+or exist entirely in virtual reality.
+    The book has a couple of sequels too
+and does differ noticeably from its Netflix
+Adaptation if you’ve already seen that,
+and same as for January’s book, Jurassic
+Park, I tend to feel the books are almost
+always better than the film or show adaptations.
+    And you can pick up a FREE copy of
+the audiobook today, just use my link in this
+episode’s description, Audible.com/Isaac
+or text isaac to 500-500 to get a free book
+and 30 day free trial, and that book is yours
+to keep whether you stay on with Audible or
+not.
+I think you will find Altered Carbon is an
+intriguing novel, but if you don’t like
+it, you can swap it out for another at any
+time.
+    Next week we will be looking at a technology
+that is already having a huge impact on our
+civilization and will only keep growing, as
+we explore Advanced Metamaterials.
+For alerts when that and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+           Until next time, thanks
+for watching, and have a great week!

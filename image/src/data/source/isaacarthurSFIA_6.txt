@@ -1,0 +1,674 @@
+Ganymede is an enormous moon, larger than 
+any other we’ve found, including our own,  
+and may one day be the centerpiece of 
+wider human settlements around Jupiter.
+Colonizing Jupiter's moon Ganymede presents a 
+fascinating mix of opportunities and challenges  
+that we’ll be exploring today. As a basic 
+background, Ganymede is the largest moon in our  
+solar system, roughly parallel in size to Saturn’s 
+largest moon Titan, which is slightly wider if we  
+include Titan’s tall atmosphere, but if we just 
+go by distance to the surface, Ganymede is a bit  
+wider than Titan and also modestly denser and more 
+massive. Indeed it is bigger than even Mercury,  
+but being a good deal less dense, is a little 
+under half of the planet Mercury’s mass and  
+a quarter the Mass of Mars. It is also twice as 
+massive as our own Moon, though because it is less  
+dense, gravity is a bit lower on Ganymede, 14.6% 
+of Earth normal compared to the Moon’s 16.6%. 
+In this regard we tend to think of it as very like 
+our own moon, only without the proximity to Earth,  
+or the Sun, so it’s often a less discussed 
+colonization option than the major planets,  
+or even moons like Titan, with its thick 
+atmosphere, or Europa, with its subsurface oceans. 
+But Ganymede has some unique characteristics that 
+make it an interesting target for colonization  
+efforts. Today, we’ll make the case for Ganymede 
+by first reviewing some of the key advantages,  
+and challenges, associated with such an endeavor.
+Now our moon again is mostly of interest as a  
+relatively easy place to reach that has 
+raw materials for us to use for a base,  
+and which can provide fuel or materials 
+for missions further from Earth,  
+and the same is true for Ganymede, but 
+while it is the biggest of Jupiter’s moons,  
+that’s also something of a hindrance 
+too as it means more gravity.  
+And while the gravity at the surface is weaker 
+than our own moon, the escape velocity is modestly  
+higher, whereas the other Galilean moons all have 
+lower escape velocities. The Galilean moons, Io,  
+Europa, Ganymede, and Callisto in that order are 
+also just 4 of several dozen moons Jupiter has,  
+all the remainder of which have trivial escape 
+velocities that could be achieved with a rocket  
+you could bang together in your garage. Indeed 
+for most, simple compressed gas would work. 
+Unfortunately, most of them are not going 
+to have ready supplies of ice to work with  
+exactly because of that low gravity, and that 
+is a big advantage Ganymede has. Ganymede has  
+a significant amount of water ice. Indeed, we 
+think it might have more water on it than all of  
+Earth’s oceans combined. While methane and ammonia 
+are easier to work with as in-situ fuel sources,  
+water broken into hydrogen and oxygen, 
+to be recombined during combustion,  
+is a superior fuel in terms of specific impulse or 
+maximum speed, and not only can water ice be used  
+as as a source of drinking water for colonists, 
+but by electrolysis we split it into hydrogen  
+and oxygen for fuel and breathable air and by a 
+very simple and relatively low-energy process.  
+The presence of water is, of course, also crucial 
+for supporting life and agricultural activities. 
+Now this is also true of Europa and Callisto, and 
+indeed ice is rather plentiful out in deep space,  
+and both Europa and Callisto have a lot going 
+for them as settlement sites as well. Indeed,  
+part of what makes all three attractive as a 
+settlement is their proximity to each other  
+and relative ease of moving between them. This 
+is why I often suggest the collections of moons  
+around gas giants might be your natural alpha 
+site for a new star system, rather than our  
+default of looking for an Earth-parallel world 
+in gravity and lighting that we can terraform.  
+You can make fuel abundantly on all three of 
+those Galileans moons, all three have modest  
+if significant escape velocities, and the delta-v 
+and travel time between each other is also modest. 
+Europa, Ganymede, and Callisto are all tidally 
+locked to Jupiter, meaning one side of them sees  
+Jupiter all the time as a massively huge sphere in 
+their sky, while the other side never sees Jupiter  
+at all. As a result, their day time period is 
+the same as their orbital period, of 3.5, 7.3,  
+and 16.7 days respectively. That means they all 
+have a shorter day length than our own Moon, and  
+in Europa and Ganymede’s cases, well inside what 
+plants could handle for protracted dark periods. 
+The thing is, Europa is very saturated 
+by radiation from Jupiter and we normally  
+shrug that off because we’re interested 
+in exploring its subsurface oceans,  
+not its surface area. Ganymede, Jupiter's largest 
+moon, is subjected to Jupiter's magnetic field,  
+which traps charged particles. This results in 
+Ganymede having a radiation level significantly  
+higher than Earth's surface. However, Ganymede 
+is unique among Jupiter's moons as it has its  
+own magnetic field, which provides some degree 
+of protection against Jupiter's radiation belts. 
+Radiation levels on Ganymede's surface are mainly 
+from cosmic rays and charged particles trapped  
+in Jupiter's magnetic field. The radiation 
+environment is harsh but not as extreme as  
+on Europa or Io, Jupiter's other moons closer to 
+the planet. Specific measurements of the radiation  
+levels can vary, we need to get some probes 
+there, but it's understood that the environment is  
+hostile not just to biology, but also electronics.
+Now we’re not going to be classically terraforming  
+Ganymede, it would have an easier time keeping 
+an atmosphere than our Moon, and we did discuss  
+terraforming our Moon a few months back, but 
+the lower levels of sunlight and all that extra  
+radiation don’t make it as decent a terraforming 
+candidate and as we discussed in that episode,  
+terraforming our Moon would probably only happen 
+because the Moon is likely to be viewed as the  
+biggest jewel in humanity’s interplanetary empire. 
+One on which vast resources might be expended for  
+improvements. Though as we discussed in Colonizing 
+Jupiter many years back, while Jupiter is nowhere  
+near massive enough to be a star, it and its 
+many moons almost represent a second smaller  
+and more compact mini-solar system, of which 
+Ganymede would likely be the crown jewel of  
+that mini-empire. So maybe classic terraforming, 
+or the hybrid of it we discussed in terraforming  
+the Moon, might be considered down the road.
+In the meantime, any base on Ganymede is likely  
+to solve the triple problem of low temperature, 
+low sunlight, and high radiation with the same  
+approach. Big domes that concentrate light 
+onto a smaller area, insulate to help prevent  
+air and heat loss, and block out radiation.
+Ganymede's surface temperature is extremely low,  
+averaging around -160 degrees Celsius or -256 
+degrees Fahrenheit. This extreme cold presents  
+challenges for human survival, energy use, and 
+machinery operation, and it means you want to  
+operate under domes or underground whenever 
+possible. I do want to emphasize though that  
+the radiation on its surface is not super-lethal. 
+The figure I usually see for ganymede’s surface is  
+about 0.08 Sieverts per day, and we usually place 
+the lethal level at 2-10 sieverts, 25 to 250 times  
+that amount. And given that you would have to have 
+something between you and that surface, which is  
+very nearly a vacuum, that spacesuit, vehicle, 
+or dome, would further decrease the dose you got.  
+It is also very likely that humans on 
+Jupiter would benefit from being in an  
+era of superior medical technology for 
+handling cancer or radiation sickness,  
+possibly mitigating or even eliminating the 
+concern. I would not expect human mission there  
+until at least the late 21st century if not the 
+22nd, which is a lot of time to improve medicine. 
+In the long term, there are things we could do 
+to further decrease the radiation incident on  
+Ganymede that we’ve discussed elsewhere, including 
+some mega-engineering projects like limiting the  
+particles in Jupiter’s magnetosphere in the 
+first place or placing an enhanced artificial  
+magnetosphere around Ganymede, but let’s keep 
+to the more near-term in our discussion for now. 
+Ganymede’s surface is a mix of ice and rock, and 
+plentiful in craters, so finding a nice spot to  
+set up wouldn’t be too hard. That rock contains 
+plenty of silicates, so we can easily make glass  
+for domes. Or mirrors, and one of your easiest 
+ways to deal with radiation and micrometeors,  
+as with on the Moon, is to just do a thick and 
+high roof on a structure and then have transparent  
+walls, or windows, that have mirrors off to the 
+side which could reflect light into that habitat. 
+And those mirrors could swivel off those windows 
+to focus light on solar thermal power generation  
+during Ganymede’s long day if you wanted to 
+have some night time. If you were breaking its  
+orbital period into an artificial single week of 
+7 24 and half hour days, where you opaqued your  
+windows at night time when the Sun was still 
+out, you’d be able to arrange 4 of those days  
+to have decent sunlight and 3 where you had to 
+use artificial lighting. A week on Ganymede is  
+basically on natural Ganymede day and year.
+Now, ‘decent sunlight’ is a bit subjective.  
+Like Jupiter, Ganymede is just over 5 
+times further from the Sun than Earth,  
+and during it’s roughly 12 year orbit of the Sun, 
+will be getting between 3.4 to 4% as much light as  
+reaches Earth’s atmosphere, which absorbs about a 
+quarter of our sunlight before it gets down to us,  
+including some harsh frequencies of Ultraviolet. 
+But that means essentially that it's between a  
+twentieth and a twenty-fifth as bright on 
+Ganymede as Earth, and that is not dim,  
+and would be equivalent to an overcast day 
+here, and not a very overcast one either. 
+Many plants could survive on that just fine, but 
+it would make a lot more sense to be concentrating  
+light onto them. Nonetheless, you do not need to 
+concentrate 25 times the sunlight to get either  
+healthy plants or comfortable temperatures inside 
+a dome or mushroom-style habitat, likely even a  
+quarter of that would do. It’s also very easy 
+to erect towers on low-gravity airless planets,  
+so putting mirrors on towers around a crater 
+you want to dome and farm is pretty viable. 
+This is assuming sunlight and solar power is 
+your main way of getting light. Often when  
+we contemplate colonizing around Jupiter we are 
+assuming we are mining the gas giant for fusion  
+reactor fuel. This might be for deuterium or 
+even regular hydrogen or helium-3. In which  
+case you may circumvent the weak sunlight 
+issue and surface domes concerns by simply  
+having fusion reactors supply light by 
+LEDs for crops and for heating homes,  
+all safely buried under rock and ice protection.
+Two notes on that though. First, it is very  
+likely that even if we get fusion working, it 
+would not replace all other power supplies.  
+The basic physics of fusion are likely to always 
+benefit from bigger being better, so it might be  
+something we can really only use on the very large 
+scale for reactors supplying millions of people  
+or for giant ark ships traveling to deep space.
+Second, fusion fuel itself is not terribly likely  
+to ever be the lifeblood of trade, anymore than 
+water or air are, for all their critical value.  
+Even if we assumed we could only use isotopes 
+like deuterium and helium-3 for viable fusion,  
+not regular hydrogen or helium, it’s still 
+incredibly abundant. While only 23 out of a  
+million hydrogen atoms at Jupiter are deuterium, 
+that still means it has something like 40 trillion  
+megatons of deuterium available and just a 
+single megaton of that would easily supply  
+our entire planet’s current electrical needs for 
+several centuries even on a low efficiency rate of  
+mass to energy fusion and energy to electricity 
+conversion. So you don’t have giant freighters  
+leaving Jupiter for Earth every day.
+Indeed you probably don’t have any  
+freighters carrying deuterium to Earth from 
+Jupiter because Earth actually has a higher  
+concentration of deuterium in our ocean water 
+than Jupiter’s atmosphere has, and we’d have to  
+work pretty hard to put a dent in that supply 
+on anything less than geological timelines,  
+let alone the period of early interplanetary 
+economies we’re interested in today. 
+What’s more, the reason Earth has a high 
+concentration of deuterium is because it is  
+slightly heavier than normal hydrogen. We 
+used to have way more hydrogen when the  
+planet was forming and we’ve lost deuterium 
+slower than regular hydrogen, because it is  
+heavier and has a harder time escaping a planet.
+For similar reasons, a lot of the hydrogen in deep  
+system objects like icy moons is still leftover 
+from hydrogen stripping processes that Jupiter’s  
+sheer mass gave it resistance to, so there’s no 
+shortage of deuterium in these places either.  
+I just got done mentioning it would be hard to 
+use up Earth’s deuterium supply in our oceans,  
+and earlier I mentioned that Ganymede is suspected 
+to have more water than our oceans contain,  
+and while Io is decidedly volcanic, the 
+other 2 Galilean Moons, Europa and Callisto,  
+also have tons of water and thus tons of 
+deuterium. All easier to reach than the  
+vastly bigger but more diffuse supply deep 
+down inside Jupiter’s enormous gravity well. 
+Since helium doesn't bond to much, we have 
+precious little of it on Earth, but while  
+Jupiter has plenty, indeed more than every 
+other planet combined, it is not as accessible  
+as the supplies on Uranus and Neptune, and if you 
+actually have helium-3 fusion, usually referred  
+to as aneutronic fusion, Uranus and Neptune are 
+very easy to travel to. This was more or less  
+the plot of our episode Colonizing Neptune.
+So the reality is nobody is mining Jupiter  
+itself for anything in those early solar system 
+days. It’s where half the solar system’s mass,  
+not including the Sun, is located; so one day 
+it does get mined, but it’s basically the last  
+place to mine because of its gravity well.
+And while we might mine those Galilean moons  
+for deuterium, and water and nitrogen among 
+other things, it's not really for Earth. It's  
+for local use or maybe shipment to the 
+asteroid belt, Mars, Mercury, or Venus,  
+and Mars doesn’t need deuterium as it has tons 
+of ice, at least for power extraction purposes. 
+There’s always that question of whether settlement 
+of other planets and moons will tend to grow  
+out from one or two bases that are cities, or if 
+we’ll see a lot of small outposts and homesteads,  
+and a large fusion reactor able to supply 
+millions might encourage the former, while  
+being forced to concentrate sunlight for power 
+might lend itself to smaller enclaves. Either way,  
+some colony of a thousand on Ganymede might 
+have a fusion or even regular fission reactor,  
+but my hunch is that they would not.
+Why? Well, on most objects in this solar system,  
+there’s no atmosphere, there’s no wind or 
+dust, so once you roll out some polished,  
+reflective metal sheet or parabolic dish, there’s 
+not much maintenance to worry about. It doesn’t  
+even need to be very sturdy because again, 
+no wind, and virtually no gravity either.  
+You could take regular aluminum foil and 
+line a dish shiny side up and now it's a  
+solar concentrator. You don’t even need a dish 
+behind it either, because it doesn't need the  
+structural support, and indeed even some dish made 
+of ice would work, especially with a foil cover. 
+So, once you spend the energy to melt some 
+metallic rock down into metal foil you get a power  
+supply good for half of forever. You might need 
+to replace components the light was focused on,  
+the actual photovoltaic panel or components in a 
+solar thermal plant. But you can concentrate to a  
+lot higher power on that panel than solar noon 
+here on Earth, and actually get a much better  
+performance and lifetime out of that panel on 
+Ganymede or wherever because the absence of  
+weather isn’t just getting rid of that irritating 
+fluctuation in output, it’s also cutting down a  
+lot of the wear and tear on that panel. Even more 
+so if your reflective panels are not reflective to  
+material damaging wavelengths like Ultraviolet, 
+and bouncing that onto that sensitive panel. 
+You can also use the local supply of methane 
+as a simple combustion fuel as a backup or  
+mobile energy source, or use excess power 
+to create carbon neutral hydrocarbons,  
+which takes more energy than they produce, but 
+is often preferable to battery storage and serves  
+those same backup and mobile energy functions.
+There’s bound to be a lot of situations where a  
+reactor will be better, and it’s very dependent 
+on the actual technology available. Certainly  
+if someone cranks out some micro-fusion 
+reactor that is rugged, cheap to produce,  
+and in the power to weight ratio range of a 
+gas generator, then that's what everyone has. 
+And I’m hoping that’s the future we get and 
+something like that could even happen this  
+century, sometimes when tech rolls out it 
+avalanches, indeed that’s often the case,  
+and if it is something that would be 
+permissible under science and engineering,  
+we might get there very fast once we make that 
+first critical breakthrough. My hunch is that  
+bigger is better for fusion and that anything 
+at the individual or even small community scale  
+will be impractical unless we have ready 
+access to antimatter to use for antimatter  
+catalyzed fusion. Which requires only small 
+amounts so is not so dangerous for storage. 
+On the flip side, there’s definitely 
+no bar under known science on making  
+a machine able to melt down a rock and turn 
+it into reflective panels or silicon wafers,  
+and I’m betting you could make something the 
+size of modern generator in the kilowatts range  
+that could unfold into a power collector and 
+factory for inserting ore and spewing out the  
+key components, with maybe smaller and more 
+elaborate bits being brought in from a more  
+sophisticated factory elsewhere, allowing you to 
+build whatever sized solar power plant you need. 
+Once you have a power supply, access to raw 
+materials, and some way to fabricate more  
+power supply, you have everything you need for a 
+self-replicating growth scenario, be that a basic  
+biological cell, some clanking self-replicator 
+robot, or a human with access to decent automation  
+who is hand-crafting their power collector 
+from foil or plates made by their auto-refiner  
+from rocks they picked up and tossed in.
+This is the argument made by Dr. Leonardo Cormier,  
+chief geologist of the first human mission 
+being sent to Ganymede, launched June 22,  
+2153 and set to arrive on March 15, 2156. It’s a 
+slow trip but lets them maximize their cargo, and  
+they’re going to need it. Until this point every 
+spacecraft sent to Jupiter has been a robot, and  
+robotic attempts to land on Europa thus far, with 
+the intent of probing the subsurface oceans there,  
+have been unsuccessful. This is blamed largely 
+on signal lag time and restrictions on AI, no  
+AI smart enough to definitely get the job done is 
+allowed under treaties, especially far from human  
+oversight, and Jupiter is a light hour from Earth.
+So now the plan is to set up a permanent base  
+on Ganymede that can facilitate the growth of 
+more bases and settlements in the Jupiter area,  
+including on Europa, where they believe they 
+could carve in a facility under the ice for  
+humans to oversee operations directly. But that 
+is a phase 3 project. Phase 1 was the launch of  
+cycler craft carrying extra supplies in March 
+of 2150 that arrived shortly before the crewed  
+mission was set to launch in 2153 as proof 
+of concept and to provide lots of redundant  
+bulkier supplies. Current launch philosophy is 
+always to send supplies in advance on a parallel  
+mission to provide redundancy, work out bugs, 
+and potentially encounter some unknown-unknowns  
+that might endanger the human crew.
+Leonardo was selected for the mission  
+shortly after that phase 1 launch, as he 
+was rather famous for being one of the  
+original inhabitants of the Moon, and one of the 
+youngest, and often nicknamed by fans, Lunar Leo.  
+His family’s efforts at exploring and settling 
+the Moon were made famous in the documentary  
+“Living in Lava Tubes”, and while several of 
+the crew for Operation Galileo are veterans  
+of the Moon or orbital operations, Leonardo does 
+hold the title of Senior Spacer on the mission. 
+While a lot of the crew are focused on the 
+eventual Europa Mission to melt through the  
+ice and explore the subsurface oceans, Leonardo is 
+here for the geology, the Galilean Moons represent  
+4 of the 7 largest moons in the solar system, 
+and lunar geology is his specialty, and he’ll  
+be critical to helping setup those initial mining 
+production processes. Fuel production is the day  
+1 priority though and will be overseen 
+by the only Martian veteran of the crew,  
+who helped improve the process at Planum 
+Australe Base on the Martian South Pole. 
+During the trip, the sun is eternally visible and 
+slowly weakening, as they head into deep space far  
+from any planet’s shadow, and they begin adjusting 
+everyone’s rhythms to the Ganymede ‘week’ of seven  
+sub-days lasting just over 24 hours each.
+Ganymede was chosen because it was seen as  
+the logical first base, where communication 
+to the other three moons would be relatively  
+quick but the radiation low enough to survive 
+a good deal of early surface operations. They  
+plan to use as many remote robots as possible, 
+but wanted to know they could use humans if  
+there are problems and Europa’s own surface 
+radiation is at lethal levels in mere days. 
+One upside is that humanity has gotten very 
+good with cancer treatments, so that they could  
+probably survive continuous and multi-year surface 
+exposure on Ganymede, but this doesn't mean anyone  
+is anxious to get high levels of radiation, 
+particularly as while they aim to be principally  
+solar-powered, they do have a nuclear reactor on 
+the ship and plan to use it on the ground too. 
+Operation Galileo and its thirty crew will 
+begin by orbiting Ganymede in March of 2156,  
+while they rendezvous with the cargo left in 
+orbit in the phase 1 robotic mission and confirm  
+the primary landing site. During initial landing 
+operations, Leonardo is just another pair of hands  
+helping manually move cargo or run robots, but 
+he’ll be active in later weeks of the mission  
+once they’ve secured access to water and shelter.
+Leonardo’s main job in base setup is not just  
+finding ore deposits to make mirrors or storage 
+tanks, but all the minerals they need for running  
+hydroponics. Not just for their own uses, they 
+brought some, but to get the process of extraction  
+and refinement going by late 2056, as the phase 3 
+ship carrying more crew and inter-lunar shuttles  
+will launch from Earth October 1st of 2056 
+and needs to know what they need to pack. 
+In their current estimates, in order to 
+supply food they need roughly 150 square  
+meters of greenhouse per person and ten times that 
+in mirrors to give sufficient sunlight for growth,  
+for 45,000 square meters or reflective panels, 
+and they’ll need just as much for power, heat,  
+and fuel production. They estimate they’ll 
+need something like 3-400 square meters of  
+reflective paneling per person, or 200 by 200 
+foot block, especially to add in extra capacity  
+like algae as a feedstock for fuels and plastics.
+They have those in inventory, manufactured on Luna  
+by time-tested processes, but those processes 
+will have to be adapted to Ganymede. Part of  
+their mission profile is to manufacture their 
+own and to get that rolling before Phase 3 has  
+to commit on its final payload, and the same 
+for supplies of silicon and various macro  
+and micronutrients. But Leonardo can’t do much 
+roving until fuel production is up and running,  
+so he is estimating he’ll only have about 1 month 
+window to go out in his rover and investigate his  
+list of candidate sites to find which ones 
+have what they need and which combination is  
+optimal for getting them all the resources 
+their fledgling settlement will require. 
+He is able to find everything they anticipate 
+needing in large quantities in just three sites,  
+all within about 10 kilometers of their 
+base, and with fuel production running  
+and those sites identified, Leonardo is free to 
+explore Ganymede's ancient geology. He suspects  
+this will easily keep him occupied till phase 3 
+arrives, and is hoping to one day set foot on Io. 
+Once phase 3 arrives, their production 
+of fuel and bulk materials on Ganymede  
+allows reusable spaceships to move between 
+the Galilean moons in a few days of travel.  
+When it comes to sophisticated things, especially 
+some items like pharmaceuticals that won’t store  
+well for multiple years of transport out to 
+Jupiter, they have to balance how much they  
+need to have that item versus how hard it is 
+to manufacture it here with the very limited  
+personnel and materials they have. But this 
+is not a new problem and one Mars and various  
+asteroid mines have all had to work with, even 
+if Jupiter has larger delays in transport. 
+The phase 1, 2, and 3 spaceships all are planetary 
+cyclers that were dropping off the crew modules  
+and cargo at Jupiter and continuing on very 
+long elliptical journeys that will carry them  
+past Earth and Jupiter in their travels and 
+provide a slow if low cost transport system  
+for durable goods and passengers going each way. 
+Leonardo and the fuel expert from Planum Australe  
+are optimistic on being able to get cyclers going 
+from Jupiter to the Asteroid Belt to help carry  
+water and volatiles to the mines there, and to the 
+fledgling colony floating on Venus’s atmosphere,  
+and the still-planned Mercury Colony. In 
+this way they can help get Ganymede and the  
+Galilean economy in general jumpstarted, and 
+prove that a spacefaring economy is possible  
+without having to rely on Earth for eternal 
+subsidy or as the primary client and market.
+So how likely is this scenario? Hard to say 
+of course, it’s very dependent on the tech,  
+they might arrive at fully formed bases erected 
+by machines, or just land a spaceship that was a  
+habitat module and could just extend telescoping 
+or inflatable segments for solar or farming,  
+or dig in and run on fission or fusion 
+energy. There’s plenty of uranium in the  
+solar system and probably on Ganymede, 
+and we could imagine it as a source  
+for fission fuel for the outer solar system.
+Many of the solutions for living on Ganymede  
+are those we’ll learn on our own Moon, and will 
+translate to other deep systems colony sites,  
+like other icy moons or dwarf planets. If the 
+gravity is too low for humans and terrestrial  
+organisms to adapt to, we find a crater or melt 
+into some ice and set up a rotating habitat with  
+sloped walls. On lower gravity objects, 
+which are most of them, the gravity is so  
+low a normal rotating habits works fine and you 
+just embed it inside a rock for protection from  
+radiation and meteors, but where there's already 
+significant gravity, a deep bowl or vase shape  
+dug in to existing rock will generate higher 
+gravity by combining spin and natural gravity. 
+We can bring more light to Ganymede, or 
+chosen spots on Ganymede, by use of orbital  
+or Lagangrian mirrors, and in theory even add 
+more gravity by adding mass drawn from Jupiter,  
+or alter its orbital period to a nice multiple 
+of 24 hours, or even break its tidal lock with  
+Jupiter, using the techniques we discussed in 
+the recent episode “Can we Terraform the Moon?” 
+Ganymede is the biggest moon in our solar system, 
+and very close to 3 of the other largest, so it  
+seems only natural we will settle it one day and 
+that it would form a close relationship with those  
+other 3 moons and the dozens of smaller moons 
+nearby. They can supply the raw materials to build  
+up robust industry and agriculture to help fuel 
+expansion in the asteroid belt and all those other  
+worlds further out, and even to the Kuiper Belt.
+And for that matter, it may not just be the moons  
+of Jupiter that Ganymede helps build up and 
+work with, but the huge floating extractors  
+and refineries that will likely one day far 
+away grace the upper atmosphere or low orbital  
+region of Jupiter itself, which while hard to 
+reach, still has more mass than every other  
+planet and moon and asteroid in our solar system 
+combined, see our episode Colonizing Jupiter for  
+more discussion of that, but as we saw today, 
+Colonizing Ganymede might be one of first and  
+boldest steps out into settling space, and 
+may not be too far ahead in the future.
+We joined some astronauts for a multi-year journey 
+to Jupiter’s moon Ganymede today, and talked about  
+how they would need to bring in as little as 
+possible on their ships and make as much as  
+possible on site, or In-Situ, and one example 
+of things they probably aren’t going to have  
+room for is several years supply of disposable 
+razors. Cost might not be as big a factor there,  
+but for us, you could easily end up spending 
+thousands of dollars per person on disposable  
+razors for that sort of mission timeline.
+I recently switched to a Henson Razor as it just  
+gives a better cut, but I’ve been using a safety 
+razor for many years and never missed the drawers  
+and garbage cans full of disposable razors waiting 
+on use, and emptying my wallet while filling the  
+landfills with plastic and razor blades. All 
+that gets tossed with a safety razor is one  
+easily recyclable, cheap 10-cent razor blade.
+The reason why Henson’s gives a better cut is  
+because they use precision manufacturing to 
+aerospace standards - they helped manufacture  
+pieces for a Mars Rover and the Space 
+Station, so they get the importance of  
+quality. This makes a razor where the blade 
+fits in tight, and that stops the vibration  
+and flexing of the blade that causes a lot of 
+the irritation and razor burn people often get  
+from shaving. That tight tolerance on the blade 
+position, exposing only 27 microns of razor,  
+also makes it easier to adjust to shaving 
+with one if you’re new to safety razors. 
+Stop wasting money on disposables and elaborate 
+5-blade cartridges, one 10-cent blade is all  
+you need if it’s held in place by precision 
+engineering like Henson shaving offers. Try  
+it now though, at henshonshaving.com/isaacarthur, 
+and Henson Shaving will throw in a free 100 pack  
+of razor blades, if you use promo code IsaacArthur 
+at check out. Get a better shave at a fraction of  
+the cost, go to hensonshaving.com/isaacarthur.
+So that’s it for May, we’ll be back June 1st  
+on Nebula with a look at In-Situ Resource 
+Utilization, and on Thursday June 2nd we’ll  
+look at what sorts of Jobs in Space 
+and the Space Industry there are,  
+both now and in the future. Then we’ll return 
+to the Fermi Paradox and continue last week’s  
+discussion on the nature of intelligence to ask 
+if our mind’s themselves may be a ticking time  
+bomb waiting to inevitably ruin us. After that 
+we will have a pair of episodes on Oceanic Moons,  
+ones with surface seas, and Paradise Planets, 
+places even better than earth for us to live. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You can 
+also help support the show by becoming a member  
+here on Youtube or Patreon, or checkout 
+other ways to help at IsaacArthur.net.  
+You can also catch all of SFIA’s episodes 
+early and ad free on our streaming service,  
+Nebula, along with hours of bonus content like 
+Machine Monitors, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

@@ -1,0 +1,732 @@
+Throughout our history we have brought pieces of the unknown
+into our home as a reminder of what we experienced.
+Our future, however, will require us to bring
+pieces of our home out into the unknown with us.
+So today we will be continuing our look at
+Interstellar Colonization and Generation Ships
+with a look at how you go about moving whole
+ecosystems to be transplanted to alien worlds.
+The first and most key thing to understand
+is that this inevitably requires a certain
+amount of compression and loss, a lot like
+compressing an image by zipping it.
+Short of moving an entire planet, which is
+actually possible, to another system with
+a planet perfectly matching Earth, which is
+also possible, you will never end up with
+an exact copy of an ecosystem.
+After all, such a place is not just the flora
+and fauna in it, it’s the terrain inside
+it too, the microorganisms there, and it’s
+interactions at the edges with its neighboring
+ecosystems.
+Even minor changes in terrain, weather, and
+sunlight can change the dynamics of an ecosystem,
+as can changes to its neighbors, and of course
+it is worth remembering that these changes
+are always going on naturally.
+There are no perfectly balanced ecosystems;
+they are dynamic, evolving, and ever-changing.
+So our threshold of ‘good enough’ is actually
+how nature rolls anyway.
+This would vary with the folks making that
+decision, but recreating Earth in minute detail
+isn’t really the goal of interstellar colonization.
+We want similarities, but not perfect copies
+complete with the same mountains and rivers
+- that would be boring.
+As we look at this today though, we are going
+to be shooting for the most complete ecosystem
+we can get, even though odds are many colonies
+would opt not to go that route.
+We’re showing it can be done rather completely,
+not that you necessarily would.
+We should also note that there is no such
+thing as a closed ecosystem, even our entire
+planet, if thought of as such, still relies
+on the Sun and Moon in major ways, for light,
+warmth, tides, and so on.
+Even our biosphere is just a thin skin along
+the surface, with constant interaction not
+just above to the heavens, but also down deep,
+as we exchange a lot of material with our
+planet’s crust and mantle.
+There are external inputs, so a smaller ecosystem
+engineered to be fairly stable shouldn’t
+be thought of as not being closed just because
+it might need the occasional infusion of new
+DNA.
+After all, it needs light and energy from
+outside too.
+A complete ecosystem need not take up a lot
+of space either.
+And I don’t mean because DNA is so small
+you could fit copies of every species on the
+planet in the palm of your hand, or even digitally
+store them.
+For most of our planet’s history there’s
+been life, but just single-celled life or
+very basic multicellular types.
+These tend not to be too dependent on each
+other, and you can fit millions of members
+of millions of species in such a volume.
+Indeed you already have complete ecosystems
+in the palm of your hand, or at least under
+your fingernails, and scientists found something
+like 1500 new species just by examining our
+belly buttons, and several dozen on Mir and
+the ISS.
+You have more unique species in your body
+than there are species of birds and beasts,
+and for most of our planet’s history you
+could have gotten a solid and representative
+sample of our planet’s ecology by just filling
+a modest box with petri dishes scraped from
+random spots in, down, and around our oceans.
+The other thing of course is that we can up
+that diversity for a colony immensely by storing
+samples, both of entire species we don’t
+need yet, and members of that species left
+back on Earth.
+You’d have problems finding room on a ship
+for 2000 elephants to provide a stable genetic
+pool.
+But you don’t need to.
+You can just transplant a fertilized embryo
+from an unrelated elephant into its future
+mother.
+However - and this will be important for our
+next episode too - for some species you still
+need a viable population for social purposes.
+Humans are not the only species that pass
+behavior on that is learned, not instinctive.
+For some species those behaviors might be
+re-learned with a few generations with zoologists
+directly involved, but for others it might
+not be plausible at all.
+Indeed for humans, or modern human civilization
+anyway, it might be that your minimum size
+for that social continuity is actually much
+larger than that needed to avoid genetic bottlenecking,
+or making the gene pool so shallow that the
+only option is inbreeding - with disastrous
+consequences.
+On top of that though, you’d have some species,
+like the prairie dog, that not only creates
+its’ own living area, but changes the entire
+ecology and provides living area, food, and
+habitation for many species that couldn’t
+survive without it.
+In ecology this is a keystone species for
+an ecosystem, and you probably need to have
+it even though it might not need much social
+continuity.
+They might not need many members, but some
+other species that needs social continuity
+and eats them might require you to have a
+lot of them.
+So this is one approach: you figure out which
+species need that social continuity and the
+minimum population they need for this, and
+you build your colony ship habitats with that
+in mind.
+Whichever of those needs the most space for
+a viable ecosystem represents your ship size.
+As we discussed last time in Exodus Fleet,
+a colony expedition to a new solar system
+is likely to be a colonial fleet, not a lone
+colony ship.
+So if you find out that Elephants need 10,000
+square kilometers for a complete elephant
+pack, that’s your minimum ship size; other
+ships can be smaller or more likely just contain
+several ecosystems, overlapping or segregated
+off.
+Such a ship, as a classic rotating habitat,
+might be 20 kilometers across and 150 kilometers
+long.
+That is a pretty big ship, and far more than
+most will need, so we’d like to shrink that
+and we’ll discuss some approaches in a moment.
+A couple of notes, however: that may be a
+big ship, but it is buildable, and on century
+long missions it is nice to have lots of elbow
+room for your human population.
+As we discussed last time, the size of these
+ships isn’t actually our bottleneck on colonization.
+Even for ships this big, there is more than
+enough raw material in our solar system to
+construct whole fleets of such vessels to
+send off to every star near enough to us that
+we’d want to colonize them directly without
+even putting a scratch in our Solar System’s
+resources.
+We will also see how this sort of path pushes
+you more toward the Gardener Ship variation
+of the Generation ship we’ve discussed before,
+that stops at planets temporarily to restock
+raw materials and sets up a colony, then moves
+on, rather than staying there forever, as
+it would seem to make more sense to have your
+Pachyderm ship move on to the next planet
+to colonize, rather than re-task or scrap
+it.
+Ultimately, though, smaller is better when
+you can do it, so how do we go smaller?
+We have several approaches.
+One of those is the pygmy route which involves
+breeding up some smaller elephants with the
+same brain and behavior, then reverse the
+process on arrival, speeding it up by using
+implanted embryos on the larger side of what’s
+safe for each successive pack to rear.
+You might need to go rather slow with something
+like elephants of course since size is a pretty
+big part of their social dynamic along with
+age, and they live a long time.
+If the bigger and older elephants are having
+to deal with younger ones who are already
+much bigger than them, it might screw up the
+social dynamics and render the entire process
+pointless.
+A human can raise an elephant after all, or
+a pack of them, the idea is that we can’t
+do it as well.
+That’s our second approach by the way, using
+humans or robots or virtual reality to cut
+down on needed space or resources.
+This part of the “Stow and Grow” approach
+we see with seed ships or data ships, you
+pack everything tight as essentially data,
+DNA or Digital, and grow it on arrival.
+Taken far enough, you don’t even need any
+elephants alive for the trip, you just clone
+them on arrival and let them get raised by
+an artificial intelligence, either in a virtual
+reality or in an elephant-mimicking robot.
+We talk about uploading human minds a lot
+on this channel, and there’s no reason you
+couldn’t upload an elephant mind either.
+For that matter, while a zoologist can raise
+an elephant and not do as good a job as an
+elephant, presumably, one can also presumably
+get better at that with more technology and
+research into such methods and the social
+structure of the species in question.
+Don’t take that as easy though.
+Your animal-mimicking robots have to be very
+good, and we’d have to design an equivalent
+of the Turing Test for every single species
+we needed to do this with, many would be simpler
+than tricking a human with an android, but
+would still need to incorporate everything
+from behavior to appearance and smell.
+In theory, we could establish entire ecosystems
+in a digital substrate for the duration of
+a voyage with Dumbo and all his friends blissfully
+unaware that they are in a simulation.
+One morning, they wake up a little dazed and
+groggy on the real terraformed alien world
+or space habitat at the destination, completely
+unaware that they have just woken up from
+being vat-grown and their digital minds downloaded
+into the flesh and blood brains.
+Done right, they get up and go on their merry
+way, doing whatever elephants do, in the same
+way that they did yesterday when they were
+digital simulations.
+If you want to skip all those routes, you
+can just supplement the diet of those elephants.
+A pack needs thousands of square kilometers
+of land because they need to eat, and tend
+to inhabit places that are a lot less effective
+at producing food than a high-tech farm.
+A typical African Elephant eats about 70,000
+calories a day, but they’re pretty flexible
+about where that comes from, unlike something
+like a panda, so you can compress their natural
+habitat quite a bit by growing food elsewhere
+in dense and efficient hydroponics and having
+robots drag it in, or have them simply apply
+a lot of farmer techniques to enhance biomass
+production inside that habitat.
+If you know what you’re doing, to avoid
+screwing with their behavior or health while
+supplementing their diet, you can get away
+with a much smaller habitat.
+We’re focusing on Elephants because they
+are probably the most space demanding.
+The general consensus of zoologists I’ve
+seen is that while the minimum for health
+is a about a hectare, a few dozen productive
+hectares a piece is probably the goal for
+elephant packs, though more is always better.
+We will say 50 hectares a piece and a pack
+of 50 elephants, or 2500 hectares or 25 square
+kilometers.
+That’s probably overkill, but the less dense
+they are, the easier it is to include other
+species there to share in the environment.
+That would be a rotating habitat 2 kilometers
+in diameter and 4 long, more in keeping with
+the ship sizes we’ve discussed before for
+generation ships.
+Now you need nothing like this for most species,
+even most animals.
+There’s around 5000 mammal species and most
+are a lot smaller than people, let alone elephants.
+Most of those do not really need the continuity
+of society to do okay either, and even of
+those, most could be guided up by zoologists.
+They might be a bit weird for a few generations
+then return to normal, or a new normal, keep
+in mind, an elephant growing up under an alien
+sky or one growing up in a cylinder habitat
+where the sky is more pasture, is not going
+to be quite identical in behavior.
+That’s not necessarily a bad thing either,
+the elephants in India are not the same as
+the ones in Africa, in behavior or genetics,
+so they need not be the same around Alpha
+Centauri either.
+When you’re building these ships, you are
+aiming for the smallest size you can, based
+on your knowledge and technology and the species
+in question, and the biggest you can depending
+on your budget and desire, and will settle
+for a happy medium.
+You are not building a zoo and you are not
+building a natural habitat, you’re building
+a colony fleet to make a colony, you can worry
+about replicating things like back home and
+maximizing the welfare of those critters once
+you get there, the passengers are not meant
+to be a complete and final system.
+Now on something like a Gardener Ship or Gardener
+fleet, you do need that, because you might
+be doing it for millions of years; but then
+that’s another reason I suspect that will
+be the preferred approach to colonizing other
+solar systems.
+If you have a bunch of people tasked to make
+new worlds, trained to care about that as
+their main purpose in life and to tend to
+their fellow non-human passengers, and with
+those passengers living in their literal backyard,
+you are going to have a rough time with crew
+morale if they feel like their charges are
+being neglected or abused.
+I don’t think we want to discourage them
+in that either, or teach them to be callous
+or distant.
+We are, after all, principally focused on
+seeding human civilizations around the galaxy
+and we’d probably prefer that to not be
+done by heartless jerks.
+Now we picked elephants because they are huge,
+space demanding even for their size, and very
+social.
+While they are probably the most demanding
+for land species, they aren’t the only challenge
+we face.
+We have smaller apex predators that need a
+lot of land to support herds of the critters
+they eat, for instance, and it might be rather
+bizarre to have herds of robot antelope with
+lab grown meat on them running around.
+You can still compress that space though by
+enhancing the food source for those herbivores
+and letting the predators more often find
+random vat-grown carcasses to scavenge.
+It summons an image of the Park from Westworld
+to mind, but with the robots being animals
+rather than people, and with a lot of zoologists
+wandering around.
+We always think of the crews of spaceships
+having a lot of engineers and physical scientists;
+but colony ships probably would have way more
+biologists, botanists, and zoologists.
+But of course you’d need marine biologists
+too, because we have a lot of oceanic life,
+and some of those are pretty big and complex.
+A shark is a pretty simple critter, they are
+mostly instinctual, and they don’t raise
+their young.
+However, a few types are actually very social
+- with each other anyway - to everything else
+in nature they really are giant killing machines,
+and we probably could skip them on a ship
+entirely in favor of growing them at the destination
+from frozen stock.
+Needless to say, whales and dolphins are also
+very social and do need that social continuity
+and a lot of space.
+Or rather water.
+Water is heavy too.
+It may not be as heavy as dirt, which tends
+to be about twice as dense, but it’s a thousand
+times denser than air.
+As we discussed in the Ocean Planets and Water
+Worlds episode, most life in the oceans is
+pretty close to the surface and the various
+pelagic zones, areas broken up by depth and
+sunlight, don’t have all that much crossover
+especially with the very deep parts of the
+Bathypelagic or Abyssopelagic.
+Except for nutrients of course, those lower
+depths are just as dependent on organic material
+falling from the upper regions, marine snow,
+as those regions are on sunlight falling on
+them.
+The marine snow that feeds the deeper zones
+can be replicated by just dumping organic
+material from hydroponic facilities into such
+environments.
+But some critters do cross zones a lot and
+whales for instance are a good example of
+that.
+Cuvier’s beaked whale can dive 3 kilometers,
+near the bottom of the bathypelagic.
+That is a lot of water, and a lot of depth
+too, which is very rough on rotating habitat
+hulls.
+We have a couple of advantages though.
+First, you do control the gravity in a habitat.
+It varies linearly with distance from the
+center, and half way from the middle the gravity
+is half what it is at the edge.
+We can also spin it slower or faster and the
+shape of the rotating habitat is not restricted
+to cylinders.
+Second, we don’t know how dependent any
+species is on gravity, less might be fine,
+and those living in an aquatic environment
+in particular might not need much gravity,
+so you could possibly get away with very low
+spin rates and gravity on them.
+Third, those zones getting increasingly lower
+in biomass density as you go deeper and all
+the light goes away as the pressure rises
+too.
+The entire Bathypelagic Zone, everything below
+a kilometer of depth, is essentially a scavenger
+zone, and even the Mesopelagic, everything
+under 200 meters, is pretty sparse compared
+to the Epipelagic surface layer.
+This would seem to indicate that you mostly
+don’t need to replicate anything much more
+than 200 meters in radius for that habitat,
+but you can do your lighting differently,
+lighting lower depths to make the epipelagic
+in spots, and leaving other spots unlit to
+handle the life from the lower pelagic zones.
+We’ve discussed these before as vertical
+reefs and will look at them more in Colonizing
+the Oceans next month.
+One upside is that while dolphins and whales
+are probably as space intensive as elephants,
+they also do well with humans, so we can get
+away with smaller groups that marine zoologists
+help along.
+They are a problem though, and water is a
+problem on spaceships - it sloshes about in
+response to changes in acceleration and spin
+gravity.
+That’s fun in your bathtub, but a Tsunami
+in an O’Neil cylinder is somewhat more terrifying.
+While you are cruising through space with
+your cylinders rotating, all is well enough.
+But if you are accelerating or decelerating
+up or down from your cruising speed, all your
+water wants to go spilling toward your ship’s
+drive.
+Now, this isn’t too big a problem if you
+are accelerating slowly.
+If your maximum ship speed is about 10% of
+light speed - probably about the best you
+can get from fusion - then at 1-g of acceleration
+you will only need about a month to hit that
+speed, and if your destination is 10 light
+years away, that will be a journey of 100
+years with a month of acceleration and deceleration
+on each end - no big deal.
+If you wanted to do that though, you have
+to wait until you’re up to cruising speed
+to setup all your habitats and deal with some
+problems during switchover, as you throttle
+down the drive and spin up the drum.
+You’ve got to do it again at the other end.
+And you have to do all your setup with your
+crew.
+Which admittedly gives them something to do
+during an otherwise boring mission.
+But more realistically, you will want to start
+that habitat long before your colonists even
+board the ship, probably spending decades
+in a shipyard essentially being terraformed
+alongside fleets of sister ships bound for
+that system or others.
+And you’ll want to keep that ship when you
+arrive too.
+Terraforming planets isn’t a fast process,
+and it’s very destructive, so you want to
+live in your ship in orbit during the early
+violent phases.
+All of this means you want a slow acceleration
+while the habitat drum is spinning, you might
+even make it ever-so-slightly conical, rather
+than cylindrical, so that the net gravity
+will be perpendicular to the floor.
+Ideally a semi-flexible floor that can be
+released when the drive shuts off so it returns
+to a cylinder shape.
+In a spinning cone, gravity is zero at the
+tip and highest at the base, and by using
+a conic section, one just a little narrower
+at the back near the drive, you can eliminate
+some of the material migration.
+When the drive is off, if it can’t expand
+back to that cylinder shape, you just have
+slightly lower gravity in those areas, and
+not a lot.
+If you were doing 10% of a gee for your thrust,
+you’d take a year to get up to 10% of light
+speed, and a year down, a pretty small time
+delay for a century-long voyage.
+That would still be quite a pain, but maybe
+preferable to the delay of a mere hundredth
+of a gee, which could practically be ignored,
+but would add a decade to both the start and
+end of your journey.
+I suspect this would be the upper and lower
+bounds of how fast you’d accelerate a colony
+ship though.
+Faster is hugely problematic for little gain,
+you’re shaving off months not years to your
+total voyage time, slower is just rather pointless,
+you’d need fairly good measuring equipment
+to even notice that gravity wasn’t quite
+pointed straight down.
+Just as a reminder, Earth spins too, and the
+centrifugal force we experience from that
+is not straight up anywhere but the equator,
+so don’t think net gravity being pointed
+slightly off center from spin is the kind
+of thing where even small quantities can cause
+problems.
+Your concern is so much of it that you get
+tidal waves and landslides inside your habitat
+drum toward the back, and you can get around
+that even for fairly high acceleration rates
+by sectioning the drum up with retaining walls.
+You might want to do stuff like that anyway,
+gently sloping tiered walls which can blast
+open and slam a bulkhead across the whole
+cylinder, since a puncture could otherwise
+wreck a whole habitat section.
+I’d actually bet though that most of these
+would have lots of sealed off sections for
+individual smaller ecosystems.
+Ones you could wholesale remove as wedges
+at your destination.
+The image of a generation ship as a single
+vast cylinder you can look across doesn’t
+work too well, to avoid loose material and
+water slamming around under any acceleration,
+you want a lot of compartmentalization, which
+has other advantages too.
+You would like conceal your compartments as
+hills and ravines to make it look like a single
+big landscape, but it would be compartmentalized.
+This isn’t a very big problem though.
+Even for species like elephants or whales,
+that need a lot of space, or migrating birds,
+it wouldn’t be that hard to have passages
+in between compartments they could use, just
+stick a little tracker in each critter that
+opens the airlock when they’re near and
+a shutdown override you can trigger if that
+compartment is sealed off temporarily.
+Adds a lot of safety features and makes it
+easier to gather them somewhere when you need
+to.
+Odds are pretty good any critters you can’t
+grow easily will have such trackers in them
+anyway, since those are your size bottleneck
+so you can help keep the space they need minimal
+by monitoring them closely for problems.
+This is fundamentally an artificial environment,
+you are not letting nature takes it course,
+and if you need to knock out a lion before
+it kills one of the members of your keystone
+species for that habitat section, it helps
+to be able to have trackers on them all.
+Ditto, if you have an otherwise valuable member
+of that species who has a chronic illness
+and needs medication every day snuck into
+its food or injected by a robot mosquito.
+This is all a lot of work obviously and is
+one of the reasons why I can’t imagine anyone
+would get bored on these trips.
+You can decrease it by better technology,
+better understanding of biology and ecology,
+or by just making your ships bigger, thus
+allowing more of those critters and more people
+to tend to them.
+It’s not even possible to be more than vaguely
+in the right general area for how big the
+ships need to be and how many you need, at
+this time, and I would expect one of the jobs
+in the future will be whole universities worth
+of scientists spending generations trying
+to fine-tune everything against various benchmarks
+for size, cost, mission goals, acceptable
+drift in ecosystem or critter behavior, and
+so on.
+Many critters are easy, but many are very
+hard, and may require huge numbers of experts
+to study all these species first and then
+to properly model a viable stable habitat
+for them.
+Again something like migratory patterns can
+depend on everything from magnetic fields
+and day length by season to wind and water
+flow.
+Even fire, we have species that propagate
+seeds that way, and if you needed them during
+the trip, you’d have to torch part of your
+habitat drum periodically.
+This may turn out to be complex enough that
+the “Stow and Grow” approach of seed and
+data ships ends up being technically easier.
+We skipped a lot of the other challenges too.
+Gravity and air pressure vary a lot with height
+inside rotating habitats, you could have problems
+with birds and insects and deep sea life that
+way.
+Feeding deep sea life is hard too, as Plankton,
+the basis of many marine food chains, is surprisingly
+tricky to manage for such a simple type of
+organism.
+Ships may have many compartmentalized and
+separate ecosystems but are likely to specialize
+in certain climates.
+You’ll need swamps and deserts, lakes and
+oceans, forests, steamy jungles and frozen
+tundra of every conceivable kind in between,
+and you’ll want to keep them grouped together
+to share assets and expertise as much as you
+can, and to replicate the native environment
+as close as you can.
+Even a lot of microbes are touchy about that
+and don’t grow well in captivity, something
+we didn’t even notice till relatively recently.
+The more we know, the smaller we can go, but
+at the same time we often end up finding out
+about problems we didn’t even know about
+that will require extra efforts or interdependent
+species we didn’t even realize had a connection.
+We might find out that you need ships even
+bigger than an O’Neill Cylinder and dozens
+of them for each colonial fleet, although
+with enough research I think that will be
+unlikely.
+Now you might say that’s a lot of effort
+to go through when there’s a good chance
+you could go the hard-tech route and just
+clone everything on site, Stow and Grow, and
+if needed dump in copies of uploaded animals
+minds into them for when you arrive if instinct
+isn’t enough.
+Indeed, I suspect that might be a popular
+approach, but that requires a lot of work
+too and keep in mind, you will need all these
+skills and experts to make the habitats and
+terraformed planets at the destination too.
+Moreover, you will need them to colonize our
+own solar system.
+So you should have the knowledge base already
+there before you begin interstellar colonization,
+and you will need those skills when you arrive,
+and your crew does need something to do during
+the trip, so there is a logic to doing things
+this way.
+Indeed, as mentioned previously, you probably
+are starting this work before the ship even
+leaves the solar system, which is a good way
+to weed out unsuitable candidates.
+If much of your crew is spending a year or
+two getting the habitat drum ready before
+it even gets loaded into the ship, they have
+time to get used to what they’re doing and
+who they’re doing it with, and can jump
+ship if they don’t like it, rather than
+in interstellar space.
+Once a ship gets underway and up to speed,
+you are stuck on it for the duration, which
+is likely to be at least several decades and
+possibly thousands of years.
+That itself is another big issue and one we’ll
+be addressing in our next episode of the series,
+the Ark of a Million Years, where we will
+see that maintaining a human civilization
+on these ships is maybe harder than even maintaining
+these ecologies.
+After all, it needs to be one that can still
+be useful, maintain the ships, and get the
+mission done on arrival, while also still
+being a civilization we’d actually want
+to transplant, not one gone primitive or mutated
+so far off basic human behavior that it might
+as well be an alien colony you’ve founded,
+not a human one you could get along with.
+We had to skip over a lot of the complexities
+of ecosystems today, like genetic bottlenecking,
+and we also mentioned the idea of using robots
+to colonize places.
+There’s a great Computational Biology course
+on Brilliant.org that covers these topics,
+including a Colonizing Mars quiz where we
+send robots off to do it that explains a lot
+of the biological concepts in terms of simple
+robots mutating and having features added,
+which I have to say is probably the best explanation
+of genotypes and a phylogenetic tree I’ve
+ever heard.
+If you’re like me and more of physical sciences
+and computer person, it’s a great approach
+to learning some of these biological concepts,
+and also a great introduction to von Neumann
+machines and some of the problems they face
+that tend to get skipped in sci-fi.
+If you want learn more about those and other
+topics you’d need for running a generation
+ship, go to brilliant.org/IsaacArthur and
+sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription.
+And I really do advise trying out that robot
+course, it’s just plain fun.
+So today we focused a lot on ecosystems in
+interstellar missions.
+Next week it will be more about post-biological
+approaches to the future, as we examine the
+role of artificial intelligence and robots
+in warfare, in Attack of the Drones.
+The week after that, we’ll be back to interplanetary
+colonization in Colonizing Neptune, and we’ll
+look at colonizing our most distant major
+planet, along with its close cousin Uranus,
+both in terms of colonizing their moons like
+we did for Jupiter and Saturn, but also if
+we can actually colonize these sorts of small
+and cold icy giants directly, and live in
+their atmosphere or even terraform them into
+super planets.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a great week!

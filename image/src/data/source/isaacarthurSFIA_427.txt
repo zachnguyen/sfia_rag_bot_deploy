@@ -1,0 +1,507 @@
+This episode is sponsored by Skillshare.
+You might have lived in some places you thought
+were real holes.
+But for future residents of the Moon, that
+would actually be a good thing...
+So today we’re returning to the Moon, something
+humans haven’t physically done in the almost
+50 years since the Apollo program. That will
+be fairly important to our discussion today
+about setting up large scale and permanent
+facilities in craters on the Moon, because
+when we think about going back to the Moon
+a major question that always comes up is “Why?”
+And what will be achieved by walking around
+collecting rock samples for a few days?
+And the answer to that really is “not much”.
+Those Apollo rock samples were of great scientific
+worth and more would be handy but not enough
+to justify a mission there at outrageous expense
+and more than a bit of danger. And why wouldn’t
+we just send robotic sampling missions? That’s
+a lot of why the US hasn’t gone back and
+nobody’s worked too hard to be the second
+to get there. It’s also why when we talk
+about returning we tend to talk seriously
+about long term or permanent facilities. Not
+only would a permanent base let us get some
+serious science done, but it allows us to
+begin exploiting the Moon as a gateway to
+space development and off-world industry,
+as we looked at last time in Moon: Industrial
+Complex.
+Inevitably when the topics of bases on the
+Moon and where to locate them come up, the
+popular answer tends to be one of the major
+craters and usually one of the ones nearer
+the poles. We’ll explain why that is today
+but also some reasons that’s not always
+ideal or necessary. Polar craters probably
+are our best bet, as we’ll see today, but
+there are some good competitors, such as equatorial
+craters or lava tubes.
+Our focus today though will be on how such
+cities will look and how those communities
+might develop. We’re interested in cities
+and settlements, not early bases, stations,
+or outposts. So we have to start by explaining
+why certain places are attractive as colony
+locations.
+To do that, we must first say that these craters
+are often huge. Now, the Moon is covered in
+craters and the vast majority of them are
+tiny, but most folks picture a moon crater
+as several meters across or maybe the size
+of a football stadium. And of course many
+are, but the ones we tend to be interested
+in and talk about for bases are much larger,
+and we have craters on the moon larger than
+most nations on Earth.
+Now while a crater is usually a lot shallower
+than they are wide, this still means the big
+ones can have rim walls many kilometers high
+and basins many kilometers deep. That tends
+to make us think of big domes over these mostly
+circular craters, be it the small ones or
+big ones, their shape having the potential
+to facilitate construction of a dome is not
+the reason for our interest in craters, rather,
+the steep and high sides is what we are interested
+in..
+A big deep crater that gets little sunlight
+can, we believe, get a lot of ice and other
+elements down in that bottom, which is obviously
+a big boon for any developing base or colony.
+Those rim walls are an even bigger deal though,
+because the moon has very long nights and
+also has no atmosphere, so when the sun sets
+it gets way darker.
+If you’re on a mountain, you’ll see the
+Sun set later than those on the ground do,
+and not by a small amount either. This is
+even more the case on our airless moon that
+is a lot less wide than Earth and much more
+sharply curved. As an example, on Mount Everest
+on Earth, you can see about 230 miles or 370
+kilometers away. That’s almost 1% of the
+Earth’s circumference, so the Sun is going
+to rise about 1% earlier and set 1% later
+there as a result. That probably doesn’t
+sound like too much, but it does mean the
+day starts 14 minutes earlier and ends 14
+minutes later, if it were at the equator anyway.
+For stuff like solar power and agriculture
+that’s not a trivial difference. It’s
+far more extreme on the Moon, about seven
+extra hours of daylight is added to any position
+that high up on the Moon on its equator.
+However, that much extended daylight time
+is not because the Moon is less wide. Indeed,
+the horizon is actually closer to you as a
+result. If you transplanted Mount Everest
+to Moon, you’d only be able to see half
+as far before the horizon was reached, and
+that horizon distance covers when the Sun
+sets or rises. Rather, what mostly controls
+that altitude-induced extension of the day
+length is that the Moon’s day is a month
+long. So being up high is less effective than
+on Earth for letting you see far distances,
+but that’s more than counteracted by that
+really long day.
+The reverse is also true, that being in a
+crater at the bottom will massively shorten
+your horizon and thus your daylight hours
+too, which makes for a very big temperature
+difference between rim wall peaks, crater
+bottoms, and general lunar surface – there’s
+obviously no sea level on the Moon, not yet
+anyway. We can take advantage of that temperature
+difference, by using heat engines, solar thermal
+power, to make some pretty efficient power
+generators, but more on that later.
+Now, I mentioned what these are like on the
+equator but it’s different at the poles.
+As an example, on a sphere that was spinning
+on the exact same plane as the sun it orbited,
+no axial tilt, the north and south pole never
+actually get dark, there’s no rock rotating
+between you and your light source. Almost
+everything has an axial tilt and indeed the
+Moon has one relative to Earth, which it orbits,
+and relative to the Sun, which Earth orbits.
+So the poles of the Moon do get dark. However
+you don’t need to be up too high there to
+be sticking up so much that you get constant
+sunlight, and indeed those bigger crater rim
+walls near the poles stick up enough that
+they get an awful lot more light than the
+half on, half off, you would expect to get
+on a smooth rotating body.
+What’s more, there is no air there so there
+is no wind, and the gravity is weaker, so
+it’s very easy to build tall skinny towers
+on the moon with great big parabolic mirrors
+on them shining light down onto that crater.
+Done right, you can keep sunlight on there
+for a very long portion of the lunar day,
+even rotating some away on a 24 hour schedule
+to mimic something earth-like.
+So that’s our first big concept change when
+looking at crater cities. They’re not a
+big crater with a big dome on them. Indeed,
+a single dome is mostly rather pointless,
+it’s vulnerable to catastrophic failure
+and has to be built all at once. At most you
+might have a big crater basically bubble-wrapped
+in smaller domes built as needed with another
+big one over top as a secondary shell or shield.
+Instead what we’d expect initially is a
+few small facilities inside a given crater
+with some rim wall towers with mirrors on
+them that also served as transmitters. Along
+that rim wall you’d see towers stretching
+up high enough to be able to keep catching
+the Sun and beaming it down to the crater
+wall, or the smaller facilities in it initially,
+adding more towers as you went. Those would
+probably swivel their light away on a 24 hour
+basis to simulate daytime better. That excess
+light in night-phase probably being cast onto
+some of the thermal wadis we discussed for
+solar thermal power generation in the Industrial
+Complex episode. Indeed, if LED lighting is
+the preferred method of illumination for manned
+facilities, beamed and piped light may be
+limited to industrial uses and growing food.
+I should also note that you’d likely be
+using mirrors for lighting farms as opposed
+to classic domes anyway. Everything weighs
+less there, so it’s very easy to scoop up
+tons of rock and pile them on top of structures
+for added protection, you can then bounce
+light in, filtered of harmful frequencies
+of light, through windows on the side to a
+reflective ceiling that lights the place up.
+Those windows can be down tunnels so you have
+thick walls too and with pressure sensitive
+hatches able to slam shut if the window was
+damaged. This approach is a little more work
+intensive than a dome to initially build,
+but far sturdier, safer, and probably more
+productive and cheaper to maintain in the
+long term.
+As time goes on you’d add more towers and
+bigger mirrors to that rim wall. Depending
+on crater size you might need millions of
+people to comfortably fill such a crater and
+it could easily spill out onto the outside
+of the crater wall and the plain beyond. You
+also have the option of foregoing those towers
+in favor of satellites that beam down power
+and light and signals too, but I suspect the
+towers will tend to be the preferred method.
+Transmission is a big deal on the moon as
+we only have line of sight, no atmospheric
+bouncing of signals, and that horizon is shorter,
+so everything has to be via tall towers or
+off satellites. That’s not for communicating
+home to Earth particularly, one side of the
+moon always points at Earth and the other
+side does not. Those dark-side bases, at least
+dark in terms of having line of sight to Earth,
+that are fairly near the Earth-Side might
+employ very large towers or multiple towers
+serving as relay stations to achieve a direct
+connection to Earth that’s not dependent
+on satellites.
+Odds are though that as the Moon develops
+we’d see transmitter towers pop up on every
+peak, particularly as you can’t really do
+geosynchronous, or lunar synchronous satellites
+for the Moon, and even if you tried you’d
+be introducing an enormous signal lag. That’s
+one way we might see crater villages pop up
+too, you put up a tower for power and transmission
+relay and a small settlement develops around
+it.
+There’s no fossil fuels on the Moon and
+no air to use to burn it, so electric power
+for vehicles and robots is probably going
+to be the big thing from Day 1, and while
+batteries are always good as a reserve, I
+suspect we’d see a lot of wireless microwave
+power transmission incorporated into everything,
+which means blanketing the surface with power
+relays and that can be done incrementally
+too.
+Now, back to those crater cities themselves.
+First, I want to stress again that we are
+looking at cities today, or at least large
+settlements, this episode is not about initial
+bases except as telling us where those bigger
+settlements would likely originate from. Those
+initially tiny bases would logically tend
+to be where a city arose from so we need to
+consider initial base placement, and we looked
+at early Bases more themselves in Moon Base
+Concepts and Battle for the Moon.
+To discuss those early settlements better,
+we have to decide if the Moon’s gravity
+by itself is enough for people to live comfortably
+and healthily, and of course we don’t know
+yet. We know it’s unhealthy to live in no
+gravity but we don’t know if you need Earth-normal,
+or close to it, or if even lower gravity than
+the moon might be just fine. If it isn’t
+though, we need simulated gravity in the settlement,
+potentially spinning the entire thing around
+inside that crater, but for today we will
+assume that Moon gravity is good enough; or
+that if not, people’s individual homes or
+main workplaces could incorporate a small
+rotating section.
+Those would be interesting rotating houses
+or apartments, as your door would be in your
+roof and you’d probably walk down your ceiling
+to a floor that was basically a spinning cylinder
+slight curved to be narrower at the bottom.
+You wouldn’t have windows except maybe in
+that ceiling and I suspect those would tend
+to be tilted or wobble just a bit to keep
+Earth in the same place with the night sky
+seemingly whirling around it. It might be
+rather nauseating to see that whirling around
+several times a minute on the smaller ones.
+That’s an option, as is mega-sizing it to
+include a whole crater, but we’ll instead
+assume that folks can either live in Moon
+gravity just fine all the time, or need some
+minor medical assistance of some sort to do
+so, or that years long deployments, with occasional
+trips back to Earth or a rotating space station,
+are adequate.
+That’s the easiest case and the one that
+most favors major moon expansion. If you need
+to live under spin gravity most of the time,
+then expansion around Earth-Moon space is
+likely to be in Cylinder Habitats and not
+on the Moon. The Moon is still industrially
+and scientifically attractive, thus encouraging
+folks to live there, but I wouldn’t expect
+major residential settlement. Alternatively
+if you can live just fine in some personal
+house or dome of your own, then it’s a lot
+more attractive.
+Incidentally I doubt we’d ever see a ton
+of classic single domes. It is possible to
+flat out terraform the Moon complete with
+oceans and air, though quite a pain, but while
+it’s airless you view the world through
+windows with rapid automatic shutters in case
+of damage, not while sitting in t-shirt and
+shorts under a big glass dome. I’m sure
+that would happen, but more in the way folks
+get a kick out of sitting on cliffs or a boat,
+for a bit of thrill, not to relax and soak
+up the Sun. It’s just a lot safer to use
+a mirror and a lens to bounce such light into
+some nice garden and lawn you’ve got growing
+in something akin to a bomb-proof bunker.
+This is especially true if the gravity isn’t
+enough for constant comfortable living and
+so homes need to spin and thus might as well
+be buried underground too anyway.
+This doesn’t really give us the lush fertile
+crater folks might be picturing though, but
+a few caveats on that. First, a local culture
+gets influenced and built around by what the
+major advantages and disadvantages of the
+area are, and the ever present fear of a catastrophe
+breach or puncture is going to be on their
+minds no matter how safe you make things,
+same as Hurricane fears are for folks on coasts,
+or flooding for those on rivers, or earthquakes
+for those on the Pacific Rim. Expect it to
+influence every aspect of their life, subtly
+or overtly. That might diminish with time
+though, micro-meteors represent no true threat
+to a dome and bigger ones are likely to be
+easily detected and vaporized by the sort
+of infrastructure we’d expect in place if
+the Moon was seriously colonized, but customs
+and traditions and building regulations and
+the architecture and lifestyles resulting
+from them are likely to hang around long after
+the need is gone.
+Second, keeping that in mind, technology does
+improve and especially where necessity drives
+it. As we mentioned in spaceship design, folks
+living in a spaceship have this same concern
+and might address it by just having ultra-comfortable
+spacesuits as default clothing, complete with
+some self-inflating head-bulb that could trigger
+if the pressure dropped, or some life-capsule
+drone following them around who could expand
+and swallow them if the dome ruptured and
+they got blown out. Indeed it’s pretty probable
+folks in the future, even just a few decades
+from now, we’ll be used to being followed
+around everywhere by some sort of drone or
+a whole posse of them and the low lunar gravity
+will make buoyancy and lift of such drones
+easier.
+Third, technology improves, and we just won’t
+have a bunch of Crater Cities on the Moon
+this century, regardless of technology. Communities
+don’t just emerge and grow that rapidly,
+even if we got the tech and infrastructure
+to do this all tomorrow it would still be
+generations before there were a bunch of major
+settlements on the Moon. That’s a lot of
+time for other technologies to develop and
+grow mundane and routine, like minor cybernetic
+augmentations that let folks wander around
+a vacuum conscious and somewhat safe for a
+few minutes. Or have clothing that was literally
+made of a bunch of microscopic robots that
+just swarmed into whatever shapes you needed
+them to be, be it a spacesuit or a simple
+tool. I’d also not be surprised if a lot
+of folks just had themselves rebuilt so they
+could just live in an unpressurized hut and
+stroll outside onto the airless low gravity
+surface entirely casually or at least virtually
+through advanced telepresence.
+Fourth, just because homes and workplaces
+and other places where folks spent most of
+their time might tend to be carved into a
+rim-wall like some cave or bunker, doesn’t
+mean the crater would be lifeless. Whether
+it’s a big dome or a bunch of small ones
+connected together, that’s perfectly fine
+for crops and parks. Especially for farmland,
+where most of the farming is probably largely
+automated anyway, a catastrophic puncture
+just means the loss of one plot of land and
+the organics inside it. Not a good thing but
+not some horrible headline reading dome punctured,
+a dozen children sucked into the void.
+I would bet most craters would get terraformed
+and have a big lake at the bottom, many having
+a center island around the peak that often
+juts from the center of craters. This isn’t
+just to be pretty either, you’re very likely
+to be setting up your solar thermal power
+generation to initially take advantage of
+that cold crater bottom as one end of your
+heat reservoir for a heat engine to produce
+power, and as that expands or if you’re
+using nuclear power instead, it’s nice to
+have a giant puddle of water to use as a cooling
+pond, and you could keep that evaporating
+and raining on the crater wall in a smaller
+single dome crater or pump the moisture around
+to the other tiers of the crater domes. The
+center of the crater would also receive more
+radiation than the rim areas which are shadowed
+by the crater walls themselves.
+Then you’d probably have many-tiered and
+individually domed levels, with doors and
+windows in them leading into homes and workplaces.
+This would probably sprawl out onto the exterior
+of rim walls and onto plains, though likely
+in growing crater sprawls as many of them
+touch or even combine. More like an upside-down
+city, with a foam of domes at “street-level”
+and the buildings underground.
+Indeed, while there are a lot of big craters
+on the Moon, as mentioned earlier most are
+smaller, often craters inside craters, and
+a lot of these probably would be a single
+dome. You might dome a crater inside a crater
+or near your main crater and turn it into
+a stadium, for instance. Playing any ball
+games there is likely to be interesting though
+considering how long a ball, be it a baseball
+or soccer ball or volleyball, is going to
+spend in the air before landing. That might
+require some rather large stadiums as a result.
+I’d also not be surprised if a vacuum-version
+developed a lot, there’s nothing really
+stopping you from playing baseball in spacesuits
+for instance.
+Ultimately though I think we’d still see
+those major habitats really being built into
+the crater walls, not down at their bottom
+or on their skin, but safely burrowed inside.
+It’s just easier to have a mirror array
+concentrate light and send it down a shaft
+that can automatically seal if punctured to
+be spread out and bounced around inside some
+places safely tucked away under meters of
+sturdy rock, with large gardens and farms
+inside and out.
+Those would be rather beautiful gems for folks
+to look at from rim-wall and nearby orbital
+facilities, but on the Earth-side of the Moon
+at least, you’d always be able to see Earth
+right there anyway, so we might see more of
+this sort of crater parks and farm on the
+Far or Dark side of the Moon.
+Of course, these might serve as the seeds
+to eventually terraforming the Moon, but that’s
+a topic for another day.
+A bit of a recurring theme we have for space
+colonization is that it will be very skill
+intensive, and in our increasingly knowledge
+and skill-based future, it’s going to be
+quite a challenge to ensure small groups of
+explorers or colonists have rapid access to
+all the information they need and in a format
+they can absorb most easily and quickly. Of
+course that’s a problem we have nowadays
+down here on Earth too, and is where online
+videos and classes like those offered by Skillshare
+can be invaluable.
+Skillshare offers thousands of inspiring classes
+for creative and curious people, on topics
+including illustration, design, photography,
+video, freelancing, and more. Running a graphics-intensive
+show like SFIA, and being trained as a physicist
+not a graphic designer, I’ve found their
+graphic design courses, like Aaron Draplin’s
+“21 Tips for Speeding Up Your Design Workflow”,
+to be incredibly helpful in improving my own
+work, and Skillshare has classes to fit your
+schedule and skill level on many helpful topics.
+A premium membership is less than $10 a month
+and gives you access to that course and all
+the rest, and you can try it out for free.
+To sign up, visit the link in the description,
+and as a special offer, the first 500 people
+to use this link will get 2 free months of
+Skillshare Premium Membership. Act now for
+this special offer, and start learning today.
+So next week we’ll head back deep into the
+far future to look at the end of the Universe,
+the Heat Death, and ways we might postpone
+that. And in two weeks we’ll look at ways
+we might avoid potential catastrophes nearer
+home in time and space, as we discuss Climate
+Change Mitigation techniques for natural or
+artificial calamities, be it volcanoes, asteroids,
+or carbon dioxide.
+But before then we have a bonus episode coming
+up this weekend, where we’ll explore how
+we might coexist with artificial intelligence.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell. And if you
+enjoyed this episode, hit the like button
+and share it with others. And if you’d like
+to support future episodes, visit our website,
+IsaacArthur.net, to donate to the channel
+or check out some of the awesome SFIA merchandise.
+Until next time, thanks for watching,
+and have a Great Week!

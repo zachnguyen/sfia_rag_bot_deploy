@@ -1,0 +1,410 @@
+We spend a fair amount of time on this channel
+discussing the Fermi Paradox and a fairly
+common request I get is to discuss the Dark
+Forest Theory, the notion that nearby alien
+civilizations remain silent to avoid detection
+or getting killed, and may attack us for not
+being silent.
+This concept comes from the novel Dark Forest,
+the second book in Cxin Liu’s Hugo Award
+winning trilogy Remembrance of Earth’s Past,
+often called the Three-Body Problem for the
+first book.
+It essentially looks at the problem from the
+perspective of Game Theory.
+We’ve bypassed covering it previously for
+two reasons, first, it’s actually fairly
+easy to take it apart, we’ve already covered
+a more generalized version in episodes like
+Sleeping Giants or Hidden Aliens.
+Second, Game Theory is itself a bit much to
+introduce in a single episode, so it would
+violate my general rule on this channel of
+minimal math and having episodes be standalone,
+whenever reasonably possible.
+Game theory though is really handy for a lot
+of galactic scale problems because so often
+it’s used to address problems where the
+decision makers can’t actually communicate
+with each other or do much investigation.
+That's exactly the sort of problem you get
+when dealing with decades or centuries of
+light lag from interstellar distances.
+It’s also a very handy approach when you
+can’t say much else about the other parties,
+or players, involved beyond that they probably
+are reasonably rational and have time to choose
+the best way of behaving, with which light
+lag again helps.
+It’s really hard to predict the behavior
+of another human who grew up in the same time
+and culture as yourself, let alone some alien
+with a different evolutionary background,
+an artificial intelligence or even just a
+human who might be genetically or cybernetically
+altered or augmented.
+You can’t assume they will be ultra-rational,
+but you’re generally better off working
+from that premise than trying to guess in
+what specific ways they are not, because you
+will drown yourself in possibilities.
+We can also assume interstellar civilizations
+all know math, and will assume everyone else
+does too.
+So it makes it very attractive to use Game
+Theory and other mathematical approaches to
+decision making to guess at behavior.
+It is however also very easy to over-simplify
+problems with game theory and get misled by
+the answer.
+That’s basically what happens with Dark
+Forest Theory.
+The Dark Forest can be viewed as an adaptation
+of the Prisoner’s Dilemma, a classic of
+game theory, so we’ll review that quickly,
+then explain the Dark Forest version.
+There are a ton of good videos on Game Theory
+and the Prisoner’s Dilemma if you want to
+explore that more, SciShow did a good introduction
+to it a few years back.
+If you want a deep exploration, William Spaniel
+has a whole channel devoted to it, and Jade
+from Up and Atom did an episode on the Quantum
+Prisoner’s Dilemma, a fun variation on the
+original.
+Brilliant, one of the channel’s sponsors,
+also has some great online courses for game
+theory, and I’ll just refer everyone who
+really wants to dig into the topic to those.
+The basic Prisoner’s Dilemma is as follows:
+Two gang members get arrested on suspicion
+of having robbed a store, and both were found
+with illegal weapons on them, a slam dunk
+for two years in prison.
+However there’s not enough evidence to get
+them for the robbery.
+So the police separate them and offer them
+both the same offer.
+Confess and rat out your partner and we will
+let you go, no prison time at all, for the
+weapon violation or the robbery.
+We’re making your partner the same offer,
+and whichever of you confesses first goes
+free, the other is going away for 10 years
+for the robbery.
+Each of them can either speak out, and hopefully
+beat the other guy to the punch and be let
+go, or stay quiet, hope the other does too,
+and each get 2 years, a total of 4, much better
+than 10, but worse than 0.
+In some versions if both speak they both get
+7 years, but the general notion is that it’s
+in the rational self-interest of each of them
+to confess, and game theory always revolves
+around folks acting in their own rational
+self-interest.
+Unfortunately, as the primary example to introduce
+folks to Game Theory, using a pair of criminals
+with no concern for the other’s welfare,
+it often gives people the impression that
+game theory doesn’t predict the behavior
+of rational, self-interested folks but rational,
+self-interested sociopaths.
+You can just as easily modify it to some case
+where a husband and wife get abducted and
+put in solitary confinement with a saw and
+a tourniquet and told that they have 30 minutes
+to saw their left arm off, and if they don’t,
+they’ll be released but their spouse will
+be shot, and their spouse is getting the same
+offer.
+Here the reward is different since you presumably
+value your spouse more than your arm and would
+expect them to feel likewise and make the
+same deduction, and rational self-interest
+for most people would be to lose an arm rather
+than a spouse, I hope.
+The Prisoner Dilemma gets used a lot because
+it’s very simple but normally a realistic
+game theory case might have several additional
+options and players, who each get different
+rewards, and it can be very handy for things
+like guessing how various rival or cooperative
+groups might act for things like interstellar
+colonization or space warfare.
+There’s also a Nash Equilibrium, sometimes
+more than one, where you pursue a strategy
+that insulates you from the effects of the
+decisions of the others.
+A wise choice when you can’t know or influence
+the other players’ strategy.
+Obviously if those two prisoners could talk
+they could strike a bargain or coerce each
+other or they might be genuine friends, there’s
+at least some implied trust if you’re willing
+to rob a bank with someone after all.
+But this general inability to know what the
+other person is doing, due to lack of communication
+or deep knowledge of them, is very handy over
+interstellar distances, when you have all
+that light lag making it hard to talk or get
+up to date information about the other player’s
+motivations and goals.
+Even more so when we’re discussing possible
+alien civilizations you’ve never even met
+to realize how different their thinking is.
+You know they know math and you know they
+will assume you know math too, so approaching
+them via Game Theory or other mathematical
+approaches for decision making is better than
+just making wild guesses about behavior, a
+conclusion you’d expect them to draw too.
+This is not the flaw in the Dark Forest Theory,
+one always wants to be careful applying game
+theory but it’s a better approach than most
+options.
+So, here is the basics of the Dark Forest
+argument.
+We assume that all life wants to survive,
+regardless of whether or not it will do anything
+to survive, they care about their own existence
+more than other civilizations.
+This is debatable as an absolute, you might
+get exceptions, but in general it’s a decent
+assumption.
+So we have a rational self-interest in survival
+and assume everybody else does too.
+We’re mostly good so far but that survival
+imperative is already a small hole in the
+concept, a species might have some suicidal
+or suicidally brave inclinations and we’re
+potentially talking about many civilizations,
+each composed of many diverse groups and individuals.
+We’ll come back to that later.
+Second, if you’re new to space travel and
+haven’t met or learned about other civilizations,
+you have no way of knowing if they’re hostile
+or not, nor any obvious way to determine or
+influence that without making yourself known.
+They may want to annihilate you.
+This gives us our Prisoner’s Dilemma equivalent,
+two or more species not knowing of each other’s
+motives or goals do not know if those are
+hostile or not, but they want to live.
+If they stay quiet and hidden, they are exposed
+to less risk than if they speak up and say
+hi.
+Furthermore, if they attack any civilization
+they detect when it first emerges, they can
+wipe them out before they pose a possible
+threat, why gamble on possible peaceful co-existence
+that might down the road result in them gaining
+the edge and trying to wipe you out when you
+can just kill them now while you have an overwhelming
+edge?
+This same line of reasoning is often applied
+to newly woken artificial intelligences attacking
+humanity too.
+If you can ensure victory and a total wipe
+out of the potential enemy now, then you should,
+since even a fairly remote chance of them
+attacking you later is still higher than the
+zero risk you have by attacking now.
+Thus implying the galaxy is full of quiet
+hiding and genocidal civilizations, or their
+potential victims, as anyone who pursues a
+different strategy gets killed.
+We get the Dark Forest name from the following
+passage in the novel:
+“The universe is a dark forest.
+Every civilization is an armed hunter stalking
+through the trees like a ghost, gently pushing
+aside branches that block the path and trying
+to tread without sound.
+Even breathing is done with care.
+The hunter has to be careful, because everywhere
+in the forest are stealthy hunters like him.
+If he finds another life—another hunter,
+angel, or a demon, a delicate infant or tottering
+old man, a fairy or demigod—there’s only
+one thing he can do: open fire and eliminate
+them.”
+To make things a bit grimmer, Dark Forest
+assumes humanity is already screwed because
+we’ve made ourselves known by radio broadcasts.
+So what’s the flaw of this theory?
+First of course it does violate non-exclusivity,
+in a few ways.
+As a reminder Non-Exclusivity in our discussions
+of the Fermi Paradox has to do with any behavior
+or condition we can assume applies to all
+or virtually all the spacefaring alien civilizations.
+Knowing basic math and science would be a
+good example of an Exclusive case, hard to
+build rocket ships without math and science,
+so we’d expect spaceships to be the exclusive
+domain of species with math and science.
+Alternatively we can’t assume every civilization
+would be capitalist or communist, democratic
+or totalitarian or oligarchic, like ice cream
+or coffee, and so on.
+Something like a desire for survival is a
+good bet for a civilization as a whole, but
+can’t be extrapolated to perpetual silence
+since it only takes one person to ignore that
+prohibition, and furthermore they’ll know
+of that vulnerability and the virtual impossibility
+of enforcing a total silence, and they’ll
+know every other civilization will have considered
+the same issue.
+You can not guarantee silence over a long
+time, so why pursue a strategy guaranteed
+to fail?
+The other aspect is that while we can rarely
+label advanced civilizations as being exclusive
+to a certain behavior, one of the most common
+behaviors is likely to be a value for cooperation.
+By default rational self-interest is only
+caring about yourself, that’s a rare trait
+in social critters and one that makes producing
+an advanced civilization very difficult since
+those rely on cooperation and specialization.
+It should be fairly normal, when the leaders
+of some civilization are contemplating new
+neighbors in the Dark Forest, for someone
+to suggest a potential alliance or their value
+for trade, because it should be rather abnormal
+for civilizations to ever develop that don’t
+engage in such behaviors already.
+It’s assuming civilizations will see no
+value for peaceful co-existence and not factor
+it into their decision making.
+It’s also assuming attacking another civilization
+carries no risks or costs either.
+So Dark Forest is already a bit shaky just
+from all that, but the real flaw is that hiding
+is not an option, it wasn’t an option even
+before you sent out your first radio broadcasts,
+because all of this logic is based on the
+assumption that there are intelligent and
+potentially homicidal older civilizations
+able to move around the galaxy and only works
+if we assume those older civilizations are
+utter morons.
+This is the big flaw, because if humanity
+was the first on the galactic stage and had
+spaceflight and genocidal intent, it would
+already be game over for any other potential
+civilization that was behind us by more than
+the time it takes for light to travel from
+our world to theirs.
+First off, while hiding is a good strategy
+if you can pull it off, you can’t pull it
+off, you can’t hide your planet backwards
+in time and if I’m a high tech civilization
+with spaceflight and automation, I can get
+away with building huge megatelescopes or
+even just sending probes to do flybys of every
+single star in the galaxy to find any planet
+that might even have a hint of life and I
+can ram those probes right into the planet
+if they pick those signals up.
+If a civilization wants to, it can make a
+probe weighing, saying, 100 tons, equivalent
+to a heavily loaded freight vehicle, it can
+then use pushing lasers to get it up to say
+87% of light speed, where it now has a kinetic
+energy equals to its mass energy.
+This what we call a relativistic kill missile,
+and in this case one which would have about
+10^22 joules of damage potential, or the equivalent
+destructive force of a couple million megaton
+nukes, hundreds of times the peak firepower
+during the Cold War.
+I can send that probe toward the habitable
+zone of a known star and give it just enough
+sensors and fuel to pick up any planet as
+it approaches and course correct to ram it.
+I can also have it fragment beforehand to
+arrive in bits scattered over that planet’s
+day so the whole surface gets shotgunned.
+And of course it’s picking up detailed data
+of the before and after as it does this.
+If I make a trillion of these, one for every
+star in the galaxy with spares for redundancy,
+I would have used up 100 trillion tons of
+mass, 10^17 kilograms, the mass of a single
+modestly large asteroid, the kind we have
+so many of in our solar system that most don’t
+even have names, just numbers, if even that.
+Of course to accelerate them all to that speed
+would take a lot of juice, 10^34 joules, but
+that’s less than a year of the Sun’s output
+and you hardly need to rush, a few years won’t
+make a difference.
+In fact you could send them all out at different
+times and speeds so they all impacted across
+the galaxy at about the same moment.
+Needless to say you can go bigger if you want
+and you can also do periodic follow up strikes,
+especially since you’ll be able to narrow
+down your targets after that first wave gives
+you a very accurate map.
+Sterilizing an entire galaxy is possible through
+any number of methods, many of which don’t
+even require you to send anybody out to do
+it.
+Of course the better strategy is just to colonize
+all those worlds instead of ramming them,
+since it means if you ever bump into someone
+else in your weight class you have all those
+worlds to supply resources from and to absorb
+damage, not just one vulnerable home system.
+So there’s the flaw, your leadership is
+deciding whether to be silent or not, or attack
+anyone they meet or not, and one of your generals
+or scientists is going to point out that silence
+isn’t a valid strategy, because you’re
+already visible to anyone who has the capacity
+to kill you at the moment.
+You can’t hide, so instead you should pursue
+a policy of getting bigger, should a threat
+emerge later, and that you should be gathering
+intel and opening up diplomatic channels because
+it has no downsides.
+You really have to stretch belief to assume
+an otherwise peaceful species is going to
+go genocidal because you colonized other planets
+when they have not even told you that they
+don’t want you to, if they’re attacking
+over something like that or a diplomatic blunder,
+and with full escalation to genocide, than
+that was probably always their intent so there’s
+no reason to alter your own strategy.
+But they probably would have gotten themselves
+killed off for acting that way, or be worried
+about it, since if we’re assuming one other
+advanced civilization is near us, we have
+to assume many others are fairly close too
+and might see what you’re doing and disapprove,
+since they obviously don’t espouse that
+approach themselves or they’d have carried
+it out and you wouldn’t be around to do
+it.
+And the keywords there are advanced civilizations,
+such things should generally not arise without
+a modest understanding of cooperation, diplomacy,
+alliances, reciprocity, deterrence, and so
+on, same as we have, since it’s hard to
+build a civilization without those.
+And that’s a good final point, ‘same as
+we have’, because fundamentally if Dark
+Forest worked, we should see it in play on
+Earth, and we don’t, I’m not familiar
+with any civilization or species that’s
+pursued this sort of strategy in our own forests.
+The galaxy may be a dark forest, but it’s
+not very likely there are predators stalking
+its shadows, because fundamentally if there
+were, they’d already have jumped out
+and eaten us by now.

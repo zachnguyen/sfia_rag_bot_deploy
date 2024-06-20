@@ -1,0 +1,654 @@
+Whether it’s Yavin IV or Endor from 
+Star Wars or Pandora from Avatar,  
+science fiction has shown us many planets 
+with life that were actually moons,  
+but as science begins showing us our 
+first real exomoons, we may discover  
+that some already have life on them, or may 
+make good candidates for future settlement. 
+Earth has one of the largest moons in 
+the solar system and the only moon of  
+significance around a rocky planet, indeed our 
+Moon is 5 or 6 times more massive than Pluto  
+while Jupiter and Saturn’s largest Moons 
+each have nearly half the mass of Mercury. 
+Now, the reality is that our solar system is 
+probably not a very representative example of  
+what there is out in the Universe, indeed 
+Earth’s Moon has long been suspected of  
+being particularly anomalous and possibly 
+a critical factor in why Earth has life.  
+But with the exception of our Moon around our 
+planet, which may or may not be bizarre in  
+galactic terms, we have every reason to think that 
+a planet as big as Jupiter could have moons which  
+are fully as big as Earth. We have even found 
+thousands of planets bigger than Jupiter – most of  
+them warmer and closer to their star than Jupiter.
+Now, that’s probably not the norm either,  
+any more than 7 feet or two meter tall humans 
+would be, but they sure are easier to spot in  
+a crowd. In our hunt for exoplanets we see 
+the biggest and brightest worlds that tug  
+on their star most easily. Indeed, it's very 
+likely that the first exomoons we spot will  
+disproportionately be the big and warm ones 
+orbiting big and brightly-lit gas giants. 
+This raises the questions of if life could 
+naturally arise in systems similar to Earth,  
+but on their moons rather than on planets 
+themselves, and whether or not we would  
+choose to colonize these systems, 
+and that is what we’ll look at today. 
+First we should start by asking what the 
+fundamental differences between a Moon  
+and a Planet are, and for that matter, 
+a double planet. This is a little tricky  
+since we don’t really have a fully agreed upon 
+definition of a planet, but generally, any large  
+body orbiting a star directly is a planet, and any 
+body orbiting another which in turn orbits a star,  
+is a moon. It's trickier in a binary planet 
+case, where two bodies orbit each other. 
+Also, if you’re curious, a moon can 
+have a satellite too, or sub-satellite,  
+though stability can be tricky. This is usually 
+called a submoon, but there are a number of terms  
+suggested for that, from moonitos or moonettes 
+to moon-moons or ‘moooons’ with four O’s. And  
+I want to contemplate them today too, along 
+with a Double-Moon. A good fictional example  
+of this would be the Death Star II, which 
+orbited the exomoon of Endor in Star Wars. 
+But the real difference from a planet to a moon 
+are that its day length is essentially the time  
+it takes to orbit its planet, that it can be 
+tidally heated by that planet significantly,  
+and that it will almost inevitably be 
+tidally locked to that planet, the sub-moon  
+and double-moon case being examples of exceptions.
+To see what that truly means, let’s imagine I live  
+on Endor for the moment. I recently let my kids 
+see the old Ewok films, so I’m reminded how much I  
+would hate living there, and that canon wars over 
+Star Wars predate the Prequels or Disney films.  
+Now, details are scarce and inconsistent on 
+the world, as it is fictional – incidentally,  
+we will use the term ‘world’ generically for any 
+planet, moon, dwarf planet, or even very large  
+space habitat – but wookiepedia tells me it has a 
+rotational period of 18 hours and orbits every 402  
+days – which I am assuming means that that’s the 
+planet’s time orbiting its sun – irritatingly also  
+called Endor, though we’ll call them Endor Prime 
+and Endor’s Sun for simplicity. This is a decent  
+inference as the Moon of Endor would be expected 
+to orbit Endor Prime in the same amount of time it  
+spun on its axis once. We expect very nearly every 
+naturally occurring moon to be tidally locked,  
+always showing the same face to its planet.
+This amusingly means that one side of the  
+Moon can always see Endor Prime and the 
+other never does. A civilization on the  
+outer hemisphere of the planet gets the same 
+daylight and nighttime as the other side,  
+but would never see that planet or know of it till 
+it reached its age of sail perhaps. Which might be  
+quite the shock to them when they first saw it.
+The other half of the moon would be the inner  
+hemisphere, always pointing to the planet, that 
+planet is vastly larger in the sky than the actual  
+Sun is, and solar eclipses might be very common 
+events, potentially daily, and far longer than the  
+brief ones here on Earth, when our Moon briefly 
+eclipses the Sun. Indeed this will be the darkest  
+time they have, given that during their night time 
+their Planet will be glowing far more brightly  
+than our Moon does being that it's so much bigger.
+We are told Endor has a diameter of 4900  
+kilometers, barely a third of Earths, and if we 
+assumed Earth’s density, Endor would mass about  
+an 18th of what Earth does and about 4 times 
+what our own Moon does. That is probably being  
+generous too, Earth is the densest known object 
+in our solar system and the densest known Moon,  
+Io, is only 60% as dense, probably owing to 
+it being the closest of Jupiter’s big moons,  
+with an orbital period of 42 hours, causing it 
+to be a tidally-wracked volcanic world, spewing  
+lighter elements from its volcanoes. If Endor 
+did have such a density, Earth’s, its gravity  
+would be around a third of ours on its surface, 
+and more like a sixth if it was comparable to Io. 
+This is not a good candidate for holding an 
+atmosphere, though we’re told and shown that  
+Endor has a breathable atmosphere. The other thing 
+to keep in mind is that unless Star Wars Standard  
+Hours are way different from ours, that is one 
+very fast orbital period. Of Jupiter’s 60 or  
+more moons, only 4 are closer to Jupiter than 
+the Galilean Moons, the big visible ones, and  
+only they have periods of 18 hours or fewer, with 
+Io being next at 42 hours, Europa next at double  
+that, Ganymede next at double that again, and 
+Callisto slightly more than double that, at 16.7  
+days. And again, that’s how long the Sun takes 
+between sunrises too, minus some mismatch in terms  
+of sidereal orbit vs solar time or planet time. 
+Incidentally it is quite common for multi-moon  
+systems to be in orbital resonances where the 
+period of one is an integer multiple of another. 
+Now, the more massive a planet is, the shorter 
+it takes an object to orbit at the same distance  
+from its center, or the barycenter anyway, as 
+orbit goes on the combined mass of the system,  
+not just the planet. Jupiter’s got a huge mass, 
+and is fairly standard for gas giant density,  
+with Saturn having a very low density, making it 
+rather wide in size and probably explaining why  
+its nearest Moon takes almost a full day to orbit, 
+while Jupiter’s closest satellite takes just 7  
+hours. We don’t know the Mass of Endor Prime but 
+it makes matters easier if it’s a lot more massive  
+than Jupiter. Orbital Period goes with the inverse 
+square root of mass, so quadruple the mass,  
+half the orbital period at the same distance from 
+the primary. A Jovian that is 9 or 16 times more  
+massive than Jupiter having an Earth-sized or 
+Endor-sized moon seems entirely plausible and Io  
+would orbit those at a third or a quarter of its 
+current rate of 42 hours, 14 or 10 hours, meaning  
+a bigger Moon that was at the 18 hour mark would 
+probably not be the volcanic death trap Io is. 
+I probably don’t need to point out that Endor 
+isn’t very scientifically realistic regardless,  
+even if its primary was on the hazy line between 
+brown dwarf and red dwarf, a period of 18 hours  
+is going to be dubious while allowing that world 
+not to be shaken like a ball of Jello. Of course,  
+it might well have been pretty volcanic and 
+maybe derived its thicker atmosphere from that,  
+hard to say, as all life on the world was 
+presumably wiped out a few days after the Death  
+Star II exploded right next to it, which ended 
+the dual abomination of the Empire and the Ewoks. 
+24 Hours is more viable as a probable 
+Earth-like exomoon but mostly only  
+around Brown Dwarfs. Realistically if you 
+need that day length, go find a planet,  
+which arguably is what the moon of a brown dwarf 
+would be anyway, given that they’re failed stars.  
+That potentially leads to the question of what 
+you call a body orbiting a stellar remnant,  
+though I think planet still applies, and if 
+we need any differentiation in a multi star  
+system in terms of what we call an object 
+orbiting 1 star as opposed to another,  
+or one that orbits both. The word 
+Planet would do, but I’d speculate  
+that civilizations that arose in such systems 
+would have specific words for each of them. 
+Native environments like that certainly have an 
+impact on culture and life. For instance, most  
+habitable moons, or Gaian Moons for shorthand, 
+probably have a day length somewhere between a  
+couple Earth days and a week or more. Generally 
+we consider something a potentially stable orbit,  
+as a moon, or submoon, if its orbital distance 
+from the planet is no more than a ninth of the  
+orbital distance that planet is from its star. 
+That is a very loose rule of thumb incidentally. 
+That does mean though that you could potentially 
+have life arise on a sub-moon of a Hycean Planet  
+orbiting a Brown Dwarf that was binary to a red 
+Dwarf which in turn orbited an F or A type star  
+which in turn orbited a giant, though for life 
+to have arisen it would have had to have had  
+enough time pass for that giant to have turned 
+into either a neutron star or a black hole,  
+and yes, planetary systems can survive supernovae, 
+they’d just have their surfaces blown off and need  
+to re-cool, but that sort of event could cause a 
+lot of moon or submoon formation in the process.  
+That is a very unlikely system to exist, let 
+alone for it to be stable, but not super-unlikely,  
+and it would mean the satellite of a satellite 
+of a satellite of a satellite of satellite,  
+and I suppose we could add on to that by having 
+it be orbiting a dwarf galaxy remnant which is  
+gravitationally bound to a medium-sized galaxy 
+that’s slowly being absorbed by a bigger one. 
+It is pretty hard to say what qualifies as typical 
+out there, but we suspect places like Jupiter’s  
+Moon Europa of having life because it has tidal 
+heating that would allow its suspected subsurface  
+oceans to be churned up and given energy that 
+would permit life to form and survive. Maintaining  
+an open-sky atmosphere like Earth has, or 
+Endor had before the blasted remains of the  
+Death Star crashed into it, is harder.
+And yes, for Star Wars enthusiasts,  
+I’m aware they eventually did acknowledge the 
+possibility of Endor Holocaust to retcon that  
+the rebels put up all sorts of shields and 
+tractor beams to save the Ewoks. But unless  
+they were a lot less tardy than the writers 
+retconning that, which seems unlikely since  
+they would have had mere hours and they would 
+presumably have been still fighting the Imperial  
+Fleet or rescuing all those damaged ships, then 
+I don’t buy that. Admittedly I might be biased,  
+I hated the Ewoks as absurd and consider them an 
+irritating stain on an otherwise excellent film. 
+Can life be comfortable with a day 
+that is 48 hours? Or a whole week,  
+168 hours? I think so, though it would 
+be hard to adapt to that as a colonist.  
+For natural life, the big issue is that it makes 
+photosynthesis less appealing as a power source,  
+since it means a need for longer storage times, 
+for your sugars while you wait for more sunlight,  
+while at the same time your tidal heating sources 
+should be much stronger. The reflected light  
+of the planet the moon orbits, huge though it 
+might seem in the sky, isn’t likely to reflect  
+enough light to run photosynthesis though we 
+could imagine a moon whose ecology was driven  
+by the unequal but significant power sources of 
+Sun, Tidal Heating, and reflected planet light,  
+for the inner hemisphere, which is very hard not 
+to call moonlight as it fills that functional hole  
+only far, far brighter. In any event I do not 
+see 48 hour or week long day lengths as a major  
+hurdle to life in and of itself, or civilization.
+There’s an interesting look at that on Colchis,  
+the homeworld of the Word Bearers in Warhammer 
+40,000, which was a planet, and one three times  
+bigger than Earth and with a 170-hour-long 
+day – just over a week - and 4.8 year long  
+orbit of its Sun. There the human colonists have 
+developed a different calendar over the centuries,  
+and with a day lasting 7 times what ours 
+is, they had 7 subdays, Dawnaway, Mornday,  
+Long Noon, Post-Noon, Duskeve, Coldfall, and 
+High Night, which would make more sense than just  
+having your dawn be call Monday and progressing 
+through the week until the Sun set on Fridays. 
+I don’t recall if the world is described 
+as having much seasonal variation,  
+though if it had much axial tilt and 5-year-long 
+years, you would have some very big variations  
+by latitude in temperature in your year-long 
+winter, where the sunshine might only last a  
+quarter of your week-long day. That planet does 
+not sound like a nice place to live, but the  
+only book I know that was set there doesn’t 
+describe it as even vaguely pleasant anyway. 
+Moons might have similar issues as they don’t 
+have a classic season – their axial tilt is  
+with respect to their planet, not their Sun, but 
+they would definitely have parallels, although  
+probably more muted in most cases. For instance, 
+a moon with a week-long day is very plausible,  
+and for those living in its terminator with 
+respect to the planet, much as with a planet  
+tidally locked to its sun, that planet will 
+rise and set a bit due to libration. This  
+means that some parts of the moon would get 
+to see their planet, or part of their planet,  
+and how much they saw would depend on both the 
+time of day and time of the planetary year. 
+Libration comes in a few types and basically 
+comes down to the fact that orbital mechanics  
+rarely involves perfect circles and that planets 
+and moons are roughly spherical, not perfectly  
+spherical, and not point-like objects. Which 
+means that if you and I are both on the other  
+side of Earth at dawn and dusk looking at a full 
+moon, I will be looking at the moon at a slightly  
+different angle than you, same for two folks 
+standing on the north and south pole, this is  
+libration in longitude and latitude respectively. 
+So too, the Moon is not in a circular orbit,  
+but rather a rough ellipse, and orbits Earth at 
+an angle, and so the bits you see, in spite of  
+being tidally locked, alter a bit from that too.
+Also, while something tidally locked does orbit  
+a planet as often as it spins, things spin on 
+their own axis at a constant rate, same number  
+of degrees per hour, but their orbital velocity 
+does change. We move around the sun faster when  
+we’re closer to it, and the same for the Moon with 
+regard to us, so even though the same face stays  
+with us in general, it will lag behind as the Moon 
+is falling closer to us and will catch up later,  
+and as a result we see a slightly different face.
+All in all, we can see 59% of the Moon from Earth,  
+so long as we are patient and mobile in our 
+observations, and this same sort of thing will  
+apply to tidally-locked planets around suns 
+and to exomoons around planets, which act as  
+very bright moons for them. These are not going 
+to be analogous to an Earth season in intensity  
+but they would be noticeable and likely still have 
+a biological impact, but surely a cultural one.  
+Again though, none of this would be a barrier 
+to life there, but it would be a headache for  
+colonists to adapt to, and we need to be 
+mindful of that in fictional portrayals. 
+Pandora, the setting for the film Avatar and its 
+recent sequel, is a near-Earth Moon fictionally  
+set to orbit Alpha Centauri A, also called Rigil 
+Kent in the real world, as we were discussing a  
+few months back in our episode Journey to Alpha 
+Centauri. Pandora has no submoons of its own  
+but is one of 13 moons orbiting the primary 
+planet, the gas giant Polyemphus, reportedly  
+slightly smaller and denser than Jupiter. We’re 
+told Pandora has a diameter 90% of Earth’s, and  
+is .72 Earth Masses, making it basically identical 
+in density to Earth, with 80% normal Earth gravity  
+and a slightly thicker atmosphere, though at a 
+lower pressure and a much different composition,  
+and apparently the book “the Science of 
+Avatar” lists it at 26 hour day length. 
+I don’t own the book so I’ve only got that 
+as secondary reference from someone saying  
+so on reddit, along with Pandora not being 
+tidally locked to the planet, so grain of salt,  
+especially as the author is Stephen Baxter, one 
+of the precious few scifi authors who knows his  
+science and mostly sticks to them in his books, 
+so I’m going to guess he did his legwork and gave  
+either proper values or had some necessary 
+handwave to match something forced in by the  
+storyline. Again unless the gas giant was on the 
+brown dwarf scale, having a 24 hour day and not  
+being a tidally-wracked death world would be 
+a stretch. Though if it isn’t tidally locked,  
+which we could contrive an explanation 
+for, then any number of day lengths  
+are available just like with normal planets.
+We can add one too, as colonists. Our normal  
+trick for altering the lighting on a planet 
+with weird day lengths is to put some orbital  
+mirrors or shades up in a 24 hour period, 
+that’s a lot trickier with a moon though,  
+as the distance for a 24 hour orbit around it is 
+likely outside that 1/9 orbital distance rule of  
+thumb we mentioned earlier. That a moon can’t be 
+stable if its orbital distance from a planet is  
+more than a ninth the distance that planet is from 
+its sun, and the same rule applies to submoons. 
+A 24 hour orbit of Earth for instance, 
+which for us is geosynchronous, occurs  
+at 40,000 kilometers from Earth, a tenth the 
+distance to the far less massive moon, meaning  
+perturbation from the Moon is pretty small, and 
+not even a thousandth the distance to the Sun.  
+Many large moons would have a 24 hour orbital 
+period around them for a satellite or submoon that  
+was safely inside that 1-to-9 ratio. Perturbation, 
+especially with other moons around, is going to be  
+a big deal but when it comes to solar mirrors and 
+shades we can correct even pretty big deviations  
+by remembering they’re basically solar sails, 
+and thus can function as Statites or Lagites,  
+see our episode the Megastructure 
+Compendium for more details on those. 
+When it comes to large orbital stations though, 
+rather than thin mirrors, things like O’Neill  
+Cylinders, then those higher orbits get a lot 
+trickier, and you probably would need computers  
+constantly coordinating landings and takeoffs 
+of ships from them to help with station-keeping.  
+We have often contemplated settling moons 
+of gas giants though, see colonizing Jupiter  
+for more discussion, and in many cases these 
+mini-solar systems will be preferable colonization  
+targets so long as you’re not focused on having 
+a planet with classic open air and skies. 
+I thought we would wrap up today though by 
+considering two hypothetical Earth Twins. First,  
+we will look at an effective double planet, 
+Njord, twinned to its larger partner Skadi,  
+an Ice Giant, named for for Norse Ice Giantess 
+and winter goddess Skadi, and her husband Njord,  
+and hopefully I’m not butchering the pronunciation 
+too much. Second, we will look at the planet Jill,  
+orbiting the Brown Dwarf Tarter, which we’ll 
+say is 50 Jupiter Masses. Jill Tarter is  
+the astronomer who coined the term Brown 
+Dwarf and is the former director of SETI,  
+since I don’t feel like trying to 
+borrow any more names from mythology. 
+Now, Ice Giants are generally fairly dense 
+compared to smaller gas giants, Saturn is the  
+least dense planet but once you go up in mass 
+much beyond that, Gas Giants and Brown Dwarfs  
+all fall into a fairly narrow range of diameters 
+and just keep getting denser till they hit the  
+conditions to ignite as red dwarfs. Skadi is not 
+as big as Neptune but rather a Hycean Planet eight  
+times as massive as Earth, and Njord orbits it 
+roughly every 24 hours at a distance of around  
+55,000 miles or 89,000 kilometers. This is the 
+orbit around the barycenter, which won’t be in  
+either planet. As we discussed way, way back in 
+our double planets episode, we loosely set the  
+definition of double planet as when the masses 
+are close enough that the barycenter – the place  
+both bodies actually orbit, is not inside the 
+larger world, like it is for Earth and the Moon. 
+Njord and Skadi both have life on them, likely 
+of shared origin, life started on one, and some  
+asteroid impact or volcano managed to spread some 
+small and tough microbes to the other. Unlike some  
+examples in scifi, they do not share atmospheres 
+you can fly between, Onderon and Dxun from Star  
+Wars coming to mind, and I don’t think you could 
+achieve that except by artificial means like we  
+had with the Acheron River in Colonizing Pluto.
+Njord is tidally-locked to Skadi but not the  
+reverse, and again has an Earth-like mass, day 
+length, and year too, orbiting a slightly dimmer  
+K9 star, Njord is cooler than Earth and would 
+be more so but enjoys tidal heating from Skadi.  
+Skadi itself has deep oceans under a thick 
+hydrogen-rich atmosphere and nothing from  
+Njord could survive there without help, but 
+many larger organisms live on Njord in its  
+vast and dark seas. Thus, when technology arose 
+on Njord, their Apollo project had no special  
+problem reaching Skadi for orbiting, but getting 
+robot scout machines down to the surface and able  
+to transmit back up took a few more decades 
+and their first crewed machines didn’t take  
+place for a few decades later, when they were 
+roughly parallel to modern Earth technology. 
+Those were necessarily colony missions from 
+the outset because the escape velocity from  
+Skadi is almost double Njord’s or Earth’s, and 
+so getting there is easy and so is getting down  
+to the surface. But to stay in touch they 
+needed to leave both orbital facilities and  
+large blimp outposts in the atmosphere. 
+Down on the surface, the settlements are  
+essentially a mix of boat and submarine, as 
+they need to keep a lower pressure inside  
+than the very high surface pressure of Skadi.
+For this reason the Njord didn’t enjoy any special  
+advantage in early colonization efforts, Skadi’s 
+close proximity and being host to life made it  
+easier to get to and a big focus for their 
+civilization. Afterall, Skadi is more than  
+twice as wide as Earth and 5 times closer than 
+the Moon is to Earth, making it 40 times wider in  
+the sky of Njord than the Moon is on Earth, and 
+over a thousand times brighter. Making it very  
+present in the psyche of the people of Njord, even 
+compared to our own relationship with the Moon,  
+hanging there as a vast blue ball dimmer but 
+much bigger than their more orange-colored sun. 
+What’s more, there’s an entire large continent 
+on Njord that is on the outer hemisphere of the  
+planet and over which Skadi is never visible, 
+and there are sometimes harsh feelings between  
+the people of that continent and the inner 
+hemisphere, who accuse them of worshipping Skadi,  
+and are firmly convinced the giant kraken of 
+Skadi are the embodiment of the demons of yore.  
+So it was a hard effort to get to Skadi and didn’t 
+translate too well onto any of the other worlds in  
+their star system, none of which got an outpost 
+let alone a colony for a few more centuries. 
+Over on Jill, the largest of the moons of 
+the Gas Supergiant or Brown Dwarf of Tarter,  
+the process was a bit different. There 
+too the star is a bit dimmer than our own,  
+and Jill and Tarter are not even vaguely 
+double planets, as Tarter outmasses Jill  
+16,000 to 1. Jill orbits Tarter 661,000 miles or 
+1,064,000 kilometers out, and does so every 24  
+hours. Tarter is far more massive than Jupiter, 
+nearly 50 times as much, and yet it actually has  
+a smaller radius than Jupiter does. Thus, it is 
+still huge in the sky of Jill, but not nearly as  
+much as Jupiter is to Io, or Skadi is to Njord, 
+even though it vastly outmasses both combined. 
+It’s about ten times wider and a hundred times 
+brighter than our own Moon, and it has a massive  
+magnetic field that causes amazing aurora’s on 
+Jill. Jill has its own submoon, the somewhat  
+unimpressive Jack, which orbits every 36 hours 
+and even though much closer than our own moon,  
+is just a few hundred kilometers in radius, 
+so isn’t drowning them in sub-moon-light.  
+It was very easy for the first astronauts from 
+Jill to reach Jack, it's just not as far uphill  
+as our moon is, and Jack and Jill are but two 
+of over 100 known moons in orbit of Tarter,  
+which also has its own Trojan Asteroid Belt, each 
+half of which has more bodies in it than our own  
+trojans and Asteroid and Kuiper Belt combined.
+So for the people of Jill, spreading to the  
+mini solar system around Tarter was relative 
+child’s play, hampered only by the rather high  
+levels of radiation in space there. Within a few 
+centuries of their first experiments with rockets,  
+they had an outpost or colony on every rock worth 
+naming, and even a few real space-based nations.  
+After all, while getting off Jill was no easy 
+task, all those smaller moons had low gravity  
+and were far closer to each other than planets 
+in our own solar system, even allowing real-time  
+if rather laggy phone calls. They came to think of 
+themselves more as the Tarterish than Jillianites,  
+and were in a great position to launch 
+themselves into interstellar space. 
+Once out there of course, they generally found 
+the moons of gas giants far more preferable as  
+future homes, and their own SETI efforts were 
+rather hampered as it was centuries before they  
+ever thought to try to find Earth-sized moons 
+that directly orbited Suns all on their own  
+and spawned life. It just didn’t occur to them 
+to look for life on those occasional pale blue  
+dots they saw around some stars, especially that 
+one with the 4 gas giants, the biggest of which  
+was barely a flyspeck compared to Tarter and 
+much too far from its own sun to host life.
+So we’ll get to our schedule and announcements 
+in a moment, but as a quick sidenote,  
+this episode was originally titled Colonizing 
+Giant Moons but the script changed focus a bit  
+during writing. I recently made a bonus episode 
+that’s a loose companion to today’s topic,  
+contemplating how we could colonize binary star 
+systems, that is out exclusively on Nebula,  
+my streaming service, and explores more of what 
+the problems for life emerging on, or settling on,  
+worlds that aren’t your traditional case of 
+one big planet orbiting one single yellow sun. 
+Also for folks who didn’t know, outside this 
+channel I wear a number of additional hats and one  
+of those is overseeing elections in my area. I’m 
+still on the governing board but I just stepped  
+down from being the Chairman of that the same day 
+I took over as the President of the National Space  
+Society, last month. One of the more hair-raising 
+things we have to deal with are the non-stop  
+cyber-attacks on election security, one of the 
+more serious ones having happened just this week,  
+and thankfully all have been foiled without 
+getting to the last lines of defense. It’s both  
+a grim reminder though how pervasive cyberattacks 
+are now and on a happier note, that you can defend  
+yourself very well by taking some simple steps, 
+like never using the same password at different  
+websites or different accounts, always checking 
+the address on email sent to you, and switching  
+two-factor authentication on to everything.
+Another critical piece of the puzzle to help  
+shield you from having your browsing and personal 
+data spied on is using a virtual private network,  
+or VPN, like NordVPN, because it ensures that with 
+just 1 click your data and browsing is getting  
+encrypted and sent through one of their many 
+thousands of servers throughout the world.  
+An added benefit of which is that I don’t have 
+to worry about viewing or shopping limitations  
+based on where I am, like if some video is 
+blocked in whatever country I’m visiting. 
+But NordVPN isn’t just a VPN, their 
+Threat Protection shields me from malware,  
+trackers, and ads while their Dark Web 
+Monitor notifies me if someone leaks my  
+credentials and their Meshnet allows 
+me to connect to my devices remotely  
+and securely. My data is always protected 
+by next-generation encryption, and NordVPN  
+doesn’t track or share what I do online.
+NordVPN’s new Proxy Browser Extensions,  
+make it even easier to protect your 
+privacy, let you bypass censorship,  
+and keep you safe while you browse, use 
+browser-based tools, or play browser games,  
+and even customize it to decide which website 
+sees your real IP address or your VPN’s IP. 
+To try NordVPN out, risk free with a 30 day money 
+back guarantee, go to NordVPN.com/isaacarthur,  
+and enjoy NordVPN on up to six 
+devices, on any major platform,  
+with 24/7 customer support to help you whenever 
+you need it. That’s NordVPN.com/isaacarthur.
+As a headsup, while we usually have our Monthly 
+livestream the last weekend of each month,  
+my wife and I are off for our anniversary this 
+last weekend of April and next month, for Memorial  
+Day weekend, I’m in Frisco, Texas helping host 
+the International Space Development Conference,  
+so our livestreams are the second to last weekend 
+for both April and May, and we’ll be having our  
+monthly livestream Q&A, Sunday, April 23rd at 4pm 
+Eastern time. Then we’ll be returning to Earth and  
+the near future to talk about Smart Cities and 
+the future of automation in urban environments  
+and how that will change them. Then we’ll jump 
+into May with a return to the Fermi Paradox,  
+to discuss Dysonian SETI, and how we might 
+find Kardashev 2 civilizations. Then we’ll  
+look at a lot of the common misconceptions about 
+life, the Universe, and Everything, on May 11th. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you want to donate and help in other 
+ways, you can see those options by visiting  
+our website, IsaacArthur.net. You can 
+also catch all of SFIA’s episodes early  
+and ad free on our streaming service, 
+Nebula, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

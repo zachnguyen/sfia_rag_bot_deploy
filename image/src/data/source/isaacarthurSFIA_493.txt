@@ -1,0 +1,739 @@
+This episode is sponsored by Brilliant
+We so often talk about building spaceships
+to visit and colonize new planets, but what
+about making a spaceship out of planet?
+So today we’re back to the Generation Ships
+series to discuss building spaceships that
+are of a planetary scale or even outright
+moving entire planets between stars or even
+galaxies.
+And incidentally, if you’re new to the channel,
+welcome to SFIA, probably the only place on
+the internet where a serious discussion about
+moving entire planets would qualify as a fairly
+mundane.
+Why would you ever want to move an entire
+planet?
+That's a good question, but it turns out that
+we might have a few good reasons.
+First, we might realize that something is
+about to go terribly wrong with our Sun, as
+will happen when it begins to run out of fuel
+and slowly heats up and expands, and we'll
+want to move Earth.
+Even as early as about 1 billion years from
+now, the Sun’s luminosity may have increased
+sufficiently to render the Earth uninhabitable.
+We’ve talked before about ways of extending
+a star’s lifetime but those are very time
+and labor consuming tasks.
+Moving a tiny rocky planet like Earth is,
+comparatively, a weekend project, so you might
+decide to just migrate Earth to a new, younger
+solar system.
+Of course we could face a more immediate solar
+emergency, perhaps of an artificial variety,
+such as an artificial black hole being dumped
+into the Sun.
+You could also imagine disputes resulting
+in a planet being kicked out of its native
+system.
+We'll discuss this possibility later on.
+However, the most likely scenario under which
+you'd want to move a planet would be to serve
+as a colony ship.
+Something we noted earlier in the series,
+in the Million Year Ark, is that for very
+long voyages - such as to another galaxy - you
+need vast ship-space and resources, enough
+to be stable and redundant for timelines longer
+than any civilization has lasted thus far,
+let alone any machine we’ve built.
+We do however have an example of a spaceship
+that can last billions of years.
+It's the Earth.
+We don’t really know what the minimum size
+and mass of a ship needs to be to survive
+very long journeys, beneath which it can breakdown
+mechanically, genetically, or socially, but
+we know Earth will do the trick since it already
+has.
+Is it even possible to move a planet, and
+how would we go about doing it?
+Well, it doesn't violate the laws of physics.
+There are a few challenges to overcome, but
+it turns out that moving a planet is fairly
+easy and really just involves the brute force
+application of vast amounts of energy.
+Moving a planet on human time-scales is, however,
+another story, and the first of our challenges.
+Planets aren’t really designed for rapid
+acceleration, even less than an O’Neill
+Cylinder converted into a spaceship, which
+we found out was quite a pain earlier in the
+series in Exporting Earth.
+Consider, the Moon exerts gravity on the Earth,
+it’s about 60 times further from us than
+the Earth’s radius, and about an 80th of
+the mass, so it exerts about 3.5 microgees
+of acceleration on us, compared to the Earth's
+1 gee.
+If it’s on the opposite side of the planet
+from you, you’re about 3.5 millionths heavier
+than normal, if it’s above you in the sky,
+3.5 millionths lighter.
+Yet even this tiny force and acceleration
+is still enough to cause the tides, a significant
+disruption to the surface of the Earth.
+The Sun, 400 times further away but much more
+massive, actually does about double that,
+and sometimes the two will be in about the
+same direction and combine force to about
+10 microgees.
+We know the Earth can handle an acceleration
+on par with this since it does it everyday,
+but going much higher would potentially cause
+a lot of severe tidal effects as water and
+air migrated toward one side of the planet.
+You could mitigate this somewhat with engineering,
+like coastal walls.
+That’s a big project of course but small
+compared to moving a planet, but you probably
+can’t take this too far since you'd also
+have to worry about the tectonic plates, mantle,
+and core shifting around on you and that would
+be much harder to deal with.
+Still you can probably do a lot better than
+10 microgees, but for now we'll assume that's
+the maximum acceleration the Earth can handle.
+To put 10 microgees in intuitive terms, it
+takes about one day to accelerate an object
+at this rate to the same speed as one second
+of 1 gee acceleration would take.
+Remember that 1 gee is the acceleration you
+experience when you fall on Earth.
+It takes about a year of accelerating at 1
+gee to get to about light speed, so it would
+take 100,000 years to reach about the speed
+of light at 10 microgees, or 1000 years to
+get to 1% of light speed.
+That by the way is still way faster than a
+standard Shkadov Thruster can push a star
+up to interstellar speeds, and again you can
+push it faster if you do some heavy modifications
+to deal with tidal issues.
+If you wanted to move your planet 10 light-years
+away, and you did it under constant acceleration,
+it would take about 1000 years to hit the
+midway point and your maximum velocity at
+turnover would be 1% of light speed.
+You’d arrive 2000 years after you left.
+That’s actually not bad for moving a planet
+but a more conventional spaceship able to
+handle higher accelerations would seem preferable,
+and you could build a planet’s surface area
+worth of O'Neil cylinder ships using a lot
+less mass than a natural planet has.
+However, if you’re moving a planet because
+you want that specific planet elsewhere, this
+might be a viable timeline.
+The longer the distance of the voyage the
+less acceleration rates and times really matter.
+Push out to 1000 light-years, a hundred times
+further away, and you’d hit a maximum speed
+of 10% of light and take only 10 times longer
+to arrive, 20,000 years.
+And if you wanted to go 100,000 light years,
+which is to say across the entire galaxy,
+that would get you pretty close to light speed
+and that would be a 200,000 year journey,
+assuming that we ignore special relativity
+and time dilation for the moment.
+That’s only twice as long as a conventional
+spaceship would take, even one with no organic
+crewmembers that can handle lethally high
+acceleration rates.
+For distances beyond that, at the intergalactic
+scale, acceleration rates are essentially
+irrelevant.
+Though for slower accelerations you would
+need longer distances to get up to speed,
+which will matter when we get to discussing
+where we are deriving the energy to accelerate
+our Planet Ships.
+Energy is a big deal in three other ways besides
+finding it for thrust though.
+First, planets are very good at storing heat
+and a lot of the ways you’d be applying
+energy as thrust will lead to excess planetary
+heat.
+Earth normally emits a couple hundred million
+gigawatts of waste heat mostly from absorbed
+sunlight, and even adding a few million more
+gigawatts of energy to that flow is going
+to have a noticeable effect on surface temperature.
+If you’re trying to push Earth up to a decent
+percent of light speed you’re talking about
+adding somewhere around 10^40 or 10^41 Joules
+of kinetic energy to it.
+If even a tiny fraction of that is being absorbed
+as heat, say 10^38 joules, and you can only
+let a few million gigawatts extra into the
+system, or about 10^23 Joules a year, you’d
+need a quadrillion years to push it up to
+speed without roasting your planet.
+So you either need to use a method that produces
+almost no new heat being absorbed by Earth,
+or you need a faster way to pump heat off.
+Fortunately we have a slight edge here, since
+moving a planet through the interstellar void
+is going to result in a loss of sunlight.
+Even then, though, it’s too much energy
+to deal with in a reasonable amount of time,
+so you'll need to make sure you’re absorbing
+very little of your thrust-energy as heat,
+but you do want to absorb a bit of it because
+your planet is going to freeze otherwise.
+This would defeat the purpose of sending a
+living planet in the first place.
+Basically you need to add the sun’s light
+worth of energy to the planet for the duration
+of the trip, since the Sun is not coming along…
+this time anyway.
+We’ll discuss moving entire solar systems
+in the next episode of the series, Fleet of
+Stars.
+Radiation and collision are our other energy
+concerns.
+The interstellar void has the potential for
+both of these in abundance when you’re traveling
+at high speeds.
+Even in intergalactic space, and with good
+point defense to blow up objects in the way,
+these are going to be a bit much for a planet’s
+magnetosphere and atmosphere to handle.
+You do not necessarily need to englobe the
+planet with some big shell though, since the
+vast majority of the dangerous stuff is coming
+from directly in front of you as you move.
+For instance a big disc-shield a bit larger
+than the planet could be placed in front,
+and you could probably set that up at a distance
+that made it look no bigger than the moon
+or Sun in the sky.
+You could, perhaps, engineer the planet-side
+of the shield to serve as an artificial Sun,
+similar to what we discussed in the episodes
+in our Megastructures series, Flat Earths
+and Making Suns.
+Of course, you’d probably want to bring
+the Moon along if we were moving Earth.
+Conveniently, the Moon could serve as a Gravity
+Tractor, which is the simplest method of moving
+a planet, though not ideal for high speeds.
+The Moon orbits the Earth, and as mentioned
+pulls on the Earth too, indeed with the exact
+same force the Earth exerts on the Moon.
+If we push on the moon with something, it
+will move, and if you push too fast it will
+fly away from Earth, unless you’re pushing
+it toward Earth.
+If you just want to push the Earth further
+from the Sun, you could push on the moon when
+it’s between the Earth and Sun, moving it
+away from the Sun but toward Earth.
+You would then push on it again when it was
+on the far side of Earth from the Sun, again
+away from the Sun but also now away from Earth.
+That will cancel out its motion relative to
+the Earth, but not the Sun, and the Earth
+will have been nudged by gravity away from
+the Sun.
+The fastest you can push is equal to the force
+the Earth exerts on the Moon, otherwise it
+will fly off, but as mentioned, that’s the
+same force the moon exerts on Earth and as
+you’ll recall, more or less the maximum
+acceleration the planet can handle since we
+used the tidal effects of the Moon and Sun’s
+gravity to place that limit.
+The gravity tractor approach certainly works,
+and isn’t limited to using the moon.
+For example, You could also send a string
+of asteroids by the Earth so that each exerted
+a small gravitational pull on the Earth as
+they flew past, or you could place large but
+weak engines in orbit around Earth that didn’t
+produce enough thrust to break out of orbit,
+yet produced it for a very long time in only
+one direction.
+One problem though is that tidal forces cause
+tidal heating and while gravity lets us avoid
+touching the Earth while we move it, that
+gravity is still producing some heat.
+So this method is fine for slowly moving planets
+further out in their own solar system with
+low inputs of tidal energy, but not ideal
+for moving a planet quickly, which would require
+high inputs of tidal energy.
+It is also heating up the moon with whatever
+you are using to move the Moon, and that’s
+not ideal either.
+So why not just apply force directly to the
+Earth instead of the Moon?
+That is an option, but it's problematic.
+In theory you can put giant rockets on the
+Earth, or detonate nukes on the planet's surface,
+but the Earth has an atmosphere that’s going
+to absorb almost all that energy as heat.
+This is the problem with using something like
+the Fusion Candle, our trick for moving gas
+giants, where huge platforms in the atmosphere
+suck in hydrogen, fuse it, and blow it out
+into space as propellant.
+We don’t really care if those planets get
+hot, and they typically are fairly low density
+with more effective radiating surface area,
+so this works better for them.
+In fact, you could move a rocky planet of
+your choosing into a stable orbit around a
+gas giant that has a Fusion Candle; then,
+when the fusion candle moves the gas giant,
+that rocky planet could come with it for the
+ride.
+Of course, you'd have to get the rocky planet
+into an orbit around the gas giant by using
+some other method of moving it, which brings
+us back to the problem at hand.
+This is also a good approach if you wanted
+to move Venus further from the Sun and get
+rid of a lot of its atmosphere, which could
+be used as a propellant.
+But there are two engineering options for
+enabling the use of direct rocketry on a planet
+without heating the atmosphere.
+The first is to selectively remove the atmosphere
+in a small area around the rocket, which can
+be done by building a very high thin wall,
+like a big rocket nozzle, that goes up above
+the atmosphere so that the rocket is basically
+in a vacuum.
+This is sort of the reverse of the partial
+terraforming trick that we often see in science
+fiction, where a high wall is built around
+the area intended for habitation, and that
+area is filled with air.
+Or, if you want to take this even further,
+you could actually englobe the entire planet,
+giving it an exterior spherical shell that
+had no atmosphere.
+Indeed it’s quite likely worlds looking
+to move beyond Ecumenopolis levels into being
+full-blown, many-layered Matrioshka Shellworlds
+might leave their top layers airless anyway,
+to facilitate off-planet transport and trade,
+so this would be a great option if they wanted
+to move their planets.
+The second option for enabling direct rocketry
+is related to the construction of the shell
+world.
+A giant sphere around a planet will require
+some sort of support, which could involve
+the active support system we call, appropriately,
+an Atlas Pillar.
+It's basically a big space tower.
+You could just put your big rocket on the
+top of a space tower that reached safely above
+the atmosphere.
+Of course you’re not using any sort of conventional
+rocket, not for moving planets, chemical fuel
+ain’t gonna cut it.
+Even fusion is only going to work if you’ve
+got a hollow shellworld full of fusion fuel
+rather than molten metal, and even then it
+will only allow speeds good enough for moving
+over interstellar distances.
+What we really want are technologies enabling
+travel over intergalactic distances, because
+we’re interested in Planet Ships, not just
+moving planets we want elsewhere.
+A shell around the world full of fusion fuel
+will provide shielding, though.
+You could use a big external shell that wasn’t
+just a thin shield but a bunch of thin hollow
+tanks full of hydrogen, which is very good
+at absorbing radiation and of course is a
+good way to store a lot of fuel, since mass
+arranged around something as a spherical shell
+exerts no gravity on the inside.
+Or no net gravity anyway, a topic for another
+time but you can use a very massive hollow
+sphere as a way to slow time down for those
+inside it.
+Regardless, such a shell full of fuel is a
+good way to store the fuel you need to slow
+down and to run life support for that planet,
+which in this case is just artificial sunlight
+since it is an entire planet.
+We could also potentially use artificial black
+holes both as a power supply and a gravity
+tractor, either via smaller ones emitting
+hawking radiation, or bigger ones.
+We’ll be looking at that more soon, but
+fundamentally, while they’d offer a higher
+velocity than fusion, as could something like
+antimatter if you can make a planet’s worth
+of it and dare store that, they still have
+that basic problem of the rocket equation.
+You still have to carry all your fuel and
+pay the mass penalty for carrying it.
+We’ve spent a lot of time early in this
+series specifically talking about alternatives
+to avoid the limitations of the rocket equation,
+mainly light sails, laser sails, and the stellaser.
+This is going to be the method that lets us
+really make planet ships viable for high speeds
+and intergalactic colonization, and inter-supercluster
+colonization, which you can probably only
+do with a planet ship.
+You don’t necessarily need to use a planet,
+but a lower mass object like a moon exposes
+you to slow material leakage as you have no
+decent natural gravity well holding things
+together.
+So you do have to be looking at things on
+that scale if you want to seriously contemplate
+trips that might take many millions or even
+billions of years without resupply.
+This is also one of the few cases where you
+might build a stellaser all the way up into
+the Nicoll-Dyson Beam, Death Star levels of
+output.
+Converting an entire sun into a giant laser
+cannon sounds cool, but it’s overkill for
+pushing a ship and not the best way to weaponize
+a star, either.
+You could just use a swarm of Relativistic
+Kill Missiles, each accelerated by smaller
+lasers suitable for accelerating a normal
+spaceship.
+This is something we’ve discussed a few
+times before, most recently in the Dark Forest
+Theory episode if you want details on that.
+Lasers give us some big advantages, especially
+for slow acceleration.
+Mirrors can be made highly reflective, so
+they absorb very little of the light incident
+on them as heat, and indeed since we’re
+accelerating quite slowly initially we can
+bounce that beam back and forth many times
+to maximize the push.
+Now you can’t just push a planet with a
+beam, not without melting it, as the atmosphere
+will absorb that light, but we’ve already
+discussed some options for dealing with an
+inconvenient atmosphere.
+We can install big mirrors on the ground in
+areas evacuated of air, we can put those mirrors
+on the Moon which then acts as a gravity Tractor,
+or in orbit on hefty mirrors platforms, potentially
+O’Neill Cylinders to provide extra living
+room.
+We can hang them above the atmosphere but
+attached by space towers to the ground, or
+we can just build a big reflective sphere
+around Earth, which is bigger than Earth itself,
+so also gives us more surface area to radiate
+absorbed heat away.
+Now, we’ve discussed pushing with lasers
+quite a bit before, and if you’re bouncing
+the beam off the target, you need 1.5 gigawatts
+of laser for every ton you want to push at
+1 gee, or 1.5 megawatts per kilogram.
+We want to do only 10 microgees though, so
+we only need 15 watts per kilogram.
+The Earth's mass is 6 x 10^24 kilograms, so
+we’d need 9x10^25 Watts of power, and conveniently
+the Sun produces about 5 times that, so we
+don’t even need to the extra advantage of
+repeatedly bouncing the beam and we can still
+get away with accelerating the Earth away
+at about five times our preferred rate.
+But if we did need to get the Earth moving
+quickly, we could pour the juice on, with
+full sun-power and beam bouncing, and we could
+continue targeting that beam quite far out
+since a planet is a pretty big target to keep
+a lock on.
+And of course if it has a shell, that target
+could be even bigger.
+It also means we don’t need to be too picky
+about what other stars we use along the way,
+because we don’t need to limit ourselves
+to the small fraction of stars as bright or
+brighter than our own Sun.
+Furthermore, we could also be boosting our
+planet ship with lasers generated from multiple
+stars, since a target as big as a planet can
+be hit from many light-years away.
+It also means you can send supplies along
+the way, as we discussed doing with colonial
+fleets in a previous episode.
+This is an entire planet, so it could have
+whole armadas of ships and habitats swarming
+around it that were jumping ahead, or off
+to the side, to colonize or set up new stellasers.
+Those smaller ships don’t have to arrive
+around a waystop sun ahead of it either, since
+the planet isn’t stopping there and can
+push them down to speed with planet-based
+lasers as it flies by the star so they can
+slap together another stellaser that can shoot
+the planet ship and push it faster.
+And you do want to be building more pushing
+stations along the way because that slow acceleration
+means your planet ship needs a very long laser
+highway to get up to cruising speed.
+If you want to get it close to light speed
+at that slow acceleration, it basically needs
+100,000 years to get up to full speed, and
+would have crossed a big chunk of the galaxy
+during that process.
+It’s also going to need the same to slow
+back down again at the destination, and you
+will be needing to send out vanguards ahead
+to build the necessary stellasers to slow
+it down.
+Now in truth you probably won't need to build
+anything to get the planetship up to speed,
+since odds are you’re doing something like
+this after you’ve already colonized a lot
+of other systems and already have a lot of
+laser highways setup, though I’m sure you’ll
+need to do some modifications since a planet
+ship decidedly qualifies as a ‘wide load’
+for your laser highway.
+You will need to install new laser highway
+infrastructure for the deceleration portion
+of the trip, since presumably you're travelling
+to a new destination that hasn’t been colonized
+yet, unless you’re just shipping home bulk
+matter for building something enormous like
+a Birch Planet, where the destination already
+has the infrastructure to slow the planet
+down.
+But amusingly you won’t always need to do
+as much slowing as you did speeding up.
+And with this we get to the real purpose of
+these things.
+We don’t need them for colonizing our own
+galaxy, and even our nearer neighbors like
+the Andromeda galaxy probably do not require
+this level of effort.
+A planet ship is not intended to colonize
+a single solar system; it’s the ultimate
+gardener ship.
+Its purpose is to sow a line through a galaxy
+leaving a thick trail of seed colonies in
+its wake.
+Indeed, you might not even try to stop it,
+just detach fleets of smaller colonial ships
+and push them to slower speeds with the planet
+ship's own lasers.
+These seedling colonies can then grow, build
+local stellasers and send fresh boosts of
+energy and materials to the mother ship for
+its continued journey down the intergalactic
+road.
+And they’d grow fast too, because you don’t
+have to make colonies with just a few thousand
+people, such a planet ship is probably a Ecumenopolis
+peopled by trillions who can easily dispatch
+a billion colonists and trillions of tons
+of colonial gear every decade or so as it
+passes by a good colony prospect.
+Indeed it could be dispatching whole fleets
+to several systems in a fairly wide cylinder
+along its path.
+The planet ship need not stop in any galaxy,
+but can fly right through, and get a course
+correction to intercept another galaxy down
+the road.
+This is where the planet ships excels, because
+it can contemplate multi-billion year journeys,
+and there are many interesting destinations
+billions of light years away.
+And remember, all this stuff is moving away
+from us as the universe expands.
+Hubble Expansion is about 7% of light speed
+for every billion light years of space between
+locations, so a ship hoping to reach a place
+a billion light years away needs to be doing
+more than 7% to ever reach it, and will arrive
+seeming to be moving slower.
+So, if you send out a ship at 8% of light
+speed, it will arrive at only 1% light speed,
+making it much easier to slow that ship down
+on arrival.
+Of course it will take a hundred billion years
+to get there, so you probably want to be going
+a good deal faster, even just jumping up to
+9% of light speed would half your journey
+time.
+But we also don’t necessarily care about
+ever slowing that planet ship down, indeed
+we might keep pushing it faster and faster,
+because we can always evacuate the population
+off in smaller ships if we want, as we've
+discussed, or just let it meander through
+the eternal void until it exhausts its onboard
+energy supplies for lighting itself during
+trips.
+But, as we discussed back in the episode Dying
+Earth, this will be many trillions of years
+if its fusion fuel supply was a decent fraction
+of the planet’s mass.
+But why limit ourselves to 9% light speed?
+With our ultimate planet ship, accelerated
+up to, say, 70% of light speed, we could conceivably
+travel to galaxies that are currently 10 billion
+light years away.
+And at 99% light speed, or higher, folks on
+the ship will experience relativistic effects,
+and time will slow down.
+The intergalactic void is quite thin so these
+higher speeds are actually more viable than
+within galaxies.
+Again, a planet is a huge target for a laser,
+and with its mass and atmosphere it can handle
+debris collision risks a lot better than a
+ship, because it can absorb a much bigger
+whack without being critically damaged, meaning
+its various point defense and detection gear
+won't have to work as hard at the same speed
+as a smaller vessel's would.
+A smaller ship can’t afford to miss even
+a single pebble at near light speed because
+it will detonate with the energy of a nuke.
+A planet can take that strike, and its sheer
+size can house much more detection gear, point
+defense, and whole armadas of tender ships
+and vanguards.
+Planet sized ships need not be an actual planet
+though, merely things closer to that scale
+than the classic spaceship we see in scifi.
+Of course when you’re at the point that
+you’re thinking about colonizing other galaxies
+then planets or armadas in that general size
+zone are not much of a problem to source,
+you’d have billions to spare, handy too,
+since there are billions of galaxies we could
+colonize this way.
+And this gives us the approximate answer to
+just how far off we can ultimately colonize
+without faster than light travel, at least
+10 billion light years.
+Might as well think big.
+I always like pointing out that things like
+this, which are totally allowed under known
+physics, tend to be the sorts of things even
+scifi with lots of super-science and Clarketech
+won’t touch as plausible.
+But moving planets is just raw brute force,
+not ultra-high tech, though doubtless more
+tech will help.
+And we might need to move Earth one day.
+It’s a pretty unique place we’d want to
+save, rather than disassemble to be part of
+a Dyson Swarm.
+Amusingly you might even get kicked out of
+your home system by that Dyson Swarm too.
+Planets have a lot of concentrated mass that
+represents a lot of perturbation on neighboring
+objects.
+It’s manageable but a hassle, and I could
+see the quintillions living in a Dyson Swarm
+telling the billions back on Earth to either
+let them disassemble the place or pick up
+the planet and move, and more so for places
+like Mars or Venus that aren’t humanity’s
+cradleworld.
+‘Marxit’ or ‘Vexit’ scenarios might
+arise, and some place like Saturn or Neptune,
+which would already be pretty artificial and
+not dependent on sunlight anyway might be
+willing to pack up and leave.
+We’ve talked about how O’Neill Cylinders
+in a Dyson Swarm might pack up if they didn’t
+like their neighbors, these artificial worlds
+are already basically spaceships to begin
+with.
+It does make me wonder if future galactic
+civilizations might have the equivalent of
+solar divorces, where one side keeps the sun
+and the other gets most of the planets, or
+heck, they might starlift a chunk of the Sun
+off to take with them to make a red dwarf
+out of.
+We’ll play around with moving solar systems
+next episode in the series though, in Fleet
+of Stars, and dig in more to the Supernova
+Engine we talked about last month in Dying
+Stars along with Starlifting Binary Shkadov
+Thrusters, literal “Starships”.
+I do suspect in most cases a planet ship will
+tend to be a much more artificial thing built
+to planetary scale but designed with space
+travel and higher acceleration in mind.
+But now we can see that true Planet ships
+are possible, and put a whole new meaning
+on ‘Spaceship Earth’.
+So I was talking a moment ago about how this
+sort of endeavor is extreme even by scifi
+standards but is actually a fairly simple
+process inside known physics, we can dream
+concepts like this up by knowing our math
+and physics and so often can find truly amazing
+ideas that way.
+We rarely get a chance to dig into the details
+of how that math and science works here, and
+partially that’s because learning them is
+best done at your own pace in an interactive
+environment, not by lecture.
+That’s where our sponsor, Brilliant, really
+excels.
+They have a wide range of courses on math
+and science that let you pick the area you
+want to learn, start where you are ready to
+start, and practice that knowledge through
+interactive quizzes before moving on to more
+advanced topics when you are ready to.
+They also have daily problems in math, science,
+and engineering, so that you can learn something
+new in 5-10 minutes every day.
+If you’d like to learn more science and
+math, go to brilliant.org/IsaacArthur and
+sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+problems in the archives and access every
+course
+So often on the channel we discuss dreams
+of more advanced technology in a bright future,
+but that’s not everyone’s dream and next
+week will return to the Rogue Civilizations
+series to look at potential colonies settled
+by Techno-Primitivists, and we’ll see how
+that might work out.
+The week after that our episode will be on
+National Pet Day, and we’ll take some time
+to look at what the future might have in store
+for our furry friends.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you’d like to support future episodes,
+you can visit our sponsors or donate to the
+channel on Patreon.
+Until next time, thanks for watching, and
+have a Great Week!

@@ -1,0 +1,621 @@
+﻿This episode is sponsored by Audible
+One of the greatest constraints on human  
+civilizations has been the need 
+to travel outward to new horizons  
+to find fertile land to gather and farm from. What 
+if the solution is to go upward not outward?
+ 
+So today we’re taking a look at vertical farming 
+asking what it is and what the opportunities and  
+challenges are in developing it, and if it 
+can ever become practical. Now discussion of  
+vertical farming almost always involves 
+discussion of other farming techniques,  
+typically greenhouses, soilless farming, 
+hydroponics, aquaponics, aeroponics,  
+and other controlled-environment agriculture 
+and so we will discuss those today briefly too,  
+but vertical farming itself is the concept 
+of growing farms in vertical stacks,  
+multiple levels, or of just taking far 
+more advantage of height in farm layout. 
+ 
+As an example, in a future of low gravity space 
+farming, up and down aren’t much harder to work  
+with than left and right or forward and 
+back, whereas you usually want optimize  
+maximum internal volume per external surface 
+area on space habitats, keeping them compact,  
+so you would be a lot more likely to see farmed 
+volumes rather than farmed areas, so to speak. 
+ 
+Now the biggest hurdle of vertical 
+farming is cost, it's outrageously  
+expensive to build up or even to build at 
+all, compared to raw cleared land. Mostly,  
+we’ll get into current exceptions today 
+and expected future ones. This is also why  
+vertical farming is almost always discussed in 
+tandem with controlled-environment agriculture,  
+because while something like a greenhouse is 
+usually hugely more agriculturally productive than  
+an equal area of open land, the cost to build and 
+maintain one is often considerably higher than an  
+equal amount of land is. However if you’re already 
+building up for stacked vertical farm layers,  
+putting a roof and sides on to control 
+the environment doesn’t cost much extra,  
+but gives huge rewards, so tend 
+to almost always be included.. 
+ 
+A lot of the costs for vertical and 
+controlled-environment agriculture are  
+likely to go down as we improve technology, and 
+also proportionally down as we seek to get more  
+food out of less land and land values rise. So 
+too, the cost of food traditionally – especially  
+for citizens in an urban area - is mostly not 
+the cost to produce it and more the cost of  
+transportation and storage. And especially 
+in the case of items prized for freshness,  
+like herbs and some fruits and vegetables, urban 
+agriculture that cuts out the transportation  
+and storage issues can get away with premium 
+prices more viable for vertical agriculture.
+ 
+Now a lot of our examples of 
+controlled-environment agriculture, especially  
+vertical farming, tend to rest their economics 
+on taking advantage of discounts and freebies,  
+something like building out of discarded 
+shipping pallets or abandoned urban warehouses.  
+I applaud any hobbyist or entrepreneur taking 
+advantage of deals or recycling that way  
+but it does represent a false cost for upscaling 
+– you run out of free discards – and it makes it  
+very tricky to really look at the future 
+economics of vertical farming because so  
+many of the known examples are of that sort.
+Similarly, it's not uncommon for advocates to  
+credit big production with vertical farming in 
+cases where that is more from the controlled  
+environment aspects. It's not false but it can be 
+a touch misleading from a future expansion point  
+of view because any scenario in which vertical 
+farming has come to produce a large fraction  
+of our food is one in which we either have 
+hyper-energy-abundance and/or amazing automation,  
+or it's one in which we have already replaced 
+open-air farming with domes and greenhouses  
+over it all, in which case we’re comparing 
+the economics and productivity of vertical  
+farming to that, not open-air farming.
+And we should probably start there,  
+because it does show how the costs contrast. Good 
+agricultural land isn’t cheap, it can run several  
+thousands dollars per acre, but that pales 
+in comparison to the price of land in cities.  
+We estimate that the total of urban land in the 
+United States values at well over 25 trillion  
+dollars and amounts to some roughly 50 million 
+acres at over half a million dollars an acre.  
+And that’s all urban land, not metropolises 
+let alone downtown Hong Kong, New York,  
+or London, where a single square meter of 
+land costs more than a hectare of farm land. 
+ 
+Incidentally since I’ll be switching back 
+and forth between hectares and acres, meters  
+and feet, a lot in the episode, for quick mental 
+approximation, a square meter is about 10.7 square  
+feet and a hectare is about two-and-a-half acres, 
+or 4 hectares, 10 acres. A hectare is 10,000  
+square meters, or 100x100 meters, and an acre is 
+about 4000 square meters or 43,560 square feet,  
+and there’s 640 acres to a square mile 
+and 100 hectares to a square kilometer.  
+You don’t need to memorize those, there’s 
+no quiz at the end, but I felt we should  
+bring those numbers up to emphasize just how 
+wild the cost differences are. Monaco, the  
+world’s most expensive land market, at over 5000 
+dollars a square foot, costs more than an entire  
+acre of farmland does in my neck of the woods, 
+indeed it’s about 60,000 times more expensive.
+ 
+Out in the country land is so cheap that 
+virtually all the cost of a structure is  
+building it and maintaining it, in a metropolis 
+that flips around, the cost of the land and  
+paying its mortgage and property taxes can 
+dwarf the cost of even multi-story buildings,  
+let alone some ultra-cheap area structures like 
+barns and warehouses. We normally put the price  
+of a commercial greenhouse at around 25 dollars 
+a square foot, so greenhousing in an entire acre  
+would run around a million dollars, a hectare 
+about 2.5 million, both about double the cost  
+of average urban real estate, again not downtown 
+metropolises where it can be several million. 
+ 
+Obviously the land cost is trivial there for 
+rural examples, and indeed there places you  
+can still buy land for under a thousand an acre 
+from a combination of remoteness and bareness  
+and greenhousing those places, like a region cold 
+enough to be permafrosted, can suddenly change  
+that land into prime agricultural producers. 
+And yet the savings for building there,  
+rather than on existing prime land, is trivial 
+too and possibly non-existent considering you’re  
+trying to build far from existing infrastructure 
+too. On the flipside, sure we can find an  
+abandoned warehouse in many a city and convert 
+it into vertical farming or a big greenhouse,  
+but even for the purpose of freshness, we might 
+be better off buying 100 acres of farmland  
+and making that warehouse a top-notch 
+supply and distribution center instead.
+ 
+This is a futurism channel though, so we’re not 
+interested in the economic viability of vertical  
+farming or greenhousing today, we’re interested in 
+it down the road. Right now there’s only 8 billion  
+of us, and many do think the population will 
+stabilize at around 9 or 10 billion. Personally  
+I doubt that because the background thought on all 
+of it is that having more folks than that, or even  
+that many, uses up our resources. But as long 
+as the cost of food is only a fraction of what  
+a human produces overall, you can keep expanding 
+– or in this case, doing more with less land – and  
+greenhouses, hydroponics, and vertical farming 
+are all huge boosters of food per unit area.  
+Indeed enough that greenhouses are already 
+marginally profitable in many cases.  
+And they get relatively cheaper every year 
+as we get better at engineering, producing,  
+and assembling cheap but durable glass-like 
+materials while simultaneously land costs rise. 
+ 
+There’s around a billion acres of farmland in 
+the US, about two-fifths of the total land area,  
+and even with existing technology we could 
+easily feed the entire human population with  
+just that space – though a lot of people couldn’t 
+afford to eat at that cost. Indeed that same tech  
+would easily allow new areas to be converted to 
+farmland too including flat out desert, because  
+even a few centimeters of rain a year is enough 
+for a greenhouse since water is mostly contained,  
+and seawater can economically be converted to 
+freshwater at that point too. It might seem  
+insane to spend 10 million bucks building 
+some ultra-durable acrylic greenhouse  
+with multi-layered vertical farms and aquaponics 
+and hydroponics inside designed to feed a thousand  
+people, but if the improvements in technology lead 
+to a planetary average GDP per capita of 100,000  
+dollars a year and you are trying to feed 50 
+billion of us without knocking over every forest,  
+suddenly that becomes economically viable. 
+And in truth, or my opinion anyway,  
+most of those aforementioned factors seem 
+pretty plausible in the next few centuries.
+ 
+Now if the population does end up stabilizing 
+for a time at around 9-10 billion, how much more  
+controlled-environment farming we see will depend 
+mostly on overall improvements in material science  
+and automation. We can produce food to feed 
+hundreds of billions on this planet, but it's  
+way easier and cheaper to feed our current levels 
+on open-air farming of larger amounts of land. 
+ 
+As an example, the typically 6 to 10 mill 
+plastic used on most greenhouses is usually  
+only pennies per square foot and those can be 
+made from biofuels so you can hypothetically  
+greenhouse in land for about its normal rural 
+cost, carbon neutral and sustainable, and it  
+will be way more than twice as productive if you 
+do, and there’s a lot that could bring that down.  
+Similarly, the cost for tall buildings is 
+usually predicated on them being sturdy and safe  
+as residences and office space, not as mostly 
+for plants, robots, and a few human inspectors.  
+If agriculture shifts to a more 
+robotic and controlled environment,  
+because we’ve got our robots good enough to run 
+most basic agriculture with human oversight,  
+then vertical farming might be much more viable.
+Now there is a fundamental limit of sunlight,  
+only so much comes down on a given area, and while 
+you can intercept light destined for different  
+chunks of ground by building tall and putting 
+other bits of land in your shadow, taking their  
+light, it isn’t terribly likely that in most 
+cases that would serve any practical purpose.  
+So super-tall vertical farming is 
+really more the realm of arcologies  
+running on fusion power or power satellites, 
+see those episodes for discussion of that.
+ 
+Today we’re still focused on the relatively near 
+term - the 21st century and maybe the 22nd - and  
+we’re not really contemplating off-Earth 
+Agricultural here either, space based or  
+on other planets. Here we are talking about 10-20 
+levels of plants stacked up, possibly a bit more  
+in an urban environment where you might borrow 
+the sunlight falling on some other building nearby  
+like a warehouse or storage garage where they 
+aren’t really interested in windows anyway,  
+and you can install mirrors, or just leave 
+the building in your vertical farm’s shadow..
+ 
+Now getting that light there 
+offers a lot of options,  
+you can build to just let the light come in but 
+you also have options for mirrors or even for  
+growing plants up bundles of fiber optic cables 
+connecting back to wherever the light source was,  
+which could be kilometers away given how 
+good fiber optics are at carrying light.  
+So too, while we’re not focused on space options 
+today, we often discuss power satellites,  
+and shades and mirrors as a beneficial and maybe 
+even a necessary part of future civilization,  
+even perhaps this century, and have some of 
+that orbital infrastructure – handy for power  
+generation and climate and weather control 
+- devoted to beaming down light to some  
+rooftop lenses for distribution to a vertical 
+farming site, and this is definitely doable. 
+ 
+However, let's take a look at a current production 
+to see the situations and challenges as they are  
+now. As of currently, vertical farms of several 
+stacked layers run about twice the start up costs  
+of greenhouses, and are often running supplemental 
+lighting for the plants – which isn’t necessarily  
+costing extra as you can use that minimal 
+tailored-spectrum light for heat as a byproduct  
+and plants like heat. I mention that specifically 
+because people like to eat all year round  
+but precious little grows in the winter, and 
+even heated greenhouses are limited in this role  
+whereas multi-layered vertical farms do a lot 
+better at staying warm for less expenditure.
+ 
+One thing going for the vertical farming market 
+is the total collapse in LED lighting costs. LEDs  
+are not only stupidly more efficient at producing 
+light than old incandescent or even fluorescents,  
+they can also be tailored to photosynthetic 
+spectrums. Indeed they can be tailored not  
+just to the frequencies plants tend to like, but 
+the specific frequencies a specific crop likes,  
+and like at that time, as how much and 
+what kind of light a plant wants can vary.  
+Seedlings need little light compared 
+to their future plant, for instance.  
+How much light of what wavelengths, and heat and 
+humidity, for how long each day, and for a current  
+time of day and current time of year or maturation 
+period, can all be controlled and the production  
+booms when you do, particularly if contrasted to 
+the normal sunlight hitting a chunk of ground. 
+ 
+Long term it won’t just be LED lights either, we 
+might see stuff like semi-transparent greenhouse  
+glass that transmitted the photosynthetic 
+frequencies through for the plants but reflected  
+non-photosynthetic light down on to solar power 
+collectors or thermal heat mass in the greenhouse  
+meant to keep it warm at night. This is 
+a lot of what I mean when I say we have  
+problems discussing vertical farming separate from 
+controlled environment agriculture, because the  
+two tend to be innately intertwined. If you’re 
+building a structure to be climate-controlled,  
+you might as well take advantage of the 
+multi-level tray of plants you can do in it.  
+Even without supplemental lighting, just by 
+being able to cut out the natural seasons,  
+and thus have some plants growing in 
+seedling phase, using little light,  
+near ones that are using more form being 
+more mature, adds to productivity.
+ 
+Economically, fresh food that I can grow in the 
+winter and put in a supermarket in a city on the  
+same day can sell for a good premium, and the 
+competition is better storage or cheaper rapid  
+transport from further away. I want to emphasize 
+that though, because we are getting much better at  
+storing stuff in ways that prolong its freshness 
+and obviously we ship way faster than we used to.
+ 
+And we could see some weird hybrid innovations in 
+that too. We’ve a long history of truck farms, but  
+contrary to the implication, it has nothing to do 
+with growing food on a truck or transporting it to  
+market on trucks, it's just a perversion of the 
+old north French word ‘troquer’ meaning barter and  
+exchange, in reference to small market gardens of 
+a handful of acres; folks would bring produce into  
+cities from. However we could see that term become 
+properly literal in a future of automated freight,  
+fleets of trucks holding vertically-farmed produce 
+could be operational, with one parking right  
+outside someone’s house to deliver produce that 
+a robot just harvested from that truck 30 minutes  
+after someone ordered it. It might even be carbon 
+neutral from using its own exhaust for travel  
+and supplemental lighting for the CO2, 
+water vapor, and heat the plants relish. 
+ 
+You get some weird scenarios with low-level 
+AI in any economy, especially a post-scarcity  
+or borderline post-scarcity economy as 
+is basically inevitable with such AI.  
+Contemplate a civilization where most people’s 
+homes were semi-off grid in terms of having  
+in-house water and sewage recycling and some 
+small automated garden that grew its regular crop,  
+and where animal-intelligent robo-trucks 
+swung by to deliver orders for less-used foods  
+or a sudden need for extra quantity, tanked up 
+off your sewage for partial payment, and meandered  
+off to their next delivery. Recycled shipping 
+containers are currently a popular option for  
+housing vertical farms, and I could well imagine 
+skipping the recycled part so that the farming was  
+in shipping containers and vehicles just picked 
+them up when ready to deliver. Possibly in a  
+weird parallel to crabs changing shells.
+Bit of a tangent into more of the scifi realm  
+than science for the moment, but I could imagine 
+civilizations having an almost human-pet relation  
+with such food trucks or have roaming 
+fleets of entire wild stray trucks,  
+animal intelligent and parking wherever they 
+could steal some sunlight and begging at doors  
+for food scraps and waste and repairs in exchange 
+for fresh herbs and greens. Like I said, you get  
+some very weird scenarios in a civilization 
+with low-level AI, especially if it's smart  
+enough to play at being cute and appealing to 
+why we like kittens, puppies, and little kids. 
+ 
+Anyway Vertical farming has to potentially compete 
+with weird new innovations like that, and is a  
+reminder that improvements in technology in a 
+different area can sink another area we expected  
+to do well in the future. Though that example also 
+raises some market for it, being able to convert  
+rooftops, basements, or garages into home gardens. 
+Automation makes that a lot more viable, from both  
+the overall increase to human wealth and the ease 
+of maintaining a garden if you’ve got robots doing  
+most of the grunt work. It might seem like we’re 
+pessimistic on vertical farming in this episode,  
+we’re not, and indeed that sort of home vertical 
+farming is something I can practically guarantee  
+will explode in the next couple decades. 
+That’s hardly a niche market either.
+ 
+And neither is that rapid ability to get 
+fresh food from farm to fork in mere hours  
+and any crop at any time of the year. If you 
+want that, you either need climate-controlled  
+agriculture or amazingly good global transport 
+and distribution, and if you’re doing climate  
+controlled, then the conversion to vertical 
+farming isn’t much extra, indeed it's usually  
+necessary to make it profitable. But we 
+shouldn’t ignore that the aforementioned  
+amazingly good global transport and distribution 
+option is probably also going to become a reality.  
+Which one wins out, or if the two can 
+simultaneously exist, is likely to be dependent on  
+unpredictable factors, tiny differences in cost of 
+thus far undeveloped technologies could make the  
+difference, so could international strife making 
+food security a bigger concern. Heck, a lot of  
+human history is an ongoing conflict not between 
+neighboring realms but the cities in those realms  
+with the countryside that feeds them, and same 
+as things like online shopping and 3D printing  
+can lessen rural dependence on big factories and 
+retail centers, vertical farming could lessen the  
+feeling of food security for folks in cities from 
+rural areas, a historical exposed jugular artery.
+ 
+If I were a cynic I suppose I’d be worried 
+those options might make conflicts between them  
+and shifts to city-states more common in 
+the absence of that shared interdependence…  
+thankfully I am not. I should note though that 
+while vertical farming offers the ability to  
+cut down on travel time and distance for goods 
+to urban areas, it still isn’t likely to see  
+truck farms – the traditional kind – adapt to 
+vertical versions in the middle of downtown,  
+just on the outskirts where land and 
+building costs aren’t too prohibitive. 
+ 
+I mentioned earlier how the cost of urban 
+agriculture can often be misleading because  
+of how much is being done with discarded 
+materials or abandoned buildings and land,  
+but it is worth noting that there is likely 
+to be a lot of that in any given city  
+and the economic viability of 
+any project is pretty holistic.  
+If I can take over an abandoned old warehouse 
+covered in graffiti and weeds and turn it into  
+a small vertical truck farm, I can probably 
+also get a small market and deli in there,  
+maybe get a grant from the city or a foundation 
+aimed at helping restore that neighborhood,  
+and then sell the whole thing down the road 
+when land and building prices rise nearby,  
+due to my improvements. Again that’s a niche 
+market approach but hey, there’s a lot of niche  
+markets in a civilization of nearly 8 billion 
+and rising, over half of whom live in cities. 
+ 
+I would tend to bet that a vertical farm, 
+especially one with transparent sides of a nicely  
+insulated acrylic or polycarbonate, would tend 
+to work as well as garden parks and greenspaces  
+at all the things those are touted for, which 
+is everything from actual medical health to  
+psychological wellbeing, lower crime, higher 
+property values, and more. So again any costs for  
+making them need to take factors like that into 
+account but at the same time would probably be  
+of diminishing value as the number of them grew.
+Also, we should note that major use of vertical  
+farming is likely to also be tied into not 
+just hydroponics and aeroponics, since heavy  
+trays of dirt come with their own problems, 
+but also aquaponics since it's such a good  
+way to handle storage of water and heat, and for 
+that matter creation and recycling of nutrients.  
+Cities need vast grids to handle their water 
+and sewage use, if you can narrow that down  
+so that the water and sewer recycling for any 
+given neighborhood was in the basements of a  
+couple local vertical farms, all within walking 
+distance and open to strolling through, you’d be  
+cutting down on the huge cost of water and sewer 
+infrastructure in metropolitan regions and in a  
+way that’s like to be positive and appealing 
+to many folks, and possibly profitable. 
+ 
+It’s also one possible way to reclaim abandoned 
+underground tunnels and mineshafts, and ironically  
+one approach to carbon sequestration 
+back into some of those mineshafts. 
+ 
+Vertical Farming and controlled environment 
+agriculture in general tends to be vastly superior  
+in water use, fertilizer use, and problems 
+with disease, contamination, and pesticides,  
+so that’s another aspect to put on the 
+balance scale against the sheer price  
+difference compared to open air farming. 
+They are much easier to quarantine and thus  
+also safer for using GMO crops which might be 
+invasive to an area, but highly productive.
+ 
+All right, so what’s the takeaway? Will 
+we see vertical farming in the future?  
+Certainly, it already is in use, just principally 
+in niche and premium markets. But it's growing,  
+and as we grow ourselves, hoping to keep more 
+people while hopefully not needing to make new  
+farmland to feed them, I think we will see a 
+big rise in vertical farming, so to speak.
+ 
+Somewhat surprisingly given how important 
+agriculture is to humanity, it tends to get  
+undermentioned in science fiction and only gets 
+surface dips rather than deep dives as a topic.  
+Probably one of the biggest exceptions 
+to this is Farmer in the Sky by Scifi  
+grandmaster Robert Heinlein, which looks at 
+a farming colony on Ganymede built to help  
+feed an overcrowded Earth and the journey 
+of a young man out to join that colony.  
+Farmer in the Sky is one of the roughly 
+dozen books Heinlein wrote for Scribner as  
+young adult scifi and is also counted as part 
+of his Future history series, so is a very good  
+gateway into one of Science Fiction’s most 
+fundamental and influential authors, and it  
+got a Retro Hugo Award in 2001, as the novel came 
+out a couple years before the Hugo Awards began.  
+70 years later Heinlein’s works still 
+resonate with audiences, young and old,  
+and I’m very happy to add him to our very 
+short list of authors who have won our SFIA  
+Audible Audiobook of the Month more than once.
+We gave him it some years back for Starship  
+Troopers, which was ironically rejected from the 
+Scribner series. We’ve been doing the Audiobook  
+of the Month for six years now and other 
+repeat winners are Isaac Asmiov, Larry Niven,  
+Alastair Reynolds, and Arthur C. Clarke, so he’s 
+in good company, and each of those authors has a  
+huge binge-worthy catalog of novels available 
+from audible. I would like to go ahead and thank  
+Audible too, they are our very first sponsor for 
+the show, going on six years, and I’ve been a  
+customer of theirs for almost thrice that now. 
+Hopefully you’re getting to do some traveling to  
+see friends and family this holiday season and if 
+so, audiobooks are a great companion on long car,  
+plane, and train rides, as well as for exercise 
+bike rides for working off the holiday calories,  
+and Audible is is now offering 60% off their first 
+three months of membership so it is a great time  
+to join or if you are already a member, to give it 
+to someone as a gift. Audible also has a lot more  
+than just audiobooks now too, like their Plus 
+Catalog, which gives you free access to a huge  
+collection of podcasts, Audible Originals, guided 
+fitness, meditation, sleep tracks, and more. As  
+always Audible member’s get 1 free premium credit 
+a month to use for all those new bestsellers or  
+classics like Farmer in the Sky, and you get 
+the member discount on additional purchases,  
+but it's awesome having free access to all those 
+podcasts and shows for streaming and download and  
+it’s definitely my favorite new feature they’ve 
+added. To give them a try, and get 60% off the  
+first three months, just visit Audible dot 
+com slash isaac or text isaac to 500-500.
+ 
+All right, next week we’ll be examining the 
+notion of intergalactic colonization with a twist,  
+as we try to see how a lone ship or nomadic fleet 
+might escape a hostile galaxy and survive as a  
+civilization. Then next Sunday, the day after 
+Christmas, I hope you’ll join Sarah and I for  
+our last monthly livestream Q&A of the year, 
+at 4pm Eastern. We’ll then finish out the  
+month and year with a look at the Challenges 
+we will be facing in the next 100 years. 
+ 
+Then we will explode into 2022 with a look 
+at using Nuclear Bombs to propel Spaceships.  
+After that we will revisit our most popular 
+series, Alien Civilizations & Civilizations  
+at the End of Time, first for a look 
+at hibernating alien civilizations  
+that might be waiting till nearly the end 
+of time, then for a look at the Big Rip,  
+the cosmological model that ends the 
+universe early and by being shredded,  
+and we will ask how civilizations might 
+manage that, or manage to survive that.
+ 
+Now if you want to make sure you get 
+notified when those episodes come out,  
+make sure subscribe to the channel, and if you 
+enjoyed the episode, don’t forget to hit the like  
+button and share it with others. If you’d like to 
+help support future episodes, you can donate to  
+us on Patreon, or our website, IsaacArthur.net, 
+and patreon and our website are linked in the  
+episode description below, along with all of our 
+various social media forums where you can get  
+updates and chat with others about the concepts 
+in the episodes and many other futuristic ideas.
+ 
+Until next time, thanks for 
+watching, and have a great week!

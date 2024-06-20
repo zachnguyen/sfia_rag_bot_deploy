@@ -1,0 +1,867 @@
+This episode is sponsored by Dashlane
+Every time somebody discovers something new
+and wondrous, someone else finds a way to
+use it to attack or exploit others.
+Fortunately, other folks find ways to foil
+those attacks… eventually.
+So today we’ll be looking at Cybersecurity,
+the basic concepts and current challenges,
+and some of the challenges we’ll face further
+down the road.
+One of the biggest challenges right now with
+cybersecurity isn’t that we don’t have
+a lot of the tools, but that most folks don’t
+actually know they exist or what the threats
+look like.
+As is often the case with any field, especially
+science and technology, there’s a lot of
+specialized terminology that develops that
+can add a certain layer of the arcane when
+folks outside the field try to understand
+it so we’ll spend some time today discussing
+some of the terms and giving some plain English
+explanations and analogies.
+Now sometimes techno-speak is unavoidable
+as you have a concept that doesn’t really
+exist outside a field or using an existing
+parallel term might cause confusion.
+However, often it is an example of what Mark
+Twain’s criticisms of using five dollar
+words when fifty cent ones will do, and I
+try to avoid doing that on this show, unless
+the fifty cent word has the letter R in it.
+A silver lining of having a speech impediment,
+it’s already so hard for folks to understand
+what you’re saying that you have little
+temptation to use obscure language to worsen
+the situation.
+On the other hand I suspect it makes me prone
+to giving longer and more detailed explanations
+of things, explaining why our episodes here
+are often rather long, and why you probably
+want to get a drink and snack before settling
+in to watch one.
+I’ve generally been involved in technology
+my whole life but took a more detailed interest
+in cybersecurity recently in a rather involuntary
+fashion, as I suspect is true of a lot of
+folks.
+Something happened and suddenly you need to
+know and are confronted by lots of complex
+new ideas and terms.
+That might have been getting your account
+somewhere hacked or your company feeling it
+needed to add new security protocols and of
+course those are useless if everyone doesn’t
+know what they are and how to use them quickly
+and easily.
+No security is ever airtight but no security
+is ever even useful if it takes so much training
+to use and effort to employ on a day to day
+basis that it’s impractical.
+Like having 40 locks on your front door, you
+spend so much time unlocking them that you
+don’t have anytime to use your home.
+In my own case it was the 2016 US Elections,
+though it’s been a growing concern in managing
+elections for a while now, and it seemed appropriate
+to do this episode in an election week.
+For those who didn’t know, one of my other
+hats outside this channel is overseeing elections
+for my area, and obviously there were concerns
+about election security and also concerns
+about those concerns so we’ve had to spend
+a lot of time working with Department of Homeland
+Security, the FBI, the Secretary of State,
+and various other public and private groups
+upgrading and improving both electronic and
+physical security.
+There’s an awful lot of overlap between
+those two incidentally, and since we tend
+to be more familiar with physical security
+I’ll often use those for our analogies to
+cybersecurity, and we might as well start
+with Multi-Factor Authentication, or MFA.
+Now you’ve probably heard this term, though
+we often refer to just Two-Factor Authentication,
+the simplest kind, which would be where you
+need more than one thing to gain access to
+something, like your computer.
+Emphasis on more than one thing, because having
+two locks on your door is not an example of
+Multi-Factor Authentication, that’s the
+same factor, you’ve just got two of them.
+Two is better than one to be sure, but often
+not by much, if someone can pick door locks
+they can pick two of them, if a pickpocket
+steals your keychain they’ve got both keys.
+We usually consider there to be three types
+of factors, Knowledge, Possession, and Inherence,
+and multi-factor would use multiple of those,
+rather than multiple of the same kind, with
+two-factor using two kinds.
+Knowledge is something only you know, you
+password or pin code or where you store your
+spare keys, again it’s something you know.
+Possession would be something only you have
+access to, which would be your keys or your
+bankcard or an ID bracelet or token, something
+you have or possess.
+Inherence is something inherent to you, like
+your appearance or fingerprint or retinal
+scan or unique voice characteristics.
+Your signature is an old school example, though
+for something like a numbered bank account,
+one where the account is anonymous of name
+and just has a number, they might have someone
+write down that number or some word so they
+could identify the handwriting as matching,
+like a signature.
+Needless to say, you can have some overlap,
+a photo ID is arguably a possession, but it’s
+your unique face, an inherent factor, that
+is critical, though you might put a photo
+on a credit card or security badge which also
+has a pin number only you know.
+Now to use that someone needs all three factors,
+knowledge of the pin code, possession of the
+card, and the inherence of your face.
+That would be three-factor authentication,
+same if the photo was absent but used your
+signature instead.
+A classic credit card you just need to swipe
+and sign for it is two-factor authentication,
+possession of the card plus inherence of your
+signature, a debit card where you enter the
+pin is also two factor, again possession of
+the card plus knowledge of the pin code.
+Alternatively, if you just have to enter the
+card number, something you know, and a pin,
+something you also know, that is single-factor,
+just multiple instances of that factor, like
+having two keys.
+Incidentally, having two people each with
+a key to a different lock, or each with a
+different pin code, both of which must be
+used in tandem, is called the ‘two-man rule’,
+and represents a different kind of security,
+since its security focused on making sure
+an authorized user isn’t misusing whatever
+is locked up by requiring two authorized users
+to be present.
+We use those on nuclear weapons, many bank
+vaults, and at my office for handling ballots
+and other critical election materials.
+Another critical concept of security, since
+often you’re just as worried about inside
+jobs as outside ones.
+In a more modern context, your smart phone
+will usually have an option for a pin code,
+something you know, and a fingerprint scanner
+or face or retina scanner, things which are
+inherent, and of course you have to possess
+the phone to use it.
+That gives you the option for all three factors,
+but in practice you’d enable it so you only
+needed two, since its rather inconvenient
+to punch in a pin code with one hand while
+scanning the other when you just want to reply
+to a text message.
+Convenience matters for security, both to
+be able to use the thing effectively and to
+prevent convenience-based security holes,
+like giving people really bizarre computer
+passwords they feel obliged to write down
+on a 3M post it and stick in their desk, ensuring
+that a hacker really only needs to hunt around
+for a piece of paper with gibberish written
+on it, and usually not hunt much, since it’s
+probably stuck to their monitor.
+Physical security is a major part of cybersecurity,
+since someone can break into your office to
+see that password, but they don’t necessarily
+need to, since folks often take selfies at
+work with their gibberish-password cheatsheet
+in plain view in the photo.
+Note of course that all of these can be broken
+and there are various levels of security,
+this is just the types, same as a cheap small
+lock on a desk drawer can be easily broken
+compared to a giant bank vault door, even
+though both are physical locks and barriers.
+The general notion is that there’s an effort
+required to break a given type of factor and
+that’s usually harder to do for two factors
+than for two instances of the same factor.
+Again, a lockpicker can pick two locks without
+much additional effort, training or steps
+in their plan, compared to someone who needs
+to know how to pick a lock and sit somewhere
+nearby with binoculars waiting to see you
+punch in your door’s PIN code.
+Extra instances of the same type can be very
+handy, two locks on a door means more time
+unlocking them and risking being caught.
+Having a lock on your front door and on your
+office door also adds that time element and
+surprise since a thief or hacker might not
+know of that second lock, but they still have
+the skillset and tools to break it since they
+broke the first, so you are either using a
+very different type of lock or factor, which
+they might not be practiced in foiling, or
+use a different factor, like a fingerprint
+scanner.
+It’s hard to be an expert at everything,
+and using a team of experts, especially for
+something criminal, exposes them to vastly
+higher odds of something going wrong, even
+if just because the more people who know of
+a secret, or secret plan, the more likely
+that secret gets out or exposed.
+There’s pretty much always going to be a
+trick to foil any specific type of an authentication
+factor, but usually a lot of effort or precision
+is involved, and skills or circumstances needed,
+so multiple factors, even simpler ones, are
+often handy.
+An example of that might be a brute-force
+attack.
+In physical security terms, that would be
+kicking in someone’s door or trying every
+combination on their bike lock rather than
+stealing the key, picking the lock, or tricking
+someone into giving it to you, a cybersecurity
+equivalent of which is called phishing and
+which we’ll come back to.
+In encryption terms it’s busting through
+a password or PIN code by trying every single
+option until you get the right one.
+A 4 digit PIN code has 10,000 possible combinations,
+and someone would need to try every single
+one by hand which takes a lot of time.
+We can further mess with that by limiting
+it to so many tries, usually three, before
+the system locks out for a set period of time.
+We can toss in duress codes, something someone
+could punch in to access the system while
+at gunpoint while alerting authorities, but
+which a random attempt at hacking is just
+as likely to trigger as the right code, or
+more likely if you have several.
+On the flip side, someone can guess which
+4 digits are used by looking at which buttons
+are worn down or have fingerprint smears on
+them, and so instead of having 10^4 combinations,
+10,000, they only have to guess from 4^4 combinations,
+a mere 256.
+Still not great odds, three tries on 256 options,
+or 1.1%.
+Though if you’re a random thief walking
+through a bunch of PIN coded storage lockers,
+and there’s hundreds of them, you are going
+to get in one.
+When we’re talking about analogies in cybersecurity,
+a lot of times those are great odds because
+if you had a list of millions of bank account
+numbers and a computer doing the random guessing,
+you don’t really care if you screw up 99%
+of the time, or even 99.99% of the time, since
+even in that case you gained access to a hundred
+bank accounts.
+You can of course fight a brute force attack
+by adding more digits, but you can also do
+it by adding more characters, hence all those
+password rules about using a mix of capital
+and lowercase letters and numbers and special
+characters like an exclamation point.
+Someone wanting to brute force a six-digit
+pin code has a million options instead of
+10,000 with four-digits, but a Letter only
+4-digit code has 26 lower and 26 upper case
+options for each digit, 52, so 4 of those
+is 52^4 is 7,311,616, more than 7 times the
+amount the six digit PIN had, and 731 times
+what the 4-digit had.
+It’s even more if we add in numbers 0 to
+9, 62, and a 62-character, six digit code,
+which is considered weak, has 57 billion options.
+Incidentally meaning if it took you about
+3 seconds to manually enter each one, you
+would get 10 million done in a year without
+rest or sleep, and while on average you’d
+get the right combo halfway through, they
+might need potentially 5700 years to crack
+it, around as long as we’ve had letter and
+numbers.
+Needless to say, it’s weak against a computer
+doing it, and they can potentially get around
+a feature limiting your tries, like that three
+strike rule, by making a copy of the system
+and hacking that, failing, making another,
+and trying again, and again, and again.
+The other way around that is being clever,
+since by default most people will have used
+an entirely lower case password, and probably
+an actual word, so it will try all those first.
+Smart folks would use more complex ones but
+sites force people to because they look bad
+if they get hacked regardless of who screwed
+up the security.
+Of course, you need a password reset mechanism
+as well, and those can be backdoors to hacking,
+and also hacking a database containing millions
+of passwords and selling those on the Dark
+Web is common, as well.
+You’ve also got the backdoor of malware
+someone downloads and doesn’t have to hack
+your password, it just has to record what
+you type and transmit that.
+Moreover, if you’ve got 10 authorized users
+on your system, you don’t really care who
+screwed up using a weak password, just that
+some hacker got in and changed all the passwords
+and sends you a ransom demand.
+Any authorized account, even a low-privilege
+one, is better than nothing for a hacker as
+it offers a larger attack surface, more directions
+or vectors to strike from to find a weakness.
+This same approach gets used in social media
+too, target a weakly secured user, hack them,
+and send an innocuous file to their friends
+containing malware.
+That’s also a good reason to do backups
+that aren’t connected to a network, since
+it means that while they can still threaten
+you with exposure of private data, they lose
+the ability to threaten you with deletion
+of data, and that’s a very common security
+measure of municipal governments who aren’t
+keeping anything ultra-private, but need that
+data, like phone numbers and addresses of
+their citizens, so they can respond to emergency
+calls.
+Quick note though, no password is any good
+if people forget it, and while a hacker can’t
+usually sneak into someone’s office to see
+where they wrote down their random gibberish
+password, it is often recommended you just
+use something long but easy to remember, instead
+of short random gibberish, like the names
+of all four of your grandparents capitalizing
+the first letter of each name, and picking
+a random special character to act as your
+space, though don’t use the space bar as
+it’s the most common special character used
+in passwords, followed by an exclamation point.
+Brute force is rarely entirely random and
+tries the obvious stuff first, same as if
+you had a nine-digit PIN code on devices they’d
+try your social security number out first,
+since it has 9 numbers and everyone memorizes
+theirs.
+Length has a value all its own though, and
+10 random but hard to remember special characters
+is more of a pain to use than typing out a
+set sentence that is twice as long, especially
+if you’re interrupting the letters with
+some chosen special character.
+Before anyone writes me an angry note, no
+you wouldn’t want to use your grandparents
+names in favor of some fairly obscure phrase
+you can easily remember, but it’s a good
+lead in to talk about data mining and phishing.
+It’s pretty common for password resets to
+require answering security questions like
+where were you born, what your pet’s name
+is, and where you went to school.
+Go on someone’s facebook page and you can
+probably see where they were born, went to
+school, and a bunch of photos with their pet
+and comments about how much they love their
+cat Mittens.
+And remember our early remarks about trying
+random PIN-coded storage lockers or bank accounts,
+most hackers looking to make money do not
+care who they are making it off of, they go
+for low hanging fruit and raw quantity and
+they can write code to go harvest thousands
+of random accounts for such data.
+They also don’t need to bust through all
+the extra measures of more secure places like
+a bank, because most folks use the same username
+and password everywhere and hacking the database
+of user accounts and passwords at some website
+forum for gardening enthusiasts probably got
+you a ton of those, and if you are using some
+gibberish password for everything because
+its more secure and you just memorized that
+one gibberish sequence to use everywhere,
+you are liable to get hacked, that’s why
+it’s a big deal when some big website gets
+its username and passwords stolen even though
+there’s nothing on there financial, just
+a bunch of dating profiles, which also probably
+contain you talking about where you were born,
+went to school, and how much you love your
+cat Mittens.
+It’s probably a silver lining against hacking
+that people lie on their dating profiles so
+much.
+Of course you can protect yourself against
+random folks looking at your facebook profile
+to harvest your data by making your profile
+private, but many folks are prone to accepting
+friend requests from random strangers, which
+can easily be someone wanting such info, and
+takes us to phishing.
+Now phishing itself is more active, and is
+an attempt to gain sensitive information by
+disguising yourself as someone trustworthy
+or innocuous, and comes in a lot of forms
+but there’s some major types which we’ll
+detail in a moment.
+This is generally going to involve bait.
+For instance, I might run a sweepstakes where
+the winner got $100,000 dollars, but to enter
+you had make a free account, and enter your
+name and address and phone number and bank
+account & routing number so they could send
+you the money if you won.
+They might even give an apparent ulterior
+motive to allay suspicions like saying how
+you had to sign up for their newsletter, so
+it looks like a tricky but mundane attempt
+at marketing.
+Odds are pretty good a ton of folks will use
+the same username and password they use for
+everything and if we’re going to be cynical
+but realistic here, it’s probably disproportionately
+likely someone lured by apparently free money
+also isn’t practicing good password hygiene
+either.
+Other methods would be something like buying
+the domain name for something trusted, or
+rather something real close and legit sounding,
+like amazoncustomers.com and sending folks
+urgent messages like “We are worried your
+account may have been hacked, please click
+this link to reset your password.”
+You click that link in a hurry, get there,
+and enter your username and password, and
+the fake site logs in for you on the real
+site, and orders some stuff.
+Pretending to be tech support is pretty common,
+the physical equivalent of sneaking into a
+place by pretending to be a repairman.
+Also, targeting older folks way less familiar
+with modern technology is common, and using
+any sort of bait that is both urgent and likely
+to distract and upset the target, akin to
+calling someone on the phone at 3 AM and telling
+them their grandkid is in the hospital, as
+a way of grabbing important information or
+breaking into their home while they rush out.
+There’s also physical methods too, besides
+just lock-picking you’ve also got dumpster
+diving, regularly employed by both law enforcement,
+white-hat hackers, and criminal, black-hat
+hackers.
+The former also generally has access to way
+more personal information on you, though the
+amount of personal info available online about
+most people is often rather shocking.
+Either sort, white or black hat, can apply
+infiltration or coercion methods though these
+would generally look different, but an example
+of infiltration would be a room only a few
+folks were authorized to enter, plus the cleaning
+service.
+Good example of future threats too, a company
+might replace their janitors with robots and
+someone might hack those robots or sneak a
+camera in on them.
+Needless to say this is why multi-factor authentication
+is handy and why sites like to send you a
+security code on your phone if they see you
+logging in from a different IP address than
+normal.
+It’s not foolproof, nothing is, but it protects
+you and more to the point, scammers usually
+don’t care who they rip off so they go for
+the easy targets.
+Though, if almost everyone is using good security,
+it’s hard to find any easy targets.
+Scammers can’t make money that way anymore.
+Of course sometimes they do care who their
+target is.
+Spear-phishing is an example of when an individual
+or individuals are being personally targeted,
+like trying to hack employees of a company
+because they might use the same password there
+as for all their personal stuff.
+Whaling is a sub-type where you go after a
+big target, like the CEO or director specifically.
+Frequently these won’t be aiming for direct
+monetary gain either so could be less obvious,
+in the case of politically motivated hackers.
+Obviously we can’t get through all the terms
+today, and I still want to get to the further
+in the future concerns, so we focused on the
+major ones, and the general idea that most
+of these do have mundane examples or parallels
+and you can find more plain English explanations.
+I’d also really suggest folks in IT, of
+which we have plenty here in the audience
+I imagine, work hard to try to go for those
+simple explanations and analogies to layman,
+the other half of knowing any field is knowing
+how to explain it, and you’ll have a lot
+less running around to do if everyone in your
+office isn’t mystified by this stuff.
+Another thing to emphasize is that, as is
+often the case with technological concepts
+we look at here, Hollywood and TV is not a
+great source of info, nor are panic inducing
+articles on the web.
+A lot of folks don’t get knowledgeable about
+employing even basic security because they
+figure some hacker can get them if they want
+to bad enough, and that’s arguably true,
+but it’s like not locking your front door
+on the premise that someone can always stick
+a gun to your head and make you open it.
+You generally can’t just sit down at a computer
+and whack a few keys and get into system like
+in TV show, or guess the password as a pet’s
+name or birthday, especially if they’ve
+put even a tiny variation into that, as it
+explodes the possible options.
+Like all security, more is better and nothing
+is perfect, you just want to aim to be too
+much effort to be worth attacking.
+Going back to multi-factor authentication,
+knowledge, possession, and inherence, something
+you know, something you have, and something
+you are, any security option that requires
+a possession as a factor, something you have,
+makes it real hard to do remote hacking even
+on a real simple password, something you know,
+because they need both.
+On the flip side, losing or damaging a possession
+can permanently lock you out of your own accounts,
+similar to losing the keys to your car and
+being unable to get a key copy made.
+Having backup copies of that key exposes you
+to an additional security risk too.
+That’s also why biometrics or implanted
+chips, barcode tattoos, or tamper-proof data
+bracelets are handy, you can’t lose them,
+and we’re likely to see those get more common.
+Of course one has to worry about a hacker
+getting rather literal and lopping something
+off or out of your body, but you are already
+subject to physical coercion as a security
+workaround anyway, like getting mugged at
+an ATM, and again you would want more than
+one factor, thumbprint or biochip plus a PIN
+Code, for instance.
+So even some amazing quantum computer that
+can hack any code, which gets rather exaggerated,
+see the quantum computers episode for details,
+can’t get someone into something if it also
+requires a possession like a thumb drive with
+a long encryption key on it that has to be
+plugged in.
+It’s like the AI boogeyman of some computer
+intelligence that can’t be kept chained
+up and can get through every firewall.
+We also have air walls, or air gaps, computers
+that aren’t on a network and which you have
+to physically go plug something into to access,
+it doesn’t matter how smart the AI is, if
+it’s stuck in such a thing, it isn’t hacking
+its way out.
+Though it might employ trickery of other types,
+and that’s how a lot of modern hacking works,
+not by random brute force but by getting people
+to give up critical information, which is
+again why you don’t limit your security
+to just something you know.
+Now for something you are, inherence factors,
+like your fingerprint or face or voice or
+retina, those can be mimicked, especially
+if the scanner has a low resolution or margin
+for error to be used effectively.
+You don’t have to chop off someone’s finger
+or gouge out an eyeball, just lift it off
+anything they touched or from a photo, which
+is preferable anyway since you generally prefer
+nobody knows you even got into a system.
+Mimicking such things is hardly easy, especially
+since they would tend to require specialized
+equipment with long supply chains that can
+be secured themselves, you probably would
+have a hard time getting a finger-duplicator
+that scans a fingerprint and mimics it at
+really high resolution and potentially the
+right temperature.
+Public sale of such a thing would probably
+be illegal and the devices secured, and it
+might be unrealistic to think a black market
+could have a big supply, since complex manufacturing
+chains are hard to replicate in some basement.
+But we can’t rule such things out, especially
+in a world of ever-improving 3D printers.
+Show me a biometric signature and we can figure
+out a way to grab it rather covertly and mimic
+it, though constant improvements in their
+resolution making it harder to mimic might
+minimize that or even make it impractical.
+So what are some alternatives?
+A couple weeks back we were discussing mind-machine
+interfaces, MMIs, reading brain waves non-invasively
+or actually plugging wires into someone’s
+head.
+Of course a big concern for that is getting
+hacked, and while fiction covering that is
+usually rather vague about how you’d actually
+do that, it is presumably possible.
+Though I’d imagine a lot of the same security
+measures we already discussed could apply
+there too.
+It also offers a great option for biometrics,
+namely your brain waves, which generally do
+not stick to every object you touch like your
+fingerprint does and are likely to be harder
+to get and mimic than things outwardly visible.
+What’s more, MMI offers us an option for
+rapid and easy use of one of the best cryptography
+methods, namely the one-time pad, as a good
+neural interface with storage could keep long
+one-time pads on it and usable in an instant.
+A one time pad is a very long encryption key
+that is used only once to encode and then
+decode it using a copy of the pad at the destination.
+One-time pads are usually called perfect ciphers,
+as they just don’t offer any route to decrypt
+them even with infinite processing power available
+if you don’t have that key.
+It’s effectively like the Library of Babel
+we discussed in the episode “Things which
+will never exist”, it’s just random gibberish
+and so you can decode it, but literally into
+any possible text combination of that length.
+An infinite number of monkeys on keyboards
+will eventually type out a copy of Shakespeare,
+but they’ll also type out tons of gibberish
+and every other book too, and that’s what
+your effectively decrypting with a one-time
+pad, everything, and you’d have no idea
+which copy was right, hence nothing for a
+quantum computer to solve for either.
+The problem is, your one time pad has to be
+as long as your message and you need a copy
+at origin and destination, so they’re quite
+a pain to use, and are vulnerable if the one-time
+pad was not generated truly randomly, which
+is a lot harder than it sounds.
+Assuming you do, a one-time pad is unhackable
+unless you have that pad, period, even against
+quantum cryptography.
+Though again, so long as that pad is genuinely
+random, which quantum key generation should
+permit, basically the same tech that permits
+quantum computers to hack encryption also
+offers a method for generating truly random
+one time pads immune to such hacking.
+That will be very important to any interplanetary
+or interstellar civilization since if they
+want to move data at light speed, not on hard
+drives on some ship, they have to transmit
+it, and even lasers spread out over distance,
+so trying to keep someone from getting a little
+eavesdropper in along the transmission path
+over vast gulfs of space is probably not too
+practical.
+Though Quantum encryption might let us get
+around this as you destroy the message and
+alert the recipient if you eavesdrop on it,
+though this brings up its own problems.
+As an example, a message no one can crack
+is great, but if your transmission is easily
+interrupted so you can’t get it either,
+your secrets are safe but your ability to
+communicate is disrupted.
+Another reminder that too much security can
+be an issue too, public wifi for instance
+is an invaluable boon nowadays as it allows
+folks to do business on high-bandwidth while
+mobile, but comes with heightened security
+issues as it leaves you vulnerable to Man
+in the Middle, or MITM attacks, since anyone
+whose hacked that wifi spot or put up a fake
+one can copy or alter the data you’re sending.
+Getting back to MMI, if you’ve got a little
+chip in your brain with a trillion random
+digits on it, matched to another such unique
+pad elsewhere, that is not getting hacked
+while that data is in transit.
+Data in transit by the way is the term for
+when data is moving from one place to another,
+and it’s direct analogy would be an armored
+car carrying cash from a store’s money safe
+to a bank vault.
+A great password and physical security system
+at home and the office doesn’t help much
+if you carry your personal files around unencrypted
+on a thumbdrive or on your phone and you shut
+off the security features because they make
+it a pain to text while driving.
+A lot of cloud computing encrypts the data
+in transit but not at the end points, though
+they might encrypt it on their servers or
+you could send it already encrypted so what
+arrived was.
+That obviously doesn’t help much if you
+remotely access everything on all your devices
+and someone just has to steal your phone,
+but anybody providing you cloud storage can’t
+really help that you leave your stuff logged
+in and unsecured.
+They might encrypt on their side too, but
+of course they have the key for their own
+encryption so there’s a trust factor there
+and of course even if they’re trustworthy,
+a given employee might not be, or might be
+coerced into giving that key up.
+That’s obviously a big concern in any sort
+of probably-not-too-distant future where folks
+might keep backup copies of their brain digitally
+stored somewhere.
+Someone grabs a copy of that and now they
+have your brain, and can copy it.
+The counter to something like that would be
+encryption before transmitting where the key
+is stored elsewhere, and again that might
+be some incredibly long one-time pad.
+Needless to say, while we normally only think
+of having two copies of a one-time pad, as
+it minimizes security risks, you can have
+more, so if you’re storing the lone copy
+of someone’s brain encrypted via a one-time
+pad, you might have that pad stored elsewhere
+and possibly a few elsewhere in case it gets
+corrupted or blown up.
+That pad still has to be made somewhere, along
+with at least one other copy, and moved to
+a destination, though Quantum Key Distribution
+might get around that, still two places that
+need to talk a lot can generate really long
+one time pads or many of them and use them
+till they run out and just ship others in
+to be used at agreed upon times.
+So this allows secure light speed communication
+and there’s probably nothing stopping you
+from sending pads of quintillions of bits
+along with your initial colony ship and occasional
+new ones to replace used up ones or to prevent
+long silences while you ship out new ones
+if the ones there get seized or destroyed.
+And the vulnerability of such things is the
+same as any authentication factor of the possession
+type, someone can steal it, once again why
+multi-factor authentication is good and why
+physical security is a very real and necessary
+component of cybersecurity.
+So the bad news is that cybersecurity is here
+to stay and you really do need to get yourself
+acquainted with it and practice it properly.
+The good news is that it’s not some arcane
+process you need to be an expert at in order
+to be secure yourself, and I hope we’ve
+demystified it a bit today.
+Obviously we couldn’t cover everything,
+even for the basics, but our goal was as much
+to make it clear that it doesn’t have to
+be a scary boogeyman requiring years of education
+to understand as to explain it all.
+Important things to do, to be pretty secure
+pretty fast, is to enable two-factor or multi-factor
+authentication wherever that’s an option,
+always eyeball any email with attachments
+or asking for information to see if the address
+is really coming from a trusted source or
+just something that looks like it, and to
+avoid using identical passwords everywhere.
+You can do that last all on your own, but
+there are tools that help, and one of those
+is Dashlane.
+It’s a password manager and one that can
+not only save all your passwords but can rapidly
+generate long secure passwords for you too,
+and even be set to automatically change them
+periodically.
+You have a master password that’s never
+transmitted over the internet, not even to
+Dashlane, but it can still transmit all those
+passwords encrypted to your other devices
+you’ve installed it on, so you have access
+there, so long as you don’t lose your master
+password, as again they don’t keep a copy,
+but since it’s only on those devices you
+installed it on, nobody can hack it from afar
+and you can keep it simpler if you like.
+That means if Dashlane gets hacked, all they
+would get is bundles of encrypted data that
+wouldn't mean anything without the unique
+master password… for each and every individual
+Dashlane user - by the way, that’s over
+13 million users, meaning 13 million unique
+master passwords -- this is not worth a hacker’s
+time.
+Though Dashlane does have the option for Two-Factor
+Authentication, if you want some extra security
+on your mobile devices.
+Dashlane also provides easy to use and secure
+autofill options so you can keep all your
+addresses, phone numbers, credit card numbers
+and personal data there to autofill on forms
+and has a built in VPN, Virtual Private Network,
+so you can surf the net securely even on public
+wifi systems.
+They also provide Dark Web Monitoring, to
+warn you if any of the places you have accounts
+have been hacked and the data sold on the
+Dark Web.
+That’s Password manager, VPN, and Dark Web
+monitoring, and they do all that for less
+than what just one of those services usually
+costs.
+If you’d like to give Dashlane a try, use
+the link in the video description, dashlane.com/isaacarthur,
+and get a free 30-day trial of Dashlane Premium,
+and you can also use the coupon code “IsaacArthur”
+to get 10% off if you decide you like it.
+Today we focused mostly on the near term practical
+future, so next week we’ll jump back to
+the far future and look at Spaceship Design,
+and the ships we’ll need to get out and
+colonize the galaxy.
+The week after that, it’s back to the Fermi
+Paradox Great Filters series to look at what
+barriers, like Interstellar travel or self-destruction,
+might keep us or other civilizations who’ve
+reached our technological state from colonizing
+the galaxy.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to support future episodes,
+you can donate to us on Patreon or our website,
+IsaacArthur.net, linked in the video description
+below.
+Until next time, thanks for watching, and
+have a Great and Secure Week!

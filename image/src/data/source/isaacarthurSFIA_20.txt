@@ -1,0 +1,640 @@
+The Sun is a lonely star, it’s many planets 
+millions or even billions of miles away,  
+and with no kindred star within trillions, and yet 
+many stars dance together eternally in binary or  
+even trinary pairs, and we may come to live on 
+planets with two or even three sunrises one day. 
+So today we’ll be looking at the 
+habitability of binary stars systems,  
+and trinary or multi-star systems too, along 
+with how and why we might colonize them. 
+Now we used to say that most stars 
+were in binary or multi-stars systems,  
+so the issue of colonizing them if they might 
+have habitable planets seemed pretty important,  
+but we’ve since learned that’s not really the 
+case. In astronomy we disproportionately see  
+the great big stars, which have great big gravity 
+wells, and they are far more likely to have formed  
+with a binary partner and kept that partner.
+Or indeed partners, as we can have triple and  
+quadruple star systems or even more. And as we 
+talked about last month in Primordial Planets  
+and Multi-Planetary Empires, most stars form in 
+clusters and slowly those get perturbed apart  
+as they wander round the galaxy and have bigger 
+members detonate as supernovae. Our episode today  
+is more on binaries and trinary systems though.
+Also, while we’re not fixated on using the  
+classic definition of a habitable zone or 
+goldilocks zone to mean the region around a  
+star in which planet’s can have surface oceans 
+of water, not ice or some Venutian Hellscape,  
+it is the default meaning of the term habitable 
+zone or goldilocks zone, not too cold,  
+not too hot, just right for surface water. 
+With binaries that can get a bit more tricky,  
+since a planet might orbit both and move in and 
+out of the habitable zone and remain habitable. 
+So too, a system in which Earth-like life can 
+emerge on its own, not only does not rule out  
+life using other chemistries, but also does 
+not well-represent what sorts of planets we  
+can settle. As we discussed in Multi-Planetary 
+Empires last month, even ignoring all the space  
+habitats or asteroid colonies we might 
+construct, we can make a lot of planets  
+that are a bit cold or hot quite temperate by use 
+of relatively simple orbital mirrors or shades,  
+whose construction and maintenance would 
+be orders of magnitude simpler and cheaper  
+than terraforming that planet would be. We also 
+have to move the habitable zone further out if  
+discussing a large habitable moon, as those tend 
+to be warmer from receiving not just sunlight,  
+but tidal heating from their parent planet.
+Incidentally, for channel regulars curious  
+why I’m mentioning an episode last month in 
+an episode I created last year on Nebula,  
+the original version of this episode, colonizing 
+binary stars, aired on Nebula back in April of  
+2023 and as a companion video to our episode 
+Life on Giant Moons, itself originally named  
+colonizing giant moons, but as I was writing this 
+week's other episode, Colonizing White dwarfs, and  
+reviewing this one in preparation for a general 
+release to youtube and our other platforms,  
+I decided there was more to say on the topic.
+And since this and next month’s Space Freighters  
+episode were also the last Nebula Exclusives 
+I recorded before I got the nose and tongue  
+surgery to help correct my speech impediment last 
+May, I felt like they deserved updated audio,  
+and that gave me open license to tweak and add 
+to the original script too. Even with that and  
+a year of aggressive speech therapy there’s still 
+some impediment left so if you’re new to the show  
+and wondering what I just got done rambling 
+about, feel free to turn on the captions. 
+Now one of the critical things to understand about 
+binaries and trinaries is that they are rarely the  
+same mass as their partner, and this massively 
+alters what their habitable zones look like.  
+A second thing to understand is that their mass 
+and brightness will often change over time, and  
+the star which was originally brighter will die 
+long before its twin, first brightening to be a  
+subgiant, then becoming a massive red giant, then 
+turning into much dimmer white dwarf, and then  
+possibly going nova, sometimes repeatedly, and 
+even supernova, a type 1a supernova specifically,  
+by stealing mass of its binary partner, which 
+typically leaves no remnant. Some stars used  
+to be binary and now no longer have even a 
+white dwarf companion left. They’re all alone,  
+except maybe for a zombie star in some cases.
+Ironically the vampiric mass theft off their  
+longer-lived partner, in furthering lower 
+their mass, actually extends their lifetime,  
+so maybe vampiric isn’t the right way to think 
+of it, but vampires and zombie are catchy  
+terms. Also, their shift into a planetary 
+nebula between red giant and white dwarf  
+phases leaves a lot of matter hanging around 
+their smaller partner might have gobbled up,  
+so the vampire might be stealing some of it back.
+Anyway that’s a key first point, whether we’re  
+talking about binary stars or binary planets, 
+there’s not a lot of cases where they are the  
+same size. Alpha Centauri A & B, for instance, 
+are fairly similar in size but A is still 20% more  
+massive than B and also fully 3 times brighter. 
+Mass is hugely important to star luminosity,  
+as is age, so a star twice as massive 
+is likely to be 10-12 times brighter,  
+and that means its habitable radius is about 
+three-and-a-half times wider too. Ironically  
+the mass sensitivity is reversed for double 
+planets, their surface gravity varies way less by  
+mass than stellar luminosity does, see our double 
+planets episode for discussion of that, but again  
+stars vary heavily in brightness by their mass.
+Specifically, our sun is exactly one solar mass,  
+and has exactly one solar luminosity for its 
+brightness - it's the basis for the system,  
+and Earth is the basis for the astronomical 
+unit, or AU, how far we are from the Sun. Our  
+first modern estimate, from 60 years ago, had 
+us roughly in the middle of the habitable zone,  
+itself stretching from 0.74 AU to 1.24 AU, 
+though most modern ones usually place us  
+closer to the inner edge at about 0.9 AU and 
+the outer edge sometimes even out past 2 AU. 
+How does that vary for binaries? Well, 
+let’s look at the individual stars first. 
+Alpha Centauri B, also known as Toliman, has a 
+mass 0.909 solar masses, 91% of our Sun’s mass,  
+and a brightness of 49.8% of our sun’s, and 
+both star’s are about the same age as our sun,  
+so that brightness difference is all from the 
+mass, just 9% less mass but half the brightness,  
+and on its own it would have a habitable 
+zone 71% as far from it a our own sun’s  
+habitable zone is. Alpha Centauri A, also 
+known as Rigil Kent, the larger of the pair,  
+is only 1.079 Solar Masses, but 151% as bright as 
+our sun and again 3 times brighter than Toliman. 
+Coincidentally, their combined mass is 
+almost twice our Sun’s and their combined  
+brightness almost twice our Sun’s too. I say 
+coincidentally because usually two stars with  
+the same combined mass as our Sun would have 
+nothing like its brightness. For instance,  
+most stars are less than half as massive as our 
+sun, and a star half our sun’s mass would either  
+be dead and usually dim white dwarf or more likely 
+an orange-ish red dwarf, and on the main sequence  
+still since no star that started at that mass, 
+even one as old as the universe, would be more  
+than a fraction of the way through this life.
+It would have a luminosity of just 0.4% of our  
+sun’s, so it would take 250 of them to match our 
+Sun’s brightness and its habitable zone would be  
+only fifteenth as wide as ours, at about 7% of 
+an AU. While a star with that remaining mass,  
+1.5 solar masses, would be an F1 star on the main 
+sequence, and 6.17 times brighter than our star,  
+and more than 1500 times brighter than its red 
+dwarf partner, even though it was only three times  
+more massive. And it would be growing brighter 
+as it aged too, and it probably would only live  
+3 billion years, which might put it out of the 
+habitable zone, at least for intelligent life,  
+in a temporal rather than spatial sense.
+We’ll return to age in a moment, but that massive  
+imbalance in brightness tends to be more the norm 
+than the exception, and for a close binary pair it  
+often will mean that the second star is mostly 
+irrelevant to the habitability so long as they  
+are much closer than the habitable zone is wide. 
+We’ll cover two interesting exceptions at the end. 
+Alpha Centauri A and B are further from each other 
+than their habitable zones are wide so any planet  
+orbiting both are too cold for life, and any 
+orbiting A are seeing something far brighter  
+in the night sky than our moon is, but not 
+one that helps much with life and temperature. 
+We’ll dip into them more later in the episode 
+but a planet in B or Toliman’s habitable zone  
+would see a small rise or drop in temperature 
+when A, Rigil Kent, was closest or furthest  
+in its 79-year orbital period, but it is 
+minimal. Alternatively, Alpha Centauri C,  
+or Proxima Centauri, isn’t even a bright star 
+in the night sky of A or B and effectively  
+irrelevant to the habitability of either. We 
+are not even sure if is a true trinary system,  
+Proxima might just be near them and passing by, or 
+newly joined, though a distant binary or trinary  
+on orbits of tens of thousands of years might 
+affect habitability if it was quite eccentric in  
+its orbit and got in close during perihelion, 
+or dragged a lot of comets along with it. 
+Indeed the idea that our Sun might have a dim red 
+dwarf or brown dwarf partner was a very popular  
+one for a long time, and it was nicknamed Nemesis 
+because it’s proposed distance would result in an  
+orbital period of 26 million years, which we 
+thought we saw a pattern of mass extinctions  
+occurring at. Only relatively recently have we 
+been able to rule out any Nemesis-like partner as  
+big or bigger than Jupiter, and a better fossil 
+record has pointed away from 26 million year  
+cycles of extinction. Very popular idea in science 
+and science fiction though, probably best known  
+from my namesake Isaac Asimov’s excellent novel 
+Nemesis, or the Red Star with its 200 year cycle  
+of destruction from Anne McCaffrey’s Pern 
+series, another of my favorites growing up,  
+indeed the second sci fi author I read right 
+after Douglas Adams, though I enjoy it just  
+as much now as when I was a younger age.
+And returning to age, it is a huge factor in  
+binary habitability, more than in single-star 
+systems in fact. Mostly because stars grow  
+brighter as they age and more massive ones age 
+faster. What’s more, we have white dwarf binaries  
+like Sirius B, and that B indicates it is the 
+second brighter of the two stars. But while Sirius  
+A is the brightest Star in our own night Sky, and 
+gives off 25 times as much light as our own Sun,  
+both are less than a tenth our Sun’s own 
+age and Sirius B, the white dwarf remnant,  
+is actually more massive than our own Sun 
+and while only half the mass of Sirius A now,  
+would presumably have been 5-6 times more massive 
+than our Sun before it went Red Giant and a few  
+hundred times brighter, and indeed many thousands 
+of times brighter when it was a red giant. 
+We discussed this in greater detail earlier this 
+week in Colonizing White Dwarfs, but you might  
+easily find a binary system where such a star once 
+lived and was now a white dwarf – or neutron star  
+or black hole for that matter – and it’s once 
+smaller and dimmer binary partner lived on,  
+with planets. Even if that binary partner – now 
+deemed A instead of B – were merely a red dwarf,  
+it would still be brighter than any white dwarf 
+or neutron star, especially after a long enough  
+time that life had arisen. The Sirius system is 
+only a quarter of a billion years old and Sirius  
+B died around a hundred million years ago, 
+not much time for life to arise and prosper. 
+As we discussed earlier this week, while they’re 
+bad spots to seek naturally occurring life,  
+these remain good targets for colonization, as 
+contrary to what scifi implies, a supernova does  
+not automatically obliterate planets, and 
+their charred remains might un-char after a  
+long enough time. We’ll focus more for now though 
+on contemplating binaries where habitable planets  
+might naturally exist and be long-term stable.
+This means that we’re either contemplating a  
+system that is not a true binary for brightness 
+sake – one where one of the stars has become a  
+dim remnant – or we’re contemplating stars 
+where the most massive is no more than 20  
+or 30% brighter than our Sun, which would be 
+enough to let Mars be earth-like temperature. 
+Now of course many binaries are very stable and 
+long-lived, but separated by dozens or hundreds  
+of AU. We discussed the case of Alpha Centauri 
+already and more in the episode Colonizing Alpha  
+Centauri, and more in a bit, it's a popular 
+star system to discuss after all as our nearest  
+neighbor, and again those binaries have a period 
+of 79 years and never get closer than 11 AU,  
+or further than 36 AU. Think never as close 
+as Saturn and never further than Pluto. 
+For cases where they’re further, 
+or dimmer, your main concern is  
+gravitational perturbation of planets or mass 
+cometary bombardment scenarios like Nemesis,  
+or possibly alien mega-microbe invasion like with 
+McCaffrey’s Pern. And while that case is unlikely,  
+a panspermia event spreading life between 
+binary systems is plausible enough. 
+Needless to say though, that’s hardly a trivial 
+group of concerns, but not a big one for habitable  
+zones themselves. This would often be the case 
+for trinary systems too, where two were close  
+and either orbited something bigger - which 
+is very likely to be short-lived, and end as a  
+neutron star or black hole, or they got orbited by 
+something smaller like Alpha and Proxima Centauri. 
+So we’ll bypass this case too beyond noting 
+it’s a situation where people are very used  
+to seeing something far brighter than the moon in 
+their night sky, and indeed often in the day sky,  
+but which otherwise has minimal effect 
+on them. We’re really only interested  
+in binary cases where the both stars contribute a 
+significant part of the light to warming a planet. 
+Though we do want to be mindful that a habitable 
+planet and a habitable star system are not the  
+same thing, and so you could have cases where 
+the planet intelligent life formed on really only  
+relied on one star for sunlight but their best 
+candidates for settlement relied on the other  
+or both. And indeed you could easily imagine 
+a case where both Toliman and Rigil Kent had a  
+habitable planet or two in Alpha Centauri and was 
+much more viable for colonization than imagining  
+us going there, a journey modern ships could make 
+without much more difficulty than a trip to Mars  
+and where communication time lags are still on 
+an order of an hour, not 4 and a half years.  
+This makes trade, and for that matter war, 
+a lot more plausible and practical too. 
+In any event, this gives us 3 examples of 
+how planets might exist around a binary or  
+with some modification, a trinary system. The 
+first two cases are fairly trivial. Case 1,  
+the two stars are much closer together than the 
+planet orbiting them. These are probably Close  
+Binaries, which in astronomical terms means 
+ones close enough to exchange mass from their  
+outer atmosphere and which also means that once 
+the bigger one goes red giant it will encompass  
+that other star and later when it becomes a white 
+dwarf, it is going to nova, if not supernova. 
+Not a high priority colonization target and really 
+only viable for habitable planets if both stars  
+are actually fairly large, our Sun-sized to the 
+nominal upper limit of 1.3 solar masses, as that  
+would have a 5 billion year main sequence life. 
+That star would have a habitable region 60% wider  
+than our own sun, and if we threw in a smaller 
+k-type star orbiting as far out as Mercury,  
+at say 70% of our Sun’s mass, then it would have 
+30% of our brightness and you would have a close  
+but not too close binary pair around which an 
+Earth-clone would orbit at 1.67 AU, just a hair  
+farther out than Mars, but with as much sunlight.
+This planet is orbiting once every 557 days,  
+and half again our own year length, and during 
+that time it will have occasions where the  
+secondary star is more than half an AU further or 
+closer to them than at other times of their year.  
+Though those two inner stars are orbiting each 
+other every 81 days, about a seventh of your year.  
+The calendar here in terms of seasons might be a 
+very screwy one, though it is likely your planet  
+is going to end up in a resonant orbit that’s 
+an exact multiple of that star’s orbital period. 
+We’ll talk about other screwy season 
+scenarios in next week’s episode on  
+the Banks Orbital Megastructure, which 
+I actually recorded before this since I  
+keep coming back and tinkering with this script.
+Returning to our example, since you are moving  
+around those suns while they move around each 
+other, this is probably something like a 90-100  
+day period between when the secondary star repeats 
+its closest approach to you and this is going to  
+be producing sunlight changes as significant as 
+summer and winter here on Earth, but over a much  
+shorter interval more like our season than year 
+in duration. Factor in your own axial tilt and you  
+can get some extreme weather variation. Nor can we 
+ignore tidal forces, which are likely to be very  
+significant, and which for dimmer dwarfs replaces 
+varying sunlight as the variable making this a  
+rough place to live, as well as what permits it 
+to live. They’re the fuel for the fire keeping  
+you warm but often burning you, so to speak.
+Note that a rough place to live isn’t the same  
+as an impossible place to live, but we need 
+to be mindful that this is a very perturbation  
+prone system with changing lighting and twice as 
+many chaotic effects like solar storms. Probably  
+more too, tidal effects of stars on each other 
+can cause more eruptions. As we noted earlier,  
+most binaries are not very similar in brightness 
+to each other, and there’s not going to be  
+many stable configurations that allow that 
+lesser binary to significantly contribute  
+to lighting a habitable planet without also 
+either capturing or ejecting it from orbit.  
+Though by significant lighting we mostly 
+mean heat and photosynthesis, even way out  
+at Pluto where the sun is a thousandth bright, 
+it’s still a hundred times brighter than the  
+full moon. That’s going to impact biology and 
+its cultural effect is going to be huge too. 
+Now case 2 we can mostly skip, this is our 
+case where the other binary is too far away to  
+contribute any real sunlight or much gravitational 
+effect. It’s still a lot of nighttime lighting  
+though, and even for those a bit further apart 
+than Alpha Centauri’s binaries, over its period  
+of a century or more it will be visible during 
+the night time during one half of the year and  
+then not the other. It’s the extra bright moon 
+lighting up your winter skies for a century and  
+then it will brighten your spring nights for 
+a century, then your summer, then fall. It is  
+probably what your calendar uses for your next 
+increment after days and years, and it might be  
+many decades or even a few millennia, 
+depending on how bright and close it is. 
+Of course brightness is going to vary with 
+how close it is and that can vary a lot too,  
+as orbits are rarely circular, and as mentioned 
+Alpha Centauri A and B orbit each other every 79  
+years and very elliptically, from 11 AU to 36 AU 
+in distance, meaning some planet orbiting Alpha  
+Centauri B, again also called Toliman, is watching 
+Alpha Centauri A – also called Rigil Kent – vary  
+over 8 decades from something 400 times dimmer 
+than our own Sun – a thousand times brighter  
+than the full moon – to one 40 times dimmer 
+than our Sun, brighter than a cloudy day,  
+and at both distance visible during daytime. 
+That probably isn’t a deal breaker, and we  
+can imagine life managing that difference 
+easily enough, but anything much more than  
+that would probably make life non-viable, with 
+either deadly hot summers for a couple decades  
+or ultra-cold winters for the same. Obviously, 
+this case relies a lot on a fairly elliptical  
+orbit, which is neither rare nor normal.
+Alpha Centauri C, or Proxima, again is barely  
+visible, as at its distance of 13,000 AU from 
+the others, a fifth of a light year, it is 100  
+billion times dimmer in their sky than our own sun 
+is in ours. It would be a fifth magnitude star,  
+the kind only visible on very clear nights far 
+from any light pollution. Incidentally, Proxima  
+is not visible from Earth except by telescope, 
+and even then, in the southern hemisphere. 
+So case 1 is a planet orbiting both stars 
+and case 2 is orbiting just one, but with  
+a neighbor close enough to be a brightest moon 
+or even a major climate changer over the course  
+of its decades to centuries long orbit.
+Let’s consider the third case, a planet  
+orbiting the bigger star which is orbited by 
+another star on a bit more of circular orbit,  
+probably still elliptical but not sharply 
+so, which helps minimize perturbation. 
+The issue here is that this second sun plays a 
+role a lot like Jupiter and indeed probably has  
+its own solar system, but it needs to be further 
+away than Jupiter for there to be any chance of  
+stable orbits around either star. In a case like 
+this you have more likelihood it’s a dim red  
+dwarf on the smaller side orbiting something dim 
+too, as that forces any habitable planets to be  
+very close to their stars. This is quite common 
+since most stars are much smaller than our Sun,  
+and many binaries are red dwarf pairs, or a red 
+and orange dwarf, or even involve a brown dwarf  
+though it's debatable if they count as a star.
+We don’t tend to think of it this way but the  
+bigger a star is, the brighter it is, and the 
+more easily disturbed and perturbed objects  
+in its habitable zone are. Whatever your lighting 
+is like, you can’t exist long as a planet if it’s  
+either shifting radically all the time or if your 
+planet is getting ejected into the interstellar  
+void by perturbation. Or swallowed by its sun.
+To wrap up with an interesting pair of examples:  
+Let's imagine a tidally locked planet around 
+a smaller red dwarf, that it orbits about once  
+a month, and further out beyond that we have 
+another star, a very slightly dimmer red dwarf,  
+that orbits about once a year. That means 
+during the normal course of events the day  
+side of our planet is always under sunlight, a 
+monstrously large but dim sun, and that we can  
+often see that other star that’s about a tenth 
+as bright in the sky. We see it for around two  
+weeks at a time then it sets and rises again 2 
+weeks later. During that time, the eternal night  
+side is brighter, enough to feel like a cloudy 
+day, followed by two weeks of utter darkness,  
+but over the course of the longer year, we will 
+be close or further from that secondary sun,  
+so we basically have several month long cloudy 
+days that are increasingly brighter followed  
+by a zenith than waning to more dark days.
+This place is also very tidally wracked,  
+because that second sun is still very massive, 
+just dim, so it might indeed be a very stormy  
+place and still fairly warm from tidal heating 
+and air currents. I could picture living in some  
+mining city there built into a volcanically 
+active island living on a diet of mostly fish  
+and mushrooms, trading to the twilight realms 
+and sunny side for other food. It would be an  
+interesting place to be a ship captain during 
+their age of sail too, gloomy seas for weeks at  
+a time followed by eternal dark for two more, on a 
+planetary hemisphere that was some mix of Iceland,  
+fjords, and massive whirlpools.
+We can also flip that case around,  
+our planet around the smaller star and 
+them orbiting the bigger binary. A red  
+dwarf with a close habitable planet that orbits a 
+star like our own but maybe at Martian distance,  
+in which case that planet is probably tidally 
+locked and one side always sees the red dwarf and  
+the other not, but depending on the brightness and 
+mass of that red dwarf, it may orbit it anywhere  
+from once every few days to a few months, and get 
+light one one side or another from that bigger and  
+more distant sun on that same time frame.
+So for a quick example, a two week orbit  
+around a red dwarf not quite bright 
+enough to warm that world on its own,  
+has one side eternally lit by it and lit by 
+that other sun for a week, then dark for a week,  
+while the other side never see that close red 
+sun, doesn’t know its binary, and is dark for  
+a week and dimly lit by the bigger sun for a week, 
+then once again dark. To the best of my knowledge  
+that’s never been written up as a setting for 
+any novel, either of them, so feel free to steal  
+one and set a tale there, and there’s a lot of 
+interesting trinary cases of a similar variety. 
+But that’s where we’ll wrap 
+our own tale up for the moment…
+As we saw today, the habitability of binary 
+star systems, and even regular star systems,  
+can be a bit non-intuitive and require 
+some calculation to understand. Math  
+can sometimes be intimidating for those 
+who want to learn more on these topics,  
+and people can even trick themselves into 
+thinking it can’t be done, even though they  
+know it will open up whole new worlds to their 
+imagination and help with professional growth  
+too. But it can be done, especially with 
+the help of a good partner, like Brilliant. 
+The best way to learn is daily and establishing a 
+daily learning habit is one of the most important  
+things you can do, learning in fun and bite 
+sized chunks, and that’s where Brilliant can  
+help. Brilliant helps you build real 
+knowledge in minutes a day—with fun  
+lessons you can do whenever you have time.
+Brilliant also focuses on fun and interactive  
+learning, where you learn by doing, with 
+thousands of interactive lessons in science,  
+math, data analysis, programming, and AI. From 
+simple to complex, whatever your skill level,  
+Brilliant customizes content to fit your 
+needs and lets you start where you should  
+and improve at your own pace. Brilliant’s been 
+a partner to this show for many years now,  
+and you can trust them to be a partner on your 
+learning journey, but you can try everything  
+Brilliant has to offer first for free for a full 
+30 days, just visit brilliant.org/isaacarthur  
+or click on the link in the description. You’ll 
+also get 20% off an annual premium subscription.
+Thinking on long term friends and partners, 
+whenever I’m doing a follow up or sequel to an  
+episode from years back, it tends to spark my 
+memory of when that episode was getting made,  
+and today’s episode was no exception, and 
+ironically while first written a year ago,  
+before being expanded for today, it was first 
+planned 4 years ago and put on the back burner  
+because it was right after Covid came out and I 
+switched some channel focus in favor of episodes  
+like our Becoming an Interplanetary Species 
+series. I’d originally been planning to give  
+that as a talk while accepting my Pioneer Award 
+at the International Space Development conference,  
+which got canceled that year, and I decided 
+to make it first an episode and then a series,  
+and it was very popular with that organization, 
+the National Space Society, and four years later  
+I’m the president of that organization. Another 
+thing that got put on the backburner from Covid,  
+was my old army battalion’s long planned first 
+reunion, and that was also just when my wife  
+Sarah and I had gotten married, right after 
+the shutdown. She was hoping to go to both  
+events with me, but we couldn’t go and even our 
+honeymoon had to be a bit shortened from Covid. 
+That battalion reunion finally got rescheduled 
+this year in Las Vegas, for this weekend,  
+and I wanted to wish all my former battler 
+brothers from 2-3 FA, the 2nd battalion of  
+the 3rd Field Artillery regiment, proudly serving 
+in virtually every conflict since the War of 1812,  
+a great time there in Vegas. I could not have 
+had any better luck than to serve in 2-3 FA  
+alongside all of them. Unfortunately, my 4th 
+anniversary is this weekend too, so Sarah and I  
+will be off enjoying a long needed vacation when 
+this episode airs. As I’m sure most of you know,  
+I create these episodes well in advance, so 
+no, if you were wondering, I’m not working  
+on my vacation beyond probably spending about 10 
+minutes releasing and checking on this episode,  
+my wife might kill me otherwise.
+Speaking of upcoming episodes though,  
+we’ll begin May 2024 with a look at the 
+Banks Orbital, also known as God’s Bracelet,  
+a megastructure space habitat hundreds of times 
+larger than Earth, that advanced civilizations  
+might build as an alternative to terraforming 
+planets. And speaking of advanced civilizations,  
+the week after that on Thursday May 9th we’ll 
+look at the Interdiction Hypothesis of the  
+Fermi Paradox, which asks if civilizations out in 
+the galaxy might leave large buffer zones between  
+their empires, and ask if Earth might be inside 
+one such empty buffer zone. Then we’ll continue  
+the alien theme with a look at the reverse case of 
+Interdiction, where civilizations sprawl near each  
+other and set up alien embassies. After that, it's 
+on to the idea of massive galactic empires and the  
+enormous cosmic capitals that might oversee them.
+If you’d like to get alerts when those and other  
+episodes come out, make sure to hit the like, 
+subscribe, and notification buttons. You can  
+also help support the show on Patreon, and if 
+you’d like to donate or help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early 
+and ad free on our streaming service,  
+Nebula, along with hours of bonus content like 
+Galactic Beacons, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

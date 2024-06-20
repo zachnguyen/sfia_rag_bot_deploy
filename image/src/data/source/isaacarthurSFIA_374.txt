@@ -1,0 +1,645 @@
+﻿
+This episode is sponsored by Audible
+ 
+We generally think of spacefaring civilizations 
+as being very technologically advanced. 
+ 
+But what if some species have to settle 
+for doing things the old-fashioned way?
+ 
+Today we’re going to contemplate some 
+scenarios in which a civilization might  
+begin engaging in space travel 
+even though they’re at a lower  
+level of technological development than 
+might seem ideal for that undertaking.  
+And in the process ask what the minimum 
+technologies really are for space travel.
+ 
+We’ve got 4 basic paths we’re 
+going to look for that purpose.  
+One will be a civilization that arose in 
+circumstances where space travel was easier,  
+another will be a case where they had higher 
+technology then lost it or opted not to use it,  
+and we’ll also look at a case where there 
+just isn’t any new and useful science and  
+technology beyond what we essentially have 
+now. We’ve one more too, which is where they  
+are forced to get into space in the face of a 
+looming disaster like a giant asteroid headed  
+toward their planet that they can’t blow up or 
+divert, and need to get some remnant of their  
+civilization off world before it hits.
+Of course Low-tech is a subjective term,  
+because science and technology don’t really 
+lend themselves to easily defined levels.  
+A civilization might have mastered making fusion 
+reactors but never explored genetic or cybernetic  
+enhancement. They probably would need to have 
+equaled us at least in computing capability  
+to have achieved fusion, given that our own 
+research on the matter is very computer intensive,  
+but might later abandon higher computing out of 
+fears of artificial intelligence while retaining  
+the knowledge of how to build a fusion reactor.
+For today we will go ahead and define modern  
+humanity plus maybe a couple decades as 
+essentially our borderline. For today’s purpose,  
+Low-Tech will include everything we currently 
+have either in active or past use, or very firmly  
+on the drawing board, technology where there’s 
+no debate it can be done, just minor technical,  
+economic, or other practical issues to resolve. An 
+example might be a nuclear rocket, that technology  
+is very solid but since we’re hesitant to use 
+radioactive engines we don’t really know its  
+specific performance values like we do for the 
+various rocket designs we’ve actually tried.  
+Similar concept applies to solar sails, we can 
+calculate with ease the performance a specific  
+solar sail would have based on its solar 
+cross section and mass, but since we haven’t  
+been mass producing and using them day to day, 
+the practical issues of building, maintaining,  
+and using them are completely speculative.
+So what is the absolute minimum technology  
+needed for spaceflight? The answer, as 
+so often is the case, is “It Depends”,  
+because in theory you could have life evolve in 
+space itself, and we explored that notion more  
+in our episodes Void Ecology and Space Whales.
+Ignoring that sort of scenario though, we have  
+to recognize that Earth might not be the normal 
+case for getting into space. Many tiny changes  
+could permit a much easier pathway to orbit. 
+As an example, there is no particular reason  
+to think mountains on a planet couldn’t be high 
+enough to extend up to the edge of an atmosphere.  
+Now we have something called the glacial buzzsaw, 
+as glaciers are far more erosive than rain,  
+but this maximum height where sheer weight of rock 
+piling up combined with glaciers piling up on it  
+and eroding it is going to be very dependent on 
+the planet’s gravity, tectonics and atmosphere.  
+As we saw on Mars, because gravity is about 
+40% of Earths, mountains can get bigger.  
+Indeed Mount Everest is only about 40% as tall 
+as Mars’s tallest mountain, Olympus Mons. 
+ 
+We have workable designs for a device called a 
+mass driver that is basically a long rail gun  
+that can shoot spacecraft into orbit, see our 
+episode on it for details, and its ideal place  
+to build is up along the side of a nice tall 
+and wide mountain, and Olympus Mons, which is  
+not much smaller than France, makes a very nice 
+gentle slope for a mass driver to pick up speed.  
+Combined with the low atmosphere, especially at 
+the top, and lower gravity and orbital speeds,  
+a civilization on Mars equal to us in technology 
+and infrastructure could throw together a mass  
+driver on Olympus Mons with great ease and be 
+moving thousands of tons of payload into space  
+every day for not much more cost than we move 
+thousand of tons of freight around on rail lines.
+ 
+Now there’s pretty good reason to assume no 
+civilization would naturally arise on Mars, but  
+planets with atmospheres and gravities in between 
+Earth and Mars are plausible enough and might have  
+very easy access. Nor is gravity really the big 
+control factor on having an atmosphere that folks  
+tend to assume. It helps, but it’s more about 
+having a magnetosphere to help hold the atmosphere  
+on. If our Moon had the same magnetosphere as 
+Earth, it could hold an atmosphere and oceans,  
+albeit probably not over billion year periods, 
+as it is much less massive than even Mars. 
+ 
+However, assuming you do need an atmosphere 
+and surface oceans for advanced life to emerge,  
+moons of gas giants are options. It 
+is entirely plausible you could have  
+a Jupiter – or larger – sized planet near as we 
+are to a Sun like ours to be warm and with some  
+large rocky moons who would be inside its own 
+protective magnetosphere. Those could even be  
+as big as Earth, and the tidal forces of orbiting 
+a gas giant provide plenty of tectonic activity  
+to make mountains and generate an atmosphere 
+to help with higher leakage to space. Moreover,  
+if a gas giant has one big moon, it probably has 
+a ton of other ones, Jupiter has over 60, and it  
+might have large rings too, like Saturn, so that 
+you would have an awful lot of earlier and easy  
+targets for space development. Easier than our 
+own Earth-Moon, since all those objects, probably  
+including your home world, are much easier to 
+launch from than Earth and far closer than Mars.
+ 
+So even a moon much smaller than Earth 
+might have Earth-like conditions but  
+benefit spacefaring civilizations by having not 
+only potentially taller mountains but much lower  
+escape velocities, potentially those well inside 
+the range of hypersonic air-breathing vehicles.  
+Additionally, civilization arising on such 
+worlds, as we looked at in our episode Life  
+on a Low Gravity Planet, might be far more 
+inclined to be avian, either technologically  
+or even biologically evolved that way.
+Which is another way space travel might  
+be easier even on more massive planets than 
+Earth. Thick atmospheres can be your enemy  
+but also your friend. Earth has little hydrogen 
+and even less helium, in spite of them being the  
+most abundant elements in the Universe, because 
+they most easily escape from a planet. All of our  
+current helium comes from radioactive decay of 
+Uranium in our core, and a more massive planet  
+not only would probably have more Uranium, and 
+thus more helium production, but also be much  
+better at retaining Helium compared to Earth, 
+where only about 5 out of every million atoms  
+in the atmosphere are helium, and we generally get 
+our helium from underground deposits as a result,  
+whereas they might be able to just suck tons 
+of it out from the air if they had more. 
+ 
+If Helium were even just an order of magnitude 
+higher, which might be the case on a planet even  
+just 10% more massive than earth, you might have 
+abundant cheap helium to use for launch assist,  
+floating rockets or even runways high up into the 
+atmosphere. This is also not super-high tech, so  
+you might see a relatively primitive civilization 
+already incorporating air travel or floating  
+structures long before it was contemplating 
+rockets. So too, we use helium for balloons  
+because it is lighter than air, but air is a 
+number of different chemicals of various masses  
+so you can for instance just barely float a pure 
+nitrogen balloon because while our atmosphere is  
+mostly nitrogen, 21% of it is oxygen which is a 
+bit heavier. Hypothetically you could have a world  
+slightly less massive than Earth and farther 
+from its sun have earth-like temperature and  
+atmospheric pressure because of higher carbon 
+dioxide concentrations and less atmospheric  
+leakage, and thus be one with not only lower 
+gravity and thus launch costs, but a thicker and  
+heavier atmosphere you could float above easier.
+Keep in mind, technology and development tend to  
+snowball. Back in the space race days folks tended 
+to assume we’d have moon bases and cities by now,  
+and we probably would have if launch costs and 
+efforts were even just half of what they were,  
+as a sort of developmental 
+equivalent of compound interest. 
+ 
+The biggest hurdle to space development is 
+actually getting into space, once you’re up  
+there in a big way there’s really nothing all that 
+high tech involved in day to day life or travel.  
+You just need to be able to make air-tight and 
+radiation-proof vessels, which isn’t too hard,  
+especially when you’re not constantly needing to 
+be super-frugal with your mass as modern launch  
+costs require us to be, at thousands of dollars a 
+kilogram. Using a solar sail example, at Earth’s  
+distance from our Sun they generate around 8 
+newtons of thrust per square kilometer of sail.  
+Which isn’t a lot, enough to accelerate 
+1000 kilograms, or about a ton,  
+8 millimeters per second per second but over 
+a month of acceleration, pushed on by the Sun,  
+you’d be moving over 20 kilometers per second 
+and that’s a respectable interplanetary speed. 
+ 
+And a square kilometer of sail doesn’t need to be 
+very heavy, one a micrometer thick – and we can  
+do a lot thinner with modern tech – is going to 
+give about a kilometer of sail for a ton of sail  
+material. Folks were beating sheets of gold to a 
+tenth that thickness over 5000 years ago in India,  
+and we can do better nowadays with even lighter 
+materials like aluminum or carbon fiber, which  
+are much cheaper than gold of course. Spacecraft 
+equivalents of sailboats then become possible,  
+differing mainly in that the ship has to be 
+airtight and the sails are huge but ultra-thin.
+ 
+Air tight is relative too, you’re always 
+going to lose some air and at a certain point,  
+adding more hull thickness to cut down on air 
+loss and radiation gets diminishing returns as you  
+need to move that ship, and oxygen is hardly in a 
+short supply. There’s a lot of ways to get oxygen,  
+electrolysis of water or ice being one 
+of the easiest, but we’ve got reactor  
+designs that produce a kilogram of oxygen, 
+or about the air in a cubic meter or yard,  
+and about twice what you’d breathe in a 
+day, for around 50 million joules of energy,  
+which sounds like a lot but is parallel to 
+running an air conditioner in terms of power draw,  
+and electrolysis is cheaper it just requires 
+water or ice, whereas virtually any rock can  
+give you oxygen. Indeed, given that most stuff 
+like iron, aluminum, and silicon are usually found  
+as oxides, refining them into the pure element 
+produces a ton of oxygen as a waste product.
+ 
+Also in contrast, if you’ve got square 
+kilometers of solar sails or some solar  
+cells or nuclear reactors churning out megawatts 
+to run your engines, a few kilowatts for air  
+replacement is minimal and that’s probably 
+more than a small spacecraft would leak too.
+ 
+One can use organic approaches for 
+air and water recycling of course,  
+a room for growing plants with glass open to the 
+sun will help with that, and if you’re keeping  
+your reserve water as a fish tank, you’ve got 
+air, water, plants for food, and some fish too.  
+See our episode Life Support for more discussion 
+of that topic but you can get pretty low tech for  
+keeping life support on spaceships or space 
+habitats. At least in the inner solar system  
+where there’s a decent amount of sunlight. Though 
+if you are using solar sails, kilometers worth of  
+reflective sail is a lot of light and it’s pretty 
+easy to divert a bit of that into concentrated  
+form to be running photosynthesis or 
+solar panels even out past Pluto. 
+ 
+Low tech interstellar ships are a bit harder, 
+because the Sun really isn’t available out in  
+interstellar space, so you’d need to be 
+considering nuclear options for power and drives,  
+but if you’ve got some radioisotopes with 
+decades to centuries for a half-life,  
+that is a very low-tech power supply. We normally 
+hook it up to a thermocouple to make power,  
+such as by the Seebeck Effect, which is hardly 
+high-tech since Thomas Seebeck discovered the  
+process 200 years ago in 1821. This is a 
+radioisotope thermal generator, or RTG,  
+and they are stupidly simple and low maintenance, 
+quite capable of lasting centuries with little or  
+even no maintenance, their only downside is that 
+such radioisotopes are fast-decaying so you have  
+to synthesize not mine your fuel. But as we looked 
+at in the future of fission, breeder reactors for  
+making them are not terribly high-tech either 
+nor is uranium or thorium in short supply.
+ 
+However, thus far we’ve been discussing this 
+concept from the perspective of folks getting  
+into space easier or essentially trying to run 
+with no more technology than we have right now.  
+We should keep in mind that a 
+civilization might be low tech  
+even if more tech is available. If you had 
+the equivalent of Space Amish, they might be  
+fine with buying their RTGs or solar sails or even 
+fusion reactors off some higher tech conglomerate.  
+And just as an example, if we had two factions in 
+the future, one a fairly high tech one but with a  
+low population growth rate and non-expansionist 
+tendency, and another that was very pioneering  
+and into big families but not into big tech, even 
+if the latter started out as a minority faction  
+after a couple dozen generations of growth 
+they’d outnumber the big tech faction  
+who might be perfectly content to sell them 
+durable low to no maintenance technologies.
+ 
+We should also keep in mind technology can get 
+expensive. It takes huge supply chains and other  
+infrastructure like education to keep technology 
+running, and a lot of small colonies might just  
+not have that and prefer to go for lower-tech 
+solutions. If your job is just running around an  
+asteroid belt taking samples of mineral deposits, 
+then some very cheap and durable big metal slab of  
+a ship with an RTG powering your drive and 
+life support gets the job done just fine.  
+You might have nothing high-tech in there except 
+some preferred personal luxuries and some core  
+device for your job like a high-tech spectrometer, 
+but otherwise be pretty contemporary tech. 
+ 
+This might be an economical choice or a moral 
+& ideological choice or just viewed as a safety  
+feature. Low tech tends to be easier to fix, 
+often more durable and easily understood to use  
+and repair, and doesn’t try to rebel against you. 
+As we say in regard to artificial intelligence,  
+keep it simple, keep it dumb, or else 
+you’ll end up under Skynet’s Thumb.  
+Civilizations worried about 
+artificial intelligence going haywire  
+don’t want it out far from civilization where 
+it can not be easily monitored or contained  
+if it goes all “Kill the humans” and thus might 
+not encourage or allow any really sophisticated  
+AI or self-replicating technology like 
+3D printers outside the core areas of  
+the civilization where it can be managed better.
+But rogue AI isn’t the only thumb to worry about.  
+If you’ve got new technology, 
+as we all know so well nowadays,  
+you’re rather dependent on the various companies 
+making constant updates, patches, repair parts,  
+and fixes. At a certain level of advancement and 
+utility a lot of folks, for a lot of applications,  
+might decide the technology that’s been tried and 
+tested for a century and is now open-license is  
+what they want to use. We have a lot of technology 
+like that and we get more of it all the time. 
+ 
+Oh to be sure we make tiny little improvements 
+in nearly everything, even stuff like how we  
+make dimensional lumber for buildings or the 
+windows in them gets new tweaks and improvements,  
+but that is likely to plateau out and when 
+you’re talking about interstellar civilizations  
+who need decades just for the schematics for a 
+given new improvement to disseminate to their  
+nearest colonies via light speed transmission, and 
+with voyages of centuries to those same places,  
+you are likely to see a lot of tried-and-true 
+technology come into play. Being a couple light  
+years out from the nearest safe harbor and drydock 
+isn’t a good time to find out that your awesome  
+new drive has glitches or burns out some vital 
+widget it runs on that nobody expected it to.
+ 
+The other reality is that while more 
+technology always helps for settling space,  
+once you’ve got it decently settled you 
+don’t need as much tech to keep it that way.  
+A couple months back we were looking 
+at the notion of Techno-Barbarians,  
+low-tech civilizations living in the 
+post-apocalyptic ashes of a higher-tech culture,  
+and we previously looked at Techno-Primitivism. 
+I’m generally of the opinion that any such  
+civilization will return to high-technology 
+fairly quickly – assuming it wants to – and  
+thus don’t view these civilizations as very likely 
+or stable, especially given that a few generations  
+of stability is likely to result in technology 
+being redeveloped. However that doesn’t mean they  
+can’t operate, just that I can’t see them staying 
+very low tech for long unless it was voluntary. 
+ 
+Fundamentally a spaceship built in space 
+for running around space is just a big  
+metal can that shoots rocket flames, 
+ions, or reflected light out the back,  
+and a space habitat like an O’Neill Cylinder 
+is just a big metal can you dump dirt, water,  
+and air into and add some light, from a power 
+plant or funneled in from the Sun. You may get  
+very high tech with these but you also might be 
+prone to keeping them very simple and durable to  
+lower maintenance. Especially if you’re a low-tech 
+group commissioning some company to build one for  
+you. Buying something made by high-technology 
+that needs little maintenance and all within  
+your skills is much more attractive than having 
+dependence on others for keeping it working. 
+ 
+And we never want to assume, just because 
+we’re all pro-technology these days,  
+that future civilizations hold quite the same 
+view. I doubt there has ever been an era that  
+was more pro-tech than now and most folks 
+are still a little queasy about the dangers.  
+And not just from ignorance, heck I’m a notorious 
+techno-optimist and I constantly mention how  
+dangerous technology is. Someone sent me an email 
+a couple days back linking me to the Wikipedia  
+page with notable futurologists on it, and I was 
+a bit surprised to be listed on there with a bit  
+over a hundred folks, living and dead, but I knew 
+most of the names and of those I could recall,  
+most were techno-optimists and folks who I’ve also 
+heard warn about the dangers of high-technology.  
+That’s the most outspoken techno-optimists 
+of an era with probably the highest amount of  
+techno-optimism in human history, and we all think 
+the stuff is like juggling live hand grenades. 
+ 
+It isn’t hard to imagine how a civilization 
+might change its view on this stuff,  
+especially given that the more technology 
+you have, the more comfortable life is,  
+and the more picky you can be about which 
+technologies you use to keep it that way.  
+When we talk about post-scarcity civilizations 
+I tend to mention that we’re already very close  
+to being one, and that there are several 
+different plausible technologies we might  
+get in the next century any one or two of which 
+would get the job done to make us post-scarcity.  
+So if you’ve got all of them, you can opt 
+to be picky about which you employ and how.  
+And more comfortable civilizations probably 
+are less prone to gambling, you might use a  
+dangerous tech to save lives but you don’t flip 
+on a dangerous AI because it means you can upgrade  
+from your cramped 100-room mansion cleaned by 
+simple robots to a nicer 1000-room mansion fully  
+staffed by intelligent androids. We often assume 
+higher-tech civilizations that are post-scarcity  
+to be rather self-indulgent and soft from all 
+the prosperity, but even if that were true,  
+we shouldn’t assume they are reckless or stupid.
+I suggested you might have lower-tech spacefaring  
+civilizations who buy their stuff from higher-tech 
+ones, but they could just as easily have some  
+rigid rules about who is allowed to learn certain 
+technologies too. If you need to have AI, but are  
+pretty paranoid about it, you might seriously 
+restrict its use and only allow the knowledge  
+of making and maintaining it to be in the hands of 
+a very small group of folks. You might need one or  
+two people per space habitat to maintain some 
+core bit of dangerous but necessary technology  
+and pick them not by those most intelligent, 
+curious, or interested, but rather from those  
+most trusted. You rarely need to be nearly 
+as smart to learn something as to invent it,  
+so a space habitat of a million folks might have 
+some huge psychological or democratic screening  
+process for nominating apprentices to the existing 
+maintenance crew entrusted with terrible and  
+dangerous secrets of its function. In such a 
+case, nothing is going to be higher-tech than  
+it needs to be, because that means sharing 
+those dangerous secrets to more people. 
+ 
+Also always keep in mind the scale of things. Even 
+if your civilization was continuing scientific  
+research, and kept a million expert researchers 
+for a given field, way more than we have now,  
+in some Kardashev-2 Dyson Swarm that would mean 
+only one in several trillion people worked in  
+researching that field. That’s a lot of folks to 
+be able to accept the best and brightest from,  
+and still screen out those who were viewed as not 
+psychologically suited for ensuring new science  
+and tech development was handled very safely and 
+securely so that when technology hit day to day  
+use it was in some ultra-durable, simple, and very 
+tested format. Also, despite how fiction often  
+portrays scientists and engineers, as recklessly 
+pursuing new technologies, in my experience they  
+already tend to be more, not less cautious than 
+most folks, I’ve never noted a correlation between  
+genius and recklessness so you probably can 
+screen out the more reckless ones from your  
+tech development without slowing that down much.
+A civilization might be very touchy about allowing  
+any tech that wasn’t necessary to be 
+in regular usage, especially on board  
+small-crew spaceships. And it’s neat to 
+think of some kilometer long leviathan  
+of space freighter being run by a crew of a 
+dozen because of vast automation and robotics,  
+but if you’ve got tons of people they do need 
+something to do to keep them occupied anyway and  
+those same technologies are going to be available 
+to make every facet of production easier too  
+so you might see a lack of massive unemployment 
+and idle hands and minds as a plus anyway.
+ 
+Is it likely? Maybe. We looked at 3 basic 
+ways you might have low tech spacefaring,  
+those who developed it at lower tech because 
+their world was better suited for it,  
+those who basically couldn’t get anymore advanced 
+than now because science and technology can not  
+develop further or they don’t want it to, 
+or those who essentially opted for minimal  
+employment of higher-technology even though 
+they had it, and either still had it or lost it.  
+Each of those scenarios is plausible, but 
+more so in the grand scheme of things,  
+as when we’re talking about the endless 
+quadrillions of people who might live in  
+developed star systems across a whole galaxy 
+there is a lot of room for variation. 
+ 
+You might have a low-tech spacefaring civilization 
+living around the moons of Jupiter who just bought  
+their fusion reactors or radioisotope supplies 
+off some high-tech conglomerate on Mars,  
+while over on Saturn folks eschewed most 
+types of technology in favor of genetically  
+engineered plants that could grow in space and 
+be grown or woven into solar panels or sails.  
+And a few dozen light years away there was some 
+star system that was nothing but asteroid miners  
+who all worked in jury rigged ships with 
+no AI, supplying metal for some automated  
+mega-freighters that showed up to collect the ore 
+and trade them high-tech manufactured super cheap  
+but super simple goods, like RTG powered LED grow 
+lamps that lasted for a century and you just hung  
+them on the ceiling of your hydroponics facility. 
+The galaxy and the future can potentially host  
+virtually endless variations of civilization, 
+in this or that place and time, so that an  
+interstellar merchant visiting a system after 
+a century might find they’d gone all low-tech  
+or returned to being high-tech and flipped 
+back around the next time they stopped there.
+ 
+That is one neat thing about our 
+future as a space faring civilization,  
+the path to all those new stars offer a path 
+to near endless options for civilizations,  
+and while technology helps a lot 
+for getting there, as we saw today,  
+your spaceships don’t have to be all 
+that high-tech to make the voyage.
+ 
+Science fiction is full of examples 
+of low-tech spacefaring civilizations,  
+or those who went low-tech after colonizing 
+a world, but one of my favorites is Anne  
+McCaffrey’s Dragonrider of Pern series, and indeed 
+it was the second fictional book series I read,  
+right after Douglas Adams’ Hitchhiker's Guide 
+to the Galaxy. Or I should say listened to,  
+as what got me as a kid into fiction instead of 
+just nonfiction books, was being able to listen  
+to the stories as audiobooks. While masquerading 
+partially as a fantasy series, right from the very  
+first book written in 1968 - and there are dozens 
+in the series now - we see a civilization that  
+was built by science and still retains some higher 
+technology. It also includes an alien invader that  
+is so low-tech it doesn't even use spaceships.
+Over the years a lot of books were written  
+chronicling the planet of Pern all the way from 
+the spaceships arriving to colonize the world to  
+them losing their technology in increments and 
+finally regaining it, complete with some novel  
+approaches to spaceflight. It’s one of my favorite 
+series and as we head into the colder months,  
+if you’re looking for a good story to occupy 
+many weeks, then the Dragonriders of Pern is a  
+great choice, and the series is our Audible 
+Book of the Month. You can choose to start  
+with the first book written, “Dragonflight”, 
+or head to the beginning of the chronology,  
+with the more science-fiction themed “Dragonsdawn” 
+and they’re all available on Audible.
+ 
+Audible also has podcasts, guided-wellness 
+programs, theatrical performances, and exclusive  
+audible originals, indeed they have over three 
+centuries worth of audio if you just hit the  
+play button and ran it through every title.
+If you want access to that massive collection  
+of great audiobooks, like Anne McCaffrey’s 
+Dragonriders of Pern, you can join Audible  
+for a 30-day free trial, and Audible members not 
+only get discounts on any audiobooks they buy,  
+but a free book every month. Additionally, 
+they are now giving unlimited access to their  
+audible originals. You can start listening 
+today with a 30-day Audible free trial.  
+Just visit the link in the episode description, 
+Audible.com/Isaac, or text “Isaac” to 500-500.
+ 
+So we talked a lot about how a low-gravity 
+planet like Mars might have an easier time  
+getting into space than we had on Earth today, 
+and next week we’ll be looking at the challenges  
+of getting to Mars from Earth and setting up 
+a Base there, as we continue our new series,  
+Becoming an Interplanetary Species.
+The week after that we’ll be having our Halloween  
+special, “Terrifying Aliens”, on Thursday October 
+29, but before that on Sunday the 27th we’ll have  
+our Monthly Livestream Q&A, at 4pm Eastern time. 
+If you want alerts when those and other episodes  
+come out, make sure to subscribe to the channel, 
+and if you’d like to help support future episodes,  
+you can donate to us on Patreon, or our website, 
+IsaacArthur.net, which are linked in the episode  
+description below, along with all of our various 
+social media forums where you can get updates and  
+chat with others about the concepts in the 
+episodes and many other futuristic ideas.
+ 
+Until next time, thanks for watching, 
+and have a great week!

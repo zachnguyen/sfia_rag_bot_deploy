@@ -1,0 +1,841 @@
+They say space is the future, out among the
+countless billions and billions of new worlds
+in our galaxy, but a journey needs a path
+or road, so what sort of roads will we build
+in space?
+Underneath almost every house or building,
+humble or grand, is a foundation and often
+a driveway to a road, power lines, water lines,
+sewer, telephone, cable, internet, and more.
+There are roads and rails, highways, airports
+and train stations, pipelines and high voltage
+cables, cell phone and Wi-Fi networks.
+Sea ports, water treatment facilities, power
+plants, hospitals, schools, police and fire
+stations, banks and ATMs, mints and now even
+crypto mines, parks and walkways, software
+updates, hiking and biking trails, and so
+many more.
+These are but a sample of the infrastructure
+that our civilization on this planet runs
+on, and I thought we would ask what that looks
+like at the interplanetary scale, as our civilization
+spreads out to the other major planets, moons,
+and millions of minor planets and asteroids
+orbiting our shared Sun.
+At the core, infrastructure is the facilities
+or systems that serve some place, be it a
+tiny village or a whole country, and which
+are needed for its economy, homes, people,
+groups, and businesses to function, or at
+least to function as they are.
+We can obviously function without the internet,
+I still remember a time before it and am only
+42, but it’s hard to imagine our civilization
+functioning without it anymore and I don’t
+think it really would be the current civilization
+without it.
+Maintaining the internet or platforms like
+wikipedia or youtube in space would be no
+mean feat, but it would be just as vital as
+now, and includes whole new problems.
+One of the ironies of space is that this era
+of instant communication is likely to be a
+short-lived period, unless we find some method
+of communicating faster than light, which
+is in contradiction to our current understanding
+of physics.
+In such a case, as the volume of inhabited
+space increases, we might return to an earlier
+era where messages were carried by ships and
+a response would take several weeks.
+Fortunately, everything in this solar system
+is still inside contact times shorter than
+what was routine in most nations prior to
+modern telecommunications.
+The basic ability to pass information between
+people and groups is perhaps the most foundational
+aspect of infrastructure, and so we can imagine
+the whole solar system being knit together
+to one degree or another, much as Earth has
+been in recent centuries, though hopefully
+more peacefully, respectfully, and productively
+than has often been the case.
+This would not seem as much an option at the
+interstellar scale, let alone at the galactic
+level, and we may contemplate those scenarios
+more another day but it’s beyond our current
+scope.
+It is also impossible to detail every bit
+of infrastructure we have now on Earth, even
+briefly, in a single episode, let alone everything
+a new interplanetary civilization might need,
+but our goal today is to talk about some of
+the more unique, vital, or interesting ones.
+Some may never come to pass, some might only
+exist far ahead in time or only now for a
+century or two before being primarily replaced
+by something better, much as canals are mostly
+a thing of the past.
+For instance we may one day build enormous
+tethers directly connecting huge orbital rings
+along planetary orbital paths to allow direct
+physical travel on a train between planets.
+More on that later, but something like that
+would come long after more simple approaches
+such as the Aldrin Cycler, a large space station
+or even converted asteroid that orbits on
+a path that routinely takes it past two planets,
+like Earth and Mars, allowing transport between
+them by hitchhiking along.
+So, today we’ll be contemplating everything
+from simple early systems like the Hohmann
+Transfer Cosmic Train Schedule to swarms of
+constructs so big they would dwarf the Earth
+itself, and to do that in a single episode,
+we’ll often reference other episodes we’ve
+done like the Megastructure Compendium where
+we discussed a given structure in more detail,
+some of which eclipse entire stars or solar
+systems in scope.
+And if those sound like fun, make sure to
+check them out afterward and hit the like
+and subscribe buttons for alerts when more
+mind-bending content like them comes out.
+Now, there are a lot of ways to view infrastructure
+but we probably ought to start with the basic
+ones for getting us off Earth or other high-gravity
+planets and sadly that’s probably not rockets,
+cool though they are.
+If you’re looking to move millions of people
+to orbit and back every single day, and millions
+of tons of cargo, thousands of ships slamming
+through the air at hypersonic speeds is not
+your optimal way to do that.
+Rather that’s where concepts like space
+elevators and orbital or tethered rings come
+into play, or mass drivers or skyhooks or
+rotovators or launch loops.
+Now, we have detailed all of these in either
+our upward bound series or megastructures,
+with most having their own dedicated episode,
+so we will just summarize operation and role
+for now.
+The Space Elevator is the most commonly known
+megastructure for getting into space and it
+is a very long tether, tens of thousands of
+miles or kilometers long, and it not only
+gets you up to orbital space but whirring
+around at orbital speeds, or even above it
+at highest altitudes.
+Contrary to their common portrayal, it is
+not necessary to have a space elevator leave
+from the equator, assuming you instead have
+multiple tethers meet up from both hemispheres
+at the same station or waypoint that itself
+is over the equator.
+This is handy as the amount of traffic they
+can handle at the same time is very limited
+by tether strength and it is a very long journey
+to Geosynchronous orbit or higher.
+This also means one could leave directly from
+a city, rather than an equatorial port.
+As the vehicles climbing them are not rockets,
+they also could be departing direct from cities
+without noise or damage issues – they could
+easily include a parachute in case they fell
+off.
+The same is true of climbers on the elevator
+cables up to an orbital ring.
+This would allow you to skip the journey of
+tens of thousands of kilometers to GEO altitudes
+in favor of a journey of just hundreds of
+kilometers to LEO altitudes.
+You are not at orbital speed when you reach
+the top of the elevator, just at orbital altitude,
+but you can then launch from there by using
+a mass driver, circumventing the atmospheric
+drag or need for a large rocket, and saving
+vast amounts of money.
+A Tethered Ring would be at an even lower
+altitude - just tens of kilometers above the
+earth’s surface.
+With a Tethered Ring the mass driver for space
+launch is installed on the ground and the
+ring supports an evacuated tube that vehicles
+travel through to avoid air drag issues within
+the densest part of the atmosphere.
+With all of these approaches, the Mass Drivers
+tend to operate on the same fundamental premise,
+we use a long track to accelerate the vehicle
+up to orbital velocities electromagnetically.
+When launching from a planet with an atmosphere,
+like Earth, we either install the entire mass
+driver above the atmosphere (as is the case
+for Orbital Rings or Lofstrom Loops) or we
+install the mass driver on the ground and
+use the active structure to support an evacuated
+tube (as is the case for the Tethered Ring,
+or one supported by space towers).
+We’ve discussed many variations of these
+systems and others like spaceplanes, along
+with their science and pros and cons, in other
+episodes, again principally in our Upward
+Bound series, but it always comes back to
+a simple paradigm.
+Rockets are your covered wagons for reaching
+the frontier, once you have and are building
+that frontier up, that’s when you start
+getting in to space in your equivalent of
+freeways and railroads.
+I’m most partial to tether-based systems
+and inertially supported active structures,
+in particular, as they require no new science
+or materials, though better magnetic shielding,
+energy production, or superconductors sure
+help.
+They allow a tether of mundane carbon fiber
+or Kevlar or several other strong substances
+to drop down, or at an angle, to potentially
+any city or airport on the planet and for
+a conventional, though airtight, tram-like
+car to run up that tether – or multiple
+tethers for redundancy – to the ring in
+the upper atmosphere.
+That ring is held up by seeming magic, but
+in fact it’s the mundane physics of active
+support and conservation of momentum for Orbital
+Rings or the Tethered Ring.
+The Tethered ring, which seemingly paradoxically
+hangs itself in the air from the ground, feels
+like magic on first glance too, but this is
+no different than a guy wire to a tower but
+works because the planet is a sphere.
+In both cases a ring can be placed at many
+locations, not just the equator, but the equator
+is easier for an orbital ring.
+Cables, or “Jacobs Ladders” (as Paul Birch
+referred to them) down to the ground can anchor
+it against precession, allowing us to tilt
+the thing to run on a path over any two spots
+on Earth we feel like, and all that’s between
+them, and near them too since we can also
+put tram lines out to the sides to run down
+at an angle, allowing one ring to service
+a wide ribbon of land around the planet.
+Another ring just a few hundred feet high
+or lower can cross the first, connect by a
+cable to it, and service a different ribbon-ring
+of the Earth at a different angle, and more
+rings can be added as need until you have
+fast space access from any place on the planet,
+and from any point on the planet to another.
+They are very sturdy cables.
+You can run a power cord along those to a
+groundside reactor, or have solar panels hanging
+off the side, or maybe even beam energy in
+from space-based solar satellites.
+That energy powers the climbers, which may
+move at whatever speed they like up the tether
+for a trip of tens of miles or kilometers.
+I’d imagine they would speed up after getting
+away from cities and above local landscape
+and air traffic, but likely would not exceed
+Mach 1, just to minimize engineering issues
+and local noise problems.
+So, you might spend 10 or 20 minutes getting
+to the ring.
+Once there you can essentially travel along
+the ring in the vacuum of space to reach a
+destination halfway around the planet in under
+an hour.
+Note that Transit on a Tethered Ring transit
+system would be slower that an Orbital Ring
+transit system, since you would be traveling
+at subsonic speeds through a high-altitude
+helium or a hydrogen filled tube.
+But since the speed of sound in low-pressure
+helium is around 3500 km/h, and for hydrogen
+it’s 4500 km/h, you would still be able
+to travel at 3-4 times the speed of air travel
+today.
+On an orbital ring it's limited only by the
+acceleration people are comfortable with,
+which includes the centrifugal force of turning
+around the planet.
+It’s hard to say what your time to the local
+station would be or from your terminus station
+to your final destination, or transfer times
+at each layover, but it makes a very plausible
+case for transfer from any spot on the planet
+to another, door to door, in only a few hours.
+Cheaply too, for a person or for cargo.
+That’s what’s awesome about these ideas,
+not just their space launching capacity, allowing
+millions of people and millions of tons of
+cargo to move to and from orbit every day
+and cheaply, but potentially allowing millions
+or billions of people and tons of cargo to
+move around the planet in a fraction of a
+day for a fraction of modern costs.
+As part of our interplanetary infrastructure,
+these systems also offer massive economic
+boons to the planet, ours or any we settle,
+and that’s why I like them, along with cheap
+orbital launch requiring no new science.
+It’s much easier to fund, build, improve,
+and maintain a space launcher that also has
+vast and direct benefits to us down here on
+Earth.
+You leave LA and are in London or Tokyo 2
+hours later to visit the family for the weekend
+or attend a business trip.
+You can live in New York City and commute
+half an hour to the orbital ring in space
+you work at each day, and still be home in
+time for dinner.
+Ultra-safe, ultra-reliable, ultra-cheap.
+On already airless worlds, which is most of
+them, such transport systems are much easier
+to install.
+Indeed, most airless worlds have very low
+gravity and they are easy to burrow through
+or build tall structures up from.
+And yet, it is likely going to be a long while
+before we can build these structures.
+Some new asteroid mine or dome on Mars is
+unlikely to have the people and resources
+to justify a lot of infrastructure of this
+type.
+That said, we should be mindful that our own
+enormous modern infrastructure would be unimaginable
+even a couple centuries ago.
+When cobbling a road was something requiring
+work gangs of dozens to make the bricks and
+lay them for even a short stretch, having
+a paved driveway to your own house was a mark
+of extreme wealth that even most mansions
+lacked.
+Technology and automation makes it vastly
+easier to create infrastructure, and so it
+might not be that absurd to imagine an underground
+vacuum tunnel directly to the average person’s
+house in centuries to come.
+And it’s certainly easier to do on airless
+rocks with low gravity.
+So too, transforming those rocks into vast
+habitats where we have literally built everything
+including the ground under our feet may not
+be so difficult in a civilization with superior
+automation and power production…
+indeed they may not need to get much better
+than we are right now, just a bit more practiced.
+There are tens of millions of minor planets
+in our solar system, ranging from rocks a
+hundred meters across that might become a
+village, or family space farm, to those which
+dwarf even large nations and which might collectively
+be transformed into far more living space
+than what we have on Earth.
+In early days on Earth, humans tended to take
+advantage of local natural shelter like caves,
+and built homes later, and Earth itself is
+like that, a handy but not terribly efficient
+use of mass for living space.
+A given mountain might have enough caves to
+let many hundreds shelter during bad weather
+or cold seasons and even be expanded to house
+thousands by digging them out, but you could
+take that same rock and build untold millions
+of homes.
+In this same way, asteroids and smaller moons
+can be turned into huge amounts of artificial
+living habitats, such as O’Neill Cylinders,
+and other pieces of infrastructure like extensive
+solar collectors or titanic orbital industries.
+Many an asteroid, essentially a lifeless mountain-sized
+rock floating in space, may get its beginning
+as an asteroid mine and use its income over
+many decades or centuries to transform that
+lifeless rock into a small nation with a more
+diverse economy.
+But what about travel between all those rocks?
+Here we have a number of possible options
+that range between your covered wagon and
+your airport or freeway.
+You might one day need or have the resources
+for something ultra-fast, but earlier on you
+start simple and low energy, and in many cases
+will keep to that, much as our own biggest
+shipping vessels carrying non-spoilable goods
+like metal ore or oil tend to move not much
+quicker than old sailing ships, in an era
+where supersonic travel is possible.
+The Hohmann Transfer is an example of a very
+low energy and slow move – at least by interplanetary
+terms – that we use nowadays to get spacecraft
+from point A to point B, and it never looks
+at all like the straight line we usually think
+of as the quickest way between two places.
+Everything orbiting the Sun does so at a specific
+speed and energy and the further from the
+Sun you are, the slower you orbit, both in
+terms of your raw speed and, since your orbital
+path is much wider, the period it takes you
+to get there.
+For instance, Mars is about 154% further from
+the Sun than Earth is, and moves at 81% of
+Earth’s speed around the sun, 15 miles per
+second instead of 18.5.
+As a result, it must cover 154% of the distance
+around the Sun while doing it at 81% of the
+speed, this results in a year of 188% longer
+than our own.
+But it also means something leaving Earth,
+while it will lose speed moving away from
+the Sun’s gravity, needs to be moving at
+the right speed to reach Mars but also not
+so fast as to need to burn much fuel to enter
+an orbit of Mars.
+That spacecraft will also accelerate as it
+approaches that planet, pulled on by that
+gravity, so your range of speeds to avoid
+flying right past that planet and slingshotting
+off at a new direction rather than entering
+orbit is smaller than one might think.
+This is true of essentially every cosmic body
+we want to send spacecraft to.
+It is even harder in the case of asteroids
+because they have so little gravity.
+Little fuel is needed to escape from them,
+but entering orbit around one requires extreme
+patience and precision.
+However, every planet or minor planet has
+optimal launch windows that allow for patient
+and minimal fuel use to get to them.
+There are usually a few options too, depending
+on how much fuel you’re willing to burn.
+The most fuel efficient is called the Hohmann
+Transfer Orbit and in the case of Mars, it
+is 517 days in orbit, half spent traveling
+there for 259 days.
+Travel between Earth and every other object,
+and also between those other objects to each
+other is possible and in general we call this
+the cosmic train schedule.
+We can also aid some journeys by traveling
+to other planets first in multiple steps and
+slingshots, and potentially aiding these with
+various megastructures like rotavators or
+mass drivers or energy or particle beams.
+But this is how we travel now, or sometimes
+using one of the slightly higher fuel burn
+options.
+Getting to Mars with people is a rations and
+radiation issue, so speed matters.
+There are options for traveling to Mars faster
+at different paths and speeds, they tend to
+require more fuel or different types of prototype
+engines.
+But one handy thing about planets with atmospheres
+is that you can aerobrake away excess speed
+on arrival, so you don’t necessarily need
+to burn fuel both up and down from your cruising
+speed.
+It is very likely that some asteroid mine
+in the Belt may have to wait for good windows
+to ship ore and metals to Earth.
+They might find a slow, low-fuel option to
+be profitable even with faster options available.
+After all, does it matter if you’re mining
+for centuries at a steady and expected rate
+and shipping metal back to a commodity market
+that can easily forecast demand and uses most
+of that demand for titanic structures that
+probably take decades to build?
+One slightly superior option is to either
+build a large space station or find a small
+near Earth asteroid and nudge it onto a more
+elliptical orbit that regularly passes by
+your two objects.
+In the case of Earth and Mars, and the basic
+Aldrin Cycler, this is typically a bit over
+a two year orbit that permits a Earth to Mars
+trip of 146 days and the same on the way back.
+Much of that time in between each leg is spent
+out further past Mars.
+We can arrange similar cyclers to other bodies
+too, like Earth to Jupiter or Mars to Venus
+and so on.
+It’s not hard to imagine these sorts of
+cycler craft, potentially several to the same
+destinations on different schedules, serving
+a major infrastructure role, even in energy
+abundant interplanetary civilizations.
+In theory you can get to Mars in mere days
+with sufficient energy, and pretty much anywhere
+in the solar system in a few weeks, by accelerating
+at 1 gee, and flipping over at the half point
+to decelerate - turn and burn maneuvers as
+it is sometimes called.
+This is popular in sci-fi, but in practice
+it is hard to imagine anyone being that wasteful
+with fuel, and moreover that’s not a limit
+since you could accelerate at a higher rate.
+It would just be uncomfortable for most humans,
+and unhealthy if you went too high.
+Infrastructure such as large propulsive lasers,
+or energy beams, that reflect off ships’
+light sails, or power relativistic ion drives,
+might allow economical travel around the solar
+system at speeds an order of magnitude higher
+than planetary orbital speeds, which means
+travel paths closer to straight lines and
+journey times of weeks or months rather than
+years or decades.
+We can also skip on rocket fuel and launch
+at very high speeds from larger orbital rings
+or very long linear accelerators like a mass
+driver.
+One built out beyond Geosynchronous altitudes
+could launch ships at those sorts of speeds
+too, though slowing down at the other end
+probably could not be accomplished by landing
+on such a strip.
+Shooting a bullet down a barrel is a lot easier
+than catching one in a barrel, even if technically
+possible.
+There is a standing concern on whether an
+accelerator like this can switch its electromagnets
+fast enough to push it at the higher speeds,
+but my friend Phil Swan from the Atlantis
+Project came up with a neat solution of using
+turning screw shafts down the length as opposed
+to using the normal switching system, and
+as best as he, I or anyone else I know who's
+looked at it can tell, it seems to circumvent
+that problem.
+If you’d like the details, I’ll link to
+his presentation on the topic, and his channel,
+Space Infrastructure, discusses many of the
+ideas in greater depth.
+Phil, incidentally, came up with the Tethered
+Ring design and ran the new Interplanetary
+Infrastructure Session that inspired this
+episode at our most recent International Space
+Development Conference hosted by the National
+Space Society.
+Space is big and needs big ideas from smart
+folks to tackle it.
+Conferences, like the ISDC, are great places
+for people to share and discuss them, and
+it’s a very great honor to be serving as
+the National Space Society’s president.
+Just like getting to run this show and our
+social media forums and helping to introduce
+these ideas to others who might one day help
+make them.
+I know they can seem enormous and unbelievable
+at times, like towers taller than freeways
+are long or giant rings that hold themselves
+in the sky, and some might turnout to be impractical,
+but I never cease to be impressed by what
+people come up with and how often we make
+those dreams a reality.
+Some of those dreams come from conferences
+like the ISDC, some from online forums like
+the ones we have on facebook, reddit, and
+discord, and it’s inspiring to see so many
+of them.
+In the long term we might even build orbital
+rings of various diameters around the Sun.
+We could travel between them on cables that
+resemble the spokes on a bicycle wheel.
+But the ends of these spokes would not be
+directly attached to the rings but would instead
+couple magnetically to them and glide over
+them.
+A system comprising hundreds of rings built
+about a million kilometers apart, all interconnected
+with free-floating spokes, and outfitted with
+lots of maglev tracks and mass drivers, might
+become the interplanetary equivalent of a
+terrestrial interstate highway system.
+Vehicles could race up from Earth’s surface,
+out to a ring, up a tether, to another ring,
+and out and over, and over, until coming to
+a stop on Mars, or Jupiter or Venus or even
+Pluto.
+A sufficiently advanced civilization, even
+without FTL, probably has some very high-speed
+options available if they’re transhuman
+or post-biological, like beaming over a copy
+of someone’s brain at light speed or whole
+data copy of their body, although probably
+very compressed.
+That’s something we discussed more in our
+episode on Teleportation.
+But speaking of beaming, I think this becomes
+a more dominant part of system infrastructure
+as you get bigger.
+You have the whole Sun’s power output to
+work with, trillions of times what we currently
+use, not to mention managing its waste heat
+and moving it around to where it’s needed.
+Spacehabs are likely to have their own constellations
+of sunlight collectors and pushing beams,
+to facilitate slowing or speeding ships visiting
+them, and to power their own industry, agriculture,
+and civilization.
+Very complex networks, which may require complex
+coordination too, may exist throughout the
+solar system for beaming energy and pushing
+ships around safely and efficiently.
+Same for information.
+They may also need individual archives or
+libraries, on every habitat, or share them
+with neighbors, or have a mix, storing some
+websites locally and others further away at
+bigger nodes.
+We do have the option of moving a lot of power
+and communication around this solar system,
+and potentially finding ourselves having to
+lay physical cables down like fiber optics
+just to avoid having the solar system flooded
+with comm traffic and power transmission.
+In the short-term though, one thing we have
+to keep in mind is that simple size is not
+a very good indicator of effort to build.
+A solar collector the size of this planet
+might mass a lot less than a single mountain
+or minor asteroid, being so thin.
+And so too would a solar shade or mirror that
+blocked or reflected sunlight.
+For that matter, you can also use power beams
+for terraforming efforts.
+But for scale, we should also keep in mind
+that in the future a lot of production might
+be about designing an object then having machines
+build it, so that complexity matters more
+than size.
+Indeed for many things this is already true,
+and it lets us contemplate planet-sized projects.
+I think it is very likely that places like
+Mars and Venus will adjust their temperatures
+by having large numbers of such mirrors or
+shades either in orbit or at their LaGrange
+points, and you can also use this to artificially
+alter apparent day length.
+That’s handy on a place like Venus or Mercury
+where the sunrise is something that happens
+every several months, not every day.
+These sorts of ultra-thin shades or mirrors
+allow us to terraform even super-hot planets
+or concentrate sunlight to warm even planets
+so cold air turns into a liquid.
+But perhaps more importantly, those Lagrange
+Points become major locations of Infrastructure
+as the solar system grows.
+Especially the L1 and L2 points.
+For any two orbiting bodies, like the Moon
+and Earth or Earth and Sun, there’s a point
+directly between them, usually much closer
+to the smaller of the pair, where the gravity
+of that smaller body decreases the pull of
+the larger one just enough to make a spot
+where the orbital period is the same as the
+smaller body has.
+Normally the closer to the Sun you are, and
+the greater the Sun’s gravity, the faster
+your orbital period must be, but right there
+at the L1 point it’s just a little diminished
+to be just right to lag behind and travel
+with Earth.
+On the other side of Earth you have the L2,
+where Earth’s gravity combines with the
+Sun to make gravity there just a bit stronger,
+resulting in a faster orbital period, and
+one that keeps up with Earth.
+These are a bit under a million miles from
+Earth toward or away from the Sun, or 1.5
+million kilometers.
+These are not points of no gravity, just diminished
+or increased gravity in one direction, the
+Earth opposing or lining up.
+Something similar happens at L4 and L5, which
+each form an equilateral triangle with Earth
+and the Sun, 60 degrees ahead or behind us
+in orbit.
+L3 is on the exact opposite side of the Earth
+from the Sun, 180 degrees ahead in orbit,
+sometimes called the Counter Earth location.
+All these points are very handy locations
+for infrastructure, like those designed to
+bring in energy or manage incoming sunlight,
+or are just handy for staying near Earth.
+None of these are stable, requiring station
+keeping, and every two-body system has them,
+some more stable than others.
+L4 and L5 for instance are places that should
+orbit just like Earth, as should anything
+on that path, but if we put something at,
+say, 30 degrees out from Earth, not 60, it
+would be tugged ever so slightly toward Earth
+until eventually falling into it.
+It does not take much to stop that though,
+and a secondary effect of various mirrors
+and shades and power collectors is that they
+do act like solar sails, a simple and weak
+but effective means of moving a ship or providing
+station keeping for a large station or habitat.
+That means we can put a lot of things in this
+area, expanding out from Earth and those L4
+and L5 spots, and you can connect those together
+with physical tethers to not only provide
+easy transport, power, and data lines, but
+also to balance out the tugging forces to
+need even less net station keeping.
+You might keep doing this until you end up
+with a ring of stations all around Earth’s
+orbital path, even as Earth’s own orbital
+region and Cislunar space filled up with large
+space habitats, providing land and living
+space, and farms and ecological preserves,
+tens of thousands of times more than earth
+has now.
+We sometimes call this a planet swarm, as
+opposed to a Dyson Swarm, a vast collection
+of habitats near a planet that are something
+like its suburbs, and you might construct
+a direct physical tether out from this to
+all those habitats or space farms and solar
+collectors that were forming on Earth’s
+orbital path, potentially forming what we
+nickname a Terran Ring, a huge ring or torus
+of megastructures around the Sun that rotate
+with our planet, and which it along with its
+swarm of habitats look like some gemstone
+on that ring.
+All of the places could be physically connected,
+under known science, running power and data
+or people and cargo on vast trunk lines dwarfing
+any highway we’ve ever built, and potentially
+home to quadrillions, none of whom feel cramped
+as it would have a far lower population density
+than modern Earth.
+This may be the natural in-between state that
+forms between an early space faring civilization
+and an eventual Dyson Swarm encompassing that
+whole star and reaching the end of what I
+think the term Interplanetary Infrastructure
+could contemplate.
+A civilization already so immense, if still
+small compared to a Dyson Swarm, that it would
+need to keep whole oceans moving through its
+cisterns to drink, and ships the size of cities
+or railroad trains as long as continents to
+move its cargo around.
+And if it’s hard for us to contemplate infrastructure
+at such a scale, and how impressive it is,
+it is almost impossible to imagine what feats
+and wonders the civilization built upon it
+might accomplish.
+To build all those enormous pieces of Interplanetary
+Infrastructure we discussed today will require
+vast amounts of raw materials and ideally
+we would like to harvest those from Asteroids,
+and while we’ve discussed that process before,
+I thought it would be interesting to explore
+the life of an Asteroid Miner, to ask what
+that would be like and what folks might be
+motivated to that career.
+That’s out now exclusively on Nebula, our
+Streaming Service, where we release a lot
+of Bonus Content, extra episodes and extended
+editions, and where every regular episode
+of the show also comes out ad free and a few
+days early.
+By signing up for Nebula at https://go.nebula.tv/isaacarthur
+and using code isaacarthur you get access
+to bonus content like Life as An Asteroid
+Miner, Nomadic Miners on the Moon, Space Freighters,
+Retrocausality, Orch Or & Free Will, Conformal
+Cyclic Cosmology, Colonizing Binary Stars,
+and more.
+Using my link and discount it’s available
+now for just over $2.50 a month, less than
+the price of the drink or snack you might
+have been enjoying during the episode.
+However, this month, September 2023, you can
+also get a lifetime membership to Nebula,
+for as long as both you and Nebula exist,
+for $300.
+Which goes to developing more and bigger Nebula
+Originals and platform improvement, and if
+you sign up using my code, isaacarthur, a
+third of that goes directly to the channel,
+and I’ll place the link for that option
+in the description right under the normal
+one.
+Either way you join Nebula you get access
+to all our content early and ad free, including
+the audio only podcasts, and access to tons
+of bonus content from our show and many other
+amazing creators.
+As I mentioned during the episode, the National
+Space Society’s track on Interplanetary
+Infrastructure at ISDC 2023 inspired me to
+write this episode and particularly conversations
+with Phil Swan, who ran that track and did
+several of the tethered and orbital ring animations
+we had up today, and if you’re interested
+in learning more about that or playing with
+the actual computer model those graphics came
+from to build your own rings, you can learn
+more at ProjectAtlantis.com
+We talked about Megastructures a lot today
+and I think that’s a very appropriate way
+to end our 9th year here on Youtube, as our
+first episode, Megastructures in Space, Science
+& Science Fiction, came out on September 17th
+of 2014, and we’ll be celebrating that 9th
+Anniversary of SFIA this weekend in our Scifi
+Sunday episode The Fermi Paradox: Fallen Empires,
+where we’ll try to contemplate what the
+ruins of ancient galactic empires and megastructures
+might look if floating around the galaxy a
+billion years later.
+Then Thursday, September 21st, we’ll start
+year 10 off by asking how we can mine atmospheres
+like those on Venus or Titan, or even Gas
+Giants and Stars.
+After that we’ll close out the month with
+our Livestream Q&A on Sunday, September 24th,
+and then on the 28th we will have an exploration
+of what traveling the galaxy as an adventurer
+or lone wanderer will be like in Have Space
+Suit - Will Travel.
+Then we’ll jump into October to explain
+what Vacuum and Zero Point Energy are, on
+October 5th, and then we’ll have an episode
+not on spaceships, but the factories that
+will make them, on October 12th.
+And to continue today’s topic of infrastructure
+and industry in space, stay tuned for our
+next Sci Fi Sunday, on October 15th, where
+we’ll contemplate entire planets turned
+into giant factories, in Forgeworlds & Industrial
+Planets.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content,
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

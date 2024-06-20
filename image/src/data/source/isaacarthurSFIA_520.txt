@@ -1,0 +1,789 @@
+This episode is brought to you by Squarespace
+Sleep has been a necessity, a curse, and a
+great pleasure throughout human history.
+In the future, it might also be the key to
+space exploration.
+Space exploration is a long, gradual process.
+Although even our earliest spaceships traveled
+faster than any vehicle on Earth, the distances
+to our neighboring planets make the travel
+time itself one of the hardest challenges
+to overcome.
+The distances to the nearest stars are so
+immense that even light takes years if not
+decades to arrive.
+This is obviously a problem for traveling
+to other star systems, at least if you want
+to get the original crew there.
+You can shorten the travel time by making
+the ship faster, but fans of this channel
+know that physics puts an absolute limit to
+maximum velocity for any given propulsion
+system.
+Science might extend the crew’s lifespan
+enough to make interstellar journeys, however,
+there’s a question of how those years or
+decades of boredom would affect them psychologically.
+So a more appealing option would be to just
+hit the pause button on the crew’s lives.
+Today we’ll be looking at options for doing
+that, suspended animation, cryogenics, and
+stasis.
+We’ll also examine how you might automate
+the ship and the many challenges involved.
+On an interstellar voyage we’re not generally
+concerned about the energy needed to support
+the crew.
+They have to stay warm and have lighting for
+growing food, which requires a constant supply
+of energy, but would be peanuts compared to
+the energy needed to speed up and slow down
+from interstellar velocities.
+This wouldn’t apply in every case though,
+the energy necessary to maintain life support
+only drops to a trivial fraction of your budget
+if you’re going over 1% of light speed.
+What’s more, you have to supply that energy
+for the entirety of the journey from primarily
+internal systems, whereas your acceleration
+energy to speed up and slow down can potentially
+come from outside the ship.
+You might be pushed up to speed by a laser
+and we’ve discussed various way you might
+slow down without a conventional engine in
+our episode Exodus Fleet.
+Such being the case, you might find it infeasible
+to provide energy for life support the entirety
+of a journey, or may not want to allow supplies
+and equipment to decay or wear down.
+We make a lot of assumptions about interstellar
+colonization here, one of the big ones being
+that we have vastly superior automation that
+would allow us to create and repair fairly
+sophisticated machinery while traveling.
+We obviously can’t do this now, and I don’t
+take for granted that we will in the future.
+I do think it’s likely and I don’t think
+you’d try a colonial venture to a distant
+star if you didn’t have that ability.
+But it may turn out that there’d be equipment
+they couldn’t make en route or in situ just
+as we have plenty of things nowadays that
+we can’t make or repair without access to
+a global industrial infrastructure.
+Such being the case, a ship might want to
+minimize use of equipment and the associated
+risk of breakdown and decay by putting everything
+on ice.
+Consider the freighter, a classic spaceship
+traveling between two stars carrying perishable
+goods, they obviously want those arriving
+intact.
+Folks often say that shipping material between
+stars for trade is not realistic, that it
+would just be initial colony efforts, data
+transfer, and maybe immigrants, but this is
+very debatable.
+A sufficiently developed system, such as a
+Dyson Swarm under construction, could easily
+have a high, steady, and long-term demand
+for raw materials.
+This sort of mass import of materials wouldn’t
+necessarily break the bank either, at least
+in terms of fuel.
+So long as you travel slow enough, you could
+ship things very inexpensively.
+You obviously still have to pay upkeep on
+that space freighter, which would include
+salaries if it was manned, and even without
+them, you would need to use energy to regulate
+temperature.
+Heat is not your friend when maintenance is
+concerned, the colder everything is, the slower
+it decays, the warmer it is, the faster.
+Interstellar spaceships probably don’t need
+much crew during the flight, they pretty much
+just drift along and at those kind of speeds,
+you don’t really need to worry much about
+collisions with microscopic dust particles,
+very thick armor can pretty much handle it,
+armor probably made of bulk cargo.
+For moving freight, you probably got pushed
+up to speed by a laser and will get slowed
+down by one at the other end too, probably
+ones bouncing the energy off you and back
+to collectors to recover a lot of that energy.
+That sort of case is almost ideal for automation,
+and very simple automation, except for maintenance.
+Of course an AI would seem to make more sense
+than thawing the crew out periodically to
+do maintenance but there’s a good chance
+human-level or smarter AI will never be legal,
+or that its authority will be restricted,
+it’s very dangerous and not really necessary.
+Now, if it’s regulated it means it might
+be a thing banned in certain places, and some
+scifi stories have used that to suggest robots
+would be allowed for mining in space but not
+on Earth, like in Isaac Asimov’s various
+robot short stories.
+However, if you’re worried about AI rising
+up against humanity, the one place you most
+definitely ban it is any place where it’s
+far from people.
+Unlike explosives, it’s the kind of danger
+you want to keep under your nose, where you
+can easily check on it, not running an autonomous
+ship deep in the void of space that nobody
+sees for centuries at a time.
+If you have sophisticated AI that can outperform
+humans at tasks like maintaining equipment,
+and which you are not utterly confident about
+the trustworthiness of, the last thing any
+sane person would do is stick it in charge
+of a ship full of repair robots, megatons
+of raw materials, an utter lack of supervision
+for centuries, and a permission slip to dock
+deep inside your territory.
+Even if you do go fully automated, it’s
+probably wise to go the Sleeper Ship route
+anyway, just keeping minimal automation online
+most of the time, with a more sophisticated
+AI that wakes up briefly for scheduled maintenance
+or emergencies.
+The whole point of AI at the human or higher
+level is to enable them to be creative and
+adaptable, which means that the more time
+it has to sit by itself thinking, the more
+likely it is engage in or adapt to some new
+way of thinking.
+In general I’d be particularly worried about
+what anyone in isolation will come up with
+too, not just an inhuman intelligence.
+We talked about cultures shifting on very
+long voyages last time in the series, in the
+Ark of a Million Years.
+If you’ve got a really long voyage, there’s
+a lot to be said about keeping the crew on
+ice as much as possible, and certainly the
+passengers.
+That way it is your original crew showing
+up, which won’t be the case otherwise, even
+if they are all biologically immortal and
+don’t have any kids during the trip, they
+are still not really the same people as the
+ones who left.
+I can send folks on a mission for a few years
+and they will come back very different, push
+that up to centuries and that change will
+be vastly larger.
+Now, it’s worth noting that most probably
+the same technology that lets you freeze and
+thaw people is what’s needed to make someone
+biologically immortal, and we’ll talk about
+why in a moment, but if that’s the case
+you don’t need to freeze them to let them
+make the journey intact.
+You might still want to so that they aren’t
+experiencing the trip, with all the potential
+boredom and mutation of mind that implies.
+Also probably the salary.
+We probably don’t have to pay colonists,
+you would have to compensate freight crews
+I’d think, and you might can get away with
+paying less if they are sleeping most of the
+way.
+Being the crew of a Sleeper Ship is either
+an awesome experience or a particularly brutal
+form of torture, same as freezing someone
+and waking them up centuries later.
+A popular, if bizarre, punishment in a lot
+of science fiction.
+You’re essentially kicking someone ahead
+to a time when their family and friends are
+dead and the culture they knew is radically
+different, that’s presumably the punishment
+angle, but of course you’ve not in any way
+rehabilitated them or otherwise punished them.
+And that’s a very subjective punishment,
+many people would cheerfully pay money for
+a trip to the future, even a one-way trip,
+and while I hate to generalize, there are
+people who don’t really care much about
+their friends and family, and I suspect there’s
+a decent correlation between them and the
+sorts who would be getting convicted of the
+sort of crimes heinous enough to be dumped
+into carbonite over.
+Probably a thing to keep in mind when picking
+crews too, while most who sign up for a century
+long trip as a popsicle are unlikely to be
+monsters, you do need to consider the basic
+mindset of anyone willing to sever ties with
+home forever.
+That’s less a concern for colonists, who
+would often be taking their families with
+them and going off to build a new world, but
+for a freighter it probably wouldn’t be
+about pioneering spirit or simply wanderlust,
+since this isn’t going backpacking for a
+year in another country or enlisting for a
+term with the military or signing on to crew
+a merchant ship to distant ports of call.
+Or rather it’s exactly that last one but
+with very distant ports where you’re not
+coming home to find some changes and maybe
+one or two friends or family members married,
+born, divorced, moved, or dead, for such voyages
+even the short trips would be like leaving
+during the Renaissance and returning home
+to the here and now.
+It is, in a sense, one way time travel.
+I don’t doubt you’d find many volunteers,
+for the same reason I’d imagine they could
+sell their cargo too, and even with our current
+population and screening out the mentally
+unstable, I’m sure I could find thousands
+of volunteers and also thousands of people
+who would pay a fortune for a bottle of wine
+grown on an alien planet, or even just a random
+rock.
+Your typical civilization capable of mundane
+interstellar travel probably has a population
+many orders of magnitude higher to select
+from, and to sell to.
+You could still crew the ships with families
+as well, and after a bit the crew becomes
+your real family anyway, as you leapfrog ahead
+down the centuries, and if someone decides
+to leave, odds are you’d find someone else
+at that port who either wanted to try it out
+or who already has done it many times but
+either changed ships or took a break from
+it for a while.
+You could easily get your own sub-culture
+from this, something Alastair Reynolds works
+with in many of his novels, such as the Ultras
+from the Revelation Space series, a group
+of mostly cyborgs who roam from system to
+system and add a new braid to their hair for
+every voyage they make, or the various Shatterling
+families from House of Suns, a bunch of clones
+who all meet up every couple hundred thousand
+years to share experiences.
+They all take advantage of freezing or stasis
+or simply relativistic time dilation to avoid
+experiencing all that voyage time, not because
+they’d die otherwise, but because they worry
+about experiencing all that time.
+Again though, there’s that notion that you’d
+freeze yourself to avoid dying of old age,
+but in reality this isn’t the case.
+You’re not asleep when you’re frozen,
+you’re thoroughly dead, these are truly
+Tomb Ships, not a place where folks actually
+sleep, and that probably is not a semantic
+difference.
+When we freeze someone they are obviously
+dead now, but to wake them up we essentially
+have to reconstruct all their cells.
+We’re not trying to freeze them to avoid
+cell destruction so we can just warm them
+up either.
+We freeze them so that destruction is rebuildable,
+like carefully disassembling a house brick-by-brick
+while cataloging where each one was.
+That’s why the process is a lot more complex
+than just dumping someone in a vat of liquid
+nitrogen and why modern methods usually only
+bother with the head, we know we can’t thaw
+any of those folks out until we have the technology
+to replace their body anyway.
+In theory, you can come up with ways to freeze
+and thaw people that wouldn’t necessarily
+mandate you also had life extension technology.
+Such processes would likely involve genetically
+re-engineering people or use some process
+more akin to the carbonite-treatment Han Solo
+got in the Empire Strikes Back, or some equivalent
+to plastination, which we sometimes do to
+biological samples or corpses, replace waters
+and lipids with polymers, though presumably
+in a reversible fashion.
+With actual freezing you have to worry about
+your cells exploding, so we could imagine
+some material essentially inserting itself
+to carefully pad and protect the interior
+of every cell that could be purged later on.
+We could also genetically engineer ourselves
+to have cellular repair mechanisms and antifreeze
+by default in our cells, much as some fish
+in Antarctica, or some amphibians like the
+Alaskan Wood Frog.
+We could even modify our bodies to tolerate
+a certain amount of dehydration, allowing
+ice crystals to form without causing cell
+damage, as many insects do in order to overwinter.
+It’s not like there’s a lack of working
+examples in nature we can copy, each of which
+offers distinct advantages.
+I should note that nature gives us a warning
+about this too, hibernation strategies are
+very risky in nature, and are only ever employed
+when there is no other viable survival strategy
+available.
+The same may apply to using this for space
+travel.
+This concept though isn’t just limited to
+making corpsicles, again an AI might be a
+sleeper crew by only booting up periodically,
+and people who have gone the cyborg route
+might do the same, either through something
+akin to suspended animation or by slowing
+down their subjective experience of time.
+Interestingly a cyborg might actually be someone
+you could speak to quickly if they were frozen.
+If hypothermia is anything to go by you need
+at least a day to bring someone safely back
+up from the lowest body core temperatures
+anyone has survived, which were still well
+above freezing, let alone liquid nitrogen
+temperatures, so waking anyone in under a
+day would seem unlikely and we could be talking
+about weeks.
+On the other hand, some cyborg or transhuman
+with a lot of mental augmentation, usually
+assumed to involve having your neurons replaced
+or subsidized by various metal conductors,
+which typically conduct better the colder
+you get, might be someone you could chat with
+while they were frozen.
+In fiction frozen crew members often get woken
+up for an emergency, either the whole crew
+was on ice with an automated system to wake
+them up if something occurred or someone with
+a special skill set gets woken because of
+some unexpected event they’re best qualified
+for.
+In practice that could only really be done
+if it was a long term kind of crisis.
+An example would be finding out your destination
+system for a colony ship wasn’t what you
+expected so you wake the astrobiologist to
+review the data on alternate planets you can
+divert to, a decision you likely have months
+to decide about.
+It’s also worth considering that you might
+not be shipping whole people, but just their
+heads.
+Most folks who get frozen these days just
+do the their head, not the whole body, and
+while that’s often because they actually
+died first of some ailment that would require
+a new body anyway, it’s unlikely to be a
+sticking point.
+I’ve seriously considered cryo as opposed
+to burial or cremation, and probably would
+do it one day, and I’d prefer my whole body
+be frozen but I don’t really much care,
+and most folks I know who contemplate doing
+it don’t seem to either.
+So it might not be a ship full of frozen bodies,
+corpsicles, but just a bunch of frozen heads.
+I’ve also noticed most of us who are fine
+with being frozen are generally more okay
+with the notion of being a cyborg too.
+Which would imply a decent chance any frozen
+crew woken up for routine maintenance activities
+might just be activated, body or brain still
+frozen but conscious and piloting a robot.
+To top this all off, as we mentioned earlier
+in the series, there’s quite a lot of radioisotopes
+in the human body, part of the background
+radiation we all get, only internally rather
+than from the actual background.
+This is minimal but stacks up over time, when
+you’re frozen and nothing is regenerating
+damaged cells.
+It takes a few thousands years to get a lethal
+dose, and you could presumably unfreeze people
+occasionally to get some regeneration and
+cellular repair, during which a little healthy
+exercise repairing the ship would probably
+help too.
+Though you could probably avoid this, or seriously
+extend the timeline by feeding them for a
+while in advance with foods grown on materials
+missing those isotopes, that would require
+them spend quite some time doing that, and
+saving them time is sort of the point of freezing
+them.
+Interestingly there is some research that
+indicates we might need a little radiation
+to be healthy too, so this might end up being
+a careful balancing act.
+Obviously this all brings up why you would
+use such a ship, as opposed to run one by
+uploaded minds, AI, or cyborgs, but just because
+a technology is available, which it might
+not be, doesn’t mean everyone chooses to
+use it.
+Also, let’s not overlook suspended animation
+for trips too.
+As best as we can tell, putting people into
+hibernation, with hydrogen sulphide gas for
+instance, really does lower their metabolism
+and thus slow their aging too.
+You’re losing some life but not equal to
+the time that’s passed, and you are saving
+on supplies and energy, which currently for
+spaceflight is quite important.
+In this regard it matches the normal reason
+for hibernation in nature, a dangerous and
+desperate survival strategy you only employ
+because there are no alternatives.
+But that could be very handy for something
+like deep space travel, where a mission might
+last a few years during which you’re trying
+to conserve supplies, like heading out to
+the Oort Cloud to lasso a comet, or just a
+routine freight drop.
+It’s quite likely, as we mentioned in both
+Colonizing the Oort Cloud and Colonizing Neptune,
+that both the Kuiper Belt and Oort Cloud will
+be heavily colonized and dependent on large,
+low cost, low frequency supply drops of fusion
+fuel and presumably other trade goods of a
+non-perishable nature.
+Sticking the crew in suspended animation during
+some big circuit run from a gas giant to hundreds
+of habitats where the crew goes into suspension
+makes a lot of sense.
+They are not actually asleep though, if mimicking
+animal hibernation or torpor, there’s no
+REM sleep, so presumably no dreams.
+Which is a pity in a way, as one might imagine
+using mind augmentation to allow shared dream
+states or such, possibly to keep brain synapses
+active.
+I suppose one might do that with our hypothetical
+cyborgs who could still function mentally
+while frozen, if you wanted or needed to keep
+them just a little awake, some very slow group
+simulation, maybe rehearsing for emergencies
+or practicing colonization or whatever their
+end mission was, which might be an invasion
+or something.
+So how would you crew such a ship if you’re
+using these methods?
+You could have a crew who woke up in shifts,
+say 1000 people for a 1000 year voyage, with
+each awake for a decade and ten people a shift.
+You could have one crew of 10 who were woken
+every decade to do repairs, unless some emergency
+happened.
+You could have a generational crew, separate
+from frozen passengers, the latter making
+the whole trip frozen while the crew lives
+and breeds and dies and passes their responsibilities
+on to the next generation.
+This would make sense if you had a small but
+decent chance of dying when frozen and thawed,
+especially if the risk rose cumulatively,
+say 1% chance the first time you were frozen
+but 2% the second, 3% the third and so on,
+I’m not sure why that would be the case,
+but it’s popular in fiction and one could
+imagine a method of freezing and thawing that
+left you a bit more damaged and less likely
+to survive each time.
+A thing to keep in mind about small crews
+is that it’s easier for them to go nuts
+and easier for them to do damage if they do.
+You might be more likely to have a single
+person go axe crazy out of 20 people rather
+than 2, but odds are it won’t be 10 times
+more likely and they’re in a much better
+positions to do damage, they just have to
+deal with one fellow crew member to have the
+run of the ship.
+So you probably need a lot of research to
+find your sweet spot, with the minimum risk
+of someone going nuts from isolation, or just
+life in general, and actually being able to
+do significant damage while they’re about
+it.
+This also raises the point that a computer,
+an AI, while a risk for going rogue itself
+might be less of a risk than a crewmember
+doing so.
+Any crew or AI smart enough to deal with a
+weird and unlikely event might be much more
+likely to go off the deep end than any of
+those events are to occur.
+If you’ve had thousands of missions to draw
+data off of and found there was only 1% chance
+of anything unexpected happening that a person
+or AI could actually prevent or deal with,
+but a 2% chance a crewmember or AI would go
+nuts and destroy the ship during the voyage,
+then you don’t have anyone awake for the
+trip and just toss the dice.
+There’s a big caveat though, if you can
+wake people up, and easily enough that you’re
+contemplating using this tech routinely, potentially
+periodically to wake crew in shifts or for
+scheduled check ups, then someone can sneak
+a device on board to wake them up at a time
+of their choosing.
+One can think of tons of reasons someone might
+do that.
+A group that wanted their own colony, under
+their own radical ideology, but couldn’t
+get funds or permission to do one, might sneak
+such folks aboard to wake up at a secretly
+scheduled time for a coup or to kill some
+of their fellow travelers.
+Potentially even converting it from a sleeper
+ship to a generation ship, so they can expand
+their numbers, or the crew might kill off
+their frozen passengers and become a generation
+ship.
+That could even happen accidentally, with
+the cryo equipment breaking.
+Similarly some enemy nation or terrorist group
+or doomsday cult might want to scuttle a colony
+ship, and sneak a saboteur onboard.
+We can also contemplate a virus that got the
+AI mid-flight, causing it to blow up the ship
+or plot a new course.
+And of course this doesn’t only apply to
+colony ships, there are tons of reasons to
+hijack or sabotage a freighter, it’s one
+of the few ways you might be able to plausibly
+do space piracy.
+It’s usage also isn’t limited to fixing
+problems during emergencies, freezing people
+is a good way of making escape pods for emergencies.
+Normally any pod to evacuate a damaged ship
+would rapidly run out of air and food and
+energy long before it could be rescued, but
+if it freezes you, centuries could pass before
+rescue and you’d be fine, and also experience
+no dread waiting for rescue.
+Now we’ve talked about hibernation, freezing,
+and the AI and cyborg routes, but what about
+the more classic scifi concept of a slow-time
+pod that you just enter and time inside slows
+or stops until the timer outside dings?
+There isn’t much in known physics that permits
+this, but it’s not actually banned either.
+We know two ways to slow down time, traveling
+at close to the speed of light or creating
+a very high gravity potential around your
+ship.
+Travelling at close to the speed of light
+seemingly solves many of the problems we’ve
+been discussing here thanks to relativity.
+Everything from radioactive decay to the need
+to even contemplate freezing and thawing,
+because travelling at close to light speed
+is the ultimate stasis, basically slowing
+everything on board down to a fraction of
+the time experienced by the outside universe.
+In theory, we could simply travel at a ludicrous
+speed for a subjective day and a whole light
+year would have passed outside.
+At these speeds, not accounting for speeding
+up or slowing down, we could wave goodbye
+to Earth and be in Alpha Centauri four subjective
+days later.
+The rest of the universe would see us get
+there over four years of travel time, but
+on board we would experience only four days.
+Our entire Milky Way galaxy could be crossed
+from one end to the other in a quarter of
+a century of a person’s subjective lifetime
+at these speeds.
+This is the pinnacle of life in the fast lane,
+seeing the universe subjectively much faster
+than the speed of light allows.
+Of course, if you did that, over 100,000 years
+will have passed for everyone else.
+That would be quite a homecoming if you swung
+back to tell everyone about what you saw and
+experienced on your fantastic journey.
+Not only would everyone you know be long dead,
+but you probably wouldn’t even recognise
+anything as being human because while you
+would have been gone for a half a century
+of your time, nearly a quarter of a million
+years would have passed back on Earth, making
+the sum total of Earth’s human history when
+you left look like a blip in comparison.
+This is a well-worn sci-fi trope, though one
+few do well.
+Alastair Reynolds Revelation Space series,
+or his novel the House of Suns, are examples
+of it being done very well.
+While it’s attractive, unfortunately, there’s
+a lot of handwavium involved.
+To get that kind of time dilation, you’d
+have to be travelling at 99.99999% the speed
+of light.
+You’d need an insanely powerful drive not
+only to get to that speed but to maintain
+that speed against all the drag the not-quite-vacuum
+of space would be exerting on you.
+But of course every single atom would be hitting
+your ship at that same speed, in other words
+with the energy of an atom bomb.
+And even the cosmic background radiation coming
+at you from ahead would be so blue-shifted
+your ship would be ablated like you were being
+bombarded with ultraviolet lasers.
+Remember too that as you approach light speed,
+the amount of energy you need to increase
+speed goes up exponentially.
+You also have to accelerate that whole time
+too, trying to maintain more than 1g of acceleration
+for months on end would be hard, and you need
+to spend a year accelerating at 1g just to
+get near the speed of light.
+That’s part of what make inertial suppression
+fields of interest in scifi, and indeed since
+relativity tells us gravity and acceleration
+are the same thing, that is one plausible
+application of artificial gravity.
+Speaking of gravity, earlier, I mentioned
+that other approach, creating a high gravitational
+potential around your ship.
+Even by the scales often contemplated on this
+channel, natural gravity created by lots of
+mass, or dense energy technically, isn’t
+very realistic as a means of ship stasis.
+Any black hole big enough to slow time significantly
+for those near it, without shredding them
+to atoms from tidal forces, would be a supermassive
+black hole.
+Considering even the normal stellar mass kind
+weigh more than our sun, that’s an awful
+lot of dead weight to be pushing around, though
+you might actually employ some trick like
+that for intergalactic travel, especially
+to other superclusters.
+We’ll discuss options like that later on
+in this series.
+We did mention artificial gravity though.
+We have a concept on this channel we call
+Clarketech, in tribute to Arthur C. Clarke’s
+famous quote about any sufficiently advanced
+technology being indistinguishable from magic,
+and it’s our catch-all term for technology
+that doesn’t seem permitted under known
+science or for which there’s no theoretical
+pathway at this time.
+Faster than Light Travel, FTL, and Artificial
+Gravity, are two better known examples, though
+arguably even some of the stuff we’ve already
+discussed today falls under the Clarketech
+banner.
+We don’t know what folks might come up with
+in the future, some Clarketech for freezing
+time or creating closed timelike loops at
+the macroscopic scale for instance, but artificial
+gravity is one pathway that might allow stasis
+fields.
+Gravity slows time, and it’s tidal effects
+rip people apart, so if we could make a classic
+flat uniform gravity floor like the ones so
+typical in scifi, then stick one in the ceiling,
+there wouldn’t be any force of gravity between
+those two plates but there should be a big
+gravitational potential, and if we kick the
+power up time should slow down even more,
+do it enough and you’ve got stasis, or ultra-slow
+time at least.
+Of course if you don’t do it right, you
+might have different rates of timeflow in
+the pod, causing bits of you to age faster
+than others.
+The effect would be similar to the tidal sheer
+inside a black hole, except that it’s time
+sheer tearing you into spaghetti.
+We do also have some quantum effects that
+play around with time but you’d have to
+be able to entangle a whole body of trillions
+of trillions of atoms to use these, and we
+have a rough time entangling even a handful
+of particles, essentially a similar technique
+to some of the teleportation methods we’ve
+discussed in other episodes.
+That’s one last form of stasis too, teleporting
+someone but not instantly, you hold them in
+a quantum suspended state and reassemble them
+later.
+That’s very like the Seed and Data Ship
+notions we’ll discuss next time in the series,
+that basically transport information not material.
+So there’s a lot of ways we might do a Sleeper
+Ship and lots of advantages and disadvantages
+to each method.
+We’ve also discussed the various motivations
+for doing each method, though one last motive
+incidentally would be stealth.
+There’s no true stealth in space but everything
+is relative, and it’s a lot easier to hide
+a more compact and cold Sleeper Ship than
+one warmed up and spacious enough for a crew
+and all their life support needs.
+On the whole though, odds are pretty good
+the various technologies that will allow sleeper
+ships will also give us other options like
+life extension, and a Methuselah Ship, another
+topic for another day, that would make Sleeper
+Ships unnecessary for interstellar travel.
+But as we have seen, unnecessary doesn’t
+always mean pointless or without advantages
+that might make it preferable.
+So I do think we will see these ships in the
+future, even if in some unexpected roles.
+So as we move into our final episodes before
+starting the new year, we’ll be doing some
+improvements and upgrades to the channel.
+Some of those will be with our website, IsaacArthur.net,
+and it’s a good reminder how important a
+website is to any enterprise these days, but
+they can be time consuming or expensive or
+both.
+You still need one, whether you’re a science
+and education channel or growing a business,
+and that’s where Squarespace comes in.
+They have beautiful templates by world class-designers
+that make it easy to create your own website,
+something that stands out, showcases your
+work, and lets you get easy analytics about
+who is visiting.
+Squarespace’s aims to make it easy for you
+to make a website on your own, but they also
+have 24/7 award winning customer service ready
+to help you out.
+If you’d like to let Squarespace help you
+make your dream website a reality, you can
+get 10% off by going to http://squarespace.com/isaacarthur
+We talked a bit in this episode about artificial
+gravity fields, the kind of thing that would
+let you make a Flat Earth.
+Next week we’ll be looking at building flat
+planets but doing so inside known physics
+in Megastructures: Flat Earths.
+The week after that we’ll start December
+off by asking how we might start off the real
+space age, in Kickstarting Space Industry.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and hit the notification bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a Great Week!

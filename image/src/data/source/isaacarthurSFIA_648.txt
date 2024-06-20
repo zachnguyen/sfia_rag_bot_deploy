@@ -1,0 +1,828 @@
+This week’s video is on Dark Matter, a strange,
+fascinating and mysterious substance, though
+in some ways I think it is considered fascinating
+because we call it Dark.
+Dark Matter, Dark Energy, and Dark Flow, each
+topics I’d like to cover in the future,
+have no special relationship with each other.
+We call them Dark because we can’t see them.
+It is a bit like how every new jet plane or
+weapon gets called X something-or-other, the
+X means it’s a prototype and that gets dropped
+later on.
+Dark Matter, Dark Energy, and Dark Flow have
+as much relation to each other as a prototype
+assault rifle, fighter jet, and naval cruiser.
+What Dark Matter and Energy both have in common
+is that they are thought to make up a huge
+chunk of the Universe.
+What they also have in common is that they
+have both captured the attention of the public,
+which is mostly good, but also means that
+an awful lot of scientifically dubious stuff
+that has popped up around them.
+I will talk about some of the weirder things
+we might be able to use the stuff for near
+the end, it does have potential uses, but
+it’s also collected a lot of rubbish over
+the years as people tapped it for its mystery
+value.
+And again the stuff is quite the mystery,
+but at the same time it also isn’t.
+We’ve suspected this stuff existed for almost
+a century now back to when we first realized
+we lived in a galaxy.
+Back in the days of yore, when particle physics
+had just established that atoms included protons
+and electrons and not much else, we thought
+the universe was probably an object of infinite
+size and age, the Steady State Model, on the
+grounds that if it wasn’t infinite in size
+then if it was infinite in age everything
+should have smashed together into one big
+ball under the influence of gravity.
+And of course the Universe had to be infinitely
+old because if it was not you would have to
+wonder about what was around before it and
+where it came from.
+But we were getting good enough with our telescopes
+to be able to measure the relative speed of
+a lot of stars and it established that they
+were by and large moving in an orbit of what
+we eventually realized was the galaxy.
+This is where the problem started with the
+missing mass.
+We were getting pretty good at doing orbital
+calculations at this point and realized that
+based on the number of stars we could see
+and their mass, everything should be rotating
+around the galaxy at a certain speed depending
+on how far from the center it was.
+Much like how the planets rotate around the
+sun, only a good deal more complicated since
+while the sun is one big enormous mass surrounded
+by a handful of smaller planets who perturb
+each other’s orbits just a little bit, the
+distribution of the galaxy makes the influence
+of them on each other a much bigger factor
+in things.
+We won’t go through that math, but there
+was agreement there was a lot of matter we
+couldn’t see, an awful lot too, way more
+than planets around stars would justify.
+This wasn’t too big a deal though, we just
+assumed it was a lot of gas and rock and such
+and the orbital models were hardly precise
+things at the time.
+Now we had realized galaxies existed quite
+some time before that, a generation before
+the United States came into existence Immanuel
+Kant had nicknamed them Island Universes and
+it had been speculated a lot of them were
+flattened disks, like our own is.
+But we had no idea how far away they were
+until about the End of World War One when
+comparisons of the brightness of novae in
+them to ones here was noticed to be a lot
+dimmer, and dimmer to a degree that would
+indicate they were millions of light years
+away.
+This caused what was called the Great Debate,
+about the size and scale of the Universe.
+They still weren’t getting called galaxies
+at that time, spiral nebulae was the normal
+term, and I’ve never been able to find out
+when that fell out of use and galaxies came
+in.
+You will see in a lot of very old scifi stories
+or articles references to visiting the Andromeda
+Nebula for instance.
+Now in 1933 Fritz Zwicky, the fellow who coined
+the term supernova, was at Caltech studying
+clusters of the nebulae or galaxies when he
+noticed that they had to have way more mass
+than we could see to be behaving as they did.
+He estimated the one he was looking at must
+have some 400 times more mass than he could
+see, and he called this matter dark matter,
+though being Swiss he used his native tongue.
+Now let me give you a quick example of how
+you could estimate a Galaxies mass, simplified
+to avoid all the heavy math you need to do
+this when you’re looking at effective snapshots
+of billion year processes.
+Our neighbor, the Andromeda Galaxy, is actually
+moving toward us.
+That’s not the norm, virtually every galaxy
+is moving away from us, red shifting, as you
+know, and that’s what killed the Steady
+State model in favor of the Big Bang.
+We know what frequencies of light certain
+types of stars and phenomena give off, so
+we can look at distant things and say that’s
+the spectrum they should be emitting, but
+everything on it is moved a bit over.
+It’s red-shifted, meaning it’s traveling
+away from us quite quickly.
+Blue-shifting, where the spectrum of a star
+moves the other way, indicates the opposite.
+So if I had millions of years to watch the
+Andromeda galaxy approaching us I could say
+it was going at such and such a speed when
+I started looking and is now going faster,
+being sped up by gravity.
+If I calculated how much faster I’d know
+how much force the gravity had exerted and
+be able to say how massive our galaxy was.
+Same as I could estimate the gravity and mass
+of Earth by dropping a rock and seeing how
+fast it got as it fell.
+In a nutshell if you do this for our two galaxies
+you’d find out they both massed a lot more
+than the stars in them would suggest they
+did.
+Now that’s not a problem, we already know
+a lot more hydrogen and gas is floating around
+than the stars contain.
+Add to that, the year before Jan Oort, for
+whom the Oort Cloud was named, had tweaked
+to a similar idea, that the mass of our own
+galactic plane was much larger than we thought.
+Problem was, his calculations were erroneous
+and Zwicky himself was off by an order of
+magnitude.
+For a long while, because our data and modeling
+just wasn’t sufficient to really nail it
+down probably, the idea kind of hung out in
+limbo.
+Everyone agreed there was a lot more matter
+than what star contained but this was somewhat
+shrug worthy.
+Seeing gas clouds of hydrogen is a bit tricky
+but conceptually straight forward.
+Everything tends to absorb or reflect light,
+and any given atom or molecule has certain
+characteristics of which frequencies it does
+this for.
+So if I’m looking at a star I know there’s
+some gas and dust between me and it, and if
+I look at one twice as far away I’d expect,
+on average, there’s be about twice as much.
+Start looking at thousands of them and you
+can start calculating pretty exactly how much
+gas and dust is between you and each of them
+and get a good idea how much junk is lying
+around in between and even its distribution.
+We’ve gotten way, way better at this as
+the years rolled by, and way better at measuring
+the mass of galaxies, and it started getting
+very obvious that there just wasn’t enough
+mass out there, in terms of stars and gas
+and dust, to equal the gravitational force
+we saw.
+The discrepancy was just way too big and way
+too concrete to ignore anymore.
+This gives us our first two properties of
+dark matter, because we know it has to have
+mass, or at least exert gravity, generally
+considered the same thing, and we know it
+has to be transparent to light.
+Because it isn’t sucking up visual light
+or any of those other frequencies like radio
+we look at.
+Or at least, if it does interact with light,
+it’s got to do it very minimally, either
+by being compacted into huge dense chunks
+or just interacting so little we don’t notice,
+being very weakly interacting.
+That’s how things stood in 1980, when I
+was born and Vera Rubin submitted her results
+on the galactic rotation problem showing rather
+firmly that most galaxies were carrying about
+6 times more mass than we could account for
+from stars and gas and dust to be spinning
+at the rates they were.
+This wasn’t a groundbreaking and surprising
+paper exactly, it had been suspected for a
+while, but she had compiled such a compelling
+hard argument and collection of data that
+it wasn’t so much a nail in the coffin as
+a stake through the heart of the idea that
+it might just be a mundane source of mass
+we were estimating badly.
+This was hard, she’d used the best modern
+equipment of the time to measure this stuff
+and spent years compiling it, and every model
+agreed that for stars to orbit their galaxies
+like they were doing there needed to be a
+lot more mass than we could otherwise detect,
+either because it was emitting light or blocking
+it.
+Now a lot of options were put forth, we had
+discovered neutrinos for instance, they’d
+been theorized since the 1930’s and first
+detected in 1946, and had some of those expected
+properties.
+Neutrinos don’t interact with virtually
+anything, that’s why they can glide untouched
+through entire planets.
+The problem with using them for dark matter
+is two fold.
+First neutrinos come about essentially as
+the byproduct of nuclear reactions.
+When you get a nuclear decay or a fusion or
+fission reaction some of that excess energy
+flies off as a neutrino.
+Several trillion of them pass through you
+from the sun every second as a result of the
+fusion of hydrogen into helium.
+That’s the problem though, only a small
+fraction of the mass of a star is converted
+into neutrinos, and hydrogen is hands down
+the most abundant material in the Universe,
+meaning most mass hasn’t gone and been fused
+and produced neutrinos yet.
+So neutrinos can’t make up the majority
+of the mass and energy of the Universe because
+they simply haven’t been produced in large
+enough amounts yet.
+And since they fly off virtually unimpeded
+you can expect those from far and ancient
+corners of the Universe to arrive intact to
+our detectors.
+So there’s no reason to think they got produced
+in huge quantities at some point early in
+the Universe and we can’t see them now.
+That’s the other problem.
+Neutrinos have very little mass compared to
+their total energy, they move within spitting
+distance of the speed of light.
+And virtually nothing stops them.
+So they ought not to be hanging around galaxies.
+They ought to be fairly evenly distributed
+throughout the Universe, more even then photons
+since light does get absorbed by a lot of
+things.
+That’s our third property of dark matter.
+It can’t be moving too quickly or it wouldn’t
+be clumped up around galaxies.
+It’s not evenly distributed throughout the
+Universe, it clumps around galaxies a lot.
+That means it can’t be moving too fast on
+average.
+The escape velocity of galaxies is higher
+than Earth’s or the solar system but it’s
+nowhere near the speed of light.
+So we can assume this missing mass isn’t
+moving near the speed of light like neutrinos
+do, or even at decently relativistic speeds,
+or it would be spread out a lot more evenly,
+whereas the models that show it exists by
+making galaxies spin at the wrong speed indicate
+its spread out in a spherical halo around
+the galaxy.
+Since it clearly doesn’t interact with light
+or normal mass there are no collisions making
+particles of dark matter slow down and tend
+toward a disc-around-a-sphere distribution
+like many galaxies and solar systems exhibit.
+Gravity would slow them down as they try to
+pass us and speed them up as they neared,
+so you’d get nice orbits for those moving
+slow enough to stay captured, but they will
+not generally clump into balls like normal
+matter does to form planets and stars because
+they’re not colliding with anything to average
+out their momentum.
+So that is 3 properties so far, they interact
+with gravity, because they exert it on things
+and we can see it clumping around galaxies.
+They don’t interact with light or normal
+matter, or at least do so even less than neutrinos
+do.
+And they do not have much speed.
+We might as well add a fourth too, that they
+demonstrably make up the majority of the mass
+in the Universe.
+So that is the state of play for the last
+couple generations, we have a learned a bit
+more but mostly why various alternative explanations
+don’t work.
+Here are some of the more common ones and
+their strengths and flaws:
+Wimps – Short for Weakly Interacting Massive
+Particle, this is the current favored candidate
+for dark matter.
+You could think of this like a neutrino, though
+in the way a glacier creeping across the landscape
+is like a snowball.
+Which is to say they are both made of ice
+and moving, but the one is much faster and
+smaller.
+If a Neutrino is a weakly interacting low
+mass particle, a WIMP is any even less interacting
+heavy mass particle.
+Neutrino mass is about a millionth of an electron’s
+mass and billionth of a proton or neutron’s
+mass.
+WIMPS are thought to be as massive as a proton
+to maybe a thousand times more massive, currently.
+Nor would they have to be a single type of
+particle, there could be a whole particle
+zoo of these which would make sense since
+they’re the majority of matter.
+After all there are 6 flavors of quarks and
+6 types of leptons of which the electron is
+one and the neutrino is too, well actually
+three.
+Of the four fundamental forces, gravity, electromagnetism,
+and the weak and strong nuclear force, leptons
+can interact with all but the strong force,
+whereas quarks interact with all four.
+But the gauge bosons, the particles that transmit
+those forces, usually are said to only interact
+with the force type they transmit and gravity,
+though gravity is always kinda tricky to talk
+about at the subatomic scale.
+Very loosely though we’d say each particle
+has traits that let it interact with a given
+type of force and some particles are just
+missing those.
+I sometimes think of it like a module or receiver
+that lets it pickup that forces signal, as
+it were, and apparently most of the matter
+in the universe didn’t come with that installed
+for anything other than gravity.
+Gravity is a weird force, it is way weaker
+than the other three and has defied a lot
+of out attempts to unite the forces in Grand
+Unified Theories.
+It’s fairly popular nowadays to say it’s
+not entirely real or maybe not a force, but
+I reject that.
+Not because I disagree with the general reasoning
+but simply because gravity is the first of
+the four physical forces we encountered and
+studied, so if we stop calling it a force
+to me that would like having a definition
+of automobile that excluded the old Model-T.
+Keeping it simple though, WIMPs would be particle
+that just don’t have the device installed
+to listen to those other three forces, or
+have only a very cheap system that barely
+hears them.
+Most other particles have the receivers installed
+for one, two, or all three of those forces.
+I find this analogy makes it easier to understand
+why apparently most of the particles in the
+Universe are lacking this trait.
+Now again the WIMP is the lead candidate,
+so it’s got more in its favor then against
+it.
+Starting with quite a few models predicting
+something like them ought to exist.
+The big thing against them is trying to detect
+the wretched things.
+We’ve mostly managed to figure out what
+they aren’t.
+Like neutrinos, WIMPS ought to be flying around
+and through us all the time, but it is kind
+of hard to detect something whose only known
+property is it does not interact with anything
+for you to detect.
+I mean if you had a box full of the stuff
+you could shine a flashlight right through
+it and see nothing, wave your hand through
+it and feel nothing, and while you could detect
+it by feeling its mass when you picked up
+the box, they would just slide right through
+the box, which couldn’t have kept them inside
+in the first place anyway.
+The big longstanding competitor to WIMPs was
+MACHOs, Massive Compact Halo Objects, MACHOs
+and WIMPs are fairly inspired acronyms since
+they are quite descriptive.
+Where the Wimp is a tiny particle that doesn’t
+interact with virtually anything, a MACHO
+is a huge macroscopic object that just doesn’t
+emit much light.
+This is everyone’s favorite first suggestion
+too.
+Brown Dwarf stars, big gas giants, neutron
+stars that have cooled down, and black holes.
+Now Halo is important in there because it
+means the objects are out in the halo of the
+galaxy.
+Remember we need a distribution of matter
+that implies the missing mass enfolds the
+galaxy as a loose sphere.
+A MACHO definitely absorbs light, it just
+doesn’t particularly emit it.
+They’re very dense compared to dust clouds
+so we’d expect they don’t block much light.
+This has generally not been a popular solution
+with the people studying the problem, but
+more the solution popular with folks not studying
+it, since it basically represents folks saying
+“Do we actually need to make up some freakish
+new material composing the supermajority of
+the Universe?”
+In a nutshell, especially these days as we’ve
+compiled more data and more accurate data,
+the answer is yes.
+Now there is a lot of reasons this doesn’t
+work, many of them highly technical, but let
+me offer a more intuitively simple one that’s
+a variation of the one I use with the Fermi
+Paradox I call the Time Elapse Argument, or
+TEA, because I like acronyms too.
+If I see a weird looking galaxy a billion
+light years away, and know that it looked
+like that a billion years ago, then spot a
+similar one a similar distance away in a different
+direction and another in third direction I
+can say that those are unrelated, if artificial
+in origin, and furthermore that in a volume
+with a radius of a billion light years we’d
+expect 3 of them.
+So if I look out to a radius of 2 billion
+light years, which would have 2-cubed or eight
+times the volume, I ought to expect about
+8 times as many of them or about 24 of them.
+Going out to 3 times the distance I’d expect
+27 times as many or 81 of them, give or take.
+Going out to, say, five billion I’d expect
+to find about 400 of these things.
+But if they are artificial in origin, you’d
+think they’d be more common as the universe
+got older and more folks arose to build one.
+As time elapses you can argue they should
+be more common, so the further away you look,
+and the further back in time you look, the
+less common they should be.
+If you are seeing a phenomena which appears
+evenly distributed throughout the universe
+in space, and therefore time, it is not too
+likely to be artificial in origin.
+This works quite well for a lot phenomena
+folks have jumped the gun on and attributed
+to aliens, which has often included dark matter.
+But it also includes a lot of MACHOs.
+Planets take time to form, there are more
+of them now than they used to be… which
+is a good caveat to the time elapse argument
+since we can’t assume just because something
+is now more common that it is artificial,
+just that if it is not more common nowadays
+it probably is not artificial.
+Planets take time to form, Neutrons stars
+take time to form as a star must form, live,
+and die, then cool a lot to being invisible
+to us.
+So we should expect that a long time ago in
+a galaxy far, far away it ought to have a
+not formed so much of a Massive Compact Object
+Halo.
+Weirdly what we instead see at huge distance
+away and back in time are things like dwarf
+galaxies composed of mostly dark matter instead.
+But we certainly are detecting dark matter
+around ancient galaxies absurdly far away
+in time and space.
+So that along with it not being neutrinos
+tells us that Dark Matter is also old.
+It is old, it is cold, and it is massive.
+As best as we can tell it has stayed constant
+in quantity this whole time too so it presumably
+does not have a half-life or get created by
+interactions between normal matter.
+There are tons of other weaknesses for it
+being MACHOS but I think that is the one that
+is easiest to understand without needing lots
+more science and technology background on
+it.
+The next candidate is the Axion.
+This particle was first theorized to deal
+with some problems in strong nuclear force
+interactions.
+It is very like the WIMP, except it isn’t
+heavy.
+Whereas WIMPS can be thought of as heavy version
+of neutrinos, weighing as much or more as
+a proton whereas neutrinos weigh in at about
+a billionth of that, the axion weighs even
+less than the neutrino, anywhere from about
+the same mass to a millionth of neutrino mass.
+Now the axion is thought to be a particle
+with very tiny mass and no electric charge,
+but is also thought to switch into photons
+in magnetic fields.
+Axions are nice candidates since they are
+hard to detect but not nearly as hard as WIMPs,
+both from their properties and that they ought
+to be somewhere between a billion to a billion,
+billion times more common.
+But while it would make a huge difference
+to cosmology if it were WIMPS or Axions making
+up dark matter they are pretty similar objects.
+Theories for Axions do place their creation
+all the way back to the early time of the
+Universe too.
+In some ways I would say the Axion beats the
+WIMP out as a candidate for dark matter in
+the sense that it will be a lot easier to
+detect, so focusing on proving it or disproving
+either gets us the answer or gets it out of
+the way.
+And we have a number of experiments just getting
+under way or coming on line soon that ought
+to settle the matter.
+We’re going to skip the Kaluza-Klein Particle,
+an option for dark matter under string-theory.
+It has not been ruled out yet but it is supposed
+to be easier to detect than most of the others,
+relatively speaking of course, and we haven’t
+got a whiff of it in the experiments we expected
+to get a whiff from.
+I will also skip the gravitino, a particle
+predicted under Supersymettry, they were a
+great candidate but the blows to super-symmetry
+in recent years demote them I think.
+Similarly MOND, Modified Newtonian Dynamics,
+loosely the idea that gravity doesn’t fall
+off as the inverse square at very long distances,
+has fallen strongly out of favor so we will
+skip it too.
+That leaves our last big candidate, tiny primordial
+black holes.
+Normal black holes just don’t form enough
+to account for all that mass, but a lot of
+our notions about the moments right after
+the big bang gives us some cause to think
+lots of small black holes might have formed
+then.
+Now if Stephen Hawking is right, that black
+holes evaporate with time, with the smaller
+ones evaporating much faster, via the Hawking
+Radiation we talked about in the video on
+micro-black holes and Hawking Radiation, then
+we can put a minimum mass on those.
+Small black holes don’t live long and are
+very bright.
+And so not only would the smallest of them
+be gone by now but they ought to have left
+a ton of radiation around all over the universe
+making its way here.
+If he’s wrong then no problem at all.
+A small black hole with no Hawking Radiation
+is a WIMP for all practical purposes, one
+would fly right through you without you even
+noticing.
+But if they do evaporate, we can say they
+have to mass at least a hundred megatons or
+they wouldn’t be around anymore.
+One with a mass less than that wouldn’t
+have lived this long and would have been quite
+bright.
+We can push that up a bit too, because there
+is dark matter in our own solar system, some
+models say now it might be denser than expected,
+possible a whole large asteroids worth scattered
+about, and if that’s the case we can put
+an upper limit on how much radiation they
+could be spitting out without us noticing
+them.
+I’d say realistically we would see them
+if they massed less than about 100 billion
+tons, because that at that point you’d expect
+them to give off a bit less than a megawatt
+each of radiation and number about a million.
+If they massed less they would each be way
+brighter and more numerous.
+Chop a black hole into ten small ones each
+of equal mass and they would each be a hundred
+times brighter than the original and again
+ten times more numerous.
+I’d have difficulty imaging us missing things
+brighter than a megawatt and more numerous
+than asteroids. 100 billion ton black holes
+would be about as bright as small asteroids
+and about as numerous.
+Not that they would be giving off visible
+light, it would be gamma, but I’d have a
+hard time imagining us missing even the 100
+billion tons ones in gamma.
+Smaller than that and I’d say no way.
+Bigger than that is an option but not a lot
+bigger or we would detect them messing with
+planetary orbits and picking up accretion
+disks.
+Now what’s interesting is that while there
+is cosmic microwave background radiation,
+there’s also infrared and xray background
+radiation, and recently NASA’s Alexander
+Kashlinsky and others noticed that there was
+a lot of matchup in those two, with the most
+obvious candidate for such a match being primordial
+black holes.
+At the same time we have just recently gotten
+our first detections of gravitational waves
+from the LIGO detector, our first sight of
+black holes and not just things glowing while
+they fell into them, and it has been suggested
+some of those detections were of the merger
+of primordial black holes.
+I will link an article in the video description
+from a couple months ago from Shannon Hall
+at Space dot Com discussing this more, but
+while primordial black holes have been a solid
+if minor contender for dark matter for a long
+while, their stock seems to be on the rise
+the last couple years while quite a few of
+the others have lost steam during that same
+time.
+So WIMPs remain the strong first place, and
+I’d say axions after that, but I would promote
+primordial black holes to third place and
+we can pursue both them and axions aggressively
+in the next decade to either prove them or
+disprove them.
+There are tons of other dark matter candidates,
+from the plausible and credible if minor candidates
+to the downright zany, but those are the big
+ones and I also mentioned discussing some
+uses of Dark Matter so if I don’t get to
+those now the video will get too long.
+The first and most obvious use is just as
+filler material.
+If you can find some substance or field that
+lets you interact with dark matter, then there’s
+lots of uses for something that basically
+is just mass with no interactions.
+We’ve discussed quite a few megatructures
+on the channel that use most of their mass
+just for gravity, like shell and discworlds,
+and we would usually assume you would use
+hydrogen and helium for this job, since they
+are so abundant compared to other elements
+like carbon and iron.
+Dark matter would for instance be even better.
+You don’t have to worry about undergoing
+any weird transitions into things like metallic
+hydrogen or start up fusion if you stick too
+much in one place.
+Dark stars, hypothetical stars composed mostly
+of dark matter that might have been around
+when the Universe was young, are thought to
+have been able to get a big as solar system.
+Since some hypothetical forms of dark matter
+are their own anti-particle, you’d expect
+the rare collisions of two of them to produce
+a matter-anti-matter reaction generating light.
+This light is why we call them stars, or dark
+matter stars or dark stars.
+You probably wouldn’t want to use dark matter
+as a dense filler in such a case, though it
+would depend on how often those collisions
+were happening, but that would make that an
+excellent power supply too.
+Obviously we have no concept for a material
+or field that could contain dark matter but
+if we did have one, and if dark matter was
+its own anti-particle, you could imagine sticking
+it in a big balloon or bladder you could squeeze
+tighter to make more collisions occur or expand
+out to decrease those.
+Giving you essentially a massively plentiful
+source of energy equal to antimatter but way
+safer, easy to throttle, and naturally abundant,
+super abundant even.
+The Bussard ramjet we discussed way back in
+the Interstellar Colonization video probably
+doesn’t work, it seems to take more energy
+to sweep up the hydrogen it runs across in
+space and fuse it into helium than it would
+produce in thrust, BUT if you could do that
+with dark matter and it was its own anti-particle
+you’ve an amazingly mass efficient fuel
+supply evenly distributed throughout the galaxy
+that practically has a sign on it saying perfect
+‘rocket fuel’.
+Ships able to gather that up as they plowed
+by ought to have no problem going quite close
+to the speed of light and not needing to worry
+about running out fuel.
+If it isn’t its own anti-particle then we
+can still use it, and not just for filler
+mass, it could be dumped into black holes
+as power supplies for instance.
+Also I joked once about what I call the Dark
+Telegraph, which would essentially be an ultradense
+line of matter between two places where like
+any massive object it contracted space.
+Keeping something like that from collapsing
+on itself is a lot easier with something like
+dark matter, you could send a beam between
+relay points, or even two overlapping beams
+going opposite directions, and unlike normal
+matter you can send your laser message right
+down that beam without needing to worry it
+would scatter.
+It’s not actually faster than light, but
+from a practical standpoint it would be since
+along that path space would be contracted
+so the message would get there faster than
+normal.
+If we cannot find an easy way to manipulate
+the stuff though, there is again the black
+hole route.
+Dark matter would be eaten by a black hole
+whose event horizon they crossed.
+Event horizons are quite tiny compared to
+galaxies but in the long term, like we contemplated
+in the Black Hole farming video, you’d expect
+black holes to eat a lot of them, gaining
+their mass energy and angular momentum, which
+we discussed using in that video.
+So there are actually some uses for the stuff
+inside the realm of plausible science, albeit
+we have to stretch a bit.
+As we learn more about the stuff we may learn
+other uses for it or way to manipulate it,
+and I’d say we can be optimistic on that
+score for now, though we also need to be patient,
+it isn’t likely we will crack the mysteries
+of dark matter for some years.
+And it is mysterious stuff, though hopefully
+a bit less so now we’re done for the day.
+Next week is going to be a look at asteroid
+mining and we’ll look at some confusion
+about both this topic and asteroids in general.
+We’ll probably be spending a fair amount
+of time in the near future discussing colonizing
+the solar system.
+We will be coming back to discuss cosmology
+quite a lot before 2016 is over, but I am
+going to do a poll again.
+The winner will be next, next week’s video
+and odds are most of the next few will be
+from the runners up.
+I’m thinking about switching this over to
+the website, IsaacArthur.net, to just be an
+ongoing thing but it will be a Youtube poll
+this week
+Here are the options:
+First, a look at Cryptocurrency, both in the
+emerging use of it in things like bitcoin
+and in how it and related concepts might impact
+civilizations down the road.
+Second, a similar topic, folks have been asking
+me to discuss the concept of post-scarcity
+societies for a while, and explain what that
+actually means and what some of the implications
+of that might be.
+For the third option I thought about taking
+a deeper look at the concept of a Technological
+Singularity.
+We kind of brushed past it in the Transhumanism
+video and a deeper look at this idea and artificial
+intelligence seems appropriate.
+For the fourth option we’ll take a more
+detailed look at SETI, the search for Extra-Terrestrial
+Intelligence, I’d meant to give it an overview
+in the video on Tabby’s star but that got
+almost entirely cut out to look at the anomaly
+in more detail.
+Quick channel update, as mentioned last week
+the website, IsaacArthur.net, is now up, and
+all the audio is now available to listen to
+or download at soundcloud.
+Regarding foreign language subtitles, which
+I mentioned last time I’ve been considering,
+a subscriber pointed out Youtube has an option
+I could enable to let viewers submit those
+so I went ahead and did that, and on screen
+is a link to a quick 2 minute video from youtube
+that explains how to do that if you want to,
+and since each video already has subtitles
+it does have an expedited methods where the
+timing is already there and you can just click
+auto-translate if you like then just fix the
+blatant translations errors.
+My only request is that no matter how funny
+some of those automated botches might be you
+resist the urge to leave them un-fixed for
+the humor value.
+Changing sentence structure or wording to
+be more appropriate to that tongue I will
+leave to people’s good taste and judgment,
+this channel’s audience usually exhibits
+a hefty surplus of both.
+Okay on that note, don’t forget to hit the
+like button if you enjoyed the video, and
+share it with others.
+Questions and comments are welcome, and you
+can try out some of the other topics on the
+channel.
+Thanks for watching, and I’ll see you next
+time!

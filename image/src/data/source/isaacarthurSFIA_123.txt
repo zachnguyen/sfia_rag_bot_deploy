@@ -1,0 +1,340 @@
+To travel between the stars requires vast 
+amounts of fuel and energy, but as it turns out,  
+the ocean of night in deep space is full of 
+fuel, if you can collect it along the way.
+Welcome back to another episode of "Science and 
+Futurism with Isaac Arthur." Today, we're diving  
+into the realm of interstellar propulsion, 
+exploring a concept that has captured the  
+imaginations of science fiction enthusiasts and 
+space exploration enthusiasts alike for decades:  
+the Bussard Ramjet Starship Drive. We’ll 
+explain what it is, why it might be broken,  
+what other uses it has, and what 
+work arounds might let us use it. 
+The Bussard Ramjet is conceptually simple enough. 
+Space is full of hydrogen gas, and if you have a  
+fusion reactor, all that gas becomes fusion fuel 
+for your spaceship, so you suck it in, fuse it,  
+and blow it out the back, speeding up your 
+ship. The Bussard Ramjet or Ramscoop is perhaps  
+best-known from the classic scifi novel Tau Zero, 
+which shows us a spaceship that gets stuck with  
+their ramjet on and keeps accelerating closer and 
+closer to light speed. This spaceship drive was  
+designed by physicist Robert Bussard in 1960 and 
+it seemed the magic fix for all our spaceship woes  
+and the tyranny of the rocket equation.
+Indeed if you ever wondered what those  
+big lights or propellers on the front of 
+the warp nacelles on the Enterprise are,  
+they are listed as Bussard Collectors.
+Now we’re not going to deep dive the concept  
+of fusion today, but the idea is that once you get 
+moving under normal engines or some other drive,  
+and get some speed, you funnel high speed 
+particles into the throat of the Bussard engine  
+where they slam into other particles at 
+relativistic velocities. The particles in  
+the Sun’s core, at tens of millions of degrees, 
+are bumping around and into each other at hundreds  
+of kilometers a second, which is on an order 
+of a thousandth of light speed, but even then,  
+take billions of years and untold trillions 
+of collisions before they typically fuse. 
+The hotter and denser a star’s core, 
+the exponentially faster this happens,  
+so if you’re moving faster, the number of gas 
+particles you’re grabbing and slamming through  
+your Bussard Ramjet that actually fuse while 
+passing through rises vastly, and as you get close  
+to light speed you will match the conditions 
+not just inside a supergiant stellar core,  
+but those right about to go supernova where 
+fusion fuel is not taking millions or billions of  
+years to get used, but getting burnt up at rates 
+like we’d expect from gasoline, only 10 million  
+times more energy being emitted per gallon.
+But the basic concept is that as you shove matter  
+down the throat of this engine, some is fusing and 
+releasing energy and the byproduct along with all  
+the gas that didn’t fuse is absorbing that energy 
+and blowing out the back as a propellant. You  
+can also get energy to run your life support, 
+maintenance, and manufacturing this way. Most  
+of the interstellar medium is ionized hydrogen 
+and helium, including their isotopes deuterium  
+and Helium-3, all of which are decent fusion fuels 
+but any ionized atom or molecule can be pulled or  
+shoved by electromagnetic forces. Hence the idea 
+to suck or scoop up gas as you go along from a  
+wide cross-section around your ship, rather than 
+a conventional physical scoop. Then, similar to  
+an air-breathing ramjet, you cram all that gas 
+through a tiny throat at high speed and density. 
+Hydrogen and Helium are the vast majority of 
+everything out there, and a lot of the remainder  
+is carbon, nitrogen, and oxygen, which are all 
+fusible too, particularly in the CNO cycle,  
+but them and other matter floating around can 
+also be scooped and diverted for collection to  
+let a ship gather raw materials for building 
+and repairing stuff. And for that matter,  
+the small amount of heavier fusion products 
+coming out the back could be reclaimed too,  
+by the conceptual equivalent of a magnetic bucket 
+following far behind on a tether, selectively  
+grabbing those heavier elements. Critically, the 
+amount any particle curves in a magnetic field  
+is based on how much charge it has and how much 
+mass it has. Big, ionized particles move slower  
+at the same ambient temperature and curve less in 
+the same magnetic field, and would make up only a  
+small amount of your intake or rocket flame, 
+so grabbing them wouldn’t hurt your overall  
+thrust and momentum too much.
+This seems like the perfect starship drive,  
+infinite fuel and scooping up other handy raw 
+materials when needed, so what’s the problem? 
+Well, there’s a few. First, even if it 
+worked as planned, you need to get moving  
+at high speed to make it go. It’s a bit of a 
+Catch-22, an engine that makes you go fast but  
+requires you to be going fast first to use it.
+This at least has an easy fix. We often talk  
+about using giant laser beams, or energy or 
+matter beams, or all of the above, to either  
+directly bounce off a ship and push it or provide 
+a power supply to superheat onboard propellant as  
+higher-performance propellant than normal rocket 
+fuel and so long as you have a star nearby  
+and some local infrastructure of mirrors, power 
+collectors, and relays, you should have no problem  
+keep a pushing beam on target even a whole light 
+day away and that’s enough of a runway to shove a  
+ship at 1-gee of acceleration up to 7.5% of light 
+speed. That’s a pretty good initial boost and as  
+we’ve discussed elsewhere, that’s good enough for 
+an interstellar ark ship all on its own and you  
+could probably do better, see our Interstellar 
+Laser Highways episode for discussion of that. 
+Indeed we often imagine using the Bussard 
+Ramjet with this system anyway, since one  
+of the concerns with it is that calculations often 
+indicate it would produce a net negative thrust,  
+slowing rather than speeding the ship 
+up, and you can use one to slow down,  
+which is handy if you don’t have a pushing beam 
+system at your destination at the other end. 
+If you’re familiar with Bussard Ramjets or scoops 
+you’ve probably heard about this concern they’re  
+broken, and there’s a few ways in which 
+this might be the case and sadly they’re  
+mostly too technical to explain, though there’s 
+a newer paper on it that I think did a good job,  
+if still very techy There’s also a few variations 
+of it and each needs discussed differently,  
+including two others using black holes 
+that I’ve discussed before in passing but  
+have no name I’ve ever heard of so I will dub 
+them the Hawking Ramjet and Penrose Ramjet,  
+the latter being a lot like the Quasar Drive we’ve 
+discussed before but imagined at a smaller scale. 
+More on those later. Let’s start with the better 
+known one, the Fishback Ramjet, which John  
+Fishback proposed back in 1969. And this is the 
+first detailed one, as Bussard and Carl Sagan had  
+both discussed the idea before but Fishback went 
+into the details on how the scoop would need to  
+work. Again, those are unfortunately too technical 
+to dip into here but focus on using a magnetic  
+scoop and an axial solenoid. If you do want that 
+deep dive, I will instead recommend the paper from  
+last year written by Peter Schattschneider and 
+Albert Jackson, as I feel that covers the topic,  
+its problems, and possible solutions 
+better than the various prior papers did. 
+And a lot of this had to do with scale, and why 
+‘doesn’t work’ got thrown around a lot because  
+the ship needs to be very big to work, the big 
+Fishback Solenoid needs to be very big and strong,  
+and might need to be made of graphene or even 
+use active support systems like we envision for  
+orbital rings. So to be clear, we think it does 
+work. There were just many who felt the numbers  
+made it impractical to ever build and many 
+dispute that, but with the acknowledgement  
+that it’s a megaproject to build one.
+They need a huge cross section to scoop from too,  
+not a mile or kilometer across but more like 
+an Astronomical Units. You can see why this  
+gets problematic. Of course, if you’re a channel 
+regular you might have just shrugged and noted  
+that we do often contemplate building things 
+to that scale, and that just because an object  
+might need components as big as our planet’s 
+orbit, doesn’t mean it needs a construction mass  
+anywhere near that of a planet, but in some 
+scenarios, that too would be acceptable. If  
+it lets you get ships up to very high speeds and 
+down from them at a new star, where you can build  
+the beam pushing systems we discuss or even just 
+transmit data and uploaded minds at light speed,  
+then that’s good enough for first use and later 
+ships can use the beaming system. It really  
+doesn’t matter if your first colony ship to a new 
+system uses the mass of a large moon or smaller  
+planet to get there as that’s an investment that 
+can be repaid thousands of times over from the  
+available raw mass in that new system. And again, 
+the ability to slow down this way is handy. 
+You can just slow down magnetically anyway, the 
+interstellar medium is full of ionized particles  
+and you’re basically deploying a magnetic 
+field as a parachute to slow down using them,  
+and again the concern is if you are slowing 
+more by gathering them than they’ll produce  
+when fusing. Which if you’re only getting 1 
+in a million to fuse, wouldn’t make them much  
+better energy-wise than a chemical fuel but 
+also means you’re constantly dragging on all  
+of them and slowing while collecting them.
+I won’t belabor the various workarounds too  
+much. First, this whole fusion process is totally 
+unrelated to any normal fusion reactor we try to  
+build here on Earth, at least the default Tokamak 
+type. If your ship just happens to have a regular  
+old fusion reactor, whatever that looks like, then 
+you don’t need to be shoved up to speed. Instead,  
+you get a cruising speed equal to whenever the 
+drag force of collection equals your engine  
+output. The faster you go, the more kinetic energy 
+you lose whenever you hit and swallow a particle  
+and dump it into your reactor, and if you need 
+to basically slam 100 particles to get two of  
+those two fuse in your engine and the other 
+98 to fly out the back superheated by fusion,  
+then you’re looking at a top speed at about 
+1% of light speed. If you were getting total  
+fusion by all, more like 10% of light speed. 
+The reason the ramjet does better is that it  
+is using that collision energy to drive the fusion 
+event and the particle involved, fused or failed,  
+keeps that momentum rather than slowing the ship.
+1% of light speed, or even 10%, isn’t really  
+wowing everyone the way the Bussard Ramjet does, 
+but it should be noted this can be shoved up too.  
+We could imagine some Clarketech piece of 
+machinery that just vaporized any passing  
+particle into its constituent mass energy of 
+photons but we think this is basically what  
+black holes do too. We’re a bit dubious about 
+creating and feeding kugelblitz black holes,  
+ultra-tiny ones in the megaton or even 
+kiloton range, but they produce huge  
+amounts of energy by Hawking radiation and they 
+run basically at 100% matter to energy efficiency.
+Their ceiling might be north of 90% of light 
+speed and their collection radius much lower,  
+and they shouldn’t need that initial shove to 
+get going though they will collect more the  
+faster they go and you might need to start 
+them on the heavier and lower power side,  
+fueling them up at port, to ensure they had 
+time enough to get to full refill rates. 
+Black holes emit less Hawking radiation as they 
+grow in mass, and they lose mass as they emit  
+energy, quicker the smaller they grow. So you 
+might need to throttle your intake at higher  
+speed to avoid your black hole gaining mass and 
+losing power. This is a Hawking Drive Ship, or  
+a Hawking Ramscoop in this particular variation.
+The Penrose Ramscoop would be a bigger black hole,  
+if it turns out you can’t make or feed them below 
+a certain size, like having an event horizon less  
+than an atomic radius, and would rely on the 
+Penrose Mechanism for Power Generation. Which  
+for simplicity’s sake is just dumping matter 
+toward a black hole and using all the accretion  
+disc and acceleration radiation to power things. 
+Here it is fine if particles just whizz by close  
+to it and miss, bending in to smack each other 
+and radiating a bit of energy in the process.  
+Optimally, this does way better than fusion but 
+isn’t 100% so your ceiling is likely to be over  
+50% of light speed but not a lot more. Also, 
+this is a tinier version of the Quasar Drive we  
+discussed in Fleet of Stars, so see that episode 
+or Black Hole Ships for a deeper discussion. 
+Amusingly they would have an equivalent of 
+radioactive waste since a bigger black hole  
+still has Hawking Radiation – which is typically 
+going to be X-Ray or Gamma for something a ship  
+might be using - and still is a black hole, and 
+since it would slowly gain mass this way, once it  
+got too big for a ship you might have to jettison 
+or box it up, or trade it to a local space station  
+that doesn’t care about mass as much and will 
+keep using it as a power plant. Alternatively  
+smaller ones might need to be jettisoned if they 
+were starving so they didn’t blow up once they  
+got in the sub-kiloton range. I suppose a Gardener 
+Ship might generate new black holes every stop and  
+give the old one to the new colony it founded, 
+and trade ships might stop and change out at  
+destination, selling the old one to some local 
+O’Neill Cylinder and buying a new one. But that’s  
+a bit beyond the scope of today’s episode.
+In the end, while there’s no getting around  
+the issues with Ramscoops, they may not be as 
+dreadful or fixed a barrier as we’ve been thinking  
+and we do have some workarounds that follow 
+similar approaches. To make truly fast ships,  
+it helps if you can get around the rocket equation 
+and not have to carry all your fuel with you,  
+and it also relieves you from needing to 
+carefully husband your fuel for centuries of  
+interstellar travel against leaks or shortages 
+so that you can slow down when you arrive. 
+For those curious why this episode wasn’t on 
+the schedule and is an outlier for length,  
+this episode was originally going to be one of 
+those new short form videos I’ve been trying  
+out of late, but it rapidly got longer. I’ve been 
+enjoying the challenge of trying to do a 60 second  
+video, and doing a whole month's worth of them 
+take less time than a single video like this does,  
+let alone a regular episode, and at popular 
+request I probably will start releasing  
+compilation videos of those here and on our other 
+platforms soon, but while trying for brevity is a  
+fun exercise, if the content clearly won’t fit 
+in that length, I won’t shove it in, and at the  
+same time I didn’t see any reason to expand 
+it to one of our usual deep dives especially  
+with so many other topics awaiting writing.
+Doing so would either take away from writing  
+another episode or require waiting to put it 
+out till after our episode on Zero Point and  
+Vacuum Energy in a few weeks and I felt 
+this one should come out first and it’s a  
+quasi-prequel to our episode Have Space Suit 
+– Will Travel coming out in a couple weeks,  
+in regard to classic Heinlein Torch Drives which 
+the Bussard Ramjet seeks to partially emulate.  
+Those of course are basically your straight matter 
+to energy converter and in theory could be using  
+dark matter too, not just fusion fuels. As could 
+our black hole drive version. We’ll discuss a dark  
+energy option in that aforementioned Zero 
+Point and Vacuum Energy episode next month. 
+If you want to learn more about other spaceship 
+drives, see our Advanced Spaceship Drive  
+Compendium episode, but that will wrap us 
+up for today. Thanks for joining us for this  
+unscheduled episode and we’ll see you Thursday 
+for our episode Interplanetary Infrastructure,  
+where we will also discuss building things 
+Astronomical Units wide, as well as more  
+modest devices for helping explore and settle our 
+solar system, and until then, have a great week!

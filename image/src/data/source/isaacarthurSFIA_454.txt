@@ -1,0 +1,660 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+They say you need to “dress for success”.
+This applies particularly well to working
+in space, where you and your spacesuit become
+one symbiotic entity.
+Today we’ll be looking at spacesuits and
+extreme environment suits, along with the
+improvements we’d like to make to them and
+the challenges we’d face in doing so.
+When you think about it, the historical driving
+force behind functional clothing is the need
+to protect ourselves to weather severe environments
+and deadly hazards—and to look good while
+doing so if possible.
+Whether it was harsh sun, freezing cold, sand
+in the wind, thorns on the ground, or spears
+coming at our torsos, any problem we thought
+we could solve with a garment, we solved with
+a garment.
+The earliest get-ups we could reasonably call
+environmental suits would probably be the
+underwater salvage suits of the early 1700’s,
+which were basically barrels with a window
+and sleeves.
+These evolved into true diving suits in the
+early 1800’s, human-shaped suits of sealed
+canvas and leather with lead boots and brass
+helmets connected via hoses to a pressurized
+air supply on the surface.
+The first pressure suits, which were made
+to keep human bodies under enough pressure
+when the environment didn’t, were products
+of high-altitude aviation programs of the
+1930’s, an alternative to pressurizing a
+plane’s cockpit.
+These are the ancestors of spacesuits.
+Modern firefighting gear draws heavily on
+spacesuit technology developed for the Apollo
+Missions.
+And some of those technologies are even making
+their way into casual day-to-day use, like
+air-conditioned vests.
+Suits that would let you explore lethal environments
+like the depth of gas giants or the infernal
+surface of Venus are really environmental
+suits not spacesuits, but there’s a long
+history of connection and feedback between
+development of the two.
+So you might say that spacesuits were developed
+for the vacuum, but not in one.
+At higher levels of technologies the term
+spacesuit might get to be a bit vague too.
+As an example, if the general notion is to
+be able to feel like you’re walking around
+normally at home, a telepresence into an android
+or even a mind upload into one is arguably
+achieving that goal far better than any suit
+could realistically permit, but isn’t really
+what we’d think of as a suit.
+Alternatively, going around in some non-humanoid
+vehicle, like a submarine or space shuttle,
+is obviously not a suit, but some large humanoid
+robot or mecha presumably isn’t either,
+though something like an exoskeleton or power
+armor presumably is.
+For that matter, even a definition like a
+self-sufficient garment or closed system,
+while ideal, is not realistic, you either
+have a short deployment time or you need something
+feeding in air or electricity or fuel or so
+on, not to mention removing waste from the
+suit, where you can’t recycle it.
+Which for anything you are planning to spend
+many hours in is not just going to be exhaled
+carbon dioxide and moisture from your breath
+and skin.
+Toilet humor aside, there’s no easy way
+of saying it, so let’s dive right in.
+Going to the bathroom in a spacesuit is generally
+going to involve a diaper – as it currently
+does - or tubes being stuck places most folks
+would rather they were not.
+We’ve got some higher-tech solutions for
+that we’ll discuss in passing, but if you’re
+curious, the science-y name for an adult diaper
+in a space suit is the MAG – Maximum Absorbency
+Garment – and we will not even discuss the
+early-space-era options which basically involved
+a bag worn under spandex, which is apparently
+exactly as unpleasant and disgusting as you’re
+probably imagining.
+A space suit is generally considered to have
+a handful of primary functions it needs to
+perform and a few secondary ones.
+For the primary ones it has to be able to
+supply breathable oxygen, which in practice
+means also having a method to remove carbon
+dioxide, though not necessarily.
+It has to be able to maintain a stable internal
+pressure, though not necessarily Earth pressure.
+Suits leak and leakage is based on the difference
+in pressure on each side of the leak.
+Higher pressure means a faster leak, so we
+use partial pressure in spacesuits usually
+with a high ratio of oxygen, whereas normal
+air is mostly nitrogen.
+Partial pressure requires a delay in adapting
+to it though, pre-breathing to get the nitrogen
+out of your blood, so you can’t just jump
+in such a suit and out an airlock.
+In an emergency or if you’re impatient that’s
+a problem.
+That’s something we try to rectify with
+the Z-series spacesuits, which take advantage
+of improvements in materials and manufacturing
+processes to be more robust and operate at
+higher pressure so you don’t need to pre-breathe.
+The EMU suit we’ve all seen normally runs
+at a little under a third of normal atmospheric
+pressure, which is 14 PSI or 100 Kilopascals.
+The Z series runs at over half, 8.3 PSI, as
+does the Mark III suit.
+We don’t need to pre-breathe to purge nitrogen
+until pressure drops to a certain point.
+The magic 8.3 PSI is sufficient to circumvent
+that so is ideal for suits since they leak
+less and we can use them sooner because we
+don’t need to pre-breathe.
+Also, it’s actually rather hard to move
+in some space suits from higher internal air
+pressure.
+One of the reasons Hard Shell suits are nice,
+even though they are heavy and not flexible,
+is they leak less and they aren’t essentially
+a balloon.
+It’s not something you normally think of
+but if you’re wearing something flexible
+at a higher pressure than outside, everytime
+you move you’re fighting a lot of gases
+moving around and stretching at that fabric
+as you bend it.
+Think about trying to bend a hose while it’s
+turned on or crunch a soda can that isn’t
+open yet.
+That’s one reason skintight suits, like
+MIT’s Bio Suit, which is elastic and compresses
+you to maintain pressure on the body, except
+at the helmet, are optimal for mobility if
+we can get them working well.
+You could potentially wear all but the helmet
+for prolonged periods and just don it if you
+need to go out.
+One reason skintight suits are optimal for
+mobility.
+Skintight suits, like MIT’s Bio Suit, are
+elastic and compress you to maintain pressure
+on the body, rather than relying on an envelope
+of air in the suit to do that.
+Getting out an airlock is a time-consuming
+process too, and the Z-series I mentioned
+a moment ago seeks to circumvent that using
+the new suitport dock mechanism that lets
+you crawl from the vehicle into the suit and
+back out when you’re done.
+While saving space, it actually has other
+advantages in environments like the Moon and
+Mars because the regolith soils there are
+corrosive and toxic, so you don’t want them
+in your vehicle anyway.
+Besides delays from pre-breathing, donning
+spacesuits is hazardously time-consuming during
+an emergency so a suit you can don very quickly,
+without help, and at full vehicle or habitat
+pressure is essentially your ideal one.
+So components able to self-seal reliably and
+without oversight is another of those areas
+future technology might help with a lot.
+Additional primary functions are temperature
+regulation, mobility, a communication system,
+and the waste elimination issue we discussed.
+Communication can be non-obvious, as a reminder
+you need a microphone and transmitter in a
+suit because there is no air to carry sound
+around you unless you touched helmets together
+and shouted.
+Nor can you use sign language very well in
+those suits as even if you have line of sight
+to signal someone, the mobility, especially
+in the gloves, tends to be very limited.
+Indeed astronauts often have very sore hands
+from just trying to do anything in those bulky
+gloves.
+The ability to introduce computers into equipment
+is obviously an advantage that needs no explaining,
+but controlling things inside a suit is quite
+difficult, those bulky gloves make typing
+hard and result in very large buttons on devices
+in space.
+One of the ways of helping with that is incorporating
+things like electronic textiles for buttons,
+heads-up displays, and speech recognition
+software, and we see that in the I-Suit, one
+of the other candidates for replacing the
+EMU.
+It is also lighter than many designs by incorporating
+materials like titanium, fiberglass, and graphite-epoxy.
+Temperature can also be non-obvious, we get
+told about space being a frozen ultra-cold
+place but it mostly isn’t, those suits can
+heat up quite fast in direct sunlight as they
+can only get rid of heat by radiation.
+This is not true in an environment other than
+space, like the surface of Venus, and we’ll
+come back to some methods for dealing with
+heat, for the moment it’s just a reminder
+that some functions of spacesuits won’t
+be necessary for extreme environment suits
+or alternatively include new necessary functions
+or the same ones but harder to deal with.
+Of the secondary functions for a suit we have
+to solve problems like radiation and micrometeoroids,
+other matters of hygiene, as well as propulsion
+capability, the other half of the mobility
+issue besides dexterity, and of course duration
+so you can be in one and survive, or be comfortable.
+Comfort does matter a lot too, not just as
+a nice addition to make more folks willing
+to wear one, but in terms of productivity
+and errors.
+If you saw our Giant Robots & Power Armor
+episode, you probably remember me mentioning
+that I always found the stifling heat of wearing
+body armor far worse than its weight and it
+wasn’t just from exhaustion.
+If you’re itchy – and it’s hard to scratch
+in such things – or nauseous or disoriented
+or just generally distracted by your own gear,
+it represents a real hazard.
+It gets easier to make mistakes by distraction
+and fatigue, and your productivity in that
+thing, already slowed by mobility and dexterity
+issues, drops further from compensating for
+that added risk.
+There’s also the low gravity concern on
+health.
+We wouldn’t typically think of that as a
+problem since these are short term devices
+and you either are going back to a ship or
+station with just as low of a gravity – in
+which case the problem isn’t relieved but
+isn’t really different in the suit – or
+it is just temporary as you are returning
+to a place with gravity, natural or artificial
+like a rotating habitat module.
+This amusingly is actually fairly easy to
+solve though, if you have to persist in a
+suit for a very long time you could mount
+a winch and tether on the shoulders of such
+a suit and shoot it into something, like tossing
+a grapple around a beam and swinging around
+it to produce centrifugal force, or detach
+a piece of your gear on a tether, like a spent
+oxygen or supply tank, so you could spin around
+that way.
+It’s hard to work that way but you could
+sleep under spin-gravity then, which would
+help.
+Similarly if you’re working on the outside
+of a rotating habitat drum and you tether
+to it, you will get that spin-gravity effect,
+so you’d want to orient so it was above
+you so you didn’t feel like you’re hanging
+upside down and get blood rushing to your
+head, as you would if you were walking on
+the outside of the drum with magnetic boots.
+Fluids migrating around inside your body in
+low gravity is an issue too, one we mostly
+handle now through compression clothing to
+fight swelling.
+Fluids outside your body is another problem,
+humans sweat, a lot.
+It’s actually one of our nicest adaptations
+that most animals don’t have and why we
+can get away with a lot of long endurance
+activities without suffering heatstroke.
+Sweating out a liter of water during an hour
+of exercise would be fairly normal, and in
+a heavy suit, especially one getting hot,
+you need a way to clear that humidity and
+unfog your visor.
+One approach for that is to have something
+like an air-conditioning vest, keeping you
+cool and condensing that moisture and ideally
+draining it away.
+But that means you need radiators, big ones,
+so that you might look like you had a pair
+of batwings.
+However that also takes power and we have
+very bad batteries, even nowadays.
+Power can be maintained through a cable, or
+beamed in, but you could also pump in air
+and coolant too and pump them out.
+Plus a large radiating surface might do double
+duty as solar collectors.
+What you’re pumping to and from might be
+mobile as well.
+It might be something like a rover or jetbike
+that was your main vehicle and which you were
+linked to by cables, but it might be various
+specialized drones that follow you around,
+detaching and resupplying from elsewhere as
+needed and staying out of the way.
+In the power armor episode I mentioned how
+you might tend to be followed around by a
+posse of robots who carried around all your
+resupply or power generators, or even carried
+around your guns and you just directed the
+show.
+The same could apply here, you go out in a
+vehicle, or on a vehicle, with various drones,
+and they do a lot of the work of keeping you
+alive without your attention or inconvenience.
+So a couple are carrying spare air tanks or
+hoses connected to air supplies and scrubbers,
+another is running around with a big shield
+keeping between you and the Sun, and supplying
+power via solar panels.
+Others are running radar and feeding that
+info to you while watching for micrometeors
+and targeting them, one is possibly hooking
+up to remove bodily waste as needed, and so
+on.
+These need not be high tech or smart, and
+I should certainly hope not for the toilet
+drone, since it takes a special level of sadism
+to give high intelligence to such a device.
+You could potentially do the same in a case
+like Venus, with a very well insulated suit
+that was connected by a hose to a big mobile
+coolant robot that trundled alongside you,
+but heat’s not the only issue.
+You’ve got pressure too, which is very high
+on Venus’s surface so that suit needs to
+be very strong, and that is generally going
+to mean very heavy and bulky, maybe too heavy
+or bulky even with super-materials and artificial
+muscle fibers in the suit enhancing your strength.
+If you’re ever seen the Star Trek Animated
+Series from the mid-1970s, you might remember
+they had personal forcefields that let them
+beam down to places wearing just their normal
+uniform.
+We’re not likely to ever get such forcefields,
+but there’s a concept there of importance.
+If you live on a spaceship, especially one
+that gets shot at a lot, you basically need
+a uniform you can wear around all the time
+that can serve as very basic spacesuit for
+at least a few minutes.
+That’s the general notion with skintight
+suits or skinsuits like the Bio Suit I mentioned
+earlier, though it is not light and should
+not be thought of as just some spandex catsuit.
+Such suits will generally have rigid ribs
+on them and ideally ones that could contract
+around you so you could basically hop in and
+have it hug down on you.
+Potentially such suits might incorporate veins
+to carry coolants or heating to the body as
+needed and some strap on equipment like air
+tanks though that sort of stuff starts adding
+mass and power needs.
+It doesn’t necessarily need a big power
+supply, it might just have microwave power-absorbing
+antennas - rectennas - woven into it for soaking
+up wireless power and a small battery and
+air tank for short durations of emergency,
+but if you can’t make it very light you
+can potentially weave in artificial muscle
+fibers to offset the mass.
+Although such technology is still in its infancy,
+artificial muscles are one of those technologies
+we can probably safely assume we’ll get
+working well eventually, and that will help
+with a lot of mass problems with suits, which
+generally weigh as much as the person inside
+them these days.
+The emphasis is on mass not weight, as while
+a ship might have spin gravity, in zero gravity
+you have no weight but you and everything
+you’re wearing still has mass, which has
+to be pushed or pulled to move, and you will
+tire out very quickly in tons of gear even
+without gravity.
+You probably also need some sort of rapidly
+assembling or inflating emergency helmet worked
+into the collar of such a suit that can automatically
+trigger in a pressure drop, though you might
+get away with a helmet drone, you walk around
+with it strapped on your hip or flying near
+you and if it reads that pressure drop it
+zips over and locks onto your head as ferociously
+as one of the facehuggers from the Aliens
+Franchise.
+A human can survive depressurization for a
+bit but drops unconscious almost immediately
+so it has to be automatic, but a blow-out
+collar helmet or drone with a pressure sensor
+and maneuvering thrusters that just need to
+lock onto a couple of clamps that might emit
+a positional signal needn’t require much
+fancy tech or smart machines.
+A similar option might just be to have that
+drone carrying an inflatable balloon and big
+mouth so it can open up and swallow you in
+a pressurized cocoon for a bit.
+Though I suspect a collar that could inflate
+around your head would be most folks’ preference.
+Of course, speaking of collars, it’s always
+possible a last ditch protocol for spacesuits
+might be a collar that doesn’t just inflate
+or fold out around your head but right through
+your neck too.
+If you’ve sufficient technology a decapitation
+might be survivable, and it’s a lot easier
+to power life support for a lone head or freeze
+one, to later be slapped onto a cyborg chassis
+or cloned body or similar.
+If you’ve just blown out a big tear in your
+ship from a bad accident or some other ship
+shooting at you, you’re probably tumbling
+away at fairly high speed, potentially tens
+or even hundreds of meters per second in a
+situation in which nobody might be in a position
+to help for some time, or at all.
+A lone head needs a lot less delta-v to move
+it back or stop it flying further away, and
+way less power for life support or cooling.
+Extreme, but presumably better than death.
+I should also note, since micrometeoroids
+are a big concern, that a space suit with
+built in auto-tourniquets could be very handy
+too, for other limbs besides your head, which
+you normally can’t tie a tourniquet around.
+Well, you can but unless you have that advanced
+technology for restoring decapitation victims
+it’s not a good idea.
+Speaking of micrometeoroids, you’ve probably
+heard of the Thermal Micrometeoroid Garment,
+which is the outer layer of most spacesuits.
+It helps with heat loss, provides a radiation
+shield, and helps with very small micrometeoroids,
+which are the most common, that would cause
+pinprick leaks.
+In general you can’t really make something
+that will stop anything carrying bullet levels
+of energy because those are smaller than bullets
+and way faster, so they penetrate very well.
+Things like that or bigger, you can’t armor
+a suit against, you can maybe have a point
+defense system that could shoot it before
+it hits you but if it does the good news is
+it will leave a small hole through you and
+keep plowing through space, retaining most
+of its kinetic energy, hopefully, and if that
+doesn’t hit a major organ or your brain
+you’re probably going to live and leak air
+slow enough to be able to slap patches on
+the holes in you and the suit before passing
+out.
+But flying heads and robot replacement bodies
+and micrometeoroids through squishy body parts
+brings up cybernetic augmentation and that
+might be a much more popular path for future
+spacefarers than suits.
+It’s quite possible we could get some materials
+that let you have a great skin suit, that
+you could wear all the time that takes care
+of getting rid of your dead skin cells and
+other excretions and just don a bubble helmet
+for EVA in, but what about a synthetic coating
+for your skin that just let it be resistant
+to vacuum?
+Radiation shielding is nice too, and you could
+maybe build that into such a coating, but
+radiation is mostly a concern in space because
+of cancer, not short term lethal doses, and
+if you’ve got good cures for that you maybe
+don’t care as much about getting irradiated
+anyway.
+You still need air, but you actually might
+not.
+Needlessly to say if you’re sufficiently
+cyborged you might not need oxygen anyway,
+but if you had a machine that could convert
+water into oxygen implanted in your lungs
+and some sphincter in your throat or airtight
+seal in your lips and nose, those could just
+slap shut.
+Your body is mostly water, which is mostly
+oxygen by mass, and assuming you can eliminate
+the CO2, you only need around a pound or half
+a kilo of oxygen a day, and you’ve got way
+more water than that in your body.
+Power’s an issue but once you’re start
+replacing existing organs with more compact
+or efficient stuff you can go full-on Inspector
+Gadget, and something like an expandable or
+inflatable solar panel worn in your clothes
+or tucked into some compartment of your body
+might be quite the power generator.
+You could potentially eliminate a lot of the
+digestive system too, which would make a nice
+solution to the bathroom issues, but you might
+even be able to get away with housing things
+like a 3D printer in that cyborg body or,
+assuming you’ve got plenty of power, wander
+around on some airless moon eating rocks,
+which are mostly made of oxygen themselves.
+See the Cyborgs episode for some of the other
+cool options, and we’ll talk about survival
+options in Space Accidents and Search and
+Rescue in some weeks.
+Now of course that begs the question, if you’re
+going that cybernetic, why not go full on
+android?
+That’s a brain in a jar on a robot chassis
+or an uploaded mind in a robot, not even necessarily
+a human shaped or sized one.
+And certainly that would be way easier, especially
+in extreme environments.
+You can potentially make a suit that would
+let you fly around in the crushing pressure
+of Jupiter’s atmosphere or slog through
+lava on Venus or a volcano on Earth, or sit
+around on frigid Pluto or even maybe fly around
+the Sun’s surface, but you’d almost always
+have an easier time with a larger vehicle
+with life support in it or it tailored to
+survive that specific environment, like an
+android or giant walking lava-proof spider
+tank.
+Much of this depends on what materials you
+have of course and to do a lot of these realistically
+you’d need materials we’re barely beginning
+to understand or aren’t even on the radar
+yet, effectively Clarketech, and since folks
+have been asking, yes we will do an episode
+on supermaterials this year, those we’ve
+got, those we’ve got on the drawing board,
+and those that for now at least are only in
+the imaginations of scifi authors and might
+never be something we get, things which will
+never exist, the topic of our 200th Episode
+Special.
+But materials that are almost completely reflective
+to all frequencies of light could give you
+ships and even suits that let you fly close
+to the sun, even skimming it.
+Those that are basically thermally nonconductive
+might let you wade into deep dense hot lava,
+those that are ultra-conductive to heat might
+let you do that by connecting you to a radiator
+a ways away and much larger that siphoned
+the heat off you faster than it penetrated.
+Smart matter and nanotech, tiny little robots,
+might let you not just patch and repair suits
+near instantly, and the person inside them,
+but let you jump out through an airlock that
+was just a membrane of the stuff that wrapped
+around you to form a skinsuit as you leapt
+through, like a soap bubble.
+Or could rapidly manufacture you the survival
+gear, including sophisticated devices for
+signaling for help or refining materials to
+use as your supplies, that you needed to last
+till rescue, or even build you that rescue
+ship.
+Needless to say all such options, if we ever
+get them, are a long way off, but worth considering.
+A lot of these options also have potential
+uses back home, same as we mentioned near
+the beginning that our spacesuits helped improve
+our firefighting gear and our other hazard
+suits.
+A suit you could comfortably wear in space
+almost all the time is one you can wear at
+home here on Earth too, and a lot of the features
+we discussed today would be handy here or
+have adaptations that would be.
+Again, hazardous environment suits are basically
+as old as humanity, right down to the first
+time we donned a hide or fur cloak or tunic
+or shoes.
+You need the right gear to protect you in
+dangerous places, but they’re still dangerous,
+and as we mentioned earlier, one of the ways
+we might get around that in the future would
+be using android or cloned explorers, and
+we have a new video up on Nebula, “Me, Myself,
+and I: Cloning and Duplicants” that explores
+this and many other uses and challenges such
+technology might present in the future.
+If you’d like to catch that video on Nebula,
+or our other recent exclusive, “The Butterfly
+Effect”, you can get full access to Nebula
+for free when you sign up for CuriosityStream.
+So in addition to being able to see their
+thousands of top-notch documentaries and non-fiction
+titles, like Packing for Mars, you can now
+also catch all of the Nebula-exclusive content
+I and other education-focused channels have
+been making, if you sign up for a year subscription
+of CuriosityStream.
+A year of CuriosityStream is just $19.99,
+and it gets you access thousands of documentaries,
+as well as complimentary access to Nebula
+for as long as you're a subscriber, and use
+the link in this episode’s description,
+curiositystream.com/isaacarthur.
+We started Nebula up as a way for education-focused
+independent creators to try out new content
+that might not work too well on Youtube, where
+algorithms might not be too kind to some topics
+or demonetize certain ones entirely, and it’s
+taken on a life of its own from the enthusiastic
+responses of our audiences, and I’m very
+glad that we’re partnering up with CuriosityStream
+as we get ready to invite in more creators
+and bring more content to Nebula.
+So now in addition all of CuriosityStream’s
+great educational content, you’ll be able
+see videos from independent creators like
+CGP Grey, MinutePhysics, Wendover, and of
+course, myself, just remember to use the link
+in the video description when signing up.
+We were talking about how we might survive
+on Venus and it’s molten surface, but next
+week we’ll look at how we might cool Venus
+down and terraform it into livable place where
+you wouldn’t need a spacesuit, as we discuss
+how to bring Winter to Venus.
+But even if we terraform dangerous worlds
+to be more Earth-like, we’ll still need
+space and survival suits and folks willing
+to don them to rescue other folks, and in
+two weeks we’ll take a look at Search and
+Rescue operations, the technologies that will
+improve them, and some of the new dangers
+we might have to rescue people from.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you’d like to support the channel,
+you can visit our website to donate, or just
+share the video with others.
+Until next time, thanks for watching, and
+have a great week!

@@ -1,0 +1,749 @@
+This episode is brought to you by Brilliant.
+As we move into the future and expand off
+planet we tend to design our megastructures
+and habitats to our own bipedal, land-based
+desires.
+But what about our oceanic friends, like super-smart
+dolphins, or if we find marine life in the
+ocean moons of Jupiter?
+Or if we decide to re-engineer ourselves into
+mermen and mermaids?
+So one of our most talked about topics on
+this channel is the general concept that humanity
+is likely to build giant space habitats as
+opposed to simply terraforming and colonizing
+other planets, and today we’ll be discussing
+that notion in the context of building oceanic
+and aquatic habitats in space.
+We will also introduce some new megastructures,
+like a Hydroshell, which allows truly huge
+aquatic environments; dwarfing planets but
+avoiding crushing water pressures.
+We will be looking at this in terms of a few
+options for gravity - micro-gravity, gravity
+simulated by rotation, natural gravity, and
+artificial gravity.
+We will be looking at scales from small habitats
+up to planet sized ones and even ones dwarfing
+planets in scope.
+We will also be looking at purposes, whether
+it's a civilization that’s aquatic in nature
+or it’s more of a preserve, such as if we
+built large marine habitats as nature preserves
+rather than for us to live in.
+Or for highly intelligent uplifted dolphins
+or whales to live in.
+We will also play with some interesting features
+you might have in these, like vertical reefs
+or submarine islands inside and under the
+water.
+Now to begin our discussion there’s two
+critical concepts we need to understand.
+First, that water under gravity will grow
+in pressure as you go down, each layer above
+pressing down on you more, and second, that
+gravity can be mimicked by rotation and centrifugal
+force, and water will still grow in pressure
+under that pseudo-gravity.
+This is going to cause us some problems that,
+as we will see today, make it tempting to
+either minimize gravity if you can or opt
+for small rotating habitats, or rather, skinny
+ones.
+Spin-gravity habitats, the most popular example
+of which is the O’Neill Cylinder, rely on
+the core assumption of Einstein’s General
+Relativity, which is that gravity and acceleration
+are essentially interchangeable, under the
+Equivalence Principle.
+What this means is that objects which are
+spinning around in a circle, while maintaining
+the same speed, are constantly undergoing
+a change in actual velocity - the direction
+changes - and this is acceleration and this
+makes that spinning, accelerating object effectively
+under gravity.
+A man in zero gravity, but being spun on a
+rope like a sling, whirling around in a circle,
+is going to feel as though they are under
+gravity pulling them outward away from the
+center of that spin.
+This is centrifugal force and is what makes
+water and clothes press to the side of a washing
+machine in the spin cycle, or makes you tilt
+when your car goes around a corner or bend.
+Now centrifugal force is often called a fictional
+force or pseudo force and that makes folks
+think it doesn’t exist.
+Amusingly modern physics often regards gravity
+itself as a fictional or pseudo force as well,
+but critically, it just refers to how the
+source of the force is your acceleration,
+rather than the gravitational pull of mass
+or electric charge or such.
+Without dipping into frames of reference,
+inertial and non-inertial, the key notion
+is that if you are inside a big spinning cylinder,
+drum, donut, or so on, you will feel pressed
+down to the surface the same as you would
+on Earth.
+Folks sometimes misunderstand this and think
+if they jumped up, they would float, but quite
+to the contrary you’d fall right back down
+again.
+Folks ask if this can work as real gravity,
+and the answer is yes, just ask the clothes
+in your washing machine, or the astronauts
+in the space station.
+They are still entirely inside Earth's gravitational
+field, it’s a bit weaker that high up, a
+few percent, but that’s barely noticeable.
+They float around because the station is whirling
+around Earth and the centrifugal force is
+negating Earth’s gravity on them.
+This is one way of understanding how orbits
+work and why speeds needed to orbit decrease
+the further away you go, as gravity drops
+and as acceleration needed to turn at such
+a radius increases.
+For a lot of channel regulars that was old-hat,
+but I felt it needed repeating since we haven’t
+covered it in a while and not everyone on
+this show is a long time listener.
+Also, we need to understand that whirling
+an object around to create this pseudo-gravity
+puts it under tension.
+Whirling a stone around on a rope makes that
+rope taut and if you spin it fast enough,
+or use too big a rock, the tension will rise
+too high and it will break that rope.
+How strong a material is in this way is called
+its tensile strength.
+Normal gravity can break stuff too, under
+sheer weight of stuff piled on it, compressing
+it, and this is called compressive strength.
+Materials have tensile strengths and compressive
+strengths and the two have little relation,
+a given material can be very strong in one
+of those strengths but weak in the other.
+How fast you spin a cylinder, combined with
+its radius or diameter, will control how strong
+gravity is at the surface - it is linear too,
+so halfway between the center and edge it’s
+half-strength, and zero at the center.
+This tension on the material the cylinder
+is made out of is essentially identical to
+what a suspension bridge here on Earth experiences
+and a bridge a kilometer long would need the
+same strength as a cylinder habitat a kilometer
+in circumference or 0.16 kilometers in radius,
+or 520 feet in radius.
+Steel can handle such a length or circumference
+or radius but it’s quite a burden on it,
+and only made worse by adding materials, such
+as lots of cars and trucks driving on that
+bridge or all the concrete or asphalt making
+the road on it.
+Same for cylinder habits, all that dirt and
+water inside them add up.
+And a few meters of dirt is pretty heavy,
+several tons per square meter, so we tend
+to think that any hills inside of such habitats
+would be hollow, filled with tough but ultralight
+fillers like aerogel that could be covered
+with a thin layer of dirt, or by putting dimples
+and rises in the hull itself.
+This mostly works because land based life
+is really pretty two-dimensional, we have
+plenty of hills and valleys but it's the surface
+we live on and a house at the top of a hill
+and one down in a valley still have a basement
+and second floor just a few meters above or
+below that surface.
+Marine life is a bit trickier, our oceans
+here on Earth average about 3000 meters in
+depth and each meter of depth represents another
+ton per square meter of stress.
+So whereas a thin coat of dirt a few meters
+or ten feet deep might put ten tons of pressure
+per square meter down on your drum hull, a
+few kilometers of water would put down 3000
+tons per square meter.
+That means your hull needs to be 300 times
+stronger to handle such depths of water inside.
+Now there’s a couple caveats here, and the
+first is that, as I mentioned, gravity experienced
+inside a rotating habitat is linear to how
+far from the center you are, so the upper
+layers of water in such a habitat push down
+less because gravity is weaker up there, though
+only if that habitat’s radius is fairly
+similar to the water depth.
+If the habitat is a thousand kilometers in
+radius, then even if your ocean is ten kilometers
+deep, the top is only experiencing 1% less
+gravity than the bottom, and it's fairly trivial,
+much as the change in gravity on Earth from
+altitude or depth is when we’re only talking
+about mountain peaks or ocean trenches.
+But what it means is that a cylinder full
+of water a kilometer in radius is only getting
+about half the stress on the bottom as that
+depth implies from the weaker gravity, 500
+tons per square meter rather than 1000.
+Also it means that you have a 2 kilometer
+wide stretch of ocean there, since it’s
+water all the way through and its diameter
+is 2 kilometers.
+Though you might want a layer of air in there.
+And we probably want to ask why we need that
+much depth.
+There are creatures living in the deepest
+parts of our oceans, fully 11 kilometers deep
+in the Mariana Trench, and we may want to
+simulate that environment, or even higher
+pressure ones.
+However, the overwhelming majority of ocean
+life lives in the Epipelagic Zone, the thin
+skin 200 meters deep where sunlight can still
+meaningfully penetrate water and fuel photosynthesis.
+On our planet, that Epipelagic Zone also fuels
+what life is below it, as things either swim
+up there for food, hunt things swimming down
+from there for food, or wait for dead matter
+and detritus to come falling down, what we
+call Marine Snow.
+Now there are geothermal vents and such fueling
+some life too, indeed the principle current
+theory on the origin of life puts those vents
+as the best candidates for life to have emerged
+at and been sustained by until photosynthesis
+evolved a billion years later.
+We can replicate such thermal vents on a space
+habitat of course, and one of the cool things
+about artificial worlds is all the flexibility
+you get, they are the difference between living
+in a natural cave and a well-built mansion.
+If you want a habitat dense in life but only
+running on geothermal vents, you can do that,
+and create worlds worth of ecosystems for
+all those life forms confined to those tiny
+undersea oases of heat and life.
+That might be some interesting engineering
+too.
+You might have a nuclear reactor's secondary
+cooling circuit venting directly into the
+hab.
+The water coming from vents needs to be highly
+mineralized, so you'd either need a tank of
+dissolved minerals to inject into the stream
+of hot water, or solid mineral blocks that
+are dissolved by the hot water.
+Either way, your engineering would need to
+avoid minerals precipitating onto critical
+components like turbines or nozzles.
+Key thing about megastructures, they do need
+maintenance.
+You might instead opt for something like a
+passive decay radioisotope supply or even
+the natural fission reactors that sometimes
+formed in Earth’s deep past around uranium
+rich pockets.
+With artificial habitats we so often focus
+on using the Sun, or mimicking it, that is
+easy to forget we have some other options
+for life.
+Nonetheless, virtually all the life in our
+seas lives in that sunlit Epipelagic region
+or close to it so we could build a skinny
+habitat just a hundred meters in radius, reflect
+and pump sunlight into it, and actually get
+some fairly interesting currents and motion
+going from all that spin and varying gravity
+by depth.
+The smaller a habitat is and the faster it
+rotates the more pronounced the effects of
+gravity varying by height and also the coriolis
+force, which is another fictitious or inertial
+force like centrifugal force, related to spin,
+and one strong enough that it’s a big player
+in our weather in spite of Earth being wide
+and slow spinning.
+We’ll be talking about suspending islands
+or reefs in bigger water habitats later today
+and these weird currents are one option for
+doing that, as rocks should fall down but
+much as gliders can remain hanging in the
+air by using rising currents of moving air,
+you could get some metastable pockets of ocean
+on your habitat where coral reefs glide or
+hover on currents of moving water.
+You also have the ability to hang your islands
+by a tether from the center, which is exactly
+as sturdy as the hull is since it uses the
+same principle of tensile strength, much as
+islands and continents use compressive strength
+here on Earth.
+The cool difference is that tensile strength
+is generally flexible, so a big rock floating
+in the middle of a marine hab held by a tether
+to the center, could also move around and
+twist like a pendulum.
+So imagine a big three-dimensional ocean with
+submarine islands moving around, under water,
+on their own orbits and paths, circularly,
+elliptical, and potentially all sorts of zig
+zags especially since one cool thing about
+a tether is that you can winch it up or down
+too.
+And run power down it, for engines or turbines
+or air compressors, or lighting.
+Part of the reason our oceans are so dead
+on a volume by volume basis with land is that
+in spite of being huge in resources and sunlight,
+those two are not in the same place much.
+With the exception of a narrow band along
+the coast, most of the nutrients in the ocean
+sit on the sea floor in darkness, whereas
+most of the sunlit part of the ocean is starved
+for nutrients.
+An engineered ocean habitat is capable of
+using water currents and lighting to bring
+nutrients and light wherever they are desired,
+extending epipelagic zones indefinitely.
+We often discuss doing this for Earth’s
+oceans or subsurface oceans like we expect
+to find on icy moons like Europa or Callisto
+and I call them vertical reefs as one would
+expect these chains of light to result in
+fairly parallel roles to what normal reefs
+do, creating dense local pockets or ribbons
+of ecology and biomass.
+Indeed we tend to assume lighting on rotating
+habitats will be artificially generated to
+begin with for many hab designs, generated
+by electricity or moved in by mirrors or fiber
+optic cables, and I’d say this would be
+a common approach except for one big factor
+- hull stress.
+We don’t really want to involve deeper layers
+of the sea except where it’s either needed
+for the ecosystem to function, or because
+that is the ecosystem we are making because
+it's supposed to be simulating the Mariana
+Trench not Caribbean archipelagos.
+If we want to make strictly epipelagic lit
+regions, only more of it, we opt to make our
+habitat longer, not wider or deeper.
+Once you get to that peak radius and depth
+for your sea based on your needs and material
+constraints, you don’t build any wider,
+you just build longer.
+Your cylinder becomes more of a skinny pencil
+or needle shape, or even a very long sausage-like
+linked arrangement of many chained together.
+Or a rope like mega-long hab, what we call
+a topopolis, which might be millions or even
+billions of kilometers long but only a few
+kilometers wide.
+Such long habs or sausage link affairs are
+good ways to place similar but distinct ecosystems
+nearby in a way that allows only the amount
+of interchange that you want between them,
+as a means of controlling invasive species
+or encouraging migration.
+So what if we want really deep oceans but
+don’t have the materials for it?
+Nothing strong enough or cheap enough?
+One thing to remember is that a lot of the
+ocean’s dependence on gravity is just to
+keep things moving from above to below, and
+we are quite capable of pumping nutrients
+and air bubbles around inside a microgravity
+environment too.
+But as I mentioned, we think a lot of icy
+moons might have subsurface oceans and they
+are considered strong candidates for extraterrestrial
+life, albeit probably low in biomass and biodiversity
+from the lack of sunlight.
+We tend to assume the lower gravity is not
+an issue there, where it's often weaker than
+our own moon, and there are good odds Earth
+based Marine life would require little adaptation
+to lower gravity, say a tenth of Earth normal.
+And that right there lets you seriously increase
+your depth of sea and radius of habitat because
+it's still enough for there to be a real and
+meaningful concept of up and down but each
+layer of water presses down less.
+This potentially allows much deeper layers
+of ecology in your habitat as pressure will
+shift more slowly with height.
+It is too soon to tell if low gravity is viable
+for terrestrial marine life, zero gravity
+seems to have been rough on the fish we tested
+thus far, and even if low-gravity is, it might
+be viable but require lots of adaptation,
+natural or genetically engineered, which somewhat
+defeats the point of building a nature preserve.
+We will have to see on those and it might
+turn out we need full gravity, in which case
+we might need to be considering using rare
+oceanic planets of the right gravity as those
+preserves or very long thin water habitats.
+One other option though might be a shell world.
+Now normally we contemplate this as a hollow
+metal shell with dirt and water on top of
+it, with either a black hole or compressed
+hydrogen and helium inside serving as an abundant
+and cheap source of natural gravity.
+However, a hollow sphere itself generates
+gravity with the normal properties by and
+large.
+The difference is that all your gravity is
+generated by that shell and its higher layers
+exert no gravity on its lower layers, so that
+counterintuitively the gravity decreases as
+you go down the layers.
+It still pulls inward though, it’s not reversed
+gravity.
+This has some interesting options for habitats
+because a sturdy hollow metal shell with some
+rock over it, nothing under it, and many kilometers
+of water above, might make for a huge and
+viable ecosystem dwarfing anything Earth could
+have.
+In our discussion of Super Earths last week
+I mentioned that since Earth is 5.5 times
+denser than water, a planet with the same
+surface gravity as Earth but composed entirely
+of water would be 5.5 times wider than Earth,
+with over 30 times the surface area and obviously
+much deeper seas.
+But if those seas weren’t very deep at all,
+and just ended with a rocky shore and hull
+ten kilometers below, things shift quite a
+lot.
+Incidentally if this shell world and how it
+is not collapsing downward is a new concept
+to you, see our Mega Earths episode for a
+discussion of the mechanics and technologies
+required, otherwise just assume its a magically
+strong material for now.
+Water is ridiculously common in this universe,
+albeit mostly as ice, and coming up with entire
+planetary masses of it is much easier than
+coming up with rock or steel or even air.
+A spherical shell 10 kilometers thick of Earth’s
+Mass in water and some rock and hull would
+have a volume of 6 trillion cubic kilometers,
+and a surface area of 600 billion square kilometers,
+about 1200 times that of Earth’s surface,
+and a radius of 220,000 kilometers, 34 times
+that of Earth, and over half the distance
+out to the Moon, closer to the size of a star
+than a planet.
+However, because it only has Earth’s Mass,
+the surface gravity would be 34-squared or
+1200 times weaker, amusingly meaning the pressure
+even ten kilometers deep would still be less
+than one atmosphere - earth normal pressure
+- before even accounting for the drop in gravity
+as you went down, which for these shells much
+thinner in thickness than in radius would
+be linear to how deep you were.
+Now critically, if you double this structure’s
+radius but keep that same thickness of sea,
+10 kilometers, that surface gravity will stay
+the same because you quadruple the surface
+area and thus quadruple the mass, resulting
+in same strength of gravity no matter how
+big you go, and you can push this up to Birch
+Planet Scales, galaxy-mass artificial planets,
+again see the Mega Earth’s episode.
+However, if we increase the thickness a bit,
+say to 1200 kilometers deep, then we’ve
+got 120 times the mass or density on these
+objects, for a surface gravity a tenth of
+what Earth has.
+Meaning pressure is only rising at a tenth
+the rate and will actually rise slower as
+you get deeper and those higher levels of
+water cease contributing to the gravity pulling
+down.
+Any spherical shell of mass generates no gravity
+inside it, be it one step inside or at its
+center.
+So way down at the bottom, 1200 kilometers
+deep, over a hundred times the depth of the
+Mariana Trench, our pressure is only a twentieth
+of what we would expect, albeit five times
+higher than at the bottom of that trench.
+One where the water was only 120 kilometers
+deep, giving only 1% of Earth normal gravity
+at the top, would be one where you could swim
+around with normal Scuba gear all the way
+to the bottom.
+This also means biological life can run that
+whole range, especially with supplemental
+lighting such as vertical reefs, and with
+heaters and pumps and mixers down on that
+shell, you could simulate thermal vents too
+and massively more densely.
+So you could get some huge depths of ocean
+habitable to life and densely so.
+Oxygen is incredibly common and hydrogen vastly
+more common than that, but even without putting
+effort into cramming them together, we get
+estimates as high as a dozen times Earth’s
+mass in water in our Oort Cloud alone, which
+for this 120 kilometer deep shell example
+would result in a shell as big as our first
+thin version, 1200 times Earth Surface area,
+all of it composed of a massive sea of low
+pressure.
+I’m going to define worlds or megastructures
+of this type as a Hydroshellworld or just
+hydroshell, ones where the water pressure
+doesn’t rise beyond anything we’d find
+on Earth, indeed may stay well short of it,
+but which is huge compared to Earth, and we’ll
+just prefix kilo, mega, giga etc onto hydroshell
+for its total mass relative to Earth.
+This is, to the best of my knowledge, a totally
+new type of Megastructure that came to my
+mind while writing this script with the power
+flickering here at home from 40 mile an hour
+winds and plenty of rain, so I doubt I’ve
+done more than scratch the surface of what
+these surface shells of sea might offer for
+combinations and I’d encourage our many
+math and worldbuilding savvy folks to play
+with the options on the idea and let me know
+what you come up with for options and limits.
+The same for our topopolis seaworlds.
+One that comes to mind is, neutrally buoyant
+submarine habitats with air-filled domes that
+are pressurized to right around the one atmosphere
+mark, since the dome would have no real stress
+on either side of it then, making air bubble
+submarine island habs a real and decently
+safe option.
+And you could play with partial pressure and
+air mix to let your islands be at various
+depths.
+These could get big too, continent sized,
+complete with kilometers of vertical change
+in terms of mountains and valleys on them.
+They could also be very three-dimensional
+rather than just that classic image of a thin
+island with a big dome over it.
+You probably do lots of bubble domes instead
+of one big one, and you probably have a lot
+of gas packed into your rock layer, like aerogel,
+below the ground to help with buoyancy, but
+this offers some huge options for habitable
+land on such worlds, which again can be hundreds
+or even millions of times Earth’s surface
+area.
+Any rock in your hab that is exposed to the
+water would become coral reefs, which would
+be just delightful!
+Of course you have the option to genetically
+engineer gills into folks for your mermen
+and mermaids, but I suspect a nice safe dome
+operating well under known cracking pressure
+would be preferable for most potential colonists.
+This would work on subsurface oceans of icy
+moons too as they have low gravity and a similar
+slow rising pressure scale.
+We also have the option of an oceanic hoop
+world though we’ll save discussion of that
+for another time if we ever remake our old
+hoopworlds episode.
+Needless to say, if you can create gravity
+artificially like we see so often in science
+fiction, or have anti-gravity, you have some
+additional options for big water worlds.
+Now it also might turn out that gravity isn’t
+needed for marine life (or you might choose
+to genetically engineer all your marine life
+to no longer need gravity), which sure makes
+building such habs easier, though so long
+as little gravity is needed it shouldn’t
+pose too rough an engineering hurdle, as we’ve
+seen.
+And if we are actively pumping air bubbles
+and nutrients around our habitat anyway, then
+we need not rely on gravity alone for that
+sort of effect.
+The problem is at a certain point you do get
+gravity if the habitat is big enough but we
+are talking hundreds of kilometers wide before
+it even got to 1% of Earth gravity, so you
+can make some very big marine habitats in
+microgravity, but as they get bigger they
+get more gravity.
+One option though would be something that
+is mostly water in the large moon range of
+mass and which had an artificial sun at its
+center.
+Such a water globe might have an atmosphere
+outside, or a layer of ice as its skin, or
+a metal hull, depending on size and engineering
+concerns and preferences.
+This central sun need not be sun-hot, it could
+simply be light generated by LED, but it is
+worth noting that at a certain sweet spot
+of temperature and gravity, water falling
+down on a white hot pseudo-sun is going to
+evaporate faster than it can fall and shove
+water back up too.
+This should seem to create some sort of brilliantly
+bright bubbling eternal storm at the center,
+which would be quite a cool effect I think.
+However I could definitely see a lot of those
+sorts of artificial stars, scaled down to
+something more like a big power plant, floating
+around these sorts of world seas.
+You might intentionally power them up too
+strong for anything to live right next to
+them, producing that bright and hot boiling
+effect, just to ensure they didn’t get covered
+in lifeforms and algae blocking their light.
+You might extend long metal or ceramic tentacles
+or spurs off them for life to grab hold of
+or let them migrate untouchable with things
+needing to swim along.
+Boiling and seething and bubbling around your
+world sea, these sea suns might just have
+bubbles of ecology roaming around with them
+if you left them to wander.
+Now as we discussed last time in Super-Earths,
+between those and subsurface oceans of various
+icy moons and planets, we are not expecting
+to have any sort of shortage of natural oceans
+to use or terraform, and they should generally
+be easier to terraform than planet surfaces
+and atmospheres by and large.
+Additionally I’d expect most of humanity
+will want to build its habitats with lots
+of land and shallower seas and lakes, lots
+of beaches and reefs and sea bottoms you could
+SCUBA Dive down to, though this assume we
+have started building lots of megastructures
+before engaging in a lot of genetic tinkering
+and other transhuman paths, and that’s a
+very debatable thing.
+So when it comes to megastructure habitat
+preferences we will leave it at assuming tastes
+will vary.
+However, the purpose of megastructure habitats
+is to let you build far more worlds with far
+more living area than natural planets would
+ever supply, tailored to your wants and desires,
+so it lets you get away with using only a
+tiny fraction of your worlds for those which
+wouldn’t be human paradise habitats and
+still have billions of times Earth’s living
+area devoted to weird worlds and habitats
+and nature preserves and more.
+Untold trillions of ocean habitats, big and
+small, Earth-like and unearthly, normal and
+alien.
+And as we saw today, we have no shortage of
+options for building space habitats with deep
+blue seas.
+So today’s episode was all about water and
+it has some pretty interesting facets we had
+to gloss over a bit, for instance those entirely
+water-based worlds we mentioned this week
+and last week obviously can’t form naturally
+but they can’t be made above a certain mass
+without their material undergoing a phase
+shift into exotic ices of various types and
+densities, so that if they were deep enough
+they’d have layers and cores of those exotice
+ice types, throwing off our calculations a
+bit, and indeed that’s one of the advantages
+to the various megastructure marine habitats
+we discussed today like the Hydroshell or
+simply skinny rotating habitats.
+Of course there’s even more strange effects
+on systems from adding things like salt to
+water, a critical factor in our own oceans
+and with some very surprising effects.
+There’s an excellent interactive examining
+how salinity effects water temperature and
+behavior in Brilliant’s Scientific Thinking
+Course that helps demonstrate this and it
+is just one of the course’s many interactive
+exercises that let you experience the principles
+of science firsthand.
+Brilliant is an online interactive STEM-learning
+platform that helps you gain a deeper understanding
+of concepts in math, science, and computer
+science by taking you through the subjects
+piece by piece in visually stimulating, hands-on
+ways.
+Brilliant is also constantly expanding their
+catalogue of courses, so whether you’re
+a beginner, an expert, or anywhere in between,
+there’s an interactive lesson to help you
+improve and learn.
+And this hands-on, interactive approach to
+learning is the hands-down best way to learn.
+To get started for free, visit brilliant.org/IsaacArthur
+or click on the link in the description, and
+the first 200 people will get 20% off Brilliant's
+annual premium subscription.
+So that will wrap us up for today but don’t
+forget to join us this Sunday, February 27th,
+at 4 pm Eastern Time, for our Monthly Livestream
+Q&A, where we take questions from the livestream
+chat and answer them live.
+Speaking of live, I haven’t actually done
+a live and an in-person talk since Covid-19
+hit us, and that’s finally thawing out so
+I’ve the first of a few spring ones coming
+up in early March, when I’ll be giving closing
+remarks for the conference on the Future of
+Space Cooperation between the US and Japan
+on March 7th and 8th hosted by the Rand Corporation.
+And there’s going to be some great speakers
+there, starting with David Kipping from Cool
+Worlds and Pete Worden, the Director of the
+Breakthrough Starshot Initiative.
+I’ll attach a link for the event and registration
+to see it in-person or online in the episode
+description.
+Before that we have our first episode for
+march, and we’ll be looking at how civilizations
+might mass manufacture many of the heavier
+elements their engineers might need for building
+megastructures in our episode Nuclear Transmutation.
+Of course such megastructures often assume
+lifespans similar to the planet’s they emulate,
+so on March 10th we will take a look at how
+you could build a machine designed to last
+a million years.
+Then we’ll have our March Scifi Sunday episode
+to look at the concept of Synthetic Life.
+And we’ll keep to the scifi theme as we
+return to our Alien Civilizations series to
+contemplate the concept of clandestine extraterrestrial
+operations and Covert Aliens.
+Now if you want alerts when those and other
+episodes come out, make sure to subscribe
+to the Channel and hit the notifications bell,
+and if you enjoyed this episode, please hit
+the like button, share it with others, and
+leave a comment below.
+You can also join in the conversation on any
+of our social media forums, find our audio-only
+versions of the show, or donate to support
+future episodes, and all those options and
+more are listed in the links in the episode
+description.
+Until next time, thanks for watching, and
+have a great week!

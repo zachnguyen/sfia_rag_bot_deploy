@@ -1,0 +1,836 @@
+One day humanity may settle countless worlds,
+but could any nation hope to govern multiple
+planets or even star systems?
+Most of us grew up on classic space opera
+science fiction where multi-planetary empires
+are a staple of the genre and usually it’s
+a sprawling empire composed of many hundreds
+or even thousands of worlds spread over the
+galaxy.
+Often these are all connected by warp-capable
+ships or wormholes or jump gates or some other
+means of FTL, Faster Than Light travel and
+communication.
+We’ll discuss those today too but as channel
+regulars know, we’re not very optimistic
+about FTL ever happening.
+Most examples of ‘theoretically possible
+FTL’ that we hear of in science are more
+accurately described as situations where we’re
+pretty sure the method is impossible but haven’t
+been able to prove beyond any reasonable doubt
+that it is, rather than there being any actual
+evidence it could be done.
+I’m a physicist and I don’t think so,
+and I don’t know any colleagues who do,
+but most of us would love to be proven wrong.
+Your default warp drive runs on negative matter,
+so do stable wormholes, and that’s a material
+allowed under math but for which there’s
+no evidence that it exists and no real expectation
+it does either.
+Much as we don’t expect to find a negative
+dollar bill or a negative gallon of water,
+outside an accounting chart or spreadsheet.
+We could be wrong, but if we’re not, does
+that spell the end of our dreams of empires
+of many worlds?
+The good news is no, and we’ll cover several
+cases today, but let’s start with that classic
+flaw of space opera.
+First, our galaxy has something like half
+a trillion stars in it and most will have
+planets that are at least as terraformable
+as Mars or Venus.
+Sci-Fi writers are often horrible at scale
+and even writers known for their scientific
+accuracy like Isaac Asimov tended to really
+lowball the number of planets and population
+we expect in a settled and FTL capable galaxy.
+Both Asimov’s Foundation series and Frank
+Herbert’s Dune, two of the most influential
+sci-fi series out there, both have a human
+empire of a few million worlds at most.
+To their credit, we didn’t know how many
+stars were in the galaxy at the time as only
+the brightest stars could be seen, and most
+are a lot dimmer than our Sun.
+We also didn’t have much expectation about
+how often an Earth-like habitable planet in
+the Goldilocks zone would exist, but even
+using the estimates from their era, they should
+have been coming up with more like a billion
+worlds instead.
+That number is fairly vital to Drake’s Equation
+and SETI, the Search for Extraterrestrial
+Intelligence, as it gives us the number of
+low-hanging fruit worlds where complex life
+might emerge on its own or where we might
+be able to settle without vast effort or some
+of the higher-tech and more inventive approaches
+to settling planets we’ve developed since
+then.
+We don’t know what that number is yet, partially
+because we don’t know how to define it.
+We can’t give a precise estimate of how
+likely a star is to have a planet with 80%
+or 90% or 101% of Earth’s mass, but even
+if we did, we don’t know how close to Earth’s
+gravity and composition a planet would need
+to be for comfortable and easy terraforming.
+Or to have complex native life.
+The number of Earthlike planets around such
+stars obviously varies.
+If 80% of Earth’s Mass is good enough, that's
+a huge difference than if even 101% is too
+much and 99% not enough.
+There’s also that question of how close
+to their star they need to be, and we can’t
+assume Venus’s orbit is too hot just because
+the Venus we know is a molten nightmare.
+Venus's weirdly long and backward day is likely
+the result of a huge collision, not its proximity
+to the Sun, and it's thought this is the prime
+factor in its horrible conditions.
+Meanwhile, a planet decently more massive
+than Earth out at Mars distance might be habitable
+too.
+The most conservative calculation I’ve seen
+on the matter in recent years was 300 million
+from Steve Bryson’s team at NASA Ames, and
+that was their conservative figure of assuming
+only 7% of the 4 billion most sun-like stars
+in this galaxy would have the right planet
+in the right location, their high-end figure
+was 10 billion.
+This estimate is more generous with which
+stars to include and what percentage would
+have good planets.
+Time will tell which end of that range reality
+landed at.
+Though I would tend to say for colonization
+purposes that value was still very low.
+Higher technology always helps but the most
+powerful colonization tool in our current
+kit is to scatter either shades or mirrors
+at a planet’s L1 or L2 Lagrange point, or
+in orbit of the planet, or moon, to add or
+subtract sunlight reaching that planet or
+to give it more terrestrial day night cycle
+of 24 hours.
+We’ve discussed that option on many occasions,
+most recently in our episodes on Statites
+& Lagites in January or the Lagrange Point
+Settlement episode from later that month,
+and the simple reality is building and maintaining
+one is no small feat but vastly smaller and
+easier than sending off a colonial ark ship
+to another star or terraforming a planet,
+or even para-terraforming a planet with domes.
+That basically widens your goldilocks zone
+to anything as close to the sun as Mercury
+out to further than Saturn and renders the
+type of star a lot less important, since that
+same approach can provide magnetic shielding
+from coronal mass ejections and other atmospheric
+stripping processes.
+As well as adjust the spectrum of light to
+filter it to something more preferable.
+Such being the case, rather than having maybe
+one in 100 stars be suitable for life and
+maybe finding a decent planet around 1 in
+100 of them, we would expect at least 1 in
+10 stars and probably better than 50/50 able
+to provide at least one decent planet to at
+least para-terraform.
+Meaning we’d expect something on an order
+of 100 billion habitable systems.
+But even that 1 in 100 stars with 1 in 100
+having a good planet would still imply 40
+million prime planets being available in the
+galaxy, and that tends to be our classic space
+opera setup with an assumption many belong
+to some alien empire or you’re only in part
+of the galaxy or that some worlds are lost.
+What it also means is that if you’ve got
+a star kingdom of a dozen planets, they might
+all be in the same star system.
+But more importantly, there are 60,000 stars
+within 100 light years of Earth and if only
+1 in 10,000 was habitable, that means you’ve
+only got around 6 systems with one planet
+we could colonize that could get a signal
+to us in under a century.
+Alternatively, most of those 60,000 stars
+probably have multiple planets that we could
+at least para-terraform and you might easily
+be able to get an empire of a million worlds
+stuffed into that volume, which itself isn’t
+even a millionth of the galaxy’s total volume.
+It also means you can be getting dozens if
+not hundreds of planets within several light
+years of Earth.
+And that’s all without factoring in artificial
+habitats like O’Neill Cylinders or including
+minor and dwarf planets in the count or rogue
+planets between systems.
+Now we can debate if it is plausible to have
+an empire stretched out over several light
+years and we’ll return to that point, but
+let’s get four caveats in right from the
+outset.
+First, as we just mentioned, there are a ton
+more worlds to consider when we start including
+larger moons, bigger minor planets, artificial
+habitats, and interstellar rogue planets.
+Most science fiction settings tend to act
+like an entire settled planet is one small
+county or modest city anyway, and that most
+mighty star empires of a million worlds from
+space opera act like they’ve got maybe a
+couple hundred actual planets.
+Given that, I think it makes it worth noting
+that you could have such large empires packed
+into just a handful of light years.
+Which brings up the second caveat, that an
+awful lot of places have stars far more closely
+packed than our area does.
+Even ignoring places like the galactic core,
+where you might pack thousands of stars into
+a volume smaller than the one surrounding
+us before you’d get to Alpha Centauri, we
+have lots of star clusters where you might
+have hundreds or thousands of stars within
+a dozen light years of each other, each home
+to several planets.
+And there are thousands of clusters like that
+and plenty more places where stars are packed
+a lot tighter than here.
+Or looser for that matter.
+Third, any place that has ships able to move
+back and forth between star systems – even
+just at modest sublight speeds – also could
+set up shop on objects too far from their
+sun to be running on a solar economy.
+Perhaps they’ve mastered cheap and abundant
+fusion energy, in which case every dwarf planet
+or icy body of note in their outer system,
+be it their Kuiper Belt or even Oort Cloud,
+should end up with some sort of outpost on
+it.
+Maybe it’s only a lone rotating habitat
+orbiting the snowball or buried under the
+ice there, home to just a few thousand folks,
+but it could as easily be millions, and whichever
+the case, that’s many millions of such communities
+out on the fringe of most systems.
+Fourth, those outskirts will be much closer
+and denser, if generally smaller in quantity,
+around most systems as most of them are red
+dwarfs with somewhere between half and a tenth
+of our Sun’s mass.
+Planets and outer bodies can pack in much
+closer on such systems while bigger stars
+might easily have a dozen planets in their
+normal habitable zone.
+Now I did specifically title this episode
+multi-planetary empires and on this channel,
+we limit that to meaning big planets, Earth,
+Mars, gas giants and so on, while we tend
+to use the term ‘world’ to refer to settled
+moons, bigger asteroids and minor planets,
+or larger habitation megastructures, in addition
+to Earth-like planets.
+So, we’ll be focusing on actual planets
+in the remainder of the discussion but that
+doesn’t mean we have a future in which those
+other smaller but far more numerous minor
+worlds are non-existent or even big players.
+Indeed, odds are good that by sheer quantity
+they’ll hold the vast majority of humans.
+They just wouldn’t tend to be the highlights
+on the map, so to speak.
+It also has to do with the continuity of empires
+over big distances.
+We tend to talk about the difficulty of maintaining
+contact and control on some colony at Alpha
+Centauri or Tau Ceti and how difficult that
+would be and how it would take years to get
+help to them in event of a major disaster
+or rebellion.
+But beyond it being unlikely a whole planet
+would rebel out of the blue or suffer any
+planet-wide disaster, a planet is not a star
+system.
+In Larry Niven and Jerry Pournelle’s classic
+novel “The Mote in God’s Eye” we visit
+the New Caledonia system, which contains two
+major planets, New Ireland and New Scotland.
+The system is a local interstellar capital
+of that region of humanity’s current empire,
+the second one of note, and when the first
+empire fell into civil war that nuked Earth
+into oblivion, one of the planets remained
+loyal while the other rebelled and the two
+fought over it for a long time.
+It is not hard to imagine a planet around
+a distant star rebelling or seceding from
+its capital, especially when that capital
+might be tens of years of travel or even communication
+time away and the same for any neighbors.
+It’s a bit different if you have a colonized
+solar system of several different major planets
+and tons of lesser worlds orbiting that star
+and many more in the depths of interstellar
+space scattered every few light years.
+There’s also no compelling reason to assume
+all those planets got settled by the same
+group of colonists, or even that any single
+planet did.
+Let’s say tomorrow a few thousand interstellar
+ark ships magically dropped into our hands
+along with a few space towers to move people
+back and forth to them easily.
+Each ship can hold ten thousand people and
+happens to have a nice star chart with entries
+for every local star and planet of note.
+This is a thought experiment, so we don’t
+care how we got the ships, as we’re really
+just trying to look at this from the perspective
+of our civilization a couple centuries down
+the road with better automation for ship construction
+and improved space capability.
+I have no idea how we would divide those ships
+up, maybe one for each country and then divide
+the rest proportionally by population or some
+subtly veiled equivalent to military muscle,
+but there’s no reason to send each of those
+ships to a different solar system or why a
+country with, say, five ships, would want
+to send them all to one system with five planets.
+Or even that a planet with five decent continents
+might not get five ships from five separate
+but reasonably friendly countries sending
+folks.
+Or that some country back here with a few
+ships but little interest in space might not
+sell ships, or some of their passenger slots,
+to countries or groups or individuals.
+Iceland, population 373,000, might end up
+with a ship but have no interest in trying
+to come up with 10,000 citizens to load, and
+might sell it to the US or Canada or keep
+it but only send a contingent of a few hundred
+and an appointed governor while selling off
+slots of 100 people or less to various other
+groups.
+There’s a galaxy of billions of planets
+out there, but they can all be colonized eventually
+and in the meantime those closest are best,
+and some better than others, and one small
+continent of an Earth-like planet is probably
+more prized earlier on than an entire planet
+like Mercury or moon like Ganymede.
+And of course, once the ship gets to the destination,
+it can turn back around, return to earth,
+and grab more people, to go there or to another
+colony planet further away.
+Point being, of the 131 stars, brown dwarfs,
+and sub-dwarfs currently identified within
+20 light years of Earth, that could be thought
+of as our neighbors on our border, nobody
+is likely to be in a position to casually
+claim the entirety of one of them and in a
+way that can stick for the several centuries
+that would be needed for them to grow their
+own numbers up to something that might colonize
+that system rather than some small bit of
+it.
+We might see things negotiated or fought out
+of course, but it’s a lot more likely we
+would see several settlements scattered across
+a system and those may or may not have any
+shared history, culture, or early government
+with each other.
+Nor are the mighty nations of Earth, who all
+share just one planet, going to be very sympathetic
+to colonies complaining that someone else
+setup on another continent, let alone another
+planet in the system.
+Even if they did, let’s say the US in a
+few centuries sent a colonial fleet to a system
+that planted several colonies there on various
+worlds, what odds those all have the same
+grievances or issues with Earth centuries
+down the road?
+Why would all agree to band together and flat
+out leave?
+Why not one of them or maybe a few, or maybe
+one doesn’t rebel from ‘Earth’ but just
+the US and joins Japan or France instead?
+And what is the grievance?
+Probably they weren’t built with any intent
+of seriously taxing them down the road and
+they probably rely on Earth for new data,
+science, and entertainment.
+The harder it is to send troops to some place,
+the lower the expectation you can get taxes
+out of them, and the harder it would be to
+guarantee a certain level of trade – though
+new settlements do tend to have strong trade
+relations with the country their settlers
+came from due to similar language and cultural
+norms, all of which will probably fade through
+time.
+But the default downfall of big galactic empires
+in a no-FTL situation isn’t how far away
+the entire civilization is but how far away
+its neighbors are.
+If you’ve got a hundred settled planets
+within a few light years of you, several of
+which are within light hours, you not only
+have a reason for trade and relations, but
+a real concern that even if your homeworld
+or sector capital doesn’t send troops, if
+you rebel one of your neighbors might instead.
+This hardly means maintaining a multi-planetary
+empire is easy, but it does mean it has some
+things working in its favor against the overwhelming
+vastness of space and time.
+We also tend to assume colonization of other
+stars takes place because we’re growing
+and looking for elbow room, albeit probably
+not with great urgency as we’re not likely
+to see super-huge families become the norm
+again anytime soon, so we sort of trickle
+out into space, but that dynamic shifts a
+bit if we get radical life extension.
+All of a sudden you can have kids when you’re
+100, or 200, and aren’t in a rush to start
+a family but also have no cap on when you
+have to finish adding to one.
+That sort of shift is likely to see a rise
+in growth rates and with an intent to longer-term
+solutions, and if you don’t have an expiration
+date you can contemplate getting on board
+an arkship for a few decades much more easily.
+Particularly since you might do it while frozen
+if you don’t want to be awake, as generally
+speaking the technology needed to restore
+someone from cryo is similar or even slightly
+more advanced than what you need to turn back
+the aging clock.
+All of that is debatable of course but tends
+to strike me as our most plausible scenario
+for the future, by plurality if not majority,
+assuming AGI doesn’t just murder us off
+to replace us, and in either case you have
+a civilization where folks with no real cap
+on their longevity are trying to settle space.
+I’d make the case that folks who live for
+centuries are probably going to be at least
+a little more willing to consider being part
+of an interstellar nation when many of the
+original colonists come from Earth and are
+still alive and kicking and probably very
+influential there.
+And the same back on Earth, where a lot of
+your senior leadership, no pun intended, probably
+have siblings or children still alive and
+off on those colonies who they keep in loose
+contact with.
+And you still have that issue of not being
+able to casually rebel when several of your
+neighbors can get fleets over to your planet
+quickly.
+And it isn’t like you could organize a planet
+wide rebellion quickly or quietly either.
+Not unless your planet was so sparsely populated
+that it only had maybe a million people on
+it, tops, and then you really do have to worry
+that Earth, or your local sector capital,
+can be sending armadas with more troops in
+them than you have people.
+You do still have the problem of time lag
+for a representative style of government.
+If we imagined a cluster of space with 500
+major worlds jammed into a 10-light year radius.
+If that’s evenly distributed, then not only
+do some folks have a 10-year communication
+lag to hear about what happened back at the
+capital – assuming it’s actually at the
+center – but the median delay is 8 years.
+250 of your 500 worlds are 8 or more light
+years away, since over half of the volume
+of a sphere 10 light years in radius is in
+that last two exterior light years, while
+only an eighth of the volume and stars are
+in the 5 light year sphere stretching halfway
+out.
+Keep that in mind as it tends to imply a rising
+limit.
+If you find out that statistically your rate
+of rebellion or secession attempts tends to
+rise linear to your distance from the capital,
+so that about 1 of those 250 outer worlds
+was rebelling every year, then if you double
+the diameter of you imperial blob, your new
+outer half at 16-20 light years out contains
+8 times as many worlds who are each twice
+as likely to jump ship, so you’re putting
+more like a score of rebellions down a year
+now, not 1, and while you’ve got 8 times
+as many worlds supplying ships and troops,
+they are taking longer to get to each hot
+spot and coordinate orders.
+But they probably are not coming from your
+home world.
+These are actual planets which might have
+several garrisons and fleets each, even when
+underdeveloped.
+And probably none are thinking about going
+their own way seriously until they have hundreds
+of millions of folks and feel like they can
+be supporting their own navy to fend off neighbors.
+It’s probably worth noting that in a lot
+of futuristic contexts ‘taxes’ aren’t
+exactly redundant but aren’t really your
+motivation for control either.
+Even nowadays most countries are not really
+looking to add territory by conquest and people
+to increase your taxes because you generally
+spend almost all of those on services and
+infrastructure for those folks.
+In a post-scarcity civilization, or a near-equivalent,
+while raw materials for the long-term interests
+you still, your citizens probably aren’t
+really super-motivated about adding one more
+golden back scratcher to their collection
+by taxing the miners of some godforsaken rock
+harder.
+Those miners on that rock probably have considerably
+more luxurious lives than we do nowadays even
+on some distant barely settled colony.
+Rather your motivation is probably simply
+control of those around you.
+That might be entirely despotic, or it might
+be something more democratic where colony
+planets are viewed as dangerous in isolation
+where some crackpot group or underregulated
+researcher might be playing with brainwashing
+viruses or rogue self-replicating AI.
+If your region of space just suffered a Hegemonizing
+swarm attack from some reckless colony they
+might decide their new motto for fledgling
+planets should be “Welcome to the empire…
+or else”.
+It obviously isn’t hard to imagine classic
+space empire tyrannies and I don’t want
+to just cheerfully handwave that option away
+as there’s nothing inherent to technology
+and prosperity that makes despots vastly less
+likely to pop up.
+They also have some impressive technologies
+available, potentially like a brainwashing
+virus they can unleash or any of the sheer
+brute force mega weapons we’ve discussed
+over the years.
+Your maximum empire radius might be built
+around how much time lag a colony needs between
+them and your megaweapon to pull off a rebellion,
+rebuild, and build a defense to outlast it
+or a megaweapon of their own for reciprocity.
+And you might not be willing to build copies
+of that doomsday device away from your capital
+where rebel generals might decide they would
+like to be lords of a smaller star kingdom
+of their own, and they can choose which way
+to point that space cannon you built them.
+Things get easier with FTL of course, we’ll
+be looking at Stargates and similar FTL two
+weeks from now and will deep dive that effect
+on a civilization more then, but it makes
+any modern form of government viable again.
+Whereas a planet 10 light years from Earth
+electing a senator then presumably has to
+ship that person to Earth, which is likely
+to take more than 10 years, and so you need
+to start imagining some very long terms even
+compared to the longevity in office most US
+senators tend to have, 10 of them served over
+40 years, but then again life extension technology
+might add to that a lot, or encourage term
+limits.
+I can’t really imagine a planet feeling
+that their representative dispatched to the
+capital decades ago and receiving orders a
+decade old is really serving their interests
+all that well, and 10 light years is not a
+big size for an interstellar empire, and a
+quarter of light speed would be a respectable
+rate of travel for a ship, so that would be
+a 50 year lag from the day they got elected
+to when they sent back their first report.
+50 years ago, the Senators from my state of
+Ohio were former astronaut John Glenn and
+Bob Taft 2, not to be confused with Bob Taft
+1, who was also our senator, or Bob Taft 3,
+Ohio’s governor 20 years back.
+It’s not terribly uncommon for the kids
+of politicians to go into politics either
+and end up holding their parent’s seat one
+day, but it would be a bit amusing if we imagined
+a multiplanetary empire that didn’t have
+life extension or cryo – and again the latter
+strongly implies the former – and sent its
+politicians off in a generational ark ship
+back to Earth.
+Or opted for some type of elaborate cloning
+or duplication.
+We saw that in the Foundation TV series, with
+Emperor Cleon, one of the few innovations
+that wasn’t in the book that I actually
+liked.
+And that raises the notion of aristocracy
+or monarchies too and they don’t seem particularly
+favored or disfavored at the multiplanetary
+level.
+I could imagine a loose confederacy of worlds
+that wasn’t much more than a trade and defense
+arrangement having legal counsel and lobbies
+back on Earth with some firms known for their
+longevity and stability.
+There is a law firm out of Kent in the UK
+that’s been in continuous operation since
+1570, almost half a millennium ago, and we
+might see folks skipping on democratic representatives
+in favor of some group like that which they
+can just send dated and general instructions
+too and otherwise represents their interests.
+Or they may use some sort of AI as their representative
+or spokesperson.
+Or use a brainwashing virus on someone elected
+to be that spokesperson to ensure loyalty.
+Ultimately, I can make a case for just about
+any system of government working, it’s just
+an uphill effort in the absence of FTL and
+some types might have a harder lift both operating
+and justifying their existence.
+And even tyrants typically need to convince
+their lieutenants and viceroys they should
+stick with them rather than become their own
+sovereign power or join another team.
+We should also note that while some methods
+of governance or economics probably objectively
+work better than others, post-scarcity civilizations
+can probably get away with running systems
+they like better simply because their sheer
+abundance permits a lot of waste and abuse
+without breaking the wheels.
+For any nation to exist, rather than be a
+collection of smaller states, it must serve
+a purpose and by default that tends to be
+shared defense, and in this maximum range
+sort of context, whatever range allows meaningful
+shared military support is also one in which
+shared defense is plausible.
+If an ally can’t support me usefully 10
+light years away, then an enemy has those
+same sorts of constraints to invade me.
+The same would apply for trade, no mutual
+arrangements, regulations, or treaties serve
+a point if the distance is too far to allow
+regular trade.
+Those can be stretched out for vital things,
+so a treaty banning the development of some
+self-replicating murder machines might be
+in place or some agreement to a galactic standard
+for weights & measures and interstellar language
+or time & date is plausible too.
+Likely as not that would be a host of people
+speaking in a variety of different native
+tongues that were automatically translated
+into some standard language nobody other than
+computers & interstellar lawyers actually
+spoke then translated into the recipient’s
+language.
+Or everyone uses Earth time and keeps doing
+it even though Earth itself manually adjusted
+its orbit to exactly 365 days.
+There’s also no guarantee every planet in
+each system would be part of that same empire,
+which may or may not have assets in other
+star systems too.
+It wouldn’t be hard to imagine in the year
+4000 AD that Sweden still had the same borders
+as nowadays but also had a hundred major asteroid
+colonies, modest chunks of territory on Mars
+and Venus, one of the moons of Neptune, a
+dozen major Oort Cloud colonies, and was the
+patron and de jure ruler of a dozen planets
+scattered around some of the nearer stars.
+Same, the King of England is still king of
+a lot of various countries with their own
+parliaments and who do not turn to him for
+much guidance, and that post may still exist
+for ages to come and you could easily have
+millions of planets out there who sincerely
+viewed themselves as members of that realm,
+so long as nobody wearing that crown or over
+at Number 10 Downing Street tries sending
+them any orders.
+Throw in FTL and the game shifts a lot, and
+it is also not hard to imagine most of the
+galaxy getting settled before someone back
+here in the core worlds finally figures out
+FTL.
+That’s a common enough plot, early colonization
+done by slowboats and them getting caught
+up on by faster ships invented back home during
+their slow voyage.
+If that happened, somebody might decide to
+launch a great crusade to reunite all of humanity
+into one big happy family… or else.
+And you also have to consider scenarios like
+multi-planetary empires literally being physically
+linked by site-to-site transporters or wormholes
+or just vacuum trains running on active support
+tethers and moving at hundreds of kilometers
+per second.
+Peter Hamilton has worked with this concept
+in quite a few of his novels, Night’s Dawn
+and the Commonwealth Saga in particular come
+to mind, and we encounter it in Larry Niven’s
+Known Space and Ringworld setting too, and
+many others.
+You might even build or move planets into
+a shared solar system to cut down on lag times
+and clear that space around the vacated star
+for intense starlifting and disassembly.
+As to what qualifies, it would probably be
+whatever the minimum was because somebody
+will declare they are one as soon as they
+can make a decent claim on it and that will
+probably stick.
+But I think you would need to do a bit better
+than being one of our larger modern nations
+with a large base on the Moon and Mars.
+Nonetheless I would imagine the first of each
+of these will probably be just a handful of
+centuries down the road and with several of
+them basing themselves off Earth and only
+controlling a modest fraction of a handful
+of other planets, moons, and major asteroids
+in the solar system.
+I’d bet on at least half a dozen such entities
+that had large holdings not just on Earth
+but Mars and the Moon.
+I tend to think places that control the entirety
+of not just one system but several nearby
+it are more likely to first emerge in smaller
+star clusters we settle in a few thousand
+years and which spill out from whatever settlement
+there first took off, in an era where spaceships
+are easy to make and where most unclaimed
+stars are far enough away that nobody from
+Earth wants to try but few of the colonies
+closer to them have grown enough to want to
+send their own.
+But for those first multi planetary empires,
+I would guess quite a few of the existing
+countries around nowadays are still around
+then, and maybe some of us are still around
+then too if life extension takes off.
+Who knows, maybe your homeland will be a multi-planetary
+empire one day, and maybe you’ll be there
+to see it.
+We explored the practicality of multi-planetary
+empires today but not what they do or who
+they are, and tomorrow, for April 1st, 2024,
+no fooling, we’ll be releasing our Monthly
+Nebula Exclusive, Galactic Beacons, to discuss
+one such project huge stellar empires might
+create and to ask how those would work, what
+types there are, and why you would or wouldn’t
+make them.
+And if you haven’t already seen it, this
+month NEbula Exclusive, Crystal Aliens, continues
+our recent discussions of alternative chemistries
+for life we had in our episodes ammonia based
+and silicon based lifeforms.
+And again, Crystal Aliens is out now exclusively
+on Nebula, our streaming service, where you
+can also see every regular episode of SFIA
+a few days early and ad free, as well as our
+other bonus content, including extended editions
+of many episodes, and more Nebula Exclusives
+like last month’s episode Topopolis: The
+Eternal River, January’s Giant Space Monsters,
+December’s episode The Fermi Paradox: Hermit
+Shoplifter Hypothesis, Ultra-Relativistic
+Spaceships, Dark Stars at the Beginning of
+Time, Life As An Asteroid Miner, Nomadic Miners
+on the Moon, Space Freighters, Retrocausality,
+Orch Or & Free Will, and more.
+Nebula has tons of great content from an ever-growing
+community of creators.
+Using my link and discount it’s available
+now for just over $2.50 a month, less than
+the price of the drink or snack you might
+have been enjoying during the episode.
+When you sign up at my link, https://go.nebula.tv/isaacarthur
+and use my code, isaacarthur, you not only
+get access to all of the great stuff Nebula
+offers, like Crystal Aliens and Galactic Beacons,
+you’ll also be directly supporting this
+show.
+Again, to see SFIA early, ad free, and with
+all the exclusive bonus content, go to https://go.nebula.tv/isaacarthur
+We’ll get to the upcoming episodes in just
+a moment, but on the topic of things coming
+up, this year’s International Space Development
+Conference, ISDC 2024, will be in Los Angeles
+May 23rd-26th, and it’s looking to be an
+exciting and informative event, including
+an appearance by William Shatner to receive
+the Heinlein Award.
+I’ll be there and if you live in there area,
+I hope you’ll come by and say hi, but if
+you have some free time then, we always need
+volunteers, especially to help with the NSS
+Space Settlement contest, where we usually
+have a couple hundred student finalists from
+around the world giving presentations on their
+space settlement designs and needing a little
+shepherding.
+If you’re interested in volunteering, in
+any capacity, I’ll leave a link in the episode
+description, isdc.nss.org/volunteer-at-isdc/
+So that’s it for this month but join us
+as we start April off on the 4th with a discussion
+of space based solar power and several other
+clean energy options from space that might
+be able to help us power not only our orbital
+infrastructure, but Earth itself, including
+options like Earth’s own magnetic field.
+Then on the 7th will return to the Fermi Paradox
+to ask if the reason why we don’t see expanding
+alien civilizations is because they eat their
+own colonies, in the Cronus Scenarios.
+After that, we’ll have a look at Defending
+Earth, be it from asteroids, aliens, AI, astronomical
+explosions, or just mundane human threats,
+possibly including rebellious space colonies.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you’d like to donate or help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content
+like Crystal Aliens, at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

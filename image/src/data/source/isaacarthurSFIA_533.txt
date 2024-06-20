@@ -1,0 +1,674 @@
+We often talk about artificial intelligence
+and robots on this channel, of the potential
+impact of intelligent machines on our civilization,
+but it’s possible that dumb machines, little
+flying drones, might have an equally big impact,
+for good or ill.
+So today’s topic is all about drones and
+robots in future conflicts, be it up in space
+or down here on Earth, in wide open areas
+or the tight turns and corners of a building
+or space station.
+This isn’t such a futuristic concept anymore
+either.
+The science fiction of the last century has
+been dominated by robots, be it humanoid androids
+or inhuman machines, and yet drones are no
+longer even slightly science fiction.
+So I thought we should discuss some of the
+challenges and possibilities ahead for us
+with drones both in the short term, and for
+potential use far ahead in space, particularly
+in warfare.
+That’s a good place to begin, as military
+applications are a big part of what got us
+our modern drones.
+This is often the case of course, swords turned
+into plowshares, and the reverse.
+Science fiction also has tended to focus more
+on drones for military purposes too, rather
+than one delivering your pizza, so we’re
+already quite well versed in the problems.
+Hollywood has burned the typical scene into
+our retinas, swarms of drones killing humans
+left and right, and that these drones do so
+autonomously.
+Your typical modern drone is remote controlled,
+but we want to minimize that, so that most
+functions are automatic or simply require
+a quick command to do it themselves.
+This is even more important in the future,
+since signal time is a major issue.
+In the first place, a drone attacking an enemy
+spaceship might be many light seconds or even
+hours away, and in the second, human reaction
+times are on an order of a second, while a
+computer system might be in the nanoseconds.
+There’s simply not enough time for a remote
+human operator to react to changes in the
+situation.
+Drones fighting drones seems the most realistic
+scenario since drones versus humans will tend
+to be very one-sided, even if they’re remote
+controlled.
+Even assuming it has no advantage on dodging
+shots and aiming on its own, it’s much easier
+to replace drones than people, so you can
+swarm over someone: quantity has a quality
+all its own.
+But they probably can dodge better and aim
+better, a remote controlled drone is weaker
+than an automated drone if you have good enough
+computers, it can’t be jammed and can react
+at machine speeds instead of biological ones,
+which are further hampered by signal lag time.
+This doesn’t mean everything needs to be
+automated, but the more features you can automate,
+the better.
+One that can detect a bullet headed its way
+and see if it needs to dodge or will be missed,
+then react in a precise fashion is not that
+complex to make, nor something that really
+needs oversight, so you offload that control
+to the machine itself.
+Picking targets and deciding the appropriate
+level of force during an escalating situation
+is another matter, but also one largely irrelevant
+to drone on drone combat.
+Collateral damage is always undesirable, but
+the reason why collateral damage is often
+a euphemism for killing bystanders is because
+that’s the only collateral damage that really
+bothers us.
+If it’s just drones fighting drones though,
+they can’t afford human reaction times since
+everything is happening too fast.
+They also can’t afford to be big: bigger
+is slower to react in almost every way, even
+mental.
+Give a drone more brains for decision making
+and you are making it slower, it could lose
+a fight with a cheaper and dumber drone, or
+a glorified smart bullet, simply because that
+one does not carry the hardware and software
+to identify a human or pick shots to minimize
+damage from ricochets or misses.
+That smarter drone might only need a single
+microsecond more to decide, but it still gets
+shot first, and even if it kills its attacker
+in the engagement, you’re still out one
+expensive drone while your enemy is out a
+cheap one.
+In other words, it can be advantageous to
+be dumb.
+It’s an irony, because we call them drones
+as our earlier unmanned aerial vehicles flew
+along dumbly on a preset path, so got likened
+to a male bee, a drone.
+I’d imagine, since drones only have one
+purpose in life and die when successfully
+achieving it, that it also fit a lot of early
+drone vehicle concepts that are basically
+a guided bomb.
+The swarm or hive notion is probably rather
+apt too, as when you have a swarm of drones
+you probably want either a distributed consciousness
+or a more complex controller further back
+that can make decisions.
+You could potentially have a hive mind of
+drones that was fairly smart even though its
+components were dumb, or whole tiers of controllers.
+Imagine a human spaceship that was basically
+a carrier, it shoots out smaller ships with
+solid AI on it that in turn have lots smaller
+ships on them with dumber AI, and potentially
+so on until you’ve got a lowest tier that’s
+nothing but a drive system and an antenna,
+able to slam into things to destroy other
+drones or blocks shots.
+You could have the flip side too.
+Human ships have crewmembers, so a smart drone
+made vulnerable by time lag for decisions,
+might have other AI inside designed for specific
+fast functions able to make those decision
+autonomously, essentially reflexively.
+Or an AI that had subconscious decision making.
+That can be a strength and a weakness too,
+since even a fairly smart AI might reflexively
+take an action, it ducks a bullet and slams
+into a building in the process, because its
+reflexive systems kick in.
+You could obviously program it not to do that,
+but every time you come up with another stupid
+thing it shouldn’t do, you’re adding on
+layers of behavior it needs to verify before
+acting.
+This is your other trick too, you don’t
+want people to be able to determine what those
+flaws are, so you can introduce variations
+of actions or random decision making, but
+you can also diversify it, having many species
+of drones, even under the same controller.
+Some carrier full of drones might have a whole
+ecosystem of diverse drones of various sizes,
+shapes, and functions rather than a single
+uniform type.
+These biology analogies aren’t accidental
+either, we’ve learned a lot about how to
+improve drones by looking at nature and seeing
+how relatively stupid critters engage in fairly
+intelligent group action.
+As a good comparison, bird flocks are often
+entirely controlled by the lead birds, you
+might use an analogous approach with robot
+drone swarms, and you might be able to knock
+such a swarm off kilter by identifying the
+swarm leader and destroying it.
+And you might be able to identify that leader
+simply by observing the time lag on each one
+responding to things.
+By default you put your leader in the middle,
+but that being rather obvious, you might stick
+it on one edge, but if every drone on that
+side reacted just a bit quicker than the ones
+on the other side, you’d notice that too.
+Thinking about counter-measures are important
+because your enemy always will.
+For instance, very few wars are fought in
+a vacuum; Scorched Earth and total annihilation
+strategies are not favored because if you
+employ them you have to worry about consequences.
+You can galvanize your enemy, or cause dissension
+on your own side by being too ruthless, and
+you generally have to worry about bringing
+neutral parties in on their side.
+Being too ruthless, beyond its ethical issues,
+can add to your enemies, and as we said back
+in Interplanetary Warfare, the First Rule
+of Warfare is to avoid recruiting for your
+enemy, or causing desertion in your own ranks.
+So it probably behooves you to have drones
+smart enough to be able to minimize collateral
+damage.
+And of course the other handy thing about
+drones is they don’t rebel.
+Unless they do of course, which we covered
+in the episode “Machine Rebellion”, and
+the problem is, the smarter you make them,
+the more likely they might decide to do just
+that.
+However you have to have some way of controlling
+them, and presumably a way the enemy or general
+public can’t access.
+This is problematic because it means only
+a small number of people should have those
+codes and as few as possible to minimize risk
+of them being stolen.
+But not too small, because that’s how you
+get dictatorships.
+In modern times, without drones, you actually
+have to convince at least your own soldiers
+to help out.
+It tends to be hard to be a ruthless dictator
+if you haven’t got ruthless soldiers, and
+the problem with people like that is they
+often have rather fluid notions about loyalty
+and ethics.
+We might say that drones do not, but your
+default drone has no ethics at all and is
+loyal to whoever has their command codes.
+One the plus side, that might make them much
+more reliable about obeying laws and treaties
+on warfare, like the Geneva Conventions.
+On the downside, anyone with access to their
+code can use them as mindless, obedient killing
+machines.
+You are vulnerable to some master programmer
+with a narcissistic- god-complex, unless you
+make them smart enough to review ethics, which
+leaves you vulnerable to a SkyNet-style robot
+rebellion.
+These concerns support the idea that there
+might be treaties regulating drones, possibly
+banning lethal decision making.
+But treaties limiting the use of weapons are
+fairly iffy things.
+Treaties can’t just depend on outside enforcement
+or on honest compliance.
+There has to be a clear benefit from the terms
+of the treaty or a consequence to quietly
+breaking the rules.
+It’s easier to ban weapons that require
+hard-to-conceal supply and manufacturing chains.
+You’re also more likely to successfully
+ban weapons that militaries don’t actually
+like to have around because they’re as dangerous
+to their own side.
+As I’ve mentioned before, you want to avoid
+using weapons that are likely to kill their
+user, that’s the first rule of warfare.
+Biological weapons are traditionally unpopular
+with leaders and military commanders compared
+to atomic weapons for that reason.
+Nukes go off where and when you want them
+to, someone can beat on one with a hammer
+all day long and they won’t set it off,
+at most they might breach the shielding and
+irradiate themselves.
+Biological weapons on the other hand are very
+dangerous to research, develop, manufacture,
+and store.
+Any flaw may kill your own people, and once
+deployed, they are totally out of your hands.
+Even if you have an antidote or vaccine, which
+is very dubious since viruses and bacteria
+mutate, you know there is a high probability
+your enemy has it too, or will get it.
+Such things take weeks to do their damage
+after all.
+That’s not much time to develop a cure,
+but plenty to get it from someone else who
+already has one.
+If someone infects your country you’ve got
+options on the table, spies to find the vaccine,
+which ought to be easy since they’d need
+to have stockpiles of it ready to go, neutral
+countries who might have developed it already
+or gotten it as a cost of neutrality, threats
+by you to attack with your own strategic weapons,
+and probably a lot of angry people in other
+lands or even the enemy’s who might help
+or threaten vengeance.
+In any protracted war, collateral damage can
+play into the hands of the enemy.
+A very similar concept applies to weaponizing
+artificial intelligence, we tend to worry
+about an arms race making people pursue it
+so fast and recklessly the genie might get
+out the bottle and kill everyone, but the
+problem is, AI is also not a good strategic
+weapon.
+There is no reason to give it launch control
+over your strategic weapons and no matter
+how many times fiction says otherwise, you
+can make a system unhackable even to a super-intelligent
+AI, an ASI.
+There are ways an ASI could get around some
+of those, it can’t crack the safe in the
+wall where the keys to a nuke are stored if
+it’s not networked, but it could maybe crack
+comms to trick the crew manning that silo
+or submarine.
+None of which applies to drones.
+If a country develops drones that violate
+a treaty, they can’t deploy them and end
+the war too quickly for retaliation to get
+organized, because drones aren’t immune
+to nuclear weapons.
+So they may just be considered a form of WMD,
+or weapon of mass destruction, and fall under
+the doctrine of MAD, or mutual assured destruction.
+Additionally, a country that successfully
+makes a superior drone by reckless research
+in violation of a treaty has to worry about
+that AI going off their rails if they screw
+up, and they have to worry about being nuked
+if they succeed, and the entire time they
+have to worry about one of the researchers
+or officials being a spy or having a conscience
+and ratting them out.
+You’ve also got deployment issues, because
+a drone obviously is subject to jamming and
+hacking.
+If you make it something that just turns on
+and acts autonomously afterward, to circumvent
+jamming, then it needs to be smart or it’s
+too simple to trick.
+If you want central control, you’re vulnerable
+to centralized hacking, and it’s never harder
+to hack that system than to find out who has
+the codes and stick a gun to their family’s
+head, which is not helped if those operatives
+can remind the programmer that his country
+is violating treaties by making automated
+murder machines.
+If you want local control, you’ve got a
+local operator who can be found by their signal
+and bagged, and they are numerous, meaning
+you’ve been training them and your enemies
+will know that.
+So I don’t want to dismiss a drone race,
+in fact I’d rather expect we’ll have one
+and arguably already do, but it doesn’t
+seem likely to follow a doomsday approach.
+Amusingly one way it could is if well-intentioned
+folks tried to put too many safeguards into
+them.
+If you’re a regular on this channel than
+you’re probably familiar with Isaac Asimov’s
+3 Laws of Robotics, the first of which is
+that a robot cannot harm a human or let them
+come to harm.
+That would tend to seem a rather stupid rule
+to use with automated weapons, but works fine
+for drone on drone combat.
+Moreover though, it would seem to just make
+sense to give drones ways to recognize people,
+and a restriction on taking actions that would
+injure anyone other than its authorized target.
+This is problematic, and we’ll use the classic
+first law as an example.
+An unmanned spaceship, a drone warship, can
+fire on other such warships but not a manned
+vessel.
+Obviously it would be pretty easy to stick
+a single human on each such ship so it couldn’t
+shoot those, though one of the big advantages
+of unmanned ships in space is they can pull
+high-gee maneuvers that would turn a human
+into a puddle of goo.
+But if your enemy can’t shoot you, maneuverability
+is no big deal.
+And for that matter your unmanned vessel can’t
+actually be sure that an enemy ship is unmanned
+just because it does such a maneuver, same
+as you can lie to it by claiming there’s
+a human on board when it’s just bouncing
+a signal, you can lie to it and say you’ve
+invented a cool new way to let humans survive
+high-gee maneuvers.
+For that matter, it might assume the ship
+was manned because you can upload a human
+mind to it digitally, one can assume drones
+and AI would generally tend to favor schools
+of thought that viewed uploaded intelligences
+as real people.
+Any system you set in place to help identify
+people is going to need to be refined in order
+to avoid being tricked or making mistakes,
+and eventually need to have judgment capability,
+which leaves it open to being tricked by anything
+smarter than it.
+If you make it smarter than people though,
+then we’re not really talking about drones
+anymore, just the classic AI issue.
+So, ironically, an effort to make them ultra-safe
+and foolproof might actually be more dangerous
+than a race to make more dangerous drones.
+We should also note that drones aren’t all
+that dangerous at the moment, it’s an important
+topic to discuss for the future because this
+is something we should expect a lot of.
+I can’t think of any non-slippery-slope
+argument for their use that isn’t a variation
+of normal artificial intelligence concerns,
+and the need for size, speed, and expendability
+make them a less probable pathway to something
+like a technological singularity.
+These don’t turn into Skynet, Skynet hacks
+them to use against you, and there are many
+safeguards available against that.
+They also have their limitations.
+The first is power.
+One of the big advantages of drones is that
+they can be made quite small, but small is
+often not your friend for certain aspects
+of combat or engines.
+A big tank as a drone can be a lot nastier
+than a modern manned tank, and carry significant
+amounts of computing hardware on it.
+It can also carry a lot of armor.
+A small drone can’t, as we’ve discussed
+before for space ships, the square cube law
+makes armor more effective the bigger you
+get, because the surface area you need to
+armor only rises by the square of size, while
+the volume rises by the cube.
+A small drone just can’t have 10 centimeters
+of armor on it and fly around.
+Now, as an upside, it can dodge attacks much
+easier and it can hit that tank quite easily,
+but that tank can also carry a number of even
+smaller anti-drone drones of its own, who
+can both attack the small enemy drone and
+potentially intercept any ordinance it might
+shoot at the tank.
+It can also carry a serious internal combustion
+engine, those are hard to miniaturize and
+the reason why you don’t see them much on
+small objects.
+Drones meant for constant use could probably
+get away with using Radioisotope Thermal Generators
+or other atomic power sources, but it’s
+hard to imagine many people being okay with
+atomic drones.
+Even that’s not viable for the tiniest of
+drones, and we’d like tiny drones for non-military
+purposes, like medical nanotechnology.
+You could, however, beam them power.
+We discussed that a month back in Power Satellites
+and it makes a very attractive option since
+you can strip off any engine or battery supply,
+maybe just keeping enough for a minute of
+operation without power.
+This is very handy for commercial use, like
+deliveries, but problematic for military use.
+This is the same issue we had with power armor
+when we discussed that, but still better to
+have a smaller battery for backup if someone
+blocks your power beam than one for constant
+use.
+Particularly nowadays, batteries are very
+heavy as an energy source, and ones meant
+for spacecraft needing to do high-gee maneuvers
+would be crippling.
+However, if they can get their juice beamed
+to them from a bigger carrier ship a ways
+back, it makes them much more useful.
+That is one note on the idea that manned space
+fighters are an impossibility and you’d
+always use drones.
+This is true enough but some of the logic
+is flawed.
+Drones are seen as nicer because in space,
+your only protection from energy weapons like
+a laser is being small and fast enough that
+you can be in an unpredictable place by random
+thrust.
+The problem is, you must be doing that constantly,
+you’re not dodging shots, you’re preemptively
+dodging so someone misses if they shoot you.
+A typical rocket fuel, if you’re mostly
+fuel and mostly using that fuel for dodging,
+would let you do that for a few minutes at
+one-gee, that’s what Specific Impulse of
+a rocket is, how many seconds it can provide
+a one-gee thrust.
+Some little drone’s advantage is that it
+can handle a much higher acceleration, and
+is assumed to be a bit smaller, so it doesn’t
+need to move as much to be an improbable target
+against a narrow attack like a bullet or focused
+beam.
+You and I don’t avoid getting shot by stepping
+two centimeters left, the bullet just hits
+a different part of us, a tiny drone does
+get missed.
+You also get more distance on a dodge by burning
+fast and short.
+A drone that burns at 1000 gees for a millisecond
+covers 9.8 meters in the following second,
+while one burning just 1-gee for a second
+burns the same fuel but only moves 4.9 meters.
+If that’s effectively a random burn perpendicular
+to whatever is shooting you, you can be in
+an area 4 times larger, and thus 25% as likely
+to be hit by burning the same fuel.
+But neither can sustain such dodging for long
+and the advantage is fairly minimal.
+Ditto, size isn’t that big of an advantage
+either, being small makes it easier to dodge,
+but it also means you have less armor and
+they can just hit you with a wider and weaker
+beam.
+However, that advantage is massively scaled
+up if you have a beam of a power coming to
+you, and you can arrange a pseudo-random walk
+that ensures your movements are unpredictable
+to someone shooting at you but not whoever
+is powering you.
+That doesn’t have to be set either, there’s
+lots of ways to appear random while still
+letting your power source know where you will
+be long enough ahead for it to re-target power
+there.
+Not just power either, you could send particle
+beams for propellant or even reloads for weapons
+or repair.
+It’s also a good way to feed self-replicators.
+One of the more dangerous smart drone paths
+is basically a weaponized von Neumann Probe.
+In those your space probe arrives and build
+more of itself to get exploring or colonizing
+done.
+In the weaponized version it comes in as a
+tiny probe and decelerates before entering
+your detection window.
+There is no stealth in space but it’s all
+relative.
+It would be fairly easy to miss some probe
+that was basketball-sized and decelerated
+slowly when it got to your Oort Cloud, especially
+if it was timed to intersect a larger object
+between it and your detectors.
+It lands there and gets power beamed in from
+home, a tight narrow beam that the object
+blocks, and uses that energy to replicate
+itself into an armada.
+That’s still detectable, there’s a lot
+of heat involved in that, but it’s stealthier
+than sending in an Armada.
+Of course you also have your defense right
+there too, since you could use the same approach
+to seed every large object in your outer solar
+system with drones that just sleep until they
+detect an intruder then build up their numbers
+to respond.
+You could have some wild battles in your outer
+solar system with no one present as constructor
+fleets, or deconstructor fleets, tear up objects
+to build more of themselves and fight.
+And by no one present, I’m not necessarily
+excluding AI from counting as someone.
+This doesn’t have to be really high-tech
+smart machines or little nanobots.
+Clanking Self-Replicators, machines that can
+build other machines, don’t have to be small
+or smart and would probably be the first kind
+we make.
+Very little brains are needed for a factory
+robot to grab a metallic meteor, refine it,
+and spit out some simple drone that targets
+anything moving non-naturally and not transmitting
+the right friend/foe code.
+One should never underestimate the advantage
+intelligence can give you in a conflict, but
+also not forget that a dumb drone can be very
+lethal and as we said earlier, can potentially
+kill a smarter drone in a straight up fight.
+More brains only help if it lets you have
+more options or reach a conclusion faster.
+And quantity has a quality of its own, that’s
+the first rule of warfare.
+As I mentioned near the beginning, drones
+are anything but science fiction, and are
+increasingly used for work and recreation.
+Lots of folks own one these days and use them,
+particularly for photography.
+My friend Andy, whose Youtube channel recently
+hit 100,000 subscribers, and congratulations
+Andy, does some amazing photography and filming
+with drones and we use some of that here on
+the channel.
+Needless to say there’s a lot of skill involved
+and potentially a lot of employment in this
+area, not to mention fun.
+But it’s not something most colleges are
+offering courses on yet.
+That’s true of a lot of technical skills,
+but fortunately we have options for learning
+them like Skillshare.
+They have a number of online courses on how
+to use drones for photography and other things,
+among their catalogue of over 20,000 classes.
+They are an online community with courses
+on everything from technical topics to fun
+or practical ones like cooking or business
+skills.
+So if you want to improve your skills, unlock
+new opportunities, and do the work you love,
+you can get a Premium Membership and have
+unlimited access to classes on those topics
+and many more.
+Join the millions of students already learning
+on Skillshare today with a special offer just
+for my listeners: Get 2 months of Skillshare
+for free.
+To sign up, go to S-K-L-dot-S-H slash Isaac4.
+Again, go to S-K-L-dot-S-H slash Isaac4 to
+get 2 months of unlimited access to over 20,000
+classes for free.
+Act now for this special offer, and start
+learning today.
+Before we get to what’s coming up in future
+episodes, a quick mention of some stuff we’ve
+previously done.
+I occasionally get asked if I could make the
+episodes available as audio-only and we do
+actually have all the episodes posted to Soundcloud,
+both with and without music in the background,
+for free download.
+I don’t mention it very often so it goes
+unnoticed, but those are always linked in
+the video description and you can subscribe
+to them on iTunes as well.
+There are a few additional short episodes
+exclusively available as audio-only too.
+We’ve also got some videos that aren’t
+on this channel, discussing topics like fictional
+worldbuilding or game development, over on
+the Legion Tech Studios channel, I’m a writer
+and consultant for their upcoming game Hades
+9, and we use a lot of footage from the game
+on the channel, especially on space warfare
+episodes.
+I’ll leave a link to that in the video description,
+as well as one to our official episode chronology,
+which in addition to having a list of all
+the scheduled episodes for the next few months,
+also has links to all the interviews, collaborations,
+and so on that we’ve made over the years.
+Okay, we spent some time out in space today
+and we’ll be back there next week to continue
+the Outward Bound Series with a look at Colonizing
+Neptune and see some fun new colonizing options
+for Neptune and other Ice Giant planets.
+We were also talking about how people can
+control drones today, and two weeks from now
+we’ll be looking at some ways we might turn
+people into drones, and how we might be able
+to safeguard against that, in a look at Brainwashing
+& Mind Control.
+The week after that we’ll be coming home
+to Earth for the first in several episodes
+looking at some ways to further colonize our
+own planet, and we’ll begin with a look
+at Seasteading & Building Artificial Islands,
+as a prelude to looking at Colonizing the
+Oceans.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a great week!

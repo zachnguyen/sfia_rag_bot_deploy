@@ -1,0 +1,761 @@
+Our future lies among the stars, and many
+challenges must be overcome to reach them.
+One of those challenges is making sure our
+ships don’t crash into our own garbage littering orbit.
+ 
+People often discuss if our future spaceships
+will be built down here or up in orbit, and
+as we discussed a couple months back in our
+Episode Starship Factories, it’s just as
+likely they’ll be built deeper out in space
+and inside contained dockyards.
+Here fragile ships under construction don’t
+have to worry about tiny bits of space debris
+hitting them or the construction crews, who
+also don’t have to worry that any lost nut
+or bolt or sliver of metal will drift off
+into space and strike someone moving on a
+different orbital path like a bullet.
+And this is the danger of orbital debris.
+Things orbit our planet faster the lower they
+are, and that low orbital region is also the
+most valuable, being close to Earth, but they
+all crisscross at different speeds and with
+those different speeds varying by as much
+as thousands of miles or kilometers per hour.
+Any tiny fragment of material the size of
+pea you collide with carries energy comparable
+to what we use for heavy machine guns designed
+for tearing lightly armored vehicles or structures
+apart.
+What they do to people in spacesuits or tissue-paper
+thick spacecraft walls is devastating, and
+in both cases your fragments from that collision
+join that dangerous debris.
+One bit of debris strikes something and generates
+several times its number in new bits.
+The more things you have in orbit, the more
+likely this can result in a cascade of damage,
+with each successive strike spewing more debris,
+which sheds more things, and we call this
+cascade Kessler Syndrome.
+The more developed you are in space, the more
+dangerous this is, as there are more objects
+in space to be hit by a bit of debris, resulting
+in a higher frequency of collisions and a
+faster cascade ending in a thicker cloud of
+razor sharp hyper-fast bullets above our planet.
+It has the possibility to leave space over
+Earth unnavigable and we have even discussed
+it as a possible Fermi Paradox Solution, in
+Imprisoned Planets, and given how important
+space travel is to the show and how this could
+threaten that ability, wrecking our journeys
+to the stars before they even have left port,
+I thought a discussion of managing and clearing
+space debris was a good way to wrap the show
+up for the year.
+Though we will still be having our livestream
+Q&A this weekend, on New Year’s Eve, or
+afternoon, and that will be our last livestream
+for the foreseeable future, so I hope you’ll
+join us.
+Now our focus today is on technologies that
+can remove existing debris from orbit and
+be used to prevent buildup or cascades, but
+we also need to talk about Detection of Debris,
+and after that we’ll discuss removal options,
+with the major ones being Active Debris Removal
+or ADR Spacecraft, Nets and Harpoons, Laser
+Brooms, and many more that we will classify
+as collective methods, laser based methods,
+ion-beam shepherding, tether-based, sail-based,
+satellite-based, unconventional approaches,
+and dynamical systems-based methods.
+After we cover those, we’ll touch on the
+other end of the debris equation, which are
+regulation, mitigation, and armor, though
+those are not our focus for today, and we’ll
+look at space regulation in more depth next
+month.
+Severity & Detection is the place to start
+though because we must be able to detect every
+bit of junk that’s dangerous in orbital
+space, and it is really easy to forget that
+‘dangerous’ means anything much bigger
+than a grain of sand and ‘orbital space’
+is simply gigantic, it’s easy to forget
+that even low orbital space is larger than
+the surface area of our entire planet and
+much deeper.
+One tiny band of low orbit is bigger than
+the entire volume of our planet from the deepest
+ocean to the highest mountain top.
+That works to our advantage in terms of spacing,
+it’s huge and not much is up there, but
+we need to be mindful that tracking dangerous
+space debris is somewhat akin to trying to
+track pebbles drifting around our ocean, and
+pebbles that move through that entire ocean
+every couple of hours.
+That’s a bit daunting, and we should remember
+that even smaller bits are dangerous too.
+A number of grains of sand on a strong gust
+of wind or wave can erode strong materials,
+a grain of sand in space is typically carrying
+a million times that energy, meaning that
+you can get some pretty powerful erosion effects
+on equipment up there.
+Especially large thin objects like solar mirrors
+or shades for power collection and climate
+control.
+These won’t rip a ship apart but they will
+slowly wreck things.
+We also have that question of how dangerous
+debris is, and it is important to understand
+we are not talking about some constant wave
+of obliteration running around orbit…
+with some exceptions we’ll get to.
+It’s kind of like the asteroid belt, in
+science fiction it gets portrayed as a dangerous
+place you would need to dodge through, in
+reality it would be really improbable you
+would hit anything even flying blind straight
+through one.
+Kessler Syndrome was first proposed by Donald
+Kessler in 1978 but I first encountered it
+20 years later as a freshman physics major,
+and not in one of my classes.
+I was playing a post-apocalyptic Role Playing
+Game called Rifts, which is set after a massive
+nuclear war and where there is so much debris
+in space that space travel off Earth is considered
+impossible, trapping the ruined planet’s
+techno-barbarian survivors from their fledgling
+colonies on the Moon and Mars.
+It’s implied there that it’s not just
+the huge amount of orbital debris around the
+planet but probably a lot of automated and
+possibly self-repairing killer satellites
+and orbital defenses designed for killing
+ICBMs that’s causing much of the problem.
+There’s a modest-sized mutant population
+living in the higher orbital regions, which
+would have less debris, and more radiation.
+And that’s a key point because Kessler Syndrome
+dissipates with time and is like a lot of
+debris scenarios, such as volcanic eruptions
+or asteroid strikes, persistent for years
+but quickly declining.
+I think we tended to look at the Rings of
+Saturn and assume such debris could persist
+indefinitely but it’s a different situation.
+First, unless you are building thousands of
+O’Neill Cylinders in Low Orbit, then you’re
+not leaving entire mountains worth of wreckage
+around in space.
+I don’t think many places outside of this
+show and its forums ever contemplate that
+degree of orbital development.
+Even in a situation like that, the effect
+will build slowly in the human timescale,
+not wake up one day to red alerts everywhere
+and space rendered a ruin of gigatons of bits
+of fist-sized debris tearing around.
+Also, the further you are from Earth, the
+bigger the volume things are spread over and
+the lower orbital speed.
+So objects higher up are less affected.
+Debris can persist longer there though.
+Outside of this scenario, we’re not contemplating
+your typical spaceship flying up into orbit
+and being hit by ruinous collisions inside
+a few minutes as it transitions to higher
+orbits.
+What we really is mean that space stations
+up there are in constant danger of severe
+damage and that satellites would be too.
+Nothing really remains in a stable low orbit
+for long, that close to Earth the planet doesn’t
+resemble a perfect sphere and thus the gravity
+on any orbit is going to vary and tweak its
+every orbit.
+We also use low orbit because it is as close
+to Earth as we can get without lots of atmospheric
+drag, but it’s still there minimally and
+over time slows anything orbiting up there
+till it falls down.
+As an example, Saturn’s Ring are immense
+and persistent but Saturn’s D-Ring is it’s
+faintest and thinnest, and nearest to Saturn,
+and yet is still a band 8,700 to 16,300 kilometers
+over Saturn’s surface, whereas low orbit
+on Earth is roughly 200 to 2000 kilometers
+over Earth.
+Like Earth, Saturn isn’t a perfect sphere,
+though its upper regions are at least pretty
+homogeneous in density, no mountains ranges
+and oceans massively altering things.
+This is why we concluded that Space Debris
+and Kessler Syndrome weren’t good Fermi
+Paradox solutions in our episode Imprisoned
+Planets and the lower the orbit, the quicker
+it is going to clear out.
+These timelines are on an order of years for
+low orbit, with the upper bands of low orbit
+being decades and anything under the Space
+station’s altitude falling out in a year
+or less without station keeping.
+Debris is also hardly on stable orbits, and
+much would decay in mere days.
+Once it starts getting atmospheric drag it’s
+basically over and things will burn up, and
+pushing things into the atmosphere will be
+a lot of debris management methods.
+A lot of collision fragment orbits are going
+to directly intersect Earth almost immediately
+or send fragments into the much more sparse
+higher orbital regions.
+So I don’t want to say that Kessler Syndrome
+is overhyped because it is absolutely a big
+deal, but it’s a “heightened accidents
+and wear and tear” kind of big deal, not
+a Hollywood explosion and ruin kind.
+Of course giant explosions would be one way
+of handling that, you just start blowing off
+nukes anywhere that’s clear of functional
+craft and that will clear thicker debris reasonably
+quickly, combined with actively towing off
+the larger bits.
+Now this could reach levels where any spacecraft
+there would be at risk of ruin by remaining
+even a few minutes but this would be in the
+context of huge space battles around vast
+space structures which might emit thousands
+of gigatons of debris in the first few days
+and then continue to emit new debris for years
+or even decades after.
+Thankfully you only have this problem if you
+have a huge orbital infrastructure, and then
+it just becomes a long-term maintenance cost
+like picking up trash in cities, hardly trivial
+but not a make-or-break situation.
+And against this threat we would expect many
+such space structures to have their own detection
+system and point defense options.
+They detect some tiny metal ball or fleck
+of slag coming their way and automatically
+blow it up with a laser or whatever.
+We’ll return to this later but for now,
+while space is still pretty sparse, good detection
+allows us to spot an object, predict its path,
+and warn something in that path to exhale
+a little air or burn a little fuel to bump
+aside.
+There’s over 20,000 objects fist-sized or
+bigger in space, and one hundred million larger
+than a millimeter across, for an estimated
+200 tons of garbage in space.
+Which sounds huge but there are over a billion
+house-sized objects hanging around on Earth
+and untold millions of bird-sized objects
+in our sky.
+Scale matters, and while we do an amazing
+job tracking things in space, it’s nothing
+compared to what we could do with a bit better
+computerization and a more robust space fence
+of detection.
+Now as we move into removal options, I think
+we should start with the preferred options,
+especially for big objects, which is a variety
+of collection methods.
+Large debris can be deorbited to burn up but
+a lot of us would prefer to collect it and
+recycle it, and nobody disagrees that this
+is the optimal approach where viable, the
+problem is that unless you have a lot more
+orbital infrastructure up there than we do
+now, you not only have to burn a ton of fuel
+to reach the object, net it, and drag it back
+to some facility that does this recycling,
+but you also have to have such a facility
+and manufacturing in space to use those materials.
+This, in conjunction with mitigation and rapid-response
+point defense will likely make up the lion’s
+share of debris clearance in the more distant
+future.
+In the shorter term, active debris removal
+or ADR Spacecraft are usually defined as a
+small ship with a robot arm, harpoon, or net
+to grab an existing and defunct satellite
+and shove it down into the atmosphere or kick
+it up into a graveyard orbit.
+Graveyard orbits are those designed mostly
+for higher orbits where it would take a ton
+of fuel to slam it either into Earth or kick
+it to deep space, so we move it up to a less
+valuable orbit.
+For instance, there’s a very tiny band where
+satellites can orbit at 12- or 24-hour periods,
+and those are prized and need to be kept clear
+of debris, so pushing just a bit higher removes
+the problem, at least for some decades.
+ADR spacecraft are your means of doing this
+to any satellite which has lost the capacity
+to deorbit itself, or which is a big fragment
+or something that might have gotten wrecked.
+If you’ve seen the anime Planetes, where
+they follow the crew of a vessel whose mission
+is clearing space junk, that is an ADR Spacecraft,
+but we tend to assume most cases would be
+robotic and piloted from down on Earth.
+There’s no real reason to pay to put a crew
+in orbit when a groundside facility could
+handle it just fine.
+In fact you might have that being done by
+folks who worked from home and had a primary
+control that handled detection and assigning
+of a robot to rendezvous and then passed it
+off to whichever local controller was on shift
+and on that side of Earth when the robot got
+into rendezvous range, and possibly passed
+it to the next controller as they rotated
+out, since the satellite is orbiting the planet
+every couple hours or less and being on the
+other side of the planet would introduce some
+irritating latency issues from signal lag.
+Thus someone several thousand miles further
+around the planet might get your feed queued
+up ten minutes early so they could observe
+and take over if you passed your window without
+the job being done.
+Now this can be a small robot that is mostly
+fuel and an arm and just grapples on and drags
+itself and its trash down into the atmosphere
+but this costs you a probe or trashbot.
+Maybe it instead connects a disposable rocket
+or harpoon that will do the work and it moves
+to the next site, and the next bit of space
+garbage.
+We could also attach an electrostatic tether
+to the dead satellite and let that drag the
+satellite down so we need not waste fuel doing
+so.
+But ideally, we want something refuellable
+and this could be an example of where a ship
+carried a number of spools of ultra-skinny
+and conductive cables to either regenerate
+its own orbital momentum – called Electrodynamic
+Tethering – or to attach to one of those
+junked craft.
+Electrodynamic Tethers or EDTs can serve as
+a means of propulsion for spacecraft.
+When a current flows through the tether, it
+interacts with the magnetic field of the planet
+or celestial body.
+According to the right-hand rule of electromagnetism,
+this interaction generates a force that acts
+as thrust.
+By adjusting the current in the tether, spacecraft
+can change their orbits or perform maneuvers
+without the need for traditional rocket propulsion.
+They need a power supply to do this, pushing
+a craft back up, and we discussed this more
+in our episode Skyhooks.
+A simple solar panel can do the trick, or
+RTG, radioisotope thermal generator, as long
+as it is fairly massive compared to whatever
+it is pushing on and has time to regenerate
+momentum from that power supply and electromagnetic
+shoving.
+However, they can instead generate power by
+deorbiting things.
+In this same way, a craft might shove off
+the satellite it was deorbiting to regain
+momentum, or one able to run on a metallic
+propellant might cannibalize the object to
+give it the resources to shove that object
+down and move onto its next meal.
+Though in such a situation it would seem implied
+that you would have the ability to collect
+and recycle the satellite at that point.
+I could imagine a small pod not much bigger
+than a hockey-puck that was mostly a spool
+of wire around a RTG or inflatable solar panel
+that just magnetically clapped onto a satellite,
+unspooled and unfurled, and shove the satellite
+down, or dragged it up to a graveyard orbit
+or collection orbit, and a sophisticated one
+might be able to disconnect, drift away, and
+wind up for collection itself, once done towing
+the defunct satellite.
+The same applies for things using radiant
+pressure, such as a solar sail.
+Here something hockey-puck sized might unfurl
+to several thousand times that size and let
+solar wind, sunlight, or even a pushing beam
+hit it to in turn move the collected junk.
+Spacecraft of this type, along with solar
+shades or collectors in general, have the
+advantage of being able to disconnect their
+main body from their sail with a decent mutual
+shove sending the main body into the atmosphere
+or a graveyard orbit while letting the sail
+blow away to deep space or down into the atmosphere.
+If we ever get good at making graphene and
+sails made out of it, this might be a standard
+Deadman switch package on orbitals too, some
+tiny pod able to unfurl to a million times
+its normal size and designed to flip on when
+on the dayside of the planet to shove a spacecraft
+right down into the atmosphere.
+In the very long term you have to worry about
+tiny bits of dust making smog around the planet,
+eroding things if not causing gross collision
+damage, just from the sheer quantity of objects
+and activity in space for a Kardashev-1 Scale
+civilization.
+This material is rough on ultra-thin and big
+objects like solar shades or collectors.
+Much of this might be metal and subject to
+removal of buildup by electromagnets, but
+much would also be blown away by solar wind
+and sunlight pressure.
+We might also be able to modify the big thin
+collector into an active dust collector and
+one that could fold itself for pick up or
+atmospheric burn up when it got too big, assuming
+it could use the material it collected to
+regenerate itself and export some.
+A key notion here, and a big one for waste
+management on Earth, is not that it’s that
+hard to do, it’s that it represents a constant
+drain on your economy at every level, so the
+idea is to find ways to pull some revenue
+in from recycling your junk or to minimize
+the cost of disposal.
+Space is incredibly expensive and to become
+profitable and something you or I can go visit
+one day, we need to make space cheaper and
+that means minimum disposal cost.
+From that I deduce that in the future you
+will always have a certain haze of garbage
+around a developed planet because there will
+be an optimum point.
+Collection is cheaper the thicker your trash
+is, and beneath a certain threshold we can
+simply place armor and point-defense lasers
+on space stations and craft.
+It is also why I tend to assume a more developed
+space in the future is one heavier on megastructures
+like orbital rings or space towers, even in
+high orbits, because spaceship must literally
+emit tons of propellant to operate, which
+adds to that smog, and will inevitably lose
+little bits of themselves when employing ultra-high-thrust
+options like rockets that are brutal on physical
+components.
+But speaking of point-defense and lasers,
+this is where the Laser Broom comes into play.
+Laser Brooms are not what most folks think,
+some big laser vaporizing an object, because
+that’s rather energy intensive.
+You can do this, and I suspect something like
+an O’Neill Cylinder would have a battery
+of these for managing unexpected space debris
+hurtling its way and undetected till the last
+moment, but the laser broom is a lower energy
+approach.
+Comets have tails composed of sun-vaporized
+material and this changes the comet’s orbit
+a bit.
+It is essentially a weak rocket flame of matter
+boiling off the surface and shoving off the
+comet, providing thrust.
+So if we see an object near Earth we want
+to de-orbit, instead of sending an ADR spacecraft
+there, we could just target it with a laser
+and vaporize off a little of its upward or
+forward surface to shove it back or down a
+little.
+You are laser-ablating a bit of super-hot
+gas off the object to give it thrust in the
+desired direction.
+Interestingly this is a high-thrust option
+for a laser pushing system for accelerating
+normal spacecraft, as you can have a big pusher
+plate you vaporize off the back, akin to how
+the Orion drive works, minus the nuclear explosions.
+This is also a decent option for small satellites
+that you don’t want to try to put guidance
+and propulsion on.
+You just build its exterior shielding out
+of a material that laser ablates well and
+give it little taps with a laser pulse when
+you need some station-keeping.
+It also means it's better shielded against
+minor collisions and that any extra debris
+it adds to space from such a collision is
+that same material that’s easy to laser
+ablate.
+You could also be using ion beams for this
+instead of lasers, especially if the object
+had a power supply able to generate a small
+electromagnetic field for those ions to shove
+off of instead of physically striking.
+One other option of note is that light doesn’t
+push evenly on things, in terms of their own
+momentum change.
+The thinner an object is, the more push it
+gets from some laser, flashlight, or ion beam.
+So scattered dust and gas gets shoved by such
+beams just as well as solar sails, whereas
+your typical spaceship or celestial object
+barely notices it, which is why space in this
+solar system is pretty empty.
+Any dust or gas that doesn’t get drawn onto
+a bigger object like a planet tends to blow
+away under the sun’s radiant pressure and
+solar wind.
+This allows us to clear smog and smaller motes
+of junk out of orbital space by being patient
+or if it’s accumulating too quickly, running
+focused light beams through the area that
+will do nothing to all the spacecraft and
+megastructures there but blow the tinier fragments
+away.
+In very extreme cases you might use laser
+ablation as a wide broom to sweep massive
+sectors or orbital space in a hurry, and those
+might be anything from a bomb-pumped lasers
+to a secondary function of laser pushing beams
+or energy transmission beams.
+There are many other proposed methods, foam,
+nano-satellite swarms, magnetic nets, space
+drag sails or bristles, and even biodegradable
+satellites have been proposed as well, but
+that’s some of the more discussed ones.
+Of course, the best methods to clear debris
+is to either not make it in the first place
+or to get it right away, which is where Mitigation
+& Regulation come in.
+As we already mentioned, detection is the
+key to protecting other assets from space
+junk but it’s a reality that a lot of that
+junk is the product of careless, reckless,
+or indifferent deployment of spacecraft.
+It’s easy to talk of monitoring and agreements
+of how and when a satellite should be taken
+down but we do need to be mindful of defense
+considerations.
+As a reasonable and practical approach, you
+probably would want some treaty that covered
+what nations agreed to do in their defense
+satellites and spacecraft, like redundant
+self-destruct mechanisms for deorbiting the
+satellite while wrecking secret technologies
+inside it.
+Something that provides no significant new
+cost or hindrance to the defense satellite’s
+function and mission would probably be viable
+as a voluntary enforcement strategy.
+For everything else, it should be doable to
+have everything tracked and have it understood
+that if it doesn’t have a plan for deorbiting
+and a redundant plan too, then it doesn’t
+fly, and if it loses the ability to keep its
+status known and that function available,
+it gets itself deorbited by whatever laser
+or killer sat anti-satellite system is running.
+We’ll cover regulation more next month but
+I think this is where we see a lot of rules
+about tethering gear to spacecraft or astronauts
+when EVA and not dumping garbage out of airlocks
+or the bottom of orbitals except in a container
+like a radar reflective bag on a clear de-orbiting
+path.
+Otherwise you end up getting the equivalent
+of trash islands in space too, as they are
+prone to going into certain orbital resonances,
+indeed this is the loose idea behind dynamical
+systems-based methods of debris clearance,
+which aims for math heavy and fuel-light approaches
+to clearance, which we’re mostly skipping
+over with that math-heavy aspect in mind but
+generally still uses those other approaches,
+just uses them more precisely, and I suspect
+we would see those methods improved for efficiencies
+sake, and you might have big recycling depots
+at some of those spots where trash tended
+to slowly gather.
+Ultimately we need to remember that this will
+be a growing problem anywhere in Cislunar
+space as we develop into the wider solar system,
+and that those larger gravity wells like Mars
+or Venus or the other planets will tend to
+accumulate junk eventually too.
+I think this is another reason why we should
+expect to see bigger ships carrying thicker
+armor in the future, or cellular armor made
+of many small tanks fuel of fuel or water,
+because the bigger you are, the cheaper thicker
+armor is, under the cube-square law, for a
+given volume of cargo or passenger.
+A big sphere made twice as wide has 4 times
+the surface area to armor but 8 times the
+internal volume, so eight times the mass for
+four times the armor, which lets you double
+your armor thickness or save on armor mass
+proportionally.
+And you can’t really control what the overall
+frequency of space clutter in your voyages
+is, that’s a civilization scale problem,
+and there may be strong regulation of range
+and capability of point-defense systems on
+ships and habitats, those are weapons systems
+after all, but you can control how thick your
+spaceship or space station skin is.
+And if everyone is armoring up fairly heavily,
+that does mean they’ll resent paying more
+for clearance of debris that’s below what
+would trouble them.
+So I suspect we will see a bit of haze of
+clutter up there as we grow in the centuries
+to come, and only time and technological advancement
+will tell how thick that haze might be, indeed
+it might be lower than it is now.
+Or it might be an astronomically visible technosignature
+of planets owned by space faring civilizations.
+Either way Space Debris is a problem and one
+getting worse everyday, so putting off solutions
+doesn’t pay.
+But as we saw today, there’s plenty of methods
+to clear the junk away.
+Our theme today is that even in a place as
+empty as space, civilization’s garbage might
+be our downfall if not properly managed, and
+while I think we demonstrated it was manageable
+today, if we turn out to be wrong we might
+see humanity’s future in space taking a
+pathway where civilization broke into small
+dangerous fragments, like that debris in space
+does, to avoid areas where cascade collisions
+were possible.
+This is the idea that civilization itself
+might become a dangerous handicap, or at least
+be viewed as one, by some groups or individuals
+and that this could be a possible Fermi Paradox
+solution.
+That people might turn into hermits living
+in deep space and just grabbing what resources
+they can while trying to stay far from others,
+what we’re calling the Hermit Shoplifter
+Hypothesis.
+We examined that more in this month’s Nebula
+exclusive.
+That’s out now on Nebula, where you can
+not only see every regular episode of SFIA
+a few days early and ad free, but all our
+other bonus content, including extended editions
+of many episodes, and more Nebula Exclusives
+like, Ultra-Relativistic Spaceships, Dark
+Stars at the Beginning of Time, Life As An
+Asteroid Miner, Nomadic Miners on the Moon,
+Space Freighters, Retrocausality, Orch Or
+& Free Will, Conformal Cyclic Cosmology, Colonizing
+Binary Stars, and more, like next month’s
+upcoming Giant Space Monsters episode, out
+New Year’s Day.
+Using my link and discount, https://go.nebula.tv/isaacarthur
+and my code, isaacarthur, Nebula is available
+for just over $2.50 a month, but this holiday
+season we are once again offering Lifetime
+Memberships to Nebula for $300, part of which
+goes directly to our show, and part to help
+raise capital for a number of creator-owned
+projects we’re greenlighting for 2024.
+Instead of a monthly subscription, lifetime
+memberships are a one time payment where you
+can get access to everything that’s on Nebula
+now and in the future, including our quickly
+growing catalog of exclusive movies, plays,
+shows, documentaries and more.
+And right now for the holidays you can even
+gift a lifetime membership of Nebula’s life-changing
+and stimulating content.
+Monthly, annual or lifetime, whichever you
+choose, you not only get access to all of
+the great stuff Nebula offers, you’ll also
+be directly supporting this show.
+Again, to see SFIA early, ad free, and with
+all the exclusive bonus content like Hermit
+Shoplifter Hypothesis, go to https://go.nebula.tv/isaacarthur
+So this was our final regular episode for
+the year and this weekend, on New Year’s
+Eve at 4 pm Eastern time, we will be having
+our final monthly livestream Q&A . After 5
+years and 60 Q&A livestreams we’ll be going
+on hiatus, and it seemed a good number and
+time for a change.
+And it’s certainly been a year of change
+for me and almost entirely a good one, getting
+used to being a father while juggling everything
+else I do in life has been a difficult, memorable,
+exhausting, and rewarding endeavor and I’m
+very fortunate to have an awesome audience
+who shares my fascination with our future.
+As we move into the tenth year of this show
+I just wanted to thank everyone for joining
+me on that journey.
+Which we’ll be continuing in January with
+a very packed schedule.
+As mentioned we have January's Nebula exclusive
+on Giant Space Monsters coming out on the
+first, then on January 4th, we’ll return
+to the Fermi Paradox to discuss the possibility
+of colony and ecology failure and Pancosmorio
+Theory.
+On Sunday, January 7th, we will deep dive
+into the functions and uses of Statite, Lagites,
+Quasites, Solar Moths, Mag Sails, and other
+alternatives to classic Keplerian Satellites
+and Orbits that offer us the possibility to
+move stars or transform solar systems.
+And speaking of transformation, in the future
+we might transform animals into more intelligent
+critters or even human intelligence, in a
+process called uplifting, and in two weeks
+we’ll discuss the ethical challenges of
+that endeavor.
+Then on January 14th it will be time for Scifi
+Sunday and a look at Aliens vs AI, and which
+is a greater threat to us and who would win
+in a fight between the two.
+As mentioned in today’s episode, a lot of
+space debris management is going to come down
+to regulation, and we’ll discuss regulating
+space three weeks from now on January 18th,
+then in 4 weeks we’ll talk about settling
+our LAgrange Points and why a society at L5
+would be awesome.
+Then we’ll close out the month with a look
+at how our universe might have began, or how
+other previous universes might have predated
+us, in Conformal Cyclic Cosmology.
+One month, 8 episodes, a strong start for
+2024.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content
+like Hermit Shoplifter Hypothesis or Giant
+Space Monsters, at go.nebula.tv/isaacarthur.
+As always, thanks for watching, have a Great
+Week, and I hope you too have had a Great
+Year!

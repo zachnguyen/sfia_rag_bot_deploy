@@ -1,0 +1,754 @@
+This episode is sponsored by Audible.
+In the last decade alone, thousands of new
+planets have been discovered orbiting distant
+alien suns, many of these far larger than
+our planet, called Super-earths.
+But would these Super Earths be super places
+for humanity to colonize and settle?
+To my perpetual irritation, a lot of popular
+science articles tend to report every new
+exoplanet of note with a great deal of hype
+and one such example is referring to super
+Earths as “Earth-like” in ways that imply
+we could go move onto one tomorrow.
+This tends to be justified by them being the
+most Earth-like exoplanets we’ve found,
+so I thought for today we would discuss why
+that is, what Super-Earths are, if life could
+naturally evolve there and get technological,
+and if we have any interest in colonizing
+them ourselves.
+Now when I was a kid, planets numbered 9 and
+fell into 2 categories, rocky inner planets
+and big gas giants, plus the freak planet
+Pluto, folks were always looking for planet
+10 or planet X, which wasn’t always being
+used as Roman numeral X or 10, and already
+debating if Pluto should count.
+Indeed we had previously had more than 9 planets
+as we used to count the bigger asteroids like
+Ceres and Vesta, and even before we found
+our first exoplanets and the additional dwarf
+planets in our own solar system, there was
+a lot of talk about how to reclassify planets.
+We knew that our catalog would expand enormously
+and that we would doubtless find thousands
+of planets closer to each of our planets than
+they are to each other, and we theorized many
+more.
+So the classification systems themselves are
+very broad and ill-defined, with many suggestions
+and many overlapping.
+That’s part of the problem with sensational
+headlines is there’s not really some official
+list of what is what, as it’s still early
+days with little knowledge, and I would say
+if anything, the astronomical community is
+even more hesitant about defining planet categories
+after the whole Pluto fiasco.
+The other part with sensational headlines
+– besides that publications are rewarded
+for over-utilising clickbait – is that often
+when we discover some new planet that is no
+more like Earth than Mars or Venus is, or
+even less so, it gets listed as the most earth-like
+exoplanet yet discovered because this is actually
+true.
+The thing about exoplanet hunting is that
+your odds of seeing and confirming a new exoplanet
+mostly rely on how close it is to its new
+sun and how big it is, as both affect how
+much light it reflects, or blocks, or how
+much gravitational impact it has.
+What this means is that while our basic models
+say there will be more smaller planets than
+bigger planets, our observations mostly consist
+of what we call “Hot Jupiter’s”, giant
+planets near their Sun.
+There are probably a dozen or more dwarf planets
+like Pluto in our solar system, and that’s
+likely a common thing in the galaxy, but such
+tiny ice dwarfs, low in mass and far from
+their parent stars, are going to be the last
+things we discover and properly inventory
+much as they are in our own solar system.
+Sometimes we only know their radius not their
+mass, though we can make decent approximations
+of the latter from the former.
+And an icy world Earth’s radius but Pluto’s
+density is not going to be livable as it would
+evaporate if we warmed it up with terraforming.
+So too, a planet right near its Sun, of Earth’s
+radius, is likely to be as dense and unlivable
+as Mercury, but is the first Earth-radius
+planet you would expect to find.
+Very loosely we’d tend to guess stars hosting
+planets between half Earth’s mass and double
+Earth’s Mass and getting maybe 25% more
+or less of our solar illumination would likely
+be present in at least 1% of solar systems,
+and maybe as high as 1 in 10 or more.
+They shouldn’t be rare, but we’ve discovered
+very few less-massive than Earth, and of those
+more massive, those 1500 and counting exoplanets
+of more than 1 but less than 10 times Earth’s
+mass that we call Super Earths, virtually
+none would be even as promising as Mars or
+Venus for terraforming.
+Again not because we think they are rare,
+just that we see big, bright and hot exoplanets
+easiest, so currently if we find one of Earth
+radius, it’s usually Mercury distances or
+closer, and if we find one at Earth’s distances,
+it’s probably either a giant planet or around
+a giant star making it too hot.
+Now we are finally getting a decent list of
+planets whose mass, radius, and lighting doesn’t
+make the word Earth-like sound too absurd,
+but while ’Earthlike’ mostly meant hot
+super earths, we had a lot of speculation
+about colonizing those and I thought we should
+start or our own by discussing the composition.
+Now that might seem like a strange point to
+begin on given that the broadness of the category
+– simply being more massive than Earth but
+not more than 10 times as much – leaves
+a huge range for composition but we do not
+really live on Earth, we live in that tiny
+band of it’s surface that’s got air and
+water.
+By default we would expect a bigger planet
+to have these too.
+Indeed given that our concern about terraforming
+low gravity planets is their atmosphere escaping,
+we would generally tend to expect more massive
+worlds to have thicker oceans and atmospheres,
+and here’s where it can get confusing to
+folks.
+See, if I tell someone we found a world twice
+as big as Earth or twice as massive, folks
+tend to think I said the same thing, and that
+it would have twice the gravity Earth does.
+Earth is actually the densest planet in our
+solar system, though roughly tied with Mercury
+and Venus only a bit behind that, but Mars
+is 71% of Earth’s density and so a Mars-dense
+but Earth sized world would have a surface
+gravity of 71% of Earth Normal.
+By the way for folks new to the show wincing
+at me repeatedly garbling the pronunciation
+of Earth this episode, my apologies, for some
+reason even after years of speech therapy
+I can’t seem to properly pronounce the name
+of the planet I live on.
+Anyway, so long as the radius stays the same,
+the surface gravity is proportional to the
+density.
+A Plutonian world, with a density a third
+of Earth’s would have a third the surface
+gravity if Earth-sized, so would have a real
+problem holding onto any atmosphere, and indeed
+given that it’s a big ball of ices, many
+of which would be gas, not liquid at room
+temperature, such a planet could not plausibly
+exist in a habitable zone of solar system,
+it would melt and boil away.
+However, for some context, a planet of such
+a density could still have Earth-like gravity,
+it would just need to be three times wider
+than Earth, and at a third density, contain
+27 times the volume but only 9 times the Mass,
+right near the top of what would be a Super
+Earth but more in line with what we mean by
+the term mini-Neptune, or Ice Giant - such
+as Neptune is now considered – or even a
+gas dwarf, a rocky planet with a very thick
+atmosphere.
+If you’re curious, the lowest density planet
+in our solar system is Saturn, just about
+an eighth as dense as the Earth, and at 95
+times our mass and 9 times our radius, it’s
+nominal surface actually has about the same
+gravity as Earth’s, just a bit higher.
+This is one reason we sometimes contemplate
+building a shell around such planets, moving
+them closer to the sun, and terraforming that
+shell, you’d get an Earth-like planet with
+95 times our surface area.
+So we want to be mindful that even inside
+our own solar system we already see a wide
+variety of masses and densities and sizes
+that make it very clear a planet’s mass
+or radius being ‘close to Earth’s’ doesn’t
+mean much for habitability.
+And we’re only talking size and density
+and mass thus far, not if it is around a redder
+sun or hotter overall or has a nice sized
+moon.
+A planet twice as wide as Earth and of Earth
+density has twice the surface gravity, and
+8 times the mass, a planet twice the mass
+of Earth but the same density is only 26%
+wider and 26% stronger surface gravity – the
+cube root of 2 incidentally.
+Was it thrice the mass and the same density
+that radius and surface gravity would be the
+cube root of three, 1.44, or 144% of Earth’s
+rather than 126%.
+But at 200% the mass and 126% the radius and
+gravity, this isn’t really what we mean
+by a Super Earth, it’s in the range, but
+on the smaller side, but let’s consider
+this world for a moment, which we will nickname
+SFIA-26.
+First, all things being equal, it could be
+a bit further from our Sun and still be habitable.
+The bigger the planet the warmer it’s generally
+going to be, again all things being equal,
+though don’t assume we’re talking Venus
+hot at Earth distances or habitable out at
+Mars.
+Super Earth’s are likely to have a slightly
+wider habitable zone around their star.
+Wide surface too, 26% more radius means 58%
+more surface area.
+Here’s where we get a problem though.
+Imagine we just teleported Earth’s atmosphere
+right to this world, well it’s got 58% more
+area to cover so that doesn’t work, not
+enough air.
+Ironically that’s not true but to explain
+that, let’s imagine we just gave it 58%
+more air, the same air above each square meter
+of land as Earth has.
+Now what?
+Well the gravity is stronger, so that air
+actually gets mashed down more.
+You need less air on such planets to achieve
+normal surface pressure because of that higher
+gravity, and a place like Mars needs more
+air for its lower gravity for that same reason.
+Mars lost its atmosphere and oceans because
+of its lower gravity and lack of magnetosphere.
+Such a big planet has more gravity and probably
+more molten core for a bigger magnetosphere,
+helping prevent loss, but again, proportional
+to its surface area, it would actually need
+less air to match Earth’s air pressure.
+However surface gravity isn’t the same as
+escape velocity.
+As I mentioned, Earth and Saturn have comparable
+surface gravities but Saturn is nearly a hundred
+times more massive and its escape velocity
+is 4 times higher, which makes a huge difference
+in rates of atmospheric loss.
+Our hypothetical small super Earth with twice
+the mass and 126% the radius and surface gravity
+of Earth has 126% higher escape velocity too.
+For our audio only listeners I’ve got the
+equation up on the screen for anyone wanting
+to calculate various hypothetical planets
+themselves but I’m intentionally keeping
+to the math-intuitive ones for today when
+possible.
+Now, how a planet gets its initial oceans
+and air is a complex and still mostly mysterious
+matter, we guess Earth had its own proto atmosphere
+blown off when the Moon formed and recollected
+from comet bombardments later on, but in a
+basic and over-simplified approximation we
+could assume a planet started with air and
+water proportional to its total mass.
+If we made Earth 26% wider and 58% bigger
+in land surface, but it started with 200%
+more air and water, then it’s got 26% deeper
+seas and 26% more air per square meter…
+both of which are under higher pressure from
+that increased density and higher gravity.
+On Earth you need to drop around 10 meters
+deep, or deeper, in the water to add an atmosphere
+of Earth pressure, on SFIA-26, that pressure
+is up after just 8 meters.
+Earth’s average ocean depth is 3700 meters
+– over 2 miles – and has a pressure down
+there of 370 atmospheres.
+Here on SFIA-26, the average ocean depth – all
+things being equal in continent layout - having
+just twice as much water over 58% more surface
+area, is 4700 meters, or 3 miles deep, and
+the pressure down at that depth isn’t 470
+atmospheres but rather about 590.
+Of course it will probably be higher because
+it probably has a lot more air sitting on
+top of that ocean too.
+But also, Earth is constantly losing air,
+mostly hydrogen gas as it is lightest, to
+atmospheric escape.
+Such a planet should have less escape – this
+is part of why the gas giants have so much
+hydrogen – and how much hydrogen you have
+controls how much water you have, as oxygen
+is plentiful and slow to escape.
+So you probably have more air and water than
+we factored in already.
+Now the next issue.
+If Earth’s seas rose from 3700 meters to
+4700, by a whole kilometer – not much ‘earth’
+would be left poking above the water, and
+again we would actually expect more water
+depth on this world from that slow hydrogen
+escape and maybe even its gravity tugging
+more comets into it down the eons.
+Now there is still a lot of land above a kilometer
+in altitude here on Earth, and we’re not
+just talking mountain peaks, eyeballing an
+altitude map makes it look like about a quarter
+of our land, big chunks of central Asia, southeast
+Africa and the Western US are, and generally
+it's those places like the Rockies and Himalayas,
+the newer mountain ranges, that are resulting
+in those large chunks of livable but high
+altitude land near them.
+Keep that in mind for in a moment.
+Here on SFIA-26 that might mean it had a quarter
+the proportional land to Earth but it’s
+got 58% more surface so about 40% Earth’s
+land area.
+Again probably less from them having less
+hydrogen escape and more water as a result
+but let’s stick with that for a moment.
+No problem imagining them getting a good sized
+civilization from that, and spaceflight is
+harder because of probably much thicker air
+and higher gravity but not implausibly so.
+We’ve talked about a parallel case before
+for habitable high-gravity worlds and we need
+to remember they also need stronger, thicker,
+or denser bones for land life – which might
+prevent or slow life coming from the seas
+too.
+It took us a long time to get animals out
+of the sea onto land, for the overwhelming
+majority of Earth’s history and life’s
+history, there were no land animals.
+That need for strong endoskeletons and shoulder
+and hips and such might mean it took another
+billion years to crawl out of the seas out
+into tidal pools and then to live on land,
+or that it never did.
+Speaking of tides though, another thing to
+keep in mind is that Earth used to spin a
+lot faster, the Moon has been slowing our
+day length a little each year for eons and
+back in the day it was 12 hours long and had
+much stronger storms.
+Faster planet rotation means worse storms.
+Erosion of land would have been much more
+severe if such a planet began with a faster
+rotation and had no huge moon to slow that
+rotation, and a bigger moon than our own giant
+one.
+But thicker air itself makes for stronger
+erosion.
+And moreover, stronger gravity favors flattening
+too.
+Every volcanic eruption needs to fight that
+much harder to get high land, every grain
+of dirt tumbling downhill in a breeze or rainstorm
+or river has that much more force acting against
+drag of the land to keep it moving downhill
+before friction stops it.
+Stuff just wears down more.
+And stuff does wear down, again most of our
+higher altitude lands are near those newer
+mountain ranges.
+SFIA-26 is generally my basic example of a
+high-gravity world, it’s getting into that
+range of Earth-like planet where it’s definitely
+colonizable and terraformable but where you
+might need to be mega-nuking the ocean floor
+to get yourself some new land or building
+pontoon-continents.
+Which is certainly an option, layers of small
+hollow cylinders full of air stacked into
+vast rafts kilometers long to build houses
+on is no more effort for living space than
+kilometers of overlapping domes or giant hollow
+cylinders orbiting the planet that people
+live inside, those O’Neill Cylinders we’re
+so fond of discussing here as alternatives
+to planets.
+You could make some very large and durable
+islands out of layers of pontoons and if the
+galaxy turns out to be full of lots of oceanic
+planets, this might be a common approach to
+settling them.
+Nonetheless SFIA-26 is getting close, and
+maybe already passes by, where we would expect
+a world to be Earth-like and where it’s
+a bit dubious; not if life ‘could’ form,
+but if it could evolve to be either land-dwelling
+or even photosynthetic.
+I’ll explain that more in bit but in the
+absence of photosynthesis you would not expect
+the sheer quantity of biomass and biodiversity
+we tend to assume is needed for intelligent
+life to arise.
+This is why we don't’ tend to expect to
+find anything particularly impressive in subsurface
+oceans on frozen moons like Europa even if
+we do find life there.
+For the moment though, as I said SFIA-26 is
+not really a good example of what we mean
+by Super Earth, it’s on the low side, but
+I think it fits what most folks are thinking
+of in terms of gravity and such.
+I want to consider several other cases, and
+let’s start by just scaling up to 8 Earth
+masses, near the top of Super Earth sizes
+and another math-convenient one, and we’ll
+dub this world SFIA-200, since so many of
+its qualities will be 200% of Earth, its surface
+gravity, escape velocity, and ocean depth
+for starters.
+At Earth density this is a world twice as
+wide and with 4 times the surface area, which
+in our basic approximation means its oceans
+are 8 times larger in volume spread over 4
+times the area and thus twice as deep.
+There is very little of Earth that’s more
+than 3 kilometers above our current sea level
+and all that gravity and thick air isn’t
+helping with high landmasses forming or not
+eroding away.
+By default we would expect this to be a blue
+world with little to no land above water,
+and maybe not even in the first couple hundred
+meters of depth where sunlight reaches.
+With the nutrients all deep down, and the
+sunlight far above, life can certainly form
+near thermal vents if that theory of origination
+is true, but getting it near the surface to
+survive on light is hard, with all the nutrients
+sinking down.
+We examined this case in more detail in both
+our Oceans Planets episode and our episode
+looking at if Technology can develop without
+fire, and looked at some other options like
+subsurface air pockets or floating icebergs
+with captured dirt or ash as places life might
+take hold.
+Thus I don’t want to focus in on it too
+much today.
+Additionally, we are only at first approximation
+here, we don’t know that there are not factors
+shoving that water down under the crust into
+the mantle where it gets stored – we think
+– as hydroxide in minerals such as ringwoodite.
+I’m sure most of you have heard how we believe
+much if not most of Earth’s water is in
+the Mantle, that’s both accurate and off,
+as it isn’t in water form.
+Folks hear that about the mantle and wonder
+why it doesn’t come rising up since rock
+is denser than water but ringwoodite is about
+4-5 times denser than water for instance,
+and it’s got the hydrogen and oxygen, not
+an actual H2O in it.
+For that matter water or water ice can be
+pushed into forms nearly twice as dense as
+normal water, like Ice VII, at 1.7 grams per
+cubic centimeter, again see that water worlds
+episode.
+So there is a lot that could prevent a world
+just being covered infinitely deep in water,
+and that matters because any planet that is
+bigger than Earth and not much closer to its
+parent star ought to have a lot more hydrogen
+than us, it is incredibly common after all,
+it just blows away easily.
+Water, its most common molecular form besides
+diatomic hydrogen, is absurdly abundant throughout
+the Universe as is oxygen, coming in right
+after hydrogen and helium in elemental abundance,
+albeit a distant third, and forming the important
+part of the air we breathe, the majority of
+the mass of the water we are mostly made of,
+and the most abundant atom in the rocks we
+stand on.
+So what other weird factors should we consider?
+Well before segueing off water it’s worth
+noting that a planet mostly composed of water
+but Earth sized would have the same gravity
+as the Moon’s surface, and would have to
+be five and half times wider than Earth with
+30 times the surface area to have Earth-like
+gravity.
+Though on such a world the pressure would
+be high enough to force collapses into some
+of those denser ice-types even if it had no
+significant amount of rock.
+We shouldn’t discount encountering some
+water giants in the gas giant ranges though,
+closer to the sun than our gas giants are.
+Low density might be decently common too,
+a Super-Earth of 10 Earth masses but Mars
+density would have 14 times the volume of
+Earth, 240% of its radius, and about 560%
+of its surface area.
+We’ll call this one Ares-10, and its escape
+velocity is still only double Earth’s, more
+mass but less dense, and it might not have
+much of a magnetic field given that the density
+implies it’s low on iron at its core – we
+are contemplating natural worlds for the moment,
+see our Mega-Earths episode for truly enormous
+Earth-like worlds we made ourselves, such
+as the Saturn shell I mentioned earlier.
+One might imagine such a world as Ares-10
+forming nearer its sun and having a fairly
+tepid magnetic field, thus being fairly Mars
+like, arid and dead, instead of water rich,
+but one could equally imagine finding such
+a world that has a good mix of seas and shore
+to produce a fairly Earth-like world except
+for the high gravity.
+One thing to note though is that at higher
+pressure, chemistry often acts differently
+and biochemistry maybe even more so with many
+gases we consider benign, acting more like
+acid.
+So those are our biggest worlds, low density
+and high mass.
+The reason we would not expect to find worlds
+much more dense than Earth already, is simply
+because even a world made of pure iron is
+only 42% denser than ours and we’d not expect
+to ever see such a thing nor an entire planet
+of those rare elements denser than iron.
+You could get denser, but we probably need
+to assume special conditions like a punishing
+sun or a collision event even worse than the
+one that we think made our moon that just
+stripped off everything lighter than iron.
+Weird results from collisions is certainly
+not something we can rule out though, heck
+you might even get hoop worlds as a result,
+which are technically Super-Earths, but we’ll
+revisit them another time too.
+As mentioned we think proto-Earth got whacked
+by something Mars sized to result in the modern
+Earth-Moon pairing.
+Uranus, 15 times Earth’s mass, is tipped
+over on its side and we tend to assume a similar
+event caused that and probably also caused
+Venus to be all weird with its slow backward
+spin and day longer than its year.
+We might imagine a large planet near its sun
+getting baked off lighter elements, a hot
+Jupiter turned a Chthonian Planet, then hit
+by a dwarf planet of more normal composition
+that shoved it into a more livable orbit too
+and covered its surface with a thin layer
+of light elements, water, and air.
+We could imagine a super-Earth with a Mars
+or even Earth-mass moon around it as a near
+double planet, potentially savagely tectonic
+and with no shortage of land.
+We could imagine a collision that resulted
+in increased spin, rather than slow spin like
+Venus got, so that the world actually bulged
+noticeably at the equator.
+We could even imagine some combination of
+that which resulted in a world like Periremunda
+from the Scifi novel Duty Calls, where the
+planet’s equator is nearly open magma and
+the rest desert, except for ultra-high plateaus
+scattered around that having varying pressures
+and climates based on the altitudes of the
+various plateaus where stuff migrates around
+on wings or even by being living blimps.
+The more massive the planet, the more likely
+we have an abundance of hydrogen and helium
+for such things.
+You could have stuff living on parts of Super
+Earths that were lower pressure than Mount
+Everest and others at air pressures Earth
+never sees, even before getting to ocean life.
+Such planets could have quite a collection
+of Moons too, remember we’re talking about
+worlds often closer to Neptune and Uranus
+in mass than Earth, each with a dozen moons,
+and Earth-sized planets probably would have
+more moons in most cases where they didn’t
+have big ones like ours.
+Very large rings are possible too, potentially
+like Saturn even.
+One very likely scenario would be such worlds
+existing decently further from their Sun than
+earth, either on more elliptical orbits or
+just being colder.
+Less heat, less water over ice, less erosion,
+potentially offering ice-covered worlds of
+mountains and valleys with warm but darker
+oases below and brighter UV-blasted cold thin-aired
+spots above and many climates in between on
+the slopes and in the caves of ice.
+You could go further too, we have underground
+lakes in Antarctica, and we think subsurface
+oceans are decently common with larger and
+colder moons, so a Super Earth out past Mars
+might have a vast amount of tidally heated
+underground lakes and caverns.
+And those buried lakes in Antarctica do contain
+life, so it’s not a huge stretch.
+In this very same way, there’s nothing stopping
+some large world, a Cthonian or nearly so,
+becoming tidally locked near its sun, especially
+in the case of a red dwarf, and potentially
+instead of being bright desert on one side
+and dark tundra on the other, we could see
+molten slag on one side and icy mountains
+on the other and a wide band of habitability
+on the equator or even again by altitude,
+deep down below the punishing sunlight in
+the valleys between ancient dead but enormous
+volcanoes, breathable at the bottom but near
+airless at the tops.
+Super earths run an almost unimaginable spectrum
+of possible worlds, from paradise to graveyard,
+molten cinder to icy rock, but amid all of
+those it is possible life might arise no different
+than here, eventually growing clever and reaching
+out to space.
+As to us colonizing them, I would say not
+without much modification to the cyborg or
+transhuman, or extreme genetic engineering,
+at least for those whose gravity was half
+again our own or more, but we will have to
+see and that’s no bar either.
+I suspect though we would still rather build
+our own cylinder habitats with gravity and
+air pressure and temperature of our choosing,
+rather than trying to set up giant pontoon
+island habitats on some oceanic super-Earth.
+Of course if life originated on such a world,
+smart dolphins with technology for instance,
+and they got to space, they might prefer building
+entirely marine habitats, giant cylinders
+full of water, as might we to help preserve
+our own marine life, and it's trickier than
+it sounds.
+We will examine oceanic space habitats next
+week though.
+For now, with Super Earths, our imagination
+is our only real limit because we still know
+so little about how planets form or what the
+catalog of exoplanets really is out there
+in the galaxy.
+One thing’s for sure though, with us discovering
+hundreds of new worlds a year now, we won’t
+lack for a shortage of examples to investigate.
+A few minutes ago I was mentioning Periremunda
+from the Scifi novel Duty Calls, where they’ve
+got a blasted landscape below and many huge
+mountain plateaus everyone lives on, and the
+comedic central character of those novels,
+Commissar Caiphas Cain, spends an awful lot
+of time traveling to strange new worlds and
+trying not to get killed on them, and it was
+long a favorite series of mine that didn’t
+have any audiobooks and the publisher, Black
+Library has been moving an awful lot of its
+content into audiobook format finally, and
+has put a lot of effort into making those
+some very top notch performances, often with
+full casts rather than a single narrator.
+That series is a great example of science
+fiction and satire, so I’m retroactively
+awarding it our January Audible Audiobook
+of the Month.
+Those are all available over on our sponsor,
+Audible, and usually for less than half the
+price they retail at.
+As I often say, a good narrator can make a
+good book great, and a great narrator can
+make a great book even better, and you get
+a lot of impressive talent narrating audiobooks
+these days.
+I was rewatching Lord of the Rings with my
+wife recently, who hadn’t seen any of the
+films before, and afterward I picked up the
+newest edition of the audiobooks and those
+are narrated by Andy Serkis, who was the actor
+who played Gollum in those and his talent
+and versatility in voice-over really elevates
+the performance.
+If you’re looking for reading material during
+the winter months, and before the new TV series
+comes out, J.R.R.
+Tolkien’s Lord of the Rings, Hobbit, and
+more are rightly considered the best the fantasy
+genre has to offer.
+So I’m giving that the Audible Audiobook
+of the Month for February.
+Now Audible is the place to go for audiobooks
+but it has a lot more to offer, including
+many excellent podcasts, such as Science & Futurism
+with Isaac Arthur.
+That’s right, our show is available on Audible
+now and that includes the Narration-Only version
+for folks who prefer to skip on the music
+we blend into the episodes, which seems popular
+for folks who like to drift off to sleep listening
+to me, though the Audible Plus Catalog also
+has sleep & meditation tracks available, as
+well as guided fitness programs for helping
+keep those new year’s resolutions, and Audible
+Original’s like Nail Gaiman’s Sandman
+Act II.
+In fact, they have so much content that if
+you hit the play button it would run for a
+few centuries before anything repeated, including
+about 500 hours of this show now, and the
+whole Audible Plus Catalog comes as a bonus
+when you join Audible, in addition to your
+usual 1 free audiobook each month and big
+member discounts on additional ones, and as
+always, new members can try Audible for free
+for the first month, just go to Audible.com/isaac,
+or text isaac to 500-500.
+So today’s topic was super Earths and as
+we mentioned today, there’s a chance those
+might be entirely oceanic, and next week we
+will examine some megastures and space habitats
+built with marine habitation in mind, including
+a new ultra large megastructure option we
+have not examined before.
+Now such megastructures take huge amounts
+of mass to build and sometimes more than an
+entire solar system might contain of a certain
+element, so we’ll go into March looking
+at Nuclear Transmutation options for civilizations
+that don’t want to wait on supernovae to
+get more materials, and of course such megastructures
+often assume lifespans similar to the planet’s
+they emulate, so on March 10th we will take
+a look at how you could build a machine designed
+to last a million years.
+Then we’ll have our March Scifi Sunday episode
+to look at the concept of Synthetic Life.
+Now if you want alerts when those and other
+episodes come out, make sure to subscribe
+to the Channel and hit the notifications bell,
+and if you enjoyed this episode, please hit
+the like button, share it with others, and
+leave a comment below.
+You can also join in the conversation on any
+of our social media forums, find our audio-only
+versions of the show, or donate to support
+future episodes, and all those options and
+more are listed in the links in the episode
+description.
+Until next time, thanks for watching, and
+have a great week!

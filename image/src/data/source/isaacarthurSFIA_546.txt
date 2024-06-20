@@ -1,0 +1,645 @@
+Mercury, in Roman mythology, is the god of
+merchants and travelers,
+transporters of goods and thieves.
+Given what we’ve got planned for Mercury’s
+future, that planet is well named indeed.
+So today we are returning to the Outward Bound
+series after a few months hiatus to look at
+Colonizing Mercury, probably one of the most
+neglected planets in science fiction.
+Mars gets a lot of attention as does Venus,
+but even the various moons get more attention
+than Mercury does.
+This is a pity, because there are a lot of
+options there for Mercury, some of which we’ve
+mentioned in passing before, and when I sat
+down with the production crew on our SFIA
+Discord server to chat about those, we came
+up with pages of different possible approaches
+to making Mercury useful and even a pleasant
+place to live.
+Traditionally Mercury is seen as having one
+big problem and one big use.
+It’s scorching hot because it’s so close
+to the Sun and being basically a big airless
+ball of silicon and metal, we usually figure
+on using it as a giant building supply store
+to construct power collectors, and in the
+long term to completely disassemble it to
+form the basis of a Dyson Swarm.
+But there’s a lot of time between starting
+up some mines and power collection near Mercury
+and totally disassembling it.
+Taking apart planets is not a fast process
+and requires civilizations to exist far longer
+than any in our history.
+We often talk about the problems in science
+fiction and futurism in general of people
+not really getting scale right, and lifetimes
+of colonies is a good example of that.
+We might point at a supergiant star with a
+lifetime of a hundred million years, already
+more than halfway done, and say “You wouldn’t
+colonize that” while forgetting that compared
+to any civilizations which have ever existed,
+that’s nearly an eternity.
+If some big island rose up from the depths
+of the Pacific tomorrow, covered in fertile
+mud, and geologists said it would sink in
+a thousand years, many would of course rush
+to claim and colonize it.
+Many folks would shake their heads and point
+out that it was doomed, but the last laugh
+would presumably be on them, since that’s
+a millennium for a culture to flourish on.
+Even Rome, the Eternal City and the standard
+by which we tend to judge long-lasting civilizations,
+lasted only about this long.
+You don’t need to be around long to have
+a lasting impact on humanity, our culture
+or technology, let alone just have a long
+and productive life.
+Nor is the need to eventually move really
+a problem, after all your ancestors would
+have moved or you wouldn’t be there.
+So not only can a great civilization be worth
+having even if it would only last a few centuries,
+but it’s quite rare for them to even last
+that long.
+That’s something worth remembering when
+we talk about colonizing places, they’d
+go through a lot of phases and a lot of history,
+even if they had much sooner expiration dates
+than billions of years.
+Whether or not Mercury might get disassembled
+is probably a long way down the road, so today
+we’ll focus on near and mid-term colonization.
+But let’s start by talking about Mercury
+and how and why we’d want to start a basic
+colony there.
+Mercury of course is the closest planet to
+the Sun, and thus we’d tend to think of
+it as the hottest but Venus beats it out slightly
+for peak temperature and Mercury gets downright
+cold at night.
+Unlike Venus, it has no atmosphere worthy
+of note, just a thin haze of mostly hydrogen
+and helium from captured solar wind that soon
+enough evaporates away and gets replaced by
+more of it.
+The surface pressure of that atmosphere is
+less than in Low Earth Orbit by the space
+station and so can be mostly disregarded.
+Like Venus, it has a peculiarly long day.
+It was once believed to be tidally locked
+to the Sun like the Moon is to the Earth,
+which means a 1:1 orbital resonance where
+the day and year are the same length, leaving
+one side eternally lit by the Sun and the
+other in darkness.
+But actually, Mercury is in a 3:2 Orbital
+Resonance, meaning it rotates on its axis
+3 times for every 2 orbits around the Sun,
+which it does every 88 days.
+It rotates once on its axis every 59 days,
+two-thirds of 88 days, but that is not its
+day night-length.
+Indeed, Earth doesn’t take 24 hours to rotate
+360 degrees, just 23 hours and 56 minutes,
+what we call the sidereal day, the time for
+one complete rotation.
+But as it is moving around the Sun, it takes
+just a bit longer on each rotation for the
+Sun to be in the same place, to set on the
+horizon, just 4 minutes, resulting in a 24
+hour day/night cycle, what we call the Synodic
+Day, though of course we just call it the
+day.
+However on Mercury the rotation is so long
+and the orbit so short, that this effect is
+considerably magnified.
+The Sidereal Day on Mercury is 59 days long,
+while the Synodic Day, the time for one day/night
+cycle, is 176 days, or two Mercury years.
+That’s a very long time to wait between
+sunrises and sunsets.
+More importantly though, with an equatorial
+circumference of just over 15,000 kilometers,
+the day/night terminator only moves 87 kilometers
+a day or 3.6 kilometers per hour at the equator,
+walking speed.
+Move up north or south to say, 60 degrees
+latitude, and that’s cut in half, at 76
+degrees it would be only a quarter, and you
+could keep ahead of the rising sun if you
+were strolling and camping to rest along the
+way.
+We’ll be talking about mobile bases, colonies
+just rolling around on wheels or rail later
+today, and they wouldn’t need to move too
+fast particularly up by those poles.
+If you’re curious, if you take the cosine
+of your latitude, north or south, and multiply
+it by a planet’s circumference, 15,300 kilometers
+for Mercury, or by pi times its diameter,
+then divide that by how many hours in its
+day, that will tell you how fast you need
+to move to keep up with the Sun, such that
+it would never set, or to stay out of it,
+so it would never rise.
+Ideally, you don’t want to be around when
+the Sun is up on Mercury, since the temperatures
+at noon would flash fry you, but you don’t
+want to be there at midnight either.
+Its temperature ranges from hotter than your
+oven to colder than liquid oxygen or nitrogen.
+So if you could be mobile, you’d probably
+want to chase around that Terminator, staying
+just where you could catch some solar power
+but where it hadn’t heated up or cooled
+down much yet.
+You’d presumably have a ring rolling around
+the planet’s poles that was a comfortable
+room temperature and want to stay near there
+if you could.
+As I said, Mercury is not tidally locked,
+it doesn’t have a stationary day and night
+side.
+There’s some debate if this might ever change,
+as Mercury has a particularly high orbital
+eccentricity which makes a 1:1 resonance less
+likely.
+Indeed it's the most eccentric orbit of any
+planet, now that we don’t count Pluto, which
+is so eccentric that it is often closer to
+the Sun than Neptune, and in fact it was from
+1979 to 1999.
+Mercury doesn’t ever become our second planet,
+even at aphelion, when its furthest from the
+Sun at 70 million kilometers, it’s still
+a lot closer than Venus ever gets.
+But at Perihelion, Mercury gets to just 46
+million kilometers from the Sun.
+That means it gets half again as far from
+the Sun at Aphelion than Perihelion, and since
+light from the sun falls off inverse square
+of the distance, it only get 40% as much light
+and energy at Aphelion as it does at Perihelion.
+So even keeping up with the Terminator won’t
+give you a stable temperature.
+Nor is that sunlight very healthy even where
+the temperature hasn’t risen much yet.
+There’s no air there filtering out the harmful
+frequencies of sunlight.
+This of course is one approach to colonizing
+Mercury for mining.
+You set up your camp where it’s cool and
+move on when the light and heat are too much.
+You drive ahead to some place that’s colder
+but not quite so cold you can’t work there,
+set up your camp again, do some more mining,
+and move on.
+Think of the Sand crawlers from Dune that
+harvested the Spice Melange, only you’re
+running from the Sun rather than giant sandworms.
+You’d probably want to make sure you’ve
+got back up vehicles and engines in case one
+dies, and you can use the extra energy while
+moving to power your smelters and refineries.
+Needless to say heating things up on Mercury
+to smelt them isn’t too hard, a solar oven
+would work quite well there, with no clouds
+and being that close to the Sun.
+Mercury’s night side is also a good place
+to get rid of heat, something hard to find
+anywhere else near the Sun.
+You can create a cool day anywhere in space
+by just putting a mirror between you and Sun,
+but if you’re generating a lot of heat,
+you can only get rid of that by radiating
+it away.
+Down on Mercury’s night side you can use
+conduction too, so you might have mobile factories
+at work, not just mining and refining operations.
+Of course getting what you produced off Mercury
+isn’t too hard either.
+Mercury has an escape velocity of just 4.25
+km/s, and an orbital velocity of just 3 km/s.
+Moreover, it has no air, so you don’t even
+need any of the impressive launch systems
+we’ve discussed like launch loops or orbital
+rings.
+If you had a flat track you could drive on
+down there, without worrying about friction
+on the wheels, you could literally drive down
+that highway, flooring your engine, until
+your car left the ground.
+Not because you’d hit flight speed, there
+is no air lift or drag, but because you’d
+hit orbital speed.
+Setting up a track something can run down,
+a mass driver, is a lot easier here because
+you don’t need a tube around it to evacuate
+air out, you have way weaker gravity, so building
+tall is easier and you need less speed, and
+you don’t have to elevate the launch tube
+anyway, as there’s no air to lift it over,
+so you’d just have to bridge over any craters
+you came across.
+It’s actually landing on Mercury that’s
+a pain, as again there’s no air, so much
+like on our Moon, we can’t aerobrake to
+shed velocity for free.
+Though you might be able to hit a very long
+track, very precisely, and slowly shed speed
+off with friction or run down a magnetic tube,
+the reverse of a typical mass driver, to let
+it leach your speed off as power rather than
+inserting power to give a ship speed.
+This gives you a good reason to consider building
+a track all the way around Mercury, and it
+need not be at the equator either if you wanted
+to keep it shorter.
+Mercury gets hot, but is still cool enough
+for many metals to handle.
+Even steel, which is fairly mundane considering
+some of the materials we might use, retains
+its magnetic and conductive properties at
+those temperatures and one thing Mercury is
+not lacking in is metals.
+One would still have to worry about metal
+fatigue though, as some metals there would
+be expanding and contracting to varying degrees
+as they ran up from temperatures cold enough
+to liquefy air to temperatures hot enough
+to melt lead, but this is happening once a
+Mercury day, which is very long, so it’s
+not being heated and cooled constantly and
+breaking quickly as a result, and we know
+a lot of tricks for various alloys and composites
+that minimize metal fatigue these days anyway.
+However, while the surface of Mercury is constantly
+fluctuating in temperature, every planet has
+a vertical temperature gradient.
+Here on Earth, if you dig down a bit, you’ll
+hit a spot where the temperature stops varying
+much by time of day, dig down a bit deeper
+and it will stop varying much over the course
+of a whole year.
+How deep you need to go for each spot varies
+on your latitude and soil type, but the Mean
+Earth Temperature is usually reached after
+about 4 or 5 meters.
+Mercury should have such a spot too, if you
+dig down a little bit, but as it receives
+far more light than Earth and has a bigger
+core, it’s unlikely to be a comfortable
+temperature in many spots.
+There was some modeling done on this and variation
+on the methods, but interestingly Mercury’s
+temperature varies by longitude, not just
+latitude, as it does have that highly eccentric
+orbit and long day in orbital resonance.
+But depending on the model we start seeing
+human livable temperatures underground even
+away from craters as we get closer to the
+poles, and in one of the more optimistic models,
+even room temperature underground at the equator,
+at 90 degrees west.
+Regardless it is going to stabilize at some
+depth, which would help with expansion and
+contraction causing fatigue and other construction
+problems regardless of that equilibrium temperature,
+so you could retract bits of track or other
+constructs underground or even build that
+way, down in tunnels built with a tunnel boring
+machine that mines and leaves you with habitable
+space, and we will discuss air conditioning
+in a little bit.
+So that’s one possible option so far.
+We’ve got the mobile one, where you pick
+up and move sporadically or keep your base
+constantly moving, powered by solar to run
+your vehicle-bases.
+And we’ve also got the retracting option,
+where things fold down at night and brightest
+day and pop back up when things are more moderate.
+But you don’t necessarily need to do either.
+We’ve discussed something I call a Mushroom
+Habitat before.
+This is where you stick your habitat up on
+stilts that aren’t thermally conductive
+so you aren’t getting much heat from the
+ground and put a big umbrella over it covered
+in mirrors to bounce light away, one that
+could flip open or move aside to let in however
+much light you wanted at the time too.
+Once more, there’s no air, so heat can only
+get to you by absorbing sunlight or touching
+the ground and conducting it up, no convection.
+You probably don’t need anything high-tech
+like aerogel to build those stilts or pad
+out of, just something that doesn’t conduct
+heat well, likely made from the silicate beneath
+you, nor does that habitat or big mushroom-cap
+mirror shade require any fancy engineering,
+as there’s no wind pushing on it and not
+much gravity pulling it down either.
+You might make it tilt-able so it’s just
+always blocking the Sun from hitting your
+habitat and the ground near it, as the Sun
+slowly rises and sets over the course of 176
+days.
+The other handy thing about not having air
+resistance is that you can spin that habitat
+to combine centrifugal force with local gravity
+for a higher net gravity.
+As we’ve discussed before, you can combine
+centrifugal force with local gravity, sloping
+your floor to let you merge those two perpendicular
+forces for a higher effective net gravity.
+Odds are pretty good Mercury’s gravity,
+again the same as what Mars has, is enough
+for people to live with some healthy exercise
+and supplements, but if not, or if that’s
+uncomfortable, you can go the spin-habitat
+route, as we’ve suggested doing on the Moon
+or bodies with a significant surface gravity
+but not quite enough for health and comfort.
+So that gives us three options for living
+there, and again there’s no problem getting
+power as the Sun provides plenty, at least
+during the Day, those are some pretty long
+nights if you’re not mobile.
+That can be gotten around by using orbital
+power satellites, and building big power satellites
+is very likely to be something done on Mercury,
+for collecting power up near the Sun to beam
+back to Earth or other places.
+However that big change in temperature constantly
+going on in the ground is pretty nice for
+thermocouples too, as is that large molten
+core for geothermal during the nights.
+This got us thinking about generating power
+using that temperature difference, and with
+big long tracks running around the planet,
+and we came up with an interesting fusion
+of all these ideas that provided a lot of
+complimentary options and handy redundancy.
+If you built one or more facilities by one
+of the poles, you can make that track around
+the planet quite short.
+You can have solar panels nearby that are
+constantly feeding sunlight in, and flipping
+over or retracting if the heat or light becomes
+too intense.
+Those also can act as nice radiators to get
+rid of waste heat, as they have large surface
+areas.
+Buried underneath the track could be long
+wires carrying power to wherever the bases
+were, but you could also have big wide pipes
+carrying coolant, be that water or whatever,
+and indeed we think there is water in some
+craters at Mercury’s poles, it’s actually
+quite cool there, relatively speaking.
+That coolant could help regulate temperature
+for the bases, and even those solar collectors
+or other constructs.
+What’s more, a big ring of fluid at different
+temperature is easily modified into a Stirling
+Engine, and represents a viable power source,
+and a pretty big one, all on its own.
+We were talking a couple of months back about
+how civilizations are defined as much by what
+they have a scarcity of as an abundance of,
+and in the case of Mercury, we can say two
+things: they have a lot of raw materials to
+build stuff out of, and the power to run it.
+As we said earlier in the series when we looked
+at colonizing Saturn’s moon, Titan, and
+how it’s huge abundance of cold made computing
+and industry more efficient, here on Mercury,
+while computing would be rough, the sheer
+amount of raw materials, silicon in particular,
+and energy make industry a pretty viable option,
+and there’s no atmosphere or oceans to pollute.
+As we also said in our look at Titan, colonizing
+a place does not necessarily mean we are making
+it Earth-like or even living there, but as
+we can see, you could live there easily enough,
+none of this is very high-tech or hard to
+do and allows a lot of over-engineering and
+redundancy to keep folks safe if bits and
+pieces fail.
+In this case, folks could slowly harvest material
+from Mercury, whittling away at its mass,
+for a very long time without making much of
+a dent.
+Earth’s steel production is a bit over a
+billion tons a year, even if Mercury exported
+a hundred times that, a hundred billion tons
+a year, of various metals or manufactured
+goods, it would take around a billion years
+just to reduce that planet’s mass by a couple
+of percent, with no real effect on the local
+gravity.
+That’s a very long time for a very productive
+civilization to last.
+Of course you might decide you want to terraform
+it, and as we’ve discussed with other places,
+we can make it fairly Earth-like.
+Large mirrors or shades, orbiting or at the
+Lagrange point between it and the Sun, the
+L1, could be used to cool the planet down
+and by use of those mirrors, orbiting the
+planet once a day – an Earth Day – produce
+a 24 hour day/night cycle.
+Mercury is massive enough to hold a breathable
+atmosphere, and so long as you aren’t letting
+the Solar Wind strip that off, it will stick
+around if added, as would water.
+Indeed with that solar wind blocked, its own
+magnetosphere and the addition of an atmosphere
+will help block remaining radiation.
+Mercury has plenty of oxygen in the rocks,
+and that’s plentiful everywhere, it could
+get its nitrogen from Venus, which has plenty
+but has a boiling hot atmosphere between it
+and its metals and we might prefer to get
+them from Mercury instead.
+With all that power and industrial capacity,
+it has the coin it needs to buy what it needs
+to make it a livable place.
+You could of course spin it up, by launching
+matter you’ve extracted from the Planet
+from mass drivers to their destinations, so
+long as you timed and aimed that right, you
+could slowly increase Mercury’s rotational
+rate.
+You could also, and more easily, slow it down
+even more so it was tidally locked, giving
+you a permanent day and night side and areas
+of stable temperature, just fluctuating as
+Mercury got closer or further from the Sun
+over its year of a mere 88 days.
+Which might make that big cooling loop and
+Stirling Engine we discussed earlier work
+even better.
+Indeed you could mess with its eccentric orbit
+too, normalizing that, by the same method.
+Like Venus it needs hydrogen, but it’s far
+closer to the Sun, which has plenty, and is
+hit by solar wind, rich in hydrogen and helium,
+both things it could collect and use or sell.
+This could also serve as yet another source
+of power, using a big mirror or shade between
+the planet and the sun, acting as a giant
+windmill driven by the solar wind.
+There’s some interesting tricks for doing
+this with nanomaterials we may discuss in
+the future, but it could be done by just having
+a big pinwheel shape, or several, potentially
+with paddles spaced to let light through in
+a 24 hour pattern.
+These could also be used to slow down and
+funnel large amounts of solar wind to polar
+collectors – Mercury’s magnetosphere does
+tend to already funnel that in by the poles,
+similar to our polar auroras.
+We couldn’t find an example of this in the
+literature so after a bit of debate we settled
+on naming it a ‘Star Wheel’, and the potential
+massive factories using that captured solar
+wind and energy and raw materials from Mercury
+a Star Forge, as a hat tip to Knights of the
+Old Republic.
+Done properly you could use most of these
+options together to make Mercury a very livable
+place you could walk around the lush forests
+and fields of, while exporting huge quantities
+of energy, raw materials, and manufactured
+goods to the rest of the solar system.
+It’s also a great place to build stuff for
+space, not just solar collectors for near
+the Sun, but even ships.
+Mercury, named for the fleet-footed messenger
+of the gods, is the fastest planet, orbiting
+the Sun at 48 kilometers per second or over
+100,000 miles per hour, a nice boost to a
+ship wanting to leave the system, even though
+it will lose much of that as it has to work
+its way out of the Sun’s gravity well, but
+as we discussed in Colonizing the Sun, you
+can build enormous lasers there, such as the
+Stellaser, and it’s much easier to keep
+a powerful beam locked onto a ship to push
+it when it’s closer.
+Such a vessel, built and launched from Mercury
+and pushed by Stellasers, could pick up a
+lot speed as it headed out of the solar system,
+a possible alternative to our usual approach
+of assuming a fusion powered ship launched
+from some icy moon or asteroid deep out in
+the solar system where the gravity well of
+the Sun is mostly gone and hydrogen for fusion
+fuel and propellant is plentiful.
+It’s always important to me in this series
+that we look at a different way of approaching
+colonization for each episode, which is why
+we probably won’t want to do one for every
+planet and why I initially skipped Mercury
+for terraforming, it’s a lot like Venus
+and I always think of it as just a big supply
+depot for building a Dyson Swarm.
+In hindsight though I do regret that, as we
+can see there are a lot more options for Mercury
+than at first glance.
+Sadly I’m not alone in that bias, and it
+gets rather neglected in fiction.
+There are not too many colonies on Mercury
+in sci-fi, and when they are mentioned at
+all it tends to be very briefly.
+There’s one in our Book of the Month from
+last week, Dennis E. Taylor’s Singularity
+Trap, and it’s the center of the 2005 novel
+Mercury by Ben Bova, my personal favorite
+in his Grand Tour series, as well as the home
+for a lot of the characters in David Brin’s
+1980 novel Sundiver in his Uplift Saga, but
+a lot of the fiction on it dates back to the
+older days of sci-fi when we knew less about
+it and in novels where the science part of
+science fiction was mostly ignored.
+Again we can see a lot of options on the table
+for making it a fairly interesting place to
+live so perhaps we’ll see some more novels
+giving it a center stage.
+Good science fiction doesn’t have to put
+a focus on the science, but I think it’s
+better when it does, and certainly as one
+learns more science it can be rather irritating
+when an author makes a mistake on that.
+Points to all three of those authors, Taylor,
+Bova, and Brin, for being in the minority
+who always do their homework and know their
+science, and their works are made more enjoyable
+by that.
+I mentioned how Mercury’s low escape velocity
+affords it numerous benefits like requiring
+less energy to export materials.
+But how low can we go?
+If you want to understand further about escape
+velocity and its implications, then I recommend
+that you check out Brilliant.org.
+They have a course on applying Newtonian Gravity
+to Escape Velocity, which also covers the
+technical planning for interplanetary travel,
+and extends to the effects on the stability
+of planetary orbits and the solar system!
+I found the explanation of how escape velocity
+emerges from gravity straight-forward and
+intuitive, and recommend that you check it
+out.
+If you want to learn how to quickly understand
+the depths of everything an aspiring space
+traveler would need, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription.
+That’s the subscription I’ve been using
+to explore concepts like escape velocity.
+As a quick headsup before we talk about what’s
+scheduled for next week, last week I sat down
+for an interview on TMRO with Athena Brensberger
+to discuss some of the implications of topics
+we look at here, then joined the rest of TMRO
+crew for a fun chat later in that episode.
+I’ll post a link to that n the video description
+below.
+So the Outward Bound series came out of hiatus
+to look at Mercury and we’ll be coming back
+to it again soon to look at Ceres, the queen
+of the Asteroid Belt and arguably our fifth
+planet, in which context Pluto would presumably
+be the tenth, or Planet X.
+Before that we’ll be looking at the notion
+of civilizations rising and falling, over
+and over again, and what traces they might
+leave behind, if they could rebuild afterward
+when some resources might be gone, and how
+this might fit in with the Fermi Paradox,
+in Cyclical Apocalypse.
+The week after that we’ll return to our
+look at Post-Scarcity Civilizations and ask
+what sort of purposes might motivate and drive
+people in a society that is essentially a
+Utopia, and what might happen if those folks
+don’t have a purpose to their existence.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a great week!

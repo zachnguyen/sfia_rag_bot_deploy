@@ -1,0 +1,757 @@
+This episode is brought to you by Brilliant.
+One day humanity might not just have homes
+that stretch up into the heavens, but farms
+and forests which rise into the sky too.
+So today we are going to be looking at Arcology
+Design and we have to start by asking what
+arcologies are.
+This is trickier than it sounds because Arcologies
+are a concept that’s crept into public awareness
+with two parallel but distinct meanings.
+The first is the original meaning, where arcology
+is a portmanteau of architecture and ecology,
+coined by architect Paolo Soleri, who conceptualized
+it as essentially communities that were mostly
+self-sufficient and sustainable.
+But the definition popularized by science
+fiction writers has been more like a very
+large building that is a city unto itself,
+complete with farms and factories and living
+spaces.
+As is always the case with fiction, peaceful
+and prosperous civilizations tend to make
+for boring stories, and giant super-buildings
+that dwarf any skyscraper obviously have an
+appeal to sci-fi authors.
+So, I think the view of them as mega-skyscrapers
+is probably the better known one.
+Nonetheless a more originalist view of them
+is probably to include any city or town that
+is at least moderately populous, mostly self-sufficient,
+but not techno-primitive.
+Portrayals can run from the not-quite-utopian,
+in which an impeccably engineered and maintained
+arcology houses a society that’s just as
+regimented and controlled as their habitat
+and turns out to have a sinister side -- to
+the explicitly dystopian visions, often set
+in run down and decayed arcologies leftover
+from better times.
+Needless to say a rundown mega-scraper where
+the only flora and fauna are humans, rats,
+and mold wouldn’t seem like ecological architecture
+but that is technically an ecosystem and if
+everyone is eating recycled garbage and waste
+as nutra-paste it is arguably agriculturally
+self-sufficient.
+We played with some of the more dystopian
+scenarios, like morlocks and cannibals in
+the sewers, in our episode Mega-cities.
+So as we discuss design today I’m going
+to try to look at both perspectives, the big
+super-building that contains a mostly self-sufficient
+city and the more rural but technologically
+advanced options as well.
+To begin with, let's acknowledge that total
+self-sufficiency may be an option and is in
+some contexts a necessity but is probably
+not a desirable goal in and of itself.
+For instance, a Mars Base or O’Neill Cylinder
+might be rather self-sufficient by choice
+and an interstellar colony self-sufficient
+by necessity, being years from us in travel
+and communication, nonetheless total self-sufficiency
+is presumably only a goal as either a reserve
+of security or for those who are very isolationist.
+You might want to be able to produce all you
+need but you will generally have at least
+some items you wish to import or export even
+if as luxuries, be it physical goods or video
+entertainment or tourists or what have you.
+We will try to discuss how self-sufficiency
+can be obtained across the board, but we will
+not assume ideal arcology design means total
+independence from outside trade and interaction.
+A town running on solar power, even if they
+manufacture the panels locally, is still importing
+sunlight, so too it must still export entropy
+or heat, though we could imagine some super-advanced
+technology indistinguishable from magic – what
+we call Clarketech on the show – which circumvented
+both needs, like a city in a pocket universe
+with perpetual motion machines and something
+akin to a Star Trek Replicator.
+We probably will never have those, but 3D
+printers are getting ever better and do offer
+paths to self-sufficiency for smaller communities.
+They could get good enough that an arcology
+might be applicable to very small communities,
+or even families or individuals.
+Someone might have a rural log cabin in the
+woods atop an underground facility producing
+all their food and power and personal goods.
+Or we could go even larger than the arcologies
+of big skyscrapers up to megastructures of
+planetary scale, not simply O’Neill Cylinders
+but the bigger version, the McKendree Cylinder
+Continent Sized Habitat.
+Fundamentally a terraformed planet qualifies
+as an arcology so long as it is both high-tech
+and ecologically sound.
+Nonetheless we’ll keep our focus on the
+self-sufficient technological town and the
+city-in-a-giant-building versions.
+Let’s start by looking at what they need.
+This is going to include things like schools,
+hospitals, police, fire, and emergency personnel,
+and so on but let's contemplate the main staples
+first.
+Obviously producing the vast majority of your
+food on-site is needed, as is stable water,
+air, and waste management.
+For a town on Earth there is no special need
+for advanced technology to achieve this, but
+for a building it requires options like artificial
+lighting, vertical farming, massive networks
+of air ducts and plumbing.
+It’s a challenge too because if you are
+using natural sunlight, the areas most desirable
+for residential uses are on the outer edges
+of the structures where agriculture is also
+most easily done.
+A recurring problem with a lot of fictional
+portrayals of food production tends to be
+way off about the scale of agriculture.
+While greenhouses, hydroponics, or some gardening
+focused on intense calorie per area production
+can really let you squeeze food out of small
+spaces, though usually for large investments
+of other resources like time or money, the
+agricultural area of Earth is about 5 billion
+hectares, or 12 billion acres.
+With about 8 billion people, that’s about
+.6 hectares or 1.5 acres per person, and hundreds
+of times what the residential area per person
+is.
+Very intense use of climate-controlled hydroponics
+in artificially lit vertical layers can potentially
+allow you to grow all of one person’s food
+needs in as little as 100 square meters, a
+hundredth of a hectare.
+And for that matter ‘food’ might not necessarily
+need to be grown, as in the case with Star
+Trek Replicators or food printers using a
+base stock of something like algae or even
+chemically synthesized amino acids, carbohydrates,
+and fats.
+Neither should we discount the reduced calorie
+needs a post-human or cybernetic civilization
+might have, or even that an arcology might
+be a big computer covered in solar panels
+in which a vast virtual civilization lives,
+like those we contemplated in Virtual Worlds
+some years back.
+Those folks might be entirely digital themselves
+or very adulterated humans living in sensory
+deprivation tanks with tubes bringing in nutrient
+or even just blood and air, inside some giant
+building with vats growing artificial blood
+and a mega-heart pumping it around, getting
+very literal with our tendency to discuss
+transport inside buildings or cities as analogous
+to veins and arteries.
+For the moment though let’s assume relatively
+modern crops and growing methods, being grown
+for contemporary humans to eat.
+If they wish to do this with Sunlight, this
+still allows much compaction.
+Very approximately, good food crops where
+photosynthetic conversion of sunlight to food
+calories is concerned runs about 1%, not terribly
+efficient, but a typical human needs the equivalent
+of roughly 10 million joules of food energy
+per day, or one billion joules of sunlight.
+Which probably sounds like a lot, indeed it
+is the equivalent of a bit over 30 liters
+of gasoline, or a bit under 10 gallons.
+However, while it varies by time of year,
+weather conditions, and how far north of the
+equator you live, the average sunlight falling
+on a given square meter of Earth is 21.6 million
+joules, so 46 square meters or 500 square
+feet per person would hit that needed sunlight
+input assuming you were able to make sure
+virtually all of it was hitting leaves or
+algae or what have you, possibly by clever
+use of large fibre optics and mirrors and
+reflective foils on those surrounding surfaces
+that were not photosynthetic, like putting
+a reflective film on the wall of a growth
+chamber or on the dirt the plant was in.
+Such being the case, a building whose effective
+solar absorption footprint was a square kilometer
+could support 20,000 people, depending on
+latitude, and assuming minimal losses or uses
+for other things like regular power generation.
+10,000 would probably be on the upper end
+of plausible though.
+In this case by footprint we could either
+be talking about a big rooftop - a giant building
+can be short and just very wide, like a bunch
+of connected domes in a tundra or on Mars
+- or a tall structure whose sun-facing sides
+were principally windows to let light in,
+or some combination thereof.
+If they are very good with light, they might
+split the incoming sunlight into those wavelengths
+and ratios optimized for photosynthesis, mostly
+red and blue, while diverting most or all
+the green and infrared parts of the spectrum
+into power production.
+And by the way, if you’re surprised that
+plants don’t use the green light, remember
+that leaves and all green things are green
+precisely because they reflect green light.
+So we see the part of the spectrum that the
+plants don’t use.
+And a lot of the spectrum that plants do not
+use for photosynthesis is also in wavelengths
+we can not see either.
+We often contemplate artificial lighting from
+nuclear fission or fusion, or even energy
+beamed in from orbital power collectors.
+Though the latter is much more of an external
+jugular vein than sunlight or deuterium or
+hydrogen for fusion, or materials for fission.
+Fission and fusion fuels could be mined in
+deep subterranean levels of the super-scraper
+or externally sourced but stockpiled abundantly.
+They don’t take up much room.
+However we need to keep in mind that for every
+joule of heat you bring in, your arcology
+needs to radiate off a joule or it will heat
+up until you fry yourselves.
+So just as your super-scraper needs a large
+bank of solar collectors expanding around
+it, it will also need a big bank of radiators
+too.
+In the absence of a big liquid supply on hand
+like an ocean, the radiators might be as space-consuming
+as your sunlight or power collectors, indeed
+you might use arrangements that utilized a
+space for both power collection and heat radiation,
+collecting sunlight or heat during the day
+and pumping waste heat away at night.
+The radiators might be more useful than you
+would expect though.
+If the arcology is located in an area that
+gets cold in the winter, that waste heat might
+be piped under the surrounding streets and
+highways, keeping them free of snow and ice
+all winter, or it might be sold to heat smaller
+surrounding buildings, or you might heat vast
+swimming pools, or even be used for farming
+greenhouses as alternatives to vertical farming
+or open-air agriculture.
+During the summer or in a hotter climate the
+waste heat might be used to convert seawater
+to fresh water.
+Alternatively, this tremendous excess of heat
+could be used to maintain agriculture and
+comfort in an area that is normally much too
+cold such as Antarctica, the Atacama desert,
+or the Kamchatka peninsula.
+Due to the high density and self-sufficiency
+of an arcology, it would minimize the environmental
+impact on these locations while moving people
+out of areas with higher natural biodiversity
+such as the temperate and tropical zones.
+A natural location for at least some of the
+radiators would be to have them project from
+the structural beams between exterior windows.
+If you make the radiators transparent, and
+use algae-filled water for your coolant fluid,
+you might also use them to grow agricultural
+feedstock, reducing your lighting bill without
+meaningfully impacting the amount of window
+space available to residents.
+Key notion though, when we’re talking waste
+management for arcologies, it’s a broader
+subject than normal.
+A large structure, potentially one so tall
+it may reach into another region of our atmosphere,
+needs to be handling waste of all types including
+exhaled air and excess heat.
+As an upside, the key concept of the arcology
+is that it is aiming for a mostly-self-contained
+ecosystem so things like exhaled carbon dioxide
+or human waste can be recycled by the plants
+you’re growing for food.
+This though is problematic in off Earth environments,
+because when it comes to human food crops,
+the amount of the carbon dioxide they need
+is not going to match what humans produce
+without careful coordination and balancing.
+So too you can probably always use machines
+that scrub CO2 more efficiently than a plant,
+or have plants that optimize for some sort
+of task - producing calories, recycling air,
+water, waste, etc but not the others, so that
+balancing is vital.
+Arcologies are going to rely on masterful
+understandings of both biology and human psychology
+as much as more physical technologies.
+While a giant skyscraper on Earth is what
+is often envisioned in fiction for future
+arcologies, it would seem more likely that
+Earth will be the last place the architectural
+style catches on.
+On the other hand it may be the first place
+it catches on, given that it’s the only
+place humans live right now, and also given
+that we have to get decent at this technology
+before we can make a serious go at off-world
+living.
+I would also guess almost every arcology is
+going to have a few inputs or outputs that
+are viewed as exceptions to self-sufficiency,
+either out of necessity or the opposite, hyperabundance.
+An arcology on the Moon is very likely to
+think of oxygen as a waste product they can’t
+get rid of fast enough, rather than its usually
+envisioned role in scifi of being the thing
+they rely on importing, with the oxygen supply
+train as the colony’s big vulnerable jugular
+vein.
+To the contrary, they should be over-producing
+it, which might make for a good trade item
+but also might be something they have to give
+away or even pay folks to take or just dump
+on the Moon’s airless landscape.
+We’ve discussed that in greater depth in
+our various episodes in the Moon playlist,
+but in summary form: The biggest apparent
+resource of the moon besides abundant raw
+sunlight is all the minerals that we can access
+and refine and ship off for a tiny fraction
+of what it takes to source material for space
+from Earth.
+However the biggest ingredient in almost every
+rock, mineral, and ore is oxygen and is often
+accompanied by water, which is 89% oxygen
+by weight.
+Smelting a ton of a given mineral will produce
+roughly the amount of oxygen a human needs
+for a year, and given that your food plants
+on-site generally can scrub CO2 out of the
+air and restore it as oxygen, means you hardly
+need constant new inputs except for expansion.
+Indeed, generally the material used for building
+a structure is going to produce more oxygen
+when being made than the structure will need
+to contain, assuming you plan to recycle it.
+And oxygen has very little export value, as
+it is the third most abundant material in
+the Universe and is plentiful wherever you
+find rock or ice, which tends to be where
+humans would set up shop anyway.
+One of the critical concepts of arcologies,
+sustainable economies, and efficient energy
+in general is that one man’s garbage might
+be another man’s treasure, or at least something
+you can offload at a lower cost than burying
+it somewhere.
+It is strange to think of oxygen as not having
+a lot of value, this thing we can only live
+a few minutes without, but arcologies being
+built on airless worlds are likely to regard
+it as such.
+Interestingly this might assist in a slow
+terraforming, since they might just vent it
+onto the landscape, especially the superhot
+byproduct gases of refining a metal.
+And the same is true of heat, you can generate
+power with heat, especially with large temperature
+differences like molten metal compared to
+room temperature, but doing so is often viewed
+as more expensive or complicated than its
+worth, and technologies that alter how easy
+that is to do might impact arcology design
+a lot.
+Which is true of many technologies.
+In a fusion-powered economy, it would seem
+likely you would run all your lighting for
+agriculture on artificial lights and pack
+your agricultural into the central region
+of any given floor of the arcology, leaving
+the outer layer for residential usage as people
+like windows, or the lower levels, potentially
+growing all your food very deep down.
+You can use abundant power to fix almost any
+problem by sheer effort, as we say on the
+show, “If Brute Force isn’t working, you
+are not using enough of it”, so you might
+build an arcology next to a river or ocean
+and use that for cooling and just use fusion
+to power your way to self-sufficiency.
+Alternatively, efficiency is always desirable,
+so you might run your lowest levels as mineral
+extraction, delving ever deeper or outward
+as you create endless tunnels and lower levels,
+above that would be your power production
+and smelting, above that, either automated
+factories or hydroponics, which are resistant
+to heat or enjoy it, then human-staffed non-automated
+factories above that, possibly all still underground,
+then possibly a big tower rising up to the
+sky whose outer skin was residences, mid region
+was parks and commercial regions for each
+level or block of levels, and maybe in the
+central core a giant shaft to move heat up
+serving as a huge thermal power tower.
+Or maybe a way for launching things directly
+to space, like a big space gun, though probably
+only using a rail gun or mass driver type.
+Speaking of levels, one of the issues with
+supertall buildings is what we call the Elevator
+Conundrum, something we discussed before in
+our original arcologies episode many years
+back and our more recent episode, mega-cities.
+This is the issue of elevators taking up the
+same amount of space on each level for elevator
+shafts.
+A building 5 stories tall with one elevator
+shaft might have a shaft footprint of roughly
+5 square meters or 50 square feet, per floor,
+for 25 square meters for the building over
+those five levels, but one 10 stories tall
+needs twice as much for that one shaft, 50
+square meters, while at the same time it presumably
+has twice as many residents needing twice
+as many elevator trips, or twice as many elevator
+shafts, so now its 100 square meters, not
+25.
+However the elevator trips take longer if
+everyone is going mostly from their residence
+to the ground floor, loosely speaking twice
+as long for going to the 8th floor than the
+4th, you would need to double your elevator
+once again to account for the longer trips.
+Before long you are using a lot of valuable
+floorspace for elevators, and this is a real
+bottleneck on residential high-rises and skyscrapers,
+as they also tend to cost more to build and
+maintain per square foot of internal area
+than shorter structures.
+Given the option of building twice as high,
+you might find it costs not double, but four
+times as much, and that elevator space is
+costing you half of your new space anyway.
+Though, living in the same building you work
+in will reduce elevator demand compared to
+modern skyscrapers, and careful design of
+other facilities and their proximities to
+each other can reduce travel times and distances.
+Stairs may even prove to be desirable features
+not just to reduce elevator congestion, but
+for opening up interior spaces and exercise
+too.
+Cities are valuable real estate so it can
+sometimes be worth it to build pretty tall
+in them, but arcologies are seen as cities
+in and of themselves, so the location-location-location
+angle doesn’t seem to apply as much.
+When built in the middle of nowhere, there’s
+the question of why you bothered building
+tall, when building in a larger city, there’s
+the question of why you devoted internal floor
+space to food production instead of moving
+it to the outskirts, and even if you were
+doing vertical farming it would be hard to
+reason why you weren’t doing it in high-rises
+on the edge of things, especially given how
+heat intensive lighting is.
+You go much over ten layers of plants, vertically,
+and your total irradiance per area is going
+to exceed natural sunlight even if you’re
+being very optimized with your lighting usage
+and spectrums for photosynthesis.
+Which means it's going to get hot.
+Presumably you can use your own hydroponic
+plumbing for cooling but I’m not sure that
+seems very economically plausible, as opposed
+to just building sideways above a certain
+height.
+Alternatively having a secure supply for your
+vital resources is worth a lot, if you need
+to have some product, paying more to produce
+it locally does circumvent issues about exposed
+jugulars, and the very real costs of shipping.
+It also lightens the load on elevator issues
+in an arcology, as presumably large and mostly
+automated growth chambers require minimal
+elevator service.
+More importantly though, if we think of each
+level of the tower as its own semi-arcology,
+or each slice of maybe ten levels, then most
+elevator trips are not to the ground floor
+anymore, there to something located on the
+same floor or one closely adjoining.
+Incidentally the elevator conundrum is not
+limited to the up and down, in the broader
+sense it applies to side-to-side motion, like
+busy roads and pedways.
+And if your arcology is big enough you probably
+do need to be considering internal roads or
+mass transit.
+So while to some degree it is beneficial to
+make each level of an arcology, or each wedge
+or region, almost a mini-arcology of its own
+in terms of self-sufficiency, I think that
+would principally benefit us in the sense
+of having short commute times for those things
+people have to commute to a lot.
+Which incidentally might not be those factories
+or hydroponics facilities, which may be very
+automated, or even their schools or other
+jobs.
+As the Covid-19 crisis taught us, remote schooling
+and work are often viable, not that everyone
+didn’t think it might be an option in the
+future before that, we’ve done episodes
+on the topic long before the pandemic, but
+it definitely put a highlight and urgency
+on the notion.
+Plagues tend to be a particular concern in
+dense areas too, and an arcology needs to
+have options for quarantine and for handling
+the cleaning of air that’s recycling through
+to everyone carrying airborne germs.
+Or shared spots for standing and touching
+– like elevators and the buttons that summon
+them.
+This is one reason why the grimdark version
+of arcologies – dark, decrepit, mold-stained,
+garbage littered slums crammed with people
+and despair wouldn’t seem very realistic.
+Plagues would tend to spread through them
+quickly if left in that sort of state, which
+makes for good dystopian fiction but not good
+management.
+Unless your leaders are being evil for evil’s
+sake, just to twirl their mustaches, or are
+rampantly incompetent, they’re going to
+make sure the arcology’s main traffic areas
+are getting cleaned regularly for a host of
+reasons, one of which is that having your
+habitat’s demographics alter into a mix
+of terrified citizens, infected ones, corpses,
+and presumably plague zombies, is not likely
+to be advantageous.
+Unless you are a full-on mustache-twirling
+villain, in which case recruiting an army
+of plague zombies for fun and profit might
+be appealing.
+Archvillainy aside, the classic mega-skyscraper
+arcology image is something of a logistical
+nightmare, but I have a lot of friends who
+are village, city, and county executives and
+even the ones running fairly sedate and small
+towns seem to live on a diet of coffee and
+aspirin in trying to manage their places,
+so an arcology might not be much worse, though
+I’m betting it would be.
+On the other hand the whole point of the things
+is for streamlined efficiency so if you did
+it right then it probably ought to run like
+a smooth machine unless gears seize up.
+Speaking of that, on the physical side of
+arcology design, we might shape them like
+gears.
+I mentioned tall cylinders rather than the
+more standard rectangle shape for skyscrapers,
+and partially that’s because arcologies
+make me think of cylinder habitats, but also
+because they minimize surface area of the
+structure relative to internal volume or square
+footage of living area.
+However while that minimizes building material
+and heat loss out the sides, that may not
+be desirable.
+People like windows, and so a big cylinder
+shape whose outside was more gear-shaped,
+with many protrusions, might be better, allowing
+more desirable living space.
+We’ve talked about doing something similar
+when discussing geoengineering large coastal
+embankments or dykes against potentially rising
+ocean levels, by using a long wavy seashore
+with more coastline for people to use for
+homes than a long straight beach would have.
+Same concept here, we can sacrifice the advantages
+of a minimized surface because that surface
+area is so desirable for homes.
+That can be advantageous too, for instance
+in an arcology in most situations you will
+want to be purging heat more often than keeping
+it in, and a big sprocket shape is better
+for that than a cylinder or rectangle build.
+You also have the option of hollowing out
+the center to make a big shaft down the middle,
+probably cog shaped too.
+They could be big and well lit and formed
+into parks and plazas, maybe as big tall shafts,
+though probably one divided into vertical
+segments even if you had fewer of them than
+total floors.
+This area might make desirable exteriors for
+residences too.
+And maybe better ones for all that, a nice
+garden park in the middle is preferable to
+looking out on an airless barren world like
+Mars or the Moon perhaps, and arcologies are
+often shown as occupying brutal post-apocalyptic
+worlds which probably don’t make for nice
+viewing from a balcony either.
+Such central shafts lets you add a large new
+layer of exterior-bordering residences, proportional
+to how wide it is.
+Of course it need not be down the middle and
+arcologies not only do not need to have vertical
+symmetric exterior walls, like a pyramid rather
+than a cylinder, they need hardly be symmetric
+at all.
+There are a lot of reasons symmetry can be
+handy, so too it is often easier to make a
+building narrower as you go up, but no symmetry
+is required.
+So too, you could jetty each level out to
+be a bit wider than the one below it, an inverted
+pyramid or cone look.
+This just depends on your material strength
+but is much easier on lower gravity worlds.
+We do tend to think of material strength as
+the hard limit on building height and it is
+vastly higher on airless worlds with low gravity
+and no tectonics, and it would be very easy
+to do with buildings growing wider as they
+got taller on places like the Moon.
+But you can do them on Earth too and another
+thing arcologies might often want is direct
+access to space.
+Which they might do by being very tall but
+could also do by having a long strong wire
+reaching up to space, like the classic geostationary
+space elevator.
+Or Orbital Ring, the active-support structure
+hanging stationary in a planet’s upper atmosphere
+we often discuss building, see that episode
+for details, but that same technology would
+make it very viable to construct towers tens
+of kilometers high, or even hundreds, that
+directly connected to an orbital ring, or
+which ran between the rooftops of many supertall
+arcologies.
+Indeed you could circumvent some of the issues
+with orbital rings needing to be circles around
+a planet by making your arcologies essentially
+two shafts ending at the top as an upside-down
+U, like the hypothetical “Big Bend” Skyscraper,
+as that’s quite ideal for an active-support
+structure like a space tower, and then serves
+as a pylon for building a long horizontal
+runway for spaceships or mass drivers.
+Personally I love the classic cyberpunk image
+of vast pyramid arcologies or huge rising
+mega-scrapers, but when it comes to arcology
+design and shape, it's not only hard to say
+what’s most efficient, but we have to keep
+in mind that sacrificing some structural efficiency
+for beauty is likely.
+A new arcology should always be considered
+a bit of a luxury property to move to, even
+if it is just newer and bigger than neighbors,
+and it is likely great effort will be made
+to make them pretty or visually distinct,
+unique, and special.
+Maybe more like an upscale shopping mall with
+offices, restaurants, hospitals, recreational
+facilities and residences all mixed in.
+There are many options and your biggest control
+factor, whether we’re talking a small town
+or a big structure, one on Earth in an existing
+city or in some barren desert or tundra in
+Antarctica or Pluto, and a lot will depend
+on what characteristics you need to optimize.
+So the sky is the limit on arcology design
+options, except of course that since most
+probably won’t even be on Earth or constrained
+to our atmosphere, the sky is clearly not
+the limit.
+So I mentioned the Elevator Conundrum in today’s
+episode and it’s an example of one of those
+tricky and unexpected math dilemmas that shows
+up in architecture and engineering.
+It also has all sorts of variations that would
+apply in the future to things like how many
+spacecraft could enter or depart a planet's
+atmosphere in a given day before overheating
+the atmosphere, which is definitely a concern
+for planet’s covered in arcologies, what
+we call an Ecumenopolis or planet-wide city,
+like Coruscant from Star wars or other Galactic
+Capitals in science fiction.
+These sorts of problems are interesting as
+both possible future concerns and as fun examples
+to help demonstrate concepts and make learning
+more fun and engaging, and that’s something
+our friends over at Brilliant understand all
+too well.
+Fun problems, games, and interactive learning
+are the keys to learning, and not only does
+having fun make learning more enjoyable, it
+improves how well the material is absorbed.
+Learning should be fun, cultivating a love
+of knowledge, and Brilliant’s courses, quizzes,
+and daily challenges emphasize that, like
+their course on Scientific Thinking and Puzzle
+Science
+Brilliant has something for everybody — whether
+you want to start at the basics of math, science,
+and computer science, or dive into cutting-edge
+topics like Cryptocurrency or Quantum Computing,
+and they do it all in a fun and interactive
+way.
+If you'd like to join me and a community of
+8 million learners and educators today, click
+the link in the description down below or
+visit brilliant.org/IsaacArthur.
+So that will wrap us up for this Thursday.
+Then we will close the Month out with a look
+at how Solar Flares might impact the Fermi
+Paradox and then on Sunday May 30th we will
+have our End of the Month Livestream Q&A at
+4pm Eastern Time, hopefully from our new studio.
+Then we will head into June with a look at
+the concept of two alien races both evolving
+civilizations on the same world, and if they
+might share it in peace, then we will look
+at some Future Manhattan Projects, which might
+be handy for those who can’t share their
+world in peace, and will follow that up with
+a look at Death Rays.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us iTunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

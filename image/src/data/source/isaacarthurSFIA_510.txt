@@ -1,0 +1,779 @@
+This Episode is sponsored by Audible.
+We often discuss colonizing planets around
+distant alien suns, or building artificial
+habitats around our own sun, but building
+suns might be a stellar idea.
+We’ve spent a lot of time talking about
+making artificial habitats or entire worlds
+for humanity to live on in the future, and
+I thought it was past time we talked about
+the suns that would light them and how we
+can go about making those.
+Now a point we often make about megastructures
+and artificial planets is that they hold three
+critical advantages over planets.
+First, they use vastly less mass and material
+than a planet does for the same total living
+area, because for the most part there’s
+no need to have your ground go more than several
+meters deep, rather than several thousand
+kilometers like on a planet.
+You can get a million times the living area
+out of a planet by turning it into tons of
+rotating habitats rather than a big sphere,
+or by using something vastly more abundant
+than rocks and metals to fill that sphere,
+like compressed hydrogen or helium, or black
+holes made of those, or maybe even dark matter.
+Second, you can build them wherever you want
+and to a customizable size and gravity, there’s
+only a fairly narrow window of both location
+and composition that’s going to produce
+a planet people can make reasonably habitable
+and Earth-like.
+And Third, you can get very exact with replicating
+certain Earth-like conditions on a megastructure.
+It would be almost impossible to find a planet
+with an exactly 1g surface gravity, 24 hour
+day and 365 day year, without blowing huge
+amounts of energy trucking in or removing
+mass, altering rotational and orbital rates,
+and so on, but when we build them ourselves
+we can tailor gravity, day, and year length
+very easily.
+So we use the analogy of comparing planets
+to mountains with caves in them, a primitive
+civilization hunts for good caves on a mountain,
+a more advanced one just quarries rock and
+builds its own caves wherever it pleases,
+and can make a lot more artificial caves,
+or houses, out of mountain than it will naturally
+have.
+Instead of maybe half a dozen caves on one,
+you can cover a whole continent in millions
+of tailor-made homes instead.
+This is our basic concept for habitation megastructures.
+However, you can’t really put these wherever
+you want, you’re still fairly limited to
+where the Sun shines comfortably, its habitable
+or goldilocks zone, not too hot, not too cold.
+We can expand that a lot by using solar shades
+to block some sunlight where it’s too hot
+and mirrors to add sunlight where it’s too
+cold, but while this immensely expands your
+zone, it’s still tiny compared to space.
+It would be quite challenging and resource
+intensive to keep a planet warm by sunlight
+all the way out at Neptune or Pluto, as light
+falls off in strength by inverse-square of
+distance and is a thousand times weaker there.
+You could do it with a lot of mirrors or by
+sending light out in focused beams, but that’s
+quite an effort.
+Habitable zones are light minutes from their
+stars, whereas stars are light years from
+each other, and that means that each solar
+domain, stretching over light years, has a
+habitable zone consisting of only about a
+quadrillionth of that volume.
+Even using tricks with light beams and mirrors
+is only expanding that maybe a trillionth.
+This is about how many stars we have in our
+galaxy, so it’s worth noting that even if
+you’ve colonized the whole galaxy and even
+gone the full blown Kardashev-3 route of constructing
+a swarm of habitats to englobe every star,
+not just the planets, your whole civilization
+could still fit in a single solar system by
+volume.
+This starts us thinking about why we might
+want to make an artificial sun, and while
+we start with basically the same logic and
+reasoning as with megastructures, in fact
+it’s actually worse.
+Planets have a very narrow range of habitable
+sizes, especially if you’re looking for
+close analogues to Earth, but stars are even
+worse.
+You could probably terraform a planet fairly
+easily that was a tenth heavier or lighter
+than Earth, since composition affects density,
+which affects surface gravity, but if that
+density is pretty similar, and it often is,
+surface gravity is proportional to radius,
+10% wider, 10% more surface gravity, but 33%
+more volume and thus mass.
+One only 10% more massive of the same density
+would only be 3.2% wider and have 3.2% more
+gravity, one with 90% of our mass would have
+96.6% of our normal gravity.
+Based on how heavy you felt you’d have a
+hard time noticing you weren’t on Earth
+on either planet, but stars are a lot more
+sensitive about mass.
+Composition matters for them too, they’re
+not entirely hydrogen and not all the remainder
+is helium either, but as a loose rule of thumb,
+star lifetime and brightness are directly
+related to mass.
+Even a 10% increase in mass is increasing
+a star’s brightness by 40%, that means its
+habitable zone just moved 18% further away,
+and orbital periods are much less sensitive
+to mass, so even with this minor change of
+mass you aren’t getting any 365 day years
+in your habitable zone, at least not without
+artificially extending your day.
+On the extremes of this, around the smallest
+of stars you have planets whose year is measured
+in days, as is its day since it will probably
+be tidally locked that close to its sun.
+On the more massive end, where luminosity
+can be a million times brighter than our own
+sun even though the star is maybe only 20
+or 30 times more massive than our Sun, your
+habitable zone is so far off your years might
+take thousands of Earth years, and your star
+would be so short lived you’d barely have
+time to get your civilization going before
+it blew up.
+This extreme highlights a third issue too,
+which is how wasteful sunlight is.
+Our planet absorbs less than a billionth of
+the sunlight emitted, around those big ones
+that would be a quadrillionth.
+That’s the whole reason we like the concept
+of a Dyson Swarm, because a planet’s civilization
+isn’t like a tribe sitting around a campfire
+to warm itself at nights, it’s like a tribe
+living next to a forest fire to stay warm.
+It’s very wasteful, because stars are omnidirectional
+in their emissions.
+That’s not as bad with the cooler and dimmer
+stars where a Habitable Zone planet might
+be getting thousandths rather than billionths
+of the light released, but for those giant
+suns it’s ludicrously wasteful, and they’re
+so short lived there’s not much point to
+trying to englobe them to tap that power before
+they explode.
+So we’re interested in artificial suns today
+and we might as well start off with the conceptually
+simplest method, which is to mimic nature,
+this has limited customization options but
+at least has some, since we at least get to
+pick location.
+Let’s review the natural method of star
+formation then, since we’ll basically mimic
+it, and it often begins when big stars go
+boom.
+The galaxy may contain a lot of stars but
+most of the galaxy’s mass is not in stars,
+even ignoring that most of it is dark matter
+– which will be of interest to us later
+today – only a fraction of the ordinary
+matter in the galaxy is bound up in existing
+stars, including dead degenerate ones like
+white dwarfs, neutron stars, and black holes.
+Most is floating around in giant clouds and
+left to its own devices those would all slowly
+clump up and form stars, but they often get
+an assist when a star goes supernova, and
+the shockwave perturbs that cloud and sets
+off a lot of matter clumping up and forming
+stars, usually a large pack of them will be
+born about the same time and move around the
+galaxy together as small cluster, something
+that is very handy for astronomers.
+Many other things can prod stellar formation,
+like a cluster of stars passing through a
+cloud of gas or a galaxy eating a neighboring
+galaxy, which has happened a lot down the
+eons.
+Typically a dense cloud of gas is what we
+call a nebula, which are where many stars
+form, though that’s a fairly hazy term.
+The first nebulae we saw were essentially
+hazy dense clouds lit by lots of new stars.
+In terms of astronomical timelines, this process
+is fairly fast, but still takes millions of
+years.
+It would not be too tricky to guide this process
+to arrange the new stars to be at sizes and
+locations of your choosing and even speed
+it up a bit, but we’d probably want to go
+a lot faster.
+As to how fast this process can go, that’s
+really a question how much brute force your
+willing and able to expend.
+There’s nothing stopping you from building
+freighter after freighter to just gather up
+hydrogen and dump it at some spot of your
+choosing.
+You could also build huge quantities of ultra-thin
+panels in a huge sphere that you gave a shove
+with light beams, so they pushed gas along
+the way to eventually collide at the place
+of your choosing.
+Emphasis on ‘ultra-thin’ because the interstellar
+medium is so low density that you’d need
+to sweep out a volume on an order of a light
+year across to get enough mass for a star;
+That is, after all, why they would tend to
+be several light years apart from each other.
+Such a big shell, even when thin, would be
+very massive.
+You wouldn’t likely do this direct scooping
+approach, in favor of pushing gas with light
+or magnetic fields, but it illustrates the
+basic concept.
+Similarly we have the option of moving failed
+stars, like brown dwarfs or super-jupiters,
+so as to collide with each other to gain enough
+mass, which saves you a lot of the work and
+effort of collecting your own mass, though
+you still have to shove them together which
+is no small feat.
+Before we proceed, though, I just want to
+emphasize that as huge as the energies are
+when you’re talking about shoving gas giants
+and brown dwarfs around, it’s still tiny
+compared to what a star will give off.
+Shoving a planet up to a thousandth of the
+speed of light so it will collide with various
+others you’ve found in the region a few
+thousand years later requires the kind of
+energies only available to K2 civilizations,
+but that’s not a catch-22 since any given
+civilization already has at least one star
+to become K2 around in the first place.
+You’re also not shoving them too fast because
+you don’t want them colliding at speeds
+higher than their own escape velocity or they’ll
+just explode and blow your mass all over the
+place, with most escaping rather than falling
+back together.
+This saves you on energy but not on time.
+Again, though, it is a lot of energy because
+it is a lot of mass, making Jupiter into a
+second binary sun is a popular idea in fiction
+but it’s nowhere near heavy enough to become
+a star on its own.
+The Universe is pretty old though and has
+a fair number of big dead stars lying around,
+and some could be rekindled by dumping a gas
+giant on them, not for long, in astronomical
+terms, but quite long in human civilization
+terms, so some might opt to do this.
+You’d have to do it very carefully though,
+feeding gas in small amounts to that star
+not in big chunks, since that’s basically
+what causes Supernovae to occur.
+The old big star blowing up, what most folks
+think of as a supernova, is a Type II Supernova,
+type one is when an old white dwarf star absorbs
+enough new mass to light off, Type II are
+thought to be a bit more common but are less
+bright than Type I.
+That’s something to keep in mind when thinking
+about stellar engineering with degenerate
+stars, ‘oops’ is not something you want
+to hear from your chief engineer, as moments
+later you’ll both be getting your atoms
+scattered by an explosion bright enough to
+outshine the whole galaxy for a while.
+Of course, as we mentioned, supernova shockwaves
+are often what cause the formation of stars,
+and also release the heavier matter we need
+for planets; So intentionally detonating some
+white dwarfs by slamming a brown dwarf or
+jovian planet into them might be a very low
+cost method of making a lot of stars, especially
+since you could be pre-positioning other brown
+dwarfs or jovians in the places you’d like
+your new stars so they can act as the clumping
+agents they’d form around.
+So that’s one way to make a large gas giant
+into a star, feed it into an existing one,
+however brown dwarfs already fuse deuterium,
+the easiest hydrogen isotope to cause fusion,
+and if we’re making artificial suns, we
+can also control composition.
+With naturally occurring stars you have a
+very fixed set of parameters for its mass,
+lifetime, size, and luminosity.
+You can’t find a star the mass of our Sun
+but twice as bright, or half as bright, because
+they’re all made of pretty much the same
+thing.
+They all begin as mostly regular hydrogen,
+with a decent amount of helium and deuterium
+in them, and many of the younger Suns also
+have a ton of heavier metals in them too,
+what we call population one stars like our
+own Sun, ones with a higher metallicity, metals
+in this case referring to elements heavier
+than Hydrogen and Helium.
+Metallicity increases with each generation
+of star formation.
+This is still a pretty small fraction, usually
+around a percent or two even in high metallicity
+population one stars, but irritatingly that
+still means there is more gold and other valuable
+metals in our Sun than in the rest of our
+solar system combined, it’s just very hard
+to get at it, if you’re curious on how we
+could do this, see the Starlifting episode.
+But most of that non-hydrogen is helium, and
+you get more as stars age and transmute that
+hydrogen into helium.
+In many stars this slowly poisons them till
+they turn into red giant or type II Supernova,
+long before they use up all their fuel, but
+in the smallest stars this will never happen,
+instead resulting in what we call a blue dwarf;
+A smaller red dwarf who has burned up most
+of its fuel but does not expand into a red
+giant, though it grows hotter and more luminous.
+Or I should say what we will call a blue dwarf,
+as none exist yet because the Universe is
+quite young and all the stars small enough
+to become blue dwarves won’t for many hundreds
+of billions of years to come; If they’re
+natural ones anyway.
+Nothing is stopping us from making a star
+that’s half hydrogen and half helium, burning
+brighter than it should for its mass, and
+still living much longer than our own sun
+would, even though it could be set to the
+same temperature and spectra as our Sun.
+It would be much less massive and dimmer,
+though still brighter than a normal red dwarf
+of its mass, and that could be quite handy.
+Metallicity also plays a big role in star
+brightness and lifetime too, for instance
+we have a third type of star, Population III,
+ultra-low in metallicity, which are thought
+to have been the earliest stars, and it is
+believed these could potentially get far bigger
+than modern stars because of their low metallicity.
+Normally a star can’t get much more than
+a couple dozen times the mass of our own Sun
+without hitting the limit for stellar mass,
+the Eddington Limit.
+Star fusion rates climb very quickly with
+mass so they get hot and try to expand, while
+gravity holds them together, and stars achieve
+a size based on hydrostatic equilibrium, where
+the pressure from the rate of fusion and gravity
+balance.
+Metallicity play a big role in that since
+heavier elements won’t fuse but still add
+gravity, pushing the star together to create
+faster rates of fusion.
+High metallicity stars are hotter, so are
+older stars which have more helium since that
+won’t fuse normally either.
+In a basic main sequence star, if you get
+over a certain mass the outer layers tend
+to blow off, limiting size.
+The Population III stars of the early Universe,
+super low on metals and Helium, could get
+bigger, and could also die in black holes
+in a somewhat atypical fashion, via photo
+disintegration and a pair-instability Supernova.
+We’ll bypass discussing how this happens,
+since it probably no longer happens today,
+just in the Early Universe, and if you’d
+like to know more about those stars consider
+watching PBS Spacetime’s episode “Fate
+of the First Stars”, but one interesting
+note: It’s thought this type of stellar
+death results in a black hole and a supernova
+that shoots out as a pair of relativistic
+jets rather than big omnidirectional explosions.
+That’s a pretty handy way to rapidly produce
+and capture a lot of heavy elements, so same
+as you might build stars intentionally heavy
+on helium or metals, or straight out of deuterium,
+you might build a star of pure hydrogen just
+to use it as a massive transmutation star
+forge… or stellar cannon, since it comes
+out as a jet you can probably aim, but there
+are much easier and faster ways to obliterate
+planets as we’ve discussed before.
+Those black holes are interesting to us though
+because fundamentally a star is just a convenient
+natural way to make a lot of light, it need
+not be done by fusion anymore than the photons
+leaving your screen to let you watch this
+episode were made that way.
+The brightest things in this Universe are
+Quasars, or were quasars anyway, like Population
+III stars they were much more common in the
+early days of the Universe, that’s the only
+reason we can’t see them with the naked
+eye, they’re almost all gone or weakened
+nowadays so you have to look really far away
+in distance and time, to find one.
+They are black holes, usually giant ones at
+the center of galaxies, active galactic nuclei,
+and the power they give off is from the accretion
+disks of mass falling into them and getting
+superhot as they collect.
+Indeed without accretion disks black holes,
+infamous in science fiction for sucking things
+in, would almost never suck anything in.
+They have no more gravity than the star that
+bore them, indeed a good deal less, and they
+are very small.
+An object passing by them would just be pulled
+into an orbit around it, there’s a maximum
+to how eccentric such an orbit can be with
+a planet or normal star because if it’s
+too eccentric the orbiting body will just
+slam into it or be roasted by its sunlight
+or atmosphere.
+And once in orbit there’s usually enough
+trace gas in the lower orbit to slowly de-orbit
+an object so it falls down, a black hole accretion
+disk serves this role too, only much hotter
+as there’s much more gravitational energy
+involved.
+Let me note though that this does not work
+on dark matter, it doesn’t interact with
+anything but gravity, so it can fall right
+through planets and won’t get random collisions
+in orbit to change its momentum, but it can’t
+escape from a black hole if it actually intercepts
+that event horizon, but that would be a very
+rare event unless the black hole was moving
+rather fast relative to the local medium,
+so that the very small cross-section it has
+hits more material head on.
+We currently have no way to manipulate dark
+matter beyond gravity but we might figure
+one out some day.
+We’ve discussed using it as cheap filler
+mass for artificial planets but you could
+also use it for stars.
+Gravity drives rates of fusion and dark matter
+produces that normally, it also won’t collide
+or pick up heat from sitting in a star, so
+if you’ve collected a lot of dark matter
+at some spot, and reduced it’s speed to
+less than the escape velocity of that spot,
+it’s sort of like an artificial gravity
+field.
+You could use it to dope stars so they’d
+have different mass and brightness than normal,
+one way you could produce a 365 day year on
+a planet orbiting a star with a smaller habitable
+zone than our own Sun, which is most stars.
+You can use this same trick to add gravity
+to smaller planets too.
+Getting back to black holes, without the accretion
+disk, it’s virtually impossible to actually
+end up in a black hole.
+This wrecks many science fiction stories about
+accidentally encountering one because they’re
+invisible till it’s too late, you’d actually
+have to work very hard to fall into one that
+lacked a large accretion disk.
+But matter and gas slowly collect up around
+them and bang into each other and decay to
+fall in and speed up and so on until you get
+that disk which is much bigger and which can
+intercept matter easier and trap it to eventually
+fall in.
+Getting hotter and hotter and giving off a
+lot of light, and since this is outside the
+black hole’s event horizon, that light can
+just wander off, if a little red shifted from
+leaving the gravity well.
+Needless to say, you can drop matter into
+a black hole in a controlled fashion to produce
+power, like slowly feeding it a gas giant.
+And if you wrap it in a substance good at
+absorbing gamma radiation and X-rays and with
+a very high melting point, you can make yourself
+a colossal light bulb.
+Of course there aren’t a lot of black holes
+conveniently lying around, the stars that
+make them are quite uncommon, but again, that’s
+relying on natural processes.
+There are a lot more neutron stars out there,
+and even more white dwarfs, and they could
+be pushed over the line into black holes,
+especially if you instead were feeding them
+something like iron which is massive and useless
+as a fuel.
+But you need not use a star, if you have enough
+iron or something dense that won’t fuse,
+you can just pile tons of it up till you get
+enough that it falls inside its own event
+horizon, but this would result in a very large
+black hole, so you’d probably make a big
+dense object then implode it by making a shell
+of hydrogen bombs or antimatter around it
+and detonating it.
+This should allow you make one much smaller
+than the ones that naturally form, and you
+can now tap it for power by dumping mass down
+inside.
+Of course we have the other option, for even
+smaller black holes, which emit Hawking Radiation,
+at higher rates the smaller they are.
+Black holes in the Megaton range are perfect
+for small stars, though you need to convert
+the light from gamma radiation to something
+safer, these can also be nigh impossible to
+feed as they are smaller than atoms and also
+gushing out power.
+Another approach is to find a sweet spot for
+a modest sized black hole whose hawking radiation
+or accretion energy from dragging matter down
+is just powerful enough to heat a gas around
+it to push it away and only let a trickle
+fall in.
+That heated gas feeds the black hole and emits
+light like a normal sun, only much smaller
+and dimmer.
+This particular version wouldn’t be too
+customizable, but should have a set size based
+on what gas you’re feeding it, one that
+absorbs gamma and emits it as normal light.
+So you could customize a bit by using hydrogen
+and helium mixes instead of raw hydrogen,
+or other gasses, and this would let you play
+with your visible spectrum to match it to
+normal sunlight too.
+These would be quite massive compared to a
+kugelblitz blackhole, but still far smaller
+than a natural star.
+When you start going smaller you can also
+play with day and year length more.
+We orbit stars, but we can make artificial
+stars orbit us, like in the geocentric model,
+and we can also put dishes around them to
+bounce light in the direction we want so the
+super majority of it isn’t wasting itself
+into the void.
+For simplicity, we would call these Sun-Moons,
+where they orbit a planet.
+They can be many things, big dishes reflecting
+a beam of light from a star further off, a
+giant light bulb powered by fusion, a black
+hole, and so on.
+Now if you’re going the straight kugelblitz
+black hole and Hawking Radiation approach
+you probably aren’t using a single one for
+a single planet, but likely a small swarm
+of them orbiting each other fairly tightly
+but not so tight they’d be able to merge,
+they don’t have much gravity though and
+you can push them; Pushing black holes is
+simple enough just don’t use anything you’re
+attached to since you won’t get it back.
+Using many small ones lets you add their power,
+again the more massive a black hole the less
+Hawking radiation it gives off, but the longer
+it lives and the easier it is to feed or push
+on, you have to push harder to move it, but
+the small ones are so small you’d have problems
+hitting them.
+It’s hard to aim a pushing laser at something
+smaller than an atom that’s giving off huge
+amounts of radiation.
+Using multiple ones to form a single artificial
+sun opens up the door for some alternatives.
+First, we aren’t necessarily bound to make
+one spherical sun anymore, we can string them
+together as needed, which is handy for a lot
+of habitats which are cylinders or rings.
+And you can do this with light bulbs powered
+by electricity or mirrors which are shaped
+appropriately too.
+But I wanted to finish out here because it’s
+kind of the ultimate upgrade for making your
+own stars, be they classic stars you just
+made or functioning on different principles.
+We always talk about making Dyson Spheres,
+or rather dyson swarms around a star to get
+all of its power, tons of objects orbiting
+that star, and we’ve talked about moving
+stars and today about making them.
+But you could make a dyson swarm of stars
+themselves.
+Moving them to near your own system or building
+them there.
+We often say red dwarfs are the most efficient
+of stars, the smaller ones use up all their
+hydrogen and even the bigger ones most of
+it, and you could create a very large swarm
+of stars of a mass and brightness of your
+choosing, to make a super-solar system or
+mega-dyson.
+Or a more loose cluster where each star was
+far enough away that its light didn’t impact
+its neighbors much, but still far closer than
+neighboring stars.
+Lots of bunched together little solar systems.
+For our own sun to be only as bright as the
+full moon is on Earth, it would have to be
+a bit over 600 times further away from us
+than it is now, but that’s only a few light
+days away, not light years.
+And a fully convective red dwarf could be
+about ten times closer, mere light hours away,
+only a little further than our outermost planets.
+You could go smaller and closer too, but dimmer
+and cooler stars also waste more of their
+light in the infrared range so as massive
+as you can go and still be full convective,
+around a quarter of our Sun’s mass, is probably
+preferable.
+They are only 1% as bright as the Sun, but
+that just moves your habitable zone to a tenth
+the distance of ours.
+They’ll live a really long time too, a trillion
+years or more.
+Imagine for the moment you built a hundred
+such stars maybe 100 AU away, each with its
+own smaller solar system or dyson swarm.
+This is called a Klemperer Rosette though
+we typically envision this as a ring of planets
+around a star, not a ring of stars.
+Each of the solar systems is only 50,000 light
+seconds, or just over half a light day away,
+so you can message them and get a reply back
+the next day.
+Many an empire of history operated fine with
+such communication lag times or bigger, so
+they don’t have the problem of interstellar
+empires who have years of lag time and probably
+can’t be a very unified civilizations as
+a result.
+You could travel out there on a fusion drive
+or light beam, pushing the whole way at 1g
+and flip over and slow, and make it in just
+29 days, achieving a maximum speed of 4% light
+speed.
+Amusingly, since these planets would tend
+be tidally locked to their small suns, though
+you could probably make it so they weren’t,
+their dark sides would still be decently lit
+by their neighbors, who would be just over
+6 AU away, a little too dim for photosynthesis,
+but we could actually pack more suns into
+such a ring, or bring the ring in tighter
+and closer to home.
+We could also add other rings, cocked at different
+angles, same as we’d do with habitats around
+our own Sun in making a Dyson sun-swarm.
+How many can you pack in?
+Your limitation isn’t really about mass,
+but waste heat, as it so often is in our discussion
+of these kinds of topics.
+Build a sphere around the Sun 100 AU out,
+instead of the normal 1 AU, and you can have
+10,000 times the brightness, and since those
+red dwarves are only 1% as bright, you need
+a million of them to have 10,000 times the
+brightness.
+An Empire of a million stars, all a day away
+to talk to and a month away to travel to,
+and you hardly have to stop there, if you
+don’t mind a little more signal lag and
+travel time.
+A billion stars if you don’t mind a month
+getting a reply back and about half a year
+to travel there.
+You could pack a trillion of these stars,
+a whole galaxy, into a region just 100,000
+AU in radius, not even half the distance to
+Proxima Centauri, though by this size mass
+does begin to matter and you’d notice time
+was running a bit slower in your galactic
+empire.
+Go much bigger and your empire would turn
+into a massive black hole.
+It does give us a nice alternative to interstellar
+empires without needing faster than light
+travel.
+Such things are a long way off in our future
+but do not violate any laws of science or
+require any super-technology to build, and
+like a normal dyson swarm, can be made bigger
+incrementally, as you need them.
+So, such empires are allowed in reality, not
+just in science fiction, this is no surprise,
+reality is often much more interesting and
+stranger than fiction.
+We always try to look at the bright side of
+the future on this channel, and in this case
+I suppose that’s very literal, our future
+is doubtless out among the stars, and we might
+be making them ourselves.
+Since someone is bound to ask, while definitions
+in astronomy can be fairly loose, yes suns
+is a plural term and it’s not our Sun and
+the other stars, we say now a sun is a star
+that we’ve confirmed the existence of planets
+around, which is probably going to be almost
+all of them.
+This distinction matters because it’s suns
+that are seen as offering us new lands to
+visit and make our homes.
+But of course that’s not the only way, we’ve
+often discussed building our worlds, and megastructures
+and Dyson Spheres.
+Some would argue that name isn’t actually
+appropriate, and that we should call them
+Stapledon Spheres or Swarms in honor of Olaf
+Stapledon, the philosopher and writer who
+first suggested the concept in his 1937 novel
+“Star Maker”, which along with earlier
+novel, “Last and First Men”, were the
+source of inspiration for so many of our classic
+science fiction novels written in the decades
+that follow.
+It’s a bit of standing joke that Star Maker
+is a very long book, not because it has many
+pages or is a tough read, but because you
+have to stop every few pages to think over
+some concept he laid out, and many ended up
+becoming their own entire novels written by
+another.
+The sheer depth and scale of Stapledon’s
+works, in terms of concept and astronomical
+distances and times, is unmatched by any other
+writer, especially of his era.
+You can pick up a free copy of Star Maker
+today, just use my link in this episode’s
+description, Audible.com/Isaac or text Isaac
+to 500-500 to get a free book and 30 day free
+trial, and that book is yours to keep, whether
+you stay on with Audible or not.
+And if you don’t enjoy Star Maker, you can
+exchange it for another book, no questions
+asked.
+So today, as is often the case, we had our
+contemplations turned upward at the heavens,
+next week we’ll go the opposite direction,
+and explore the notion of civilizations going
+underground, to ask why you might do it and
+how you could, in Subterranean Cities
+The week after that we’ll start our first
+look at some of the more peculiar or Rogue
+Civilizations the future might produce, as
+we explore the classic science fiction concept
+of Space Prison Colonies.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, please hit
+the like button
+and share the episode with others.
+Until next time, thanks for watching, and
+have a great week!

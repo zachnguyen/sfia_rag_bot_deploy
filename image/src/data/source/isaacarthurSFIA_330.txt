@@ -1,0 +1,826 @@
+﻿This video is sponsored by CuriosityStream. 
+Get access to my streaming video service,  
+Nebula, when you sign up for CuriosityStream 
+using the link in the description.
+ 
+In Douglas Adams’ famous Hitchhiker’s Guide 
+to the Galaxy series, we are introduced to  
+the Babel Fish, a little fish you could put 
+in your ear that instantly let you understand  
+any language you heard. Sadly, the 
+poor Babel fish, by effectively  
+removing all barriers to communication 
+between different races and cultures,  
+has caused more and bloodier wars than 
+anything else in the history of creation.
+ 
+So today we will be looking at alien languages, 
+what strange forms they might take, and how we  
+might go about decoding and translating them. 
+Those are hard enough when we consider them  
+in the context of classical Sci-Fi and SETI, 
+where we assume humanoid aliens are speaking  
+to us intentionally, sending us radio signals 
+we are technically capable of receiving and  
+intellectually capable of understanding, but 
+things are likely to be much harder in reality.
+ 
+SETI, the Search for Extraterrestrial 
+Intelligence, comes in a lot of forms, but the  
+most well-known is listening for radio signals 
+that look like clear signs of communication,  
+or at least signs of transmissions by intelligent 
+life. It’s biggest weakness, and one of the  
+reasons we don’t spend much time discussing it on 
+the show, is that it assumes alien communications  
+would be readable or at least recognizable to 
+someone other than their intended recipient.
+ 
+The obstacle might not be that the aliens are 
+encrypting their transmission, because it would  
+make reading their signals difficult enough if 
+they were just compressed. Transmitting data is  
+expensive, so it’s in a sender’s interest to limit 
+how much raw data needs to be sent to achieve a  
+successful transfer of information. Let’s use this 
+video as an example, at about 30 minutes long,  
+with 60 frames per second and over a 
+hundred thousand individual images.  
+In its uncompressed form, with about 2 million 
+individual pixels per image, we’d need over 200  
+billion pixels to be recorded and sent, along with 
+information about the appropriate wavelength of  
+light, and its intensity or brightness. In an 
+uncompressed and simple form, this might well  
+be over a trillion bytes. But rather than raw 
+data, I generally upload my videos at 1080p HD,  
+and about 3 gigabytes each. So that’s a lot of 
+compression. And like any compression, it works  
+fundamentally by taking any pattern and replacing 
+it instead with a note that the pattern exists.
+ 
+So the better you are at data compression, 
+the more parts are left out, and the more  
+your signal looks like noise, making it hard for 
+folks who don’t know the method of compression to  
+recognize they’re seeing a signal at all. But this 
+doesn’t mean a compressed signal looks completely  
+like noise: the goal with compression is not 
+encryption, it’s minimizing data and improving  
+transmission speeds, so we shouldn’t assume 
+that the more advanced a civilization is,  
+the more their signals look like gibberish. No, 
+the objective is to transmit the information with  
+minimum loss or distortion, while minimizing 
+effort needed to pack and unpack the signal.
+ 
+Note that I say effort, because while 
+the objective with a digital signal is to  
+minimize the bits being transmitted, the goal 
+of language in general is the transmission of  
+concepts in a way that least distorts their 
+meaning. Essentially all language is intended  
+to be a form of data compression. This is 
+the critical point about alien languages,  
+that language is a way of relaying compressed 
+concepts, and that compression is part of what  
+might make them so hard to translate while at the 
+same time the universal nature of many of those  
+concepts is what ensures we can translate 
+them, that it isn’t an impossible task. Of  
+course if words are compressed concepts, 
+we can’t know the means of compression,  
+if they have vocal cords and ears for instance, 
+and some of those concepts might be alien.
+ 
+On the other hand, numbers like two, three, and 
+four should be universal concepts regardless of  
+culture or biology and, the notion of adding or 
+multiplying numbers should be universal. Area,  
+volume, density, and essentially all of math and 
+geometry, should be commonly shared, which is why  
+we often think of math as a potential universal 
+language. Logic too should be universal.
+ 
+But it goes beyond that, since physical objects 
+should also be fairly universal. I’m not sure  
+if we can take for granted that an alien mind 
+has a notion for objects and categorization,  
+but it’s difficult to imagine how an advanced 
+intelligence could operate without such concepts.  
+It would be a very alien mind indeed that doesn’t 
+look at an elephant and think, “This is a specific  
+thing, it is very similar to that other thing to 
+its left – another elephant -- and different than  
+that tall skinny leafy thing nearby, a tree, they 
+are all standing on a mostly flat surface, I shall  
+call that the ground, many small objects make that 
+up, rocks and dirt, and far above is a big burning  
+object that moves, I shall call that a sun.”
+Such a mind would be particularly foreign to  
+us as a species, one that does not classify 
+and categorize or even recognize objects,  
+since we think that way for a reason, and part 
+of that reason is our method of data compression,  
+not just linguistically but in our own thinking. 
+Our brain has to move data around and act on it,  
+so it presumably also has to take patterns and 
+simplify them into a compressed form that works  
+on recognizing those patterns. We can actually see 
+this at work in our psyche, when we see shapes in  
+clouds or faces in an image: it’s essentially our 
+pattern-recognition playing tricks on us. While it  
+works most of the time, we can still see cases 
+where the suggestions of a pattern or concept  
+tell us something that isn’t quite right. 
+On a more complicated level, mental fallacies  
+are also examples of this, where we perceive a 
+pattern or continuation of a pattern that isn’t  
+necessarily there. Somewhere in your head, and my 
+head, is the gooey brain-analogue equivalent of a  
+file titled ‘elephant’, or ‘face’, with a list 
+of what these things are, and how to identify  
+them. There might well be another broad category 
+titled “rock”, presumably listing a wide range  
+of attributes that define a rock. But we have 
+to consider that it might not match mine or  
+the next person’s completely. So if I say ‘Can 
+you hand me that rock?’ and point at a brick,  
+some people might instantly grab it, while 
+others might be a bit confused and search  
+near where I pointed for a different nearby 
+object, figuring I didn’t mean “brick”,  
+and someone else might ask for clarification, or 
+offer it by saying that a brick is not a rock. 
+ 
+Somewhere in our head is a file that says 
+“sun”, and that one for sun presumably contains  
+information that the one that appears every 
+day is actually the same one, not a new object.  
+This is something we take for granted, but 
+it really is wired into our association:  
+we don’t have discussions about multiple suns, or 
+measure days in sun-deaths, though if our brain  
+or our cultures did not have this requirement, 
+we might well call our days “sun deaths” or ‘sun  
+births’, and have myths about all the past suns 
+that have come before. And so we might consider  
+that a given alien culture might not think this 
+was the case until they had the technology to  
+investigate their own sun, thinking of it as 
+a new object each time. Object permanence,  
+the notion that objects continue to exist and 
+act or be acted upon even when we do not see  
+or otherwise sense them is a fairly advanced 
+step of cognition in animals and human infants  
+and maybe is not something we could take for 
+granted on alien worlds or in alien minds.  
+ 
+Or maybe this would be something that would be a 
+Universal idea even pre-science, as thinking its  
+a new Sun every day because it disappeared over 
+the horizon might be like a child thinking it was  
+a new Mommy who appeared everytime they uncovered 
+their eyes playing peek-a-boo. Given the central  
+and comforting role both the Sun and our parents 
+tend to play in our existence there might be a  
+strong psychological tilt to drawing conclusions 
+that made such central pillars seem stable and  
+eternal. I was going to say that evolution should 
+generally prevent a species becoming culturally  
+and technologically sophisticated if it was 
+insane, and thus things which reduced anxiety  
+like assuming the sun would rise tomorrow might 
+be convergent concepts for that reason alone,  
+however I’m very reluctant to say insanity or 
+anxiety are barriers to civilization, I sometimes  
+suspect they are instead prerequisites. 
+Anyway, we might safely assume some physical  
+concepts like objects, categories, and the 
+fundamentals of physics and chemistry are  
+likely to be universal as well. Whatever they call 
+stars, they should have a distinct word or words  
+for them. They may also put a different boundary 
+on them. For example, a species that evolved  
+on the Moon of a gas giant around a star might 
+place the divide on words like planet and moon,  
+and have gas giants and stars in very different 
+conceptual places. We ourselves changed categories  
+on planets like with reclassifying Pluto, 
+and we did used to thinking of planets as  
+a subcategory of stars, planets simplify meaning 
+those stars that wandered around the night sky,  
+folks didn’t know they were rocks and 
+the stars balls of hydrogen and helium. 
+ 
+There are other considerations as well. 
+For instance, they might not have eyes,  
+or might simply be sensitive to light, much as 
+we are to temperature, with a vague feeling for  
+variance and direction. And yet, if we gesture 
+at the Sun and they are able to see that gesture  
+and recognize it as an attempt to indicate an 
+object – both big ifs, admittedly – then there  
+should be a fairly limited number of concepts 
+they think I’m attempting to convey if I then  
+utter a word and they can hear it. Taking all 
+those big “ifs” into account, they’re likely  
+to get that I’m trying to say “That thing in 
+the sky I’m pointing out is called the Sun”.
+ 
+They might think I’m saying “Bright object”, 
+and think I mean the general concept which  
+would include a lightbulb, which might be called 
+mini-suns or portable-suns in their language.  
+They might think I’m describing the trait of 
+bright, or the time of day, based on its east  
+and west position, or even the season based on how 
+high it rises at noon based on time of year. They  
+might think I mean the color, or am expressing a 
+warning about radiation, sunburn, or cancer. They  
+might be deaf and think I’m pointing at objects 
+asking them to name them, which they will do by  
+flashing infrared heat patterns on their forehead 
+or blinking their eyelids in a precise pattern.  
+They might be blind and have very good hearing, 
+but have no idea what we’re pointing at.  
+They might have directional hearing that let 
+them know what way I was projecting my voice,  
+so that they could identify the object if I 
+named it while having my head titled that way.
+ 
+And yet in spite of all of that, blind though 
+they are, literally or metaphorically, they can  
+figure out what color is because they can think, 
+and they still conceptualize and categorize.  
+They can know what a photon is in the same way 
+we know about a proton, neutron, or electron.  
+We can’t see those either, though a species that 
+could somehow detect and manipulate them as we  
+do light or sound might “see” those particles 
+in some analogous way to how we see colours,  
+and make images of them. Indeed, we even name the 
+quark forces of color charge red, green, blue,  
+anti-red, anti-green, and anti-blue, even though 
+they have nothing to do with color for us,  
+because we can categorize and conceptualize, 
+and have used those names as an arbitrary  
+system for classification. We just color coded 
+the mysterious force for discussion purposes,  
+letters or directions would have worked too. An 
+alien somehow able to see these color charges,  
+as we call them, but unable to see photons of 
+the visible light spectrum, might detect photons  
+through scientific experimentation and name them 
+after whatever they called the quark force types,  
+in a similarly unrelated and arbitrary way.
+But translating to or from an alien language might  
+present a significant challenge. On the one hand, 
+we might find all kinds of different lifeforms,  
+and they may not communicate in the convenient, 
+Sci-fi, humanoid way: they may use clicks and  
+buzzing, or colour patterns on their skin, or 
+scents, which may not even be detectable to us,  
+making any form of translation completely 
+impossible without some form of purpose-built  
+technology. If we’re lucky enough to encounter 
+aliens who communicate in a manner similar to us,  
+there are all the questions that come 
+along with any earth-based language,  
+but with all the additional issues of having 
+different references. Coming back to the example  
+of the sun, if we attempted to talk about a 
+“day” with people from a tidally-locked world,  
+we’d likely need to draw on different shared 
+concepts to convey that we mean “a period of  
+roughly 24 hours which we denote by the motion 
+of our home star in the heavens”, something for  
+which they may have no independent notion. For 
+us, this idea of “day” crosses cultures and is  
+universally understood, but we’d almost certainly 
+need to discuss it in independent terms. 
+ 
+It’s hard to discuss having a ‘rough day’ with 
+a creature from a tidally locked world with no  
+night and day, or one that has no sense of 
+texture for a concept like rough perhaps.  
+A creature adapted to zero-gravity is not going 
+to have euphemisms for ‘getting floored’, ‘being  
+up against the wall’, or a hundred other little 
+ways height and gravity work into our languages.  
+Given that one of the more likely scenarios 
+for meeting aliens would be far ahead in time  
+and deep out in space, it’s quite possible 
+they would no longer be adapted to gravity,  
+or for that matter that we might not 
+be, see our Zero-Gravity Civilizations  
+episode for more on those physical 
+and psychological adaptations.
+ 
+So the reality is that even if a being 
+evolves teeth, tongue, vocal chords, and uses  
+vocalizations to communicate, it may not make use 
+of words in the sense we think of them. Everything  
+could go “right” in the direction of human-like 
+communication and an anthropomorphic form,  
+and we could still end up ‘left’ with a language 
+based on grunts and squeals. On the other hand,  
+they might use sign language, which we also have, 
+and our language is not just spoken words, it is  
+a hodge-podge of facial expressions and gestures 
+and body language too. For that matter our modern  
+languages are hodge-podges of old ones.
+English is a great example of just how messy  
+things can get, since it incorporates elements and 
+even entire words from Latin, French, old Norse,  
+and several Germanic languages. It has linguistic 
+rules, but they’re riddled with exceptions,  
+and loan-words with no other context in the 
+language are used to fill in contextual voids.  
+In terms of a language having consistency, English 
+is pretty bad. But we still manage to understand  
+what someone is saying, and even if we don’t know 
+the word we can generally guess their intent.  
+We break thoughts up into discrete sections, 
+like sentences, and those have a syntax which  
+we recognize. For instance, we can tell that “John 
+walks the dog” is different from “Dog walks John”,  
+because of how the sentence is structured: even 
+if we don’t know what “walk” is, we know that  
+it’s an action somehow relating “John” and “the 
+Dog”. Similarly the dog wags its tail, the tail  
+does not wag the dog, and this is another example 
+of universality, as it's hard to imagine an alien  
+species would not have an understanding of cause 
+and effect, but be smart enough to actually  
+talk to rather than simply interact with. No 
+technological civilization should be able to  
+exist without understanding cause and effect.
+When we’re talking about alien language,  
+this is probably our biggest boon. Anyone coming 
+into a language with even a basic understanding  
+of its syntax and a few of the core concepts we 
+discussed earlier--like mathematics, geometry,  
+or chemistry--can probably piece together some 
+simple statements, and use those statements to  
+establish meaningful dialogue about other topics 
+down the road. In essence, we might be able to  
+learn the compression of other languages through 
+certain fundamentals which are universally shared,  
+even if certain localized ideas like ‘sunrise’ 
+aren’t our initial point of reference. 
+ 
+On the other hand, translation of an alien 
+language when neither of you already knows  
+the other’s will be a difficult feat, and probably 
+not something we could do without massive amounts  
+of recorders and computers unless we got very 
+lucky about their biology paralleling ours,  
+but it will be possible, because they are smart 
+too. Assuming they are anyway. Folks like to  
+quasi-anthropomorphize animals by saying humans 
+just don’t speak their language but the reality  
+is they haven’t got one, not like ours. My cat 
+might understand another cat better than me  
+principally because it has a very limited set of 
+concepts and it happens to match the other cats,  
+so through simplicity they are able to 
+interpret what the other is expressing.  
+It is not a language, language is a human 
+concept that varies from place to place  
+as an artificial construct of civilizations, but 
+many of them can communicate, even across species,  
+and some can communicate more complex 
+notions. But the lion communicates to  
+the antelope that it wishes to harm or eat 
+it, and this communication is not language.
+ 
+Communication, intentional or otherwise, is 
+presumably the domain of any sentient entity,  
+which is to say something able to perceive or 
+feel things, language is presumably the domain  
+of sapient entities, see our episode “What 
+is Sentience?” for the distinctions between  
+the two but for the moment we will say that 
+language requires much more abstraction. 
+ 
+Human language is a very artificial 
+thing learned by each individual human,  
+and uniformity – such as it is – is achieved by a 
+combination of long exposure and usage, and shared  
+biology. Which is to say you grew up around folks 
+who communicated using equipment you also had  
+and who put an effort into encouraging you to 
+do it using the established protocols and terms.  
+In other words babies usually learn the 
+language their parents use, not a different one.  
+You went along with it from a mix of curiosity and 
+need, hence why your first words were generally  
+either attention-getters of naming the caregiver, 
+Mom or Dad, or object identifiers of the thing you  
+wanted, like Ball or Food. For an alien, 
+this same concept is probably applicable,  
+their languages will be built on increasing 
+complexity of shared biology that is well  
+suited for fast information passage. 
+That’s why it probably would not be  
+smells. Humans can smell things, and our sense of 
+smell is much better than we usually assume too,  
+and we certainly can communicate 
+with them in a very rough sense,  
+but it is much slower and less precise than 
+hand gestures, facial expression, glances,  
+and noises which form our main communication 
+method. Humans are not audio-only critters,  
+we can pass information along a lot faster and 
+clearer in face to face communication, but we have  
+as complete a tongue in spoken words as we can, 
+and an even more abstract words-only written form.  
+Written language is hugely compressed but not 
+as compressed as the spoken word, which can  
+carry volume and tone more clearly and quickly for 
+instance. Smell is slow, and same as you have to  
+erase a blackboard when it's full and it leaves 
+a thick blurry layer, a smell based language is  
+going to be a low-bandwidth one because of the 
+time smells take to move, dissipate, and so on.  
+We principally use it in the higher animal world 
+for communications meant to have long dwell times,  
+like territorial scent markings. If you 
+can’t see or hear, then it might have to do.
+ 
+Now could you understand sight 
+or sound if you could only smell?  
+Presumably yes. I doubt that we all have identical 
+concepts for visual objects and categories,  
+where blue ends and green begins probably 
+varies from person to person for instance,  
+but can a blind person know color 
+who has never seen it? Yes, they can,  
+and it might be that they conceptualized it as 
+something akin to the texture the surface of  
+objects has to touch or maybe an analogy to 
+sound, it would vary from person to person,  
+and presumably from alien to alien more so. 
+However, brain-imaging finds that when a sighted  
+person hears a color it triggers the sensory parts 
+of their brain as opposed to the abstract parts  
+triggered when someone hears concepts 
+like ‘justice’ or ‘responsibility’.  
+For a blind person hearing a color will trigger 
+those same areas of abstract thinking, red, green,  
+justice, and responsibility are all abstract 
+not sensory for them. A deaf person cannot hear  
+birdsong, one born deaf can understand it, even if 
+it's in the abstract sense. I cannot see justice,  
+I cannot hear responsibility, I can discuss 
+both, and while trying to discuss a rainbow with  
+a person born blind or a morning birdsong with a 
+deaf one may not be as easy it is with most folks,  
+so too it isn’t easy to discuss them with a person 
+who can see but has never seen a rainbow or heard  
+a birdsong, and pre-modern times we couldn’t just 
+pull up photo or audio recording of either. 
+ 
+Which is the other half of the translation issue, 
+sheer quantity of data, but we’ll get to that in  
+a moment. First let’s talk about writing and data 
+storage. An alien might live in a dark environment  
+of thin air where the best means of communication 
+available to them was to rapidly tap their feet so  
+their exoskeleton generated a high tempo beat they 
+could control the tempo on with high precision.  
+This might be their language, but because 
+sound does not linger for days let alone years,  
+unlike smell, at some point they will want a 
+written language, even if the means for writing  
+it is to etch into stone with controlled 
+use of their highly acidic urine or spit. 
+ 
+Why? Because writing is not a human concept, 
+writing represents the desire to communicate  
+with someone who is not currently there, and 
+that should be a universal desire. There may  
+be a few exceptions, like giant hive minds 
+or singular intelligences or ones with near  
+perfect recall who really have little need 
+to communicate that way and don’t develop it,  
+but they should be exceptions not the norm.
+Now writing can be used for other purposes, like a  
+backup memory, where you draw a little cow’s head 
+and mark sticks next to it for each cow that came  
+by that day to keep track of your herd or tax the 
+herders bringing in their cows to trade in your  
+town, or giant squid-monsters I suppose since 
+we’re talking aliens here. You can use this for  
+your memory or as a quick unique language you made 
+with a partner. You probably wouldn’t think you  
+invented a language by telling your fellow herder 
+that you tally sheep and cows and chickens by  
+having empty pepsi, coke, and mountain dew bottles 
+respectively in which you drop pebbles, but in a  
+way you did, and you created a communication 
+method with a specific protocol for data and a  
+compression method. It’s obviously a very crude 
+and limited one but could be expanded upon. 
+ 
+We cannot assume an alien watching us gesture at 
+various chickens, cows, and sheep while dropping  
+rocks equal to their numbers in bottles, “One 
+Chicken, two Chicken, one sheep, five sheep,  
+six sheep” and so is going to get the point 
+instantly or right on the nose, but if you do it  
+enough they should. Again, sheer amount of data. 
+We often talk about how we have languages from  
+back in the day where writing was still not too 
+common where we don’t know what it all means, and  
+we use this as an analogy for aliens’ languages 
+being indecipherable, but this is wrong. 
+ 
+We can’t translate those old tablets of this or 
+that ancient civilization because we just don’t  
+have much data or uniformity. Some civilization 
+that never invented dictionaries that sprawled  
+over hundreds of towns and hundreds of years 
+but only gave us maybe a thousand words,  
+written by twenty different people 
+each from a different town or time,  
+is not something you can translate with certainty 
+because you don’t know if someone’s shorthand  
+abbreviation or typo with a slightly different way 
+of doing some of the letters is even the same word  
+as in another example, so determining what either 
+or both of them mean is in many ways harder than  
+brute forcing a language written by aliens.
+Bigger and more technological civilizations  
+will probably standardize meanings of the 
+symbols they are using to record information.  
+More importantly though they will just have an 
+awful lot more of it. They will have a digital way  
+of storing it, because computers are too handy, 
+and I daresay any species naturally talented at  
+math and computation will invent them faster even 
+if they need them less, so they will have digital  
+medium not just analogue. They will find it handy 
+to rapidly send data between places and that means  
+something moving at light speed, and they will 
+probably find things like radio, magnetic tapes,  
+optical discs, semiconductors, and so on are 
+good methods of storing and transmitting data.
+ 
+That means somewhere on their discs 
+or whatever is a definition of a star,  
+of hydrogen, and of fusion. I do not know how 
+many times the word ‘Thursday’ is used in books,  
+or on the internet, or on radio, but I bet it gets 
+used more on radio on Thursdays then on Mondays,  
+and I bet it has been used millions of time 
+if not far more, and I bet it gets used in  
+conjunction with words like day, year, month, 
+24/7, 9 to 5, am, pm, and so on untold times.  
+An alien hearing our radio is not us looking at 
+a handful of damaged tablets written by different  
+generations using different local lingos and 
+having so little of it that most of their words  
+aren’t used on the tablets even once. See our 
+Cryptic Aliens episode for a walkthrough of how  
+even just listening to radio DJs and analyzing 
+the red-shift of the signals over a day and a year  
+might let you crack a lot of our languages.
+And a lot of physical concepts are going to  
+just have words recorded in their digital 
+or analogue signals. There is a definition  
+of water, even if might get easily confused with 
+seawater’s word or blood’s or liquid in general.  
+A definition of carbon and lead and iron, all in 
+digital form which if we can recognize it and or  
+they can in ours, can then be rapidly translated.
+And there’s probably a definition of the word  
+‘justice’ even if for them its three different 
+notions seen as separate that roughly translate  
+as rules of a game, method or dispute arbitration, 
+and record of execution, or similar. It should be  
+possible for them to die, so they should have a 
+concept for death. It should be possible for one  
+of them to kill another, so their should be a 
+concept for accidental killing and intentional,  
+even if the latter requires such a break 
+with the norm of their psychology that murder  
+is universally considered a type of insanity 
+rather than an act of malice for which one can  
+be guilty. We can consider an alien species which 
+may have no concepts for greed or selfishness,  
+in that same light, and thus might not get 
+theft, but it would seem likely that most if not  
+all alien civilizations will arise around that 
+same dynamic of individual survival and desire  
+in tension with group cooperation, so they are 
+likely to have concepts like murder and theft  
+and thus presumably need words for them. 
+Animals have territory so they can survive,  
+they mark it out as theirs. They do so even though 
+it is warning others you are there and claim it,  
+thus making them on the alert for a possible 
+attack by you, and an unexpected ambush would be  
+more likely to work successfully. However, since 
+neither entity wants to be injured or killed,  
+and that’s a high probability in an encounter, 
+the territorial marking decreases the number of  
+encounters even if by forewarning the rival you 
+increase your odds of losing any given encounter.  
+This logic would seem fairly universal too, thus 
+we would expect aliens to communicate territory  
+to one another in some fashion, and probably in 
+space too rather than hiding from other aliens,  
+as we discussed in Hidden Aliens. This is probably 
+done by radio signal rather than the time-honored  
+traditional method of peeing on things, which 
+is less effective in a vacuum light-years wide.
+ 
+Maybe not, but we know every human civilization 
+will have words for hands and ears and feet and  
+hair because we have these things and will name 
+them. These abstract concepts, territory, justice,  
+love, possession, friendship, and so on may be a 
+lot more universal than hands and tentacles are.
+ 
+Now we can come up with an almost infinite 
+array of ways in which languages might be  
+built, yet we can assume things like radio 
+transmission or optical or magnetic storage  
+because of how universal physical laws are and 
+how efficient such things are at the purpose.  
+In this same way we should not assume any given 
+alien is going to concoct a complex language  
+utilizing a method their biology 
+allows just for the novelty of it…  
+though they may have limited versions of their 
+language exactly for that. Possibly for novelty  
+of course but because it might have niche uses. We 
+have sign language even though we use spoken word  
+as our principal communicator and gestures, facial 
+expressions and so on as supplementary methods,  
+sign language is handy for communicating at close 
+range with line of sight when silence is desired  
+for instance. This means they too are likely 
+to have niche alternative means of speaking,  
+and thus understand that some other creature might 
+use a method they do not, but it is likely to be  
+a method that makes sense for the environment or 
+the goal of fast and accurate concept relaying.
+ 
+So a careful use of a colored flag lifted in a 
+specific pattern of directions and speeds, for  
+instance, is generally not convenient, so we would 
+not expect it to be a main language conveyor,  
+though its one humanity has often used. Smell 
+travels slow, carefully filling glasses with water  
+to different heights and ringing them to create a 
+pattern of sounds and tones is a major pain in the  
+butt, so we wouldn’t expect someone to do that, 
+but one could imagine a species whose biology  
+was so arranged. A spider could weave a web that 
+said something, like with Charlotte’s Web, but  
+that’s not going to be too convenient usually. 
+Again we can imagine a vast array but we can  
+probably guess what an alien might use by just 
+knowing their biology, if the creature has no  
+vocal cords or lips because its lungs for air and 
+mouth for food don’t share the same throat and  
+orifice, but it has some big biological drum built 
+into it that it regularly whacks and seems to emit  
+repeating timed patterns, then you can probably 
+bet that’s part of what it uses for talking. 
+ 
+Though someone watching our lungs might 
+falsely assume our rate of breathing was how  
+we communicated, some pattern of breath or heart 
+rate. It’s entirely possible it has a complex  
+series of shoulder shrugs or toe wiggles that 
+are part of the process, or how it puts its feet,  
+and while we’re trying figure out what it means 
+with its hand gestures, which mean nothing,  
+its ignoring us point our fingers at things and 
+trying to figure out what our toes or shoulders  
+are saying, which is mostly nothing. We do 
+communicate with how we set our shoulders,  
+but we only use them in a limited way as part of 
+our language, a shrug of the shoulders can state  
+uncertainty on a matter, but we do not use them 
+as a letter or word-sound. Fast breathing can  
+communicate distress, fear, desire, etc but is 
+not used for relaying words or letters either.
+ 
+The other trick we might have for determining 
+how they talk is by looking at how they listen,  
+because odds are any natural language has 
+a limited range of accuracy that makes the  
+critters using it focus on whoever is speaking, 
+so to speak. We don’t have to look at someone  
+to understand them but it helps us guess 
+what was said when it’s a bit unclear.  
+Having had a speech impediment my whole 
+life, even after a lot of speech therapy  
+in recent years, I still habitually tend to 
+look right at people when speaking to them,  
+and more so if they’ve indicated in some 
+fashion they had problems understanding me,  
+to make it easier for them to read my face, lips, 
+and so on. We can probably assume a lot of aliens  
+would be turning their sensory organs toward 
+the communicator and start guessing by which  
+are used and when, what the various main 
+and secondary means of communication are.
+ 
+Ultimately after that it’s all about collecting 
+a lot of data and examples, and analyzing their  
+frequency and pattern, and if you can interact 
+with them directly, not just by distant and slow  
+radio, by assuming that if they are staying 
+near you and not trying to flee or kill you,  
+that they are also observing and that they will 
+probably be trying to do what you’re doing,  
+which is figuring out how to communicate and 
+assuming the other person is too. So it might  
+need a long time to figure out that us lining 
+one on our limbs up in a various directions and  
+exhaling in patterns was us pointing at an object 
+and giving the auditory vibrational pattern to  
+identify it, and we might need a long time to 
+realize it was spitting on an object to indicate  
+it was naming it while spitting halfway between 
+it and us to indicate it wished us to name it,  
+all while do that naming by a rapid and precise 
+blinking of twenty eyelids. But with enough  
+intelligence, recording equipment, computers, and 
+most of all, a desire to communicate and patience,  
+it will get figured out.
+Differences in languages can make  
+our fellow humans seem very alien to us, and yet 
+in the end the fundamental purpose of languages,  
+to share often abstract but universal ideas, is 
+what makes each of us less alien to each other  
+and what might make aliens 
+seem much less alien to us.
+ 
+So we ran fairly long today for an alien 
+civilization series episode, and I ended  
+up cutting out a discussion of what the common 
+medium might be for transmission to say hello,  
+like how we might send a signal with the 
+intent of it being noticed or vice-versa. 
+ 
+That makes it a great chance for an extended 
+version on Nebula, and for those watching on  
+Nebula rather Youtube you can see that extended 
+version in place of our usual sponsor spot.  
+Nebula is our rapidly-growing streaming service 
+where you can see all of our episodes ad  
+and sponsor free and a couple days early, as well 
+as some bonus content like our extended editions  
+or Nebula Exclusives like our Coexistence 
+with Alien series. You can also see tons of  
+content from many other amazing creators and 
+help support this show while you’re at it.
+ 
+Now you can subscribe to Nebula all by itself 
+but we have partnered up with CuriosityStream,  
+the home of thousands of great educational videos, 
+to offer Nebula for free as a bonus if you sign up  
+for CuriosityStream using the link in our episode 
+description. That let’s see content like Stephen  
+Hawking’s “Are we Alone”, and hear the late 
+great genius discuss his thoughts on Alien life.  
+So this means you can watch all the 
+amazing content on Curiositystream,  
+but also all the great content over 
+on Nebula from myself and many others.  
+And you can get all that for less than $15 by 
+using the link in the episode’s description.
+ 
+So that will wrap us up for today but we have our 
+mid-month Scifi Sundays episode on Laser Pistols,  
+Lightsabers, and other scifi weapons coming 
+up this weekend. After that we’ll be discuss  
+Arcologies, giant buildings containing whole 
+communities and ecologies and how to design them,  
+before wrapping up our May episodes with Solar 
+Flares and their impact on the Fermi Paradox. Then  
+Closing May out with our Monthly Livestream Q&A on 
+Sunday, May 30th, hopefully from our new studio.
+ 
+If you want alerts when those and other episodes 
+come out, make sure to subscribe to the channel,  
+and if you’d like to help support future 
+episodes, you can donate to us on Patreon,  
+or our website, IsaacArthur.net, which are 
+linked in the episode description below,  
+along with all of our various social media forums 
+where you can get updates and chat with others  
+about the concepts in the episodes and many other 
+futuristic ideas. You can also follow us itunes,  
+Soundcloud, or Spotify to get our 
+audio-only versions of the show.
+ 
+Until next time, thanks for 
+watching, and have a great week!

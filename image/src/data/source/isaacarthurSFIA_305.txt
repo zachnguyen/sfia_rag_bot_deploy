@@ -1,0 +1,776 @@
+This episode is brought to you by Brilliant.
+Contrary to popular belief, nuclear energy
+doesn’t give you superpowers, which is a
+bit disappointing.
+As a consolation prize though it does offer
+a near unlimited supply
+ of clean and safe energy.
+So today we’re back to discussing the future
+of nuclear energy to focus in on Thorium,
+an energy source often heralded as the cleaner
+and safer successor to traditional nuclear
+power and the gateway to humanity’s independence
+from fuels that are short in supply or environmentally
+dangerous.
+Many others view Thorium as little more than
+a pipedream, or even a dangerous distraction
+from pursuing other options like solar or
+wind or geothermal.
+Some argue it even distracts from improvements
+to more traditional nuclear fission or its
+long awaited upgrade, nuclear fusion.
+So which of these is right?
+Is it a Miracle power source, an over-hyped
+alternative, or a dangerous distraction?
+We will be exploring the science of thorium
+power and its future today, here on Science
+& Futurism with Isaac Arthur, and I am your
+host, the aforementioned Isaac Arthur.
+Today’s gonna be a lengthy and maybe a bit
+of a technical discussion, so you may want
+to get a drink and snack, and don’t forget
+to hit the like and subscribe buttons while
+you’re at it.
+So we should probably start with the basics
+first, like what is Thorium, and what brought
+it into the public eye?
+Well Thorium, named for Thor, the God of Thunder
+and Lightning, is probably a good name for
+a substance that offers vast amounts of energy,
+and maybe also new atomic weapons if we’re
+not careful.
+And while many things helped popularize discussion
+of it as a future power source, sadly one
+of those was an old meme about a thorium powered
+car.
+I suspect that’s also what got this power
+source some of the cynicism often directed
+at it being over-hyped.
+It is actually possible to make a nuclear-powered
+car, in a variety of ways, but none really
+stand out as economically sound or physically
+safe options.
+Of those that are it would probably be a RTG
+running on passive nuclear decay and charging
+the car’s batteries continuously, or some
+fission engine that did the same, could be
+throttled, and probably also ran on some super-rare
+transuranic isotope like Americium-242, which
+could permit a 5 kilogram reactor running
+on 700 grams of Americium.
+Such elements don’t naturally occur as they
+have a half-life vastly shorter than the age
+of Earth; in the case of Americium-242, just
+432 years.
+Nonetheless, such elements and reactors could
+see a role even in personal vehicles in a
+century or two if the civilization is a post-scarcity
+civilization, with energy abundance and medical
+nanotechnology removing any health concerns
+about radiation, and on this show this is
+something we would expect to be true for the
+22nd century, so a nuclear car running on
+rare isotopes is not off the table.
+It just won’t be getting served for dinner
+any time soon.
+See these isotopes aren’t so much rare as
+non-existent.
+We have to make these isotopes, and typically
+with a breeder reactor.
+Which is also part of the process for using
+Thorium as a power source, but unlike Plutonium
+and the other Transuranic elements, thorium
+isotopes typically have half-lives similar
+to or longer than uranium.
+While its shortest lived isotope, Thorium-227,
+has a half-life of only 19 days, its longest
+lived isotope, Thorium-232, has a half-life
+of 14 billion years, the approximate age of
+the Universe, and about 3 times longer than
+Uranium’s longest-lived isotope, Uranium-238,
+which comes in at 4.5 billion years and is
+roughly the age of the Earth.
+This is the primary reason why Thorium is
+three times more abundant than uranium on
+Earth, indeed roughly as common lead, and
+almost all Thorium is Thorium-232, the element
+that interests us, whereas uranium is virtually
+all U-238, with a modest amount of the shorter
+lived U-235, which is fissile and has a half
+life of 700 million years, and also little
+bit of Uranium-234, about 50 parts per million,
+but with a half life of only a quarter of
+a million years.
+Why there is any U-234 naturally occurring
+matters a lot for why Thorium should be useful
+to us.
+Now you have probably heard that Earth was
+created by a Supernova causing our solar system
+to form and most of our heavy elements are
+thought to have come from that Supernova.
+But not all would have, some coming from older
+ones or even from supernova remnants we have
+since passed through, and furthermore we cannot
+assume all supernovae produce equal amounts
+of each isotope of a given element.
+Nonetheless we can say there were a great
+deal more equal amounts of the various isotopes
+of Uranium when they were made, and the date
+for that is usually put at about 6 billion
+years ago, well before Earth itself formed.
+So Thorium’s longest lived Isotope after
+232, Thorium-230, only lives about 75000 years,
+which would be 80,000 half-lives in a 6 billion
+year period, If you cut something in half
+80,000 times you end up with a number so small
+that even if every atom in the Universe had
+been composed of that substance initially
+it would be astronomically improbable a single
+atom of it was still around, anywhere in the
+entire Universe.
+Alternatively Thorium-232, with a half-life
+14 billion years, would only have had about
+a quarter of its atoms decay in that time.
+Which gets us to why there is any Uranium-234
+at all, since it’s only about three times
+longer-lived than Thorium-230, and indeed
+that is what Uranium-234 decays into.
+Both have such a short half-life, in geological
+and astronomical timelines, that even though
+Uranium-234 decays into Thorium-230, so many
+half-lives have passed that there shouldn’t
+be a single iota of either anywhere on this
+planet, and yet both are around in non-minuscule
+quantities.
+This is because Uranium-238, with its half-life
+equal to Earth’s age, turns into Uranium-234,
+then Thorium-230, then on to Radium and Radon,
+then to Polonium, and finally on to Lead.
+In the grand scheme of things all those in-between
+decays represent only a tiny fraction of time
+compared to that spent first as Uranium-238,
+or afterwards as Lead, but it’s enough that
+we actually have some Uranium-234 and Thorium-230
+on the planet, even though none of either
+would have still been around when the Earth
+formed, having decayed while making the journey
+from the Supernova or neutron star collision
+that formed them.
+Now something’s half-life is pretty indicative
+of how dangerous it is in terms of radiation,
+and so you need not concern yourself that
+there’s tons of Uranium and Thorium in your
+backyard.
+The stuff is chemically toxic if swallowed
+in large enough quantities, and its powdered
+metallic form is pyrophoric, meaning it ignites
+spontaneously in air.
+But you’ve got about 40 micrograms of Thorium
+in your body, and eat about 3 micrograms a
+day.
+You have also got about 20 micrograms of Uranium
+in you too if you’re curious.
+Anyway, beyond that Thorium is pretty safe
+stuff to handle in its natural form, but it
+is still radioactive, even the ultra-long-lived
+Thorium 232, so while I agree with folks who
+say Thorium has advantages over Uranium as
+being a safer substance in terms of both handling
+and weaponization concerns, it’s still not
+something to casually play around with either.
+The big concern, and potential, comes from
+fission, and specifically from breeder reactions.
+Same as an unstable atom can decay into a
+different atom spontaneously, we can slap
+it with something, typically a neutron, and
+have it break apart, and some of these substances
+will break apart in a way that emits more
+of whatever broke it in the first place, typically
+meaning it spat out a few neutrons after being
+hit by one.
+This can be used to send those neutrons to
+repeat the process on neighboring atoms and
+cause a chain reaction, and substances that
+are capable of this are known as fissile.
+Uranium-235 is Fissile; so is Plutonium-239,
+but it only has a half-life of 25,000 years
+so it isn’t naturally occurring either.
+Plutonium-241 is also fissile and has a half-life
+of just 14 years.
+Uranium-233 is also fissile, and does better
+than plutonium at a half-life of 160,000 years,
+but that’s still not long enough to be naturally
+occurring.
+So we’ve got to make them.
+This is why Uranium-235 is so useful for reactors
+and bombs, it is fissile and it is decently
+common, 0.72% of natural uranium.
+And since U-235 is slightly less dense than
+U-238, we can run it through a centrifuge
+to separate the two or at least produce a
+more concentrated selection of it; an enriched
+one.
+Though this is usually still mostly made of
+U-238.
+This results in the remaining part being somewhat
+depleted of U-235, usually half or more having
+been removed.
+Neither natural or depleted Uranium is particularly
+dangerous to handle, much the same as Thorium.
+Here’s the key bit though, while a material
+is fissile if it can absorb a neutron and
+break up to spit out more neutrons, causing
+a chain reaction, a lot of materials will
+just absorb a neutron and do nothing but sit
+there’s as a slightly different isotope
+of themselves, often a stable one too.
+One of the things that makes lead handy as
+a radiation shield is that its three major
+isotopes, Lead 206, 207, and 208, can absorb
+a neutron and just become lead 207, 208, and
+209 respectively, though Lead-209 will beta
+decay into ultra-long-lived Bismuth shortly
+thereafter.
+Beta decays are low-powered and basically
+harmless.
+Anyway, we don’t want these neutron absorbers
+in our reactor, or bomb, because they poison
+the fission process by sucking up some neutrons
+without spitting others out.
+However some substances do spit stuff out
+later.
+For light elements we generally see an equal
+number of protons and neutrons, or close to
+it, but the bigger on the scale you go, the
+higher the ratio of neutrons to protons, and
+this permits very large numbers of variously
+stable isotopes.
+One example of which is Uranium-239, what
+you get when one of the many remaining U-238
+atoms in an enriched Uranium fuel rod absorbs
+a neutron.
+Now U-239 is not a common word, mostly because
+it’s very short lived, and after 23 minutes
+turns into Neptunium-239 for a couple days,
+and then into Plutonium-239, one of our other
+fissile isotopes.
+Incidentally there are Uranium isotopes all
+the way from Uranium-214 to 242, but none
+of the first dozen last longer than a second.
+Plutonium-241 is also fissile but is made
+by hitting Plutonium-239 with a neutron to
+become 240, then doing it again to become
+241, so it’s not a great way to make fuel,
+though Plutonium 241 has a better neutron
+absorption cross section than 239.
+Absorption cross section is the likelihood
+a passing neutron will be absorbed, more is
+better for fission.
+As a side note, in general, isotopes with
+an odd number of neutrons are both more likely
+to absorb neutrons and undergo fission when
+they do.
+Thorium, Uranium, Plutonium, and Curium have
+90, 92, 94, and 96 protons respectively, each
+an even number, so their isotope numbers indicate
+an odd number of neutrons when they’re odd,
+like Thorium-231, Uranium-233 and 235, Plutonium
+239 and 241, Curium 243 and 245, each of which
+represent an odd number of neutrons and each
+of which is fissile and will have a lower
+bare critical mass for use as a bomb.
+Alternatively Americium-242 is the isotope
+of Americium, 95 protons, with an odd number
+of neutrons and its critical mass is put at
+around 9-18 kilograms, versus 50-155 kilograms
+for Americium-243.
+Folks more familiar with Thorium, who are
+probably getting impatient with me walking
+through this process, might be going “hey,
+I thought Thorium didn’t have any fissile
+isotopes” while others might be saying “See
+you can make a bomb out of it.”
+A thing to keep in mind for instance is that
+Thorium-231 has a half life of a day, and
+is principally made by the decay of Uranium-235,
+which is vastly more abundant and vastly more
+fissile.
+Lots of isotopes are technically fissile,
+but most are barely so, and often very short-lived.
+That’s where Uranium-233 energy comes in,
+better known incorrectly as Thorium energy,
+which I say because we don’t sit around
+referring to bombs or reactors running on
+Plutonium-239 as being Uranium bombs or reactors.
+Thorium-232 is hyper abundant, being virtually
+all naturally available thorium atoms, and
+can absorb neutrons, but it doesn’t undergo
+fission.
+Instead it turns into Thorium-233, which still
+doesn’t undergo fission.
+It could absorb another neutron and become
+Thorium-234 in theory, but that has a short
+half-life of 22 minutes, after which it will
+decay into Protactinium-233, which has a 27
+day half-life, then becomes Uranium-233, which
+is fissile.
+Technically it can decay into Thorium-229
+at this point, continuing the chain, but Uranium-233
+has a half-life of 160,000 years.
+So our Thorium-232, which is busy absorbing
+neutrons, will have that atom spend a bit
+of time in those three mid-points before settling
+into Uranium-233.
+This is the Thorium Fuel Cycle, except we
+haven’t produced much power yet.
+Uranium-233 absorbs a neutron and sometimes
+turns into Uranium-234, about 6% of the time,
+which is good at capturing neutrons and will
+at some point do so and become U-235, which
+is of course quite fissile.
+Most of the time though, in 94% of interactions,
+the U-233 will fission from the neutron hitting
+it and break up into two smaller atoms, such
+as Xenon-137 and Strontium-94, plus 3 more
+neutrons, permitting the chain reaction as
+one of those neutrons might hit a neighboring
+U-233 to spit 3 more neutrons out, while another
+might be absorbed by some neighboring Thorium-232,
+starting the Thorium Cycle off again.
+Incidentally, fission byproducts aren’t
+as uniform as decay products are.
+Most isotopes with a half-life decay in one
+specific fashion or perhaps two with a clear
+set percentage; fission is messier and can
+depend a lot on the speed or energy of the
+neutron hitting it.
+It’s also not perfectly documented, especially
+for these irregular processes like Uranium-233,
+since we basically have to pull all the materials
+out of the reactor and carefully scrutinize
+it for all isotopes, often in concentrations
+way less than one part per billion, and often
+track it backward by seeing some daughter
+isotope that’s a decay product of a fission
+byproduct.
+Much hunting for needles in haystacks, except
+atomic nuclei are very tiny needles.
+One other note on this, we also have what
+we call parasites, sort of the opposite of
+fertile materials like Thorium-232, Uranium-234,
+and Uranium-238 which can absorb neutrons
+and end up as something fissile.
+During the production of Uranium-233 you inevitably
+get some Uranium-232 instead.
+This mostly happens when the Protactinium
+phase absorbs a neutron but can actually happen
+through multiple channels, both during the
+normal Thorium Fuel Cycle or even off the
+tiny amount of Thorium-230 rather than 232
+in any given Thorium sample.
+U-232 has a good neutron absorption cross
+section for fission, which you would think
+would be good for a fission reactor, but mostly
+it interferes with the Thorium Fuel Cycle
+and also is highly radioactive, with a mere
+70 year half-life and being a powerful gamma
+ray emitter.
+This is one of the big problems with Thorium
+as a power source, once it’s irradiated
+– which is to say, once we start blasting
+it with neutrons: that U-232 starts emerging
+and represents a significant handling and
+safety burden.
+Another problem is that it isn’t really
+ideal for a fast reactor, and of course requires
+us to explain what a fast reactor is.
+Most neutrons coming out of these reactions
+are moving very, very fast, frequently a couple
+percent of light speed, or thousands of kilometers
+per second, one of the reasons we like it
+for spaceship drives, see our episode “The
+Nuclear Option”.
+We often slow these neutrons down to a thousandth
+that speed, something more like what a fighter
+jet might move at, via neutron moderation.
+This is where we have a space between the
+fuel rods filled with something like water
+or graphite that neutrons can whack around
+and slow down by hitting the molecules, but
+generally don’t get absorbed by them.
+This heats that moderator up and often allows
+us to generate power by moving that moderator
+through a standard heat engine or for safety’s
+sake, using it to heat up something which
+heats up another fluid to avoid radiation
+getting out.
+That’s how what we call a “Thermal Neutron
+reactor” works, the neutrons are slowed
+to speeds of hot materials rather than fast
+relativistic ones.
+A “fast reactor” uses those fast relativistic
+ones, being short for “Fast Neutron reactor.”
+But some materials can absorb even a high-speed
+neutron, called fast neutron absorption, and
+that’s ideal for the typical breeder reactor
+where you absorb neutrons to make a new substance
+rather than direct fission, which is what
+we do with Thorium and what we do with Uranium
+to make Plutonium, and the latter cycle is
+better at that.
+That’s a downside but not a fatal one, but
+reminds us that while U-235, the workhorse
+of fission reactors, is pretty rare compared
+to Thorium-232, U-238 is more than a hundred
+times more common than U-235, and like Thorium-232
+has a breeder cycle, going to Plutonium-239,
+which cuts into the often proclaimed edge
+of Thorium as vastly more abundant.
+It is more abundant than Uranium-238 but not
+that much more so, but U-238 is for making
+Plutonium which is quite easy to weaponize,
+which Thorium is often proclaimed not to be.
+Of course you can weaponize thorium power.
+U-233 can be made into a bomb for instance,
+which the U.S. experimented with once during
+the 1950’s, but it is arguably more proliferation
+resistant.
+As I often say on the show though, power is
+power, and you can weaponize any power, even
+if just by generating it to run your bomb
+factories or your economy to afford more and
+better armed troops.
+The main path for weaponizing this is to be
+cycling the reactor fuel to remove the Protactinium
+from the Neutron Flux for a few months until
+it’s decayed into U-233, preventing most
+of the U-232 formation that makes U-233 non-ideal
+as a nuclear bomb, and Protactinium can be
+chemically separated from the Uranium and
+Thorium.
+However, hijacking lots of small thorium reactors
+to get that fuel to separate the tiny amount
+of Protactinium out is a lot of effort to
+get a bomb.
+And while I dislike folks calling Thorium
+safe from weaponization, I really haven’t
+heard of a good method for weaponizing it,
+albeit in all fairness that might be because
+it’s classified.
+Even if the reactors were all over the place,
+that doesn’t seem any easier than sourcing
+material for a regular atomic bomb, though
+folks can be surprisingly inventive so we
+shouldn’t write it off.
+Especially given that one of the more popular
+thorium reactor designs relies on molten liquid
+salt in the core, not the typical image of
+hard metal rods or pellets, which is handy
+in large part because it allows us to chemically
+separate out fission byproducts.
+Incidentally it’s important to remember
+that while you can separate isotopes of the
+same element by centrifuging them, all isotopes
+of an element act the same chemically, so
+a process that dissolves Uranium works on
+U-235 and U-238 or U-233, same for separating
+out Protactinium from Uranium and Thorium,
+which would let you get purer Uranium-233.
+A pure Uranium-233 is much better for making
+bombs out of.
+For anyone who is curious, narrating a script
+full of Isotopes is a worse tongue twister
+than that time I helped Peter Piper pick a
+Peck of Pickled Peppers.
+So yes, Thorium is somewhat proliferation-resistant,
+compared to U-235 or Plutonium, but I don’t
+like to tout Thorium for this reason because
+I think it is surrendering to the flawed premise
+that controlling one particular style of weapon
+or attack at the cost of a major economic
+or environmental advantage is a good deal.
+Not that I would encourage folks to get blasé
+about radiation or atomic weapons but if you
+are a channel regular then you are familiar
+with the wide array of doomsday devices potentially
+available to us in the not-too-distant future.
+So those are two often-cited advantages to
+Thorium I feel need caveats; the weapon proliferation
+edge isn’t maybe that advantageous, and
+Thorium’s abundance as a big edge only matters
+for classic U-235 reactors.
+Truth is, there’s more than enough U-238
+to keep our civilization running on Uranium-Plutonium
+breeder reactors for centuries even without
+extracting the multi-million year supply of
+it in our oceans and seabeds, let alone extreme
+mining of our mantle or space, and Uranium
+is valuable enough in terms of energy density
+to make mining it from space profitable, especially
+with the sort of nuclear propulsion systems
+we looked at in our episode “The Nuclear
+Option.”
+Again, Thorium is more abundant in our crust
+but both are quite abundant enough, and uranium
+is much more abundant in our seawater which
+is currently a bit pricey to extract in terms
+of energy, though not too bad compared to
+normal mining.
+But if you’re running an economy on Uranium
+and Thorium it’s a pretty minimal extra
+cost and would work well with both coastal
+plants’ cooling towers, and nuclear power
+for water desalination.
+However, realistically, if we haven’t worked
+out fusion in a few centuries when easily
+available Uranium might be running low, then
+buying ourselves three times the supply by
+switching to Thorium is not really a winning
+policy, in favor of something a bit more long
+term renewable like solar.
+Though again keep in mind we can access millions
+of years worth of either Thorium or Uranium,
+it's just the Sun lives for billions of years
+and gives off way more power.
+Two downsides of Thorium often cited that
+I’d dispute though are that it is tricky
+to handle, and we aren’t as experienced
+with it.
+Both are true, we do have way more experience
+with other types of reactors and uranium as
+a fuel of course.
+Needless to say that’s only a temporary
+downside and not a good reason to avoid it
+as a fuel, but it is to countries or companies
+that need make power now, and on a budget,
+so it’s valid but manageable by putting
+effort into it, same as we did for solar,
+which was a horrible power supply economically
+until this last decade, but is now the cheapest
+option in many parts of the world.
+Also needless to say, with other power options
+besides traditional nuclear to compete with,
+taking a lot of time to learn to better handle
+and work with Thorium in terms of practical
+experience is a real downside.
+Thorium is tricky to handle too, if not ridiculously
+so.
+As I mentioned earlier, thorium can be pyrophoric,
+burning when exposed to air, and needs temperatures
+higher than uranium to melt and purify.
+But again this doesn’t really seem like
+a big limitation so much as a matter of developing
+the tools and infrastructure to do it.
+A big part of the issue with time is the simple
+licensing process for an entirely new fuel
+source, which could take a decade or more.
+Years of modelling in computers has to be
+done, alongside physical tests, and then it
+takes years to review the license applications
+for different parts of the process.
+If one avoided any and all regulations, you
+could probably do it pretty quick, but that’s
+not exactly ideal for safety or the environment.
+On the other hand, some might argue that risk
+is small compared to current damage being
+done from other power sources.
+Personally, the Thorium-Uranium power production
+process I like the most at the moment is with
+MSRs or Molten Salt Reactors.
+Sometimes called a Molten Salt Fueled Reactor
+to differentiate them from those using molten
+salts as the coolant or working fluid, here
+the fission fuel is in the molten salt.
+I mentioned moderators earlier to slow neutrons
+down for capture, and that’s not limited
+to water.
+A big stream of molten matter cycling through
+your core is advantageous for many reasons,
+some of which we discussed in our recent episode
+on the Future of Fission, but one is that
+you can keep everything lower pressure and
+you can cycle it out so that you don’t need
+to load your reactor up with a ton of fissile
+material to keep the reactor operating a long
+time.
+That allows for much smaller reactors when
+it comes to shielding and containment; it’s
+not some giant pressure cooker full of tons
+of superhot radioactive material.
+This is where the LFTR or ‘Lifter’ Liquid
+Fluoride Thorium Reactor comes in, and it’s
+probably the most touted Thorium reactor concept.
+It’s got some variations too, and isn’t
+limited to Thorium designs.
+Fluoride melts at 135 Celsius, or 275 Fahrenheit,
+not that much above water’s boiling temperature,
+which is part of why it's appealing as the
+medium.
+Also when Fluorine atoms absorb a neutron
+they just turn into Neon-20, which is stable
+and a Noble Gas so obviously very easy to
+remove.
+Fluorine also bonds to Uranium to create uranium
+tetrafluoride, sometimes called green salt,
+which becomes our core material doing the
+fission.
+Its melting point is 1036 Celsius and it is
+insoluble in water which means if your reactor
+gets mashed you’re not spraying the vicinity
+with superhot radioactive and toxic gas or
+something which can dissolve in rain or water
+to run all over the place.
+MSRs – thorium or uranium – have a lot
+of engineering upsides and downsides we will
+bypass today, but we’re discussing what
+we have thus far in terms of the mechanics
+to clarify why Thorium often gets discussed
+as usable in small reactors.
+If it helps conceptually it’s a lot like
+why your smart phone does not have a gas engine,
+even though that would be vastly better than
+a battery, and why even though electric cars
+are finally making it into market as real
+competitors, nobody is mass manufacturing
+battery run planes or freight trucks (or at
+least not yet).
+Thorium is not in any way more energy dense
+than Uranium; they’re about the same.
+Most of that compactness is coming from the
+MSR design, not whether it runs on thorium-232
+or uranium-238.
+Critically though, Thorium allows Thermal
+Breeding, or slow neutron breeding, in the
+context of those neutrons only moving at hot
+thermal speeds of atoms and not a fraction
+of light speed like fast neutrons do.
+Which means the amount of fissile material
+you have to put in to start the process up
+is lower, though Fast Breeders always make
+more fissile material as they have better
+neutron economy, which is a plus for Uranium-Plutonium
+over Thorium-Uranium.
+And while these are small but not super small,
+there are other technologies which might allow
+even tinier ones.
+As an example in our Death Rays episode I
+mentioned how a neutron reflective substance
+would be great for making neutron beams, which
+was our lead candidate for a solid death ray,
+and that same sort of material or metamaterial,
+if we found one, would utterly alter the fission
+landscape and start letting us contemplate
+man-portable reactors, maybe even pocket-sized
+stuff, and there are other technologies that
+might permit similar advantages for thorium.
+So thorium holds a lot of promise and might
+have other chances to shine as other new technologies
+emerge.
+Though of course the reverse is true too;
+we’re only one miracle technology away from
+working fusion, or ultra-cheap space-based
+solar panels, or extremely high-performing
+batteries.
+Is there a future for Thorium?
+I think so, I think the path forward for humanity
+for this century at least is to rely on a
+mix of nuclear and solar as our two principal
+power sources – though not exclusive, just
+principal.
+In that context I think with a bit of work
+Thorium MSRs like LFTR offer one of the better
+routes for rapidly mass producing and deploying
+these reactors in the longer term, maybe for
+replacing the reactors we already have with
+safer options.
+They may not be the miracle power source many
+claim, partially because we have so many other
+impressive power options getting explored
+and prototyped too, but they do offer a lot
+of advantages.
+In the end, an economically abundant and ecologically
+safe power source would be a miracle all by
+itself, and while we can debate if other power
+sources might be as good or better in that
+regard as Thorium, there is no doubt Thorium
+could fill that role.
+So the future of thorium might be a bright
+one, and if it is, it will make for a bright
+future for humanity.
+If you’re looking to learn more about nuclear
+energy and nuclear reactors, a hands on approach
+is always best but with radioactive materials
+we need to be a bit more metaphorical about
+handson, and there’s some excellent lessons
+on those topics in Brilliant’s Course Physics
+of the Everyday.
+I want to stress that though because hands
+on learning and interactive learning, are
+simply the best approach to learning a topic,
+any topic, and Brilliant is a website and
+app built off the principle of active problem
+solving — because it takes more to learn
+something than just watching it — to really
+learn something, you have to do it.
+Over the last year, Brilliant has built a
+whole new platform for their courses that
+takes interactivity to the next level.
+To see examples of that, check out their courses
+on Pre-Algebra, Mathematical Fundamentals,
+Algorithm Fundamentals, and the newly released
+course on Scientific Thinking, with many more
+under construction.
+They are simply the best online learning platform
+I’ve ever seen for Math, Science, and Computer
+Science, and there’s no secret to why: You
+learn best while doing and solving in real-time,
+not by long lectures or memorising formulas
+and facts, and Brilliant understands that
+and has something for everybody — whether
+you want to start at the basics of math, science,
+and computer science, or go straight to advanced
+material.
+If you'd like to join me and a community of
+8 million learners and educators today, click
+the link in the episode description down below
+or visit: brilliant.org/IsaacArthur.
+So I recently had the chance to give a presentation
+on Human-Machine Teaming at MIT Lincoln Labs
+and that was a fun and exciting honor to speak
+to that group as well as to pick their brains
+for more information.
+Preparing for that as well as the feedback
+from the Q&A afterward has given us some episode
+topics, and next week we’ll have the first
+of those episodes, Human-Machine Teaming,
+and the second, Criminal AI, will be out toward
+the end of October.
+In a somewhat similar vein, we often discuss
+the difficulty of hiding civilization or even
+spacecraft in regard to the Fermi Paradox,
+and in three weeks we’ll dive into that
+in detail in Fermi Paradox Hidden Civilizations
+but before that we’ll have our mid-month
+scifi Sunday episode on Stealth Spaceships
+on September 12.
+Then we’ll celebrate the 7th anniversary
+of our original episode on Megastructures
+with a look at Megastructure Death on September
+16th.
+Then we’ll close the Month out by asking
+if it is possible for a civilization to exist
+without money and what that might look like.
+Now if you want to make sure you get notified
+when those episodes come out, make sure subscribe
+to the channel, and if you enjoyed the episode,
+don’t forget to hit the like button and
+share it with other.
+If you’d like to help support future episodes,
+you can donate to us on Patreon, or our website,
+IsaacArthur.net, which are linked in the episode
+description below, along with all of our various
+social media forums where you can get updates
+and chat with others about the concepts in
+the episodes and many other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!

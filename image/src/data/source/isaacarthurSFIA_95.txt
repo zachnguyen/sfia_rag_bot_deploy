@@ -1,0 +1,25 @@
+Can The Moon Keep An Atmosphere?
+When talking about terraforming planets like
+Mars it's common to say a planet needs a lot
+of gravity to keep an atmosphere and not a
+lot of heat, and to say our own Moon couldn’t
+keep an atmosphere itself.
+This isn’t exactly wrong but misses that
+a number of things strip gasses off a planet
+and that normal temperature and the planet’s
+escape velocity isn’t the main one.
+Generally air molecules, nitrogen and oxygen,
+move a few hundred meters per second, non-coincidentally
+around the speed of sound, whereas the escape
+velocity of Earth is 30 times this, and the
+Moon is 5-6 times this speed.
+If we dumped an Earth-like atmosphere on the
+Moon, it would not instantly go flying off
+into space, particularly if we also gave it
+a strong magnetosphere to deflect incoming
+solar wind.
+You would still need some containment, like
+very large domes or a transparent sphere to
+keep air from leaking out on longer timelines
+and shield from UV, but the leakage would
+be slow… which answer the question…

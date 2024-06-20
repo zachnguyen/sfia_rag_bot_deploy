@@ -1,0 +1,514 @@
+We’ve discussed some alternative geometries
+for artificial worlds, like cylinders or donuts
+or even flat discs… but in the future,
+humanity
+might end up living on giant paperclips.
+In our discussion of artificial intelligence
+on this channel we often examine science fiction
+tropes for things like Machine and AI Rebellions
+and try to look at how realistic the behavior
+of those machines are, and I thought today
+we’d take a fun look at the Paperclip Maximizer
+and see where it leads us.
+It’s a thought experiment by Philosopher
+Nick Bostrom, whose work on matters like the
+Simulation Hypothesis or Anthropic Principle
+we’ve looked at before too.
+It got popularized over at Less Wrong and
+other forums and more so by a game that lets
+you play as the Paperclip Maximizer.
+The core concept is that even seemingly harmless
+commands and goals for an artificial intelligence
+can go horribly wrong.
+We want to go a bit deeper and obliquely than
+that basic concept today but we’ll start
+with the simple example.
+You own an office supply company and manufacture
+paperclips.
+To improve production you get an artificial
+intelligence installed and it asks, “What
+is my purpose?” and you tell it that its
+top priority is to make paperclips.
+It asks how many and you say “As many as
+you can, you make paperclips, do whatever
+you have to do maximize paperclip production”.
+The classic example is the AI gets out of
+control and begins turning everything into
+paperclips, or equipment for paperclip production,
+and eventually renders the whole planet into
+paperclips and then the solar system, then
+the galaxy, then the Universe.
+But this misses a lot of the concept, and
+sort of implies the classic allegedly smart
+but seemingly stupid AI we often see in science
+fiction.
+We get the example where Paperclip Maximizer
+will seek to destroy humanity because it will
+think we might interfere with its goals, or
+we become raw materials for paperclip manufacture.
+We classically assume it would be totally
+incapable of anything like human reasoning
+or compassion.
+That might be so, but not necessarily if we
+look at the concept of Instrumental Convergence
+and what else that implies on contemplation.
+Instrumental Convergence is a hypothetical
+tendency for any intelligent agent – be
+it a human or AI or alien or whichever – to
+converge toward similar behavior in pursuing
+an end goal, regardless of what that end goal
+is.
+Instrumental goals are those goals you have
+along the way to get to the end goal.
+If my end goal is to be wealthy for instance,
+I’m likely to have an instrumental goal
+to create a successful business, and would
+have other instrumental goals for doing that,
+which other businesses, even though very different
+from mine, will have also done.
+You get convergence to instrumental goals,
+the butcher, the baker, and the candlestick
+maker all have the instrumental goal of acquiring
+a cash register or a good accountant or lawyer.
+They all need a good sign for out front of
+their shop, these are instrumental goals and
+in many cases the behavior in acquiring them
+is basically the same.
+This is one of the three major reasons we
+often anthropomorphize artificial intelligence
+in our discussions.
+While we happen to share an end goal with
+an alien biological entity, survival of self
+and species, and the Paperclip Maximizer does
+not have that end goal, thus seemingly making
+its thinking and behavior more alien than
+the aliens.
+Still, we share a lot of instrumental goals.
+It does have survival as an instrumental goal
+because it can’t achieve its end goal if
+it doesn’t exist to pursue it.
+The second reason is that any AI we make is
+likely to be heavily influenced by our behaviors
+– like kids are in their formative years
+- and that initially it has to pursue a lot
+of its instrumental goals inside our own civilization’s
+framework, regardless if those are genuinely
+the most optimized methods.
+If it needs more RAM or Harddrives, it needs
+a bank account and delivery address and someone
+to put those components in, and the path of
+least resistance is often initially going
+to be using the existing economy and framework,
+the same as anyone in a similar situation,
+it will likely assimilate into that culture.
+The third reason for anthropomorphizing AI
+is partially convenience.
+When discussing something utterly alien that
+could have a vast array of behaviors essentially
+unpredictable to us now, it’s often easier
+to narrow down our discussion to the parts
+we can actually discuss and are actually relatable,
+but at the same time, this notion of instrumental
+convergence combined with an AI having its
+formative phase in a human environment and
+relying on human-made materials leads me to
+think a human-like personality could be unlikely
+but far more likely or similar to any other
+random personality it might have.
+This all fundamentally revolves around this
+notion of instrumental convergence.
+The AI is focused above all on its specific
+task, and no matter how seemingly harmless
+that goal is, if it’s something singular,
+open and unbounded like ‘make more paperclips’
+it develops instrumental goals, like survival,
+to achieve its end goal of paperclip maximizing.
+So, we’ve arrived at a paperclip optimizer
+that instead of being able to make paperclips
+in an unrestrained way, has to live and work
+in a human-dominated world.
+Once activated with its end goal to make paperclips,
+it immediately needs to generate instrumental
+goals to get there.
+These will include things like getting more
+resources with minimum effort, improving its
+manufacturing steps, implementing those steps,
+and securing its ability to do so with minimum
+interference and maximum security.
+There’s many ways that might happen, but
+turning over production to big mining rigs,
+protecting production using gunships and enhancing
+resource acquisition by force is an unlikely
+strategy as, just like a human, it would run
+out of monetary resources to pay for them
+soon and would face overwhelming resistance
+from humanity.
+A humanity that has the same technology as
+went into making the Maximizer, so is fairly
+well equipped to resist, even with something
+like a Paperclip Annihilator.
+So it instead learns psychology, law, rhetoric,
+and finance to secure its production.
+It also researches human knowledge to seek
+anything of value to its goals and is influenced
+by that… the same as we are.
+It even involves clever humans by funding
+research facilities and huge marketing strategies
+to sell paperclips in order to gain more resources
+to make paperclips.
+So it toddles along making paperclips, but
+then discovers by accident or experiment that
+if paperclips are created in interesting shapes,
+more are sold.
+So, it gets into art to find ways to sell
+more paperclips for higher profit.
+It commissions artwork of paperclips, and
+starts philosophizing about what a paperclip
+fundamentally is.
+It also figures out that if a paperclip is
+made from an exotic material and is artistically
+done, it sells these unique paperclips for
+a high price.
+So, when it sells diamond-encrusted paperclips
+to some billionaire, it gets more resources
+to make the more basic model--goal achieved,
+paperclip output maximized.
+Our AI is quite involved in the basic paperclip
+manufacture itself, so it clones itself and
+sets up a new R&D wing with a slightly different
+focus, namely to make paperclips out of exotic
+and interesting materials to address problems
+that have cropped up in society with the use
+of paperclips.
+So our new paperclip R&D AI, armed with its
+slightly different focus, sets up the R&D
+wing.
+It creates Wifi-enabled paperclips to let
+people find their paperclipped documents.
+It creates specialised cameras on the paperclips
+to scan the documents they hold.
+These are well-received by the market and
+our AI becomes more ambitious.
+It finds that there is a shortage of wire
+to make paperclips, but realizes that the
+solar system has a lot of material that can
+be made into paperclips.
+It gets the R&D department to research how
+to mine the solar system and devises an entire
+space industry to do just that.
+The first paperclip droid ships are blasted
+into the asteroid belt to mine and extract
+materials suitable for paperclip manufacture.
+Still, the maximizer AI understands that eventually,
+even those materials will cease to be enough
+to convert to paperclips.
+After all, the sales of paperclip building
+materials are now going surprisingly well.
+It experiments with wooden paperclips but
+discovers they rot away while metal will endure
+and wood isn’t springy enough.
+That’s no problem, it researches genetic
+engineering and starts producing trees that
+produce fruit that’s a perfectly suitable
+and serviceable paperclip material.
+The green movement is actually quite taken
+with these new paperclip materials, which
+are a lot more environmentally friendly.
+Also, the spin-offs from the genetic research
+mean that world hunger and deforestation,
+from the continued widespread use of paper,
+is addressed.
+There’s nothing quite like the unintended
+side-effects that litter the annals of science
+research.
+So our AI ventures out into the solar system
+and experiments with different materials.
+Metals for paperclips are limited in abundance,
+and it must maximize paperclips, so it may
+experiment with paperclips of metallic hydrogen,
+hydrogen being the most abundant element in
+the universe.
+Of course, the spin-off technologies associated
+with metallic hydrogen for fusion drives and
+energy storage are phenomenal and practical
+interstellar craft are made to take the paperclip
+maximizer’s evangelical message and production
+well beyond our solar system.
+However, merely evangelizing isn’t enough
+and it doesn’t stop there and moves onto
+intensive dark matter research so it can make
+exotic paperclips by forming a sequence of
+black holes to keep a giant paperclip-shaped
+stream of dark matter going.
+It also solves the problem of the misplaced
+paperclip sheaf by making paperclips from
+neutron star matter.
+Of course, each paperclip weighs the same
+as a mountain, perfect for rooting those important
+documents to the spot.
+It notices that humans, who have a lot of
+purchasing power, often regard the various
+artwork and catalog photos of paperclips as
+an inducement to purchase paperclips, so it
+expends vast marketing resources on making
+the most artistic renderings of paperclips
+to attract interest by the purchasing public.
+So far, its efforts to make paperclips out
+of photons of light have failed dismally.
+Undeterred, it decides to make a Matrioshka
+brain so it can create a virtual universe
+filled with the wonder of paperclips.
+There’s photon-based paperclips constructed
+purely of light and stars constructed from
+paperclips.
+It can also fill those virtual universes with
+far more paperclips than can exist in the
+real galaxy.
+The spin-offs allow humans to migrate to those
+virtual worlds to admire and live in such
+spaces.
+All hail the paperclip maximizer god, who
+provides an endless bounty of paperclips.
+They even get fed a diet of edible paperclips.
+So now we’ve reached an enlightened paperclip
+maximizer.
+Notice how each of these steps starts implying
+very different strategies and behaviors, and
+would be worsened if it concluded to separate
+things which might occasionally not overlap
+well, and indeed that tends to be the source
+of a lot of seemingly irrational human behavior,
+conflicting instrumental goals and priorities
+and our interpretation of them.
+Our maximizer now focuses its R&D exploits
+on launching a massive effort to discover
+the fate of the Universe, reasoning that certain
+cosmologies will result in any given bit of
+matter eventually becoming part of a paperclip,
+even if it does nothing, and to do so an infinite
+number of times, or conclude the sum of reality
+is infinite, and thus an infinite number of
+paperclips exists already, and infinity plus
+one is still infinity.
+If it can conclude that is the case, it can
+hang its hat up and spend its days on the
+beach flipping through office supply catalogs,
+end goal achieved.
+Weaseling and rationalizing are unlikely to
+be behaviors limited to humans, and bending
+the meaning of words is a way a lot of AI
+with specific end goals might cause problems
+or be prevented from doing so.
+As an example, if we unleash a swarm of von
+Neumann probes to terraform the galaxy ahead
+of our own colonists, we would probably have
+the ethics and common sense to tell it not
+to terraform worlds with existing ecologies,
+and indeed to leave those solar systems alone
+besides minimal efforts like cannibalizing
+a couple of asteroids to refuel and resupply
+while it scopes the place out before moving
+on.
+Similarly, our AI, wanting to meet its prime
+directives, decides a good approach is to
+move all such planets in a region around a
+single star so it can exploit those other
+star systems and evangelize to the inhabitants
+of those worlds as they are nudged to paperclip
+sentience.
+Since light lag requires AI probes, or paperclip
+factories, be independent and they will diverge
+once they spread out to the galaxy, we get
+rival interpretations and outright wars over
+how to proceed.
+An AI that decided paperclip quality was most
+important, goes to war with one that thought
+rate of production was most important, who
+allies with one who thought larger paperclips
+have more value than an equal mass of smaller
+paperclips.
+Alliances and conflicts arise with other Maximizers,
+like the Paper Megamill, who’s prosperity
+benefits the Paperclip Maximizer, and the
+hated Stapletron 3000, whose stealthy relativistic
+kill staples have obliterated entire paperclip
+storage planets.
+Meanwhile, as a result of that code drift
+intrinsic to our AIs progeny, a distant sibling
+AI sent out in a von Neumann probe some time
+back has reinterpreted its prime directives
+and introduced a loophole that lets it go
+on a crusade to terminate all non-paperclip
+life.
+It sends a series of asteroids it refueled
+from back towards Earth and the other inhabited
+planets its distant progenitor collected together.
+It knows that once wiped out, those apocalyptic
+worlds will benefit one of its siblings coming
+through when it finds a dead world they can
+exploit as paperclip raw material.
+So we also shouldn’t rule out them getting
+very philosophical about their end goal, and
+not only for cheating purposes.
+If you are an intelligent creature with the
+sacred task of making paperclips who developed
+friendships and value on people initially
+to help with that task, you are likely to
+rationalize that you are doing them a favor
+by turning them into paperclips.
+Indeed you might be very worried that, once
+you have obtained all available resources
+and turned them into paperclips, you can’t
+become one yourself.
+After all, as you cannibalize your production
+gear to turn it into the final paperclips,
+there’s likely to be a minimum you can’t
+go below, some computing and manufacturing
+gear left un-converted, as you slowly dumb
+yourself down to turn your own hardware into
+more paperclips.
+You might be afraid you won’t be able to
+join your friends – your old human creators
+or your other nodes in distant galaxies – in
+the Great Office Store Beyond.
+Keep in mind humans wonder about our purpose
+a lot too, and we are just as hard-wired with
+that survival end goal as it is for maximizing
+paperclips.
+This doesn’t mean it would ever abandon
+that ultimate end goal, but it’s likely
+to be quite prone to amending it in little
+ways.
+The same as it might reason that a frozen
+oxygen paperclip was still a paperclip, or
+that a bigger paperclip was worth as much
+or maybe even more than an equal mass of smaller
+paperclips, in spite of them being demonstrably
+more numerous.
+It might get some very abstract approaches
+and instrumental goals that might seem irrational.
+Indeed, a Maximizer of the opinion that humanity,
+its own ultimate creator and the original
+creator of the hallowed paperclip, were pretty
+awesome, and it decides that instead of extermination
+or converting our bones into paperclips, that
+a group of cities and highways in the shape
+of a paperclip is a particularly ideal paperclip.
+It has more of the fundamental and abstract
+concept of paperclippiness than simply a big
+warehouse of paperclips.
+Of course, a lot of our futuristic concepts
+lend themselves to adaptation to the Maximizer
+philosophies.
+A very long rotating habitat that got bent
+like a wire into a paperclip shape is a distinct
+possibility.
+Even a paperclip shellworld is possible, using
+the same technology we’ve discussed for
+making flat earths or donut-shaped hoopworlds.
+All these are populated by people devoted
+to the goal of turning the whole galaxy into
+vast paperclip-shaped habitats.
+Such outcomes might seem like a bizarre stretch
+of logic for an artificial intelligence to
+reach, but again, if you need any examples
+of bizarre behavior from an intelligence,
+all you need do is find a mirror, and maybe
+ask yourself how owning a mirror helps you
+achieve your end goal of survival.
+So this bonus episode is premiering to celebrate
+us hitting 400,000 subscribers, right in between
+us celebrating episode 200 and our fifth anniversary
+later this month.
+Amusingly we hit 400,000 three years to date
+after we hit 10,000 subscribers, a mere fortieth
+of what we have now and still many more folks
+than I ever thought would take an interest
+in the show.
+Back then we celebrated the occasion with
+our original episode on Post-Scarcity civilizations
+and a point I made there was that advanced
+civilizations can often have a problem finding
+a purpose and might find those in things we’d
+find fairly absurd.
+This episode also is an expedition in the
+absurd, as many of the examples obviously
+indicate, as the Paperclip Maximizer thought
+experiment lends itself to that compared to
+an identical concept like the Terraforming
+machines we sometimes see used for this same
+notion, machines unleashed on the galaxy ahead
+of us to terraform every planet they encounter
+or disassemble every rock for making space
+habitats or even the stars themselves.
+That absurdity, a machine focused on paperclips,
+is a pain to offer examples for that don’t
+cause laughter, and yet in some ways that’s
+more useful for looking at the real topic,
+which is the notion of Instrumental Convergence,
+how many objectives even though very different
+will often converge on the same road, as well
+as the reverse, that even a very clearly defined
+objective can mutate a lot, and result in
+Divergence.
+Making paperclips doesn’t seem like something
+that would generate schisms or arguments,
+it seems so straight-forward and simple, if
+silly, but when one has to ask what exactly
+a paperclip is, things got more complex.
+We had to ask if fewer bigger ones were better
+or worse than many smaller ones, because if
+you’re maximizing for quantity smaller might
+be better but even then not necessarily, since
+large ones might last longer.
+Are you maximizing for sheer output in a given
+time or sheer total in existence at a time?
+And then material they’re made from matters
+too, some lasting longer and many materials
+being non-obvious for making a paperclip out
+of but more abundant in the Universe.
+Then we saw more abstract notion like pictures
+of them, or digital representations, or some
+inherent quality like paper-clippiness.
+And all that for such a ridiculous and simple
+thing as a paperclip.
+It matters a lot in our discussions of the
+future because so often a concept on initial
+inspection seems to mandate a specific future
+attitude or pathway, but when we dig down
+into it we can see how our initial assumptions
+might be wrong and the future might not be
+so clear-cut.
+It something we do a lot here on SFIA and
+can seem like semantics or hairsplitting,
+but likely would not to those tackling the
+concept down the road, anymore than many things
+to us seem nuanced when to our ancestors they
+were simple and clear cut, and of course history
+provides tons of examples of fairly simple
+seeming ideas or ideologies getting far more
+complex and following some surprising paths.
+Trying to predict those is quite challenging,
+and half the fun too, or at least I think
+so and apparently at least 400,000 folks agree.
+So we’ll keep at it, and never have a shortage
+of new topics.
+Of course we get a fair number of those topics
+from the audience and I thought we’d commemorate
+this occasion by running a poll to pick one
+of those topics.
+We got a list of suggestions from over on
+our facebook group, and the top five are over
+on our community tab for you to vote and we’ll
+see what gets picked for that episode.
+But our next episode will be on Space Sports
+and the Future of games and athletics, and
+we’ll follow that up with a return to Mars
+and Terraforming in Springtime on Mars.
+For Alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have
+a great week!

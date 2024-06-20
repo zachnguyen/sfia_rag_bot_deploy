@@ -1,0 +1,734 @@
+﻿This episode is brought to you by Brilliant! 
+We hope to one day send spaceships to distant 
+stars and settle the worlds around them,  
+but first we have to find the systems 
+and planets which are habitable.
+So today we’ll be asking how we go about surveying 
+the galaxy for places we might want to settle,  
+or ensuring we have the information we need 
+to best prepare any expeditions to the area.  
+Now principally we tend to be thinking in terms 
+of our telescopes back here on or around Earth,  
+but we have 3 basic approaches for garnering 
+information in the context of sending ships.  
+and that’s only one of them. If we can settle a 
+system, that means we have ships to get people  
+and gear there, so that also means 
+we can get probes there for a flyby,  
+or probes and scouts there for in-depth looks. 
+Flybys represent their own category because of how 
+spaceflight works. It takes immense energy to get  
+a ship up to interstellar speeds, but the same 
+energy is required to slow it down upon arrival,  
+and even more energy to get that probe up to 
+speed while also carrying its slow-down fuel. Thus  
+two identical probes, one doing a flyby and one 
+traveling and halting in a system, have different  
+speeds. The flyby probe can move twice as fast 
+as the one planning to stop and that matters a  
+lot when we’re expecting centuries of flight 
+time to even nearby star systems. That flyby  
+probe can’t get as much done in a given system 
+but it can get there faster and it can probably  
+carry several additional systems that allow for 
+a wider variety of information to be collected. 
+So we will be arguing that each of those three 
+categories should be done for any system,  
+home astronomy, flyby, and protracted on site 
+surveying, and generally in that order, but we  
+also need to be looking at several different 
+ways to do each and many of these will be  
+complimentary with each other too. Fundamentally, 
+due to time constraints, we won’t be able to do  
+these probes in as much detail as I’d like today, 
+so we’ll be giving them a deeper look in their  
+own episode, Interstellar Probes, next month.
+But they still need to be part of the conversation  
+for today, and we’ll do those 3 categories, Home 
+Astronomy, Flybys, and Protracted Local Scouting  
+in order of operations, as it were. So let’s talk 
+astronomy first, then briefly discuss the flyby,  
+and finally the scouting portions, which may 
+also need a follow up episode of their own.. 
+Now I don’t want to get too into the 
+weeds on telescopes today, but basically,  
+we need to discuss what we’re looking for ideally, 
+what our telescopes can actually see, and what  
+sort of strategy that implies. We also need to 
+distinguish between looking for habitable systems,  
+inhabited systems, and ones with technological 
+life. Those last two, both would have signatures,  
+biosignatures or techno signatures, and even if 
+we decided we didn’t want to colonize any world  
+with life on it, a system showing biosignatures 
+is obviously of interest for protracted study,  
+but also indicates other planets in that system 
+that might be good candidates for colonization. 
+As an example, we wouldn’t expect to 
+find biosignatures around a system that  
+had giant gamma ray flares or novae any 
+time in the last couple million years,  
+but that’s hard to spot astronomically. You might 
+have some distant binary black hole partner that  
+swung by and detonated as it picked up gas from 
+the inner system, then meandered off for a hundred  
+thousand years before returning for a repeat 
+fireworks show. If it turns out that simple  
+photosynthetic life evolves all the time and 
+leaves oxygen rich atmospheres, then systems  
+lacking those biosignatures, that otherwise 
+look ideal for them, suddenly become suspicious. 
+And I’d use that term - suspicious - because 
+when it comes to colonization and sending  
+tens or even hundreds of thousands of folks on a 
+colony mission, then these stars stop becoming a  
+mundane catalog number and start becoming major 
+investigations. We could almost see it as a hunt  
+for a murder culprit, for why a system isn’t 
+inhabited, and the various causes being our  
+murder weapons. You’ll have big detective teams 
+trying to figure out all the relevant colonization  
+options from the data, and this is likely to be 
+something comparable to a billion-dollar industry  
+with entire consulting firms of hundreds of 
+experts analyzing data, mined by potentially  
+thousands of massive telescopes and astronomical 
+arrays. We’re talking about something that amounts  
+to the selling of an entire planet, or several, 
+even if it's not actually a business transaction,  
+the resources involved both in colonization and 
+in its eventual development are staggering. So  
+even a post-scarcity society able to 
+send colony ships to places on a whim  
+isn’t likely to skip or skimp on their initial 
+homework and collecting of astronomical data. 
+This data may still not be enough, but it’s 
+likely a colonization effort would be launched  
+before a flyby had arrived, indeed since the flyby 
+can travel faster it might be launched at roughly  
+the same time, and it might be that colony ships 
+are sent with a primary target in mind but a list  
+of backups further out that they could divert to, 
+all of which have flybys en route to them as well. 
+Colony ships would need to carry some extra 
+fuel to be able to change course a few degrees,  
+and just generally need a lot more devoted to 
+cargo and redundancy, so we should also be able  
+to get non-flyby scout missions there well ahead 
+of the ship, even if they left at the same time,  
+enough that they might get a report back to 
+the colony ship or fleet before they’ve had  
+to initiate their slowdown deceleration burn 
+and thus could divert to the next candidate  
+with minimal fuel expenditure. There’s also 
+some low-fuel options for turning around a star  
+they could employ with lots of advanced notice.
+Now that has more to do with planning a colony  
+mission, a topic that might make 
+for a good episode of its own too,  
+but it gives us an idea what our margins of 
+error are, and it also tell us we don’t really  
+need to be ruling out one-in-a-thousand types of 
+scenarios where we can’t really tell till we get  
+there with a flyby or even vanguard scout, because 
+we probably can divert a colony fleet to the next  
+decent candidate and can expect to have better 
+and more detailed information, as those other  
+probes moving faster than the fleet arrive. Plus, 
+it’s likely that a fleet could arrive, stop, see  
+it was a bad setup for a colony after all, refuel 
+from local resources and move on. Possibly leaving  
+interstellar infrastructure and outposts behind.
+Nonetheless, that represents years, if not decades  
+of lost time for settling folks who thought 
+they were going to their future dream home,  
+in a pale shadow of it. So, it goes without saying 
+that maximum data is desirable back home, before  
+the ship launches. And of course, at the moment 
+we’re not even launching ships to distant stars,  
+we still have a hard time launching telescopes to 
+Earth’s own orbital space. But as we contemplate  
+the data we need, we need to remember that we 
+will also be able to put vastly more effective  
+telescopes into play as we begin getting 
+the resources and infrastructure to launch  
+interstellar missions. See our Megatelescopes 
+episode for some of the truly extreme examples  
+of what that might look like in centuries to come.
+Currently, we’re hunting for exoplanets that might  
+be in the habitable zone of a star, and for 
+stars that might actually have habitable zones.  
+Many are pretty unstable and really aren’t 
+likely to offer any planets that are classically  
+terraformable, as opposed to some of the 
+more artificial and ambitious approaches  
+to world building we often contemplate on 
+the show, which can go nearly anywhere. 
+What is a habitable zone and how do we find it? 
+This one isn’t too bad as we’re looking for a star  
+whose output doesn’t vary by more than maybe 10% 
+for a period of several days during an observation  
+period of as long as we can get. We need to know 
+and calculate how much temperature variation,  
+in the context of sunlight, that a planet of 
+a given size and composition could handle.  
+There won’t be any hard and fast criteria there 
+either, a planet with a thick atmosphere and lots  
+of greenhouse gases, should be able to handle much 
+more temperature variation, being more insulated,  
+but probably also can’t handle as much light 
+overall because it is insulated and would get  
+hotter. It might be able to handle a much 
+more eccentric orbit around a star too,  
+retaining heat when far from the star and 
+heating more slowly as it neared perihelion. 
+The simple version of a habitable zone is that it 
+is where liquid water can exist on a world with an  
+atmosphere that is neither too thick or thin to 
+potentially be breathable and it’s always viewed  
+as merely a quick approximation. It’s a good 
+guideline to see if a planet might have water  
+or be able to hold it if we gave it some.
+Can we see if a planet has water? 
+Yes, in terms of astronomical tells, water 
+and ice both have albedos different from rock,  
+as do water clouds from, say, the Sulfuric 
+Acid clouds of Venus. It’s also fairly  
+easy to determine a planet’s temperature by 
+looking at the peak of its infrared emissions  
+and watching them over the course of a year, along 
+with the absorption spectra of that atmosphere. 
+When we say year, mind you, we mean that planet’s 
+year not ours, and that might be a few months for  
+a habitable planet around an Orange Dwarf 
+or bigger Red Dwarf, or multiple centuries  
+for bigger stars like Alpha Pavonis, as we 
+discussed in our episodes Colonizing Red Dwarfs  
+and Colonizing Giant Stars. Every planet, indeed 
+every object, including stars, emits radiation  
+into the vacuum of space based on its temperature 
+and size, and the wavelength of that radiation is  
+determined by temperature. So once we get our 
+eyes onto a given exoplanet, we can determine  
+its diameter and average temperature simply from 
+that infrared spectrum of that heat radiation. 
+We can determine its day length just by watching 
+how those emissions, and those of reflected  
+sunlight, vary, assuming the world is not 
+homogeneous of surface. If the whole surface is  
+more or less the same rock or one big ocean or all 
+frozen ice this method doesn’t work but if it’s  
+got continents and oceans then those each reflect 
+light differently. The side of our planet covered  
+almost entirely by the Pacific Ocean, reflects 
+and emits a much different spectrum than the  
+side where most of the continents are, and we can 
+determine day length by watching when they repeat. 
+Ideally anyway. What’s being reflected would alter 
+a lot, based on the weather, though that would  
+average out over many observations and at least 
+tell us it had an atmosphere of some sort. Also,  
+the light it reflects is not what we get to see, 
+we get to see what it reflects in our direction,  
+and if we’re looking at it from above or 
+underneath its poles then the daily change is  
+a lot different than if we had an equatorial view. 
+There’s no guarantee its poles are perpendicular  
+to its plane of rotation either though due to 
+how star systems and planets form this will  
+tend to be the case. But Venus orbits backward 
+and Uranus on its side, and those make up 25%  
+of the planets in this solar system so that 
+implies that’s, at best, a guideline not a rule. 
+Regardless, any time we’re dealing with a planet 
+whose day length is much smaller than its year  
+length, we should be able to spot how long that 
+day is, fairly quickly, just by the repetitions  
+of patterns. As our telescopes improve we 
+might even be able to find larger moons  
+around exoplanets from back here and that not 
+only helps with pinning down a planet’s mass,  
+but we can also look at how that moon’s reflected 
+light varies as a way of pinning down more on  
+that planet’s day, after all, Earth reflects 
+sunlight quite brightly onto its Moon, and also,  
+a lot of our weather, and its astronomical 
+telltales, shifts with the lunar month and tides. 
+We don’t necessarily need to know what the 
+spectrum means, merely that it's periodic and what  
+that period is. But generally, these things all 
+mean something and one example of a biosignature,  
+or candidate for one anyway, is lots of 
+oxygen in the atmosphere. Unlike noble gases,  
+which don’t like to pair up on the chemical dance 
+floor with anything being snobby and aristocratic,  
+oxygen is everybody’s best friend, and pairs 
+with or groups up with nearly everybody. 
+As a result, it really shouldn’t be hanging 
+around in skies in great quantity unless  
+something is releasing it, in favor of 
+being sequestered into land and sea.  
+The oceans, by mass, are 89% oxygen, and oxygen 
+comprises 46% of the Earth’s crust by mass.  
+So basically all of Earth that’s visible 
+for astronomy is saturated with oxygen,  
+89% of the sea and 46% of the land, and ironically 
+the atmosphere is the least oxygen rich part of  
+our world’s surface, being only 20-21% oxygen, 
+depending on the humidity. Most of that atmosphere  
+is nitrogen and yet nitrogen’s crustal abundance 
+on Earth is only about 300 parts per million,  
+not even a thousandth of oxygen’s abundance in the 
+crust, and it’s fairly minimal in the sea as well. 
+Now nitrogen isn’t a bio-signature, frosty 
+Titan around distant Saturn has 94% nitrogen,  
+and there’s more nitrogen in Venus’s 
+boiling atmosphere than in Earth’s,  
+being only 3.5% of Venus’s atmosphere but that 
+atmosphere being nearly a hundred times more  
+massive than Earth’s. Rather, it's that 
+free oxygen not bound to anything else,  
+that we view as the possible biosignature because 
+oxygen in molecular form is emitted by plant life  
+and takes a long time to find something 
+to bond with that isn’t already bonded. 
+How do we know how much oxygen 
+is floating around that sky? 
+Well oxygen is going to be 
+coming in multiple formats,  
+not just diatomic oxygen of two oxygen atoms but 
+also short-lived triatomic oxygen, what we call  
+ozone, and various other short-lived molecules, 
+also, water, and here on Earth, Nitrous Oxide.  
+Much as every object in space will have 
+a characteristic blackbody emission of  
+heat radiation, every molecule type 
+has characteristic spectrums too. 
+Now Nitrous oxide is principally emitted by the 
+soil as part of the nitrogen cycle and thus is  
+another potential biosignature too, and one 
+favored for Super Earths around cooler stars.  
+Cooler stars meaning orange and red dwarfs 
+and those of course make up over 90%  
+of all stars and thus are most of our 
+candidates for potential colonization,  
+even if we like yellow dwarfs better, 
+simply because of supply and demand. 
+Now let me put a caveat on that. There are about 
+500 yellow or G-type stars within 100 light years  
+of Earth, and even if there are 20 times as many 
+red dwarfs, those yellow stars are probably going  
+to be one of the first places we launch colony 
+ships to. Odds are good we would be able to get  
+closer looks at those red and orange dwarf stars 
+from their yellow neighbors that we settled first. 
+Nonetheless, Segura et al’s 2005 paper, 
+“Biosignatures from Earth-like planets around  
+M dwarfs” or red dwarfs, highlights a lot of the 
+basic biosignatures we could expect on planets  
+orbiting these cooler stars. Methane, 
+nitrous oxide, and chloromethane also  
+known as methyl chloride were all labeled as 
+good candidates as biosignatures because they’d  
+have longer lifetimes and mixing ratios than 
+on Earth or other worlds around hotter stars. 
+Why? Well mostly ultraviolet light, bigger 
+hotter stars produce more of UV as part of their  
+spectrum, and it tends to rip up molecules. Ozone, 
+oxygen molecules composed of three oxygen atoms,  
+isn’t stable and falls apart after around an 
+hour but constantly gets made in our atmosphere,  
+as ultraviolet of roughly 200 nanometers 
+can tear a diatomic oxygen molecule apart  
+and those two free oxygen atoms can find a 
+new home. One of those might be a diatomic  
+nitrogen molecule, creating N2O or Nitrous oxide, 
+another is a diatomic oxygen molecule, which would  
+make ozone. It can also be made by electrical 
+disturbances, e.g. lightning, so don’t think of  
+it as only around the skies of planets around 
+hotter stars, but it’s also something that’s  
+destroyed by Ultraviolet Light, especially the 
+nasty UV-C range that’s brutal on known lifeforms. 
+Additionally, many other potential biosignatures 
+would be destroyed by ultraviolet light too,  
+and it's very hard to see an atmospheric 
+biosignature unless it is in the upper atmosphere,  
+so anything susceptible to rapid 
+decay, especially from UV light,  
+is a bad biosignature around hotter stars.
+What this means is that a reliable biosignature  
+for one system isn’t one on another and things 
+will be even more confused in binary systems  
+with circumstellar planets orbiting 
+stars with different characteristics.  
+What we’ll end up with is more like a 
+checklist of possible things to hunt  
+for on a given exoplanet in a given system. And 
+that’s for biosignatures, not simple habitability,  
+which is also a very sliding scale depending 
+on how far you’re willing to go to terraform  
+a planet. Technically, we don’t even need a 
+rocky planet to call a star system habitable,  
+because a nice asteroid belt or the moons around 
+a gas giant, are potentially a lot more initially  
+attractive to an inbound colonial fleet.
+As we detailed in our Life in a Space Colony  
+Series, when you’ve spent the last century or two 
+living inside a rotating habitat on a spaceship,  
+embedding that in a nice icy asteroid or moon 
+and living there while you build others and  
+setup your interplanetary infrastructure is a lot 
+more appealing choice than dumping your colonists  
+down a deep gravity well, onto a planet that 
+they’ll need to spend centuries or millennia  
+terraforming before they can walk around it 
+without a environmental suit or under a dome. 
+Now that said, a world is pretty habitable 
+if we find it having a non-oxygen atmosphere  
+and plenty of water, like Earth was back before 
+the Oxygen Catastrophe circa 2 billion years ago,  
+at least a billion years after life began on 
+Earth. Oxygen is a waste product of plant life,  
+at least Earth-based plant life, but initially, 
+it was getting sequestered by all the rock,  
+and was what we would call a weakly reducing 
+atmosphere, where oxidation is prevented or  
+limited by the removal of oxygen and other 
+oxidizing gases and vapors. The Faint Young  
+Sun Paradox, with our Sun being about 70% as 
+bright back then – stars get hotter and brighter  
+as they age – has still not been resolved, but we 
+assume that back then, the atmosphere was still  
+mostly nitrogen, heavier in carbon dioxide, 
+and also carbon and nitrogen-bearing gases  
+we see from volcanic activity, and we also 
+assume way more methane, a great greenhouse gas,  
+so as to allow Earth to have liquid water then, 
+rather than just ice. I should note that the faint  
+young sun paradox makes life on Venus early on 
+more likely and ancient life on Mars less likely. 
+It's a good example of how we might need to shift 
+our entire view on finding habitable planets.  
+Stars warm slowly, over billions of years, and we 
+don’t want to plan our colonization around such  
+waits. However, at a fundamental level, the idea 
+of looking for a world which is ‘warm enough’ for  
+life, but lacks the conditions to support it right 
+now, is really only useful for finding existing  
+worlds with life. We will not find an unoccupied 
+planet that humans could live on from Day 1,  
+because our living conditions are a byproduct 
+of other life. Without life existing on a planet  
+for a very long time, we will be unable to 
+live on it outside of enclosed habitats.  
+Once we start talking about changing a nice 
+Earth-like world in temperature and gravity and  
+possessing a nitrogen rich atmosphre into one 
+with more oxygen, then we need to acknowledge  
+that it will be a slow process and no easier 
+– and indeed harder – than simply grinding up  
+and smelting a few metal rich asteroids into some 
+big, thin solar mirrors we can stick in an L1 Halo  
+orbit or Lagite position, to heat a planet up, 
+or a big solar shade, to cool that planet down. 
+Just for context, the bulk cost of 20 micron 
+thick Aluminum foil is about $2400 a ton,  
+and such a ton would cover 12,000 square meters 
+of mirror surface, or shade surface and could  
+easily and fairly cheaply be reinforced with 
+reflective dyneema tape, or similar. You might  
+seriously alter a planet’s thermodynamics with 
+about 12 million square kilometers of the stuff,  
+one billion tons of foil, which comes in at the 
+considerable price tag of 2.4 trillion dollars,  
+which is comparable to about 5 months of US 
+government spending. That’s a lot of money,  
+but not to buy a planet, so to speak. Amusingly, 
+if you’re setting up a space infrastructure  
+before a planetary one, for interstellar colonists 
+doing this backwards from us, that aluminum would  
+be cheaper since, on Earth, its costs would come 
+mostly from the electricity needed to make it and  
+the fuel needed to launch it, but with the right 
+infrastructure, doing that in orbital space is  
+much easier, where the sun is always shining… or 
+suns, you might be in a binary system after all. 
+Thus our whole concept for a habitable planet 
+has to be both broadened and narrowed. Our odds  
+of finding an oxygen-rich atmosphere on a world 
+of oceans and continents with no life on it, is  
+pretty slim. However, our tools for terraforming 
+make so many others viable. It’s really more about  
+what sort of mass the planet has, because 
+even worlds baked free of all their water,  
+or rather hydrogen, by being ultra-hot like Venus, 
+can have large hydrogen beams aimed at the planet  
+in conjunction with solar shades to cool its seas.
+Nonetheless, worlds which would only need life on  
+them to keep oxygen levels right are probably 
+still the most appealing. We seed those with  
+cyanobacteria producing oxygen, but you 
+can’t just wait on that. Photosynthesis is  
+a great oxygen producer, assuming you’ve got 
+carbon dioxide and water readily available,  
+as it will convert 6 molecules of each into a 
+sugar molecule and 6 diatomic oxygen molecules.  
+However, they use the same number of oxygen 
+atoms to break that sugar down and use it. The  
+estimates I’ve seen put the excess oxygen produced 
+from this process at perhaps as low as 0.0001%.  
+We actually don’t have a good firm estimate of how 
+much oxygen our biomass puts out per year but it's  
+on the order of low gigatons, and there’s about 
+1.2 million gigatons of oxygen in our atmosphere. 
+In the absence of animal life breathing that 
+oxygen, we might see a rich cyanobacteria layer  
+on a planet push out a thousand gigatons of oxygen 
+a year but that seems optimistic especially since  
+we have no oxygen-saturation already in place. 
+See, as soon as that oxygen is created, the  
+rocks and so forth on an un-oxygenated world are 
+going to oxidize and rust and largely absorb it.  
+So I think even if transplanted or engineered 
+cyanobacteria did amazingly well on a new world,  
+then we’re likely still talking minimum timelines 
+of millions of years to get an oxygen atmosphere.  
+This instead implies using options 
+like zapping it out of existing water,  
+ice, or rock and sequestering things 
+which would reabsorb that oxygen. 
+Now, naturally speaking, we believe that, based on 
+where banded iron deposits end in the geological  
+record, that the Great Oxidation event or 
+Catastrophe on Earth ended 1.85 Billion Years Ago,  
+and that banded iron peaked about 2.5 
+billion years ago and this oxidation of  
+iron in our seas, settled to its bottom, which 
+we believe indicates the beginning of oxygen  
+production by photosynthetic organisms in the 
+Precambrian, and would seem to indicate that  
+the natural timeline for oxygenating an atmosphere 
+is on the order of hundreds of millions of years,  
+though I could see shrinking it to much less.
+For looking for habitable systems though,  
+finding worlds where this appeared to be in 
+progress already, would be a good biosignature  
+and also a good one for contemplating settlement 
+of ourselves depending on how we chose to view  
+the life on that planet. That’s a whole different 
+problem of course, but given that the first and  
+very simple brain didn’t evolve on Earth for over 
+a billion years after the Oxidation Event ended,  
+we are talking about incredibly simplistic life 
+and ones requiring relatively small ecosystems  
+in terms of natural ‘xeno-preserves’, or zoos.
+Critically, all these sorts of signatures are  
+detectable most easily by atmospheric composition. 
+Obviously, you have to spot the Exoplanet first,  
+but once we do, it's about building the right 
+kind of telescope to hunt for a possible sign.  
+You just have to decide if you’re hunting 
+for biosignatures or existing life,  
+or signs a world is uninhabited and 
+would be easy for us to inhabit.  
+For Gas Dwarf planets – a type of Super Earth or 
+Mini Neptune rich in hydrogen, we think that the  
+James Webb Space Telescope could find ammonia’s 
+signature as a possible biosignature on those. 
+For worlds around red dwarfs, as we mentioned, 
+we can hunt for those biomarkers that Ultraviolet  
+light is unkind to, because that system has 
+less of it. Looking for oxygen is obviously a  
+good one for Earth-analog planets, and there are 
+many more that have been suggested, and again,  
+every chemical we could find in an atmosphere is 
+going to have an absorption or emission spectrum  
+we can hunt for in the infrared, ultraviolet, or 
+even visible range. Then it's just about building  
+a big enough telescope up in space to stare at the 
+candidate planet and realistically, building many  
+of them. Ultimately I would not be surprised if 
+a colonization-era humanity tended to commission  
+a spectrum of telescopes for any new planet 
+dubbed a possible candidate for colonization,  
+focused only on that planet for years 
+or decades. Indeed, given the value of  
+different observational angles, it may be a large 
+business for Oort Cloud colonies in our system. 
+Nonetheless we begin to see the limit of 
+astronomy, and enter the realm of flyby  
+probes that can get a real resolution 
+on a planet and additional angle,  
+and on-site missions in orbit of a planet or even 
+down on it. We’ll discuss those in more detail in  
+the upcoming Interstellar Probes episode but 
+let’s close today by briefly looking at each. 
+We were talking about atmospheric 
+biosignatures and they’re fairly limited,  
+especially in telling us anything more than, 
+say, the rough amount of biomass a world has  
+that produces oxygen, which itself doesn’t tell us 
+much and which to be honest is a real stretch to  
+get. Outside of the realm of megatelscopes, which 
+to be fair we might build even this century, the  
+reality is that your resolution of an exoplanet 
+from back here is 1 pixel. It’s not an image,  
+anymore than a TV screen that’s all white is an 
+image. It is a light source though, and we can  
+measure its brightness overall and its brightness 
+in any given frequency. We can tell a lot by that,  
+and probably some surprising things we haven’t 
+thought up yet, but there are real limits to  
+it and that’s where a flyby comes into play.
+As I was saying, when it comes to planets,  
+or even entire stars, at best, our telescopes are 
+only likely to see one pixel. Back when I was a  
+graduate student running my college’s observatory 
+on Friday nights, for public showings, something  
+I often heard from folks, especially if we’d 
+started by looking at our own neighboring planets,  
+was how surprised they were that the 
+stars were brighter through the telescope  
+but still just a little point, whereas the planets 
+got wider and detailed. And that’s because your  
+eyes have pixels too, so to speak, and even nearby 
+stars are still just a single bright pixel to us  
+on all but the most enormous telescopes. Mars, 
+at its closest, is still 10,000 times further  
+away from us than it is wide, so appears as 
+a single point, unless we use a good pair of  
+binoculars or a telescope - in which case we 
+can see many pixels and its various features. 
+However, nearby stars, even though far bigger 
+than a planet, are so far away that we’re  
+talking distance to diameter ratios of many 
+millions even for close ones, not thousands,  
+and even more for tiny planets. A telescope able 
+to see a planet like Earth around another star,  
+as well as we can see Mars from Earth, would 
+need to be a million times more powerful.  
+Now as we discussed in Megatelescopes, that 
+is buildable, same as we can build mirrors  
+and shades big enough to cool entire planets, we 
+can make telescopes in that scale. Indeed we can  
+make planets into Telescopes, such as with the 
+Kipping Terrascope. But all things considered,  
+a flyby makes more sense much of the time.
+This need not be a tiny probe either. The key  
+thing about these probes is that they can use the 
+same fuel to go twice as fast as a ship designed  
+to slow down at the end of its trip can. Early 
+probes would be as small as we can build them and  
+get useful equipment to another solar system 
+intact and powerful enough to transmit home,  
+maybe postage stamp sized ones like 
+the Breakthrough Starshot Initiative  
+aims for. But later stage ones might be rather 
+enormous, less like the Voyager Probe in size,  
+and more like the Starship Voyager, from Star 
+Trek. And as we’ll see in our Interstellar  
+Probes episode, even the early ones will 
+likely be bigger than the Voyager Probe. 
+Now much like astronomy from back home, there’s 
+likely to be a lot more data acquisition options  
+and information we can pull from a flyby than 
+at first we would suspect. For instance, some  
+hundred-ton space probe moving at 50% of light 
+speed could have a handful of tungsten rods or  
+needles that they could fire off to hit a planet, 
+slowing the probe just a little and giving the rod  
+a tiny kick, so that it arrived a few minutes or 
+maybe days before the probe did its nearest flyby. 
+Some 100 kilogram rod slamming into a planet at 
+half of light speed is going to kick up a serious  
+amount of debris. Indeed more debris than a 
+full scale nuclear war on Earth would have,  
+coming in at around 14 or 15 thousand 
+megatons, a million Hiroshima bombs.  
+That’s going to give you a nice amount of debris 
+for accurately determining crustal composition.  
+Now that’s probably overdoing it and you 
+also might want 10 smaller ones hitting  
+different spots, but that’s an example of how 
+a flyby probe can get some surface samples,  
+by blowing a crater into the target and running 
+spectrometry on the debris scattered by it. And  
+that spectrometry might even be visible not 
+just to the probe but the telescopes back home  
+or on board a colony ship halfway there, who 
+could verify with their own instrumentation. 
+Now that colony ship, in truth, is not in a good 
+position to do much astronomy, due to interstellar  
+gas hitting it at relativistic speeds. Indeed 
+they might launch flyby probes themselves,  
+able to benefit from the ship’s existing cruising 
+velocity, especially as doing so would be free  
+deceleration for them, and they would probably 
+have to slow down more slowly than an unmanned  
+probe would, see our Generation Ships Series 
+for more discussion of the problems in slowing  
+down multi-kilometer long ships containing entire 
+ecosystems. Astronomy is easier done to the side  
+or behind the ship, or probe, where all that 
+relativistic dust is not slamming into it,  
+and also, big dishes and mirror arrays are limited 
+to the normal size of the ship, since otherwise,  
+they give extra things for that gas and dust 
+to hit, and the noise of all that is massive. 
+With that in mind, they may opt to be sending 
+unmanned probes or even manned scouts in smaller  
+ships that maybe just departed when 
+the main ship or fleet began to slow,  
+and they didn’t slow with the rest of 
+the fleet, maintaining full velocity  
+a while longer since they are able to slow 
+faster. A big ark ship might be limited to  
+a deceleration of 0.05 g to avoid problems for 
+the ecologies in a spin-gravity environment,  
+and if they’re coming down from 25% light speed, 
+that means they need 5 years to come to a halt,  
+whereas a manned probe, able to handle a 1-g burn, 
+need not decelerate till it’s three months out,  
+and an unmanned probe, able to handle 
+a 100-g burn, could do it in a day,  
+all using the same fuel, in theory anyway.
+So that spaceship, five years out,  
+or about a six-tenths of a light year, could fire 
+two unmanned probes out, each with the same fuel,  
+but one accelerating with that fuel to do a flyby 
+that would arrive almost 4 years before they did;  
+an unmanned probe that will arrive more than 
+2 years ahead of them, potentially orbiting  
+or landing, and a manned probe arriving 
+a few months after that last unmanned  
+probe with nearly 2 years to get work done.
+Indeed, if it’s a fleet, then that might be  
+an entire ship, and they might be very busy 
+with projects in orbit, down on the ground,  
+or even building large solar arrays near that 
+star, to both slow the fleet, and maybe incoming  
+follow-up colony ships, via stellaser, and to 
+use that same array for terraforming efforts.  
+Enormous star-powered energy beams have all sorts 
+of handy applications, and that includes pushing  
+other probes up to speed or sending-on all, 
+or part of your fleet if the planet doesn’t  
+seem all it was cracked up to be and some 
+people want to move on to other prospects. 
+There’s an awful lot more to say about Surveying, 
+let alone Interstellar Probes and actually  
+exploring alien planets, but we’ll close out here 
+for today, and as mentioned we’ll do that deeper  
+dive on probes next month and maybe also what life 
+as a Planetary Explorer would be like after that. 
+For now though, we have no interstellar 
+probes or ships, just telescopes in orbit  
+and here on the ground, but as we saw today 
+there’s a lot we can do with those and there’s  
+a lot more to determining if a planet is habitable 
+than most folks realize, but when it comes to star  
+systems themselves, with a bit of determination, 
+ingenuity, and effort, there’s no such thing as an  
+uninhabitable star system.
+[outro]

@@ -1,0 +1,772 @@
+At some point, we’re going to run out of 
+living room. So how can we use celestial  
+circular innovation to put humanity’s lack 
+of real estate in the rear view mirror?
+Today we’ll be looking at the Banks Orbital, 
+an immense megastructure in the form of ring  
+shaped habitat more than a million miles in 
+diameter, and depending on the ring’s width,  
+containing hundreds if not thousands of Earth's 
+worth of living area, all enjoying more naturally  
+Earth-like conditions than any other rotating 
+habitat design. We're talking about assembling  
+a structure that makes all of humanity’s 
+combined constructions to date look like a  
+toddler’s sandcastle. We’ll be deep-diving this 
+structure, its engineering, why it’s desirable,  
+and what life on it might be like. So, let's jump 
+into the cosmic deep end and find out just what it  
+takes to live in space's answer to luxury living, 
+spiced with a touch of celestial extravagance! 
+Rotating habitat megastructures have a lot 
+going for them, they let you pick your gravity  
+and pressure and use way less material than 
+a planet does for creating a given amount of  
+living space. And since they are spin-gravity 
+environments, not mass-generated gravity, it’s  
+very easy for spaceships to come to and from.
+Unfortunately the problem we have with our three  
+classic rotating habitats, the Bernal Sphere, 
+O’Neill Cylinder, and Stanford Torus, is that  
+they are generally in the size range of large town 
+or county, not a planet, and for the Bernal Sphere  
+and O’Neill Cylinder, when you look up at the 
+sky, you see the other side of that interior,  
+more landscape. Imagine living in a place where 
+the sky isn't filled with stars, but more real  
+estate. It's the ultimate in not being able to 
+escape the neighbors! The stanford torus is a  
+lot skinnier so you just see a big ring in that 
+sky, but also a big glass dome above. They often  
+have to use either big mirrors or glass panes to 
+let in natural sunlight or create it artificially. 
+These are hardly fatal flaws, especially compared 
+to the conditions on most other planets even when  
+heavily terraformed, but they’re not ideal either.
+Larry Niven’s Ringworld seeks to get around this  
+by building an enormous ring around a star as 
+wide as Earth’s orbit, but besides requiring  
+materials stronger than anything we could 
+plausibly imagine, you still have to put  
+big sunshades orbiting between the ring and your 
+star to block light to give day and night. And  
+while it contains a million planets’ worth of 
+living area, it is a pretty big lift to build. 
+Iain M. Banks Orbitals, from his culture series, 
+also sometimes called God’s Bracelet for their  
+shape and magnitude, seek to split the difference 
+in size while also allowing very natural lighting,  
+and we have a trick that works to let us build 
+them out of known materials without requiring  
+super-strong tensile materials. Though 
+at the cost of a lot more mass. Graphene,  
+our go-to for continent class habitats, has 
+such a strong tensile strength that it lets  
+us build habitats like the Bishop Ring or 
+McKendree Cylinder that are orders of magnitude  
+larger than an O’Neill Cylinder or Stanford 
+Torus, but still are smaller than a planet. 
+So better but still not there.
+The Bishop Ring lets in natural  
+sunlight but also needs hugely tall rim walls to 
+keep the air in compared to its size, since the  
+altitude of your atmosphere is the same on them 
+as on Ringworlds millions of times bigger in area.  
+They also spin around a lot faster than once a 
+day to keep gravity at earth-normal of 1-gee,  
+so you can’t really use the natural sunlight and 
+have to go for a rotating hub mirror or fake sun. 
+The Banks Orbital however can rotate once a day. 
+For any given planet and day length there is a  
+unique diameter for a rotating habitat that allows 
+you to mimic its gravity while rotating at its own  
+day length. For Earth gravity and a 24-hour day, 
+that is a radius of 1.84 million kilometers, or  
+1.15 million miles. Size really does matter when 
+it comes to playing Earth. That’s a big number,  
+so let me put that in perspective. That’s over 
+two and a half times the radius of the Sun,  
+which is the largest body in the solar system 
+by far. So, while a Banks Orbital still needs  
+a rim wall, even a rim wall a thousand miles high 
+that leaks less air than Earth itself does would  
+be miniscule in comparison to the ring’s size.
+For Martian gravity, which has about the same  
+day length as Earth, that radius drops to about 
+the radius of the Sun. It would be even lower  
+for the Moon, but because its day is a month long, 
+that radius jumps up to 267 million kilometers, or  
+something bigger than the orbit of Mars around the 
+Sun. The longer the day, the wider your ring needs  
+to be, the higher the gravity, the faster it needs 
+to spin. And the wider and faster both add to the  
+strength requirements a ring needs to avoid being 
+ripped apart by its own spin and angular momentum. 
+Tensile strength is the bedrock of rotating 
+habitats - literally - and nothing we know of  
+has the material strength for an Earth-like Banks 
+Orbital. We're in the realm of needing something  
+so strong, it makes graphene look like overcooked 
+spaghetti, and that's saying something. However,  
+as we discussed in our episodes on Ringworlds and 
+continent class habitats, we can cheat around this  
+by building a second and more massive outer 
+ring, that our inner ring can spin inside and  
+like a maglev train, move over it very quickly by 
+pushing off it without touching. That outer ring  
+needs to be strong as well and the more massive 
+you make it, the less strong it needs to be. 
+One of the neat things about rotating habitats is 
+that you can get some free launch speed or slow  
+down by landing on the spinning hull, which is a 
+little trickier if you have a non-rotating outer  
+sheath like this. As channel regulars know, I am 
+of the opinion that rotating habitats will usually  
+be a drum nested inside a larger superstructure 
+that either doesn’t rotate or counter-rotates  
+with the same angular momentum but more mass and 
+less speed. So for me this outer ring is already  
+a normal feature of any rotating habitat.
+Incidentally, unless stated otherwise,  
+for the rest of the video when I say a Banks 
+Orbital, I mean one that emulates Earth's day  
+length and gravity, it is our default condition, 
+though of course if you’re hunting for alien  
+megastructures you would want to widen that 
+range as their planet probably doesn’t match  
+our gravity and day length. So too, since it is 
+easier to build a lower-gravity habitat or one  
+with a shorter day, we shouldn’t rule out people 
+building them with lower gravity, though while I  
+could see folks going for a longer day I can’t 
+see them opting for a shorter one very often. 
+As a reminder, our Banks Orbital is 1.85 million 
+kilometers or 1.15 million miles in radius. If you  
+resurrected the fastest commercial plane ever, 
+the Concorde, with its 1350 mph greater than  
+twice the speed of sound cruising speed, 
+and circumnavigated the ring with in-air  
+refueling and no stops, it would take you over 7 
+months to get back where you started. In short,  
+don't expect to get anywhere fast with our current 
+modes of transportation! For every 43.8 kilometers  
+or 27.2 miles that orbital is wide, you gain an 
+Earth’s worth of surface area. So, in contrast  
+to the Concorde example, for an orbital with the 
+same surface area as Earth, you could just about  
+fit the Large Hadron Collider in CERN, Switzerland 
+that discovered the Higgs-Boson particle into that  
+27 miles of width. Or for you fitness bunnies, 
+if we had a Banks Orbital with the same surface  
+area as Earth, you could just squeeze in a 
+marathon race across its width. Needless to  
+say I think you’d build them a lot wider.
+This structure would orbit about as far  
+away as Earth does from our Sun, depending on the 
+brightness of its star and how warm you want your  
+orbital. None of that needs to be tundra or desert 
+as it is a flat ring, not a curved planet with  
+an axial tilt. You can actually tilt the rings to 
+give them seasonal variation but the whole of the  
+ring will be in the same season at a time, which 
+would play havoc with seasonally migrating species  
+rehoused from an Earth-like world with seasons. It 
+also doesn’t technically have seasonal variation  
+in day length, but the rim walls cast longer 
+shadows in the Winter, making it less bright.  
+This will confuse the daylights out of plants 
+and wildlife that rely on a seasonal day/night  
+length variation. Incidentally, there will be two 
+Summer/Winter cycles per rotation around the star,  
+adding further consternation. Though if you 
+are as good at genetic engineering as you are  
+mega-engineering, this is probably easily fixed.
+If the orbital lies mostly flat on its orbital  
+plane, also called the ecliptic, the portion 
+of the orbital currently closer to the star,  
+if it is wide enough, in its night-phase will 
+block light to the other side, usually getting  
+daytime. This plunges the whole orbital’s inner 
+surface into eternal night. The opposite extreme  
+also causes complete night. This happens when 
+the orbital is oriented perpendicular to the  
+ecliptic and its axis is facing the star. In this 
+case, the rim walls temporarily block the light  
+from reaching the inner surface. Conservation of 
+momentum in conjunction with the rim walls gives  
+the orbital its seasons. Unlike our Moon, which 
+is tidally locked to always present the same face  
+to the Earth, the orbital won’t be tidally locked 
+to the star and actually faces the same direction,  
+irrespective of its motion around the star.
+We have an analog of this behavior in our  
+very own solar system. The planets rotate about 
+their axes roughly perpendicular to the ecliptic  
+plane. Though, like most families, there’s 
+one individual that doesn’t follow the norm,  
+and with the planets, Uranus is our black sheep. 
+It’s actually cocked to have its axis lie almost  
+on the ecliptic plane and it isn’t tidally locked 
+to the Sun.[a] If we track the orbit of Uranus  
+and imagine a ring spinning there instead of a 
+planet, you can imagine how the seasons would play  
+out by how the star’s light hits the ring’s inner 
+surface and how the rim walls would block some of  
+that light, casting shadows when the ring’s axis 
+gets closer to pointing directly at the star. 
+If you were standing on the inner surface of 
+the orbital, the star would rise on the one  
+side of the orbital half the year and rise on 
+the opposite side for the other half of the year.  
+Much like in the extreme Northern or Southern 
+latitudes on Earth during the coldest months,  
+the star at midday wouldn’t be directly 
+overhead and would hug the rim walls,  
+the walls casting longer shadows over the 
+inner surface landscape and not permitting  
+them to heat up as much compared to when the 
+star reaches its zenith in Summer. How much the  
+ring is titled controls how severe this is.
+So, while the orbital uses natural light,  
+has the same day/night cycle, gravity, 
+atmosphere, and can be given seasons,  
+it shouldn’t be thought of as perfectly matching 
+the conditions on Earth. We can fix the doubling  
+up of the seasons per year if we use a different 
+star system, and I’ll get to that in a bit,  
+but the lack of a consistent direction for 
+sunrise and sunset, the constant daytime  
+irrespective of the season and the lack of tides 
+isn’t going to play nice with animals and plants  
+that rely on those things. Setting up working 
+ecosystems will be a challenge without genetic  
+engineering or careful selection of species.
+Things also get wildly different from Earth  
+when we think about orbital velocities. 
+The orbital rotates every 24 hours,  
+and does so at a tangential speed of 301 thousand 
+miles per hour, or 0.045% of light speed, a very  
+respectable interplanetary velocity. This would 
+be sufficient for interstellar travel, albeit  
+it would take just under 10,000 years to get to 
+Alpha Centauri this way. So it provides a nice  
+boost to or down from interplanetary velocities 
+and also ironically means that if you’re patient  
+and mining other solar systems for materials, you 
+could sling them by mass driver to the system you  
+want to broaden an existing orbital in and not 
+need to slow them down, just tweaking the final  
+trajectory and speed so it meets the orbital’s 
+inner surface at exactly the same relative speed.
+We’ll get to how much material we need to build 
+one in a bit but let’s talk about width. As  
+mentioned, this thing is a couple of million 
+miles wide in diameter and every 27 miles of  
+width in that band adds another Earth’s worth of 
+surface area. So, you can get two eclipses a year,  
+but only if the orbital is wide enough. Imagine 
+having your day interrupted by a scheduled  
+mini-eclipse, courtesy of your local orbital 
+configuration. It's the new daylight saving  
+time! You’d need an orbital in the order of 800 
+Earth’s worth of surface area to actually get a  
+full eclipse. That’s a band 35,000 kilometers 
+or 22,000 miles wide for the specific case of  
+our sun and our orbital distance. So one this 
+wide does have to be tilted to get sunlight too,  
+and you might use minimal tilting and wide bands 
+to moderate light if you really wanted a 365 day  
+year but that would be a bit closer to the local 
+star than comfortable, in terms of lighting. 
+There’s lots of options. Incidentally, I’m 
+borrowing heavily from the Encyclopedia Galactica  
+entry on Banks Orbitals over at Orion’s Arm, 
+written principally by Stephen Inniss, and since  
+our calculations keep matching I’m going to trust 
+his going forward and save some time. And one  
+thing that gets mentioned in there that I don’t 
+recall noticing before is that when you tilt  
+the ring, you create two warm seasons per year.
+For this reason, you could get away with a wide  
+orbit too, to make a longer year if you wanted 
+to avoid a double set of seasons per orbit.  
+Another way to get seasons is to use an elliptical 
+orbit, which will make it winter when the orbital  
+is further away from the star, and summer when 
+it is closer to the star. You can also combine  
+the two effects. If you thought deciding where 
+to install and how to tilt your satellite dish  
+was tricky, try choosing an orbit and tilting 
+a megastructure for optimal seasonal variation! 
+If the season variation is too quick for your 
+preferences, a slightly brighter star than our  
+G2 yellow sun might be preferable, such as 
+a G1 or G0 or even an F8 or 9, as these are  
+only a touch more massive than our sun but a 
+good deal brighter, so their habitable zone  
+distance has a longer year, and again the 
+lack of spherical curvature on these rings,  
+like planets have, mean they are going to be 
+warmer overall than planets at the same distance. 
+You can also still use shades or mirrors to 
+enhance or decrease or modify the brightness and  
+spectrum of the native star, but while a Banks 
+orbital is quite massive it still isn’t really  
+going to have proper lagrange points like a planet 
+does, so your shade or lens or mirror needs to be  
+lagite to keep up good pacing with the ring’s own 
+orbit around that star. You could use a similar  
+trick to give it a moon if you wanted but that 
+ring is still rather bright at night time as we’ll  
+get to in a bit, along with mass. See our Statites 
+and Lagites episode for more discussion of that. 
+As a general point, the habitable zone and year 
+length of any star is based on its brightness  
+and mass, but brightness rises at a bit over the 
+cube of mass while orbital period drops with the  
+inverse-square root of mass, so habitable 
+planets around red dwarfs have periods of  
+weeks or months, while big giant stars can 
+have habitable zone periods of centuries. 
+That is for main sequence stars, and I should 
+also note that a subgiant star on its way  
+to a red giant is brighter for the same mass and 
+thus might also be popular places to stick such  
+rings. The timelines for subgiant phases for stars 
+like ours tend to be on an order of a billion  
+years so you can easily migrate or increase your 
+sun shields as it slowly brightens. Those L1 sun  
+altering effects are not altering that star 
+to look unlike a normal sun, even ignoring  
+that we do not look at the sun directly - which 
+appears quite white if you do, not yellow - you  
+would not really see a swarm of satellites there 
+altering the content of the light coming through. 
+And of course if you can build things you 
+can also migrate them, should you decide  
+your star is nearing its end, nothing stops 
+you from artificially lighting one of these  
+for a trip and you could build your engine on the 
+backside to serve as a your fake sun for the trip,  
+flipping it around for the slow down. 
+Should your star start to show its age,  
+just pack up your several trillion square 
+kilometers of living space and move. It's just  
+like moving house, but with a slightly bigger van.
+Of course they take a lot of energy to move and we  
+should discuss mass. We usually hold that at a 
+bare minimum you need a meter of thickness under  
+you or at least one ton of material for every 
+square meter of artificial land under your feet,  
+and many would prefer something closer to a 
+kilometer of landscape and hull under you at  
+more than a thousand times that mass. For Earth 
+that ratio is several thousand kilometers and  
+about 12 million tons per square meter.
+That means your mass per unit of living  
+area for rotating habitats is normally anywhere 
+from 10 million times as good as Earth to maybe  
+10,000 times. We tend to assume these bigger 
+continent and planet scale habitats go a lot  
+thicker on their landscaping too, even if 
+they are dimpling their hull for deeper or  
+taller lakes or mountains and filling the 
+latter with aerogel to cut down on mass. 
+In the absence of something like magmatter 
+that makes graphene seem like weak warm butter,  
+we have to use that thicker outer ring approach. 
+That might be a giant torus, flattened on one  
+side for the ring to sit inside, and the rest 
+covered in solar panels and ancillary facilities.  
+It might just be full of compressed hydrogen and 
+helium gas too, like a donut shaped brown dwarf,  
+given their abundance and limited usefulness for 
+construction. If you have a fusion economy that  
+can actually use hydrogen or helium as your fuels, 
+then it's a good way to store your reserves,  
+and if not, if you can’t do better 
+than deuterium fusion, then it gives  
+us something useful to do with that material.
+If we just for the moment imagined disassembling  
+Jupiter to make a such a ring from, and one of 
+about a thousand Earth’s worth of living area,  
+you should have no problem getting all 
+the material from Jupiter’s core to build  
+a mile-deep landscape, and still have tons 
+left over for that outer ring. Disassembling  
+Jupiter for material might just upset a 
+few folks, but think of the real estate  
+opportunities. Always look on the bright side of 
+planetary destruction. Of course, for some of us,  
+planetary destruction is the bright side too.
+Indeed you should have enough material for  
+several of these kilo-Earth scale Banks Orbitals, 
+and you can always import from other star systems  
+with less desirable locations or spectrums, 
+if you need more material or want to leave  
+Jupiter alone for sentimental reasons.
+A solar system like ours should have the  
+raw materials for a couple hundred of them 
+in this size range, or a thousand of the  
+smaller variety of just 200 Earth’s worth that is 
+referenced in Banks’ novels discussing Orbitals,  
+and that’s before resource extraction options like 
+star lifting or importing matter from neighboring  
+systems with less desirable stars. Field trips 
+in a Banks Orbital would be epic. Today's lesson:  
+orbital mechanics, followed by a practical 
+demonstration. Tomorrow: How not to get lost  
+on a megastructure. Essential survival skills.
+You could in fact set these up like chain links,  
+with each habitat on the same orbit of its 
+sun having a neighbor spinning through its  
+middle and with its seasonal angle cocked in the 
+opposite direction. Usually when I refer to chain  
+link worlds I’m talking hoop-worlds, donut shaped 
+artificial planets that are full of mass for  
+gravity, but this is probably the easier version.
+Now I said temperature is the same everywhere but  
+that’s not quite true, and doesn't imply 
+similar weather either. As an example,  
+my home is at 42 degrees latitude and is in the 
+northeast corner of Ohio, and is the same latitude  
+as Rome in Italy. My area has only slightly 
+more mild winters than Buffalo, New York,  
+my home away from home, which is at 43 degrees 
+and legendary for its snowy winters. Paris,  
+France is way further north, 48 degrees, more 
+than most of Canada’s population, and London  
+almost 52 degrees. Your landscape controls your 
+weather and temperature a lot and we can build  
+those as we please on such artificial worlds.
+But not every place gets a 12-hour day all year  
+either. Those rim walls are enormous 
+structures hundreds of miles high,  
+potentially even a thousand. We usually imagine 
+stylizing them as impossibly tall mountains and  
+on smaller habitats they would even have 
+significantly lower gravity as you got  
+higher but on a Banks Orbital, even a thousand 
+mile high wall is tiny compared to the radius  
+under rotation so gravity would barely diminish. 
+In theory they could be made of a clear material  
+but given the necessary thickness I think even 
+something translucent would be dubious, indeed  
+you’d likely nest the ring and entire rimwall 
+into your outer torus for added protection, and  
+that means you have shorter days near the rims.
+How much this affects the habitat as a whole  
+depends on the width of your bracelet or axial 
+length, again every 44 kilometers or 27 miles of  
+this axial length is giving you another Earth 
+of living area. But half your time your area  
+near a rimwall is under partial shadow and how 
+much just depends on that rimwall height and  
+your tilt. If your habitat is much wider than 
+your rim walls are tall, the effect is fairly  
+minimal outside those areas, and the same if your 
+axial tilt of the ecliptic is fairly minimal. 
+The sharper the tilt, the more seasonal variation 
+habitat wide and the more shadow by that rimwall,  
+and this will also help drive weather. Especially 
+as you might decide you don’t want a flat ring but  
+one with a little curvature, either bowing 
+up in the middle or down in the middle. Up  
+in the middle means water will tend to drain 
+toward the rim walls, down, toward the middle,  
+and you could get away with shorter rim walls 
+if you had enough drop toward the center. 
+Any mountain ranges you place throughout the 
+habitat are going to locally cool things too, and  
+those things can help drive weather and break up 
+storms, but there is no coriolis effect and major  
+temperature gradients driving the more vicious 
+cyclonic weather we see on earth, let alone places  
+like Jupiter which is more massive than one of 
+these rings but considerably smaller. Though the  
+axial tilt can allow some monsoon-like effects.
+You can also place them on a more elliptical  
+orbit, rather than something circular, so that 
+you get your twice-a year season from the tilt  
+overlapping with your high-eccentricity season 
+caused by getting further and closer from the Sun,  
+with a summer effect when its closest, or 
+at perihelion. In this way you could get a  
+high-summer effect by timing one of the two 
+axial summers with the perihelion summer,  
+and your aphelion winter would be at the same time 
+as your other summer, making it a lot more mild,  
+or even still wintery if you were using 
+a rather eccentric elliptical orbit.
+In the absence of a moon of real mass, which 
+would probably be a pain in the neck, you do  
+not get lunar tides. We're missing out on those 
+romantic moonlit nights and werewolf stories,  
+but on the bright side, no high tides means no 
+unexpected swimming sessions. If you want a moon,  
+you could fake one with lagites or orbit 
+some hollow moon around the Banks Orbital,  
+though I would not trust that moon option unless 
+you were using the supermassive outer sheath  
+secondary ring to add a lot of mass. You do still 
+get solar tides though and pretty impressive ones,  
+as you are getting 2 million miles or 3 million 
+kilometers closer and further from your sun every  
+day as that bracelet spins. That’s a 2% change in 
+distance for any given spot of that ring relative  
+to its sun every day, or a 4% change in its 
+gravity on you and that would parallel ocean  
+tides here on Earth, though you may want to use 
+smaller basins akin to seas or great lakes,which  
+would reduce that. Those near dimmer stars will 
+have worse tides, and those on eccentric orbits  
+would have tides varying over the year as 
+they get closer and further from the Sun.
+Now the one thing you probably don’t have 
+on these is a moon and that’s because they  
+are wider than our moon’s orbit and unlike 
+a sphere, a big ring is not exactly ideal  
+for orbiting around stably. Again you could 
+fake one with a lagite and it would appear  
+exactly like our own moon if you liked.
+But that ring is quite bright at nighttime  
+too. Our moon when full has a solid angle of about 
+65 microsteradians, about the same as our Sun has,  
+and Earth from the Moon is about 14 times 
+bigger, at 880 microsteradians and would be  
+about 14 times brighter in the sky 
+on the moon than the moon is here,  
+adjusting for different albedo or reflectivity.
+A Banks orbital is further away, so that a given  
+moon or Earth sized object would be reflecting on 
+a 24th as much moonlight - or ring light - onto  
+it’s nightside when getting sun, but that still 
+means even a relatively thin ring of only a  
+handful of Earth’s living area is much brighter 
+than our Full Moon. Like some big bridge across  
+the sky. Who needs constellations when you've got 
+the ultimate night light? And very visible with  
+its landmasses too. To the naked eye, with two 
+layers of atmosphere in the way, it probably looks  
+like a blue-green-and white smear but even simple 
+binoculars would let you identify bigger seas  
+and land masses readily enough, and especially 
+directly overhead where light passes through the  
+least air both ways, you might be able to make 
+out seas and continents with the naked eye too. 
+You do not see it curving away either, the 
+curvature is a hundred times less than on Earth,  
+and turns up rather than down, but should smear 
+off into a red haze than remerge as a red hazy  
+ring slowly turning blue and green as your look 
+higher. When looking in the ring direction,  
+which we’ll call east and west. North 
+and south are toward the rim walls,  
+and by default we assume this is flat, other 
+than landscaping changes, but I do think you  
+would put a slope into make the middle or equator 
+slightly lower, which would result in a thin ocean  
+belt around the whole ring, sort of like we 
+discussed in Topopolis, the Eternal River,  
+in our February Nebula Exclusive. That structure 
+is the exact opposite of the Banks Orbital too,  
+very skinny radius and incredibly long axial 
+width, so it looks like a thread not a ring.
+Don’t think of the ring as being ruinously 
+bright either, folks tend to forget our  
+eyeballs are logarithmic, the sun at noon is 
+400,000 times brighter than the Full Moon,  
+so even a wider ring that might be a thousand 
+times brighter than the full moon is still  
+darker than twilight or very overcast days.
+You do have options for handling that too,  
+like having a nested ring inside made of panels 
+that flipped out of the way for sunlight,  
+turning perpendicular, but then rotated in 
+to block ring light at night. I personally  
+don’t think you’d bother, given it wouldn’t 
+be as bright as many suburbs at nighttime,  
+much less cities, but you might.
+Speaking of nested rings, in addition the  
+chain-link connection of orbital, which I’ll dub a 
+Banks Chainlink World, which could be through the  
+middle or even close enough to touch atmospheres, 
+which might be a neat effect, you could nest some  
+smaller rings inside the orbital cocked at higher 
+angles to give an appearance of an orrery of three  
+of four of these together, maybe more, and of 
+course you have countless additional facilities  
+and smaller habitats in and around one too, 
+adding themselves as constellations in the sky. 
+Those cock-eyed ones, which I will name a Banks 
+Orrery, could get away with being just, say,  
+10,000 kilometers smaller in radius 
+for each one with just half a percent  
+drop in gravity in order to maintain the 
+same day length of that shorter radius. 
+The rings would shadow each other a bit, 
+but create far more connected living area,  
+and direct physical connections would be possible 
+using the same sorts of tricks we discuss in the  
+megastructure compendium for devices like space 
+towers or sky hooks. You’d rotate under each  
+one once a day, for an extra eclipse, so you 
+wouldn't have more than a few unless you want  
+to move your Banks Orrery a bit closer to its 
+star, but it would be pretty minimal. You are  
+spinning 300,000 miles per hour, so crossing 
+under a higher ring even 20,000 miles wide is  
+only eclipsing things for 4 minutes at a time.
+This episode should air about a month after the  
+big annular eclipse a lot of North America is in, 
+including my house, so for those experiencing it  
+you will recall that it’s not really dark during 
+an eclipse, just dimmer, more like a very thick  
+cloud passed in front of the sun on a partially 
+cloudy day. Amusingly you could chain link these  
+Banks Orreries together too, a Banks Chain Orrery 
+I suppose, and if you are chaining these, you can  
+also do nested rings of them around that sun, just 
+as we sometimes contemplate doing with Ringworlds  
+or Rungworlds to form a partial Dyson Sphere.
+There are some fascinating variations of these  
+structures over at Orion’s Arm and some 
+short stories and fiction set there,  
+Orion’s Arm is a shared open source hard sci-fi 
+setting and it’s Encyclopedia Galactica has always  
+been a favorite resource of mine long before I 
+started the channel and many articles also cite  
+me or were contributed to by me too so odds are if 
+you like the show you’ll enjoy that site. The same  
+goes for Iain M. Banks excellent Culture series, 
+which is generally pretty upbeat and optimistic,  
+and where the Banks Orbital is just one of 
+several giant megastructures we get to explore,  
+and Banks was a great storyteller. The Orbitals in 
+there are their alternative to settling planets,  
+as they just build those orbitals to live 
+on as more mass-efficient and customizable. 
+Now that we’ve explored them in theory and in 
+fiction, will we ever see them become a reality?  
+Hard to say, I think if no other engineering 
+barriers pop up, which is probably optimistic,  
+we will at least see some built to prove it can 
+be done, maybe even as soon as in a few millennia,  
+but I’m a little less optimistic about them 
+becoming the mainstay of civilization as they  
+are in the Culture novels. In a few millennia, if 
+we've not found something shinier to distract us,  
+we might just build one. Or we'll get 
+halfway and decide it'd make a great  
+tourist attraction as the galaxy's largest 
+unfinished project. Either way, it's a win. 
+Their size makes them a big investment 
+and an interconnected one, whereas you  
+can build O’Neill Cylinders and smaller 
+habitats still able to house many thousands,  
+connect them by tethers and shuttles if you like, 
+and still be able to pack one up and leave, since  
+they are very easily modified to be spaceships.
+So I think it's easier for me to see a billion  
+O’Neill Cylinders built and parked 
+near each other, connected by tethers,  
+than a Banks Orbital, and both having 
+similar total living area. Besides,  
+we have bigger versions of those in the forms 
+of Bishop Rings and McKendree Cylinders than  
+can allow a potentially happy medium.
+That said, powerful people like to leave  
+behind imposing monuments. You only need to look 
+at the pyramids to understand how that works. So,  
+if you’re an all-powerful ostentatious ruler or 
+community wanting to leave your mark on history,  
+you could do worse than creating a Banks Orbital 
+legacy that a trillion people can live on with  
+tons of elbow room. For more altruistic pursuits, 
+we could produce continuous ecosystems bigger than  
+a planet to house all those wonderful species 
+that were snuffed out through natural calamities  
+or human encroachment. So I think there’s a 
+future for Banks Orbitals, and a beautiful  
+future at that. How could it be otherwise in 
+a solar system decorated with God’s Bracelets?
+To build and maintain an enormous 
+construct like a Banks Orbital,  
+you need patience and determination at a 
+level almost inconceivable for a human,  
+or even a whole civilization. For ultra long-term 
+projects like these, we may use machine minds,  
+and in this month’s Nebula Exclusive, Machine 
+Monitors, we’ll examine what sort of artificial  
+intelligence we might select for such missions and 
+consider some of those missions, from building and  
+maintaining megastructures to monitoring 
+deep system defenses, exploring galaxies,  
+or primitive worlds where life is emerging 
+and may need monitored for millions of years.
+Machine Monitors is out now exclusively on Nebula, 
+our streaming service, where you can also see  
+every regular episode of SFIA a few days early 
+and ad free, as well as our other bonus content,  
+including extended editions of many episodes, 
+and more Nebula Exclusives like last month’s  
+episode Galactic Beacons, Crystal Aliens from 
+March, February’s Topopolis: The Eternal River,  
+January’s Giant Space Monsters, December’s episode 
+The Fermi Paradox: Hermit Shoplifter Hypothesis,  
+Ultra-Relativistic Spaceships, Dark Stars at the 
+Beginning of Time, Life As An Asteroid Miner,  
+Nomadic Miners on the Moon, Space Freighters, 
+Retrocausality, Orch Or & Free Will, and more. 
+Nebula has tons of great content 
+from an ever-growing community of  
+creators. Using my link and discount it’s 
+available now for just over $2.50 a month,  
+less than the price of the drink or snack you 
+might have been enjoying during the episode. 
+When you sign up at my link, 
+https://go.nebula.tv/isaacarthur  
+and use my code, isaacarthur, you not only get 
+access to all of the great stuff Nebula offers,  
+like Machine Monitors, you’ll also be 
+directly supporting this show. Again, to see  
+SFIA early, ad free, and with 
+all the exclusive bonus content,  
+go to https://go.nebula.tv/isaacarthur
+We were talking about mega-engineering  
+only advanced civilization could manage in today’s 
+episode, and we’ll continue that look at advanced  
+civilizations on Thursday May 9th as we look at 
+the Interdiction Hypothesis of the Fermi Paradox,  
+which asks if civilizations out in 
+the galaxy might leave large buffer  
+zones between their empires, and ask if Earth 
+might be inside one such empty buffer zone.  
+Then we’ll continue the alien theme with a 
+look at the reverse case of Interdiction,  
+where civilizations sprawl near each other 
+and set up alien embassies. After that, it's  
+on to the idea of massive galactic empires and the 
+enormous cosmic capitals that might oversee them. 
+As a heads up, in the last few weeks we 
+launched Youtube Memberships, as another  
+option folks can choose to help support our show. 
+Memberships on youtube come with some perks too,  
+so if you’re interested in learning more, just 
+click the join button under any of our videos,  
+or the link in the episode description on any 
+of our platforms, and you’ll see the options  
+and perks. I also wanted to thank everyone who 
+has joined this last month and everybody else  
+who's been supporting this show for years. 
+In a sea of clickbait and algorithm-chasing,  
+personal support really is what helps us and 
+other shows keep producing quality episodes, and… 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. 
+You can also help support the show by  
+becoming a member here on Youtube or Patreon, or 
+checkout other ways to help at IsaacArthur.net. 
+As always, thanks for watching, 
+and have a Great Week!

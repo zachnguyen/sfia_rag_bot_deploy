@@ -1,0 +1,759 @@
+I’m occasionally asked if you can make a
+planet like Earth, only larger, bigger, and
+if so how much bigger?
+As we’ll see today, the answer is very big
+indeed.
+We often discuss building artificial habitats
+in space for humans to live on, today we will
+discuss building artificial planets.
+Not cylinders or rings for providing apparent
+gravity by rotation and centrifugal force,
+but rather the traditional sphere providing
+gravity by the traditional means of mass and
+genuine gravity.
+As we have begun finding exoplanets around
+distant stars, we developed the term Super-Earth,
+planets larger than our own, but not so big
+as a gas giant like Jupiter.
+You often hear these compared to Earth but
+realistically this is not the case.
+Even those not too close nor too far from
+their sun to have liquid water on their surface
+are not going to be much like Earth.
+The force of gravity strongly controls the
+makeup of the surface of a planet, its land,
+seas, and atmosphere.
+Most planets begin with a large amount of
+hydrogen on them, as well as helium, the two
+most common elements in nature but also the
+lightest.
+The colder a planet is and the stronger its
+surface gravity and magnetosphere, the easier
+it is for those elements to remain.
+Left to its own devices, a planet like Earth
+will leak away all its helium and most of
+its hydrogen, some hydrogen will remain bonded
+to oxygen to form water, but not much.
+When you consider that our planet is almost
+entirely covered in water kilometers deep,
+it’s worth remembering that is but a tiny
+remnant of the hydrogen we used to have.
+A planet would not need to be much more massive
+to potentially have a gravity well and magnetosphere
+strong enough to seriously diminish losses
+in hydrogen, so that a planet might be covered
+in water and a much thicker atmosphere.
+If it is much higher, it may have retained
+all its hydrogen and helium and be a gas giant
+instead.
+You spot a planet that is twice as wide as
+Earth and appears to be about the same density,
+and composition, and even has a 24 hour day,
+too.
+What’s different?
+First off, being twice as wide but having
+the same density, it has 8 times the mass
+and four times the surface area.
+That last sounds great, 4 times the living
+room, except if you landed on it you’d find
+the gravity was twice as strong as Earth.
+Mass rises with the cube of distance, if the
+object has no change in density, whereas gravity
+falls off as the square of distance.
+For such an object, the strength of gravity
+at the surface rises linearly with the distance
+of that surface to the center, the radius.
+Double the radius, double the gravity.
+I wouldn’t want to live in a place where
+I weighed twice as much and even a slip down
+the stairs could shatter bones, but there’s
+unlikely to be any land to live on anyway.
+Being bigger it also started with more hydrogen,
+and will have lost a smaller portion of it
+due to its increased magnetosphere and increased
+gravity, so odds are any land it has is buried
+under kilometers of ocean under even more
+kilometers of atmosphere.
+Needless to say we don’t want that, and
+of course this is a Megastructures episode
+so we are not interested in naturally occurring
+planets.
+We are interested in building our own.
+If you can build artificial planets and your
+goal is to make them as Earth-like as possible,
+just bigger or smaller, there’s a lot more
+to it than just dumping excess matter into
+some big heap.
+Since they are artificial, we can construct
+planets of different sizes that have the same
+surface gravity as Earth.
+The surface gravity increases linearly to
+radius, but that’s only true if the density
+remains the same.
+If we constructed a planet the same size as
+Earth but twice as dense, if it were made
+mostly of lead, it would have twice the mass,
+and so would generate twice the gravitational
+force, undiminished by a larger radius.
+So its surface gravity is the same as our
+example Super Earth a moment ago of 8 times
+Earth’s mass.
+Its escape velocity though is not double,
+but just the square root of 2 or 41% higher
+than Earth’s.
+If we went the other direction and lowered
+the density, to half, gravity at the surface
+would drop to half and escape velocity would
+drop to 71% of Earth’s.
+It might be too low to hold a thick atmosphere.
+But we can always find a specific density
+for a given planetary volume or radius that
+will give the exact same gravity as Earth
+on the Surface.
+And it’s easy to remember, as it is inverse
+to radius or diameter.
+If you want a planet that has the same gravity
+as earth but twice as wide, it simply needs
+to be half as dense.
+Ten times as wide, one-tenth as dense, one
+tenth as wide, tens times more dense.
+Earth has an average density of 5.51 grams
+per cubic centimeter, water is just one gram
+per cubic centimeter, and we use the term
+specific gravity to skip the mass per volume.
+Being 5.51 times as dense as water, we know
+a planet composed entirely of water would
+be 5.51 times wider to have the same density
+as Earth, and would have 30.4 times the surface
+area.
+Which is quite large.
+It would also contain 30.4 times as much mass.
+That’s a handy scaling factor when you are
+keeping to the same surface gravity, it takes
+an identical amount of mass to create the
+same living area at the same gravity.
+If you want a million times the living area,
+at normal gravity, you need a million times
+the mass.
+Such a giant sphere would also need to be
+a thousand times wider than Earth and a thousand
+times less dense.
+The air we breathe is actually less dense
+than the sphere itself, and an air-filled
+balloon or ball is reasonably sturdy.
+Nor does the density have to be constant.
+If you had a big thick shell around a point-like
+black hole, it wouldn’t matter that the
+intervening space was empty vacuum.
+Now there are some obvious downsides to building
+planets this way.
+Firstly, regardless of size you have to spend
+the same amount of mass for each amount of
+living area, which for earth gravity is 12
+billion kilograms or 12 megatons per square
+meter of living space.
+You could build a very sturdy chunk of rotating
+habitat exterior shell for only a ton per
+square meter, and give yourself a nice thick
+layer of dirt and water for, say, 120 tons
+per square meter, maybe 50 meters deep, far
+deeper than we tend to dig, and use 1/100,000th
+the mass you would need to make the same living
+area with a classic spherical planet.
+The supermajority of the universe is hydrogen
+and helium, which aren’t too useful by themselves,
+but could be used to generate gravity just
+fine.
+And when we say supermajority, we are actually
+excluding dark matter, which - if you could
+ever collect and confine it - outweighs all
+the rest of the matter in the universe several
+times over.
+Just because your artificial planet needs
+a lot of mass, does not mean you need the
+rock and soil to go any deeper than our classic
+rotating habitat does.
+Our second issue is how you could possibly
+build something strong enough to act as a
+shell?
+You do not necessarily need one though.
+Saturn for instance, has almost the same surface
+gravity as Earth, and a shell built around
+it, like a balloon, could be kept up simply
+by balancing the internal pressure of the
+gas against the external pressure of the rocks
+and water sitting on the balloon shell.
+We have no material strong enough to act as
+a rigid shell.
+We have discussed doing that with active support
+in the past.
+I’ve talked about that enough this year,
+and indeed all the way back to the original
+Shellworld’s episode, that I won’t repeat
+that explanation again.
+See the Orbital Rings episode for a discussion
+of the mechanics involved.
+Such planets resemble a soccer ball.
+Underneath the exterior of rock and dirt is
+an immense series of windings around a bladder
+of gas, or even vacuum, and those windings
+are endless magnetic accelerators pushing
+materials around at orbital velocities inside
+themselves.
+Sounds fragile, but it is in fact is a lot
+sturdier than what we stand on already on
+Earth, floating atop a sea of hot magma.
+Artificial things make folks worry about failure,
+compared to the natural systems, but carefully
+designed, sturdy and well-maintained machines
+can easily survive a long time and, unlike
+natural systems, because you created them
+you know what to expect and how to fix them
+when tell-tale signs of things going wrong
+happen.
+Now there are limitations as to how big, or
+small, you can build these things, but it
+depends on type and some other factors.
+For type, you can define three: a rigid one
+held up by a network of orbital rings, the
+balloon kind held up by an equilibrium of
+internal and external pressure, and a raw
+dumping of matter, like is the case with Earth.
+Rocks, soil, and water are a good deal less
+dense than Earth’s average is, so you could
+build a bigger planet just by skipping on
+dense elements like iron and uranium in the
+planet’s core.
+This version is the one with the least variation,
+you can’t build much bigger than our Ocean
+planet, 5.5 times wider with 30 times the
+surface area, and presumably with floating
+islands for land.
+You can’t go much smaller either, your densest
+materials are stuff like Osmium, Tungsten,
+Gold, Platinum, Uranium, and Plutonium, none
+of which are particularly abundant and are
+only 3-4 times denser than Earth, thus allowing
+you to miniaturize only to about 3-4 times
+skinnier and about a tenth less land.
+The balloon type has size limitations too,
+you can’t really go smaller than Earth with
+one, but you can certainly go larger.
+Again, Saturn is practically ideal to be made
+one, however, you can’t go much larger,
+because these things begin to contract under
+their own mass, so that you’d have no pressure
+pushing back against the balloon at the Earth-gravity
+radius, and eventually they get massive enough
+to form their own sun, which you don’t want
+underneath you…
+usually.
+We’ll get to using exotic stars inside shell
+worlds like white dwarfs, or neutron stars
+another time.
+Now the episode is titled Mega-Earths, which
+by common prefix means millions, and if you
+want a planet a million times bigger than
+Earth you need to use the orbital ring shell
+approach.
+This is the type I usually mean when I say
+Shellworld, though you will also hear them
+referred to as Supramundane planets, but this
+indicates size, not what is keeping the thing
+from falling in on itself.
+Shellworlds have the greatest size range.
+They can be made either much smaller or larger
+than Earth, and the smallest you can make
+one is essentially the point at which its
+escape velocity is so low even room temperature
+gas will fly away into the void, for all that
+gravity feels the same.
+The largest size we will save for last, but
+happens to be when the escape velocity is
+the same as the speed of light.
+A shellworld does not rely on mass providing
+the gravity to keep it as a sphere rather
+than collapsing, so we can circumvent the
+maximum size issue at which something will
+ignite and turn into a star by using a black
+hole instead.
+In theory, those can be made of any size or
+mass.
+Our sun is not quite a million times more
+massive than Earth though, so if you want
+an actual MegaEarth, you either need to use
+a black hole or use a material that won’t
+undergo fusion at that mass.
+Helium might do the trick, dark matter should,
+and any element above helium will.
+Each will have a maximum total mass though,
+and if you build any bigger you will get a
+star, and probably a very short lived and
+explosive one at that.
+All this gravity and stuff though isn’t
+the only issue.
+Once you start building planets bigger than
+Saturn for instance, the rotation rate at
+the equator to produce normal 24-hour days
+starts exerting a rather noticeable centrifugal
+force acting in the opposite direction of
+gravity.
+You might not mind a little lower gravity
+at the equator, but it will get worse the
+bigger the planet gets.
+We can curb this by abandoning it being a
+pure sphere, indeed planets generally are
+not, being wider at the equator than the poles
+exactly because they spin, but in our case
+we do this backwards.
+We make equator more narrow, so when you are
+on it you are closer to the center of the
+planet’s stronger gravity, and moving slower,
+therefore having less centrifugal force.
+At some point, even this stops being viable
+though, even by the time you are getting to
+Jupiter size your planet is looking decidedly
+egg-shaped.
+Fortunately, at this size you are also getting
+near the maximum before something turns into
+a star anyway.
+Now, we say a day is 24 hours and how long
+the planet takes to spin around once, actually
+that only take 23 hours and 56 minutes, the
+sidereal day, 360 degrees of spin, but it
+needs to spin for another 4 minutes to get
+facing back toward the Sun since the planet
+moved.
+A day is not how long the Earth takes to spin
+once, but how long a day-night cycle takes
+to repeat.
+Now before you jump ahead and say “ah-ha,
+we’ll go geocentric and have a planet so
+big the Sun orbits it!”, let me head you
+off.
+To orbit something as massive as the Sun once
+a day means only being 3 million kilometers
+from it, Earth is 50 times further away, and
+an object at that distance would get 50-squared
+or 2500 times the sunlight per area, it would
+flash-fry you!
+That distance increases if the orbiting object
+is more massive, a pair of binary solar mass
+stars would orbit daily at 4 million kilometers.
+It also goes up if the central mass is much
+heavier, but a mass would need to be 100,000
+times as massive as our sun to produce a daily
+orbital period 1 AU out, the distance Earth
+is, and if we want the same gravity on the
+surface, a Mega-Earth 100,000 times as massive
+as our Sun, or 30 billion times more massive
+than Earth.
+Meaning 30 billion times the surface area
+and 180,000 times the diameter of Earth, and
+would thus be over a billion kilometers wide,
+so you wouldn’t be scorched by the Sun if
+you were standing on the surface, but only
+because it would be deep inside the planet.
+If we took the very weakest of stars, those
+with a luminosity only one ten thousandth
+of our sun, we could be a 100 times closer
+to it and not get scorched, just 1.5 million
+kilometers away, and such a star could orbit
+once every 24 hours around a Mega-Earth just
+20,000 times the mass of Earth.
+But that would be about a million kilometers
+wide itself.
+So even here you are getting pretty scorched,
+and the light coming in is almost entirely
+infrared and more like what an old incandescent
+bulb gives off.
+Now, we could spin such a planet backwards,
+letting us place the Sun a bit further out,
+giving it a longer sidereal day than sunset
+length, and contracting around the equator
+to deal with that fast spin issue, egg-shaping
+the planet.
+You also have a lot more distance to the poles
+so they are more habitable than on Earth.
+And you could get away with making the day
+a bit longer too, say 25 hours, so you could
+sleep in.
+Also, you can play with the albedo of the
+planet or even set up shades and mirrors around
+the Sun to block some of the light and redistribute
+some of that light to those poles.
+This lets you get your sun a bit bigger and
+whiter, but it’s hard to get above 100,000
+times the size of Earth and that’s about
+it.
+Technically not a mega-Earth, as again that
+would be a million.
+This is pretty much our boundary even with
+an artificial sun, one that’s just a big
+light bulb of a brightness of our choosing,
+because once you get over a hundred thousand
+Earth’s worth of planetary mass, you can’t
+have an object spread out wide enough to only
+have normal Earth gravity on the surface that
+also have any orbits of 24 hours around it,
+rather than inside it.
+It does let you get just a little bigger than
+a dim red dwarf of a sun permits, and also
+lets you spread your light out better to not
+have a far wider spectrum of temperatures
+between equator and pole than Earth has, so
+it is better, but doesn’t let you get much
+bigger for size.
+This does not mean you have to stop.
+You just have to abandon lighting by a normal
+object you are orbiting or the reverse.
+For instance I could stick a huge mega-Earth
+around an actual sun and use all that power
+to light its surface by giant towers over
+it, streetlamps on an epic scale.
+Or I could build an orbital ring around the
+planet and have a fake sun race around that,
+rather than orbit, or forego that to just
+have light all over that ring that turned
+on and off, in each its own turn, so it looked
+like a sun was moving through the sky below
+even though it was series of massive light
+bulbs just turning on and off.
+There’s no size limit on this, but once
+you switch to an artificial source of lighting,
+you might want to start asking why you don’t
+just build more layers?
+After all a second thin shell a few hundred
+kilometers above the first is a whole new
+free planet, costing you very little extra
+mass.
+There’s not even much drop in gravity since
+you aren’t much further away, and indeed
+you can tweak the distance and mass of the
+next shell to add to the gravity at its own
+surface to keep it the same as the lower one.
+Successive concentric shellworld’s, what
+I usually label a Matrioshka Earth or Matrioshka
+Shellworld -- not to be confused with a Matrioshka
+Brain -- let you add each new layer for a
+mass cost parallel to rotating habitats, and
+indeed, I see this as one likely future scenario
+for Earth, as you could mine out lower layers
+of Earth to add new layers above and just
+add extra mass stolen from places like Jupiter.
+Your top layer is still entirely natural but
+your lower layers are artificially lit.
+Since you want your spacing between layers
+ideally bigger than the atmosphere is high,
+so you aren’t getting stupidly high air
+pressures on the lower levels, you could just
+slather the bottom of the next higher layer
+in black paint and some fake stars and an
+artificial sun ring and it will feel decently
+Earth-like.
+So in order to build a Mega-Earth, you have
+to be willing to go for artificial lighting,
+but once you accept that option you can jump
+even bigger by just adding more layers, though
+trying to do more than maybe ten is going
+to give you big issues getting rid of all
+the waste heat your artificial sunlight produces
+even if you are tweaking the spectrum to optimize
+for photosynthesis and human comfort.
+You could have almost countless dim twilight
+cavern layers full of mushroom forests or
+storage facilities though.
+Before we get to the biggest example, though,
+let’s go the other way and consider how
+small you can make them.
+There’s no limit as to how small a shell
+world could be made if you can use a black
+hole as the gravity source, but it eventually
+becomes more logical to use a traditional
+rotating habitat, because you need to start
+doming things under to keep your air in.
+Though you can build one just 100 meters in
+diameter whose Hawking Black Hole radiation
+would be enough to power a comfortable homestead
+on what would be about 7 acres, a bit over
+3 hectares, of land.
+You’d need domes or force fields to keep
+the air in, but it lets you own your own planet.
+If you go much smaller, you have issues with
+gravity being noticeably different from head
+to toe and that black hole in the basement
+giving off too much energy for the planet
+to dissipate.
+Way back in the original episode on the channel
+at the end I mentioned that the largest megastructure
+I’d ever heard of was one of these artificial
+planets built around a galactic mass black
+hole, with multiple concentric layers.
+The notion was given to us by Paul Birch,
+who unsurprisingly also designed the original
+Orbital Ring concept, as well as the trick
+for cooling down Venus we discussed a couple
+months back in Colonizing Venus.
+An interesting feature of the original one
+is that being that close to that much mass
+seriously slows down time, so that the folks
+living on the lower levels have time pass
+much more slowly than on the higher levels.
+And you might be able to have a lot of levels
+since beyond being massive power sources,
+it is sometimes thought you can use black
+holes, especially bigger ones, as a place
+to dump waste heat.
+So you could potentially have folks from the
+top layer, level 1000, go visit levels 1 or
+2 for an afternoon and come back to find out
+that your watch is quite off.
+Our own galaxy’s central black hole is 4.5
+million times more massive than the Sun or
+1.5 trillion times Earth’s Mass, which means
+that each layer has 1.5 trillion times the
+living room Earth has, and a thousand times
+what even a Full Kardashev 2 Dyson Sphere
+has.
+Even if you only had a dozen layers it would
+have about 20 trillion times the living room
+and you might be able to have hundreds or
+thousands of layers.
+Like I said though, we can go a bit bigger.
+That structure we just mentioned is so big
+it would occupy the entire volume out to Saturn,
+but the black hole itself would be much smaller,
+not even a hundredth as wide.
+The bigger a black hole gets, the weaker the
+gravity near its surface gets, which is why
+you get torn to ribbons approaching a normal
+one but can get a lot closer to the bigger
+ones before tidal forces rip you apart.
+Is there a black hole size so large that the
+gravity at its surface is the same as Earth’s
+Surface?
+Yes, a black hole with 1.5 trillion times
+the mass of our sun, or 500 quadrillion times
+the mass of Earth, has a diameter of nearly
+one-light year and a gravity at its event
+horizon equal to Earth’s own.
+This is the absolute largest any structure
+of this type can be built since any bigger
+and you would be inside the black hole.
+A single layer of such a shellworld would
+be almost a billion times the living area
+of a dyson sphere, and given a modest number
+of layers it would match in living area an
+entire Kardashev 3, galaxy spanning empire.
+Not one where every system has an inhabited
+planet, but where each one was its own Dyson
+Sphere.
+You can also build one with approximately
+the mass of a galaxy too.
+Needless to say, time runs very slowly on
+the lowest layers and even the higher ones,
+but that makes it a nice place to hide to
+pass the time and since you would harvested
+your entire galaxy and maybe a bit more to
+build it, you don’t have any reason to care
+what is going on elsewhere.
+It’s basically the most massive structure
+you can build since firstly, anything bigger
+will be inside the black hole and secondly,
+anything bigger requires harvesting material
+from outside the area of the Universe gravitationally
+bound to you, rather than destined to fly
+off over the cosmological event horizon one
+day.
+Since Paul Birch is far less well-known than
+he deserves, and since this channel is big
+enough I can coin names and expect them to
+stick, I am going to name this a Birch Planet.
+The largest possible Earth-like megastructure
+you can build under known physics.
+I will go ahead and include the smaller original
+version around a galactic center black hole
+as a Birch Planet too, TeraEarth not sounding
+right compared to a mega-Earth or Giga-Earth.
+Okay, why would you build these?
+Any of these?
+They use a ton of matter, and too much to
+really justify that they are more Earth-like
+than a rotating habitat.
+However, as I’ve mentioned before any galactic
+scale civilization, or even just a decently
+long-lived interstellar one, needs to think
+on timelines of more than one classic human
+lifespan to continue to exist or even come
+to be in the first place.
+So the amount of mass one person needs for
+one lifetime stops being a good path for determining
+the stockpiles of resources you need to keep
+around.
+When you engage in starlifting and other stellar
+engine creation, you often will have a ton
+of useless mass leftover, hydrogen and helium
+for instance, which has little value except
+for its mass or mass-energy for fusion or
+matter to energy conversion.
+You still want to store that stuff so you
+can use it later, and you might want to take
+advantage of the gravity it produces.
+If you’ve got some big fuel bunker in space
+shaped like a sphere, as it presumably would
+be, you might want to just dump some dirt,
+water, and air on it and build some houses
+too.
+In the long term you want to harvest the entire
+galaxy, and even further if you can, because
+the raw materials of the Universe are not
+stored well.
+A solar system you leave sitting around untouched
+for a million years instead of harvesting
+is losing value that whole time, burning hydrogen,
+having solar wind escape, having valuable
+rocky asteroids and comets crash into their
+sun, and so on.
+If you are harvesting and storing all that
+for eventual use, you might as well make use
+of its gravity now.
+And if you are thinking on those timelines,
+you aren’t interested in how many centuries
+or even millions of years some rotating habitat
+could run its fusion reactors off its tanks
+of hydrogen fusion fuel, but how many trillions
+or quadrillions of years a hollow planet stuffed
+full of hydrogen can run its lighting off
+that hydrogen, slowly lowering gravity or
+even contracting the planet as the fuel gets
+used.
+We will talk about some of those scenarios
+more when we do our next installment in the
+Civilizations at the End of Time series.
+Another big advantage of a Birch Planet relates
+to the scale of Kardashev 3 or K3 civilization.
+A K3 civilization makes use of all of the
+energy put out by its galaxy.
+I’ve mentioned in other episodes that divergence
+will inevitably occur due to the timelines
+involved in setting up and communicating in
+a K3 civilization that has no faster than
+light travel or communications.
+It takes potentially a million years to travel
+across the galaxy even when approaching relativistic
+speeds.
+Colonizing a galaxy takes millions of years
+and, even without technological tinkering,
+folks on the other side of the galaxy might
+be as genetically different as we are to the
+dinosaurs.
+The consequence is that members of the K3
+civilization across the galaxy are going to
+be very alien to one another, even if they
+originally came from the same species.
+If a K3 civilization wanted to make itself
+cohesive, then the Birch Planet is a solution
+to the divergence problem.
+A K3 civilization can install itself into
+a Birch Planet and will be able to communicate
+to its entire population, a billion, billion
+times as many individuals as Earth holds,
+in timelines of about a year.
+Many an old empire from our own history existed
+within similar constraints and still remained
+relatively cohesive.
+You can also start building one and just keep
+making it bigger as more mass becomes available,
+you don’t have to build a Birch Planet all
+at once.
+This also leads onto a possible solution to
+the Fermi Paradox I speak so much about on
+this channel, which at its simplest is an
+apparent contradiction that despite a seemingly
+high probability for the existence of space-faring
+aliens that there is no evidence that such
+aliens actually exist.
+Now, we’ve been actively looking for sentient
+alien life in our galaxy for decades, but
+we’ve also been looking for signs of it
+in other galaxies.
+If there were a K3 civilization, we would
+usually expect to be able to see it from the
+tell-tale waste infrared heat that it would
+output, but possibly not if that K3 civilization
+was on a Birch Planet.
+Even if a Birch Planet put out the ferocious
+amount of heat that such a vast civilization
+would produce, we wouldn’t necessarily notice
+it since it would be concentrated.
+The construction of one uses up an entire
+galaxy, and while it should be very visible
+if you are looking at that spot, the odds
+of looking at that spot aren’t very high.
+What’s more, a maximum sized one is hanging
+out just over the event horizon of a black
+hole, so the light leaving it is going to
+be massively red-shifted, you won’t spot
+one of these, even the smaller ones, if you
+are just looking for the infrared signature
+of an Earth temperature Dyson Sphere.
+But moreover, as mentioned earlier, it is
+thought that you might be able to dump waste
+heat into black holes, which you would want
+to do if that trick works, so a Birch Planet
+might be incredibly hard to see since it is
+very far away from any other civilization,
+very tiny compared to a galaxy, has all it’s
+light red-shifted, and might be able to use
+that black hole as a heat sink.
+Now, construction of such a thing is not even
+vaguely covert, so the civilization that made
+it isn’t going be hiding, but they’d be
+hard to see and a Birch Planet, once constructed,
+would be the perfect place for a K3 civilization
+to hide from us.
+Perhaps this is the reason we have not seen
+a K3 Civilization, they build inwards, not
+expand outwards, just dragging in matter to
+add to their single immense planet.
+We had to do a lot of math today to discuss
+our topic, as usual, I did try to keep it
+to the minimum and supplementary, so that
+folks who wanted to design artificial planets
+of their own had the available tools.
+I left out a lot of the math in this video…
+but to start doing your own research into
+distant worlds you’re going to need a toolbox…
+a perfect place for that is Brilliant.
+It's a great place to improve your skill and
+comfort level with math and science so that
+you can think like a physicist.
+In Brilliant's Astronomy course, starting
+from simple beginnings, you can also learn
+how to model the habitable zone around different
+stars, look for observational signatures of
+distant worlds and analyze the logistics of
+sending probes to explore them.
+With these basic skills, you can go on to
+explore places like we discussed today, or
+even dream up new ones.
+To support the channel and learn more about
+Brilliant, go to brilliant.org/IsaacArthur
+and sign up for free.
+As a bonus, the first 200 subscribers will
+get 20% off the annual Premium membership.
+Next week, we return to the Outward Bound
+series for Colonizing Jupiter, and we will
+look at the concept of a mini-solar system
+of gas giant moons along with oceanic colonies
+on places like Europa, and how to colonize
+an actual gas giant itself.
+The week after that we’ll continue our look
+at Artificial Intelligence, and follow that
+up with a look at the concept of Hive Minds.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a great week!

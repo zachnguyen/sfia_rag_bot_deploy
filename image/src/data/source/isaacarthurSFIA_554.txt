@@ -1,0 +1,654 @@
+The purpose of a beacon or lighthouse is to
+show others the way in the darkness,
+literally and metaphorically.
+So there’s some troubling implications when we regard the vast ocean of the night
+and it appears nobody has lit one.
+So today’s topic is Interstellar Beacons,
+with a focus on Alien Beacons used to communicate
+to new civilizations.
+There’s many good reasons to build a beacon
+loud enough to be easily heard at interstellar
+distances, but one of those is to say hello
+to life in distant places.
+One of the biggest open questions about our
+Universe is “where are all the other civilizations?”
+In a place so enormously vast and ancient,
+we ought to detect plenty of other civilizations,
+some of which should be vast and ancient and
+thus easy to spot.
+Yet we don’t, and we call this apparent
+contradiction between expecting to find alien
+civilizations and their seeming absence, the
+Fermi Paradox.
+I do not want to limit our discussion of Beacons
+today to only the Fermi Paradox, but it’s
+a major point so we’ll give the paradox
+a major focus.
+The purpose of a telescope is to see far away,
+that’s the literal meaning, while beacon
+is the opposite: a sign, signal, portent,
+or lighthouse, a thing meant to be seen far
+away.
+In combination, a decent telescope lets one
+civilization see the beacon of another civilization
+much farther off.
+However it only lets them do that if both
+the beacon and the telescope exist, and the
+telescope is looking at the beacon.
+Now ‘see’ is a relative term for telescopes
+these days, as a lot lot of our farthest seeing
+ones don’t detect visual light at all, but
+radio, infrared, and other wavelengths of
+light not visible to the naked eye.
+A lot of time with the Fermi Paradox, we emphasize
+radio communication because we’re looking
+for a signal, but as we’ve discussed before
+on this topic, that’s likely a dead end
+path.
+The general notion most people are familiar
+with, and which makes sense on the surface,
+is that since we broadcast by radio signals,
+odds are many other civilizations would too,
+and we can listen in and learn about them.
+But we are, and have been, all too aware that
+a signal broadcast on a planet and designed
+for transmission to a regular antenna on that
+planet is practically impossible to hear thousands
+of light years away.
+We also have to assume anyone elsewhere making
+a beacon for us to detect knows that too.
+Now there’s a maximum range you can pick
+out a signal with a given setup.
+Signals weaken with the inverse square of
+distance.
+So if I have a transmitter that outputs a
+decent 1 megawatt signal as measured 1 meter
+from the source, at 2 meters that signal strength
+will have decreased to only 250 kilowatts.
+At 1 kilometer out, that decreases to only
+1 Watt and the short hop to the moon at 384
+thousand kilometers away, drops that signal
+to only 7 picowatts, which is tiny, and you
+might be forgiven for assuming we could not
+detect this.
+However, even with our current levels of technology,
+we can actually receive much fainter signals.
+The Voyager probes are the farthest human
+made objects and they’re still operating
+out at the edge of the solar system.
+Signals from them are being received at a
+power level of a 10 quadrillionths of a Watt,
+that’s 10 to the power -16 watts.
+So while the signal strength is almost unfathomably
+tiny, we can still acquire the signal, so
+don’t underestimate the sensitivity we can
+achieve with a radio receiver.
+I’d originally planned to examine megatelescopes
+and beacons in a single episode.
+It soon became obvious, though, that was too
+much material to fit into one episode so we’ll
+visit it in a separate instalment in a couple
+of weeks.
+These concepts are very related though.
+We have lots of reasons to build enormous
+telescopes, but one is to hunt for life in
+distant places.
+As we’ll see in Megatelescopes, we can also
+hugely boost our reception sensitivity.
+Irrespective of the sensitivity of whatever
+massive telescopes we build, there is a hard
+limit to what we can measure beyond what is
+called the Cosmological Event Horizon, many
+billions of light years away.
+The light and signals from those places will
+never reach us as space is expanding between
+distant galaxies and the Cosmological Event
+Horizon is where that expansion rate reaches
+the speed of light itself.
+It’s even a little closer than the Cosmological
+Event Horizon, because if you are looking
+at some place where the light traveled 10
+billion years to reach us, there’s no realistic
+chance for anyone to have existed back when
+those photons left and that’s down to the
+nature of the early universe.
+Detection has another problem, though, because
+noise rises with distance too, as more things
+can disrupt the signal or overlap it, but
+you can simply keep making your receiver bigger
+and your computers scrubbing for noise bigger.
+If you want to pick up a regular terrestrial
+signal a million light years away you’d
+best be getting ready to build telescopes
+and attached computers that are ridiculously
+huge even by the standards of this channel.
+However, that isn’t a concern if you’re
+listening for an interstellar beacon, which
+was the low-hanging fruit we hoped to find,
+not their terrestrial radio.
+Keep in mind we confused the original pulsars
+we discovered with radio signals.
+There was serious speculation they might be
+alien, and the nearest is nearly 300 light
+years away, whereas the current furthest is
+50 million.
+I’m not sure how the notion got started
+that there was a hard limit on radio signal
+distance but rather than going through the
+math and physics of that, I’ll just point
+out we use radio telescopes to get pictures
+of our universe well beyond a thousand light
+years out.
+If you can see a place well enough to make
+out patterns and details there is a capacity
+to have sent a message by manipulating those.
+On this channel we’re no strangers to discussing
+stellar engineering or moving whole solar
+systems if we need to, and while it might
+sound over the top to create an ultra-long
+distance beacon by moving pulsars around to
+form a pattern, it is possible.
+Picking up a star and picking up a terrestrial
+signal are two very different animals.
+One is an immense natural phenomenon, and
+the other is artificial and designed to carry
+as much data as possible.
+Raw digital signals have a structure or pattern
+if you will, a noticeable, non-random sequence.
+But compression schemes take advantage of
+that non-randomness to reduce the signal length
+or pack in more data.
+The compressed signal ends up looking much
+more random, what we often call pseudo-random,
+which is difficult to distinguish from noise
+and susceptible to noise.
+Compression also creates the additional puzzle
+of figuring out an alien compression protocol
+so we can reverse it.
+And this all assumes they aren’t attempting
+to conceal or encrypt those transmissions.
+So even detecting that there’s actually
+a signal can be rather hard, even before we
+get into deciphering and translating it.
+However, keep in mind you need not crack a
+transmission to know there is one.
+Someone might not be able to watch digital
+broadcast TV from Earth, but they can see
+a spike in those wavelengths that doesn’t
+match what they’d expect from natural sources.
+As we discussed back in Cryptic Aliens, such
+a planet gives tons of clues off, like spikes
+based on location and time of day.
+This is the big difference between a beacon
+and data transmitter though, the data transmitter
+sends specific information as fast as practical
+to a receiver looking for a signal in its
+broadcast range.
+The beacon is sending above all else only
+one message “Look at me”, same as a lighthouse
+or collision beacon on a tall tower.
+You can then send something more complex on
+another frequency, say half or double your
+beacon frequency, or maybe Pi times the beacon
+frequency if you’re sending Pi, or pause
+between repetitions to emit chunks of other
+messages.
+We could send something more complex paragraph
+by paragraph, repeating once a day, but with
+Pi between each paragraph or 128 characters.
+Since the point is to talk to intelligent
+life, you can assume basic deductive reasoning
+on their part.
+Since the whole point of an interstellar beacon
+is to be discovered at interstellar distances,
+you can expect those to be on the frequencies
+that come through best or which you’d expect
+people to be watching.
+The chief example of that is the Hydrogen
+Line at 1.4 GHz.
+Except for that sharp hydrogen line, the spectrum
+band around that is fairly quiet, but much
+of the Universe is made of hydrogen so our
+telescopes study that frequency a lot.
+It’s a safe bet any other young new civilization
+would too.
+It's not enough to use the frequency people
+will look at but also to send something they
+will easily recognize as artificial, again
+like the first 256 digits of Pi in binary
+or prime numbers or perfect squares.
+This is the key conceptual difference between
+a beacon and a regular signal, and why it
+also circumvents common objections to us being
+able to find them.
+We can make good educated guesses as to what
+kind of beacon they would expect aliens to
+notice, but we do not understand what they
+might use for mundane communication among
+themselves.
+They might use something besides radio signals,
+which could include faster than light forms
+of communication, like micro-wormholes that
+circumvent normal space entirely.
+We would not send internet traffic to Mars
+from Earth by omnidirectional broadcast or
+even a dish, we’d use a laser.
+Those spread out over distance too but you
+can use a much weaker and concentrated signal
+that way.
+An alien civilization might use point-to-point
+beamed communication, beam cast rather than
+broadcast, for the same reasons.
+Which is another thing, we don’t broadcast
+that loud.
+We've worked hard at making better receivers
+for weaker transmitters since the dawn of
+radio to save energy, something we still work
+hard at, so you’d expect signals to get
+weaker as a civilization advanced.
+You wouldn’t expect any of that to apply
+to a beacon though, especially one meant for
+alien civilizations.
+Now, that’s not the only reason to build
+a beacon.
+Pulsars, natural radio beacons, can be used
+as a GPS to pinpoint your position and time
+fairly accurately by triangulating several
+of them but they only offer so much accuracy.
+An artificial network, a Galactic GPS if you
+would, can offer better if you’re willing
+to build one.
+It's the same basic concept, some transmitter
+yells over and over again “I am transmitter
+42, the time is 11:08 AM”.
+Though in point of fact they mostly don’t
+say the time, they transmit a pseudo-random
+code, which would make them harder to recognize
+if you don’t know what they are.
+Nonetheless, it’s quite likely any civilization
+that does a lot of interstellar travel has
+giant transmitters set up with each bellowing
+the time, and time lag on communication is
+irrelevant in this context since you are specifically
+trying to tell people the time the transmission
+left at, so they can calculate the distance
+to it, and its siblings, and triangulate their
+precise location.
+So odds are good the first signal we’d pick
+up from an alien civilization would be, “I
+am transmitter 42, the time is 11:08 AM, I
+am transmitter 42, the time is 11:08 AM and
+4 seconds”, and so on.
+Another good candidate would be “3.14159”
+or rather its binary form, “11.00100 10000”
+possibly with some strung out explanation
+of how to build a hyperspace transmitter in
+between repetitions.
+Motives for sending the latter could vary
+a lot, and include pure friendly curiosity,
+or if humanity is any guide, that message
+might be “See attached blueprint to make
+your planet’s own hyperspace communicator,
+and use Promo Code ‘Vega’ to get 1000
+FREE galactic credits to the iGalaxy app store”.
+And if Nature is any guide, the beacon might
+just be repeating “This beacon is in our
+territory, stay out, stay away, mine, keep
+out, trespassers will be disintegrated”.
+As we discussed in the episode Hidden Aliens,
+there’s lots of reasons to talk to people,
+even if you’re xenophobic.
+Hiding is practically impossible or at least
+a huge hassle so if you want to be left alone,
+it’s easier to say “Leave us alone.”
+We expect that most starfaring species will
+be curious by nature, or else they wouldn’t
+have advanced in science and technology.
+Curious species are likely to send probes
+and scouts and send even more if one inexplicably
+disappears.
+Since controlled aggression is also likely
+to be a common trait among intelligent civilizations,
+it also prevents the likely probability of
+them sending an armada to say a special hello
+in person after you blew up their scouts without
+provocation.
+It’s unlikely any species that’s curious
+by nature will consider “accidentally and
+unknowingly walked into your territory, which
+you in no way identified as yours or told
+people to stay away from,” a legitimate
+excuse to blow someone up.
+As always, we can’t know the minds and behaviors
+of aliens but we can draw probable inferences
+from traits we’d expect to be common.
+If we see it a lot in nature, and it makes
+sense why it evolved, or the same for civilizations
+as they progressed, then odds are good it’s
+common throughout the Universe if not universal.
+Curiosity is one of those, a desire for survival
+and security should be another.
+What kind of beacons a civilization might
+build all depends on how much energy they
+have and how cheap it is.
+I’ll go ahead and say no civilization will
+worry much about one-millionth of their energy
+being used to maintain a beacon or positioning
+clock.
+I will use a simple real case to create an
+example.
+Now I mentioned the Voyager probe earlier,
+which is 20 billion kilometers away and transmits
+at 20 watts.
+That is probably at the outer limits of our
+present ability to reasonably detect such
+a signal, so let's run with that signal strength
+to detect a beacon.
+Extrapolating a 20 watt transmitter on Voyager
+at 20 billion kilometers, we will detect a
+signal at a trillion kilometers out if we
+use something like the WJR 760 AM 50,000 watt
+transmitter across the lake from me in Detroit,
+which is 2500 times louder than Voyager.
+That’s a distance of a tenth of a light
+year.
+Ramp it up further by making it 100 times
+louder, 5 megawatts, and you can pick it up
+1 light year away.
+This would be louder than any radio tower
+now in service, our most powerful coming in
+at about 2 megawatts.
+To make it as easy to hear a thousand light
+years away would mean jumping up a million
+fold on power, up to 5 terawatts.
+And to receive it 100,000 light years away,
+across the galaxy, would mean boosting all
+the way up to 50 petawatts, a bit less than
+a quarter of all the energy hitting our planet,
+but almost nothing compared to the output
+of our Sun.
+Now at this point most reasonable folks would
+say Voyager is hard to detect, not something
+you can pick up on your car radio, and nobody
+will broadcast at 50 petawatts.
+However, we said we could reasonably expect
+a civilization not to mind spending one millionth
+of their energy budget on a beacon and for
+a Kardashev 2 civilization, a Dyson Sphere
+or Swarm, 50 petawatts is not a millionth
+of their power budget, it’s about a billionth.
+It’s the equivalent of the US maintaining
+a beacon that cost about $20,000 a year to
+run.
+Such a transmitter could be a statite, basically
+a glorified solar sail composed of tissue
+paper thin mesh several thousand kilometers
+a side that uses the light pressure and solar
+wind to stay in position.
+We could set it to transmit an AU above its
+Sun’s north pole for instance; big but thin,
+not a hard device to construct in any K2 civilization.
+That’s not ideal for being heard by 20th
+century civilizations across the galaxy, but
+we could be confident they’d eventually
+point their telescopes in the right direction
+and hear our signal, and you might say that’s
+quite enough.
+The signals already take thousands of years
+to arrive, and an equal time for a return
+hello, so you might be fine with using one
+weak enough it might take them a couple centuries
+of radio astronomy before they’ve got telescopes
+big enough to see it and continue surveying
+long enough to spot it.
+But I think not because if you are doing an
+intentional beacon to newly emerging civilizations
+there’s a good chance you don’t only want
+to say hello but give some friendly advice
+too.
+If you’re worried about potential new friends
+blowing themselves up when they figure out
+nukes or how to bulk manufacture anti-matter,
+you want that warning delivered prior to them
+having those options.
+A century or two on the whole means nothing
+to you, but that specific century or two when
+they first hear it does, so louder is better,
+something they can’t possibly miss.
+If they were going for a millionth of their
+energy budget, that would be, for our sun
+specifically, a transmitter blowing away at
+400 billion gigawatts.
+That’s assuming a steady output too rather
+than pulsing it louder.
+And mind you, that’s just a Kardashev 2
+civilization.
+An interstellar empire controlling a bubble
+of a thousand or so light years around their
+home-world could easily spare an entire star
+to fuel such a beacon.
+At this point you are outshining pulsars,
+and can intentionally mimic them but introduce
+an artificial pattern, and be confident someone
+will notice that.
+You don’t even have to do radio.
+At the K2+ scale where you’ve enveloped
+your entire star for power, you can simply
+have your mirrors, panels, or radiating fins
+flicker simultaneous patterns in the visible
+or infrared spectrum, or use modified Shkadov
+Thruster or Star lifting technology to do
+the same, turning a whole sun into a literal
+lighthouse or semaphore.
+This you probably would not do though as these
+are white light sources and you can transmit
+much louder on a single frequency with the
+same total power instead.
+The other thing is that on this kind of scale,
+you need not do an omnidirectional broadcast,
+or even in a rotating cone, but could send
+out narrow beams aimed at every single star
+instead, or every one you thought had a non-infinitesimal
+chance of having technological life.
+A narrow spotlight the size of that star’s
+habitable zone, a weaker and modified form
+of the Nicoll-Dyson Beam we’ve discussed
+using for pushing spaceships up to speed or
+blowing up planets.
+That’s handy too since it gives you something
+to do with such beams when not pushing spaceships
+or blowing up planets.
+Okay, so that’s the basics of a beacon,
+let’s ask why you’d build one.
+Or rather, since there don’t appear to be
+any, why someone might not.
+We already mentioned one obvious motive, simple
+curiosity and a desire to say hello, but that
+is a lot of energy to spend for a very long
+time, and someone is bound to point out they
+could run one, say, a tenth as strong for
+a tenth the price and be confident a new civilization
+would find it as they improved their own telescopes
+and continued their own surveys.
+After all, those signals may have to travel
+many thousands of light years, and thus be
+thousands of years old, before anyone hears
+them, and just as long back to respond.
+If you know you can be spotted by a 22nd century
+civilization with a specific wattage, and
+a 21st century civilization for ten times
+as much power, but that the message will still
+take 5000 years to reach you, that extra investment
+so you can get a hello back in the year 7018
+instead of 7118 might seem a bit pointless.
+We mentioned another motivation too, the territorial
+markers.
+But the point of a territorial marker is to
+keep people away from your territory, so the
+goal is for them to see it at your border.
+Now in spaceship terms this is a little different,
+because an interstellar ship is committed
+to a journey once it finishes its initial
+acceleration, they can't stop when they cross
+your border so you need to warn them well
+in advance.
+Preferably before they leave but at least
+soon enough so they can find some place you
+don’t claim or plan to claim to either colonize
+or refuel at.
+However you can also rely on them sending
+unmanned probes first to do flybys and training
+their telescopes on a prospective colony planet
+before committing to a mission.
+So your target broadcast strength for a territorial
+marker is loud enough they can’t miss it
+if they are doing common sense preliminary
+homework, scouting out planets and mapping
+the places out.
+Whenever you’re discussing an alien civilization,
+you are automatically discussing several of
+them, because if there’s one near us then
+there’s probably several more inside a sphere
+of space not much bigger, and likely some
+them are ancient and not prone to massive
+expansion.
+In this context you’re entering a diplomatic
+realm where the notion of ‘due diligence’
+will apply.
+So you can justify your actions to other civilizations
+even if you don’t have to justify them to
+your own people, which you probably will.
+You and whoever sent such a mission are both
+playing with blindfolds on so you want to
+ensure you’ve gone far enough they can’t
+have missed your territorial beacon unless
+they were being far more negligent than you
+were.
+Regardless, this means your territorial beacons
+are pretty loud, but not designed to be easily
+noticed by casual inspection thousands of
+light years away by a species that is not
+yet advanced enough to even send an interstellar
+probe, let alone a colony ship.
+So we’ve got two reasons to build one, both
+of which can be argued to be stuff we’d
+miss now.
+Ironically, though our half-humorous remark
+earlier about them sending instructions and
+some free credits to access the iGalaxy app
+store provides a better one.
+Everyone who wants to talk to another civilization
+has some sort of motive to do so.
+Maybe you want to be friends, maybe you’re
+warning them off your turf, maybe you want
+to sell them stuff, maybe you want them to
+join your religion or accept your political
+or economic ideologies.
+No matter how you cut that, time is a factor.
+Not just because sooner is better, but because
+sooner is easier.
+It’s a lot easier to convince a civilization
+to be your friends if you phone them with
+an awesome new technology to solve their problems
+rather than waiting till they’ve discovered
+those or accidentally destroyed themselves.
+“Here’s a device that produces clean,
+cheap, abundant energy” is a pretty nice
+housewarming gift for those entering the galactic
+neighborhood.
+A xenophobic alien race will find it a lot
+easier to convince a civilization to stay
+away from its territory when they are a tiny
+single planet only dreaming of colonizing
+the stars rather than one that’s already
+got fleets out doing so.
+It’s also a lot easier to convince a commercial
+civilization to buy your products or subscribe
+to your services when its way better than
+anything they’ve got and nobody else is
+sending them invites.
+It’s certainly easier to convince folks
+to join your religion or ideology when you
+can present yourselves as vastly older and
+wiser too, and can answer any regular questions
+or doubts before they’ve even thought of
+them, let alone locked into an opinion on
+them.
+Now the problem here is that while that gives
+you a great motivation to broadcast very loudly,
+it might make even more sense to just travel
+there until we remember the kinds of energies
+it takes to move a single large spaceship
+around the galaxy; they are a lot higher than
+what it would take to send a targeted radio
+beam at one planet for even millions of years.
+Similarly sending out a wave of ships to do
+that to every possible inhabited world is
+like an omnidirectional broadcast, and more
+expensive.
+Also, while we can’t be sure there are no
+alien beacons out there yet, we can be pretty
+sure no one is doing open contact missions
+with Earth right now.
+A lot of folks think there are little green
+men running around the planet, but even if
+they are right, that would seem to imply a
+different operational profile and motivation
+from an Alien Beacon, as they are at most
+likely secretly chatting with our governments,
+not landing mother ships at the UN and rolling
+out banners.
+So this is a tricky one, because it would
+seem to make sense to have loud beacons, enough
+that we’d expect many civilizations to choose
+to do so, and as always with the Fermi Paradox,
+it’s not about why some civilization would
+not, or even why most would not, but rather
+if no one would.
+I don’t think you can make a strong case
+that nobody does this, not when there appear
+many good reasons to do so, and the only bad
+reason is worrying that it tells people where
+you live, which as we discussed in Hidden
+Aliens and will look at more in Megatelescopes,
+isn’t a good reason at all.
+On the other hand, there doesn’t seem to
+be a super-strong case for broadcasting so
+loud we couldn’t possibly miss the signal
+nowadays.
+It’s a weak case, especially in the context
+of all the other Fermi Paradox issues we’ve
+raised in other episodes, but not so weak
+we can just rule it out entirely.
+That there may be beacons but folks tend to
+limit their strength to a level they figure
+no one can detect before they’d be casual
+spacefarers too.
+And so while I’d say it isn’t likely,
+there’s still a chance we might find some
+beacons in the next couple centuries as our
+off-planet infrastructure and technology improve.
+We can start mass producing the kinds of giant
+telescopes that might hear another planet’s
+regular radio and we’ll look at those in
+two weeks in Mega-Telescopes.
+However before we discuss that, we’ll be
+looking at the kinds of civilizations that
+can afford to produce truly enormous telescopes
+and many other things we discuss on this channel,
+with an expanded examination of Post Scarcity
+Civilizations.
+We’ll be covering that for multiple episodes,
+and trying to look at some problems civilizations
+like these might face despite having a seeming
+abundance of everything.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And as a reminder, every episode on this channel
+is available for download as audio-only versions
+on Soundcloud and iTunes, for those who like
+tune in while driving.
+Until next time, thanks for watching, and
+have a great week!

@@ -1,0 +1,726 @@
+This episode is sponsored by Brilliant
+Everyone always talks about colonizing Mars
+and turning it green, but Venus might turn
+out to be a far better candidate for terraforming…
+if we can just cool it down first.
+Last month we talked about terraforming Mars
+and how to warm it up and thicken its atmosphere
+to bring Springtime to Mars.
+Venus, our other close neighbor, is something
+of the reverse case.
+Mars and Venus, our two big first targets
+for colonization, have almost the exact opposite
+strengths and weaknesses.
+Often Mars is seen as the most logical first
+target, which can seem strange on reflection.
+It’s farther from us than Venus, our launch
+windows to it just once every 26 months, whereas
+Venus’s is every 20 months, and it’s a
+closer and more direct shot.
+Venus is also much bigger than Mars, with
+a surface gravity nearly that of Earth.
+Venus has plenty of light and atmosphere to
+work with, indeed we thought it was probably
+a paradise world well into the 20th century.
+Problem is, it’s a scorchingly hot hell
+hole.
+Cool it down and it would be practically ideal
+for terraforming, with just one other big
+problem, it spins very slowly.
+By weird coincidence Earth and Mars have near
+identical day length, just 37 minutes longer
+on Mars, a little extra sleep, and nothing
+in the solar system comes close to that.
+The next closest is Uranus at 17 hours, and
+the various moons and asteroids almost all
+have either very long days from being tidally
+locked to their planet or very quick days
+of just several hours.
+Venus though takes this to extremes, unlike
+some objects whose day and year are the same
+length from being tidally locked, Venus’s
+rotational period is actually longer than
+its orbital period because it spins backwards,
+and while we’re not sure why it’s such
+a blisteringly hot world, beyond its proximity
+to the Sun of course, we tend to assume Venus
+spinning slowly and backward is related to
+it’s monstrously high temperature.
+A couple years back we looked at Colonizing
+Venus and we mentioned there that up above
+Venus’s hideously hot surface, far in its
+upper atmosphere which is much thicker than
+Earth’s, it’s quite possible to make rather
+nice floating cities, and we focused mostly
+on that in the episode.
+I also mentioned though there have been plans
+for cooling down Venus, most notably Paul
+Birch’s solar shade approach, and I wanted
+to focus on that and other cooling techniques
+today.
+Now because Venus is closer to the Sun any
+terraforming plan has to include not just
+cooling it down in the first place, but keeping
+it cool.
+Also, we’ve mentioned that many planets
+or moons could hold an atmosphere if only
+they had robust magnetospheres, and it’s
+a little ironic that Venus has a very thick
+atmosphere and almost no magnetosphere itself,
+and gets savaged by atmosphere-stripping solar
+radiation and wind far more than any world
+but Mercury.
+Ironic but not actually weird.
+See Venus may have a very thick atmosphere
+but has virtually no hydrogen in it, hydrogen
+and helium being the most common elements
+in the Universe but rare in the inner planets
+precisely because they are so easily stripped
+off those planets by the Sun, being lighter.
+We only have any on Earth because it bonds
+to other atoms like oxygen and that slows
+the loss, once the initial unbounded hydrogen
+blows away.
+Stick water on Venus and it will evaporate
+away, even if we magically cooled it to Earth
+temperatures.
+As a result, Venus’ atmosphere is mostly
+nitrogen and carbon dioxide, heavier stuff.
+So the problem with Venus is essentially the
+Sun, it gets a bit too much of it and doesn’t
+turn fast enough to even contemplate a normal
+day/night cycle.
+Needless to say, this being SFIA, the concept
+of spinning it up faster and moving it away
+from the Sun is hardly a shocking idea, but
+I am going to be making the case today that
+Venus is the most logical target for Terraforming
+first, not Mars, and truth be told the only
+one where it really makes sense to even try,
+as opposed to follow different pathways of
+colonization or resource extraction.
+With that in mind we’ll mostly bypass the
+notion of moving it or spinning it up in favor
+of more near-term easier pathways.
+Now there’s quite a few ways to cool Venus
+down and not all of them require decreasing
+how much sunlight Venus gets and retains,
+and these are of interest to us more locally
+in regard to Earth.
+As noted, Venus’s atmosphere is mostly carbon
+dioxide, 96.5%, with 3.5% being nitrogen and
+everything else being in the parts per million
+with sulfur dioxide coming in a very distant
+third 150 parts per million, barely over a
+percent of a percent, 6000 times less than
+its carbon dioxide content.
+Earth on the other hand only has about 400
+parts per million carbon dioxide.
+It’s not just a percentage though, because
+Venus’s atmosphere is around a hundred times
+thicker than Earth’s, so that it’s got
+hundreds of thousands of times more carbon
+dioxide helping retain heat than Earth does.
+If we could get rid of almost all of that,
+Venus would get to be rather livable, though
+civilization might cling to the poles rather
+than the equator, opposite of what we’d
+expect on cooler Mars.
+Now there’s a lot of ways to remove that,
+atmospheres are relatively light to move compared
+to trying to shove the planet further from
+the Sun or increase its spin rate.
+You could go faster and dirty by using atomics,
+the Mass of Venus Atmosphere is 4.8 x 10^20
+kilograms.
+For context, while that’s only a small fraction
+of Venus’s total mass, just 1% of 1%, a
+ten-thousandth, that’s about half the mass
+of the dwarf Planet Ceres or a sixth of the
+entire Asteroid Belt.
+So it’s hardly trivial, but it’s also
+already quite hot, and to remove it ultra-fast
+we need only get it hot enough to move at
+the escape velocity of Venus, 10.4 kilometers
+per second.
+This involves adding around 20 billion, billion,
+billion joules of energy, or the equivalent
+of 5 trillion megaton warheads, which incidentally
+is nearly a hundred times what it would take
+to blow Earth’s atmosphere off.
+Sounds absurd, but as with all things it’s
+rather relative, you’d pay about the same
+energy to truck it off to other planets or
+habitats for use and a lot more to move Venus,
+you also need to spend about ten times that
+much to get Venus spinning up to a 24 hour
+day.
+No need to memorize those numbers but we’ve
+trotted them out because as is so often the
+case on this show, when we discuss things
+that can seem ridiculously immense, it’s
+all relative.
+If you’re willing to remove that atmosphere,
+quick or slow, you are getting into the range
+where giving the planet a serious shove is
+on the table, and if we’re talking about
+superheating gases, well that’s what we
+make rockets out of.
+Strategic application of energy to Venus Atmosphere
+could be used to simultaneously remove it
+and nudge it a little bit further from the
+Sun or give it a decent spin.
+Nor do you need use nukes, you could use a
+big mirror or lens to focus sunlight on Venus,
+or the Stellaser concept we’ve often discussed
+on the show and which we’ll come back to.
+As huge as that energy requirement is for
+atmosphere stripping, it is only about a minute
+of the Sun’s power production, so even if
+you’re only building enough mirrors and
+lenses to concentrate a tiny fraction of that
+solar output, it can get the job done rather
+quickly.
+Just a couple of problems, though.
+First, this is obviously heating Venus up,
+which is not our goal, even if it’s only
+temporary, and second it’s taken that nitrogen
+away along with the carbon dioxide, and we’d
+rather keep that.
+It’s also a lighter element than carbon
+dioxide, so it will fly off even faster on
+us.
+There’s also the matter of ‘where to’,
+and if we blow trillions and trillions of
+tons of carbon dioxide off Venus it’s going
+to meander away from Venus until it leaves
+the solar system or gets captured by something
+else.
+The next nearest ‘something else’ is Earth,
+and I don’t know that we want to be getting
+extra CO2.
+We wouldn’t capture that much of it, proportionally,
+but as mentioned Venus has hundreds of thousands
+of times more of it than we do, and we already
+have plenty.
+You can avoid Earth wandering into a cloud
+of liberated CO2, via timing and directing
+outgassing from Venus, and if you can do this
+then CO2 at home isn’t much of a concern
+anymore anyway, but at the same time don’t
+think of this as super high-tech.
+As we mentioned in Colonizing the Sun, where
+we first discussed the Stellaser idea and
+in more detail, a Stellaser really is just
+a pair of big thin mirrors orbiting high above
+the Sun using the Sun’s atmosphere as a
+lasing medium, and this is handy because it
+means you’re not mega-engineering any super
+huge mirrors and lenses or shades.
+Obviously our alternative approach is to simply
+shade Venus, and none of these options are
+high tech, just require a lot of building.
+What’s nice about a stellaser approach is
+that it’s more compact than just big lenses
+at Venus’s Lagrange Point or in orbit, so
+less building, and the laser is at a discrete
+frequency, not just raw sunlight, so it opens
+options like zapping Venus with light that
+Carbon Dioxide absorbs better than nitrogen
+does.
+Indeed you can break that carbon dioxide up
+into carbon and oxygen by hitting it with
+ultraviolet but that’s less useful than
+it might sound like because carbon dioxide
+is a low energy state so random carbon and
+oxygen floating near each other after being
+disassociated by UV light, would generally
+just recombine.
+Ideally we’d like to keep all that carbon
+dioxide on Venus, just as carbon and oxygen,
+so while using it as a rocket propellant is
+an option, it’s maybe not the best one.
+However, as we’ll see in a moment, our timetable
+for cooling Venus down by just blocking the
+light off is a couple of centuries, so options
+on the more energetic side might be preferred
+simply because they save time.
+Building several million square kilometers
+of millimeter thick shade or lens might sound
+like quite the endeavor but honestly it’s
+well inside our modern industrial capacity
+groundside here on Earth, so a space based
+one that was also more automated than modern
+manufacturing might crank that out fairly
+easily.
+Those shades might run a few tons per square
+kilometer and you might need a few billion
+tons of them, but that is around our current
+annual metal production.
+You just need to have the capacity up in space,
+but power and raw materials for it are superabundant
+there, so it’s basically how good your robots
+and automation are.
+Be it shades, mirrors, whichever, that’s
+why we tend to be pretty casual on the show
+about suggesting you can shade planets or
+warm them with mirrors, there’s nothing
+high-tech about them and they aren’t colossal
+endeavors.
+If I had to guess, I’d say the level of
+automation we need to setup some moon or asteroid
+factory that just sucked in rock and spat
+out millions of tons foil a year with minimal
+human on-site oversight already exists, we’re
+just not setup and practiced with that kind
+of remote manufacturing yet, and you’d have
+a lot of kinks to work out.
+I generally tend to figure this will end up
+as the preferred final solution for our own
+carbon dioxide concerns so we may get a lot
+of practice and core infrastructure developed
+before we decide on tackling Venus’s carbon
+dioxide.
+Also keeping to context, throwing up a foil
+that’s not even millimeter thick around
+a planet is a lot easier than doming over
+a whole planet like we often contemplate for
+terraforming Mars, or rather para-terraforming
+it.
+This method of shading Venus and letting it
+cool down was discussed in Paul Birch’s
+1991 paper Terraforming Venus Quickly, and
+the ‘quickly’ part is rather relative.
+Shade Venus so no sunlight gets through and
+he estimates a cooling time of 90-200 years.
+He discusses some ways to speed that up but
+I’ll add the notion that blowing its atmosphere
+off by laser-ing sections might be the most
+expeditious approach and sometimes time is
+worth a lot more than effort, and even more
+so if most of that effort is being done by
+stupid little robots that are being spat out
+by giant and mostly automated factories.
+The other issue that makes blowing the atmosphere
+off sound sane is what happens as you cool
+carbon dioxide down.
+Now as you know, normally here on Earth CO2
+is a gas or a solid, dry ice, there’s no
+liquid phase, but that’s only true at low
+pressures, like on Earth, and indeed at low
+enough pressure substances generally do not
+have liquid phases at all, in a vacuum you
+basically only have solid or gas.
+CO2 is a substance that needs pretty high
+pressures to have a liquid phase but Venus
+happens to have that.
+As the planet begins cooling, cut off from
+light, it will begin to rain carbon dioxide,
+as opposed to just sulfuric acid which is
+what the rain on Venus is these days.
+This won’t be instant, indeed it won’t
+happen until you cool to 304 Kelvin, 31 degrees
+Celsius or 88 Fahrenheit, versus its current
+temperature of 463 Celsius or 86 Fahrenheit.
+So this happens about halfway through or so
+in, when you’re almost cooled down to comfortable
+temperatures.
+At this point you will now have an ocean of
+CO2 accumulate on a place that’s rather
+warm but livable already, temperature-wise.
+But the pressure is still quite high, and
+that’s problematic.
+As it rains that atmospheric pressure will
+begin to drop and we need to keep cooling
+the planet more, because carbon dioxide’s
+liquid phase is based on pressure and temperature,
+the lower the pressure, the lower the temperature
+needs to be to keep it a liquid not a gas,
+and that craters out at 194 Kelvin, or -78
+Celsius or -109 Fahrenheit, and 5.2 atmospheres
+of pressure.
+Even ignoring that pressure being too high
+for us to be comfortable in, you can only
+get to that pressure by dropping to that temperature,
+and if you don’t, if you just cooled to
+normal room temperature, you’d have most
+of that CO2 still in the atmosphere and some
+in the new oceans of CO2 and a constant rain,
+at a pressure you could probably survive in
+with reasonably advanced Spacesuits, or Venus
+suits.
+To clear the CO2 out, we have to keep going
+even colder.
+We need it down to that 194 Kelvin, very nearly
+the record low temperature recorded in Antarctica,
+so that it will stop raining CO2 and begin
+to snow dry ice instead.
+It’s now officially Winter on Venus.
+At that temperature Dry Ice can exist at for
+normal Earth pressure so the CO2 will just
+keep falling.
+If you’re wondering, all that nitrogen will
+still be there as it doesn’t liquefy till
+even cooler, 77 Kelvin at normal Earth Pressure,
+and while you can Liquify Nitrogen at higher
+temperatures under higher pressures, they’re
+lower than carbon dioxide’s, so you’ll
+have lost all that pressure the CO2 provided
+before you got down to the needed temperature.
+Such an approach could be done on a planet
+that had far more nitrogen than CO2, but Venus
+isn’t such a case.
+Anyway, all that CO2 falls down and your oceans
+crusting over into dry ice glaciers, but you
+still have that nitrogen, and it’s enough
+that down on the frigid surface the pressure
+is still too high for comfort anyway, we’ve
+got around twice the gas and pressure than
+we want, and still none of it oxygen.
+Now, oxygen itself is easy to get, most rocks
+have plenty of it so it’s never a terraforming
+issue anywhere but all that CO2 is mostly
+oxygen by mass, so we’ll save energy converting
+it, that produces heat though and a lot of
+it when trying to make an atmosphere’s worth.
+We can also start fixing that nitrogen into
+plants but at the moment there is no sun and
+they don’t care for those temperatures,
+so for now we just have to decide if want
+to keep chilling till even the nitrogen rains
+down or just deal with a thick nitrogen atmosphere
+for a while, and that is probably the better
+option, particularly as it will take longer
+and longer to cool Venus each extra degree.
+Hot things radiate energy faster.
+Of course the moment we start warming the
+place back up to start terraforming, all that
+Dry Ice is going to blow off right back into
+the atmosphere, so we need to deal with that.
+We’ve got carbon sequestration, turning
+the carbon into other stuff like calcium carbonate
+– or limestone – or we can just pave over
+the stuff and rely on the sheer weight of
+rock to keep it at pressure.
+This is an iffy proposition though since you’d
+need to pile dozen of meters of rock over
+it to keep it as a liquid at room temperature
+and more like a kilometer to keep it as a
+solid at that temperature.
+It’s entirely probable we’ll have gotten
+quite good at carbon sequestration by then,
+and although we don’t know the chemical
+composition of Venus’s surface very well
+at this time, it’s likely to have plenty
+of things like Calcium or Magnesium to bond
+that carbon to, as well.
+Of course carbon need not bond with anything,
+but by default carbon dioxide dissociated
+into carbon and oxygen will form coal and
+oxygen, needless to say that’s not a combination
+you want together at high temperatures or
+it will just burn up.
+At low temperatures we can start separating
+it into those two but we’d need to sequester
+most of the oxygen into rock as well, we’ve
+more than a hundred times more oxygen in all
+that atmospheric CO2 than we’ll want in
+our terraformed atmosphere.
+All of this is doable but takes time, even
+if you’ve got a big energy budget, because
+you can only use so much power at once since
+it will end as heat, the thing we don’t
+want to add.
+So you really have to take your time doing
+this.
+This is further complicated because all that
+air, or new ocean or glacier, has a lot of
+mass, and as it drains out of the sky and
+pools up in lowlands you will begin getting
+earthquakes, great big earthquakes, or venusquakes
+I suppose, and probably volcanic eruptions,
+neither of which is helping you store sequestered
+CO2.
+You can probably start seeing why the notion
+of just ripping the atmosphere off has some
+appeal, we don’t want virtually any of that
+carbon dioxide and we’ve got a lot more
+nitrogen than we need, and dealing with them
+this way is rather time consuming.
+I should also note that we’ve got very little
+water right now, we are desperately short
+of hydrogen.
+However if we’ve got the industrial capacity
+and technology for it, we can take some more
+proactive steps to speed this all up and do
+it better.
+Before getting to that though we do have another
+brute force approach for getting that water,
+or hydrogen.
+We could of course truck it in from places
+like Jupiter or send massive bombardments
+of comets in, but I mentioned just shooting
+the place with a stellaser earlier and that’s
+not the only kind of beam we can blast a place
+with.
+The Sun has tons of hydrogen, most of our
+supply of it, and it’s not that hard to
+get the ionized stuff magnetically shot at
+Venus, which is a big target.
+We’ve talked about starlifting before, mostly
+for mining other elements off the Sun, but
+it is mostly hydrogen you get when doing that
+and you either dump it back down on the Sun
+or take it off somewhere, and there’s a
+lot to be said about just blasting Venus with
+it.
+I will just go ahead and name a giant hydrogen
+particle beam from a star a ‘hydrocannon’,
+because it’s seems appropriate.
+That heats stuff up too, but three main elements
+in Venus atmosphere are carbon, nitrogen,
+and oxygen, and carbon is the lightest and
+the one that we can blow away easiest.
+So if you knew what you were doing you might
+be able to get away with basically Death-Starring
+Venus with a giant laser and hydrogen particle
+beam until you got a nice mix of water, oxygen,
+and nitrogen.
+I don’t think that is a very wise approach
+but it’s certainly an amusing one and might
+turn out to be the fastest method.
+Ultimately it all depends on your technology
+and what your controlling factor is, time,
+energy, manpower, money, etc.
+To speed cooling we have the option of using
+great big convective towers on the planet,
+or hanging them down off orbital rings, and
+you might hang a bunch of orbital rings and
+radiators above the planet and do some chemistry
+up there, extracting CO2 and nitrogen either
+for export or to sequester it into something
+that would be a solid at higher temperatures.
+Early on you could actually float such factories
+and convection towers, as that atmosphere
+is very thick, rather than using active support
+tech like orbital rings and space towers,
+but it only takes around half a century to
+cool Venus enough you could walk around and
+just feel warm and would take even less time
+if you’re using such a setup, so at most
+you’d erect the basic structures as buoyant
+objects initially and begin adding in your
+active support as the atmosphere and buoyancy
+went away.
+Going this way you can cool the planet faster
+but more importantly you don’t have to cool
+it below room temperature.
+You might be slowed a little because running
+all that forced sequestration and cooling
+towers does take energy and produce heat,
+but it’s a lot like running a fan and dehumidifier
+to cool a room, both add more heat but in
+the process of removing that heat.
+So you’ve got giant cooling towers and active
+support and big sequestration facilities processing
+out that atmosphere, which begin running as
+soon as the planet is cool enough that you
+can drop the sequestered materials back down
+without worry they’ll just unsequester themselves
+right back into CO2 and nitrogen.
+You might have big centrifuges being powered
+by beamed in energy and hydrogen from the
+sun that took dissociated carbon dioxide and
+turned into coal or graphite and water.
+Or you might truck your hydrogen in from Jupiter.
+Ultimately, and probably in around a century,
+you’ve got a planet cooled down to Earth
+temperatures with the right amount of Nitrogen,
+CO2, and water, and you can start letting
+some light back through your shade.
+You don’t need a magnetosphere to protect
+that atmosphere though because that shade
+is still keeping you shielded from the Sun.
+Put you’re probably not just opening the
+shade but rather altering into a dish that’s
+going to bounce light at another orbiting
+mirror that rotates around Venus every 24
+hours, just a bit lower than geocentric orbits
+on Earth would be as Venus has slightly weaker
+gravity.
+That second mirror, our geocentric Sun essentially,
+would want to be about a tenth as wide as
+our Moon, or about 200 miles wide or 300 kilometers,
+not too big, though in this case not very
+thin at all, you want it to be fairly massive
+so all that light concentrated doesn’t shove
+it away like a solar sail.
+Presto, you now have a perfect candidate world
+for terraforming and in this case all you’ve
+got to do is drop in the bacteria and slowly
+introduce more complex life and colonists
+as the world finishes settling into its new
+setup, it’s likely to be fairly tectonically
+active for a while now that it has oceans
+over some spots and thin atmosphere only over
+others, shifting around weight.
+The gravity is a little lower, and the weather
+will be a bit different because the sunlight
+isn’t coming in totally uniform but from
+a more point like source near at hand, whereas
+the Sun is so far away we can treat it’s
+light as coming in parallel.
+If you stick a light bulb near a wall, you
+get a bright spot on it, unless the bulb is
+very bright and far away compared to the size
+of that wall, or planet, so that every part
+of the wall is nearly the same distance from
+the light bulb, which is the case for the
+Sun as light bulb, see the Mega Earths or
+Making Suns episode for further discussion
+of how to do geocentric lighting correctly.
+Back to tilt, Venus has very little axial
+tilt anyway so you’re likely to cyclically
+adjust that mirror-sun a fair amount to fake
+seasons anyway.
+I should note that while I just said Venus
+has very little axial tilt it’s actually
+got the most, being effectively flipped over
+180 degrees, 177.3, but from most practical
+standpoints the upside down world has a very
+small axial tilt of 2.7 degrees compared to
+Earth’s 23.5.
+You do want those seasons, as while you could
+doubtless genetically engineer Earth-life
+to different or no seasons, way too many plants
+and animals have the seasons wired into their
+life cycles so it’s probably a good idea
+to aim for a close approximation of Earth’s
+own, and though Venus’s year is shorter
+than ours, if you’re faking your lighting
+this way anyway, you can put a 365 day year
+into play instead if you want.
+As always with terraforming, you have to decide
+what’s good enough and which approach for
+getting good enough makes the most sense or
+least effort.
+Dragging Venus further from the Sun, spinning
+it up and flipping it over seems like overkill
+compared to a thin sunward shade and thick
+mirror-sun.
+Regardless, more technology in terms of biology
+or sequestration or automation can all let
+us do this much faster, but while it takes
+a little more time to start terraforming Venus
+compared to Mars, since you’ve got to let
+it cool down a bit before you can mess with
+the surface, I suspect you’d be able to
+get the job done faster and certainly more
+complete than Mars.
+Ultimately all you need is that solar shade
+and mirror system and a source of hydrogen,
+which if necessary can be slowly collected
+from the Sun’s own Solar Wind, though that
+would be quite slow.
+This gives you a nice terraformed planet,
+fairly quickly and also fairly low tech, we
+could keep going of course, slowly spin the
+planet up and just remove the Sun Mirror and
+much of the shade later on.
+We could drag in Mercury and make it a moon,
+though it would be more like a double planet
+at this point, something we’ll look at more
+down the road, and of course we could just
+dissect Mercury, reform part of it into a
+moon, dump the rest on Venus to add some mass
+to bring it a bit closer to Earth Normal size
+and gravity, and shove the whole thing into
+a counter-Earth orbit on the opposite side
+of the Sun, but I’d consider that overkill.
+As we mentioned in Springtime on Mars, you
+can never really replicate a planet perfectly
+nor would you really want to, and so it’s
+just a matter of deciding what’s good enough,
+and the options discussed today in terms of
+shading are potentially within our capacity
+in this century, especially considering the
+necessary first step is that simple shading
+and everything else can be added later as
+it cools.
+We’d just need a robust space industry,
+preferably heavy on automation, and I really
+don’t think it’s a big stretch that we
+might have that in the 21st Century.
+So it’s entirely possibly you could see
+dry ice snow on Venus in the 22nd century.
+Our hot twin might see its first winter in
+a mere century or two from today, even without
+any particularly huge advances in technology.
+Winter on Venus, though, until you truck the
+hydrogen in for normal water and purge or
+sequester all that CO2, is not one you’d
+want to introduce reindeer to.
+As is often the case on this show, we brought
+up a lot of concepts that seem so immense
+and challenging that they can seem almost
+equally difficult, a planet size solar shade
+can seem harder to build than blowing off
+an entire atmosphere, rather than vastly easier,
+just by the sheer scale of everything involved.
+To understand how these things can be accomplished
+under known science and encapsulate the scales
+involved, or to think up new ideas yourself,
+it helps to have a solid grasp of math and
+science, and that’s where our friends at
+Brilliant can help.
+Brilliant is a problem solving website and
+app with a hands-on approach, with over 50
+interactive courses for the ambitious and
+curious, who want to better understand the
+Universe around us and how it works, and have
+fun while they’re doing it.
+With courses focused on puzzles and entertaining
+examples, and with their daily challenges,
+you can improve your knowledge from the comfort
+of your own home or while on the go, and at
+your own pace.
+Effective learning is about problem solving,
+and Brilliant will help you learn and get
+practice -- you’ll come away better at problem
+solving.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+Venus is a pretty hostile place, and the folks
+working to terraform it one day might be exposed
+to great risk, and much of humanity’s hopefully
+bright future includes some risks and some
+dangerous new challenges.
+Next week we’ll take a look at some of those
+future dangers and some of the new technologies
+and methods we might have available to help
+avoid them or get people out off danger, in
+High-Tech Search and Rescue.
+Of course one of the ways we might avoid such
+dangers, for those people or for those rescuing
+them, would be through remote piloting, and
+in two weeks we’ll look at that and some
+other options that may become available to
+us if we develop a way to interface the mind
+with the machine.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to support future episodes,
+visit our website, IsaacArthur.net, to donate
+to the channel or check out some of the awesome
+SFIA merchandise there.
+Until next time, thanks for watching, and
+have a Great Week!

@@ -1,0 +1,860 @@
+﻿This episode is brought to you by World Anvil!
+ 
+Ancient Alchemists dreamed of turning lead into  
+gold, potentially creating tons of it, massive 
+riches. But here on SFIA we would say that’s lack  
+ambition. Why settle for tons of gold when 
+you can make whole planets out of it?
+ 
+So today’s topic, Nuclear Transmutation, is 
+continuing our informal trilogy on useful  
+things you can do with nuclear explosions, that we 
+began back in January with our look at the Orion  
+Project – a spaceship, propelled by nuclear 
+bombs – and then with Nuclear Terraforming,  
+seeing how bombs could be used to make places 
+like Mars or Venus, habitable to humanity. 
+ 
+It’s weird to think of Nuclear weapons as 
+useful tools, but just as anything might be  
+used as a weapon, any weapon tends to be useful 
+in some other fashion too. As it says in Isiah,  
+“they shall beat their swords into plowshares, 
+and their spears into pruning hooks” and while the  
+usual post-Cold War notion is to dismantle nukes 
+to use the fissile material for power generation,  
+or maybe to keep some back for emergency 
+use against an asteroid or alien mothership,  
+the notion here is more that you might start 
+mass-producing them for peaceful ends instead.
+ 
+If you’re new to the show, welcome to SFIA; Where 
+nuclear bombs get the overdue praise they deserve  
+and we regularly talk about devices that 
+make them look like mere firecrackers,  
+and don’t forget your drink and 
+snack, we’ll be here for a bit.
+ 
+Now while we will be talking about how a 
+nuclear bomb might make cool new elements,  
+our main focus today is really more on the entire 
+concept of nuclear transmutation, how it happens  
+in nature and how we can do it artificially and 
+potentially make materials rarely found in nature.  
+Or for that matter, simply not found in nature 
+at all, such as the Transuranic Elements,  
+those elements heavier than uranium but so 
+short lived, they aren’t found naturally;  
+many measuring their lives in tiny fractions of 
+a second. Indeed virtually all elemental isotopes  
+would consider a second long lifespan 
+generous compared to what they got. 
+ 
+We will also be contemplating the topic of the 
+Island of Stability, the hypothetical region of  
+superheavy elements that are not short-lived, 
+as well as some exotic materials like stuff  
+made out strange quarks, and we will throw in some 
+discussion of using black holes and neutron stars  
+to forge materials, as well as building things out 
+of them, proton decay, iron stars, and why iron is  
+so critical in discussion of nuclear alchemy.
+And that last, might be a good place to begin,  
+because iron is essentially part of the problem. 
+To the best of our knowledge the Universe began  
+as a small hot soup that cooled into a lot of 
+dark matter, of which we still understand little,  
+and a little bit of stuff made of up and down 
+quarks and electrons. This little bit of stuff  
+is what we call regular matter and most of it 
+is protons, by mass. A distant second by mass  
+is neutrons, and far behind in mass but roughly 
+equal to protons in number are electrons. Protons,  
+like neutrons, are made of up and down quarks, 
+which are only 2 of the 6 known quark types,  
+and the proton’s anti-particle is strangely rare, 
+as is the positron; the electron’s antiparticle.  
+The two bigger cousins of the electron, 
+the muon and Tau particle, are also  
+pretty rare and their anti-particles too. 
+So most of the original universe was dark matter,  
+and we are pretty sure dark matter is not made 
+of those other types of quarks incidentally,  
+though it has been considered and can’t yet be 
+ruled out either. While most of the universe was  
+dark matter, a decent bit of it was protons, and 
+much of those paired up with electrons to form  
+basic hydrogen, with a decent bit more pairing 
+with one neutron and electron to form deuterium  
+or two protons, two neutrons, and two 
+electrons to form helium. And a lot is  
+ionized and floating around, occasionally getting 
+an electron partner and losing it again. This,  
+plus dark matter made up very nearly 
+everything in the universe when it began,  
+and this is mostly still the case but the 
+misconception is that a lot of stars formed,  
+burned out, went supernova, and gave 
+us everything heavier than helium.
+ 
+This is not really true though. First, most 
+of the stars that have ever formed since the  
+Universe began are still alive and kicking. Only 
+bigger ones have died thus far, and even then  
+most of the dead stars weren’t big enough to go 
+supernova, they’re just larger than our own Sun,  
+which is bigger than 95% of other stars itself. 
+The bigger the star the shorter the lifespan.  
+Of those stars that died and didn’t go supernova, 
+most just turned into red giants then blew a lot  
+of their outer layers off, which included 
+some elements besides hydrogen and helium,  
+then contracted into white dwarfs. Sometimes 
+these semi-dead stars absorb a fresh intake of  
+new hydrogen, often acquired from a binary 
+neighbor, and turn into a Nova, which also  
+releases some interesting new elements.
+Very occasionally this kind of explosion will  
+be very big, a Type 1a Supernova, and unlike Type 
+II – the giant exploding stars – these Supernovae  
+produce a very tight range of energy when they 
+happen and thus make really good distance markers  
+for other galaxies, by comparing how bright we 
+perceive it to be, to how bright it would be  
+expected to be at its origin and calculating the 
+distance, like if you knew a candle flame seen at  
+a distance was a certain brightness, and thus you 
+could tell how far away it was. Hence why we call  
+Type 1a Supernova Standard Candles for measuring 
+distances to ancient galaxies far, far away.
+ 
+A big chunk of the iron in our Universe comes from 
+these old white dwarfs reigniting and exploding,  
+as do many other materials. Additionally, after 
+a supernova you get a neutron star left behind,  
+usually, a very hot and fast spinning one we call 
+a pulsar. Very rarely you will get a black hole  
+formed from this, and in both cases these Type 
+II supernovae produce a ton of stuff heavier than  
+helium; but often these big stars are binaries too 
+and either they eat their neighbor and explode,  
+or their neighbor dies and becomes a 
+remnant white dwarf or neutron star too.  
+They can also collide, and those explosions also 
+produce a lot of the elements we have and indeed  
+most of what we have that’s heavier than iron.
+Iron, Iron, Iron… what’s the big deal here?  
+Well the simple answer is that fusion in stars is 
+always about trying to cram ever-more protons and  
+neutrons into a single nucleus, as those require 
+less energy – or glue – to hold them together  
+per particle, and the more it takes to tear it 
+apart. Protons and neutrons are collectively  
+called nucleons and initially the more of them you 
+pack into a nuclei the more stable it is with less  
+energy binding it together. Energy which can be 
+released outside the nuclei as heat, what drives  
+stars to be hot and radiant and what we hope will 
+one day power fusion reactors here on Earth.
+ 
+However, once you get to about 50 to 70 nucleons, 
+stability peaks out and generally starts to drop  
+as you add more. Now there are many combinations 
+of protons and neutrons in this range,  
+some of which are not even vaguely stable, like 
+Iron-50, which like all iron atoms, has 26 protons  
+but only 24 neutrons in this case, for a total 
+of 50, and it only lasts an eyeblink, literally,  
+it has a half-life of just 150 milliseconds. 
+This is still longer than most possible isotopes,  
+which are so hard to make and short lived once 
+made that we don’t have them all catalogued. 
+ 
+An important term when discussing this subject 
+is “isotope”. It simply means a specific number  
+of protons and neutrons for a given element. 
+For example, I just mentioned iron-50. Fifty  
+is the number of nucleons, and the “iron” part 
+tells you that 26 of those nucleons are protons,  
+as it’s the 26th element on the periodic 
+table, and the remaining 24 nucleons are  
+the number of neutrons in that isotope. 
+Now that 150-millisecond half-life I mentioned  
+is actually fairly long-lived compared 
+to many isotopes we’ll discuss today,  
+and as mentioned is longer than many of the 
+possible combinations of protons and neutrons  
+that would add up to 50-70, but the most stable 
+one with 26 protons is Iron-56, which is about  
+92% of all iron we find in our ore samples.
+Nickel-62, which is actually rather rare,  
+has the highest binding energy 
+per nucleon of any known nuclide,  
+just a little higher than Iron-56, but just 
+doesn’t form as much in these stellar engines.
+ 
+As a result, Iron-56 and other elements 
+with very high binding energies per nucleon  
+are basically an end state for fusion, they 
+poison the process because any further fusion  
+would require more energy in than out, and that’s 
+what causes that explosion, or rather implosion.  
+No fusion occurring anymore in a stellar core 
+results in a rapid collapse of that core,  
+followed by a detonation.
+Now during that explosion we have  
+astronomical amounts of energy released, and some 
+of it gets absorbed by elements in that explosion.  
+It doesn’t matter if these absorptions are 
+net positive energy states. Think of a wave  
+hitting a sea wall. In the impact, some water 
+will be given enough energy to send it much  
+higher than the crest of the wave even when 
+most of the water remains below crest height.  
+Folks on the other side of the wall get splashed. 
+And this is how the heavier elements are created,  
+ones that don’t provide an energy advantage 
+when fusing. As a result they are generally  
+created far less frequently in the Universe 
+than those on the smaller side of iron.
+ 
+The thing is, the heavier those atoms are, the 
+more nucleons per atom. Once we get past this  
+stable-plateau of Iron-56 and a few cousins, the 
+more unstable those atoms tend to be, such that  
+nothing heavier than Uranium-238 sticks around 
+for very long in stellar and galactic terms,  
+and there are precious few combinations of protons 
+and neutrons between Iron and Uranium that stay  
+stable for long either, usually only a few for 
+each element, or specific number of protons,  
+even though there’s dozens of possible numbers 
+of neutrons any given number of protons might be  
+shoved together with. This is called the Valley of 
+Stability and it’s a slightly upward curving river  
+on a map of protons versus neutrons in an atom. 
+That river is an increasingly wide and bumpy one  
+though, full of lots of boulders of instability. 
+Generally, the more nucleons you try to cram  
+together, the more of them need to be 
+neutrons too. For instance, most of the  
+oxygen we breathe is 8 protons and 8 neutrons, 
+but oxygen with 9 or 10 neutrons is stable too,  
+if rare; Oxygen-17 and Oxygen-18. Similarly most 
+of the carbon in us is 6 protons and 6 neutrons,  
+Carbon-12, but Carbon-14, 6 protons and 8 
+neutrons, is not stable but lasts thousands  
+of years, making it great for dating objects by 
+measuring the decay of Carbon-14 in them, as its  
+created by events in our atmosphere. Stars are 
+not the only places where atomic alchemy occurs.
+ 
+Down in this range you can have semi-stable 
+isotopes with fewer neutrons than protons too,  
+Carbon-11 has a half-life of 20 
+minutes, Nitrogen-13 is 10 minutes,  
+Oxygen-15 is about 2 minutes, and 
+Helium-3, two protons and one neutron,  
+is stable; as is a single-proton hydrogen. 
+Calcium-40 is the last known stable isotope  
+with an equal number of protons and neutrons, 
+at 20 protons and neutrons, and it has  
+26 known isotopes, ranging from Calcium-35 with 
+a half-life of 26 milliseconds to Calcium-60,  
+and 5 of those, Calcium-40, 42, 43, 44, and 46 are 
+thought to be stable, with Calcium-41, 45, and 47  
+having half-lives of days or years, and everything 
+else in minutes or fractions of seconds.
+ 
+After Calcium, nothing is stable without more 
+neutrons than protons, and by the time you get  
+up to Uranium-238; the most stable Uranium atom, 
+and the last we think of as naturally occurring,  
+we have 90 protons and 148 neutrons, 64% more 
+neutrons than protons. Though Plutonium-244, with  
+94 protons and fully 150 neutrons, probably should 
+count as natural, as it does have a half-life of  
+81 million years and it can be found in nature on 
+Earth, albeit in trace amounts. We traditionally  
+refer to every element bigger than Uranium as 
+Transuranic and consider that synonymous with  
+artificial elements usually only found in a lab 
+but some argue we should be saying Transplutonian,  
+and I recall someone saying that Pluto, lord 
+of the underworld, was doubly snubbed for this  
+and having his namesake-planet demoted. In any 
+event there’s 80 elements with some known stable  
+nuclide, a few with more than one for a total 
+of 252 nuclides that are not known to decay. 
+ 
+Tin, incidentally, has the most: 10 stable 
+nuclides, and 26 of those 80 only have 1 stable  
+nuclide, being called monoisotopic. Technetium, 
+43 protons, and promethium, 61 protons,  
+are the only stable elements until you get up 
+to lead, 82 protons, with no stable isotopes,  
+and Lead-208 is the last known stable isotope. 
+There are also just under a thousand known  
+isotopes that are at least meta-stable; defined 
+as a half-life of more than an hour, and some like  
+Uranium-238 last billions of years. Emphasis on 
+known because there’s many combinations that might  
+exist and just don’t get made much in nature. 
+We tend to assume, with some justification,  
+that stuff which is most stable not only 
+persists longest but tends to be synthesized  
+easiest, but that may only be a loose trend and 
+again Nickel-62 is more stable than Iron-56,  
+and everything else, but way less common. 
+Incidentally you will hear the terms nuclide  
+and an isotope used pretty interchangeably, but 
+isotope is always talking about the same element,  
+same number of protons but varying neutrons, 
+Uranium-238 and Uranium-235 for instance,  
+whereas while those are nuclides too, 
+Neptunium-238 or Protactinium-235  
+would be other nuclides. More unstable versions of 
+either are called radionuclides or radioisotopes  
+as they emit radiation when decaying and 
+are pretty critical to nuclear energy.
+ 
+This is also where the notion of the Island of 
+Stability comes in because while we have made  
+atoms in a lab all the way up to 118 protons – an 
+atomic number of 118, there’s some reason to think  
+that Valley of Stability that ends at the big 
+Lead dam might see itself remerge down the line.  
+Incidentally that Atomic number element 118 
+– called Oganesson after the physicist who  
+helped discover it, with 294 nucleons in it, was 
+first synthesized in 2002 and only five or six  
+atoms of it have ever been made, and it has a 
+half-life of about a millisecond. It itself has  
+no particularly interesting properties of those 
+we have been able to observe or estimate thus  
+far, it's not super strong or thought to be a 
+superconductor or ultra-awesome spaceship fuel. 
+ 
+The Island of Stability is a notion that’s been 
+kicked around for about a century now; practically  
+since we figured out what protons and neutrons 
+were, and that atoms had nuclei, and we didn’t  
+have anything but uranium and before we even 
+successfully synthesized the first transuranic  
+elements in the 1940s. So the concept has 
+undergone a lot of variations and speculations,  
+scientific and science fiction, from fairly hard 
+scifi to comic book soft to the point of being  
+as handwavey as magic, what we usually call 
+Clarketech, if we discuss it seriously at all;  
+technologies so advanced they’re indistinguishable 
+from magic. It probably doesn’t help that most of  
+it revolves around what are called Magic Numbers, 
+the number of nucleons needed to completely fill  
+a given shell as you make a nucleus bigger. Those 
+are 2, 8, 20, 28, 50, 82, and 126, with 184 being  
+the next predicted one, at the time, but 126 was 
+later re-predicted as maybe being 114 instead, in  
+the 1960s, by the same two physicists who appear 
+to have coined the term “Island of Stability”. 
+ 
+Anyway, for protons, those magic numbers 
+would correspond to helium at 2, oxygen at 8,  
+calcium at 20, nickel at 28, tin at 50, and lead 
+at 82. I’ve mentioned all those thus far today  
+as being significant, helium and oxygen for 
+instance, are the two most abundant elements after  
+hydrogen itself, calcium, the last stable one, 
+with equal protons and neutrons, Nickel-62 has the  
+highest binding energy per nucleon of any known 
+nuclide, tin has the most stable isotopes at 10,  
+and lead is the last known stable element. So the 
+assumption was that anything that has that next  
+magic number in protons, be it 126 or 114, might 
+be stable, or less unstable than their neighbors,  
+and the same for one with 184 protons.  
+Now we also have the notion of doubly magic atoms,  
+which are those who have what is termed a magic 
+number of protons and also of neutrons, Helium-4,  
+Oxygen-16 and Calcium-40 would both be 
+examples of that, having 2 or 8 or 20 of each,  
+but calcium-48, 20 protons and 28 neutrons, also 
+would count and is indeed stable, or very nearly,  
+with a currently estimated lifetime of nearly 
+a billion times the age of the Universe,  
+which is pretty impressive for such 
+an imbalance of neutrons to protons  
+so low in atomic number, 29 to 20. 
+Lead-208 is also a doubly magic number,  
+82 protons and 126 neutrons and again 
+lead is the heaviest known stable element  
+and Lead-208 its heaviest of 4 stable isotopes, 
+making it the heaviest known stable isotope.  
+That said, a few of the other doubly magic 
+nuclides have half-lives of less than a second  
+and we can make element 114 now, albeit not 126, 
+and haven’t observed any special stability to it.  
+154 is another popular possible magic number 
+that might offer an island of stability  
+and folks sometimes suggest we might have a 
+whole continent of stability above 300 nucleons,  
+and we are up to 294 these days so we might get 
+to see that tested sooner rather than later. 
+ 
+I don’t want to dip any further into 
+why these are thought to be stable,  
+it's not just numerology though, there 
+are various models that hint at it,  
+but there’s no special reason to think they would 
+have awesome properties if we did make them.  
+No reason not to either, odds are good any 
+stable element is going to have some handy uses,  
+though mass-producing them would generally 
+be necessary, trillions of trillions of  
+atoms of them, not one or two. We’ll 
+get to methods for doing that shortly.
+ 
+Now as a reminder, things don’t magically die 
+after their half-life, it’s the time in which  
+a sample of them will have half-decayed into 
+something else, and if you came back after  
+twice that time it would cut in half again, rather 
+than all being gone. Whether by decay or by being  
+hit by something, like a neutron, many 
+nuclei then become some other nuclide,  
+many of which are not stable either, indeed 
+often not as stable as what they decayed from,  
+things upon the higher sides of that 
+valley of stability, waiting to roll down.
+ 
+This is essentially how we get energy from nuclear 
+fission or radioisotope generators, by instigating  
+such a change via fission or waiting for a passive 
+decay. Stuff can happen real quick at this scale  
+though and sometimes these decay products can 
+cause other decays in a chain reaction and that’s  
+a nuclear fission bomb. One of our problems with 
+whacking things with neutrons or alpha particles  
+or so on is that we really can’t do a lot of 
+this, we absolutely can make gold by bombarding  
+the next lowest element with neutrons, it’s just 
+that next lowest atom happens to be platinum  
+and the process of that particular bit of alchemy 
+is way more expensive than either is worth,  
+at the moment anyway. The next biggest atom after 
+gold is Mercury, which is in second place to tin  
+for having the most number of stable isotopes 
+whereas gold only has the one; Gold-197. 
+ 
+Platinum has 5 stable isotopes itself, one being 
+platinum-196, which if you add a neutron to  
+become Platinum-197 which beta decays into 
+Gold-197 after about a day. So not hard to  
+do with a neutron source, and Platinum-196 is 
+about a quarter of natural platinum isotopes,  
+but platinum is generally about as valuable 
+as gold so it’s not seen as really useful,  
+like turning lead into gold would be, especially 
+as neutrons are a pain to generate and aim.
+ 
+A Neutron Bomb – a fusion bomb set off 
+in space basically, wrapped in a wide  
+thin shell of Platinum-196, big enough not to be 
+ripped apart by the fusion device, would produce  
+a lot of gold. And I should point out that 
+Gold doesn’t come principally from supernovae,  
+rather the current theory is that we get it from 
+neutron star collisions, which are hardly super  
+common, and of course, neither is gold. It is 
+possible to make Gold from Lead, or even Bismuth,  
+which is both naturally occurring and a decay 
+product of the Thorium-Uranium Fuel Cycle.  
+Usually though, this is where someone points 
+out that it would just never be profitable  
+because of how much energy it takes.
+This of course is why nuclear bombs  
+are potentially useful because they 
+are fast cheap energy and neutrons.  
+Regardless, the problem with discussing nuclear 
+transmutation, be it by nuke or supercollider,  
+is that it is assuming you are short 
+on energy. Which is fair as our own  
+civilization is definitely energy poor and raw 
+materials rich. In a genuine nuclear economy,  
+especially a fusion one, or a quasi-fusion 
+one like space-based solar power dialed up  
+onto the Kardashev Scale, this completely 
+breaks down. I want a pound of material and  
+I need to pay 1% of its mass energy, E=mc², 
+to transmute it from something more abundant.  
+That seems absurd in modern context because a one 
+kilogram conversion would be running us about a  
+quadrillion joules of energy, a petajoule, about 
+16 Hiroshima A-Bombs worth of energy release,  
+or enough fuel to fill up 160 Boeing 747s. 
+Roughly 20 Million dollars in Jet Fuel
+ 
+However, it is also the amount of energy incident 
+on a square solar panel 150 meters or 500 feet on  
+a side up in space above our atmosphere over 
+the course of just one year. Which mind you,  
+could just be a shiny sheet of aluminum foil 
+that big, bouncing that light into a more compact  
+power converter, and now we’re talking about 
+a few thousand dollars worth of aluminum foil  
+able to convert a kilogram a year of something, 
+and looking at the spot price for gold today,  
+it’s $57,000 a kilogram. And of course the other 
+thing about Aluminum – a material ridiculously  
+abundant on Earth, the Moon, and many other places 
+– is that almost all its cost is electricity or  
+energy for separating it from ore. Making 
+it even cheaper in an energy rich society.
+ 
+So we picture folks going to mine asteroids 
+for Platinum and Gold and other rare elements  
+but they might do that a different way, mine it 
+for abundant aluminum and silicon and such for  
+building giant energy farms and huge colliders and 
+making the stuff from other abundant feedstocks.  
+Phosphorus comes to mind since it's 
+pretty rare, as we looked at in our  
+Fermi Paradox episode on Phosphorus Scarcity and 
+is thought to be made in supernova from Silicon.  
+We don’t need to replicate a supernova, we 
+just need to whack silicon with neutrons. 
+ 
+That’s not our only alchemical option either, we 
+can pound on things with alpha particles – helium  
+atoms without their electrons – which are very 
+easy to make and move electromagnetically,  
+and through gamma or beta bombardments. 
+Potentially all at combinations,  
+patterns, and energies of our choosing, maybe 
+even beams instead of big undirected explosions,  
+like a particle laser. Lasers, particularly X-ray 
+and gamma ray lasers can be useful in such alchemy  
+too - if we can ever make them or feel comfortable 
+employing one-time-use nuclear-bomb-bumped lasers.  
+If you have a lot of energy and not a 
+lot of material, cost gets relative. 
+ 
+We can mine the asteroids, we can outright 
+disassemble moons and planets, we can even drink  
+matter off our own Sun via Starlifting. We can 
+also go fetch it from around or in other stars,  
+and there will be a cost for each of these 
+options based on the various technologies  
+and abundances. In the end though, if you 
+need a gajillion tons of something rare,  
+or which does not even occur in 
+nature, you need to go make it. 
+ 
+And possibly sustain it too. We often discuss 
+using active support as an alternative for  
+superstrong materials, basically where you hold 
+something up electromagnetically or by shoving  
+on it mechanically or with a light-beam, and there 
+may be materials that can only exist under extreme  
+conditions, much as many minerals only can form 
+in the nightmares of heat and pressure found deep  
+underground. Neutron Stars, and the neutronium 
+they are thought to be made of, essentially  
+one big clump of neutrons, is such an example, 
+held together by the immense force of gravity.  
+We may find some materials can be fabricated 
+and forced to remain together by artificial and  
+careful use of the other known physical forces. We 
+may also find out how to make artificial gravity.
+ 
+Nor should we rule out that we might figure out 
+ways to play with the basic physical constants of  
+the Universe. This might let you start doing weird 
+things like making matter out of the other quarks  
+beside up and down, the strange, charm, 
+top, and bottom quarks, or with muons in  
+place of electrons. Or even making particles 
+which don’t naturally exist; period, like an  
+electron with twice its normal mass. That’s 
+definitely in the Clarketech zone of things.
+ 
+Alternatively, as huge as they sound, physically 
+or conceptually, building a giant supercollider  
+around the sun, fueled by the Sun’s light, and 
+sucking particles off the sun for refining and  
+transmutation, is merely unbelievable in scale, 
+not physics. The science involved is pretty simple  
+and old school, and it is probably faster and 
+cheaper to convert locally-abundant materials  
+into scarcer elemental neighbors this way 
+than to go mine them from around distant stars  
+where you either need to spend mass-energy levels 
+of energy to get them here in decades or wait  
+millennia for the slow and cheap shipments. And 
+eventually you would need to move further afield  
+to find those and wait longer and pay more.
+So for Dyson building civilizations,  
+this is probably something they eventually need 
+to contemplate, which is what we usually expect  
+civilizations to turn into, Dyson Swarms 
+around stars, Kardashev-2 civilizations,  
+be they classically biological like us or 
+something synthetic, iron or silicon based  
+not carbon. If you need X amount of material 
+Y per person, and you got a lot of excess of  
+something else you can make into Y, then you 
+need to get or make X more of that to make  
+another person or keep them alive or in comfort. 
+Odds are, that’s what you are going to do.
+ 
+Now if these are galaxy-wide problems of 
+shortages, you might opt for something potentially  
+grander and more efficient, like running a 
+beam of matter at ultra-high speed, skimming  
+real close to a neutron star or black hole to let 
+gravity do your crunching for you, or use them as  
+abundant sources of gamma rays for bombardment 
+of nuclei. There’s some potentially dangerous  
+ways to suck the matter of a neutron star cheaply, 
+relatively speaking, by having it in close binary  
+with another one, but that strikes me as a really 
+good way to accidentally end up with a merger or  
+detonation, also known as a Supernova. To be fair 
+that will get you plenty of heavier-than-iron  
+elements, if it happens, it's one of the 
+principal ways they get made after all.
+ 
+Now folks often talk about harvesting 
+natural supernovae for heavy elements,  
+and folks often talk about how nuclear bombs – 
+the fusion kind anyway - are like the power of  
+the Sun, but it bares mentioning that 
+H-bombs are not very sunlike at all.  
+Our Sun is a very slow converter of hydrogen into 
+helium, our attempts at controlled fusion are not  
+about replicating the conditions in our Sun’s 
+core, because that produces very little energy  
+gram for gram. Indeed it takes 5000 kilograms 
+of solar matter to generate a single watt of  
+energy. It’s just that it will generate that 
+single watt for billions of years. Indeed even  
+the ultra-fast burning supergiants are generally 
+only producing in the watt per kilogram range.  
+H-bombs are way better, they convert matter to 
+energy in mere instants and with ratio parallel  
+to supernovae rather than supergiants, let 
+alone our own sun, which itself is on the fast  
+and high-powered side of things as stars go, 
+most being cool and slow-burning red dwarfs.
+ 
+I want to emphasize that Supernova point 
+because we can make H-bombs of any size we want,  
+they scale up pretty well, and doing that trick 
+where you surround them with some big material  
+shell that is to be transmuted makes a lot 
+more sense in terms of time, energy, and safety  
+than waiting on a supernova, or intentionally 
+inducing one through iron poisoning or some of  
+the other tricks we looked at in Killing Stars. 
+Indeed, given that we talk about using nukes  
+with pusher plates for running spaceships, this 
+might be a trick used for metal production. Plate  
+the back of your ship’s pusher with a material 
+you want to transmute and fire your nukes off,  
+scrape the valuable layer off, and repeat, all 
+the while gaining the normal benefit of ship  
+propulsion too. I could imagine some automated 
+extra-solar mining operation bringing back  
+feedstock for transmutation and using their ship’s 
+drive to do a lot of that transmutation en route.
+ 
+For that matter, one problem with ships needing 
+to run on radioisotopes is running out of the  
+material part-way through the journey because 
+the half life of that element was shorter than  
+the trip was, and a transmuting pusher plate 
+might be an alternative for some materials,  
+especially ones you didn’t need till you were 
+nearing your destination, like radioisotopes  
+for powering small probes or communication 
+satellites for your early colonial efforts.
+ 
+One final note on all of this, I mentioned 
+early, one non-stable element that still had  
+a half-life millions of times longer than the 
+current Age of the Universe and there’s quite a  
+few in that zone. Indeed we don’t really know for 
+sure that any element is totally stable and it has  
+long been hypothesized that protons might decay 
+given long enough, neutrons do in mere minutes  
+left to themselves. The Proton decay number 
+is way longer, usually more than a trillion,  
+trillion, trillion years. If protons don’t 
+decay, we tend to assume slow quantum effects  
+would transmute every dead bit of matter not in 
+a black hole, into iron, what we call iron stars,  
+so far into the future that time can only be 
+usefully discussed in scientific notation. 
+ 
+And maybe they should be called Iron-56 stars 
+because the assumption is that by quantum  
+randomness fusion and fission and decay are slowly 
+shifting everything to this ultra-stable isotope.  
+But we do contemplate civilizations lasting that 
+long, trillions of trillions of trillions of years  
+and long beyond – see our civilizations at the end 
+of Time series for more on those - and these folks  
+might need to be worrying about seemingly stable 
+materials decaying on them or replacing things  
+with half-lives so long we today would think of 
+them as near-eternal but those civilizations at  
+the end of time, would think of them as short 
+term and as spoilable as we do bananas. 
+ 
+Indeed as we point out in our episodes discussing 
+freezing people for long interstellar journeys,  
+just the tiny amounts of Potassium-40 in bananas 
+and other foods, the modestly rare radioisotope  
+of potassium, half life 1.25 billions years, 
+that decays into Calcium-40, will eventually  
+give a frozen human lethal radiation poisoning if 
+they’re frozen for a few thousand years. Killed  
+by the trace amounts of that potassium 
+isotope in their own bones and tissues.
+ 
+Personally I would not be surprised if in the 
+future we started centrifuging radioisotopes out  
+of anything we’re using to grow food or clothes 
+for people. It would be very energy intensive to  
+centrifuge potassium to use only stable isotopes 
+of it in hydroponics or house construction,  
+but cost is relative especially in 
+energy abundant, post-scarcity societies.  
+And this sort of nuclear alchemy might be 
+very much on their minds, if they find their  
+post-scarce situation is being endangered 
+by a critical shortage of some element.
+ 
+So civilizations might very well turn to 
+killing stars or mimicking their death  
+throes to run themselves, if they needed to, or 
+using nukes for elemental alchemical production,  
+it just depends on how explosive 
+the rise in demand is.
+ 
+So we’ve got quite a few announcements today along 
+with our upcoming schedule, but first, while I was  
+working on today’s video I kept thinking of 
+Alchemy and Transmutation and it reminded me  
+of various character in RPGs I’ve played down 
+the years who specialized in those occupations,  
+and who varied from Jekyll & Hyde style characters 
+to those pursuing coveted alchemical secrets.  
+If our episode comments and social media 
+forums are any indicator then an awful lot  
+of our audience has played their fair share of 
+D&D and similar games. I’ve been gaming for over  
+a quarter of a century now, and playing in or 
+designing all those worlds has been some of the  
+best and most mental stimulating fun of my life.
+Over the years and as its transitioned from  
+strictly pen and paper to the modern digital age, 
+our options for connecting with other folks to  
+play with has only risen, as have the tools for 
+forging new worlds to set your games and stories  
+in, and the unrivaled leader of the pack when 
+it comes to worldbuilding tools is World Anvil.
+ 
+World Anvil, the award-winning worldbuilding 
+toolset, has tons of tools for enhancing your  
+game or building your setting, it is intuitive to 
+learn, and has a giant stockpile of free tutorial  
+videos that not only show how to use those tools 
+but suggest ways to improve your worldbuilding in  
+general, to make it easy, appealing, and 
+informative to your players or audience.  
+Whether you’re managing a campaign or writing a 
+novel, whether you’re making city or dungeon maps,  
+or connecting them to each other and a wider 
+world map, or crafting family genealogies for  
+your heroes, villains, and NPCs, World Anvil lets 
+you forge your setting better and easier than  
+anything I’ve ever worked with before, and it has 
+a free version so you can share it with others,  
+and selectively, so they’re not seeing secret 
+content and spoiling the game. And you can  
+also incorporate ways to monetize your content, 
+such as Patreon or Kofi or your own storefront.  
+World Anvil gives you the tools to build and 
+share your dreams and tales with others.
+ 
+World Anvil offers wikipedia-like 
+articles for your world setting,  
+interactive maps, timelines, an RPG Campaign 
+Manager and a full Novel-Writing Software,  
+all the tools you’ll need to run your RPG Campaign 
+or write your novel, and never lose your notes  
+again! If you’d like to give World Anvil a try 
+and let it help you forge new worlds, just click  
+the link in this episode’s description!
+For anyone who still wants to register,  
+I’ll be giving closing remarks for the conference 
+on the Future of Space Cooperation between the US  
+and Japan on March 7th and 8th hosted by the 
+Rand Corporation. And there’s going to be some  
+great speakers there, starting with David 
+Kipping from Cool Worlds and Pete Worden,  
+the Director of the Breakthrough Starshot 
+Initiative. I’ll attach a link for the event  
+and registration to see it in-person or online 
+in the episode description. I’ll be getting back  
+home just in time to release next week’s episode, 
+the Million Year Machine, so apologies in advance  
+if there’s a delay releasing that or if I’m 
+less active in the comments of the video.
+ 
+I mentioned last week that the conference will be 
+my first in-person talk I’ve given since Covid hit  
+and I’ll also be giving the keynote for 
+the Biocene conference on Biomimicry and in  
+addition will finally be speaking at the National 
+Space Society’s International Space Development  
+Conference this year, I’d been scheduled to give 
+a talk and accept my 2020 Pioneer Award from them  
+right before the pandemic hit, so it's nice to 
+finally get to do that talk. Those are both open  
+to the public too but will be in May so we’ll 
+give details and updates in a month or so.
+ 
+It’s been a pretty crazy last couple 
+years, with Covid, they seem a lot longer,  
+ironically the nearly eight years since our 
+first episode sometimes seem like just yesterday,  
+and it's a good remember, just how short such 
+times are compared to even most of the short  
+term projects we discuss on this show. Next week 
+we’ll be examining those longer projects, many of  
+which need to encapsulate a million years or more 
+to accomplish, in our episode The Million Year  
+Machine. Then we’ll have our March Scifi Sunday 
+episode to look at the concept of Synthetic Life.  
+And we’ll keep to the scifi theme as we return to 
+our Alien Civilizations series to contemplate the  
+concept of clandestine extraterrestrial operations 
+and Covert Aliens. After that we’ll jump forward  
+to the distant future and look at a time when 
+the Moon has become an enormous Mega City.
+ 
+Now if you want alerts when those and other 
+episodes come out, make sure to subscribe to the  
+Channel and hit the notifications bell, and if you 
+enjoyed this episode, please hit the like button,  
+share it with others, and leave a comment below. 
+You can also join in the conversation on any  
+of our social media forums, find our audio-only 
+versions of the show, or donate to support future  
+episodes, and all those options and more are 
+listed in the links in the episode description.
+ 
+Until next time, thanks for 
+watching, and have a great week!

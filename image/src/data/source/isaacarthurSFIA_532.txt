@@ -1,0 +1,676 @@
+Even though Neptune is thirty times further
+from the Sun than Earth, cold and dimly lit,
+it’s still thousands of times closer to
+us than the nearest stars.
+And yet, it may turn out to be a great place
+to live and a gateway to those stars.
+So today we return to the Outward Bound series
+to look at how we’d go about colonizing
+Icy Giants like Neptune.
+We’ve looked at colonizing gas giants before,
+but mostly in the context of colonizing their
+moons, and not so much the planets.
+Ice Giants like Neptune and Uranus are very
+common in the Universe - as best as we can
+tell - and aren’t actually that much more
+massive than Earth, generally only being 10
+to 20 times as massive.
+Not like the bigger Jovians which are many
+hundreds or even thousands of times larger.
+Indeed their surface gravity, for a given
+value of ‘surface’, is pretty close to
+Earth’s own.
+Uranus has 89% of the Gravity Earth does,
+and Neptune has 114% of Earth’s gravity.
+Only Venus is closer, at 90%, and it is in
+some ways harder to colonize than either of
+these two planets.
+Akin to the Venusian sky cities, we could
+possibly build cities which float in Neptune’s
+atmosphere; this, however, would be much more
+challenging to pull off because the wind’s
+on Neptune are murderous.
+Even on the planet Uranus - which has lower
+wind speeds in certain spots due, presumably,
+to this planet being tilted on its side - high
+wind speeds would still be a big problem.
+They are also potentially a source of massive
+power though.
+Wind is tricky on Earth due to speeds ranging
+from useless to hurricane force.
+You wouldn’t use a classic windmill on places
+like Neptune though, you’d use something
+closer to a jet turbine.
+Power is a pretty big issue for these outer
+planets because the sunlight just isn’t
+strong enough so far from the Sun to be a
+viable way to power an entire colony.
+These planets aren’t dark though, they get
+lighting on par with what you’d expect in
+a room lit by normal light bulbs.
+We have some alternatives though.
+We could also beam power out as we discussed
+in the Power Satellites episode a couple months
+back.
+As already mentioned, we can tap the atmosphere
+for wind power, as well as the Nuclear Option.
+But what we really want is fusion, especially
+for these two planets as they have large stockpiles
+of Helium-3, the preferred fusion fuel for
+aneutronic fusion.
+We will discuss why aneutronic fusion is seen
+as better than normal fusion in a moment.
+I mention the other power sources just to
+make it clear we have alternatives even if
+we never achieve portable fusion, but Uranus
+and Neptune in particular are both places
+we’d be most likely to hold off fully colonizing
+until we either did have it or knew it wasn’t
+in the cards.
+So let’s follow an intrepid traveller on
+a journey to colonize Neptune.
+It is the year 2400 and while Uranus has some
+basic stations on its moons already, Neptune
+only has a few small scientific outposts in
+its atmosphere and on its largest of 14 moons
+Triton, the coldest object in our solar system.
+We’re colonists leaving from Earth on board
+a colonization fleet that’s the first to
+feature fully functional aneutronic fusion
+drives, and as those rely on helium-3 for
+fuel, establishing some big Helium-3 refineries
+in the outer solar system is high on everybody’s
+list.
+We’ve had fusion technology for a while
+but they are big and clunky power plants,
+and while those improved, they never got too
+good at powering ships.
+The problem with typical neutronic fusion,
+like that using deuterium and tritium, is
+that most of the energy from that fusion event
+is in neutrons, and these are hard to tap
+for energy and do a lot of damage to whatever
+containment system you are using.
+Aneutronic fusion is exactly that, fusion
+that doesn’t produce many neutrons, but
+instead mostly stable and charged particles,
+which should be easy to get electricity from.
+Aneutronic fusion is far harder to do, but
+represents probably the best path to relatively
+compact and lightweight fusion reactors, like
+the kind we’d like to use in spaceships
+or small colonies, places where mass and size
+matter a lot, and probably maintenance too.
+Someone went through the difficulties in inventing
+one, which opened the gates for us to the
+outer solar system.
+Not just Uranus and Neptune, but all of the
+Kuiper Belt, which is vastly larger and more
+massive than the Asteroid Belt, and indeed
+it even opens the gates to the Oort Cloud
+and other solar systems beyond.
+We now have a ship engine able to produce
+a significant thrust for days or even weeks
+at a time.
+Our Neptune Colonizing Fleet will burn out
+toward Neptune at .2-gee for half the trip,
+then flip over and burn down, arriving 5 weeks
+after our departure from Earth, and reaching
+a maximum velocity of 1% light speed.
+Like in the Expanse, we can use constant acceleration
+in place of rotating sections to provide gravity,
+though in this case, just a little better
+than Moon gravity.
+But for a 5 week trip, that’s fine.
+Now as we’ve noted before, this constant
+acceleration approach is not usually a good
+one since it is very fuel wasteful.
+By preference, you’d accelerate faster but
+not for as long, cruise, then flip over and
+burn down to stop.
+However, in this case it is okay because fuel
+and propellant don’t matter too much because
+that’s the hypothetical maximum acceleration
+out of this style of fusion drive, .2-gee,
+and that’s probably being optimistic.
+So we just burn the whole time because it’s
+not that long a trip.
+And indeed we are quite capable of handling
+a much higher acceleration, as we are not
+exactly human.
+The fuel is fairly rare but the propellant,
+hydrogen in this case, is very common so we
+can blow it like it was going out of fashion.
+If we could accelerate faster we would, and
+we’ll talk about how we might later, but
+fusion drives and high-thrust don’t work
+well, at least not if you want a high final
+speed.
+We’d like to be able to do a full-gee, like
+we were standing on Earth, and in truth we’d
+like to do more and we could handle a much
+higher acceleration.
+This is the 25th century after all, and we’ve
+been picked to command this fleet because
+we are an experienced traveler and colonist.
+Few people in the solar system have been to
+as many of humanity’s new worlds as we have
+and we’ve made a career of colonizing planets
+over the centuries.
+And we’ve become more than a bit of cyborg
+in that time.
+Long gone are the days of roughing it or making
+small outposts to slowly grow.
+Our fleet is carrying state of the art expandable
+rotating habitats with it, huge amounts of
+colonial gear, and most of those ships will
+be immediately departing to either pick up
+tens of thousands of more colonists from Earth
+or race off to the massive factories of the
+Belt, Titan, and the Jovian Moons to pick
+up more equipment.
+We’ll need it too, because while we’ll
+be temporarily housing people in those rotating
+habitats in orbit of Neptune, we are going
+to be building massive refining facilities
+right inside of Neptune’s atmosphere.
+Indeed, it is going to be the single largest
+construct humanity has ever created.
+It will even outstrip the Orbital Rings of
+Earth.
+After all, those refining facilities are going
+to be similar to those rings, but Neptune
+is a lot bigger than Earth.
+See there’s a lot of ways to mine gas from
+a gas giant.
+You can dive down and scoop it up for instance.
+But we are going to do this with the biggest
+bucket wheel excavator in the galaxy, namely
+a giant ellipsoid orbital ring which, incidentally,
+looks like a chainsaw, a chainsaw fit for
+a god like the one the planet is named after.
+Neptune’s Chainsaw.
+This is the 25th century we don’t do space
+colonization small or on shoestring budgets
+anymore.
+Billions of people live and work in space,
+and factories the size of small moons convert
+megatons of ore into products every day.
+Ships that dwarf the biggest oil supertanker
+crawl across the solar system delivering goods
+and soon they will sprint, not crawl, as superior
+engines permit them to race across the void,
+fueled by the near-endless stockpiles of helium-3
+on Neptune and the other gas giants.
+For now, many of those ships are carrying
+out segments of Neptune’s Chainsaw for assembly,
+and many of our passengers are not colonists
+at all, but folks traveling to view the historic
+event, the colonization of the last planet
+in the solar system.
+Truth be told, we find their presence rather
+irritating, standing around gawking and getting
+in the way, but this mission requires a lot
+of resources and backing and spectators were
+part of the cost for that.
+One of them, on the younger side, asks us
+why it is such a historic event.
+We explain, until now humanity has been essentially
+limited to using either stuff like uranium
+or thorium for fast ships, or dependent on
+powerful energy beams from huge collectors
+near the Sun.
+Those work, and energy beaming from the Sun
+is actually quite efficient and part of this
+expedition will be making that system even
+more useful, but ultimately we were dependent
+on those.
+We couldn’t make massive amounts of power
+locally and in a compact way.
+In a generation or two, a small colony will
+be able to buy its own aneutronic reactor,
+cheaply fill a tank with helium-3 and deuterium,
+and have a reliable local power source.
+With fusion, and some decent local manufacturing
+ability, they can set up anywhere they want,
+even way out in the Oort Cloud, and only need
+infrequent refueling.
+Nobody can threaten to jack up their power
+beaming rates or cut them off, a single tanker
+of what Neptune will soon produce will let
+a colony last centuries or even millennia
+without needing any new fuel.
+“But why is the Chainsaw going to be shaped
+funny?
+Elliptical, not circular, like Earth’s orbital
+rings?”
+our passenger asks.
+Orbits come in many forms, including some
+rather peculiar ones, almost every natural
+orbit is an elliptical one.
+If you can make a stable orbit, you can make
+an orbital ring that matches that orbit.
+You can even make some that wouldn’t normally
+be possible.
+Our goal, for the Neptunian Chainsaw, is to
+have an elliptical one that drops down into
+the atmosphere on its low portion and rises
+high up afterward.
+We will scoop gases up in big buckets which
+will enter the ring’s Transport System and
+be shoved along, refined as it goes for what
+we want, and raced up to fill tanker ships.
+Now we have options like this for Earth too.
+You could put two big circular rings around
+Earth connected by a third elliptical one.
+Indeed, that would keep the low portion of
+the ring just over the atmosphere and lower
+tethers down to suck up air.
+But what’s interesting about Neptune is
+that its gravity is higher than Earth’s,
+if not by a lot, and on that upper portion
+of the ring it will be a bit lower.
+We can build domes on those sections with
+normal gravity and still get protection from
+micrometeors and radiation by the thinner
+atmosphere up there.
+Meteor protection matters too since all of
+the gas giants have rings of debris around
+them - even though they’re not as big as
+Saturn’s - and thus have a lot of meteors.
+While there’s not enough light there to
+grow most natural plants, it is enough to
+comfortably see by, though Neptune’s day
+is only 16 hours long, so you would want supplemental
+lighting.
+Fortunately there is an effective near-infinite
+power supply right below.
+And Triton is almost as large as our moon
+and can provide plenty of construction and
+manufacturing materials after we’ve consumed
+it’s tiny siblings.
+Triton is the last and smallest of the large
+moons in our solar system and actually has
+more mass than all other Neptunian moons smaller
+than itself combined.
+If you head down deeper into Neptune’s atmosphere,
+it’s got interesting layers of clouds.
+Clouds on Earth are made of water, but clouds
+on some other planets can be made of methane,
+ammonia or sulfuric acid instead.
+Neptune though is thought to have many different
+layers of clouds made of different things
+as you go down.
+Neptune and Uranus - which are small gas giants
+but which you can also think of as Ice Giants
+- have a lot more volatiles proportionally
+than Jupiter has for instance.
+Volatiles, things like nitrogen, water, carbon
+dioxide, ammonia, methane and sulfur dioxide,
+are always of interest to us, and if we’re
+willing to dive deeper down, we can find clouds
+of them for harvesting.
+We often think of mining space for metals,
+precious ones like gold or ones for construction,
+but these chemicals we need as the basic building
+blocks for life itself are very precious.
+Triton is also a good source for volatiles
+and its surface is covered with these ices;
+but since demand is growing and since mining
+that ice is more difficult than just scooping
+or pumping it up, it would still be advantageous
+and indeed preferable to mine such volatiles
+from Neptune’s atmosphere.
+Now, we have a few ways to get down to those
+deeper levels.
+The first of course is to suspend yourself
+from a tether, hanging from Neptune’s Chainsaw
+- the orbital ring system that encircles Neptune
+which we discussed earlier.
+The second would be to fly down in some interesting
+mixture of plane and submarine.
+The third would be from a balloon or even
+a giant turbine.
+A problem with using balloons on gas giants,
+as opposed to Venus, is that they are mostly
+hydrogen with a bit of helium, our two preferred
+lifting gases.
+You can’t use something as a lifting gas
+inside an atmosphere composed of that, on
+Venus we can even use oxygen as one because
+the atmosphere is made of denser gases.
+But Neptune is almost 20% helium, so we could
+use pure hydrogen, likely in plentiful supply
+as you refine out the helium and helium-3.
+And you can heat it too since we’ve got
+access to power.
+Or you can just run a giant engine and coast
+along with the terrifying winds.
+But you could also keep yourself pressurized
+like a submarine and drop deeper instead,
+to where you’d be buoyant.
+Hanging down from tethers seems rather neat
+though, and since the Sun isn’t really your
+source of light, there’s no need to build
+flat.
+You don’t have to make your Orbital Ring
+wider to support more domes, though you can.
+Instead you just build up or down from it
+or another supported platform.
+Hanging down is as structurally sound as building
+up like a skyscraper; the only difference
+is that one relies on tensile strength whereas
+the other relies on compressive strength.
+So you could have hanging cities, lighting
+themselves, suspended over Neptune and down
+into its atmosphere.
+Cities, glowing in the dim dusky light, hanging
+down like immense chandeliers.
+Chandelier cities.
+A book series I’m fond of, Gregory Benford’s
+Galactic Center Saga, references Chandelier
+Civilizations at one point but I never got
+a description of them, I’ve always wondered
+if this is what he had in mind.
+I should ask him one day, but regardless we
+shall call these Chandelier Cities and they’re
+ideal for Ice Giants.
+I imagine they’d be absolutely stunning
+to approach by plane, hanging there among
+the clouds and storms.
+But the atmosphere, while it gets much denser
+as we go deeper, is not the majority of Neptune.
+Indeed it has a very large mantle which is
+perhaps a dozen times more massive than the
+entire Earth and which is composed mostly
+of the ices that make us call it an Ice Giant.
+With all that water, ammonia, and methane
+ice, it is massively rich in the building
+blocks we need for artificial ecosystems.
+Getting down there to mine it would be tricky.
+But active support, like our orbital rings,
+can be used to make stuff much stronger against
+crushing too.
+However, it’s quite likely it rains diamonds
+down there and we could get quite deep just
+relying on strong materials.
+Because of this we’d be able to harvest
+a lot of that diamond and possibly other materials.
+Or even get to live in diamond hard domes
+deep down in Neptune.
+I should note, though we always hope the future
+will be peaceful, that these sort of buried
+colonies, hidden and shielded by huge atmospheres,
+are good places to live during conflicts.
+For that same reason, you could see a lot
+of rotating habitats bury themselves deep
+under ice or rock in asteroids and comets,
+or import a lot of hydrogen and helium not
+just as a long term fuel supply but additional
+shielding, they can wrap their habitat in
+cheap tanks of gases.
+It’s hard to drill deep into the Earth not
+just because of the pressure but the rising
+temperature; but it’s not as bad inside
+Neptune’s mantle as it is in Earth’s.
+Eventually there is a core - which is essentially
+a rocky planet all its own down there - but
+you’d probably have to remove that atmosphere
+to get to it.
+We’ll talk more about mining planetary mantles
+and cores in our Earth 2.0 series, which will
+start next month.
+For Ice Giants in other solar systems, ones
+nearer their Sun, as some might well be, you
+might blow that atmosphere off and use it
+like a rocket flame to push the planet into
+its sun’s habitable zone, and be left with
+a rocky planet when you’re done which is
+ready for terraforming.
+For this we can employ the Fusion Candle we
+discussed in Colonizing Jupiter.
+We’re not expecting to do that with Neptune
+though.
+The long term plan is just to build more Neptunian
+chainsaws and regular circular but wider orbital
+rings around it till we encompass the whole
+planet.
+This is something we call a Shell World, and
+we discussed it in more detail in the Mega
+Earths episode.
+Even for an advanced civilization living in
+the 25th century, building a shell world around
+Neptune would take a really long time, but
+it can be done incrementally.
+Just adding more rings and chandelier cities
+till you encompass the whole planet, then
+add dirt and water and lighting, potentially
+Sun-Moons orbiting once a day, vast fusion
+satellites producing light.
+We have a power supply for that and such an
+enormous construction project and as we mine
+Neptune’s atmosphere and mantle, we can
+slowly contract those rings and, therefore,
+contract the shell world too, keeping it to
+a size that provides normal Earth gravity.
+Incidentally, even if you eventually expanded
+your orbital rings to make a complete Shellworld,
+you could keep those Chandelier Cities we
+mentioned earlier hanging down under the shell.
+They might also work very well on planets
+or moons with icy shells over deep oceans,
+like Europa.
+Neptune’s own moon Triton might have a subsurface
+ocean too.
+There is a lot of gas on Neptune, and it raises
+the question: What would we do with it all?
+For that matter, with Uranus being closer,
+and maybe easier to mine with its lower winds,
+who is buying our Helium-3?
+Well, first, the Helium-3 concentration on
+Neptune is 19 parts per million which is a
+little higher than Uranus’s 15 parts per
+million Helium-3 concentration.
+But second, in a fusion economy, that extra
+distance to Neptune from the inner solar system,
+as opposed to Uranus, is actually fairly irrelevant.
+Indeed parts of the asteroid belt will sometimes
+be as close to Neptune as Uranus and this
+difference in distance doesn’t much matter
+anyway.
+It’s a minor amount of delta-v compared
+to the energy that fuel contains.
+Tankers carrying helium-3 and Deuterium would
+still move slow.
+It won’t spoil and has a high energy density
+so there is no reason to move it quickly and
+waste energy or capital on very large engines.
+Moreover though, we’ll be seeing a lot more
+people moving to the outer solar system now,
+particularly the Kuiper Belt, where land is
+cheap and plentiful - but they’d have to
+bring their own sunlight.
+And as rarely as one would need to bring in
+fusion fuel, folks can wait a couple centuries
+till Neptune is close to them again on its
+own long orbit to refuel themselves.
+But when asked, our traveler, admiral of this
+colonial fleet and figurehead governor of
+Neptune, says that it is really all about
+ships, and not just ones with aneutronic fusion
+drives.
+See, you can bounce a laser off a sail and
+make it go further away or even off to a side,
+by tilting the sail to bounce the light at
+an angle.
+But you can’t move just sideways, or inward
+toward the Sun, not by bouncing alone.
+What you can do though is bounce a beam off
+something further out, and bounce it back
+in at your light sail, pushing you back inward
+toward the Sun.
+The problem is, if you stick a mirror further
+out than your ship, you will push it away
+eventually.
+So it helps to have that mirror on something
+that is massive enough for the recoil to be
+negligibly small.
+Ice Giants and their Moons are perfect for
+this, as are larger icy bodies in the Kuiper
+Belt.
+They can also emit their own beams, rather
+than bounce, if they have a power source.
+Had nobody invented good, cheap aneutronic
+fusion, we could have gone about colonizing
+the outer solar system this way.
+Beaming energy out from massive solar collectors
+near the Sun and using those, bounced back,
+to push ships inward, and to power these cold
+lonely pushing stations.
+Even with fusion though, it’s still a nice
+path, because it means ships need not rely
+entirely on onboard fuel and propellant.
+Indeed, the combination of the two will allow
+even better and safer and cheaper interplanetary
+travel.
+We said that this sort of fusion drive really
+only permitted a maximum acceleration of .2
+gee, and there are ways that could perhaps
+be boosted, but it could pull that while getting
+beamed energy, or even beamed propellant,
+out to the ship.
+So you’d get laser highways inside a solar
+system folks could use to supplement their
+engine, but they could still operate without
+them too.
+It would be like jumping in the fast lane,
+and gives the benefits of both systems while
+removing many of the limitations of, and dependance
+on, each.
+Our traveler turned admiral turned governor
+though has even bigger plans than Chandelier
+Cities, Planetary Chainsaws, Shellworlds,
+and giant mirrors.
+Indeed even plans beyond colonizing the Kuiper
+Belt and Oort Cloud.
+Our governor plans to colonize the Stars themselves.
+He tells our young tourist that one day the
+Moons of Neptune will be giant shipyards,
+turning out colonial fleets to head out to
+the stars themselves, Armadas that will be
+built here and launch, not out to the stars,
+but in toward the Sun, pushed by beams toward
+it and then sail past, pushed even faster
+by stellasers near the Sun, running up to
+decent fractions of light speed then back
+out again, ever faster, pushed on till they
+reach the Kuiper Belt and then pushed even
+more, from relays and lasers out there.
+Then they will cruise along ahead, massive
+interstellar arks lit and warmed by fusion
+reactors, sailing off to yet more distant
+homes.
+Neptune, we tell our young passenger, will
+be the gateway to the deep ocean of outer
+space, the last big port of call, and it may
+be big indeed.
+With vastly more size and resources than Earth,
+with a near endless source of power, with
+all those moons and its own rings and Kuiper
+Belt nearby, it could become a massive kingdom
+fit for its namesake.
+If our young passenger returns to Neptune
+when they’re an adult, they’ll see a growing
+empire that they can reach in just a couple
+weeks travel, and quite cheaply.
+It’s an empire the governor himself will
+never lead.
+Once it’s built up enough to build its own
+fleets for interstellar travel, he means to
+be on one of those, and tells our young passengers
+he hopes they’ll join one themselves one
+day.
+The solar system is now a much bigger place,
+opened up far past the asteroid belt for settlement,
+but it’s just a tiny corner of a vast galaxy.
+While not the last frontier of our solar system,
+Neptune is the last truly big one, and it’s
+fitting it should serve as the gateway to
+the stars.
+So this is not the end of the Outward Bound
+series; we still have a lot of solar system
+to explore, not to mention other systems,
+and some places closer to home to revisit
+like the Moon or Mars.
+However, while we continue our look at the
+ships that will get us to those other star
+systems, we’re going to take some time to
+talk about colonizing a bit closer to home
+than even our Moon.
+In the upcoming Earth 2.0 series we’ll be
+looking at colonizing our oceans and frigid
+poles and deserts and mountains and how we
+can use the technology we’ve discussed in
+this series to do it.
+We talked a lot about Orbital Rings today
+and structures hanging down from them, our
+Chandelier Cities.
+A lot of times we suggest structures folks
+aren’t used to and can seem less safe as
+a result, even though they are often more
+structurally sound than things we use all
+the time.
+Ultimately they use the same structural mechanics
+as a Suspension Bridge, so do the rotating
+habitats we often discuss.
+Most folks are comfortable with those because
+they’re familiar, but if you’re curious
+about the mechanics involved, so you can understand
+why a city hanging down from an orbital ring
+is as safe or even safer than a skyscraper
+or your house, I’d suggest trying out Brilliant's
+course “Infrastructure”.
+As part of their Physics of the Everyday courses,
+Infrastructure has some great quizzes on bridges
+and skyscrapers, and like all their quizzes,
+they’re meant to keep teaching, not just
+evaluate knowledge.
+The future is going to be a place of vast,
+awe inspiring structures that dwarf anything
+we have now, and if you want understand them
+and the challenges to building them, the Infrastructure
+course is a great way to do that.
+If you’re interested in learning more math
+and science, and doing so at your own pace,
+you can go to brilliant.org/IsaacArthur and
+sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription
+So as mentioned we’ll be talking about colonizing
+Earth soon and we’ll start that off with
+a look at Seasteading and making artificial
+islands in two week, then moving on to Colonizing
+the Oceans after that.
+First though, we’ll be exploring the human
+mind and talking about mind control and brainwashing,
+and our book of the month, George Orwell’s
+dystopian classic, “1984”
+Make sure to subscribe to the channel for
+alerts when those episodes come out, and since
+this episode happens to be coming out on my
+birthday, I will shamelessly guilt everyone
+with that before asking you to please like
+this video and share it with others, it also
+happens to be the fourth anniversary of the
+channel, and its original pilot episode.
+If you want to help support the channel on
+Patreon, you can find a link to that in the
+episode description below, along with our
+facebook and reddit groups, if you want to
+discuss this topic more.
+And should you visit those, I’d be curious
+what other places you’d like this series
+to visit, when we return to it.
+Until next time, thanks for watching, and
+have a great week!

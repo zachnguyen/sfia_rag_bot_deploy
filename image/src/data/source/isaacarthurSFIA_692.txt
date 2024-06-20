@@ -1,0 +1,681 @@
+Welcome. This video we'll be covering
+various types of megastructures and
+artificial worlds and constructs which
+you'll be familiar with from science or
+science fiction. We'll be covering
+everything from NEO low horizon orbital
+types which might have a dozen or so
+people inside it. Up to things the size
+of planets or even the size of solar
+systems like a Dyson Sphere. For that
+reason we have an ad-hoc classification
+system which we will be using that roughly
+NEO stellar classifications. We'll go
+over that in just a moment. First though let me
+add a quick thank you and plug for Steve Bowers who provided the majority of the
+images will be using here and the
+Orion's Arm project. Orion's Arm is a
+shared sci-fi setting that is also a
+wonderful resource for looking into
+a lot of the other megastructures in detail
+and many of the sci-fi subjects which
+are covered in the encyclopedia
+Galactica.
+They also have one of the most comprehensive collections of links for
+writers and sci-fi fans in terms of tools
+and maps that you can use for your own
+interests.
+So that's a site definitely worth
+checking out - orionsarm.com.
+So let's go ahead and move into our
+classification system. First type is types.
+We have artificial gravity,
+situations where it's not applicable,
+rotational gravity, spherical or classical
+gravity and zero or microgravity.
+Where artificial gravity is concerned this is the situation you're most familiar with from
+science fiction films that there is simply
+no way to produce films in zero gravity
+or microgravity so in TV and film they
+typically just have artificial gravity of some sort.
+We won't be using too many examples of
+that but it is worth noting as a class
+that we'll see a few of.
+We also have a lot of situations where it simply won't apply.
+Like the Lofstrom Launch Loop. The
+gravity that's there is really not
+related to the object or there's simply
+no reason why we care about the gravity there,
+like a giant space gun or railgun.
+It has nothing to do with the purpose of the object.
+The one we'll spend the most
+time on is rotational gravity.
+This is a spin gravity case where the
+experience of gravity is felt by the
+fact that you're being pinned to the floor by centrifugal forces.
+We have an awful lot of examples of that
+we'll be going over one at a time but
+it probably makes up the bulk of all
+cases. We are also going to try to avoid
+getting too math heavy but there is an
+equation that's relevant for rotating
+habitats that matters. The acceleration
+which for earth gravity be 9.8 meters per
+second squared that you would want to
+have to simulate gravity requires that
+you spin the station at a given velocity
+based on its radius and that's the
+velocity squared divided by the radius. Our next type is spherical or classic gravity
+this won't always be just a planet or an
+asteroid but it is the most well-known
+example this is straight real gravity
+that you're experiencing.
+So this does not necessarily have to be
+caused by a classic planet. There are a
+number of situations you can create
+where you would have gravity from mass
+but the planet is not the same size as
+Earth or might not have a terrestrial natural origin.
+These come in as nearly as
+many shapes and sizes as the ring
+spinning habitats do and we'll be
+looking at quite a few of these.
+Then our last category which is simply zero gravity
+or microgravity. These are circumstances
+where the habitat, the space station or
+the artificial world just does not have
+any significant amount of gravity felt
+by the people inside.
+Besides the space station you could have
+habitats full of a large inflated balls full of air.
+Our next category that we'll
+be looking at ... classification system is size.
+These things again can range
+from the size of the space station all
+the way up to things as big as the
+solar system. So we have a set order of
+magnitude scale to look at this.
+We'll give a number N where N is ten to the nth power in terms of its width in meters.
+So N equals 1 would be 10 meters
+N equals 2 would be 100 meters N
+equals 3 will be 1000 meters
+N equals 6 would be a million meters and
+so on. So type and size will be combined as follows:
+Z1 would be a zero gravity
+environment about 10 meters across like
+the space station a large rotating
+habitats several miles long would be a
+R4 something the size of the earth
+and almost all of the planets you
+normally associated as being a planet
+that you could live on would be a S7 indicating a
+spehrical gravity and is about ten thousand kilometers or 10 million meters
+across and then an A11 would be
+something with artificial gravity about
+the size of Earth's orbit around the Sun
+like a Dyson Sphere
+our last category is habitability now for
+all purposes we're just going to say
+that one hectare which is a 100-meter
+x 100-meter area about the size of a
+acre is about how much space you need
+for one person to grow all their food and
+have some forested garden area
+it's a very approximate figure but
+Earth has about 14 billion hectares of land including unusable stuff like deserts and
+polar regions and about 7 billion people
+or roughly ten to the tenth power this
+conveniently gives us the roman numeral
+X for 10 and we use that same ten to the nth
+system so X would be what it would be
+for earth and other planets and s7x
+would be your typical planet that was
+fully populated this shots our handy
+guide and we'll be using this
+classification only very approximately
+because a hunter-gatherer civilization
+for instance would be about too lower on
+the chart they don't need one hectare per
+person they need around a hundred
+alternatively with very intensive
+hydroponics or aeroponics and
+artificial lighting you can easily get a
+hundred people fed off of one hectare
+and you could have sci-fi settings for
+instance or futures of humanity where
+you don't even eat food you you run on
+electricity so it's an approximate scale
+and X conveniently is about the
+population of a planet we only be using
+this for when you'd expect that the
+place in question to be mostly
+self-sufficient as a kind of artificial
+planet even when they're not terribly
+huge themselves in a lot of situations
+the habitability index just doesn't
+apply for those where it does the
+classification will look a lot like this
+Z1i or Z1 one would be the space station
+it's got very few people on it the R4v
+or R4 five for example would be a situation
+about 100,000 people S7x again being
+earth would be an example of a place
+that could handle some billions of
+people and then the case for Dyson
+Sphere its tens of billions of billions
+of people who would live in that kind of
+circumstance with the same space that
+you would have on Earth
+so since the artificial and not
+applicable categories don't really have
+any kind of specific shape and come in
+so many different varieties we'll start
+with the rotating gravity ones as
+specific examples
+it's also important to understand that
+these things do not necessarily have to
+appeal from the outside as a cylinder
+when you're dealing with a ship or when
+you're dealing with a space station they
+are cylindrical in terms of parts that
+have gravity they can have a non-rotating
+shell outside them you can actually go
+ahead and embed them right into an
+asteroid for instance and the in thing
+that comes up sometimes with this is
+your hear people say let's hollow out
+an asteroid and spin it you would never
+actually do that the gravity that these
+things under gets higher the further
+you are from the axis of rotation most
+asteroids are loosely held together
+balls of gravel they have a very weak
+surface gravity and you actually spun
+the entire asteroid at speeds to produce
+artificial gravity for humans they were
+flying apart
+nor do you need to spend them you just
+need to make sure there was no few
+metres of room between the actual
+spinning object and some shell you've
+constructed inside the asteroid the
+other thing of note with these is that
+you can only build them as wide in terms
+of radius or diameter as something that
+can actually handle that force on earth
+would be able to handle it's like a
+suspension bridge that's as long as the
+circumference of the station many
+materials just cannot handle you know
+miles and miles long circumferences
+Now let's actually get into all specific
+examples
+this is Von Braun's space station from
+1952 one the original designs and one
+that is pretty familiar looking it's not
+a very large object it's less than a
+hundred meters across and it's got
+room for less than a hundred people on it
+NASA did quite a few of these
+kind of mockups in late fifties and early
+sixties and this is a hexagonal rotating
+one, designed to be inflated from
+the early sixties it wasn't very long before
+people started envisioning
+much larger places places where people
+would actually live as opposed to tight
+confined spaces you'd find at a place of
+business a post in the Antarctic that
+sort of thing
+one of the first of these is the 'Stanford Torus'
+there's also the 'Bernal Sphere' which
+is another one from that era and these
+are designed of the assumption that you're
+using steel to make them these are
+examples will generally known as 'O'Neill
+Cylinders' named for John O'Neill and
+work on an assumption that you're
+powering these things with the light of
+the local sun that they're some
+kilometers across or miles across and
+that they could be home to many
+thousands tens of thousands of hundreds
+of thousands of people
+one example is a lot of people be
+familiar with from science fiction is
+the Babylon 5 space station and TV show
+these are work on the assumption you
+just cannot build a space station more
+than about 10 kilometers in diameter
+before it's going to start ripping itself
+apart from normal metals
+here's another example from the city of Enoch project you can check out their
+facebook page at this point we have to
+go into objects that are much bigger
+that can only be built out of things
+that could not be conceived of until the
+mid nineties when we discovered carbon
+nanotubes and graphene these are
+substance you put a lot about and what
+let us think about ideas like space
+elevators at this point in time
+you're no longer discussing things that
+a few thousand people can live on
+something the size of a city maybe a
+metropolis you're looking at things
+that are size of large countries
+there's a picture of Great Britain. It is
+actually to scale there. Great Britain is
+about a thousand kilometers from
+top to bottom this thing is about 500
+kilometers wide
+it's about 2,000 kilometers in diameter
+so it is actually pretty close to the
+size of the eastern united states in
+terms of total land area but
+the 'Bishop Ring' is just saw the tip of
+the iceberg of what you can do with
+graphene and nanotubes the 'McKendree Cylinder' is the next biggest one and
+it's actually several thousand
+kilometers long and as wide as the
+'Bishop Ring' here you have an object
+that's capable of housing potentially
+nearly a planetary population that have
+the i the ix the 9
+population for habitability you could fit
+a billion people on this thing quite
+comfortably it's typically again several
+thousand kilometers long
+the thing is enormous and you can put
+multiple levels in there as well
+we typically picture these just having that
+one level open sky but they could be
+many many levels high and in this
+picture for instance that is not a
+close-up of the 'McKendree Cylinder'
+relative to a planet that's actually
+about the scale of a 'McKendree Cylinder' again
+its many thousands of kilometers long
+it does not necessarily need to have
+those light absorption discs by the way
+that's just the assumption that you
+don't have some power source that could
+let you simulate sunlight now no matter
+what you do there are certain
+limitations on how big you can make
+these things using classic materials as
+we said but you can still keep
+scaling up as one solid object an example
+of that is a 'Rungworld' where each of those little
+rungs on that apparent ladder going around
+a circle could be something size of an 'O'Neill Cylinder' or a 'McKendree Cylinder' so that
+thing could be the size of several
+planets or can wrap around an entire star
+One orbital habitat that's of special note
+is the 'Banks Orbital' named for Ian M Banks
+the late and great author of the
+cultural series this is an orbital that
+specifically the necessary radius to
+produce Earth like gravity and have a day length
+brought by its own natural sun that it's in orbit around that is exactly the same as a day on there
+and for Earth that's several million kilometers
+across these things are typically the
+size of a couple hundred Earths when they
+are set up that way you can make them a lot thicker though
+but that's always
+going to be unique size for a given day
+length and a given gravity
+there's only going to be one exact size
+that can make that configuration
+next we have a very popular one the Ringworld first again popularized by Larry Niven
+in the book titled that this is an
+orbital habitat that is placed around a
+star typically at the distance from it
+that Earth is and it's going to be
+about the size of a couple of million Earths
+less well-known but from the same author
+is a 'Topopolis' or a 'Spaghetti World' this
+is a thin rotating habitat that's simply
+very very long you can wrap it around
+a star several times and so long as
+it's much longer than it is wide
+it has no problem spinning even when you
+call it around just like a rope so you
+can spin around a star and these can be
+pretty much any length you want something
+like the 'Rungworld' or the 'Topopolis' example
+is a Polyhedral habitat which is
+sometimes called 'Bucky Habitat' these can
+be very very large wrapped around entire
+stars but they are essentially a long
+connection of cylinder habitats whether
+they're McKendree sized objects or the
+'O'Neill Cylinder' type objects and again
+Mckendree objects are usually thousand
+kilometers long whereas only $PERCENT or
+so on doors are usually in the tens of
+kilometers law a movie on to the next
+class vehicle gravity I want to talk
+about hybrid example a lot of times when
+you're walking with a moon base or
+emulsion base from someplace with a
+gravity exists and is significant but
+isn't what you want you to be stuck with
+that in fiction or examples but you
+don't actually have to be you can
+combine the rotational gravity and
+spherical gravity or classic gravity
+much like a washing machine when you put
+water it will spin and former parabola
+you can arrange to have the sides of
+your habitat slope like that so that you
+spend the habitat it will combine the
+gravity that's caused by the local man
+and by spinning to produce a gravity
+equal to that of off and if you're on a
+vacuum environment like the moon there's
+no real reason why you wouldn't do that
+a bit of a hassle little energy
+intensive but not actually all that bad
+on next major category is feel gravity
+classic gravity
+now this is a much build category that
+you initially think we're not just
+talking about large moons classic
+planets and we're also including shell
+wards examples of this would be where
+you construct the board around large
+object like a black hole which could be
+smaller than a planet or larger because
+it's not official black hole around the
+gas giant or even just compressed gas
+this isn't strictly limited to
+super-powerful material was that allow
+you to make a rigid shell the size of
+multiple planets this requires though
+that you use something called active
+support the easiest way to think of
+active support would be a garden hose
+that was connected to a pump at both
+ends once you turn the pump on the holes
+were immediately spring into a sachal
+even do this with magnetically propelled
+small particles moving mass stream so
+that you can create widget objects in a
+circular form that are just huge and
+size we call this active support because
+no matter how efficient you make this
+system there's going to be some energy
+last so you're going to have to
+constantly be adding power and assistant
+hold your plan together all that a
+hoarder polish so it doesn't fall
+together and this can be done
+it's probably scientifically possible
+it's a little bit ahead of us right now
+because it's just huge and energy
+consumptive. But it is one alternative to
+space elevators. You could make one of
+these rings that was hovering just above
+the atmosphere of the planet and just
+connect shorter teth*#!alls a few miles I to it
+another example of natural gravity would
+be a shell world in this case a
+matryoshka doll type situation - where
+it's just layer after layer of
+contention of concentric spheres around
+each other
+you have to artificially light those and
+you have large pillars that helped
+hold up the sky and a very atlas like
+example. Here each layer either has a
+slightly higher gravity to get for them
+out or if you space them out far enough
+you can keep it at the same stable
+gravity by just having a different
+distance to each layer. You want to take a moment to avoid confusing this with a
+matryoshka brain which is another type
+of contract will discuss later on your
+hear this term a lot more often than the
+ 'Shell World' for example come back to that
+later on. Another example would be a 'Hoop World' or 'Torus World' or 'Donut World'.  Call it what you want.
+In this example you have something
+knows about 10 times the size of Earth
+so long as the hoops diameter is much
+wider than that of the actual thing
+itself
+you're going to have perfectly normal
+gravity on this office our next category
+of microgravity habitats these can come
+in almost any type of sale no such as
+the space station with Space Shuttle all
+the way up to self-contained wards
+general just full of fail this another
+artificial worldthat was popularized by
+Larry Nevin - him as well as Dr. Freeman
+Dyson and Paul Borch were some of the
+guys who came up with almost all these
+ideas. Very impressive! The 'Smoke Ring'
+example - he actually has a large are
+loosely held together atmosphere around
+another star in another large donut
+shape but there's also self-contained
+varieties such as the 'Edersphere' where there is advertising on the
+outside of it but inside here you have a
+low-gravity environment where you can
+breathe and where it's a warm
+temperature but you'd have to have
+artificial lighting and again it's zero
+gravity.  Some of our balls are more
+popular examples like 'Disc Worlds'. Here's an example one that's a couple thousand
+kilometers across this where you live on
+a flat off one side or both sides then
+big enough they could have their own
+gravity but we usually think this is
+something with artificial gravity
+probably the best-known fictional
+example of this is the discord by Terry
+Pratchett great series
+a fantasy parody novels as well as the
+'Alderson Disc'. 
+Now normally 'Alderson
+Disc' is not considered a really great
+one to use.
+It is just very large, it's surrounds an entire star. But it's
+pretty much always in a constant
+perpetual haze of twilight and does not
+get a lot of light.
+You can get around this. 
+And the way that you would usually
+do this, is you would  float mirrors over your star that will set up two
+day and night cycle. This is where we get
+into another one of those concepts will
+be using a little later on:
+A 'Statite'. That's short for a static
+satellite. This is something that much
+like a solar sail is pushed on by
+sunlight nor to move. In this case though
+it's hung exactly at the distance where
+the solar pressure and the gravity equal
+out for that object so that does not
+fall into the Sun or get further away.
+With statites you can float mirrors over the Sun. One big one or hundreds of little
+tiny ones. 
+We are now going to move on the
+class are called 'Stellar Engines' and
+the classic example this is a 'Dyson
+Sphere' - again a Dyson Sphere is a couple
+billion times bigger than Earth in terms
+of land survace. Although a real one
+would probably be a little bit further
+out from the Sun than earth is. Bbecause of
+that day night cycle, where you might
+have some static mirrors around actually
+mimic that, but it has two sides one dark
+one light if you only get daylight the
+entire time as far away as earth is from
+the Sun you're going to melt pretty
+quickly. You need to be a little bit further out than that. Fundamentally, a
+'Dyson Sphere' is just not really a stable
+object and of itself it can even drift
+into its own star and needs artificial
+gravity so we usually talk about a 'Dyson
+Swarm' instead. This is identical to a
+'Dyson Sphere' except it's composed of
+endless millions and billions even
+trillions of rotating habitats or
+'Statites'.
+The other aspect of a 'Dyson Swarm' is it
+doesn't have to be complete, and you can
+build up in stages. So you could have a
+'Dyson Swarm' that only would say one
+percent coverage or absorption light and
+build that out of local materials a lot
+easier than you can an actual 'Dyson
+Sphere' where you're probably not going
+to have enough your matter to make good
+thick shells. 'Dyson Swarms' are also a
+little bit unstable. So we will also occasionally talk about a 'Jenkins Swarm'
+which is a sort of a very large donut around a star - of various swarm objects
+rotating bodies or Chapel. These don't
+follow circular orbits though they
+follow a slightly elliptical path that
+brings them a little bit closer and further
+away from the Sun and you'd probably use
+that to simulate your seasons. We
+mentioned the 'Matryoshka Brain' earlier. This is an object that is basically a 'Dyson
+Sphere',  'Dyson Swarm'.
+Instead of it
+being for people to live on
+you're using all their collective power
+to run a single massive supercomputer.
+Where a 'Dyson Sphere' almost
+incomprehensible huge in terms of how
+many people it can support,  a 'Matryoshka Brain' is almost incomprehensive huge
+- even more so in terms of how many
+calculations it can perform. Especially cuz
+it's assumed to be done by computer much
+more advanced in terms of micro sizing
+than our current ones are. You'd expect an object like this - if it was treated
+as a human mind - to be one that was
+trillions of trillions of trillions of
+times faster than a human.
+The next category
+of 'Stellar Engines' are the ones designed
+to remove mass from a star. A star
+lifting swarm or start lifting ring and
+this is basically how you go about
+killing a star but it isn't really
+weaponizeable. This requires a lot of
+infrastructure to do. Basically it relies
+around using the magnetic field that a
+star has and setting up a ring around it
+or swarm around it that is going in the
+opposite direction to basically rip
+matter off and cause it to emit at the
+northern and southern poles of the
+planet. The magnetic field is very
+intense and by by setting up a ring
+around it that spins and is a superconducting
+magnet, you can turn off gigatonnes of
+matter from that star - potentially
+reducing it down to nothing. Eventually
+big stars are much brighter and live a lot
+less time. They also burn a much
+smaller percentage of the hydrogen so it's
+reasonable to say that you might take a
+larger star than a yellow sun and
+strip matter away from it, so that lives
+longer. Or even a Yellow Sun to strip it
+down to be a red dwarf. Which will live for
+many hundreds of billions or trillions
+of years and use up almost all their
+hydrogen so they could be seen as much
+longer lasting and  more efficient engines. Now if you
+actually want to move a stall or solar
+system you have what's called the
+'Shkadov Thruster' this is basically a half mirror around a star and you often have
+a lot closer to the star than you would
+have a 'Dyson Spere' because you just
+need to make sure it's not so close it
+doesn't melt this would be a 'Statite' or
+swarm of 'Statites'.
+The lights pushes on it from one direction and it pushes it back in
+the opposite direction. the light from
+the star goes out in one general
+direction and this causes a force to be
+pushed on the mirror and the star and the
+entire solar system slowly accelerating
+up to high speeds it takes millions of
+years to move any significant distance
+billions of years to move in our
+galactic scale but this does actually
+work just fine
+it should be noted that the rate at
+which accelerates is related to the
+luminosity and mass the star. The brighter it 
+is the faster it moves. The heavier it is, the
+the slower it moves. 
+But stars actually raise
+their luminosity or how bright they are
+much faster than their mass. In an order of
+about the cube or fourth power.
+So a very bright star - such as one that could
+go supernova - is an ideal candidate to
+hit with a 'Shkadov Thruster' because you can
+move it very quickly.
+Alternatively a red dwarf will take a very
+long time to accelerate up this way
+those are your 'Stellar Engines'. Now
+that's not the absolute end of things
+there are many contructs have been
+thought through even bigger on the
+galactic scale the only one I'm going to
+take a moment to mention is a one of the
+examples #!% given. Where you take a
+galactic size black hole. We're talking
+about black hole of many millions of
+stars of solar masses like the kind you
+find the center of the galaxy and you
+build a shell around that. Like the super
+Mondane
+'Shell Worlds' be discussed and then you put
+another shell around that and another
+shell amount that's and another shell
+around that obviously these have to be
+actively supported you can put in so
+many layers that you're not just talking
+about a 'Dyson Sphere' hear you talk about
+something that's almost as big to a
+'Dyson Sphere' as a 'Dyson Sphere' is to
+the earth and you can actually live
+inside this thing! You could have endless
+layers of 'Shell Worlds' of earths. Trillions
+of earths in area to live on. 
+what's interesting is, that at the lowest
+levels, time is actually running slower
+from the distortion effect. Though
+there's no title for sustaining your
+part then is the highest level so at the
+lower levels time runs slowly at the
+higher levels that runs the normal time
+and this is, at the best of my knowledge, the
+biggest  construction could ever
+make that would have human habitability
+by normal people
+I'm not only posturing it, not just because
+it's a so immensely huge compared to a
+'Dyson Sphere', but because it's by the
+center of the galaxy and seems like
+would be an amazingly cool capital for
+galactic empire!
+So that's we're going to
+go ahead and finish off.  There's a lot of
+ megastructures we did not even touch
+on. I would certainly encourage you to
+research more of those. But these are
+almost the general ones that you'd expect
+to ever really see - they are used multiple times
+in different settings or in science
+in general. Anyway I hope you've enjoyed
+this and thanks for watching

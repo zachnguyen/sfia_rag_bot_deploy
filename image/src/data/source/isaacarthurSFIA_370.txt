@@ -1,0 +1,639 @@
+﻿This episode is sponsored by Audible.
+ 
+We often dream of a future in space 
+as a future of prosperity, 
+ 
+but what is involved in becoming a Utopia 
+of near-endless energy and resources?
+ 
+Recently we’ve been looking at how we 
+might become an interplanetary species,  
+and that’s focused principally on getting 
+our civilization up and out to space and the  
+worlds beyond, so today we’ll take a look 
+a little closer to home at what’s going on  
+back on Earth while all that is going on 
+in space. What life could be like here,  
+for the vast majority of folks who are 
+not involved in leaving the planet.
+ 
+It seems like a good time to focus on a positive 
+future, and in the nearer term, given that 2020  
+has been a heck of year, and I’m writing this at 
+the end of August so it’s only two-thirds done.  
+So how in this next century or 
+maybe even in the next few decades,  
+might we manage to become both a Kardashev-1 
+Civilization and a Post-Scarcity Civilization?
+ 
+For channels regulars, you’re probably already 
+familiar with both those terms, but to review,  
+the Kardashev Scale is a loose measurement 
+of how powerful a civilization is, with a  
+K-1 civilization being one that uses all the power 
+of a planet, a K-2 using all the power of a star,  
+and a K-3 being one that uses all the power 
+of a galaxy. That’s it for the official scale  
+and it doesn’t necessarily imply any particular 
+population or technological level, for instance  
+we could potentially be a K-2 civ using all our 
+Sun’s light, 2 billion times what hits Earth,  
+in even a couple centuries simply because the 
+most basic way to do that, enveloping your Sun in  
+bunch of thin foil mirrors, doesn’t require much 
+technology beyond a robot able to dig up metals  
+on some moon or asteroid, turn them into a foil, 
+and make copies of itself that can do the same.  
+As we’ll discuss more today, that’s not really 
+that sophisticated in terms of robotics & AI,  
+and even something as simple as that can kick 
+a civilization into being post scarcity. For  
+a given value of post-scarcity anyway, the basic 
+definition of post-scarcity as unlimited resources  
+wouldn’t seem possible in a finite universe, 
+so we have to modify the concept a bit to use  
+it in practical discussion and we’ll discuss 
+that modification of definition momentarily.
+ 
+But as a quick sidenote first, the original 
+scale created by astronomer Nikolai Kardashev  
+didn’t extend past 3, galaxy-spanning, but 
+folks often tend to throw the idea of K4 or K5  
+civilizations around, and indeed we actually 
+had to ban use of the term K10 civilization  
+on our facebook forum just because it got 
+so synonymous with magical super-aliens  
+rather than anything useful for discussion. We 
+just don’t have context for them, other than  
+knowing K9 Civilization would either be man’s 
+best friend or have a bone to pick with us. 
+ 
+Too many unknowns, so we’ll be trying to avoid 
+that for discussing our future today, by limiting  
+ourselves just to those technologies that seem 
+very plausible under known science and R&D,  
+though for the curious, when folks ask me for 
+a K4-plus scale, I usually say K4 is galactic  
+supercluster, K5 is Observable Universe, and 
+anything beyond that implies folks with access  
+to beyond the cosmological event horizon or 
+parallel universes or alternate realities.
+ 
+And that’s a good example of a technology that if 
+you had it would bootstrap you right into being  
+a post-scarcity civilization by its nominal 
+standard definition, one with no scarcity of  
+resources at all, as you can plunder the 
+multiverse from your backyard. Inside a  
+finite and closed universe that is not possible, 
+and that does appear to be what we live in,  
+since even if this Universe is infinite, the parts 
+we can reach by travel without faster than light  
+propulsion are not, due to Hubble Expansion.
+Since post-scarcity of that type seems impossible,  
+rather than having a useless term, we 
+modify it to something apparently possible.  
+Since folks use the term to basically refer 
+to a level of technology where folks are not  
+worried about basic survival anyway, we define 
+post-scarcity in that context; one in which  
+folks have no major anxiety over access to basic 
+needs, because things like food and energy and  
+basic goods and services are so readily abundant 
+that they are like finding some air to breathe or  
+a glass of water to drink, just not something 
+most folks worry about in their daily life.
+ 
+Of course what qualifies as a basic need is 
+debatable, and we usually borrow from Maslow’s  
+Hierarchy of Needs for that, a pyramid that runs 
+from the ground floor of basic physiological needs  
+like food, shelter, and sleep up to the 
+more esoteric ones of personal esteem and  
+enlightenment. The degree to which a civilization 
+is post-scarcity is essentially measured based on  
+how many of those needs are easily met, how easily 
+and abundantly they are met, and how far up the  
+Needs Pyramid they are. And this can be in a lot 
+of different ways too, for instance a cyborg who  
+could punch through a brick wall, walk around on 
+an airless rock, and eat anything including dirt,  
+is quite post-scarcity in terms of many 
+needs whether he’s living in a cheerful  
+utopia or some radiation-scorched 
+wasteland full of violent lunatics.
+ 
+So a civilization could end up as 
+post-scarcity, at least in terms of the  
+bottom tiers of physiological needs, simply 
+by modifying themselves to be way tougher,  
+stronger, or smarter, or all of the above. I 
+usually say the big technologies for pushing  
+us into a post-scarcity existence are better 
+energy availability or better automation though,  
+as if you have either you are in a position to 
+tip into post-scarcity. Indeed, I’d argue we are  
+already very close to it, at least those bottom 
+tiers and in wealthier segments of the world,  
+and a lot of what holds us back is 
+that energy is scarce and so is human  
+manpower to use that energy to make things. 
+The key notion though is that there are a ton  
+of technologies, or even just administrative or 
+cultural changes, that individually or grouped up  
+with some others do offer us at least that first 
+tier of physiological needs as post-scarcity,  
+again that being needs so easily fulfilled that 
+folks don’t have anxiety about getting them.  
+Now I use Maslow’s Hierarchy of Needs 
+strictly because it’s well known,  
+it’s got a lot of revisions and variants and 
+debates about which stuff should be where on it,  
+but it works for our purpose as a general 
+thermometer of how post-scarcity a civilizations  
+is. In that bottom tier of physiological 
+needs, usually given as air, water, food,  
+shelter, clothing, sleep, and so on, we’ve been 
+post-scarcity on air and water for a long time  
+with some exceptions like smog-filled cities or 
+desert lands or places torn up by war and chaos. 
+ 
+Again there are exceptions, both for the 
+civilization and for the individual’s lifetime,  
+many a person might have suffered from dehydration 
+at some point, but for most of us these are just  
+not things we worry about. We also don’t worry 
+about the cost of making long-distance phone  
+calls or needing to make a collect call, but 
+folks my age and older do remember times when  
+the distance or duration of a phone call was a 
+big worry and when keeping in touch with friends  
+and relatives in other states or countries could 
+become cost-prohibitive. Of course even a couple  
+centuries before that, having a relative move 
+to a different land meant a good chance you’d  
+never speak to them again, when postal service 
+wasn’t cheap or fast, or even didn’t exist,  
+and when a trip home might be an extravagant 
+luxury you saved up for years to do.
+ 
+Incidentally that would be an example of a 
+Tier 3 Need, feelings of love and belonging,  
+and are also a good example of 
+where technology of sheer abundance,  
+like mass production of power or food, doesn’t 
+help you out much or only indirectly. Your phone  
+can’t love you, at least not very well, but it 
+can keep you in touch with the people who do.  
+Infinite energy or raw materials in of 
+themselves doesn’t make you Tier 3 Post-Scarcity,  
+because that’s all things like 
+friendship and family and romance. 
+ 
+Of course the same computers that give us 
+better factories and automation and production  
+also let folks stay in touch over continents 
+or use dating software that helps them sift  
+through the many fishes in the ocean 
+to find the right partner for them,  
+it also makes for shorter less exhausting work 
+days with high prosperity to – in theory at  
+least – spend more time with your loved ones and 
+experience less safety and survival stresses. 
+ 
+Note that I say in theory because in spite of 
+us being the most prosperous civilization in  
+human history, there’s pretty good evidence 
+we’re as stressed out or even more stressed  
+out than our ancestors, and plenty of data 
+to suggest that higher personal prosperity  
+has only a fairly loose relationship at best 
+with happiness, stress, or contentment. 
+ 
+Just as a reminder in there that there’s no 
+single-solution magical wands in technology to  
+make everything better, unless we’re discussing 
+something like brainwashing or drugging folks  
+to be anxiety free, and we define that as a 
+Post-Discontent Society rather than post-scarcity,  
+though would also include an example of a 
+monk or aesthetic meditating somewhere too.
+ 
+All right, definitions out of the way[a][b][c], 
+let’s talk about the technologies on the radar  
+for getting us there. And when folks ask me 
+why I’m always so optimistic we’ll get there  
+and sooner than later, it is because while any 
+one of these given technologies might elude us,  
+or only be developed in a way that doesn’t offer 
+as much practical benefit as we might hope,  
+it’s the sheer variety of options, any handful 
+of which have the potential to get the job done,  
+that keeps me optimistic about 
+living to see this one day.
+ 
+We’ll start with the power issue. Becoming 
+a K-1 Civilization is another example of  
+tricky definitions, because it means using all the 
+power of an entire planet. And one could argue we  
+already do since the sun keeps the planet warm and 
+fuels not only our crops but the whole ecology.  
+Problem is, that definition would make every 
+civilization that ever existed K-1 Civilizations,  
+so what we really mean is either that much 
+electricity or power under our control  
+or more directly utilized. It is a thing to 
+keep in mind though, right now we tend to  
+think of developed nations as being rather 
+big energy gluttons, the average US citizen  
+consuming about 10,000 Watts on average, but 
+this ignores all the energy feeding our crops. 
+ 
+We are quite capable with modern technology of 
+feeding our whole population without needing  
+additional farmland, let alone supplemental 
+lighting for plants, but if you grow enough  
+people you eventually have to start powering 
+lights to shine on those plants in some sort  
+of vertical farming scenario or start growing 
+your food off-world. That’s a lot more than a  
+century off though as even if we quadrupled 
+our numbers this century like we did last  
+century, ending with 6.15 billion in the year 
+2000, we’d have about 25 billion by 2100,  
+and that’s not really a problem with modern 
+technology, even without deforesting everything,  
+let alone needing to power light bulbs to 
+grow food. Though it would benefit greatly  
+from energy abundance since you could cheaply 
+desalinate water and produce fertilizer and  
+produce megatons of aluminum struts and glass or 
+polycarbonate panels for greenhouses and so on.
+ 
+Energy is what powers our economy 
+so cheaper energy helps everywhere,  
+and needless to say you can get the same benefits 
+by being more efficient with your energy usage,  
+more so too because all the energy you use 
+ends up as heat that you have to get rid of.  
+It’s within our ability to make quarter of a 
+billion square kilometers of aluminum foil up in  
+space, sourced off of the Moon, and just put that 
+all in orbit of Earth bouncing light down on us,  
+doubling the light on Earth, which would make us 
+K1 but only for a little while before we scorched  
+the planet. Obviously being able to double our 
+average energy efficiency would be preferable. 
+ 
+We hardly need that much power for now either. 
+The Earth get’s 174 quadrillion watts of power  
+from the Sun, and that’s K-1. So if we were 
+talking raw electricity being produced,  
+that’s 17.4 Trillion times the average US 
+citizen’s power consumption. And if you are  
+growing all your food hydroponically via LED lamps 
+you could potentially grow food for one person on  
+a similar power budget. Incidentally we use about 
+9% of Earth’s surface area for agriculture of one  
+type or another, so in raw power that’s a bit 
+under 16 quadrillion watts to support just under  
+8 billion people, or 2 million watts, 2 megawatts 
+per person. Hence efficiency can do a lot of good  
+too, not just brute force energy production, 
+as mentioned you could probably support folks  
+on about 1% of that using LED Lamp lit 
+crops in climate-controlled facilities.  
+See our episode on supporting a trillion people 
+on earth for more discussion of that, but in  
+the short term we don’t need K-1 power levels. 
+For how we can get them anyway, see our episodes  
+on Power Satellites, The Future of Fission, or 
+Fusion Power, and any one of those offers huge  
+gains in power production. I don’t want to focus 
+too much on power as we’ve discussed it before,  
+along with food production, but it is a central 
+concept of Kardashev Civilizations. Again the  
+Kardashev Scale really just refers to power being 
+used, not how efficient, productive, or clever you  
+are with it. Improvements in superconductors, 
+battery storage, or even just how cheap we can  
+produce solar panels or other energy related 
+hardware can any of them, all by themselves,  
+help a lot with the energy needs. So too could 
+something like algae genetically tailored to  
+heavily produce feedstock for biofuels, 
+or other genetically modified food crops.
+ 
+And automation also obviously helps. If you’ve got 
+robots that can do all your tasks for you, you are  
+post-scarcity, but we’re never too interested 
+in entirely automated production chains,  
+just adding in a little more automation here and 
+there to improve production rates or consumption  
+efficiency, and that’s not just the big stuff 
+like tractors and engines but even small stuff  
+like the motion detector light switches that 
+come on and off if people are using a room  
+or the one sorting gizmo that lets a job 10 folks 
+do suddenly be done by 9 instead, or even 1. 
+ 
+Never underestimate the effect of the thousand 
+tiny things in the production chains in comparison  
+to the one big tech. I remember when the 
+virus first hit and there were a lot of  
+shutdowns of non-essential jobs, I got asked 
+by a lot of folks what qualified as essential.  
+I said if we’re talking a few weeks, not too much, 
+if we’re talking longer, almost everything. I’m  
+sure everyone remembers the Toilet Paper Shortage 
+of Spring 2020, but it hit a lot of things. Just  
+personally, Sarah and I were planning to make some 
+homemade applesauce as she’d picked up a bushel at  
+a local orchard, and last night had us hunting for 
+mason jars and lids and both being shocked out how  
+many sources were out of stock and what the price 
+was for those who weren’t, and I’d imagine we’ve  
+all been a bit surprised by the stuff suddenly 
+in short supply during the crisis either by an  
+uptick in demand or a drop off in production 
+because it was either deemed non-essential for  
+a while or was particularly hard to operate 
+under health safety measures now in place.
+ 
+This is another way you can get post-scarcity 
+too, and its flexibility of production,  
+an example of which would be improvements in 3D 
+printers in terms of speed, cost, or production  
+sophistication. I just mentioned how we had those 
+various scarcities and we have these amazing  
+manufacturing and distribution capabilities 
+compared to prior generations, but they can be  
+very slow to change over. Even if you can suddenly 
+repurpose a factory to produce some needed widget,  
+that widget might have a thousand different 
+components produced elsewhere at other factories,  
+not all of which can be rapidly retooled 
+to produce more of that component,  
+or the components diverted from other products 
+that use them, or the end-product adapted to  
+use some other item we have in abundance. 
+There are many types of waste and one of those  
+is inventory, keeping whole buildings full of some 
+product in case of a sudden demand or because of  
+some sudden drop in that demand, and food is one 
+of the big ones in that we generally waste 30-40%  
+of it to various losses in harvesting, transport, 
+storage, and at the cooking level. Some products  
+are worse, others much more durable and cheap to 
+store, but an ability to adapt production quickly  
+is another lesser-mentioned technological pathway 
+to being post-scarcity especially since it also  
+implies an ability to rapidly upgrade to 
+new technologies. Right now we often run  
+on old tech simply because the upgrade costs, in 
+terms of both hardware and training, is so high.  
+So too better distribution and cataloguing helps 
+a lot, for the latter so some company can find out  
+that screw #45 might be maxed out on production 
+from a given factory but that screw A-12 is nearly  
+identical and sitting there in some warehouse 
+unused. All sorts of smart software to help  
+identify waste, be it in workflow or even day 
+to day life, be it physical items or just time,  
+energy, and personal stress expended when they 
+needn’t have been, could also do wonders for us.
+ 
+What other minor and non-obvious things can push 
+us toward being post-scarcity? Well again it  
+depends on which types of post-scarcity we mean. 
+The higher Need Tiers often involve education  
+for instance, and smarter workers and smarter 
+inventors & innovators, plus more of them, can  
+obviously help across the board, but consider the 
+value of individual education over large classroom  
+lectures. We all know one-on-one is better for 
+teaching most things, but its cost is prohibitive.  
+We also know part of that is the ability of a 
+good teacher to tailor their efforts to the pupil,  
+and not only might interactive teaching software 
+help with instruction but it might help in  
+analyzing a student to be better at tailoring that 
+instruction. Same thing applies to almost any job  
+or life task of course, and we are making huge 
+improvements in such technology. Forget infinite  
+power, a vastly more educated population 
+will get you post-scarcity pretty quick. 
+ 
+Something like radical life extension 
+can make you post-scarcity too,  
+even ignoring that a much longer and 
+healthier life would seem like a goal  
+of a post-scarcity civilization, suddenly 
+having folks in their 90s in the workforce  
+with all the vigor of their youth and 
+all the experience of their lifetime  
+is a massive gain. So too, any of the science 
+fiction technologies, Clarketech as we call them,  
+like anti-gravity or perpetual motion machines or 
+anything that lets you bend or break the laws of  
+thermodynamics is instant post-scarcity. But again 
+we’re limiting ourselves to stuff on the radar.
+ 
+Cheaper and renewable power, cheaper 
+water purification or desalination,  
+cheaper production of any raw materials, any and 
+all minor improvements along the production chain,  
+improvements in the skill or stamina of the 
+workforce, all can take you to post-scarcity,  
+or at least the low tiers of need. 
+How about those higher-tiers? And what  
+is life like in a fully post-scarcity civilization 
+anyway?[d] Well those higher tiers of need focus  
+more on the psychological, the longer term, the 
+deeper or more philosophical aspects of life,  
+and of course the big one for discussion in 
+post-scarcity is fears over a loss of purpose,  
+enough that we did an episode 
+just on that a couple years back.  
+However, one thing we need to keep in mind, 
+especially as we start improving all those  
+technologies for the human condition, things 
+in the realms of psychology or neuroscience,  
+cybernetics or prosthetics, medical gene 
+therapy or alteration, and education,  
+is that people aren’t likely to just be sitting 
+around all day listlessly soaking up the sun in  
+some lounge chair waited on hand and foot 
+by robots in a post-scarcity civilization.
+ 
+And I’m sure we would see that a 
+lot too, might as well enjoy life,  
+but as time rolls on and technology improves that 
+relates to raising kids, the equation might alter.  
+We can picture a post-scarcity civilization as one 
+where everyone is indolent and lazy because they  
+can do whatever they want their whole life but 
+that’s ignoring their formative childhood years  
+where they obviously can not, as those raising 
+them determine what they can do. You probably  
+never have accidental pregnancies anymore and 
+every kid who is born was conceived intentionally  
+by people who probably were aiming for their child 
+to be a good citizen and exceptional.[e][f] 
+ 
+In the longer term, with enough technology, that 
+might mean every kid was a star athlete and genius  
+by modern standards and further augmented 
+by interactive education technology that  
+was cramming learning into their head better than 
+the most enthusiastic and skilled teachers could  
+do nowadays even one-on-one full time. They might 
+have improved their knowledge of the mind to the  
+point they could rehabilitate any criminal or fix 
+any addiction or mental issue in an afternoon.  
+A civilization like that, whose kids could 
+probably jump in a time machine to nowadays  
+and get a full ride to any school on an academic 
+and athletic scholarship, and got all the ethics  
+in theirearly childhood too, and didn’t die of old 
+age, doesn’t strike me as one prone to indolent  
+and decadent descent or running some horribly 
+mismanaged and corrupt society. So even that  
+worry that post-scarcity civilization, if reached, 
+might be a poison pill, doesn’t seem very likely.
+ 
+What do they do with their time though? Well, some 
+of them probably do sit around navel-gazing I’m  
+sure, or picking up hobbies you or I would 
+find pointless, and might or might not be,  
+but they need to hit one other piece of the Needs 
+Tier and that’s things like self-esteem and peer  
+respect. Those are hard to satisfy with sheer 
+abundance, indeed maybe harder to satisfy, as no  
+one is particularly impressed you can kill a deer 
+to feed the tribe or kill a wolf to protect the  
+tribe anymore, or its modern equivalents. To some 
+degree you have the advantage of the internet,  
+which lets you find that small number of folks 
+who share your obscure hobbies and interests,  
+but we also have grand efforts and wonders, 
+like building all those megastructures we  
+talk about on the show or heading off to space 
+to conquer and tame and terraform new worlds.
+ 
+I get asked sometimes how we’ll come up with all 
+the colonists for space, and I don’t think even  
+now we’d ever have a shortage of volunteers, but 
+folks often wonder if a post-scarcity civilization  
+would find even fewer volunteers simply from 
+losing out on all the luxuries and security they  
+were used to. Quite to the contrary, they probably 
+wouldn’t have to do without those much anyway,  
+but if you have a civilization that’s full of 
+folks who technology and techniques have made  
+nearly superhuman, I suspect most might find the 
+challenge of the frontier quite to their tastes.  
+And we’ll look at some more of 
+those challenges as we continue  
+our Becoming an Interplanetary species series.
+But as for becoming a Kardashev-1 Post-Scarcity  
+Civilization, it won’t happen tomorrow but I 
+firmly believe we’ll get the capacity for it  
+fairly soon, maybe a generation, maybe a 
+century, but I don’t see it being longer.  
+Hard roads still ahead to get there to 
+be sure, but sometimes the journey is as  
+good as the destination, at least it gives us a 
+purpose, and a pretty awesome one at that.
+ 
+We were talking about Clarketech earlier,  
+technologies so far up the ladder that they 
+are indistinguishable from magic to us,  
+and how any of those sorts of supertechnologies 
+might elevate us to Post-Scarcity all on its own,  
+and it reminded me that it is very hard to find 
+examples of Post-Scarcity Utopias in fiction. Even  
+when we do see them they tend to be intrinsically 
+flawed or hiding over a dark side. Now that is  
+because its fiction and genuine Utopias make for 
+very boring stories, but I think it often paints  
+a more pessimistic view of future civilization in 
+much the same way just hearing bad news all day  
+long can make you feel like the world is coming 
+unglued even when many things are going well. 
+ 
+Not every author paints bleak pictures though, 
+and Arthur C. Clarke, famous for novels like 2001,  
+Rendezvous with Rama, and Childhood’s End, 
+and for whom we name the term “Clarketech”  
+was one of the great scifi writers of the 20th 
+century and one who often painted a more hopeful  
+image of the future. His novel Childhood’s End, 
+which was his first novel, is one where we see  
+humanity encounter a peaceful and benevolent 
+alien species who brings on a golden age for us,  
+and is one of his most celebrated works that has 
+inspired so many other stories down the years,  
+so this month’s Audible Audiobook of the Month 
+goes to Arthur C. Clarke’s “Childhood’s End”
+ 
+You can find that audiobook, along with the 
+rest of Arthur C. Clarke’s many excellent  
+novels and short stories, over at Audible. They 
+also have podcasts, guided-wellness programs,  
+theatrical performances, and exclusive audible 
+originals, indeed they have over three centuries  
+worth of audio if you just hit the play 
+button and ran it through every title.
+ 
+If you want access to that massive collection 
+of great audiobooks, like “Childhood’s End”,  
+you can join Audible for a 30-day free trial, 
+and Audible members not only get discounts on  
+any audiobooks they buy, but a free book every 
+month. Additionally, they are now giving unlimited  
+access to their audible originals. You can start 
+listening today with a 30-day Audible free trial.  
+Just visit the link in the episode description, 
+Audible.com/Isaac, or text “Isaac” to 500-500.
+ 
+So we’re into November now and we’ve got a 
+full schedule. Next week we’ll be looking  
+at the concept of Interstellar Trade, then next 
+Sunday we have a Bonus episode coming up on the  
+Fermi Paradox and the Prime Directive, the notion 
+that aliens might be out there but don't contact  
+us because they have rules against it. Then 
+we’ll be taking a look at Asteroid Mining,  
+Orbital Settlements, and 
+Life as a Space Colonist.
+ 
+If you want alerts when those and other episodes 
+come out, make sure to subscribe to the channel,  
+and if you’d like to help support future episodes, 
+you can donate to us on Patreon, or our website,  
+IsaacArthur.net, which are linked in the episode 
+description below, along with all of our various  
+social media forums where you can get updates 
+and chat with others about the concepts in the  
+episodes and many other futuristic ideas.
+Until next time, thanks for watching,  
+and have a great week!
+[a]It  
+took a while.
+[b]too be fair,  
+that's fairly par for the course for me :)
+[c]No problem, I had my drink and a snack. :)
+ 
+[d]Shouldn't this have been 
+establishd earlier in the discussion?
+ 
+[e]...but without any real 
+effort their own parts.
+ 
+[f]That might be the weird thing, 
+and I hesitate to bring it up,  
+but many folks might be entirely qualified 
+and enthusiastic parents and still lean on  
+the machines because they feel they'd do a better 
+job and don't like to interfere with the 'expert'

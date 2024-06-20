@@ -1,0 +1,625 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+It’s been half a century since Neil Armstrong’s
+one small step, and its time for humanity
+to make another giant leap, but where to?
+A common debate these days is whether we should
+go to Mars now or wait till we have returned
+to the Moon and usually with the intent of
+having a permanent Moon Base setup.
+Today we will be asking which is better or
+if maybe a third option is better than either
+the Moon or Mars first.
+Now I don’t make much of a secret that I
+tend to favor a robust lunar setup as a precursor
+to going to Mars, or even doing them in tandem,
+but we’ll be trying to examine the case
+for each today, and in the context of today.
+Many of the arguments for one or the other
+have been dependent on the situation of public
+support and available technology at the time
+the case was being made and that is a fluid
+setup but sometimes the arguments lag behind.
+Existing space infrastructure might matter
+a lot in the equation too.
+For instance the concept of Asteroid Mining
+has surged in popular interest in recent years,
+and a Near-Earth asteroid might be converted
+into an Aldrin Cycler, a sort of ferry craft
+between Earth and Mars.
+Or Earth and other planets for that matter.
+So we will look at the possibility of Asteroids
+first, as an alternative to the Moon or Mars,
+and also Venus First and Jupiter First and
+some other lesser known scenarios.
+But our main focus today will be the Moon
+and Mars and without further ado, grab a drink
+and snack and let’s jump on in…
+So, for most of us who love space travel the
+answer to if we should do the Moon or Mars
+first is “Yes, please”, we don’t care
+which happens first so long as it is both
+eventually and every other place too.
+The key concepts of going to the Moon before
+Mars is essentially the idea that the Moon
+is more important as a first step than Mars
+or that it makes going to Mars easier.
+There are many arguments often made but some
+probably are less valid than others and let's
+begin with one that has a number of both.
+Namely that setting up a base on the Moon
+will help us learn better how to do so on
+Mars.
+On the one hand, yes this is very true, but
+we also need to keep in mind that living on
+either has very little in common with each
+other.
+It's a bit akin to saying that learning to
+live in the Sahara Desert teaches you about
+how to live in Antarctica or at the peak of
+Mount Everest or in the Marianas Oceanic Trench
+and vice versa.
+There are going to be good lessons that adapt
+well between each case, but by and large adapting
+to these environments is so different that
+you can’t assume mastering one makes you
+ready for the others.
+On the flip side, learning to extract oxygen
+from Lunar Regolith to fill structures so
+we can breathe on the Moon, and learning to
+keep those air tight, is going to translate
+decently to Mars.
+Same for converting ice to oxygen and water
+if it turns out the Moon has accessible amounts
+of those.
+That’s something we still don’t really
+know, whereas Mars certainly has them.
+It's also worth keeping in mind that these
+two worlds, Mars and the Moon, may be very
+different from each other but they are also
+different from themselves.
+I used various examples from around Earth
+to emphasize how different Mars and the Moon
+were from each other but the examples illustrate
+how different bits of Earth are from other
+bits of Earth and we should not assume either
+the Moon or Mars are monolithic and homogenous.
+Indeed we know they are not, and so even a
+base built in one part of the Moon isn’t
+a perfect blueprint for a base elsewhere on
+the Moon, and the same for Mars.
+Such being the case, it really challenges
+how useful a Moon Base is for learning the
+lessons we need for a Mars base.
+It might be more practical to just do prototypes
+and demos on Earth, given the difficulty of
+building them on the Moon.
+If you really needed an airless bit of desert
+to practice in we could always put a big dome
+over a bit of existing desert and suck the
+air out, and probably easier and cheaper than
+building a Moon base right now.
+So too, I said we could learn to make oxygen
+from rock or ice on the Moon and apply that
+technology to Mars, but it's even easier to
+do that right here on Earth where all our
+industry and scientists and engineers already
+are.
+In terms of valuable lessons learned, we would
+pick up a ton from doing a Moon Base, but
+we would also learn a ton from doing the Mars
+Base that would help on the Moon.
+The advantage of doing the Moon first in terms
+of those two options might be that the Moon
+would be cheaper and easier to try first,
+but that’s debatable.
+What isn’t debatable is that the Moon is
+so close to us that signals take only a few
+laggy seconds to go back and forth, versus
+several minutes for Mars, and that ships need
+a few days to get to the Moon with current
+drives, versus months for Mars.
+So, if you screw up, someone can be online
+helping you in moments, real time, and evacuation
+or new supplies might be available in a short
+enough time that a person who had to escape
+a base in nothing but a spacesuit with an
+extra bottle of air and water might still
+be alive when help came.
+Not so for Mars.
+Critical failure there is going to be a lot
+harder to avoid and survive.
+Nor can we remote control robots from Earth
+on Mars like we can on the Moon.
+That said, those same signal and travel delays
+are still in play on Mars when you head there
+whether you have set up shop on the Moon or
+not.
+We also probably should not be sending missions
+to either with people on board until we have
+modeled and tested failure options to the
+point that one happening would be highly unlikely
+and most of the failure scenarios can be tested
+just fine on Earth anyway.
+It’s more about handling unknown unknowns
+and those will exist for Mars whether we have
+found some on the Moon first or not.
+We also need to be asking ourselves how much
+risk we are willing to take.
+I am quite sure we could find qualified volunteers
+for the trip who would go even if the odds
+were rated 50/50, but I would have difficulty
+imagining many current major nations or corporations
+being willing to launch with odds that bad.
+Even 90/10 for Mission 1 is asking for trouble.
+It is one thing for everyone to say they accept
+risks, it is another after the fact.
+Success requires no excuses, failure tolerates
+none.
+And while there is no substitute for real
+experience in dealing with potential problems,
+we never aim for trial by error and we can
+do a lot of preparation and redundancy, gold-plating
+systems to be robust, durable, simple, and
+easy to replace or repair.
+We probably are not going to lose a Mars Base
+because it sprung a critical air leak on some
+seal, where had that happened first on a Moon
+base we would be fine.
+You lose it to stuff nobody saw coming, like
+the Mars Base getting eaten by indigenous
+giant sandworms, which presumably don’t
+dwell on the Moon anyway.
+Alternatively a big problem on the Moon that
+was not really expected during the Pre-Apollo
+build up was the moondust.
+The regolith on the moon isn’t weathered,
+it is sharp and sticks and clings to everything
+and represents a giant maintenance headache.
+Martian dust is also problematic but differently
+than the Moon and probably less of a headache,
+but the same basic concepts are in play.
+Neither world has soil, they are not weathered
+down and they may be toxic and require major
+efforts to render safe and useful as a growth
+medium for plants.
+Managing them to prevent them damaging equipment
+may require different approaches but would
+probably have a lot of overlap.
+So what emerges is that the argument that
+starting on the Moon will help us on Mars
+is valid but only so much so.
+That still leaves us proximity though.
+The Moon can be reached by signal near instantly
+and emergency resupply or help or evacuation
+should be available in a few days, possibly
+less.
+However, in reality even the idea that we
+could send help to the Moon in mere days is
+not necessarily as handy as it sounds like.
+For a well resourced and well-trained team,
+you can probably make do against emergencies
+that aren’t rapid and catastrophic like
+the roof blowing off your habitation dome.
+There really is not likely to ever be a manned
+mission to Mars, and probably not the Moon
+either, which does not have some robotic component,
+a 3D printer, and either large reserves of
+air, water, and fuel, or devices for making
+them on site from local materials, what we
+call in situ resource utilization.
+Let’s paint a picture.
+You’re part of a 10-person team including
+a lot of STEM experts all rigorously trained
+with your equipment and for crisis management.
+I drop you somewhere on Mars or the Moon,
+doesn’t matter which, with two spacesuits
+each, a couple boxes of spacesuit repair gear,
+a bunch of solar panels, a device able to
+extract oxygen from rock so long as supplied
+with electricity, and a device able to recycle
+water from sweat or urine or impure ice deposits
+so long as supplied with electricity, plus
+spares of each of those devices.
+And some hand tools, a year's worth of food,
+some seeds, and a lot of feedstock for that
+3D printer.
+Our remaining kit is all the obvious stuff
+like lights, batteries, medicine, computers,
+and so on.
+What realistically is going to go wrong here
+that won’t kill people in minutes but would
+get them in a week but not a year?
+Or where a rescue or resupply on the Moon
+would help but if they were on Mars they’d
+be out of luck?
+Could they run out of food?
+Sure but they aren’t keeping all of it in
+one place.
+Presumably you send them with reserves, say
+25% more than expected.
+There’s presumably no space bears or space
+ants going to go raid your picnic baskets,
+so damage would have to be some strange type
+of unexpected spoilage or some gross physical
+damage to the site that destroyed either a
+lot of the camp or by bad luck hit one of
+your food stores.
+If you had it all in only 3 spots, even a
+total loss of one, with a 25% reserve, leaves
+you 83% of your food left.
+Tight rations but not starvations rations
+either.
+Of course, maybe a meteor hit and blew up
+two of your 3 reserves, now you’re down
+to 42% of your food, but odds are good something
+that destructive killed a couple people at
+least who now don’t need food.
+Indeed it probably would have gotten nearly
+everyone if it also got the food.
+The type of food you’d send for missions
+like this is not destroyed by vacuum exposure,
+so to lose it all to some destructive event
+would tend to imply the camp took a pasting
+that destroyed lots of other stuff and killed
+lots of people.
+Alternatively for something like water reserves
+being damaged, on Mars, assuming you have
+transport, you can go source more from places
+with ice faster than any ship could arrive
+from Earth, and if you can recycle your water,
+you should be able to make do even if only
+a fraction of your reserves were left.
+Alternatively maybe a member of your crew
+went nuts and started selectively destroying
+food, or water or air, but why would they
+do that and what really is the defense against
+it?
+They could overload the reactor, so to speak,
+and kill everyone, in which case a resupply
+pod or search and rescue team a few days later
+isn’t really helping either, everyone’s
+already dead.
+Such breakdowns shouldn’t be fast though,
+and psychologists monitoring base cameras
+and crew real time for the Moonbase enjoy
+little advantage over those watching 20 minute
+old recordings from a Mars Base.
+Another thing to keep in mind is that it is
+really only in the early days that ‘help’
+is coming from Earth.
+On the Moon or Mars there is likely to be
+a ship or station orbiting it, or another
+base, either of which might provide assistance
+to others and vice versa.
+One more big factor to contemplate about whether
+we should put boots on the ground on Mars
+or the Moon next, is that wherever that pair
+of boots first take a small step for a man
+and another giant leap for mankind, there’s
+already going to be a robot sitting there.
+Not all landing sites are created equal and
+you can plan your mission a lot better if
+you’re not guessing about the site.
+You will have sent rovers to check the spot
+out probably before you even started building
+the ship the folks who will travel there will
+come on.
+You will have a very good survey and you will
+likely have pre-dropped some supply and gear.
+A Moon base might be partially constructed
+by robots remotely controlled from home, so
+that the crew can rapidly assemble and inhabit
+the facility on arrival.
+We consider that another big advantage for
+the Moon, but it may be overstated.
+Consider, scooping dirt and shoving or ramming
+it into crude habitat walls, assembling a
+solar panel from an existing kit, or having
+some water or ice oxygen extractor setup,
+mobile or fed by robots bringing raw material
+to it, is not exactly some complex chess game
+requiring an artificial intelligence of prodigious
+capability to perform.
+Especially given that these are long term
+tasks compared to the singal lag time even
+to Mars.You can’t remote control the drone
+near-real time but you can send it general
+construction updates and plans.
+Or maybe you could do it near-real time.
+We often suggest that one of the two Martian
+Moons, Phobos or Deimos, might be better first
+stops, especially if any of their surface
+craters contained ice.
+Nobody really likes the idea of going all
+the way to Mars just to stop a few thousand
+kilometers short at one of its tiny little
+moons, but setting up a base on one might
+be a very good plan.
+Possibly done by robots in a precursor mission,
+possibly done by whoever is left on board
+the main ship as the rest of the crew descends
+in shuttles or pods.
+One of the more popular notions for a Mars
+mission is to send a nuclear reactor there
+produce rocket fuel from native ice, which
+can be used to fuel your return trip to orbit
+and to Earth.
+But for all the millions of kilometers between
+Earth and Mars, it’s those handful of thousands
+nearest that represent most of the risk and
+problem, especially that last couple hundred
+kilometers of atmosphere.
+If either Martian moon contained ice, robot
+probes might find it and set up a fuel depot
+there.
+Of course another popular reason for going
+to the Moon first is that we can set up fuel
+production there too.
+There appears to be ice on the Moon, but you
+don’t need ice there or on either Martian
+Moon to make fuel.
+Aluminum and oxygen make a decent fuel, and
+there’s tons of Aluminium on the Moon, and
+there’s tons of oxygen any place you’ve
+got rock.
+Aluminum is abundant on Mars too, so also
+presumably its two moons.
+If you can make fuel in space, off Earth,
+then it makes flying to any other place much
+easier because most of the fuel used flying
+to Mars is flying out of Earth’s gravity
+well to begin with.
+So if you set up fuel production on the Moon,
+not only does that let you build a more robust
+space infrastructure near Earth and the Moon
+for sending things to Mars, it lets you send
+a lot more cargo there to await a manned mission.
+Supplies left in orbit of Mars or dropped
+to the surface, either made on the Moon or
+in Orbit, or just sent up from Earth but pushed
+the rest of the way from low Earth Orbit using
+fuel made on the Moon.
+That’s probably the most attractive aspect
+of the Moon First scenario.
+It allows a big buildup of space infrastructure
+and industry, which is going to make any Mars
+venture vastly easier and done with vastly
+more experience of day-to-day off-Earth operations.
+The Moon fuels all that with raw materials
+and literal fuel.
+Maybe the biggest thing Mars is often seen
+as having for it is that it's not a resource
+extraction site, as we think of the Moon or
+asteroids as, it's a potential new planet
+we could terraform to be Earth-like and be
+home to humanity and our transplanted and
+adapted ecosystem.
+However, Venus is perhaps the more logical
+candidate in this regard, and is closer to
+us than Mars in both Size and distance, were
+it not so hot.
+Fundamentally Venus can be made Earth-like
+in ways Mars really cannot, though terraforming
+either is way outside the scope of this episode,
+which is about first missions and maybe respectably
+large bases or outposts.
+We explored how to live in floating cities
+on Venus in our episode Colonizing Venus and
+we explored terraforming both Mars and Venus
+in our Springtime on Mars and Winter on Venus
+episodes.
+Now, we often note that the Moon’s proximity
+to us is an advantage but another argument
+for Mars is exactly that, the Moon is so close
+to Earth that it does not represent a backup
+plan.
+We often think of colonization of space as
+important for getting all of our eggs out
+of one basket, and it is hard to imagine how
+an event that utterly obliterated civilization
+on Earth wouldn’t get our orbital facilities
+or Moon bases too.
+It’s also unlikely the Moon would ever be
+any more decoupled from Earth's politics and
+economics than any of its space stations or
+continents and islands would be.
+So if you want to truly set up a backup civilization
+Mars is better as a choice than the Moon and
+easier to do than Venus, even if Venus can
+be done more properly with more time and effort.
+However, this is where the Moons of Jupiter
+become even more appealing.
+Jupiter is still close enough to the Sun to
+make solar power feasible if that’s all
+you got, it’s got dozens of Moons, 4 of
+which match or exceed our own Moon, and it
+has plenty of every element life needs.
+Each of those moons is easily traveled to
+from each other, and a place like Europa,
+Callisto, or Ganymede, might be ideal for
+a subsurface colony that was well protected
+by distance and physical barriers from any
+chaos or havoc closer into the solar system.
+So for backups, the Moons of Jupiter seem
+better than Mars, especially as they are plural,
+and setting up multiple bases on multiple
+moons, all able to be independent but also
+easily able to trade back and forth, or come
+to each other’s ais, does seem a better
+backup plan than Mars.
+You can terraform them too if you really want,
+see our episode Summer on Jupiter for details.
+Incidentally for folks who ask, there are
+no plans for an “Autumn on Planet X” episode.
+I get asked about that a lot and the most
+popular suggestion seems to be “Autumn in
+the Asteroids”.
+As mentioned we’ve no plan for that episode
+but asteroids are another alternative first.
+The Asteroid Belt has many of the same advantages
+that Jupiter’s Moons have, but in this case
+we mean the asteroids not in the Belt.
+Rather our interest is in the Near Earth Asteroids.
+Now, near-Earth can mean physical proximity
+but what we generally also mean is delta-v,
+or how much fuel it would take to leave Earth
+orbit and rendezvous with an asteroid, and
+in this regard there are thousands of objects
+that are easier to get to than Mars or even
+the Moon.
+Many of these have no shortage of raw materials
+we could use to fill the same supply role
+we contemplate for the Moon.
+A kilometer-wide near-Earth asteroid maybe
+tiny mote of dust compared to the Moon or
+Mars but it’s still around a billion tons
+of material we could use.
+Some of which might be precious metals to
+fuel asteroid mining endeavors financially.
+There’s no real profit model for Mars that
+I know of, just a new place for people, and
+even for the Moon the interest is mostly for
+raw materials to fuel space exploration or
+colonization, your profit model tends to be
+scenarios like mining and building orbital
+mirrors to be used in power satellite grids
+or weather and climate control systems.
+Near Earth Asteroids also might be better
+stepping stones to Mars than the Moon.
+They are just as easily turned into fuel production
+spots as the Moon, and use less fuel getting
+free of their own gravity well.
+What’s more, a smaller one, especially one
+being used to make fuel anyway, can be found
+that’s on a fairly elliptical orbit not
+too far off from what we contemplate for an
+Aldrin Cycler.
+An Aldrin Cycler, a large spacecraft named
+for Moon Man Buzz Aldrin – who refined the
+concept of cycler spacecraft – is essentially
+a ferry craft that moves back and forth between
+Cislunar Space and Mars orbit.
+Cyclers are interesting devices that focus
+heavily on that minimum energy Hohmann Transfer,
+as they essentially make a single long eccentric
+loop around the Sun moving between those two
+bodies, in the case of Mars cycler, it spends
+5 months going from Earth to Mars, spends
+another 16 months out past Mars, and another
+5 months again back to Earth’s orbit, then
+repeats the process every 26 months.
+You could think of it like a big empty train
+that drives a scenic route but never stops.
+You’d still have to expend fuel as normal
+to get people, equipment, and supplies to
+the Cycler, but at least you’d have a big
+comfortable living space for the trip once
+you did.
+You could also potentially be producing that
+fuel needed to fuel those ships and bump that
+asteroid into the cycler orbit from the asteroid
+itself.
+So which way is best, Mars First or the Moon
+or one of these others?
+For my part I still would say Moon First.
+It still seems the most probable path for
+a strong and safe emergence into the solar
+system, but as we saw today there are other
+options and strong arguments for each.
+Indeed there’s many more than we looked
+at today for those who want to explore the
+topic more themselves.
+One word of warning about those, and about
+our own points for today, so many of the plans
+drawn up, or arguments in support of, one
+of these Mars or Moon endeavors are either
+based off technology that’s always changing
+or reliant on technology we don’t have yet
+or don’t have fully prototyped and time-tested
+yet.
+One small and minor technology could be the
+difference between Mars or Moon First, simply
+making one much easier or safer.
+Or, one of the other locales we suggested.
+In the end, time will tell, but I’d still
+put my money on the Moon as the best shot,
+of course I wouldn’t mind being proven wrong.
+For me and so many others, we don’t really
+care which happens first, so long as it happens,
+and sooner, rather than later.
+It’s been a busy week here on SFIA, in between
+our two regular Thursday episodes we had a
+two-part episode on the Geopolitics of Space
+Colonization with WhatifAltHist and our scifi
+Sunday episode, Annoying Aliens, which had
+an extended edition episode on the Top 10
+most annoying fictional aliens over on Nebula.
+And we’re still not done for the month and
+will get to our upcoming schedule in a moment.
+First though, today’s episode was focused
+on Mars vs the Moon but I mentioned the possible
+alternate candidates beside either, and I
+wanted to spend more time on Venus’s pros
+and cons but didn’t want to shift the episode
+focus off the Moon and Mars, so we will be
+having a brief extended edition of today’s
+episode considering Venus First over on Nebula,
+our streaming service.
+And if you’re looking for more content on
+Mars, there’s a number of great shows on
+the Red Planet, like Packing for Mars, over
+on Curiosity Stream.
+If you’d like to see that extended edition
+of today’s episode, looking at Venus First,
+Sunday’s Annoying Aliens Top 10 list, or
+any of our other extended episodes, those
+are available on Nebula, our streaming service
+where all our episodes air early and ad and
+sponsor free, alongside some exclusive episodes
+like our Coexistence with Aliens series.
+There’s also many other excellent creators
+there who put out exclusive or bonus material.
+Now you can subscribe to Nebula all by itself
+but we have also partnered up with CuriosityStream,
+the home of thousands of great educational
+videos, to offer Nebula for free as a bonus
+if you sign up for CuriosityStream using the
+link in our episode description.
+That lets you see content like “Packing
+for Mars”, and watch all the other amazing
+content on Curiositystream, and also all the
+great content over on Nebula from myself and
+many others.
+And you can get all that for less than $15
+by using the link in the episode’s description.
+So after 4 episodes in a week, one a two-parter
+and two extended editions, we will be catching
+our breath until next Thursday, where we will
+celebrate our 300th regular episode here on
+SFIA by leaping into the distant future to
+look at the End of Earth.
+Then next Sunday, July 25th, we will have
+our Monthly Livestream Q&A, don’t forget
+to join us then to get your questions answered.
+Then in two weeks we’ll have the third episode
+of our new series, Galactic Domination: The
+Galactic Laboratory, which will finish us
+out for July, on the 29th.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us iTunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

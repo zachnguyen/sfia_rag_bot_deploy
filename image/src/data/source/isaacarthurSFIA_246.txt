@@ -1,0 +1,2756 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+Science fiction delights in showing us humanity’s
+future on strange new worlds we will find
+out among the stars… but it is very likely
+our future will be on massive artificial worlds
+and megastructures of our own creation.
+So welcome to Science & Futurism with Isaac
+Arthur, and I am the aforementioned host,
+Isaac Arthur.
+Just under eight years ago the channel began
+with an episode cataloging a number of what
+we call megastructures, huge artificial constructs
+that in many cases would rival entire planets
+in size and serve a similar role, as our future
+homes.
+Back in the day, the graphics on the show
+weren’t terribly impressive, indeed most
+megastructure visuals in existence were made
+after that episode, many for this show, and
+the audio was terrible.
+It was the first episode of this show and
+the only one not to include the episode transcript
+in as captions because there wasn’t one.
+As time went on our audio and graphics improved
+and I got some speech therapy for my speech
+impediment, and Folks have often asked why
+I’ve never redone that episode, when almost
+every other early episode has gotten a redo
+or reboot or even an entire extended series.
+Indeed we gave many megastructures their own
+episode in our megastructure series, but it
+did indeed seem time to catalog all of them
+again in summary form, including many new
+ones we and others have dreamed up since then.
+Needless to say, even keeping it quick, this
+one is going to be a long, long episode, easily
+beating out our previous record-holder, the
+Fermi Paradox Compendium, which was over 70
+minutes.
+So get yourself a drink and a snack, or even
+two, and let’s get started.
+Also in the interest of preserving my vocal
+cords, my wife and livestream co-host, Sarah
+Fowler Arthur, will be alternating narration
+with me between entries.
+Now, obviously, even giving ourselves an extended-length
+episode isn’t going to give us much time
+to get into details, but we’ll be trying
+to approach this categorically and that’s
+rather tricky because a megastructure pretty
+much means anything artificial and enormous,
+but the majority of them are artificial habitats
+designed around terrestrial ecology and humans.
+Some exist for maximum efficiency and practicality,
+things we might build in a century or two,
+like the O’Neill Cylinder or Stanford Torus,
+others for the sheer ridiculousness of them,
+what we call a BWC or “Because We Can”
+Megastrcutre, like flat planets or cube shaped
+ones.
+Some rely on concepts that need explaining,
+like spin-gravity, and will apply to several
+structures.
+In the end though the determining factor for
+format is just that I know I’ll think of
+ones I forgot while I’m writing, so we’re
+just going to do them alphabetically, and
+those concepts relevant to megastructures
+that aren’t megastructures themselves, like
+spin-gravity or gravity plating, will get
+their own entries and we’ll just reference
+the concept in the Megastructures.
+With that in mind, let’s begin our list
+with one of the most important engineering
+tricks for mega-engineering, Active Support,
+then we’ll look at a megastructure needing
+it, one of the most impressive megastructures
+out there, the Alderson Disc.
+Active Support
+Active Support is a method that can be employed
+to build structures that no known material
+could support via compressive strength.
+While it comes in many forms, the most conceptually
+simple way of thinking of it is as a hose
+when you’ve turned the water on, and grows
+stiff as that water flows into it.
+For objects like a Lofstrom Loop or Orbital
+Ring, it is assumed that it will be high-speed
+metals moving inside magnetic confinement,
+accelerated by applying electromagnetic shoves,
+and contained inside a stationary sheath.
+In high-tech megastructures, this may be a
+magnetically-shielded structural support with
+warm temperature superconductors inside it,
+limiting the need to apply additional power
+to keep the active support intact and rigid.
+These objects can be arbitrarily strong and
+large.
+Most common shapes would include a circle
+or ellipse, such as an Orbital Ring, or a
+straight line, such as an Atlas Pillar or
+Space Tower.
+They form the foundation of many megastructures.
+See also: Atlas Pillar, Lofstrom Loop, Orbital
+Ring, Shell World, and Space Tower.
+Alderson Disc
+The Alderson Disc is an immense flat planet
+built, with a top and bottom side you could
+live on, around a star at the center of the
+disc.
+It was first suggested by Dan Alderson, a
+scientist at the Jet Propulsion Laboratory
+who was active in sci-fi circles and talking
+with sci-fi writers, particularly with Larry
+Niven, who wrote about so many megastructures.
+In simple form, an Alderson Disc around our
+own Sun would be a flat plate with a hole
+in the middle stretching from as close as
+you could get to the sun right out to the
+distant, frozen depths of space, and of such
+immense mass that it would dwarf the star
+at its center.
+The default Alderson Disc masses roughly 3000
+solar masses, a billion Earths, but could
+be built around bigger stars or red dwarfs,
+or entirely artificial suns.
+The critical problems with building an Alderson
+Disc are two fold.
+First, it takes immense strength to keep the
+disc from collapsing either downward into
+a flatter plate or inward into a sphere.
+Second, most of the sunlight is completely
+wasted, going above or below the disc, and
+what light does come in arrives from the side.
+This places the entire disc, top and bottom
+side, in perpetual twilight, growing dimmer
+as the distance and air interfere.
+This results in a warm center and frigid outer
+layers, virtually none of which are livable.
+Some suggest addressing this by bobbing the
+star up and down in the center, so it rises
+above and below, and this is technically possible
+since the star is the smaller object and could
+be placed on a ultra-eccentric orbital path
+through the central hole, however there is
+no plausible natural path that would produce
+anything like a 24-hour day and such an orbit
+would require constant stabilizing efforts.
+For all these reasons, an Alderson Disc is
+often considered an example of a BWC Megastructure.
+To address the first problem, the disc collapsing,
+in the absence of arbitrarily strong materials,
+we make use of countless orbital rings, each
+a circle just a bit wider than the last, each
+having an angular momentum appropriate to
+orbit at that distance, keeping in mind that
+the star’s own mass is soon dwarfed by inner
+rings of the disc.
+We then place a sheath above and below these
+nested rings to create the disc and keep them
+separate by utilizing Atlas Pillars to keep
+the top and bottom from crunching down on
+each other or the orbital rings below.
+Care must be taken to include segment walls
+to prevent all the air, water, and even land,
+from rushing to the center; these segment
+walls may be disguised as mountain ranges.
+Large subterranean pumps may move air and
+water back to the places they need to be,
+to assist in this.
+Additionally by varying the mass and density
+of the rings to increase their own gravity,
+we may cancel out some of the central pull,
+keeping gravity pointing straight down throughout
+the disc.
+To provide power for all the active support,
+the inner ring inside the plate nearest the
+star may be a solar power collector.
+To permit a 24 hour day or seasons, we may
+place large statite or lagite solar mirrors
+and shades above and below the north and south
+pole of the star, at distances comparable
+to the disc’s radius, to reflect sunlight
+back down onto the planet.
+The wide statite discs may include wedges
+of reflective material and shades, or simply
+have tilted reflective bands, to cause the
+sun to reflect down on places for the chosen
+time period and strength, and thus replicate
+a day-night and seasonal cycle.
+While this structure is popular in science
+fiction, it would generally be one we would
+deem physically possible but not a practical
+approach to building living area, however
+it does have the advantage of being one of
+the largest structures you can make, that
+allows a continuous Earth-like living area,
+so long as you include the polar statites,
+being bigger than even a classic Dyson Sphere,
+though smaller than a Birch Planet.
+See our episodes: Megastructures 6: Discworlds
+or Megastructures: Flat Earths for more details.
+See also: Active Support, Discworld, Lagite,
+Orbital Ring, and Statite.
+Arcology Megatower
+Arcology megatowers are envisioned to be very
+tall and wide buildings which are ecologically
+self-contained in whole or in part.
+This is typically assumed to mean towers dwarfing
+any modern skyscraper and including not only
+their own internal power sources and water
+and air processing, but also food production.
+In science fiction, these are usually seen
+in the dystopian settings of trash-strewn
+and graffiti covered steel and concrete jungles,
+but these might range from utopian to dystopian,
+big or small, and given their scope, would
+be more likely to be an equivalent to a gated
+community than a slum.
+A space outpost with all its own internal
+life support, in tower form, would most likely
+be the first true total arcology, though it
+can also come in underground form, as it need
+not be specifically tall, and could be wide
+or underground.
+The term arcology, being a combination of
+the words architecture and ecology, was originally
+meant to simply encompass any group of structures
+built to be ecological and self-sufficient,
+the giant skyscraper concept comes later but
+is better known and thus we distinguish it
+formally by calling these an Arcology Megatower.
+See our episodes Arcologies and Arcology Design
+for more details.
+Ark Ship
+An Ark Ship, conceptually based on the idea
+of Noah’s Ark, is meant to be an interstellar
+spaceship able to carry humans and terrestrial
+biology to another world.
+This is usually in the form of a giant cylinder
+habitat with a spaceship drive and towns,
+gardens, farms, zoos, and nature habitats
+inside that habitation drum able to live there
+via artificial lighting and power, until the
+ship arrives at the colony planet.
+Generally speaking, the immense amount of
+energy needed for artificial lighting and
+life support, even for many centuries, is
+still tinier than the amount of energy needed
+to get the ship moving at interstellar speeds
+or to slow it down on arrival.
+These are also often known as Generation Ships.
+A second-style Ark Ship, one containing frozen
+or digital samples of lifeforms, would generally
+be smaller and not qualify as a megastructure,
+and we often call this style a seed ship.
+See our Generation Ships & Interstellar Colonization
+Series for more information.
+Artificial Sun
+Artificial suns and stars come in many forms,
+this could be an entirely normal star simply
+made by people or one using normal stellar
+processes but made from an atypical material,
+like pure Deuterium, to allow a smaller size,
+or could be ones with a Starlifting Apparatus
+to remove helium and heavier elements to extend
+life and allow refueling.
+This can also include non-fusion options like
+black holes producing power by pouring matter
+into them or by Hawking Radiation.
+Often in the context of megastructures though,
+it represents the artificial lighting in the
+habitat to produce sunlight for the ecology.
+This may include traditional electric lighting
+or mirrors bringing lighting in from an external
+source.
+This may orbit an unlit rogue planet, to produce
+a geocentric world, or it may be vast pillars
+in the form of Suntowers rising above the
+landscape.
+See our episode: Making Suns, for more details.
+Asteroid Colonies
+Asteroid colonies are more of a location for
+megastructures than a megastructure themselves,
+but given that such minor worlds outnumber
+traditional planets several thousand to one,
+they are likely to be one of the most common
+settings for them.
+The most likely megastructures in one, would
+be a cylinder habitat built inside mined-out
+areas, or next to it and enclosed in the mining
+spoil till it merged.
+The asteroid offers protection from space
+debris and attacks, and possibly concealment.
+One special note, it is often suggested you
+could carve out an asteroid and spin it to
+live on the interior with spin-gravity.
+In practice, your typical asteroid is a loosely-bound
+ball of gravel and should not be spun at any
+rate.
+Instead, you would hollow it out, put a thin
+shell inside to buttress it, then place the
+cylinder habitat inside that, rotating around
+on its own.
+Larger asteroids might contain hundreds of
+individual cylinder habitats chained together,
+or later be turned into thin outer shells,
+full of networks of cylinder habitats, such
+as Buckyhabs.
+Such hollow shells would likely be far wider
+than the original asteroid.
+See also: Buckyhabs, Cylinder Habitats.
+Atlas Pillars
+Named for the Titan Atlas, from Greek Mythology,
+who held up the sky itself, the Atlas Pillar
+is a type of Active Support Structure able
+to hold up the sky or repeating layer of land
+above it.
+Typically envisioned inside Matrioshka Shellworlds,
+where concentric shells covered in land and
+sea, and artificially lit, allow us to maximize
+the use of mass for generating gravity and
+using as living area.
+Atlas pillars could potentially be made of
+some type of unobtanium that was vastly strong
+in compressive strength but would most likely
+have an interior track in which magnetically
+accelerated materials ran.
+If technology permits, this may be magnetically-shielded
+superconducting tracks, requiring little to
+no additional coolant or power input.
+Alternatively they might be built of very
+temperature-resistant materials and the waste
+energy used to heat or even light the lower
+layers of many-layered habitats.
+Strong ones may also hold artificial lighting
+or even additional shelves of habitats running
+up the atlas pillar, like leaves on a tree.
+They might also have spirals around their
+outside to allow walking directly between
+layers of a habitat.
+See Active Support, and Matrioshka Shellworld.
+Banks Orbital
+A Banks Orbital is an enormous ring habitat
+unique for its natural day length.
+Named for science fiction author Iain M. Banks,
+who first described one in his novel Consider
+Phlebas, where they also have the nickname
+of God’s Bracelet.
+A Banks Orbital has all the normal features
+of a ring or cylinder habitat but varies in
+3 ways.
+First, the required tensile strength vastly
+exceeds any known material.
+Second, it is large enough that it can have
+rim walls holding the air that are shorter
+than its width or radius, allowing an open-air
+habitat.
+So you can fly your spaceship straight into
+the atmosphere and land inside the ring, like
+on a planet but unlike a typical closed habitat.
+Third, there is a unique radius and spin rate
+for any combination of given day length and
+desired gravity.
+A Banks orbital rotates once per day, and
+its orbit around a star is slightly cocked
+at an angle, to allow the sun to shine on
+the inside of its farside, creating a day
+of normal length and characteristics, including
+sunrise and twilight.
+Seasons can also be emulated by tilting the
+ring more.
+The width of a Banks orbital is arbitrary,
+but given that the purpose is to use the natural
+day, the ring’s band width is expected to
+be considerably skinnier than the ring’s
+diameter.
+For an Earth-simulating diameter, every 48
+kilometers or 30 miles of width to the band
+represents an additional Earth’s worth of
+surface area for the habitat.
+In the case of Earth gravity and day length,
+this is 1,843,509 kilometers radius, or 1.15
+million miles.
+This is the size typically under discussion
+but for cases where one would need to distinguish,
+we might call this a Terran Banks Orbital,
+while one seeking to emulate Martian gravity
+and Day Length would be a Martian Banks Orbital,
+roughly 700,000 kilometers in radius.
+You might also have a Venutian or Lunar Banks
+Orbital.
+The radius of such an orbital is proportional
+to the desired gravity, or the square of the
+desired day length, thus a Venutian or Lunar
+Banks Orbital would need to be far larger
+as their days are much longer than Earth’s.
+The Bernal Sphere
+The Bernal Sphere is one of the oldest Megastructure
+concepts, having been proposed by John Desmond
+Bernal in 1929 and is a hollow rotating spherical
+shell.
+They can be of any size the material’s tensile
+strength can permit but the original design
+was 5 miles or 8 kilometers in radius.
+This gives it 314 square miles or 803 square
+kilometers of interior surface people could
+live on, and he estimated 20-30,000.
+This is essentially a pressurized sphere where
+spin is producing the gravity, and thus will
+be highest at the equator and non-existent
+at the poles.
+Gerard K. O’Neill, known for the O’Neill
+Cylinder, also known as Island Three, had
+250 meter radius and 900 meter radius versions
+of the Bernal Sphere as Island One and Two.
+The Bernal Sphere would likely make use of
+ring-shaped tiers inside the sphere running
+as bands, with the widest at the equator,
+to keep the land flatter inside.
+See also O’Neill Cylinder and Spin Gravity.
+Birch Planet
+Paul Birch, who detailed such concepts as
+the Orbital Ring for active support, suggested
+they could be used for building massive hollow
+shells we might fill with matter to make artificial
+planets from, what on this channel, we call
+shellworlds, and he suggested these might
+even be built around giant black holes, such
+as we find at the center of many galaxies.
+While those built around normal black holes
+fall into our category of Mega Earths, those
+built around these truly enormous galactic
+core black holes we call a Birch Planet, in
+his honor.
+The one in the center of our own galaxy is
+estimated at roughly 4 million solar masses,
+or 1.3 Trillion Earth masses, and thus a single-layer
+shell around such a world emulating Earth’s
+own gravity, would have 1.3 trillion times
+the surface area, and living area, that Earth
+does.
+This is considered the smaller end of Birch
+Planets, as they may have many layers, one
+with 750 such layers would have one quadrillion
+Earth’s worth of living area.
+They may also be built around bigger black
+holes.
+You can feed nearly a trillion solar masses,
+or an entire galaxy, into a black hole before
+its event horizon would extend out beyond
+where its gravity was equal in force to Earth’s
+surface, and thus would be the maximum limit
+to any Birch Planet seeking to emulate Earth’s
+conditions and built outside a black hole’s
+event horizon.
+As tidal forces near that black hole are minimal,
+we can not rule out attempts to build down
+inside that horizon either, effectively removing
+them from our Universe.
+Though, in practice, frame-dragging would
+likely prevent building a Birch Planet to
+quite this size.
+A Maximum sized birch planet contains an entire
+galaxy or even multiple and may have thousands
+of layers, potentially reaching over one sextillion,
+or a billion-billion Earth’s worth of living
+area.
+It is one of the few megastructures best measured
+by how long light takes to traverse it, as
+larger ones can measure a light year wide.
+The Birch Planet is the largest known megastructure
+allowed under known physics in terms of continuous
+habitable Earth-like living area.
+Lower levels can have time running significantly
+slower than on higher levels due to relativistic
+distortion near the event horizon.
+Such habitats are essentially isolated Universes
+in of themselves as they could consume all,
+or nearly all of the matter in a region that
+is gravitationally bound, and could be powered
+for eons by slowly adding in mass to the black
+hole to generate the power for artificial
+lighting of the habitat, probably via Suntowers.
+Birch Planets have an enormous escape velocity,
+being easy to reach but hard to leave, and
+are considered by the Channel to be one of
+the more plausible fates of Earth, or the
+home world of any civilization that would
+prefer to use automated mining to bring matter
+home, thus mining the entire galaxy out to
+expand their home world till it became a Birch
+Planet.
+A multi-layered Birch Planet can make the
+lowest level much thicker and space subsequent
+layers to achieve self-gravity without the
+central black hole, and is called a Supraself.
+See also: Banks Orbital, Black Hole Gravity
+Generator, Matrioshka ShellWorld, Mega Earth,
+or Suntower.
+Bishop Ring
+The Bishop Ring is a spin-gravity continent-class
+habitat proposed by Forrest Bishop in 1997
+to take advantage of the greater tensile strength
+of materials such as carbon nanotubes and
+graphene.
+With a proposed radius of 1000 kilometers
+and width of 500 kilometers, it would be comparable
+to India in size, at 3 million square kilometers
+or 1.2 million square miles of internal land
+and sea.
+While large enough to be an open air habitat,
+even with rim walls and air leakage, it’s
+debatable if any point is served by not having
+the ring enclosed as a cylinder, with rim
+walls all the way to the axis, or over top
+to form a torus.
+Its open air format is principally an acknowledgement
+that it is large enough for that to be possible,
+not necessarily preferable.
+A Bishop Ring 1000 kilometers in radius would
+rotate every 33 minutes to produce Earth-like
+gravity, which might be slow enough for the
+motion of the stars not to be nauseating during
+night cycles, but this structure still requires
+an artificial sun for a normal day, either
+by use of mirrors or powered lighting.
+We would anticipate a bishop ring would have
+tethers running up to the hub like spokes
+on a wheel, for easier transport, and possibly
+vacuum trains running on the outer side of
+the ring, which rotates at 3.1 kilometers
+per second, a very good speed for releasing
+spaceships at.
+Like many larger spin-gravity habitats the
+speed of the drum may be advantageous for
+saving fuel for space ships docking or embarking.
+Bishop Rings would be large enough to serve
+as a home to a billion people or serve as
+a nature preserve for even the largest ecologies.
+See also: Carbon Nanotubes, Cylinder Habitat,
+McKendree Cylinder, Ring Habitat.
+Black Hole Gravity Generator
+Artificially created black holes, or even
+natural occurring ones for Mega-Earths, can
+serve as a source of mass for generating gravity
+for artificial worlds.
+As a point-like object, it avoids normal problems
+with material density, thus allowing even
+modest asteroids to have earth-like surface
+gravity, Mini-Earths, or create Earth-like
+gravity on truly enormous worlds such as Supramundane
+Planets or Mega Earths.
+As with any natural gravity source, the amount
+of surface area existing at the desired gravity
+is proportional to mass, thus a black hole
+4 times more massive could permit 4 times
+as much surface area on the globe.
+Black holes do not eliminate the need for
+larger amounts of matter to produce gravity,
+but they do allow less useful and hyper-abundant
+materials like hydrogen and helium to be used,
+as opposed to carbon or iron, or potentially
+even dark matter, which makes up the supermajority
+of mass in the Universe.
+While helium and hydrogen dumped into a black
+hole cannot be used for fusion, the power
+generated by dropping matter into a black
+hole tends to be at least an order of magnitude
+higher than fusion could produce, thus minimizing
+their value as a fuel for fusion power.
+See also: Birch Planet, Black Hole Power Generator,
+Shellworlds, Mini-Earth, Mega-Earths, Supramundane
+Planets.
+Black Hole Power Generator
+Black holes may generate power in multiple
+fashions, small ones typically by Hawking
+Radiation, large ones by dropping matter into
+them and collecting the radiation coming off
+them from their acceleration or orbital collision
+in the accretion disc.
+In all cases, the power produced tends to
+be a high fraction of the mass energy involved
+and thus is considerably more efficient as
+a power source than even fusion, and other
+than the creation of the black hole, power
+collection is relatively low tech.
+As such black holes of various sizes may serve
+as everything from a power source on a large
+spaceship or personal space habitat to the
+super-stellar power source of birch planets
+and other constructs larger than Dyson Spheres.
+Because of their very efficient nature they
+offer incredible service lifetimes, with a
+100 Megawatt Hawking Generator having a service
+lifetime of 10 Trillion Years, and at a mass
+of 1.9 Gigatons, able to generate comfortable
+gravity to a large personal habitat or building.
+Alternatively, drip feeding the Sun’s mass
+into a Black hole to supply power, at perhaps
+20% mass to energy conversion, at a rate of
+20 megatons per second, would produce the
+same energy as our Sun but for 3 Trillion
+years, hundreds of times longer than our own
+sun’s currently estimated remaining lifetime.
+If micro-black holes may be formed, rather
+than only as the byproduct of a supernova,
+they represent the best power source under
+known physics and would be expected to be
+a centerpiece of not only a civilization’s
+power and infrastructure, but its literal
+center as a source of artificial gravity too.
+See our Black Hole Series for more discussions
+of their uses for worldbuilding and ship propulsion,
+as well as weaponization.
+Bubblehab
+A Bubble habitat is one designed to float
+by buoyancy in an atmosphere and is essentially
+a large blimp, though these may range from
+the size of a modern blimp to being continent-sized.
+On many worlds, such as Venus, you may have
+an atmosphere whose main makeup is heavier
+than air on Earth, thus allowing oxygen and
+nitrogen to be used as a lifting gas instead
+of helium or hydrogen.
+Advanced materials may allow building materials
+filled with hydrogen that do not leak, or
+even which are vacuums on the inside, and
+thus would perpetually float or have a longer
+useful lifetime comparable to many building
+materials like wood.
+Bublehabs based around biotechnology might
+be grown instead, either as an equivalent
+to buoyant coral reef or tree, or possibly
+a very large parallel to a whale or blowfish.
+See our episodes Void Ecology and Space Whales
+for more discussion of such concepts.
+Buckyhabs
+Buckyhabs are connections of cylinder habitats
+to form a buckyball, forming a cage-like structure
+of 90 identically long cylinder habitats connecting
+in trios at 60 hubs, forming a soccer ball
+shape.
+This number of habs and edges is mostly noteworthy
+because a buckyball is a carbon-60 atom very
+tied in with carbon nanotubes and graphene
+in early speculation of super-sized habitats.
+In practice we would expect people desiring
+more living space would build larger numbers
+of cylinder habitats connected together rather
+than making individual habitats longer or
+wider than was deemed optimal from experience.
+One composed of Island Three O’Neill Cylinders
+would contain 90 such habitats totalling in
+at 145,000 square kilometers or 90,000 square
+miles of living area, comparable to Michigan
+or Minnesota.
+Alternatively, one composed of McKendree Cylinders
+might be double Earth’s available area.
+As Cylinder Habitats are likely to often have
+additional non-rotating sections and other
+supplementary facilities, as well as benefiting
+from a non-rotating superstructure, such buckyhab
+arrangements are ideal for shared ancillary
+facilities and permit a thick spherical outer
+skin for protection, heat radiation, and solar
+power collection.
+Such polygon arrangements could easily be
+Platonic Solids and may have nested layers,
+a smaller soccer ball inside the large one,
+connected in-between by additional cylinder
+habitats.
+BWC Megastructure
+BWC or “Because We Can” Megastructures,
+is a nickname for those types of megastructures
+which are interesting as concepts but wildly
+impractical enough that we would only expect
+them to be built for prestige or tourist value.
+Though in a system of potentially millions
+of more normal habitats and worlds, such rare
+oddities might be built economically for their
+novelty value.
+Examples include Cube-shaped and Disc Shaped
+Planets, though it should be noted that sometimes
+they can have specialized values as, for instance,
+a coin-shaped world allows identical seasons,
+temperature, and weather at all points, ideal
+for a beach resort planet, that a spherical
+planet lacks, with frozen wastes at the poles.
+Needless to say what qualifies as a BWC Megastructure
+is somewhat subjective and many might feel
+virtually all megastructures fall into this
+category.
+Caplan Thruster
+A Caplan Thruster is a method for moving stars
+proposed by Matthew Caplan in 2019 for using
+statites to concentrate solar energy and erupt
+solar wind in a beam out from a star, which
+would then pass through an enormous Bussard
+Ramjet Assembly and jets of Oxygen-14 to push
+a star at a faster rate than a traditional
+Shkadov Thruster would allow.
+See our episode: Fleet of Stars, for more
+discussion of potential methods of moving
+stars.
+See also: Helios Drive, Nova Drive, Quasar
+Drive, Shkadov Thruster, Starlifting, and
+Supernova Drive.
+Carbon Nanotube
+Carbon Nanotubes, or CNT, are a type of carbon
+allotrope that along with Buckyballs, represent
+materials considerably stronger than diamond
+that, in the 1990s, popularized the idea we
+might create megastructures relying on super-tensile-strength
+materials, such as space elevators and Bishop
+Rings and McKendree Cylinders.
+These are materials that are virtually impossible
+to tear apart, no matter how hard you pull
+them and how much tension you place them under,
+and along with graphene, became commonly referenced
+as the foundation material for megastructures.
+For this reason, they are ubiquitous in discussion
+of megastructures and many other sci-fi or
+futurist topics.
+See also: Bishop Ring, Graphene, McKendree
+Cylinder, and Space Elevator.
+Chain Worlds
+A Chain World is an example of linking several
+hoop worlds or other torus-shaped habitats
+into a long chainlink arrangement, potentially
+wrapping around a star.
+This has limited utility but would allow airplanes
+to fly directly between all those connected
+worlds.
+Airborne seeds or avians might also be able
+to traverse between the hoops, though, overlapping
+the hoops’s atmosphere would be likely to
+generate powerful perpetual storms at the
+intersections while the ground above and below
+it, so to speak, rotated past.
+Chandelier Cities
+The concept of a Chandelier City in the clouds
+of gas giants was explored in our episode:
+Colonizing Neptune, and relies on the idea
+that tensile strength is every bit as reliable
+as compressive strength, so that hanging buildings
+down from large orbital rings around a world
+allows upside-down chandelier-like cities
+suspended from the Ring.
+These might be common features on gas giants,
+ice giants, or thick-atmosphere Super-Earths
+and any other world where living on the surface
+was not viable.
+Though the technology works on any world,
+including Earth or airless planetoids.
+Clarketech
+Clarketech is not a megastructure but is often
+a feature of many proposed megastructures
+requiring special properties or built to do
+exceptional tasks, like wormhole networks.
+The name is derived from Arthur C. Clarke’s
+famous quote that “any sufficiently advanced
+technology is indistinguishable from magic”,
+and is the name for various technologies that
+folks have suggested that would not seem possible
+under currently-known physics and can include
+seemingly impossibly-strong materials or other
+types of unobtainium as well as faster than
+light systems and perpetual motion machines.
+See our episode: Clarketech, for more discussion
+of these near-magical technologies.
+See also: Unobtainium, Wormholes.
+Cube World
+Cube-shaped worlds, a sub-type of polyhedral
+worlds in general, classify as examples of
+BWC Megastructures.
+Construction would require heavy use of Atlas
+Pillars or other Active Support, and by default,
+would have their gravity highest at the middle
+of each of the six faces, and lowest at the
+8 corners, furthest from the center.
+Gravity would also aim at that center rather
+than perpendicular to the surface, though
+strategic variation of density throughout
+the cube and some rippling in the surface
+might minimize the discrepancy of down not
+being in line with your head and feet.
+As with other flat worlds using normal gravity
+there will be a tendency to bulge the air
+and water towards a spherical shape which
+can be counteracted with enough effort.
+Many other shapes, such as dodecahedrons or
+bucckyballs, follow similar rules and limitations
+as cube worlds.
+See also Active Support, Atlas Pillars
+Cylinder Habitat
+Cylinder Habitats are expected to be the megastructure
+type on which the bulk of humanity lives in
+the future, if humans remain a dominant species
+and seek to emulate earth ecologies around
+them.
+Cylinder Habitats operate on two critical
+principles.
+First, that gravity can be mimicked by rotation,
+using the same centrifugal force effect that
+washing machine spin cycles use.
+Second, that it takes far less mass to build
+a cylinder or ring habitat than an equal amount
+of naturally gravitating surface area on a
+planet.
+Generally many hundreds of thousands of times
+more living area per unit of construction
+materials, so that a world like Mars might
+be disassembled to grant us a hundred thousand
+Earth’s worth of living area, not a fraction
+of Earth’s.
+For a detailed explanation of how Spin Gravity
+functions and differs from normal gravity
+see our episodes: O'Neill Cylinders and Life
+on board an O’Neill Cylinder.
+As discussed in those episodes, while cylinder
+habitats are typically portrayed as spinning
+freely in space, it is most likely to either
+be part of a large complex of space infrastructure
+or paired up with a twin cylinder, or several
+more in a Buckyhab configuration.
+A Cylinder habitat is likely to be inside
+a slightly wider non-spinning or slow-spinning
+outer cylinder to provide shielding, or inside
+an asteroid, or with other facilities inside
+a superstructure.
+We expect them to make up the bulk of residential
+habitats and nature preserves in space, as
+well as to be common features of any spaceship
+with humans on board and long travel times,
+such as an interstellar ark ship.
+In such cases we often call the cylinder portion
+of that ship the Habitation Drum.
+You can nest multiple habitation drums inside
+each other or give a drum multiple levels.
+Size of cylinder habitats in terms of diameter
+is controlled by the available materials in
+terms of tensile strength, where conventional
+steel or titanium can allow a cylinder that’s
+several kilometers wide, and graphene might
+allow one over a thousand kilometers wide,
+known as a McKendree Cylinder.
+Unobtainium or Active Support might be used
+to craft even wider habitats.
+There is no maximum length to a Cylinder habitat,
+very long ones are known as a Topopolis.
+A Kardashev-2 civilization of humans seeking
+to maximize O’Neill Cylinders around a star,
+would require roughly a quadrillion such cylinder
+habitats, each home to potentially hundreds
+of thousands of people.
+See also: Banks Orbital, Bishop Ring, McKendree
+Cylinder, Ribbonworld, Ring Habitat, Ringworld,
+Rungworld, Topopolis, Unobtainium.
+Dark Sky Station
+On the smaller side of megastructures, especially
+in terms of mass, JP Aerospace’s Dark Sky
+Station is an enormous starfish-shaped buoyant
+platform, potentially kilometers across that
+would sit 43 kilometers up in the air and
+be a midway changeover point between ground
+to station and station to space traffic.
+These may see heavy usage on other types of
+planets with thicker atmospheres.
+See also: Sky Cities.
+Discworld
+Flat Earths and Discworlds are often classified
+as BWC megastructures, but in practice, a
+discworld rotating like a spinning coin in
+orbit of a star is not a particularly bad
+use of mass for gravity compared to a typical
+shellworld.
+While you get slightly less surface area per
+unit of mass than a sphere, you do not get
+an extreme temperature difference between
+poles and equator.
+Thus a discworld might be considered optimal
+for those seeking to create a uniform climate
+and ecology.
+As a BWC megastructure, it is only likely
+to be built by civilizations that already
+have so many artificial worlds of more efficient
+types, that such specialized worlds might
+be probable anyway, such as a world of many
+shallow seas and snaky coastal islands for
+a beach resort, or one given over entirely
+to one specific ecosystem and apex organism,
+like a planet built principally for preserving,
+at a large scale, elephants, blue whales,
+or the Amazon Rainforest.
+Discworlds have limits on how big they can
+be and spin on an axis to simulate day and
+night, and must have non-uniform radial mass
+distribution to keep gravity pointed down
+at the ground not tilted to the center, with
+air and water to follow.
+See our Megastructure series episodes Discworlds
+and Flat Earths for more details.
+See also Active Support, Alderson Disc, Sombrero
+Planet.
+Dyson Sphere
+While originally proposed by Freeman Dyson
+as a swarm of orbiting bodies around a star,
+the concept has stuck in the popular imagination
+as a hollow shell around a star that people
+live inside, where the lit surface is more
+than a billion times that of Earth.
+In the absence of some sort of artificial
+gravity, there would be no gravity on the
+surface of such a shell and those inside would
+fall into the Sun, followed by the shell itself,
+unless made of an impossibly-strong and rigid
+material.
+So too, there is no night time inside such
+a sphere which must then be wider than Earth’s
+Orbit from the Sun to avoid all those inside
+burning to death from the endless daytime.
+For this reason the Dyson Swarm is considered
+better, however a Dyson Shell is possible
+with some variations.
+First the inside could be a large solar collector
+and people could live on the outside with
+artificial lighting, as an example of a Mega
+Earth, or in this case a Giga Earth.
+Second, a ring-shaped slice of Dyson Sphere
+made of a super-rigid material could be spun
+around the star to produce artificial spin-gravity,
+and this is the concept of a Niven Ringworld.
+A collection of many of these rings tilted
+at different angles can produce a quasi-Dyson
+Shell, or Ring-Dyson.
+It is also possible to create a very wide
+ring or abridged sphere with caps that would
+have lower gravity at higher latitudes than
+at the equator and leave the poles off, in
+favor of rim walls and possibly having statite
+solar mirrors or power collectors at the polar
+regions.
+This still requires incredibly strong materials
+beyond anything permitted under known physics,
+except for the use of active support similar
+to what we can use to construct a Niven Ringworld.
+Such a partial sphere could be made wider
+if the polar caps reflect sunlight down into
+the main sphere, and result in the same total
+living area of 2 billion Earths.
+Day and night shading can be accomplished
+as with a Ringworld, with an inner ring of
+sun mirrors and shades.
+Dyson Spike
+A Dyson Spike is a type of Dyson Sphere where
+a rigid shell has been placed around a star,
+using unobtainium, but where artificial gravity
+is not possible, and so the surface is dimpled
+with billions of cylinder habitats that generate
+spin gravity inside them.
+This setup can also work if the shell is a
+statite principally for power generation,
+but to which a small portion is given over
+to living area, such as homes and environments
+for people living in conjunction with a Nicoll-Dyson
+Beam platform.
+External spikes also allow better radiative
+cooling to such a shell.
+See also: Dyson Sphere, Dyson Swarm, Matrioshka
+Brain, and Nicoll-Dyson Beam.
+Dyson Swarm
+When Freeman Dyson originally envisioned a
+Dyson Sphere, he was discussing a large collection
+of orbiting bodies in a cloud or swarm around
+a star, rather than a rigid shell, however,
+the idea of a hollow shell around a star with
+people living inside it has been popularized
+as a Dyson Sphere.
+A Dyson Swarm is the term we use to speak
+to Dyson’s original idea rather than the
+hollow shell.
+Such a swam could be composed of any single
+type of megastructure, but we tend to assume
+that most Dyson Swarm Civilizations - also
+known as Kardashev-2 Civilizations - would
+use a large collection of many different types
+of space stations and structures.
+In this regard a Dyson Swarm is considered
+a megastructure in the same way a city is
+considered a building, which is to say, Dyson
+Swarms of things composed of many megastructures.
+It is usually assumed that civilizations will
+trend towards building Dyson Swarms around
+every star eventually, though in practice,
+many civilizations might disassemble stars
+in favor of using them to power fusion reactors
+or black hole power generators.
+Nonetheless, spherical packing of habitats
+together into immense swarms or clouds that
+were outwardly identical to Dysons Swarms
+would still be expected, as it provides for
+minimal travel times and communication lag,
+as discussed in the second episode on this
+channel, the Dyson Dilemma.
+See our episode: Dyson Dilemma 2.0, for details.
+Ecumenopolis
+An Ecumenpolis is a city which covers an entire
+planet.
+This presumably would include dwarf planets,
+super Earths, and moons as well.
+While usually assumed to turn an entire planet
+into one vast sea of concrete and steel, in
+practice this is likely to be a world with
+many vertical levels and vertical farming
+in play.
+The main restriction on population is expected
+to be heat dissipation.
+See our episodes Ecumenpolis and Can we have
+a Trillion People on Earth?
+Edersphere
+An Edersphere or Ederbubble, named for Dani
+Eder, is a balloon-like megastructure, typically
+of gas giant size ranges.
+Unlike most Active Support Supramundane Worlds,
+the Edersphere uses the pressure of the gas
+as it compresses, to resist the gravity of
+that gas pulling on the membrane above it.
+People live on that surface shell, which can
+be covered in a thin terrain, allowing a world
+potentially many hundreds of times larger
+than Earth in living area.
+The shell is likely to be thick steel or other
+strong metals, not rubber or any other flexible
+or thin material, as at that scale, almost
+any material would be flexible enough to act
+as a membrane.
+It is is likely that such a shellworld would
+still include active support members, such
+as Orbital Rings or Atlas Pillars, that could
+be turned on in an emergency, conserving power,
+or which could work in tandem with a pressurized
+gas to allow a wider range of artificial worlds
+than an Ederbubble alone might allow.
+See also Active Support, Atlas Pillar, Orbital
+Rings, Shellworlds, Supramundane Worlds.
+Fusion Candles
+A Fusion Candle is an enormous fusion drive,
+placed in orbit of a gas giant, designed to
+suck hydrogen, deuterium, or even helium out
+of the atmosphere, run it through a fusion
+reaction, and use the energy released to send
+out two super-heated rocket jets in opposite
+directions, up and down.
+The lower levitates the platform while the
+higher goes into space to shove the gas giant.
+By this method, you can move a gas giant to
+a different location, such as if you wanted
+to move one closer into a system to warm its
+moons for terraforming.
+See our episode: Colonizing Jupiter, for more
+discussion.
+Graphene
+Graphene is a carbon allotrope of immense
+tensile strength whose discovery opened the
+door to the serious consideration of building
+rotating habitat megastructures far larger
+than O’Neill Cylinders.
+They have many other useful properties as
+detailed in our episode: The Impact of Graphene.
+Grav Plating
+Grav Plating is a catch-all term for any technology
+that could be used in the floor of a spaceship
+or space station to produce artificial gravity
+without rotation.
+It is usually assumed to operate via unknown
+scientific principles in science fiction settings.
+In practice the only known way to produce
+grav plating under known physics would be
+to create many charged micro-black holes and
+arrange them inside a floor in a hexagonal
+pattern.
+See our episode Moon: Mega City, for more
+discussion of black hole gravity plating.
+Hammer Hab
+A Hammer hab, also called a Bolo Hab, is a
+spin-gravity habitat where minimal living
+space is needed, so that the living module
+itself is suspended from a long tether that
+is swung in a circle, usually around a larger
+ship, itself in microgravity.
+It can also be paired to a twin with no hub,
+or you may have many such habitat modules
+or docking spaceships on tether from a central
+hub, resembling a ferris wheel.
+Helios Drive
+The Helios Drive is a variation of the Shkadov
+Thruster that incorporates Starlifting Technology
+to move stars and can accelerate a star faster
+than a Shkadov Thruster but achieve a slower
+maximum velocity, because it uses accelerated
+plasma as the drive.
+By turning mirrors towards a star instead
+of reflecting its light in a single direction
+like the Shkadov Thruster does, we can cause
+a stream of hot matter to come off that star
+like a rocket flame.
+This technique works well for moving dangerously
+large stars which might go supernova out of
+a region of space, as it takes far less time
+to get that star moving at interstellar speeds
+and also reduces the mass of that star, potentially
+extending its lifetime.
+A variation of this using Bussard Ramjets
+to fuse the plasma as it comes off that star
+to provide more thrust is called a Caplan
+Thruster.
+See also: Caplan Thruster, Shkadov Thruster,
+Starlifting, and Stellaser.
+Hoop World
+A Hoopworld is a donut-shaped planet that
+classifies as a BWC, “Because we can”
+Megastructure, and would be expected to have
+highly variable gravity over its surface as
+the matter inside the hoop will pull the most
+on the outside equator, and least on the inside
+equator where the other side of the hoop’s
+gravity pulls in the opposite direction, and
+at an angle, least on the pole lines, as the
+hoop world has no conventional north or south
+pole.
+Storms on this planet, due to its high rate
+of rotation and varying gravity, would likely
+be extreme.
+The Default Hoop World of Earth-like conditions
+is 11 times the surface area of Earth itself.
+See our episode: Megastructures Hoop Worlds,
+for more details.
+Hydroshell
+A hydroshell is a megastructure designed with
+the intent of maximizing the use of water
+to generate gravity, as one of the most abundant
+materials in the Universe, while simultaneously
+using it for aquatic living space.
+A hydroshell is hollow like most shellworlds,
+but lacks a black hole or neutron star at
+the center, simply allowing the water itself
+to generate gravity.
+As a result, the lowest layer at the shell
+itself has virtually no gravity while the
+top layer has the most, and pressure rises
+very slowly with depth.
+Hydroshells can be constructed to produce
+many thousands of times the normal marine
+living space as a planet with the same overall
+mass.
+See our episode: Oceans in Space: Marine Space
+Habitats, for more discussion.
+See also: Shellworlds, Suntower.
+Interstellar Black Hole Highway
+As black holes represent a very good way to
+accelerate and slingshot spaceships to interstellar
+speeds, naturally occurring ones may be commonly
+used as hubs for interstellar travel, including
+as turning points for ships wishing to save
+fuel.
+As such there may be long lines of traffic
+moving on lines between the various black
+holes in our galaxy, forming a highway network.
+Additionally, black holes make excellent power
+plants for powering enormous lasers to serve
+as pushing beams to accelerate or decelerate
+spaceships.
+Interstellar Laser Highways
+Bouncing laser beams off the back of large
+mirrors allows solar sails to be far smaller
+and high-powered than relying on simple sunlight,
+and may be generated anywhere you can make
+power.
+With this is mind, any civilization with fusion
+or black hole power generation has the option
+of setting up long relays of laser-beaming
+stations between stars, to circumvent the
+rocket equation and allow rapid and far more
+economical interstellar transport at a high
+fraction of light speed, and without the problems
+of attempting to keep Stellaser systems or
+Nicoll-Dyson Beams focused over billions of
+kilometers or more.
+This can be a large array of space stations
+stretching between any two stars, or an entire
+galactic highway system, either receiving
+pushes from many such arrays between stars
+or merely as one passes by a star with a beaming
+system.
+The technique may also be adapted for intergalactic
+travel, though it is not thought to possible
+to achieve a ship velocity with a Lorentz
+Factor much above 100 - where time moves at
+a hundredth its normal speed for those on
+board - as the blue shift of even cosmic microwave
+background radiation would represent to strong
+a drag force.
+See our episode: Interstellar Highways, for
+more details.
+See also: Interstellar Black Hole Highway,
+Nicoll-Dyson Beam, and Stellaser.
+Jenkins Swarm
+A Jenkins Swarm configuration is designed
+to produce a Dyson Swarm around a star as
+a wide torus or donut, which might be part
+of a larger swarm of donuts tilted at different
+angles.
+This is believed to allow more stable orbits
+than the basic Dyson Swarm configuration.
+Kalpana One
+Named in honor for astronaut Kalpana Chalwa,
+who died on the Space Shuttle Columbia, Kalpana
+One is a cylinder habitat on the small side
+of megastructures, taking advantage of the
+idea that spin-gravity to avoid nausea should
+probably be limited to no more than 2 rotations
+per minute.
+Only structures in excess of 250 meters radius
+can be spun at 2 RPM or less and still produce
+a full 1-g of Earth gravity, and so Kalpana
+is 250 meters in radius, and 325 meters long,
+with roughly half a square kilometer of surface
+area inside, almost exactly one-billionth
+of the surface area of Earth, and thus what
+we sometimes call a nano-Earth habitat, in
+contrast to a Mega Earth.
+However, with a mass of roughly 7 megatons,
+you would be able to construct roughly 850,000
+billion such habitats out of Earth’s own
+mass, 850,000 times the living area, demonstrating
+the idea that cylinder habitats are vastly
+more efficient ways to get living area than
+traditional spherical bodies.
+Kipping Terrascope
+The terrascope is a concept for taking advantage
+of the refraction of planetary atmospheres
+to use them as an enormous lens, allowing
+a small telescope in orbit of a planet to
+act as a far more powerful telescope.
+Developed as a concept by exoplanet astronomer
+David Kipping in 2019, it is believed it would
+allow a telescope as small as a meter across,
+to see exoplanets in sufficient detail to
+detect landmasses and mountain ranges.
+Such telescopes can also serve to enhance
+signal detection and would also function around
+larger worlds such as gas giants.
+Lagite
+Lagites are a variation of statites and normal
+orbital mechanics which were suggested by
+Isaac Arthur in 2016 as a play on the terms
+‘Lagging Satellite’ and ‘Lagrange Point’.
+A lagite uses either light pressure or solar
+wind on a wide thin satellite to obtain a
+non-Keplerian orbit by using a combination
+of inertia, gravity, light pressure, or solar
+wind to create normally impossible orbit paths,
+as well as false lagrange points.
+As with statite and quasites, this requires
+a much thinner satellite than normal, but
+not necessarily as paper-thin as a typical
+statite.
+They can be particularly useful for keeping
+beaming mirrors in position around planets,
+where the gravity of the planet can be used
+to keep a beaming mirror from floating away
+into interstellar space.
+See also: Quasite, Shkadov Thruster, Statite.
+Lofstrom Loop
+A Lofstrom Loop, or Launch Loop, proposed
+by Keith Lofstrom in 1981, utilizes active
+support to suspend a 2000 kilometer long runway,
+high in the atmosphere, to serve as a launchpoint
+for a spaceship.
+The metal track running inside the loop by
+active support can also provide the energy
+to the ship as it accelerates, which in turn
+is accelerated by power generated by conventional
+or nuclear power plants on the ground or on
+naval vessels.
+A Lofstrom loop may be lowered or raised to
+avoid bad weather, and is believed to be constructable
+with known technology for perhaps as little
+as 30 billion dollars and a launch cost of
+just $3000 per ton.
+It is a very parallel technology to the larger
+orbital ring, but does not allow as much acceleration.
+See our episode: Launch Loops for more details.
+See also: Active Support, Orbital Ring.
+MagMatter
+Magmatter is a hypothetical material that
+may be possible to create if magnetic monopoles
+exist, and if so, would potentially allow
+the construction of megastructures whose tensile
+strength requirements surpassed even graphene,
+such as Banks Orbitals and Niven Ringworlds.
+Magmatter is expected to have a strength a
+trillion-trillion-trillion times higher than
+conventional matter and a density many trillions
+of trillions of times higher than normal matter.
+For this reason, we would expect magmatter
+to be used as infinitely thin structural lines.
+It is also assumed to have a melting point
+hotter than the core of the hottest star and
+a whipcord of it could cut through any known
+material, better than a lightsaber.
+It is usually assumed it would be formed as
+magatoms into buckytubes, much as with carbon
+nanotubes.
+See also Carbon nanotubes and graphene.
+Matrioshka Brain
+A Matrioshka Brain represents both a specific
+structure and the general concept of a computer
+or computers built to run on the output of
+an entire star.
+The Matrioshka portion, named for the famous
+nested Russian dolls, runs on the idea that
+successive layers of a stellar engine, each
+further from the star, can use the radiated
+waste heat of the prior layer to run more
+processing on.
+Stars themselves are not radiating fusion
+power directly, but rather, are incredibly
+hot from absorbing all the fusion byproducts
+at the core, and glow as a result, giving
+off sunlight rather than gamma radiation.
+One might place processing layers at each
+halving of temperature, where the next layer
+is positioned to absorb the blackbody radiation
+of the prior layer and re-emit it at a wavelength
+corresponding to half the temperature of the
+prior layer, resulting in roughly ten layers
+between the typical star’s first layer and
+where the ambient radiation inside a galaxy
+would result in diminishing returns from additional
+layers.
+As colder computation is more efficient and
+a Matrioshka Brain can also act as a stellar
+engine to move a star, it has been proposed
+that Matrioshka Brains would tend to migrate
+to the galactic rim or intergalactic space
+itself.
+A Matrioshka Brain though, is also a bit of
+a blanket term for any computer running on
+star-levels of power and can generally be
+expected to be many billions of billions of
+times more powerful than any modern computer,
+even if no further improvement in processing
+per unit of energy occurred in the future.
+As such, it is believed to be powerful enough
+to emulate entire universes, and the uploaded
+minds of the inhabitants of that Universe,
+if every single planet was terraformed to
+current Earth-like conditions and populations.
+See our episode: Megastructures: Matrioshka
+Brains, for more details.
+See also: Dyson Sphere, Planet Brain, Shkadov
+Thruster.
+Matrioshka Shellworld
+One problem with Shellworlds is that they
+use immense amounts of mass to create gravity,
+compared to cylinder and ring habitats, or
+those using hypothetical artificial gravity.
+Two methods for handling this are to generate
+the gravity with far more abundant materials
+such as hydrogen and helium, or even dark
+matter.
+The other method is to construct many nested
+shellworlds, rising one over the other, to
+share the mass below for gravity, which can
+be maintained at the same level by including
+the mass of each additional layer to generate
+gravity on the one above it too.
+Spacing and support may be maintained with
+Atlas Pillars, however you must bring in artificial
+lighting and you cannot support many layers
+before heat dissipation becomes a problem.
+This is considered one of the more probable
+eventual fates of Earth, see our episode:
+Matrioshka Shellworlds, for more discussion.
+A multi-layered Planet can make the lowest
+level much thicker and space subsequent layers
+to achieve self-gravity without the central
+black hole, and is called a Supraself.
+See also: Active Support, Atlas Pillars, Shell
+Worlds, Orbital Rings.
+McKendree Cylinder
+McKendree Cylinders, suggested by Tom McKendree
+in 2000, represent the adaptation of an Island
+Three O’Neill Cylinder to using graphene
+instead of steel for the cylinder, allowing
+for one that is hundreds of times wider and
+longer.
+The default version is 5 million square miles
+or 13 million square kilometers, as big as
+Russia or Antarticia, and larger than Europe
+or Australia, qualifying them as a continent-class
+megastructure.
+What’s more, a McKendree Cylinder is wide
+enough to allow multiple nested cylinders
+inside, so long as cooling is used to handle
+heat issues with artificial lighting, allowing
+McKendree Cylinders to roughly match entire
+planets in living area.
+Megatelescope Arrays
+One of the limitations on modern telescopes
+is Earth itself, as air and gravity deform
+mirrors and limit their size.
+Space Based telescopes avoid these issues
+and potentially allow tinfoil-thin mirrors,
+the size of planets, to be created, able to
+see distant worlds in as much detail as current
+ones can see our own moon or neighboring planets.
+In addition, telescope arrays may be built
+in the Oort Cloud, allowing thousands of times
+the distances that Earth’s own orbit around
+the Sun grants us, for resolving objects and
+parallax.
+Using these methods, we may be able to pick
+up ETI radio signals, even from other galaxies
+or see exoplanets in great detail, thousands
+of light years away.
+See our episode: Megatelescopes, for more
+details.
+Mini-Earth
+An alternative to building worlds bigger than
+Earth, is to go smaller, and since the amount
+of mass needed to produce earth-like gravity
+on the surface of a sphere is proportional
+to the surface area of the sphere, the implied
+economics for mass, would at least seem to
+indicate that there’s no big difference
+between making one world a thousand times
+the size of Earth, a thousand shellworlds
+the size of Earth, or a million worlds a thousandth
+the size of Earth.
+Assuming micro black holes the mass of a modest
+moon can be created, it is likely to be easier
+to make orbital rings which are smaller than
+a planet, and so small spheres for miniature
+planets might turn out to be a preference.
+There are some difficulties making sure your
+atmosphere stays on such mini-planets, but
+a thin glass or transparent aluminium shell
+around a world would prevent that, and would
+be easier to engineer than the world itself.
+As to the minimum size, hypothetically, nothing
+prevents one smaller than a modest town.
+These need not be spherical either, as discs
+or other geometries become more appealing
+when contrasted to a sphere that is sharply
+curving.
+Mushroom Hab
+A mushroom habitat is a concept developed
+for the episode: Colonizing Mercury, where
+on airless Cthonian Worlds, blasted by intense
+sunlight, a large reflective umbrella shade
+can be placed over a habitat, which itself
+stands above the ground, on top of thermally
+insulated stilts, resembling a mushroom.
+This allows the habitat to remain cool, even
+on worlds like Mercury.
+The umbrella may also be used for power collection.
+The habitat may also include spin-gravity
+features to allow for higher gravity if the
+world has lower surface gravity than desired.
+A mushroom habitat may also be used in orbit
+of a star to keep a cylinder habitat protected
+from sunlight, such as a habitat being used
+for those living on a cylinder habitat who
+tend solar collectors or stellasers dangerously
+close to a star, to distinguish between the
+two types, these are called orbital mushroom
+habitats.
+See also Rotacity Habitat, Parabolic Habitat.
+Neptunian Chainsaw
+The importance of scooping gasses out of the
+atmosphere of gas giants, ice giants, or gas
+dwarfs, for use as fuel or for terraforming
+airless worlds, suggest a number of methods
+for mining them, and one of those is a massive
+excavator with buckets running on an elliptical
+orbital ring.
+This concept is first discussed in our episode:
+Colonizing Neptune, which along with its appearance
+gets it the name of the Neptunian Chainsaw.
+Nicoll-Dyson Beams
+The Nicoll-Dyson Beam is a variant of a classic
+Dyson Swarm, suggested by James Nicoll, as
+converting a star into one massive laser platform.
+There’s a number of methods for doing this,
+including the Stellaser, and it is a capacity
+of any Dyson that it should be able to direct
+a large portion of its power into beam weapons,
+but a Nicoll-Dyson Beam is essentially a Death
+Star version, only, physically larger.
+It should be noted that even our Sun’s entire
+power output hitting Earth would still take
+roughly a week to vaporize the entire planet.
+Those around larger stars might be able to
+do fire beams able to annihilate planets in
+mere moments.
+Its peacetime use is assumed to be pushing
+spaceships up to relativistic speeds, though
+it is likely its military use would be accelerating
+many relativistic kill missiles, or RKMs,
+to near lightspeed over some weeks, to arrive
+in a single moment, rather than a beam hitting
+a planet directly.
+See also RKMs, Stellaser.
+Nova Drive
+Nova Drives, along with their big brother,
+the supernova drive, are a method of moving
+dead stars such as white dwarfs, by delivering
+a stream of hydrogen to them to cause a small
+nova.
+This is a parallel technology to the Orion
+Drive, which propels a ship with nuclear bombs,
+only vastly bigger.
+See our episode: Fleet of Stars, for more
+details.
+O'Neill Cylinder
+The O’Neill Cylinder, originally known as
+the ‘Island Three design’ by Gerard K.
+O’Neill, is perhaps the most famous megastructure
+designed for habitation.
+It is a cylinder habitat usually given as
+5 miles or 8 kilometers wide and 20 miles
+or 32 kilometers long, and this O’Neill
+Cylinder could house hundreds of thousands
+or serve as a nature preserve for endangered
+ecosystems, protected by the vacuum of space
+from invasive species and contamination.
+They are probably the most-discussed megastructure
+on our show, see our episodes: O'Neill Cylinders
+and Life on board an O’Neill Cylinder.
+See also: Cylinder Habitat, McKendree Cylinder.
+Orbital Plates
+Orbital plates are a type of Megastructure
+parallel to a Sky City that we would anticipate
+if anti-gravity was invented, where a large
+domed island might be floated as a spaceport
+above the landscape, possibly even ones the
+size of continents, able to float above a
+world.
+In practice this can be achieved through various
+active support technologies, or through a
+conventional orbiting habitat that’s plate-shaped,
+using grav-plating or the same methods we
+used for creating discworlds, if a dense enough
+material can be found, such as stabilized
+neutronium.
+They have appeared in a variety of science
+fiction over the years but the name comes
+from the Warhammer 40k setting, where Orbital
+Plates are common around the most important
+and industrialized worlds.
+Orbital Ring
+The Orbital ring is another technology heavily
+discussed on this show, for its utility both
+as a space launch option and as the literal
+backbone of many enormous megastructures such
+as Shell Worlds.
+A type of Active Support structure proposed
+by Paul Birch, the most basic orbital ring
+is a simple wire wrapped in orbit in a circle
+above the equator of a planet.
+Outside of this is a thin tube, called the
+sheath, which also circles the planet and
+contains electromagnets.
+We then run power through the rings and shove
+the inner wire up to higher than normal orbital
+speeds, while slowing that outer sheath.
+By default, we will stop the sheath when its
+speed has reached the same rotational rate
+as Earth, causing the outer sheath to remain
+stationary relative to Earth, like a geostationary
+satellite but potentially mere tens of kilometers
+above the surface of the world, rather than
+tens of thousands.
+Orbital rings may then drop a tether down
+to Earth, one requiring vastly less strength
+than a conventional space elevator.
+These may also be stretched out at angles,
+to service a wide band of Earth’s Surface
+around the Orbital Ring.
+Using these as guy-wires allows the Ring to
+be tilted off the Equator to service different
+latitudes and counter its tendency to precess.
+This allows travel to space for dollars per
+kilogram, and the track may then be used like
+a Lofstrom Loop, to launch a spaceship without
+rocket fuel, only to considerably higher speeds
+than the Lofstrom Loop Allows.
+Orbital Rings may be built as ellipses as
+well, and a world is likely to have many orbital
+rings at different distances from Earth, possibly
+connected to higher rings by tethers to the
+next lowest ring.
+They allow hypersonic travel between cities
+on Earth with minimal cost, potentially allowing
+millions of people to travel to space everyday,
+and home that same night, with normal modern
+commuting times and costs.
+They may be used in tandem with space elevators
+and space towers.
+Orbital rings of much higher radius can be
+built in layers with tethers between them
+to serve as a ladder to deeper space, what
+we’ll call an Orbital Ladder, not to be
+confused with Jacob’s Ladder, which along
+with Orbital Tower and Beanstalk are older
+alternate names for Space Elevator options.
+The Orbital Ladder, as an alternative to a
+classic space elevator, of tethers between
+Orbital Rings, has the advantage of requiring
+less tensile strength.
+These may be built arbitrarily big, and many
+tipped at different angles can form a spherical
+shell known as a shell world.
+See our episode: Orbital Rings, for more discussion
+of the technology and uses.
+See also Active Support, Atlas Pillar, Lofstrom
+Loop, Shellworld, Space Elevator, Space Tower.
+Paperclip Maximizer
+A paperclip maximizer is a popular example
+of artificial intelligence run amok, the notion
+being that an automated paperclip factory,
+told to maximize its production of paperclips,
+may seek to cannibalize all available resources
+- including the planet it is on, and the people
+on it - into paperclips.
+This can follow many unexpected paths, see
+our episode: The Paperclip Maximizer, for
+more.
+This popular idea is basically that any automated
+machinery tasked with a simple goal, may run
+amok if left unchecked.
+Simple self-replicators told to reproduce
+themselves are known as ‘grey goo’, in
+reference to an assumed sea of gray metal.
+Terraforming machinery set loose on a galaxy,
+turning every world - including inhabited
+alien worlds - into copies of Earth, or entire
+endless cylinder habitats, is another example,
+and sometimes called Greenfly.
+Given that megastructures are often assumed
+to need a vast amount of automated constructors,
+there is a regular concern of such machinery
+producing one of these scenarios.
+Parabolic Hab
+The question often arises, how far out can
+we usefully survive on sunlight? and a parabolic
+habitat is a method for extending that, and
+they were designed in tandem with the Mushroom
+habitat concept.
+Earth typically receives on an order of several
+hundred watts of power per square meter of
+surface area throughout the daytime, and any
+surface colony out near Saturn, would need
+a hundred times the sun-gathering surface,
+concentrated to achieve an Earth-like condition.
+However, as only very thin films are needed
+for reflecting light, it is not difficult
+to construct a parabolic dish hundreds of
+times larger than a given habitat or asteroid
+to focus light down into that habitat, or
+into a smaller mirror that then bounces light
+into the habitat.
+The dish itself is likely to rotate to maintain
+its shape by spin.
+Solar power collectors can also be made to
+function in relatively deep space by using
+cheap and light-reflecting dishes to focus
+light on a solar panel or solar thermal generator.
+By default, we would expect a cylinder habitat
+with a parabolic dish beyond it, resembling
+an umbrella or mushroom with a skinny stalk,
+but it could also be a large dish.
+Utilizing Statite, Lagite, and Quasite concepts,
+this can even be adapted to large self-gravitating
+bodies such as planets or moons, by using
+a mix of radiative pressure and orbital mechanics
+to hang one at a Lagrange Point or Quasi-Lagrange
+Point.
+Such mirrors and dishes can also be used for
+cooling planets or melting icy bodies for
+transport, including by focusing light on
+a section of a comet to cause an eruption
+of superheated steam from it to serve as a
+rocket engine.
+See also: Helios Drive, Lagite, Mushroom Habitat,
+Quasite, and Statite for details.
+Planet Brain
+Planet brains, including examples like a Jupiter
+Brain, are a blanket term for a computer the
+size of a planet, such as Earth itself in
+Douglas Adams Hitchhiker's Guide to the Galaxy.
+It is assumed such machines either run minds
+so immense as to be nearly godlike or seeking
+answers to the most fundamental questions,
+such as was the case with Earth in that series,
+though in that case it was seeking the question
+to which the answer was 42.
+Planet Ship
+Planet ships are artificial worlds designed
+to serve as immense interstellar or intergalactic
+colony ships.
+This is typically intended around an entirely
+artificial world, where a more classic interstellar
+ark is deemed insufficient to the goals, which
+might be maintaining civilization and ecology
+for a multi-million year intergalactic colonization
+effort, though similar techniques would be
+used for moving an existing planet, like Earth,
+to another solar system.
+However, artificial worlds, such as a shellworld
+full of fusion or black hole fuel, can be
+built to allow for better acceleration and
+deceleration and for fueling the trip, as
+well as shielding from interstellar radiation
+and dust collisions.
+See our episode: Planet Ships and What if
+Earth became a Rogue Planet?
+For more details.
+Planet Swarm
+A Planet Swarm is a younger brother of a Dyson
+Swarm, in that it is a large swarm of habitats
+and megastructures around a planet rather
+than a star.
+See: Colonizing CisLunar Space, for more discussion
+of the concept.
+As Cislunar Space and even beyond the Moon,
+to Earth’s Hill Sphere, is hundreds of times
+wider than Earth, the cross section for solar
+power collection and heat dissipation is more
+than a hundred thousand times that of the
+planet, and thus, while an Ecumenopolis might
+hold several trillion people, a Planet Swarm
+might hold a quintillion.
+In conjunction with a Terran Ring, which it
+might form the crownstone of, a Planet Swarm
+might contain more people than most hypothetical
+sci-fi galactic empires, and may well be where
+the majority of humanity lives even if we
+have already colonized the entire solar system
+and thousands of nearer systems.
+See also: Dyson Swarm, Ecumenopolis, Terran
+Ring.
+Planetary Cycler
+Also known as an Aldrin Cycler, for Buzz Aldrin,
+who proposed it for an Earth-Mars Cycler,
+these are large spaceships, stations, or potentially
+megastructure habitats, that move on a very
+elliptical orbit passing near two planets
+on a long cycle.
+They themselves do not orbit those planets
+or pause at them, rather smaller vessels dock
+inside them as they approach that planet,
+or disembark there.
+As they need only the original fuel to get
+them into that orbit and some for station-keeping,
+they can afford more massive vessels protection
+from radiation and can offer superior life
+support with a multitude of systems of redundancy
+and can also offer better living conditions
+for the long voyages between worlds, or even
+between stars.
+See our episode: Interstellar Trade and Cyclers,
+for more discussion.
+Power Beamers
+Running an advanced civilization requires
+immense power, and that may require moving
+power millions or even billions of kilometers
+from generator or collector, to the user.
+Power beaming systems can come in many forms
+but the default version is likely to be a
+huge solar array that converts sunlight into
+microwaves which can then be transmitted in
+a tight beam to a rectenna receiver.
+Fundamentally, how far you can keep a beam
+tight is based on the size of the emitter,
+and the ability to gather a beam as it spreads
+out, on the size of the receiver, so we may
+see some truly massive beaming and receiving
+facilities, able to move power across solar
+systems or even further.
+Quasar Drive
+The Quasar Drive is a scaled up black hole
+drive, capable of moving planets or entire
+galaxies and is the ultimate engine for moving
+large objects, being both faster than a Shkadov
+Thruster to accelerate stellar objects, and
+more efficient, allowing faster final speeds.
+The quasar drive takes a charged black hole,
+artificial or natural, builds a structure
+around it to attach to it magnetically, and
+injects matter into it to produce power production
+as is typical for a large-scale black hole
+power generator.
+This is then used to run a drive able to achieve
+a decent fraction of light speed.
+The name ‘Quasar drive’ is derived from
+Quasars, the super bright objects which are
+typically thousands of times brighter than
+entire galaxies, as a result of matter falling
+into the black holes in the centers of many
+galaxies.
+Used carefully, a Quasar Drive on a supermassive
+black hole in the center of a galaxy, can
+move that galaxy, especially if used in tandem
+with many other drives throughout that galaxy,
+gravitationally dragging that galaxy along,
+which may permit a sufficiently advanced civilization
+to counteract hubble expansion in a large
+region of space, such as a galactic supercluster.
+Planet Ships using Quasar Drives represent
+a plausible approach to intergalactic colonization
+of even galaxies more than a billion light
+years away.
+See our episode: Fleet of Stars, for more
+discussion of this.
+See also: Planet Ships, Shkadov Thruster.
+Quasite
+A Quasite is a variation of a Statite, suggested
+by David Kipping in 2019 as a possible technosignature
+for hunting for extraterrestrial intelligence,
+in the form of a statite that had become dirty
+or damaged and thus was orbiting in a non-Keplerian
+fashion.
+Quasites can also be intentionally made to
+create satellites that remain with a planet
+when not normally permissible by orbital mechanics.
+See the cool worlds episode for more details
+about Statites and Quasites
+See also: Lagite, Statite.
+Red Globular Clusters
+The Red Globular Cluster or Red Globular Galaxy
+is an example of an artificially-optimized
+galaxy based on the idea that stars of roughly
+one quarter our Sun’s mass can fuse all
+their hydrogen, over trillions of years, eventually
+becoming blue dwarfs, and thus are the most
+efficient star.
+The notion developed by Isaac Arthur and Steve
+Bowers is that a civilization might intentionally
+work to only allow stars of that mass to form
+and may use stellar engineering to crowd them
+into a tight space, so that the entire area
+was bathed in sunlight at a level comfortable
+for life.
+A dyson swarm composed of as much as a trillion
+such stars, might be home to trillions of
+trillions of people for trillions of years,
+but condensed into a volume only several light
+years across, not hundreds of thousands, allowing
+a single civilization with no more time lag
+between most distant elements than between
+near neighboring stars in a natural galaxy.
+Eventually the dying stars themselves, as
+blue dwarfs cooling trillions of years from
+now, can be shepherded into black holes of
+Birch Planets or other post-stellar megastructures.
+See the original entry at Orion’s Arm for
+more details.
+Relativistic Kill Missile
+Relativistic Kill Missiles, or RKMs, weaponize
+the mass energy of objects moving at relativistic
+speeds, where they might carry hundreds of
+times more damage potential than a nuclear
+weapon of the same mass.
+They have the advantage over beam weapons
+in that they move at nearly light speed but
+can have computers and guidance onboard, potentially
+even AI, and can be slowly charged up.
+In this way, something like a Nicoll-Dyson
+Beam, which might need a week to atomize a
+planet, can instead put a week’s worth of
+energy into accelerating several RKMs which
+may be timed to arrive simultaneously and
+instantly blow up a planet.
+Ribbon Worlds
+Ribbon Worlds are variations of Ring and Cylinder
+Habitats that base their size around the minimum
+gravity required for their purpose, as opposed
+to what’s comfortable for normal humans
+and terrestrial ecology, and as such, can
+be far bigger than conventional 1-g habitats
+using the same construction materials.
+These may be common as an outer ring around
+planets where they would work as spaceports
+and launch systems, and secondary conventional
+rotating habitats might be attached to them,
+like beads on a bracelet, where those other
+habitats might serve as the various homes
+or commercial centers.
+Ribbon Worlds might also be commonly used
+for space farms, where lower gravity is probably
+sufficient for plants and economics prefers
+cheaper and weaker hulls.
+Civilizations adapted to lower gravity might
+prefer RibbonWorlds as primary habitats.
+The largest Ring Habitats would likely always
+be Ribbon Worlds.
+A Ribbon World built around the Earth-Moon
+system, out past the Moon’s L2 point, where
+a Lunar Space Elevator might reach, would
+allow spacecraft to run on the outside of
+the ribbon at 1-g of turning acceleration
+and launch at 66 kilometers or 41 miles per
+second.
+See also: Cylinder Habitat, Ring Habitat,
+Space Elevator.
+Ring Habitat
+Ring habitats work on the same principle as
+cylinder habitats, by using centrifugal force
+to simulate gravity, called spin-gravity.
+A ring habitat however, generally uses a wide
+thin ring, which requires stronger tensile
+strength than a cylinder habitat of the same
+surface area, and thus is assumed to be used
+where a wider radius is necessary.
+In the case of small habitats, we expect rings
+as the living area of many spaceships where
+the goal is to produce a relatively small
+living area with minimal rotation rate, as
+many RPMs can cause nausea.
+On large habitats, such as a Niven Ringworld,
+the goal is to be far from the Sun at Earth
+distance, and for a Banks Orbital, to produce
+a wide skinny ring that is open to natural
+sunlight.
+See: cylinder Habitats, for further discussion
+of how spin-gravity works.
+Ringworld
+The Ringworld first appears in Larry Niven’s
+novel: Ringworld, as his suggested alternative
+to a classic Dyson Sphere, by taking an equatorial
+slice of such a sphere around a Star and rotate
+it to produce spin-gravity instead.
+That results in a Ring roughly the radius
+of Earth’s orbit around that star.
+The typical design calls for giant rim walls
+around the edge to keep air from spilling
+out, taller than any mountain range, potentially
+a thousand miles tall, but still dwarfed by
+the width of the Ringworld, which may be arbitrarily
+wide but in Niven’s classic is a million
+miles wide, giving the Ringworld 3 million
+times the living area of Earth.
+One built 6 times wider would have roughly
+1% of the living area imagined by a classic
+Dyson Sphere, and a hundred such objects turned
+at different angles around their star could
+enclose one to effectively serve as a Dyson
+Sphere.
+Niven Ringworlds are normally assumed to be
+constructable only with Unobtainium, in the
+book’s case, the virtually indestructible
+material ‘Scrith’, however, we can get
+around this for both Ringworlds and Banks
+Orbitals by use of Active Support.
+This is done by having a second, slower turning
+and far more massive ring just behind the
+habitation ring in which it spins inside,
+pushing off the heavy outer ring magnetically,
+to keep from being torn apart.
+For further explanation of this technique,
+and other Ringworld advantages and challenges,
+see our episode: Ringworlds.
+See also: Dyson Sphere, Ring Habitat, Rungworld.
+Rotacity
+A Rotacity, also called a Bowl Hab, is typically
+envisioned as a habitat built inside a crater
+or artificial well, on a low gravity world,
+and spun, to combine the natural local gravity
+and the spin gravity achieved by rotating
+the bowl shape.
+In practice, if the gravity of the world or
+moon in question is not at least half what
+the desired gravity is, the bowl shape will
+be much steeper, like an urn, approaching
+a more classic cylinder habitat.
+It can also be a wide ring with the floor
+angled steeply relative to the ground and
+natural down.
+These may see use on Mars or even the Moon.
+See also: Cylinder Habitat.
+Rungworld
+A Rungworld is a cousin of the better-known
+Ringworld that can be constructed around a
+star using only conventional materials.
+In it we place two tethers in a circular orbit
+around a star, one above the other.
+Between these we place classic cylinder habitats,
+so that they appear like rungs on a ladder,
+the ladder itself being twisted into a circle
+around a star.
+These habitats might be O’Neill Cylinders
+or the more gargantuan McKendree Cylinders.
+Much as several Ringworlds, each tilted at
+a different angle, may enclose a star, many
+Rungworlds may be built with slightly different
+angles and diameters, to enclose a star.
+So too, empty space between Rungs can be filled
+with solar panels or ancillary equipment.
+A Topopolis may also be substituted for the
+tethers between habitats.
+Additionally a Rungworld may skip the appearance
+of Rung in favor of arranging habitats in
+a mesh format or even the more three dimensional
+formats of a Buckyhab.
+See also: McKendree Cylinder, O’Neill Cylinder,
+Ringworld, Topolis.
+Shellworld
+Shell Worlds are an attempt to save on construction
+mass by building a thin rigid shell, akin
+to the crust of a planet and filling the middle
+with a more abundant source of mass, such
+as hydrogen, helium, or dark matter.
+Such a shell is usually assumed to be made
+rigid with either Unobtainium or by using
+Active Support techniques like Orbital Rings,
+though can be maintained by a mixture of gravity,
+surface tension, and gas pressure, like the
+Edersphere, which is essentially a big balloon.
+Most often, we imagine millions of orbital
+rings formed into a spherical shell and covered
+with a shell and land and sea above, and below
+a gas giant, or even a stellar remnant such
+as a white dwarf, neutron star, or black hole.
+In particular, black holes of sub-stellar
+mass are a popular approach to allowing shellworlds
+of any given size, bigger or smaller than
+Earth, but with the same gravity as Earth
+on the surface.
+These can vary in size from a modest park
+to something measured in light years, like
+the Birch Planet, and additional layers may
+be built as concentric spherical shells, a
+Matrioshka Shellworld.
+See our episodes: Mega Earths and Shellworlds,
+for more discussion.
+See also: Active Support, Black Hole Gravity
+Generator, Birch Planet, Edersphere, Matrioshka
+Shellworld, Mega Earth, Mini-Earth, Orbital
+Ring, Supramundane World, Unobtainium.
+Shkadov Thruster
+A Shkadov Thruster is a type of stellar engine
+designed for using a star’s own power to
+move it, by surrounding the star in orbital
+mirrors or statites which reflect light in
+one direction.
+With this method, stars can be slowly accelerated
+up to a small fraction of light speed.
+Bigger stars accelerate faster as they have
+a higher brightness to mass ratio, whereas
+small dwarfs can attain higher ultimate speeds
+as they burn a larger percentage of their
+fuel.
+All versions are slow though, and because
+of the acceleration time, it is a relatively
+minor difference in effort to move them across
+a galaxy or even between galaxies, compared
+to simply moving them a few systems over.
+See our episode: Shkadov Thruster and Fleet
+Of Stars, for more discussion.
+Sky Cities
+Sky Cities or Cloud Cities are examples of
+floating cities that hang in the air via buoyancy
+or aerodynamic lift, as opposed to anti-gravity
+approaches such as Orbital Plates.
+These might be individual homes, cities, floating
+space launch facilities like the Dark Sky
+Station, or even continent-sized affairs on
+worlds like Venus.
+Materials able to hold hydrogen or helium
+better than modern materials, such as graphene,
+may make these options vastly more economic
+and safe.
+By and large, these structures are necessarily
+big when based on buoyancy.
+One example is the Cloud Nine Sphere, which
+takes advantage of how geodesic shapes grow
+stronger as they get bigger, to use large
+buoyant balloons in buckyball form, essentially
+a habitat that’s shaped like a soccerball.
+See our episodes Cloud Cities and Colonizing
+Venus for more discussion of floating cities.
+See also: Dark Sky Station, Orbital Plates.
+Skyhooks
+A skyhook, also known as rotovator, is a long
+tether that hangs from orbital heights to
+a lower height, for spaceships to connect
+to, in order to save launch fuel.
+They come in both stationary and rotating
+form, and are a parallel concept to a space
+elevator, relying on tensile strength.
+A skyhook loses momentum when giving it to
+a spaceship as it lifts and speeds it up,
+but if larger, can slowly regenerate momentum
+between hookings by options like solar powered
+electrodynamic tethering.
+Skyhooks are a launch assist technology, typically
+designed to be incorporated in tandem with
+either hypersonic spaceplanes, Lofstrom Loops,
+or mass drivers.
+See our episode: Skyhooks, for more details.
+See also: Lofstrom Loop, Space Elevator.
+Smoke Ring
+In Larry Niven’s 1987 novel, The Smoke Ring,
+we encounter a naturally-occuring gas cloud,
+surrounding a star in its habitable goldilocks
+zone as a wide torus of breathable air with
+a native ecology.
+This may also be constructed as a megastructure,
+in which case it would have a living volume
+comparable to a Dyson Swarm, and specifically
+a Jenkin’s Configuration.
+This concept also arises in Peter Hamilton’s
+Commonwealth Saga, where we see entire islands
+floating through this immense star-encompassing
+atmosphere, or atmo-torus.
+We could conceive a civilization with either
+artificial gravity or the capability to manufacture
+micro-blackholes and Mini-Earths, filling
+such a torus with an Asteroid Belt of such
+islands whose gravity would keep the air in
+that torus rather than disbursing to interstellar
+space, or we might see a vast, transparent
+hollow donut in which the ring was contained.
+See also: Dyson Swarm, Jenkins Swarm.
+Solar Mirrors
+Solar Mirrors are a method for directing large
+amounts of light onto a planet, power collector,
+or Megastructure that take advantage of the
+incredible thinness of reflective materials
+compared to thickness of habitation and power
+megastructures and planets in general.
+A single micron thick sheet of a metal, polished
+to reflect, like aluminum foil might double
+the light coming in on a megastructure habitat
+at a millionth of the mass of that habitat.
+In this way small asteroids, which number
+in the hundreds of thousands, can be converted
+into a shade able to significantly alter a
+planet's temperature, such as warming Mars,
+and indeed a statite dyson shell around a
+star would generally require only the mass
+of a modest-sized moon.
+Solar Mirrors are also instrumental in stellaser
+and power beaming technologies, for powering
+worlds or driving spaceships.
+See also: Parabolic Habitat, Solar Shades,
+Statite
+Solar Shades
+Solar shades are a parallel concept to solar
+mirrors, allowing planets to be cooled, or
+giving them artificially different day lengths,
+while making use of simple and cheap technology.
+Any material that can be woven thin allows
+for shades weighing only a tiny fraction of
+the typical megastructure even when of gargantuan
+size.
+While these can be employed as single large
+shade, it is quite possible that many smaller
+ones would be used together instead.
+Additionally, in some cases, it may be considered
+preferable to use inflated spheres rather
+than flat sheets, such as filling a L-1 Lagrange
+Point with many balloon shades to bounce around
+its metastable region or floating mirror-topped
+balloons in an upper atmosphere to, shade
+the area below, rather than placing them in
+orbit or lagrange points or various statite
+and lagite orbits.
+See our episode: Winter on Venus, for discussion
+of using Solar Shades to terraform hot planets.
+See also: Lagite, Parabolic Habitat, Solar
+Shades, Statite
+Sombrero Planet
+This variation of a Flat Earth Megastructure,
+is an attempt to manage the difficulty of
+gravity on a disc pointing not just down to
+the disc but toward the center, by making
+the disc wider and containing more mass near
+the end, and by having a bulge near the center.
+See also Disc World.
+Space Elevator
+Space Elevators can be either long tethers
+hanging from space, relying on tensile strength,
+or huge space towers reaching into orbit,
+relying on compressive strength, but tensile
+strength versions are more commonly discussed
+in modern times, typically expected to be
+made of carbon nanotubes or graphene.
+Because a mechanical climber can use electricity
+on the cable, or beamed power to pull on the
+cable, cost for ascent to orbit is almost
+trivial, on an order of dollars per kilogram.
+A Space Elevator typically would run to above
+geostationary orbit where a ship leaving there
+would be able to exit at interplanetary speeds,
+as the elevator’s end tip is moving faster
+than orbital speed at that point.
+They are most easily built at the equator,
+but if a material is strong enough, multiple
+tethers may extend up from north and south
+of the equator to meet at a geostationary
+orbit.
+A severed elevator tether will see the top
+spin off into space and the bottom fall to
+Earth, though given that virtually all of
+the tether is in orbit above the atmosphere,
+a break in the atmosphere would most likely
+cause a slow outward spiraling tether that
+could be reconnected and the lower end to
+fall to the ground like an electric cable
+from a tower, possibly slowed by a parachute.
+See our episode: Space Elevators, for more
+discussion.
+See also: Carbon Nanotubes, Graphene, Skyhook,
+Space Tower.
+Space Farm
+Space Farms are a blanket term for any structure
+principally devoted to agriculture in space,
+on the grounds that if they have gravity at
+all it may be lower and the habitat may be
+constructed cheaper and thinner as it is likely
+to be mostly hydroponics or thin soil full
+of plants tended by robots.
+Space farms are an option for worlds such
+as Ecumenopolises where landing the food on
+the planet requires less energy and waste
+heat than growing it there would.
+We would also expect them to be an ancillary
+facility to most spacehabs, where food for
+humans may be grown while leaving the primary
+hab free for residences and parks.
+Indeed these may also be used to supplement
+local wildlife to allow park and garden interiors
+of habitats to have a higher wildlife population
+than the habitat would otherwise support,
+essentially bird and squirrel feeders.
+The Space farm itself might be attached to
+a smaller but more sturdily built hab ring
+for workers or livestock or both.
+Space Farms are likely to be one of the most
+common, if unglamourous, megastructures.
+See our episode: Space Farming, for more discussion.
+See also: Ecumenpolis.
+Spin Gravity
+Spin Gravity is the nickname for how centrifugal
+force inside a spinning structure, be it a
+cylinder habitat or washing machine, simulates
+gravity for most practical purposes.
+Typically the larger the spinning structure,
+in terms of diameter, the better the simulation.
+Spin gravity relies on the premise that Einstein’s
+assumptions for general relativity are correct,
+that acceleration and gravity are effectively
+identical.
+It is also the reason why people on the space
+station feel no gravity, as their constant
+acceleration around Earth is precisely countering
+the gravity of Earth below.
+See also Cylinder Habitat and Ring Habitat.
+Space Tower
+Space towers, also called space fountains,
+utilize active support to keep impossibly
+tall structures erect, those able to rise
+above an atmosphere and even up to geostationary
+orbits.
+Technologically they function on the same
+principle as an Atlas Pillar, and like the
+Atlas Pillar, one of their greatest values
+is what they can be used to make, not simply
+as colossal skyscrapers on their own.
+Though, given that such a space tower might
+have millions of floors, and a square footage
+equal to an entire continent, a space tower
+built for habitation can be a world in its
+own right and home to entire civilizations.
+See also: Active Support, Atlas Pillar, Space
+Elevator, Lofstrom Loop.
+Stanford Torus
+With the possible exception of the O’Neill
+Cylinder, there is no more popular recognizable
+space habitat than the Stanford Torus, a 10
+Megaton donut 1.8 kilometers or 1.1 miles
+in diameter.
+This diameter was chosen to be well inside
+material limits of steel and what is required
+for Earth-like 1-gee gravity at 1 rotation
+per minute.
+The Innerside of the torus is clear to allow
+light to be reflected in and has a view of
+the hub which is connected by spokes to the
+torus and the hub is where we would expect
+ships to dock at.
+Secondary mirrors around the hub direct sunlight
+into the habitat to mimic a 24-hour day-night
+cycle.
+It was designed as a comfortable home for
+roughly 10,000 people, though, like most habitation
+megastructures, it is assumed to have a number
+of additional facilities attached to it including
+space farms.
+See also: O’Neill Cylinder, Space Farms.
+Starlifting
+Starlifting is a technology that seeks to
+mine the stars themselves, by magnetically
+drawing in elements from the upper regions
+of a star, often by also stimulating more
+solar wind or flares.
+Our sun is mostly hydrogen and helium, but
+contains vastly more heavy elements than all
+the planets in our Solar system combined,
+with roughly 30,000 Earths worth of metals.
+Star Lifting apparatus is itself a megastructure
+but also allows the construction of entire
+Dyson Swarms of habitats without needing to
+disassemble the planets in a star system.
+It also allows the colonization of stars lacking
+any planets.
+Furthermore, it allows the removal of helium
+from stars, to prolong their lifetime, as
+well as the lowering of stellar mass to extend
+the star’s lifetime or prevent it from going
+supernova, and forms the backbone of some
+star-moving technologies such as the Caplan
+Thruster or Helios Drive.
+See our episode: Starlifting, for more details
+of the technology, methods, and additional
+applications.
+See also Caplan Thruster, Dyson Swarm, Helios
+Drive.
+Statite
+Statites are the brainchild of Robert Forward,
+who suggested the name in 1993 as a mix of
+static and satellite.
+A Statite is able to hang directly above a
+star, rather than circling it in a typical
+orbit.
+These make use of the radiant pressure of
+sunlight to allow very thin objects perpendicular
+to the Sun, to hover in place by balancing
+the amount of force the sunlight exerts against
+the gravity of the Sun.
+A Statite must be carefully balanced in terms
+of its cross-section density so that it doesn't
+float further away or fall closer, and thus
+would likely include the ability to adjust
+its cross section and tilt to allow it to
+engage in station-keeping or even moving as
+a solar sail.
+The critical factor of statite function is
+surface or cross section density, how thick
+the statite is, and this will generally be
+on the order of tinfoil.
+As the strength of light and gravity both
+fall off inverse to the square of distance
+from the Sun, a statite of a given surface
+density functions regardless of its distance
+from its star, however it would not function
+around any star with a different brightness
+to mass ratio.
+Statites are far easier to make function around
+more massive stars -which are far brighter
+- than they are around less massive dwarf
+stars, as stars vary by up to a factor of
+100 in mass but more than a billion in brightness
+for that range.
+Variations of these can also use magnetics
+to deflect solar wind ions, as an alternative
+to sunlight or in combination with them.
+So too, the use of focused sunlight from solar
+mirrors or beams can be used to allow heavier
+statites.
+See also: lagite, quasite.
+Stellar Pinwheel
+Much as a reflective pinwheel can orbit inside
+a vacuum, propelled by sunlight bouncing on
+it, a large solar collector configured as
+a statite could spin like a pinwheel driven
+by light or solar wind or both to generate
+power.
+One hanging above the pole of a star could
+bounce the light back down into that star,
+causing it to be reabsorbed and re-emitted.
+Such devices might be used with some versions
+of starlifting.
+Stellaser
+The Stellaser is both a specific concept using
+enormous mirrors inside a star’s corona
+to create a massive laser, and a blanket term
+for any enormous laser powered by a star.
+The Stellaser is the brainchild of Steve Nixon,
+who proposed it as means of using material
+in a star’s corona to serve as a lasing
+medium.
+Large thin simple mirrors are deployed near
+a star, using spin to keep them rigid, and
+possibly as close to a star as they can be
+without melting.
+Light from the stellar body bounces between
+the two mirrors through the star’s thin
+corona to generate a laser in the normal method.
+Such a beam can be both enormously powerful
+and possessed of a huge focal range, making
+it ideal for propelling lightsail craft.
+The term has become a catchall on the channel
+for any type of powerful laser running near
+a star and drawing power off it, including
+a conventional one using solar panels, but
+the original concept was discussed in more
+detail in our episode Colonizing the Sun.
+Spaceships using Stellaser propulsion would
+be able to achieve a high fraction of light
+speed, and could be slowed at their destination
+by Stellasers as well, which might be deployed
+ahead of an arriving colonization fleet, as
+a solar sail approaching the star and slowing
+from conventional radiant pressure before
+entering an orbit and forming the stellaser
+to slow the main fleet, as discussed in our
+episode: Exodus Fleet.
+As such, they represent a possible keystone
+of interstellar colonization and trade.
+Their potential value for terraforming or
+planetary power supplies is also enormous.
+Suntower
+There are a number of ways we can move large
+amounts of energy to a planet and a number
+of reasons why, but most will generate huge
+amounts of heat in the atmosphere.
+A Suntower is one such way of getting around
+this, if we were seeking to alter a planet’s
+day length, by building super-towers on a
+planet above the main atmosphere with reflective
+mirrors at the top that a light beam could
+be put on.
+In this way, like a water wheel, a planet
+could have a flow of light placed on these
+towers as it turned to speed or slow planetary
+rotation.
+Similar methods can be used to push a planet
+closer or further from its sun, or to adjust
+axial tilt.
+It is also possible to mount a rocket engine
+- presumably a fusion or ion drive - on top
+of such towers, to avoid atmospheric heating,
+or to mount magnets, against which a beam
+of particles could be directed.
+Suntower is also used for very tall towers
+with either a mirror or artificial lighting
+for keeping a layer of a habitat lit or the
+surface of a shell world.
+In some cases, such as a vertical reef for
+lighting marine habitats, the tower itself
+might glow its whole length and it may be
+covered in fiber optic cables bringing in
+light from elsewhere.
+See also: Stellaser.
+SupraMundane Worlds
+SupraMundane Worlds are a category of spherical
+megastructures where, typically an existing
+planet, such as a gas giant, has been wrapped
+with orbital rings or ribbons or enclosed
+inside a shell to form an Earth-like planet
+but one dozens or even hundreds of times bigger.
+Saturn for instance has the right mass and
+density that if enclosed in a shell just above
+its atmosphere it would make for a planet
+surface 95 times that of Earth but the same
+surface gravity as Earth.
+Supramundane Worlds can have micro-black holes
+in their centers as well, but are usually
+assumed to be around gas giants or brown dwarfs,
+which may be leached of their hydrogen and
+deuterium to provide power via fusion reactors.
+Larger ones must be egg-shaped and have their
+poles wider than their equator, to ensure
+relatively uniform gravity if you are spinning
+the planet once every 24 hours, so that centrifugal
+force at the equator is neutralized by the
+slightly higher gravity of being above a narrower
+equator.
+See our episode: Mega Earths, for more discussion
+of the challenges to building such worlds.
+See also: Mega Earth, Mini-Earth, Shellworld.
+Terran Ring
+In terms of fuel, the orbital path of Earth
+represents the easiest region of space to
+traverse, outside of Cislunar Space, and thus
+it is plausible that the ring or torus swept
+by Earth’s orbit of the Sun may be the most
+densely populated and first-developed region
+of our solar system.
+It is potentially economically viable to have
+food production for Earth and its Planet Swarm
+in such a ring so that a very dense population
+could be housed on Earth and in Earth Orbit.
+Indeed, actual tethers could be maintained
+between habitats and other megastructures
+in such a ring, to allow rapid cable car transport
+entirely around this torus around the Sun.
+This may develop alongside or eventually into
+a Rungworld.
+Such cables, if strong enough, could link
+directly to Earth via various space tower
+or orbital ring arrangements.
+See also: Orbital Ring, Planet Swarm, Rungworld,
+Space Farm, Space Tower.
+Topopolis
+Every object, no matter how stiff it seems
+to us, if long enough compared to its diameter,
+becomes a flexible rope you can tie in knots,
+even a solid steel beam as thick as a human,
+if long enough.
+The Topopolis takes this a step further and
+produces one immensely-long cylinder habitat
+that’s thousands or even millions of times
+longer than it is wide, which can wrap around
+an entire star, or in theory, between two
+stars or even a whole galaxy.
+In this way, the Topopolis can potentially
+rival Dyson Swarms or even Birch Planets and
+Supraself for living area and requires no
+advanced technology.
+By default, a Topolis can be pictured as a
+long skinny cylinder with a river running
+down it, and the local areas wrapped around
+it potentially stretching billions of kilometers.
+The ‘width’ might be comparable to an
+O’Neill Cylinder or a McKendree Cylinder,
+or whatever your technology permits.
+See our Topopolis episode for more details
+and various subtypes of this structure.
+See also: Birch Planet, Dyson Swarm, McKendree
+Cylinder, O’Neill Cylinder.
+Unobtanium
+Unobtainium is a common term for any material
+in theoretical scientific or sci-fi discussion
+with properties viewed as fantastic or unobtainable
+inside modern known science.
+This might be a stable transuranic element
+or a material of unbelievable strength or
+possessed of a property we would not expect
+to find in nature, like absorbing neutrinos
+to emit gravitons.
+See also Clarketech.
+Valley House
+Valley Houses are where very large craters
+on airless or low-gravity, thin-aired worlds
+are glassed-over to create a habitable area,
+parallel to domed cities.
+To be megastructures these would cover valleys
+parallel or larger than Earth’s Grand Canyon
+or Noctis Labyrinthus on Mars.
+Worldhouse
+A worldhouse is where para-terraforming of
+domes on a planet, such as Mars, have encompassed
+the entire world inside a massive greenhouse,
+or perhaps even a single crystal sphere has
+been placed around it to keep an atmosphere
+in.
+This may be an early state of a planet during
+classic terraforming, or it may be a permanent
+arrangement for low gravity or lower escape
+velocity moons and mini-earths, where maintaining
+an open atmosphere might be difficult.
+Wormhole
+Wormholes are a hypothetical object for circumventing
+the speed of light that would likely be a
+vital megastructure if they are possible to
+build.
+Wormholes and Wormhole Networks represent
+a possible Clarketech solution to interstellar
+travel that would supersede Interstellar Black
+Hole Highways though likely still be in use
+with Interstellar Laser Highways for inter-system
+traffic.
+See our episode Wormholes in our faster than
+light series for more discussion, and that
+series for more discussion of how civilizations
+might incorporate technologies such as wormholes,
+warp drives, hyperspace, and other hypothetical
+FTL methods.
+So we’ll be getting to our schedule of future
+episodes in a moment along with some announcements
+and show notes, but first I wanted to also
+note that while we were looking at Megastructures
+of the future, they’re not just a thing
+of the future…
+We have many already and indeed have been
+building them for a long time, it is part
+of why I’m so confident the vast structures
+we looked at today will be part of our tomorrow.
+If you’re curious for more on megastructures,
+you can check out Megastructures: Gardens
+by the Bay and the Roman Megastructures over
+on Curiositystream for some more mega engineering
+of our past and present.
+Also, even though this episode is almost 4
+times longer than that original episode of
+our show it’s updating, we did miss a critical
+component of that original discussion.
+In that episode I made a case for why megastructures
+were often better than planets, both for humanity’s
+use and in the context of why scifi authors
+should use them more in their settings rather
+than always planets.
+Today’s episode is already way too long
+for adding that in, even as an extended edition
+on Nebula, so I’m just going to give that
+topic its own standalone video on Nebula instead,
+Planets vs Megastructures.
+Nebula is our streaming service created to
+give youtube creators more flexibility and
+not be at the whim of Youtube’s algorithms
+for our content, or any other platform.
+It is the largest creator-owned streaming
+service in existence, and all of SFIA’s
+content is up there, ad and sponsor free,
+and released a couple days early.
+We also release an extended edition or two
+every month, and have some exclusive content
+like our coexistence with aliens series, and
+now, Planets vs Megastructures.
+It’s a great way to help support some of
+your favorite channels while getting ad free
+content.
+Now you can subscribe to Nebula all by itself
+but we have also partnered up with CuriosityStream,
+the home of thousands of great educational
+videos like Megastructures: Gardens by the
+Bay and the Roman Megastructures.
+So we can offer Nebula for free as a bonus
+if you sign up for CuriosityStream using the
+link in our episode description.
+That lets you see the amazing content on Curiositystream
+and Nebula for less than $15 a year, just
+use the link in the episode’s description.
+So this episode obviously ran longer than
+any other we’ve had and was quite a lot
+of work and I wanted to thank my wife Sarah
+for helping on the narration and all editors
+who helped on the script clean up as it ran
+over 18,000 words, to ensure that there was
+a proper transcript and subtitles on the episode,
+something the original didn’t have, though
+every episode since has.
+Another thing that the original didn’t have,
+and we introduced a few episodes in, is a
+credit roll at the end, something that’s
+a bit of rarity on youtube for some reason.
+I wanted to mention that because over the
+years we’ve had over a hundred folks contribute
+to editing or animating or letting us use
+their music or even composing songs for the
+show, and we always put those folks in our
+credits to get them some well-deserved recognition
+and thanks.
+Amusingly today is the first time we’ve
+ever had a co-narrator on an episode that
+wasn’t a collab episode with another show,
+we’ve even had a dozen or so co-written
+episodes before today and yet weirdly, for
+a show where the host has a big speech impediment,
+no other narrator.
+Anyway I wanted to thank all those folks who’ve
+contributed over the years, to this episode
+and to the 470 other entries on our big chronology
+spreadsheet, which includes over a 100 bonus
+episodes and livestreams and collabs, I know
+the production number on the show says episode
+346 but I only count the regular Thursday
+episodes toward those as they’re really
+my production week numbering these days.
+I also wanted to say a big thank you to the
+National Space Society for hosting me at their
+International Space Development Conference
+last week.
+I’d been set to attend 2 years back and
+collect my Pioneer Award from them, but then
+Covid came and so two years later I finally
+got to give a talk there and revisiting that
+original topic of Megastructures seemed a
+good topic, and that evolved into this episode.
+You can catch the recording of that talk too
+as it was substituted in for our normal monthly
+livestream Q&A.
+So too, a lot of that first episode’s original
+content was inspired by the collection of
+futuristic ideas and structures at Orion’s
+Arm, and it’s been a great source of futuristic
+content for a couple decades now, with both
+visual and text entries on many topics, in
+their Encyclopedia Galactica, but also with
+many stories written by its member dealing
+with life in the future and often on such
+megastructures.
+All right, that wraps us up for today but
+not for this week, as we have our Scifi Sunday
+episode, the Silurian Hypothesis, coming up
+this Sunday, June 12th.
+This is the concept that some ancient civilization
+like intelligent dinosaurs might have once
+dwelt on Earth long ago.
+We will also ask what would remain of humanity’s
+accomplishments millions of years from now
+if we suddenly died off.
+And two weeks from now, we’ll be looking
+at the concept of Interstellar Probes, where
+we’ll begin our two-part story of traveling
+to an anomalous system to investigate it,
+concluding with Life as a Planetary Explorer.
+We’ll pause between those two episodes to
+look at the concept of Crawl-onizing the Galaxy,
+how humanity can still settle the stars even
+if we are limited to spaceships moving at
+less than 1% of light speed, and what that
+will look like.
+One more thanks, and that’s to all of our
+donors over the years.
+You’ve made the show possible, whether it
+was on patreon or by paypal or subscribestar
+or snail mail or Nebula, and I’m beyond
+grateful.
+This show wouldn’t exist with out your support.
+For anyone who would like help support future
+episodes, you can got to our website, IsaacArthur.net,
+which we’ve recently relaunched new and
+improved, and all those other options are
+linked in the episode description, along with
+our social media forums like facebook, reddit,
+and discord, where you can chat with others
+about today’s episode and many other futuristic
+ideas.
+And thanks to all the admins and moderators
+on those forums for their hard work too.
+And don’t forget to like this episode and
+subscribe to this channel, and leave a comment
+below.
+As always, thanks for watching, and have a
+great week!

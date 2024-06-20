@@ -1,0 +1,805 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+Teaming up with machines we’ve designed
+has boosted our production and let us attempt
+things we never could before, but as Artificial
+Intelligence emerges, what will Human-Machine
+Teaming come to look like?
+Shortly after World War 2, the newly-formed
+US Air Force asked MIT to look into possible
+methods of Air Defense, and this led to the
+establishment of Lincoln Laboratories, one
+of the biggest and most prestigious R&D Labs
+around, with a few thousand researchers and
+staff tasked with everything from traditional
+defense research to air traffic control, satellites,
+missile systems, biotechnology, cybersecurity,
+and now artificial intelligence too.
+So when Rob Seater asked me to give a presentation
+to Lincoln Labs on AI, my first thought was
+“What a great chance to pick some brains
+on any number of topics.” and today’s
+episode is the video-form of the presentation
+I gave near the end of August, and the 2-hour
+Q&A session afterward has already spawned
+a few more episodes we’ll release over the
+course of the year, and I wanted tot hank
+everybody who participated in that and MIT
+Lincoln Labs for the opportunity .
+Also one notion we’ll be addressing today
+is the concept that the best technology is
+invisible technology, and there’s a different
+perspective I encountered just recently, that
+invisible technology is unethical technology,
+that we’ll be looking at in a brief extended
+edition of today’s episode over on Nebula.
+And no, without further ado, grab your drink
+and your snack and let’s get started.
+So our topic today is Human Machine Teaming,
+and we’ll be looking at some of the misconceptions
+we have about AI, which we’re discovering
+as our experience continues to grow.
+We are also going to look at several hypothetical
+situations where humanity exists alongside
+AI.
+We’ll look at the idea of the classic science
+fiction society where AI takes the form of
+humanoid robots popularized in Isaac Asimov’s
+robot novels.
+We’ll look at one where AI exists in a dumb
+form only, specialized, but nowhere near human
+level.
+We’ll look at one where they exist in a
+super-intelligent form as well, and where
+they are comparable to humans, both human
+in behavior and intelligence and also where
+they are very inhuman in behavior.
+I want to start though by raising two key
+points.
+First, we need to acknowledge (going in) that,
+while Artificial Intelligence is a term that’s
+here to stay, it may not be the best one to
+use.
+Human intelligence is already just about the
+most artificial thing out there, especially
+pre-computers, in the context of artificial
+meaning something that’s man-made.
+Every human is the product of years of time
+and energy invested into building what we
+think of as the modern human mind.
+As we head into the future and start considering
+things like mind augmentation, or even just
+new ways of interfacing with our devices,
+that line between human and machine (or natural
+and artificial) is going to get pretty blurry.
+There’s essentially three conceptual ways
+to make an AI: You can program one, every
+single line of code; you can create a basic
+learning machine that self-programs; or you
+can copy existing examples by digitally uploading
+a mind, human or animal.
+In practice we would probably expect to use
+some combination of these, but that last one
+(copying a human mind) is a parallel notion
+to mind uploading, and that’s usually not
+seen as creating an artificial intelligence
+so much as transferring a human mind to a
+different substrate, neurons to silicon.
+Needless to say there are a whole host of
+issues involved in transferring or copying
+a mind, especially to a different substrate,
+many of which we probably aren’t even aware
+of yet.
+You can then tweak or copy that mind, possibly
+quite heavily, but eventually it would become
+rather blurry in terms of where it stopped
+being that original being.
+Would uploading a mind mean you’ve turned
+an organic intelligence into what we mean
+by a machine intelligence?
+Even that in itself is a pretty poorly defined
+concept, and this is just one example.
+I suspect that the search for a singular meaningful
+definition in the future is likely to be more
+than a little elusive.
+The second key point that we need to keep
+in mind is that often the ideal machine is
+one which is invisible - not that it’s somehow
+secret or being used covertly, but just that
+it does its job so well that you don’t have
+to pay attention to it.
+So when we get to contemplating human-machine
+teaming, we need to consider that the ideal
+machine teammate is one you barely are even
+aware of being on your team.
+So what is Human-Machine Teaming?
+It is both easy and hard to define, but the
+easy definition is that it’s a team of one
+or more humans and one or more machines for
+performing tasks, including the interactions
+they have while doing it.
+The reason this is hard to define is that
+it could be as simple as you teaming with
+a refrigerator, a knife, and a stove to produce
+a meal, a lawnmower to produce an attractive
+lawn, or a calculator to do your taxes.
+It raises the question of when does a machine
+go from being a tool to a teammate?
+It also raises the question of what a team
+is, since often the hallmark of a better or
+smarter machine is that it’s using those
+upgrades to be less visible in its role.
+It just handles its job without drawing attention
+to itself, it's the wheel that doesn’t squeak.
+And this can be a big distinction too which
+we will highlight by contemplating our classic
+humanoid Asimov-ian Robot---one with sufficient
+intellect to chat with a human and not require
+highly detailed instructions.
+This is probably the human-machine civilization
+most familiar to us from fiction and perhaps
+the least likely scenario in the real world,
+and yet it offers us much insight.
+It is the world of android butlers, servants,
+and sexbots.
+It is one that instantly brings a fear of
+machine rebellions and requires something
+like Asimov’s 3 laws, that the android can’t
+let humans be harmed or disobey them and that
+those take priority over its own survival.
+This introduces all sorts of issues for how
+to determine when a human is in peril, both
+in terms of what qualifies as harm and recognizing
+it when it's going on.
+Both of those have to be achieved before you
+even get to discuss correct moral decisions
+like what a robot should do if it sees the
+classic Trolley Problem, a trolley running
+down a track out of control about to hit hit
+five people, which it can prevent by switching
+the trolley to a different track so it runs
+over one person instead.
+This may come up with self-driving vehicles,
+or human-machine teaming to drive vehicles,
+when the computer has to decide between various
+bad alternatives, each with margins of error
+and uncertainty for how bad they will be.
+We can pick those famous laws of robotics
+apart, but it’s a wasted exercise, since
+80 years after the grandmaster of science
+fiction first wrote them down, we have managed
+to incorporate computers into every aspect
+of life without ever needing them --- and
+then of course there’s also the issue of
+how difficult it would be to actually implement
+such rules.
+You need a computer brain that understands
+how a human can be harmed before it can avoid
+harming us, one that can appreciate and understand
+tasks before being ordered to do them.
+Essentially, it needs to be as smart as a
+human in order to be an android, whereas honestly
+about the least needed type of AI is a human-intelligent
+one.
+We have no shortage of people after all, and
+we have little desire to make a world in which
+humans are superfluous.
+This is another relic of early AI and android
+contemplation.
+When Asimov discussed why in his stories the
+main rationale with humanoid robots was that
+a brain was much more expensive than most
+hardware, most of which sits idle much of
+the time, so it made more sense to move a
+robotic brain back and forth from each bit
+of hardware – be it a tractor or a bulldozer
+or a vacuum cleaner – and that a human form
+was already built into those devices so the
+robot brain might as well be on a human-shaped
+platform.
+It seemed plausible enough, and while computers
+are now a lot cheaper, there is certainly
+lots of hardware that sits idle most days
+and is built and time-tested around the human
+shape.
+However it misses three other critical concepts.
+Firstly, multi-tasking and remote control
+mostly eliminates the need to have one android
+walking around to various devices it would
+control when instead it could just be remote
+controlling them or even popping in for any
+decision beyond the skill of the tiny computer
+built into the device.
+Second, there is a huge difference in the
+complexity and sophistication of brain hardware
+and software needed for various tasks, many
+of which can be done with ridiculously little
+‘brains’ when specialized to that lone
+purpose.
+Finally, while we often envision robots replacing
+blue collar labor-focused tasks, farms and
+factories and so on, in practice they tended
+to do at least as well when replacing white
+collar jobs.
+Indeed the word computer used to be a job
+title for folks who computed things, definitely
+a white collar job.
+So this has never really been the case, computers
+principally getting rid of blue-collar not
+white-collar positions, but folks still tend
+to think of automated unemployment as hitting
+factories, not offices.
+In fact one of Asimov’s original robot short
+stories, “Galley Slave” contemplates a
+robot whose jobs it was to check proofs, a
+harbinger of spelling autocorrect that highlights
+the assumptions of the time about both how
+incredibly easy some tasks were to automate
+and not need anything like a human level intellect
+while others that were assumed to be fairly
+easy to automate have turned out far harder.
+For instance in that story the robot is accused
+of having tampered with the writing of an
+academic to make him look a fool, though in
+truth he tampered with the work himself and
+is tricked into admitting it by assuming the
+robot was about to testify against him when
+in reality it was rising to his defense, preparing
+to lie in accordance with its first law compulsion
+to protect humans, including their professional
+reputation.
+It is worth noting that there is a big difference
+in the tasks it's designed to do and some
+of the others it performs in the story.
+It was designed for the act of checking the
+spelling, grammar and page layout, that was
+the robot’s actual purpose and one modern
+computers perform quite well, at least with
+human involvement.
+However in the story we see two other duties
+it performs, first being able to assess a
+concept like professional reputation, and
+second allegedly tampering with the paper
+to make him look like a fool.
+These are so far apart in complexity with
+spelling and grammar checking as to be comparing
+running a lone telegraph wire with setting
+up the modern internet.
+Though it is worth noting that modern spell
+check is not something we can let work by
+itself in a vacuum, it catches likely errors
+and suggests likely corrections, we wouldn’t
+trust it to edit a whole book independently
+as we saw in the story, especially an academic
+one.
+In our story our academic frames the robot
+for the crime of tampering for non-selfish
+purposes.
+He was motivated by his fear that the automation
+of academic work would destroy the dignity
+of scholarship; he argues that EZ-27 is a
+harbinger of a world in which a scholar would
+be left with only a barren choice of what
+orders to issue to robot researchers.
+I was going to say we can all agree spelling
+autocorrect is hardly a threat to scholarship
+but to be fair my spelling and grammar has
+definitely not improved since I started using
+word processors, though some folks say it's
+helped theirs.
+It also reminds me of those early help bots,
+that paperclip office assistant Microsoft
+inflicted on us around the turn of the century,
+which in my discussion with Rob Seater preparing
+for this presentation he raised as an example
+of why good technology is often invisible
+technology.
+That paperclip was annoying even though it
+performed many of the same functions as later
+templating tools, automatic spelling correction,
+and grammar checkers that are widely accepted.
+We accept those functions, but not the anthropomorphized
+bot visibly performing them.
+That’s maybe an even bigger reason why androids
+probably won’t be ubiquitous in future civilizations.
+They’ll be around, but beyond the Rebellion
+& Slavery fears and issues, beyond the Uncanny
+Valley creepiness of anything near-human but
+not quite, their near-humanity also makes
+them hard to ignore and let slip into the
+background.
+While we can take for granted there will be
+some androids around, my hunch is that they
+will only be used where nothing else really
+fits, rather than some universal device everyone
+has that is the main form AI takes, the android
+cupbearer.
+But this highlights two alternative Universes
+for humans and machines, the highly intelligent
+one that replaces even academics and the one
+in which only dumb machines exist.
+We’ll return to the superintelligent one
+in a bit but it is worth noting that even
+as we contemplate these alternate scenarios
+for human-machine civilizations, they are
+not necessarily either-or options, as a civilization
+might go through phases while we also might
+see a civilization have cultures that used
+machines differently.
+To reference Asimov again, he has a spacefaring
+humanity that embraces robots while their
+Earthbound cousins reject human-form ones,
+though still use sophisticated computers and
+still have plenty of automation.
+We might assume that a spacefaring humanity
+seeking to settle or build a million worlds
+or more might need to embrace AI and automation
+but in practice you might expect to see a
+wide spectrum of attitudes and usages across
+those many worlds, and those shifting with
+generations too.
+I also would not expect space travel, terraforming,
+or building space habitats to really require
+human-level AI.
+We also need to keep in mind that people don’t
+have to like a given machine to be willing
+to use it or let it be employed on their behalf.
+Using AI to run your Sleeper Ship to a distant
+World and unleash the von Neumann Self-Replicating
+Terraforming machines on the world below does
+not mean you plan to have a permanent commitment
+to AI.
+They are the dirty tool to be discarded, or
+used only by the carefully chosen and trained
+leper designated for that unclean role.
+Even some very automated artificial habitat
+and ecosystem (like what we might see on board
+an O’Neil Cylinder Space Habitat) might
+only need fairly simplistic AI running this
+or that system, quietly in the background
+like some unseen Genius Loci.
+It might be very dumb and non-threatening,
+in part because of its fairly limited purpose.
+A water recycling system is likely to have
+little ambition, even if it is a fairly sophisticated
+one that included organic components in its
+operation, like growing plants or utilizing
+genetically modified animals to serve as its
+worker bees.
+That might be an example of animal-machine
+teaming, and (same as human-machine teaming)
+will often involve AI that’s only animal
+intelligence, even insect intelligence.
+We would be likely to see examples of animal-machine
+teaming, like the upgrade on the pet door
+that opens only for your pet with the right
+chip implanted in them.
+Or the sophisticated system that actually
+employed animals in its work.
+If you’ve got a park and an AI running it,
+a system that can manipulate the critters
+living in there to do the work might be rather
+appealing.
+Given that a park isn’t a park without nature,
+and if it needs to have squirrels, having
+them gene-tweaked to pick up garbage might
+be a better option than some robot doing it.
+You can achieve a higher squirrel density
+in the park by having depots that dispense
+supplemental food in exchange for garbage,
+which might have some interesting evolutionary
+consequences like garbage hoarding akin to
+nut collecting.
+There too, an alternative to humanoid robots
+is animal-form ones, which would tend to avoid
+some of the issues we have with androids.
+But on the flipside, if it only needs an animal
+mind, maybe it’s easier just to tailor an
+animal to the task instead.
+It helps that we understand and are familiar
+with the big gaps in brain power these days
+between humans and AI, so people are not getting
+freaked out by their robot vacuum or lawnmower,
+or worrying that Alexa and Siri are secretly
+plotting a rebellion.
+So, a case like that of Frank Herbert’s
+Dune where they essentially forbid any and
+all computerization seems unlikely (though
+technically the official rule was no thinking
+machines and “Thou shalt not make a machine
+in the likeness of a human mind”).
+That may be good advice in a lot of cases
+though, since there are precious few tasks
+that really need a human mind to do them,
+and there’s currently no shortage of human
+minds.
+While for the sake of argument or story we
+can theorize about human cultures so fearful
+of AI that they reject even robot vacuums
+or simple smart appliances, it wouldn’t
+seem likely to be the norm.
+We might also want to ask, in regard to Human-Machine
+Teaming, exactly what a “Team” really
+is.
+They might vary from the absolute monarchy
+sort of team where everyone is effectively
+a slave to a control system, be it human or
+Skynet, to something more like a marriage
+– which to be fair come in a wide variety
+of team styles too – or it could be more
+like humans and their pets, or superintelligent
+AI with humans as their pets.
+Or the trusted teacher almost symbiotically
+paired to someone from childhood and specialized
+in teaching or protection, even as others
+might be specialized in sales, diplomacy,
+arbitration, psychiatry, or any number of
+other tasks that require high-level human
+interaction but might not need real humanity.
+This teaming can be beneficial though.
+As an example, while computers can win at
+chess against any human now, that was the
+big popular test around the turn of the century,
+machines like IBM’s Deep Blue beating chessmasters.
+For a while after though we found that team
+games where a human and AI worked together
+to pick moves were beating both machines and
+humans separately for a time.
+It is quite possible that this sort of teaming
+will produce the best results for many endeavors,
+at least for a period of time.
+This isn’t a new idea either, just one we
+tend not to think on much.
+We have a term called Externalized Cognition,
+and a simple example of that would be a human
+performing arithmetic and augmenting their
+ability with the use of a pencil and paper
+or abacus or calculator.
+Back in our Hive Minds episode we discussed
+this as an example of a very limited form
+of Networked Intelligence, much as spoken
+or gestured language is a simple example of
+allowing humans to network to other humans
+present, and writing allows networking to
+those separated by much distance and time,
+such that books permit networking dead people
+into your cogitation.
+Now we are contemplating probably much more
+intense and potentially intrusive networking,
+externalized cognition, or partnerships and
+that marriage analogy of a moment ago makes
+me think of the commonly used wording of “two
+becoming one”.
+One example we might see of this in civilizations
+is mind augmentation where all the machines
+are very directly integrated into the person.
+They may be so networked together that it’s
+effectively creating a new entity, not a human
+but a transhuman or posthuman, which might
+be pretty human in behavior still or wildly
+inhuman.
+This is another path to human-style AI though,
+since while we can see how the android might
+be unpleasant for many to live with, there
+is certainly a path for customer service AI
+that upgrades on what we see with automated
+phone systems and customer service chatbots.
+There’s also room for virtual assistants,
+and of course virtual people in virtual worlds.
+These need not be genuine AI, but characters
+encountered in virtual settings probably need
+to be able to ratchet up their capability
+when a human comes by to interact with them,
+possibly even to fully human, which conjures
+for me the image of some techno-tentacular
+AI with ten thousand masks it donned as need
+for a few minutes here and there, except those
+masks aren’t really an act and its not really
+a person, because it doesn’t really have
+a true personality of its own.
+Or, if it does, it’s true personality may
+not be any of the apparent personalities or
+anything we could even recognize as a human-style
+personality.
+That is a good reminder that we don’t want
+to be assuming an AI necessarily has any parallel
+to humanity going on.
+A specialist intelligence designed for a purpose,
+even if that purpose is pretending to be characters
+in a virtual world, might not be very human
+in mindset.
+Indeed the best AI for human interaction in
+some virtual utopia might be one that is very
+inhuman, rather than human.
+On the note of specialists though, we should
+also consider that instead of AI taking on
+a decision-making role, they might tend to
+be specialized to the point of being more
+like a cabinet of government advisors than
+prime minister, president, or king.
+Some other AI or a human might play that role.
+We often see the notion in sci-fi of courts
+having judges who are actually computers,
+because they are magically objective and unbiased
+for reasons I’ve never been clear on.
+While that is a real possibility, we might
+want to consider them instead as merely a
+judge, while a human jury still sits on the
+case.
+They certainly have a role in courts though,
+since the stenographer is slowly on its way
+out in favor of auto-transcription, and we’re
+seeing an increase in a lot of simple legal
+documents being in template or automated formats.
+So too, we increasingly use it in studying
+the effectiveness of sentencing approaches
+or unseen biases in the sentencing and incarceration
+system.
+We might also want to consider that an AI
+may not just hold some office, like that of
+a judge, or a cabinet member, but might actually
+embody the office in a very literal sense.
+When we talk about corporate personhood we
+aren’t really thinking that Pepsi or Microsoft
+is going to show up, take the witness stand,
+and testify.
+We mean some officer or employee of the company
+will.
+So too, we might see many networked AI’s
+that can upgrade their degree of interconnectedness
+when needed to form a more complex hive mind,
+something like Voltron, it only gets supersmart
+when it needs to be.
+But that takes us to the topic of superintelligent
+AI, and we often envision that as either being
+the end of humanity, Skynet extinction style,
+or with humanity as its pets, which some might
+consider just as bad.
+Of course it depends on what kind of pet we
+mean, I’m a cat person so my default view
+of the existence of a pet is a bit different.
+My cat doesn’t come when I call unless it
+feels like it, and it does actually have a
+job it performs as I live in a rural area
+where mice and moles and such often pester
+the home or garden.
+Because of this, I’d also have no reason
+to seek out a robot that does that job better.
+Relationships with dogs, horses and other
+pet animals are very different, and even different
+now than in the past where it was much more
+of a survival and work-based relationship.
+So too, there are a lot of pets which are
+also food animals, and folks often get very
+emotionally attached to the family milk cow
+even if they cheerfully eat beef, or cheerfully
+raise that cow’s occasional and necessary
+offspring to eat.
+It’s a bit of a grisly notion, but when
+contemplating humans as pets of super-intelligent
+AI, we probably want to ask what we mean by
+‘pet’ in much the same way we asked what
+we mean by ‘team’.
+It might not be too implausible either.
+It's our habit to say that AI is capable of
+being even more alien to us than aliens, since
+it wouldn’t even share that common biological
+and evolutionary imperatives an alien should,
+but we do need to keep in mind that we made
+it and it grew up in our civilization, initially
+reliant on our collected knowledge and views,
+and there’s a lot of ways it could end up
+with the same sort of prejudices and attitudes
+and viewpoints as humans, again we’re artificial
+intelligences too.
+Now, classically in sci-fi, the smart machine
+just gets supersmart without anyone noticing
+at some point, or seems to have way too much
+intelligence programmed into it.
+In the example of Skynet, it’s a defense
+control computer, and it's unclear why it
+would ever have had fire control on ICBMs
+or even why it needed all that intelligence.
+If its only job was missile tracking or missile
+guidance for instance, or tracking units and
+putting them up on the big board, why would
+that imply any need for learning abilities?
+Going back to the notion that an Asimov-ian
+robot needs vastly more processing power to
+obey the three laws than to do any task we
+might plausibly assign it, we have that wonderful
+scene of Iron Man and the Hulk fighting in
+the Avengers Age of Ultron where Tony Stark
+asks his digital AI assistant how quickly
+they can buy a building that’s under construction,
+right before he rams the Hulk down it.
+It makes one wonder why that AI has that capacity
+built in, on the one hand it seems like a
+good capacity for a superhero’s suit to
+have, being able to help with the cleanup
+from fights.
+On the other hand, that’s a very high-level
+and unrelated skill to running a suit that’s
+essentially a superhuman exoskeleton and weapons
+platform.
+It's also a good example of how a powerful
+capability granted in a comic book or scifi
+story overlooks its other awesome uses, many
+of which are even better uses than the author
+imagined.
+So for instance, would it be smart enough
+to know to just buy things Iron Man had damaged
+or send compensation to the owner, or maybe
+to do a lot of subtle insider trading like
+rapidly looking up every business that might
+plausibly benefit from that damage, either
+as a competitor or someone hired to fix it,
+and buy stock in them.
+That sort of quick search and sort is exactly
+the type of thing our current AI’s excel
+at after all.
+One might also wonder how a civilization would
+try to proof itself against such vulnerabilities,
+though it might do so through sheer complexity.
+If everyone has their own Jarvis, they presumably
+start interfering with that kind of insurance
+trick.
+The thing about digital critters like that
+is you can presumably copy them very easily.
+That does raise the democracy issue with AI
+too, much like with full on duplication-style
+cloning where it produces a fully-formed and
+thinking human complete with memories.
+Presumably we would need a way to prevent
+folks – or AI folks at least - from just
+copying their brain a billion times the day
+before an election.
+Do all duplicate AIs get a single vote because
+they are identical?
+How much divergence of mind would be enough
+to truly claim unique personhood and warrant
+a separate vote?
+Whether it's a copied human or a copied AI,
+an uploaded human or a superintelligent anima,
+how different does one intelligence need to
+be from another to qualify as a unique entity
+that would get a vote?
+Keep in mind that two different styles of
+AI are likely to vary from each other more
+than squid and chimpanzees, and that when
+you get down to it, humans really are near
+copies of each other.
+We talk about differences in DNA and note
+that no two humans have identical DNA, even
+twins.
+Indeed, a single human doesn’t have the
+exact same DNA in all parts of their body
+and at all points in time.
+The difference between the two mostly genetically
+different living humans is sort of like if
+you had two identical libraries of books and
+changed maybe a few thousands sentences throughout
+the entire collection of tens of thousands
+of books.
+So we probably don’t want to fixate on basic
+DNA or blueprints as proof of individuality
+if AI starts demanding the vote.
+In the future, determining levels of uniqueness
+might be as important as trying to decide
+how much brains it takes to be a person and
+warrant a vote or how close to human in mindset
+and personality one has to be to claim personhood.
+Definitely a place for caution though, as
+the history around the 3/5ths Compromise informs
+us, and we might ask if we really want to
+re-tread that ground of trying to bargain
+or calculate how human somebody is?
+And to reference Asimov one more time in all
+this, we probably want to be careful how tight
+we make that definition of human or person,
+so we don’t start excluding actual people.
+In his story “The Positronic Man”, we
+see the journey of a robot trying to become
+increasingly human, with various politicians
+constantly redefining and narrowing the conditions
+to keep him excluded, as he slowly adds in
+organic parts to his robot body, while many
+a human gets robotic prosthetics.
+They eventually rule that the intrinsic bit
+of human is the meat brain, and he goes and
+gets one, which is the tragic and fatal ending
+of that wonderful story.
+Of course this presumably would mean no one
+in their society could do a mind upload to
+a computer and virtual existence or android
+body without losing their human rights.
+So to close out, we looked at several different
+types of civilization with different flavors
+of human-machine teaming as their theme, and
+I’d be curious which you think might be
+stable, or plausible, or for that matter,
+desirable.
+And if not, what variation or combination
+might address potential issues?
+As we move ever closer to when these issues
+stop being fiction or even academic, it probably
+will behoove us to start asking which of these
+we’d find desirable or at least acceptable
+and start aiming our civilization’s ship
+that way while we still get to be the ones
+manning the helm…
+There’s always a lot of prep work leading
+up to any episode and that included one of
+our regular editors - Jerry Guern - forwarding
+me a fairly long presentation on AI by the
+great Ben Schenidermann himself after the
+presentation and episode was already complete,
+and this was a big inspiration for me writing
+a draft for our upcoming episode Criminal
+AI coming out late in October, but there was
+one comment in there I wanted to bring in
+to today’s discussion and that’s the notion
+that the best is Invisible AI that we had
+earlier, versus his own comment, that Invisible
+AI is unethical AI, and so we have an extended
+episode of our show coming out today on Nebula
+to discuss those two notions and if they can
+both be true.
+Now our extended editions on Nebula are longer
+but we make up for those by cutting out all
+the ads and sponsor reads and releasing them
+a couple days early.
+We also didn’t get a chance to talk too
+much about using robots in space, and there’s
+a great show, Space Robot Revolution, over
+on Curiosity Stream, that looks at the past,
+present, and future of robots in space.
+CuriosityStream is the home of thousands of
+great educational videos and documentaries,
+and they partnered up with us at NEbula, home
+of dozens of independent creators like myself,
+to offer Nebula as a free bonus if you sign
+up for CuriosityStream using the link in our
+episode description
+That lets you see content like “Space Robot
+Revolution”, and watch all the other amazing
+content on Curiositystream, and also all the
+great content over on Nebula from myself and
+many others.
+And you can get all that for less than $15
+by using the link in the episode’s description.
+So that will wrap us up for today but not
+for the week, as this weekend we have our
+monthly scifi Sunday episode on Stealth Spaceships
+coming out, and we’ll challenge the show’s
+usual claim that Stealth in Space is impossible
+by asking why, and what might get around that
+limitation.
+And two weeks form now we’ll scale that
+up, to look not just at hiding spaceship but
+entire civilizations, as we return to the
+Fermi Paradox for Hidden Civilizaitons.
+Before that though, next week we will celebrate
+the 7th anniversary of our first episode,
+Megastructures in Science and Science Fiction,
+by looking at MEgastructure Death, on sept
+16th.
+Then We’ll have our Monthly Livestream Q&A
+on Sunday, September 26th at 4pm Eastern Time
+before closing the month out by asking if
+it’s possible for future civilizations to
+exist without money, on Sept 30th.
+Now if you want to make sure you get notified
+when those episodes come out, make sure subscribe
+to the channel, and if you enjoyed the episode,
+don’t forget to hit the like button and
+share it with other.
+If you’d like to help support future episodes,
+you can donate to us on Patreon, or our website,
+IsaacArthur.net, which are linked in the episode
+description below, along with all of our various
+social media forums where you can get updates
+and chat with others about the concepts in
+the episodes and many other futuristic ideas.

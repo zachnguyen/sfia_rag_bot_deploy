@@ -1,0 +1,557 @@
+This Episode is sponsored by Brilliant
+It’s always amazing to watch a rocket take
+off from the ground and fly up through the
+clouds into space, but why not start off higher
+up to begin with, and launch from above the
+clouds?
+So today we’re back to the Upward Bound
+series to cover a topic that’s been requested
+a lot, which is why we don’t launch rockets
+from blimps or planes, and if we could.
+Since we’ve been discussing floating whole
+cities or even continents in the sky of late,
+it felt appropriate to cover floating launches.
+Plus, we’ve been spending a lot of time
+in the far future in recent episodes and some
+folks have asked for an episode about near
+future prospects and grounded in the emerging
+technologies of today, and this topic seemed
+appropriate.
+Except for the grounded part obviously.
+One out of two ain’t bad.
+We’ll also be taking a look at JP Aerospace’s
+Dark Sky Strato-Station, an enormous lighter-than-air
+lifter that offers a somewhat slow but very
+cheap route to space, some non-space applications
+of these technologies, and we’ll jump out
+a little further ahead in the future to look
+at what might be on the table for aerial launch
+systems if we’ve got an abundant source
+of power.
+We should start though by asking why you’d
+ever want to launch from higher up.
+Because you definitely do if you can, but
+not for the reasons most folks think.
+As we’ve mentioned throughout the series,
+the big challenge for launching from Earth
+isn’t getting up high, it’s getting up
+to orbital speeds and doing it through a thick
+atmosphere.
+Atmospheres are handy for planes and air-breathing
+craft in general, but it’s very hard to
+get up to orbital speeds with that approach,
+and like a lot of hybrid launch concepts,
+each stage operates differently, involves
+different and heavy equipment cutting into
+your payload, and more possibilities for critical
+failure.
+That’s a pretty big reason why we prefer
+single-stage launch craft where possible and
+why we launch from the ground, rather than
+from higher up.
+It’s where all our assets are, and even
+building up high on a mountain near the equator,
+the best ground-based launch location, tends
+not to be worth the problems that come with
+trying to make, staff, and maintain that facility
+compared to something within commuting distance
+of our population and industrial centers.
+That makes something like a blimp carrying
+a rocket a very attractive alternative, because
+you launch the rocket and blimp from a facility,
+and then launch the rocket once the blimp
+achieves the necessary altitude, but it requires
+a lot of blimp to lift that much rocket.
+Now I want to emphasize, you’re not lifting
+that rocket up because it gets you several
+kilometers toward your goal of orbiting a
+few hundred kilometers up.
+Rocket launches aren’t about height, they’re
+about energy and speed, and that blimp isn’t
+adding much to one.
+It’s just cutting down on the amount of
+air you have to smash through on your way
+out and up to speed.
+That speed matters, stuff stays in space because
+it’s spinning around the planet fast, not
+because it’s high up.
+If you lose enough velocity, you’ll just
+fall out of orbit.
+Now, the alternative to a blimp would be a
+rigid aircraft moving at high speed that a
+rocket launched from, and that offers a nice
+speed boost while cutting down on the air
+you have to plow through, and we’ll look
+at that today too, and more when we get to
+spaceplanes next month.
+But the short form is that any launch system
+is dependent on how much thrust and specific
+impulse it can offer, and a good rocket fuel
+offers around 400 seconds of specific impulse.
+As a reminder, specific impulse is measured
+as the time that rocket could sustain a thrust
+equal to gravity, to basically hover in place.
+Needless to say we burn the fuel a lot faster
+than what’s required to levitate them.
+An air-breathing plane can do way better in
+terms of thrust off any given fuel because
+first off, it doesn’t have to include any
+oxygen to burn that fuel with, while a spaceship
+obviously does, and if you’re burning something
+like hydrogen, oxidizing it and producing
+water, well it might be H2O, but those two
+hydrogen atoms weigh a lot less than that
+one oxygen atom does.
+Moreover, flying through the air, you don’t
+need a propellant, since you can use a ramjet.
+You suck air in and shove it out the back
+to add momentum to your craft, while you can’t
+do that in space.
+If you want to move, you have to throw mass
+out the backside and you have to be carrying
+it with you.
+This is the fundamental limitation of the
+rocket equation.
+So ideally we’d want to get up to speed
+in the atmosphere where we can take advantage
+of all that air rather than carry all that
+oxidizer and propellant.
+However, there are some big constraints on
+trying to use that air, not to mention glide
+through it, at supersonic speeds, though we’ll
+save discussion of things like Ramjets and
+Scramjets for the spaceplanes episode.
+Key thing, to orbit Earth you need to be moving
+7.8 km/s or about Mach 23, and you need to
+get up to and maintain that speed while plowing
+through air, so anything you can do to cut
+into that helps a lot.
+But starting off at Mach 1 and getting to
+Mach 23 is not the same as having done 1/23rd
+of your work already, as kinetic energy increases
+with the square of velocity, so you’re only
+about a 500th of the way there, and that’s
+ignoring drag and the whole rocket equation
+issue too.
+So it’s saving energy, but not a huge amount,
+and the same applies to being near the equator
+where you can add the Earth’s spin, about
+Mach 1.3, to your ship.
+Combining the two, plus getting several kilometers
+of thick air out of the way, makes it very
+tempting to launch something carrying a rocket
+that will fly down to the equator and get
+as fast and high as it can go, and then let
+the rocket off, but it’s not such a huge
+benefit that it’s generally seen as making
+up for all the extra problems and costs and
+points of possible failure that adding those
+in will add to your launch.
+That’s obviously debatable, and hinges on
+technological and economic factors that are
+always in motion too.
+For instance, our best lifting gas for a blimp
+is hydrogen, which is also our best rocket
+propellant, but we tend not to use it for
+either as much as we could because it’s
+a bit of nightmare to work with.
+And we don’t see too many blimps because
+helium is quite rare on Earth, despite that
+it’s the second most abundant thing in the
+Universe, and tiny helium atoms tend to leak
+through materials, so blimps can get rather
+expensive.
+This is one of the reasons we like satellites,
+for communications you want a very broad range,
+which is mostly about being up high, and towers
+are expensive.
+We can float communications balloons up higher,
+but it’s a big thing that can be blown around
+by the wind and is leaking expensive helium.
+If we get better at managing those issues,
+it would make a lot of sense to stick a big
+floating solar powered communications balloon
+over a city to provide cellphone and wifi
+coverage, instead of an expensive geosynchronous
+satellite tens of thousands of kilometers
+up.
+The few hundred kilometers to low orbit or
+the tens of kilometers that get you well above
+weather issues for blowing your balloon around
+or shading it’s solar panels from sunlight
+offers a great deal of cost savings, and decreased
+signal time.
+Indeed various projects looking at those options
+are also reviving thoughts of maybe doing
+these blimp style rocket launches, as they
+rely on a lot of the same tech and infrastructure.
+But before we jump into future projects, let’s
+discuss some existing ones.
+One of these is the rockoon, a combination
+rocket and balloon, and those of you who catch
+our monthly live streams might remember back
+around the beginning of the year someone asked
+a question about those that got garbled as
+‘Vacuum Raccoons’, which was confusing
+but still sound like an awesome idea, as raccoons
+are pretty cool.
+But the rockoon is an old idea predating the
+space program, something James Van Allen came
+up with, for whom the Van Allen Belt around
+Earth is named.
+It’s a simple idea, and it had to be since
+it predated computers.
+You stick a rocket on a balloon, and instead
+of lighting the rocket immediately, you let
+it float up and then ignite it.
+The main problem then was that we couldn’t
+really steer them and rockets were far more
+prone to blowing up back then, so it required
+a very large safe area around your launch
+site, since people tend to object to having
+a ton of flaming debris land in their front
+lawn.
+Needless to say, in the 70 years since the
+notion was suggested, we’ve made a few technological
+improvements, and quite a few companies have
+been taking a second look at this concept
+in the last couple decades, and more in the
+last few years as cubesats and other small
+satellites are making small private launches
+a more tangible business model, especially
+after the success of private launch companies
+like SpaceX.
+This channel tends to focus a lot on very
+large and high capacity launch approaches,
+but in terms of developing a real and sustainable
+space economy, small launches that many different
+companies with many different approaches can
+get into might be the better way to blaze
+the trail.
+Which is kind of amusing since these smaller
+rockets and balloons would generally not leave
+the giant flaming blazing trail in the sky
+that a normal rocket would.
+They’re handy too though, because as I mentioned
+we don’t build launch sites in optimal places
+like mountain tops because they’re far from
+our population and industrial centers, but
+these giant booster rockets we use can’t
+be too close to cities either, whereas these
+small ones can be launched much closer, and
+for a rockoon, could be released right in
+the middle of a city, since they could drift
+before the rocket turned on.
+Nor do they have to drift, again this isn’t
+70 years ago, blimps always had propellers
+and we can easily put remote controlled balloons
+up, same as we can drones, and we do have
+the option for heavier than air powered flight
+too.
+Not to mention all those other methods of
+getting things to stay in the air we discussed
+in Cloud Cities a few months back.
+Fundamentally it will save you mass to follow
+such paths, it’s just whether or not it
+will save you money and cargo, as with all
+hybrid launch systems, you have to worry about
+the cost of the hybrid, the weight, the extra
+chance for failure, and chokepoints on transport
+too.
+For instance let’s just say we had a big
+sky platform big enough for airplanes to land
+on and rockets to take off from.
+You’re saving fuel this way, assuming the
+platform isn’t burning any, but you need
+people up there, you need both the plane and
+the rocket, you need to unload people and
+cargo from one to the other on the platform,
+and that all takes time and money too, to
+build and maintain and operate and to insure
+against the extra risks of something going
+wrong.
+And every person you add on-site to minimize
+problems switching stages is introducing more
+mass, all their supplies and living room and
+even the weight of the air in their pressurized
+quarters.
+But those problems can likely be tackled,
+for instance remote-controlled robots minimize
+how much crew you need up there.
+We’ll talk about some high-tech paths in
+a moment, but we’ve got a serious option
+on the table for modern tech from JP Aerospace
+that is a type of Strato-Station, designed
+to operate 140,000 feet or 42 kilometers up
+in the air, called the Dark Sky Station.
+This thing is pretty large, bordering on a
+megastructure, though modest compared to other
+launch megastructures we’ve discussed like
+the Loftstrom Loop or Orbital Ring.
+It is part of their “Airship to Orbit”
+system, and is about three kilometers across,
+looking like a big starfish, which is appropriate
+given it’s suggested role in getting us
+to the stars.
+Airship to Orbit relies on a three stage approach.
+The first is an airship that uses a hybrid
+of buoyancy, aerodynamics, and near-vacuum
+propellers to get off the ground and reach
+the Dark Sky Station.
+Up there, folks and cargo depart, stage two,
+and we have another, kilometer-scale spaceship
+waiting that can only exist and operate way
+up there where there’s virtually no air.
+Instead of rockets, you get on these huge
+secondary airships for stage three that will
+ascend to orbital speeds and heights by a
+mix of chemical and electric propulsion, but
+take several hours to do it, rather than the
+minutes a rocket would.
+This is a downside but not a very big one,
+particularly considering how cheap the launch
+cost is.
+They estimate about 31 cents per kilogram
+launched, rather than the several thousand
+dollars a kilogram we pay now, and it is a
+bulk lifter, designed for carrying many tons.
+I don’t know about you, but I don’t mind
+taking a day to get to orbit if it costs me
+as much as a bus ticket.
+Needless to say, it’s not ready for launch
+yet, but it has no really huge technical issues
+requiring massive advances and they promote
+it as a pay as you go approach, since many
+of the steps involved to full scale deployment
+have economically viable options too.
+Of course we have some other big options like
+the Lofstrom Loop or Star Tram and Mass Drivers
+we’ve discussed before, and those all feature
+long lines that you accelerate down that either
+end in the upper atmosphere or even start
+there.
+Some of those concepts already contemplate
+using a launch track that’s floating by
+buoyancy anyway, so a multi-kilometer long
+track floating up there is an option too.
+What’s more, since those are essentially
+electric, we could be supplying the power
+from groundside, up some long powerlines that
+acted as tethers for helping keep the thing
+in place and to lift people and cargo to it.
+If such tethers are impractical, you could
+still fly up there and either get your power
+from solar energy or beam it to them.
+These things are quite big after all, with
+plenty of room for panels, or you could install
+a rectenna for power-beaming, either from
+groundside power stations or power satellites,
+like we discussed in the episode of that name.
+Microwave beaming mostly requires a big thin
+mesh to act as the rectenna, and that’s
+pretty easy to incorporate into a giant blimp.
+But if you’re supplying power from elsewhere,
+why only use if for launch?
+As we’ve mentioned before, we can make either
+atomic powered planes that never have to land,
+or ones where the energy gets beamed in.
+There’s nothing high-tech about a nuclear
+plane, we just don’t build them because
+they make folks nervous.
+And legitimately so too, they’re pretty
+safe, especially newer designs, but concerns
+about them aren’t the same as the usual
+over-the-top technophobia we often see with
+atomic energy.
+They obviously still can crash and having
+a kilometer-long floating spaceport land on
+you is bad enough without adding uranium to
+the mix.
+However, just because something is flying
+around under power doesn’t mean it has to
+go anywhere.
+Ignoring the helicopter or helicarrier option,
+you can just have one circle around over a
+spot off the coast of whatever city it services.
+Because it’s moving at a set speed normally,
+albeit in a loop, your ground-based connection
+flights can find optimum times to land on
+it without needing to match its actual speed,
+meaning it can get away with going much faster
+than the things needing to rendezvous with
+it.
+But also, because it is moving very fast,
+especially if it’s flying counter-clockwise,
+in the northern hemisphere anyway, on that
+southern edge of its circular path, it gets
+to add all that speed to the earth’s rotation
+and launch things to space with that.
+If it’s enough speed, and you’ve got strong
+tensile materials, it might even be fast enough
+to match up directly to a skyhook or rotovator,
+but at the least it would give a big headstart
+to any scramjet that was seeking to do so.
+We’ll get to that option more in the Spaceplanes
+episode though, I mention it because if it
+is circling you could potentially have a cable
+running up to it like a whirling slingshot,
+and if your materials can handle that and
+the air drag issues, you could have an ascender
+run up that line from your groundside spaceport
+that basically just had a sail.
+Indeed, you could have multiple layers of
+these, each higher up and probably wider out,
+though it need not be concentric.
+You presumably want your turn radius low enough
+that you can just tilt the floors on the sky
+platform a little so everyone just feels a
+little heavier walking around it.
+You accelerate when turning and if you’re
+trying to keep that platform cruising around
+at a few kilometers a second, about half orbital
+speed, that turn radius needs to be almost
+a thousand kilometers, though considering
+how fast you’re going you’d complete a
+circle about every half hour.
+So you could potentially have a big one that
+serviced the northern Atlantic, whirled around
+at about half orbital speed way up in the
+stratosphere, and local regions would have
+more modest loops for letting subsonic or
+modestly supersonic planes land on, which
+would also be a very handy way of moving around
+Earth too.
+Something like that is fairly ambitious but
+a good reminder that when you can make and
+move a lot of power cheaply, many constraints
+are altered and new options that would seem
+absurd in the past suddenly become viable.
+As we’ll see when we get to moving stars
+around next week, there is a big difference
+between that which seems absurd because it
+breaks known physics, and that which simply
+seems so because it’s like explaining a
+skyscraper or railroad track to someone at
+the dawn of the iron age when building large
+structures or roads out of iron and steel
+would simply seem absurd because of the relative
+scarcity and cost of that material.
+So is there a future for these kind of approaches?
+That’s hard to say, they’re not pie in
+the sky as we just saw, but the question on
+any new technology isn’t just if we can
+do it that way, but if we’ve got something
+better, and that can be very hard to predict
+since it relies on a fairly solid image of
+the specific tech and economics of not just
+one but two or more technologies.
+We’ve seen some of those other ones like
+mass drivers and orbital rings in earlier
+episodes and of course we’ve seen what reusable
+rockets are shaping up to do already.
+The ideal one, or what most of us tend to
+view that way from science fiction and modern
+air travel, is a craft you get on at your
+local airport and which flies directly to
+a space station, and as mentioned we’ll
+be looking at spaceplanes next month.
+One advantage these approaches have is they
+do have direct smaller applications in our
+economy, which gives a good pathway for development
+to something grander.
+As I’ve mentioned before, a lot of things
+we can do with satellites we can do with big
+floating balloons too, like solar shades or
+mirrors for warming or cooling the planet
+or regions of it, or power generation by wind
+or solar.
+They’re fundamentally better than geosynchronous
+satellites as communication hubs too, because
+while light moves fast, even light takes a
+noticeable time to get up to geosynch and
+back, and that’s a lot of distance, not
+to mention air, to move a signal through.
+So I do think there’s a good chance we might
+see some serious advancement and utilization
+of some of these pathways in the future, and
+maybe even some of the more ambitious approaches
+we looked at in Cloud Cities or for Colonizing
+Venus and Neptune.
+Not as fast as a rocket, but maybe safer and
+cheaper, and if the trip takes longer, you
+have to admit, the view would be pretty awesome.
+We were talking today about how it takes far
+more energy to get upto orbital speeds than
+supersonic speeds, even far more than the
+usual velocity-squared formula for kinetic
+energy implies, and that can be quite daunting
+in many ways.
+The orbital energy of, say, a one-ton car,
+is about 30 billion joules, which sounds like
+a lot but is only the chemical energy contained
+in about 250 gallons of gasoline, or about
+two-thirds of a ton, less than car.
+It can be a bit confusing why most of our
+launch systems require dozens of times more
+fuel than payload.
+To understand why this is so, and why various
+launch systems are often more practical, it
+helps to have a good grasp of concepts like
+energy and momentum conservation, that dictate
+everything from orbital mechanics and rocketry
+to mundane matters like your car’s fuel
+efficiency.
+That’s where Brilliant’s courses on topics
+like Classical Mechanics can help you out,
+with interactive quizzes and visual explanations
+of topics.
+All of their courses include handy quizzes
+to check and improve your knowledge, like
+their one on rocketry.
+In addition to many great courses, they have
+fun, daily challenges in math, science, and
+computer science.
+If you get stuck, there's a community of thousands
+of other users that are discussing the problem
+and writing solutions.
+If you’d like to learn more science and
+math, go to brilliant.org/IsaacArthur and
+sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription...so you can view all the Daily
+Problems in the archives and unlock dozens
+of interactive problem-solving courses.
+Before we get to upcoming schedule, I was
+mentioning a moment ago how handy it can be
+to have a community to discuss ideas and solutions
+with, and it’s a very integral part of this
+channel.
+Indeed it’s our communities on Facebook,
+Reddit, Patreon, and the SFIA website’s
+new forums where we draw not only most of
+our new topics but most of the crew who help
+me out brainstorming, writing, editing, and
+animating these episodes these days.
+If you’re looking for a place with folks
+who share your interests to have a polite
+chat or ask questions, try out one of those
+communities, linked in every episode’s description.
+So next week we’ll be talking about propulsion
+and launches again, only instead of how we
+get off Earth to explore the solar system,
+we’ll be talking about how to move entire
+solar systems to explore or reshape the Universe,
+in Fleet of Stars.
+The week after that we’ll be heading back
+the Outward Bound series to look at Colonizing
+Black Holes, and we’ll see if these objects,
+most notoriously the most dangerous places
+in the Universe, might turn out to be rather
+inviting places to live.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a Great Week!

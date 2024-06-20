@@ -1,0 +1,783 @@
+In the future we may deploy armies of cybernetic
+superhumans to fight our battles, people so
+augmented they could tear through walls or
+dodge bullets.
+But would these invincible warriors be willing
+to fight for mundane humans, or merely fight
+each other to rule us?
+Hamzah was born on the planet of New Damascus.
+He doesn’t remember the city of his birth
+because it was vaporized in an atomic bombblast
+when he was 2.
+He grew up in a refugee camp with half a dozen
+different cultures mish-mashed together, but
+his grandmother told him his name meant powerful.
+He certainly never felt powerful, not with
+half a dozen defects and illnesses that left
+him both a cripple as a boy, and a social
+reject, one picked on by everyone else and
+valued by no one.
+The doctor who visits their camp every week
+told him he would have been easily cured if
+he lived back in civilized space, but to Hamzah
+that’s little consolation.
+When Hamzah turned 18 years standard, he joined
+the Martian Foreign Legion.
+They didn’t have to talk him into cybernetic
+augmentation, indeed he spent most of his
+salary on extra components, upgrades, and
+bootlegs.
+That clubfoot he had is gone; so are those
+worthless lungs he had that always coughed
+up blood and phlegm, from the harsh radioactive
+dust storms of New Damascus, where the regolith
+is like ground-up glass.
+Hamzah can see a hummingbird’s wings flap
+a thousand meters away, see in frequencies
+his old eyes couldn’t, and hear a pin drop
+in a crowded room.
+He’s as tough as steel now, tougher…
+He can bend steel rods in his hands.
+He’s powerful, at last.
+He doesn’t know fear anymore either, not
+with his endocrine system properly regulated,
+plus he carries a gun that’s bigger than
+most people are into battle, what in the Galaxy
+would he have to be afraid of?
+It isn’t hard to see the attraction of cybernetics
+to healthy people, let alone to those suffering
+with ailments or living with disabilities.
+And that can include feeling weak and afraid,
+like our example of Hamzah, born in a refugee
+camp and feeling like a discard of a vastly
+more powerful civilization.
+Talking about the role of cyborgs in the future,
+especially in a military capacity, it’s
+worth remembering that the line between necessary
+prosthetics and personal augmentation or enhancement
+can be blurry.
+It isn’t hard at all to imagine why generals
+would like cybernetically enhanced troops
+or why those troops might gladly embrace them.
+Nor is it hard to imagine why many might embrace
+cybernetic enhancement on alien worlds.
+Indeed, the original usage of the term cyborg,
+short for cybernetic organism, was in the
+context of chemical or mechanical alteration
+of people to better let them adapt to extraterrestrial
+conditions like lower gravity or pressure,
+or even just sleep aides for irregular day-night
+cycles.
+The original meaning rapidly gave way to the
+more sci-fi and comic book flavor of a guy
+with a big steel arm or leg, as opposed to
+more subtle or biochemical approaches to cybernetics.
+Our introductory character for today, Hamzah,
+is basically a prime target for all of those
+enticements to go cyborg.
+He’s physically impaired, he lives in an
+environment humans aren’t adapted to, he
+benefits in his job, which is inherently dangerous
+and thus makes every augmentation decision
+life or death, and he is not happy with his
+current body.
+He feels weak, frail, outcast, and a victim,
+he’s joining an organization and getting
+augmentations to end that.
+We could comment on how psychologically healthy,
+or ethical his chosen path is but that’s
+not our topic today.
+This is sci-fi Sunday here on SFIA, where
+we examine the realism of concepts in science
+fiction and ask how plausible they are or
+how we could make something like them plausible,
+and the idea of a cyborg soldier is about
+as well-known a sci-fi concept as you can
+get.
+One thing missing from a lot of those stories
+though is the large numbers of cyborgs in
+them; full-on cyborg armies, not one lone
+super-trooper or commando squad.
+We want to contemplate whole armies, and that
+means not just looking at shock troops but
+what the cyborg crewmen of a spaceship might
+look like, or a fighter pilot, or even just
+the supply sergeant, mechanic, or quartermaster.
+Nor do we just intend to discuss unsubtle
+physical enhancement, like being able to punch
+through a wall or be bulletproof, or simple
+computerization options like adding a heads-up
+display to someone’s vision, many things
+like that might be accomplished with a pair
+of goggles or some powered-armor exoskeleton.
+And it is worth remembering that many of these
+options might not require lopping limbs off,
+when adding some exoskeleton might not necessarily
+be a very bulky or cumbersome option.
+So too, whenever we talk about implants and
+prosthetics, especially ones meant for gross
+physical enhancement, there’s that question
+of what is powering everything.
+Even our most sophisticated batteries not
+yet available for commercial use are no match
+for a gas engine in terms of energy density,
+even if they avoid power loss from idling,
+and indeed are even less power dense than
+biological fat cells, our own best energy-storage
+option.
+There is no guarantee we are ever going to
+get any sort of power storage option much
+better than what we already have either.
+Even nuclear options are way short of what
+we want for most comic book-esque cyborg applications,
+as a radioisotope thermal generator may be
+way more energy dense than any battery or
+chemical fuel but produces a constant power
+supply at all times.
+That said, Plutonium 238 generates about 260
+watts per pound or 570 watts per kilogram,
+and that’s almost 20 times denser than water,
+or the human body, so you can pack a lot of
+power generation in that way.
+Unfortunately that’s mostly heat, especially
+given the low efficiency of RTGs in producing
+electricity, but with a half-life of 88 years,
+a single kilogram of it represents a pretty
+good power supply, as even 88 years later
+it would still be producing half the power
+it originally did, and a quarter of that 176
+years later.
+Needless to say, even if 10% conversion to
+electricity was the best you could do, it
+would be no problem to pack a kilowatt of
+generator into someone, it wouldn’t even
+take up a liter worth of space.
+It would kill them dead real quick to be fair,
+and not from radiation.
+Plutonium’s an alpha emitter when it comes
+to decay, you can block that with a thin layer
+of tin foil, and even direct exposure to a
+human isn’t really penetrating skin.
+Putting it inside someone is a different story,
+but that’s what shielding is for and not
+much is needed.
+Instead your problem is that your cyborg is
+going to catch on fire, as that 20 kilograms
+of Plutonium is giving off over 10,000 watts
+of heat.
+That’s around 100 times what your body normally
+radiates.
+You can go a lot higher than that, you can
+potentially burn 1000 calories an hour for
+instance, which releases almost 1200 watts
+of heat.
+You aren’t going much higher than that without
+serious alteration with radiators, like a
+car engine has.
+We might imagine a cybernetic arm or leg as
+being a tough metal coating, with lots of
+blood vessels like radiators in it, which
+has a bone made of plutonium – it’s a
+pretty hard metal – and the rest of the
+arm is your hydraulic or artificial muscle
+and a lot of batteries.
+Your RTG mostly powers them up for brief moments
+of high exertion and then otherwise just being
+a bit higher power from moment to moment than
+a typical human.
+If you don’t feel obliged to keep to average
+human height and weight – you go for the
+big bulky look – then you can absolutely
+run a power plant in that person, allowing
+them to keep a modestly superhuman pace of
+exertion going all day while having plenty
+of battery for moments like when they need
+to flip a car over.
+One thing to note here is that this isn’t
+really much better than a power armor suit
+would offer, since we could easily pack that
+plutonium into a nice thick exoskeleton and
+have the same sort of radiating room.
+It’s not hard to imagine the armor plating
+being batteries, especially given that super-strong
+materials like the carbon allotrope, graphene,
+are the materials we tend to contemplate for
+ultra-high performance batteries.
+We can economically grow diamond these days
+too, including diamond made from Carbon-14,
+what we call a diamond battery.
+Carbon-14 Diamond batteries decay as beta
+radiation – which is comprised of electrons
+and positrons - and thus can produce electric
+current directly.
+Betavoltaics aren’t new, the Moseley generator
+is 110 years old, and I’d imagine many of
+them are still running as it’s a durable
+and long-lived approach to power.
+Carbon-14 has a much lower power and energy
+density than Plutonium, but as we just saw,
+we don’t need Plutonium power levels here.
+Someone with a Carbon-14 diamond skeleton
+or diamond exoskeleton or armor, say 100 kilograms
+of it, would have a theoretical maximum of
+130 Watts of Power Production, and be hard
+as diamond.
+That’s no hard limit either, Carbon-14 has
+a half life of several thousand years, compared
+to tritium, another beta decay isotope, at
+around a dozen.
+Loosely-speaking, your half-life is inversely
+related to your power production for an isotope,
+the longer it lives, the slower it releases
+that power.
+Beta decay is usually going to be weaker,
+pound for pound, than alpha decay.
+Key notion though is that we can go atomic
+for our cybernetics.
+Otherwise you need an active power connection.
+That might be a mobile armored generator following
+you around or, given the durability of something
+like diamond or plutonium, I could imagine
+folks having a big old shield, medieval knight
+style, one that was also a power supply.
+We can go the other way and have people eat
+food and convert that into electricity, or
+adapt our normal internal power process to
+run cybernetics off of sugars.
+We could also charge batteries off something
+like a cap or cloak made out of flexible solar
+panels.
+The big issue though is that none of these
+options offer the mobile energy density that
+atomic sources do, but those cannot be throttled,
+they always run at full speed.
+A classic fission reactor can’t be made
+that small, though we could conceive something
+running on vastly superior materials and transuranic
+elements being possible.
+That would then offer a power supply that
+could be throttled, though probably not ultra-quickly,
+but batteries used in tandem with that could
+allow rapid surges in power while the reactor
+throttled up, something akin to an adrenaline
+rush.
+This avoids the continuous stable power supply
+issue RTGs or anything else running on decay
+represent.
+Hypothetically, someone might also find a
+way to play with decay rates using thus far
+unknown physics.
+It seems unlikely you would ever get something
+like fusion working at such a tiny scale,
+especially at high power and without cooking
+the individual.
+We have the option of antimatter, but I think
+folks would flinch back from having a power
+source that, if damaged, would detonate and
+release its full power.
+A human’s daily food supply if converted
+into an explosive of the same energy would
+be the equivalent of around 2 kilograms of
+TNT or about 10 hand grenades, so it might
+be viable if you were willing to limit your
+fuel supply in your cyborg to something like
+1 day or even less, while giving them other
+less-dense power options for maintaining basic
+functions.
+People need to eat regularly, a resupply run
+for Cyborg Armies remains an option, as at
+a minimum it’s no harder to resupply them
+then regular human troops and probably a lot
+easier.
+Something like a micro-black hole is off the
+table too, as Hawking radiation for any Black
+Hole that massed 100 kilograms is almost identical
+to the entire power output of our Sun, and
+lasts for 47 nanoseconds.
+So, it’s basically a 2000 Megaton nuclear
+bomb detonation, not a power source.
+We could imagine some almost perfectly reflective
+substance shielding it and bouncing the emissions
+back inside to keep it from blowing up, which
+you could adaptively change the reflectivity
+on to dial up how much energy escaped, but
+we would be talking about wanting kilowatts
+of power, or maybe nanosecond long pulses
+of gigawatts for a weapon of some sort, and
+so we would be talking about a substance that
+ranged from 99.99999999999% reflective to
+99.9999999999999999999% reflectivity.
+We might hypothesize someone’s power supply
+consisting of a few hundred different nanoscopic
+micro blackholes, massing mere nanograms,
+needing even higher reflectivity and precision
+control, for that be viable, and lowers the
+explosive yield down to something saner.
+A microgram of mass converted to energy is
+200 kilograms of TNT, in the very large artillery
+shell or car bomb territory.
+I should note that both in this and the antimatter
+case, you are probably using these as your
+weapon munitions too.
+That power supply and how big it goes boom,
+and how likely it is to do so in combat conditions,
+also controls how big your combat units are
+and how close they can be.
+You might be limited to one-man-armies or
+small squads with some technologies, as opposed
+to deploying entire battalions into relatively
+small areas.
+Even outside of combat situations, since someone
+might intentionally detonate one and blow
+up their neighbors in some horrible domino
+effect.
+So too, you might see weapons which were designed
+specifically to set off an enemy’s cybernetic
+power supplies, like a magnetic disruption
+round to wreck magnetic confinement of antimatter
+and set it off.
+How viable a given power supply is for usage
+is going to depend on its reliability and
+resistance in these sorts of situations, not
+just its raw output.
+I should also note that rupturing high density
+batteries isn’t entirely safe either though
+certainly less pyrotechnic or radioactive
+than other options.
+We also could imagine the cyborg squad is
+coming in on a troop transport, tracked, wheeled,
+copter, whatever, and all have a plug-in cable
+to that thing’s engine and even maybe a
+coolant tube to its radiators, and enough
+battery capacity to allow plenty of time to
+reconnect.
+Which can include a reconnect by the vehicle
+shooting a magnetic grapple onto their power
+port or coolant port in under a second and
+having hundreds of backup wires, allowing
+them to maintain a ridiculously high battle
+tempo practically indefinitely, even if the
+enemy is trying to take those wires and hoses
+out.
+That’s a pretty terrifying notion, some
+rapid assault dropship deploying a dozen cyborg
+super-soldiers.
+And as we discussed in our dropships episode
+a couple weeks back, cyborgs might potentially
+have liquid breathing options and be able
+to handle insane g-forces.
+In the end the battery option is your best
+one, as it’s going to be present in any
+design I think, but always in tandem with
+one or more other power supplies.
+You give options for multiple paths for charging,
+some internal atomic sources perhaps, some
+solar panels built into clothing, a port for
+plugging into a wall or generator, and a way
+to convert regular food into power, maybe
+even normally indigestible stuff like cellulose,
+so you can gain calories off grass or tree
+bark or just the parts of food that you as
+a human often eat but can’t process for
+calories.
+Indeed, it’s a good way to stay trim, if
+you by-default convert any excess calories
+into power storage.
+And might be necessary psychologically too,
+after all, you do not actually need as many
+calories if you chop off a limb, nor if your
+body is staying warm from your excess atomic
+energy, but you might still want to eat big
+meals, even if just recreationally or to maintain
+some feeling or semblance of what it is like
+to be a human.
+Our person could also, outside of combat circumstances,
+just run mostly on batteries and maybe plug
+in occasionally, or at night-time while sleeping,
+or even charge wirelessly.
+We also shouldn’t rule out the reverse process
+of using organic materials for power, but
+instead having artificial means of providing
+power to organic cells.
+After all, you can make sugar and amino acids
+in the lab just fine, and arguably more power
+efficiently than sunlight and plants can.
+Having nanotech or other high-tech internal
+medical options for repairing the cyborg’s
+remaining organic components is also on the
+table, and might be necessary if you’ve
+got them walking around with atomic power
+supplies.
+An internal fission reactor is a lot more
+viable if you don’t need as much shielding
+on the soldier and their squadmates because
+they’ve all got cancer-repair mechanisms.
+Which raises the brief tangent on if a cyborg
+might also be genetically enhanced or pumped
+up on ultra-steroids.
+I tend to assume nobody who is fine with lopping
+of limbs or jamming microchips in their brain
+is going to be too touchy about genetic alteration.
+Drugs might be different, but it isn’t hard
+to imagine some 9-foot tall mass of machines
+and genetically engineered tissues jacked
+up on some cocktail of drugs that made steroids
+and cocaine seem safe and mild in comparison.
+They might be safe of course, we shouldn’t
+assume performance-enhancing drugs are inherently
+dangerous no matter what improvements we make,
+but it’s also easy to imagine some drug-fueled
+berserker running around with a 50 caliber
+machine gun and armor, shield, and giant sword
+all made of depleted uranium, graphene, or
+nuclear diamonds, or even high density fissiles
+or radioisotopes.
+That person still needs some serious coolant
+for their organic components though.
+Incidentally, for today’s purpose we will
+assume a cyborg must contain a significant
+amount of both machines and human flesh.
+I’m not sure a person with a digitally-uploaded
+mind uploaded into an android body isn’t
+a cyborg too, but even they wouldn’t get
+a blank check for heat.
+That heat radiation issue really is the check
+and balance that allows a human in an exoskeleton
+to be a relative match for a cyborg or android
+or killbot, and not out outperformed by whole
+orders of magnitude.
+Alternatively the cyborg might have their
+organics limited to a brain in a jar and that
+could have well-insulated walls with their
+own coolant to allow the remainder of the
+body, all mechanical, to run around at temperatures
+that would fry organic materials.
+And that could be extended to other bits,
+eyes, spine, etc.
+Though probably just your nervous cord.
+I don’t think you can plausibly keep your
+natural spine, or much of your natural skeleton,
+if you want to be running around flipping
+cars over and punching through walls.
+So our myrmidon cyborg giant might have bones
+made of diamond and graphene and plutonium
+all pumping out and storing power while his
+battle armor is covered in heat sinks and
+made of more batteries, and he’s got a cloak
+that’s also a high-efficiency solar panel
+that’s also bullet proof and carries around
+a railgun that can chew through vehicles and
+buildings, as well as people.
+He can turtle up under a shield and that armor
+and survive a tactical nuclear blast within
+100 meters.
+You can drop him right out of an airlock and
+he’ll survive, and can even parachute down
+from high altitudes with that cloak and survive
+landing at normal terminal velocity too; thus
+allowing the classic one-fist-down superhero
+landing.
+What else is on the table?
+I think we’ll skip mind augmentation in
+terms of intelligence today.
+If you can massively enhance intelligence
+in your whole army then you are probably doing
+that with your entire civilization.
+But faster reaction speeds are on the table,
+and you can replace the longer nerves with
+something that transmits way faster.
+Being able to shut off pain receptors is handy,
+even at a day-to-day level, being able to
+handle aches and pains by dampening them down
+is obviously valuable for maintaining alertness
+and energy levels; we all know how distracting
+a thorn in our toe, or an itch in our side
+can be.
+Or a cable or metal port sticking into your
+brain through your skin.
+Even more than being able to survive nasty
+injuries and keep on fighting, those little
+aches and pains wear us down more.
+My unit used to run on coffee, cigarettes,
+and ibuprofen when we were deployed or even
+just on field exercises, and for that matter
+they were pretty popular even in garrison,
+and that’s generally been the norm in a
+lot of high-stress, weird-hours jobs like
+police or other first responders, hospitals,
+guard shifts, etc.
+I daresay you could almost as accurately represent
+the 20th century with an ashtray, coffee cup
+and bottle of Tylenol as the Moon Landings,
+or a computer chip or atomic bomb.
+So at a day-to-day level, anything that helps
+with stress, alertness, anxiety, or pain management,
+chemical or mechanical or electronic, is likely
+to be viewed as a more important augmentation
+than super-tough armor.
+And honestly, if you want a tank, build an
+actual tank.
+Of course a cyborg isn’t necessarily human-shaped
+either, we might dump a brain in a jar into
+a tank or fighter jet.
+So long as you had successfully come up with
+a liquid substance that circumvents the water
+density issue we discussed in dropships, you
+can now have a brain in a jar that’s able
+to handle insane g-forces, not just hundreds
+but maybe even low thousands.
+That’s probably all you need too, because
+while we talk about robots being able to handle
+far higher g-forces and having better reaction
+times, you don’t need to be able to handle
+any more gees than your jet or spaceship is
+able to handle and has the fuel for.
+No battleship is pulling off a thousand-g
+acceleration or turn, and no tiny drone is
+carrying fuel and engines to allow several
+minutes of high-g maneuvers.
+And you could achieve a lot of that same effect
+without much cybernetics just by having a
+liquid air tank on someone’s more conventional
+spacesuit or battle armor.
+Your typical cyborg army probably is not bothering
+with a lot of internal features that gear
+they could carry could do as well.
+Does your cyborg need an internal air tank
+rather than carrying one?
+Maybe; people don’t really need much actual
+oxygen, around a kilogram a day, and you only
+pull about 5% of the oxygen out of the air
+you are inhaling, which is only 20% oxygen
+itself, so you only get 1% of the molecules
+you breathe in.
+And a lot of the need to exhale is about purging
+carbon dioxide.
+So we might replace one lung with a smaller
+mechanical one that was better at pulling
+oxygen and had an oxygen tank below that was
+good for a few hours, or days, and a CO2 scrubber.
+Or shrink both lungs and stick that system
+in both, or replace them entirely, or leave
+them be and simply expand our person a bit.
+Your mass and volume rises with the cube of
+your height if we keep you proportional to
+a normal human, and you can always go for
+the classic comic book Rob Liefeld-style super
+wide chest and shoulders and then you’ve
+got so much extra space that you don’t even
+need to remove any of the original organs.
+You might have problems fitting through doorways,
+but that’s someone else’s problem.
+Which is handy because while you might find
+lots of people who are fine with getting rid
+of their organics, or even enthusiastic about
+it, others might be doing it out of a sense
+of duty and want things simply added not removed.
+The process can be reversible then, you get
+decommissioned back into your original body
+with something along the lines of full body
+tummy-tuck.
+Or maybe we get a high-tech equivalent of
+canopic jars, cyborgs keep their original
+bits and pieces in storage vaults, freezers,
+or the equivalent of a brain-in-a-jar’s
+life support system, just for everything but
+their brain.
+On a grimmer note, it makes me wonder what
+you would end up burying in a funeral, given
+that you have all those valuable cybernetics
+to recycle and might even be pulling out various
+cloned and enhanced organs, like that super-heart
+they grew and replaced yours with, which is
+still in good shape for a new user.
+Needless to say, back up hearts are another
+cyborg part we might see in regular use, in
+and out of militaries.
+How open folks are to various replacement
+organs might depend a lot on that culture
+and how much they use cybernetics in normal
+civilian life.
+Of course, they need not be volunteers, your
+cyborgs soldiers might be prisoners or random
+citizens grabbed up and involuntarily turned
+into one and given lots of brainwashing, mind-control
+chips, old fashioned indoctrination, or drug
+addictions.
+I would assume anyone planning to use that
+option would want to be very confident it
+was effective and not easily removed.
+That’s the first rule of warfare after all,
+never hand someone a gun unless you’re sure
+which way they will point it, or in this case,
+don’t turn someone into a living weapon
+unless you’re confident they won’t stab
+you.
+If they’re worrying about the loyalty of
+their cyborgs, then they might opt to use
+robots instead, but my assumption is you would
+see a lot of robots with cyborg commanders.
+Those might be semi-autonomous or they might
+just be an extension of that soldier.
+He’s not always carrying a shield, it’s
+running around on its own two legs getting
+ready to provide cover, it and its three buddies,
+plus the big generator running around and
+the point defense drones orbiting a bit overhead.
+Or maybe the big squad of robot troops who
+look almost identical to our cyborg.
+But those bots might be controlled remotely
+and your cyborg troop in this case might just
+have some mental augmentation to allow fast
+and intuitive control of those bots and awareness
+of their circumstances.
+Same for plugging them in as pilot of a vehicle,
+or as the mechanic fixing a system, with augmented
+reality and implants letting them rapidly
+diagnose and repair problems at a speed a
+NASCAR pit crew might envy.
+They know exactly where all their tools are,
+every repair component needed, they can see
+and sense in greater range than a normal human,
+they can probably pull an augmented reality
+instruction video right over the object to
+see how to quickly fix something they’ve
+never worked on before.
+They may be able to speak to machines more
+intuitively too.
+So too, your quartermaster might be augmented
+just to be able to keep track of where all
+the unit’s gear is and what supplies are
+en route or getting used up at what rate.
+Or you might go the other way and have this
+as a minimal AI accessible to everyone in
+the unit in real time.
+They know, down to the bullet, how much ammo
+they have left and with whom.
+They could, for instance, send a rapid mental
+query to that AI that could plot them the
+fastest, safest course to a fallen ally who
+had ammo leftover, or a signal to an ally
+who had lots still to toss it to them.
+Or the same for figuring out how to extract
+a wounded comrade.
+Which in some cases might be extracting their
+armored brain jar and physically hurling it
+out of the combat area or to a rescue drone
+who will grab it and high-tail it out of the
+area.
+I imagine folks watching this who enjoy a
+good daydream or enjoy writing probably have
+some interesting stories in mind by now, and
+I hope you’ll write or draw them.
+However, it’s pretty clear how much of this
+would be genuinely attractive to modern militaries,
+for good or ill, and as we saw today, many
+of the less flashy options aren’t too far
+over the horizon.
+So Cyborg Armies might see their premiere
+in the near future and become the mainstay
+in another couple generations.
+The war machines of the future might not just
+be piloted by our grandkids, they might be
+our grandkids.
+So next month is our show’s 9th anniversary
+and I was looking up benchmarks for the occasion
+and I realized we’ve been doing Scifi Sunday’s
+on this show for around five years now, and
+also that we’ve just past the 6 year mark
+of our partnership with Brilliant.org, today’s
+sponsor, and our longest running sponsor for
+this show and so many other wonderful science
+and education channels too.
+They truly understand how important interactive
+visualization is to learning and I love the
+way they work that into so many of their math
+and science lessons, from basics of geometry
+like understanding how to calculate surface
+area up to advanced topics like neural networks.
+On a strictly personal note, they’ve been
+a great partner to this show over the years
+and their dedication to top-notch interactive
+online learning is as impressive as it is
+effective, and I’ve quite a few testimonials
+from folks over the years about how Brilliant
+helped them or a loved one to better learn
+math, science, or computer science.
+Brilliant understands what works: Interactive
+learning, fun, bit-sized bits, with thousands
+of lessons from basic to advanced concepts
+that you can learn at your own pace, at home
+or on the go, and to fit your needs, and that
+as always you can try for free for the first
+month.
+Education is a lifelong journey, one that’s
+best worked on a little everyday, and Brilliant
+is a great partner on that journey same as
+they’ve been a great partner to this show.
+Let them be your partner on your journey too,
+try them out for free, for a full 30 days,
+by visiting brilliant.org/IsaacArthur or clicking
+on the link in the description, and the first
+200 people will get 20% off Brilliant's annual
+premium subscription.
+One of the cool things about doing this show
+is I’ve gotten to meet, virtually or otherwise,
+an awful lot of the amazing scifi writers
+whose work the show’s referenced or drawn
+on and even strike up friendships with some
+of them, David Brin and Dennis E Taylor particularly
+come to mind, but I finally got to meet Alastair
+Reynolds, who Revelation Space series and
+other works like House of Suns were such an
+influence on this show, and he was giving
+an awesome talk on the Fermi Paradox to the
+Interstellar Foundation at the time, and they
+have a great collection of interviews with
+a lot of other awesome scifi writers too,
+as well as with myself with Nick Searra of
+the Golden Record Project, over on their on
+youtube channel, so check them out and check
+out Alastair Reynolds too, he is one of the
+greatest scifi authors of our time and his
+discussion of cyborgs and transhumanism definitely
+influenced this episode.
+And speaking of episodes, next month’s scifi
+Sunday will be coming out on this show’s
+9th anniversary, where we first looked at
+megastructures and in the next episode how
+they factored into the Fermi Paradox, and
+we will be commemorating the occasion with
+a look at fallen galactic empires, where we’ll
+take some new and fresh looks at the question
+of how we would detect the ruins of ancient
+catastrophes and conflicts, ruined Dyson swarms,
+and how widespread galactic conflict smight
+limit what sort of megastructures get made,
+and maybe alter our view of the Fermi PAradox.
+But before then we have a lot of episodes
+coming up, starting this Thursday with a look
+at how we might come up with all the air,
+water and other volatiles those megastructures
+might need, as we look at Comet Mining.
+After that we’ll look at the concept of
+Devolution, and ask if fictional mutant degenerates
+like Morlocks and C.H.U.D.s might be possible
+in our future.
+Then we’ll close out the month with our
+Livestream Q&A, Sunday August 27th at 4pm
+Eastern Time, and then Thursday, August 31st,
+with a look at near term space colonization.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content,
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

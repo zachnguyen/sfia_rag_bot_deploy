@@ -1,0 +1,796 @@
+This episode is brought to you by Skillshare.
+Science fiction delights in showing us laser
+guns and sword fights, but could this ever
+be a real thing?
+So today is another SciFi Sunday here on Science
+& Futurism with Isaac Arthur, and it’s the
+day we let our hair down a bit and embrace
+our scifi roots. We’ll look at concepts
+that normally would be considered more the
+realm of popular fiction than possible futures,
+while keeping at least one foot firmly planted
+in the realm of known science. Today that’s
+going to be looking at the large quantities
+of fictional future weapons and trying to
+see how they function and if they would be
+usable in combat, and if not, what we might
+substitute in.
+And the good news is that for those of us
+who grew up dreaming of a lightsaber, there’s
+good reason to think that might be well within
+the realm of the possible even in the near
+future, not just in a galaxy long, long ago
+and far, far away. If by some chance you haven’t
+seen the Hacksmith teams’ real-life 4000
+degree plasma lightsaber build, make sure
+to check that out, and go give them a like
+and a subscribe just for helping fulfill all
+our dreams, and don’t forget to give us
+a like and subscribe while you’re at it.
+Now it needs a lot of refining, and we need
+vastly better power generation for a hand-held
+and truly portable unit like we see in Star
+Wars, but it doesn’t help us solve the other
+problem of why you’d bring a sword to a
+gunfight, even if it is a flaming sword. We'll
+try to see when and if such weapons might
+even be practical, if not as a primary weapon,
+then perhaps as a niche one, like as a breaching
+tool during boarding actions or assaults.
+Or potentially simply as a tool for non-militant
+uses, like carving through debris in damaged
+or dangerous areas like burning buildings
+or collapsed mines to rescue someone.
+And while the episode is titled laser pistols
+and lightsabers, we’ll be looking at a lot
+more options, everything from monofilament
+hyper sharp weapons to grungy chainswords,
+from plasma rifles to needle guns.
+It’s a big list and it is both more and
+less realistic than folks tend to think. First
+let’s start with a common criticism of combat
+in science fiction, which is that it often
+seems like the weapons are no more powerful
+than modern ones, or even less so, and that
+they even have melee or close range battles.
+Folks might ask why some futuristic soldier
+has a blade and a pistol or rifle when spaceships
+can blow up cities, and often that would be
+the better tactic, but we also need to understand
+that the same is true nowadays.
+I’ve often heard folks refer to things like
+assault rifles as military-grade weapons,
+but they are not a frontline or main combat
+weapon in the same way a tank is, a bomber
+is, or an artillery gun is. Assault rifles
+and pistols are principally personal weapons
+for soldiers to use as either a backup when
+their main weapon is unavailable or because
+they themselves aren’t principally in a
+combat role.
+When my artillery unit was deployed to Iraq
+from 2005-2007, we principally reorganized
+to be infantry because 155mm howitzers are
+not ideal weapons for fighting in cities when
+the goal is to minimize collateral damage
+to people and structures. Even then we principally
+relied on the crew-served weapons we could
+mount on armored Humvees. In high-intensity
+warfare we would have used neither, we would
+have used the giant cannons to provide support
+to the tanks with infantry units advancing
+behind them to seize ground. Most of the rest
+of the units would not even fire a shot because
+it’s not their job. Their job would be recon,
+or getting ammo, fuel, and gear to the forward
+units, or treating the wounded or inventorying
+supplies or making dinner.
+In theory anyway. In practice only an idiot
+is going to openly attack a tank unless he
+has something much more likely to kill the
+tank than get himself killed while trying.
+That is the First Rule of Warfare after all,
+“Don’t Die”, and serving as target practice
+is a good way to do that. The battlefield
+isn’t a sporting competition, either, so
+you’re not looking for a battle where things
+are even, that’s a fight you avoid too,
+in favor of waiting till circumstances let
+you strike from an advantage. As a result
+of this, the folks running supplies are much
+better targets, because while a bunch of guns
+full of ammo is a big threat, a truck carrying
+replacement ammo is less of one. Asymmetric
+warfare is often misunderstood to be an assumption
+you engage in guerilla warfare because the
+enemy has a big advantage. True enough, but
+in practice you’re always trying to bring
+the battle together where you have the edges
+and they don’t, even if you could kick the
+snot out of them in a “fair fight”. Never
+Fight fair, that’s the first rule of warfare.
+The only reason either side ever ends up in
+a pitched battle is because they blundered
+into each other and are worried that disengaging
+will be even worse than going toe-to-toe,
+that combined with bad intel, like you thought
+the enemy only had X number of troops and
+attacked, and they thought you were still
+a day’s march away and paused to rendezvous
+with reinforcements, and now you’re both
+stuck fighting a battle you weren’t expecting,
+generally the bloodiest kind. Or one of the
+commanders is an idiot, which to be fair is
+dreadfully common, but usually it's bad intel.
+Wars aren’t like chess, it's not just that
+you don’t know for sure what the enemy is
+doing, most of the time you’re not even
+sure what most of your own forces are doing.
+Many folks refer to war as Organized Chaos,
+this is often being generous.
+As a result of all of this an awful lot of
+modern combat goes on with what we call small
+arms – which includes assault rifles, not
+just pistols or bayonets – and a lot of
+it goes on at fairly close range and short
+notice, at least for one side. This may or
+may not be true in the future too, but I can’t
+think of any specific reason why it would
+not be as true then as now. So there may be
+a need for small arms and even hand to hand
+weapons in the future, so that does leave
+the door open for us to look at them today
+as a thing we might need as opposed to purely
+a tendency to make science fiction shows about
+cowboys or samurai in space.
+There’s a lot of caveats on this assumption
+though. First a lot of close combat is happening
+because you’re not engaged in what tends
+to be known as Total Warfare. Also known as
+Scorched Earth tactics, this is when you and
+the enemy just want each other dead, and you
+don’t care about civilian casualties, property
+damage, or concerns about third-parties objecting
+to what you’re doing. It’s a lot harder
+to sneak small attacks in on an enemy that’s
+burning down everything in sight and killing
+everyone not wearing the right uniform.
+We also have to consider how technology can
+disrupt conventional notions of stealth. This
+might include a suit that turned you invisible,
+but it could just as easily be that the opposition
+troops cannot be impersonated by copying one
+of their uniforms as they all have friend
+or foe transponders secured with biometric
+signature readers. If something like that
+is easy and cheap enough, you just have specially
+coded ones you can give to local civilians
+who are on your nominal green list for interaction
+or passage so they can’t loan theirs out
+or have them stolen either.
+You probably can’t hack into such things
+either. When I was in the service I sometimes
+joked that if you wanted to know the password
+to any piece of gear, you just needed to look
+for the post-it note attached to it, but this
+was only a handful of years after most of
+the population was still getting used to Windows
+95, and putting their coffee cup in the convenient
+holder on their PC so they could use both
+pointer fingers to type while hunting for
+the ANY key. Generally organizations are much
+better about cybersecurity these days and
+regular old people are getting better cybersecurity
+hygiene too, and I suspect hacking will be
+a short period of human history like piracy
+in the west indies was. Hacking isn’t something
+you can always brute force, it relies on people
+making mistakes.
+Nevertheless in the future folks will want
+to gather intel, be it a war or just some
+company stealing some other company’s data,
+and odds are the best way to do that will
+still be to go sit down at someone’s desk
+and read their mail or see what unintentional
+secrets they’ve accidentally left lying
+around. And odds are they’ll have some sort
+of security be it a robot or a guard or an
+elite strike team ready to charge in on you
+and it's really hard to infiltrate someone’s
+office with a tank, artillery cannon, armored
+personnel carrier, helicopter, fighter jet,
+or ICBM. So that’s where we get to small
+arms, and that’s where something hard to
+detect can be handy too, even if it’s pathetic
+in firepower, accuracy, or magazine capacity
+compared to other available gear.
+Knives are popular for this notion, presumably
+because they don’t go bang and stick out
+less than a big sword, be it traditional steel
+or something glowing. Ditto a small quiet
+pistol, and this is where we tend to get notions
+like monoatomic blades or needle pistols.
+Monoatomic or monomolecular wires or blades
+is the notion of a single strand of something
+that’s incredibly strong, and can basically
+shear thorough anything because it’s essentially
+ultra-sharp by being so skinny, it’ll only
+disrupt molecular bonds on a single tight
+plane of a material its cutting, not mash
+through a substance, which at the nanoscopic
+scale is basically what even a surgical scalpel
+does. Being around a nanometer in diameter,
+such a thing can be very easily hidden. You
+might be able to get away with keeping a kilometer
+long coil of it concealed in a ring on your
+finger and it might be made out of something
+like carbon nanotubes.
+Indeed given that carbon nanotubes are chemically
+near identical to graphite, you could have
+it concealed inside a mundane pencil that
+would be very hard to detect on a scan, and
+the stuff is harder than diamond, and in this
+context, sharper than diamond too. A superstrong
+and thin wire has issues with how you would
+use it, and as strong as these things are
+in terms of tensile strength, a single molecule
+thick cord of it isn’t really very strong
+in human terms either, plus in practical terms
+there’s a lots of ways a real world example
+might break or bond to things it was slicing
+through and so on. This is very similar to
+a lot of the issues we have come up with things
+like lightsabers or adamantium claws or so
+on, and I’ve heard a lot of geek-arguments
+over what impossibly sharp items can do or
+can’t do, and as you might guess, participated
+in some too.
+It’s a good weapon in the sense that it's
+not only compact and concealable but also
+has other uses, like a cord for climbing or
+potentially a modified form as a fiber optic
+cable for spying, not too mention that in
+the case of graphene or CNTs such a wire might
+have all sorts of interesting electrical and
+thermal conduction properties, potentially
+allowing options like electrically heated
+superhot filaments. A pocket knife isn’t
+much of a weapon but having one on you doesn’t
+set off alarm bells because it is a handy
+tool, and such a cord might be too. It might
+be possible having a ring with monofilament
+wire in it might be as common as pocket knives
+in the future. I could imagine something like
+the gemstone setting of a typical ring actually
+being a tiny drone with the wire attached
+that you could control by mental commands
+or similar.
+Weaponizing it is a part harder, you could
+make a sword out of it by pulling it taut
+on something, or make a big circular saw out
+of it by having a weight at the end and whirling
+it around. One downside though is that if
+you can make the substance, odds are good
+your enemy can too, and given that it is probably
+pretty easy to weave a fabric out of, would
+make for fairly impressive armor.
+To defeat such super tough armor, once concept
+that is frequently referenced in science fiction
+is the needle pistol. This is a pistol that
+shoots a very skinny needle to penetrate right
+through armor. Folks sometimes write about
+such munitions and extol their virtues by
+saying it can fly right through someone and
+leave a tiny whole in and out, which highlights
+the downside of such a weapon. In real combat,
+what you actually want is to drill a tiny
+hole through the hard protective layer on
+something and then have it explode around
+inside, ideally not having any bit of it emerge,
+not zip through and leave a hole no wider
+than a needle. I’m not sure that would kill
+someone even if you shot them in the brain.
+We are perfectly capable of building guns
+that fire skinnier bullets, indeed we had
+the 2.7 millimeter caliber Kolibri or Hummingbird
+round in production way back in 1910, about
+a half and a third of the caliber of more
+conventional 5.56mm or 7.62mm rifle rounds,
+or a quarter of the typical 9mm pistol round,
+and if you’re curious a .45 caliber, or
+0.45 inch wide round is 11.4 millimeters and
+a 50-cal, or half inch wide round, is 12.7
+millimeters. These 2.7 mm rounds didn’t
+catch on, and we can make them skinnier nowadays
+and have materials like Teflon to make them
+out of. Or I should say they haven’t caught
+on for small arms. They are common type of
+round used by tanks to kill other tanks.
+Long skinny bullets more like darts that fragmented
+might be very ideal but unless the bullet
+was smart so it could detonate and fragment
+when it was ideal, you’d essentially need
+a bullet designed to go through a very specific
+type and thickness of armor, which requires
+an assumption of a lot of standardization
+in the enemy’s armor and their willingness
+to always have it on. Long skinny projectiles
+also aren’t stable in the air, which is
+why arrows need feather fletching or vanes.
+Critically the main advantage of a smaller
+caliber bullet is the higher muzzle velocity,
+but that’s a byproduct of being able to
+go faster on less energy.
+But the key thing with a typical bullet is
+trying to get it to expend all its kinetic
+energy inside the target, not failing to get
+in or punching out the back with most of that
+energy intact. It’s energy that does damage
+here, not withstanding munitions like toxic
+darts.
+This is where we start having the issue with
+energy and with laser pistols or laser rifles
+or rayguns. These predate science fiction
+films and TV as an idea, H.G. Well’s War
+of the Worlds had heat rayguns for instance,
+and various beam weapons and disintegrator
+rays were thoroughly popularized by the 1930s,
+but they make for a very easy and flashy special
+effect, thus were ideal for films and comic
+books. Disintegration weapons especially are
+good for film, as you could just remove the
+person from the set and avoid needing to show
+their body afterward.
+Practically speaking, this is overkill, like
+blowing up a planet instead of scorching off
+the thin outer skin everyone lives on. However
+you don’t want to poke a tiny hole through
+someone either, as we just discussed with
+needle pistols, and a laser beam isn’t going
+to fragment exactly either. The energy expended
+burning a hole through someone obviously will
+radiate out, but it would be cauterizing the
+wound in the process which is the exact opposite
+of what you want to happen to holes you’re
+poking into people while trying to kill or
+incapacitate them. It also needs to be a very
+fast shot too, nobody is going to sit still
+while you burn a hole through them.
+How much energy does it take to burn a bullet-sized
+hole through someone? Well in the case of
+a heat-ray approach, just vaporizing a cylinder
+shape of matter through someone by sheer energy,
+quite a lot. Bullet energies are generally
+on an order of a thousand joules, vaporization
+energies are general on an order of a thousand
+degrees. A thousand joules of energy would
+heat a kilogram of water up by about a quarter
+of a degree Celsius. So if you’re looking
+to punch a fist-sized laser hole through someone
+you’re talking energies more around a million
+joules, and for the same amount of energy
+you could pump a thousand bullets through
+them instead, this is usually going to be
+fatal to anything you should not be screaming
+and running away from.
+Of course if you actually have a laser rifle,
+or heat raygun, able to dump a million joules
+into a single shot, there’s not much you
+need to run away from. I would imagine at
+least part of the appeal of laser pistols
+and lightsabers is that you’re shooting
+lightning from your hand and swinging a flaming
+sword, weapons traditionally reserved for
+gods and angels, and they would indeed be
+potent weapons. This isn’t a type of weapon
+that armor helps much with, at least in terms
+of classic hardness. Raw thermal energy is
+usually not the most efficient weapon, but
+it's hard to counter, energy beats matter
+every time.
+Quantity has a quality all its own, and as
+we say on the show, if brute force isn’t
+working, you’re not using enough of it,
+and you can foil any armor by just hitting
+it hard enough. Even hypothetical materials
+that could absorb insane amounts of energy
+have to follow physics, so either the person
+inside the armor is getting roasted alive
+by the dissipated energy as heat or getting
+killed by the acceleration of the suit of
+armor being hurled backward by the impact.
+As an example, that laser pulse carrying a
+megajoule has the same energy in it as a car
+moving 50 meters per second, or 180 kilometers
+per hour or 110 miles per hour. If that hits
+you, you’re going to feel it.
+But it also tells us heat as a damage vector
+isn’t the best approach, not by torching
+holes through anyone at least. The average
+human body needs a couple thousand calories
+or around 10 million joules of energy a day,
+and a lot of that is used to keep the body
+at a very specific temperature, you don’t
+need to deliver a million joules of heat energy
+to someone to kill them, indeed just breathing
+super-heated air into your lungs will generally
+do the trick.
+Now this mostly has to due with using photons
+as your damage delivery mechanism, and much
+like with spaceship drive, there are certain
+situations where shooting photons out as your
+main weapon or main drive is advantageous,
+but usually you get more bang for your buck
+using that same energy to accelerate something
+with mass instead.
+In terms of raw matter to energy, if we imagined
+some perfect matter to energy converter or
+a box lined with perfect mirrors we could
+bounce light around inside to store it, then
+yes sending out photons is optimal. Using
+Einstein’s E=mc², a kilogram of photons
+contains the same destructive potential as
+215 megaton thermonuclear bombs. Alternatively
+a kilogram of modern bullets, or rather the
+cartridges containing the bullet and powder,
+would contain only a few hundred thousand
+joules of energy, roughly a trillion times
+less energy than their mass energy or what
+that light would hold, or what that weight
+of antimatter would hold for that matter.
+However, we don’t have energy conversion
+or storage capable of doing that, our best
+batteries - lithium-ion batteries - can only
+do about a million joules per kilogram of
+energy storage, older lead acid batteries
+were more like a fifth of that, and gunpowder
+is about a dozen times that, and gasoline
+about 4 times higher than gunpowder.
+Which might make you wonder why we don’t
+use gasoline in guns if it’s more energy
+dense. For bullets, or any portable power
+source, storage and speed of use matters a
+lot. Gunpowder burns in a lot less than a
+second whereas gasoline takes longer and batteries
+take a lot longer than even that to discharge,
+so not ideal for tightening your finger on
+the trigger and having a target hit with lethal
+force an instant later.
+This is where much better power storage systems
+can come into play, and we detailed those
+options in our episode Portable Power, but
+the short form is gunpowder is pretty ideal
+for its modern role compared to the alternatives.
+It stores well, it's decently energy dense,
+and it releases all that energy very quickly
+in the form of an expanding gas we can shove
+a bullet with.
+Now a soldier’s layout is obviously going
+to vary a lot from time to time and situation
+to situation, but in my own soldiering era
+a decade back, we usually went into the field
+carrying seven to ten magazines of about 30
+rounds each, which meant about 3-4 kilograms
+of ammo for 5.56 mm ammo, the kind M16s and
+M4s fire, 7.62 mm ammo like AK-47s fire is
+about twice as heavy incidentally. The magazines
+holding the ammo added more weight, and the
+rifle itself weighs about another 3-4 kilograms,
+but you generally are carrying at least ten
+times that weight in armor and other gear,
+so ammo weight isn’t usually your controlling
+factor. For that matter only a fraction of
+the ammunition weight is actually gunpowder
+or whatever other propellant you are using.
+Someone with that load out might be carrying
+10 megajoules worth of chemical energy in
+those propellants though, and our best modern
+battery would need to weigh about 10 kilograms
+to do that, and would still need the mass
+for the gun and the bullets.
+Now that’s not really a weight issue, a
+backpack battery for a laser rifle or electromagnetically
+accelerated slug is a real option, but it
+would require a battery that can not only
+hold that much energy but release enough to
+sling a bullet out in a millisecond. We do
+have some options on the table for batteries
+with those kinds of energy discharge rates
+and higher energy densities too, again see
+the portable power episode. The hold on weapons
+like this really isn’t the energy density,
+though more is better, it’s the discharge
+rate, but capacitors can help with that, as
+can superconductors. Gunpowder and its chemical
+brethren have ruled the battlefield for centuries
+now, and probably will for decades to come,
+but that may not be the case in a century.
+Being able to slap in a new battery that weighs
+half a kilogram and is only good for a hundred
+bullets up to a kilometer a second is not
+exactly a dream weapon but its not bad either,
+and that’s modern lithium-ion battery densities,
+and again you could use a backpack which helps
+a lot. Now if we did get something with energy
+densities a thousandfold higher than modern
+batteries and chemical fuels, then yes things
+like laser beams start making a lot more sense,
+because it means you don’t have to tote
+heavy ammo around. Needless to say it makes
+sense in a long range context too, much longer
+than rifle range, like in space, where a bullet
+fired from a gun at a ship orbiting the same
+planet as you, ignoring all other relative
+motions, might need a few hours to arrive,
+versus a fraction of a second for a laser.
+Let’s keep on this notion though, and contemplate
+a gun that didn’t require you to lug bullets
+around, but still let you hit people with
+massive objects accelerated by energy rather
+than photons. This is the general notion of
+things like plasma rifles or plasma cannons.
+Plasma is a state of matter composed of ionized
+atoms, ones too hot to hold together as molecules
+anymore, and being ionized are easily controlled
+with electromagnetic fields. Your classic
+fluorescent lamp tube runs on plasma, and
+looks a lot like a lightsaber – and yes
+we’ll be getting to them shortly – and
+those individual atoms are whirling around
+at speeds a lot faster than a bullet. There’s
+no real maximum on how fast they can go either,
+up to the speed of light, just that plasma
+is the state matter goes into when it's too
+hot to even be a normal gas anymore and those
+random speeds are generally on the order of
+kilometers per second, at the bottom end.
+That’s why we like the idea of using plasma
+as a ship drive propellant.
+Ignoring various issues plasma has while flying
+through the air, if you could suck in a gram
+of air and expel it out the front of your
+gun as a plasma at a temperature of about
+10,000 Kelvin, those individual particles
+are moving about 4 kilometers per second and
+that single gram of matter you sucked in and
+shot out is carrying 16 Megajoules of energy
+in a tight focused strike. And yes that will
+ruin your whole day if it hits you, even if
+you are a big armored tank. Plasma rifles
+have a nice potential niche in weaponry if
+you’ve got good portable power because it
+lets you use a lot less mass for your ‘bullet’,
+so to speak, and potentially not even need
+to carry them. If you do carry the plasma,
+rather than sucking it in, something like
+a neon or mercury canister, then faster acceleration
+and hotter temperatures is preferable but
+it’s still a lower weight limitation than
+a modern gun and bullets are.
+The ability to source your ammunition from
+the local environment shouldn’t be viewed
+as much of a plus though. Mass manufacturing
+bullets is easy, and resupply via drones should
+be an option that allows even troops actively
+engaged in a firefight to receive ammo.
+Now this source of plasma notion is fairly
+important where lightsabers are concerned
+because the assumption is they are carrying
+around a roughly 1 or 2 kilogram cylinder
+that contains all you need to run that laser
+sword or plasma knife or whichever for an
+hour or more. There is no real-world equivalent
+that’s going to match what they do because
+what they do changes by film and author, but
+what they probably would need to do, if they’re
+just a nice plasma torch, would be to have
+an atomic or antimatter power supply and a
+powerful pump sucking air into the hilt to
+shoot out as the plasma, the one in the famous
+hacksmith video runs on propane and oxygen,
+same as your grill, which means it’s just
+carbon, oxygen, and hydrogen, all probably
+plentiful in any human-breathable atmosphere.
+Again see that video for a detailed explanation
+of how theirs worked.
+The one they made is awesome, and it works,
+but it isn’t a real lightsaber, because
+you can’t parry with it to block strikes,
+you can’t throw it around at people using
+the force to control it, you couldn’t precisely
+cut someone’s bonds without burning them,
+and so on.
+What could do it?
+Options are very limited. Having something
+like a plasma contained by a forcefield – or
+magnetic field – would seem to suffer from
+the problem that while the field is keeping
+the plasma in a nice tight cylinder of a blade,
+it ought to be keeping it from damaging things
+it touches since the plasma can’t get out
+of the field. This version has the advantage
+of a parry of two such blades making some
+sense though, since their forcefields can
+presumably bounce off each other, and we might
+hypothesize the fields containing the plasma
+had some very specific characteristics so
+they only bounced off each other not other
+things, and only interacted with their plasma,
+not another matter.
+Another alternative is a beam, but a continuous
+beam, besides seeming energy wasteful, would
+be just that, a beam, not really any more
+appropriate for a melee duel than wielding
+a machine gun in one hand while depressing
+the trigger and parrying your enemy with the
+barrel.
+Possibly we could do a weapon where the particles
+coming out of it had a half-life, something
+that came out at a speed that made it decay
+after about a meter on average. That would
+mean the blade would still be half as strong
+at two meters, and it would also mean it needed
+to decay into something harmless.
+When would it be useful though? That’s very
+hard to say because it is certainly handy
+to have a portable welding torch that can
+cut through titanium, but usually the only
+reason for melee in a futuristic context – besides
+that it looks cool, which is only a good justification
+for science fiction, not reality sadly – is
+if the target is somehow hardened against
+long range weapons or unable to be hit by
+them.
+That is a bit more plausible in some ways.
+As an example, we might come up with materials
+that are much harder to pierce than modern
+body armor, but be stuck with guns no better
+than modern ones, or we could see forcefields
+develop that were bulletproof but not air
+proof or knife proof like we see in the Dune
+novels. Or some of their equivalents that
+we examined in our forcefields episode, like
+using tiny drones to intercept bullets. Your
+enemy fires a bunch of bullets at you and
+your own smart and miniaturized point-defense
+turrets lob a bunch of tinier bullets at their
+bullets. Only at close range are reaction
+times for intercept of attack too long to
+work perhaps.
+Scenarios like that might conceivably see
+more melee combat in the future. Of course
+just because you have armor a bullet can’t
+get through doesn’t mean someone’s sword
+or knife will, or their plasma sword or gun
+too. Plasma for instance is very easily shoved
+around by electromagnetic fields so objects
+can be toughened against them by having an
+electromagnetic force field, which could scatter,
+deflect, or simply blunt them.
+We do see other super sharp weapons in scifi.
+I already mentioned monofilament blades and
+wire, vibro-blades is another popular one,
+though it's often unclear how they work, it
+can be anything from some sonic effect to
+basically mimicking an electric knife or chainsaw.
+Power swords tend to be popular too and a
+lot like the lightsaber only they either are
+the whole blade, not just the hilt, or sometimes
+have a retractable blade. This works, and
+some extendable bit of super-heated tungsten
+or super-heated alloy is going to glow like
+a flaming sword and cut through things very
+well, though still fundamentally not as well
+as a lot of existing cutting devices that
+focus on being hard, tough, and sharp. A powered
+saw will probably cut most materials better
+than a hot blade, in terms of energy per cut.
+Indeed the very grimdark and grungy chainsword
+of settings like Warhammer 40k probably have
+the higher end of realism here.
+Still, something very hot can cut well and
+with a bit of handwaving a nice portable power
+supply and a material even more heat resistant
+than tungsten could be set into a hilt that
+telescoped out and charged up to have a nice
+and lethal plasma halo around it. It would
+still be a physical blade so you probably
+don’t want to be smashing it into thickly
+armored stuff constantly.
+One other type of weapon before we close out.
+We see a lot of blades or bullets than can
+just ignore armor, phasing right through them
+– like the phase swords we see in some scifi,
+and this one does have some basis in science.
+We have particles, like neutrinos or neutral
+mesons or whatever dark matter is, which by
+and large don’t interact with matter much.
+Neutrinos will go right through matter, including
+armor, but also including humans, so not a
+good weapon. However a meson is a very short-lived
+particle and decays into more mundane matter
+rather quickly, so you could potentially have
+short range weapons that fired off ultra-relativistic
+mesons that decayed after passing through
+armor, and since a half-life would be translatable
+into a distance they covered in which about
+half of them would have decayed before getting
+there, and only one in thousand would still
+be around after ten times that distance, it
+is pretty suited for something close range.
+Obviously we can’t cover all the close combat
+weapons we see in science fiction today, I
+doubt we could even name them all in an hour,
+but we begin to see both the difficulties
+of improving weapons and some of the paths
+that might take. As I said earlier, while
+close range combat is usually not something
+that represents the height of your technology
+or martial might, it does tend to happen and
+probably will in the future too, whether or
+not its humans doing the actual fighting or
+tiny robots or giant robots, or humans in
+giant robots.
+So there’s no extended edition for today’s
+episode, as I’ve been busy moving and getting
+settled into the new house and studio, and
+it’s involved an awful lot of yard and house
+projects. One of those is setting up some
+new raised bed gardens. I’ve often recommended
+Skillshare as a great place to go to learn
+skills like writing or video production and
+animation, but it’s also to home to a lot
+of Lifestyle and Productivity classes, like
+Sunny Green’s Easy Gardening, and I really
+can’t recommend enough having some hands-on
+and outdoor skills and hobbies. Gardening
+is probably one of the best and it’s a great
+example of Skillshare’s philosophy of having
+classes for every skill level, whether you’re
+a beginner, a pro, a dabbler, or a master,
+there’s always more to learn or to get ideas
+and inspiration from.
+Skillshare is an online learning community
+for creatives, where millions come together
+to take the next step in their creative journey,
+and Members get unlimited access to thousands
+of inspiring classes, with hands-on projects
+and feedback from a community of millions.
+If you’d like to give it a try the first
+1,000 people to click the link in my episode
+description will get a free trial of Skillshare
+premium so you can explore your creativity.
+Act now, and start learning, today.
+So that will wrap us up for our Mid-Month
+Scifi Sunday episode, next Month though we’ll
+follow this topic up with a look at Death
+Rays. Until then we’ve got an episode on
+Arcology Design, where we will look at some
+of the critical concepts in these hypothetical
+super-buildings meant to contain thousands
+of people and their ecosystems, this Thursday.
+Then we will close the Month out with a look
+at how Solar Flares might impact the Fermi
+Paradox, and return here two sundays from
+now for our End of the Month Livestream Q&A.
+Then we will head into June with a look at
+the concept of two aliens races both evolving
+civilizations on the same world, and if they
+might share it in peace, then we will look
+at some Future Manhattan Projects, which might
+be handy for those who can’t share their
+world in peace.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas. You can also follow
+us iTunes, Soundcloud, or Spotify to get our
+audio-only versions of the show.
+Until next time, thanks for watching, and
+have a great week!

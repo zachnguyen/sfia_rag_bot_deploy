@@ -1,0 +1,573 @@
+So we used a Youtube poll on the Channel to
+select the next videos and the first two winners
+were Black Hole Powered Spaceships and Faster
+Than Light Travel.
+There’s a lot of overlap in some of those
+concepts and when I realized I was 20 minutes
+into the video for the first one before I
+even mentioned how those spaceships might
+work, I decided I’d just go ahead and make
+both of them and this video all part of a
+set.
+Today I’m explaining the concept of micro
+black holes, how they differ from regular
+black holes, and how we might go about making
+these things.
+To properly discuss that we need to talk about
+Hawking Radiation, and to do that we need
+to talk about virtual particles.
+But when we’re talking about black holes
+we first need to clear away a lot of the misconceptions
+people tend to get about black holes.
+Which is to say they’re not black and they’re
+not holes.
+That term, Black Hole, didn’t even come
+into use till the late 1960’s, on the other
+hand the notion has been around since well
+before Einstein discussed the concept in General
+Relativity.
+They first got discussed way back when the
+American Revolution was going on.
+A lot of the common features of black holes
+people reference either are limited to naturally
+occurring ones made of dead stars or actually
+describes the tiny condensed matter, probably
+a point like object of infinite density, inside
+the black hole called a singularity.
+But a black hole itself is simply any region
+of space where the escape velocity exceeds
+the speed of light, and we often call that
+the event horizon because it’s the place
+where you can’t see events occurring on
+the other side.
+Nothing that happens on the other side, no
+event, can be witnessed externally because
+the light never reaches you from it.
+This does not mean all black holes are dense.
+The monstrously huge ones at the center of
+many galaxies have an average density less
+than white dwarfs or neutron stars for instance,
+and one formed from an entire galaxy’s mass
+would be nearly a light year across and for
+all that it contained a trillion stars worth
+of matter would have an average density on
+par with the air you and I are breathing.
+Stellar mass black holes are very dense, since
+they are squeezing in the mass of a whole
+star to an area a few miles across.
+Smaller black holes are a lot denser than
+even that, and an Earth-mass black hole would
+be about the size of a marble and fit comfortably
+in your hand….
+At least until it tore you apart and sucked
+you in.
+But a lot of the black holes we’ll be interested
+in the next video, to be used as power sources,
+are way smaller than even that and actually
+wouldn’t suck you in.
+They simply lack enough mass to yank on you.
+They’re also so small they have problems
+absorbing matter.
+That’s made worse by Hawking Radiation which
+we’ll get into later on.
+So if I collapsed an entire small mountain,
+a billion or so tons of matter, into a black
+hole, that black hole would be about the size
+of a proton.
+If we stuck it in a room on a pedestal, you’d
+be quite safe standing on the other side of
+the room from it.
+Though when you got to at about arm’s length
+it would be yanking on you as hard as Earth
+does.
+Almost all the micro-black holes we’ll be
+interested in this and the follow up videos
+will be even less massive than that, and in
+most cases, if it weren’t for the Hawking
+radiation they emit, wouldn’t hurt you if
+you walked right past them.
+That Hawking Radiation does matter though,
+because as we’ll see in a bit, while your
+average dead star black hole doesn’t even
+emit enough energy via Hawking Radiation over
+a billion years to power a light bulb for
+a millisecond, smaller ones release a lot
+of energy and the smaller they are the more
+they produce.
+This billion ton one we just mentioned releases
+an amount of power comparable to a nuclear
+powerplant or major hydroelectric dam.
+So while you could safely stand across the
+room from it without being dragged in, the
+power coming off it would burn you to a crisp,
+since it would about a thousand times more
+potent than noon time sunlight at the other
+side of even a fairly large room.
+Before we get into Hawking Radiation and Virtual
+Particles we have to talk about gravity gradients
+and tidal forces.
+You’ve probably heard that you fall towards
+a black hole you’d be torn to shreds, the
+official scientific name of this is Spaghettification.
+Because you get stretched out thin then ripped
+apart.
+Personally I don’t like this being mentioned
+in regard to black holes because it gives
+some weird notions and feeds into misconception
+that black holes are incredibly dangerous
+compared to normal stars.
+A stellar mass black hole wouldn’t shred
+you till you got way closer to than its original
+parent star would have torched you into atomic
+dust at.
+In fact you need to be closer than a planet
+distance, and if you fell toward Earth you’d
+get burned up and hit the ground way before
+you’d get to the tidal tearing distance
+of most stellar mass black holes.
+Now they all have a distance that would shred
+you, assuming they have a singularity or a
+near-singularity in their middle anyway, but
+for galactic central black holes it is way
+after you’ve already fallen into the event
+horizon and for micro black holes it’s at
+a distance less than most atoms are wide.
+The cause for this is the same in all cases.
+Gravity is an inverse-square force, get twice
+as far away and gravity is at a quarter of
+its strength, get half as close and it’s
+four times more powerful.
+Any object is going to experience slightly
+less gravity on its bottom than its top, gravity
+is just a bit weaker up there.
+On planets that’s as far as it goes, because
+the mass is all spread out so that even if
+you drilled down deeper into the earth gravity
+doesn’t get stronger, in fact at the center
+of the Earth, there’s no gravity at all,
+because all the matter is symmetrically spread
+around you canceling out, not working together
+like when you’re outside of it.
+Black holes are all concentrated so you can
+get very close, to distance where your head
+might be twice as far from the center as your
+feet, and would thus experience one fourth
+the pull of gravity as your feet.
+And if you’re near a normal black hole that
+gravitational difference might be only a fraction
+of a percent but it’s a fraction of a percent
+of millions times more gravity than you experience
+on Earth, so it would stretch you and rip
+you apart.
+This tidal force, this gravity gradient, is
+very important in smaller black holes because
+it means that over a very small distance,
+distances the size of atoms or smaller, that
+difference in gravity might be truly massive,
+while in larger black holes for all that they
+have a lot of gravity, the difference in it
+at only an atom width further away aren’t
+that large out above the event horizon.
+Remember that because we’ll come back to
+it, smaller black holes can have tidal forces,
+above their event horizons, so severe that
+they could rip an electron off an atom simply
+because it was slightly closer.
+So let’s talk about Virtual Particles.
+At the core of physics, especially in Quantum
+Mechanics, there’s a bit of conundrum with
+how attractive forces work.
+If you’ve got two positive charges, like
+repels like, and we envision this as both
+spitting out photons that hit each other and
+shove each other further away.
+That doesn’t work too well with attraction,
+normally if you chuck a baseball at someone
+it shoves them further away, it doesn’t
+drag them closer.
+So in Quantum Field Theory we fix this with
+something called a Virtual Particle.
+Particles that don’t have to follow the
+normal rules like having positive mass, positive
+momentum, positive energy, obeying the speed
+of light, or moving forward in time.
+Now while these particles are literally pulled
+from nowhere, the concept isn’t.
+The keystone of Quantum Mechanics is the uncertainty
+principle, that holds that when you get down
+to really small scales, certain complimentary
+variables, like position and momentum, or
+energy and time, can only be simultaneously
+measured with so much accuracy.
+Conceptually it’s sort of like fractions
+of penny, if something costs 99 cents and
+there’s a 6% sales tax, you pay a $1.05,
+though 106% of 99 is actually 104.94, that
+6 hundredths of penny got rounded up.
+The Universe is a bit like that too, it can’t
+keep track of fractions of a cent, and the
+amount it can’t keep track of, it’s fraction
+of penny, is Planck’s Constant.
+We see this in effect too, a lot of particles
+that mediate forces, like the W and Z bosons
+that regulate the Weak Nuclear Force, are
+actually way more massive than the particle
+that emits them, and this force has an incredibly
+short range because that amount of mass and
+energy can only exist out of nowhere like
+that for a very short period of time, so these
+particles can’t travel far before disappearing.
+Giving the Weak Nuclear Force a very short
+range.
+For virtual particles, they come into existence,
+the theory goes, in pairs right out of nothing.
+We call this the Quantum Foam these days.
+If you’ve hear references to Vacuum Energy,
+or Zero Point Energy, or weirdness with the
+Casimir Effect and wormholes, this is what
+that originates from.
+And we’ve measured the Casimir Effect in
+labs, so again this idea isn’t coming out
+of nowhere, even though it is based on the
+idea of things popping out of nowhere.
+So the virtual particles appear in pairs out
+of nowhere.
+These are opposite particles of each other,
+akin to anti-matter, they pop up right next
+to each other and almost always near instantly
+recombine and annihilate.
+Virtual particles don’t have to have the
+same energy or mass as their real equivalents,
+since the uncertainty principle permits them
+to vary off the expected normal amounts quite
+a lot.
+This normal, what particles have when we graph
+their energy, mass, and momentum in terms
+of classical mechanics, forms a hyperboloid
+that looks a bit like a shell, so we call
+normal matter as being ‘on shell’ or ‘on
+mass shell’, and virtual particles can be
+off mass shell, and conceptually how far you
+are off shell is sort of a measure of how
+unreal a particle is and how short its existence.
+Though there are way for virtual particles
+to become real and the divide between real
+and virtual particles can be a bit blurry
+and arbitrary in some cases.
+In other ways of looking at virtual particles,
+they don’t so much exist in space and time
+as they occupy the moment between ticks of
+the clock or cracks between flagstones.
+I like that analogy personally since they
+are basically the mortar holding the bricks
+of matter together.
+Non-virtual, real matter that has these properties
+like negative mass or energy is generally
+what is being referred to when we talk about
+Exotic Matter, which will be a big component
+of a lot of the various ideas we will talk
+about in the Faster than Light Video in a
+couple episodes.
+Incidentally quite a few of the notions kicked
+around for where all matter and energy of
+the big bang came from often revolve around
+Virtual Particles or parallel concepts from
+String Theory, a sort of notion of the whole
+Universe being a big Vacuum Fluctuation.
+There’s not much evidence of this, but there’s
+not much evidence of anything else from that
+event either and as Ex Nihilo theories go,
+those tend to be some of the more interesting.
+But the basic theory dealing with Quantum
+Foam holds that virtual particles are constantly
+popping up in pairs everywhere, pairs that
+almost immediately negate each other out.
+Now we get to Hawking Radiation, because as
+I mentioned earlier, on very small black holes
+the tidal forces right near the event horizon
+can be so strong that a pair of particles
+right next to each other, but with the one
+just a tiny sliver of distance further away,
+might be ripped apart by the difference in
+forces.
+Now normally, just above a black hole event
+horizon, just like everywhere else, pair production
+of virtual particles is constantly going on.
+Sometimes both will escape, sometimes both
+will fall in, and the nothing important has
+happened, literally nothing has actually happened.
+But everyone so often one virtual particle
+will fall into the black hole and the other
+will fly away, separated by an event horizon
+they can’t recombine or talk and the black
+hole will lose just a little mass or energy,
+same difference in this context, as that one
+virtual particle flies away and becomes real.
+Normally a photon, a big gamma one, but it
+can be other particles too.
+This doesn’t happen much.
+Around the big black holes this happens almost
+never.
+Even though there’s a lot more real estate
+right over the event horizon of a bigger black
+hole, and way more virtual particle pairs
+being produced.
+Around the smaller ones though, right over
+their event horizons, the difference in forces
+over even sub-atomic distance can be massive,
+massive enough to yank those two particles
+apart and pull one under the horizon, and
+to do this quite regularly.
+This makes the black hole emit energy, which
+we call Hawking Radiation since it was Stephen
+Hawking who figured this out in 1976, and
+we call this process black hole evaporation,
+as it means that unless a black hole is absorbing
+replacement matter they will eventually shrink
+in size, and will keep shrinking even faster.
+So while a stellar mass black hole might let
+one virtual photon fly free and become real
+every couple years, and thus take tens of
+millions of trillions of trillions of trillions
+of trillions of trillions of years to evaporate…
+a smaller one like that billion ton mountain-mass
+one we looked at earlier, should emit a few
+hundred megawatts of power constantly for
+a mere couple trillions years.
+A flyspeck of time to evaporate, just a couple
+hundred time longer than the Universe has
+already existed.
+And a few hundred megawatts is a pretty nice
+power supply, comparable to most nuclear reactors.
+Very loosely, black hole power output by Hawking
+Radiation scales up with the inverse square
+of its mass, meaning if cut the black hole’s
+mass in half we expect to get four times the
+power, it would also mean it only lived on
+eighth the time since it’s losing mass-energy
+four times as fast and only has half as much
+to burn in the first place.
+So if you wanted a black hole power source
+that would just outlive our sun, it would
+only mass about 100 million tons, a hundred
+megatons, the mass of a decent sized hill,
+and would pump out about 30 billion watts
+of power continuously for the next four billion
+years.
+That’s a lot of juice, about enough for
+ten million people by modern US electrical
+consumption, and a hundred megatons isn’t
+that much mass, I mean it is a lot, in terms
+of water that would be enough to fill a stadium
+to the brim several dozen times, but the oceans
+hold over a billion megatons of water, and
+the planet itself masses about 6 quadrillion
+megatons so in the grand scope of things it
+ain’t that much mass.
+Now while that is a lot of juice and not that
+much mass, it’s still way too little power
+for way too much mass to make a good spaceship,
+so when we talk about black hole powered spaceships
+in the next video we will be looking at ones
+closer to the one megaton range.
+For mostly stationary things, at least in
+interstellar terms, like space stations and
+planets, these Hill Mass Black holes are where
+it’s at.
+They can last millions or billions of years
+and produce more power than an equal mass
+of solar panels or wind turbines or other
+things that don’t use limited supply fuels
+like petroleum or uranium.
+And they take up a lot less room than fields
+of solar panels or wind turbines since they
+smaller than a proton.
+Which also means if you built one on the Earth
+it would just fall right down… and then
+back out the other side of the planet and
+back up in 80 minutes.
+I mean it’s way smaller than an atom and
+yet would still be carrying all the inertia
+of a freefalling asteroid, it won’t run
+into much friction from collision.
+It will just oscillate back and force every
+80 minutes scorching a nice line along the
+way.
+That’s one of the reason why we don’t
+worry much about accidentally making black
+holes in the lab, even if we made one it would
+have way less mass than a hundred megatons,
+we’d be talking grain of sand levels of
+mass, and lifetimes so short we can only talk
+about them in scientific notation, so it would
+just flash right out of existence but even
+if it didn’t it would just harmlessly oscillate
+through the planet every 80 minutes, though
+you’ll often see that listed as 84 minutes.
+The time it takes for something to fall down
+and through an object to its other side and
+back again, if it’s not slamming into things,
+like if you drilled a frictionless vacuum
+tunnel right through the planet is based entirely
+on the density of that planet, not its size.
+That’s at the core of the concept called
+a gravity train, one of the subscribers was
+asking about it recently and it was in that
+Total Recall Movie, the remake not the original,
+which personally I liked even if it wasn’t
+as good as the original.
+Normally we use gravity train concepts for
+skimming brachistochrone curves between two
+cities on the same continent, rather than
+passing through a planet’s molten core,
+basically you’d fall down a frictionless
+vacuum tunnel between say New York and Cleveland,
+using no power.
+Which is an unrelated but fun concept we might
+look at down the road.
+There are some tricks to keep black holes
+from plummeting but the easiest would probably
+be just to make the thing up in geostationary
+orbit then beam the power down.
+I know I generally disdain beaming power,
+since a power beam able to supply electricity
+for ten million people is also known as a
+death ray, especially considering Hawking
+radiation is normal hard gamma, but it deserves
+mention.
+I will talk about weaponizing micro-black
+holes a bit in the next video but we’ll
+skip that for now.
+I get asked fairly frequently to do videos
+on superweapons, which is an interesting collection
+of options, but if my supervillain vibe gets
+any stronger I’m going to have to start
+picking out a location for my lair so that’s
+on the back burner.
+Besides I already did a Top 10 video of ways
+to wipe out a planet’s population last year.
+You’d get around the gamma radiation by
+wrapping the black hole in something that
+was a good absorber and had a high melting
+temperature, like Tungsten, which for our
+30 Gigawatt Hill Mass black hole would mean
+a spherical shell of Tungsten a couple hundred
+feet across that would be glowing red hot.
+You could then trap that power with solar
+panels or just leach the heat off it classically
+to boil water and turn turbines.
+Though the latter is a pretty counterintuitive
+setup in zero-gravity.
+Now making black holes is also a problem,
+not as bad as refueling them so they don’t
+explode, which we’ll talk about in the next
+video since the ones for spaceships tend to
+have lifetimes where you’d actually need
+to worry about them exploding, but it is still
+quite a technical hurdle.
+It doesn’t appear to be physics hurdle though,
+as best as we can tell there isn’t a specific
+problem making small black holes that violates
+some known law of physics though that’s
+always hard to be sure of since we don’t
+know much about black holes definitively yet
+and there’s still debate about if black
+holes themselves might violate the laws of
+physics.
+For very big ones its conceptually easy, cram
+a lot of matter together, bingo, black hole.
+But matter doesn’t like to be crammed together
+and for smaller ones you don’t even have
+gravity helping you pack it in tight.
+So the popular theoretical methods is to blast
+lasers together since photons are bosons and
+unlike fermions… which is pretty much everything
+you think of as normal matter, they don’t
+care if you jam them together.
+Photons are incorporeal as it were, all bosons
+are, any number of them can occupy the exact
+same place at the same time, though space
+and time start getting a bit inaccurate as
+concepts at that scale.
+You can read up about that under the Pauli
+Exclusion Principle if you want more details.
+So if you fired a bunch of photons all aimed
+at the same place to arrive at the same time,
+and you packed enough energy into that spot
+to form a black hole, you’ve got one.
+Normally you’d do this with gamma radiation,
+since it has a way smaller wavelength which
+is important when you’re trying to target
+a spot smaller than an atomic nuclei.
+Now doing this would require some amazing
+precision, and a big initial power supply
+though you could draw that out by bouncing
+the stuff around mirrors or similar.
+You could also control the initial conditions
+of the black hole if your accuracy is good,
+giving it the spin, or lack of spin, you want,
+as well as an initial velocity of the direction
+and speed you want.
+Incidentally, doing it this way means your
+black hole is not a power source, it’s a
+battery, since you are feeding all the energy
+into it from some massive solar array, fortunately
+the sun puts out a billion times more power
+than hits Earth and if you were using all
+that power just manufacture the 100 Megaton
+Hill Mass black holes we’ve been discussing,
+which by good old E=mc2 have just under 10^28
+joules of Energy in them, you could manufacture
+a new one a couple times a minute using the
+total solar output.
+And it might be a battery in this context
+but since you could control its initial velocity,
+and they are capable providing significant
+thrust by themselves, that’s what the whole
+next video is about, these black hole batteries
+are very handy things for powering anything
+decently far from the sun or that’s compact.
+Alternatively a fusion reactor isn’t a battery,
+which is why I often talk about future power
+sources and just talk about them.
+But in the context of batteries, or fuel for
+ships, they seriously surpass fusion and are
+potentially way lower maintenance too.
+I talked about making small fake suns that
+orbited their planets geocentrically in the
+Shell Worlds and Disc Worlds video and these
+are sort of ideal for that task since you
+just build one, or a collection of black holes,
+of the right power output and lifetime, stick
+a shell around them of something with a high
+melting point, and dump it into a 24 hour
+orbit around the fake planet.
+Real quickly, refueling black holes, small
+black holes anyway, is harder than making
+them because dumping matter into an object
+that is smaller than an atom and spraying
+out gigawatts of power is sort of like trying
+to throw beach ball into the nozzle of a firehose
+that’s turned on.
+We’ll talk about that more next time but
+I think we’ve reached a good place to end
+for now.
+Next time, black holed powered starships,
+which is going to be a bit more sci-fi focused,
+and after that we’ll talk about theories
+for faster than light travel and communication,
+which is also going to be pretty sci-fi oriented,
+though as always we’ll keep it as close
+to hard science as possible.
+No poll this time since I already know what
+the next two videos are going to be, but I’m
+always collecting ideas for new videos, so
+please leave suggestions down in the comments
+section along with any questions.
+If you enjoyed the video, hit the like button
+and share it, and if you’re new to the channel,
+hit the subscribe button so you can be alerted
+when new videos come out and try out some
+of these other video playlists.
+As always, thanks for watching, and we’ll
+see you next time.

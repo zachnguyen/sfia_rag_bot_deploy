@@ -1,0 +1,698 @@
+﻿This episode is sponsored by Audible
+ 
+Some say Humanity’s future will be a 
+utopian era, where human effort and  
+ingenuity are focused on the betterment of our 
+fellow humans and the restoration of nature,  
+and where conflict is a barely understood 
+concept from the distant and uncivilized past.  
+Others believe that in the grim darkness of 
+the far future there will only be war. 
+   
+ 
+The history of warfare has been one 
+of constant change and innovation,  
+even before modern times where technology changed 
+so fast that each generation saw an entirely new  
+landscape. So today we will be looking at 
+what new technologies might be introduced to  
+the battlefield and what the impact might be.
+It’s easy to overestimate the scifi aspect of  
+military technological changes but it’s important 
+to keep in mind that military hardware generations  
+take a long time. Rifle, pistol, and machine 
+gun technology has changed so little in the last  
+century that many weapon designs from back then 
+are still in use, or even the weapons themselves.  
+Fighter jet generations are currently 
+around 30 years. By the end of world war II,  
+humans were sending missiles into space and 
+had nuclear weapons. All they needed to do  
+to make an ICBM was to make the missiles a little 
+larger, and the nuclear weapons a little smaller,  
+but it still took 12 years before the 
+first successful launch of an ICBM. 
+ 
+Technological developments tend to follow an S 
+shaped curve. Progress will be very slow until  
+a few breakthroughs make very rapid improvements 
+possible. After that, the technology will mature  
+and further progress in that area becomes 
+very slow. The ICBMs currently fielded by  
+the USA are just slightly upgraded versions of 
+a missile that was first fielded 58 years ago.  
+58 years before that, the Wright brothers 
+were the cutting edge of aviation. 
+ 
+Currently things like drones, 
+AI, surveillance technologies,  
+and cheap space flight are probably 
+in that rapid phase of development.  
+Armor and guns are very mature technologies. This 
+isn’t to say that it’s impossible for technologies  
+to deviate from this curve - batteries were 
+very mature but recently have experienced a  
+period of comparatively rapid improvement 
+- but it’s a pretty good rule of thumb. 
+ 
+Needless to say war is a terrible thing, 
+and we will not seek to glorify it today.  
+As someone who spent nearly half their adult life 
+in the military and over a year of it in the front  
+lines of a war, I can say what most folks who 
+have done that will say, war sucks, and it is at  
+best sometimes the lesser of evils. Only 20 years 
+in, there have already been dozens of wars, civil  
+wars, and major conflicts in the 21st century 
+and so it seems likely there will be dozens more  
+in the next century. There has been no year during 
+my lifetime in which there wasn’t a war going on  
+somewhere on the Earth, and indeed the Next 
+Century may see the first wars off Earth too.
+ 
+War in space has been more on folk’s 
+minds in recent years as we see our  
+dreams of space exploration and colonization 
+surging forward again at a rate they haven’t  
+done since the Space Race 50 years ago, so 
+that topic will get special attention today,  
+but it’s just one of many we will cover.
+The other elephant in the room for future  
+war is robots, and we will look at their 
+possible roles on the battlefield today too,  
+but this will be our first topic, asking 
+what the battlefield actually will be.  
+Prior to the 20th century that was always land or 
+sea, army or navy, and while terrains mattered a  
+lot, your two big variations in land warfare were 
+whether it involved a built up area, like a city,  
+castle, or fort, or was in undeveloped land, be 
+it a smooth field or dense jungle or the forest  
+or mountains. A key notion there, especially with 
+the invention of cannons, being whether or not the  
+combatants were trying to preserve any of the 
+enemy’s infrastructure and people, but for the  
+moment it emphasizes that each of these sorts of 
+battlefields has entirely different approaches. 
+ 
+A fight in a city is usually trying to avoid 
+blowing everything up, a fight in low Earth Orbit  
+needs to avoid fragmenting everything and setting 
+off a Kessler Syndrome event of space debris,  
+while constantly constrained by both sides 
+and all third parties being able to set one  
+off if they choose to. The former variety, urban 
+warfare, has often resulted in us going backwards  
+in our combat organization, returning to the 
+small squad and platoon sized units doing the  
+fighting instead of huge regiments and giant war 
+machines. So too, while you can put immensely  
+powerful weapons in space, as we looked at 
+a couple weeks back in Orbital Bombardment,  
+often your only route for true victory will be 
+small surgical strikes that do little damage.
+ 
+This is where we get to a notion we will call 
+Fractalization, the concept that military units  
+should be deployed at all scales. Not simply 
+unit sizes ranging from the Squad to Division  
+or larger, or from the small patrol craft to 
+behemoth warships potentially kilometers long,  
+but at the microscopic scale too, and 
+that these would generally make up the  
+numerical bulk of your forces. In the past the 
+smallest possible unit was a lone infantryman,  
+or the lone fighter plane, but things like 
+drones make that lower threshold changeable. 
+ 
+Now not all of our soldiers were human, 
+we have used a lot of animals in war,  
+from dogs and horses to pigeons and cats, either 
+in direct roles like horses carrying us into  
+battle or dogs joining in the fight to navy ships 
+keeping cats on board to deal with rat and plague  
+issues or using pigeons for messengers. We can 
+use them as a parallel for discussing the use of  
+robots of lower than human intelligence. 
+We also want to keep in mind that war and  
+conflict predate humanity, we see it in nature 
+all the way down to ant hives fighting each other,  
+and from there we can draw some ideas. We are 
+not so much contemplating biological warfare,  
+such as using viruses, as recognizing that we 
+need to be able to deploy forces at that level,  
+and might want to emulate virus strategies 
+in countering them or deploying them. So too,  
+as we often discuss in regard to nanotechnology, 
+a single species of nanobot probably isn’t ideal.  
+We want something more like an ecosystem of 
+them, and here we can potentially replicate  
+military organization down to the microscopic 
+scale, same as we have mixed force strategies for  
+deploying tanks, infantry, artillery, carriers, 
+logistical support, supply chains and so on.  
+ 
+How do you best fight a virus? Obviously 
+something much on our mind in recent times.  
+A vaccine itself is one example of nanotechnology, 
+and our own methods for dealing with it,  
+multi-front offensives and strategies, reminds 
+us that might be something we would do at the  
+nanotech scale too. One set of nanobots is your 
+recon, looking for viruses, another might be  
+your big guns, attacking heavily infected cells 
+while others try to fight off viruses entering  
+uninfected cells and still others hunting 
+around for viruses recently entering cells.  
+At the higher level you might have larger machines 
+in people’s mouths, throats, or lungs, microscopic  
+or larger, who monitored anything entering the 
+lungs and sterilized problems, for instance. And  
+those all interfacing with macroscopic systems, 
+all the way up to national or global systems.
+ 
+Speaking of viruses though, we also have the 
+computer sort and the cyberwarfare theater,  
+and that is exactly where we might need to 
+fight conflicts of just the sort I mentioned.  
+Direct attacks to steal secrets or cripple 
+someone’s computer networks are one thing we  
+need to be able to defend against, but those more 
+subtle approaches can be insidious and lethal.  
+Consider something as subtle as infecting your 
+enemy’s data mining operation for best recruitment  
+policies of soldiers. They use something to 
+help them find ideal recruits and encourage  
+them to join, and you tamper with it to instead 
+highlight folks that look ideal but show sympathy  
+to your country or cause. Or on the flip side, 
+to tamper not with who they are focusing on but  
+instead their actual recruitment, if they 
+micro-target ads, to misalign them so folks  
+were offended or discouraged by what they saw. 
+The easiest way to win wars is to sabotage your  
+enemy’s ability to fight one before a shot 
+is even fired, or a fight is even desired.
+ 
+Weapon power or armor strength remain important 
+in warfare but over the past century we have seen  
+an increase in our ability to know where 
+the enemy is to strike them or avoid them,  
+knowledge of the enemy’s locations 
+and abilities is profoundly valuable.  
+That’s the First Rule of Warfare, know where 
+your enemy lives so you can drop by for a visit.
+ 
+If you know their position and strength, then 
+given that information, any target on Earth (or  
+in orbit) can be readily destroyed. In the 1940s 
+we reached a point where even a battleship could  
+not carry enough armor to protect itself from 
+a few cheap airplanes. By the 1970s even deep,  
+ultra hardened bunkers like NORAD could not 
+provide enough protection to avoid immediate  
+destruction by high accuracy ICBMs. In the 1990s 
+bunker busting smart bombs meant you didn’t even  
+need nuclear warheads to destroy most bunkers. 
+In general bullets are cheaper than armor and  
+avoiding being hit negates a need for armor, 
+whether it's by speedy evasion or stealth.
+ 
+This trend may continue into the next century. 
+Detecting the enemy, and avoiding detection by the  
+enemy will be paramount - especially when a human 
+crew is involved. Every drone, by definition,  
+has sensors and communications, and is thus 
+a useful source of surveillance information.  
+When one contemplates fielding tens of thousands 
+or even millions of flying, crawling, swimming,  
+and orbiting drones at a time it becomes clear 
+that the problem is not one of having enough  
+data about the enemy, but rapidly and accurately 
+sorting through that overwhelming and continuous  
+flood of data for the critical tidbits needed to 
+locate and characterize targets. We already know  
+about how useless a massive amount of data can 
+be if you can't sort it properly and rapidly.  
+I say rapidly because knowing where a supersonic 
+drone was located a half hour ago is useless. 
+ 
+Almost certainly this will involve simple AI 
+routines doing the first round of sifting. Only  
+data flagged as interesting by the AI will make 
+it in front of a human, who will conduct a second  
+round of sifting before passing that data along 
+to someone who can make a decision about it. Being  
+able to trick those AI will be handy, and they 
+may be vulnerable to classic tactics like marching  
+your small army in a parade around the block 
+repeatedly to make them think you’re bigger.
+ 
+Meanwhile one must expend all possible effort 
+to disrupt the enemy’s efforts to surveil your  
+own forces, assuming you are not letting 
+them do it to feed them a pack of lies.  
+This will involve jamming and providing 
+disinformation. If your military force doesn’t  
+have particularly strong ethical concerns, 
+you will likely disguise your military units  
+as civilians - for example, by having your 
+drone radio traffic mimic cell phone traffic,  
+or putting shrouds on your ground drones 
+to make them look like civilian vehicles. 
+ 
+Communications will almost always be conducted 
+by the most tightly focused beams available,  
+be that by laser, maser, or beam forming radio or 
+sonar. Units will use the minimum power possible  
+to still convey the message. Communications will 
+always be encrypted and unlike in the scifi,  
+the encryption will be unbreakable in practical 
+terms. Even if quantum computers become  
+ubiquitous, this won’t change that fact as quantum 
+resistant encryption schemes already exist. 
+ 
+I mentioned fractalization in warfare, 
+the ability to deploy units at all scales,  
+be it big or microscopic, but there’s also the 
+need to do it in all dimensions, as it were,  
+taking your warfighting capacity into virtual 
+space. That will also continue to be a great  
+place to prepare for war too, and militaries 
+often explore or utilize games as a way of  
+recruiting or training, all the way back to 
+encouraging various sports like archery over  
+those with less obvious battlefield usage. That’s 
+the First Rule of warfare, Train the way you fight  
+because you’ll fight the way you were trained. 
+These too can be hijacked, subtly inserting flawed  
+training, or putting out free games that appealed 
+to more peaceful pursuits. Victory in warfare most  
+often goes to the folks that planned way ahead and 
+thought outside of the box, and if you put out a  
+very popular game or movie that predisposes 
+folks to think conflicts are best conducted  
+by defeating the foe economically or by 
+prestige of sports or best research academies,  
+that could pay dividends down the road. Possibly 
+by making folks more inclined to less violent  
+conflict, which I think most of us would agree 
+was preferable, or alternatively by making them  
+highly vulnerable to attacks the game or media 
+convinced them were generally ineffective. They  
+just never believed you do something as stupid 
+as roll tanks over their border and sieze their  
+capital, after all it would be a public relations 
+disaster. Anyone who's been involved in strategy,  
+war strategies or other types, can testify how 
+often ideas are dismissed or ignored because  
+“everybody knows” something does not work, until 
+someone makes it work and catches everybody off  
+guard. As the saying goes, common sense isn’t too 
+common, but common sense is also often wrong. 
+ 
+Going back to fractalization, another reason it 
+would be nice to have units smaller than a single  
+human is that things can often “punch above 
+their weight”, like a lone sniper crippling  
+a whole battalion by shooting their leader. 
+Theoretically that only costs you one bullet,  
+but it requires training a sniper both to 
+shoot and to sneak in and out of place,  
+and you gamble them every time you use them. A 
+drone rifle controlled from far away gambles a  
+lot less, and a self-propelled micro-missile 
+able to home in on a target from another  
+continent potentially gambles even less. 
+Not all conflict takes place on a classic  
+battlefield either, indeed civil wars make up a 
+huge portion of modern conflicts and casualties.  
+How big does a drone need to be to have 
+a camera on it and a GPS sensor and wifi,  
+so it could facial ID its target and zip in 
+and get them in the middle of a crowded city?
+ 
+Does it even need to be bullet-sized? What 
+about a piece of ordinance small enough and  
+sharp enough to just sever someone’s spinal 
+cord? Or to sting them like a mosquito and  
+inject them with a deadly or disabling toxin 
+or even self-replicating nano-machines, or even  
+something which might brainwash them or drive them 
+nuts? One drone is probably much smaller, cheaper,  
+and dumber than a person. By this same logic, one 
+such drone is probably vulnerable to even smaller,  
+cheaper, and dumber drones 
+designed for attacking them. 
+ 
+We discussed before in our Giant Robots & 
+Power Armor episode that future soldiers  
+might tend to be accompanied by a small swarm of 
+robots and drones who were effectively part of  
+that soldier’s arsenal and defense, that can be 
+micro-sized too. Indeed as we discussed in our  
+Force Fields episode, one way to replicate the 
+purpose of the personal force fields we see so  
+often in science fiction would be to have 
+swarms of tiny drones around the person,  
+able to attack incoming weapons or just throw 
+themselves in front of them to take the hit.
+ 
+Smart Swarming is likely to be critical to using 
+such drone swarms. The ability to use drones  
+in large quantities lets you minimize the loss 
+of human life on your own side. Casualties are  
+demoralizing to the civilian populace. Reducing 
+casualties means increasing training and improving  
+equipment. Increased training increases the cost 
+of replacing a dead soldier, as well as the time  
+required to do so. Improved equipment is 
+more expensive to procure and maintain.  
+These costs increase exponentially with 
+each new generation of technology.
+ 
+All of that changes with the advent of the drone. 
+Folks back home don't care about drone casualties.  
+If you think a lot of drones will die on a 
+given mission, you can just send more of them.  
+This radically changes the engineering 
+requirements of unmanned systems when  
+compared with their manned equivalents. Manned 
+systems such as fighter planes, tanks, and  
+submarines need multiple redundant systems, with a 
+proportional increase in maintenance requirements.  
+Unmanned fighter jets don't need 
+ejection seats and life support systems.  
+Unmanned tanks don't need very much armor. Since 
+most of the size and weight of a tank is armor,  
+that means unmanned tanks become small and light. 
+Unmanned submarines don't need life support  
+systems and their mission duration is no longer 
+limited by the amount of food they can carry.
+ 
+A cheaper, unmanned unit might be only 50% as 
+effective as state of the art manned units,  
+but cost only 25% as much. This would mean that 
+overall force strength of an unmanned force  
+can be double a manned force for the same price. 
+What’s more, with better automation for fighting  
+you also presumably have better 
+automation for manufacturing too.  
+A military drone might be very expensive but 
+if it's being built by a manufacturing drone,  
+probably much less expensive. And this lets 
+you start fielding vast numbers of them.  
+Though this raises the issue of how 
+you control them and how you fuel them,  
+especially for small ones.
+Fielding enormous numbers of  
+cheaper units consumes huge quantities of 
+fuel though. The principle of smart swarming  
+suggests replacing those petrochemical 
+engines with solar panels and batteries.  
+Combat effectiveness decreases, but effectiveness 
+per dollar increases even further. Tactics are  
+shifted. Solar powered drone swarms with batteries 
+make excellent ambush and denial of area forces,  
+as they can lie or fly in wait for weeks at a time 
+with virtually zero logistical support. Nor should  
+we overlook the usefulness of RTGs, radioisotope 
+thermal generators, as a power source,  
+especially for things with long usage times but 
+low power draws, like detection or defense uses.
+ 
+Another solution is the use of fuel efficient 
+drone carriers to deliver the drones to the  
+battlefield. Drone carriers need not be especially 
+well armed or defended as their drones can serve  
+that purpose more than adequately. Here too our 
+fractalization notion can come in, with drone  
+carriers full of controlling software and drones 
+that are carriers for yet smaller drones and so  
+on, potentially several varieties too, such as 
+those focused on a certain type of attack or  
+defense, or a purpose like repair or scouting. 
+They probably would not be manufacturing on-site  
+replacements and resupply though, as we often 
+see in video games, it will almost invariably  
+be better and easier to always keep your 
+hardware production far behind the front line.
+ 
+If a military force has been built 
+to handle the massive data influx,  
+drone swarms greatly increase the quantity and 
+quality of military intelligence as well. 
+ 
+While drone swarms can often ignore attacks 
+against individual units, it is critical  
+that the design of a drone swarm not make it 
+vulnerable to single-attack-many-kill weapons,  
+or AOE. Unshielded drone swarms can be knocked 
+out by EMPs. Radio controlled swarms can be  
+rendered worthless by jamming. Swarms entirely 
+dependent on GPS for navigation are vulnerable  
+to GPS jamming/hacking. Laser systems can be 
+rapidly re-aimed to target numerous small targets,  
+and can be quite deadly against unarmored drones.
+This is where the "smart" part of smart swarming  
+comes in. Drone hardiness vs. 
+single-attack-many-kill or AOE  
+weapons must be increased as much as possible 
+without increasing the dollar cost very much.  
+EMP shielding can be very cheap as 
+it is mostly a matter of engineering.  
+Drones should use GPS when it seems trustworthy, 
+but be smart enough to ignore it when not.  
+They should be designed with at least rudimentary 
+optical and inertial navigation systems to augment  
+GPS, or with the ability to fall back out of 
+the fight if they encounter such tactics. 
+ 
+Drone swarms should keep themselves highly 
+dispersed, to reduce the danger from large  
+warheads and rapid laser systems. Use of cover and 
+concealment are of further advantage against many  
+weapons, especially lasers which have limited 
+ability to penetrate light brush or weather.  
+Light and cheap reflective and ablative coatings 
+can greatly increase the hardiness of drones  
+against laser attack. This is also where the 
+desire for variety and diversification helps,  
+a rock-paper-scissors analogy is an 
+oversimplification but conceptually  
+you might have 3 or 4 principle attack 
+methods and 3 or 4 defense methods,  
+and only give each drone one or two of each, thus 
+ensuring you always have some drones available  
+with the ideal attack and defense combinations.
+Integrating your drones in with conventional  
+forces will obviously be tricky, but I would 
+stress that you are integrating not replacing.  
+In many cases you couldn’t afford the risk of 
+your operator remotely controlling the drones  
+from a bunker ten thousand kilometers 
+away, subject to jamming or interference  
+along that entire information pipeline, as 
+vulnerable as any long supply chain to attack.
+ 
+We also don’t have human-intelligence machines and 
+might be rather reluctant to employ them in war,  
+compared to something of a more animal level 
+of intelligence, in which case a soldier on  
+the ground controlling or directing the swarm 
+might be needed. You need this smooth operation  
+with people anyway since you are likely to 
+want to use them near your own population,  
+to defend against attacks on 
+civilian centers or integrate  
+with law enforcement and counter 
+espionage and terrorism units.
+ 
+If you are using smart bots to control dumber 
+smaller drones, latency might be an issue too.  
+Human reaction rates are slow enough that light 
+speed lag is irrelevant anywhere on the planet,  
+but if your drones are acting and reacting 
+to other drones in periods of milliseconds,  
+then a drone controller half a planet away 
+might be too slow, so you would potentially  
+need nearby command and control, potentially 
+in the form of Low Earth Orbit Satellites.
+ 
+Speaking of Satellites, they have obviously 
+played a growing role in warfare in modern times,  
+and will continue to do more of that role in 
+the next century, but may also add in the role  
+of anti-satellite capabilities becoming more 
+prominent as well as the orbital bombardment  
+options we talked about a couple weeks back. That 
+said, do not expect folks to be running around in  
+spacesuits or space fighter jet equivalents in 
+this next century. We may need handfuls of elite  
+forces ready to deal with hijacked facilities or 
+satellites, or to hijack them, but while virtually  
+every war humanity will fight in the future will 
+involve outer space in some way, the time hasn’t  
+yet come where significant physical warfare 
+will take place there. Expect nations to begin  
+developing this capacity in coming decades, but 
+mostly in a theoretical sense, with space-based  
+military effort being mostly focused on 
+deploying, protecting, or destroying satellites. 
+ 
+Here too the policy of punching over your weight 
+comes into play, it only takes a tiny, cheap  
+satellite to blow up a big, expensive satellite. 
+In general things orbit the Earth at around 8  
+kilometers per second, and you can arrange for 
+one in a reverse orbit to collide at that speed,  
+so an anti-satellite weapon or ASAT can strike 
+at 16 kilometers a second or carrying more than  
+hundred times the kinetic energy of a rifle bullet 
+of the same mass. Meaning if you could imagine  
+breaking something by unloading a few magazines 
+out of an assault rifle at it, then a single  
+bullet sized ASAT would do the same damage. 
+You can also attack an ASAT with something even  
+smaller than that. However I suspect the critical 
+thing to space warfare in the next century  
+will be attempts to develop weapons that minimize 
+debris, since not only can orbital debris you  
+made damage your satellites and facilities 
+as well as the enemy’s, they can also damage  
+neutral third-parties satellites and facilities, 
+potentially including manned or even civilian  
+facilities. Since the First Rule of Warfare 
+is to avoid making enemies out of friends,  
+it is critical any nation wanting to build a 
+military presence in space be able to demonstrate  
+that capacity is constrained to minimize 
+collateral damage. One example might be that  
+instead of a simple ASAT that rammed the target, 
+you had a drone that could latch onto it and  
+shove both down into the atmosphere to burn up, or 
+simply cut a wire or burn out a critical chip. 
+ 
+We talk about the future of war being in space, 
+but another dark and empty theater of war that  
+is in play is the ocean depths. Submarines were 
+critical components of the two world wars and  
+to the Cold War, and remain very useful for 
+sneaking large objects close to an enemy and  
+also protecting them from attack. This is one more 
+area where drones will be very useful for attack,  
+defense, and recon. However we should also 
+always remember that War tends to follow people  
+and money. Navies are already critical to warfare 
+but as we begin seeing more internet trunk lines  
+across the ocean floor, more development of 
+Seasteading and ocean-based rocket launches,  
+and more efforts at artificial island 
+construction or colonizing or farming our oceans,  
+the need to be able to defend and protect 
+them, or attack them, will grow. 
+ 
+That’s maybe the most important thing to 
+keep in mind about the Future of Warfare.  
+In our Earth 2.0 series we began by looking 
+at Seasteading and Colonizing the Ocean,  
+but also looked at colonizing the arctic and 
+deserts and even underground or in floating  
+cities in the sky. So too, the entire notion of 
+war in space has to do with us colonizing it.  
+Where people go, war is likely to follow, so if 
+the next century sees resource disputes in the  
+Arctic or Antarctic, or colonies in those places, 
+military strategy will need to evolve to focus  
+on those places too. If we deploy 
+vast power satellite arrays in orbit,  
+or if we build kilometer-wide solar shades by the 
+thousands to help with climate control, then we  
+must be able to protect them, even if just by the 
+threat of retaliation against someone else’s. 
+ 
+It’s a sad reality that War is probably not 
+going away anytime soon, and is likely to be a  
+passenger aboard every colony ship we send out 
+from Earth in the century’s to come, but often  
+the best way to avoid a war is to prepare for it, 
+that is the first rule of warfare after all.
+ 
+ 
+So it’s time for our Audible Audiobook of the 
+Month, and I’m particularly glad to recommend this  
+month’s winner as having been written by a member 
+of the SFIA family, longtime SFIA editor Jerry  
+Guern and his novel “No Moon to Pray To”.
+ 
+“No Moon To Pray To” by our own Jerry Guern  
+is a fantasy horror romp set in the era of 
+the Crusades, and it’s our Audible AudioBook  
+of the Month. I listened to the pre-release and 
+thoroughly enjoyed it. There were parts where I  
+just couldn’t stop listening, and it's definitely 
+been my favorite novel for 2021 so far.
+ 
+ 
+As mentioned, Jerry is one of our longtime editors 
+on SFIA, and he’s cowritten several episodes like  
+Space Whales, Void Ecology, Non-Carbon Based Life, 
+and most recently Zero-Gravity Civilizations.  
+“No Moon To Pray To” brings together everything I 
+like about Jerry’s writing style. It’s face-paced,  
+nail-biting, intertwined in some truly 
+imaginative ways with real history,  
+and occasionally rather profound. Some 
+months back I encouraged him to try  
+recording and uploading his material, 
+and it is now available at Audible.
+ 
+Audible has the largest collection of Audiobooks 
+out there, indeed it is so large you could hit the  
+play button and still be listening to new titles a 
+few centuries from now, and as an Audible member,  
+you will get (1) credit every month good for 
+any title in their entire premium selection—that  
+means the latest best-seller, the buzziest 
+new release, the hottest celebrity memoir  
+or that bucket list title you’ve been meaning to 
+pick-up. Those titles are yours to keep forever  
+in your Audible library. You will also get 
+full access to their popular Plus Catalog.  
+It’s filled with thousands and thousands of 
+audiobooks, original entertainment, guided  
+fitness and meditation, sleep tracks for better 
+rest and podcasts—including ad-free versions of  
+your favorite shows and exclusive series. All are 
+included with your membership so you can download  
+and stream all you want—no credits needed.
+And you can seamlessly listen to all of those on  
+any device, picking up where you left off, and as 
+always, new members can try Audible for 30 days,  
+for free, just visit Audible dot com slash 
+isaac or text isaac to 500-500. 
+ 
+So the last few weeks we’ve been contemplating 
+colonizing the stars and warfare, and next week  
+we’ll mix the two up in our episode, “Killing 
+Stars” coming out on Thursday, March 11th.  
+Then we’ll take a look at civilizations living 
+without stars that weekend in our mid-month  
+Scifi Sundays episode, Exo-Stellar 
+Civilizations, on March 14th. 
+ 
+If you want alerts when those and other episodes 
+come out, make sure to subscribe to the channel,  
+and if you’d like to help support future 
+episodes, you can donate to us on Patreon,  
+or our website, IsaacArthur.net, which are 
+linked in the episode description below,  
+along with all of our various social media forums 
+where you can get updates and chat with others  
+about the concepts in the episodes and many other 
+futuristic ideas. You can also follow us itunes,  
+Soundcloud, or Spotify to get our 
+audio-only versions of the show.
+ 
+Until next time, thanks for 
+watching, and have a great week!

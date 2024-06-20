@@ -1,0 +1,659 @@
+Force fields are a staple of science fiction,
+they’re in almost every story, yet they’re
+assumed to be impossible.
+Today we’ll challenge that assumption.
+When I was getting ready to do this episode
+I started looking around for all of the discussions
+I could find examining force fields in a more
+scientific context, but there weren’t many
+left to be considered after weeding out a
+ton that were just pseudo-science click-bait
+and hype.
+They tend to be great examples of Betteridge’s
+Law of Headlines which states that any news
+article headline ending with a question mark
+poses a question to which the answer is ‘No’.
+Alternatively, when I reviewed classic science
+fiction I couldn’t find many stories and
+settings that didn’t have some sort force
+field in them.
+They are rather ubiquitous, for something
+that hasn’t got much basis in known science.
+Part of that might come from their origin,
+they were popularized very early in science
+fiction and once a piece of tech shows up
+in a Sci-Fi classic it’s safe territory
+for other writers to use.
+Part of it though I’d guess is just the
+sheer power of weaponry at the end of World
+War II.
+With atomic bombs in play you need something
+stronger than armor to resist them because
+nukes beat matter every time.
+And of course they were just mind-blowingly
+cool when portrayed in movies like “Forbidden
+Planet”.
+That’s worth remembering too, force fields
+and energy beams are a very easy special effect
+to do in pre-computer times that looks awesome,
+and damage to your shield doesn’t require
+smashing up the scenery or expensive spaceship
+models.
+Now regarding the topic of natural force fields,
+they are real enough, which sometimes causes
+some confusion.
+We have 4 fundamental forces that control
+the interaction of matter in this: Gravity,
+Electromagnetism, and the Strong and Weak
+Nuclear Forces.
+These do have force fields, and if you can
+manipulate those you can affect stuff trying
+to pass through them.
+Indeed, NASA and others have been looking
+at how to use magnetic fields to protect spaceships
+from radiation for a long time and have made
+a lot of progress at using these fields to
+keep out harmful particles.
+This is our first big problem with forcefields,
+you usually want stuff like air and light
+to move through them, so you can see what’s
+going on and keep breathing, but if you’ve
+got a forcefield that lets light through,
+it would seem like it ought to let a laser
+through too.
+Not a very practical shield if you can’t
+see the people shooting at you, but also not
+very useful if they can zap you right through
+it.
+In the classic Sci Fi series Dune, by Frank
+Herbert, we’re introduced to personal forcefields.
+He gets around the light issue by the laser
+guns having a weird interaction with them
+that sets off a nuclear explosion killing
+both people, so no one uses the one on the
+other.
+He also has the shield designed so that only
+slow moving objects can pass through, thus
+air gets through but bullets and fast knives
+do not.
+In the book, the idea that “the slow knife
+penetrates the shield” serves as a reminder
+to be observant of where you are in time and
+space, it’s a fairly deep and philosophical
+book.
+Plus, he presumably wanted to capture and
+highlight the feudal aristocracy feel of the
+series with knife and sword fights, so how
+it works doesn’t actually matter but this
+is common in general for personal shields
+in fiction... except that in this we have
+a problem...
+We think of air moving rather slowly, even
+a strong gust of wind moves a lot slower than
+a baseball, let alone a bullet, but in fact
+air particles themselves individually move
+quite quickly.
+Those particles are usually zipping around
+a bit faster than the speed of sound, meaning
+they aren’t getting through unless many
+bullets would, and while we generally make
+bullets that travel between Mach 2 and Mach
+3, you can use a heavier bullet travelling
+a bit slower to do the same damage, and all
+of our favorite melee weapons like clubs,
+swords, and axes are sub-sonic too.
+If we try to argue that only large chunks
+of matter, not small particles, actually count
+toward that barrier, then we have to worry
+about particle beams, or maybe just someone
+just shooting us with a water gun.
+One that vaporizes the water into steam on
+the way out, which is perhaps not practical
+as a long range weapon, but very painful and
+effective at closer quarters.
+The same holds for a flamethrower as well.
+Now those don’t really matter for the purposes
+of the story.
+Dune, after all, has a ton of plot holes when
+you think about the science, but it is still
+one of the best science fiction series ever
+written.
+Still it is those kinds of issues which we
+need to think about when contemplating force
+fields.
+We might be putting the cart in front of the
+horse here though.
+Before we discuss what you can use the technology
+for, it’s worth pondering whether we can
+actually achieve the technology one day.
+However, to do so we need to first understand
+what this technology is, in terms of its properties,
+to discuss it.
+What force is the field producing and controlling?
+What goes through and what doesn’t?
+The perfect classic force field stops everything,
+and I think are so popular in TV and films
+because beam weapons and force fields are
+very easy and safe special effects compared
+to bullets, explosions, point defense systems
+and so on.
+As I said earlier, it’s very expensive to
+smash holes in your spaceship when it is a
+real model someone assembled from plastic
+and glue.
+These days we tend to see more of each, indeed
+we often see rock, paper, scissors systems
+in video games.
+For attack they have projectiles, beam weapons,
+and missiles; for defense armor, force fields,
+and point defense, with some working better
+against others.
+This is probably a better approach to consider
+though, and I don’t mean because it is more
+interesting than just beam and shields, but
+because we can more easily contemplate a shield
+that works against something specific.
+As an example of this we have the Plasma Window,
+something we discussed using in the Mass Driver
+episode to keep air out of the device, which
+is essentially a big long tube you want to
+keep as a vacuum.
+It is actually pretty simple in concept, though
+harder to get working.
+Plasma is one of the four basic states of
+matter along with liquids, gases, and solids.
+While plasma itself is electrically neutral,
+just like most matter, its constituent material
+is all separated and ionized.
+That means it all responds strongly to magnetic
+fields, so we can keep it bouncing around
+inside a magnetic field that we control.
+If air tries to get in there it gets pushed
+away, for the same reason cold air has problems
+getting into a warm room, if none of the hot
+air inside can escape.
+Plasma is very hot, so if you keep a pocket
+of it at normal pressure or higher, other
+gases won’t enter, so it acts like a force
+field against them.
+But large fast objects can move through easily
+enough, though you wouldn’t want to stick
+your arm in a plasma window unless you need
+a quick tan or really want third-degree burns.
+Something like this isn’t a bad personal
+shield since punching folks through one isn’t
+a great idea, but it won’t stop bullets
+and it won’t stop lasers; it might stop
+particle beams.
+This type of shield, improved enough that
+you could carry one around on your belt that
+forms a protective cocoon around your body,
+would let them walk around on an airless planet
+without a spacesuit, though sunscreen would
+probably be a good idea.
+It would also let you have airlocks on spaceships
+without needing to pump the air out or lose
+it.
+Flick on the plasma window, open the airlock
+door, jump through.
+We have the technology for this now, it’s
+rather basic and energy consumptive, but it
+works.
+Could you ramp this up?
+Use it to contain so dense a plasma that a
+coherent laser couldn’t get through and
+bullets and such would be incinerated?
+Possibly, maybe a series of toroidal rings
+around the person or object like a stack of
+donuts full of dense plasma.
+Such a thing ought to be a monstrous energy
+hog, but we can’t rule it out, and trying
+to get a field that can do just that is the
+basic concept behind a Tokamak fusion reactor.
+So a civilization with compact fusion reactors
+that worked this way might be able to do it.
+Problem is, the thing glows rather brightly,
+it is superheated gas, and with a color based
+on that gas, we use it for making light after
+all.
+Those really nice plasma TVs aren’t called
+that as a marketing gimmick, they use plasma
+to make the various colors.
+If you are running one at high enough energy
+and density to be vaporizing bullets or scattering
+lasers beams you ought to be glowing like
+a lighthouse, which is not what you want if
+you’re the guy standing in the middle of
+it, since it would probably vaporize you too.
+You might stick it on a big ship with reflective
+sides, which would also help against a laser,
+but you’d be a pretty big target.
+Of course to be fair, as we said in the Space
+Warfare episode, there’s no stealth in space
+anyway so it’s not like it matters if they
+can see your shields.
+Also hard to see outside such a thing.
+We get that issue with opaque shield or cloaking
+fields in sci fi a lot, the two obvious workarounds
+would be a thin wire through the shield with
+a camera on it, or flicking off segments very
+quickly to get a look, and doing so in a random
+fashion so the enemy can’t determine the
+frequency and pattern you’re doing that
+at to sneak something through.
+That last works fine if you can turn the shield
+off in places and turn it right back on again
+real quick, which you can’t really do with
+a plasma window for instance, since you need
+to have a reservoir of gas to be the plasma,
+and inject it in there and heat it up.
+Shut the field off and it takes a little time
+to disperse for you to see through.
+The wire through the shield to a camera is
+a little trickier, not because those cameras
+will get blown up a lot, cameras are small,
+wires are small, treat them as expendable
+and send more.
+Rather because that wire needs to be insulated
+against the shield somehow and if you can
+insulate the wire against the shield, you
+can insulate a projectile slamming through
+the shield too.
+Which is fine if you want to send bullets
+out at whoever is attacking you, so you don’t
+have to flicker your shield, but presumably
+they can insulate their bullets coming at
+you too.
+Classic problem of course, we get a technology
+that makes a good weapon or defense and then
+someone spends their energy trying to use
+that same technology to defeat that tech,
+and you often can.
+Steel armor is better than bronze or leather
+armor, but if you can make steel armor you
+can make steel weapons, and a knife or arrowhead
+uses a lot less steel than a suit of full
+plate.
+Regardless, the plasma shield concept has
+some real possibilities, even in the near
+future, but doesn’t seem a great candidate
+for the classic sci fi forcefield.
+It’s an option, but can we do better?
+Real objects feel solid because of the Electromagnetic
+Force between particles and the Pauli Exclusion
+Principle that keeps them from occupying the
+same place.
+We saw in our discussion of active support
+in the Upward Bound series that while we can
+use this to provide passive support to an
+object, just as a cup sits on a table or a
+coat hangs from a hook, we can project particles
+at something to keep it in place.
+It can work as well or better in some cases
+as sticking supports under something.
+The idea of levitating matter kilometers up
+in the air can seem a bit counter-intuitive
+but it works, and you can see a real life
+demonstration of this over at Cody’s Lab,
+he kept a pie tin levitating quite high on
+a simple stream of water.
+If we can do this constantly, to replace big
+metal supports, we can also do this in a very
+short term and pinpoint fashion.
+Something attempts to enter ‘the field’
+and instead of an impenetrable wall of force,
+it simply pushes back against that object
+in a carefully calculated way.
+Possibly using a reservoir of pushing material,
+possibly a closed loop, or possibly using
+material already present, like the air.
+A lot of folks will remember articles a couple
+years back about DARPA or Boeing having a
+for-real forcefield, and it’s kind of true,
+in a pretty literal way.
+What kills a lot of soldiers isn’t bullets,
+armor is actually quite good at stopping those,
+but traditionally in modern warfare it’s
+explosions that get most people.
+When an explosive goes off you have a big
+shock wave and shrapnel.
+What this sort of force field is doing is
+trying to attenuate that shockwave force,
+and modern electronics and computers can move
+very quickly, something that we need to consider
+when looking at these concepts.
+An explosion goes off near a vehicle, it is
+moving very fast but not at light speed, nothing
+like it.
+So that explosion can be detected before it
+hits, and the vehicle emits a powerful burst
+to turn the air between the vehicle and the
+approaching shock wave into a plasma-like
+medium, disrupting the shockwave.
+Conceptually, this is a lot like reactive
+armor or an airbag, and we can consider airbags
+a type of shield too.
+We don’t live in the 1940s when sci fi was
+all about rockets and rayguns, and computers
+were huge things that took up buildings.
+We live in an era where computers are tiny
+and fast.
+One where we can consider stuff like point-defense,
+not just shooting missiles down, but maybe
+even tiny bullets.
+So instead of the classic force field, maybe
+you are walking around with a ton of tiny
+lasers or guns on you, each automatically
+controlled.
+Instead of needing a shield that lets particles
+of air through, you’ve got a smart system
+that only turns your protection on the instant
+it needs it, and better yet, the place where
+it needs it.
+Someone goes to stab you and the shield only
+pops up in the exact place to intercept it
+or at the right spot and angle to deflect
+it away.
+If we don’t have that, maybe we can mimic
+that with a bunch of small point defense.
+It detects a bullet, it shoots the bullet
+with a tiny one to deflect and fragment it.
+Now it normally couldn’t intercept a laser,
+but it might be able to detect that one is
+aiming at you and shoot something in the way
+to intercept and diffuse it.
+We don’t have many laser weapons yet, we
+use them with a lot of weapons, but they’re
+not a great anti-personnel weapon by themselves
+unless you have either a very compact and
+high-power generator or some really awesome
+batteries.
+Lasers, even modern ones, aren’t too efficient
+and batteries don’t tend to store a lot
+of power nor discharge it too quickly, so
+chemical based propellants, firearms, are
+still a lot better.
+If that changes, we’ll start seeing laser
+guns.
+Realistically, you kind of need stuff like
+that for a forcefield too though, so if you’ve
+got personal forcefields you probably have
+man-portable laser and particle weapons.
+We can deflect a particle stream magnetically,
+but a laser is harder.
+What stops a laser?
+Well a laser is composed of photons, but they
+are the carrier for the electromagnetic force.
+And while they transmit it, they aren’t
+affected by it.
+No magnetic shield is going to stop a laser.
+Gravity can, it bends light and can red or
+blue shift it, so if you had some way to generate
+gravity, or better yet, anti-gravity, you
+could have a field of that which could redshift
+a laser beam down so it was too weak to hurt
+you.
+Better yet, instead of an omnidirectional
+field, maybe a beam or focused blast of it
+to just redshift the area the beam is entering.
+But if you do have gravity and anti-gravity,
+then you also probably have a new kind of
+weapon to contend with as well.
+Since we don’t have any way to generate
+gravity, besides raw mass, and anti-gravity
+is one of those topics that occupies the hazy
+area of physics, while anti-gravity would
+be a massive game-changer technology, we’ll
+save discussing that for another time.
+In the absence of that, we can use reflective
+armor, or even reactive armor that explodes
+when punched.
+That’s handy for stopping projectiles, an
+explosion that pushes back against the incoming
+projectile essentially, but those also put
+lots of vaporized matter in the way that diffuses
+an incoming laser beam too.
+Alternatively, we have the option of shooting
+that out away from us, in between the beam
+and the target.
+A tiny mirror that gets in the way or a pocket
+of gas to disrupt and absorb the beam.
+Notice though that we keep talking about focused,
+smart defense, not some big dumb bubble around
+you.
+Partially because that seems to be what physics
+allows us, but mostly because it’s smarter.
+Instead of a big bubble on all the time, burning
+power, something that is pinpointed in time
+and space.
+That’s rule number one of warfare, smart
+beats dumb every time.
+It doesn’t replace armor and neither should
+a force field, since nothing quite replaces
+the value of lots of dumb matter in the way
+to absorb damage, but there’s always a cost
+to that.
+Walking around in body armor is exhausting,
+even the modern light weight stuff that’s
+flexible.
+If you ever need to lose weight fast, grab
+yourself a nice Kevlar vest and ballistic
+plate and go jog around for a few hours, builds
+muscle and burns fat, through a treadmill
+is better for the back.
+But whether we’re talking about body armor
+or vehicle armor or armor on spaceships, it
+slows you down and makes you less agile.
+This is a big no-no under rule number one
+of warfare, which is to avoid getting hit.
+So some system, like a suit of liquid armor
+that could detect an approaching impact and
+flood the spot with the fluid, or a personal
+point-defense system that could shoot stuff
+out to block a hit like a classic shield,
+would help.
+And by classic shield, I mean old school,
+a thing that gets in between you and the other
+thing trying to kill you, not a forcefield.
+So in some ways, we’re seeing that even
+if a forcefield is possible, it maybe isn’t
+what we ideally want anyway, not unless it
+only expends energy when it gets hit.
+Ultimately though, to get a real force field,
+we want technology that can play with gravity
+or inertia in a very significant and controllable
+way.
+But let’s say we have something like that?
+What is it good for besides keeping you from
+getting killed, an application that admittedly
+is quite valuable even if you can’t use
+it for anything else.
+We have the obvious use, instead of using
+armor you use shields, but you can take that
+a step further and replace your hull entirely
+with forcefields.
+I mean the point of spaceship is to keep the
+air in and keep the radiation out, so a bunch
+of force fields do the same thing.
+Unless we’re sticking to the notion of some
+magic single bubble you’d presumably have
+lots of individual ones and backups that could
+kick in if a chunk of pseudo-hull fails.
+I think you’d still want some actual hull
+as an extra backup and to keep folks from
+going insane at the thought of them failing,
+but you could keep it to a minimum thickness.
+This lets you do much better with active support
+structures too; we discussed those in the
+Upward Bound series and this is basically
+the same concept, instead of needing a big
+foundation and pylons to hold a building miles
+up in there, it’s just resting on a forcefield
+instead.
+Fundamentally a lot of our limitations on
+doing things don’t come from basic physics,
+but rather from all the engineering constraints
+placed on us by the fundamental limits on
+material strength from chemical and atomic
+bonds, or getting rid of all the heat built
+up doing stuff.
+That’s an issue for stuff like star lifting
+for instance, the process of magnetically
+scooping matter off a star that we’ve discussed
+before.
+You need to be close to a star to do that,
+and stars tend to be rather hot.
+We can use magnetic fields to deflect away
+charged particles like plasma hitting stuff
+near a star and make the exposed surface very
+reflective so light doesn’t heat it up,
+but that’s very tricky to get just right,
+so you can put stuff near a star.
+A force field alters that equation a bit,
+though it depends on how it works.
+Heat buildup tends to be a big handwave with
+sci fi force fields.
+If you’ve got some shield that can shrug
+off atomic blasts hitting your spaceship and
+energy beams that could roast cities, where
+exactly is all that energy and heat going?
+Is it bouncing away?
+Ought to be giving your ship a big shove in
+the process even if you can bounce it all.
+Or are you absorbing it?
+If so, where to?
+Your ship?
+The energy released in an atomic blast, even
+if you can distribute that all evenly so it's
+just heat added to your ship, would probably
+be enough to roast every person on that ship.
+So if we’re assuming it can deflect nuclear
+blasts and their energy, you’ve got something
+that can let you casually fly into a star,
+or at least hover right over one.
+If it’s good enough to let you go hang out
+in stars, that’s a pretty neat place to
+hide stuff, like entire civilizations.
+Which is out topic for next week.
+Force fields are a lot like replicators - the
+ones from Star Trek that make stuff, not the
+ones from Stargate which, actually, also make
+stuff but mostly more of themselves and in
+a hostile, Grey Goo fashion not a Tea, Earl
+Grey fashion – but force fields are like,
+replicators, the more you think it about the
+more you come up with stuff it can do that’s
+so awesome it kind of spoils the show when
+you think about it.
+Replicators are a lot like a magic lamp with
+a genie, your first wish is for more wishes
+and the first thing you replicate is another
+replicator and the power plant that runs it…
+which is more or less how the Stargate Replicators,
+Grey Goo, and von Neumann machines work.
+Then you tell half of them to keep replicating
+and the other half to build stuff, like spaceships
+with forcefields.
+You can use a forcefield to make a window,
+we also often consider walls with TV screen
+that are so high resolution they can just
+switch from showing you the news to the outdoors
+just like you were looking through a window,
+but you can probably tune a forcefield to
+act like a TV too.
+I mean if it can block light, it can presumably
+do that selectively.
+Or a set of speakers, after all sound is just
+vibrating waves.
+So maybe your personal forcefield isn’t
+protecting you, it's cloaking you and making
+a decoy that looks and sounds like you a few
+feet away.
+Gives you the option for very realistic holograms
+too.
+Things you can see and hear and touch, and
+also lets you remotely control stuff a lot
+more intuitively than piloting a robot drone.
+Maybe you don’t use steel plows on farms
+anymore, just run some force fields through
+them to churn the Earth instead, maybe that’s
+how you plow snow off the roads in the winter.
+Maybe you pop them up over roads to bounce
+the snow away in the first place.
+You don’t carry an umbrella, one just pops
+up over your head and shoulders, or over the
+boulevard, all of the fun of walking in the
+rain without the wet clothes.
+No soft mattress or gel padding, your bed
+is a forcefield that tunes to right comfort
+and support, the soles in your shoes carefully
+absorb the impact of your steps better than
+gel or rubber.
+You don’t break your ankle jogging over
+a groundhog hole or your car axle driving
+over a pothole because your shoes or car see
+it and drop a forcefield right there, you
+don’t slip on the ice because it makes that
+spot have friction and tread.
+Your handy personal forcefield keeps out bad
+odors from your personal air from folks who
+went jogging, but skipped on a shower.
+You maybe don’t need sunscreen either because
+it keeps ultraviolet light off you, but not
+the rest, good way to heat and cool your house
+too, or your planet, if you can selectively
+tune what wavelengths of light can pass through
+or reflect, or what speed of particles can
+get through and what can’t.
+Come to think of it, if you can selectively
+let only certain speeds of particles through
+while bouncing others back, you might be able
+to tell the laws of thermodynamics to buzz
+off and separate warm fluids into a hot and
+cold side.
+Those aren’t as awesome as a personal forcefield
+that bounces off bullets or lets you walk
+around on an airless planet, but at a day
+to day level they are a lot more handy, especially
+that last one, which is basically Maxwell’s
+Demon and a perpetual motion machine.
+We don’t have a roadmap to forcefield technology,
+but we’ve seen some gimmicks that let us
+do about the same thing and maybe that’s
+another example.
+It would be neat to have an invisible bridge
+between two tall buildings instead of a solid
+structure, but perhaps instead of a forcefield
+bridge you can walk across, something that
+just pushes against your feet in midair, targeting
+every step to provide push back as you walk.
+Micro-size something like this enough, and
+with enough computer power, and maybe you
+could have a holodeck like in Star Trek, but
+where it’s only making stuff solid when
+you’re touching, applying just enough force
+by shooting stuff there at just the right
+moments and locations, possibly so fine-tuned
+you could feel textures and heat.
+We have no way of knowing what cool new physics
+might emerge in the future that maybe allow
+us the classic force field, but we’ve seen
+today some of the options that allow us close
+equivalents or alternatives, as well as some
+of cooler uses this technology might permit
+that we tend to skip over when thinking about
+spaceships and ray guns.
+Personally I wouldn’t expect that we’d
+ever get the classic force field, but it’s
+not something we can rule out entirely yet
+and those close equivalents and alternatives
+at least are decently plausible.
+Next week we will be returning the Alien Civilizations
+Series, for a look at Hidden Civilizations,
+in Hidden Aliens.
+For alerts when that and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a great week!

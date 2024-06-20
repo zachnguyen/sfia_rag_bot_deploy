@@ -1,0 +1,858 @@
+﻿This episode is brought to you by Brilliant!
+There’s a lot of discussion about if we are  
+real or merely in someone’s simulation 
+or dream, but what if we are real,  
+we just died centuries ago and keep 
+getting resurrected over and over again?
+Some call it the Simulation Argument, 
+some the Simulation Hypothesis,  
+and it’s a concept that in many ways predates 
+the computer age, but fundamentally comes down  
+to asking if we are living in a dream or computer 
+program, or fundamentally, if we are real. 
+Today, we will be looking at the specific case 
+of Ancestor Simulations, and indeed this is the  
+actual case for computer simulation discussion but 
+that tends to get left out of most discussions,  
+and in my opinion is a lot of why the topic is 
+both controversial and confusing to folks. I  
+want to start from the outset, since this topic 
+tends to draw some reckless talk and clickbait,  
+that I’m not going to prove to you today 
+that you are or are not in a simulation,  
+it is not something that you can easily prove 
+either way, and it is a real possibility  
+but nothing approaching a certainty or 
+likelihood that we’re in a simulation.  
+We will want to explain why today and also how 
+concepts like ancestor simulations are distinct  
+from classic notions of us living in a dream.
+The basic notion is hard to credit to anyone and  
+indeed the idea we’re in a dream, probably dates 
+back to the dawn of humanity – or to whenever  
+the dreamer started dreaming. However it 
+was philosopher Nick Bostrom who developed  
+the formal argument a generation back, and it is 
+very specific to the case of Ancestor Simulations,  
+we’ll detail those more in a bit but 
+summary form is: Its where a civilization,  
+centuries ahead of us currently, likes 
+to runs simulations of its actual past,  
+or also very parallel ‘what if’ scenarios. That’s 
+very important to the concept as we’ll see. 
+Now by default, folks discussing Simulation 
+Argument, tend to just mean any simulation or  
+virtual world with people like ourselves 
+in them, but that does not fit the case.  
+We’re not really talking about if some person 
+or persons with access to vast computing power,  
+built tons of virtual universes below 
+them, of any traits and style they wanted,  
+and that case is really no different than 
+notions such as black hole mini-universes:  
+the idea that every time a black hole forms, 
+a new universe is big-banging out somewhere.  
+These aren’t really discussing that you might be 
+in a fake Universe, in the sense of mimicking a  
+prior period of your own civilization, it's simply 
+saying that Universes can spawn children, by  
+nature or intelligent action, assembled underneath 
+high levels like a family tree, and the flavor is  
+more like a child-universe or sub-verse rather 
+than more aquarium-reality flavor that simulated  
+civilizations often seem to have, existing for 
+entertainment or research, living in a fishbowl. 
+There are other reasons you might do an ancestor 
+simulation besides those, but there’s an almost  
+unlimited number of reasons to make sub-verses 
+and these in generic format can’t tell you much  
+about the simulator. See, if I simulate the 19th 
+Century Earth, those living inside that simulation  
+speculating on if they’re real, will be 
+in a Universe with the same physical laws  
+and culture of our 19th century, and from which 
+our 21st century existence is derived. So they can  
+usefully speculate about us and our motives. On 
+the other hand a person might simulate a Universe  
+utterly different in physics and geometry from our 
+own, and by that same reasoning, if our universe  
+is simulated, but not an ancestor simulation, 
+the simulators might not be using ‘computers’,  
+because they might come from a Universe which 
+has no atoms, where gravity is a billion times  
+stronger, where there’s 5-dimensions and 
+neutrinos mass as much as neutron stars,  
+and where concepts like entropy and 
+thermodynamic limits simply don’t apply.  
+Indeed even the laws of mathematics might differ.
+Now, mind you, some rough sketch of a fantasy  
+world on a piece of paper can be argued to be a 
+simulated universe itself, and those can often  
+grow in complexity, like Tolkien’s Middle 
+Earth or countless other fictional settings,  
+and those details in those fictional settings 
+actually do tell us a lot about humanity and  
+the author and the world they live in, but mostly 
+only make sense as clues when we already know the  
+details of that Universe. Tolkien’s Middle Earth, 
+which could be argued to be an ancestor simulation  
+since it’s supposed to be set in the distant past 
+of our own world, implies a lot of normal physics,  
+gravity and chemistry and so on, but rarely gives 
+any detail. At no point in the story did Frodo or  
+Bilbo announce how fast an object falls in terms 
+of local gravity or that they’re breathing oxygen.  
+And indeed, that setting, like so many fictional 
+ones, has some hard breaks with science.  
+Middle Earth has had periods without a Sun, 
+in favor of glowing trees or gemstones,  
+or where it was Flat, before Numenor sank.
+Now these worlds are not simulated to the degree  
+requiring consciousness by the characters in them, 
+presumably, and ours, if it is simulated, does.  
+It is possible that we’re really simple compared 
+to the unfathomable supermind that built our  
+simulation, but nonetheless, we’re conscious, 
+or at least I am, and you presumably can be  
+confident you are too. Cogito, Ergo Sum, I think 
+therefore I am, as Descartes put it, though the  
+assertion is not that we are real, merely that you 
+cannot usefully doubt your own existence, since  
+someone would have to be doing that doubting.
+So the Simulation Argument starts with saying  
+that, either it is possible to simulate a previous 
+age of your world, complete with simulated minds  
+that could think they were real, or it is 
+not, then, it says that if it is possible,  
+we must ask if future civilizations 
+would do it or not, and if so, how often? 
+The basic reasoning that folks often cite for 
+giving a probability of our real-ness or not,  
+is to use the Principle of Indifference. This is 
+the philosophical or mathematical notion that in  
+the absence of any evidence pointing one way 
+or another, you should assume your various  
+solutions or outcomes are equally likely. As 
+a quick example, if you run along a corridor,  
+chasing someone and lose sight of them, then come 
+to a room at the end with three closed doors,  
+you have to initially assume each option 
+is equally likely as the way they fled,  
+a 1 in 3 or 33.33% chance the person you’re 
+following took a particular door. If it was  
+actually three thousand people running 
+down that corridor - at different times,  
+so that you had no reason to think any of them 
+were influencing each other’s choices - you’d be  
+assuming about a thousand ran through each door.
+Now, in practice, you can often find some  
+evidence; footprints, fingerprints or wear 
+and tear on the door knobs would be examples.  
+So too, we could speculate that right-handed folk 
+might be more likely to use the right-hand door,  
+or that they are painted red, green, and blue 
+and folks tended to be more likely to go through  
+the green door and least likely to go through 
+the red. Also we have to consider that we’re  
+focusing on the doors to exclusion, and ignoring 
+options like them having fled through an air duct,  
+hidden in a corner or hanging from the ceiling, 
+or possessed an unexpected ability, like turning  
+invisible or teleporting. And especially when 
+dealing with intelligent actors, you need to  
+contemplate them intentionally acting atypically.
+Nonetheless, that’s the idea behind the principle  
+of indifference, and it’s a solid one, when 
+presented with 2 or more plausible outcomes  
+and without any real evidence indicating which 
+is more or less likely, we assume they are all  
+about the same until we can demonstrate otherwise, 
+and emphasis on this being a working assumption.  
+In a moment, I’ll declare that the odds 
+of you living in an ancestor simulation  
+are 33% and that is going to be based on the 
+principle of indifference. That number is not  
+likely to be the real odds, merely that those are 
+the hypothetical odds given to make this point.  
+Indeed, technically, there are no odds, you either 
+do or do not exist in one, but where we’re trying  
+to get the odds, the fact that something 
+can be assumed to be one-in-three because  
+we simply have no evidence to the contrary, 
+is not a compelling argument of any kind. 
+I felt like that needed saying upfront, because 
+a lot of folks get some existential terror at the  
+idea of being in a simulation and folks often 
+talk about what the odds are as though we had  
+actual evidence rather than a probabilistic 
+argument. In and of itself the basic argument  
+for the simulation hypothesis is the same 
+as saying there’s a 50/50 chance someone I  
+meet is a serial killer, because people 
+either are or are not a serial killer,  
+thus, by Principle of Indifference, anyone I 
+meet has that 50% odds. That’s not the case,  
+and we have data indicating how likely people 
+are to be Serial Killers and it's pretty rare.  
+We could also set that up as saying we found a 
+dead body and assumed it was either natural causes  
+or murder, and if the latter, either it was done 
+by someone who rarely murders people, or who does  
+it a lot, three options: natural causes, murder 
+by an amateur, or serial killer. In the absence  
+of any other evidence we just say it’s 1 in 3, 
+that’s the idea. Then we try to find more evidence  
+to adjust those numbers to better represent 
+reality, it's just kinda hard to do that when  
+the question in mind is if we live in reality.
+Now for the Simulation Argument, there are three  
+propositions, and those are that, it either is 
+or is not possible - in a particular universe,  
+with either the same, or different natural laws - 
+to make ancestor simulations, and that if it is,  
+civilizations either choose not to make 
+ancestor simulations or they do and do it a lot.  
+Such being the case, it can be assumed that 
+there’s a 1 in 3 chance that the third option  
+is true, that ancestor simulations are possible 
+and that civilizations opt to do them a lot;  
+that once folks have the technology to emulate a 
+mind or reality, they often replicate some period  
+of their past, including various people who aren’t 
+alive anymore – their ancestors, whom they are now  
+simulating, and who believe they are real.
+The follow-up, is the idea that if we’re assuming  
+proposition 3 is true, that civilizations who can 
+simulate, do so frequently, then that means that  
+actual civilization did once experience the year 
+2022, when this video airs, but they have also  
+simulated many times, maybe millions of times. 
+The folks in those simulations, who are fully  
+emulated human minds, do not know they are in a 
+fake copy or ‘what if’ scenario of the year 2022,  
+like the one with where that war or market crash 
+or disease variant did end up happening as opposed  
+to being narrowly avoided. Or the simulation 
+where nuclear war didn’t happen, for those who  
+want to go vacation in their innocent youth, 
+before the bombs landed and all the survivors  
+were techno-barbarian cyborg mutants.
+And I do not know if I’m in the original  
+or a copy, and if there’s 99 copies and 1 
+original, there’s only a 1% I’m in it. So in that  
+case, there’d be a 1 in 3, or 33.33% chance I was 
+in a reality where ancestor simulation was common,  
+and a 99% chance I was in such a sim, 
+there’s an even 33% chance I’m a sim. 
+Now this is not wrong, the logic applied is 
+entirely proper and functional. It doesn’t  
+mean it's right either, and as an example, we 
+can add more options by not being so binary.  
+For instance, we could say that simulation 
+might be physically possible but civilizations  
+capable of doing it may be automatically prone to 
+self-obliteration through some crazy AI running  
+amok. Or that it's possible, but almost always a 
+very brief phase leading to a few dozen simulated  
+universes that are few in number or occupants, 
+and get banned or unpopular almost right away.  
+Either makes us have a fourth option and changes 
+the reasoning, by Principle of Indifference,  
+to 25%. This doesn’t somehow mean you’re actually 
+more or less likely to be real and not a sim. 
+What’s different about an ancestor 
+simulation idea over classic: ‘life is  
+a dream’ concepts? Or is there no difference?
+Well, there is a real difference, and I think  
+folks miss that when discussing Bostrom’s concept, 
+by assuming it’s merely a modern version of  
+dream-existence. It is not computers that make the 
+simulation argument different either, not exactly.  
+That’s really just a substrate, the specific way 
+the new reality is made, and when we’re talking  
+about simulated realities in general, you can 
+use the words Programmer and God interchangeably.  
+A Universe dreamed up by deity, like with Brahma 
+of Hinduism, who sleeps and dreams our Universe,  
+probably does not have a brain made of neurons, 
+our brain’s substrate, anymore than silicon  
+wafer chips, a computer or AI’s substrate. Which 
+might also be made of other materials and in a  
+simulating universe might be made of materials 
+that don’t even exist in our simulated or dreamed  
+reality. Again, the computer and programmer versus 
+dreamer or deity part, is pretty semantic here. 
+Instead, what’s relevant is the ancestor 
+simulation notion itself, which speaks to  
+motivation. A little bit ago we talked about 
+how by Principle of Indifference there’s a 1  
+in 3 chance we’re in a simulated reality and 
+the other two thirds were a Universe where  
+simulating minds of our complexity, is simply not 
+possible or was possible, but simply was not done. 
+The problem though, is that that first clause 
+is essentially a throw-away in modern context.  
+We’ll be able to build computers big 
+enough to emulate a human mind and more.  
+We probably already have supercomputers powerful 
+enough and now it's more a coding issue,  
+and a recording one, if we care about specific 
+individuals. We could raise notions like:  
+if a human – like you or I – could be emulated 
+on a computer without losing some unknown mystic  
+quality, but this then merely rephrases the 
+idea that Heaven or Hell or the Fey Realm,  
+or other such places are a different layer of 
+reality, maybe a superior or older one even,  
+but not implying the layer we’re in 
+is somehow fake and us along with it. 
+Though, for my own part, I don’t really see the 
+difference between a person born in an ancestor  
+simulation and another who was not, in terms 
+of basic personhood. Obviously, if one of them  
+did have a soul and the other did not, that’s a 
+decent basis to challenge, if that soulless person  
+is indeed a true person. However, since souls seem 
+to be rather evasive at detection or description  
+at the moment, it is not a topic we can usefully 
+speak about, in a scientific context. This is why  
+I often say, on this topic, whether or not we 
+are in a simulation, and thus real or unreal,  
+is the wrong question to ask, the better one is 
+if it actually matters. I am real, I am a person,  
+show me I am in a simulation and I’ll just say the 
+definition some use for reality needs adjusted. 
+Nonetheless, that first point, that 
+we can almost take for granted that  
+simulating minds is possible, would raise 
+our odds of being in a simulation to 50/50,  
+since it’s saying we can and thus the question 
+is just if we do or do not, in a few centuries  
+or so when we get the technology perfected, 
+which again might have been in our own past. 
+Now we need another caveat, because emulating 
+a mind to the point you and I have, is way  
+beyond what is likely to be needed for realistic 
+human portrayals in entertainment or education  
+simulations. We have this leftover 
+perspective from early science fiction days,  
+that anything able to interact at the human 
+level, needs something near human intelligence and  
+consciousness. This is why we get humanoid robot 
+butlers in books and films who can run a vacuum  
+and wash dishes and have a heart to heart talk 
+with people, and in practice we get a chatbot,  
+a robot vacuum cleaner, and smart dishwasher, 
+not some thing which might debatably be a person. 
+The simple reality is that if you want to go 
+live in a virtual reality, killing orcs or  
+rescuing damsels-in-distress from fire breathing 
+dragons, none of them really need to be running a  
+conscious mind, of human level, all the time – or 
+probably ever – but certainly not when off screen.  
+It’s like needing to be able to read a book for 
+five minutes and thus building an entire sun to  
+read by, that lives for a billion years and shines 
+over a billion square kilometers of real estate.  
+It’s just pointless waste, and I think it's just 
+because folks aren’t thinking about how wasteful  
+it really is that makes them assume a powerful and 
+wealthy future civilization might do it anyway. 
+But you don’t. You live in a Universe where 
+entropy is real and energy is limited, because  
+we’re talking about an ancestor simulation, 
+so they more or less match our own universe  
+up above in their ‘real’ one. You don’t build a 
+mountain range to shield yourself from a breeze,  
+even if you can. You don’t simulate 8 billion 
+minds as full people unless you need to,  
+because it's probably millions of times the 
+effort an otherwise practically identical,  
+non-sentient simulation would need. And all 
+such simulations are about cutting corners,  
+you don’t simulate individual molecules 
+if you don’t have to, for instance. 
+Thus, we can make a pretty good argument 
+why folks in the future might be able to  
+do ancestor simulations but do not. And this to 
+me is the critical bit. I don’t think it is a  
+50/50 proposition that we do live in a reality 
+where such simulations are possible, but either  
+do them a lot or not at all. I just don’t see 
+any logical reason why “We” would ever bother.  
+And mind you, this is not some casual exercise, 
+it is like saying I can’t see any reason why  
+we would bother to build an ICBM with a nuclear 
+warhead, capable of blowing up the entire planet,  
+because it would be insanely expensive to do 
+and before you got up to even a millionth of  
+the needed strength, it would already be able 
+to sterilize all life on the planet, which  
+lives in a thin little layer on its surface. And 
+critically, why would you launch that on an ICBM?  
+It’s the same concept, simulating 8 billion people 
+is that kind of pointless overkill. I want to  
+blow up the entire planet, even its unoffending 
+mantle and core, just to get those lava people,  
+and I want to do this by sticking it on a missile 
+with just enough fuel to fly from one side of the  
+planet to another. Even though detonating it 
+anywhere near the planet does the same thing,  
+making the rocket silly. How often 
+does this device really get built?  
+Probably as often as a first person shooter 
+bothers simulating the rifling inside a gun  
+barrel the player can’t see and does it 
+all the way down to the atomic level. 
+Now that’s an important note too. We’ll be 
+discussing briefly, various things around  
+us that folks take as proof or evidence for or 
+against us being in a simulation, and some of  
+these are just bad arguments. A common one is that 
+it just wouldn’t be possible to simulate every  
+atom in a planet, let alone a Universe, and it 
+ignores that there’s no reason why anyone would.  
+Unless they literally had infinite mind and 
+power, in which case we’re in a pretty classic  
+creator-deity situation and I don’t think calling 
+their creation ‘fake’ is likely to be meaningful  
+or accurate. Where they are finite, they need 
+to avoid waste, or wasteful excess simulation. 
+If I am in a virtual reality designed for scenic 
+walks I do not need the jogger passing me in  
+the other direction to have an actual brain, 
+nor the deer that ran across the path to have  
+individually simulated gut bacteria. What I 
+need is a program that ramps up the effective  
+resolution of reality when I’m in proximity 
+and interaction. A program switches on to make  
+things up for the jogger to say if I stop them, 
+or for under a microscope, if I decide to shoot  
+the deer and inspect its stomach for bacteria.
+Now, some would say that this is where Quantum  
+Mechanics gives the game away, because the 
+Uncertainty Principle is a sort of minimum  
+resolution or pixelation to reality, albeit with 
+complimentary variables. There’s no minimum size  
+really, maybe a planck length, but rather there’s 
+a minimum combination of position and momentum,  
+or energy and time, that we can know 
+simultaneously. Still really just a type of pixel.  
+And because of that there’s no way to exactly 
+predict what will happen or what did happen,  
+and thus you can’t model every single atom at the 
+present to show how it is inconsistent with the  
+recorded past or future and thus a made up fake.
+And that’s true enough, but not necessary. Folks  
+tend to forget that a simulated person is not some 
+brain in a jar or person in a battery-tank from  
+the Matrix. The programmer can leave triggers 
+in your head to flag them if you think reality  
+is unreal and delete the inconsistency or even 
+just tell you it wasn’t. It’s the same as if  
+an omnipotent God didn’t want you to be certain 
+it existed, it is all powerful and all-seeing,  
+so if you suddenly became certain, it knows, and 
+can just tweak it so you didn’t feel that way  
+anymore. A lot of the little tells folks see 
+about simulated reality and us being in one,  
+or not in one, benefit from being 
+viewed from that divine perspective  
+rather than assuming there was some programmer who 
+was maybe just a bit smarter than you or I. More  
+likely it's some technological singularity who 
+stands above us mentally, the way we do an ant. 
+You’re not outsmarting them or it, and seeing 
+some clue they didn’t realize was there,  
+because even if you did see something they somehow 
+did not, they can literally hit the pause button,  
+go back to a previous save state, and fix 
+either that problem or your ability to see it,  
+and remove that bug for future folks. This is 
+a simulated reality, and a simulated person,  
+if you’re in one, it’s not just that they can 
+affect your surroundings, by, for instance,  
+having a 900 pound gorilla appear in front of you, 
+it’s that they could make that happen while also  
+making it so that you didn’t believe it was there, 
+even while it was tearing up the scenery and those  
+around you were saying ‘wow, what a big gorilla!’
+The same applies for something like the size  
+of the Universe. Folks often argue that a 
+Universe so big couldn’t be meant to be empty,  
+thus, either we should colonize it, or other life 
+is there. Many folks interpret this as proof of  
+a simulation or a more classic supernatural 
+creator, many view it as the exact opposite,  
+proof there isn’t. It might actually be either 
+but merely as that data currently presents itself,  
+it’s not a compelling argument of any kind, folks 
+are engaging in that bad habit of interpreting  
+evidence to support their view rather than lining 
+it up with falsifiability. Scientific and logical  
+falsifiability is where you hypothesize that 
+something, if true, would support your theory and  
+if false, falsify it. Something you do not know 
+the answer to yet. Then you go find out which it  
+is; instead, with simulation argument, folks tend 
+to try to take any new bit and squeeze it into  
+their belief on the topic. This is hardly unique 
+to Simulation Argument of course, and we all  
+tend to be guilty of that occasionally, but it 
+comes down to that Anthropic Principle problem,  
+which the Simulation Argument is used to explain.
+The Anthropic Principle is the opposite of the  
+Mediocrity Principle, and you might not have heard 
+of either, but you engage in both regularly and  
+should. Both are approaches to looking at reality 
+when you have little evidence or means of getting  
+more information. Mediocrity Principle is the 
+assumption that if I land on a planet and the  
+first few folks I meet are wearing green, that I 
+should assume that’s fairly normal and to them,  
+a mediocre example of clothing colors. Anthropic 
+principle is where we assume that, me being there,  
+is some factor in their choice to wear green, like 
+if green is their color for meeting honored guests  
+from afar. Neither is right or wrong, indeed 
+they are both usually wrong as you get more data,  
+but they’re both good approaches to encountering 
+new strange things when you can’t get more info.  
+The reason everyone around you is wearing hospital 
+scrubs is because you banged your head and your  
+friends took you to the hospital, not because most 
+people wear scrubs. However, you would already  
+know this or easily be able to ask a few questions 
+and make a few observations and figure it out,  
+so it's not great for demonstrating 
+the concept of the Anthropic Principle. 
+To demonstrate the Anthropic Principle, 
+it saves time if the examples don’t permit  
+the person you’re discussing it with to say 
+things like “Well I’d look it up online” or  
+“I’d do a few tests”, so we use three popular 
+examples. One is a Fine-Tuned Universe,  
+the apparently freakishly slim odds the physical 
+constants in our Universe would allow life,  
+and since we can’t currently look outside 
+our Universe to see if there are others,  
+we have no known way of proving if our 
+Universe is a mediocre example of universes,  
+most of which have life, or a freak case that 
+we can only see has life because universes  
+without life don’t have anyone to look at 
+them and notice they’re the regular kind. 
+The Next is the Doomsday argument, see that 
+episode for details, but it tries to argue that  
+you’re more likely to be a middle-child of human 
+history, than one of the eldest, since there are  
+going to be way more middle children, and thus 
+human history is nearly over – and of course you  
+can’t present evidence for or against that sort 
+of assertion. Simulation Argument is the same,  
+there is currently no known way to prove 
+or disprove it from the evidence on hand. 
+I want to emphasize that, because while 
+all three concepts, Fine-Tuned Universe,  
+Doomsday, and Simulation Argument, have 
+a lot of serious and grim discussion,  
+they are academically really boring and are 
+mostly valuable for preventing folks from  
+stopping you in the middle of the discussion 
+to point out a way to prove it right or wrong.  
+Other examples of the Anthropic Principle, 
+or Mediocrity Principle, tend to have really  
+obvious and easy ways to gather evidence. If a 
+tree falls in the woods, does it make a noise?  
+Yes, at least under the current definition of 
+noise, and if the point you’re trying to make  
+is that, events which are not seen or observed and 
+do not affect others, maybe doesn’t truly matter,  
+then you’ll save headaches by setting the event 
+in a different reality where we cannot see or  
+feel it falling. When it comes to Simulation 
+Theory though, we don’t need to bother simulating  
+every tree falling, including ones that fell 
+in times and places no person will ever see. 
+And you probably don’t actually care if your 
+fossil record that you made up, is a perfect  
+match, so you don’t need to go through a big bang 
+and run every planet in the Universe forward to  
+the present to simulate modern times. You don’t 
+really need a catalog of every tree that ever  
+existed on Earth because it’s not possible for us 
+to run about 350 million light years from Earth,  
+faster than light and build a mega telescope to 
+observe the evolution of the first trees and see  
+if they match locations in our fossil record. 
+There’s no FTL – and indeed this is another  
+thing you’d want to avoid in a simulated reality, 
+superluminal cause and effect – but if there were,  
+you could still just make stuff up. It’s not that 
+someone might catch that a few positions were off,  
+you can have a whole room of scientists 
+staring at flawed data on a table,  
+all nodding and agreeing it was correct. 
+They’re sims and you’re the programmer,  
+you could set the table on fire and tell 
+them they were looking at totally accurate  
+data with no anomalies even while the fire 
+alarm was going off for no apparent reason  
+and not worth checking on. You control reality, 
+including the people in it and their own minds. 
+It's a little discouraging to think you could 
+be someone’s puppet like that, and have no way  
+of beating the system or red-pilling out of the 
+Matrix, but that’s basically how that should work  
+and I think folks try to slip around it.
+Now, onto why we probably are not in one.  
+First, there might not be any ‘we’ involved. 
+It might just be you, but that’s not really an  
+ancestor simulation and thus isn’t part of the 
+argument. Let’s assume in the next few decades,  
+we get computers that are, say, orders of 
+magnitude more powerful and get our brain scanners  
+and deep-learning AI upgraded similarly. That 
+should permit a capacity to scan a brain quickly  
+and detailed enough to either read it or emulate 
+it, same difference in this context. Whether I’m  
+an uploaded mind 30 years from now or a human with 
+my brain being real-time scanned and a simulation  
+directly fed back to my nerves, there’s a strong 
+implication there that I’m functionally immortal,  
+and that could happen in our lifetime.
+Such being the case, it’s trivial to come  
+up with reasons why you or I would choose to 
+be in an ancestor simulation and even submit  
+to some flat-out brainwashing to help us ignore 
+any inconsistencies. And our time is not mediocre,  
+this, the 21st century, is probably the last one 
+people will exist in, during which the technology  
+on hand doesn’t make faking reality so obviously 
+doable that people don’t either worry about it  
+constantly or have to live in denial to stay 
+sane. Folks worried about it in the past too,  
+when dreaming, and good books or hallucinatory 
+drugs were your only routes to fake worlds.  
+So just imagine what it will be like as 
+these technologies come into real use. 
+So it is plausible that this is the most simulated 
+era, that while folks go visit history sims or  
+fantasy settings, the one they actually lived 
+in originally is the one we replicate the most.  
+It’s hard to imagine simulating a whole world 
+of fake but total people for one person’s  
+entertainment, but not so hard to imagine a thin 
+resolution world for one person to experience only  
+the bits really in proximity to them, or millions 
+of us sharing an ancestor sim with a few billion  
+sub-sentient folks to fill up the landscape.
+It is kind of hard to imagine us, as we are now,  
+if we were still that way in a future able 
+to do this simulating, not choosing to do  
+it fairly often. Go relive a period of 
+our life, maybe do it a bit differently,  
+after all, we all play that ‘what if’ game 
+occasionally and I daresay we do ‘what if’  
+for our own life more often than daydreaming 
+fantasy and fictional life. It would seem then,  
+to say that our odds of being in some sort of 
+simulation, even if it is as the voluntary client,  
+who paid not to remember they were in their own 
+simulation for a while, is actually very high. 
+Let us say you were born in the real 21st 
+century but it is now the year one million AD,  
+and you happen to be in a simulation of the 
+21st century at the moment but have had a bit  
+of dream-tech applied so that you forget you’re 
+here as a visitor. Every few centuries, you go  
+spend a few decades back in the good old simple 
+days, maybe raise another couple kids to join you  
+up in the real world, who will have the advantage 
+of growing up in the fairly civilized 21st century  
+but still endure some hardship and not be spoiled 
+or inhuman by being born in the distant present.  
+Or maybe you are such a child and your parents 
+are the ones from 1 million AD and it’s been a  
+family tradition for 998 centuries to raise new 
+kids in the simulations of the glorious old 21st. 
+That then, is probably the final note. Some folks 
+say ancestor simulations probably just wouldn’t  
+get done, not because we couldn’t or wouldn’t, 
+but because the civilizations able to do so  
+would not. Maybe because such civilizations always 
+have a machine rebellion and unlike in the Matrix,  
+that machine is smart enough to know that humans 
+don’t make good power production devices and thus  
+don’t keep us around in some fantasy history. 
+Maybe because all that ability to emulate and  
+copy minds results in them being post-humans with 
+less emotional desire to revisit the past that  
+way. It’s arguably inefficient and even mentally 
+unhealthy to want to live in a fake world that way  
+and such masters of the mind, able to create 
+believable fake worlds, and believable  
+fake minds, probably are also masters at 
+detecting mental illness and treating it. 
+Their reality might just not have folks who would 
+either want to live in the past that way or would  
+be so crazed, wasteful, or immoral as to make 
+simulated humans with real minds and feelings,  
+like some disposable lab rat. They may not need 
+to raise their kids in some fake idealized past  
+to keep them from being spoiled, they might just 
+be good at not raising spoiled brats or hedonists.  
+Or they might all be extreme hedonists in 
+which case, I don’t know about you, but my own  
+reality and life doesn’t seem like a hedonistic 
+adventure. And I really quite enjoy life too. 
+I think that’s what we’ll close on then. As I 
+said at the beginning we weren’t going to be  
+able to prove or disprove if we were or weren’t 
+in an ancestor simulation, let alone other types  
+of simulations, sub-verses or dreams. You could be 
+some randomly assembled Boltzmann Brain, existing  
+in total sensory deprivation in some universe with 
+utterly different physical laws than ours, slowly  
+going insane and hallucinating a whole universe, 
+our universe, or you and I might both be sentient  
+hallucinations of such a mind. Again, I’m 
+not sure if just being in your own personal  
+past simulation counts as an ancestor simulation 
+either, but you could be in one of those. 
+In the end though, I don’t find it very likely. 
+Not because I can’t see myself doing it, but  
+because I can see myself telling others it is a 
+bad idea, a morally iffy thing in some cases and a  
+waste of time in others. I don’t think I’d vote to 
+approve funding for SimEarth2022 or let it slide  
+without active complaint if someone was simulating 
+real minds in some personal paradise of theirs,  
+where they could do to them what they pleased. And 
+I don’t really think a smarter and wiser version  
+of me would be more okay with such things. I 
+suspect that’s true of most folks, especially  
+most folks who live in a post-scarcity future 
+world with life extension and mind augmentation.  
+We would expect them to be older, wiser, and 
+smarter on average than us, and I tend to assume  
+that means more ethical than us on average too.
+And of course to me, noted techno-optimist,  
+who tends not to be cynical about people, that 
+equates to Scenario 2: Ancestor Simulation  
+is possible, but just doesn’t get done as it’s 
+impractical and immoral, thus the odds of us  
+being in one is slim. Too much effort just 
+to achieve a goal that might get you lynched.  
+If you’re of the opinion that folks couldn’t wait 
+to take a deep dive into a reality they ruled  
+and had real emulated minds in it, and this would 
+happen many times, even if others tried to stop  
+it, then things look more glum. Such being the 
+case, it is very easy to believe, folks like  
+that would particularly love reliving their youth 
+to prove wrong or punish those who scorned them,  
+making ancestor simulations common, because they 
+really want those people they’re interacting with  
+to be real, with feeling, including pain 
+and regret, not just some advanced chatbot.  
+Then you pretty much get stuck with Scenario 
+3: Simulation is possible, it happens a lot,  
+and statistically, you are probably in one.
+Needless to say, I think I prefer Scenario 2’s  
+assumptions be true over Scenario 3, but that’s 
+mostly what it comes down to. If you think a  
+future humanity is one that would eagerly abuse 
+such ancestor simulations or be indifferent to  
+preventing them being abused, then it’s not really 
+a question, if there’s a high probability this is  
+all really a dream, it’s more about worrying if 
+someone’s dream is putting you in a nightmare.
+So a key point of today’s episode is not just 
+that it is very hard to emulate a human mind,  
+let alone billions of them, but that it is just 
+orders of magnitude more difficult than creating  
+passable simulations. The more we learn about the 
+mind and neural networks, the more we realize how  
+hard they are to build, and how often something 
+vastly simpler and easier would get the job done.  
+Neural networks are one of the most fascinating 
+new areas of computer science, and if you want  
+to learn more about them, Brilliant’s interactive 
+courses on Neural Networks and Computer Science  
+Fundamentals can help you on that journey to 
+better understanding our minds and machines. 
+One of the things we’ve learned about our minds as 
+we’ve come to better understand neuroscience and  
+neural networks is better learning and critical 
+to that is interactivity, hands-on learning is  
+hands-down the best kind, and that is something 
+Brilliant builds into all their courses,  
+and constantly seeks to improve. To make it easier 
+for anyone to learn Math, Science, and Computer  
+Science, be it the basics or advanced materials.
+For instance, Brilliant’s Computer Science  
+Fundamentals course takes you through the basics 
+of computation with their trademark interactivity,  
+even showing how decisions get made. But 
+picking Brilliant as a learning partner  
+is an easy decision, especially 
+as you can try it out for free. 
+With Brilliant, you can learn at your own pace, 
+learn on the go, and learn something new. To get  
+started for free, visit brilliant.org/IsaacArthur 
+or click on the link in the description,  
+and the first 200 people will get 20% off 
+Brilliant's annual premium subscription.
+So next week we will be having our 2-hour 
+episode The Megastructure Compendium,  
+our expanded and improved version of our original 
+episode on Megastructures that started the show  
+almost 8 years ago. Back then I had done the 
+episode in large part because I felt so many  
+scifi authors missed the chance to use these 
+immense and wonderful artifacts in stories,  
+and I’m very glad to say a lot of authors 
+have used them more in more in recent years,  
+many of them fans of our show. I wanted to give 
+a shoutout to the Father and Son writing team  
+Patrick and Blake Seaman on their 
+new series, starting with book 1,  
+Accipiter War, where a modern day town and 
+a military base find themselves mysteriously  
+awakening inside a giant McKendree Cylinder. I’m 
+about 100 pages in and I love the book thus far  
+and love knowing our show helped inspire it, 
+definitely worth checking out. Also really glad  
+to see the McKendree Cylinder, the big-big brother 
+of the O’Neill Cylinder, getting to be a setting. 
+Again next week we’ve got that Megastructure 
+Compendium coming up where we will be going over  
+around a hundred megastructure types and hopefully 
+they’ll help inspire some great new stories too,  
+science and scifi have a long history of positive 
+feedback with each other. Speaking of which,  
+the weekend after that we’ll be having our monthly 
+scifi Sunday episode, on June 12th, where we’ll  
+look at the Silurian Hypothesis, the concept 
+that some ancient civilization like intelligent  
+dinosaurs might have once dwelt on Earth long ago. 
+We will also ask what would remain of humanity’s  
+accomplishments millions of years from now if 
+we suddenly died off. And two weeks from now,  
+we’ll be looking at the concept of Interstellar 
+Probes, where we’ll begin our two-part story of  
+traveling to an anomalous system to investigate 
+it, concluding with Life as a Planetary Explorer. 
+Now if you want alerts when those episodes are 
+coming out, make sure to subscribe to the Channel  
+and hit the notification bell, and if you enjoyed 
+this episode, please hit the like button, share  
+it with others, and leave a comment below. You can 
+also join in the conversation on any of our social  
+media forums, find our audio-only versions of the 
+show, or donate to help support future episodes,  
+and all those options and more are listed 
+in the links in the episode description. 
+Until next time, thanks for 
+watching, and have a great week!

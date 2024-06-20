@@ -1,0 +1,949 @@
+This episode is brought to you by NordVPN.
+Whether it's real spaceships or those in science
+fiction, it seems like they are always breaking
+down and are barely being held together by
+Duct Tape.
+So what do we do if our ship breaks down a
+trillion miles from home?
+Whether it’s crashing a flying saucer into
+Roswell or Han Solo trying to jumpstart the
+Millennium Falcon, broken ships are something
+of a staple of space travel speculation, and
+a regular plot point in Science fiction, but
+they’re a very real concern in science and
+engineering.
+Spaceships do break a lot, even for all the
+top-notch engineering we put into them, because
+they are for extreme conditions and in many
+ways nearly every single flight is a test
+flight or prototype of something.
+We don’t have thousands of routine missions
+to field-test some new widget or feature until
+it is ultra-reliable.
+The flip side of that is that we would expect
+that in the future, and so it surprising how
+often things break on spaceships in scifi,
+or get sabotaged, or are have a backup that’s
+also broken.
+A quote that comes to mind is from my favorite
+Starfleet Engineer, Chief Miles O’Brien,
+when he’s explaining why he had to replace
+a component with a lower capacity one to make
+room for a secondary backup as required by
+Starfleets specs and codes.
+The Cardassian he’s explaining this too
+finds this absurd, asking why you need a backup
+of the backup, as its unlikely both would
+fail, and he says “That’s very unlikely
+but in a crunch, I wouldn’t want to be caught
+without a secondary backup.”
+And if you’ve seen the non-stop console
+explosions and other breaks that seem to happen
+in every other Star Trek episode, you can
+sympathize with Chief O’Brien’s point.
+The backups are always failing at the same
+time the original breaks, in a fashion that
+even Murphy’s Law might find pessimistic.
+When it rains it pours and the weather in
+space is even crazier.
+Now it stands to reason that since we do not
+live in a science fiction episode – probably
+- such convenient coincidences aren’t getting
+shoehorned into our script by lazy writing
+or last minute production changes.
+However, on an interplanetary voyage lasting
+a couple of years, like those we envision
+to Mars or other places in the next few decades,
+or interstellar missions in the further future
+which might last decades, you don’t need
+the main system and backup to fail at the
+same time.
+Stuff breaks for a reason and whatever circumstances
+blew the primary out might still be in play
+for the secondary too.
+On Deep Space Nine for instance, they’re
+constantly trying to MacGuyver up repairs
+and improvised components for an old space
+station built by another civilization for
+another purpose, and if you think trying to
+read instructions in a technical manual written
+in another human language are tricky, an alien
+one is probably way worse, as might be components
+from your homeworld that were built a light
+century away and imported to a colony with
+hundreds of years of language and culture
+drift..
+So it stands to reason that we want backups
+and of course the reason you don’t want
+them is that they are expensive, both in terms
+of cost and mass, which is the arch-enemy
+of a spaceship.
+More mass means more fuel.
+And more maintenance too.
+Such components are for fixing things but
+especially for protracted storage a lot of
+sensitive components would need extra efforts
+or even gear for preserving them.
+In my opinion it is very unlikely any manned
+spaceship leaving Earth orbital space will
+do so without a 3D printer, the more realistic
+version of the replicator of Star Trek, and
+that’s likely to cover any relatively simplistic
+bulk replacement item.
+More intricate stuff, including circuitry,
+doesn’t store as well and might get bulky
+with efforts to keep them safe for use for
+long periods of years or decades or even centuries.
+3D printing though, depending on how intricate
+it can get, does solve a lot of these problems
+and it is basically why the replicator from
+Star Trek gets beaten up so much as a horrible
+thing to have put in the series.
+There’s no reason to bother with backups
+for anything but your replicators and anything
+needed to run them or which they can’t replicate.
+They’re too convenient and thus too often
+forgotten during episodes where they would
+make the plot pointless.
+Now conveniently things are always breaking
+on those shows that the replicators can’t
+replace and in a way that sort of makes sense
+since your ships might be full of lots of
+classified or brand new technology on the
+cutting edge of your science and industry
+and might be a pain to replicate or just not
+have a template yet.
+Bit of handwave there but in terms of 3D printing
+it is plausible.
+We don’t really care if the carrying case
+for some bit of technology breaks, like your
+phone’s case.
+That’s definitely something you could 3D
+print though, but it's not the urgent thing
+needing to be fixed because it cracked, and
+printing circuit boards is tricky too though
+also something we do, it's just a different
+device than a 3D printer, same as a paper
+and ink printer.
+It's debatable if an in-system ship running
+between planets would need something like
+that since it isn’t going to be light compared
+to some backup circuit boards and a soldering
+gun.
+I should also note that things like nanobots
+and universal assembler are potential options
+for making anything, rather than having a
+handful of more specialized printers or forges,
+but it would generally be easier to just include
+a specialized fabricator or three.
+Tiny machines will be very slow, it’s sort
+of the nature of that process, see our Santa
+Claus Machine episode for details, though
+they are likely to still play a powerful role
+in self-repairing gear or ships.
+Key point though, when you’re fixing stuff,
+the backup doesn’t have to be the same device.
+The new widget might be far better than the
+design from twenty years ago but that one
+will work in a pinch and probably is way easier
+to find a design you can cobble together.
+The real backup is a database of every component
+you have on a ship that can be cross-referenced
+to the devices it appears in or that parallel
+components appear in, so you know where to
+cannibalize from.
+A very good engineer would know many of those,
+or be able to inspect and find them, but that’s
+exactly the sort of thing computers and AI
+are wonderful at.
+So, you crack open your damaged navigation
+console and find the W42 is burned out and
+the computer tells you if another W42 is around
+the ship or if any components of the W42 are.
+Now it’s hard to say if the future will
+be a place that’s full of highly individualized
+and tailored components or very standardized
+ones, ironically new equipment tends to be
+a mix of both since we try to cut down on
+costs and unexpected problems by using tried
+and true tech in prototypes wherever we can.
+We can’t really say if the future is going
+to a place where every single bit of gear
+is custom-tailored to its job from the ground
+floor up, but such a future is no time soon
+and really something I’d only expect in
+a post-science civilization, or one with technological
+stagnation, as we discussed in those episodes,
+where you basically are done innovating because
+there’s no place to innovate or none left
+where you are willing to risk going, and thus
+folks have spent centuries retooling every
+device to optimum performance including ripping
+out trivial things like the resistor or capacitor
+that’s 5.32% more massive than it needs
+to be for one that’s exactly 5.32% less,
+and is manufactured exclusively for this device.
+The airlock door that was standardized as
+10 millimeter thick steel but after long discussion
+and regulation has been peeled back to 9.83
+millimeters instead, saving trillions of dollars.
+And of course in that sort of economy everything
+is about building to last, because there’s
+nothing new coming out next year that makes
+something obsolete, so even fairly standardized
+ship designs are going to often be heavily
+customized after some individual has owned
+one for decades and made custom modifications.
+So you either have a future in which lots
+of technological components are standardized
+and shared between many devices, which are
+constantly being upgraded and innovated on,
+in which case you have a crazy mess of standardized
+and custom like everything does nowadays,
+or you have one in which everything is ultra-standardized
+and individualized as a result.
+Both have their pros and cons but neither
+really implies you’ve got a backup of every
+single device and a backup of that backup.
+More likely items on the ship get ranked by
+priority in an emergency, and either you pick
+a device for that function where all of its
+bits are easily synthesized by an on-board
+manufactory or cannibalized from other things,
+or else you do keep a backup and even a backup
+backup.
+Of course another approach is modularity,
+where it's not that you have backups so much
+as you just have tons of the same device doing
+the job or able to retask to it.
+You don’t have a backup meal, you have a
+pantry full of food, reserves rather than
+replacements.
+You don’t have a backup captain, you have
+an XO, and that XO has normal jobs to perform,
+so does whoever is next in line for command
+if the Captain and XO both get neutralized…
+or vaporized as the case might have it.
+I’ve seen cases in fiction where they had
+backup crew on ice in case a member got taken
+out, but the cases involved are usually where
+life support is very restricted or where it’s
+a sleeper ship with a dozen awake crew and
+thousands of frozen colonists, so they just
+thaw out an astronomer if the navigator got
+killed or an engineer if the ship engineer
+went nuts and had to be restrained or put
+on ice.
+We could see something like this in a post-human
+environment of digital uploaded minds, where
+you and the other crew and colonists exist
+in a virtual environment or just stored on
+a harddrive and have an android body or mundane
+robot you pilot in the ship to do real-world
+tasks.
+The life support and freezing options though
+raises another issue.
+It isn’t really right to say that interstellar
+space is cold, the temperature of interstellar
+gas is often superhot, but its super thin
+so it has little heat, even if its temperature
+is high, so it's quite easier to keep things
+cold on a ship and indeed it's pretty easy
+to keep them warm too but still costs more
+energy.
+The actual temperature of space is not terribly
+relevant, it's how thin it is since that’s
+what controls cooling by anything other than
+radiation as infrared photons.
+With that in mind, if you’ve got a damaged
+ship and a civilization able to restore frozen
+people, what you do is make sure your ship
+either has a printer able to make freezer
+pods or contains a lot of equipment you can
+cannibalize for it, and by mass that’s going
+to be mostly the same stuff you make your
+hull from since its serves the same purpose.
+In an emergency you freeze everyone you don’t
+absolutely need at that moment.
+Which is eventually everyone if it's an unfixable
+problem.
+For that matter freezing itself, or vitrifying,
+is less important in space.
+Radiation shielding around your body to protect
+your asphyxiated corpse from being mangled
+by radiation and micrometeors is probably
+sufficient to let them revive you if they
+can revive you from being frozen in the first
+place.
+Scifi style stasis pods presumably work on
+freezing time not bodies, so would probably
+be harder to fabricate and run, but easier
+to restore someone if kept intact, shut it
+off and they’re unfrozen, they don’t need
+to thaw out because time stopped, they didn’t
+actually get icy.
+So too you might use brain scan and mind upload
+backups.
+A distress beacon might be an encrypted update
+to your brain’s last save state back at
+home base.
+Outside of colony ships and scouts, which
+pretty much by definition are a rarity compared
+to normal traffic over long periods of time,
+everyone should be on a fairly known path
+between two inhabited systems.
+Having a compartment blow out will knock you
+off course, and by a calculable cone of options
+for search and rescue, who probably have been
+getting a constant ID signal from you.
+If that’s stops, its absence becomes an
+SOS even if you’ve got no beacon.
+Beacons are not hard to make either, and in
+a situation like that, even a passive beacon
+in the form of a radar-reflective object of
+clearly artificial geometry is going to be
+helpful.
+But we also need to keep in mind that a ship
+that blew out several tons of superheated
+gas while traveling at a tenth of light speed
+between stars several light years apart might
+not even have anyone who would notice the
+normal ID transmitter was gone for a few years,
+and it might be decades before ships get out
+there to be able to start tracking you.
+In practice they probably are waiting for
+your debris to arrive, or asking some ship
+on a similar vector to either slow or speed
+up a bit to see if they can rendezvous with
+any debris.
+Indeed, they probably wouldn’t ask that
+ship since that ship is probably the one that
+first knows of the problem, and acted on it.
+Those are your survival time frames in a situation
+like that though, which is why stuffing people
+in freezer banks is fairly reasonable.
+Or even just the heads, which would be easier
+to safeguard.
+Unlike the typical sci fi portrayal someone
+on a spaceship going nuts, the guy running
+around the ship with an ax or chainsaw trying
+to cut people’s heads off might be sane
+one.
+You might do that even if your civilization
+doesn’t really have the ability to restore
+frozen people yet, since they might be able
+to one day.
+Otherwise you’re drifting and it really
+comes down to if you still have power or not.
+If you do, you can put together a beacon and
+given the timelines you can even train someone
+in the field of engineering from stored teaching
+software, so they can make a transmitter,
+because you potentially have years to burn.
+Same applies for fixing almost any device,
+given time, energy, and raw material, you
+can make it, even if no one on your ship originally
+even knew what it was.
+Slow boat colony ships with centuries of journey
+time can even spend a few generations breeding
+back up some good engineers to fix or build
+their engines to slow down on arrival.
+If you don’t have power you need to get
+it, and the good news is that there will almost
+inevitably be something you could use to power
+a transmitter because even some weak 20 watt
+signal that pulses once an hour for a millisecond
+is gonna be trackable once people know to
+look which is probably five seconds after
+your normal signal goes off line, plus light
+lag.
+That is also the sort of thing computers and
+AI are perfect for, monitoring fifty millions
+transponders simultaneously for all the ships
+in a travel corridor and estimating each one’s
+velocity and possible deviation for a search.
+The bad news though is that putting together
+a power plant if you haven’t got power is
+a lot harder.
+In deep space you can hypothetically use giant
+thin mirrors to concentrate distant sunlight
+into some sort of power supply and active
+sensors looking for it later will spot that
+giant mirror in an instant anyway.
+But that just makes you easy to find later
+and if you haven’t got power your fate is
+entirely up to others, and if your civilization
+is able to restore frozen bodies.
+Otherwise you’re pretty much limited to
+rescue by divine providence.
+You are going to want to stick with that ship
+too, escape pods are going to be harder to
+track and are something you use if your ship
+is actively being shot at, it's not an oceangoing
+ship that’s ramming an iceberg and sinking,
+so enemy action is the major reason you’d
+abandon ship.
+And they really shouldn’t have any problem
+tracking those pods either.
+If your enemy is the sort to take prisoners,
+they can, if they would rather ignore you
+and let you be someone else's problem, they
+can, and if they want to target those pods,
+they certainly can.
+Of course being taken prisoner might be the
+worst of various scenarios, but it is why
+a stealthy escape pod or lifeboat isn’t
+really needed, if they’ve got a hundred
+rail guns and tracking systems locked on your
+ship they aren’t going to miss a stealthy
+little pod because that’s exactly what enemy
+counterfire in the form of stealthy little
+missile and torpedoes is going to look like,
+whereas a clearly visible pod helps friend
+or foe rescue you and be able to easily track
+you so they don’t have to worry you’re
+a missile.
+If your enemy doesn’t take prisoners, or
+doesn’t return them in good condition, so
+to speak, then you shouldn’t be wasting
+space and mass on lifepods that could be spent
+on more armor and bigger guns.
+That way you improve the odds your enemy is
+relying on your sense of honor and mercy not
+the other way around.
+Especially as they might not have any.
+Also, given the technologies we’ve been
+discussing, your lifepod basically amounts
+to a convenient shipping box they can pick
+up and then scan your brain for everything
+it has or dump you’re revived mind into
+the Matrix, or a virtual nightmare that makes
+a torture chamber look like a vacation resort.
+Instead you stay on your ship, no matter how
+damaged, because it is not drifting through
+space waiting to explode at any moment and
+on fire.
+Anything actually capable of exploding is
+a potential power source too, whereas generally
+speaking things which make power aren’t
+really prone to explode.
+That’s more of a notion of old steam engines
+blowing or early nuclear reactors melting
+down.
+We will leave a caveat that a ship running
+on antimatter could explode if containment
+was lost but that’s something that should
+vaporize you instantly with no warning or
+reaction time if it happens.
+You’re not going to have containment slowly
+break down.
+And it is your power source and it is a very
+easy one to tap if you’ve got safe storage
+for it, so you’re not losing power to it
+unless you’ve run out of the stuff.
+Your magnets contain the antimatter by having
+electricity flow through them, and you leak
+antimatter out of those to generate power,
+so it's fairly straightforward design.
+Also, it's critical to always remember that
+when it comes to interstellar spaceships,
+the energy needed to move you up to and down
+from those kinds of speeds dwarfs the amounts
+of energy you need to run life support, even
+on slow boat arkships.
+Unless you’re going less than 1% of light
+speed on a ship trying to keep a whole O’Neill
+Cylinder lit for thousands of years, you didn’t
+need as much energy to run life support as
+to get up to speed.
+That generally applies to interplanetary speeds
+too, they’re smaller but the trip durations
+are too.
+And when it comes to very core life support
+like recycling air and water and keeping the
+heat going, bigger ships are better for this.
+I know on the show they’ll have the Enterprise
+lose power to life support and within minutes
+no one can breath or they’re freezing to
+death but on a ship that big they should have
+days before there’s a noticeable drop in
+temperature or a dangerous uptick in CO2 levels.
+So the key to good ship design is making sure
+you have backup power sources that are likely
+to still be accessible and usable if something
+blows up and which are scattered about so
+as to make them hard for a single source of
+damage or sabotage to get.
+You get a design philosophy of making sure
+lots of stuff has batteries and a protocol
+for keeping them fully charged and compatible
+with each other.
+You definitely don’t do like they did in
+Star Trek Voyager and have a holodeck power
+supply that’s not compatible with the rest
+of the ship, which is a great example of lazy
+writing when you want to have food rationing,
+remove replicators from play, and still have
+side episodes on the holodeck.
+Your other design philosophy becomes making
+your big dumb heavy mass useful stuff.
+When it comes to radiation shielding, for
+example, there’s no particular reasons sheets
+of metal couldn’t be made of spare parts
+or feedstock for your printers or even batteries
+instead of just dumb metal.
+Bulletproof batteries as components of armor
+has been discussed a lot in speculation for
+combat body armor or exoskeletons, and this
+general dual-role is always advantageous whenever
+you need to keep your kit or cargo light,
+even when the thing in question might not
+be optimal for either role because twice as
+much of it does both jobs better.
+This option is better when cost is less important
+than mass and when operations are far from
+resupply.
+It also works best when the multiple roles
+are either freebies or likely to be done.
+So having the hubcaps of your car built to
+be used as emergency shovels or expandable
+fuel drums sounds neat but it's hard to imagine
+you would need that function very often and
+it's likely to make for an expensive hubcap
+that doesn’t do its hubcapping job as well.
+Alternatively it’s pretty normal for soldiers
+to replace their shoelaces with 550 parachute
+cord or wrap it around the hilts of knives,
+or at least it was when I was in the Army,
+because it does both of those jobs well and
+now you’ve got a nice, cheap, sturdy rope
+able to hold 550 pounds on it and it made
+for nice bootlaces and wrappings for tools.
+Since you often have to carry all your gear
+with you, and you want as many tools and options
+as possible, anything that’s light or multi-use
+is really nice, even if it’s not really
+very good for a given use, since it will get
+the job done with a little extra skill or
+effort.
+A multi-tool in your kit is great, so is Swiss
+Army Knife, but a workshop with those individual
+tools in large non-compact form is much better,
+just not very mobile.
+In this same vein of thought, you probably
+try to aim to make sure that your packaging
+for things is easily recyclable into feedstock
+for your printers or forges.
+Picking water bottles that can be converted
+into airtight hull patches probably isn’t
+worth paying ten times as much or using a
+substance that’s much heavier or worse at
+being a water bottle, but hunting for those
+occasions where a dual or multi-use is viable
+is what will be an important trait for a ship’s
+quartermaster or the consultants or companies
+designing loadouts or making gear back on
+Earth.
+Now that takes us to ship’s crashing on
+Earth and of course we need to start by pointing
+out that this is a strange case.
+We don’t really expect spaceships to land
+on planets themselves, though crashing on
+a planet might be another story.
+That’s also assuming the modern conditions
+of spaceflight, and future ships might be
+configured for air and space.
+Or they might be highly modular and able to
+restructure.
+Truly, that’s quite plausible.
+In the vacuum, aerodynamic shaping isn’t
+very important, but those are long journeys
+and plenty of time to reconfigure a ship.
+Indeed a shuttle able to alter form while
+in flight to optimize based on current speed
+and air conditions, with something like memory
+metal or parallel options, would be invaluable
+to a good spaceplane.
+Note that an actual saucer shape like the
+classic UFO is not a good vehicle for air
+travel, and we’re including it today in
+discussion because flying saucers and crashes
+are so often central to discussions of crashed
+spaceships.
+Now the saucer is not a great shape with modern
+flight in mind but it would not be unfair
+to rebut that something like anti-gravity
+technology or abundant fuel with ultra-high
+exhaust velocities or which circumvented the
+rocket equation can get around this shape
+issue.
+Indeed we were talking about how to do that
+last week when we were contemplating if you
+could own your own personal spaceship.
+Anti-grav or superior fuels basically lets
+you casually drop through an atmosphere rather
+than have to squeeze every drop of fuel for
+all it can offer and break using air drag.
+We don’t have these so we have to squeeze
+every penny, but this is exactly what any
+advanced civilization would want for its spaceships
+and aircraft, and they would be researching
+it if they had any plausible scientific leads
+to those technologies or materials.
+So if it is possible they would probably have
+it.
+Also, if your ship is crashing into a planet,
+it might be an unplanned trip entirely, and
+a saucer shape is fine for a void-craft not
+planning to be in the air much.
+There’s a lot of pros and cons to many different
+shapes for vehicles, saucers are not generally
+considered great candidates but often it would
+depend on the situation.
+For instance a ring is a great shape for a
+ship for crew accommodations, to spin it for
+artificial gravity, and that becomes a saucer
+if you cover the empty middle and use it for
+lower gravity facilities and storage.
+And while spin-gravity implies you haven’t
+got anti-gravity technology, since you’d
+be using gravity plating in the ship or something
+like that, it’s worth noting that such technologies
+probably burn energy, while spinning a ship
+doesn’t, once it's going.
+Just because a civilization can manipulate
+gravity doesn't mean they do it everywhere,
+same as we didn’t stop using windows for
+lighting just because we invented candles
+and lightbulbs.
+That’s a thing to remember when discussing
+topics like these, and futurism in general,
+sometimes a technology utterly eliminates
+a problem, other times it might seem like
+it would but then doesn’t.
+Televisions are now comparable in price to
+windows for instance, but we don’t do a
+lot of TV-window swap in houses and folks
+often thought we would in older scifi, same
+as TV also didn’t get rid of radio or books.
+On a spaceship though, windows might be rarities,
+in favor of the main viewer approach we saw
+on the bridges of Star Trek vessels.
+Anyway, when it comes to a ship landing or
+crashing, whether or not it survives atmospheric
+entry is all about how good their metals and
+controls are.
+Folks talk about ships burning up as they
+fall from orbit and being shattered if they
+hit, but that’s assuming it's not a super-material,
+and if your civilizations had those then that’s
+probably what your ship hull is made from.
+And it need not be that super of a material
+either.
+It's weird to imagine something that better
+resembles the child of a skyscraper and mountain
+than an airplane surviving a plummet from
+orbit but that is not actually that weird.
+Indeed most of the destruction is from decelerating
+from orbital speed, not the drop itself, which
+presumably ends with the object impacting
+at what we call terminal velocity.
+Which is badly named as folks assuming it
+has to do with dying – which admittedly
+often would be the case for anyone hitting
+the ground at terminal speed – but rather
+is just the maximum speed a given shape can
+have for a given gravity and atmosphere, and
+its own weight.
+Where the air drag counters the pull of gravity,
+as air drag increases sharply with speed.
+One minor caveat on that though, not only
+does an object have to slow down if its moving
+at orbital speed – rather than just hovering
+above the planet as sci fi spaceships often
+do – but there does need to be enough air
+in its path to slow it, which means an actual
+solid mountain dropping on the planet is not
+going to be cushioned much by the air let
+alone slowed from orbital speeds – as is
+the case with big asteroids.
+Alternatively almost anything hollow like
+a ship will be, but if one is big enough,
+like a superstar destroyer, that’s should
+not be taken for granted.
+Regardless, terminal speeds are shape based
+and not that high compared to ship speeds,
+for instance bullets, which are aerodynamic
+and have a high terminal velocity as a result,
+often have terminal speeds of 45 to 60 meters
+per second, or 100 to 134 miles per hour.
+A human in belly flop attitude is generally
+about 120 miles per hour and in head-dive
+attitude potentially as high as 180 miles
+per hour, or 80 meters per second.
+You can definitely build something, even with
+modern materials, that is going to survive
+that, nominally, and it is worth noting that
+spaceships are likely to be built with forward
+collision in mind.
+And if the ship had managed to slow to terminal
+speed, we are in the realm where something
+can be built tough enough to handle that collision.
+We also have to contemplate the option for
+drag chutes built from hyperstrong materials,
+and the characteristic of a drag chute or
+parachute made from something as strong as
+graphene can let you get away with enormous
+chutes for little mass, or ones with enormous
+tensile strength that won’t be shredded
+by the force of supersonic air.
+Whether or not the crew survives that is a
+lot harder to say, but an airbag and seat
+belt combination could save you at that collision
+speed, and it's not hard to imagine improvements
+on that.
+I recently rewatched the first episode of
+the old “My Favorite Martian” TV show
+from the 60s where Ray Walston is playing
+a Martian known as “Uncle Martin” to a
+local reporter who found his crashed ship
+and is helping him try to get what he needs
+to repair it.
+He had been on Earth as an anthropologist
+studying us and in practice you would think
+he could just signal Mars especially as they
+should be wondering what happened to him but
+the thing about an unexpected UFO crashing
+on Earth, saucers or whatever, is that we’re
+assuming it is an authorized mission.
+The joke often goes that it seems weird a
+spaceship could cross trillions of kilometers
+of space then break down in the last hundred
+in our atmosphere, but in practice that’s
+pretty plausible.
+Coasting through space is certainly the most
+likely time for damage as a whole, because
+it is long period, but it also gives you lots
+of time to fix things, and it is only more
+likely because there’s so much more of it.
+Slamming on the breaks in a thick atmosphere
+is way more likely, meter for meter, to damage
+your ship.
+And that’s assuming it was in good shape.
+Something we’ve often discussed in other
+episodes is that the normal reasons given
+for why a UFO came to Earth tend not to work
+out well on contemplation.
+As I like to say, if you want to collect human
+DNA, you don’t abduct people, you abduct
+a vending machine or postbox and take DNA
+off the coins and letters instead.
+Reasons that tend to make more sense are hard
+but some examples we’ve come up with are
+smugglers sneaking onto planets to steal unique
+trade items for a collector’s market.
+Which means they get down here and raid museums
+or flea markets or comic book stores or garbage
+heaps for memorabilia and they are probably
+rather marginal operations who can’t really
+expect to get repairs at the local alien navy
+base.
+Your Han Solo and Chewbacca sort of situation,
+but they’re here to get mint-condition collectible
+action figures of Han and Chewie to sell to
+aliens who prize primitive world collectibles
+before they’ve made contact with the wider
+galaxy.
+And they’re not getting shot at by anyone
+because the quarantine isn’t that tight,
+you get a fine and jail time if they catch
+you and the sales are all black market too
+so they want you for tax evasion, but unless
+their monitors start picking up blatant violations
+like taking over Earth or dancing around in
+front of news crews in Times Square, they’re
+not falling over themselves to hunt you down.
+Obviously a case better suited for story than
+fact, but it is a more logically plausible
+reason for why an alien ship might crash on
+Earth.
+Their ship is poorly maintained and they’re
+dodging patrols and scans, albeit half-hearted
+ones that might be okay with a little bribery,
+and they cut corners once too often and the
+ship slams into the ground, also known as
+lithobraking.
+But they’re a high-tech species so even
+though their ship is a relative hunk of garbage
+they still have their civilizations apex tech
+all over, same as some rust bucket car from
+the 1980s still has the owner’s smartphone
+and Bluetooth radio in it.
+And I imagine in that case that the norm is
+going to be a fairly impressive 3D printer,
+though that might be up on the mothership
+and your shuttle to the planet hasn’t got
+one.
+But then that ship probably has a drone that
+you could order to come bring you one.
+In the event of being a crashed alien on a
+low-tech planet though, odds are pretty decent
+you’re not entirely flesh and blood and
+if you’ve been smuggling on that planet
+then it's very likely you do it in some android
+body designed to look human, or maybe a dog.
+Your ship also probably does not have a cloaking
+field to make it look like a police box, or
+something locally mundane, but it wouldn’t
+exactly be strange to have camo netting on
+your ship or some sort of chameleon hull either.
+Crashes in terms of air-going vehicles also
+aren’t quick either, you’ve got minutes
+worth of plummeting and failures before you
+hit to make sure you’re strapped in and
+your airbag is active.
+Though an ejection seat is plausible too.
+By default of course these aren’t supposed
+to be subtle, a crashed vehicle wants to be
+highly visible to get attention and help,
+and a crashed spaceship ought to be ultra-visible,
+or at least the mushroom cloud erupting around
+it would be, but in a case like this stealthy
+crashes are reasonable.
+I could imagine a flying saucer for instance
+was actually an ejection pod on a bigger spaceship
+or shuttle and the ship itself took the crash
+or detonated in a way to make it look like
+an asteroid while the escape pod tried for
+a stealthy landing, given the time and distance
+involved this might not be at the same time
+either.
+Not that a saucer is a great shape for that
+purpose but it's not terrible, and for the
+record I’m an ultra-skeptic on aliens visiting
+Earth because I don’t think there are any
+in this galaxy.
+I tend to take for granted, if they existed
+and could visit they would, and we wouldn’t
+need to debate if they had, any more than
+we need to debate the existence of any foreign
+nation on this planet for instance.
+And if such a ship were recoverable in any
+way, even if it was a garbage scow by their
+civilization’s standards, that thing would
+still be worth a hundreds times its weight
+in gold and back-engineering its technology
+would be too important and too useful to waste
+time on secrecy, in my opinion.
+It might make for good stories or alien theories
+but it's a bad strategy to me.
+So, to me that’s a reasonable case, if a
+crashed ship survived we would find it a gold
+mine and there’s a good chance it would
+survive…
+Now, as to what an alien who crashed here
+and escaped their ship would do, stranded
+on a primitive world without their ship or
+gear, that’s another topic for another time.
+One thing we didn’t really touch on today
+was all the vectors that damage might come
+from and some are less obvious like someone
+hacking your control systems or doing a ransomware
+strike on your navigation data.
+It’s always hard to imagine what the internet
+will look like in the future or in a multi-planet
+civilization but I can’t imagine it being
+any less intertwined into our existence than
+nowadays and the internet and digital world
+are now a sphere of our existence the same
+as the ground we walk on or the atmosphere
+we breathe.
+And Security inside it is every bit as important
+as physical security.
+That’s where a virtual private network,
+or VPN, like NordVPN can help, so that every
+random webpage you visit, and every hacker
+who visits them, doesn’t know your IP address
+and other data, and use them to hurt you.
+Encrypting your personal traffic makes it
+harder for others to spy on or attack you,
+just like having curtains on your windows
+and locks on your door.
+NordVPN makes it easy to encrypt your data
+anywhere and send it through any of their
+5400 servers in 59 different countries.
+You can even double route your data through
+two servers for extra encryption, and there
+is an automatic kill switch to protect you
+in case the connection drops.
+NordVPN is also easy to use, you can turn
+it on with 1-click or even automatically,
+it works with on up to 6 devices and on different
+platforms like Windows, Android, iOS, macOS,
+Linux, and even your Android TV.
+No more bandwidth throttling, no more geo-restrictions
+on shopping or which videos and games you
+can play based on location, and NordVPN’s
+Threat Protection upgrade offers an enhanced
+layer of protection against malware, intrusive
+ads and web trackers.
+You can check out their website to learn all
+the benefits NordVPN offers, just go to NordVPN.com/isaacarthur
+to get a 2-year plan plus 4 additional months
+with a HUGE discount.
+It’s risk-free with Nord’s 30-day money-back
+guarantee!
+Incidentally someone asked me recently if
+I’d consider doing more current events material
+for spaceships, what’s going on and what
+more near term ship innovations were on the
+radar, and I think we might do a deeper dive
+into upcoming spaceship technologies of the
+next couple decades, but for current events,
+there’s already a lot of great space channels
+like Marcus House, Scott Manley, Launchpad
+Astronomy, or Everyday Astronaut.
+And if you’ve never seen any of their episodes,
+they've all got amazing catalogs of shows,
+and make sure to give them a like and subscribe
+while you’re at it.
+Speaking of episodes, today is an example
+of an episode that was inspired by another
+one and which I started writing a follow up
+to almost as soon as I finished writing and
+recording this one, and we’ll be contemplating
+the case of being stranded on an alien world,
+or 4 different cases of it, in our Scifi Sunday
+episode on November 13th.
+Before we get to November though, we have
+our livestream Q&A coming up this Sunday,
+October 30th, at 4pm Eastern Time, and I hope
+you’ll join me and my wife and cohost Sarah
+as we answer your questions from the chat
+live.
+Next week though we’ll start November off
+by looking at how we might extend our Sun’s
+lifespan by refueling our Sun so it can continue
+for many billions or even trillions of more
+years, then the week after that we’ll return
+to a more modern timeframe as we contemplate
+what automated economies will really look
+like and how that might affect unemployment.
+As always, if you want alerts when those and
+other episodes come out, don’t forget to
+subscribe to the channel and hit the notifications
+bell.
+And if you enjoyed today’s episode, and
+would like help support future episodes, visit
+our website, or check out the links in the
+episode description, for ways to support the
+show or for our forums for discussing all
+these awesome topics and many more.
+You can also try out our audio-only versions
+available on itunes, spotify, audible, amazon
+music, soundcloud, and many more, or get our
+extended editions and exclusive episodes on
+Nebula.
+Until next time, thanks for watching, and
+thanks for giving this show another great
+year!

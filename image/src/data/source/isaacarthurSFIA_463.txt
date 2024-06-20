@@ -1,0 +1,683 @@
+This episode is sponsored by Curiosity Stream
+We’ve spent two hundred episodes discussing
+the amazing things that might be possible
+in the future,
+but what about the impossible?
+So today is our 200th Episode here on SFIA!
+It’s been quite a journey to get here, and
+I thought we’d indulge in some commemoration
+of the event, but in deference to any new
+watchers here just for this topic, we’ll
+save that for the end of the episode, beyond
+saying now just how grateful I am to everyone
+for making this occasion possible.
+We’re also about to hit the fifth anniversary
+of the show in just under a month, and I wanted
+to thank everyone for all the inspiration
+and well wishes over the last five years,
+and of course for tuning in every week.
+On the one hand, the topic of things which
+will never exist seems an odd one for a show
+focused on discussing all of the awesome things
+which might come to exist in the future, and
+I was surprised this topic won our poll for
+episode 200, but on the other hand, we do
+often emphasize that our goal here is to look
+at what might come to be, within the realm
+of known science.
+We rarely drift outside that and I always
+try to announce it loudly when we do, because
+the difference between science fiction, science
+fantasy, and scientific futurism is that focus
+on scientific realism.
+Probably some of the best known breaks we
+have with science fiction is that in almost
+all sci-fi, you tend to have faster than light
+travel, artificial or anti-gravity, and force
+fields, but these are examples of things we
+have discussed in other episodes among our
+broad inventory of 200 videos, and I wanted
+to cover new material today.
+While those last two, gravity manipulation
+and force fields, might be possible under
+science we just don’t understand yet or
+have analogues we might be able to create
+under known science, FTL seems to be a different
+kind of impossible.
+Faster than light travel or communication,
+which are tied to time travel as well, take
+a while to show how they aren’t just outside
+known science, but actually rather contradicted
+by common sense as your understanding of the
+Universe grows, as they are really the same
+as asking why a cause can’t happen before
+an effect, why you can’t have 101% of a
+pile of rice, or why you can have a negative
+dollar in your pocket, or a negative cup of
+water.
+Of course, you can have these things in mathematics,
+but the physical world and the mathematical
+world are not the same places.
+Check out the FTL series for more details
+about why we tend to be skeptical about ever
+having FTL or time machines.
+But speaking of mathematical worlds brings
+up a different sort of impossible: places
+which may exist but which we may never be
+able to see or visit.
+Concepts like string theory and the multiverse
+work great in theory, and may indeed exist,
+but we have no inkling about how we might
+look at or travel to them.
+They may indeed not exist outside of the imaginations
+of very clever physicists.
+There is, after all, no observable evidence
+of them; or they may exist and we may figure
+out how to observe or even visit them one
+day.
+If not though, it is an interesting philosophical
+quandary if they would actually be real in
+any meaningful sense.
+But there may be things in our own Universe
+just like that.
+For instance, you can’t ever see an atom,
+because they are smaller than the wavelengths
+of visible light.
+To really see an object, you need to use a
+wavelength equal in size to or smaller than
+that object.
+The problem is, photons are counter-intuitive
+when it comes to density.
+Taking some liberties here with the word “size”,
+we can imagine a photon as big as or bigger
+than a planet, but according to our models
+contains just a few trillionths of a trillionth
+of a trillionth of a joule, a joule being
+the approximate energy needed to lift most
+handheld objects from your pocket over your
+head.
+That infinitesimal fraction is spread over
+a region wider than a planet, and would radiate
+in the Extremely Low Frequency Radio Bandwidth
+range of a mere 30 hertz or so.
+The ELF band is used for submarine communications
+and is also produced by lighting strikes and
+other disturbances of Earth’s magnetic field,
+as opposed to the kilohertz and megahertz
+ranges we use for listening to the radio.
+When you think about how tiny an amount of
+energy that is spread over such a vast region,
+it’s simply ethereal.
+On the completely opposite end of the spectrum,
+we have x-rays, whose wavelengths are about
+atom sized, and gamma-rays, whose wavelengths
+are about atomic nucleus sized - far smaller,
+and hugely more energetic.
+With these we can image atoms and subatomic
+particles, but they have so little mass and
+energy themselves, and these photons have
+so much, that you are utterly disrupting whatever
+you look at with them, even before we consider
+quantum uncertainty.
+What if something were even smaller?
+We don’t know and it’s hard to say, since
+we need yet smaller and more energetic photons
+to detect them.
+A photon with about a joule of energy all
+to itself would be an Ultra-high-energy gamma
+ray in the exa-electronvolt region, with a
+wavelength of just a bit under a trillionth
+of a trillionth of a meter, already more than
+a billion times smaller than a proton.
+And yet it would contain a billion times more
+energy than that proton, so it would be like
+trying to examine a golf ball by bouncing
+a mountain off of it, and anything that small
+would presumably be even less massive.
+Yet it might one day be done.
+However, if you’ve seen our episodes discussing
+micro-black holes you know that it is energy
+density, not mass, that causes black holes,
+and in theory you could have a black hole
+a mere 10^-24 meters in radius, a trillionth
+of a trillionth of a meter across.
+It would weigh about a ton, with all its matter
+stuffed in there, and that’s a lot more
+than a joule of energy: about a billion, trillion
+times more.
+By the time you’d get to 10^-36 meters,
+as small to an atomic nucleus as that nucleus
+is to our planet, a photon of that wavelength
+would be carrying around 100,000,000 joules
+of energy.
+That’s about the same mass-energy a black
+hole that size would have, and its expected
+life time would be a mere 10^-45 seconds.
+How would you detect anything down at that
+scale, as small itself to an atom as that
+atom to a planet, being hit by something carrying
+as much energy as a freight truck on a freeway,
+and so dense that our photon actually becomes
+a black hole?
+If you’ve ever heard of a Planck length
+or a Planck time, the so called minimum units
+of space and time, that’s what those are
+and why, more or less.
+We’ve good reason to think that nothing
+smaller than that can exist in this universe,
+and that indeed maybe even black holes, normally
+thought to be point-like at their central
+singularity, are actually constrained to be
+no smaller than that.
+The Planck length is arguably the minimum
+size that quantum gravity effects are able
+to be established, so nothing smaller than
+that is expected to exist because it would
+lack the quantum interactions necessary for
+it to exist by our definition of existence
+anyway.
+Also, to observe something smaller than the
+Planck length would actually require a photon
+of such high energy that is expected to collapse
+into its own black hole and disrupt anything
+that small we’re trying to measure.
+So while such tiny objects might exist, the
+physical measurements and interaction of those
+objects with systems to detect them are impossible
+using our laws of physics.
+On balance, though anything smaller than a
+Planck Length or a unit of time shorter than
+a Planck Time probably can never exist.
+Now these Planck units, and there are many
+besides distance and time, are non-coincidentally
+calculable by using combinations of five physical
+constants, the speed of light, the gravitational
+constant, the reduced Planck Constant, the
+Coulomb Constant, and the Boltzmann Constant.
+Planck units are considered our preferred
+means of communicating physical properties
+to aliens, rather than metric or imperial,
+as they are based off these fundamental physical
+constants.
+But they also often imply hard limits on reality
+too, and not always minimums.
+For instance Planck Temperature is around
+100 million, trillion, trillion degrees.
+That’s not only a lot hotter than any star
+at its core, and hotter than anything we’ve
+done in a lab, and we can outdo stars in a
+lab, but it’s thought to be the hottest
+anything could be, and probably the temperature
+at the Big Bang.
+Nothing hotter can ever exist.
+Physics breaks down beyond that, as likely
+do all the basic physical forces, though if
+we ever get a working Quantum Gravity theory
+or Grand Unified Theory of Everything, that
+might change.
+There’s a popular and very flawed notion
+of looking at the scale of the universe like
+a Matrioshka Doll, comparing atoms to solar
+systems and so on, it’s handy for quick
+and rough analogies but often gets extrapolated
+to imply deep significance.
+We just saw the bottom of that scale and how
+it breaks down, but it does at the top too.
+We don’t know how big the Universe is.
+It might be infinite as we can only ever see
+events in our Hubble volume, that expanding
+sphere around us in our expanding Universe
+where things are not moving away faster than
+light.
+We can and have mapped the Universe significantly
+further out by projecting our observations
+of distant galaxies that were within our hubble
+volume when the light left them billions of
+years ago.
+The light from these distant galaxies has
+only just reached us, but today, the space
+between us and these galaxies is expanding
+at superluminal velocity.
+In the future, when the light leaving those
+galaxies is slower than the speed at which
+they are moving away from us, they will vanish
+from our telescopes.
+This is the Observable Universe, currently
+47 billion light years in radius, which seems
+rather big since the Universe is only 13.7
+billion years old, you wouldn’t think we
+could see wider than that, but remember everything
+is flying apart, when we see a photon arriving
+from some source 13.7 billion years ago, we
+were a lot closer to that object when it left.
+So it will be impossible to send a message
+to anyone on opposite sides of the volume
+using radio or light, no matter how powerful
+you make the signal, because light will never
+be able to catch up with the object it is
+being aimed at.
+The difference between the Observable Universe
+and a Hubble Volume is the latter is smaller
+and is inside our cosmological event horizon,
+meaning we can see events that occurred inside
+it.
+Out past that, we can see stuff that has happened
+but will never get any updates and could never
+send a signal or a ship that could reach it.
+So our maps of those objects that have passed
+beyond our Hubble volume are estimates only.
+An accurate map of what the whole universe
+looks like will never exist while we are bound
+by the postulate of causality.
+A critical concept there too, the speed of
+light is really the speed of information,
+and its information that can’t be allowed
+to move faster or backward in time, because
+it messes with causality, galaxies expanding
+away from each other faster than that speed
+doesn’t violate that.
+In truth, we can only infer the existence
+of regions beyond even that because we can’t
+think of any reason why our Universe would
+be a sphere exactly that size centered around
+Earth.
+The whole Universe could be a little bigger,
+or a lot bigger, or even infinite.
+When it comes to infinity, much like the infinitesimal,
+not only can’t we ever get there but we
+won’t even get close.
+But before you get up to that scale, everything
+gets rather plain and homogenous, we call
+this the End of Greatness, and that’s only
+a few hundred million light years across,
+representing volumes not even a percent of
+a percent of a percent of the Observable Universe.
+This is essentially the zoom point where there’s
+nothing really unique anymore, such volumes
+are hardly identical to each other, but you
+stop having unique objects that can really
+be thought of as related and meaningful the
+way a galaxy for instance is.
+It’s the top of our scale as sub atomic
+particles are the bottom, if you want to think
+of things in that sense of zooming in or out
+and see a smaller or bigger version of the
+same thing, which again is wrongheaded and
+inaccurate anyway.
+Of course if the Universe was infinite, and
+you had an impossibly fast spaceship, you
+would actually begin to see genuine identical
+repetition eventually if you traveled far
+enough.
+In an infinite system, you will always have
+repetition of any pattern, the smaller that
+pattern the more often, and if we think of
+a Hubble Volume as the maximum meaningful
+chunk of space – which would obviously not
+be true if you had an FTL ship to be fair
+– we’d see that repeat eventually.
+See the Infinite Improbability Issues episode
+for exploration of this concept, but the sticking
+point is that such being the case, you could
+never actually know if the Universe was infinite
+and repeating randomly or actually a closed
+loop of that size, and as we note in that
+episode, practically speaking it doesn’t
+matter, if the infinite does exist, we can
+never actually experience or prove it without
+breaking physics as we know it.
+This brings us to another thing which will
+never exist, and that’s True Immortality.
+We talk about life extension a lot here, and
+not just of mere centuries, we’ve contemplated
+millions of years of life or even outliving
+the stars themselves in Civilizations at the
+End of Time.
+We talked about practical limits on even digital,
+backed up minds in Digital Death, where you
+effectively get a half-life rather than a
+lifespan.
+But true immortality requires the infinite,
+and even if you could find a work around to
+the Heat Death of the Universe, there’s
+always a finite chance of death no matter
+how robust and sturdy you are or how many
+backup copies you have, and over infinite
+time, the Grim Reaper will eventually get
+you.
+Of course with infinite time and space, he’d
+spit you back out again too, even if just
+as a deluded Boltzmann Brain that coincidentally
+had randomly assembled memories identical
+to your own at this moment.
+A Boltzmann Brain is a self-aware entity that
+arises by chance because of random fluctuations.
+In an infinite universe with infinite time,
+the creation of even the rarest things become
+possible.
+But continuity can’t be achieved regardless
+because you have to be able to store and sort
+all those memories and eventually you hit
+a wall where you’d need all the mass of
+a galaxy to store your memory, or more.
+Another thing that can’t actually exist
+is what we call the Library of Babel, an extension
+of the notion that an infinite number of monkeys
+with typewriters will eventually bang out
+a copy of Shakespeare’s classics by random
+typing.
+Of course they’d also have banged out every
+other book too, including far more copies
+of random gibberish, which together make up
+the Library.
+There’s simply too many unique combinations
+of letters in a book.
+A typical thick novel might have a million
+characters in it, and even if we limited those
+characters to the 26 lowercase letters, a
+space, a comma, a period, and an apostrophe,
+30 characters, you would have 30^1,000,000
+possible combinations.
+If those were each in one kilogram hardcover
+books on shelves, that library would mass
+around 10^1,500,000 kilograms, a mass that
+is so meaninglessly huge that it dwarfs the
+mass of Observable Universe by far more than
+that Universe dwarfs an atom.
+Indeed even if you stored each character of
+the books on a single atom instead of a bit
+of paper, you still would need untold universes
+to store the Library of Babel on.
+So don’t worry about ever getting bored
+from life extension, you’d never run out
+of new books to read.
+Admittedly most would be utter incomprehensible
+garbage, but that’s only a slight step down
+in quality from a lot of books I’ve had
+the misfortune to read.
+Speaking of bad fiction, this is another type
+of impossible things which are possible but
+just really unlikely in any practical sense,
+and we see many in science fiction.
+Anthropomorphic portrayals of aliens can be
+accurate in a sense of having some similar
+thinking, as you’d expect technological
+civilizations to need some similarities of
+attitude to crop up, like curiosity and teamwork,
+but visiting an alien planet where you can
+reach up to an alien tree and eat an alien
+apple and shake an alien hand is not too likely.
+It’s far more likely that if the atmosphere
+didn’t kill you that the chemicals in the
+food would.
+So you might grasp their tentacle while wearing
+a hazmat suit and they might reply with their
+own traditional greeting of vomiting on you
+to share their meal in the spirit of unity
+and friendship, but as you’re running back
+to the airlock and decontamination shower
+at a gallop before the acid eats through your
+suit, you’ll probably decide future conversation
+can be had remotely.
+And indeed probably only through computer-translated
+texts, since their equivalent to speech might
+not be just sounds you can’t reproduce with
+your throat or hear with your ears, but involve
+ejecting different flavors and acidities of
+spit at you.
+And while it’s common for scifi to show
+problems for live diplomatic events where
+you accidentally insulted some bizarre custom
+of theirs, that’s probably an understatement.
+I doubt their diplomats and traders would
+be any more easily offended than ours, but
+they might ask if you could please stop breathing
+in public every few seconds, or getting irked
+why we seem bothered at them relieving themselves
+in the middle of a conversation.
+For this same reason I’d say interspecies
+romance, a staple of science fiction too,
+is off the table, but I never ceased to be
+amazed at all the strange stuff people are
+into.
+This sort of possible but impractical limitation
+applies to a lot of other ideas too, not just
+light sabres and melee combat, bringing a
+knife to a laser gun fight, or giant war robots,
+but things like teleportation too, where even
+when we’re discussing versions of it that
+involve copying a person from some digital
+recording, or even just a digital recording
+of their mind, the sheer bandwidth involved,
+and energies needed for a rapid scan or rapid
+print, is likely to often make it infeasible
+if technically possible.
+Many times even when we say technically possible
+we really only mean on paper anyway, and a
+perpetual motion machine is for instance possible
+on paper, since while we often use that to
+mean something that can generate free power,
+its basic form is something that just keeps
+moving without slowing down, and of course
+that’s fine under Newton’s First Law,
+the core of physics itself.
+An object in motion will stay in motion, unless
+acted on by some other force.
+But there’s always some other forces around.
+Forget about friction on a spinning wheel,
+even a sphere turning around in the vacuum
+of space will eventually slow down, because
+there is no true vacuum, and even in the quantum
+sense there’s random stuff popping in and
+out of existence all the time.
+Interesting side note, since so many classic
+scifi space battles involve fighters dogfighting
+like jets in an atmosphere, I’ve seen some
+fictional settings justify this cleverly with
+etheric rudders or similar, and with all that
+quantum bubbling going on, it is vaguely conceivable
+someone might find a way to interact with
+that strongly and thus make a rudder or fin
+that could pivot around by plowing through
+that.
+This might also permit a reactionless spaceship
+drive, which could be very handy.
+Critically though, even when there’s nothing
+there’s always something, something to make
+stuff break down or act less efficiently,
+so objects built to last a trillion years
+without repairs are unlikely, and we spent
+last episode just talking about all the extra
+maintenance space stations, megastructures,
+and spaceships have from wear and tear happening
+in empty space.
+That applies to another popular notion for
+immortality and resurrection, the idea that
+a sufficiently powerful computer could reconstruct
+the long dead, sort of the reverse case of
+predicting the future by predicting every
+action or even every particles motion.
+A fairly dark example of that is Roko’s
+Basilisk, where a technological singularity
+quasi-violates causality by threatening people
+in the past not to interfere in its eventual
+creation or it will resurrect and torment
+them.
+That’s a pretty crazy notion and some folks
+get worked into dread worrying about it, there’s
+no need though, no computer could ever do
+it.
+We explained how the future prediction angle
+could never be done, no matter how powerful
+the computer, in our episode on Psychohistory,
+and for much the same reason that the Library
+of Babel can’t exist, even if you kept it
+more modest, like only allowing actual words
+not random characters or only books a few
+pages long.
+There’s just too many permutations, even
+ignoring quantum, which we can’t.
+See, a person buried in the ground doesn’t
+stay that way for long.
+It’s a bit morbid to say it but your brain
+is gonna get eaten, and it’s gonna decay
+and outgas, and those bugs are gonna exhale
+and inhale and excrete and die and get eaten,
+and good luck tracking the vectors on those
+particles.
+Freeze someone or get them fairly fresh and
+sure, but don’t go hoping to ever meet a
+resurrected Ben Franklin, I’d give time
+travel better odds than that.
+That’s not to say we wouldn't cheat if we
+ever got the ability to see the past, not
+even travel there, but detect all atoms and
+energies at a particular place and time.
+We could resurrect a copy of Ben Franklin
+at the moment of his death, or very soon after.
+It wouldn’t be Ben Franklin, but the copy
+would stake their life on the fact that they
+were, so perhaps it wouldn’t matter.
+Ultimately, we can’t of course say what
+is or isn’t possible, there’s always room
+for surprise, but we can try to look at what
+might be possible under known science or how
+we can achieve something similar or even better
+than the wildest dreams of scifi without needing
+radical changes in our understanding of the
+Universe.
+Or we can speculate on an example of such
+a radical change or technology and see what
+it might imply, and that’s what we’ve
+tried to do over the last 200 episodes and
+what I hope we’ll be able to do for another
+200.
+Certainly there’s no fear of running out
+of stuff to talk about, we only scratched
+the surface of most of these concepts today,
+and the future might not allow anything we
+can imagine, but it certainly allows a lot,
+and seems to offer us new dreams to explore
+every week, so we’ll keep on doing that.
+Folks say that when it comes to the future,
+the sky’s the limit, but as we say here
+on SFIA, it most certainly is not.
+So 200 episodes now, each its own documentary
+effectively, and I wanted to talk a bit about
+that journey, but first, if you have seen
+all 200 episodes and can’t wait till next
+week, try out Curiosity Stream, with over
+2400 documentaries on science and learning
+from some of the world’s best filmmakers,
+Curiosity Stream offers a vast supply of thought-provoking
+videos on many fun, educational, and inspiring
+topics.
+Given our topic for today, I’d particularly
+recommend Journey of the Universe, a chronicle
+of humanity’s journey to understand our
+universe and the math and physics that helped
+us find out what was possible.
+You can get unlimited access starting at just
+$2.99 a month, and for our audience, the first
+30-days are completely free if you sign up
+at curiositystream.com/isaacarthur during
+the sign-up process.
+So I mentioned at the beginning I wanted to
+talk a bit about our own journey of the Universe
+and 200 episodes after our show today, and
+thanks for joining me for this aftershow.
+If you’re curious about why we picked today
+topics, we ran a series of polls to see what
+topic we should commemorate the 200th episode
+with, and to my surprise the winning topic
+was “Things which will never exist”, given
+that we normally focus on awesome things that
+might exist in the future.
+Perhaps that’s appropriate, and interestingly
+the episode was selected from 67 topics the
+audience over at our Facebook Group suggested,
+with the top 5 being polled here on Youtube.
+The topic was actually suggested by our longtime
+cover artist, Jakub Grygier, who was the first
+person to start helping me out on the show
+way back around episode 20 in 2016, about
+a year and half since our very first episode
+and also about when we started doing weekly
+episodes.
+Since we started that, we haven’t missed
+a single Thursday weekly release yet, and
+much of the credit for that goes to many folks
+who’ve since joined up to help out making
+the show.
+I should note though that episode 200 is kind
+of debatable.
+A couple years back when we started putting
+together a large team, I started writing each
+episode a couple months in advance to allow
+plenty of time for script editing and graphics.
+To keep organized, I assigned each episode
+a number in order, as the titles often changed
+between initial brainstorming and when they
+aired, on the episode chronology sheet that
+we track that all on and which I’ll link
+below.
+You’ll note the entry is way past line 200,
+and that’s because I eventually started
+treating the number as more of the production
+week, so bonus episodes, collaboration with
+other shows, interviews, and so on all get
+the number plus a letter.
+And many of those bonus episodes get written
+long after the regular episodes which follow
+them, so I just squeeze them in to the chronology.
+I could think of about 4 different ways to
+properly count the episodes, and had long
+since decided we’d let the audience pick
+our 200th episode, or episodes in a way, so
+amusingly this is actually our fourth celebratory
+episode in a row, our last three were also
+poll selected and last week’s episode was
+the poll winner over on our Patreon page.
+Let me give them a quick thanks too, the thousand
+or so folks whose generous donations fund
+this show are one of the biggest reasons we’re
+celebrating 200 episodes today.
+If you’ve ever wondered why the occasional
+extra episodes that throw off the count are
+called Bonus Episodes, it’s because the
+first few were made specifically to reward
+our Patreon Supporters, who normally get charged
+for each weekly episode and not those.
+I think it speaks a lot to the character of
+folks who give up their hard earned money
+to support this enterprise that when I offered
+the option of having them alone get to see
+those bonus episodes first, since they were
+my way of thanking them the resounding consensus
+was no, let everyone see them right from Day
+1.
+From years of being on Youtube and getting
+to know other channels, I can say that spirit
+is not universal by any means, and I am beyond
+grateful for having an audience that has a
+reputation among other science and education
+shows for their enthusiasm, involvement, and
+courtesy.
+From all the folks who help out on the show
+to every discussion on our social media forums
+to every comment left on each episode, you
+are my inspiration in so many ways.
+I want to thank all of you for joining us
+every week for the show.
+I still remember when I got an email from
+Youtube telling me I had a subscriber, and
+asking what the heck a subscriber was, and
+as a few more rolled in, thinking how neat
+it was that there were hundreds of folks who
+shared my interest in exploring the future.
+Now that the show has hundreds of thousands
+of subscribers, all I can say is thank you
+for joining us, thank you for making 200 episodes
+possible, thank you for inspiring me,
+thank you for watching, and we’ll see you next
+week!

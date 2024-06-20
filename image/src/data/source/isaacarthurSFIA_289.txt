@@ -1,0 +1,601 @@
+﻿This video is sponsored by CuriosityStream. Get 
+access to my streaming video service, Nebula,  
+when you sign up for CuriosityStream 
+using the link in the description.
+ 
+The concept of folding space has been suggested 
+as a means of traveling throughout our Universe  
+faster than light, but what happens when you start 
+putting creases in the parchment of reality?
+ 
+Welcome to another Scifi Sunday here on Science 
+and Futurism with Isaac Arthur, where we let our  
+hair down a bit on scientific realism, put 
+our Vulcan ears on, and explore concepts in  
+science fiction to see how likely they are and 
+how something similar might come about if not.  
+So grab a drink and snack and let’s get to it.
+Today we’ll be continuing our long running Faster  
+Than Light, FTL Travel and communication series, 
+by looking at the concept of Folding Space.  
+This is a means of travel that’s been proposed 
+in fiction quite a lot, probably most famously  
+in Frank Herbert’s legendary Dune series, although 
+few details are given there and not always  
+consistently. Indeed as is often the case with FTL 
+systems in science fiction, since they are usually  
+a footnote to permit the story’s plot not the plot 
+itself, details are often scarce and conflicting.
+ 
+The basic form of folding space is that 
+it is instantaneous travel – something  
+even wormholes don’t really offer, 
+being shortcuts not total bypasses,  
+and indeed ones that might require months or 
+even years for many models, not mere moments.  
+This is accomplished by bringing two 
+points together rather than speeding  
+the trip up between them, it is the assertion 
+that the shortest distance between two points  
+isn’t a straight line, or geodesic, but rather 
+that it's no distance at all, that it’s zero.
+ 
+The analogy given is that if I draw points A and 
+B on a piece of paper, I can draw any number of  
+lines between them, but if I fold that sheet so 
+A and B touch, then they are at the same place.  
+This is folding space. And again this is not how 
+a wormhole works, even though folks will often  
+demonstrate it this way, fold the two points 
+over and poke a hole through with a pencil.  
+Indeed that’s exactly the analogy used by Dr. 
+Weir in the film Event Horizon, though the film  
+instead utilizes the concept of hyperspace, going 
+through some other place to shorten your trip,  
+rather than no space at all. In the case of 
+that film, that other place is literally hell,  
+which we also see with the Warp in Warhammer 
+40k and why fans of both often joke that Event  
+Horizon is the unofficial prequel to 40k. So 
+yes on the paper analogy, even boring through,  
+but folding space isn’t supposed 
+to involve a long wormhole passage  
+or diversion through a different type of space.
+I’m not sure what you’re supposed to be boring  
+through either. See our wormholes episode for more 
+discussion of how those work but they’re parallel  
+to folding space in that the analogy is if I have 
+a balloon with an A and B printed somewhere on the  
+surface, I can squeeze that balloon at those two 
+points until they touch. This involves distorting  
+the whole balloon in both those regions until they 
+stretch enough to touch, essentially now a long  
+tunnel, or wormhole. But folding space itself 
+usually implies no distortion, it's finding a  
+topology where those two points already touch and 
+we’ll come back to what topology is in a moment.
+ 
+One of my favorite fantasy series, indeed my long 
+running favorite, is the Wheel of Time by Robert  
+Jordan and ironically I became aware it had a 
+tv series version coming out at the end of the  
+week this episode premieres on and got to see 
+the trailer while taking a break from writing  
+this episode. I’ve no idea if the TV version 
+will be any good, fingers crossed, but the  
+books are excellent in many respects and one of 
+the reasons is that the author, Robert Jordan,  
+was a physicist by training, and tended to keep 
+his magic in the series very rules-constrained,  
+a habit he shares with his posthumous 
+successor Brandon Sanderson, thinking through  
+the consequences and additional uses, same as we 
+encourage folks to do when making up new science  
+and technology in science fiction. 
+Keeping the spoilers minimal,  
+we find out that there’s basically three similar 
+but distinct magic systems in the setting,  
+the polar opposites saidar and saidin, the female 
+and male halves of normal magic, called the One  
+Power in spite of the dichotomy, and True Power 
+as its called, which is basically magic for the  
+setting’s Devil equivalent, the Dark One. 
+In the novels he’d often explain how an  
+effect was happening and that each of the three 
+systems did it so differently that they couldn’t  
+teach each other. Their form of instantaneous 
+travel, long lost, and simply called “Traveling”  
+used three different methods. We’re first shown 
+a weaker form that involves stepping into some  
+other place, traveling there, and coming 
+back, called Skimming, and this is another  
+hyperspace example like we looked at in the 
+Edge of the Universe episode sometime back. 
+ 
+But then we’ve got the genuine instant transport 
+methods, through what they call a gateway.  
+We’re told that the one system does this by 
+boring a hole through the pattern of reality,  
+whereas it’s opposite power system does this 
+by creating a similarity between the two places  
+instead. The True Power demonic version seems to 
+just rip that origin location out of reality then  
+cram it into the destination spot like some 
+parasitic graft of two chunks of spacetime  
+forcing reality to scab over the injury. And 
+indeed destroying reality itself is shown  
+to be a major goal of the chief bad guy of that 
+series and we see it degrade throughout the tale.
+ 
+Now besides it being a series I love that’s 
+coming out in TV form soon, and wanting some other  
+popular reference besides Dune, I mention Wheel 
+of Time because it does call out the multiple ways  
+space folding occurs. You’ve got three completely 
+different methods that would imply three entirely  
+different sets of physical laws. First we get the 
+‘we said space folding but really meant hyperspace  
+or wormholes’ that we see with Skimming and some 
+other alternate reality travel in the series,  
+then we get the various ways folks tend 
+to analogize the concept of space folding.  
+Essentially, boring a hole through space after 
+folding it together, folding it by creating  
+similarities in the places, and just bypassing 
+the notion of folding by just ripping chunks  
+out of space and stuffing them elsewhere.
+It's fantasy but it’s also highlighting how  
+these approaches get used in scifi. Scifi settings 
+often allow many different methods of FTL travel,  
+Star Trek did this a lot and we see it in 
+many tech trees of 4x Space Empire games,  
+but each hypothetical FTL method we have is 
+based around assuming the laws of physics  
+work in a specific way, and if they don’t, it 
+doesn't work, and if they do it does but those  
+other FTL methods don’t. It’s not a smorgasbord 
+of options, it is a collection of possibilities,  
+one of which would be true, not all, 
+and honestly I doubt any of them are.
+ 
+Now I think we need to take a moment to discuss 
+topology. Topology is a math term that sounds very  
+impressive, but in many ways it's just the study 
+of the tops of things, or how the properties of  
+surface areas and other geometric objects are 
+preserved even when you warp or deform them.  
+As a quick example, if we ignore 3 dimensions and 
+only think about the surface of the piece of paper  
+or a balloon, then twisting or smushing 
+these doesn’t mean the folks moving around  
+their surfaces have a different map to travel. 
+Same as if you took a paper map of Earth and  
+folded it up like some Origami bird, the various 
+roads on that map between cities still run there.  
+It doesn’t matter how warped it is, the towns next 
+to mine when its flat are still next to mine when  
+they are twisted, but it might be that if I could 
+leave the 2D sheet of paper, like by traveling  
+through some higher Third Dimension, I could reach 
+another continent where it was folded near me  
+but not touching. And if it was touching, then 
+bam, closest distance between two points is zero.
+ 
+How I switch between them, these two points 
+on a surface folded to touch each other, is  
+rather tricky. I can poke a hole through, or I can 
+meld the two together. Now in topology you don’t  
+get to open holes, close holes, tear the surface, 
+glue it together, or make it pass through itself,  
+so generally any discussion of folding space is 
+already outside of the basic topological laws.  
+This is not limited to two-dimensional surfaces 
+either, those are just the easy examples,  
+and it’s another place we get the notion of 
+looking at reality as a three-dimensional  
+surface of a 4-Dimensional object from. 
+This is also where we get the concept of manifolds  
+from in the context of weird spacetime-thingies in 
+scifi. Both the line and the circle are examples  
+of topological manifolds, usually deemed the 
+easiest and second easiest examples incidentally.  
+Parabolas and Hyperbolas are too, and a square 
+is not a basic manifold because it has corners,  
+and to over simplify a bit, sharp corners are 
+mathematically tricky, akin to singularities in  
+general. Now a singularity in math is any point 
+where a mathematical object is not defined,  
+and thus tends to represent paradoxical 
+behavior compared to the normal on that object,  
+often the Universe at large. 
+Take a string, ignoring it’s thickness,  
+and you have a line or one-dimensional 
+manifold, drop it on the floor so it  
+curls into a heap and now you’ve got a bunch of 
+singularities wherever one segment of the rope  
+intersects another. And as you might guess, this 
+connection is poorly defined, in one-dimension.  
+But it's just fine in two or three, where you 
+can imagine some insect walking along the rope,  
+now that it's curled up, being able to jump over 
+a lot of rope by just going between two places  
+where it intersects. This is why higher-dimensions 
+are so vital to so many cosmological models,  
+adding them helps get around apparent 
+singularities or paradoxes in 3 dimensions.
+ 
+But when we try to bring this into the 
+actual universe, it gets a bit tricky,  
+you get those paradoxes. We’ve folded bits of 
+paper together, and that works fine in 3D space,  
+but it doesn’t in 2D space and folding 
+the Universe doesn’t work well in 3D.  
+What’s the spot look like? Ir it a big rip 
+in reality? Is it a similarity and if so,  
+do we have to make two places identical to 
+move them together like that? Imagine for  
+the moment the sheet of paper only this time 
+instead of an A or B I put two colored dots,  
+red and blue. If I dab them on and touch them 
+together, are they going to naturally merge to be  
+purple together? Is blue ink going to run onto 
+the white paper around it? Do I need to have folks  
+at both sides adding more red or blue ink to each 
+spot until they match in color? Do I need to make  
+the red and blue dot exactly the same shade of 
+purple and if I did, would that form my gateway?
+ 
+And these are basically the logical 
+loopholes going into space folding.  
+But there’s another two. It takes energy to fold 
+a sheet of paper, real actual energy and if you do  
+it with something like a sheet of metal you will 
+feel the metal warm up as you fold it, until it  
+breaks from too much of it. And both that energy 
+usage and possibly breakage come up in discussion  
+of space folding too. How much energy does it take 
+to fold the entire Universe? Presumably a lot.  
+I mean we can bend space and time, very literally, 
+and it takes a lot of energy. We also know there’s  
+a lot of energy in a given chunk of spacetime 
+too. Under the upper limit of the Cosmological  
+Constant, there’s a nanojoule of energy in a 
+cubic meter of free space, as vacuum energy.
+ 
+That should seem fine, since cramming two cubic 
+kilometers of empty space together to move a ship  
+from one to another would require only 1 joule of 
+energy from each to be merged, assuming it was a  
+true vacuum. I’m not sure we could ignore the mass 
+energy of all the dust and gas in that volume,  
+or even of that ship, and some multi-megaton 
+spaceship is carrying hundreds of trillions of  
+trillions of joules of energy, not one or two.
+But that’s at the upper limit in the Cosmological  
+Constant, and this is where we need to discuss 
+vacuum energy. Because a joule per cubic  
+kilometer is the vacuum energy of space under the 
+Cosmological constant, or even less than that.  
+However, there’s a mismatch with what’s 
+predicted from Quantum Field Theory,  
+originally we thought it might be 
+120 orders of magnitude higher, a  
+trillion-trillion-trillion-trillion-trillion-trillion-trillion-trillion-trillion-trillion  
+times higher, though newer modeling 
+suggest the degree of mismatch  
+is only 60 orders of magnitude, a mere 
+trillion-trillion-trillion-trillion-trillion  
+times higher. Which for perspective, if 
+true, would mean that Quantum energies  
+in the vacuum contained all the mass energy 
+of our entire sun squeezed into a spot about  
+the size of a football stadium. Which is 
+much better than all of it squeezed into  
+something the size of an atom that the previous 
+mismatch had, but still seems absurdly dense,  
+and indeed still would be dense enough that such 
+a sphere would instantly turn into a black hole.
+ 
+Of course it isn’t just this single spot, it's 
+everywhere, so no collapse to singularity I  
+suppose. But this prediction under Quantum Field 
+Theory, either the 120 or 60 magnitude version,  
+is the reason why Vacuum Energy is considered 
+so potentially awesome in scifi. The idea of  
+folding two such spots on top of each other, and 
+possibly causing one of those two sets of quantum  
+energy to spring out, is not considered out of the 
+question and would be quite the doomsday weapon.  
+Possibly universally too, this is akin 
+to the notion of false vacuum collapse  
+which is considered one theoretical model for 
+the Universe being destroyed. Indeed in Brane  
+Cosmology – a cousin of string theory – our 
+universe is on a brane, short for membrane,  
+a three dimensional object in a higher dimensional 
+space known as “The Bulk” and gravity is weaker  
+than the other forces because it can leak into the 
+Bulk, and in this topology-rich theory, branes,  
+with different universes on them, can touch 
+and intersect and even collide. Think Big Bang,  
+and that would specifically be the Ekpyrotic 
+model, though there’s some others too.
+ 
+Needless to say, Brane Cosmology does permit 
+the notion of warping a brane – or folding  
+space – and if you want to delve into the math 
+of how, this does come down to manifolds again,  
+especially Calabi-Yau Manifolds. I’m noted 
+for my dislike for String Theory which I  
+suspect tends to make me bad at explaining 
+it, and probably understanding it too,  
+so I’ll attach a lecture from David Morrison 
+on the matter. Nutshell form though, since we  
+tend to assume this whole setup is the reason or 
+origin for how gravity and dark energy behave,  
+and since those both involve stretching or 
+compacting spacetime, we deduce it may be  
+possible to artificially fold space this way. 
+The concern, of course, is that the point of  
+connection or boring through, whichever, 
+might be rather explosive. I will also  
+note that this permits travel to other manifolds 
+and branes i.e. Universes – and time travel too.  
+It also potentially makes for 
+an unbelievable power source,  
+and again that’s the basis for vacuum or zero 
+point energy, different but parallel concepts.
+ 
+Now the notion spacetime holds a single lone joule 
+per cubic kilometer is much less interesting,  
+barely enough to lift a cup of coffee, the true 
+fuel that runs this show, but it would still make  
+for a lot of energy if we had to bend it and doing 
+so required using parallel amounts of energy.  
+As an example, a light year is around 10 
+trillion kilometers long and a cubic light year,  
+10 trillion cubed or 10^39 cubic kilometers or 
+10^39 joules of spacetime energy, this is the Mass  
+Energy of our entire Moon, and the Sun’s total 
+energy output for one hundred thousand years.  
+It’s ten million times the energy 
+needed to rip Earth apart. 
+ 
+And that’s just one cubic light year, our 
+galaxy would contain trillions of times that  
+and the Observable Universe would be about 10^32 
+cubic light years, for something on an order of  
+10^71 joules of energy, non-coincidentally 
+that’s pretty parallel to the mass energy of  
+the entire Universe. Keep in mind this is the 
+Cosmological Constant values for vacuum energy,  
+the quantum field theory ones, even 
+the conservative 60 orders of magnitude  
+higher version, do not require interstellar 
+volumes to get to Universal levels of energy.  
+This is part of why we can discuss setting 
+of micro big bangs and bottled universes.
+ 
+It's hard to say how much energy it talks to fold 
+space in this Universe so two distant points of  
+it touch, but considering we have to move an 
+entire sheet of paper to fold it, moving an  
+entire Universe to fold it seems plausible too.
+But not necessarily, nor does it necessarily  
+need to be powered internally, anymore than I 
+need energy from a sheet of paper to bend it.  
+Indeed when folding the paper or 
+squeezing the partially deflated ball,  
+the energy is entirely external and is being 
+resisted internally, we push, it shoves back.
+ 
+A sharp flat fold might be easier, in the same way 
+it take a lot of energy to cut a board with a saw  
+but one slicing through only one molecule 
+thick, rather than a few millimeters,  
+might take way less energy.
+Well the smallest distance in the Universe,  
+we believe, is a planck length, and that’s so tiny 
+it is to an atom what an atom is to the Universe,  
+coming in at 10^-35 meters. Such being the 
+case a square slice of space a light year wide  
+on each side and one Planck Length thick only 
+contains about a thousandth of a cubic meter or  
+one trillionth of a joule of spacetime energy. 
+So if we imagined a sheet the size of the whole  
+Observable Universe wide, or a circle 46.5 billion 
+light years in radius, but just one planck length  
+thick, we’d only have about 7 billion trillion 
+square light years or 7 billion, billion cubic  
+meters, or 7 billion joules of spacetime energy 
+– and mind you that is the upper limit under  
+the Cosmological Constant modeling, it could be 
+smaller. Now that’s not a tiny amount of energy,  
+but its like 50 gallons of gas, so even if you 
+had to supply that every second – requiring a  
+very large modern nuclear reactor or hydroelectric 
+dam – it is doable, especially in sci-fi terms. 
+ 
+Now this utter wild speculation, we’re not 
+really doing science here we’re throwing  
+concepts at the wall and plugging related numbers 
+into them. Great for writing a realistic-feeling  
+scifi but not science, and hence why it’s a 
+scifi Sunday episode. And even if we could  
+do that planck-length wide sheet, it might be 
+that sustaining it took that much energy per  
+planck-time, which is even smaller to a second 
+than a planck-length is to a meter, in which  
+case you might need to burn through whole stars 
+to fold the Universe for a single heartbeat. 
+ 
+Does this violate known science? Well unlike 
+a lot of our FTL system no it does not,  
+it merely posits our universe exists 
+in something higher-dimensional,  
+which we have no real evidence for or against, 
+and that it has topology that can be manipulated,  
+with the usual assumption being through gravitons 
+or whatever dark energy is. Indeed I once heard  
+someone describe dark energy as the thing leaking 
+out from the crack in the spacetime manifold  
+as it bent and expanded, though I suspect 
+that analogy is more amusing than accurate. 
+ 
+So is folding space possible? Well 
+if those assumptions are true,  
+that the Universe does exist inside something 
+higher-dimensional it can be bent around,  
+then yes – though some would argue that 
+higher-dimensionality is not necessarily required.  
+How you do it, no clue, but possible through 
+application of something like a gravity laser or  
+non-omnidirectional gravity beam or maybe a 
+Kerr Ring. Not by shooting beams of light out  
+your mouth like the Dune Navigators seem to do in 
+the 1984 David Lynch film, but as I recall that’s  
+symbolically representing them picking possible 
+paths or folds that would move the ship safely. 
+ 
+Which to close out brings us back to the issue 
+of what we mean by folding space because in that  
+series or others with the instant jump we are 
+often told of concerns like accidentally passing  
+through a star. This is exceedingly unlikely 
+normally since space is so empty and few straight  
+lines pass through a single star even over a whole 
+galaxy, but the usual notion is that gravity is  
+warping space so things taking advantage of that 
+tend to get yanked more toward such big objects.  
+Which is fine for a story but you’re not folding 
+space between two points if you can run into other  
+things on that manifold or sheet – again the 
+universe – while traveling from point A to B,  
+because you’re not traveling through the 
+Universe, or through some other Universe.
+ 
+All right, let’s wrap this into a closed timelike 
+loop to the beginning to finish for the day. If  
+you can warp space – and we can – you can shorten 
+the distance between two points. This is not  
+folding space, it’s compacting the sheet, opposite 
+of stretching it, not folding two bits together.  
+This is how warp drives works, but folding space 
+is bending, and probably requires tearing or  
+poking. And that would seem to inherently 
+imply higher-dimensions as it’s not allowed  
+under topology without those getting around it.
+Which to close on, raises the point that if you  
+can make any two points in our Universe touch, 
+by folding them through some higher reality,  
+also presumably means you can find other 
+Universes to explore or settle. So folding  
+space seems like a potentially good way to 
+colonize our Universe, but is probably more  
+valuable ultimately – if you can do it – for 
+letting you fold space to other Universes.
+ 
+Just keep in mind, in many models of branes and 
+higher dimensions, folding bits of them together  
+tends to have explosive effects, the kinds 
+that make supernovae look like firecrackers,  
+the kind of very big bangs that start 
+universes... and perhaps end them too.
+ 
+I was talking a bit today about the general 
+misconceptions folks often get with terms like  
+Singularity and spacetime warping, and I wanted 
+to give a shout to the Cosmic Front series over  
+on Curiositystream for the great depth they 
+give to black holes and other space topics  
+compared to the norm. That’s something I try to 
+aim for here on the show too which is why even  
+our Bonus fun episodes like today’s Scifi Sunday 
+episode often tend to get into longer details,  
+though I do try to keep them shorter and as I was 
+prepping this episode for release it occurred to  
+me I had not discussed how space folding 
+technology would impact colonizing space,  
+so we will go ahead and do an extended 
+segment for today’s episode over on Nebula,  
+looking at colonizing space with space 
+folding tech. A lot of our episodes on  
+Nebula are longer and uncut, but we make up 
+for it by cutting out ads and sponsor reads.
+ 
+If you didn't know, Nebula is our streaming 
+service full of awesome content from STEM creators  
+like Real Engineering, Mustard, Answers with 
+Joe, MKBHD, Rene Ritchie, and a bunch of others.  
+It’s designed to give creators more freedom 
+than other platforms, and all our episodes  
+of this show appear early and ad free on Nebula, 
+and we some have extended editions too like  
+todays, as well as some Nebula Exclusives 
+like our Coexistence with Aliens Series.
+ 
+Now you can subscribe to Nebula all by itself but 
+we have also partnered up with CuriosityStream,  
+the home of thousands of great educational videos, 
+to offer Nebula for free as a bonus if you sign  
+up for CuriosityStream using the link in our 
+episode description. That lets you see content  
+like the Cosmic Front series, just some of the 
+amazing content on Curiositystream, and all the  
+great content over on Nebula from myself and many 
+others. And you can get all that for less than $15  
+by using the link in the episode’s description.
+Incidentally this month’s episode was obviously  
+partially inspired by the new Dune film and Wheel 
+of Time TV series coming out and that was also  
+the case for last month’s scifi Sunday episode 
+on Sentient Planets & World Consciousnesses,  
+in regard to Isaac Asimov’s Foundation series 
+getting adapted to TV, as in the later novels we  
+get introduced to a planetary consciousness, and 
+we gave a lot of examples and skipped many others.  
+Two I felt especially bad for forgetting about 
+were Stanislaw Lem’s sentient Oceans from his  
+classic Solaris and David Brin’s superconducting 
+perovskite mantle from his novel Earth, and both  
+were previous Books of the Month on this Show. 
+Now I also mentioned today that hyperspace in  
+Asimov’s Foundation series sometimes is described 
+as a space folding method and with that new  
+Foundation show having folks asking my opinion 
+on the series, for folks opting to read the  
+novels now, there was a Second Foundation Trilogy 
+released after Asimov’s death by his friends and  
+fellow scifi authors David Brin, Gregory Benford, 
+and Greg Bear and that trilogy ender, and series,  
+Foundation’s Triumph by Brin, is my personal 
+favorite in the entire series not including  
+Asimov’s original trilogy and prelude. 
+All right, so with those scifi recommendation,  
+we will wrap up another scifi Sunday, and we 
+will be back next month for a look at staking and  
+jumping claims in space colonization. We’ve plenty 
+of regular Thursday episodes before then though,  
+and this Thursday we’ll return to our Alien 
+Civilization series to contemplate aliens  
+with tempers and aggressive tendencies in 
+Belligerent Aliens. And in two weeks we’ll  
+talk about another colonization strategy 
+for space - saving Earth - before closing  
+out the month with our Livestream Q&A.
+Now if you want to make sure you get  
+notified when those episodes come out, 
+make sure subscribe to the channel,  
+and if you enjoyed the episode, don’t forget to 
+hit the like button and share it with others.  
+If you’d like to help support future episodes, 
+you can donate to us on Patreon, or our website,  
+IsaacArthur.net, and patreon and our website 
+are linked in the episode description below,  
+along with all of our various social media 
+forums where you can get updates and chat  
+with others about the concepts in the 
+episodes and many other futuristic ideas.
+ 
+Until next time, thanks for 
+watching, and have a great week!

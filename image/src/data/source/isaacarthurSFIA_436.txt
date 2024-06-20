@@ -1,0 +1,781 @@
+This episode is sponsored by Brilliant
+Keeping track of time is tricky enough nowadays,
+it’s a whole different story when your clocks
+and calendars don’t have 24 hours or 365
+days, let alone run slower.
+But that’s barely the tip of the iceberg
+of problems with time
+facing interstellarcivilizations.
+So today we’ll be closing out our fifth
+season for Science and Futurism with Isaac
+Arthur, and I am your host, the aforementioned
+Isaac Arthur.
+As we say good bye to 2019 and hello to 2020,
+it seemed appropriate to discuss time so we’ll
+be looking at its impact on Interstellar Civilizations
+today and we’ll open 2020 up next week by
+contemplating Time Travel.
+Of course Time Travel itself is a fairly ambiguous
+term.
+It assumes time normally runs at a set and
+uniform pace and that’s nothing like the
+case.
+Time runs slower in gravity wells and when
+you’re moving fast, and we happen to live
+in one such gravity well and need to move
+very fast to get to any others out in the
+galaxy in any sort of sane timeline.
+And ‘sane timeline’ is probably appropriate
+because in many ways it’s not the flow of
+time itself that really matters, but rather
+the effect all the crazy time issues will
+have on civilizations and trying to keep those
+civilizations connected.
+If you think time zones on Earth are a pain
+in the modern era of instant communication,
+that’s nothing compared to trying to handle
+time lag issues on talking to other planets
+with longer days and years, let alone stars
+years away in communication time.
+Now in science fiction this always gets solved
+by FTL, faster than light communications or
+travel, though in truth that only fixes part
+of the problem and makes some of it worse.
+Time zones on Earth are only a problem because
+we have instant and cheap communication, prior
+to that it didn’t matter that it was midnight
+somewhere when it was noon for you, because
+you couldn’t interact with them in real
+time.
+Even in my youth when long-distance phone
+calls were rather pricey, the time zone thing
+wasn’t as big a deal because you didn’t
+casually interact with other time zones much.
+With free long distance calls, remote offices,
+and of course the internet and social media,
+we now have to deal with time zones all the
+time.
+Right now, it wouldn’t really matter what
+the day length or year on some planet around
+Alpha Centauri was, because we’re not talking
+to a colony there real time, but on a four
+year lag, so it’s like sending someone a
+very delayed letter or email.
+If you had instant FTL communication, then
+it matters that they have a really different
+day and year.
+Of course we don’t have Instant FTL communication,
+and aren’t likely to ever have it, indeed
+we don’t have instant communication even
+here on Earth, it’s just so quick that you
+don’t notice the lag much.
+We’re mostly interested in interstellar
+civilizations today, but it’s worth considering
+how colonizing our own solar system will alter
+our attitude on time and interplanetary civilizations
+will influence how the interstellar ones develop.
+Let’s address the elephant in the room though.
+Without FTL, it doesn’t seem realistic to
+have a galactic empire in the classic Space
+Opera sense, as we looked at in Interstellar
+Empires.
+The Galaxy is a hundred thousand light years
+across, meaning a message from one side to
+another takes a hundred thousand years.
+We’ll try to look at some ways for doing
+that anyway later on, but for now it’s worth
+remembering that civilization, especially
+in this context, doesn’t mean something
+centrally-run from some capital planet.
+Colonization of the galaxy doesn’t rely
+on galaxy-wide coordination anymore than colonization
+of this planet by stone age tribes relied
+on them all getting together to plan things
+out.
+So we do want to consider ways that might
+allow cohesive civilizations like we generally
+have nowadays but we don’t want to limit
+ourselves to thinking of them as a prerequisite
+for interstellar civilization.
+A developed solar system is an immense place,
+even compared to a planet, and civilization
+got on just fine on a single planet prior
+to the radio and telephone being invented,
+so we’ve no reason to assume the galaxy
+would be a chaotic mess just because it was
+composed of essentially sovereign solar systems
+who only have limited exchanges with neighbors.
+But let’s talk about the time issues within
+solar systems, interplanetary civilizations.
+No naturally occurring solar system will ever
+have two planets with roughly equal year lengths
+for a starter, as you can’t have stable
+orbits occupied by two large bodies, with
+the exception of double planets, and those
+will have quite atypical day lengths compared
+to Earth, from tidal locking, like our Moon
+has.
+The only planet with an even vaguely close
+day length to Earth is Mars, where its 37
+minutes longer and you’d lose about a day
+a month.
+That would be awkward for a lot of communication
+as teams doing shifts on Earth and Mars, say
+3 daily shifts, are going to have things cycle
+around, so the morning shift in both places
+can’t coordinate more than a few days in
+a row as the folks on Mars will get up 27
+minutes later each day.
+That’s the easy case too, though in some
+ways both the Moon and Venus are easier, the
+Moon has a day and year a month long, and
+is in near-instant communication with Earth
+anyway, so is probably just going to use Earth’s
+calendar.
+Venus and Mercury both have days months long,
+and essentially useless for human-activity
+based time keeping.
+That will happen on many Earth-like worlds
+around orange or red dwarf stars to, which
+is most stars in the galaxy, as even if the
+day were about the same as Earth’s, the
+year might be just a few months or even mere
+days long.
+Back around our Sun, early asteroid mining
+efforts, which are likely to predate any major
+colonization of other planets anyway, aren’t
+likely to want to use the rotation or orbit
+of a given asteroid as a reference point.
+Asteroids typically rotate several times an
+Earth-Day and they’re small places among
+a hoard of other objects with different rotation
+periods and orbits.
+Now you might use some major object like Ceres
+or Vesta in the Asteroid Belt as a hub for
+activity and standardize to its local clock,
+but that would probably be more likely for
+something more classically planet-focused
+or concentrated like moons around a gas giant.
+Also we have to consider how space colonization
+is likely to roll out in our solar system,
+which is to say we’re more likely to build
+worlds than terraform them, via rotating habitats,
+and those can have day lengths of whatever
+you want.
+There’s an assumption that Martian colonists
+will start their own calendar up and maybe
+they would, but nobody else really has any
+motivation to do so.
+Time keeping on Earth has to do with human
+biology, adapted to Earth, and biology in
+general for stuff like growing crops.
+There’s no fields or fertile river deltas
+out there for us to go farm, we’d be doing
+everything inside domes or artificially lit
+and environmentally controlled facilities
+and we can regulate those to our tastes, presumably
+Earth-standard - at least until living under
+Martian daylight becomes routine - see Springtime
+on Mars for more on that.
+So you’d probably end up with everyone using
+Earth-standard for exchange between places,
+and probably internally for most places too.
+Though that might alter a bit too.
+We’re coming up on a leap year in 2020 and
+I could easily imagine those being gotten
+rid of in some standardized system.
+You also presumably need to pick a time zone
+that was the official midnight everyone used.
+Metric doesn’t work well for time units,
+or rather decimal doesn’t, folks often confuse
+base 10 with metric, which just happens to
+use it.
+Our time measurement for days is still in
+base 12, two 12 hour periods divided into
+60 minutes, or 5 times 12, and 60 seconds,
+again 5 x 12.
+There’s also the Jiffy, a 60th of a second,
+but we usually switch back to base 10 for
+that and use hundredths or thousandth or billionths
+of a second.
+There’s really no natural system that smoothly
+lets you use the same unit for days and years,
+though, and in an era of computers it’s
+not such a big deal, as they can rapidly convert
+times and dates for folks between time systems.
+Earth’s got billion of people on it who
+will never have a motive to change calendars
+and by the time you’d have billions of folks
+living off Earth, they’d be all over the
+place on different and awkward local times
+anyway.
+Indeed the place most folks are likely to
+live off Earth early on is in Earth Orbit,
+where the ‘day’ is a couple hours in low
+orbit and in the higher orbits it is longer
+but the Sun is almost always shining with
+noon-time brightness, since you spend little
+time in Earth’s shadow in high orbits.
+So possibly excepting Mars, nobody really
+has a motive to use local timekeeping for
+regulating human interactions.
+You’d still have them, folks on Mercury
+obviously will care when the Sun is rising
+or setting and doubtless develop local terms
+for it, in their case something more akin
+to our month, as it takes about 2 months for
+a day to pass on Mercury and they have no
+moon for a local month either.
+Once you get out far from the Sun though,
+it gets less important what the Sun is doing
+since you really don’t see it, you might
+have observation domes to go out and see the
+stars and look at distant Sol but you’re
+doing your living indoors, even if it’s
+some massive habitat with whole forests and
+parks inside it being artificially lit.
+Now while I’d imagine we’d send out interstellar
+colony efforts within a generation or two
+of when it becomes practical to try it, in
+terms of success odds and costs, you’re
+not likely to see big push for that until
+most of our solar system has been utilized,
+including all the millions of minor planets
+inside it.
+A handful of test colonies around other suns,
+delayed in growth by centuries of travel time
+and without easy access to the industrial
+might of our home system to expedite growth,
+are unlikely to be the ones setting standards
+on timekeeping, and the issue is likely to
+be addressed before they are a major factor
+in deciding.
+So too, while some colony on a world under
+an alien sun might adopt some 26 hour day
+and 362 day year it had locally, we shouldn’t
+assume that system would develop using that,
+because they’re not likely to start colonizing
+that system with that planet.
+As we discussed in the Life in a Space Colony
+Series, a colony ship arriving in a new system
+with an Earth-like planet, for a given value
+of Earth-like, does not just go land there.
+You do your colonizing backwards, starting
+in space and building up your industrial might
+and colonial support before going down and
+terraforming some planet, a process of centuries
+at a minimum, and they will have spent decades
+if not centuries traveling inside a spaceship
+that is much the same as any habitat or space
+station they’d build there.
+Indeed even once that planet is terraformed,
+they will likely have had their off planet
+population grow so much during that time that
+they never had most of their population on
+that planet, so why use it’s natural calendar?
+Even if they left Earth planning to focus
+on terraforming the destination planet, those
+folks will have lived in an artificial habitat
+for generations and the eventual colonists
+might not find a planet all that attractive,
+compared to just building O’Neill Cylinders
+or similar, a far faster and easier process
+anyway.
+Such being the case, why change time keeping
+methods?
+Now if they wanted to, they might slowly change
+the ship from emulating Earth to Planet X
+while en route, they are likely to know a
+lot about the destination, especially how
+long that planet orbits and rotates and what
+its gravity is, so if they’re going to a
+planet with 90% of Earth’s gravity that
+rotates every 26.7 hours while orbiting a
+dimmer orange dwarf star every 165 of those
+26.7 hours days then they might gradually
+shift the ship’s internal environment to
+match those, especially since it will help
+things besides humans adapt, like all the
+flora and fauna you plan to transplant there.
+Which is also another reason to keep your
+various habitats to Earth-normal times, our
+ecology is adapted to it and it’s probably
+easier to mimic it than alter things to different
+setups.
+Still, all these various interstellar colonies
+might alter to a local time setup simply to
+acknowledge that it might happen eventually
+and they really are going to be rather isolated
+there anyway.
+They might all keep using the Earth Year for
+official dating for communicating to other
+systems but they could also just as easily
+do that in something metric like mega-seconds,
+about 12 days, or gigaseconds, about 30 years,
+and just have some official Day 0, or Second
+0 everyone used.
+If you’re curious, we’d be in the 64th
+gigasecond of the AD calendar, megasecond
+746 when the video came out.
+Of course the problem is that if they start
+their clock before they leave Earth, when
+they arrive it’s going to be running slow.
+Which take us into the other big problem with
+interstellar civilizations and time, which
+is relativity and how long such trips take
+even when moving at relativistic speeds.
+The closer you get to light speed the more
+time slows down, though in truth we’re not
+likely to ever have ships where it slows down
+to such a significant factor that folks living
+on them feel like they were fast forwarding
+through time.
+The same applies to general relativity, the
+slowing of time from being in gravity wells
+or on an accelerating ship.
+Time runs a bit slower at your feet than at
+your head, and a good bit faster on Mars,
+which has weaker gravity and is also further
+from the Sun’s gravity.
+Time runs fastest in the intergalactic void,
+particular the Cosmic Voids, the big empty
+spaces relatively devoid of galaxies, and
+slowest near the center of galaxies, or of
+course, near black holes, which are at the
+center of most big galaxies too.
+This difference is minimal though, even in
+extreme cases, but starts mattering when dealing
+with really long time scales.
+But it is calculable so it just means folks
+have to adjust their clocks or timestamps
+on interstellar correspondence.
+Thing is, what date do you actually use?
+A ship leaving Earth in the year 2020 and
+arriving at a destination in our year 2200,
+having traveled at 20% of light speed, looking
+at their own clock, might see that arrival
+as being in the year 2196, having experienced
+about a 2% slow down in time during the voyage.
+They will also have traveled 36 light years,
+meaning the signals they’re getting from
+Earth when they arrive don’t say 2200 AD
+anyway, they say 2164.
+One might argue, especially if everyone wants
+to keep to some standard time-keeping system
+based off humanity’s homeworld, that maybe
+they should say that it is now the year 2164
+on their arrival, rather than 2200.
+Of course to everyone who was awake for that
+trip, quite possibly all the way from Earth
+if life extension technology has improved,
+has still only experience 176.4 years of travel,
+not 180.
+Needless to say this only gets exacerbated
+by longer flight times and higher speeds,
+but it also gets worse if we start contemplating
+subjective time experienced.
+If you’re born in the year 2000, and got
+on that ship, you’d be 196 when you arrived,
+so how old do you say you are and when do
+you celebrate your birthday if you do decide
+your clock is the one that matters?
+Time was running 2% slower on your ship, so
+if you were born on January 1st 2000, your
+21st birthday, in personal time which is what
+you age at and experience, was not on January
+21st of 2021, it was on January 7th, but if
+you checked the clock back on Earth, based
+on signals to your ship, it’s going to say
+it’s January 1st on March 14th, because
+you’re 73 light days out from Earth somewhere
+in our Oort Cloud, though your own clock on
+the ship would say it was March 5th, since
+you’ve lost about 9 days to Einstein at
+that point.
+This is all assuming your ship instantly accelerated
+too, which it won’t have, but it makes the
+already confusing math a bit easier.
+And of course that’s when you’re getting
+all your mail from home, and it’s rather
+unlikely you’ve stopped corresponding with
+friends and family entirely, or watching the
+news entirely.
+You’re still waiting for your favorite book
+or show or film to come out, and you have
+to go by Earth date’s for all that.
+So you basically have 4 clocks you watch,
+the atomic clock marking how much time has
+actually passed on that ship, the radio clock
+from home telling you what the date was when
+that signal left Earth, the computer one telling
+you what the calculated time on Earth is right
+now, which is a rather debatable concept,
+and the one telling you what the date would
+be back on Earth when a message you sent right
+now actually arrived, if you plan on sending
+a happy birthday message or gift you bought
+online to friends or family back home that
+you wanted to arrive on time.
+Now if you plan to stay on that ship after
+it colonizes that planet and starts running
+trips back and forth to Earth, you’ve got
+to add in some more clocks telling you what
+the date on that colony planet is.
+Folks running some circuit of destinations
+on interstellar trade routes might go rather
+nuts trying to track such things, if we didn’t
+have computers they could set reminders on
+and rely on the computers to inform them.
+You also definitely need to track shipboard
+time too since you’re likely to have all
+sorts of parts and software that have time-sensitive
+maintenance and replacement requirements.
+Plus you’ll want an onboard atomic clock
+to compare to clock signals from various systems
+to calculate your position and trajectory
+with high precision, same as we do with GPS
+location systems.
+Speaking of computers, there’s more than
+one way subjective time can get messed up
+besides Einstein.
+Needless to say, you might lose a lot of personal
+time by opting for some sort of deep freeze
+or suspension technology, and that would shut
+off your biological aging presumably or slow
+it, see Sleeper Ships for details.
+You might do this even if you have effective
+immortality from radical life extension technology
+simply because you don’t particularly feel
+like experiencing your decades long journeys.
+Now in discussing life extension I generally
+dismiss the idea of being bored, I’d need
+a few lifetimes just to get through all the
+books on my pending reading list, during which
+I imagine that list would expand faster than
+I could read it, but at the same time there’s
+probably a realistic limit on how much life
+you can experience in a mostly human form
+before you fill up your brain, and even with
+memory enhancing or compression alterations
+to that brain, I’d tend to doubt anyone
+who had actually experienced tens of thousands
+let alone millions of years of time would
+really qualify as human anymore, simply by
+the weight of all that time and experience.
+I would doubt you could maintain sanity all
+that time, at least in the sense of human-normal
+behavior.
+But that brings up mental augmentation and
+realistically we’ll probably have a lot
+of that available long before interstellar
+travel is more than a novelty a very rare
+few have experienced, indeed likely before
+anyone has.
+There’s a lot more options to mind augmentation
+than simply raising your IQ, but when we’re
+talking about super-intelligence we generally
+classify it in 3 major types.
+One is Quality superintelligence, which is
+a bit abstract but essentially why one human
+is smarter than 10 chimpanzees, even though
+they’ve got more total brains.
+Another is networked intelligence, which would
+basically be making those chimps smarter by
+wiring their brains together, though more
+likely by creating a new distinct 10-chimp
+single mind, hive minds being one example
+of networked superintelligence.
+The third though is Speed Superintelligence,
+where you haven’t actually made someone
+smarter, just sped up the rate they think
+at.
+You might do that by replacing their synapses
+or neurons with transmitters that were identical
+except for transmitting at light speed, rather
+than at roughly the speed of sound or slower
+as ours do currently.
+If you made such a switch, you’d be experiencing
+time around a million times faster, in terms
+of your thinking, as you currently do.
+Now one might argue someone who sleeps 8 hours
+a day and is awake for 16 is experiencing
+less life everyday than someone who sleeps
+for 7 and is awake for 17, they are awake
+one hour or 6.25% longer each day and experience
+23 more days every year.
+Whereas someone who sleeps 9 hours a day and
+is awake 15 experiences 93.75% as much time,
+and if we’re only counting conscious time
+that would match someone traveling at a third
+of light speed, in terms of time dilation.
+That’s obviously a pretty debatable point
+as sleep is not the same as shutting someone’s
+brain off and since its part of what keeps
+you healthy, you’re not likely to get a
+longer lifespan, even subjectively, by cutting
+down on your sleep.
+Of course we might be able to rewire people
+so that they did not need sleep to be healthy
+and mentally agile, and it would get hard
+to argue that someone who was conscious and
+not groggy 24 hours a day, 365 days a year,
+had not experienced 50% more life than folks
+spending a third of their time asleep, 548
+subjective days per year.
+More so if they’re on some spaceship far
+from Earth’s clocks and calendars - or love
+coffee, the original life extension technology.
+But with all that mental augmentation in play,
+they might be able to slow or speed up their
+personal time quite a lot.
+Indeed they might slightly speed their consciousness
+to exactly counter-match whatever the relativistic
+time dilation on their ship was.
+Time running 10% slower from moving at 42%
+of light speed?
+Boost your subjective time up by 10%.
+Normally we think of slowing subjective time
+on spaceships so you don’t experience it,
+but you might go the other way too.
+Indeed you might do this on planets with shorter
+days, just make up that missing hour in a
+23 hour day by accelerating everyone’s thinking
+speed by a few percent.
+Now on the civilization side of things, all
+this weird time raises issues.
+Let’s consider something mundane like paying
+people’s salaries or calculating what grade
+a kid is in or what your wedding anniversary
+is or when your interstellar mining corporation
+celebrates its 1000th anniversary with a big
+marketing campaign and discount.
+With all the complexities we saw for space
+traveler’s it’s easy to imagine folks
+who traveled a lot between stars would just
+shrug and say “I’m pretty old” but it’s
+a whole different story if they’re contemplating
+their paycheck, how many years they’ve got
+on their pension, what sort of compound interest
+they’re getting on investments, and how
+much taxes they should be paying.
+We wouldn’t tax someone more or less income
+tax because they were asleep, more or less,
+but what about someone in hibernation for
+a trip?
+Or not for a trip, just on Earth.
+And before you say no, let me point out the
+obvious tax dodge of owning stock in a company
+for a decade while spending 9 of it on ice,
+paying only a year’s worth of taxes, incurring
+no expenses besides your freezer bill, and
+emerging with a decade of earnings.
+Or alternatively, going on a five-century
+voyage on ice for all but a year of it, getting
+home and being offered a year’s salary,
+and paid in 500-year old values, with nothing
+for inflation or adjustment for any standard
+of living increase during that time.
+You might say you deserve all 500 years of
+that pay, or maybe the 400 that passed on
+that ship as it flew around at relativistic
+speeds, but also keep in mind that someone
+else might be accelerating their subjective
+time and demanding ten thousand years of pay
+as they experienced 10,000 years of consciousness.
+And it might be a fair demand too, if they
+had to do it to perform their duties.
+Now we could handwave that off as not relevant
+in some future utopia of immense prosperity,
+but there’s bound to be parallel examples,
+we’re just using modern concepts, and mostly
+to highlight that there’s not any clear
+and obvious approach.
+So different places might use different standards.
+You get on board some ship to serve as a crewmember
+on a thousand year voyage to a different pocket
+of space and that ship’s captain says he
+pays on ship-time, annual salary, but at your
+destination they expect you to pay income
+taxes on the voyage if you plan to trade there,
+for all the local time you spent inside their
+territory, while your home system is still
+taxing your assets using their own method,
+and the interstellar trading guild you’re
+with expects you to pay them their dues based
+on your ship’s clock but let’s you treat
+time in hibernation at a discount, say one
+tenth of the ice-time counts, whereas your
+last guild charged none for hibernation but
+expected you to have a tamper-proof chip in
+your head that measured your subjective time,
+if you boost your thinking up to 10x normal
+speed, they charged you 10 times as much.
+Makes one wonder what overtime at work might
+mean in such situations too.
+Now FTL makes this even more confusing, since
+it opens the door on causality violating events,
+but in the long term all these time tracking
+issues get worse.
+How historians would track the timelines on
+some ten-thousand year long war operating
+over a thousand light years and a million
+worlds is going to be beyond confusing, especially
+as battles might be continuing centuries after
+a cease fire.
+Very stable and long-lived societies might
+be able to form non-FTL empires stretching
+light centuries, just because they don’t
+really need to write home for directions much
+as their society isn’t changing on a generational
+basis and differently on each planet.
+But they also might have figured out some
+perfect and stable society, there may actually
+be such a thing in some objective and mathematically
+provable sense and regardless they might feel
+like they have it or close approximation.
+They may also get around light lag coordination
+issues by having set protocols for how everyone
+acts in a given scenario, like emergency fleets
+scramble to a preset coordinate to rendezvous
+with other fleets from other systems if a
+given event occurs.
+Those might get rather complicated since the
+ideal rendezvous point for given fleet elements
+would be time-sensitive and dependent on where
+an enemy or disaster occurred, which they
+would all observe at different times and have
+different travel times to react too.
+Trying to have a senate or parliament on an
+interstellar scale might be beyond tricky
+too, considering a representative elected
+and sent to the capitol might take several
+centuries to arrive, presumably begin their
+term of say a decade, while getting orders
+from back home from political parties now
+in control who didn’t even exist when they
+left, and arrive back centuries later to be
+lynched.
+Time lag being what it is, you could easily
+have all sorts of legal necessities too such
+as trials in absentia or hearings to decide
+what to do with someone’s property who was
+originally only going to be gone a couple
+decades for a quick jaunt to their nearest
+neighbor system but due to some unforeseen
+event or change of heart got detoured and
+now you have to figure out what to do with
+their property and its back taxes, with each
+system having different rules and those changing
+every century or so.
+Some folks have suggested you might just have
+civilizations freeze themselves most of the
+time to allow a net experience of time that
+was slowed down, thus allowing a potentially
+larger civilization, but I don’t see that
+working outside a special case we’ll get
+to in a moment.
+Another notion is that your interstellar civilization
+might really just be the trade ships and their
+proxies or representatives in various systems,
+as they’re the only ones who really need
+to care about what’s going on between star
+systems much and would experience that slowed
+down time anyway and thus might be a stabilizing
+or conservative factor, something along these
+lines is discussed in Alastair Reynolds’
+novel “House of Suns” one of my favorite
+novels and one that deals with light-speed
+limited civilizations trying to deal with
+millions of years of time passing, or the
+people who travel between those civilizations
+and never visiting the same one twice since
+they’re always gone by the time they return
+there on their galaxy-spanning voyages.
+Amusingly in the truly long term some of these
+problems go away, presumably in part because
+they’ve just had a ton of time to figure
+out what works best, but as we discussed in
+civilizations at the end of time, post-stellar
+civilizations might camp around black holes,
+where time runs slower, and take advantage
+of ultra-cold computing to run hyper-efficient
+but slow computation or thinking.
+For such civilizations the light lag issue
+isn’t such a big deal because time is subjectively
+running at a miniscule fraction of the rate
+it used to while every galaxy has either merged
+together or flown over the cosmological event
+horizon.
+If you’re running at a billionth your normal
+thinking speed, and so is everyone else, a
+hundred thousand light years, and a hundred
+thousand years of message delay, only feels
+like an hour.
+And while life moves at a snail’s pace,
+it’s still way longer subjectively too,
+those civilizations we discussed as existing
+in post-stellar time could potentially exist
+for billions of billions of billions of billions
+of years, so even at that’s snail’s pace
+of subjective time they still experience timelines
+that make the current age of the Universe
+seem like an eyeblink.
+Of course time and entropy still take their
+toll eventually, even if you can make such
+ultra-cold and slow civilizations work, and
+you might start thinking about wanting to
+move to new Universes if they exist, or if
+you’ve figured out time travel, go colonize
+or invade your own past, and we’ll look
+at how a time travel capable civilization
+would work next week, if time travel was possible,
+and if any sort of coherent civilization might
+be able to exist if it did.
+As we wrap up the Holiday season, let me give
+you a hand knocking something off your holiday
+to-do lists.
+Gifts!
+If you’re watching this show, you probably
+tend to feel like I do that knowledge is one
+of the best gifts you can give someone.
+If you know someone who likes to solve puzzles
+or find out how things work, I’ve got a
+Brilliant gift suggestion for you…
+Brilliant.
+Brilliant is an online learning community
+with over 60 interactive courses and many
+quizzes and puzzles, plus Daily Challenges
+that help get the brain warmed up for the
+day.
+Brilliant makes learning fun and easier, and
+their online community gives you places to
+discuss the material or ask questions, and
+their mobile apps offline feature lets you
+take courses even when you’re not getting
+a good signal while traveling for the holiday
+season.
+This year get the gift of knowledge for your
+loved ones by gifting them Brilliant, it’s
+such a fun way to nurture curiosity, build
+confidence, and develop problem solving skills
+crucial to school, job interviews, or their
+career.
+Go to Brilliant.org/IsaacArthur and grab a
+gift subscription to help your loved ones
+finish their day a little smarter.
+So while we do have a livestream Q&A this
+Sunday, today wraps up our episodes for the
+year, and I wanted to thank everyone for joining
+me for yet another year of Science & Futurism.
+If you’d like to help support more episodes,
+I’d be very glad to have your support on
+patreon, or through any of our other donations
+methods you can find on our website, IsaacArthur.net
+And of course we do have more episodes coming,
+starting 2020 off on January 2nd with a look
+at Time Travel, then the week after that we’ll
+explore Alien Conspiracies, and the sorts
+of aliens that might be conspiring and why,
+in Conspiratorial Aliens.
+Until then, thanks for watching,
+and we’ll see you next year!

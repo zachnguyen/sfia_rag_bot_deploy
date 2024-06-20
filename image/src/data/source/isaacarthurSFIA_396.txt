@@ -1,0 +1,789 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula,
+when you sign up for CuriosityStream using
+the link in the description.
+We often talk about building large rotating
+space stations
+for people to live on in the future,
+but just how big can we go?
+So today we’ll be looking at some truly
+enormous space habitats that we might construct
+in the distant future but maybe not too distant.
+Our big four structures to look at are the
+Bishop Ring, Mckendree Cylinder, the Topopolis,
+and the Banks Orbital.
+These occupy the size range in-between the
+O’Neill Cylinder we’ve discussed so often
+before, a structure big enough to house around
+a million folks with lots of elbow room, and
+the Niven Ringworld, which has about a million
+times the living space Earth does, and you
+can see both of those episodes for details
+on them.
+Last week we looked at Graphene, the superstrong
+material whose discovery along with Carbon
+Nanotubes opened the door for seriously considering
+building such behemoth structures using known
+science.
+You can check that episode too for details,
+but the key thing about graphene is that it’s
+hundreds of times stronger than steel, and
+thus can be used to make much larger radius
+habitats when used in conjunction with other
+materials.
+Like ceramics, graphene is strong and hard
+but also very brittle so you’d probably
+always be using it as part of a mesh or composite
+of structural support rather than alone.
+Building a rotating habitat with Earth gravity
+requires essentially the same strength as
+a suspension bridge on earth with the same
+length as the habitat’s circumference so
+when you want ones that are many kilometers
+wide, you need a very strong material.
+This is important for rotating habitats because
+the wider the rotating habitat is the higher
+tangential speed its outer surface is going
+to have while spinning, exerting stronger
+ripping force and requiring a stronger material,
+though in terms of angular velocity, how often
+they spin completely around, that actually
+slows down.
+A lot of our designs rely on either high material
+strength or simply making the habitat much
+longer than its radius, which the Topopolis
+is the extreme example of, and essentially
+today we’re going to be looking at all the
+cheats we can use to make a very large space
+habitat with a continuous living surface,
+or one that effectively is.
+Let’s not skip the basics, though.
+We need to use spin-gravity because we can’t
+artificially generate normal gravity under
+known science.
+Spin gravity however acts close enough to
+regular gravity and even more so for very
+large habitats.
+Small rotating habitats, what we’d normally
+call the habitat drum on a smallish spaceship
+or space station, have an issue with their
+rate of rotation potentially causing nausea,
+and from the apparent gravity being much higher
+on your feet than your head, since it’s
+proportional to radius.
+If I make a habitation drum that’s just
+3 meters or about 10 feet in radius, then
+it’s going to need to rotate 17 times a
+minute to achieve 1-gee – regular Earth
+gravity – at its bottom inner edge, the
+floor.
+Outside it’s spinning around at 5.4 meters
+per second or 12 miles per hour and anything
+out there would be flung away at that speed
+if it wasn’t fastened down.
+That’s what your floor is trying to do,
+fly off at that speed, and it needs to be
+strong enough not to rip apart though at that
+speed pretty much any material could handle
+it, even stuff like paper.
+However, it also needs to be able to handle
+the weight sitting on it, a person and some
+furniture or equipment in this case, and very
+thick layers of water or dirt when we’re
+talking about actual habitats trying to replicate
+a planetary surface and ecosystem.
+To add to that, in such a small drum rotating
+so fast, about every three seconds, it is
+going to be rather nauseating.
+Plus the gravity is linear to the radius of
+the drum, so while at your feet, on the floor
+of the drum, it might be regular 1-gee Earth
+gravity, a meter up this 3-meter drum it's
+down by a third, and most folks, depending
+on their height, would be experiencing about
+half normal gravity at head height.
+There is no gravity at the center of the drum,
+what we call the axis.
+This effect is true of all rotating habitats
+but the bigger you go, the slower they rotate,
+and the smaller that difference in gravity
+based on altitude is going to be.
+Since a few meters is the scale we operate
+at personally, as do most larger organisms,
+you won’t really notice such effects on
+a habitat that is 223 meters or 733 feet in
+radius, though some taller trees would.
+That drum radius is for a habitat with Earth-gravity
+that spins twice per minute, our best guess
+for the slowest you need to spin to cause
+no problems for humans.
+Animals won’t be disoriented by spinning
+a couple times per minute anymore than you
+are by walking around a room and turning 360
+degrees while you do that.
+It is possible some other organisms might
+turn out to be much touchier but we won’t
+know till we start building rotating habitats,
+everything on Earth is used to spinning once
+per day after all.
+Key notion there is that the bigger you make
+them, in terms of radius, the more Earth-like
+it is, and this also matters for things like
+the weather since your atmosphere is very
+high even compared to tall trees and as we
+noted a moment ago even if your drum radius
+is hundreds of meters those trees would see
+a lower gravity at their top than their bottom,
+which would actually be their roots.
+The bigger the drum the less this effect,
+though it wouldn’t necessarily be a bad
+effect, less gravity near the top, more ability
+to grow higher and have wide canopies, and
+we discussed that more in the episode Environment
+of Space Habitats.
+So, we want them bigger, but we also want
+them bigger because it means more internal
+surface area that’s all connected.
+Double a drum’s radius and you double its
+inside surface area.
+Now you can achieve the same effect by doubling
+its length, which adds no more rotational
+stress to the drum, or by just building two
+of the things, and that’s another key point.
+We will never build the biggest drum we possibly
+could, except maybe as an experiment or attempt
+to get into the Guinness Book of World Records,
+or Galactic Records perhaps, because while
+more land and more radius is always nice,
+the added costs and risks make that a dubious
+venture.
+Those risks can be non-obvious too, as for
+instance we can make a better and more self-contained
+ecosystem when we go bigger but also have
+a harder time controlling virus outbreaks
+and invasive species than we would if we had
+a hundred habitats that have the same total
+volume but were separated.
+They’d probably be cheaper to build too,
+all hundred of them, rather than one big one
+of the same area.
+Usually when we’re giving the figures for
+maximum size on things like an O’Neill Cylinder
+– which assumes steel as the structure – we’re
+already building in some padding rather than
+going to theoretical maximums for that material,
+the larger O’Neill Cylinder design for instance
+still incorporates a 50% safety factor.
+We calculate that maximum radius by dividing
+the hoop strength by the desired gravity and
+the density of the interior, so if you double
+your hoop strength you can double your radius,
+if you half your gravity you can double your
+radius, and if you half the amount of mass
+you’re using for your dirt, sea, and atmosphere,
+you can also double your radius, which is
+why filling your hills and mountains with
+ultra-light aerogel and just a thin dirt or
+rock crust over it is so often discussed as
+an option for landscaping rotating habitats.
+You don’t need graphene or some other super
+material to go larger, Titanium lets you go
+larger, as do materials like Kevlar.
+Graphene lets you go larger yet, and we usually
+put the maximum plausible size on these as
+roughly 1000 kilometers in radius, with half
+that being more the expected max size, and
+we give the major forms of these, a ring and
+a cylinder, the names of Bishop Ring and McKendree
+Cylinder for Forrest Bishop and Thomas McKendree,
+who first thought them up and ran the numbers
+on them back in the 1990s after we discovered
+carbon nanotubes, which are essentially cylinders
+of graphene.
+I usually refer to anything smaller than a
+continent as an O’Neill Cylinder, regardless
+of materials and specific geometry, and McKendree
+as anything up in these big zones.
+How big is a continent anyway?
+Well Australia, our smallest continent – though
+that’s admittedly a rather arbitrary definition
+since Greenland might be argued to be one
+as might subcontinents like India or Arabia
+- Australia has a land area of 7.7 million
+square kilometers or 3 million square miles.
+We’ll treat that as our minimum especially
+as you would usually want some water in these
+things, though not necessarily anything like
+our 3:1 sea to land ratio as on Earth.
+You do want a lot of water if you want natural
+evaporation and rainfall levels but this need
+not be large seas in favor of small lakes,
+nor do they need to be deep, and for that
+matter you can always cheat and dump energy
+into that water to evaporate it faster.
+Nonetheless, how big is such a cylinder?
+Well it depends on how long it is, but if
+we kept to the classic Islands Three O’Neill
+cylinder design – two counter-rotating cylinders
+each 4 kilometers in radius and 32 kilometers
+long, spinning completely every 2 minutes,
+we’d have a basic design we could scale
+up.
+Incidentally the 1975 Summer Study found the
+optimal cylinder was 10 times longer than
+the radius, the Island Three is 8:1, but there
+is no maximal length so long as you account
+for torsional harmonics with active stabilization.
+For one of those, that internal surface area
+is Pi times twice the radius times the length,
+or about 804 square kilometers, and since
+we need almost 10,000 times that, which we
+could get by making it have a hundred times
+the radius and length, 400 kilometers in radius,
+3200 kilometers long.
+You could flat out double both those numbers
+if you wanted 4 times the area to permit that
+3:1 sea to land ratio of Earth while keeping
+an Australia’s worth of land.
+So, this Australia Habitat with lots of seas
+is going to be a cylinder with a radius a
+bit less than 800 kilometers and length a
+bit less than 6400 kilometers.
+If you’re curious we usually put the titanium
+O’Neill Cylinder at 14 kilometers Radius,
+8.7 miles, which is 3.5 times larger than
+the Island Three cylinder and scaled up length
+would be about 10,000 square kilometers.
+That’s a very big island, on par with Cyprus,
+Puerto Rico, or Hawaii’s biggest island,
+but hardly a continent.
+We have other materials with better tensile
+strength without getting into carbon allotropes
+like graphene, but to get these to continent
+size we have essentially three options, lengthening,
+connecting, and layering.
+There is no maximum length limit on a habitat
+besides their tendency to wobble without a
+counter-rotating habitat or some other active
+stabilization.
+So a long Titanium drum 14 kilometers in radius,
+or 88 kilometers in circumference, would require
+a length of 88,000 kilometers or 54,000 miles,
+or quadruple that if you wanted that 3:1 sea
+to land ratio.
+Now that is bigger than our planet’s circumference,
+around double it, or eight times if we’re
+including those seas.
+However if we opted to put a great big ring
+around the whole Earth up above geosynchronous
+altitudes, that would more than do the trick
+even if you were limited to using steel or
+wanted all that water.
+You wouldn’t put it closer because even
+up at geosynchronous gravity is still about
+2% of Earth-surface normal so one side of
+your ring will be experiencing slightly heavier
+weight.
+That actually might be handy as a way of creating
+tides, though even the titanium version spins
+around once every 4 minutes so if you were
+sitting on a scale and normally weighed 100
+kilograms, you’d see your weight move from
+98 to 102 and back every 4 minutes and feel
+a slight drift as you spun toward Earth, probably
+enough to make taller trees sway a bit, and
+this would be decreased by going further out
+from Earth or increased if you tried to do
+it closer.
+This is not technically a topopolis, which
+is a vastly bigger structure, as we have previously
+dubbed these Circle Habitats to avoid confusion
+with Ringworlds, Donut Worlds, Hoop Worlds,
+and so on.
+Though as this version described, one encircling
+a planet far below, as it has a fairly unique
+setup with that wobbling gravity, we’ll
+dub it a Planet-Circling Habitat.
+Not to be confused with Orbital Rings, which
+can also be used to build continent sized
+habitats, or much bigger, and which as we’ll
+see in a bit can also be used to circumvent
+the material strength issue on rotating habitats.
+Now the Topopolis is an idea we get form Larry
+Niven, same as the Niven Ringworld and same
+as that structure, it encircles an entire
+star, only in the Topopolis’s case it can
+either loop around once or loop around many
+times, and it need not complete itself by
+having its two ends touch to form a loop,
+nor need it be around a star so a miniature
+version around a planet or even in the void
+of deep space wrapped around nothing, just
+big hoop, or like some big ball of yarn, are
+all still Topopolises.
+To avoid confusion we’ll call that last
+a Ball Topopolis, and a single-circle one
+around a star, or nothing, a Circle-Topopolis.
+Apologies incidentally, I often get stuck
+coining the names for concepts and structures
+on this show and really am not very good at
+it.
+There are not too many examples of these in
+fiction, and indeed the only popular fiction
+example I know of beyond Niven’s quick description
+of the basic concept is in Dennis E. Taylor’s
+upcoming novel “Heaven’s River”, the
+fourth installment in his Bobiverse series.
+Dennis is a friend of mine, and I consulted
+on that book and contemplating the more interesting
+notions involved in the structure, internal
+environment, and the societies that would
+emerge on it was a ton of fun as you might
+imagine.
+Topolises are interesting because we usually
+envision them as essentially a river-world,
+where the habitat and society is a lot like
+those we saw on long rivers like the Nile.
+You wouldn’t have to set this up as a single
+long river many tens of thousands – or billions
+– of kilometers long, and might have two
+or four rivers in any given section running
+the water back in a loop – again these don’t
+have to connect at their ends – but you
+essentially have a very long skinny environment
+so coastal layouts make sense.
+From a practical standpoint you’d probably
+interrupt the landscape with airlocks or membranes
+for safety reasons though these might appear
+as a circular mountain range where water got
+permitted through with a door ready to snap
+shut, or just pumped through underground in
+conduits.
+I’m very fond of these because in the first
+place humans tend to like coasts and river
+banks anyway and because the idea of some
+ridiculously long river you could sail down,
+passing through endless small nations bordering
+each other, has big appeal.
+Now if we were treating this as an O’Neill
+Cylinder radius, then you’d be looking at
+small city states or possibly some longer
+ones akin to Old Egypt, 25 kilometers wide
+and however long, or 88 wide if it were titanium
+not steel.
+However there’s nothing stopping you from
+doing those at graphene widths in which case
+your long river would be cutting through segments
+the size of modern large countries, not counties
+or towns.
+For skinny cylinders, these are either going
+to be long ropes or sausage link affairs.
+Now the Ball of Yarn Topopolis can confuse
+folks because they’re wondering how it spins,
+and the key thing about these super-skinny
+habitats is that just like a rope, any material
+has a certain length at which it becomes flexible
+and can spin around its axis too without any
+problems.
+The other key thing about most rotating habitats
+is that they are going to be embedded into
+a superstructure that either doesn’t rotate
+or rotates very slowly the other way as a
+counterforce.
+For long skinny ones I call this non-rotating
+bit a sheath, same as the sheath on a wire,
+where in this case that wire spins inside
+it and there’s a small vacuum space between
+the two either supporting the internal drum
+on ball bearings or some magnetic field so
+it doesn’t touch at all.
+If you’re doing that non-rotating superstructure
+sheath then yes you can wind it up as a very
+tight ball just like yarn and stick all sorts
+of vacuum trains, akin to the Hyperloop, between
+those strands for easy travel.
+Though even going the long way down a single
+stretched out strand isn’t as time consuming
+as you’d think, as you can get those vacuum
+trains moving very fast and energy-cheap,
+potentially even at decent fractions of light
+speed for the really long ones – which makes
+an awesome way of launching space ships - though
+from a practical standpoint something carrying
+nuclear bomb levels of energy running around
+your hull probably isn’t wise, as a derailment
+might blow a hole in your structure.
+That’s the other reason we like superstructures
+around our rotating habitats, it lets you
+have lots of big dumb mass for absorbing damage.
+Ultimately the key cool thing about Topopolises,
+Circle Habitats, and so on is that they require
+no fancy new materials science, you just go
+longer once you get as wide as your materials,
+economics, and safety standards permit.
+Now as I said, when trying to make continent
+sized habitats you can make them longer but
+you can also connect them – of which the
+counter-rotating pair and sausage links styles
+are the simplest approaches – or you can
+layer them, and that’s where the McKendree
+Cylinder comes into play.
+While mostly known as just a giant O’Neill
+Cylinder that has an internal surface area
+on par with a continent, what’s special
+about these is that they aren’t usually
+contemplated as a single cylinder but rather
+a series of nested cylinders, and you’ll
+sometimes hear me call this a Matrioshka McKendree
+as a result.
+Hypothetically you can do this on any cylinder
+habitats but unless you are very wide you
+can’t really have many cylinders with significant
+gravity on each layer or spin them at different
+rates, you get all sorts of problems spinning
+a giant cylinder inside the lower layer’s
+atmosphere at a different speed than that
+lower layer, and if you don’t you’ll have
+lower gravity.
+But if you have a 10 kilometer difference
+between layers on an object whose superstructure
+is 1000 kilometers in radius you can get away
+with keeping each next layer at a slightly
+different spin rate with the same gravity,
+or the same spin rate but only a 1% drop in
+gravity to each new layer up toward the central
+axis.
+This means you can pack a lot more land into
+the same volume, though as a caveat I should
+note that you mostly aren’t short on building
+space in the endless void of space anyway,
+through compaction and higher population density
+have advantages.
+They also have the disadvantage of making
+heat dissipation slower, which is problematic
+if you are lighting each layer of a habitat
+drum as you’ll need external radiators to
+purge your heat.
+Also if those layers aren’t far enough apart,
+the layers moving at different speeds will
+cause a lot of air-friction which will also
+generate heat.
+So size really helps here if you want to do
+layers.
+If you go big enough though, you are no longer
+dealing with a pressurized can.
+In any rotating habitat your air is going
+to be thicker near the floor than the axis
+but only when you start getting kilometers
+wide will this be more than trivial.
+However on the really big ones they actually
+have the diameter to create a genuine atmosphere
+that thins to nothing as you go up just like
+on a planet, and we call these open air-habitats
+and this is what is of interest to us with
+the Bishop Ring.
+The ultimate ring habitat, Larry Niven’s
+Ringworld, simply relied on gravity, or spin-gravity,
+to hold the air down no different then on
+a planet, but still required monstrously tall
+rim walls to hold the air from spilling over
+the side.
+The Bishop Ring is far smaller, but still
+big enough that it can have a natural atmosphere
+rather than one that’s essentially air held
+in by a container, so while it still needs
+very high rim walls too, you can actually
+fly into the center axis rather than needing
+to dock to the side and then take an elevator
+down from that central axis spaceport.
+However, atmospheres go up a long way even
+if they thin down so you would leak some air
+but depending on how high you went up, not
+very much.
+By the time you’ve gotten 30 kilometers
+or 20 miles up, your air density has dropped
+to about 1% of surface air density, and if
+you go twice as high it drops to about 1%
+of that, in what is called the MesoSphere,
+or MesoRing or MesoCylinder I suppose.
+You could go higher yet with your rim wall
+especially as it could be a thin transparent
+membrane as it hardly is a big deal if it
+gets punctured, and you might stretch such
+a thing all the way to the axis as it wouldn’t
+interfere with seeing the stars.
+And given that such a structure is still rotating
+rather fast, twice an hour depending on how
+far you can push that graphene tensile strength,
+you might not care to see the stars moving
+that quickly… or it might be considered
+a plus since the night sky whirling around
+every half hour rather than every day is hardly
+nauseating like it would be on a smaller station.
+Of course the Banks Orbital, the Bishop Ring’s
+big brother, rotates exactly once a day, we’ll
+get to that in a moment though.
+So why leave it open at all?
+As opposed to putting a transparent thin layer
+of rim wall all the way up, as a full endcap
+rather than rim wall.
+Well, one nice thing about a thousand-kilometer
+radius structure is that the outside is spinning
+at over 3 kilometers per second, Mach 9 in
+terms of aircraft speeds, and that’s a very
+nice speed to launch at, just let go of the
+structure – though if it has a superstructure
+this doesn’t work but the bishop Ring doesn’t
+have to have one.
+However you can’t use that to land as easily
+and if it’s open down the axis you can come
+in at an angle and aerobrake, indeed if you
+do it right you could be spiraling around
+its upper atmosphere to lose all your speed
+and either pop up to some port at the central
+axis or just fly down to the ground, even
+if you were at high interplanetary velocities
+when you arrived.
+This isn’t really necessary as we have lots
+of other options but it’s a neat feature
+and might be one people liked having incorporated
+into their habitat.
+It also makes it much easier to incorporate
+a nice mirror array to bounce light in and
+properly simulate a normal 24-hour day.
+Longer versions of a Bishop Ring, entering
+McKendree Cylinder length or longer, might
+have such a sun-mirror or fusion powered fake
+sun move throughout the sky on an axial track
+too, to give you a decent equivalent of a
+sunrise and sunset, as the light would be
+moving at an angle through a lot of air to
+give you that red coloring of the sky, though
+you could also lower the power or fold up
+your mirror or selectively generate or reflect
+your preferred wavelengths of light too.
+So we’ve looked at lengthening these habitats
+to make them bigger, and layering them too,
+and we considered linking them and discussed
+some ways to do more than sausage links in
+our episode Life on Board an O’Neill Cylinder,
+where we contemplated making conglomerations
+of the cylinders to make a 2D Net or even
+a 3D setup like a Platonic solid or a Buckyball,
+which would be appropriate given that carbon
+allotropes like the Buckyball might be what
+allow cheap and giant construction of such
+behemoths.
+Those can be a bit of pain to try to connect
+land between, though a bit less of one for
+seas and only a minor hassle for air, as it
+would be very easy to connect a whole bunch
+of rotating cylinders with a low or no gravity
+pressurized sphere they all linked into, but
+it is doable for all if you really want to.
+You could also make a chain link string of
+Bishop Rings who shared a bit of atmosphere
+but that doesn’t work as well as when we
+contemplated doing it with genuine Hoopworlds.
+But you can also contemplate going even bigger
+yet.
+It’s dubious if we’d ever be able to make
+a full-sized Bishop Ring or McKendree Cylinder
+out of Graphene, we might be limited to something
+that was much wider than an O’Neill Cylinder
+but not quite that big, but that’s only
+relying on material strength.
+I doubt we could ever make a material strong
+enough to create a Banks Orbital, but we’ll
+discuss a trick under known science for doing
+it in a moment.
+First, what is a Banks Orbital?
+Well, it’s an idea from the late great author
+Iain M. Banks he presented to us in the first
+novel of his Culture series, Consider Phlebas.
+Essentially a giant ring habitat whose radius
+was just right to produce earth-gravity on
+its surface while spinning only once a day,
+so that you could let it float like a planet
+around a Sun, only it’s the far interior
+side that’s getting the sunlight.
+It still needs rim walls to keep the air in
+but given that it has a radius of 1.84 million
+kilometers, or 1.15 million miles, even a
+rim wall a thousand miles high that leaks
+less air than Earth itself does would be trivial
+in comparison.
+This is your ultimate in Earth-replication,
+as you can even cock it at a bit of an angle
+and orbit it as an ellipse to simulate regular
+seasons, though these will not vary by latitude,
+unless you put some extra effort into the
+layout because you really want polar and equatorial
+conditions.
+Incidentally that radius is for replicating
+Earth’s gravity and day length specifically,
+and there is a single unique radius for any
+given planet’s day length and gravity.
+That ring is rotating at 134 kilometers per
+second, which is about a dozen times Earth’s
+escape velocity and a very nice interplanetary
+cruising speed for ships launching from it.
+This incidentally is why you still need those
+rim walls even on truly massive objects like
+this with a net mass that’s of a planetary
+scale, because those air particles would be
+leaving very fast compared to the objects
+far smaller really gravity felt by nearby
+objects and particles.
+Now at that radius, 1.84 million kilometers,
+a circumference of 11.6 million kilometers,
+you get an Earth’s worth of surface area
+for every 44 kilometers of axial length, and
+for it to be continent class using our Australia
+definition from earlier, it would literally
+only need to be a kilometer wide and still
+be about as much sea to land as Earth is.
+Since your rimwalls probably ought to be a
+lot taller than this, you obviously go bigger,
+but again every 44 kilometers of length is
+another Earth.
+Now we usually envision these as rather thin
+rings since we want them not to block out
+the sunlight or have a massive reflection
+from the other side that made it very bright
+even at night time, rather than as a cylinder,
+so you are probably keeping these somewhere
+around 10,000 kilometers in axial length which
+would be around 200 Earth’s worth of land
+area.
+Since the whole point of this object is to
+use an external sun as a natural day, converting
+it into a cylinder habitat or even a topopolis
+of that radius wouldn’t make sense unless
+your unobtainium building material just coincidentally
+allowed that as it’s maximum habitat radius.
+Now how do you build this thing, without magically
+strong materials?
+Well, here is where active support comes into
+play, as you essentially are going to build
+a much bigger, thicker, heavier, and slower
+ring on the outside of it that the habitation
+ring will nest inside as a superstructure.
+We detailed the specifics more in the Ringworld
+episode, but in short form you would hold
+the faster moving inner-ring together by having
+it push off the more massive outer ring, which
+is probably a huge sectioned tank full of
+hydrogen or helium as its cheap and abundant
+and not of value in artificial habitat construction
+except as raw mass or for fueling a fusion
+economy.
+This technique works good in tandem with strong
+tensile materials too so might be seen on
+rings and habitats far smaller than Banks
+Orbitals.
+The stronger your materials the better, but
+you can just keep adding mass to things.
+As to the pushing methods, you could either
+use magnetic or even maybe concentrated light
+to keep the inner ring bunched together, instead
+of ripping apart, without needing to physically
+connect the two structures which is important
+since as mentioned its spinning at 134 kilometers
+per second, and probably a bit more relatively
+speaking since the outer ring is likely to
+be spinning the opposite direction much slower
+but with much more mass to counter its angular
+momentum, rather than being stationary.
+This is a lot more mass intensive than a normal
+rotating habitat, whose whole value is that
+they give you way more land per unit of mass
+than a planet does, usually by about a million
+fold, but it’s still going to be much less
+than a classic shellworld with natural gravity
+would use per unit of surface.
+Since that outer ring is effectively non-rotating
+and very massive, you actually would get a
+gas accumulation around it from gravity - which
+might make for a rather pretty halo look,
+and given that one of the other nickname’s
+for Banks Orbitals is “God’s Bracelet”,
+would make it sparkle and glitter rather appropriately.
+Such a structure could comfortable house a
+trillion people at a lower density than modern
+Earth, and those other continent class habitats
+could house hundreds of millions or billions
+all on their own, without even needing to
+turn to hydroponics or supplemental space
+farms or making the whole thing agriculture
+land.
+These are truly large habitats you build large
+nations or even many nations upon.
+It’s not likely to ever be the most economical
+approach to building space habitats, truth
+be told none of the continent-class one’s
+like the McKendree or Bishop or smaller Topopolises
+probably ever will be, but they are doable
+under known science and so we probably will
+see them in the future.
+And of course, economics are very dependent
+on the technology you’ve got, so folks might
+decide they like these a lot more than the
+smaller ones even if they are a bit of pain
+to build and maintain in comparison.
+As we say on this show, go big or go home,
+or when it comes to continent-class habitats,
+go big and go home.
+We were talking today about developing in
+space on a truly grand scale, but before we
+can even begin to contemplate that we need
+to be able to protect ourselves from threats
+in space, and from space, like asteroids and
+space debris, and we’ll be exploring that
+in our new episode “Asteroid Defense”,
+which is out now on Nebula.
+Nebula, our new subscription streaming service,
+was made as a way for education-focused independent
+creators to try out new content that might
+not work too well on Youtube, where algorithms
+might not be too kind to some topics or demonetize
+certain ones entirely, or just doesn’t fit
+our usual content.
+And if you’d like to get free access to
+it, it does come as a free bonus with a subscription
+to Curiositystream, which also has thousands
+of amazing documentaries you can watch, on
+top of the Nebula-exclusive content from myself,
+like our Nebula-Exclusive series, Coexistence
+with Aliens, and many other excellent works
+by creators like CGP Grey, Minute Physics,
+and Wendover.
+A year of Curiosity Stream is just $14.99,
+and it gets you access to thousands of documentaries,
+as well as complimentary access to Nebula
+for as long as you're a subscriber, and use
+the link in this episode’s description,
+curiositystream.com/isaacarthur.
+All those huge megastructures we’re looking
+to build one day are going to require vast
+amounts of resources, and in two weeks we’ll
+be looking at where we might get them all,
+as we explore whether or not we should dismantle
+our own solar system to build them.
+But before that, we’ll be taking a look
+at what life might be like if you were a Brian
+in a Jar, and if maybe you already are one.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes,
+you can donate to us on Patreon, or our website,
+IsaacArthur.net, which are linked in the episode
+description below,
+along with all of our various social media
+forums where you can get updates and chat
+with others about the concepts in the episodes
+and many other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

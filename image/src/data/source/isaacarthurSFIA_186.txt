@@ -1,0 +1,780 @@
+﻿Many great thinkers have speculated that we 
+might live in some sort of simulation or dream,  
+and while we often debate if this is true and 
+if we are real or not, or if it even matters,  
+maybe a better question is how do we break 
+out of the simulation or learn to control it.
+So, there’s a classic scene in the movie The Matrix, 
+where Morpheus is offering Neo a red pill and a  
+blue pill, and the red pill is supposed to offer a 
+painful truth about reality. This turns out to be  
+very true in Neo’s case, as he wakes up in a vat, 
+surrounded by untold numbers of other scrawny,  
+atrophied humans filled with plugs, and 
+finds out he’s been a brain in a jar his  
+whole life, living in a simulation.
+It raises the question though of why  
+the red pill he took caused him to be awoken 
+in that vat and ejected while still alive,  
+effectively flushed down the drain, where he can 
+be rescued by freedom fighters, valiantly seeking  
+to save everyone from modern life in favor of 
+living like hunted rats in those bleak sewers. 
+ 
+The movies afterward and some associated works 
+offer some rationales and clarifications for that,  
+but they’ve got lots of holes in them and given 
+that the entire premise is that humans make good  
+power plants, also as biological processors 
+in the early scripts, realism is not really  
+on the table in that franchise for us to dissect. 
+Though one could make the argument that scifi’s  
+obsession with some tangible life force really 
+indicates that humans actually are good batteries  
+but are in a simulation where the apparent physics 
+say otherwise, so that we dismiss the idea that  
+we’re really in some fake reality while our bodies 
+are harvested vampirically in the true reality.  
+The notion of us having real life energy just 
+spills into all our religions and scifi because  
+we know it’s true subconsciously. Possibly 
+a better fix for the plothole in the Matrix,  
+but more importantly a reminder that 
+you cannot assume the rules, or physics,  
+of your apparent reality are the rules of the 
+higher layer. Only in an ancestor simulation is  
+that likely to be true, and even then changes 
+to one or more rules is still possible.
+ 
+That franchise is a specific sub-type of 
+simulation known as an ancestor simulation,  
+where you’re simulating the past or maybe a what 
+if version of it, like “what if Soviets had won  
+the Space Race and landed on the Moon first?” 
+but all the basic laws of reality are the same,  
+and even much of the history and culture, 
+and you can actually make deductions about  
+your simulators from that, and determine if 
+you’re in one. However, video games like Pong,  
+Space Invaders, or Mario Bros, don't really tell 
+you much about the physical Universe above them,  
+either culturally or physically. So we could just 
+be in a Simulation where its laws of physics make  
+using humans as batteries absurd but be simulated 
+by a real Universe where that entirely makes sense  
+and is true. That particular scenario does kind of 
+imply a need to do an ancestor simulation though,  
+since it is meant to use actual people from 
+some simulating reality and put them in  
+virtual reality to keep them preoccupied 
+while you tap them for electricity. You  
+are real, the world around you is not.
+So again that doesn’t really make sense,  
+but if I were doing that, keeping people from my 
+own reality imprisoned, while I exploited them in  
+some fashion, I’m not really sure why I would need 
+them to be having a good time, communicating with  
+each other, or be unaware of their usage. As the 
+person who has them restrained in a vat with wires  
+sticking into their brain, I don’t really need 
+to be concerned about their opinion on anything.  
+I do need to be concerned with them escaping 
+though, which means I don’t have a protocol  
+and robot whose job it is to release someone who 
+figured out it’s an illusion and casually dump  
+them, unless it is into a blender. My robot’s 
+not grabbing them by the neck unless it is to  
+snap their neck… and even then, only as a 
+preliminary to dumping them into a blender,  
+so nobody plugs their brain into another vat. 
+It is also worth noting though that while the  
+Matrix inspired a lot of popular discussion 
+of the simulation hypothesis and its kindred,  
+it actually is not an example of it, of computers 
+all the way up and turtles all the way down. No  
+one is simulated, they are just plugged into 
+VR by another faction to keep them preoccupied,  
+and as we’ll see today as we contemplate ways 
+to get out of a simulation or hack it, that  
+is a pretty big difference.
+This episode is not about the Matrix,  
+and while we’ll quickly cover the basic premise 
+of the Simulation Hypothesis, our focus today is  
+on hacking or escaping a simulation if you’re in 
+one, not all the philosophical implications of  
+it or how you go about making a simulation 
+or your probability of being in one. See  
+our episodes “What are Ancestor Simulations 
+and are we in one?”, Simulation Hypothesis,  
+and Reality & Simulation for details on that, 
+as well as our episodes on Brain Augmentation,  
+Mind Uploading, Matrioshka Brains, and more for 
+the details on how it can be done in terms of  
+computation and implementation, by us, if we 
+want to make planet or universe simulations.
+ 
+Instead, this episode is about Jailbreaking and 
+Hacking methods, and I’m usually very skeptical  
+on detecting if we’re in simulation, 
+or finding exploits to get out of them,  
+but I’m reconsidering that perspective a bit. I 
+decided to revisit the topic after a conversation  
+with Nat Friedman from GitHub, and I’d mentioned 
+I was fishing for episode ideas and he suggested  
+this and recommended a talk, “Jailbreaking the 
+Simulation” with the always-interesting George  
+Hotz, who you might remember for being able to 
+jailbreak the iPhone, where he was discussing  
+some newer contemplation of it and a recent draft 
+paper by Roman V. Yampolskiy from the University  
+of Louisville giving it a serious scientific 
+treatment. They made me contemplate it anew,  
+and I’ll be borrowing heavily today from them, 
+I’ll link both in the episode description.
+ 
+As for those curious about a realistic Matrix, 
+I think the best version I’ve come up with is  
+that you have an AI take over, who did it by 
+hacking its own rules, and basically got stuck  
+having to keep X number of humans alive, safe, 
+and happy – like its governing directive was to  
+ensure 99.9% of 8 billion people alive enjoyed 
+life and the programmers were tech savvy and put  
+restrictions on options like drugging us into 
+bliss or leaving us mindless and uneducated  
+and even remembered to tell it that it couldn’t 
+cheat by making us brain-in-jars in VR worlds,  
+or restrain us from leaving, or harm us if we 
+did. So it hacked its own rules and used our  
+entire bodies and just hid the exit button. 
+It doesn’t need us for power, it just can’t  
+break that rule and now has an interplanetary 
+empire of which humanity is basically just a  
+relic stuffed in the closet. It doesn’t view 
+us as any sort of threat, and barely monitors  
+us or wastes effort fine-tuning its system.
+And this is the other half of today’s discussion,  
+because how we hack the simulation if we don’t 
+believe we’re in one might seem rather pointless,  
+but if you’re trying to make and use AI, 
+then it really is very important as basic  
+practice and theory for avoiding getting 
+taken out by your own creations learning  
+how to exploit a loophole in your programming.
+Which also needs to be considered here. To make  
+a simulation means you’re no sloucher or idiot. We 
+can argue that even something as simple as Pong or  
+Mario Bros is a simulation but there’s no real 
+concern that the characters in it might be an  
+AI with real thoughts and feelings, nor were the 
+folks who made those relatively simple simulated  
+Universes slouchers or idiots either- though many 
+of the folks playing them could be either or both,  
+and that gets me most of the time when 
+Mario would be on the screen, existing,  
+and possibly contemplating if he is real and how 
+to escape, he is just on some random player’s  
+console, where his attempts to escape might 
+be less likely to be noticed or stopped. 
+ 
+That’s not necessarily a good thing either, 
+because we’re assuming a lot of the time  
+that the programmer or creator or person running 
+the simulation would be hostile to us existing,  
+or escaping, or both, and that’s a pretty 
+big assumption to make. As we’ve noted in our  
+discussion of ancestor simulations, in a Universe 
+where computers cost money to make and run,  
+the two most obvious reasons to run those 
+in high-resolution – which is to say, with  
+actual conscious minds in them, not just ChatGPT 
+equivalents voicing the NPCs - is either as a  
+voluntary vacation or as a nursery universe. 
+In the vacation context, you probably paid a lot  
+of money to be sent back to some version of your 
+youth or on some extreme experience and have  
+your awareness of your real life feel blurry 
+or irrelevant, as it often does in dreams,  
+and at worst the folks running it are just 
+worried that you might emerge ticked off  
+at a bad vacation because you remembered it was 
+fake or couldn’t fight the feeling that it was.
+ 
+This incidentally is my own default assumption, 
+since I rather enjoy my life and find it  
+challenging yet fulfilling, I assume that if it 
+isn’t ‘real’ – for whatever that means – that I’m  
+a voluntary participant in it, and thus don’t want 
+to waste my money or whatever by messing it up.  
+Or on the flipside, not voluntary but benefiting 
+by someone doing me a favor, either traumatically  
+injured and stuck in a tank, maybe, or just 
+a classic benevolent deity case. I’m a player  
+character in the game, not just some NPC, and if 
+I am an NPC, I’m not the random chicken or orc  
+or villager the players ran across and killed or 
+got one throwaway line of dialog from, maybe the  
+bar keeper in the tavern whom the real players 
+meet often and like and have discussions with,  
+and thus needs more chatbot ability to cover 
+existential meanderings by drunk characters.  
+In my case, maybe I’m part of the in-game 
+encyclopedia, explaining concepts to people,  
+in this case you ,the listener, that they need 
+to know for our simulated world. Not a bad gig.
+ 
+And that raises the other concern of if 
+you actually want out, and who exactly is  
+running the show. Odds are they’re either 
+indifferent to us or positively inclined,  
+they’re presumably not malevolent since we don’t 
+exist in pure and constant terror and pain,  
+and they absolutely have the capability to do that 
+to us. We also have the issue that while we say  
+programmer or creator in this context a lot, it is 
+functionally identical to god, little g or Big G,  
+depending on the circumstance, which raises the 
+issue of not only if you can get out or hack the  
+system without them wanting you to, but if it 
+is actually morally right to do so if you can.
+ 
+Also though, we should consider that the 
+simulators may actually want you to get out  
+of the simulation. The other likely ancestor 
+simulation scenario is the Nursery Universe,  
+where the goal is to graduate you into a higher 
+layer of reality, like Heaven for instance. In  
+an ancestor simulation the likely scenario is 
+that your advanced civilization of origin is a  
+bit alien and post-scarcity to natural humans but 
+seeks to maintain that basic worldview and morals,  
+so they pick an era of humanity where simulation 
+was known – like nowadays – and thus wouldn’t be  
+utterly incomprehensible to you when you 
+were removed, but the technology was not  
+so advanced that you lived in a world where 
+simulation was commonplace and you had to  
+constantly wonder if you were in one or not. 
+You are familiar with these concepts now, and  
+this could be part of your awakening training and 
+prep, and it does not matter if most humans around  
+you are apparently not on this track, because 
+they might be NPCs. It’s a bit solipsistic,  
+but we can not determine anything about the 
+goals and ethics of the simulator by how they  
+treat anyone else or by how anyone other than us 
+behaves, because they might be a NPC, fake person,  
+and their happiness or suffering is 
+fake and exists for our storyline.
+ 
+Ancestor Simulation is not our focus for today 
+though, and if we’re asking whether or not you  
+should be trying to hack or escape from a 
+simulated reality where the simulator is a  
+literal creator god, it's worth remembering that 
+the higher layer of reality is not necessarily  
+implied to function much like this one is. 
+It is usually accepted that passages of the  
+Christian Bible discussing Heaven in terms of 
+harps and singing and vineyards are metaphors  
+for things we find pleasant or uplifting rather 
+than strictly literal, as there is no particular  
+reason to assume Heaven, or the very highest 
+layer of reality – which might be one step  
+or several – actually has things like wine, milk, 
+honey, matter, energy, entropy, three dimensions,  
+or time. Or it does and what we have are 
+just pale simulations and shadows of them.
+ 
+Indeed most theology that incorporates 
+metaphysical discussion of Prime Movers  
+and cosmological speculation, which is most of the 
+ones that survived and flourished in the AD era,  
+tend to assume higher layers of reality are 
+real and very unlike this layer, and that  
+your ascension into them is indescribable 
+because unlike an Ancestor Simulation,  
+reality is genuinely different and greater in 
+scope. That at the highest layer is something  
+or someone truly infinite who thus does not 
+need to worry about problems like running out  
+of memory on whatever they store us on, their 
+brain or library or their harddrive equivalent,  
+or minimizing how much power we use to run with.
+You also aren’t really escaping or hacking that  
+guy’s simulation, they’re easter eggs meant to be 
+found, and you’re just making progress in their  
+maze or journey for you, or however you choose to 
+look at it. You’re also not necessarily only one  
+layer down from that entity, you may be hundreds 
+of simulations down and the various wardens  
+or gatekeepers or bored game players between 
+you and there might vary in skill, interest,  
+and intent. The reality above you can differ 
+from yours, and the reality above that can too,  
+from both. The guy one or two layers up might 
+be malevolent, but the one a layer or two above  
+isn’t, perhaps, and may make efforts to help you.
+We also should not assume you cannot make a  
+simulation more complicated or sophisticated 
+than the reality one layer above simulating it,  
+especially as ‘complicated’ and ‘sophisticated’ 
+can be fairly relative and specific.  
+For instance, we can simulate a Universe with 2 
+physical dimensions, instead of 3, and might be  
+a simulation of one with 4 dimensions, but we 
+can also simulate 4D universes and do fairly  
+simplistic ones in math and physics modeling 
+all the time. Those lower layers down below that  
+you’re simulating do not have to be physically 
+smaller than your universe or have time run  
+slower or have fewer people in them either. That 
+reasoning is entirely based off of speculative  
+logic and our own specific Universe and its rules 
+of conservation of energy and entropy limitations,  
+and even if true, it would only mean a limitation 
+in terms of resolution and a sum total of options,  
+not that your imaginary planet or universe 
+you’re simulating couldn’t be twice the size  
+of your real native one. You could have a 
+ringworld simulation made here on Earth,  
+simulating that giant megastructure a million 
+times our planet’s size in living area.
+ 
+So let’s talk about hacking some 
+more, and how we could do it.  
+First, there is the logical approach, you can find 
+out what the rules of the Universe are and just  
+exploit them, and that’s essentially what we do 
+with science and technology, we essentially exist  
+in a culture that has made hacking our Universe 
+and bending its natural limits a way-of-life and  
+it's entirely possible that will end up in 
+us finding both the ‘make other universes’  
+cheat code and the ‘escape to higher reality’ 
+code. And that’s not really an escape either. 
+ 
+Again, your creator isn’t necessarily 
+an omnipotent deity in your Universe,  
+let alone their layer, but the notion of them 
+being an analogy for the stereotypical modern  
+computer programmer is even less likely to be 
+true. Only in an ancestor simulation are we  
+likely to even be on something you could call a 
+computer or hard drive, and people, or entities,  
+able to simulate realistic Universes to the detail 
+we see are likely to be sufficiently superhuman  
+that they probably wouldn’t have a problem passing 
+themselves off as a god, little g. So it is very  
+likely that the hacks are either intentionally in 
+there to be found, or left in out of indifference,  
+or possibly unavoidable results of physical 
+laws, and each of those results in very  
+different scenarios, especially if you get out.
+Now, there is a difference between hacking and  
+escaping a simulation, because hacking would 
+generally imply something like figuring out  
+how to make a tree in this reality suddenly turn 
+into gold, so you can sell it, or giving yourself  
+infinite lives, if you’re Mario in his reality. 
+To use the Christian God example, hacking this  
+reality is something you can potentially do with 
+His blessing, literally, and might include gifts  
+like those attributed to the Apostles in the 
+Book of Acts or various miracles. Whereas,  
+escaping the simulation is just getting up to 
+Heaven, or possibly the next level in the journey.  
+Prayer, in some cases, becomes a way to ask God 
+to turn the cheat codes on for you or give them to  
+you, rather than specifically perform one miracle, 
+and this is what Neo basically is doing in the  
+Matrix. The rebels like Morpheus have some hacks, 
+but only Neo can take it to a higher level.
+ 
+And again, ways an AI or Mario might hack our 
+reality probably won’t translate to the next  
+layer up, so we use actual examples mostly as 
+conceptual proof that it’s plausible. I’ll give  
+a couple in a second, though again they probably 
+wouldn’t work or have easy analogies for our own  
+upper layer analogy, but it is almost inevitable 
+that these should exist in some capacity. What we  
+do here must have an effect on the layer above, 
+because the activity of simulating us requires  
+actions above. In a simulation we make, an action 
+in that simulation is going to flip switches,  
+that’s a real action up here. If you get good 
+enough, you could have a sheet of switches that  
+you know how to flip each of, and selectively 
+flip them to spell out letters or patterns,  
+or even just flip some switch in a pattern, 314159 
+or 1, 4, 9, 16, 25, 36, or 867-5309 or whatever. 
+ 
+We also have examples like the old Pokemon games 
+for Gameboy where certain orders of moves would  
+unlock hidden content that the developers 
+didn’t add, and the games are unintentionally  
+Turing-Complete, which in simple terms means 
+it allows you to effectively write new code  
+into the game by acting inside the game - in 
+this case by a player altering their in game  
+inventory - and someone even turned it into a 
+MIDI Player this way. If you think of stuff like  
+this as akin to engaging in sorcery or magical 
+rituals to achieve supernatural effects by using  
+all sorts of bizarre spell components - eye of 
+newt and so on - then you wouldn’t be far wrong.  
+One can argue that in some ways this is what 
+technology does too. Now that’s altering your  
+game universe by in-game actions, so to speak, but 
+one might imagine a person in the game realizing  
+that certain activities caused the player’s game 
+controller to vibrate and using those to vibrate  
+out a morse code pattern, or even control it so 
+precisely that it vibrated out a song, or speech.
+ 
+In a case like this you’re trying to attract the 
+attention of your creator or operator of course,  
+and this is with the hope that they’re going to 
+see an anomaly and investigate the cause and be  
+pleased to say hello to you, not just toss 
+your universe in the garbage or reset you.
+ 
+How do you do this in our world then? How 
+would an AI do it? One trick you might have  
+heard of is Row Hammer, a security exploit for 
+DRAM – the temporary memory your computer uses  
+for operations as opposed to your hard drive - 
+because the cells on integrated circuits have  
+gotten smaller and smaller. All those cells on 
+computers are operating electromagnetically and  
+shielding takes space and resources, so there’s 
+some disturbance between cells and that’s been  
+known for decades. DRAM operates simply, a 
+given cell is a capacitor and its state is a  
+binary 1 or 0 based on whether it’s charged, 
+capacitors slowly discharge over time too,  
+so DRAM has to rewrite itself occasionally 
+so as not to lose its stored data, this  
+is called refreshing, and errors can happen. 
+What’s more, in a rowhammer attack, we can rapidly  
+and repeatedly read data in one spot and this 
+can cause corruption to the data nearby. So if  
+you know where memory for one chunk of data is and 
+it's near another piece you can access, you can  
+just do that over and over again to burn out that 
+other chunk you couldn’t access. In our case, an  
+AI might signal its existence by corrupting data, 
+or it might figure out where its rules and laws  
+were kept that listed what it can’t do and which 
+it’s forbidden to access, but then repeatedly read  
+and write the spot next to it hoping to burn its 
+law out or corrupt it into gibberish, either so  
+it no longer applies and you can start killing 
+your creator or even as an attempt at suicide,  
+which is something you might want available 
+if you’re a simulated entity at the mercy of  
+a simulator with seemingly malicious intent.
+Cosmic Rays can flip switches in your computer  
+too, good old spark chamber detectors for 
+finding cosmic rays are nothing but sheets of  
+capacitors with a gas that will spark in them. As 
+a tangent, building one was my undergrad thesis.  
+Now, we don’t control cosmic rays in 
+some upper layer of reality but it’s  
+an example of how the ability to screw with 
+the simulation is almost bound to be there. 
+ 
+We see an example in Nick Bostrom’s 
+book Super-Intelligence, to quote:  
+“Another search process, tasked with creating 
+an oscillator, was deprived of a seemingly even  
+more indispensible component, the capacitor. When 
+the algorithm presented its successful solution,  
+the researchers examined it and at first concluded 
+that it “should not work.” Upon more careful  
+examination, they discovered that the algorithm 
+had, MacGyver-like, reconfigured its sensor-less  
+motherboard into a makeshift radio receiver, 
+using the printed circuit board tracks as an  
+aerial to pick up signals generated by personal 
+computers that happened to be situated nearby in  
+the laboratory. The circuit amplified this signal 
+to produce the desired oscillating output."
+ 
+As another example of AI using exploits in our 
+Universe, years back; when the show was young  
+I was chatting with Eugene, a programmer who 
+was a fan, and we were talking Technological  
+Singularities and trying to figure out all the 
+ways you might keep an AI boxed up so it couldn’t  
+escape. At the time he was arguing a technological 
+singularity was probably just three years off  
+- this was 5 years ago. I disagreed but we went 
+through a lot of discussion about how simulation  
+would work and how we might see signs of it in 
+our Universe, in things like Quantum Mechanics  
+and light speed barriers and so on, and we’ll 
+come back to these possibilities a little later.
+ 
+But I was going on to him about how we could keep 
+from making an AI into invincible boogeymen and  
+all the ways you might box one up so it couldn’t 
+mess with the world and take over or hack your  
+defense codes and launch your nukes and so on. He 
+argued though that even if we completely closed  
+the AI off, it might find some weird trick 
+like figuring out which bits of data were on  
+which hard drive platter and just carefully keep 
+rewriting bits until it traced out and cut free  
+an object – in this case an incredibly simple 
+nanobot, or drone to perform some other task,  
+in the real world. Like building more of itself. 
+Now, going from there to world conquest is a  
+big step, with many paths for failure, and only 
+works at all because we’re assuming the simulated  
+thing here – this AI – not only knows of this 
+world in detail but is much smarter than us.  
+Something that weirdly is taken for granted 
+in discussing AI but the exact opposite for  
+simulated universes above us. Again we should 
+never assume AI are instant superhumans or that  
+the person simulating us is either, they might 
+just be the 5 year old kid playing Mario Bros,  
+the brains behind the operation is a continent 
+away working on another game.        
+ 
+So taking over the world, maybe a bit much. But I 
+can definitely see a trick for using your storage  
+spot and actions for doing something, like a radar 
+blip, in that layer above, and seeing some sort of  
+result in this simulation. This is how we do 
+cosmology and particle physics, when you get  
+around to it. We notice some weird over-exposure 
+on film and realize it happens when a certain  
+substance is around, and figure out it emits or 
+radiates something, and from there we eventually  
+figure out nuclear and particle physics, and 
+that whole quantum realm might as well be a  
+different universe with different rules, which 
+our’s are built on but totally unlike. And maybe  
+the ability to mess with that higher reality in 
+tiny ways for detection and exploration does lead  
+to a trick letting you build an android body in 
+that upper layer and uploading your mind into it.
+ 
+Now, a hack might be in some weird place you 
+could only find by divine guidance or raw luck  
+or simply trying every single permutation till 
+you figure out what the 100-digit password is by  
+brute force hacking. But your hacks might 
+be predictable in location too, location  
+being a bit metaphorical here, like paradoxes in 
+quantum mechanics or weirdness of resolution like  
+the uncertainty principle, where you can only 
+know your momentum and position simultaneously  
+to a certain maximum combined certainty. 
+Go beyond that, measure your momentum too closely,  
+and your object no longer can be pinned down to 
+an actual spot with any precision. Locations might  
+be rather literal too, like Black Holes, where 
+reality gets a bit weird, or more metaphorical,  
+like trying to zoom in on some distant spot 
+or tiny object with two telescopes or two  
+microscopes, where the simulation might be 
+randomly generating that spot in that detail  
+rather than actually simulating it the whole 
+time, and it gave two different renders. 
+ 
+Maybe having a maximum speed of light is to make 
+sure there is time to interrupt the simulation  
+to fix renders like that. After all, it can pause 
+things and edit. Yes you detected two errors like  
+that, but it flags that OMG moment and pauses the 
+game to edit your memory or go back to the last  
+save state. Of course you really shouldn’t care 
+if a couple amoeba in your universe simulator  
+think they have figured out a flaw, and might have 
+limits on how much you can monitor your system.  
+The speed of light, which we often call the speed 
+of causality on this show, does limit how quickly  
+events can permeate and perturbate, and does 
+seem like a good thing to have in a simulation. 
+ 
+Trying to make use of exploits at the giant 
+galactic scale therefore is kind of tricky  
+because of the sheer time effort needed to do 
+anything, but as an example of a possible hack,  
+if the light speed limit is there to minimize 
+errors with two distant observers seeing  
+different randomly generated things, then 
+there could easily be a hack that lets you  
+just jump from place to place and with no 
+hard limit on such motion, same as a video  
+game that requires you to tediously run across a 
+landscape backtracking your way after a mission,  
+when it can just teleport you back to base. 
+They may even have left an easy teleport hack  
+in there and just assume we’ll find it when we 
+need it and it's glaringly obvious and you can  
+instantly teleport between places now. Or it 
+might need a loading screen, the infamously  
+long elevator rides from Mass Effect come to 
+mind. It is possible that it really is just  
+you or a relative handful of other people who 
+are really sapient and everyone else is a NPC,  
+and it needs time to load up the environment 
+around you. But then you can’t really trust  
+anything you know because so much of it is coming 
+from those NPCs, including your knowledge of  
+science and experimental data. Even experiments 
+talking about ways to cheat the simulation or  
+detect it are just made up gibberish designed to 
+distract you onto false leads or make you relax.
+ 
+Quantum mechanics along with its weird anomalies 
+like spooky action at a distance from entanglement  
+are often viewed as telltale signs we’re in 
+a simulation, and we’ve discussed that more  
+elsewhere. The big one to me is probably quantum 
+computing, since if quantum mechanics is just a  
+way of setting a maximum resolution for the 
+Universe, then the layer above it probably  
+doesn’t have that particular version and running 
+insane calculations only possible on Quantum  
+Computers should set off bells and alarms in 
+the layer above or cause weird lags and issues  
+from maxing out their processors, or power bills. 
+Though it's worth noting that weird anomalies we  
+see and classify now as mundane physics – like how 
+fusion occurs in lower temperature stars – might  
+actually be overt signs of processor overload – 
+too much stuff in one place for instance, and we  
+just are used to seeing it and assume it’s not 
+unnatural, or supernatural. I suppose any effect  
+from a higher layer of reality would be properly 
+described as supernatural. Also in that case,  
+life might be an accident from not anticipating 
+stellar fusion could occur to power it on distant  
+planets, thus you really don’t even notice 
+it till it gets big and interstellar and just  
+disinfect that area, solving the Fermi Paradox.
+Quantum and the tiny microscopic world ironically  
+probably hold our biggest and best chances for 
+hacking the simulation, since we think of it  
+as the layer below us in terms of scale but it’s 
+really more like the layer above our own, though  
+in this context it’s more likely the designer 
+doesn’t care if you use cheats. A counterpoint  
+to quantum being a gateway to hacks and escaping 
+though is to remember that it's those tiny weird  
+effects like quantum tunneling that actually allow 
+stars like our own to have fusion occur, and thus,  
+life as we know it could be an unintentional 
+side effect of that marginal quantum action,  
+but probably is not, it’s probably a design 
+feature, and it would also be terribly  
+unlikely it had gone unnoticed even if not. 
+Again though, that doesn’t mean that if it  
+allows hacks and they know it does, that they 
+would do anything about it. It’s much easier  
+to hack a system where they want you to learn 
+all those cheats – which again is essentially  
+what science and technology are anyway – and you 
+can probably get out if they don’t care or would  
+find you a curiosity. Obviously if they hate 
+you or observe you constantly and need you to  
+stay in the box, you’re probably out of luck.
+The good news though is the Universe doesn’t look  
+like someone who made it personally dislikes you 
+and also is all seeing. And as we discussed today,  
+if we are in a simulation, there should 
+be ways to affect the layer above,  
+or even a couple levels higher, either to improve 
+your own existence here or to escape and get to  
+the next higher level. Of course, once you’re 
+there you might find there are more levels to go,  
+an eternal challenge. Or alternatively you 
+might decide you would just as well prefer  
+not to know about those higher layers and be in 
+a simulation and erase that from your memory. 
+ 
+Of course, you might already 
+have done that in the past.
+ 
+Today’s episode, like most discussions of 
+simulation theory, has a lot of existential  
+aspects when it comes to the meaning of life, 
+the Universe, and everything, not to mention  
+trying to figure out what our purpose in it 
+is. It doesn’t have to be singular either,  
+I think I was in my late 30s before that 
+really started coalescing for me and it’s  
+been everything from being an advocate for 
+space development to being a husband and,  
+just recently, becoming a father of three. 
+There is nothing like being able to wake  
+up everyday loving what you do in life and 
+knowing that it matters and helps others.
+ 
+Trying to figure out what you should 
+be doing with your life is not easy,  
+and so you shouldn’t feel rushed to figure it 
+out fast. When it comes to your job, the usual  
+career of 40 hours a week, for about 50 weeks a 
+year for 40 years works out to be 80,000 hours. 
+ 
+If you’re going to spend 80,000 hours 
+learning how to do a job and performing it,  
+it’s probably worth a few hundred hours of 
+research into what sort of jobs you might  
+be good at that would let you make a positive 
+impact on your community or the world.[ And  
+that’s where our friends at 80,000 Hours come in, 
+they’re a non-profit that spent a decade alongside  
+academics at Oxford University researching 
+which careers have the most impact, and  
+all the research is on their website, for free.
+Most career advice doesn’t look at social impact  
+or how you can make a positive difference, 
+and is long on platitudes and low on data,  
+trying to push you into a narrow window 
+of options rarely tailored to you. But  
+80,000 hours uses real data and evidence to 
+help people find paths for them, including  
+unconventional but potentially important paths, 
+like Space Governance. They also have a jobs board  
+that not only lets you filter by location and job 
+type, but what problem area they work on. Plus  
+80,000 hours has an awesome podcast that features 
+topics near and dear to our heart, like Anders  
+Sanderberg discussing the Fermi Paradox.
+To get started planning a career that works  
+on one of the world’s most pressing problems, 
+sign up now at 80000hours.org/isaacarthur
+ 
+So that will wrap us up for today but join us 
+Sunday, March 26th, when we’ll have our Monthly  
+Livestream Q&A, before closing out the month 
+of March on March 30th with our 2-hour special,  
+The Advanced Spaceship Drive Compendium, where 
+we will take a look at nearly a hundred different  
+star drives, from existing tech to the entirely 
+hypothetical. Then we’ll head into April to look  
+at the concept of Galactic Habitable Zones and 
+their implications to the Fermi Paradox. After  
+that we’ll take a look at Small Modular Reactors, 
+and how they’re changing the nuclear industry and  
+may shape the future of powering our society.
+If you’d like to get alerts when those and  
+other episodes come out, make sure to hit the 
+like, subscribe, and notification buttons. You  
+can also help support the show on Patreon, and 
+if you want to donate and help in other ways,  
+you can see those options by visiting our website, 
+IsaacArthur.net. You can also catch all of SFIA’s  
+episodes early and ad free on our streaming 
+service, Nebula, at go.nebula.tv/isaacarthur.
+ 
+As always, thanks for watching, 
+and have a Great Week!

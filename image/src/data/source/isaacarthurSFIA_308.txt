@@ -1,0 +1,826 @@
+﻿This episode is brought to you by Brilliant.
+Interstellar space is beyond enormous,  
+in order to travel between the stars we 
+will need the power of the stars.
+ 
+So today we will be taking a look at spaceship 
+propulsion focusing on fusion-based drives,  
+and we’ll be looking at both the various 
+possible fusion drive systems and what  
+they would really mean in practical terms. 
+In that regard we will discuss the possible  
+speeds such ships might obtain and what sort 
+of costs we might see for passengers or cargo,  
+both for interplanetary travel and for 
+interstellar travel, though for the latter  
+especially we will have to be rather speculative.
+This is not our first time discussing fusion as  
+a power source, so we will skim over some 
+of the basic function and economic impacts  
+that we explored in our Fusion Power 
+and Impact of Nuclear Fusion episodes,  
+but we have several different fusion drive 
+scenarios and each would look very different.
+ 
+The key ones we will consider for today will be 
+Fusion Torch Drives vs Fusion-powered Ion drives,  
+the Bussard Ramjet, Deuterium-based fusion, 
+Helium-3 Fusion, plain Hydrogen fusion,  
+and Pulsed Fusion – which is essentially 
+shooting hydrogen bombs out behind a ship.
+ 
+That last one, Pulsed Fusion, is the only one 
+we currently have the technology for and folks  
+are not overly anxious to construct a ship 
+to Mars or Alpha Centauri that would leave  
+Earth’s Orbit with a cargo bay full of nuclear 
+bombs, and pushed from orbit by them – we’ll  
+discuss how this might be done and possibly safely 
+later today but for the moment it reminds us that  
+while fusion often gets called the technology of 
+future, and always will be, it is something we  
+have actually had for an entire human lifetime, 
+since the mid-20th century, just as bombs.
+ 
+We also need to start with two other reminders. 
+First, while shooting bombs out the back of a  
+ship sounds dangerous, it is essentially what we 
+already do with jets and rockets, just scaled up,  
+and any interstellar drive needs to be operating 
+at those hydrogen bomb levels of energy anyway.  
+This is why we often say on the show that 
+there is no such thing as an unarmed spaceship,  
+since the energies needed to 
+push them between worlds is  
+easily convertible into a weapon and 
+a terrifyingly powerful one at that. 
+ 
+Second, just as any ship with such a spaceship 
+drive is carrying a world-busting arsenal with it,  
+those same engines should be available to their 
+civilization for non-space uses. A fusion-powered  
+economy is one of titanic capabilities. Not only 
+can a fusion-powered ship reach Mars in days not  
+months, but the society with a fusion economy 
+can mass-manufacture hundreds of ships  
+hundreds of times bigger than what we tend to 
+plan for that trip now. And when those ships land,  
+they’ll each have a powerplant capable of brute 
+force producing all the metal, glass, and air  
+any growing domed colony could plausibly need. 
+They could even brute force extract minerals by  
+centrifuge or heating and 3D print stuff where 
+that would be recklessly uneconomical to us.
+ 
+Fusion is the power of the Sun, something so 
+potent it was routinely worshiped as a god by  
+our ancestors, once harnessed to our control, 
+it lets us perform tasks of unimaginable scope,  
+not just run the ships using it.
+But let’s move on to those ships  
+by quickly covering how fusion works. In the 
+first place, we need to understand the kind of  
+power levels involved. As Einstein showed with 
+E=mc², mass and thus all matter is also energy,  
+and because of the multiplier and squared term, 
+it ends up being quite a lot. Chemical fuels are  
+incredibly powerful, but their energy has to do 
+with changing around the relatively weak bonds  
+between molecules and atoms. It's not something 
+we tend to think of when burning gasoline,  
+since it all burns away, but it is actually losing 
+mass as it transforms into various byproducts. 
+ 
+The amount of mass it loses in this 
+transmutation is equal to the energy it emitted,  
+in accordance with E=mc², and yet we’re not 
+even losing a millionth of the starting mass  
+through such a transaction. If you were to 
+add up all the mass of air and fuel burned,  
+then add up all the gas and ash that fuel leaves, 
+what you’re left with will be nearly the same as  
+where you started, minus just a tiny fraction.
+Nuclear forces do around a million times better,  
+as this involves a massive rearrangement of the 
+vast sea of real and virtual quarks making up  
+the core of an atom, not the tiny electrons 
+orbiting at the periphery. However it takes  
+vastly stronger forces to ignite these 
+changes, not temperatures of hundreds of  
+degrees but temperatures of millions of degrees 
+and pressures far beyond what occurs on Earth  
+or even in its crushing and scorching interior. 
+These rearrangements of the nucleus of an atom,  
+fission or fusion, produce far more energy 
+but require far greater efforts to achieve.
+ 
+Fission, the cutting of big atoms into small ones, 
+differs from fusion – the combining of small atoms  
+to make bigger ones – in two key ways. First, 
+there are vastly more of these small atoms lying  
+around, making it a cheaper and more abundant 
+fuel in the same way seawater is more abundant  
+than gold, and second, this energy is usually a 
+decent fraction of a proton or neutron’s mass,  
+so the energy released by fission of one atom 
+of uranium – composed of hundreds of protons and  
+neutrons, is on par with what we get from fusing a 
+hydrogen or helium atom of just one or two protons  
+and neutrons. So while the energy released per 
+atom is similar for fusion and fission, the atoms  
+involved in hydrogen or helium fusion are far more 
+numerous per kilogram of fuel and there are just  
+far more kilograms of that fuel lying around. 
+There are other advantages too, but it is why we  
+often see nuclear spaceships proposed, because 
+while fission might not be as good as fusion,  
+it's still vastly better than chemical fuels, see 
+our episode the Nuclear Option for discussion of  
+those. Even though Uranium and Thorium are rarer 
+than Hydrogen and Helium, there’s still more than  
+enough of the stuff available in our solar system 
+to power millions of spaceships up to speeds  
+permitting interplanetary and even interstellar 
+colonization. We’ll be talking about the specific  
+ways a given drive aims to achieve fusion but 
+this is why it is desired as a power source.
+ 
+On the show we often discuss alternatives like 
+fission or solar power, or even antimatter and  
+black holes for driving spaceships, but we do this 
+while recognizing that we don’t have fusion yet  
+and that even if it’s something we somehow 
+never achieve, we can still journey to the  
+stars through other means. Fundamentally though, 
+it's always been fusion that offers that promise  
+as the leading candidate, with the other 
+runners-up getting discussed here as a  
+‘just in case’ or as hypothetical upgrades. 
+Fusion, the power of the stars, offers us the  
+chance to journey to those stars and does so 
+by throwing out so much energy a spaceship  
+in orbit of a world would look like a star 
+when its engine came on. In fact that’s a  
+bit of an understatement, since bigger ships 
+might light the sky up like a second sun,  
+but this is part of why certain types of fusion 
+drives are known as a Torch Drive or Torchship,  
+a term we get from Science Fiction Great Robert 
+Heinlein, although the ships described as such  
+in Heinlein’s works actually were using straight 
+matter-to-energy conversion, not the roughly 1%  
+conversion we see with hydrogen fusion, and 
+most fusion types don’t do even that well. 
+ 
+Torch drives are the muscle cars of 
+rocketry, combining the high fuel  
+efficiency of something like an ion drive with 
+the high output-per-second of a rocket engine..  
+Folks tend to forget we don’t really need a higher 
+thrust than what chemical fuels provide, we just  
+need something that will keep producing it for 
+days rather than seconds or minutes. The specific  
+impulse of a fuel, normally given in seconds, is 
+how long a given fuel could hold a ship up against  
+the pull of Earth’s gravity. A decent rocket 
+fuel can provide a few hundred seconds of that.  
+We usually burn it even faster though, with 
+enough force to pin people to their seats,  
+so producing force faster than this isn’t usually 
+a priority. Rather the hoped for upside of a torch  
+drive is that it can produce this thrust not for 
+hundreds of seconds but for millions of seconds.
+ 
+This is the other half of the game, protracted 
+acceleration. Here on Earth almost every type of  
+travel we do involves a brief period of speeding 
+up and slowing down, and most of your time and  
+energy is spent cruising along and maintaining 
+that effort. Since space is fairly empty, very  
+little effort goes into maintaining speed, but 
+it's also insanely huge so you have to spend a lot  
+of time crossing it unless you can go ridiculously 
+fast. Because of how fast you’d need to go, it  
+takes a lot of time and a lot of energy to speed 
+up or slow down to and from those insane speeds. 
+ 
+Mars for instance is a long way off, varying from 
+55 million kilometers or 34 million miles at its  
+closest to 400 million kilometers or 250 million 
+miles at its furthest. This means even light  
+takes 4 to 24 minutes to cross that distance, 
+varying as Earth and Mars both orbit the Sun.  
+Our ships travel slow enough that we can’t 
+send them in a fairly straight line either,  
+but the hope is that a fusion ship could travel 
+fast enough that it was a fairly straight course.  
+Such being the case, how long 
+would such a journey take?
+ 
+The thing is that humans don’t handle high 
+accelerations well. It's essentially the  
+same as gravity, so a ship just doing 1-gee of 
+acceleration, akin to normal earth gravity where  
+the rocket nozzle is essentially in your basement 
+of your ship, not the back like an airplane,  
+and is probably as fast as you would want to 
+accelerate. Emergency or Military vessels might do  
+more, but probably at the cost of fuel efficiency 
+and maximum possible speed for longer trips.
+ 
+Incidentally, this means that such ships, these 
+torchships able to maintain high thrust for long  
+times, are closer to a skyscraper than an 
+airplane. Your destination is upward toward  
+the roof, and the engine is down in the basement, 
+not the back. All your gravity is being provided  
+by thrust so if it turns down, gravity goes 
+down, if it turns off, you’re in zero-g,  
+and if it suddenly turns on again, or turns 
+on sideways to dodge something, you can get  
+smashed around and potentially killed. 
+In fiction we often see ships with effectively  
+infinite fuel that will burn the entire time, 
+and they reverse at their halfway point,  
+what gets called a Turnover, on the assumption 
+the ship might just turn itself over to point the  
+engine toward the destination and slow down. This 
+is never the ideal way to use fuel efficiently,  
+in a lot of cases you would end up burning an 
+order of magnitude more fuel than if you took  
+twice as long to get there, and should only happen 
+in cases where the maximum acceleration the ship  
+can achieve, or its crew or cargo can survive, 
+is a bigger constraint than the fuel supply. 
+ 
+Where we see torch drives we rarely 
+get descriptions of how they work,  
+and given the origin of the name they 
+need not necessarily even run on fusion,  
+antimatter would fit better, but it’s the 
+assumption you can find a way to make fusion  
+occur and presumably spit its byproducts out at 
+full speed behind the ship as its propellant.  
+The exhaust velocity of the typical rocket flame 
+is in the thousands of meters per second range,  
+which is also the general zone of what orbital 
+velocities of planets are, both to orbit them and  
+in their own orbit around the Sun and why chemical 
+rocket fuels can just barely get the job done,  
+though often requiring virtually all 
+of ship be composed of its fuel. 
+ 
+Ion Drives function by using energy to run 
+magnets to spit particles out the back an  
+order of magnitude faster, but a torch drive 
+is usually assumed to be firing particles  
+out the back at thousands of kilometers per 
+second instead, at a small but significant  
+percentage of light speed. In all other respects 
+a torch drive is treated like any other rocket,  
+burning hot flame out the back shoving 
+the ship along till the fuel is spent.  
+Although again in such cases it isn’t really the 
+back of the ship, it is the floor of the ship.
+ 
+It would not be realistic to expect to 
+get the maximum hypothetical exhaust  
+velocities out of a fusion fuel but let’s 
+list some major one’s theoretical maximums.  
+The exhaust velocity for Deuterium-Deuterium 
+Fusion - generally viewed as the easiest type of  
+fusion to achieve – is 4.3% of light speed, which 
+is 13,000 kilometers or 8000 miles per second.  
+For comparison, this is about 3000 times faster 
+than burning hydrogen as a chemical fuel,  
+meaning that an otherwise identical rocket fusing 
+deuterium would be able to move 3000x times faster  
+than one burning hydrogen. Helium-3 is about 
+half again as good at 6.8% of light speed,  
+Deuterium-Tritium comes in around double at 8.7%, 
+and regular hydrogen proton-proton fusion comes in  
+at a whopping 11.7%. Hypothetically you can do 
+even better with multiple fusion chains running  
+hydrogen potentially all the way up to iron.
+See the always excellent Project Rho website if  
+you want a run down on how that’s all calculated 
+and some of the other fusion options. And again  
+those are absolute maxes, Deuterium-Tritium for 
+instance releases most of its energy as neutrons  
+which are very hard to control and 
+redirect so getting even half of that 8.7%  
+exhaust velocity would be optimistic without 
+some bit of Clarketech for redirecting neutrons,  
+something we also cited as useful for creating 
+neutron beams in our recent episode on Death Rays.  
+It's an important reminder that just because 
+you can slam a bunch of atoms together  
+doesn’t mean you can make them and their 
+byproducts all dance to your tune and  
+exit out the back like a rocket flame.
+Now if we are treating it as just another  
+rocket fuel, you’re probably aware that liquid 
+hydrogen is one of the more popular rocket  
+fuels in spite of being hard to handle exactly 
+because it’s got such a high exhaust velocity.  
+However, that exhaust velocity is still 
+only about half Earth’s low orbit speed  
+and even slower than the delta-v needed for going 
+to higher orbits, the Moon, or other planets.  
+This is why we need most of a rocket to be its 
+fuel. If the exhaust velocity is less than the  
+delta-v needed this is not the case, and generally 
+you can only get a ship up to around quadruple  
+the exhaust velocity before your payload is so 
+small it’s only a couple percent of the initial  
+ship mass including the fuel. And only double if 
+you need to use that rocket to slow down too. 
+ 
+There’s no actual limit as to how fast any ship 
+can go off a given fuel, but even by 8 times  
+the exhaust velocity, or 4 times if you want to 
+slow down, your payload mass is down to 0.03%,  
+3000 kilograms of fuel for every kilogram of 
+payload, and it only gets worse from there.  
+Folks like to ask a lot how fast a fusion-powered 
+ship could go and I think it irritates a lot  
+of them when I or others ballpark it at 10% of 
+light speed, they want something more precise,  
+but that’s generally why we do. I’m assuming they 
+aren’t getting that ideal proton-proton fusion at  
+full efficiency and that they are planning to 
+slow down and want to carry a lot of cargo. 
+ 
+Hypothetically even 50% of light 
+speed isn’t off the table though,  
+especially for something like a missile. And 
+while it might take ridiculous ratios of fuel  
+to payload, it is worth noting that fusion fuels 
+are beyond abundant, so you might not care if you  
+use a million tons of fuel per ton of payload for 
+a colony ship. 20% though is probably on the high  
+end of plausible for colony vessels and a nicely 
+round number which is why I used it as the upgrade  
+case for Unity in our old episodes following 
+that hypothetical interstellar colony ship.
+ 
+I don’t want to say that a Torchship is 
+unrealistic, not at all, but they are a  
+pretty vague concept so it’s hard to call them 
+realistic or unrealistic. The three leading  
+ways to make one would be antimatter-catalyzed 
+fusion, a micro-black-hole, or a Bussard Ramjet.
+ 
+We’ve discussed black hole powered ships in 
+their own episode so we’ll bypass that today  
+beyond saying this is probably the closest thing 
+to what Heinlein original Torchship description  
+would be with matter to energy conversion. 
+However, there are a few ways to run ships  
+on black holes. We’ll come back to the Bussard 
+Ramjet, but antimatter catalyzed fusion is a  
+good lead into pulsed fusion propulsion 
+because it’s essentially the same thing.  
+This is where a little antimatter is used 
+to set off fission or fusion fuel as a  
+small nuclear bomb, most of the energy derives 
+from that hydrogen or other fusion fuel though.  
+See our Antimatter episode for a discussion 
+of the specifics but the concept is lots of  
+pellets containing antimatter and fusion 
+fuel being spat out the back of the ship.
+ 
+This lets you use smaller explosions than setting 
+of traditional Hydrogen Bombs and this ties  
+in with what I was saying earlier about Turnover 
+and why it isn’t desirable unless your maximum  
+acceleration the crew and cargo can survive 
+is a bigger bottleneck than your fuel supply.  
+A nuclear explosion obviously releases a 
+lot of energy from a little bit of mass,  
+and a hydrogen bomb or fusion bomb does this even 
+more energetically per unit of mass than a uranium  
+or plutonium bomb does. Pulsed nuclear propulsion 
+is the idea that you can set a bomb off and ride  
+the wave, and the bigger the bomb is, the bigger 
+the wave, but the harder it is to safely absorb.  
+Hence we tend to consider using a large number 
+of smaller fission bombs but they don’t carry  
+as much energy per unit mass as a fusion 
+bomb, and thus have a lower maximum speed. 
+ 
+Now that safe absorption issue isn’t actually 
+about not being killed by the blast or radiation  
+in a conventional sense. The general notion is 
+to put a big thick metal plate behind the ship  
+that’s wide enough to absorb a big fraction of the 
+blast, which shoves the ship forward and of course  
+the radiation will strip off some of the plate 
+with each blast but that merely acts as additional  
+propellant as hot vaporized layers of the 
+pusher-plate fly out from the back of the ship.  
+The bigger issue is that this giant plate 
+absorbing all this energy is now ramming forward,  
+so the idea is to have it on a great big spring 
+that slows it and more slowly shoves the rest of  
+the ship forward, and you detonate the next 
+one after the pusher plate fully returns,  
+ideally converting all that blast into good 
+smooth push for those inside the main ship.
+ 
+Now the issue there is that this requires huge 
+ships, and even larger ones for those using  
+fusion bombs instead of smaller fission nukes. 
+But to emphasize there is nothing stopping you  
+from building one today anymore than there’s 
+anything stopping us from using this same sort  
+of trick to make a fusion reactor by detonating 
+nukes in very big tanks of water and collecting  
+their steam then detonating another as it 
+cools. If you don’t mind making your ship  
+truly massive then you can run them smoothly 
+on h-bombs, indeed we have contemplated running  
+ridiculously large ships off this sort of 
+pulsed propulsion scaled up to use cosmic  
+blast like novas, supernovas, or even quasars. 
+One caveat though, a very big and massive pusher  
+plate could as easily be recast as an equally 
+massive but vastly larger and thinner mirror or  
+solar sail for absorbing sunlight or laser beams, 
+or in reverse, you might ride laser propulsion out  
+of a system to get up to speed then contract 
+the sail to use as a pusher plate with pulsed  
+propulsion to slow down at your destination. 
+Hybrid ship drives have many advantages.
+ 
+Antimatter catalyzed nukes let us avoid 
+using hundreds of kilograms of uranium  
+or plutonium and conventional explosives for 
+a fission bomb or even more for a fusion bomb,  
+and thus a much smaller pusher plate 
+more akin to a standard rocket nozzle.  
+We believe as little as a microgram of antimatter 
+might do the trick to catalyze a very small nuke.  
+Obviously antimatter is a way better rocket fuel 
+if you can make and store it cheaply and safely,  
+but it is quite probable that producing antimatter 
+would always be an energy loser in terms of energy  
+put in to make it, in which case using it as 
+a fusion catalyst might be very appealing.
+ 
+I do rate this as one of the more probable 
+drive systems though because if you can  
+make a working fusion engine, it does not 
+mean you necessarily have a torch drive,  
+but it does mean you have a strong and steady 
+power source which can divert some of its energy  
+to making antimatter which could then be used to 
+run a fusion drive by this antimatter catalyzed  
+micro-fusion bomb approach. It's also a 
+way to store energy for use when you want  
+it which is tricky with a reactor you would 
+expect to run constantly at a set rate. 
+ 
+That sort of rate is fine for most spaceship 
+missions, you have a destination in mind and you  
+accelerate to a calculated amount then 
+cruise till it’s time to slow down.  
+It doesn’t really contemplate much sudden need for 
+higher acceleration and in different directions,  
+and micro-nukes permit smaller ships but also 
+smaller pusher plates which might emerge from  
+various angles of a ship to be used for lateral 
+motion like dodging space debris. Indeed there  
+has been a range of approaches contemplated in 
+the last few decades for propelling a ship via  
+continuous explosions of small fusion pellets. 
+It tends to give you the high specific impulse of  
+classic fusion drives while accelerating closer 
+to the relatively high rate of pulse drives,  
+and it’s sometimes called micropulse. Daedalus can 
+be considered an early example of this concept.  
+One other note, those big pusher plates 
+can be turned around long before you reach  
+your destination to serve as a forward shield 
+against space radiation and dust particles.
+ 
+Two things I want to emphasize real quick. 
+First, just because your fuel is a million  
+times denser than chemical fuels doesn’t mean 
+you can automatically tap that for anything  
+like the implied speed boost. Our current fuels 
+aren’t the only things made out of chemicals,  
+the ships are too, and outside of the hypothetical 
+torch drive the usual assumption is that fusion  
+reaction, which is so hard to contain 
+even compared to a normal fission reactor,  
+is not something you can just vent out into space. 
+You are extracting power, possibly as electricity,  
+and may just be using it to run an ion drive 
+or big flashlight to push your ship along. 
+ 
+Helium-3 is attractive in this regard because its 
+considered our best option for aneutronic fusion,  
+which is fusion which releases less neutrons 
+which are absolute murder on any containment  
+system you try to keep them in, which 
+includes magnetic containment since neutrons  
+are electrically neutral. Aneutronic reactions 
+might spit out a proton rather than a neutron,  
+which can be magnetically contained or 
+magnetically bounced out the back of the ship  
+and charged particles are also much 
+easier to generate electricity with.  
+So it is viewed as a nicer option 
+for spaceships in that regard. 
+ 
+We often tend to assume fusion ships, 
+or fission ships for that matter,  
+are more likely to be slowly but steadily putting 
+out power as heat and electricity we can run more  
+conventional engines off of, with that reaction 
+carefully sustained and nurtured in a reactor.
+ 
+One quick note. There is a tendency to assume 
+a stable fusion reactor is gushing power  
+out at rates far faster than a regular 
+nuclear reactor let alone a gas engine,  
+but this is not exactly true. The Sun is hot 
+and runs on fusion and is insanely bright,  
+so it's easy to forget that the Sun 
+only releases about one watt of power  
+for every 5 tons of mass it has, compared to 
+your typical engine which usually produces  
+several thousand watts of power per ton. It just 
+that such an engine runs on fuel that it would  
+probably use around a ton a day, whereas the 
+Sun burns its fuel over billions of years. 
+ 
+Indeed only the brightest and shortest lived of 
+stars even begin to have the kinds of internal  
+pressures that permit fusion at such a rate 
+that it would be handy for running a spaceship,  
+and even then only in the kind of power to mass 
+ratios of conventional engines or generators. When  
+we talk about torch drives we’re talking about 
+trying to simulate conditions in a supernova,  
+not a regular star. We tend to think of non-torch 
+fusion drives as fairly big and slow to accelerate  
+but able to achieve pretty high velocities.
+Now I mentioned that we might instead use  
+electricity to shoot particles out the back or 
+even a flashlight, and indeed photons of light  
+are your optimal spaceship propellant in terms of 
+mass. They move at light speed so have the maximum  
+hypothetical exhaust velocity beyond something 
+weirdly and probably non-existent like tachyons.  
+Nuclear light bulbs or flashlights or 
+laser-emitters or photon drives or photon rockets,  
+many names or variations, but they are plausible.
+They would be pretty bright, especially a laser  
+drive approaching or departing a planet, 
+though you could spit out two or more  
+lasers at slightly different angles to avoid 
+hitting your destination with your exhaust beam.  
+I want to emphasize by the way how insanely 
+bright and energetic a normal spaceship is  
+if you are trying to run it up at 1-gee and it is 
+some multi-megaton hulk dwarfing even an aircraft  
+carrier or supertanker. Just giving it the delta-v 
+needed to break orbit, maybe 10 kilometers per  
+second, is implying a power release for around 
+a thousand seconds of several trillion watts.  
+Thousands of times more than our biggest 
+powerplants and on par with what our whole  
+civilization is using at any given moment. And 
+to get to 10% of light speed it is going to need  
+to keep that up for over a month. We’ll discuss 
+travel times for ships between planets in a bit.
+ 
+We wouldn’t expect all that energy to be in the 
+visual spectrum, it would depend a lot on how  
+it was being made what portion of it we could 
+see with our naked eye, but putting that into  
+visual light terms, you would be able to see 
+that during the daytime quite easily while it  
+was nearby and such a ship should be naked-eye 
+visible at night even a million kilometers away  
+or further. Needless to say that makes for a 
+pretty powerful weapon with some modification,  
+which is why we say there is no such thing 
+as an unarmed spaceship on this show.  
+Though its not exactly stealthy either, 
+if aiming to sneak up and attack,  
+which is why another thing we say on this show 
+a lot is that there is no stealth in space.
+ 
+One other option that might be a bit 
+more stealthy, though still not stealthy,  
+might be neutrino drives. A thing that gets 
+produced a lot in nuclear processes are neutrinos  
+and they go right through any containment we’ve 
+got but they carry a lot of momentum. So one  
+fusion-drive option, if we ever found a material, 
+or metamaterial, that absorbed or reflected  
+neutrinos, might be to wrap a ship’s reactor core 
+in that material except for a hole out the back  
+for neutrinos to fly out. Done right this also 
+might seriously amplify your fusion reactor too. 
+ 
+Now folks often wonder how long it takes to 
+travel between planets with a given spaceship  
+engine and of course. The answer really varies 
+on where those planets are relative to each other  
+but also on how fast you can speed up and how 
+fast your maximum speed is. I mentioned near  
+the start of the episode that Mars at its closest 
+is a mere 4 light minutes away, but even if your  
+ship can achieve 1% of light speed you aren’t 
+getting to Mars is 400 minutes, because even if  
+your ship can pull 1-g acceleration indefinitely 
+you need a few days to reach 1% of light speed.  
+For those watching the episode, I’ve 
+got the formulas up on the screen for  
+calculating this for classic Newtonian speeds.
+You can get to the moon with a 1-g burn and  
+turnover in 3-4 hours, Mars in 2 days at its 
+closest, and similar for Mercury and Venus,  
+and Mars at its furthest or any of the Asteroid 
+Belt in under 4 days. Jupiter 6-7 days,  
+Saturn 8-9, Uranus about 12, Neptune 15-16. For 
+interstellar distances you can just divide the  
+distance in light years by the fraction of light 
+speed that the maximum is, because virtually  
+all of that is spent cruising not speeding up, and 
+at 1-g every week of acceleration or deceleration  
+will add or subtract about 2% of light speed. 
+One caveat though, when trying to shave time off  
+a voyage, all things being equal, you want to 
+accelerate quickly. If you have the option of  
+accelerating at 2-g for five hours or 1-g 
+for 10 hours and burning the same fuel,  
+2-g is better because you will hit your max speed 
+after five hours and only need to start slowing  
+five hours out, not ten. And remember we do need 
+fuel to slow, unless we’re a missile of course.  
+In practice higher acceleration rates tend to be 
+less fuel efficient but we shouldn’t assume that  
+is automatically true of all drive types. This 
+also assumes you have to carry all your fuel,  
+something that rarely seems to 
+trouble ships in science fiction  
+but is a big issue for ships in science fact.
+But you can also achieve higher speeds by not  
+having to carry all your fuel with you, and this 
+is where the Bussard Ramjet comes in, both to grab  
+fuel for speeding up along the way and to avoid 
+needing fuel to slow down. If you are already  
+familiar with this device then that explanation 
+likely included why it doesn’t work as planned,  
+and that’s only sort-of true since it 
+still might be great for slowing down,  
+but it’s a claim that is focused on the specific 
+suggested design for the Bussard Ramjet not the  
+core concept, which is sucking matter in from the 
+front and shooting it out the back while it fuses  
+when passing through. This ignores alternatives 
+like have a blackhole in its throat or keeping  
+to slower speeds or using that interstellar gas 
+simply as propellant heated by on board fuel.
+ 
+The core concept of the Bussard ramjet is that 
+most of space is full of ionized gas particles,  
+most of which are hydrogen, a ready source 
+of fusion fuel, and if you can grab these  
+magnetically and suck them down into your 
+ship you can use them as fuel. The ramjet  
+part comes from parallels to how an air-breathing 
+ramjet works, sucking air in and superheating it  
+then shooting it out the back, but here the 
+power source for heating that gas up is the  
+gas itself by fusion, and that fusion is ignited 
+by sucking in interstellar gas at relativistic  
+speeds and jamming them tightly down the throat 
+of the ship to ram into other gas particles  
+at high speeds, temperatures, and pressures. 
+This seemed like a possible way to give ships an  
+infinite power supply, simply grabbing it out of 
+space as they flew by like a ship sailing on a sea  
+of diesel fuel. Indeed it was contemplated for a 
+while as a way to keep accelerating indefinitely,  
+something we see in the scifi classic novel 
+Tau-Zero, but the math turned out not to  
+work. Indeed some argue the method would 
+actually require more energy than reaction  
+released and result in the ship slowing. 
+Two points on this though. First, slowing down is  
+awesome if you get to do it for free, and this is 
+essentially a physical or magnetic sail being used  
+to slow a ship as it approaches its destination by 
+scattering its momentum into all the interstellar  
+gas and dust around it. Your scoop can be 
+magnetic but costs you power to run it,  
+or it can be physical but get eroded as 
+you travel by gas and dust collisions,  
+both have advantages. Second, there’s debate about 
+if it can work at very high speeds as a ramjet,  
+but works just fine for an occasion where 
+absorbing the passing gas costs you less energy  
+than you can produce from it if you’re using more 
+of a collector rather than a ramjet approach.
+ 
+As we were saying early, various fusion fuels 
+have exhaust velocities in a torch drive of 4-12%  
+of light speed so if your ship is designed 
+to go slower than that, it ought to be able  
+to suck hydrogen in and use it as fuel. This 
+is an important distinction since different  
+types of drives are converting this into thrust 
+in different ways. As an example it works just  
+fine with a black hole drive at fairly high speeds 
+since black holes are converting at a much higher  
+matter to energy ratio than fusion. So I don’t 
+like to rule out some version of the ramjet,  
+given how tempting the free fuel along the way 
+is, but even if none of those work, the option for  
+slowing down for free by magnetically dragging on 
+interstellar gas is also a vast savings in fuel.
+ 
+So there we have it, the major types of 
+fusion propulsion discussed and roughly  
+how they function. I said earlier that we often 
+discuss alternatives to fusion not because it's  
+not an awesome option but because it's such a good 
+option folks fear there are no alternatives if we  
+never get it working. Those options do exist 
+and you can see those episodes for details,  
+but fusion still offers the temptation of 
+practical interplanetary and interstellar  
+travel if we can but make it work. If 
+we can harness the power of the stars,  
+we will be able to journey 
+out and claim the stars.
+ 
+Today’s topic were rocket science and nuclear 
+fusion, fascinating topics but legendary for  
+being tricky to understand. Learning math and 
+science can be pretty intimidating for many folks  
+and if you’re trying to improve your own 
+skills at those or have a loved one who is,  
+I want to recommend Brilliant. 
+If you've heard me talk about Brilliant before,  
+then you know that it's a website 
+and app built off the principle of  
+active problem solving — because it takes more 
+to learn something than just watching it — to  
+really learn something, you have to do it. 
+Over the last year, Brilliant has built a  
+whole new platform for their courses that 
+takes interactivity to the next level.  
+Pre-Algebra, Mathematical Fundamentals, 
+and Algorithm Fundamentals were the first  
+courses launched on this platform and they just released a new Scientific Thinking course with this Center of Mass lesson,  
+one of those concepts that’s vital to making 
+sure a spaceship goes in the right direction  
+instead of tumbling, and one of those 
+topics where a good hands on example  
+is the difference between getting a 
+quick and clear understanding of a topic  
+or spending hours trying to grasp a topic when a 
+little interactivity makes it plain in moments.
+ 
+You learn best while doing and solving in 
+real-time, not by long lectures or memorising  
+formulas and facts, and Brilliant understands 
+that and has something for everybody — whether  
+you want to start at the basics of math, science, 
+and computer science, or go straight to advanced  
+material. If you'd like to join me and a community 
+of 8 million learners and educators today,  
+click the link in the episode description down 
+below or visit: brilliant.org/IsaacArthur.
+ 
+So this wraps us up for today but we’ll be back 
+next week for a look at the Edge of the Universe,  
+on Thursday, August 26th, then we’ll have our 
+Monthly Livestream Q&A on Sunday, August 29th  
+at 4 pm Eastern Time. That will finish us 
+for August but we’ll leapright into September  
+with a look at the Future of Thorium on September 
+2nd and Human-Machine Teaming on September 9th
+ 
+If you want alerts when those and other episodes 
+come out, make sure to subscribe to the channel,  
+and if you’d like to help support future 
+episodes, you can donate to us on Patreon,  
+or our website, IsaacArthur.net, which are 
+linked in the episode description below,  
+along with all of our various social media forums 
+where you can get updates and chat with others  
+about the concepts in the episodes and many other 
+futuristic ideas. You can also follow us iTunes,  
+Soundcloud, or Spotify to get our 
+audio-only versions of the show.
+ 
+Until next time, thanks for 
+watching, and have a great week!

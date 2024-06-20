@@ -1,0 +1,742 @@
+On deciphering the language of the aliens
+of Bellicosity 3, our linguists assured us
+they didn’t even have a word for war.
+Unfortunately for our embassy, it turned out
+they had 50 different words for various types
+of war.
+So today we continue our discussion of hypothetical
+alien civilizations by taking a look at how
+we might go about deciphering their language.
+We looked at this very quickly in the first
+contact episode last month but we didn’t
+get into the nuts and bolts much, and today
+we will explore it a bit more in depth.
+To do that we will take two approaches.
+First we will contemplate how we might decipher
+our own language if we were them, and then
+we will look at some of the stranger ways
+aliens might communicate that have been proposed.
+What we will see is that this is not an easy
+thing, but that it should be possible.
+Folks contemplating alien language tend to
+either oversimplify it and assume it is a
+lot like our own, often assuming it resembles
+English more than most other human languages
+do that don’t share that linguistic ancestry,
+or say it is going to be totally indecipherable.
+The former is obviously wrong but the latter
+probably is too.
+I’ll give an example of indecipherable reasoning.
+You would say that me gesturing at my chest
+and saying Isaac tells most humans that is
+my name, but as far as an alien is concerned
+I might be saying I am hungry or this is my
+territory or pointing at my shirt to tell
+you what color it is, or even “look at my
+shirt, isn’t it awesome?”
+The problem with assuming aliens are incredibly
+alien is that people tend to take it too far
+while still assuming things.
+They throw their hands up at such examples
+because they think that I could be referring
+to a hundreds things, which I could be, but
+that isn’t the problem.
+The mistake in the logic chain by the way
+is that the alien even realizes I am pointing
+at myself.
+If it isn’t a two-legged, two armed critter
+like ourselves it has no special reason to
+assume my gesture means anything at all from
+a communication standpoint.
+I am crooking my arm at myself, that’s great,
+I might be bending one leg too because my
+left foot is sore and I’m favoring my right.
+That obviously indicates something, I have
+a sore foot, but it is linguistically irrelevant.
+If the alien figures out that you pointing
+at your chest means something, you’re already
+halfway victorious in your communication battle.
+You’ve established you are trying to communicate
+and two of the ways you do that, gesturing
+and speaking.
+And it doesn’t matter a hill of beans if
+the alien doesn’t know that me pointing
+at my chest means I’m telling it my name.
+If it has any concept for the idea of a name
+in the first place, that will be on its list
+of things it thinks I might have said.
+If it doesn’t, then that will be one of
+the big question marks on the giant matrix
+of matching up that will be done.
+We will have shared concepts, probably not
+all but many will exist for both of us.
+Complete translation may be impossible but
+a working translation of most concepts should
+be.
+Both species probably have a word for star,
+water, air, clouds, numbers, distance, time,
+food, waste and so on.
+One or both parties is going to have access
+to massive computers and teams of experts
+who are going to be correlating everything
+and trying every iteration till they hit matches,
+even partial matches.
+There are going to be big differences, things
+that just won’t meaningfully translate,
+but there will be a ton of overlap too.
+This will be particularly difficult if none
+of their senses used for communication at
+least partially match up to our own, if they
+don’t use vision or sound at all for communication
+but just radio waves, but that should match
+up to sound enough to be analogous for comprehension.
+Now some would argue that you can’t learn
+a language completely or even enough to grasp
+part of it if limited to just sound, for instance,
+like if you were locked up in a room and your
+captors spoke a foreign language and you could
+hear them but not see them.
+You don’t know if one guard is saying good
+morning to the other or telling him shirt
+is dirty or commiserating that his dog has
+died.
+You’ll pick up some stuff but others will
+elude you because you have no context.
+You can’t see his shirt.
+Now there is some truth to this but it is
+also wrong, and more so with radio signals.
+We will ignore for the moment that we emit
+more than just audio, that we also emit TV
+signals, because the first thing aliens should
+hear from us is radio-only.
+Both signals travel at the same speed and
+we began sending the one many years before
+the other.
+Aliens would have many years of audio-only
+before they got our first TV signals.
+Now the flaw here in assuming you can’t
+learn the language by listening to it is that
+it simply is not considering what you can
+do with some creativity, a large enough sample
+of data, and tools like frequency analysis.
+Frequency of patterns in the data, not the
+frequency of the radio signal.
+This is very like the basic tools of simple
+cryptography.
+If I am given an encrypted book I know is
+in English and that each letter has been swapped
+with one specific letter, an A is a J and
+a D is Q for instance, I can crack that code
+very quickly.
+I know the two most common three letter word
+in English tends to be ‘The’ followed
+by ‘And’, so whichever three letter combinations
+occurs the most is probably The, and then
+And, and from this I now know 6 of the 26
+letters.
+Simply by observing the frequency of an expected
+word we are able to find it.
+Consider our guards, odds are good one of
+the most common words said whenever two of
+them beginning speaking, when the voices change,
+is going to be a greeting, and the last word
+a good-bye.
+When they bring him his meals, odds are good
+they discuss things relating to food.
+“Take the prisoner his meal”, “Pass
+me that plate”, “That smells good”,
+thing like that.
+Now a human by themselves might not be able
+to figure it out even over years, just from
+those occasional remarks, but when we are
+talking about decades of radio signals from
+dozens of sources at once, being analyzed
+by experts with all the appropriate tools,
+the game changes.
+Because a decade of listening to a radio channel
+will produce nearly a billion words spoken
+and we have multiple radio channels.
+That is a big sample to work with and far
+more than most archeologists and linguists
+have when trying to crack ancient dead languages.
+So we should ask ourselves what almost all
+radio signals contain?
+First and foremost, the time and day.
+This does not need to be explicitly announced,
+but the same folks will come on at the same
+time each day, rapidly telling you that there
+is some 24 hour long period of significance.
+Even if they come from a tidally locked planet
+they will know many planets rotate and guess
+that is the length of ours.
+Incidentally they will be able to deduce this
+if their equipment is good enough, along with
+our year length, by the small red and blue
+shifts of the signals being emitted.
+The speed of the transmitters relative to
+them is changing based on time of year and
+day.
+You could even figure out north and south
+and axial tilt from that, and produce a pretty
+accurate map of the planet, at least in terms
+of where people live and what language the
+people living there speak.
+Regardless they will now know our day length
+and also rapidly conclude we have a seven
+day week, that there is a 5 day and 2 day
+block of some sort of significance, and that
+the day is broken into 24 hour long periods.
+They will also notice that the word Monday
+is used a lot on the first day of that 5-day
+period, Tuesday the next, and so on.
+All just by frequency analysis.
+They will know most of our words for time
+and date and month and likely our number system
+too just by that.
+Will it get them the whole language?
+Definitely not.
+There will be some words they probably can’t
+catch, and for that matter there are tons
+of words we almost never use.
+But they only need the active language, which
+is often only 10 or 20 thousand words and
+they don’t need all of that either.
+Obscure words we don’t use much aren’t
+necessary, Earth-specific terms like coffee
+don’t have to be entirely clear to them,
+and doubtless euphemisms will seriously screw
+with them even if they have their own, but
+a good grasp should be possible anyway.
+I looked at some lists of the most commonly
+used words and picked some at random to try
+to figure out how someone might figure them
+out just from a radio signal and two that
+stuck out to me were ‘he’ and ‘she’,
+along with his and her.
+How could you possibly figure out gender pronouns
+just from hearing us, not seeing us?
+Then I went ‘duh’ and remembered that
+just about every radio announcer is going
+to use them to reference either a song they
+are playing or a news soundclip or just to
+announce who is on for the next hour.
+Loosely speaking men and women have rather
+noticeably different voices.
+They might not know the specific differences
+but they will know it has to be significant
+if Group A and Group B literally have a different
+word for each other.
+But they might figure those out too.
+For instance they will hear the term cat and
+dog and used in conjunction with each other
+and the term pet.
+They should not know much else about them
+just from that, though they will know they
+have paws and whiskers and fur and that humans
+do not, even if they don’t know what those
+are.
+But as their vocabulary builds up they might
+figure it out from the occasional detailed
+reference, like a radio announcer complaining
+about his dog coming in and leaving muddy
+paw prints all over the kitchen floor.
+Now they might misunderstand that too.
+They’ve figured out that we keep and prepare
+food in the kitchen and that we are omnivores
+and think cats and dogs are a type of livestock,
+but they’d also wonder why we use tones
+and expressions and attitudes for them like
+we do our children.
+So you might have some thinking and arguing
+cat or dog was a larval form of human and
+other who thought they were livestock and
+some thinking we cannibalized our young, but
+there are so many insistencies with all three
+ideas that they probably will puzzle out that
+we have a limited symbiotic relationship with
+some creatures.
+They will be constantly arguing and revising
+all sorts of things.
+They will also have a list of their own words
+they think we probably will have a word for
+and will be trying to match them up.
+It won’t take them long to match up words
+like listen, listener, and audience considering
+how often those words are used on radio, if
+the aliens have speech and ears themselves.
+They should be able to pick out the words
+for sunrise and sunset pretty quickly, because
+they will know the time of our day those words
+should be more frequently used, which will
+let them figure out Sun pretty quick.
+They’ll notice breakfast, lunch, and dinner
+get used at certain times of day the most
+and get used a lot with words like food and
+eat and hungry.
+It is a huge puzzle you are fitting the pieces
+together for where you will have to often
+move pieces later on.
+Don’t mistake me here, I am definitely not
+saying accurate translation is easy, just
+possible.
+Aliens ought to know us first by our audio-only
+radio, as I mentioned, it will always reach
+them first with TV signals coming some years
+later.
+And when those begin arriving I’m sure they
+will have some surprises.
+“I’ll be damned” One of their linguists
+will say, “I knew the word duck meant both
+an animal and action, but I always figured
+the animal would exhibit some sort of behavior
+related to that action.
+Which I assumed meant to burrow down into
+the ground.
+Yet this duck-creature never burrows, in fact
+it swims, and it can fly, just like the squirrel.
+Heck, I don’t even see any claws on humans
+for burrowing, they must be retractable.
+Yes, we know they have claws, I keep telling
+you they have to have them because they constantly
+say they do.
+Humans are always talking about getting their
+claws into things.”
+Now of course any alien listening only to
+our radio will have a tough time of it, and
+may find anything like a complete translation
+impossible until TV arrives a couple decades
+later, but they will be able to put together
+a pretty complete language after that.
+We can thank people’s tendency to be pedantic
+or long-winded at times that they will likely
+make more progress than we might expect.
+There’s a bit under 10,000 hours in a year,
+so a dozen or so radio channels broadcasting
+24/7 for a decade produces about a million
+hours of radio, each having about 10,000 words
+spoken.
+That’s about 10 billion words and odds are
+some were someone talking about something
+in excessively boring detail.
+All it takes is one time for someone to say
+“Our power plants need U-235 not U-238,
+we have to refine and enrich the uranium we
+find” and every physicist in the Universe
+is going to look up from that sharply and
+say “he’s talking about fission power,
+uranium is their word for things with 92 protons
+in it.
+Show me every other word they use more frequently
+when discussing this and I will probably be
+able to tell you what it means.”
+Every specialist field will be able to do
+that trick, and for that one all that was
+probably needed was the 235 and 238.
+It’s just frequency analysis, those two
+numbers getting used in proximity enough times
+to each other is going to get marked down
+and when shown to chemist or physicist they
+will probably trigger that and they’ll be
+able to say it very likely that is what is
+being referred to and all the puzzles pieces
+nearby that will start falling into place
+and you can expand from there.
+You’ll miss some, mess some up, and some
+just won’t translate at all, but you will
+keep widening and refining your picture.
+If they still haven’t cracked most of everything
+in that first couple decades, then TV arrives
+and radios get more common and in a couple
+decades their inventory will contain trillions
+of words and millions of hours of video.
+Keep in mind, while we do have ancient written
+languages from the dawn of history we still
+have not translated, that’s mostly because
+we maybe have a few thousand words, many of
+which are scavenged half intact from stuff
+written or engraved by hand, spanning centuries.
+Words change with time and distance, symbols
+and letters can even change, and you don’t
+have much standardization.
+They’d have many, many billions of examples
+of just one regional dialect from one short
+time period.
+Of course they first have to figure out what
+the signal is saying.
+They will notice the pattern almost instantly
+but figuring out that it is supposed to be
+turned into an audio signal at certain frequencies
+and speeds is harder than it sounds like.
+They should know it needs converting, their
+biologists can tell them how unlikely radio
+waves are to be used for natural communication
+even if they don’t use sound to speak themselves.
+But vibrations of air, and the ability to
+hear that, ought to be a fairly common thing.
+Any place with an atmosphere, which is probably
+just about every place technological life
+evolved, is likely to have creatures which
+make noise when walking around and it definitely
+helps to have a mechanism for being aware
+something is bumping into things, even if
+you’ve got 360 degree vision.
+They also have very good odds of being able
+to look at our planet once they get the signal
+and determine the composition of that atmosphere,
+which tells you a lot about how sounds work
+there.
+For TV it is actually a bit easier, it gets
+kind of blindingly obvious what the aspect
+ratio of the images is supposed to be.
+Those early ones will all be in black and
+white which is going to help too.
+Though they might get thrown for a bit by
+assuming we have monochromatic vision.
+When they get the color version they might
+get thrown again since those are not exactly
+color, they are three monochromatic images
+over top each other and the signal hardly
+says ‘I am the color red, which you would
+know as a wavelength of as 600 nanohooves.”
+And it won’t help if they themselves are
+dichromatic critters, ones who only see two
+colors which is the case for most mammals,
+and those happen to be yellow and near-ultraviolet.
+That’s where the scientists do their detective
+work and start trying to guess from materials
+in the image and the ambient lighting what
+frequencies we’re showing.
+Tricky but doable, they will after all know
+exactly what wavelengths of light our sun
+produces and probably our atmosphere’s makeup,
+and if they didn’t they will now.
+They might get a glimpse of a lightbulb and
+say ‘That’s gotta be Tungsten, we can
+back calculate the illumination it is giving
+off and tell you what colors these are’.
+Assuming they have eyeballs of course.
+Without those they might still figures out
+that it is moving pictures just as a blind
+person can read brail.
+But we should ask ourselves what senses aliens
+might have because any communication that
+doesn’t involve sort of direct link akin
+to telepathy or being wired together ought
+to operate using one or more of those.
+And it will tend to be one you can produce
+a high bandwidth exchange in.
+For instance we can communicate by scents
+but mostly don’t, even if we could produce
+a range of smells at will and had the olfactory
+senses of dogs, this would still be far too
+low bandwidth to be of much use.
+Scents take time to percolate around, traveling
+maybe a meter per second, compared to the
+speed of sound, hundreds of meters per second,
+or light, which is a million times faster
+than sound.
+Now I know many of you are now amusing yourself
+thinking of the most obvious way humans would
+produce smells on command, but we will bypass
+that an assume we could only communicate by
+smell, some especially weird prison setup
+that passed scents but not sight or sound.
+You could create a code if you had a typical
+bathroom sink cabinet of various scents.
+Rose oil, lavender, eucalyptus, and some others,
+we’ll say 36 total, one for each letter
+and number.
+You could now uncap each one at a time for
+a few seconds and let it waft to your neighbor
+to write a sentence, then capping it and letting
+it clear.
+If everyone has wonderful senses of smell
+you might be able to get out a word a minute.
+If that’s all you’ve got, you use it,
+but it isn’t all we got.
+We usually speak 120-180 words a minute.
+And obviously you need air for a sense of
+smell which means you can smack your hand
+against something even if you have no vocal
+cords and produce a Morse code beat.
+And you’d probably be sensitive to a wide
+range of sounds and able to discriminate those
+decently, allowing you to use several different
+sounds so you don’t have to do binary.
+So it is unlikely anyone communicates in smells,
+for high-speed conversations anyway, obviously
+many animals use this for prolonged lasting
+communication, like marking their territory.
+They still bark or meow or such too.
+You could have a written language that used
+persistent smells that you wrote by making
+dots of that smell and they ran their noses
+across to read it, but it probably wouldn’t
+be their main means of communicating.
+No vision combined with a rough sense of touch
+could eliminate the option of images, engraved
+or strictly visual as a persistent, written
+language.
+They might speak, there is air, but that is
+hard to use for written words.
+So smell and taste are not good methods of
+communication, they are both senses we’d
+expect to see develop a lot but they are low-speed,
+low-bandwidth, low range.
+Same for touch.
+You need to be touching someone to use that.
+It could be insanely high bandwidth with the
+right architecture, potentially letting you
+use someone’s skin like a giant keyboard.
+If you tattooed a keyboard onto your arm for
+people to push on you could potentially communicate
+decently quickly that way, especially if you
+had way higher resolution, thousands of keys
+as it were, and they had dozens or hundreds
+of little fingers or tentacles that could
+be simultaneously pressing many things.
+When phone gets discovered you stick your
+arm in a tele-type machine that smacks your
+arm-keyboard.
+The problem is it only works when touching,
+and good speech should have range.
+Sound isn’t as fast or high resolution as
+sight but it can go around corners and obstacles,
+and both a very quick.
+Vibrations move through air fast and faster
+through a lot of other materials like water,
+where it moves five times faster than air
+and often that fast or faster in most minerals
+and rock.
+Light obviously moves quite quickly.
+The sight of you moving your hand, or the
+noise of your hand slapping down on something,
+simply occurs faster than the air moved by
+your hand like a fan or the smells on it.
+It gets to the destination faster and also
+clears faster.
+They tend not to linger around interfering
+with follow up information.
+So while we can imagine using our other senses
+for communication or people having other senses,
+we are beginning to see how the Universe pushes
+you toward using those sights or physical
+vibrations if you want to talk fast, and you
+do.
+We have five primary senses, we use 2 of them,
+sight and sound, for communication because
+they allow the best range and bandwidth.
+We can use one or both.
+Yet I can communicate by touch, the calming
+or comforting hand on the shoulder or a hug
+or a shove, but these don’t offer us the
+speed and detail the others do, so we don’t
+use it as our primary means of communication.
+You want to be able to talk almost as fast
+as you think.
+If you want to develop technology you need
+to be able to do pass information quickly
+over distances, but it also isn’t coincidental
+that most critters on our planet with brains
+bigger than a grain of sand use sight and
+sound for communication.
+Those are also both very easy evolutionary
+adaptation paths too.
+A nerve being sensitive to light or vibration
+is actually quite simple, converting light
+into an electric signal or vibration into
+an electric signal is not a huge jump.
+Indeed, the complex image forming eyeball
+is thought to have independently evolved around
+a hundred times, and since the only way you
+can realistically get dense and complex ecosystems
+is if they are powered by sunlight and surrounded
+by some fluid, water, air, etc, these two
+systems of detection are probably present
+just about anywhere you’d find a large brain.
+If not both than probably one or the other.
+An alien might communicate electrically or
+magnetically, we do have creatures on Earth
+sensitive to magnetics like homing pigeons
+or able to give off electricity like electric
+eels.
+That is another sense available that we might
+see evolve into a pretty high resolution means
+of perception and possibly communication.
+That might seem a lot like telepathy too,
+but if you start looking for electric or magnetic
+signals you’ll see it.
+I am skipping telepathy by the way, its common
+in fiction but except for where it is referring
+to something physical like radio signals exchanged
+between two critters I consider it non-scientific.
+Physics limits us to not many realistic means
+of communication.
+At least on what you might call the spoken
+end of things, where you are attempting real
+time communication with someone who is capable
+of moving around.
+When it comes to their written language, or
+the actual way they transmit information with
+sight or sound, we’ve got a lot of options.
+You might have peacocks who evolve an especially
+complex fan dance to speak, rippling colors
+in specific patterns, and while they can communicate
+with noise too, they have no complex vocal
+cords so their speech is limited pretty much
+to ‘look at me so I can speak to you’.
+Sign language is definitely an option, though
+it also helps to be able to clap your hands
+to get someone’s attention first.
+A good reminder there that it helps to have
+a complete language for each sense you use,
+since sign language lets me talk to people
+when I don’t want to make noise, something
+a lot of group predators would want even if
+they had complex vocal cords, so they don’t
+alert prey.
+Anything you can manipulate fast can be used
+for communication, slow things too but you
+have that bandwidth issue.
+You can’t change smells fast as we pointed
+out.
+I think I joked in the Fermi Paradox Solutions
+episode way, way back that an intelligent
+cloud might think we were communicating with
+it by growing crops in certain patterns.
+Obviously that can be done but it is very
+slow and smart creatures are not slow.
+It is fun to contemplate something that is
+intelligent but thinks in years not seconds,
+but let’s be realistic here.
+It took us millions of generations to go from
+the simplest multicellular life to what we
+are now, and those took billion of generations
+to get that complex.
+The Universe is only 14 billion years old
+and even if your planet formed just a few
+billions years into things, you probably won’t
+have evolved intelligence yet if your generations
+take thousands of years each.
+So smart means fast, and we see in our own
+languages a constant effort to cram more information
+into a smaller message.
+All those irritating text-messaging short
+hands are a great modern example.
+We also can say that the language will need
+to be very versatile.
+I don’t mean conceptually, able to add new
+concepts as they arise, that too, but rather
+where and when you can use it.
+We instantly convert to a loud, low bandwidth
+yell when trying to speak to each other when
+there’s a lot of ambient sound, like while
+watching a band play, and tend to make gestures
+more.
+That’s a simple example, but our written
+language is not pen and paper, I can make
+those marks on virtually anything with anything
+else, and it’s a persistent message.
+Carving a sentence into a cliff face takes
+a lot of time but you can do it and we can
+all read it.
+Our peacock-like alien example who communicated
+by fanning their feathers might develop their
+persistent language, their writing, as a series
+of colored stones or leaves arranged in patterns
+to mimic the language.
+A species that could see in mid-range infrared
+might communicate by selectively widening
+or contracting arteries to warm certain parts
+of their body to make visual patterns, but
+they couldn’t use that for writing because
+things would cool down.
+The pointing of writing is to communicate
+with some across time after all.
+You write things down for people who aren’t
+there now, or maybe so you can hand it to
+them so they can remember later.
+So these guys might draw symbols to represent
+those body heat patterns or they might go
+for pictographs.
+Or maybe they are hugely radiation resistant
+because their planet has a ridiculous amount
+of enriched uranium lying around and that,
+not the sun, is what fuels life and they mix
+the stuff up in ink to make warm glowing text
+that stays warm for centuries from passive
+fission decay.
+There are a near infinite number of options,
+but most are not that indecipherable in and
+of themselves.
+So some alien with a fifty eyeballs communicates
+by blinking a pattern, you could have an entire
+language where each word represented one pattern
+of closed and open eyelids.
+That’s handy but you and I would notice
+that almost right away, and they should figure
+out almost right away that you only have two
+eyes.
+Knowing this they know you either don’t
+use rapid blinking or you do it very slowly,
+and they should realize you do it too slowly
+for it to be an effective means of communication.
+They will then ask what alternates means you
+have for faster communication and even if
+they don’t have ears to hear your voice,
+they will probably learn to lip read you very
+fast.
+They are, after all, already used to staring
+at the face region to look for complex patterns.
+When determining an alien communication method
+you look at its biology and ask what it can
+quickly and easily do that it can also detect,
+then try to see patterns in that.
+But they will probably be visual or auditory,
+maybe electromagnetic, which vision actually
+is anyway.
+One big thing to remember though is that you
+probably can never speak an alien tongue,
+since quite probably they won’t have tongues.
+What you’re probably really going to be
+doing is teaching each other’s computers
+to talk to each other.
+Odds are those will be much better at understanding
+each other.
+If you can teach a computer to speak your
+language, to actually speak it and hear it,
+then it should be able to explain that to
+their computers if theirs can too, and to
+comprehend what it is saying.
+Obviously those need to be better than the
+computers we have now.
+But even if their computers use balanced ternary
+instead of binary, they should be able to
+talk easier.
+The big concept of course is that you just
+keep trying things till something clicks and
+just keep dumping brain power into refining
+it.
+You will have things in common, they ought
+to have some word for star, if by some chance
+they don’t, then maybe they’ve got one
+circle or square or the number three.
+It won’t ever be easy but it should be doable.
+If they want to understand they probably will,
+and if they are anything like us they’d
+probably build up a lot of empathy in the
+process, and view us in a more favorable light.
+Sometimes language barriers actually help
+people get along.
+Okay, we will leave off there for today.
+Next week we will be looking at Interstellar
+Highways.
+Thin connections of lasers or charged particles
+linking solar systems and allowing fast and
+cheap travel between them.
+Make sure to subscribe to the channel for
+alerts when that and other episodes come out,
+and if you enjoyed this episode, please like
+it and share it with others.
+Until next time, thanks for watching, and
+have a great week!

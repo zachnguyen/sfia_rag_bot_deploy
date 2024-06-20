@@ -1,0 +1,602 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+Neil Armstrong described setting foot on the
+Moon as one small step for a man, one giant
+leap for mankind.
+The National Space Society tells us that returning
+to the Moon in a big way will accomplish 4
+of 31 critical steps toward interplanetary
+settlement.
+So today we are continuing our look at becoming
+an interplanetary species.
+In parts one and two we took a look the first
+steps, getting into orbit and colonizing Cislunar
+space and our Lagrange Points, and today we’ll
+be continuing our development as we look at
+getting a base on the Moon and growing that
+into a permanent facility to serve as our
+stepping stone to other planets.
+As before, we’ll be using the National Space
+Society’s Roadmap to Space Settlement as
+a loose guide, and I’ve linked the complete
+document in the episode description.
+The NSS considers part 3 to be a return to
+the Moon, and the milestones for that will
+be our focus today, though we’ll not hold
+to it rigidly.
+Also the Moon is a topic I try to hit about
+once a year.
+The principal episodes for that in order of
+production are Moon Base Concepts, Industrializing
+the Moon, Battle for the Moon, and Moon: Crater
+Cities, and while we could easily do a dozen
+episodes just on the Moon without denting
+the material to discuss, some parts of today’s
+topic we’ve looked at before in greater
+depth in those episodes, so I’ll mention
+and link those episodes as we go if you want
+to dive in a bit deeper.
+Now last time we talked about how we needed
+the Moon as a resource source for developing
+Cislunar Space and launching out beyond the
+Earth-Moon region to places like Mars and
+the Asteroid Belt, our main topics for episodes
+4 and 5.
+However, setting up the moon as some sort
+of massive mine and manufactory is not something
+we’ll do overnight and will have a lot of
+intermediary steps.
+Though I suppose one could argue we’ve already
+mined the Moon, as collecting rock samples
+was a primary mission for the Apollo Project.
+This however is our first Milestone in Part
+3, Milestone 18, Robotic Confirmation of Lunar
+Resources.
+Sending folks to the Moon is dangerous and
+expensive.
+It’s frankly amazing that so few lives have
+been lost during Space Exploration and a testament
+to the skill of engineers and mission planners
+and operators, not to mention the sheer willpower
+and courage of the astronauts.
+We should not forget though that we lost the
+Apollo 1 crew and nearly lost Apollo 13.
+Given that we have only had 12 men on the
+moon and lost 3 and nearly lost 3 more, that’s
+not a ratio that encourages us to try more
+manned missions, even with decades more technological
+development, when a robot can do a given mission
+easier, cheaper and safer and in some ways
+better.
+Before we can develop a permanent base on
+the moon we need to know where the resources
+are because unless launch costs drop massively
+– as they might, see the Upward Bound series
+for some of the options – then we can only
+do such a base with either a very meager level
+of resources or by sourcing a lot of them
+on site, what is called “in-situ”, and
+ISRU, In-Situ Resource Utilization.
+Creating a rover that masses maybe a hundred
+kilograms and has wheels, a remote, a battery,
+some solar panels, a spectrometer and some
+sample containers and some sort of excavating
+apparatus is obviously well within our current
+capabilities, and the Moon is close enough
+for effectively real-time remote control of
+the rover.
+It would be relatively easy, compared to a
+manned mission, to drop dozens or even hundreds
+of such drones down on the Moon to collect
+data and poke about for things like water
+ice or mineral deposits.
+Of course this is after we’ve refined and
+validated our designs currently in development[a].
+The low gravity of the Moon combined with
+the talcum powder-like surface makes getting
+enough traction for digging[b] difficult [c]and
+the larger deposits we're looking for may
+be below the surface and, beneath that top
+layer of fine, dusty regolith, lunar soil
+gets compacted and hard.
+Another thing to consider is that if we intend
+to set up large refining and processing centers
+we need to find areas with large and varied
+deposits.
+Much of the ore extraction[d] and refining
+processing is complemented by other materials
+and byproducts.
+Where one type of ore may yield materials
+not necessarily profitable for export, but
+useful for the processing of other ores or
+useful in alloying or compounding into other
+materials for local use or export.
+The more varied the inputs, the more varied
+and valuable your products.
+But detailed, on the ground surveying of the
+Moon isn’t just for finding a few good spots
+for initial bases.
+It is easy to forget that the moon is covered
+in craters and at the bottoms of those craters
+are meteorites.
+Since the moon lacks all the biological, hydrological,
+and geological processes of Earth that remove
+craters, the semi-intact objects that impacted
+there and caused them are basically still
+there.
+If you get good at surveying such craters
+you would be able to spot which ones were
+made by what kind of rocks and might find
+some very valuable metals and minerals in
+them.
+For instance Carbonaceous chondrites, while
+a relatively rare type of meteorite on Earth
+as few make it through our atmosphere, don’t
+contain many scarce or valuable elements on
+Earth - but they’d be more common on the
+Moon and their carbon and organic compounds,
+containing volatiles, amino acids and rarer
+light elements, would be prized.
+But we won’t limit our exploration to just
+the surface, lava tube skylights allow access
+to vast sub-surface[e] spaces.
+Lava tube spelunking probe designs are being
+evaluated to explore these hidden interiors.
+These designs consist of a rover which carries
+the probe to the skylight and lowers[f] it
+with a tether.
+The probe then rapells down into the tube
+where it then becomes a simpler rover.
+The tether either stays attached to the probe,
+acting as an umbilical for power and data,
+or detaches and becomes an antenna for communicating
+with the now self-powered probe.
+However, we may want to go a step further,
+as our technology has improved a lot in robotics
+and does more every day.
+Indeed, this recent health crisis has had
+the silver lining of accelerating both our
+capability and usage of remote work, and doubtless
+we will be seeing major improvements in those
+technologies in years to come as more and
+more folks opt to work remotely and the tools
+for doing so expand.
+In a sense, at the timescales of space exploration
+projects, robotic telepresence for exploring
+the moon is not that far off.
+Necessity is the mother of invention and that’s
+a thing to remember for space exploration
+too, there’s a good chance we will encounter
+both problems we did not expect out there
+and find solutions for those, and adaptations
+of them useful for back at home, that we just
+can not see right now.
+But we are still in early days so our options
+are limited.
+However, not too limited.
+For instance, it is just as easy, if not easier,
+to make a rover that just has a scoop or dozer
+blade on it as opposed to mineral surveying
+gear, and have one shove regolith into a heap
+or mound.
+It is also not hard to include a solar kiln
+that can bake oxygen out of regolith.
+The Moon’s regolith is mostly oxygen by
+mass, tied up in minerals with elements like
+Silicon, Iron, Calcium, and Aluminum in that
+order.
+If you have a solar kiln extracting those
+elements, then oxygen is actually a waste
+product.
+We do want those other elements too, as we
+looked at in our last episode, getting megatons
+of iron and aluminum off the Moon is critical
+to developing Cislunar space as the fuel bill
+for moving raw materials from the moon to
+Low Earth Orbit is orders of magnitude cheaper
+than from Earth’s surface, even though it
+means moving those resources a thousand times
+further.
+Regardless, it is not beyond our technical
+capability even now to make a remote-controlled
+production chain that would involve rovers
+scooping regolith into solar kilns to produce
+the refined metal as bricks, sheets, rods,
+or thin foils.
+There’s likely to be lots of minor practical
+issues in adapting anything made on Earth
+to work on the Moon, but a first wave of soil
+and resource surveyors would probably make
+that adaptation much easier as we learn what
+works in practice and what doesn’t.
+Now our losses in the space programs are generally
+not from day to day operations, on space or
+on the moon, but the launch and transit phases.
+Nonetheless a robotic presence that had either
+constructed an initial habitation module or
+provided most of the bulky raw materials for
+assembly not only helps cut down on the risk
+to astronauts once they land, but gives us
+a lot more mass to add extra safety features
+and redundancy or thickness of shielding to
+the vehicles going there.
+In an ideal scenario, when we get to Milestone
+19, our Lunar Research and Development Facility,
+that first outpost will already be pretty
+well supplied.
+Gravity is low on the Moon which means you
+can pile a lot of regolith on top of something
+like a thin sheet of metal supported by some
+metal tubes to make essentially a large and
+very sturdy tent.
+Similarly, we can fly in some supplies and
+equipment before the astronauts even arrive,
+dropping packages of food, batteries, spare
+fuel or air or water and so forth for the
+drones to stack into cover in such a tent.
+We can also have them clear and mat down a
+landing pad free of lunar dust, so that when
+astronauts arrive, they essentially just have
+to get out and do some assembly of whatever
+was beyond the robots’ abilities, and from
+cargo that arrived in quantity before they
+did.
+Robots will need to play a big role in developing
+the moon, fundamentally because our key long
+term interest in the place is to turn it into
+a mass manufacturing facility of fuel and
+construction material that relies heavily
+on automation, especially handy if we opt
+for using nuclear power to run things, but
+for now let’s turn our eyes to that first
+manned outpost.
+First off, location matters.
+We already know the preferred spot in a general
+sense, and that is near the poles.
+The Moon has a day that is a month long, making
+solar power difficult and part of why atomic
+power sources – both reactors and radioisotope
+thermal generators or RTGS are attractive.
+Fortunately near the poles this is less of
+an issue as we can take advantage of various
+high-walled craters and the latitude to get
+spots where the Sun shines most of the time.
+Those same craters, down near their bottoms,
+will tend to have very cold spots which might
+be heavy in some valuable materials.
+This is why those robot surveyors would be
+handy since they can poke around and find
+which if any crater is high in something like
+water ice.
+We discussed this more back in the spring
+in our episode Crater Cities.
+Of course, lava tubes are also prime candidates
+for lunar cities or bases, and may contain
+ice deposits inside their permanently shadowed
+interiors too - and they have inherent shielding
+and meteorite protection.
+But what sort of research are we going to
+do here in this first outpost?
+One of the most tempting is radio astronomy.
+There is no Dark Side of the Moon in the sense
+of sunless eternal night, except down in some
+of those crater bottoms, but there is a side
+that is Dark to the Earth, and all of Earth’s
+noise.
+There are also other science projects or Lunar
+Development projects better done in spots
+not on the poles and we also have a lot of
+interest in the Moon’s enormous lava tubes.
+So while that first base is likely to be mostly
+about R&D for using and colonizing the moon,
+it strikes me as very likely that it would
+not develop further as a science outpost so
+much as a support hub for many smaller outposts.
+As an example, if we have air and metal production
+being done at one site, it’s very easy to
+bring that air into some smaller facility
+of a few researchers who just have a cache
+of supplies and a modest amount of solar panels
+and RTGs to power the place.
+Atomic power sources are very attractive on
+the Moon incidentally.
+There is uranium there, plus uranium is also
+very light in terms of its energy density,
+compared to chemical fuels, if you needed
+to bring it in from Earth.
+And you don’t really need to worry about
+meltdowns wrecking an area, the Moon is already
+a radiation-scoured desert.
+Such being the case it is a great place to
+be setting up breeder reactors like those
+we discussed in the Future of Fission a couple
+weeks back.
+It’s a very attractive place to do Nuclear
+Research and what’s more, producing Plutonium-238,
+which emits about 500 watts per kilogram and
+has a half life of 88 years is a potential
+boom market for a lot of space enterprises
+since it offers a reliable and small power
+supply.
+Ditto Strontium-90, which is easier to produce
+and has about the same power density but is
+shorter lived and needs more shielding.
+Shielding is obviously not an issue for stationary
+objects on the Moon but adds extra mass to
+moving vehicles and spacecraft.
+Regardless, that first research outpost is
+likely to be mostly about researching the
+Moon and how to exist there, satellite and
+smaller outpost focused on various research
+projects may pop up but that place is the
+one likely to be where we are shipping stuff
+to and trying out ideas like Lunar Hydroponics
+and Domes or extracting water and metals or
+synthesizing fuels, and from this we would
+expect our first continuously occupied Multi-purpose
+Lunar Base to coalesce, Milestone 20.
+Its non-commercial applications of R&D aside,
+we can expect to see some commercial uses
+popping up.
+As an example, if we place it near a source
+of volatiles – things like nitrogen, water,
+carbon dioxide and so forth that we think
+we might find in some of those craters for
+instance – then we have a source of organic
+elements for use not only on the Moon but
+on those Cislunar space stations and habitats
+we discussed last time, rather than having
+to get them off the Earth or bring them in
+from beyond the Frost Line from the Asteroid
+Belt or Moons of gas giants.
+There are some hurdles to this of course.
+We do not know if those volatiles exist on
+the Moon yet and that’s why we need those
+robot surveyors.
+I also mentioned earlier that it would be
+nice if our robot could pre-build a base and
+mentioned having them make a nice clean launch
+pad for ships to land on, and Moon dust is
+a real worry.
+The dust is sticky and abrasive and drove
+our astronauts to distraction.
+It can damage equipment, and given how sharp
+the particles are, may be very bad to be breathing
+or touching for extended periods, and is often
+considered one of the biggest hurdles and
+headaches of lunar exploration and development.
+On the upside, the moon is basically a big
+sandbox so it’s easy to maneuver the stuff
+to form shielding against radiation and meteors.
+And due to the low gravity it doesn’t require
+a lot of structure to hold up even meters-thick
+shielding.
+That dust is part of the reason why solar
+power isn’t considered the greatest solution
+on the Moon.
+Besides it getting dark for a couple weeks
+at a time, your solar panels or mirrors might
+get coated in dust in short order, stirred
+up by your own activity, and while you could
+have a robot or person go out and sweep them
+and then polish them when they get scratched,
+it is another reason why nuclear is fairly
+attractive on the Moon.
+We also talked about some other approaches
+to solar power like Thermal Wadis in the Crater
+City Episode.
+Another problem with this multi-purpose base
+is also its big advantage.
+Having many different functions gives it some
+diversity for funding and operation but also
+could cause funding and turf conflicts between
+various divergent space goals and the government
+branches or companies funding or operating
+them.
+This is probably even more the case if it’s
+a multi-government international project,
+and interestingly I would not be surprised
+if the first moon base was actually a commercial
+enterprise that various governments, companies,
+or institutions rented facilities and time
+at.
+One silver lining of bureaucratic battles
+over space and funding is that it might also
+encourage separate satellite facilities to
+form too.
+We discussed such issues more in Battle for
+the Moon.
+It should also be noted that just because
+the poles and craters interest us, we don’t
+necessarily put our first base inside one.
+If your main interest in them is the rim walls
+for solar power and the crater bottoms for
+volatiles, you might just opt to go mostly
+nuclear instead of dragging solar panels from
+home and operating them around the space dust
+issue, and just sending out rovers and collection
+teams, human or robotic, to collect volatiles
+and bring them home.
+After all, Aristarchus Crater[g] and Plateau,
+in the northwest of the Moon’s nearside,
+is also considered a very attractive site
+for its geological (or selenological) features
+and may reveal more about the Moon itself
+and the treasures it may offer than other
+locations.
+In any event, after this base has been in
+continuous use for a decade or so and hopefully
+grown and prospered, this is where we come
+to finally having reached Milestone 21, a
+Permanent Lunar Settlement.
+Here we might see people actually living on
+the Moon – maybe even born there – and
+we have to start tackling issues like building
+schools and community spaces.
+You get your first hospital on the Moon, your
+first daycare center, first park or garden,
+first lunar hotel, first bar, first restaurant,
+the first Church of the Moon, the first low-gravity
+basketball court and so on.
+For that to be practical we need to be able
+to get most resources, at least by weight,
+right there on the Moon, but that’s a double
+necessity anyway since all those things implied
+jobs and livelihoods beyond simple research
+installations and resource production for
+Cislunar Space, as we looked at last time,
+is essentially what is likely to drive Lunar
+Development.
+After you have gotten all the science done
+there – which admittedly could be an ongoing
+project of thousands of researchers for centuries
+– you have to have a reason for development
+and that’s as a supply hub.
+The mass extraction and fabrication of solar
+panels, shades, and mirrors may be one industrial
+focus.
+Another might be fuel production for moving
+around cislunar space and station keeping.
+Another might be huge amounts of metal plates
+for building space stations and habitats.
+Exporting volatiles is another, but will depend
+a lot on the supply and availability of them
+and we really don’t know yet.
+That’s one hurdle we still need to overcome,
+same we don’t really know if there are good
+concentrations of ores.
+We know we’ll have no shortage of aluminum
+and iron and silicon of course, but not necessarily
+other useful metals in a way that will be
+easier than getting them off Earth, for all
+the launch cost issues, or from the Asteroid
+Belt a bit down the road.
+And by the time we have staged up to this
+level of production and occupation, we probably
+have gone on to both the Asteroid Belt and
+Mars.
+We also do not know how humans will handle
+living on the Moon.
+There is gravity there and it might be enough
+to stay healthy without significant treatment,
+but there are many medical and psychological
+unknowns still.
+It is possible people won’t handle living
+on the Moon for extended periods very well
+and we might have to have more frequent personnel
+rotations or go a lot more robotic, which
+might hamper many projects.
+Once you have this first big permanent base
+though, or while you’re building it, hopefully
+you will have picked the ideal power source
+for the Moon, got it going big, and be running
+all that production.
+That might include fuel of course, even if
+it is short on volatiles Aluminum and Oxygen
+can be used as a rocket fuel, and you might
+also build a mass driver or electromagnetic
+coil gun for launching things into space.
+The escape velocity from the Moon is just
+over 2 kilometers a second, there’s no air
+for friction there, so such a catapult doesn’t
+need its payload to ascend above the atmosphere
+like it would on Earth, since there ain’t
+one, so it might be the preferred way of shooting
+stuff into Cislunar space.
+Or on to Mars and the Asteroid Belt, our next
+two episodes, and as we’ll see there, the
+ability to robotically explore those places
+and pre-deliver large amounts of goods before
+humans arrive, potentially launched from the
+Moon and for some of it, manufactured on the
+Moon too, could be a massive boon.
+Getting to Mars will be no easy thing, but
+in truth if you have a solid base and production
+setup on the Moon, with or without the accompanying
+Cislunar development, that task becomes an
+order of magnitude easier while at the same
+time you’ve already solved a lot of the
+problems a trip to Mars will include.
+There’s always some debate if we should
+go to Mars first or back to the Moon again,
+like most of you I would be happy either way
+and I do believe it is possible to go to Mars
+without this stop at the Moon, but it strikes
+me as far harder and more risky.
+The Moon is close, close enough for real-time
+conversation with earth and only a few days
+away by conventional rockets if we need to
+get them help or evacuate.
+We would hopefully be able to rescue people
+from other bases on the Moon but if it came
+down to it, one lone astronaut with a spare
+air tank could potentially survive for the
+few days needed to scramble a rescue mission
+right from Earth orbital facilities if need
+be, while experts at home can advise real
+time on what they should do to survive.
+That won’t be an option for Mars, so it
+is best to work out a lot of the kinks on
+the Moon before trying our hand there.
+Those same long travel times and hardships
+also encourage us to want to start from day
+one on Mars with a permanent base, not a small
+expedition to land, plant a flag, and get
+some rock samples.
+And as we’ll see next time, setting up a
+base on Mars will be no easy task.
+So this was the third episode of the series
+and we bumped it up earlier in our schedule
+because of demand from the audience not to
+wait.
+If you didn’t know though, it actually came
+out a few days earlier over on Nebula, our
+new streaming service, and all of our episodes
+come out there now a bit early and ad-free.
+If you’d like to catch all of SFIAs episodes
+early and without ads, or see any of the great
+content from our sister channels on Nebula,
+you can sign up for Nebula today.
+However, you can also get it for free by instead
+signing up for Curiosity Stream, whose partnering
+with us to bring you the best education videos
+out there.
+Curiosity Stream has excellent educational
+content of their own and they are running
+26% discount if you use the link in the description.
+That’s a great deal since it means you get
+a year of both Curiositystream and Nebula
+for less than $15, and it helps support this
+show and a lot of other educational content
+which is what Curiositystream and Nebula are
+all about, and again you can get a year of
+both for less than $15 by using the link in
+the episode’s description.
+So as mentioned we are continuing our look
+at Becoming an Interplanetary Species, and
+in three weeks that will take us to Mars and
+our first colony there.
+Next week though we’ll be a bit closer to
+home as we contemplate the notion of Mega-Cities,
+the popular and often dystopian concept in
+science fiction, and we’ll look at the challenges
+and interesting scenarios for cities on the
+grow.
+Then on Sunday October 11th we’ll be taking
+a look at the recent Navy UFO videos and analyzing
+those, and in two weeks we’ll be contemplating
+the notion of a Low-Tech Spacefaring culture.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!

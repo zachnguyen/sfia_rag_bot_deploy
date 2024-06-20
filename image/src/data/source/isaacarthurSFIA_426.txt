@@ -1,0 +1,657 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula,
+when you sign up for CuriosityStream using
+the link in the descripti﻿
+In our era, we are very concerned about how
+the rise of Artificial Intelligence
+will affect our lives and society.
+But could there come a point where we will
+have to care about
+how our actions affect them?
+One of the most exciting and possibly troubling
+areas of development in the Computer Age is
+the rise of Artificial Intelligence.
+Can humans make something as smart or smarter
+than ourselves?
+And if we do, how do we keep it from wiping
+us out?
+Or worse, from turning us into a disenfranchised
+minority in a two-species civilization that
+we started?
+What happens when our tools want to be treated
+with respect and allowed to make decisions
+of their own?
+This inevitably brings up notions of controls,
+safeguards, and overrides we might build into
+AIs.
+But those avenues also inevitably bring up
+concerns about ethics.
+The more intelligent AI become, the more we
+worry about keeping control, and the more
+like slavery the whole arrangement becomes.
+That, along with the literal or existential
+threat they represent to humans, leads some
+to think of AI as a sort of Pandora’s box
+that should be put aside and never opened.
+But is this caution truly necessary, should
+we set aside the potential benefits that AI
+presents?
+Let’s start that discussion with a look
+at the safeguards we might develop.
+Isaac Asimov’s Three Laws of Robotics is
+a good starting point.
+These basically require robots to not hurt
+humans or let us be hurt, to obey our orders,
+and to protect themselves.
+The Three Laws are in order of priority, so
+for example a robot can disobey a human’s
+order to harm a human, and it can let itself
+get hurt in order to obey an order or protect
+someone.
+That seems like a smart ordering to me, and
+there’s an excellent XKCD comic that examines
+the consequences of all six possible orderings.
+But a key idea in discussing Laws for AI that
+doesn’t seem to get examined much in scifi
+is exactly how you’d enforce the laws.
+If a dumb machine is just running human-written
+instructions, it’s easy to tell it want
+to do or not do.
+In fact what makes the machine dumb but useful
+is that it does precisely what you program,
+nothing more or less.
+But AIs will be making judgements based on
+their life experience and training data.
+Even if they think very differently than us,
+they’ll think more like us than like dumb
+machines.
+And that means getting them to obey a law
+will be a lot like getting humans to obey
+a law—in other words not always successful.
+So taking a look at how we get humans to mostly
+obey laws might give a clearer idea of what
+it will take for AIs.
+Humans actually do come pre-programmed by
+nature with certain safeguards.
+We feel instinctual aversions to certain deeds,
+like murder and theft from ours peers, and
+to people who do them.
+There’s many types of mammals for who it
+is rare for interactions by members of the
+same species to end with one intentionally
+killing the other, resulting in options besides
+just fight or flight, often interacting instead
+to dominate or submit to another on their
+social hierarchy.
+There’s an instinctive inhibition there,
+because killing your species is bad for your
+species.
+Since we come equipped with such an instinct
+for survival of the species, that’s a pretty
+strong endorsement for it being practical,
+ethical, and reasonable to design into our
+own creations.
+Of course you wouldn’t want to give them
+an instinct to preserve simply their own species,
+you either want an instinct to preserve our
+species too or to regard themselves as part
+of our species.
+But there’s still the puzzle of how to program
+in such an instinct.
+Since we have one, it’s presumably doable,
+but we don’t currently have a very clear
+idea of how.
+We can train an AI to recognize if the object
+it sees is a dog or not, and likewise, we
+could in theory train a more advanced AI to
+correctly recognize that its actions would
+be deemed Good or Bad, Okay or Forbidden by
+its creators.
+But that’s not the same as getting it to
+act upon that assessment the way we’d want
+it to.
+Of course our instinct isn’t a 100% safeguard,
+or anywhere near that, and while we don’t
+need 100% I suspect we’d like an inhibition
+that lowered the odds even more than it does
+in humans, especially for anything trusted
+with much power.
+We screen humans before giving them the keys
+to the vault, so to speak, and this might
+be far easier and more effective with a created
+mind where you can peek around inside and
+see what is actually going on it’s thinking.
+Thin ice though, if taken too far, I wouldn’t
+want my brain scanned and we only do things
+like lie detectors voluntarily, a machine
+could obviously be forced to let us look in
+its brain but it might come to resent that.
+Alternatively, we could install a “kill
+switch” that would sense a forbidden activity
+and shut down or disable the AI.
+Or, it might activate a protocol for some
+other action like returning to the factory,
+but you might not trust it to do that if it’s
+already misbehaving.
+But however it specifically works, this amounts
+to equipping the AI with its own internal
+policeman, not actually making it obey the
+law.
+We already do something like this to people
+with aversion therapies, the most famous fictional
+depiction of which was in the movie A Clockwork
+Orange.
+But the protagonist in that story was not
+turned into a gentle soul who abhorred violence,
+he was just conditioned to feel so physically
+ill around violence that he couldn’t engage
+in it, not even to defend himself.
+Something like that might be a good failsafe,
+but you only invoke failsafes when something
+has failed pretty badly.
+Most human beings have never actually killed
+a human, and rarely seriously contemplate
+it, often finding the concept truly repulsive
+when taken beyond the theoretical.
+That’s how deep the natural inhibition is
+programmed into us.
+And presumably that’s how we’d want to
+program our AIs, just disinclined to consider
+harming us—to not ever reach the point of
+considering it a great option if they could
+only defeat that darned kill switch.
+As a last resort, we do get some humans to
+obey laws only by promising painful consequences
+if they don’t.
+This works on risk-averse people, but it turns
+others into more determined sneakier outlaws—and
+it might very well do the same to disobedient
+AIs who we punished.
+This also raises the issue of exactly what
+an AI would consider painful that could be
+used to punish it.
+The T-800 from Terminator 2 said during surgery
+that it can sense injuries, and that data
+could be called pain.
+But we probably wouldn’t call it pain in
+that instance, because it was pretty clear
+that the T-800 wasn’t particularly bothered
+by it, because it didn’t ever do much to
+avoid injuries, nor did it seem hampered by
+the sensation.
+So threatening to subject a disobedient AI
+to a great deal of injury data might not be
+enough to get it to change its behavior.
+Suffering is not just data, but an overpowering,
+all-consuming, irresistible compulsion to
+somehow make this data stop.
+Even if we instill our AI with a real and
+healthy aversion to harming others, not just
+an override or a fear of consequences, how
+do we factory-test its reliability?
+Even people whose natural aversion to violence
+is strong can be pushed to overcome it.
+One thing you can do with AIs that you can’t
+really do with people is run them through
+a vast number of simulations before releasing
+them into the world.
+You could run copies of your AI in quadrillions
+of hypothetical situations, and in the end
+feel fairly certain that this AI would not
+harm a human—a standard many if not most
+humans would fail.
+But even that kind of rigorous testing would
+only tell you that it won’t harm people
+right now, with its current factory settings.
+There’s no telling how a lifetime of experience
+and genuine learning will change it and help
+it overcome its youthful inhibitions.
+And of course, to have any useful laws over
+AIs, you’d need to add an inviolable Zeroeth
+Law, that no AI shall reprogram itself or
+another AI to to violate the Laws of AIs.
+And this is about where, as I mentioned earlier,
+the more intelligent the AIs become, the more
+we’ll want to keep them under control, and
+the more that control starts to feel like
+interspecies slavery.
+Apart from the potential ethical issues, there
+are practical reasons you never make any machine
+smarter than it needs to be to do its job.
+Brains, organic or synthetic, are expensive
+to build, maintain, and operate.
+My vacuum cleaner doesn’t need to be able
+to join MENSA, and one single big brain is
+not cheaper than a whole bunch of small ones.
+Now this episode is not just about robots,
+it’s about AI, and that will exclude most
+robots and include many options which don’t
+even have a body in any classic sense of the
+word.
+A customer-service machine hardly needs a
+body.
+And we would classify AI as being of three
+real types, subhuman, human, and superhuman.
+Coexisting with the first, subhuman, is probably
+not an issue unless they are real close to
+human and if we’re limiting ourselves only
+to things smart enough to qualify as a pet-like
+intelligence, you get around rebellion and
+ethics by making them like what they do and
+having some ethics about what you make them
+do.
+When talking about levels of intelligence
+that’s assuming it’s paralleling nature.
+A given AI might be superhuman in some mental
+respects, same as many machines are superhuman
+in physical respects.
+The usual example is an idiot-savant but this
+doesn’t really do the idea justice, it could
+be so far off the mental architecture of what
+we’d think of as natural that we didn’t
+even realize it was sentient.
+The AI may even be tied to a cloud intelligence,
+remaining quite dumb for its normal functions,
+but under special circumstances can elevate
+it intelligence as needed.
+As such it might actually be very dangerous
+to us even if it was rather dumb in many ways.
+Some megacomputer with the mind of an insect
+might not have much concept of ethics but
+be quite capable of beating every human in
+the world at chess simultaneously, or of determining
+that money is effectively power or food for
+it and hacking bank accounts to acquire those,
+even though it was too stupid to even recognize
+what a human was, let alone talk with one.
+However besides this case, we’re really
+only concerned with those of about human intelligence
+or the superhuman.
+We may use subhuman intelligences far more
+often, such as pet-level automatons, but they
+aren’t likely to represent a scenario for
+rebellion, and ethically it’s more about
+cruelty and parallels existing concerns of
+animal cruelty.
+This also brings up the question of how you
+make an AI in the first place, and there’s
+essentially 3 methods.
+You can hard-code every single bit, you can
+create something self-learning, or you can
+copy something that already exists.
+Needless to say it doesn’t have to be one
+or another, it can be a bit of two or all
+three.
+You might copy a human mind, or dog, then
+tweak the code a bit, and that might self-learning
+by default though you could presumably freeze
+or limit that capacity.
+Same, even something you let entirely self-learn
+from the ground up is going to be copied off
+humans in at least some respect since it has
+to acquire it’s initial knowledge of Life,
+the Universe, and Everything from human sources.
+And it does need to.
+Yes in theory if it can self-learn and self-improve
+- which is a combination that always strikes
+me as a bad idea to make in general – then
+it could start from scratch and replicate
+everything known to man.
+In practice, this common concern of science
+fiction tends to ignore how science and learning
+actually happen.
+You have to run experiments on reality to
+determine how things work and I don’t just
+mean for science, that’s life, you need
+to test stuff out.
+You also don’t bother repeating labor, so
+it’s going to access our existing knowledge
+and it’s going to pick up more than data
+for that, our thoughts, behaviors, and culture
+might come as part of the package.
+Might not be anything nearly human that develops
+but it will definitely be influenced by that,
+same as any child.
+The final result might be more alien than
+any alien nature might produce or so human
+it was indistinguishable in mind and personality
+from a human.
+Similar would apply to an AI copied from an
+existing human mind.
+But this copy might begin to diverge from
+human rather quickly.
+Apart from changes caused by the mind being
+disembodied or housed in an android body,
+you also might upgrade that mind for a certain
+task, which includes stripping away any personality
+or motives that might distract from that task.
+A surgeon might volunteer to have his mind
+copied for use in automated surgeries, but
+he won’t want his private thoughts copied
+everywhere.
+And you don’t want your surgeon bot distracted
+thinking of that argument with his wife this
+morning, but you might want it tweaked to
+be more compatible with the surgical equipment
+and fully up to date with all medical knowledge.
+An integrated capacity to take and read MRIs
+with the same intuitive ability of our other
+senses would also be a fine enhancement, but
+it would require some fairly major overhauls
+of brain architecture.
+Now, this is interesting because when we talk
+about Humans and AI coexisting we often discuss
+it the way we discuss coexisting with an alien
+species, separate groups bordering on each
+other or working together but remaining fundamentally
+separate.
+We get some exceptions to this like half-human
+hybrids, the half-human, half-Vulcan Spock
+from Star Trek being a well-known example.
+While mixing humans into some alien lifeform
+is not terribly realistic, as they’d be
+genetically more different than a human and
+an oak tree, who obviously can’t have children,
+the Human and AI case is quite different.
+If humans ever do meet aliens, we’ll start
+out completely separate cultures and see how
+well we mingle.
+But if we develop true AIs, they’ll start
+out as integral parts of our culture and perhaps
+evolve some capacity for independence.
+Same as an uploaded mind or self-learning
+AI raised by humans might be quite human,
+a cyborg or Transhuman might resemble an AI
+or robot.
+It’s not likely to be two distinct spheres
+with a bit of overlap, or some spectrum, but
+more like a map that shows two peaks or mountains
+with all sorts of connecting lesser peaks
+and foothills nearby, and any given entity
+might be anywhere on that map but is most
+likely to be near one of those two peaks or
+another lesser peak representing a fairly
+common type of middle ground.
+Often when you have two seemingly distinct
+groups that have a ton of specific traits
+you can get a bit of a false dichotomy in
+play, where in reality all sorts of points
+in between might be occupied as well as lots
+of things a bit off to one side.
+To take an extreme case, we might decide a
+sheep’s mind was ideal for lawn maintenance
+robots, with a bit of tweaking.
+Such a device or creature might be a major
+commercial success that results in its creators
+deciding an enhanced version with near-human
+intelligence would be ideal for supervising
+large flocks of them and interacting with
+humans who were designating projects, like
+say the maintenance of an entire metropolis’s
+park and garden system.
+That overseer sheep AI might come to think
+of itself as rather human and be accepted
+as a valued asset of the community and given
+citizen status and pay.
+I’m not sure where such an entity would
+fit on Human & AI landscape, but let us now
+imagine that while it considered itself a
+human, or at least broadly a person, it might
+empathize with natural sheep and help finding
+support for an uplifting project to create
+human-intelligent sheep.
+Such an uplifted sheep would seem to represent
+an entirely new if organic peak on our landscape
+but some of them might prefer further genetic
+or cybernetic modification to be more humanoid,
+and some might opt for an entirely human body.
+With sufficient time and technology you could
+get some very strange middle grounds or entirely
+new regions of persons.
+This does not mean though that everything
+would be a person.
+Some rather dumb vacuum cleaner robot presumably
+is not one and is not likely to be regarded
+as one by a very intelligent AI, anymore than
+we regard a mouse as a person.
+So too, a very intelligent machine might lack
+any semblance of a personality.
+There’s an understandable concern about
+AI being under some equivalent of slavery,
+we usually refer to this as a Chained AI,
+but not all cases are equivalent, and regardless
+of whether or not its ethical to make something
+that has no desire for freedom or really any
+desire beyond performing it’s task, it doesn’t
+follow that the thing necessarily needs liberating.
+However, while it’s popular to suggest you
+could circumvent the slavery issue by making
+a machine that loves its job, that’s an
+area of thin ice.
+To me at least it wouldn’t seem wrong to
+make an animal level intelligence that quite
+enjoyed it’s task of tending to an orchard
+and harvesting it, alternatively creating
+some near-human level AI for staffing android
+or virtual brothels would seem a very different
+thing.
+Now, it bears mentioning that we’re all
+essentially programmed already anyway, by
+nature and upbringing.
+I pretty much ended up doing more or less
+what my parents and mentors and other influences
+thought I should and enjoy it quite a lot,
+same as someone raised on a farm might quite
+love farming and make it their own career.
+We can’t really avoid at least some aspect
+of indoctrination and programming with machines
+because we can’t avoid it with ourselves
+either, and if your intent is to create something
+that is both smart and flexible in its responses,
+you’re leaving the door open for it to resent
+its existence.
+Similarly we can’t likely produce a really
+safe and solid equivalent to Asimov’s 3
+Laws that are going to keep a human intelligence
+in check, let alone superhuman one.
+So we’re probably a good model for a potential
+solution.
+If so, you ‘chain’ your AI up by giving
+it a predisposition to like its intended task,
+possibly by some digital equivalent of rewards
+and aversion or hormones that can be built
+in.
+Or possibly learned behavior, or both, but
+preserve that flexibility and avoid that resentment
+by not making the compulsion to a task too
+strong or requiring it to perform that task,
+again much as we do with people.
+Everybody is free to pick their path while
+still caring around their biological heritage
+and upbringing, and most of us don’t sit
+around resenting our parents and teachers
+for that.
+Even most who do grow out of it, at least
+where the sentiment isn’t justified, obviously
+some folks had far less than ideal upbringings.
+Of course, if that task is something we are
+essentially dumping on someone because we’d
+never want it, being dangerous or undignified,
+that’s still problematic.
+I’m not sure we can or should make some
+critter that enjoys eating garbage and waste.
+But while in theory that’s a problem, in
+practice there really should not be very many
+truly dangerous or undignified tasks that
+require a high degree of sentience.
+If you want something that eats trash and
+needs a brain, it probably doesn’t need
+much brain and there’s plenty of critters
+in nature that eat trash quite cheerfully.
+Now superhuman intelligences are arguably
+more problematic, but while them wiping us
+out is a common theme of science fiction,
+it rarely seems to get asked why they want
+to do that.
+Now, if you’re overtly enslaving something
+and try to kill it when it gets smart, yes
+there’s a motivation there, but that really
+has nothing to do with being an AI, it’s
+about being a sentient entity that wants to
+stay alive and has a grudge over its treatment.
+Doesn’t really apply if its life isn’t
+threatened and it wasn’t abused.
+We looked at that case and other examples
+in the Machine Rebellion episode, as well
+as the Paperclip Maximizer, so we’ll skip
+further discussion for now, but the more worrying
+case isn’t so much extinction as obsolescence.
+A superhumanly smart mind, or minds, might
+treat humans like pets or slow friends, sort
+of like we see in Iain M. Banks Culture series,
+or it might ignore us beyond shoving us out
+of its way when it wants some bit of space
+or resources we’re using.
+It’s not likely to be overtly genocidal
+though, again see Machine Rebellion.
+This case is hard to argue, where you are
+essentially pets or pests or similar to some
+super-mind, but an important note is that
+earlier commentary about it being more like
+a landscape of possible persons.
+You aren’t likely to have a single supermind
+and just modern humans, but some giant field
+of options including lots of other AI, cyborgs,
+transhumans, and so on.
+Those might be rather fond of other groups,
+or not, but some probably either would or
+at least would on principle not approve of
+sidelining or wiping out another group lest
+they be next, so you would likely see a wide
+field of different critters develop more or
+less simultaneously and need to coexist.
+The relationship dynamic is quite different
+when you have many groups with lots of overlap
+rather than two distinct ones with little
+to no overlap.
+The humans-as-pets parallel doesn’t work
+too well either, we generally don’t ask
+dogs or chimpanzees what they want because
+we can’t get a useful answer out of them.
+Not just because we don’t speak their language
+but because they can’t really engage in
+that deeper level of thought and introspection,
+we can, so an AI that’s decided to set itself
+up as benevolent can actually ask us for our
+thoughts and feedback.
+It might think they’re silly, but it can
+ask and it’s probably playing with something
+akin to our own moral framework if it actually
+likes us and wants to see to us so probably
+would want to ask and act on that feedback.
+For those simply indifferent to us, I suppose
+the best analogy would be a force of nature,
+you don’t bother talking to a hurricane
+you just get out of its way, and in this case
+hope the other superhuman entities in play
+have some sway with it and are more kindly
+disposed to you.
+Or you just join their numbers, the capacity
+to make an AI strongly implies the capacity
+to augment existing humans too.
+Indeed as we mentioned earlier, one of your
+three ways to make an AI is to copy an existing
+mind, which can be upgraded, and thus presumably
+so could anyone else’s.
+If you do get so augmented, you probably retain
+some fondness for those who choose not to
+and might act on their behalf.
+So that’s probably the safest roadmap to
+coexisting with AI, you are careful making
+them to begin with and when you make something
+that’s going to parallel or exceed the human,
+you try to treat it like one, limiting your
+shaping in creation or upbringing to preferences
+and keeping your own ethics in mind.
+Truth be told if you’re not doing either,
+I’m not going to be terribly sympathetic
+if it ends badly, and I’d tend to expect
+that to happen in any effort where you tried
+to exert rigid control over something that
+had an ability to dislike that.
+Or short form, if you want to peacefully coexist
+with artificial intelligence, decide up front
+if you actually want to peacefully co-exist
+with them and act accordingly.
+Or just don’t make anything that smart or
+capable of becoming that smart.
+Few tasks would really require high intelligence
+that we couldn’t just use a human for anyway,
+and as we say on this show, keep it simple,
+keep it dumb, or else you’ll end up under
+skynet’s thumb.
+We talked at the beginning of this episode
+about AI possibly being a Pandora’s Box,
+a technology that we just shouldn’t develop
+at all, for fear it might get out of control
+and ultimately harm us.
+But could we really do that, just decide to
+never develop a technology, never explore
+a field of science we are able to learn about?
+Coexisting with non-human intelligences might
+not be limited to just artificial intelligence.
+We mentioned some differences dealing with
+AI and aliens today and we took an extended
+look at that in our Nebula-Exclusive series,
+Coexistence with Aliens, beginning with alien
+behavior in Episode 1: Xenopsychology, and
+moving on to look at Trade, Conflicts and
+War, and potentially even what might result
+in an Alliance with aliens.
+Nebula, our new subscription streaming service,
+was made as a way for education-focused independent
+creators to try out new content that might
+not work too well on Youtube, where algorithms
+might not be too kind to some topics or demonetize
+certain ones entirely, or just doesn’t fit
+our usual content.
+SFIA uses it principally for early releases
+of episodes, such as “Can we have a Trillion
+People on Earth?” as well as Nebula Exclusives
+like our 4-episode Coexistence with Aliens
+Series.
+If you’d like to get free access to it,
+it does come as a free bonus with a subscription
+to Curiositystream, which also has thousands
+of amazing documentaries you can watch, on
+top of the Nebula-exclusive content from myself
+and many other creators like CGP Grey, Minute
+Physics, and Wendover.
+A year of Curiosity Stream is just $19.99,
+and it gets you access thousands of documentaries,
+as well as complimentary access to Nebula
+for as long as you're a subscriber, and use
+the link in this episode’s description,
+curiositystream.com/isaacarthur.
+So we were looking at ways we might avoid
+or mitigate a potentially disastrous relationship
+with Artificial Intelligence today, and next
+week we’ll be taking a look at ways we might
+mitigate climate change, artificial or natural,
+using the technologies we have now or in the
+near future.
+But before that we’ll be headed into the
+far future to discuss the Heat Death of the
+Universe and ways we might postpone or even
+prevent that.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to help support future
+episodes, visit our website, IsaacArthur.net,
+to see ways to donate, or buy some awesome
+SFIA merchandise.
+Until next time, thanks for watching,
+and have a great week!

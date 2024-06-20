@@ -1,0 +1,752 @@
+Early man had few clues to the mysteries of
+the universe.
+But every night they would be reminded there was much more to the cosmos
+than just the Earth, Sun and Moon.
+Humanity has been interested in the skies
+above for at least as long we’ve had any
+sort of civilization able to record anything
+and likely far longer.
+Even before we invented the telescope we had
+a sophisticated and detailed knowledge of
+the motion of the stars.
+Of course we didn’t understand the science
+behind it, but don’t confuse that with stupidity
+on our ancestors’ part.
+They lacked the tools to get more details
+and as soon as they had them, their view of
+the Universe changed enormously.
+Today, as we discuss some options for making
+truly huge telescopes that might actually
+let us see planets in far off solar systems,
+not just detect the bare essentials of their
+existence, it probably behooves us to remember
+that we could end up having as big a swing
+in our thinking as we had going from Astrology
+to Astronomy.
+We have discovered countless mysteries and
+surprises in our relatively brief survey of
+the heavens and should expect many more.
+And since that journey of exploration properly
+began with the invention of the telescope,
+it’s a good place to begin to see how we
+can make superior ones in the future.
+The basic concept of a magnifying lens is
+quite old, and the concept is fairly simple.
+Light bends when passing into transparent
+materials like glass, and various geometries
+with appropriate symmetry will bend that light
+to the same place, the focal length of that
+particular lens for light coming in perpendicular
+to it.
+By taking a very large area of incoming light
+and concentrating it into a smaller area,
+assuming you can keep it even and undistorted,
+you can let the eye see things normally too
+dim to make out.
+This is the very simplest approach but hard
+to scale up too much.
+That lens needs to be very high quality and
+precisely shaped, and you can’t realistically
+go making telescopes kilometers across on
+a planet.
+The early versions were typically only a few
+centimeters across.
+But it’s worth noting that up in the vast
+emptiness of space you can make some pretty
+big lenses, potentially a million times wider
+than those early ones Galileo used, a megatelescope.
+There was quite a variety of designs of those
+first telescope of the early 1600s, but they
+all used the same basic principle, which we
+call a Refracting Telescope.
+A refractor uses not one but two lenses, the
+objective lens which gathers over its entire
+area and focuses it to a point, and the eyepiece
+which makes rays of light parallel again.
+Of course you also have the tube housing the
+lenses, which keeps them a fixed distance
+apart and keeps out light coming from other
+directions.
+And while there’s a lot of variety of lens
+types used, this basic design remains quite
+common and can be made quite large.
+Indeed in 1641, only a generation after the
+first ones were developed, Johannes Hevelius
+built one with a 46 meter or 150 foot focal
+length in Danzig, which was in Poland at the
+time, and it’s a good reminder our ancestors
+weren’t hesitant to do big projects.
+Sadly the observatory was destroyed by a fire
+in 1671, though the Kings of both Poland and
+France sent him money to continue his work.
+Galileo and Kepler rightly get a lot of credit
+as fathers of modern astronomy but it is good
+to remember there were a lot of other folks
+working to advance our knowledge at the time,
+and we already skipped a bunch by jumping
+to the 1600s.
+You don’t absolutely need the tube on a
+telescope, at least not for the whole length.
+In 1675 Christian and Constantine Huygens
+built a tubeless 210 foot aerial telescope,
+and bigger ones soon followed with Adrien
+Azout proposing one 1000 feet long to observe
+animals on the moon.
+I always like to point out that intention,
+since a lot of folks tend to think erroneously
+that life off Earth was some entirely new
+idea of strictly modern times.
+Now you might think these behemoths let you
+see very distant objects indeed, but in truth
+they were designed to get around a problem
+called chromatic aberration.
+Visible light bends when passing from one
+medium to another, like from air to glass
+or glass to water, but different wavelengths
+or colors bend different amounts and split
+from each other.
+The effect is called dispersion, and it’s
+why you get the rainbow effect coming out
+of a prism.
+You can reduce this problem by building a
+long and skinny telescope with lenses of enormous
+focal length, hence the behemoths.
+Once Isaac Newton explained that chromatic
+aberration was caused by dispersion, lensmakers
+began figuring how to make achromatic lenses—which
+are not quite accurately named because they
+reduce the problem, they don’t eliminate
+it.
+The simplest and still most common achromatic
+lens consists of two different kinds of glass
+that focus red and blue light to the same
+focal length, and the wavelengths in between
+are only dispersed somewhat.
+The achromatic lens allowed refracting telescopes
+to boom once more, and while its invention
+saw the end of super long monsters there were
+some pretty big ones, both in length and more
+importantly in aperture diameter up front.
+That culminated with one 49 inches or 1.25
+meters wide in 1900, and a slightly smaller
+version that is still in service today at
+the Yerkes Observatory and helped pioneer
+adaptive optics, which we’ll discuss later.
+Newton, meanwhile developed his own approach
+to solving the chromatic aberration problem,
+the reflecting telescope.
+Mirrors reflect all wavelengths of light by
+the same angle, without dispersion, so reflecting
+scopes focus light using a curved mirror rather
+than a lens.
+The other advantage of reflectors is that
+a large mirror is lighter and, for several
+reasons, easier to manufacture than a large
+lens.
+As astronomers built ever larger scopes, the
+ubiquitous design was a large parabolic mirror
+at the back that gathered and reflected the
+light to a flat mirror that reflected it to
+an achromatic eyepiece on the side.
+This is the favorite of hobbyists even nowadays,
+or at least since the 1960s when John Dobson
+came up with a particular large, cheap, and
+easy to build design which is often referred
+to as a Dobsonian Telescope or simply a Light
+Bucket.
+Another invention of the 1600s was Cassegrain’s
+design that also has a mirror at the back,
+a parabolic one, but with a hole in it.
+That mirror reflects the light coming down
+the tube back up to a hyperbolic mirror that
+shoots it back down through a hole in the
+middle of the rear parabolic mirror and into
+an eyepiece.
+Remember that parabola though because it will
+be important in a minute.
+I don’t want to imply that was the end of
+major improvements to telescopes, indeed we
+could spend several episodes just on the major
+ones alone, but those basic designs serve
+as a good refresher as we launch into ways
+to super-size them.
+None of these have actual maximum size limits,
+in theory anyway.
+If you had ultra stiff materials or were operating
+in zero gravity so that your components don’t
+deform under their own weight, you can go
+ridiculously large.
+However gravity can be handy for one trick.
+We’ve often discussed creating artificial
+gravity by spin and we’ve also mentioned
+that you can increase the apparent gravity
+on some low-gravity place like the moon by
+combining its natural gravity with spin, producing
+gravity at an angle rather than down.
+If you did this, taking a cylinder and spinning
+it around on the moon, then dumped some water
+in it, you could watch as that water formed
+a parabolic shape at the bottom.
+If you used a liquid that was highly reflective,
+like mercury, you would have a big parabolic
+mirror, which as we mentioned a moment ago
+is what forms the back side of a Cassegrain-style
+reflecting telescope.
+By changing the spin rate of that cylinder
+you could alter the steepness of that parabola.
+Nothing high tech involved in that, just a
+spinning tube with liquid in it, and it’s
+also dirt cheap.
+There’s one a bit east of Vancouver, the
+LZT or Large Zenith Telescope, that is amongst
+our largest optical telescopes and only cost
+about half a million bucks.
+Unfortunately one problem with them is they
+can only point straight up, because that mirror
+is being made by gravity plus spin and you
+can’t change gravity’s direction, hence
+the name Zenith Telescope.
+Another problem is that of course it needs
+gravity to work, so you couldn’t use it
+in orbit, but if you put one some place like
+the far side of the moon, you could have a
+monstrously big telescope that didn’t have
+Earth’s atmosphere in the way and blocked
+Earth’s reflections, emission, and general
+noise.
+You could also lower the telescope down into
+the moon to protect it when not in use or
+if you detected incoming meteors.
+Unlike solid-mirror telescopes, a LZT is also
+somewhat self-healing, provided you don’t
+develop a leak in the container holding the
+liquid.
+Small dust particles are going to be smoothed
+over by the liquid and small pits filled;
+so in some ways, it is also more robust than
+a standard mirror.
+We’ve also talked about O’Neill cylinders
+and other rotating habitats a lot on this
+channel, which are just monstrous big tubes
+when you think about it, and if you built
+one into the side of a decently massive asteroid
+or moon you could make a telescope like this
+many kilometers wide and long.
+Indeed you could potentially build pretty
+large ones on icy dwarf planets like Pluto
+or floating around in the upper atmospheres
+of places like Venus.
+But we can be tricky and clever.
+Just because spinning something creates apparent
+gravity in one direction doesn’t mean you
+can’t spin it some more.
+If you take a spinning tube or bucket and
+attach it to a long tether, you can spin it
+around on that tether and create a second
+spin-gravity force perpendicular to the first,
+like gravity was.
+Now you can point it any direction you please,
+though only briefly as it’s spinning, and
+your size is limited by how strong that cable
+or cables are.
+But you can move it around to any direction
+you like.
+There’s a couple other geometries for this,
+and we could also potentially use magnetics,
+rather than gravity, to create that shape.
+And since it doesn’t rely on natural gravity
+you can put it anywhere, like in orbit, or
+way out in deep space.
+Speaking of orbiting space telescopes, if
+you’re wondering, Hubble is a reflecting
+telescope with a 2.4 meter mirror, named for
+Edwin Hubble who helped pioneer the notion
+of an expanding Universe.
+Its big advantage is that being up in space
+it doesn’t have to contend with atmospheric
+interference.
+There are dozens of ground telescope with
+larger mirrors, including the Liquid LZT we
+just discussed at 6 meters diameter.
+The largest single, or monolithic mirror is
+the Subaru, Japan’s 8.3 meter leviathan
+in Hawaii, that’s held that record for 20
+years now.
+If you’re curious Subaru is the Japanese
+name of the star cluster many of us know as
+the Pleiades and also means ‘unite’, folks
+tend to ask if the better known car company
+sponsored it or assume it’s pronounced differently.
+It’s not actually the biggest reflector,
+and wasn’t when it was made, just the biggest
+with a single mirror.
+As I mentioned we have continued improving
+telescopes beyond the basic designs from the
+16 and 1700s.
+There’s 2 terms you’ve probably heard
+that are important to discuss.
+Adaptive Optics and Active Optics.
+Active optics is an alternative approach to
+mirrors.
+In the past we tended to make them rather
+thick to help cut down on deformation of the
+mirror from its own weight or wind.
+However, we eventually realized we could use
+a thin mirror supported by actuators instead,
+ones able to push a little here or there under
+control of a computer to keep the mirror in
+the right shape against sagging, wind, thermal
+expansion and so on.
+Adaptive optics is an improvement on this,
+that allows us to manipulate the mirror quickly
+and cause deformations to counter atmospheric
+distortion.
+The air in the atmosphere is really no different
+than glass or water, it bends light too, but
+it bends it depending on how dense it is or
+how much moisture is present and air turbulence
+can make that rapidly change, indeed that’s
+what makes the stars twinkle.
+Needless to say you need a lot of computers
+to do this well so it’s a fairly recent
+thing.
+We should probably take some time to discuss
+astronomy in wavelengths besides the visual
+range and interferometry, but we’re going
+to mostly bypass that today.
+Some things are invisible to normal light
+or act differently in other wavelengths, but
+the basic physics for the telescope remains
+the same.
+Unlike mirrors and lenses that everyone is
+already very familiar with, and thus easy
+to explain how it’s used in astronomy, interferometry
+would probably need it’s own video to do
+it justice.
+Short form: waves can interfere with each
+other and two identical but out of phase ones
+can cancel out, if they’re not quite identical
+you can see the differences when everything
+identical has been removed.
+For radio astronomy we can use this to take
+two antennas and merge their signals to look
+at a specific point.
+We often see arrays of radio dishes rather
+than a single big one, and this comes down
+to resolution.
+You take a pair of radio dishes separated
+from each other, and each still gathers the
+same amount of light or radio waves, but the
+resolution improves.
+This is the key of astronomy, trying to brighten
+an object so you can see it by squeezing a
+wide cross-section of light down to a small
+one, and enhancing resolution so you can make
+out details of a distant object so it isn’t
+fuzzy or drowned out by noise of other sources
+off at different angles.
+So one radio dish has less resolution than
+two, two has less than three, and so on, especially
+if they are spaced apart.
+Normally the resolution of a telescope is
+controlled by the lens diameter divided by
+the wavelength.
+That’s fine for an optical telescope because
+even a lens half a dozen centimeters across,
+like you’d pick up at a store, is a hundred
+thousand times larger than the wavelength
+being observed.
+But radio waves have wavelengths of meters
+or even kilometers.
+So while a lens as big as your hand allows
+potential resolution of visual light of an
+arc second, if you wanted the same resolution
+for radio waves in the AM radio band, tens
+of meters in wavelength rather than hundreds
+of nanometers, you’d need a lens a hundred
+million times wider.
+Or in fact bigger than our planet.
+Indeed the AM band is also known as the medium
+frequency band, and the extreme low frequency
+band has radio waves whose wavelength alone
+is already bigger than the planet.
+Incidentally that doesn't mean you can't see
+anything with a smaller dish, it just wouldn’t
+have any resolution, like a computer monitor
+showing all the same color, 1p instead of
+1080p, you can still tell color or wavelength
+and how bright it is.
+However if you want any resolution you need
+that bigger lens, and we can fake that by
+using two dishes that are spread apart but
+looking at the same thing, and combining the
+signals we receive.
+Doesn’t gather much more light, just double,
+but does give you that resolution.
+Needless to say that recombination is rather
+precise and tricky and why two dishes aren’t
+just placed on opposite sides of the planet.
+But we’ve been getting much better at precision
+and calculation as years go by and in this
+way we can create a fake giant lens or aperture,
+for the purpose of resolution, a synthetic
+aperture.
+One of the most important innovations over
+the past few decades has been use use of interferometry
+in astronomy.
+This gives us that desired resolution.
+Now, it is not only used in traditional radio
+telescopes, but also in gravitational wave
+detection too.
+This is something that we were only recently
+able to get right with LIGO, an acronym for
+Laser Interferometer Gravitational-Wave Observatory.
+I’ll spend a bit of time on this explaining
+this technology as it is recent and will probably
+tell us a lot more about our universe as sensitivity
+and gravitational wave events get detected.
+It’s also a good reminder that astronomy
+is not only extended to areas of the electromagnetic
+spectrum beyond the visible range, but can
+also include gravity.
+As we’ll see, a LIGO is going to be one
+of the first true Megatelescopes in the next
+20 years.
+We started to detect gravitational waves in
+2016 and up until now, we have 6 confirmed
+gravitational wave detection events.
+The most recent of these was the August 17,
+2017 detection of a collision of two neutron
+stars, which was neatly simultaneously detected
+by optical signals by conventional telescopes.
+LIGO makes use of two 4 kilometer vacuum tubes
+set at right angles to each other.
+Now, 4 kilometers is a much bigger distance
+than the diameter of any telescope mirror
+that we’ve made, but it doesn’t act in
+the same way.
+A laser beam is split and reflected off a
+mirror at the end of the vacuum tube and detected
+again at the source.
+The resolution of this telescope is such that
+it can detect a distance change between the
+two 4 kilometer corridors of less than a ten-thousandth
+the charge diameter of a proton.
+This is the equivalent of measuring the distance
+from Earth to Proxima Centauri with an accuracy
+smaller than the width of a human hair, very
+impressive!
+So how does it get this kind of accuracy?
+The answer lies in interferometry.
+Light is a wave with peaks and valleys.
+The LIGO is designed so that the paths are
+tuned so the returned light is exactly inverse
+for each path, so if one light beam from the
+one tube arrives at the detector as a peak,
+the light from the other right angle tube
+arrives at the same detector as a valley,
+cancelling each other out in destructive interference.
+What we read at the detector normally is zero
+as the waves perfectly cancel each other out.
+This is the magic of an interferometer; it’s
+designed to detect something that’s interesting,
+otherwise we detect nothing.
+If space is warped by a gravitational wave,
+one of the vacuum tubes is going to get slightly
+longer or shorter and this will cause the
+light waves to move out of sync with one another
+so destructive interference doesn’t happen
+and the detector detects the light.
+The more out of sync the waves are, the more
+light is detected.
+So that’s where our incredible resolution
+comes from.
+Now, there’s a fair amount of noise in the
+system so there are actually two LIGO detectors,
+one in Hanford, Washington and the other in
+Livingston, Louisiana.
+The gravitational wave travels at the speed
+of light and the two LIGO observatories are
+10 milli light seconds apart, so we can do
+some interesting astronomy with these in being
+able to tell the direction from where a signal
+came from and also eliminate noise by requiring
+that a signal be detected by both observatories
+before it is a confirmed signal.
+Doing gravitational astronomy is challenging
+at the moment because the noise levels are
+almost at the same levels as the signals being
+read; the arms of the LIGO are really very
+short for the type of detection they are trying
+to do.
+If we want to increase the resolution, we
+need to increase the arm distances.
+True to my heart, the European Space Agency
+is going to supersize a LIGO, not on the ground
+here on Earth, but in space.
+I mentioned that each arm of the current LIGO
+observatory is 4 kilometers in length, but
+how about supersizing each arm to 2.5 million
+kilometers long?
+That’s what they’re proposing to launch
+in 2034 in a project called LISA, or Laser
+Interferometer Space Antenna, which should
+give us much better resolution.
+Radio telescope arrays also use interferometry
+to cancel out signals that are the same and
+can get better resolution as a result too.
+In much the same way as LIGO, the idea is
+to detect waves that are actually different
+and travelling so one telescope picks it up
+and then another, some milliseconds later.
+Anyway, back to optical telescopes.
+An arc minute is a sixtieth of a degree and
+an arc-second is a sixtieth of an arc-minute,
+and there are 1,296,000 of them in a circle.
+The human eye is rather high resolution but
+we top out at about an arcminute, not an arc
+second.
+Any star see from Earth is much less wide
+than an arcsecond, again you can see it but
+only as a single pixel dot of various brightness,
+not including twinkle caused by atmospheric
+turbulence.
+The sun is about 2000 arc seconds and still
+appears as blob but that’s simply due to
+sheer brightness, the moon has the same angular
+width and you can make out some features with
+the naked eye.
+If we had an Earth-like exoplanet 10 light
+years away, one about 13,000 kilometers in
+diameter and a distance of 95 trillion kilometers,
+it has an angular diameter of just 28 microarcseconds.
+So if you wanted a picture of just 28x28 pixels,
+one microarcsecond each, able to see blue
+and green light enough to make out the existence
+of continents and oceans, where each pixel
+is 500 kilometers across, you would need a
+telescope lens over a hundred kilometers across,
+if you wanted to bump that up to a 1080p image,
+that lens needs to be the size of a continent,
+and that scales up linear to distance, put
+it 100 light years away instead of 10 and
+you need a lens 10 times bigger.
+That’s why I often mention planet-sized
+telescopes.
+If you want to be able to watch a planet in
+another solar systems at nice resolutions,
+with a single lens telescope, that’s the
+scale you need to be considering.
+Needless to say it’s a lot easier to look
+at one dot of distant star and see it dim
+slightly every 365 days, and infer from that
+dimming that some planet passes between us
+and it every year, blocking some light, then
+figure out its size by how much it blocked
+and how long it blocked that much at the distance
+a 365 day orbit requires.
+Also, needless to say that’s why it's handy
+to be able to enhance resolution by spreading
+out two telescopes and merging their imaging,
+you don’t get much light this way either
+which can be fixed in part by long exposure
+times.
+And we have somewhat parallel examples like
+the large binocular telescope and a lot of
+the newer telescopes, starting with Keck,
+which began using mirror segments in honeycombs
+rather than a single large mirror, this being
+cheaper and easier to control.
+Taken to an extreme, NASA’s been playing
+around with taking clouds of glitter, million
+of little flecks, and manipulate them to an
+overall shape with lasers.
+We looked at liquid mirrors earlier and these
+are more like a vapor or fog.
+It’s also been suggested that a spherical
+arrangement of optical telescopes in space,
+with their position known down to an accuracy
+smaller than the wavelength of light they’re
+observing, which is hundreds of nanometers
+rather than hundreds of meters like with radio
+telescope, could permit something dubbed a
+‘Hyper Telescope”, which could potentially
+directly image features on exoplanets.
+Now, all the things we’ve discussed so far
+could be scaled up a lot in deep space, far
+from any gravity perturbations or other potential
+problems.
+What’s more you can do some pretty precise
+manufacturing without all the gravity, air,
+vibrations, and so on that we have to deal
+with down here.
+Telescopes could hypothetically be built of
+planetary proportions.
+We also want to keep in mind that while surface
+area, or aperture size, controls how much
+light you collect, it’s really the distance
+between elements that helps with resolution
+and even noise cancellation.
+Many telescopes spread far apart looking at
+the same thing from different angles can have
+their data put together and analyzed to produce
+a very accurate picture.
+Telescopes bigger than planets are potentially
+possible in the distant future but so is spreading
+them out over interplanetary or even interstellar
+distances.
+Such distances also allow unprecedented parallax
+for calculating distances with high precision.
+There’s really not much limit how big you
+can go, with two obvious caveats.
+First you need a lot of computer power and
+second you obviously can only go so big before
+it will collapse under its own weight.
+On that computer power front though, it is
+worth remembering that the whole point of
+a telescope is to take a wide area of light
+and crunch it down to a small size that’s
+now bright enough for our eye to see, and
+retains its original pattern with little distortion.
+But hypothetically you could just have a big
+sheet of tiny light sensitive cells instead
+of a mirror, each reporting what hit it and
+letting a computer do the work, fundamentally
+not really any different than the aperture
+synthesis done with many telescopes, only
+scaled way up in number and down in size.
+Or potentially also up size.
+In the end all that really matters is how
+many photons you can catch and if you can
+know what angle they came in from.
+Needless to say a lot of the options we discussed
+a month back in Advanced Metamaterials might
+help with this a lot.
+Including options like a superlens able to
+pass the diffraction limit.
+One can easily imagine whole arrays of planet
+sized telescopes sheathed in metamaterials
+with a planet sized computer running them
+which allow you to potentially look at distant
+worlds in very high resolution.
+The flip side of the interstellar beacons
+we discussed a couple weeks back, that let
+you transmit messages civilizations could
+pick up on the other side of the galaxy, telescopes
+that could pick up normal transmissions that
+far away.
+Now you do have a mass limit to building these
+things, under which they’d collapse under
+their own weight, and that raises another
+example.
+You’ve probably heard of gravitational lensing
+and a black hole is particularly good at this.
+We’ve talked about making artificial black
+holes before and one could potentially make
+one large and clear its area of any mass that
+might cause interference falling in and radiating
+as it goes.
+We’ve even talked about living around these
+things.
+Interestingly with gravitational lensing like
+this, you don’t have a focus point but a
+focus line.
+Now that’s maybe not as handy as it sounds,
+because diameter is the important thing and
+a galaxy for instance produces far more lensing
+than a black hole and is far larger.
+But thinking of exotic materials for telescopes,
+it’s also worth noting that dark matter,
+which is far more plentiful than the normal
+kind, also doesn’t interact with anything
+other than gravity so in a really high tech
+civilization you could potentially use it
+for making a lens that operated by bending
+spacetime, rather than bending light.
+Not likely to be practical any time soon,
+or maybe ever, but same as we could get away
+with tubeless telescopes in the old aerial
+telescopes or do away with a lens for a mirror
+or multiple mirrors, or even do away with
+all of those in favor of light sensitive cells
+and a lot of computers, we don’t want to
+get rigidly bound to any conventional notion
+of a telescope.
+Don’t rule out scenarios down the line like
+a billion worlds with many telescopes all
+feeding their data into a giant Matrioshka
+Brain, a computer powered by a whole star,
+and pumping out a ridiculously accurate, high
+resolution map of space.
+Don’t rule out learning to manipulate spacetime
+to form a lens made of nothing but warped
+spacetime.
+We might have problems even detecting something
+the size of an entire planet in neighboring
+solar systems these days, but one day we might
+be able to image those as well as our satellites
+can image Earth now.
+I think we’ll close out here.
+We did have to touch on more math than I usually
+like to put in an episode for discussion but
+much of it was supplementary, so you could
+see how we derived these values rather than
+me just saying them.
+We also skipped all sorts of tricks we’ve
+learned over the last few centuries both in
+terms of the technical side of making telescopes
+and squeezing more data out of them and using
+that to paint a picture of the galaxy and
+what its made up of.
+Telescopes just let us gather data, figuring
+out what it means is a whole different story.
+If you’d like to learn more about that I’d
+suggest the Astronomy Course at Brilliant.org,
+that course walks through practical exercises
+on everything from the Atomic Spectra we used
+to determine what stars were made of and derived
+their energy from to the exoplanets orbiting
+them and how we detect them.
+It offers a very hands-on active learning
+approach and will introduce you to many of
+the terms and concepts we see in astronomy
+that are often left fairly vague in a of lot
+articles and discussions of these topics.
+“Effective learning is active” - That’s
+one of their 8 principles of learning.
+Another of their principles that I strongly
+agree with is “Effective learning sparks
+questions”.
+I not only answer a lot of questions here,
+but also encourage folks to think of whole
+new ones that follow from the material and
+I try to give you some of the tools to find
+answers on your own too.
+Brilliant’s a great place to expand your
+toolbox, both to help you answer many of the
+questions you have and help you know what
+to ask.
+So if you’d like improve your understanding
+of math and science, and help support the
+channel while you’re at it, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription.
+Okay next week we’ll be continuing our look
+at futuristic conflicts we began with space
+warfare and looking more at the planetary
+side of things in Planetary Invasions, and
+reviewing our Book of the Month, Robert Heinlein’s
+Starship Troopers.
+The week after that it’s back to Post Scarcity
+Civilizations for a look not just at Virtual
+Reality but how people living in such civilizations
+might have their basic perception of reality
+altered.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a great week!

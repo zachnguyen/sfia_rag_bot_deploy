@@ -1,0 +1,818 @@
+As children, we had fun playing on a merry-go-round
+but one day, as adults, we will live in one.
+So today’s topic is the O’Neill Cylinder,
+a giant rotating space habitat that’s more
+akin to a small nation than a space station.
+For many of our regular viewers this is a
+familiar concept, though we’ll be exploring
+it in a lot more detail today, but first let’s
+start by repeating the basics of what one
+is and why they are an attractive option for
+the future homes of humanity.
+At a fundamental level you can terraform almost
+any barren rock in space to be decently livable,
+but it requires vastly more effort than we
+tend to portray in science fiction and the
+odds of finding a planet regular humans and
+Earth-based life could just as comfortably
+live on without some form of terraforming
+are virtually nil.
+Indeed entirely nil, as those conditions would
+likely only exist if something already lived
+there and as we’ve discussed before, trying
+to colonize a planet that already has an ecosystem
+on it much beyond basic bacteria is not really
+a practical option even if you ignore some
+of the big ethical issues.
+We don’t have any place in this solar system
+even vaguely meeting Earth-like criteria,
+and while some planet with a 23 hour day and
+102% of Earth’s gravity and just 10% higher
+pressure might sound ideal, I’m writing
+this on the Sunday after daylight savings
+happened and that missing hour is definitely
+irritating, so I’m not sure even a 23 hour
+day would be very desirable, especially on
+a daily basis.
+Of course the only planet even close to Earth’s
+day length is Mars, where the day is half
+an hour longer, and I wouldn’t mind an extra
+half hour of sleep a day but not at the expense
+of trillions of man hours of time into giving
+the place an atmosphere to breathe or putting
+up with gravity 38% that of Earth’s 1G.
+To add to that, the Universe is not exactly
+swimming in rocky material, and while your
+house probably doesn’t weigh too much more
+than a loaded cargo truck, it’s sitting
+on millions of tons of rock directly below
+you, while even a very avid gardener really
+only uses maybe the first meter of dirt below
+them.
+All that rock is really doing is providing
+gravity, and we have a cheat for that, we
+can spin things around and fake it for all
+practical purposes.
+This is the basic notion of a rotating habitat
+and we did an episode on those way back in
+the first year of the channel and have talked
+about them many times since.
+The basic idea is easy, you build a big ring
+or cylinder and dump some dirt, water, and
+air inside, provide light and grow plants
+and build houses inside.
+It spins around and people are held in place
+by centrifugal force.
+Technically a fictitious or pseudo-force,
+but then so is gravity under general relativity
+anyway, and fictitious or not, it will hold
+your feet to the ground just fine.
+If you spun the ISS around the astronauts
+would be pinned to the sides by that same
+centrifugal force and you could spin it faster
+or slower to provide more force.
+That would be very nauseating though, from
+the rate of spin required to provide gravity
+with its small diameter, but if you continue
+to build bigger, that rate of spin begins
+to decrease and eventually it rotates so slowly,
+nobody would be able to tell that the gravity
+was artificial.
+The problem is that the bigger you make one,
+the stronger it needs to be to simulate a
+given amount of gravity, and the strength
+of the hull is identical to that of a suspension
+bridge under the same gravity with a length
+equal to the circumference of that hull.
+This led to the inevitable question of how
+big you could build one from modern materials
+with enough safety leeway for a decent amount
+of mass inside and for some damage to be possible
+without ripping the place apart.
+And in 1976, in the peak of post-Apollo enthusiasm,
+we got the answer from physicist Gerard K.
+O’Neill in his book “The High Frontier:
+Human Colonies in Space”, in which he proposed
+various cylindrical space habitats including
+one 5 miles in diameter and 20 miles long,
+8 kilometers by 32 kilometers for metric,
+at the effective safe limit for steel.
+You can actually push that out a good deal
+further even with steel and do decently better
+with aluminum or titanium, and much better
+with substances like Kevlar or Zylon, let
+alone Graphene, but such a structure is well
+inside our production capability, ignoring
+its sheer hugeness, and became the standard
+for discussing large cylindrical space habitats
+and got named the O’Neill Cylinder.
+The specific maximum dimensions of such structure
+based on its material isn’t really the critical
+part, but the default large O’Neill cylinder
+has 314 square miles or 804 square kilometers
+of internal area, which isn’t huge compared
+to most countries but is on a size with a
+lot of smaller territories or subdivisions
+like a County.
+My own home county of Ashtabula, here in Ohio,
+is the largest in the state and only about
+twice that area and supports one hundred thousand
+people at a density of 56 per square kilometer,
+about double or triple the density we tend
+to think of for pre-industrial civilizations,
+my county is considered quite rural, amusingly
+bordering the smallest county in our state
+which packs in two and half times as many
+people, and in spite of mostly being forested
+is still a net exporter of food so it’s
+quite self-sufficient.
+And indeed, there are an awful lot of historical
+kingdoms and city-states that were no bigger.
+Moreover, O’Neill’s design calls for two
+of these to be coupled together with some
+additional facilities attached or nearby,
+and there’s nothing limiting you to adding
+more to a connected grouping you could walk
+or maybe float between.
+This is the key aspect, because you can certainly
+build them larger or smaller, but that size
+is big enough you are no longer picturing
+a space station that serves as a junction
+port for people and goods moving around but
+an actual civilization that doesn’t need
+to import or export a lot, proportionally.
+At some point someone ran the numbers on mass
+and came in at around 4-6000 megatons for
+the model 4 version, and if we assumed that
+was mostly dirt, steel, and water, that means
+that the number of cylinders with mass equal
+to our own planet would total over one quadrillion,
+or over a million billion, each having an
+internal area equal to bit over a millionth
+of Earth’s.
+So if someone made a planet’s mass worth
+of those you would have a couple billion planets’
+worth of living space.
+This happens to be about identical to the
+amount of sunlight the Sun cranks out relative
+to what hits Earth, a couple billion times
+more, and another notion that was gaining
+popularity at the same time was the Kardashev
+Scale and the Dyson Sphere or Swarm.
+So if you found an Earth mass planet you could
+terraform it and now have a whole extra planet
+to live on, or your could turn it all into
+O’Neill Cylinders in a swarm around a star
+and have a billion extra planets’ worth
+of living area.
+And unlike terraforming a planet, which does
+require about as much work per bit of new
+living area as just building it from scratch,
+when you’re done you have a structure with
+identical conditions to that of Earth, since
+you can dial it’s gravity up to whatever
+you want, and light the thing on whatever
+schedule or temperature you want.
+You don’t have to mimic Earth’s conditions,
+but you have that option.
+Again for channel regulars, this is kind of
+old-hat but for those who aren’t it’s
+a big reason why I spend so much time mentioning
+rotating habitats like the O’Neill Cylinders
+and Dyson Swarms, big clouds of these things
+around a star.
+These are even more attractive to us on this
+channel as we tend to assume some technologies
+being developed that make them even better.
+For instance, the classic O’Neill Cylinder
+calls for either windows in the sides to let
+sunlight in or an elaborate mirror system
+to bounce it in, we tend to assume we’ll
+eventually master fusion and just internally
+power and light it, that’s not necessary
+but would certainly be handy.
+You can do the same with a big grid of solar
+panels outside and some LED lights inside,
+but those weren’t very good options in O’Neill’s
+day, again the book is from 1976 and he died
+of Leukemia in 1992, before we had relatively
+cheap and efficient solar panels and LED lighting,
+indeed the latter were still pretty impractical
+and uneconomic even a decade ago whereas now
+fluorescents and incandescents are mostly
+being retired in favor of LED lighting which
+is pretty much better in every regard.
+We’ve also seen aerogel become more viable
+for mass production, an ultra-light but sturdy
+substance that helps a lot for making your
+interiors of such habitats a little less 2D.
+The normal way to add depth to a rotating
+habitat is to pimple and dimple the shell
+so you don’t need as much dirt inside, a
+hill is just a big pimple of steel with a
+thin layer of soil over the top and a deep
+lake a dimple down off the hull.
+This is not really ideal from an engineering
+perspective, or for reconfiguring your landscape,
+so being able to make a mound of aerogel covered
+with dirt is preferable.
+We’ve also created stronger materials, and
+odds are that graphene, which is simply carbon
+and very abundant in the Universe, could be
+mass manufactured inside a decade or two.
+This allows much bigger habitats, but more
+importantly perhaps, allows much thinner hulls
+on them that are also much stronger than a
+steel one.
+Lastly, we’ve come a long way with automation
+since O’Neill’s day, so the notion of
+building one of these things seems less daunting.
+Robots able to mine and refine the raw materials
+from the Moon or some asteroid, and do all
+the assembly and welding don’t seem like
+wild science fiction anymore, even if we’re
+not quite there yet, and as we saw earlier
+this spring in our spaceports episode, featuring
+the Gateway Foundation’s huge spaceport,
+that basic assembly technology now exists,
+even if the spaceport we saw there, while
+dwarfing the International Space Station,
+would fit inside an O’Neill Cylinder like
+a bike wheel inside your garage.
+All of these concepts make the O’Neill Cylinder
+and its various cousins much more attractive
+and plausible as a pathway to space colonization
+for humanity.
+You don’t colonize other planets, you build
+them, tailored in size and environment to
+what you want or need, and discussing a future
+from that perspective rather than terraforming
+planets has been a big focus of this channel
+since its inception.
+So that covers all the basic review of concept,
+but folks will tend to ask what life inside
+one of these things is actually like.
+What’s the weather like?
+What’s the sky like?
+The landscape?
+What happens if it gets struck by some meteorite
+or weapon?
+Would you realistically ever even build one
+and when and where would we do our first ones?
+We’ll answer that last first, and generally
+the place proposed for building the first
+one is at the L5 point of the Earth Moon system.
+Indeed the L5 Society was founded in 1975
+based largely around O’Neill’s idea even
+though the book that popularized it wasn’t
+out for another year.
+Its founder, Keith Henson, happens to be a
+personal hero and inspiration of mine along
+with O’Neill and I got to talk to Keith
+several times this last year along with getting
+introduced to a lot of the folks from L5’s
+successor organization, the National Space
+Society, and obviously that was a great pleasure
+and honor to get to correspond with those
+folks and pick their brains.
+The reason for the name is that in any two
+body system you get 5 Lagrange Points, a place
+of modestly stable and stationary orbits that
+don’t seem to move relative to the two bodies
+in question.
+For instance the L4 and L5 spots for the Earth
+and Moon are out at the same distance from
+the Earth the Moon is, and remain 60 degrees
+ahead or behind of the Moon on its orbit.
+Indeed they each form an equilateral triangle
+with the Earth and Moon and are very good
+places to set up ports to send material out
+deeper into space or receive incoming ships
+and they need virtually no station-keeping
+fuel, which is otherwise a pretty hefty requirement
+for any satellite or space station and more
+so for something as gigantic as a space habitat.
+You can put one lower and closer to Earth
+or the Moon, but only even if you’ve got
+a means for station-keeping and again that’s
+no problem in a fusion economy but requires
+a lot more relative effort without that, so
+L4 and L5 tend to be considered the ideal
+first places.
+L1, L2, and L3 are still better than other
+spots but less stable than L4 and L5, and
+the two are identical in their advantages,
+to the best of my knowledge so I’m not sure
+why it was L5 over L4, maybe they flipped
+a coin or liked 5 better.
+There really isn’t a specific size to these
+cylinders.
+O’Neill gave four example sizes with rounded
+numbers and the biggest, type 4, is the one
+that usually gets mentioned.
+I generally use it for any cylinder or cylinder
+pair many kilometers in size but smaller than
+the giant Graphene versions.
+These giants are the Bishop Ring and McKendree
+Cylinder, which I usually just call Continent
+Class habitats to save time and since O’Neill’s
+three reference designs are Islands 1, 2,
+and 3, and the Graphene versions are too big
+to classify as an island unless maybe you’re
+referring to Greenland.
+We see them in fiction a lot, though not so
+much in film or TV.
+If you’re familiar with the Gundam Franchise,
+an O’Neill Cylinder is pretty much the first
+thing we see on screen in the original animation
+and it’s beautifully done.
+The eponymous space station from Babylon 5
+is an O’Neill Cylinder, a spaceship version
+of one appears in Arthur C. Clarke’s classic
+novel Rendezvous with Rama, and the Citadel
+from the Mass Effect Franchise is basically
+one too.
+Okay, so why would you ever build one?
+That’s tricky for the same reason lots of
+space concepts seem always delayed and ten
+or twenty years off, there’s a bit of Catch-22
+with space that a lot of the cool things you
+can do up there require the other stuff be
+built first, but this one is big enough I’ll
+just flat out say, you don’t build stuff
+like this, especially the full blown multi-kilometer
+kind, until space flight is cheap enough that
+most people can afford a ticket.
+If you’re living in a space habitat, you’re
+living on alien soil because we wouldn’t
+mine the materials for these from Earth.
+You wouldn’t create one of these until you’ve
+got some serious infrastructure in space and
+automation good enough that it doesn’t take
+a lot of human oversight to scoop up some
+iron or aluminum from the moon, refine and
+process it into structural bits, and weld
+it into place.
+The switch over to when they become a place
+many people live, or even most of them, would
+then just occur organically at whatever point
+building an acre of O’Neill Cylinder is
+about the same price as buying one down on
+Earth.
+If Earth ends up going the Ecumenopolis or
+Matrioshka Shell World path we’ve discussed
+before, that could easily result in land prices
+down on Earth running what they do in major
+metropolises and folks wanting to live in
+one of these O’Neill Cylinders so they could
+have some cheap land.
+Needless to say for the near future building
+one of these things would be much more expensive
+per square meter than even buying land in
+downtown New York City or Tokyo, but that
+would drop a lot as you not only get cheaper
+spaceflight but off-Earth sources of material.
+That would impact the four basic interior
+densities we’d tend to see though.
+The cheapest path is the densest path, where
+it’s basically a city with some gardens
+and parks and likely many layers, either in
+the building or the actual cylinder itself.
+So long as you are wide enough that each layer
+is only a little higher or lower relative
+to the diameter of the station you won’t
+have much change in apparent gravity between
+levels.
+Lighting those levels only becomes an issue
+if you need to get rid of heat, and you can
+have a ton of radiating fins poking out of
+one, though by preference these should be
+off the non-spinning axis, not sticking off
+the sides where they are under immense stress.
+Solar panels, incidentally, make handy radiators
+since they already have a large surface area
+relative to their mass.
+A couple of notes on building these.
+First, especially early on, you are going
+to be placing them where you want people and
+away from Earth, that’s likely to be in
+asteroids with emphasis on in an asteroid,
+not on an asteroid or next to one.
+Excavating an asteroid is very easy - they
+have virtually no gravity, so you just dig
+a hole a little bigger than the cylinder habitat,
+line it with something, and stick the cylinder
+in there to spin around.
+You don’t have to excavate all the way in,
+either, you can just land in a crater and
+excavate a little, and dump the unused stuff
+around you as a protective shell, a blister
+sticking out from the asteroid rather than
+a crater, and that would probably be a common
+approach, essentially expanding the asteroid
+as you hollowed it out.
+Incidentally this is why we often see these
+things in pairs, it’s much easier to give
+such habitats their spin, and maintain it,
+if you have something to push against, so
+a twin rotating in the opposite direction
+or a big asteroid with thousands of times
+the net mass is ideal.
+You can link more cylinders together over
+time as you hollow an asteroid out for its
+raw materials and eventually even just construct
+a big spherical shell around the whole lot
+of them with a thin layer of rock on it.
+Actually, there’s another reason we go with
+a pair of these and that is because of something
+called precession, which you would have encountered
+if you’ve ever looked at a spinning gyroscope.
+The gyroscope doesn’t stay exactly still
+and instead traces out a circle, which is
+caused by the torque of the spin on it.
+Now, in space, that precession movement is
+made worse and the entire habitat can quite
+suddenly flip over.
+Besides being extremely unpleasant, everything
+inside would be exposed to large forces that
+could rip the cylinder apart as everything
+changes direction.
+Fortunately, with two such habitats joined
+together spinning in opposite directions,
+that torque and the resulting precession are
+largely eliminated.
+If we stick the habitat into that asteroid,
+you are effectively providing it with a very
+capable shield from radiation, micrometeors
+and weaponry.
+For this reason you’d not expect to ever
+see a naked O’Neill Cylinder actually spinning
+in space as you approached it, though we always
+show them that way.
+It’s just easier to build one with a big
+shell around it that is heavier and a storage
+facility for things you need but don’t need
+gravity, and that superstructure would either
+not spin or do so in the opposite direction
+and slower.
+That spoils the visual effect though, so again
+we don’t show them that way much.
+Nor probably with hundreds if not thousands
+of smaller ancillary facilities connected
+to that superstructure or hidden within it,
+some possibly with partial or full rotational
+gravity themselves.
+So we know what the outside looks like, but
+what about the inside?
+Classic image is a big flat cylinder with
+the horizon rising but I suspect this is false
+too.
+That’s not an ideal look, seeing a reverse
+horizon or your neighbor’s yard hanging
+overhead, so I suspect they’d go a lot more
+3D, lots of hills and valleys to disrupt that
+rising horizon along with the sun not rising
+or setting with it.
+So while the easiest landscape to do would
+be a flat one, I expect you’d see a lot
+more up and down, more Scottish Highlands
+than Kansas plains with lots of hills or trees
+to break up the horizon.
+Of course that depends on density, you could
+populate one of these as heavily as a metropolitan
+area, with many millions of folks and agriculture
+being done hydroponically in lower levels
+or attached smaller and cheaper stations nearby,
+or you could go suburban or rural or even
+near deserted.
+We’ve talked about using these as wildlife
+reserves because they are closed environments
+but big enough to support a mostly self-sufficient
+ecosystem, certainly on any short timelines
+and you can make them bigger or artificially
+introduce genetic diversity when it is needed,
+but short of very large creatures or apex
+predators, one is big enough for most species
+to exist without genetic bottlenecking.
+The big issue causing these to be different
+from Earth is the sky.
+Not the sun itself, whatever you use for that,
+be it a big mirror or lightbulb, makes no
+difference, people don’t look at the Sun
+and that’s why folks are often a little
+surprised at its actual appearance when they
+see photos of it dimmed down.
+It’s just a big whitish-gold blob and that’s
+very easy to fake nowadays with LED lighting
+or mirrors.
+However unless you want a perpetually cloudy
+day you need to take some special efforts
+if you want the classic blue sky or starry
+night.
+Those don’t have to be terribly extreme
+or high tech, even just a big thin blue cylinder
+higher up that had some light on it at night
+arranged to mimic our own constellations would
+do the trick and you just keep your ceiling
+decently higher than birds fly.
+You can also play with the atmosphere content
+to absorb green light or your sunlight to
+have more blue and less green, or tweak it
+for reds in the evenings, but that’s the
+one area where you can’t quite perfectly
+mimic Earth with a little artificial effort.
+Now nobody wants perpetual clouds but we do
+want some and folks ask what the weather is
+like on these, and that’s very hard to generalize
+because it depends a lot on the size of a
+station.
+One of the big factors in our own weather
+is the spin of the Earth and the Coriolis
+Effect produced by that, and rotating habitats
+have that too and would have Inertial Circles
+in the air and water like Earth does.
+Very generally the bigger they are, the closer
+they will tend to match Earth.
+You definitely get weather, wind, rain, and
+waves on these but it will be different in
+patterns than on Earth.
+For instance in smaller ones there’s very
+little change in pressure with altitude, you’re
+essentially a pressurized can rather than
+a place where a lot of air sits on more air
+being squeezed denser by it, so cloud effects
+are going to be different there, as the sky
+only goes so high and the closer you get to
+the middle, the lower the gravity is.
+It’s actually hard to predict much on this
+because someone always notices another little
+detail that would be different.
+I remember a discussion of it on the channel’s
+Reddit group last year where someone pointed
+out that a raindrop starting near the axis
+up high initially falls much slower than close
+to the ground; gravity is lower while air
+drag remains about the same as near the ground.
+Unlike on a planet, the atmosphere, doesn’t
+thin out as much in the volume of an O’Neill
+Cylinder, though it does in the really big
+versions like a Banks Orbital or Ringworld,
+where more of your surface air pressure is
+a result of the atmosphere above you.
+In many versions you could also get a sideways-looking
+vortex of clouds as stuff loops around that
+central, low gravity axis, and one can imagine
+birds adapting to learn to fly in low or no
+gravity at the higher altitudes.
+I wouldn’t be surprised if a lot of places
+opted to hang fake clouds spinning at the
+same rotational rate as the station and stuck
+lower-gravity environments up there or skipped
+the cloud look for flying islands or cities
+and you might get some very interesting three
+dimensional ecologies that way.
+Again, you can make these very like Earth
+but you don’t have to, and since the sky
+is the hard part to mimic Earth with, I’d
+tend to expect that to be the one folks most
+casually take artistic license with.
+I’d be remiss if I didn’t point out that
+these need not be cylinders either.
+You could cap the ends with cones or curves
+instead of a flat plate as a sort of fake
+mountain range with lower gravity, which is
+appealing as a place to visit if you want
+to climb mountains or go hang gliding through
+ravines with less risk and exertion.
+You can, of course, do a simple sphere, but
+then you have no gravity at the poles and
+the highest gravity at the equator.
+You’d also have issues with water collecting
+down, basically forming a big equatorial ocean
+band with desert or tundra up nearer the poles
+and nothing at all right on the poles with
+no gravity to stay down.
+That’s okay if you are using those as your
+space port though.
+Many geometries are possible but the cylinder
+is the most obvious and pragmatic one.
+You generally want them longer than they are
+wide too, so it’s worth noting that you
+can treat them like rods and connect them
+to each other at the ends in a big wireframe
+to add more space without needing additional
+structural strength and in doing so create
+some truly enormous regions of living area.
+There’s no real limitation on length, just
+width, and I often picture folks making these
+as big connected wireframe globes, possibly
+with concentric layers, out of some original
+small asteroid that’s being eaten up to
+build a big exterior fake globe full of these
+and immersed inside a bigger reservoir of
+gas, be it fusion fuel or even air you could
+fly around in without gravity.
+Friction isn’t an issue as again you’d
+usually sheath such a cylinder with a second
+non-spinning protective layer and just have
+a vacuum between those two layers.
+There are tons of possibilities and we’ve
+discussed many of them in other episodes,
+but this is the basic O’Neill Cylinder,
+arguably the first space-based megastructure
+you would build and the one I tend to think
+a few hundred years from now are where most
+humans will live.
+They don’t take much mass, so you can build
+trillions of them in a solar system.
+They are actually mobile, unlike a planet,
+so you can move one if you need to dodge an
+asteroid or leave an area that’s become
+unfriendly or unwelcoming.
+They also have next to no real gravity, so
+getting materials into and out of them is
+really easy because there is no gravity well
+to contend with.
+They’re also about the minimum size for
+a respectable sovereign entity.
+I’d imagine most would be the equivalent
+of maybe a county or a state inside a larger
+nation, but they are big enough to administrate
+themselves and have all the specialists they
+need and a population large enough that you
+can move around inside one if you don’t
+like your old neighborhood and encounter people
+you’ve never met, but also small enough
+for a genuine feeling of intimate community
+and for most business and civic roles to be
+filled with some variety.
+Depending on scale and density, you’d expect
+populations anywhere from 10 thousand to 10
+million and again are easily directly linked
+together to allow groups of them to form integral
+wholes.
+One downside is they’re not really ideal
+spaceships because they are fairly massive
+and not really designed with acceleration
+in mind, though they can be designed to be
+better at that, it’s just hard to reconfigure
+one to that setup if you didn’t start that
+way.
+Using one as the core of an interstellar space
+ark is a fairly common notion, we see it in
+Clarke’s Rendezvous with Rama and in the
+Expanse with the spaceship Nauvoo.
+Or the Marigold Fields design from artist
+Rapid Thrash.
+But it’s the difference between an airplane
+and a mobile home, our O’Neill Cylinder
+needs a bit of time to get going but can move
+itself to a new spot and indeed if it’s
+fusion powered, a whole new solar system.
+That’s one reason I stress them as big enough
+for a complete functioning civilization because
+while I’d imagine you’d see a lot of them
+formed up in alliance of thousands or millions
+of them as a single nation, if the population
+doesn’t like things, they can just move,
+and it’s the sort of structure that you
+pretty much can only blow up, not conquer,
+because invading a can like that is a basically
+a deathtrap.
+Not that they’re fragile, as I mentioned
+in interplanetary warfare they can be armored
+up quite nicely and wrapped in point defense
+systems and a whole cloud of smaller facilities
+doing manufacturing or agriculture and defense,
+and be just as sturdy as any planet at least
+as far as the folks living on it are concerned.
+Remember on a planet you’ve got thousands
+of kilometers of protective rock but it’s
+all underneath you, only the atmosphere protects
+you from orbital bombardment.
+In a rotating habitat all the rocks and metal
+are between you and any hostile invader.
+Such being the case I tend to think they’d
+serve as the sort of bottom rung of any nation-states
+we see in space because they don’t really
+need anybody else.
+They’ll doubtless be vulnerable to economic
+sanctions and blockades of trade, physical
+or digital, but that’s about the limits
+of your diplomatic options short of ‘kill
+everyone’ so it’s entirely a guess but
+I suspect most would be pretty touchy about
+maintaining most of their local authority
+and not centralizing it much, more of a city
+state or feudal setup than what we tend to
+see in nations after the industrial revolution
+got fully into swing.
+We could go the other way entirely, of course.
+But there would still be a lot of trade; Interplanetary
+Trade, as we discussed in that episode, is
+quite problematic for anything but data, but
+these aren’t interplanetary, they are smaller
+and way more numerous.
+That means you’re a lot closer to your neighbors
+and you also have no gravity well to fight,
+indeed you could often make the trip to your
+nearest neighbor by just going out to the
+outer hull in a spacesuit and timing your
+release, then drift off at 200 meters per
+second for the next station that might be
+a thousand kilometers away, but you’d cover
+that in 5000 seconds, or an hour and half.
+Fire a few puffs of gas to correct your course
+and grab onto the side spinning at the same
+speed you were and climb on in.
+I could easily imagine that being a common
+sport.
+Even where the stations aren’t physically
+connected by a pressurized connection or long
+tether, you could build a spaceship able to
+reach that distance in your garage with some
+sheet metal, some fire extinguishers, and
+a blowtorch.
+Even more than moving around an asteroid belt,
+spaceships inside a system with lots of O’Neill
+Cylinders hardly require crack teams of engineers
+and precise manufacturing.
+So between the relatively small population
+and the relatively small distances, I would
+expect a lot of specialized manufacturing
+and trade, and for that same reason I would
+not expect to see these places opting for
+isolationism or total sovereignty much either,
+but probably be more like an alliance of city
+states or islands in an archipelago.
+You can probably see by now why I tend to
+always mention these things as ubiquitous
+in the future, they are a very attractive
+option if your civilization has decided to
+stay mostly human rather than pursuing various
+bioforming or cybernetic techniques or has
+gone transhuman or for a digital existence.
+And of course assuming they’ve got the resources
+and automation to make these places cheap
+enough that regular folks can afford to buy
+a home on one.
+We’ll be exploring more about the consequences
+and challenges facing post-scarcity civilizations
+more this spring, and we’ll see that there
+actually are a lot of those even if as a whole
+life is much better than now, much as life
+is much better now than a couple centuries
+ago but not without its challenges, some the
+same as our ancestors faced and many unique
+to us.
+Now we were talking about the weather on these
+earlier and I mentioned how minor changes
+to size, rotation rate, or geometry could
+seriously alter the dynamics of weather patterns
+in one.
+If you're curious to know more about how that
+functions, I'd recommend Brilliant's course
+"Out In Nature", which will walk you through
+everything from seasonal impacts to the Coriolis
+Effect.
+One of the things I like about Brilliant is
+that they’ve got a core set of 8 principles
+for learning that match up very well with
+my own philosophy on the matter and three
+of those are that it has to be exciting and
+cultivate curiosity and questions, but another
+is that it has to be active.
+This channel definitely goes for the long
+and in-depth side of the spectrum as science
+videos go but even if the episode were ten
+times as long it can’t replace that hands
+on aspect of taking examples and actually
+working them out yourself that’s necessary
+for true understanding and mastery of these
+concepts.
+So if you’d like improve your understanding
+of math and science, and help support the
+channel while you’re at it, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription.
+Next week we will return to the Fermi Paradox
+to discuss Alien Beacons, and ask just how
+far away you can say hello to civilizations
+if you want to, as well as what other reasons
+you might have to build such an enormous transmitter.
+The week after that we’ll take a look at
+the kind of civilizations that can afford
+to make things like giant beacons or telescopes
+as we start an expanded series on Post-Scarcity
+Civilizations.
+And the week after that, we’ll be exploring
+how far away you can see, with a look at megatelescopes,
+and just how big you can make a telescope..
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a great week!

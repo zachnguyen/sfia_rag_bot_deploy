@@ -1,0 +1,552 @@
+This Episode is sponsored by Skillshare
+Carbon is the fundamental building block of
+life,
+but it may soon be the fundamental building
+block of the rest of the world too.
+So today we’re going to be looking at Graphene,
+ultra-thin flat sheets of a superstrong substance
+that folks have been talking about the potential
+of for over a decade now.
+We’ll be looking at what technologies it’s
+useful for, what its impact on our economy
+and civilization could be, and why the hype
+around it has died down somewhat.
+This episode is probably a bit more technical
+than our usual content, but hopefully it doesn’t
+fall too flat - even if that pun probably
+did.
+Let’s start with some basics.
+Graphene is an allotrope of carbon.
+Allotropes are the various forms of a single
+element that differ only by how the atoms
+are arranged and bonded to each other.
+Oxygen has allotropes of O2 the we breathe
+and ozone O3 that protects us from the sun’s
+ultraviolet rays.
+Phosphorus has allotropes of amorphous red
+phosphorus, in which the atoms bond to each
+other but not in any regular repeating structure,
+and white phosphorus or tetraphosphorus, in
+which each molecule contains four atoms bonded
+in a tetrahedral arrangement.
+Carbon and phosphorus both have many allotropes
+because they have four bonding sites on each
+atom and hence quite a variety of ways the
+atoms can bond with each other.
+The prettiest and hardest allotrope of carbon
+of course is diamond, but the most common
+is graphite, which is found in coal and is
+the most stable lowest energy configuration
+of carbon.
+There are many others including amorphous
+carbon also found in coal, nanotubes, buckyballs,
+and larger structures similar to buckyballs
+like C70.
+But it’s graphite we are most interested
+in today, because that’s where we can find
+Graphene.
+In the simplest form Graphene is a perfect
+arrangement of carbon atoms into a hexagonal
+honeycomb sheet, but it’s important to get
+a bit more detail on what Graphene is, as
+this isn’t commonly explained in most articles
+talking about the substance, and is actually
+a really important distinction.
+In this case, what we’re talking about is
+“true” or “pristine” graphene, which
+is a pure sheet of carbon atoms double-bonded.
+The lowest energy state of this type of bonding
+has all of the carbon atoms form into that
+“honeycomb” configuration, where the bonds
+create perfect hexagons within the two-dimensional
+arrangement of carbon atoms.
+This also explains why Graphene is so hard
+to make.
+You’re trying to perfectly position a bunch
+of carbon atoms into a hexagonal honeycomb,
+one atom thick, with no defects.
+Making two-dimensional compounds in their
+true forms is extremely difficult because
+even the slightest contamination or defects
+can dramatically affect their properties,
+and that kind of atomic-level precision in
+manufacturing has yet to be achieved.
+On top of this, they like to stack up or “agglomerate”
+due to Van Der Waals interactions, which is
+how Graphene becomes graphite, which is basically
+a jumble of defective graphene sheets stacked
+on top of each other.
+Graphene was first theorized in 1947 by Canadian
+scientist Phillip Wallace, who predicted that
+if a single laminated sheet of graphite were
+to be isolated, it would exhibit some interesting
+and anomalous qualities.
+Graphene might have been accidentally isolated
+in 1962, but the first provable publication
+of isolated graphene was in 2004 by Andre
+Geim and Konstantin Novoselov at the University
+of Manchester by what’s usually called the
+“Sticky tape” technique, where they used
+scotch tape to pull graphene layers off of
+graphite and deposit them onto silicon wafers.
+This then allowed them to prove it was graphene
+and confirm Wallace’s theory by observing
+the predicted Quantum Hall Effect in the material.
+This was what led to their 2010 nobel prize
+in physics and the surge in popularity for
+Graphene.
+Graphene’s two-dimensionality gives it many
+unique properties.
+It’s because of this quantum hall effect
+that its electrons behave as if they’re
+massless, giving it a charge carrying capacity
+one million times higher than copper, and
+this can only occur in a two dimensional material.
+2-dimensional sheets of atoms, also called
+a monolayer, can be made of other materials
+like boron, silicon, germanium, and phosphorus,
+which then also have the appendix -ene tacked
+onto their names like Phosphorene or Germanene.
+Like Graphene, they have some unique properties
+too: phosphorene has some fascinating electrical
+properties due to Phosphorus’s ability to
+form five bonds.
+In many ways the future isn’t just graphene
+but all of these sorts of monolayer materials,
+like Arsenene – the monolayer of Arsenic
+– which is very valuable for LEDs and solar
+cells, or multi-atom type compounds like Molybdenum
+DiSelenide.
+But of them all, Graphene is likely to be
+the most ascendant star.
+It seems to have the most useful and scientifically
+interesting properties, and if it isn’t
+used in some of the applications we discuss
+today, it will only be because we find other
+things that do the job a bit better in that
+application, or are easier to produce.
+Economics can often outweigh exceptionality
+after all.
+Graphene is possibly most famous for having
+a tensile strength of 130 Gigapascals, which
+is about 50 times stronger than our strongest
+steel, and 240 times stronger than structural
+steel.
+As a result whenever talks about space elevators
+or megastructures come up, Graphene often
+does as well, especially for giant megastructures
+like those we’ll look at next week.
+The problem with this, however, is that it’s
+often forgotten that this only applies to
+pristine graphene, and also that graphene
+has a very low fracture toughness - it breaks
+like many ceramics.
+There is a very interesting exception to this,
+however, as two sheets of pristine graphene
+layered on top of each other, known as diamene,
+will behave as reactive armor and harden when
+pressure is applied.
+The properties of these variations on graphene,
+such as diamene, functionalized graphene,
+graphene oxide, holey graphene, or reduced
+graphene oxide, are all relevant.
+These materials are not technically graphene,
+but they are extremely useful and considered
+an important part of graphene research.
+The reason they aren’t considered such plays
+into our next point: graphene’s two-dimensionality.
+Graphene, while flat, isn’t quite two-dimensional,
+as a two dimensional object technically cannot
+exist, this is after all a 3-Dimensional universe.
+A perfect pristine graphene sheet, therefore,
+tends to have a ripple running through part
+of it at all times, keeping it existing in
+three dimensions.
+This could actually be useful, as it has been
+proposed that this rippling effect can be
+used to generate electricity by harnessing
+background energy by simply placing the conductive
+graphene sheet between an anode and a cathode,
+though using it for this is a long way off
+if possible at all.
+This two dimensionality also gives it the
+largest surface area possible, for the same
+reason a couple hundreds sheets of paper laid
+out next to each other have more surface than
+a book made of those sheets bound together.
+This is extremely useful for storage applications,
+particularly energy storage, and why graphene
+has been a major part of research into batteries
+and supercapacitors.
+Pristine graphene is extremely difficult to
+make, and is typically done by chemical vapor
+deposition of carbon atoms onto a copper sheet,
+which stabilizes the lattice.
+However, making variations of graphene like
+functionalized or reduced graphene oxide is
+typically done by chemically exfoliating graphite
+with sulfuric acid, and this process is widely
+used to make graphene oxide sheets for supercapacitors
+and batteries.
+This graphene has defects and functional carbon
+groups, which keeps it from being “True”
+graphene, but also makes it harder for it
+to agglomerate, easy to suspend in solution,
+and with treatment it can be porous which
+facilitates electron and ion transport through
+the sheets.
+These types of graphenes have been used to
+make supercapacitors with capacitances of
+more than a hundred times current industrial
+capacitors, with much faster charge and discharge
+capabilities, creating a supercapacitor that
+can be charged quickly and also discharged
+quickly for applications that require bursts
+of power.
+Adding Graphene to Lithium Ion batteries,
+or replacing the anodes themselves, increases
+their storage density by about two to three
+times.
+In fact Tesla has just revealed that their
+newest batteries are now using Graphene.
+Because Graphene is one of the most elastic
+materials known to man, able to stretch up
+to an additional 33% of its length and snap
+back, a lot of research has been directed
+to creating flexible batteries and capacitors
+for portable electronics, as well as flexible
+electronic glass for display screens.
+There are other applications, some mundane
+and some exotic, that revolve around what’s
+known as the “magic angle” that occurs
+between misaligned graphene sheets.
+When graphene sheets are misaligned in very
+specific ways, they can exhibit properties
+including semiconductivity, superconductivity,
+and photoconductivity.
+This means that among other things, graphene
+can make a solar panel that isn’t constrained
+by the Shockley-Quessier limit of roughly
+30% on its efficiency, or a semiconductor
+with no band gap or even a PN junction, the
+interface in semiconductor materials that
+allows one-way flow of electrons.
+We’ve known for a long time that many “high
+temperature” superconductors - that is,
+superconductors operating between about -40
+and -195 degrees celsius, tend to have flat
+tail-like structures on their molecules which
+align into planes when supercooled, which
+allows the electrons to superconduct across
+them.
+This has made inherently 2D materials like
+Graphene a major area of research as a result,
+which has yielded some significant breakthroughs,
+and Graphene or another 2D material is rather
+likely to end up being the first room temperature
+superconductor.
+Obviously, this brings us to looking at Graphene’s
+impact - and also what’s delaying that.
+There’s probably three major areas Graphene
+is going to fundamentally transform: computing
+and electronics, energy and energy storage,
+and structural engineering.
+In the world of computing, a two dimensional
+semiconductor which doesn’t have n-p junctions
+avoids a lot of the issues with trying to
+make semiconductors smaller, reducing the
+impact of many problems with trying to make
+N-P semiconductors smaller, such as electron
+tunnelling, that’s a bit technical so we’ll
+save anymore discussion of it for another
+day.
+But its far higher charge carrying capacity
+makes it a lot faster than silicon semiconductors
+too.
+In fact it’s estimated graphene will increase
+computing speeds by a factor of a thousand.
+Ultra-fast graphene computers will make all
+our personal devices much faster, but also
+opens up a lot of new areas - particularly
+in implanted medical electronics.
+Graphene is highly flexible, lightweight,
+and mostly bio-compatible so it can be used
+to create implants that fix problems like
+heartbeat arrhythmia, or used as a deployment
+agent for cancer drugs, or even be placed
+directly on the brain.
+It can also serve as a platform for nanomachines,
+although that’s a bit further out technologically.
+But your body could one day become an entire
+suite of graphene devices for things ranging
+from just monitoring physical activity, to
+self-repair and life-extension.
+See our episode on that topic for more.
+Obviously, superconducting and its incredible
+storage properties make graphene a major enabler
+for the energy revolution.
+3-D printing graphene supercapacitors and
+batteries is extremely recent research, only
+about two or three years old, and is already
+offering capacitances an order of magnitude
+better than current graphene-based energy
+storage devices.
+Graphene supercapacitors would be perfect
+for applications like smoothing out the energy
+beaming of an orbital solar array, where microwaves
+are being sent in pulses to a rectenna, making
+it more efficient and less impactful than
+a continuous transmission.
+See our episode on Power Satellites for more
+on that.
+Lithium Ion batteries, or sulfide batteries
+stabilized with graphene, offer energy storage
+capacity three times what it is today,.
+They’re also more environmentally friendly.
+And Graphene based solar panels with efficiencies
+far higher than the current 24% of silicon
+photovoltaics would make the renewable energy
+revolution far cheaper, faster, and less environmentally
+impactful as well.
+They may well beat out the much-talked about
+perovskite panels in short order.
+See our episode on Mitigating Climate Change
+for more about near-future solar energy options.
+One of the most talked about applications
+is in structural engineering.
+As we already mentioned, this can’t be as
+direct as some people like, but the use of
+graphene or carbon nanotubes, which are technically
+just rolled up sheets of graphene, in structural
+applications will open a lot of new avenues
+due to not only their light weight and high
+tensile strength, but also the fact they can
+make materials that aren’t electrically
+or thermally conductive, conductive.
+For example, for decades scientists have been
+looking for a good thermally conductive alloy
+of titanium, and the process known as covetics
+enables that, as we mentioned earlier.
+But if we can develop materials that take
+advantage of most of Graphene’s tensile
+strength, it makes a lot of the megastructures
+we talk about on this channel feasible.
+And again we’ll look at such titanic structures
+next week.
+There’s plenty of other suggestions too:
+filtration is a big one, and graphene membranes
+for hydrogen electrodes will be a big part
+of revolutionizing that technology, allowing
+us to carefully control what goes through
+a membrane and what does not, even very small
+things compared to what most filters can handle,
+like hydrogen.
+In fact it’s great for anything having to
+do with Hydrogen, since it’s the only material
+hydrogen can’t permeate, though can be made
+to selectively allow hydrogen to permeate,
+which could be quite handy in other applications
+too.
+Hydrogen also isn’t just hard to store from
+being smaller than the gaps in materials we
+put it in it, so it can leak through, but
+also can be very damaging to those materials
+as it can get absorbed by them and cause hydrogen
+embrittlement.
+A thin protective layer of graphene between
+the hydrogen and the main material can prevent
+that.
+So protecting materials from hydrogen embrittlement
+will be a major application of Graphene in
+the future.
+For that reason it could also prove useful
+for hydrogen or deuterium Fusion energy, another
+much loved topic on the show.
+In fact it’s already been researched for
+use in traditional nuclear energy as well,
+as it could be used to directly capture and
+convert the energy of moving decay particles.
+It’s also been shown to slow the embrittlement
+of materials from alpha and beta decay particles,
+and possibly neutrons as well.
+And of course it possible warm or room-temperature
+superconducting properties might be very handy
+for fusion too.
+So for a material with applications literally
+everywhere in society, what’s holding it
+back?
+There’s a few big reasons: the first is
+that it’s still mostly in the R&D phase
+of technological readiness.
+There’s a lot we don’t know about graphene,
+particularly in how it interacts with the
+body, as we don’t want it to turn out to
+be the next asbestos.
+Graphene sheets are the sharpest objects in
+the world, and can cut cells open, or wrap
+around and suffocate them.
+We know certain proteins can break down graphene
+in the body, and that it doesn’t seem to
+be carcinogenic, but a lot more research in
+this area is needed.
+There’s also questions about how it interacts
+with the environment and food chains.
+Again, we don’t want this to end up like
+DDT, where it may be relatively non-toxic
+on Humans, but it turns out it decimates bird
+populations.
+The Graphene Flagship project in Europe, which
+is a more than 2 billion dollar initiative
+to commercialize the material, is spearheading
+a lot of this research.
+Another big issue is simply proprietary rights.
+A lot of the graphene technologies are gobbled
+up by a handful of conglomerates, so advances
+end up being stuck in a long intellectual
+property battle before they can get to market.
+This is why the graphene technologies that
+are being commercialized now are based on
+experiments that were conducted in 2009 or
+2010.
+The massive advances we’ve made since then,
+like 3-D printed graphene aerogels or flexible
+supercapacitors, may not be seen until the
+late 2020’s.
+Also, Graphene is still hard to make, and
+expensive.
+A pristine graphene sheet of 4 square inches
+will run about 50 dollars a square inch, on
+the cheap side of things.
+That doesn’t seem like a lot, but now consider
+that graphene is a one atom thick, and applications
+will use dozens, hundreds, or thousands of
+layers of graphene.
+Suddenly the graphene anode for your battery
+becomes as expensive as the rest of the electric
+car you want to put it in, or the composite
+for your support beam is as expensive as a
+whole skyscraper.
+There are cheaper methods, if you’re not
+using pristine graphene, but materials like
+graphene oxide have to be sourced from very
+high purity graphite, as even the slightest
+silicon contamination has massive impacts
+on their efficiency.
+Cheap, low quality graphene is already seeing
+widespread uses - it’s being composited
+in everything from tennis rackets to bicycle
+frames by some companies if you’re willing
+to spend a lot of money.
+And higher quality stuff is being used in
+some supercapacitors, batteries, or filters,
+but they’re not exactly economically competitive
+at this time.
+And if we can make a lithium ion battery more
+efficient and cheaper without graphene, then
+its use may be delayed even further.
+Graphene indeed may not be the best material
+for every job, but it will revolutionize the
+future, and we can definitely expect to be
+seeing a lot more about it soon.
+We couldn’t cover everything in this episode,
+but Graphene-Info.com is a great resource
+to learn more about this revolutionary material,
+and keep track of news about it from the industry.
+As to its best known feature, it’s very
+high-tensile strength, we’ll be looking
+at that more next week as we contemplate building
+Continent Sized Rotating Space Habitats.
+So we’ve got some announcements and the
+schedule to get to, but before that…
+A lot of folks have suddenly found themselves
+working from home at their regular job or
+trying their hand at a new business or creative
+venture and since I mostly work at home I’ve
+gotten asked by various friends trying this
+out how I manage to get anything done and
+stay productive.
+The tricky thing is that there is no one-size-fits-all
+approach to staying productive, at home or
+elsewhere.
+How to avoid distractions, how to schedule
+out what you’re doing and so on tends to
+vary from person to person and it's not the
+sort of thing you learn in school.
+You need to tailor to your own habits, strengths,
+style, and circumstance and constantly work
+on improving it, but you don’t have to re-invent
+the wheel either, you can borrow and adapt
+other folks’ patterns till you find what
+works for you.
+What let’s you get stuff done while feeling
+relaxed and in control, and if you can do
+that you’ll soon find you get more stuff
+done, and done better, and in less time with
+way less stress.
+If you’re looking to find some top-notch
+advice on enhancing your productivity, there’s
+a ton of great classes for it over on Skillshare,
+and I’d particularly recommend Greg McKeown’s
+class “Simple Productivity”.
+Perhaps you’re trying to adjust to working
+in a new environment or just looking to pick
+up some new skill or hobby, Skillshare has
+a course for it, whether you’re a beginner,
+a pro, a dabler, or a master, Skillshare has
+thousands of classes on a wide variety of
+topics from experts to help you learn.
+Skillshare is an online learning community
+for creatives, where millions come together
+to take the next step in their creative journey,
+and Members get unlimited access to thousands
+of inspiring classes, with hands-on projects
+and feedback from a community of millions.
+If you’d like to give it a try the first
+1000 of my subscribers to click the link in
+the description will get a 2 month free trial
+of Premium Membership so you can explore your
+creativity.
+Act now, and start learning, today.
+Before we get to the upcoming schedule of
+episodes, I wanted to take a quick moment
+to thank one of our long time script editors
+here, Evan Schultheis, who is a Graphene Researcher
+and contributed so much to the writing of
+this episode.
+He’s also a historian and author of the
+book “The Battle of the Catalaunian Fields,
+AD 451” and I’ll leave a link to that
+in the episode description for all you history
+buffs.
+I get to work with a lot of talented folks
+on this show who volunteer their time to help
+make this show great and they rarely get the
+credit they deserve, which as a reminder is
+in the show’s credit roll at the end of
+every episode, after our episode schedule
+and announcements.
+Speaking of that schedule, as mentioned next
+week we’ll be taking a look at some of the
+megastructures we might be able to build with
+help of Graphene, in Continent Sized Rotating
+Space Habitats.
+But before that we’ll be having our monthly
+Livestream Q&A, Sunday June 28, at 4pm Eastern
+Time.
+Join us live then to get all your questions
+answered.
+And then in two weeks will be taking a look
+at what it might be like to be living as a
+Brain in Jar… and how you could tell if
+maybe you already are one.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+which is linked in the episode description
+below, along with all of our various social
+media forums where you can get updates and
+chat with others about the concepts in the
+episodes and many other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

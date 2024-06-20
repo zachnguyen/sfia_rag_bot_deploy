@@ -1,0 +1,754 @@
+Orbital Rings represent ones of the best ways
+to get people off a planet, they also happen
+to be handy if you want to build a planet
+too.
+So today’s topic, Orbital Rings, is the
+culmination of this series, especially the
+concepts we have discussed in the last two
+episodes, Launch Loops and Space Towers.
+You don’t have to have seen those first,
+but I spent more time explaining the basic
+concept of Active Support in those.
+The Orbital Ring has so many applications
+I didn’t want to spend much time repeating
+the basic physical concepts in favor of exploring
+those.
+I’ve talked in passing about the Orbital
+Ring before, indeed we covered it briefly
+in one of the oldest episodes on the channel,
+and I regret being brief there because we
+bypassed so many of the uses these things
+have.
+This series has been mainly focused on getting
+into space cheaper and safer, and we have
+discussed some systems that are so much cheaper
+that they can be used to get more people up
+into space at prices that make it affordable
+for an average person to take a vacation up
+in space.
+The Orbital Ring goes far beyond permitting
+more scientific research or expensive vacations
+though, it is a system that genuinely allows
+people to commute to space for work in the
+morning and still come home for dinner, and
+spend no more for a ticket to orbit than you
+would for a train or plane ticket to a neighboring
+city.
+We’ve discussed the concept of active
+support and dynamic structures before, and
+in a good deal of detail in the last couple
+episodes of this series, so I will keep the
+review this time brief.
+Normally materials provide passive support,
+the forces which bind molecules together or
+keep them apart keep a material from ripping
+apart under tension or smashing together under
+compression.
+Some materials are stronger than others.
+It’s very easy to rip apart tissue paper,
+and far harder to tear apart Kevlar.
+But even super-materials like carbon nanotubes
+and graphene have their limits, and we have
+yet to mass produce them.
+We have an alternative way to hold
+stuff up though, we can push on it.
+That’s what keeps a sheet of paper hovering
+over an air vent or a helicopter hovering
+in the air.
+In the last episode we looked at keeping things
+in place by bouncing materials upward inside
+them, allowing super tall structures, but
+the Orbital Ring uses a different method more
+akin to that which we saw in the Lofstrom
+Loop, but still a bit different.
+When I place something into a stable circular
+orbit, it has a speed based on the mass of
+the object it is orbiting and the distance
+it is orbiting at.
+That’s around 8 kilometers, or 5 miles per
+second for the area of space just above our
+atmosphere.
+It actually drops as you get further away,
+just 3 kilometers a second when you get out
+to geostationary distances, slow enough that
+you orbit at the same speed the Earth turns
+on its axis, so that you stay above the same
+point.
+Further out, at the Moon, the speed is about
+1 kilometer per second, and drops the further
+you go until you are no longer bound to Earth
+gravitationally.
+We haven’t been much interested in this
+series with space beyond Low Orbit, let alone
+beyond Geostationary, but we are today, so
+keep that in mind.
+It’s the speed that matters, not
+the angle, you can orbit Earth around the
+equator or from pole to pole at the same speed.
+But each orbital path is a unique thing and
+any object on that same path, with that same
+speed, won’t seem to move relative to anything
+else on that path.
+Which means if I’m in orbit of earth in
+a space suit, and let go of a flashlight I
+was holding onto, it will seem to just sit
+there next to me, unless I gave it a little
+shove in which case it would drift away.
+So I could put several objects in that same
+orbital path and they’d sit there together
+unmoving, relative to each other, they’d
+still be zipping around the Earth at high
+speed, but then so are you and everything
+in your home, zipping around the planet, and
+on the planet around the Sun and around the
+Galactic Core too.
+Everything is moving but it is a relative
+motion.
+If I were standing on one of those objects
+I could lay a bridge down to the next and
+walk over just fine, though since we are in
+freefall, I’d basically float not walk.
+I could extend this all the way around the
+orbital path as a big ring.
+This orbiting ring would travel around
+just fine, but isn’t much use to us as is.
+On that same note, if I had a perfectly rigid
+material, I could construct a ring out of
+it around the Earth and it would just hang
+there, even without orbiting, because all
+the gravity on it would cancel out.
+This would be quite useful since it would
+be stationary to the ground, if unstable.
+Also we have no perfectly rigid material so
+it would sag down to the planet.
+The one orbiting would not, since it
+experiences no gravity, or rather its inertia
+or centrifugal force cancels that gravity
+out.
+It’s also technically unstable, but we can
+fix that and in a way that makes it more useful
+too, we’ll get to that shortly.
+So far so good though, I could make
+a nice metal hoop around the planet, and if
+it were spinning at orbital velocity it would
+stay in place.
+Now imagine for the moment we stuck
+a bunch of magnets on this metal hoop, actually,
+since it is a big piece of metal we probably
+wouldn’t need to put any magnets in it,
+just run an electric current through it, but
+let’s keep it conceptually simple for now.
+The ring has a bunch of magnets on it.
+Now I build a big space tower next to it like
+the ones we discussed last episode, and I
+reach out and put a magnet over some spot
+on the spinning hoop.
+The hoop is spinning around very fast, whereas
+I am stationary to the Earth, so if I touched
+it that hoop would slice through me like a
+circular saw.
+But it won’t be touching that magnet, the
+magnets on the hoop will push back against
+it.
+That’s not terribly stable, but if I took
+a bracelet with magnets on it and opened it
+up and clapped it around the orbiting ring,
+it would just hover there.
+If I put some more on they’d hover there
+too, and I could put some platform there and
+stand on it.
+This would be different than before though,
+because before all those objects were in orbit
+too, these are just hanging right over the
+Earth, the ring is orbiting but they aren’t.
+So when I stand on my platform I feel gravity,
+almost as much as on Earth.
+I could take this bracelet and extend
+it around the ring to make a second ring around
+my orbiting ring and it would not be moving
+relative to Earth, I could walk around the
+entire thing just like I was on the Earth
+only high up, no air and gravity is a bit
+weaker.
+I could even build an airtight house up there.
+As I added weight though, I’d notice
+the orbiting ring was beginning to sag a bit.
+See, that ring has just enough momentum to
+stay in place, in orbit, on its own.
+Now I’m adding mass that isn’t moving,
+has no momentum, and the system, the orbiting
+part plus the stationary part, needs to have
+enough momentum to stay in orbit.
+I could go ahead and get my stationary parts
+up to orbital speed, fixing the problem, but
+that kind of defeats the purpose.
+Instead I can add more momentum to the ring,
+speed it up a bit beyond normal orbital velocity.
+Now the whole system has just the right momentum
+to stay in orbit, even though the orbiting
+ring has a bit too much and the stationary
+part not enough.
+This is the basic concept, I take a
+hoop of metal, a millimeter thick or kilometer
+thick, and spin it around the planet at orbital
+speed.
+If I run some current through it to make it
+a magnet, or am using a ferromagnetic material
+like iron or nickel, I can now float things
+over it, by spinning the ring a little faster.
+The circumference of Earth is just over 40
+million meters, so if I made such a hoop out
+of standard thin wire, say 25 grams a meter,
+that hoop would weigh a million kilograms.
+Way too much for a single rocket to lift up,
+but you can bring it up in segments and solder
+it together, it’s just wire.
+Indeed we can fly up next to it and add more
+wire, more strands, since if we’re in orbit
+it just seems to be hanging there, so we can
+add to it as we want.
+We can also spin it faster to let us add more
+weight suspended above or around it.
+Now a spinning ring that we start spinning
+faster than orbital speed is going to have
+more centrifugal force added to it, and if
+we get enough of that it will rip the ring
+apart.
+But for the moment, we can have a spinning
+ring inside a stationary pipe that’s magnetically
+kept afloat from touching it.
+That ring is over 40,000 kilometers long,
+the rough circumference of the Earth, (a space
+elevator is about the same length) and unlike
+a space elevator this is just wire—plain,
+regular old wire.
+Nothing special about it.
+Nothing special about the conduit around it
+either, except that it's got magnets on it
+and we can make those electromagnets so that
+we can run power through them and use that
+to speed the ring inside up or slow it down
+if we need to add or subtract weight from
+the whole thing.
+We can hang some solar panels off to the side,
+attached to the conduit, to provide the power
+for that.
+We now have a solid ring in space, not seeming
+to move relative to the ground below, with
+a power source that can let us add weight
+to it.
+Now the outside isn’t moving relative to
+the surface of the earth, so we could have
+this at pretty much any altitude we wanted,
+one of these would work just over the ground,
+but we will say it’s about 80 kilometers
+up, same as the Lofstrom Loop.
+We could drop a rope down from there and someone
+could climb up from the ground.
+Now a regular rope couldn’t handle that
+and no one could climb that, but we have plenty
+of fairly mundane substances that do have
+a breaking limit of more than 80 kilometers.
+We’re not sure if stuff like graphene can
+handle going up tens of thousands of kilometers,
+but we’ve got plenty that can handles tens
+or hundreds of kilometers.
+This includes those that can handle having
+current run through them, or are strong enough
+to let us bolt some wire to them at least.
+So we drop a cable down to Earth with a wire
+in it, and some elevator with an electric
+motor grabs that cable and its power cord
+and uses that to pull itself up to the ring.
+Power can be supplied by some other solar
+panels up on the ring, or down on the planet.
+Even without superconductors, we can run an
+electric cable 80 kilometers without losing
+too much power.
+Which conveniently means we can run power
+from all those solar panels on the ring, where
+there are no cloudy days, down to Earth too.
+But never mind that for now.
+This is the basic Orbital Ring.
+It can be scaled up, you can make thicker
+rings or add more rings right next to it though
+in practice you’d want to have every other
+one spinning backwards, in retrograde orbit.
+They wobble too, so rather than running cables
+straight down, you’d often want to angle
+them, like guy wires, but that’s better
+than okay, because they don’t all have to
+run out at the same angles so you could have
+wires stretching a few hundred kilometers
+off to connect straight to cities, and those
+can be quite solid wires you could run cable
+cars up, or scaled up enough, entire trains.
+They can just move at normal speeds too, like
+any train or tram, not causing sonic booms
+or threatening to blow up cities if they fall
+off.
+You could build wide platforms up there with
+domes and people could walk around them just
+like on Earth, since there is gravity.
+You could hang structures from them too, like
+the Analemma Tower, now suspended from a cable
+only 80 kilometers long, not tens of thousands.
+Indeed, so long as you keep a vacuum in that
+conduit, you could hang the ring just over
+mountain height.
+You could put massive solar farms, or regular
+farms, up there and bring that power or food
+down to Earth.
+You can bring all the mass you want up from
+Earth for no more cost than the production
+and maintenance costs of the cable car and
+solar panels powering it.
+Nor does that inner spinning element need
+to necessarily be a wire under lots of strain
+if you spin it up too fast, you could use
+big particle accelerators.
+But this brings up another important point,
+what you do once up there?
+Truth be told, you don’t need any other
+applications.
+An Orbital Ring of this type lets you zip
+around the planet and up to orbital heights
+and down to other spots quite cheaply, but
+you are just at orbital height, not orbital
+speeds.
+Step off the ring and you will fall down.
+Though you will just fall down, not ‘re-enter’,
+so if you have a pressure suit, oxygen mask,
+and a parachute, you could survive.
+I imagine ring-diving would be a popular sport.
+Why are these good for space though?
+Recall that when we discussed mass drivers
+I said the track needed to be mostly straight
+because at orbital speeds your turning radius
+is huge, unless you want to be pancaked by
+centrifugal force when you turn.
+Mass Drivers and Lofstrom Loops had to be
+thousands of kilometers long just to allow
+3 gee acceleration to normal orbital speed,
+they need to be much longer if you only want
+to do one-gee, normal Earth gravity.
+But an orbital ring offers us a couple of
+unique advantages.
+First off, it goes around the entire planet,
+so that is your turning radius if you are
+trying to build up speed to launch away from
+Earth.
+Totally non-coincidentally, the turning radius
+for an object at that altitude for 1 gee of
+acceleration is exactly orbital speed, that’s
+why you are in free fall when orbiting.
+Now centrifugal turning force acts outward,
+while gravity pulls inward, so a ring around
+the planet has those two forces in opposite
+directions.
+That means if we strap a vehicle to the ring
+and start speeding it up, running around in
+circles, the force of gravity is cancelling
+out that centrifugal force.
+Indeed, if we were pulling two gees of acceleration,
+we could stand on the ceiling of our vehicle,
+or just flip it over, and feel like normal
+gravity, only upside down.
+We could build up to over 11 kilometers a
+second like that, the escape velocity of Earth.
+8 kilometers a second will get you into orbit,
+but it takes 11 to escape out past the moon.
+Those ground based systems like mass drivers
+and launch loops usually aim for 3 gees as
+pretty safe for most people, with gravity
+canceling out 1 of that we could do 4 on the
+ring, and be doing 16 kilometers a second
+when we release the ring, at whatever point
+we want, it is a circular track after all
+so we can do loops, and fly off at 16 km/s,
+a decent speed for interplanetary travel even
+if you don’t have rockets to help, which
+you would since you can bring all the fuel
+you want up to that ring.
+Most of the solar system is reasonably close
+to inline with our own equator, so you are
+fairly close to the right direction north
+or south when you let go of an orbital ring
+around the equator, but these rings don’t
+have to be around the equator, they can be
+at whatever angle.
+You can have another one at a different angle
+just above or below your own and take an elevator
+to it, or to another one even further up.
+So you can take off from Earth even faster
+if you don’t mind doing more gees, and freight
+could handle a lot more than passengers, and
+you can also take off from a ring further
+up.
+As you get further from Earth, you lose a
+bit of that gravity advantage canceling things
+out, but you gain more turning radius and
+you are further up in the gravity well and
+won’t lose as much speed leaving it.
+You can build as many rings as you please
+at any angle or height you want, and so long
+as the space between two rings isn’t so
+high that a cable between them would need
+to be super-strong, you just take the elevator
+to the next ring up.
+Out at geostationary, 42,000 kilometers from
+the center of Earth, there’s not much gravity
+left, but 1 gee of acceleration will get you
+20 kilometers per second of speed, and 4 gees
+would get you 40 kilometers a second, that’s
+the escape velocity from the solar system,
+and that is 3.5 million kilometers a day,
+not a bad interplanetary speed even if you
+are only using fuel to slow down.
+This doesn’t include the Earth’s own orbital
+speed around the Sun either, of about 30 kilometers
+a second, which is quite a nice boost since
+everything further from the Sun is moving
+slower.
+You don’t have to stop there either, you
+could build these rings all the way out to
+the moon and beyond, and you could fly off
+from those at 60 or 120 kilometers a second,
+for 1 and 4 gee respectively, having never
+burned a drop of fuel, sailing out at 14 million
+kilometers a day, a speed that will get you
+to Mars at its average distance from us in
+10 days.
+You can slow down with these too, in the same
+way.
+You’re not touching the ring when speeding
+up, you are using electromagnetic propulsion
+to avoid friction, and you don’t need to
+touch it to slow down either.
+Indeed, you could just have something running
+around on the ring at that speed shoot a tether
+out to harpoon an incoming ship and slow it
+and you down the same way you sped up, so
+long as the tether is decently strong.
+The exterior shell of a ring doesn’t have
+to be stationary either.
+You could forego the sheath or even have the
+sheath spin and the inner wire staying stationary.
+A ring like that right next to a stationary
+ring might have some advantages for moving
+ships, too; you match speeds with your train
+and jump on over.
+Those cables in the atmosphere connecting
+the ring, or the bottom ring, to the Earth,
+would tend to be pretty numerous since any
+town who could afford one within a couple
+hundred kilometers of a ring would probably
+want one, you really do not have to worry
+about wind or lightning in these things but
+you can just detach them or reel them in during
+bad storms, the rings only need a little a
+force to keep them from wobbling so even a
+few cables is enough and you’d have hundreds
+if not thousands connecting to each ring,
+so reeling some in during storms is no big
+deal.
+I imagine by now you can start seeing why
+I always refer to Orbital Rings like a whole
+different level of space launch technology,
+and we aren’t done with the cool advantages
+yet.
+But so far, we’ve mostly been talking about
+small ones, or just their use alone, or with
+other rings.
+Before we scale up and talk hybrids, let’s
+talk safety and cost.
+As to safety, for the smaller ones, that inner
+ring is spinning faster than orbital speeds
+so if it gets damaged and flies out, probably
+shredding part of the ring in the process,
+it will fly out not down, and those bits which
+don’t will burn up in reentry.
+The stationary part will just fall, but as
+with previous systems we can attach explosive
+charges to break it into smaller bits and
+let parachutes slow those down.
+That option is totally out the window for
+the bigger ones we will get to in a moment,
+but those are much sturdier since they’d
+have tons of rings that supported them, not
+just one.
+As an example of hybrid tech though, while
+we can place another ring right below and
+at an angle to a ring, so that it might fall
+to rest on its neighbor, we can also use the
+Atlas Pillars from last episode to run straight
+up beneath the Ring like normal support pylons.
+Though they need not run up straight either.
+Of course you could bypass the internal spinning
+ring or particles with these, just one big
+suspension bridge running around the planet
+or just part way, or even at angles, but the
+ring is better and the Atlas Pillars just
+allow a nice addition of capacity and safety.
+As to cost, that’s another story.
+Once the first ring is in place you can use
+it to bring all the rest up quite cheaply,
+but that first ring probably needs to be fairly
+sturdy and mass at least several thousand
+tons, so it essentially the same price range
+as bringing up a basic space elevator, same
+concept too, you get a simple small one up
+and use it to bring more mass up.
+More expensive than a space elevator though,
+since those assume super-strong and super-light
+materials, the orbital ring is just copper
+or iron.
+Cheap but expensive to get into space.
+This is one of the reasons mining and industrializing
+the Moon, with its huge quantities of raw
+materials and negligible gravity and atmosphere,
+is very attractive to us.
+It is just as useful, indeed arguably more
+so, even with an Orbital Ring making freight
+costs up from Earth cheaper, but it makes
+it far easier to build that first Orbital
+Ring, especially if you want it to be a decently
+large and handy one.
+I would be a lot more confident bootstrapping
+more rings from a first Orbital Ring a meter
+or more thick massing a couple tons per meter
+of length than a hair thin wire, and at a
+circumference of 40 million meters, such a
+ring would mass in around a hundred megatons.
+More mass than everything we’ve lifted to
+orbit combined, but better to start that way
+and so better to use the earlier and more
+modern systems we’ve discussed to get Moon
+and Asteroids first.
+When colonizing the West Coast, you start
+with the Oregon Trail, not a massive 3 lane
+Interstate Freeway, after all.
+So this is definitely not your next step in
+making space cheap, nothing offers cheaper
+costs per kilogram launched, but it takes
+a lot to set up and its real advantage is
+throughput, not cost per item launched.
+Only the Space Elevator even gets in the ballpark
+with the Orbital Ring on that score, and that
+does require materials we don’t really have.
+The orbital ring on the other hand, while
+quite a feat of engineering in every respect,
+relies only on modern tech, though a power
+source like fusion and access to room temperature
+superconductors make it a lot better.
+You don’t just build one either, you build
+a bunch at different angles around the planet,
+with cables running off to any place that
+wants one.
+The orbital ring network makes a nice launch
+point for interplanetary travel, but it’s
+even more phenomenal for intra-planetary travel,
+you take a cable from your town to orbit,
+at whatever speed local law permits, arriving
+in less than an hour even if it's a wide angle,
+long cable and limited to subsonic speeds,
+and from there race around to your exit ramp
+at hypersonic velocities.
+If those rings are big enough and those cables
+sturdy enough, it's not just passengers traveling
+anywhere on the globe in a couple hours, its
+bulk freight by the megaton doing it too.
+Scaled up, one of these ring networks can
+handle billions of people and billions of
+tons of cargo moving to and from space every
+day.
+And you can really scale these up too.
+That guy wire going to the ring could instead
+be a big highway with a dome tunnel over it
+you could drive your car up.
+Those rings don’t have to be meters wide
+but could be kilometers, and if they are low
+enough in the atmosphere to gain some protection
+from meteors and space trash, which you are
+at 80 kilometers up, you could just dome over
+places and walk around with regular old air,
+sunlight, and gravity.
+You wouldn’t have to stop your car drive
+when you arrived either, or your walk.
+People ask sometimes about being able to connect
+a space elevator straight from the moon to
+Earth, and you can’t even with a super strong
+material because the moon is tidally locked
+to Earth but not the other way around.
+You can do that with Pluto and Charon for
+instance, since they are both locked to each
+other and always show the same face.
+With an Orbital Ring you actually can do this.
+Orbital Rings don’t have to be perfect circles
+for one thing, but that’s not what I mean.
+You’ve got a stationary ring around the
+Earth, just above the atmosphere or way out
+at geostationary or even further.
+One you’re up at geo though, the strength
+of gravity is so low you don’t need strong
+materials for thousand kilometer long tethers
+anymore, so you could easily build one up
+from that ring out to the moon’s orbit.
+We could put a ring there, too; but more importantly
+we could have an elevator come off the Moon
+and stretching all the way to that ring at
+geostationary.
+That ring’s sheath doesn’t need to be
+moving at normal geostationary speed, nor
+does the tether to the moon have to stay fixed.
+You don’t even need fancy magnetic connections
+either.
+The moon only goes 1 kilometer a second, we
+can actually make traditional mechanical connections
+that can handle such things.
+So yes, with an orbital ring network, a big
+one but not a high tech one, you could grab
+a train from your hometown wherever on Earth
+and step out of it on the Moon somewhere.
+I imagine you’d just take a ship from the
+first ring instead, or one of the higher ones
+closer to geostationary, those already offer
+launch speeds fast enough to let you make
+that trip in under a day, the 4 gee shot off
+the geostationary one would get you there
+in three hours, but you could actually ‘walk’
+from Earth to the Moon with this kind of network,
+though you’d need magnetic boots once you
+got far from Earth’s gravity well.
+Though you could also make the connection
+between rings be hollow spinning tubes with
+spin-gravity too.
+You can also scale this up to go between planets,
+a bit silly but possible.
+I remember some years back before I started
+the channel and used to play with more extreme
+forms of megastructures… not the ones we’ve
+covered on the channel, those are all basic
+ones, even the solar system sized ones…
+I tried coming up with a way to walk, swim,
+sail, or fly between planets and orbital rings
+and dynamic structures do actually let you
+do crazy stuff like that.
+More down to Earth, literally, they do let
+you wake up in the morning at home and commute
+to space for work.
+And you can make a lot of living space in
+low orbit too.
+There’s a game setting called Warhammer
+40k, or 40,000, set in the year 40,000.
+Many of you are probably already familiar
+with it and it features Earth, called Terra
+in that, as a galactic capital home to trillions,
+an example of an Ecumenopolis, which we’ve
+discussed before.
+In that there’s something mentioned called
+an ‘orbital plate’, which is described
+as a small continent floating over the planet,
+and they’ve got several.
+No real details are given about them or how
+they hang out there, they do have anti-gravity
+in that series though so probably that, but
+orbital rings let you do stuff like that.
+Indeed, you could stick a bunch of them, all
+wide and at different angles and slightly
+different height, up over a planet to totally
+enclose it, lay down some mesh and some dirt
+and water and air and you’ve got a new planetary
+surface.
+You can do something like that around a gas
+giant like Saturn and produce what is called
+a Supramundane Planet, or Shellworld, you
+could do several concentric shells around
+Earth and produce what we call a Matrioshka
+Shellworld, both of which are discussed in
+the episode Shellworlds from a couple years
+back.
+I was going to say that with Orbital Rings
+the Sky’s the Limit as to what you can do,
+but that’s not really a good saying considering
+the Sky is specifically not the limit with
+them.
+If you’ve got enough power and can use it
+without too much waste heat being produced,
+basically if you’ve got good superconductors
+and fusion, you can build some truly monstrous
+stuff.
+Particularly since the Atlas Pillar variation
+we discussed last time let’s you make straight
+lines not just curves, and orbital rings don’t
+have to be circles, and you can change these
+things dimensions, that’s part of why we
+call them dynamic structures.
+I think by now you can see why I saved Orbital
+Rings for last, and why I’ve spent the whole
+series talking about how much more awesome
+they are than the other concepts for getting
+stuff into space cheaper and safer.
+Now I’m not formally closing out
+the Upward Bound Series, we may revisit it
+more in the future, we’ve got tons of concepts
+we haven’t covered yet and others we could
+cover in more detail that just shared an episode
+with a few other related concepts.
+However, this ends the series for now and
+the main sequence of it.
+We have looked at space elevators and skyhooks
+and mass drivers, we’ve talked about ways
+to improve rockets by making them reusable
+or giving them better power sources like atomic
+ones or metallic hydrogen.
+We’ve looked at thousand kilometer long
+floating launching loops and runways suspended
+from towers so tall they don’t just scrape
+the sky but rise over it.
+Now, finally, we see the orbital ring.
+I don’t know what technologies we will see
+in between modern rocketry and this concept,
+but barring a big game changer like anti-gravity
+or wormholes we can open from planet to planet
+like in Stargate, I think this one is the
+final product of the effort to get people
+off the ground and up to the heavens.
+Even things like cheap compact fusion we could
+make space planes with doesn’t really rival
+this in terms of volume, because those will
+produce so much thrust and heat that you could
+never use millions of them a day on the planet.
+This system doesn’t just get you into space
+cheap, it gets your whole civilization up
+there cheap and lets you truly engage in bulk
+trade and transport, and that’s always been
+the real goal, not to get a few astronauts
+to Mars, but to make it so cheap and easy
+that going to the Moon is like flying to another
+country and going to another planet takes
+as much time and money as an ocean cruise.
+ 
+So that’s the series wrap up on Upward Bound,
+Getting into Space.
+If those giant megastructures like the Shellworlds
+caught your interest, I’d suggest trying
+the Megastructures playlist, though you can
+skip the first three episodes since those
+are just quick overviews of what we covered
+in more detail in this series.
+Those are older episodes, so the graphics
+and audio quality are a lot lower, but the
+meat and potatoes are still there.
+If you’re interested in some of the civilization
+aspects of folks who could build orbital rings,
+try the Advanced Civilizations series, starting
+with Arcologies.
+If you want continue on past leaving this
+planet, try the Life in a Space Colony series.
+For alerts when new episodes come out, make
+sure to subscribe to the channel, and if you
+enjoyed this episode, hit the like button
+and share it with others.
+Until Next Time, Thanks for Watching, and
+Have a Great Week!

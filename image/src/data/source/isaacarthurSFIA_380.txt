@@ -1,0 +1,920 @@
+This episode is brought to you by Brilliant
+Many think fission has gotten a bad rap, but
+modern reactor designs
+and the demand for clean power may redeem
+what was once thought to be an energy panacea.
+So today we’ll be talking about the future
+of Nuclear Fission, and looking at everything
+from new reactor designs to applications in
+space and in other areas like medicine and
+agriculture and even portable devices.
+As quick side note, today marks the 6th anniversary
+of our very first episode, Megastructures
+in Space, and we’ll commemorate that briefly
+at the end of the episode, and it’s appropriate
+for our topic today as power and energy production
+are so vital to our grand dreams for the future,
+and as we’ll see today, fission is likely
+to play an enormous role in taking us into
+that future, especially for the spacecraft
+that will actually take us there.
+The elephant in the room for nuclear power
+is always the concerns about its safety and
+I tend to think a fair amount of that is simply
+from nuclear power and radiation being a bit
+mysterious.
+I don’t want to dwell too much on safety
+concerns or particle physics today but we
+will spend some time on them before getting
+into various reactor designs and future uses
+and we’ll start with the basics of fission
+and fusion.
+In nature, atoms tend to fall into two categories,
+those that were around from the beginning,
+mostly hydrogen and helium, and those made
+by stars.
+However, it’s inaccurate to think most elements
+are made by giant stars exploding.
+Things like gold, platinum, and uranium are
+made when two neutron stars collide, long
+after the two supernovae that made each of
+those neutron stars.
+They are not made by the classic process of
+fusion where lighter elements merge to form
+heavier ones and release a net positive energy.
+Protons and neutrons, called nucleons because
+they’re what appear in atomic nuclei, are
+made up of three quarks but those quarks don’t
+actually have much mass themselves.
+We explained it in greater detail in our episode
+on Antimatter, but most of the mass of nucleons
+are composed of the particles that glue them
+together, the mediating particle of the Strong
+Nuclear Force, aptly named the gluon.
+When you jam or fuse nucleons together with
+some glue, it takes less of it per particle
+the more particles you jam together, until
+you get about 60.
+As you fuse them together, some of those excess
+gluons become available as energy.
+This is nuclear fusion and we discussed it
+in detail in our fusion power episode.
+This peaks out with iron, and Iron-56, it’s
+most common isotope composed of 56 nucleons,
+26 protons and 30 neutrons, and is the atom
+with the lowest binding energy and thus the
+end of profitable fusion processes and also
+why iron is pretty common in the Universe.
+Atomic nuclei more massive than iron start
+taking more energy per particle to jam the
+stuff together, which is why a pair of neutron
+stars, already very jammed together, can collide
+and spew out tons of heavier elements.
+While many elements past iron are called stable,
+meaning they have no known half-life, the
+bigger you get the more glue it takes to cram
+things together and many isotopes have an
+unstable arrangement which will reshuffle
+to a more stable state, often through emitting
+a particle and often going through a number
+of semi-stable states along the way, we call
+this nuclear decay and the period of time
+in which half of a given type of atomic isotope
+will do it, on average, is the half-life.
+Think of it as akin to a heap of material
+where something occasionally shifts or breaks
+and it settles into a more stable heap, emitting
+a loud noise - in this case a particle of
+radiation.
+Fission includes both nuclear reactions and
+technically passive radioactive decay but
+usually just means splitting atoms not atomic
+decay and we’ve discussed the value of rapidly
+decaying elements as power sources in our
+episode Portable Power, and various isotopes
+with quick decay times hold the potential
+to be awesome mobile power sources and safe
+ones too.
+It’s their scarcity rather than their radioactivity
+that is the problem with using them in common
+devices like telephones and laptops.
+We will discuss how to create those elements
+today though.
+Fission by nuclear reaction, which we will
+just call fission for the rest of the episode,
+usually involves smacking an atomic nucleus
+with something to split it up.
+In the case of Uranium-235, if a slow-moving
+neutron, only moving a couple kilometers per
+second, happens by it will break that Uranium-235
+into Barium-141 and Krypton-92, 92+141 is
+233, and the Uranium-235 plus that neutron
+was 236 nucleons, so you also get 3 extra
+neutrons, each wandering off on its own way.
+Only the neutrons are moving quite fast in
+this case, typically a few percent of light
+speed.
+If we slow them down a lot, from about 20,000
+kilometers per second to just 2 kilometers
+per second, then they’d be moving slow enough
+that if they ran into another Uranium-235
+nucleus they’d cause it to break and spit
+out 3 more neutrons--which can them break
+other nuclei.
+This is a fissile chain reaction, and can
+actually happen in nature but not so much
+nowadays because there isn’t much Uranium-235
+left.
+The event that made the uranium here on Earth,
+the collision of 2 neutron stars, presumably
+produced about the same amount of the various
+isotopes of any given element.
+Uranium has 6 isotopes, 232, 233, 234, 235,
+236, and 238.
+238 has the longest half-life, 4.5 billion
+years, so about half of whatever was on Earth
+when the planet formed is still around, while
+the next longest-lived, 235, with a 700 million
+year half-life is down to only about 0.72%
+of what is found in nature, and Uranium-234,
+half-life a quarter of a million years, is
+only 0.005%.
+Which can be a little misleading too, 0.005%
+might not sound like much but it’s way more
+than you’d have left from 4.5 billion years
+of decay with a quarter million year half-life,
+that’s 18,000 half-lives, and you'd only
+have 1 in 2^18,000 of the original particles
+left.
+After even just 100 half-lives your odds of
+finding a single particle of a substance left
+undecayed in a handful sized-sample are about
+your odds of winning the lottery and there
+are not enough particles of anything in the
+entire Universe that you’d expect to find
+even one undecayed particle of it 18,000 half-lives
+later even if every atom in the Universe were
+originally made of it.
+Rather, when Uranium-238 decays, which is
+pretty rare with a half-life as old as our
+planet, it decays into Thorium-234, emitting
+what’s called an alpha particle, two protons
+and two neutrons, which is basically a helium
+ion without an electron shell.
+Thorium-234 has a very short half-life, just
+24.1 days, and it beta-decays, beta radiation
+being when a nucleus emits an electron or
+its antimatter twin, the positron.
+The Thorium-234 then turns into Protactinium-234,
+same thing but one more proton and one less
+neutron, and it spits out an electron.
+This is even more unstable and will beta decay
+again, spitting out another electron as it
+gains a proton and loses a neutron, and becomes
+Uranium-234.
+For every Uranium-238 atom on Earth now, there’s
+about an equal number of them that decayed
+down this chain into Uranium-234, but since
+Uranium-234 is only about an 18,000th as long-lived
+as Uranium-238, only about an 18,000th of
+natural Uranium is 234.
+234 decays into Thorium-230 incidentally,
+and all Isotopes of Uranium, no matter how
+long lived, decay via alpha particle emission
+to a thorium isotope with 4 fewer nucleons,
+and an atomic mass that is lower by approximately
+4.
+It’s just in Uranium-238’s case it does
+it twice, dropping to Thorium-234 then eventually
+down to Thorium-230 after a rest atop as Uranium-234.
+This episode, again, is not about passive
+decay, but finding short lived isotopes in
+quantities on Earth after hundreds or thousands
+of half-lives indicates there’s a natural
+process making them not requiring neutron
+stars to collide, which can be a big clue
+for making them in the lab and fairly efficiently.
+We often do this with a breeder reactor, and
+it’s how we make plutonium, by letting Uranium-238
+absorb a neutron and emit two electrons and
+thus turn into Plutonium-239.
+It’s easier for Uranium-238 to absorb fast
+neutrons than for Uranium-235 to absorb them,
+and there’s a lot more Uranium-238 in a
+natural sample.
+So to create a good sustaining fission reaction,
+where at least one of the three neutrons spat
+out by Uranium-235 during fission gets absorbed
+by another U-235 atom to sustain the process,
+we need to either cut down on the Uranium-238
+in our sample or slow those neutrons down
+more, so they interact more easily with the
+U-235, or in practice both.
+Uranium enrichment, separating natural Uranium
+into its isotopes, typically produces enriched
+uranium and depleted uranium, the latter having
+half or more of its U-235 removed and leaving
+it at a higher concentration of U-238.
+Enriched Uranium has more U-235 in it, low-enriched
+would be anything under 20% U-235, which is
+still up a lot from .72% found in nature,
+while weapons grade is usually 85% or higher.
+Most reactor designs today use low enriched
+uranium or even unenriched uranium in the
+case of the CANDU reactor, but many advanced
+designs are based around a middle ground called
+“High Assay Low Enriched Uranium,” which
+is about 20% U-235.
+Slowing neutrons is the job of what we call
+the moderator, and the two most popular kinds
+are water and graphite, though many things
+can slow a neutron.
+You don’t want it to absorb the neutrons
+though, just slow them down, and water will
+often absorb them whereas heavy-water, water
+where the hydrogen in the H2O is actually
+deuterium, a proton and a neutron instead
+of just a proton, is better about not absorbing
+neutrons.
+So your basic nuclear reactor, using uranium,
+has enriched uranium clumps, be it rods or
+pebbles, separated by some moderator, and
+as some neutrons come out from a fission event
+they meander through that moderator, slowing
+down, till they reach another clump of uranium
+and cause a fission event.
+If you set your moderator just right you’ll
+get a 1:1 ratio, a stable fission event that
+just keeps going until you run out of fuel.
+Or rather get lower on it so less fission
+events are happening.
+This is not a naturally stable process, going
+exactly 1:1 like that, and you can tweak the
+reaction rate by playing with the moderator’s
+density – regular water with no deuterium,
+called light water in this context, acts as
+a slightly worse moderator when it’s temperature
+raises so helps keep the reaction stable.
+We also have control rods, which are materials
+that just absorb neutrons well and can be
+lowered down between the chunks of uranium
+to suppress the reaction.
+When all goes well you can keep the reaction
+at 1:1, and throttle the actual rate up or
+down to produce more or less power.
+Power production itself is pretty mundane,
+all those fission fragments and neutrons have
+a ton of kinetic energy – again they’re
+moving at a few percent of light speed when
+they leave the original atom that underwent
+fission and that kinetic energy smacking around
+the core produces a lot of heat.
+For water as a moderator we usually just use
+it as a coolant too, though some reactors
+will use gases or liquid metal or molten salt
+for cooling.
+Regardless of whether the coolant and moderator
+are the same thing or not, the coolant is
+what drives power production.
+We generally like to run the reactor as hot
+as is safe without melting stuff, because
+you get better power production efficiency
+when dropping from a higher temperature to
+a lower one.
+This all runs through the cooling towers of
+the plant, though the massive steam and clouds
+coming off the cooling towers is not stuff
+that was running through the core but rather
+on the other side of a closed loop, cooling
+off the coolant as it were.
+That’s the standard nuclear reactor most
+of us know, and most of them are light-water
+reactors, again that’s regular water, though
+heavy water isn’t super-rare.
+Pebble Bed reactors use graphite as a moderator
+– as did the first reactors, the old atomic
+piles which was also what we called reactors
+back in the day, and instead of rods of uranium
+in a moderator of water it’s pebbles of
+the fuel inside graphite and we dump a bunch
+of them into the bed which we use gas to cool.
+These can run hotter and don’t meltdown,
+which is basically when the control rods get
+stuck and can’t lower to quench the reaction,
+though they have their own limitations and
+modern reactor designs have many newer features
+than classic reactors to help against meltdowns.
+One example is having the controls rods constantly
+being shoved down by a spring and pushed up
+by an electric motor so that if anything happens
+to the motor, or the power supply in it, or
+you hit the off switch, it just drops the
+control rods.
+I don’t want to pound the safety angle too
+much, nuclear power is dangerous - though
+it has the fewest deaths and injuries per
+unit of power generation of any of our power
+generation methods and we get better at the
+safety angle everyday.
+Indeed much of the danger is from us using
+older reactors still rather than building
+the new ones.
+Still, it’s got the best safety record of
+any form of power generation we’ve got,
+but all technology is dangerous and power
+generation of any type can be weaponized.
+The Kzinti Lesson, that a spaceship’s drive
+can be used as a weapon, popularized by writer
+Larry Niven and sometimes called John’s
+Law from John W. Campbell’s earlier version,
+reminds of us of this, or as we say on this
+show, there is no such thing as an unarmed
+spaceship.
+So too, there is no such thing as un-weaponizable
+power generation.
+Power is power, you can use it to blow stuff
+up, even if just by running a munitions factory,
+to say nothing of powering an electromagnetic
+rail gun.
+Whether or not nuclear fission will ever be
+our main source of power production depends
+a lot on how the economics work out – which
+are heavily controlled by regulations for
+good or ill – and how others technologies
+develop, like solar power and batteries for
+instance.
+Nuclear power also is one of our best options
+for space travel between planets, and we discuss
+using it for running spaceships in our episode
+“The Nuclear Option”.
+However, if we do go the fission route we
+have an effectively limitless supply of fuel
+for it.
+I’ve heard folks say we have this or that
+many numbers of centuries of fissile fuel
+left but that’s a careless figure, Uranium
+is disgustingly common, most is in the planet’s
+core but it’s about 2 parts per million
+in our crust and you’ve got bunch in your
+backyard and eat a couple micrograms every
+day.
+And given that it produces a million times
+more energy than chemical sources it is worth
+centrifuging out if you need it.
+Those stockpiles have to do with known supplies
+and existing high-concentration ore deposits,
+and only discuss Uranium-235, not Thorium
+or other fertile materials produced by breeder
+reactors.
+It's a good deal lower in concentration in
+seawater too but easily removed and one handy
+application of nuclear power is desalinating
+drinking water, as you boil off a lot of water
+during power production that’s basically
+free desalination.
+The nuclear power plant near me is jokingly
+called the cloud factory for a reason, I’m
+over ten miles away and can still see the
+plume of water vapor rising off it from my
+backyard.
+That’s one obvious application to agriculture
+but we’ll mention a few others in a bit
+when we get to breeder reactors.
+I mentioned alternate coolants and molten
+salt as one of them and we hear a lot about
+molten salt these days for power storage.
+One of the upsides of molten salts is they
+do a very good job storing heat, but for reactors
+we contemplate them as a coolant or even the
+fuel itself because they don’t have to be
+under high pressure.
+In a light water reactor, to keep that water
+a liquid, and not steam, we have to keep it
+at around 100 atmospheres of pressure.
+The boiling point of most liquids rises when
+you put it under pressure and lowers when
+you decrease it and most steam driven power
+production uses high pressure to keep the
+water a liquid at high temperatures as that
+gets you more efficient power production.
+Molten salt lets you run things even hotter,
+but it also lets you go smaller, as you don’t
+need the massive containment vessel for keeping
+water a hundred times more pressurized than
+it normally is on Earth.
+A Molten Salt Reactor – or MSR – has the
+potential to let you make much smaller reactors
+which is nice because normally nuclear power
+plants are huge affairs for putting out a
+thousand megawatts of power and running a
+million homes.
+Smaller ones are attractive for more remote
+locations and to avoid transmission losses,
+about 50% of electricity is lost as waste
+heat in the power lines, something we discussed
+hopefully limiting with superconductors if
+we ever get room temperature ones, as we looked
+at recently in the Impact of Superconductors.
+With those, the big efficient plants become
+more attractive as you can stick your power
+plant far from anyone else, out in the middle
+of a desert or tundra, and not lose any power
+sending it to where the folks live.
+Without that, smaller reactors are more attractive
+and that includes another type, the Small
+Modular Reactor or SMR.
+Multiple types of reactors have been suggested
+for SMR usage but the critical concept is
+essentially one small enough to be moved,
+either in total or as completed modules bolted
+together at the power plant, and which are
+better at containment and passive safety features.
+The basic notion is to make a small black
+box reactor, potentially small enough to be
+loaded on a truck or train, that requires
+no real maintenance or construction at its
+site and which can be picked up after their
+lifetime and disposed of after processing
+unspent fuel.
+These SMR’s are made in a factory with quality
+controls and production efficiencies that
+site-built, one-off plants don’t have.
+Incidentally this is an example of Generation
+IV reactor.
+Generation 1 being the old atomic piles and
+Generation 2 most of the ones you see, with
+Generation 3 including examples like the ABWR
+or Advanced Boiling Water Reactor.
+I don’t want to get in the weeds on that
+as the differences in many reactor types are
+basically how you cool the thing and how you
+generate power off that coolant.
+Some Generation IV reactors go for a different
+concept, called a fast neutron reactor or
+FNR’s.
+We’ve mostly discussed thermal-neutron reactors
+thus far, where we slow the neutrons down
+to the average speed of other particles in
+the reactor, the thermal velocity of those
+particles.
+Fast neutron reactions don’t use a moderator,
+and as you might guess don’t rely on having
+as much Uranium-235 as a thermal reactor.
+They can instead, for instance, rely on Uranium-238,
+the type of Uranium that’s way more common
+and much better at absorbing fast neutrons.
+The product of that, of U-238 absorbing a
+neutron, is a Plutonium atom.
+And this is where we get to breeder reactors,
+which FNRs can do too, not just power generation.
+A breeder reactor is one that’s using the
+fission chain reaction process to make some
+other material, Plutonium being the big one.
+Plutonium-239 is much better for making atomic
+bombs, and while it’s no more sensitive
+to fast-neutrons than U-235, you can sustain
+a reaction on either if you just have enough
+of it present and an absence of other things,
+essentially if it’s very enriched.
+This lets you remove the moderator from the
+equation and make a smaller and in some ways
+simpler reactor.
+If we compress plutonium down really densely,
+by an implosion for instance, then the neutrons
+emitted by fission are likely to get absorbed
+by their neighbors, which is how atom bombs
+work.
+The other route is just to have a lot of it
+there, and not much else, though you can wrap
+your plutonium in U-238 to capture the neutrons
+that do escape and breed more Plutonium for
+later separation and usage.
+This is not limited to Plutonium incidentally.
+One of the more interesting options is Americium,
+which we don’t find in nature and most of
+its isotopes have quite short half-lives with
+Americium-243 being the longest lived at 7370
+years followed by Americium-241 at 432 years,
+and that half-life makes it very interesting
+as a possible power supply by passive decay.
+Useful passive decay power generators can
+really only come from breeder reactors since
+they don’t occur in nature in useful quantities,
+again due to that short half-life.
+One type of Americium, 241m[a], also requires
+the least amount of fissile material to sustain
+a chain reaction of any isotope that we know
+of.
+If you want to go really small with a fission
+reactor or nuclear battery, this is the way
+to do it.
+But probably the most interesting breeder
+reactor option, or at least the most discussed
+in recent years, is Thorium.
+As I mentioned earlier all isotopes of Uranium
+eventually decay into thorium and it’s pretty
+common itself anyway.
+But Thorium-232 is what’s known as a fertile
+material, which means if we whack it with
+neutrons it does not undergo fission, but
+rather turns into something which does, namely
+Uranium-233 after a brief stopover as Thorium-233,
+with its brief half-life of 22 minutes, followed
+by a time as Protactinium-233 as it pops out
+an electron and swaps a neutron into a proton,
+this last a little longer, with a 27 day half-life,
+before beta-decaying into Uranium-233.
+Uranium-233 is fissile, so we can generate
+power from it or leave it in to help breed
+more of itself or potentially do both at once.
+This is the big interest in thorium as a power
+source, essentially as a source of uranium-233,
+and thorium is more plentiful than uranium
+too.
+Now the potential for thorium does tend to
+get a little over-hyped.
+It is a great alternative to Uranium but usually
+folks are comparing it against old generation
+II reactors not the newer Uranium reactor
+designs, which is a bit unfair.
+It’s often cited as being better for avoiding
+nuclear proliferation but that’s a debatable
+point.
+Regardless, I generally warn folks off this
+notion, same as ideas like strictly defensive
+weaponry, there is no such thing as a power
+source you can’t weaponize or a defensive
+weapon you can’t use for offense.
+You can tinker with a reactor – and Uranium-233
+can be made into atomic bombs and indeed,
+unlike plutonium, it can be used in the gun-type
+nuke, the easiest one to build.
+Also, even ignoring the way you can make electricity
+into a weapon, e.g. railguns and lasers, the
+simple possession of energy abundance is weaponizable,
+running your weapons factories and all the
+bits of your society that build the components
+for those, not to mention raising your GDP
+from cheap energy, allowing you to build more
+guns.
+This isn’t to say you shouldn’t be worried
+about folks having potential access to weapons
+grade material but Thorium’s big benefit
+isn’t that it’s super-safe from folks
+getting nukes or magically super-efficient
+& safe reactors.
+Nuclear is dangerous, all technology is, heck
+the rare earth minerals, so prized for solar
+and wind and so many of our electronics, contain
+uranium and thorium.
+We process it out and the mine tailings are
+very rich in them as a result.
+This is a huge part of why we don’t get
+much rare earth production in most countries,
+as rare earths aren’t even vaguely rare,
+but they produce a lot of thorium and a lot
+of mines shut down because of the thorium
+discharges in the tailings and clean up or
+prevention of that isn’t cheap, unless of
+course you don’t care.
+On the other hand if you’ve got a profitable
+use for thorium that isn’t such an issue
+anymore, when your waste becomes a fuel.
+I don’t want to minimize the value of thorium
+as a reactor fuel either, it has a lot of
+potential especially for expanding fissile
+stockpiles, but it’s not an across the board
+better alternative to uranium.
+As time goes on we’re seeing other improvements
+too, heat pipes for instance.
+The ability to move heat efficiently is very
+important for any heat engine, but is great
+for nuclear reactors which need lots of cooling
+and where the primary coolant usually has
+to be kept in a closed loop and heat piped
+into another medium resulting in various issues
+and efficiency losses.
+Heat Pipe reactors take this a bit further
+using heat pipes to move power from the core
+directly to the power conversion system.
+Nuclear power isn’t just useful for electricity
+generation though.
+A huge number of other fields use products
+from nuclear power, including a few that you
+might not think of.
+Perhaps the best known is in medicine.
+Pretty much every chemotherapy drug used in
+cancer treatment was produced in a nuclear
+reactor, where the neutrons are absorbed by
+a precursor material which is kept in a special
+container in the core until it transmutes
+into the correct isotope to use.
+High contrast MRIs and CAT scans also use
+radioactive material produced in nuclear reactors.
+Radiation imaging, including x-rays and neutron
+tomography, use either radioisotopes or sometimes
+even a dedicated facility next to a nuclear
+reactor to produce EM waves or particle beams
+to provide incredibly detailed images of not
+just internal injuries, but the functioning
+of various organs and processes within the
+body.
+New types of surgery, such as gamma knife
+surgery, offer faster-healing surgical options
+which are much more precise - and sometimes
+an external incision isn’t even needed,
+making healing even faster!
+Agriculture is another area that has benefitted
+from nuclear power as well.
+From the first experiments in the 1950s and
+1960s using radiation to force mutations in
+crops, which were then selected for the desired
+traits like bigger fruit or more drought resistance,
+to tracking nutrient flows in fields and water
+cycles using mildly radioactive isotopes dissolved
+in water or fertilizer, to pest control using
+radiologically sterilized pest insects as
+decoys to prevent infestations from growing
+out of control, a lot of modern agriculture
+is intrinsically tied to the nuclear industry.
+Other options include using a nuclear reactor,
+not for its electricity generation but for
+the heat that comes off the core.
+Many big cities like New York City have district
+heating, which is a utility kind of like gas
+or electricity.
+With a nuclear reactor, you can not only provide
+district heating, but also heat the roads
+and sidewalks in the winter months to prevent
+ice and snow from sticking - a huge safety
+bonus that would also save cities a lot of
+money.
+In reactors that operate at even higher temperatures
+(like gas cooled reactors) you can even get
+the temperatures high enough to use in industrial
+processes, like chemical manufacturing, metallurgy
+and foundry production, and other energy-intensive
+processes.
+An SMR in a large factory could cover all
+its power and heat requirements for very low
+cost.
+Finally, perhaps one of the biggest potential
+uses for nuclear reactors is in water desalination
+and carbon capture.
+Both of these are notoriously power-hungry
+processes, which means that they’re expensive
+and not done unless there’s no other choice,
+but both could be done at the same time with
+a nuclear reactor.
+The sea water would be drawn into a separate
+loop from the cooling loop, run through a
+chemical process to extract the CO2 and turn
+it into hydrocarbons (which is far easier
+to store and even use), and then be boiled
+to purify the water.
+Of course, you can’t just dump the salt
+back into the sea without causing an ecological
+nightmare, but there’s ways to dispose of
+it safely.
+Lastly, we should discuss radioactive waste
+and its disposal and recycling.
+There are a few different types of nuclear
+waste: low level waste, intermediate level
+waste, and high level waste.
+Low level waste is often very weakly radioactive
+- sometimes it’s even just someone’s shoes
+if they forgot to switch to those little paper
+booties at the plant, but is stored out of
+an abundance of caution.
+This is the most common type of nuclear waste,
+and usually puts off less radiation than you
+would get standing in the sun for a few minutes.
+This comprises 90% of the volume of all radioactive
+waste, but only puts out 1% of the radiation
+of all types of waste combined.
+Intermediate level waste is a huge range of
+waste types, radioactive but not enough to
+generate a lot of heat.
+This includes chemicals used in radioisotope
+refining, some parts of decommissioned nuclear
+reactors, and even the protective metal clad
+used on the fuel elements in reactors.
+It makes up about 7% of the volume of nuclear
+waste, and accounts for only about 4% of the
+radiation.
+Finally, we come to the high level radioactive
+wastes.
+This is stuff like used nuclear fuel and byproducts
+from reprocessing, as well as some chemicals
+and equipment used in weapons production and
+some portions of decommissioned reactors.
+This stuff is so radioactive that not only
+does it need to be shielded, but it’s putting
+out over 2 kW/m^3 of heat, something that
+facilities have to be designed around.
+Much of this radioactivity comes from transuranic
+elements produced in reactors, but there are
+designs for fast neutron reactors that can
+burn this fuel and reduce the time it’s
+dangerously radioactive.
+Other types, such as Strontium-90, are useful
+as either RTG fuel or as a radiation source
+for various sensors and equipment, so depending
+on how much you’re willing to put into your
+reprocessing facility you can get far more
+than just fuel out of high level waste.
+Reprocessing, or recycling of spent nuclear
+fuel, is a complicated process, and one that
+most countries don’t do in civilian power
+production, simply because it’s too expensive.
+New uranium fuel is cheap, in fact it’s
+the cheapest thing about operating a nuclear
+power plant, so reprocessing is not really
+necessary today.
+The classic way, called the PUREX process
+is to grind up your fuel and soak it in nitric
+acid to dissolve the uranium and plutonium.
+This process produces a fair bit of low-to-intermediate
+level waste in the form of radioactive acidic
+slurry, but is well-understood and is done
+in France (who also reprocesses fuel for most
+of Europe), Russia, and Japan.
+The UK also used to have a facility, Sellafield,
+but it was closed after repeated accidents.
+The next option, called pyroprocessing which
+replaces the nitric acid with a molten salt
+mixture, which is then passed through various
+chemical synthesis steps to remove the fuel
+and high level actinides.
+This salt can be reused far more than the
+nitric acid, and promises to be more efficient
+than the PUREX process, but has only ever
+been done on small scales.
+The last major option for reprocessing is
+called “SILEX,” and uses powerful laser
+beams to deflect a stream of individual ions
+of mixed isotopes into different collectors.
+This was developed in Australia about a decade
+ago, and shortly after it was released it
+was also classified, so details are scarce.
+It’s hard to tell if this would be more
+economical, but using giant lasers to separate
+nuclear fuel is a cool concept.
+All nuclear waste needs to be stored for five
+half-lives or so, at which point it’s no
+more radioactive than the environment.
+How long that is depends on the isotopes involved,
+and if their decay results in something chemically
+toxic.
+Europe and Russia reprocess their spent fuel,
+and the resulting high-level waste is chemically
+bound in an inert material - France uses glass
+for this.
+There isn’t much of it either, all of it
+easily fits into one single foot-ball field
+sized chamber.
+In the US the entire fuel structure is kept
+in a pool until it cools down to the point
+it can be stored in giant, armored concrete
+cylinders known as dry casks, usually placed
+next to the reactor that used the fuel.
+Geological storage repositories for spent
+nuclear fuel in the US have failed for political
+reasons, although Finland is getting close
+to completing one in the next few years.
+Overall disposal and recycling of waste materials
+shouldn’t represent a serious problem to
+increasing nuclear power, especially using
+the improved techniques mentioned.
+Needless to say though there is a big difference
+between what science & engineering say is
+safe and the population’s comfort level
+with it.
+So the future of fission, if we get it cheaper
+and safer and more palatable to the public,
+is not a guaranteed thing on Earth.
+If you can produce solar panels and power
+storage cheaply enough, then nuclear loses
+some of its value, but if you can do the former
+but not the latter, nuclear becomes a great
+night time or bad weather power source too
+and the newer designs can crank the power
+up or down in mere minutes making them a good
+backup power supply or power supplement.
+And of course if someone gets fusion working
+it might become mostly redundant but would
+still have some handy applications.
+On Earth anyway, up in space atomic power,
+either by itself or in tandem with solar is
+very promising, and again we explore that
+more in our episode “The Nuclear Option”.
+Fundamentally though, the big challenge is
+changing hearts & minds on nuclear, and if
+we can do so, we have an excellent power source
+that can give us cheap, ecological, safe,
+and long-lasting energy.
+So as I mentioned at the start of the episode,
+today is the 6th Anniversary of our very first
+episode, Megastructures in space, and what
+I usually call Episode 0 as it was the only
+episode we did in 2014, and indeed our weekly
+shows didn’t start till February of 2016,
+a year and half later, appropriately with
+our episode Megastructures: Shellworlds.
+And I thought we would take some time to look
+back over the last 6 years, but before we
+get to that, I wanted to thank our long time
+sponsor Brilliant, whose been helping support
+the show for years now and whose online interactive
+courses make a great compliment to the material
+we discuss on the show.
+What I aim to do here is to educate and entertain,
+but to truly master the concepts you’ve
+got to work with with them and Brilliant is
+an excellent place to do that.
+They make a great addition to educational
+videos like these, as they let you get hands-on
+learning and practice with the concepts to
+help you truly master them, and learn more
+about how our world and our Universe work.
+From courses and quizzes to a community forum
+to get help, to daily challenges and an offline
+app that let you sharpen your analytical abilities
+anywhere you are and have a few minutes to
+spend, Brilliant let’s you learn math, science,
+and computer science and have fun while you’re
+doing it.
+If you want to learn more, and help support
+our show, you can try Brilliant out, for free,
+by going brilliant.org/IsaacArthur.
+In the 6 years of doing this show, we’ve
+stuck mostly to the same core format, me talking
+while video and clips played, and will mostly
+be keeping to that but I thought I’d show
+up on camera for a change.
+Contrary to popular belief though - and the
+jokes about the show actually being run by
+an AI with a synthesized voice, I did actually
+have photos of myself up on screen occasionally
+as far back as that second episode.
+I just didn’t happen to own a camcorder
+or webcam till shortly before we started doing
+the livestreams two years back, plus I’ve
+always liked to keep the focus on the content
+and not myself.
+For anyone who takes a trip down memory lane
+to watch some of those older episodes after
+this, you probably remember when I used to
+put the Elmer Fudd graphic up for my speech
+impediment and for the first few years I always
+was on the fence as to whether or not to hire
+a narrator if the show ever got big enough
+to afford one.
+Amusingly when I finally did get talked into
+to accepting donations for the show and said
+that was one of the things we were raising
+funds for, so much of the audience was horrified
+by the notion that I scrubbed the idea in
+favor of just getting speech therapy, which
+has been going on for around 3 years now.
+Needless to say it's been quite an interesting
+6 years for me personally, including get married
+this year, and I love what I do and plan to
+be doing it for at least another 6 years.
+Over those years we’ve covered so many topics
+and have over 300 episodes including all the
+bonus episodes and livestreams, but amazingly
+we still have no end of topics to cover, I
+guess that’s the neat thing about the future,
+there’s just so much of it.
+However I thought we would also commemorate
+the occasion by having another topic poll
+over on our community tab.
+Speaking of that community, and of taking
+donations, I did want to thank all the folks
+who have donate to us on Patreon and by other
+methods down the years, and if you would like
+to help support the show, you can do that
+on patreon or on our website, IsaacArthur.net.
+I will shamelessly throw in there that this
+weekend is my 40th birthday too.
+As we head into our seventh, we’ll start
+that up next week by a return to the Fermi
+Paradox, to contemplate how a scarcity of
+certain elements, like Phosphorus, might make
+life and ancient alien civilizations a lot
+rarer than we might otherwise believe given
+the sheer immensity and age of our Universe.
+Then we’ll close out September with our
+monthly livestream Q&A on Sunday, September
+30th, at 4 pm Eastern Time, then we’ll head
+into October for the third installment of
+our new series, Becoming an Interplanetary
+Species, as we look at heading back to the
+Moon.
+For Alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed the last 6 years of episodes,
+make sure to hit the like button.
+Until next time, thanks for watching, and
+have a great week!

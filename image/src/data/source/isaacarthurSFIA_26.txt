@@ -1,0 +1,780 @@
+There once was an intelligent 
+young lady named Miss Bright 
+She traveled far faster than light,
+She left one day in a relative way, 
+And arrived home the previous night.
+When I was younger, the big debate in science 
+fiction was if you were a fan of Star Wars or  
+Star Trek, and personally I quite liked both as 
+well as lots of unrelated and independent sci fi,  
+but I loved when the movie Stargate came out and 
+loved the series Stargate SG-1 when it made its  
+way into syndication. This episode isn’t about 
+that show or even that specific titular stargate,  
+but to me it moved quickly into a competitor 
+for best sci fi franchise with Star in its  
+title and remains a personal favorite and 
+one with a far greater sense of realism then  
+Star Trek or Star Wars often had.
+The show was set on modern Earth,  
+and one of the problems it had to tackle in later 
+series was how they kept the program secret and  
+dealt with all the new technologies that they 
+encountered and tried to integrate into Earth’s  
+economy quietly. But one point of heavy unrealism 
+was that you could only have one operating  
+stargate on a given planet, and perhaps a backup, 
+and yet these were often entirely abandoned or  
+unguarded. For story purposes it explains why 
+a 4-person team could casually stride through,  
+but of course realistically you would expect that 
+portal to be the center of local civilization  
+and guarded heavier than Fort Knox. And indeed 
+that’s how they guarded their one gate on Earth,  
+complete with thick steel vault doors 
+and machine guns pointed at the gate  
+and encrypted pass codes to get through.
+This episode isn’t about that show or  
+even that specific variety of Stargate, but 
+rather on the concept of these in general,  
+and we’ll be looking at what science tells 
+us about such portals and also what sort of  
+civilizations might result from them, how it might 
+affect interstellar colonization, and a number of  
+other points that scifi often glosses over.
+For instance, what we would expect to see is  
+that portals between planets would result in 
+empires with a lot less spaceships. They might  
+need them to bring those portals in manually to 
+begin with, but at that point you’d almost expect  
+this sort of seed ship to be an entirely robotic 
+one, especially if the portal could be activated  
+at any point or continuously. And indeed this is 
+the plot we see in the spinoff Stargate Universe,  
+where robotic ships lay gates down between planets 
+and even galaxies, on multi-million year voyages. 
+But such robots don’t need to be even as reliable 
+as a normal spaceprobe in some ways, as you can  
+just flick on a gate occasionally to check if all 
+is well. You could use it as a telescope to survey  
+the planet before putting its landing pod and gear 
+through to assemble around it, and maintenance  
+teams in EVA suits could go out through the 
+portal from Earth at any time to work on it  
+during its interstellar flight. You could even 
+bundle two together for safety and redundancy. 
+Indeed, you could send it out there by 
+attaching a rocket nozzle and the fuel  
+supply could be continuously pumped in from 
+Earth, which would really change the dynamics  
+of space travel too. Once the portal is there, if 
+it’s just a magic doorway, you don’t have folks  
+occasionally step through, you run rail lines 
+and power cords right through there and ship in  
+material and people by train like we see in Peter 
+F. Hamilton’s Commonwealth Saga. Or if big enough,  
+you terraform planets by opening a passage 
+between a water planet and desert one, and  
+equalizing them. Space travel becomes much easier 
+but also largely redundant, in favor of gates. 
+Of course, if your gate is more of a classic 
+wormhole, getting it on a planet and safely  
+keeping them there gets very dubious and 
+you might have to go where the wormhole is,  
+or at best put it into orbit of your planet… 
+Although given the mass of the typical wormhole  
+under known physics, you would generally 
+be orbiting the wormhole, not the other way  
+around. Indeed, generally your entire solar 
+system including your Sun would orbit one. 
+But first we should probably start with what a 
+wormhole is, and to cover that we should also  
+begin by noting that there’s several different 
+types of them or other portals that folks  
+have discussed over the years. The best-known 
+variety these days is the Einstein-Rosen Bridge,  
+and it’s probably the most likely type 
+to be able to work, though it might be  
+better to say it is the least unlikely to work.
+But it is not the first or only wormhole concept,  
+nor does it include all types of possible 
+portals. Since it is the most discussed,  
+and a couple of the other better known ones 
+are just minor variants or expansions of it,  
+it will get a discussion here today, but 
+in many ways, I’d rather focus on the  
+alternative options which are less known.
+And indeed there’s so much about space and  
+time we don’t know that I don’t really want to 
+rule out options like simply having a door to a  
+closet in your house that opened directly and 
+seamless into warehouse storage on some other  
+planet or a ship engine that was simply a portal 
+to a young universe where the big bang happened  
+mere moments ago and your ship can accelerate to 
+near-light speed with blatant indifference to the  
+tyranny of the rocket equation or conservation of 
+momentum and energy. In this way, even a wormhole  
+that didn’t allow signals or objects to pass 
+through, just raw incoherent matter and energy,  
+might let you better travel through space. This 
+was the method used by Lighthugger ships from the  
+Revelation Space book series by Alastair Reynolds; 
+they drew energy through a wormhole from a younger  
+universe right after a Big Bang. And there 
+are some hypothetical types of wormholes that  
+essentially are just a connection from the start 
+to the end of the universe, or a universe anyway 
+Incidentally, the term wormhole didn’t pop 
+up until physicists Charles Misner & John  
+Archibald Wheeler coined the term in a paper 
+they wrote in 1957, and Wheeler was inspired  
+by work back in the 1920s by Herman Weyl 
+that wasn’t focused on gravity or matter,  
+but rather making one-dimensional tubes from 
+electromagnetic field energy. It wasn’t related to  
+black holes and indeed the term ‘black hole’ was 
+also coined by Wheeler about a decade after the  
+wormhole. So while wormhole explanations nowadays 
+tend to lean heavily on black holes in discussion,  
+for the first decade we discussed wormholes, 
+black holes were never even mentioned by name. 
+Half a century before that, we get our first 
+formal example of one described under theoretical  
+physics and math, from Karl Schwarzchild in 1916, 
+and what he described is basically a black hole.  
+Indeed the event horizons of black holes have 
+a radius based on his calculation called the  
+Schwarzchild radius. These types of wormholes, 
+named after him, are prone to collapsing if  
+any matter passes through them and would require 
+some form of exotic matter, like negative matter,  
+to hold them open, otherwise even a beam of light 
+going into one would collapse it. And of course  
+even in the most empty part of the universe, 
+particles of light from the cosmic microwave  
+background radiation are constantly passing 
+through, so we would not expect these to stick  
+around anywhere naturally. Nowadays anyway, they 
+could potentially exist essentially at the end of  
+time when the CMB radiation was effectively gone.
+However, later analysis indicated that we could  
+maybe potentially make small ones that would 
+not be collapsed by a very tiny trickle of  
+electrically charged particles, which would 
+hypothetically let you use these for Faster  
+Than Light Communication, emphasis on ‘maybe’.
+Now this is Sci Fi Sunday so I’m not going  
+to rattle off the potential problems and 
+paradoxes such a communicator might have,  
+and for today I’m mostly burying my skepticism 
+about any type of FTL ever being possible.  
+One thing folks tend to forget about a classic 
+wormhole using a black hole is that a black hole  
+masses multiple stars so this sort of technology 
+is still only useful if you can either make micro  
+black holes – which I tend to suspect we can – or 
+are willing to sacrifice whole stars, or nebulae,  
+to making communicators. Which you might be 
+too, even if your bandwidth is worse than old  
+telephone modems, the ability to send messages at 
+FTL speeds allows regions of galaxies to stay in  
+touch. You might only be able to get away with one 
+such communication hub per 100 light year bubble  
+but that still allows some semblance of galactic 
+civilizations to work and even intergalactic too. 
+Alternatively, as we discussed in our 
+look at Kugelblitz black holes last month,  
+tiny black holes radiate energy and the 
+faster the smaller they are. This Hawking  
+Radiation puts a lower limit on what we could 
+probably use as a communicator without serious  
+noise issues rendering the device unusable. A 
+one megaton black hole is arguably portable,  
+and indeed very much so since it gives off 
+356 trillion watts of power that you could  
+use for an engine, and it gushes that from a 
+space smaller than an atomic nucleus, so how  
+you’re getting a charged particle in there as a 
+message is anyone guess. Same for making out that  
+particle at the other side from your receiver.
+Even a billion-ton transmitter, one 10,000 times  
+more massive on its own than a modern aircraft 
+carrier, has just hit the radius of an atomic  
+nucleus and is still spewing 356 Megawatts of 
+power out. That’s only a millionth the power of  
+the previous example but still a lot. Great for 
+running a space station, but not for running a  
+delicate signal through. Even here your particles 
+carrying signals would be like trying to throw a  
+baseball into and through a firehose that was on.
+You obviously aren’t fitting this transmitter  
+system onboard a spaceship, except one of the 
+truly Olympian Planet-scale ships we sometimes  
+discuss for trying to colonize other galaxies. 
+It’s hard to say how much more mass and less  
+power would allow a signal through but probably by 
+the time we get to one with a diameter of a tenth  
+of a nano-meter, something at the atomic rather 
+than nuclear scale, and massing 34 trillion tons,  
+200 times the Mass of Mount Everest. It is 
+down to generating just 314 milliwatts of  
+power and this feels a lot more plausible.
+Thus, something in the trillion ton scale,  
+maybe even low trillions or upper 
+billions, but possibly even high trillions,  
+seems like a viable mass range for a black hole 
+transmitter. As to coming up with the mass,  
+as huge as 200 Mount Everest sounds, and it is, 
+that is about 6 billionths of Earth’s own mass,  
+and there are hundreds of asteroids more massive 
+than that. Ideally, you’re making these out of  
+some hyper abundant material like hydrogen or 
+helium, or even dark matter, and just a single  
+gas giant like Jupiter should be massive enough 
+to let you make one for everyone of the billions  
+of star systems in this galaxy, and presumably 
+they don’t all have to be made here or material  
+could be outsourced from beyond our system.
+This isn’t letting you send huge amounts of  
+trade or troops around the galaxy, indeed it 
+isn’t likely to let you send very large data  
+files either, though the bigger your black hole, 
+and the lower the power it gives off, the easier  
+it should be to get higher-bandwidth through. So 
+this probably does not allow regular citizens,  
+or post-human ones anyway, to ship copies of their 
+minds around, and it might be that you really are  
+limited to kilobyte scale transmissions 
+of raw text and very compressed images. 
+The Hyper-space Bandwidth generators of the 
+BattleTech or MechWarrior setting work inside  
+this communication limit, sending messages 
+more akin to texting or telegraphs than Zoom,  
+and where a single letter in a interstellar 
+transmission might be as costly as putting it in  
+an ad of the most expensive newspaper. So regular 
+citizens weren’t sending a lot of messages,  
+even a wealthier family might limit communication 
+to a single sentence or two informing a distant  
+relative that someone was very ill or dead.
+Of course in that setting they can jump through  
+space with huge ships, from deep out in space, 
+so they can still bulk transmit stuff cheaper  
+if slower Pony-Express Style. And depending 
+on your bandwidth with such communications,  
+you might still do this for things like arts and 
+entertainment or bulk messages. Send them slowly,  
+or maybe send one copy across the galaxy to a 
+dozen major hubs where it can go the rest of the  
+way at light speed to the nearest million worlds.
+This, again, is the Schwarzschild Wormhole,  
+and you’ll see it described, often vaguely and 
+inaccurately, a lot in somewhat older sci fi,  
+the Einstein-Rosen Wormhole gained in popularity 
+in both science and sci fi in the last few decades  
+though and tends to be the one folks are referring 
+to now, if they are trying for scientific realism. 
+Much of this comes down to the idea of 
+a traversable wormhole – one that won’t  
+collapse if you enter it or utterly destroy you 
+– and ideally one traveling to elsewhere in your  
+own Universe, though arguably a Traversable 
+wormhole to another Universe is even better,  
+as it’s a whole new universe, and also doesn’t 
+raise any paradox or time travel concerns. The  
+Einstein-Rosen Wormhole is unstable too, 
+but we think if negative matter turned out  
+to be a real thing we could stick some 
+inside a black hole to stabilize the  
+throat of the wormhole and let passage occur.
+Kip Thorne and Mike Morris proposed a different  
+type of wormhole back in 1988, and ironically 
+folks often think this is the Einstein-Rosen  
+Wormhole, partially as scifi technobabble 
+explanations tend to get blurry and confused on  
+it. Which is understandable, even among physicists 
+discussion of wormholes is fairly uncommon,  
+and even the Einstein-Rosen Bridge Wormhole 
+and Schwarzschild Wormhole often get listed  
+as basically identical. They do overlap a lot 
+but Schwarzschild’s Wormhole is a black hole  
+with a singularity at its center, and the 
+Einstein-Rosen Bridge specifically tries  
+to go around that singularity. The Schwarzschild 
+Wormhole is also usually assuming a non-rotating,  
+totally spherical, and symmetric black hole.
+This is where the exotic matter aspect comes in,  
+as Thorne proposes using it to hold that wormhole 
+open and stable, and that's a major difference  
+and source of confusion, and you can probably 
+see why they get used interchangeably. So too,  
+Matt Visser’s wormhole just carries on this idea 
+by using exotic matter to hold things open but  
+far less than earlier estimates, something in 
+Jupiter-mass region worth of exotic matter would  
+allow a 1-meter passageway. Though I’ve seen 
+smaller figures offered too, even much smaller.
+I generally rely on Enrico Rodrigo’s wormhole 
+FAQ for a lot of my numbers on this topic,  
+and his 2005 book The Physics 
+of Stargates, or the Orion’s Arm  
+site’s discussion of Visser Wormholes. But 
+planetary masses, even Jupiter scale ones,  
+are still entirely doable for a Kardashev-3 
+civilization looking to stay in touch. 
+A Thorne Black Hole is big incidentally, Gargantua 
+from the movie Interstellar is based on his work  
+and comes in at 100 million solar masses and 
+would be nearly 400 million miles across,  
+and 25 times more massive than our own central 
+black hole for the Milky Way, albeit not as  
+big as the current record holders for largest 
+black hole. If you’re wondering why that mass,  
+it’s because the tidal forces of black holes 
+– the bit that rips you to pieces - get weaker  
+as a black hole gets bigger and that’s the mass 
+range needed to allow you to pass through safely.  
+Though as I recall, that would actually 
+be the amount of negative or exotic matter  
+required to stabilize the throat at something 
+bigger and mild enough we could pass through. 
+And that’s not even a thousandth of the mass 
+of our galaxy, so it would be believable that  
+an intergalactic civilization might force 
+feed galactic cores to allow such travel,  
+or that later in the universe as these naturally 
+get bigger they may be used to let people travel  
+between galaxies even as Hubble expansion makes 
+them spaced too far apart for light to ever reach. 
+Alternatively, Visser’s Lorentzian wormhole uses 
+way less mass and exotic matter and starts making  
+them plausible in the same sorts of mass ranges 
+we were discussing for micro-black holes of the  
+Schwarzchild variety used for communications-only.
+It also lets us start finding ways to avoid these  
+gateways being used for time travel. Which is 
+a bigger issue.The basic reasoning usually goes  
+that any wormhole has two mouths, and if you move 
+one the clock at it is going to begin slowing down  
+during transit, under normal special relativity, 
+very fast objects experience less time. If we send  
+it to another system 100 light years away at 25% 
+of light speed, it will arrive 400 years from now,  
+in the year 2424, except the clock and calendar 
+there will be 13 years slow, and think it's 2411.  
+People stepping out there will read the 
+local clock, think it weird, and if the  
+wormhole is two-way, which isn’t guaranteed, many 
+theories make them one-way, then they could step  
+back through and see the same time they left at. 
+No problem here. But if you take that wormhole  
+back home where it was created, it would arrive in 
+the year 2824 and its own calendar would say 2798,  
+26 years behind. And when we set the two mouths 
+near each other, you step into the one in 2824 and  
+out into 2798, 26 years back in time, though never 
+earlier than the time they were first created. 
+Some wormhole approaches do prevent time travel 
+hijinks and again, these are specifically the  
+ones allowed under basic general relativity. Start 
+throwing in string theory and options can change,  
+so too if you’re simply opening a portal to 
+another congruent universe that’s smaller or  
+has a higher speed limit, traveling there, 
+and jumping back into this universe. We  
+looked at that option more in our Folding Space 
+episode and Cheating Reality, in our FTL series,  
+but we usually call options like this either 
+folding space or entering a hyperspace[a]. 
+Another method to avoid time travel hijinks 
+without hyperspace is to simply keep both  
+mouths further apart in space than they are 
+in time - creating spacelike curves instead  
+of timelike curves. If those earlier wormholes are 
+13 years apart in time but never get closer than  
+13 lightyears in distance. No object or signal 
+can return to the original wormhole before it  
+departed. And if we assume these wormholes would 
+naturally fizzle out if you brought them closer  
+or lose the connection, by some unknown physical 
+law, you would have no time travel issue, and this  
+is often assumed the case with examples in science 
+fiction, or that for some reason the clock’s stay  
+matched at both ends regardless of relativity.
+Now this also raises the issue of what shape  
+these mouths are and while in fiction they tend to 
+be 2D portals you pop in and out of one side of,  
+in most cases they are going to be 3D, probably 
+spherically though in some cases they could be  
+squished or extended in one axis or asymmetric, 
+as event horizons of black holes are typically not  
+quite spheres either. When we talk about holding 
+their throats open using negative matter I think  
+folks imagine a ring on some long corridor, but 
+imagine instead simply two spheres, the mouth  
+and the other mouth, and down deeper in them is 
+another pair of spheres that in reality overlap,  
+being in one is being in the other, and you could 
+imagine a thin shell of negative matter here,  
+or maybe something like a wiffle ball 
+with lots of holes you could pass through,  
+but Visser’s approach is to use a ring 
+or a torus of negative matter because  
+it uses less negative matter than a sphere
+Incidentally, you probably don’t want to waste  
+too much time trying to visualize these things. 
+The whole point of them is that they screw with  
+normal geometry so outside of mathematical 
+formulae they’re not going to be intuitive  
+and if you feel like one is intuitive odds are 
+you’re probably misunderstanding it. In this  
+context though the intent is to create a black 
+hole and then drop negative matter into it to  
+turn it from a non-traversable wormhole into 
+a traversable one. Nothing about that tells us  
+where the wormhole’s other mouth is at and if 
+it’s one way, you’re going to be making a leap  
+of faith every time you enter it since your 
+probe or explorers or colonists can’t send  
+a signal back except the long way around, which 
+might be millions of light years away, or more. 
+Other options could have a flat portal, it 
+might be a circle or ellipse or rectangle,  
+but this is not how one deriving simply from 
+Einstein Relativity is going to look, that’s  
+going to be essentially spherical. If you can 
+see through it to the other side, it’s going to  
+either be 2-way or you’re at the receiving end of 
+a one way tunnel which means you bury that inside  
+fortifications in case anyone decides to visit, 
+and you do have the defensive edge that they  
+can’t see you. They probably send through probes 
+and maybe ones with instructions on building your  
+own portal to reply to them and say hi, or the 
+probe is designed to build such a thing itself. 
+Now when it comes to using them for power 
+or as weapons, that’s a lot more limited  
+for these types of wormholes. In almost no 
+case can you run tons of power through one  
+of these things without destabilizing them so 
+as tempting as it would be to take on end of  
+the wormhole and stick it in the core of star 
+and the other in the back of spaceship or a  
+power plant, that’s not likely to ever work out. 
+Alternatively, you can take a regular old black  
+hole and generate amazing power from it as is.
+On the flip side, if it really is a portal like  
+in Stargate then this trick works fine. So does 
+opening one end under the other and dropping a  
+ball down that enters the lower mouth and drops 
+back out the upper mouth and just keeps speeding  
+up, as it falls and resets up top over and over 
+again. But with one that operates under general  
+relativity, that ball would actually slow down 
+when it went back up to the higher wormhole mouth. 
+While we only think of them as portals, or 
+doorways, they appear to offer some insane  
+abilities. In practice those operating nominally 
+under known physics don’t get to have those cool  
+cheats. It raises questions like if you jump 
+through a wormhole and emerge in space a billion  
+light years away, where Hubble expansion is moving 
+everything away from you at 7% of light speed,  
+do you emerge stationary relative to that place 
+or blast out of it moving 7% of light speed. Do  
+you pick up the speed of the planet you’re 
+stepping out onto that’s rotating at a very  
+different speed and angle than your world was when 
+you left, and several thousand miles per hour in a  
+different direction too, for a fiery entry?
+Another thing to remember is that you are  
+entering a high-mass object and falling toward 
+a singularity, even if you do skip around it in  
+an Einstein-Rosen Bridge or Thorn Stabilized one. 
+You then have to move out of it on the other side.  
+This transit is not instant in any way, you 
+are covering a real physical distance, albeit  
+one very warped relative to us, essentially the 
+wormholes event horizon diameter, at a minimum. In  
+many wormholes scenarios your transit could take 
+months, and months you experience too, not just  
+jumping around it to your delivery date on the 
+other side. And again, there’s nothing letting us  
+pick these destinations, even the assumption you 
+could make one with two mouths and tow it to your  
+preferred destination is doing some hand waving.
+The exception here is cosmic wormholes, which  
+are those that might have been created when the 
+Universe was mere instants old. If these are real,  
+these wormholes would naturally exist as part of 
+the universe's fabric, their locations would be  
+determined by natural processes in the early 
+universe or the dynamics of space-time. Such  
+wormholes would have locations that are accidental 
+or inherent to the universe's structure. However,  
+you could potentially predict them and even if 
+they are one way it’s very likely folks would be  
+dumping through probes that would say where they 
+were… which might be so far away in space and time  
+we couldn’t tell but you don’t need to know where 
+your own one’s go to know they work if you’ve got  
+probes from other people emerging from other ones 
+popping through or even just coherent signals. 
+Which can be natural. If radio signals and probes 
+can come through, than so can astronomical data,  
+and you could tell if one was moving you through 
+time by examining the CMB radiation coming through  
+it and see if it’s redshift matched the factor we 
+would expect from the spectrum of whatever stars  
+we could see through it too. Here’s some hydrogen 
+lines, here’s the CMB, hey this wormhole is from  
+4 billion years ago or hey everything coming 
+out is redshifted to 28% of light speed or hey,  
+this one is from the year one trillion in 
+the future. If a signal can pass through,  
+then we can collect useful information even if 
+no one is transmitting on the other side and we  
+can’t step through ourselves to the other side 
+or send a probe or signal. A two-way traversable  
+wormhole does not have an event horizon on either 
+side incidentally, and a one-way wormhole would  
+seem to have an event horizon on the side you 
+had to jump through, looking like a black hole,  
+so again a bit of a leap of faith there.
+We also have quantum wormholes[b], and indeed  
+some theories think the entire spooky action at a 
+distance phenomena might be the result of these,  
+but it's kind of inherent to these theories 
+that using them to send useful information  
+is impossible, let alone people and spaceships.
+One last note on scientific realism for the day  
+before we get full into discussing civilizations 
+using stargates, and that’s on negative matter.  
+Now the idea here is that this stuff repels mass 
+rather than attracts it gravitationally and thus  
+can counteract gravity, but the problem is that 
+while it works on paper, so does a negative dollar  
+bill or a negative gallon of water or a negative 
+cookie. We’ve never found any negative matter,  
+nobody has ever carried a negative gallon of 
+water, never fed a negative cookie to Santa Claus,  
+and a negative dollar is called an IOU. In 
+physics we have positive and negative charge  
+but this is simply the opposite charge, 
+we could have called it A and B or Red  
+and Blue and left out the negative connotation.
+That said, there are reasons physicists discuss it  
+seriously, such as the Casimir Effect, and we deep 
+dived into that in our Vacuum Energy episode. I’m  
+very skeptical of any negative matter actually 
+existing though, and thus I don’t really give  
+the Thorne or Visser wormholes any more credence 
+than other varieties from different cosmological  
+models or even fictional ones, though with no 
+disrespect there to either gentleman incidentally,  
+I don’t believe either has ever said they 
+thought such wormholes very likely either,  
+they’re just a fascinating possibility worthy of 
+theoretical exploration. The same could be said  
+of a Tolman Wormhole, which opens to the end or 
+beginning of the Universe, often called a universe  
+with a bounce, or a Krasnikov Tube, and again 
+see our FTL series for more discussion of those. 
+But let’s imagine for the moment that 
+something like the Stargate was around,  
+as opposed to a Thorne or Visser Wormhole. 
+Incidentally a Stargate was used by Arthur  
+C. Clarke in the 1968 novel 2001, and the 1994 
+movie with Kurt Russel in it further popularized  
+the term. It makes a bit more sense there whereas 
+in the Stargate Franchise, they’re essentially  
+planet-to-planet gates that basically circumvent 
+a need for developing space around stars. 
+We don’t see it in the film but in the 2001 novel 
+Dave Bowman goes for quite an existential ride  
+through ancient alien empires on his trip 
+through the monolith and space and time,  
+a scene the film represents a bit strangely 
+albeit in a very Stanley Kubrick sort of way. 
+In any event, we don’t get to see much of the 
+monolith builders there or elsewhere in the 2001  
+series, they’re kept pretty mysterious which 
+is usually a wise approach in writing ancient  
+powerful aliens, indeed the Ancients of Stargate 
+probably should have been kept more wisely obscure  
+rather than filling in some dots on them. But 
+what would a civilization with stargates be like? 
+It matters a lot if they can open a gate 
+anywhere or if they have to fly the device there,  
+and if one can be opened, can we pick where it 
+goes or is it to a random location anywhere in  
+this Universe or even a different one, and does 
+shutting it off lose that connection for keeps? 
+In that last case, you not only have to worry 
+about some accident shutting your gate off,  
+you also have the issue of planets wanting their 
+independence being able to just close their gate  
+down, though that could also be seen as a positive 
+aspect of these devices. There’s also not much  
+reason to assume they would stay tethered to 
+a planet or star system they were made in. 
+They might be gravitationally bound to a spot 
+and conserve angular momentum so that you could  
+stick them in some building on a fixed point of 
+a planet, or you might have one that had fixed  
+locations inside a galaxy and once made, they 
+stayed there even as stars migrated around. All of  
+these have a big effect on how your interstellar 
+empire plays out, and if for instance you can dial  
+up any place randomly in the Universe, which may 
+include way beyond the Cosmological event Horizon,  
+you have an empire that has no internal neighbors 
+except by node connections of the gates. 
+In Stargate you can only have the one 
+gate per planet and it can dial any other,  
+which would tend to imply you had preset 
+schedules for when each planet is getting dialed  
+up or dialing in and probably you have a crash 
+team ready to go throw a rail line connection  
+and power cord plug down as soon as a connection 
+establishes so everything can pass through quick. 
+It also implies a hierarchy of planets. In 
+Stargate you can only keep the connection open for  
+38 minutes, which means 37 full-length openings a 
+day or 265 a week. Maybe you left a short time gap  
+between each for emergencies calls and updates. 
+And if it were one-way, like in the show, you  
+might have Earth connecting to 18 planets daily, 
+once coming and once going about 12 hours apart,  
+or do it weekly for 232 such connections. 
+In which case those 18 tier-1 planets,  
+or 232 if twice a week contacts was sufficient, 
+could then each have 17 or 232 other planets they  
+each serviced in tier-2, for Earth and 325 more 
+Tier 1 and 2 worlds, and 5527 worlds in tier 1,  
+2, and 3, etc, for daily contact, and weekly 
+would be 71,225 Tier 1, 2, and 3 worlds combined. 
+Incidentally, security and common sense would 
+encourage you to have at least one other planet  
+that regularly dialed those other planets, both 
+in the tier below them and those lateral as well,  
+so maybe each tier is reduced in size to 
+half. They need not necessarily dial with  
+the same frequency. Obviously this Stargate 
+scenario is very specific to the 38 minute  
+arbitrary value from that show and the idea 
+you can only have one portal per planet. You  
+can probably only move a thousand folks 
+through in a given 38 minute opening too,  
+or in that order of magnitude, so moving between 
+planets might be rather limited and pricey. 
+If on the other hand you can have hundreds or 
+thousands of such gates on a single planet and  
+permanently open, then you probably still 
+do a tiered system as you get big enough,  
+but you might have some unexpected planets 
+on that list. Garbage-world comes to mind,  
+as you might have a place that is just not a 
+decent candidate for terraforming but on which you  
+can slowly dump waste until it reaches a useful 
+level for active mining. It might even be a place  
+you plan to terraform but want to bring the mass 
+up that way, and when you get to the right zone  
+you switch from garbage to some equivalent 
+of barrier material followed by topsoil. 
+Indeed, you might have portals on the backs 
+of large land conveyances or even planes that  
+were dumping material down below them in an even 
+spread. You might generate rain by opening one to  
+an icy body in an Oort Cloud and dropping chunks 
+of ice from tens of miles up to thaw and switch  
+to rain during the fall, or first to a hot planet 
+and into a water reservoir there, then to Earth.  
+All while portals in the deep sea helped remove 
+excess water and to some planet that needs that  
+water and salt. Everything would just depend on 
+how easy these were to make and maintain and you  
+might have folks commuting in from a suburb planet 
+to the ecumenopolis on Earth it’s essentially a  
+suburb of. Indeed you might have nations on Earth 
+where it was just some city, like Los Angeles,  
+that actually had hundreds of worlds connected to 
+it one or two steps away that made it a city-state  
+here but a multiplanetary empire in total.
+And again they might not even be in the same  
+universe. You could have portals opening up to 
+another universe for raw materials or energy or  
+to run heat pumps to shift entropy around, or to 
+take advantage of different physical constants to  
+create materials that wouldn’t otherwise work. 
+You could use something like this to create a  
+computer that sprawled over a million worlds 
+and multiple chunks of various universes to  
+form some sort of super-mind that surpassed 
+a Jupiter Brian or even a Matryoshka Brain. 
+There are no obvious limits as to how 
+sprawled out such an empire might get to be,  
+or how often entire chunks of it might 
+sever their connections to go their own  
+way. If physics allows such options, it 
+means we have a path forward to virtually  
+endless possibilities among countless worlds.
+So we were exploring some options for galaxy  
+spanning gate networks and civilizations, and in 
+this month’s Nebula Exclusive, Galactic Beacons,  
+we’ll ask if stellar empires might create beacons 
+and how those would work, what types there are,  
+such as for SETI purposes or to warn of danger 
+or territorial markings, and what the advantages  
+for and against building them are. And how 
+we could find any if they currently exist. 
+Galactic Beacons is out now exclusively on Nebula, 
+our streaming service, where you can also see  
+every regular episode of SFIA a few days early 
+and ad free, as well as our other bonus content,  
+including extended editions of many episodes, and 
+more Nebula Exclusives like last month’s episode  
+Crystal Aliens, Topopolis: The Eternal River, 
+January’s Giant Space Monsters, December’s episode  
+The Fermi Paradox: Hermit Shoplifter Hypothesis, 
+Ultra-Relativistic Spaceships, Dark Stars at the  
+Beginning of Time, Life As An Asteroid Miner, 
+Nomadic Miners on the Moon, Space Freighters,  
+Retrocausality, Orch Or & Free Will, and more.
+Nebula has tons of great content from an  
+ever-growing community of creators. Using my 
+link and discount it’s available now for just  
+over $2.50 a month, less than the price 
+of the drink or snack you might have been  
+enjoying during the episode.
+When you sign up at my  
+link, https://go.nebula.tv/isaacarthur and use my 
+code, isaacarthur, you not only get access to all  
+of the great stuff Nebula offers, like Galactic 
+Beacons, you’ll also be directly supporting this  
+show. Again, to see SFIA early, ad free, 
+and with all the exclusive bonus content,  
+go to https://go.nebula.tv/isaacarthur
+So today we explored tunnels through space  
+and this thursday we’ll explore a different type 
+of tunnel: the immense lava tubes on the Moon,  
+and what life in those might be like for lunar 
+settlers. Then we’ll finish out the month with a  
+pair of episodes looking at colonizing white dwarf 
+star systems, bringing new life to those dead  
+stars, and binary star systems, and their unique 
+challenges with habitable zones and stability. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you’d like to donate or help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early 
+and ad free on our streaming service,  
+Nebula, along with hours of bonus content like 
+Galactic Beacons, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

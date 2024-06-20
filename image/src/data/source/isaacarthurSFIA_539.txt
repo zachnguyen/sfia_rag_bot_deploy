@@ -1,0 +1,682 @@
+Some might argue that the journey is just
+as important as the destination.
+When you’re travelling at high speed through
+interstellar space,
+this takes on an entirely new dimension.
+We recently discussed the concept of a Generation
+Ship, a type of interstellar vessel designed
+to cross the vast expanse of deep space and
+keep its crew alive, or at least their descendants,
+as such voyages can take many decades or even
+centuries to reach the nearest stars.
+During that episode we also discussed some
+alternative approaches such as freezing people
+or using robots, cyborgs, or artificial intelligence
+to do the job, concepts and technologies which
+have emerged in recent times, and which, even
+if they don’t replace the generation ship,
+are likely to be incorporated into it to address
+some of the problems which emerge as we learn
+more about space travel.
+And we’ll be exploring those new problems
+and potential solutions as we follow up on
+that first episode.
+Today we will be looking mostly at the ships
+themselves, the engineering concerns associated
+with getting such ships up to speed, keeping
+them powered during flight, and slowing them
+back down when they arrive.
+Next time we’ll look more at the problems
+of transporting whole ecologies on such ships
+and transplanting them to alien worlds in
+“Exporting Earth”, and we’ll follow
+that with a deeper look into the psychological
+and sociological difficulties in “Ark of
+a Million Years”.
+But for today, our focus is on that core ship.
+How do you get it moving, how do you keep
+it powered, repair it, maneuver it around
+obstacles, and finally, slow it down on arrival?
+Big problems, and part of the solution to
+those big problems is with big ships.
+They can carry more shielding, proportionally,
+than smaller ones.
+They can carry more people of course, allowing
+not just more hands to work on a problem,
+but a wider range of specialization and expertise.
+They can also carry more backups.
+But no matter how much we prototype these
+ships, there’s always a risk of catastrophic
+failure from something deemed acceptably improbable
+or simply something we didn’t even know
+was a danger.
+So in this regard, it’s not just about a
+ship carrying more backups and redundant components,
+but having backup ships.
+Not just a colony ship, but a colonial fleet.
+Yet our title, Exodus Fleet, does not simply
+refer to one such colonial fleet migrating
+out from our solar system.
+We’ve discussed first colonial ventures
+before, today we’re a bit more interested
+in when interstellar colonization has entered
+its pinnacle phase.
+Not one or two early experiments to the nearest
+systems but a massive operation hundreds of
+years later.
+In the Outward Bound series we’ve looked
+a lot at the colonization of our solar system,
+and indeed even colonizing the Oort Cloud,
+and our first trip to Alpha Centauri.
+In those videos, we’ve usually taken a few
+minutes to reference how this or that interplanetary
+colony could serve as a foundation for interstellar
+travel.
+We will not repeat all of that today, but
+what we saw was a budding solar empire gearing
+up to levels of industrial might that dwarf
+anything we have nowadays, decades after the
+Industrial Age.
+They have room, and resources, for trillions
+or even quadrillions of people to live with
+a degree of prosperity that would awe kings.
+These are also civilizations that probably
+do not regard our solar system as having 8
+planets.
+For all the discussion of Pluto and other
+dwarf planets, it’s easy to forget that
+originally we had two classifications, minor
+and major planets.
+Dwarf planets were added in between later,
+and arguments about that topic have tended
+to eclipse that there are nearly a million
+identified planets in our solar system.
+These may be minor planets but each one can
+be home to new civilizations and nations,
+and those living on them are likely to view
+the solar system as quite a cluttered place,
+consisting of much more than a Sun, 8 planets,
+and some other stuff.
+Similarly they will probably better realize
+what we tend to overlook in discussions of
+colonization.
+That we will want to colonize every star system,
+directly from this solar system, within at
+least a few hundred light years of us, and
+that those number in the hundreds of thousands.
+We will not be building a handful of colony
+ships, we will be building millions of them
+over the course of a few centuries.
+Launching dozens or even hundreds of them
+every single day, ships carrying tens of thousands
+of people and measuring kilometers in length,
+probably each taking years to build and outfit,
+so that at any given time the drydocks of
+the solar system may have a million or more
+vessels under construction.
+Such a task seems daunting, and yet only a
+civilization creeping up on full solar colonization,
+what we call a Kardashev-2 civilization, has
+any motive to send out more than a few colony
+ships.
+Until mankind has settled most of those million
+minor planets, until we number ourselves in
+the hundreds of trillions if not quadrillions,
+there are only a few reasons to settle another
+solar system.
+Even just a few colonies outside our solar
+system gets some of our eggs out of the Sol
+basket, plus the voyage gives you a lot of
+data and experience for doing it in the future,
+and the work of colonizing a system on the
+other end does too.
+Simulations, even incredibly realistic ones,
+can never match the real thing since the simulators
+can’t program in what they don’t know.
+Unmanned probes can tell us a lot, but manned
+trial voyages make sense to acquire real data
+to overcome and adapt to any unforeseen issues
+in future missions.
+But beyond that, you have no real reason to
+colonize more until it is practical and desirable,
+but once you do, it makes sense to do it big.
+You have the resources to do it big too, if
+you can do it at all, because all the devices
+and tech that let you miniaturize such missions
+also make it easy to go about it in a grand
+fashion.
+A self-replicating von Neumann probe sent
+to colonize and terraform the galaxy can stop
+at its first destination and get to work replicating
+copies of itself, then terraform that system
+while some of the copies journey to new ones,
+or it can just stop at the nearest asteroid
+in our own solar system and replicate there
+first.
+Or it can just build tons of giant spaceships
+humans could man too.
+It’s hard to guess how humanity will roll
+out to the stars, but just as two examples,
+on the extremes, we might grow our population
+locally on the slow side, just 1-2% population
+growth a year as we have in the last century,
+and sometime around the year 3000, as we’re
+filling up most of the easy targets in our
+solar system and number around a quadrillion
+people, decide we need to build several million
+ships and send them all off crewed with tens
+of thousand of people each.
+Such an endeavor would use up not even a single
+percent of our economy to build by that point,
+even if we were doing it with modern production
+rates, and use such a small percent of our
+population that most of us may know only a
+single colonist who was a casual acquaintance
+at most.
+On the flip-side, someone might get a clanking
+self-replicator going in the next few decades.
+Indeed I’d actually be surprised if that
+didn’t happen, and such things are not,
+in and of themselves, dangerous in the way
+popular culture imagines Skynet or any sort
+of grey goo.
+Nothing very sophisticated need necessarily
+be involved, and it’s certainly possible,
+since nature and humans produce stuff all
+the time, the difference being that nature’s
+modern complexity is the byproduct of billions
+of years of trial and error corrections, and
+humans are smarter than our factories, and
+can function in a versatile fashion when incorporated
+into one, saving a lot of trickier steps in
+automation.
+Were that to occur, we could start building
+giant ships in space a few years later, and
+if we could talk 100 Million people, about
+1% of our population, into getting on board
+these, say 100,000 people to a ship or small
+fleet of ships, we could launch 1,000 expeditions
+a year later and settle most of the star systems
+within a hundred light years of us.
+There’s no ifs on that, no other missing
+technologies.
+All you need is a self-replicating machine,
+be it a tiny nanorobot or a factory complex,
+that before breaking down is able to make
+two complete copies of itself and do at least
+some other work while it’s at it, like refining
+metal and making simple hull plates for a
+ship.
+All the other tech we discuss here can help
+with that, make it easier and better, but
+nothing else is actually needed.
+It’s making all these interstellar ships
+small enough we can build them, and yet still
+large enough able to survive the journey with
+its crew and equipment intact that’s hard
+and high-tech.
+Here on SFIA, we tend to like to incorporate
+fusion into spaceships, tech we don’t have
+yet, but if we got it that gives us interstellar
+travel, as it would be capable of providing
+the necessary speed, the power to live through
+the journey, and the ability to slow down
+on arrival.
+That last one is the trickiest part.
+Since we have discussed fusion a lot for spaceships,
+today we are going to look at an alternative.
+There’s quite a few, but we settled on the
+lowest tech and fastest one we could come
+up with.
+This will incorporate the Stellaser we looked
+at in Colonizing the Sun, a stupidly powerful
+and long range laser that requires little
+more than large mirrors orbiting close to
+the Sun.
+We will also use fission or radioactive decay
+power plants for the journey’s power source,
+explosives for any fast maneuvering, and we’ll
+review a few options for slowing down.
+Fusion is still nicer, even if you are using
+the Stellaser to get up to speed, since it’s
+all self-contained, but it isn’t actually
+necessary.
+Ship size is also highly variable, as is overall
+design, and is ultimately very dependent on
+available technology.
+The higher your tech, the smaller your ship
+can be and safely bring along everything you
+need.
+But this is mostly a matter of scale.
+Hypothetically, while a generation ship could
+cross the cosmos at 1% of light speed or lower,
+this should never be necessary.
+We should have no problem at all keeping a
+laser on a big target like several square
+kilometers of reflective sail till way out
+past Pluto, and if the ship and crew can handle
+a 1 gee acceleration, the equivalent of normal
+gravity, they’d be out past Pluto in just
+two weeks and cruising off at 4% of light
+speed, arriving at Alpha Centauri in a century
+and any of those 1000 or so nearest solar
+system in under 2500 years.
+This is, incidentally, slow enough to brake
+from using some of our existing fission based
+designs.
+This is important, since you have to be able
+to slow down on arrival, but we’ll come
+back to that in a bit.
+The longer you can keep that laser on the
+ship, the faster it can go, and speeds far
+in excess of 4%, or even 40%, of light speed
+are on the table.
+We talked about that more in Interstellar
+Highways, but to do this you need to either
+make the sail bigger or the laser more focused,
+and eventually that becomes impractical unless
+you have stations along the way helping out
+to re-focus the beam or emit one themselves.
+Those stations need power and your ship needs
+power once it’s off from the laser, and
+keep in mind once you’re light-days away
+from the source, they need days to even be
+aware that there’s a problem if the beam
+goes off target.
+Also it doesn’t have to be a light beam.
+Microwaves are handy, as we discussed in power
+satellites, so is a particle stream.
+For that matter you could do what we decided
+to call a Pacman ship, one that catches up
+on supply or fuel pods launched ahead of it
+and eats them, or where the pods are launched
+afterward, but faster, and catch up to the
+ship.
+The big constraint on acceleration with a
+manned ship is what the crew and cargo can
+handle, so a pod whose structure and contents
+can handle 100 gees instead of one, can accelerate
+to a final speed ten times higher than the
+manned ship could on the same track length,
+for however far your laser can stay on target.
+Trying to coordinate all those pods to reach
+the ship, or be caught up to by the ship,
+at the right time and place and at a speed
+it can intercept safely, is a bit tricky,
+but you can afford to lose some of those.
+Moreover, it means the ship needs some way
+to maneuver a little bit.
+We want that anyway though, so that it can
+change directions to a new system if something
+turns out to be wrong with their destination
+as they approach.
+The most logical one, for this setup, would
+be an ion drive.
+They are slow to accelerate, but provide a
+great acceleration to fuel mass ratio, so
+long as you’re patient.
+They can let you make some course corrections
+and grab some supplies, and firing them up
+occasionally to do that also helps makes sure
+they’re still working as they should.
+We’ll get to what’s powering them in a
+moment, but those pods represent our first
+example of what we mean by a colonial fleet.
+They can be strung out behind and in front
+of you, gathering information, acting as relays
+from back home if signals are getting weak
+or you’re off your original course, giving
+you advance notice about any dangers in front
+of you, mapping out the destination system
+and alternate systems ahead of you, and so
+on.
+Now if you do see something dangerous in front
+of you, you’ve a number of ways to deal
+with that, and the sooner you see it the better.
+We talked about that more in the Interstellar
+Travel Challenges episode, but if you haven’t
+got much time to dodge something ahead, you
+either need to vaporize it, which takes power
+or explosives, or dodge it quick, which an
+ion drive can’t do.
+Ironically shaped explosive charges on your
+outer hull are probably best.
+They can sit there for long times and still
+be detonated as fast as thought, or even your
+navigation computer’s thought.
+So long as you’re not getting excessive,
+it can give you a quick shove to the side
+without damaging the ship or killing everyone
+inside from too fast of an acceleration.
+You don’t want to be standing on the ground
+of a rotating section of a ship when it suddenly
+bucks at 5 gees for a second and you find
+yourself twenty-five meters off the ground
+and falling back down.
+Needless to say everything in there just experienced
+that too, so as you plummet, you’re doing
+that alongside all those nice ponds and forest
+critters you landscaped in there.
+So the ship wants to do the minimum shove,
+and you do want that automated, so it can
+react as fast as possible and with the smallest
+shove needed to dodge some unseen rock it
+can’t vaporize in time.
+The case we just mentioned was extreme, and
+potentially very lethal to many inside, but
+less so than getting hit by a few kilograms
+of relativistic space debris, and having a
+computer figuring out what the options are
+and picking the least horrible action is ideal.
+This is another reason you want a fleet, not
+a ship.
+The bigger your ship is, the harder it is
+to dodge, and ultimately you have to worry
+about any lone ship getting destroyed by an
+improbable event.
+However a pack of ships moving together, but
+say 100 kilometers apart from each other,
+gives a lot of redundancy.
+They don’t need to actually leave or arrive
+at the same time either, they can use a little
+slow thrust to get into formation for the
+long voyage, and at 100 kilometers apart,
+nothing they could encounter would cause a
+chain-reaction threat to each other, even
+a ship with an antimatter drive isn’t carrying
+so much energy that if it exploded it would
+destroy it siblings at that range.
+It’s still close enough for shuttling back
+and forth too.
+These ships may all be plowing through space
+at a decent percentage of light speed but
+they are not moving relative to each other,
+and there’s no air to cause drag between
+them, so a shuttle can just pop back and forth
+between such ships.
+That wouldn’t take much fuel but it doesn’t
+actually have to take any.
+Truth be told those ships don’t really need
+to be that far apart, but this is space and
+they can just launch tethers between each
+other for a pod to ride around on.
+Indeed if they’ve got enough tethers and
+those are strong enough, they can actually
+use those as winches to move each other around.
+It’s weird to think of them this way, but
+in many ways, for these long voyages through
+emptiness, these are not ships, they’re
+space stations, and they could assemble all
+sorts of stuff between each other during the
+mission.
+Indeed, they might all sit at the outer corners
+of a very large thin mirror being used to
+keep a beam on them longer than otherwise
+possible.
+Once they are at cruising speed, everything
+is relatively stationary, they can drop a
+telescope off to a side, extend pods out serve
+as temporary extra space, and so on.
+All of these ships are likely to have a lot
+manufacturing capability of their own and
+considering the voyage duration, a temporary
+structure behind the ship made for some extra
+elbow room that has to be brought in and recycled
+eventually isn’t likely to be a concern,
+as ‘temporary’ is decades or centuries.
+Your big concern in that regard is that, depending
+on your speed, you have a rather large radiation
+wind coming in from plowing through the interstellar
+medium.
+The faster you go, the worse this is, the
+faster your exterior add-ons will break, and
+the shorter you’ll get to use them.
+So there’s presumably a velocity at which
+these shanty towns around your armada get
+pointless.
+Though you can also carry such things behind
+you, shielded from that by your ship.
+The other handy part about those multiple
+ships is that when the time comes they can
+all split up for multiple destinations, rather
+than just one planet in a solar system.
+You wouldn’t be likely to head straight
+for a planet you want to terraform, it makes
+more sense to set up your space infrastructure
+first when you arrive, rather than landing
+and having to rebuild all that launch ability
+when you need it, which is probably right
+away, since a planet needing water for terraforming
+is best bombarded with icy comets before you
+start building homes on it.
+But what is powering everything?
+Initially that Stellaser beam of course, and
+they can turn that on low and just let it
+send a decent trickle of diffuse power for
+quite some time after you’d be out of main
+pushing range.
+Potentially, this works for the whole trip,
+but I personally wouldn’t trust that on
+its own.
+After that, of course, if you’ve got fusion,
+that would be nice, but if not, we have both
+fission and passive decay, radioisotope thermoelectric
+generators.
+Fission is handy on such ships, pound for
+pound of fuel, it’s almost as energy dense
+as fusion, and if radiation and waste is a
+concern, you can tow it behind you and kick
+your trash out the side, where it will sail
+off into the void never to trouble humanity
+again, unless a big wad of fission products
+slams into some alien civilization’s home
+world at relativistic speed of course, which
+might cause a diplomatic incident.
+But an RTG holds some interest for us too.
+These produce a nice, long, stable, albeit
+inefficient power supply, and so long as you
+pick an isotope with a half-life similar to
+your voyage time, you have an object supplying
+energy, and heat, which ships need in the
+interstellar void, that is so dumb-simple
+and durable that it is foolproof.
+Many of them would ironically make excellent
+radiation shielding too, and decay into byproducts
+that are quite safe and handy.
+If you’re worried about skills and abilities
+being lost during a voyage of many centuries,
+or even millennia, a bunch of RTGs running
+some very sturdy LED lighting might keep a
+habitat lit that whole time and livable.
+I wouldn’t want to bet my colony on it though,
+since you have a lot of time for things to
+break, hence why you need onboard manufacturing
+ability and the expertise to use it, but there’s
+not many things as sturdy or reliable as an
+RTG.
+Okay, now the big challenge, slowing down.
+Reaching your destination as fast as possible
+is nice, but the faster you go, the harder
+it is to slow down, and we would like to do
+it with no fuel.
+At all, not one drop.
+This is easy on Earth, if you want to slow
+down, just wait, friction and drag will get
+the job done.
+But in space we have neither.
+Except we actually do.
+There is no vacuum, just relative degrees
+of emptiness, and the faster you are going
+the more you are slowed when you hit any random
+speck of space dust.
+As on Earth, we can slow down faster by extending
+a parachute, so we hit more space dust.
+This won’t be viable to slow you all the
+way down probably, but every bit of speed
+you can lose this way saves you fuel.
+A lot too, under the classic rocket equation,
+a ship that massed a megaton, half fuel, half
+payload, changes speed 69% of whatever the
+exhaust velocity of that propellant is.
+To do double that, it would need to be 750
+kilotons fuel, and 250 kilotons payload, and
+to quadruple that it would need to be just
+60 kilotons of payload, and 940 of fuel.
+So even though your parachute might cost a
+lot of mass itself, if it can let you slow
+down from 40% of light speed to just 10%,
+that is an immense savings in fuel.
+Another option is the Bussard ramjet, which
+originally looked promising as a way to propel
+a ship by having it magnetically suck in passing
+hydrogen gas and slam it down a nozzle to
+collide and fuse and produce thrust.
+Only on examination it turned out that it
+would actually lose more energy than it would
+take in, causing the ship to slow down.
+Not good for propulsion but just fine for
+braking.
+And so too, a magnetic field dragging on a
+huge volume of charged particles in the interstellar
+void, is also a good giant parachute.
+Somewhat energy demanding though, similarly
+that physical parachute, even if it’s just
+a couple molecules thick, has to be rather
+massive, though you could probably use it
+for forward shielding or make it during the
+voyage, stick it out to slow you down, drag
+it back in and recycle it once you’ve slowed
+and it’s taken damage.
+Ideally we’d like to use a laser to slow
+us down, but there isn’t one on the other
+end yet.
+This is one case where extra ships are handy
+as you can all transfer a lot of fuel to one
+ship in your fleet, have it pick up some extra
+speed while slowing its sister ships down
+a bit, so it arrives sooner, and then build
+a stellaser at their destination to slow them
+down.
+Robotic probes could do this, or even a satellite
+which simply includes the mirrors needed for
+the stellaser.
+Of course the point of such a pushing laser
+is to focus light.
+As you approach a star, you will be getting
+more and more anyway.
+Even a probe with a rather large solar sail
+won’t slow down too much before ramming
+into a star this way, but if it is concentrating
+that light to shoot behind it or power a laser
+beam, it could push on another probe behind
+it, which can slow more and thus have even
+longer to decelerate from light from that
+new Sun.
+As can the one behind it.
+Indeed they can do some sun-diving and use
+that mirror braking on the Sun’s atmosphere
+before colliding or disintegrating to slow
+even more, giving them more time to push on
+their siblings.
+Each one of these can be taking more and more
+detailed photos of the system as they go in,
+and as this chain proceeds you eventually
+get one slow enough to finish braking in the
+Sun’s upper atmosphere without being destroyed,
+and now you have a big mirror near a Sun,
+and then another, and now you have a Stellaser
+that can push on your incoming fleet.
+Smart self replicating probes might be nicer,
+but this is a comfortably low-tech approach
+that works, and involves no dangerous AI either,
+though at least AI used here are just a few
+months or years ahead of your Armada, not
+roving hundreds of light years ahead and mutating
+outside your scrutiny.
+You could also use these probes to skim past
+the star, do a course correction, and keep
+bouncing light to their siblings on their
+way out to the next star.
+It’s a little debatable if we can say this
+doesn’t use fuel, since you are still using
+mass for those probes, but overall it’s
+a nicer approach than most others on the table
+with our current tech, and of those, the most
+obvious one is probably to slow down by launching
+hydrogen bombs in front of you.
+Of course that works for these too, since
+they are essentially just a giant sail, and
+they could detonate a bomb quite a long way
+ahead and slow down on that themselves, which
+gets around the problems of detonating a nuke
+right in front of your manned ship.
+The other nice thing is you only need that
+last probe, or last two probes, to carry a
+full-sized pair of mirrors for a stellaser,
+and the number of ships and mass of those
+ships doesn’t matter too much toward that,
+especially since you could send in another
+bigger pair of mirrors for that first stellaser
+to slow down, your whole fleet can now slow
+down as can any subsequent vessels following
+behind you, who can follow even faster now
+that the infrastructure is in place.
+Once down to more modest planetary speeds
+you can use the usual array of methods to
+finish slowing if you need to.
+Not all of those require fuel either, for
+instance gravity-assist, so often used for
+speedings ships up, can also be used to slow
+them down.
+We’ll look more at how big these ships need
+to be in the next installment of the series,
+Exporting Earth, in order to contain all the
+ecology we’d need, but for today we’ve
+established that even just with current technology,
+we’ve got what we need to reach other solar
+systems far faster than the original generation
+ship concept envisioned.
+So we were talking about how to get out beyond
+our solar system today and how we’d be able
+to use the Sun to power those efforts.
+While the basic principle is sound, there’s
+still so much we need to understand about
+our own sun before we can visit other ones.
+There’s a lot of other reasons to go study
+the Sun up close and our friends over at Cheddar
+have just released a video discussing those
+reasons and what NASA is doing to find out
+more.
+I’ll link it in the video description.
+They’ve been sponsoring science videos like
+this one and recently started their own channel
+covering topics like this and many more, and
+I’d suggest checking it out and don’t
+forget to subscribe while you’re there.
+Hey guys I'm Patrick Jones from Cheddar and
+I'm here today because we made a video that
+I tihnk you're really gonna like.
+It's all about two upcoming missions from
+NASA and the European Space Agency to study
+our Sun.
+So if you like Isaac's channel, like we do,
+we think you'll like our video and our channel.
+So come on by!
+Next week we have a two-parter, as we team
+up again with Joe Scott of Answers with Joe.
+We’ll examine 5 ways the world might end,
+then what we could do to prevent those happening.
+The week after that we’ll be discussing
+what sort of careers folks might pursue in
+an increasingly automated workforce, in Jobs
+of the Future.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Also as a quick note I did an interview with
+Matt Ward of FringeFM a little while back,
+and I’ll leave a link to that in the video
+description too.
+Until next time, thanks for watching, and
+have a great week!

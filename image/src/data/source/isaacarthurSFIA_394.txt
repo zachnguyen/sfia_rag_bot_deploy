@@ -1,0 +1,517 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+The Hitchhiker’s Guide To The Galaxy tells
+us that a man must walk down 42 roads
+to be called a man.
+But that seems like a lot of work for a rather
+modest reward.
+The National Space Society tells us there
+are only 31 milestones to hit
+to become an interplanetary species!
+Becoming an interplanetary species, and eventually
+an interstellar one, is not something that
+is going to happen overnight.
+Indeed, even discussing it isn’t going to
+take just one episode, so we’ll be doing
+more than one, starting today with our opening
+moves.
+It is important to realize though that this
+won't happen overnight.
+Even if we get cheap space travel tomorrow
+it will be centuries before more than a small
+fraction of our population lives off Earth.
+I thought today we’d look at some of the
+critical steps we’d expect to need to make
+along the way and what it might look like
+as we head out to space and make it our home.
+We’ll be borrowing a fair amount from the
+National Space Society’s Roadmap to the
+Stars, the most recent edition of which I’ve
+linked in the episode description.
+The Roadmap has 31 Milestones and is a concise
+but detailed and easy-to-understand look at
+this topic I’d encourage you to explore.
+Today we’ll be looking at the first 12 Milestones.
+We’ll also be referencing many of our prior
+episodes, particularly the Upward Bound series
+and Outward Bound series, which have tended
+to focus on specific topics like devices for
+getting into orbit or how we’d colonize
+a specific planet.
+You can see those episodes for specifics and
+I’ll mention them and put them up on the
+screen as we go.
+As something of a side note, as usual I’m
+writing this episode sometime before it will
+air, and in this case at the end of May when
+I was originally going to be down in Dallas
+at the International Space Development Conference
+giving a talk and accepting an award from
+the NSS, which had to be postponed for the
+Virus, and at the same time we had a rather
+historic launch from SpaceX, the first private
+launch of humans into orbit.
+So, it seemed a doubly appropriate time to
+be looking at this topic.
+If anything could be said to have dogged space
+exploration and settlement in recent decades,
+it is the seeming halt to it and the absence
+of private companies in it.
+We had the Space Race and the Apollo Missions
+in the 60s and early 70s, landing folks on
+the moon 6 times, then 50 years of no one
+repeating that.
+There are a lot of folks who think it never
+happened and, in some ways, it’s hard to
+mock them for that because the most obvious
+rebuttal is “If this was so easy we could
+do it 6 times 50 years ago, why haven’t
+we done it since?
+And why hasn’t anyone else?”
+The rebuttal to that is basically that now
+any further manned missions to the Moon wouldn’t
+be worth the cost and risk.
+Which for a lot of folks amounts to saying
+“So it's basically a big worthless rock”.
+For that not to be true, we need to be able
+to go back to the Moon in a big and permanent
+and profitable way and that requires a lot
+of groundwork which we’ll examine today.
+Same the Space Shuttle era came to an end
+and was often seen as far more expensive than
+it was originally expected to be or was worth,
+and even though the International Space Station
+has been running for a couple decades now,
+we’ve no hard plans for upgrade or replacement
+and no countries frantically waving their
+hands asking to donate more money to it.
+Many like the idea of humanity somehow doing
+away with money like on Star Trek and just
+exploring space for the advancement of science
+and the betterment of our species.
+But on the Earth, in the here and now, a good
+way to jumpstart our ascent into space is
+to make space profitable, so private companies
+are charging ahead trying to get involved.
+Eventually, hopefully, space will be the domain
+of not just big corporations but even small
+businesses and mom-and-pop operations.
+You’re not an interplanetary species until
+most of your people and business is off-world,
+and that’s why SpaceX tends to be so popular
+with a lot of us, because not only have they
+pushed orbital launch costs down quite a lot,
+the NSS’s Roadmaps Milestone 1, but also
+made a big step toward their Milestone 4,
+Establishing in-Space Commerce by Private
+Companies.
+Milestones 1-4 might be considered our baby
+steps, those are respectively lowering launch
+costs, having continuous occupancy of low-earth
+orbit, getting space tourism going, and establishing
+in-space private commerce.
+Those are continuous goals though, your first
+step but also something you keep pushing at
+and expanding.
+That first milestone, cheaper launches, is
+clearly needed, but there are many ways to
+address it, and we looked at some more grandiose
+options in our Upward Bound series, everything
+from Reusable Rockets to Space Elevators,
+Skyhooks, Mass Drivers, Orbital Rings, Launch
+Loops, and more.
+Some, like reusable rockets, are approaches
+we’re already using and improving, while
+others, like the space elevator, rely on our
+someday developing mass production of a material
+able to handle the huge material stresses
+a space elevator needs.
+But space elevators could work today with
+available materials in places with weaker
+gravity, like the moon or smallest planets.
+So too, devices like Mass Drivers might be
+good for Earth but definitely work great on
+low-gravity, low-or-no-atmosphere places like
+the Moon.
+Still other approaches like the Orbital Ring,
+while probably needing a lot of prototyping
+and offering some technical challenges, mostly
+aren’t in use right now not because they
+are hard to make but because they are major
+investments and will only save us money when
+we have vastly more space traffic.
+It’s like building a railroad across a continent,
+saves tons of money but not until you’ve
+already gotten very developed, prior to that
+it makes more sense to use something smaller
+and self-contained.
+It’s your freight train to orbit, not your
+wagon, and it’s something we’d not expect
+to see until we had that major demand.
+Such things are not our focus for today, as
+we look at early space development.
+These earlier milestones are mostly focused
+on the technical challenge of getting into
+space and the basic appeal to people and businesses
+to be up there.
+But they’re all focused on Low Earth Orbit,
+a space just a few hundred kilometers overhead,
+not the few hundred thousand to the Moon or
+the few hundred million to the Asteroid Belt
+or most other planets, let alone the many
+trillions of kilometers to even the nearest
+stars.
+One could argue these aren’t even in space.
+That the various low-Earth satellites and
+stations are just orbiting in our uppermost
+atmosphere, where the air thins out just enough
+not to drag the satellites down after a few
+hundred orbits.
+We would put almost all those low-earth objects
+even lower if we could and I would not be
+surprised if we eventually did.
+Many of our scenarios for much cheaper orbital
+launch might permit spacecraft that didn’t
+need to be refueled to maintain orbit by taking
+in air in to use as propellant and using sunlight
+as a power supply for shooting that propellant
+back out.
+Fundamentally Low Orbit is not about getting
+into space, it’s just getting out of Earth’s
+atmosphere and the air drag cost to staying
+in it.
+Getting stations higher up is another milestone.
+But we use low orbit as a testing ground because
+there are some things we need to test out.
+How well people do in low-gravity is one of
+them – we honestly have no idea what the
+health effects of low-gravity are because
+only 12 men have ever experienced it and that
+only for a few days on the Moon.
+It might be that humans can live perfectly
+well in the Moon’s gravity, and if not there
+maybe Mars.
+Until we check that we don’t know and the
+answer will matter a lot to our future in
+space.
+If the answer is no, that we can’t live
+healthy for long times on place with low gravity,
+then we’ll probably never terraform those
+places and never settle them beyond short
+term workers in outposts, with everything
+else being done from orbit of a given body
+in rotating space habitats, and indeed probably
+a lot of the work being done by remote controlled
+robots.
+Alternatively we might be able to genetically
+or cybernetically alter people to live in
+those conditions anyway, though we might have
+to broaden the meaning of ‘species’ to
+discuss humanity’s future as an interplanetary
+species at that point.
+So one of our big things to test out in low
+orbit is low gravity, by creating rotating
+space stations with equivalent gravity to
+the Moon or Mars.
+The other thing to be worked out is sustainability.
+It is expensive to bring food and air and
+water in, so we need to make it and recycle
+it and not lose much in the process.
+If the launch costs were cheap enough, we
+could constantly resupply our off-world bases.
+On the other hand, if launch costs remain
+high, very good automation lets us circumvent
+that issue by launching just a handful of
+small robots to the Moon to exploit it for
+resources.
+They build more of themselves and other manufacturing
+assets – either entirely automated or remote
+controlled from Earth – and we only bring
+up people, as many as we can but if that got
+prohibitive we could always grow our presence
+in space the alternative way of colonizing,
+by having kids as opposed to mass immigration.
+That’s likely to be the approach we’d
+have to take with interstellar travel regardless
+of whether we get cheap interplanetary travel
+or orbital launch.
+One of the more attractive-looking options
+for getting private investment far from Earth
+is Asteroid Mining for precious metals.
+That often tends to conjure a Wild West image
+of prospectors on jury-rigged spaceships wandering
+lonely through the rocks in the Belt, avoiding
+pirates, claim jumpers, and taxmen.
+Right now, we’ve no clear system for permitting
+anyone – if they found a bunch of gold on
+some asteroid – to actually mine it and
+sell it back here.
+Right now, nobody has a way to stake a claim
+to a crater on the Moon or Mars and build
+a domed farm or mining and refining operation
+there.
+Without those, without some way of ensuring
+they can keep what they invest and make, nobody
+is going to want to develop in space.
+But that raises the question of who is offering
+those assurances and guarantees.
+Who rules space?
+Two of the more obvious options are a united
+Earth Government – like the UN or something
+more sovereign – or no Earth rule at all,
+individual governments at this or that world
+with its own sovereign government.
+It tends to strike me as more likely that
+we would probably only see new sovereign states
+appearing in space in three cases: First,
+that they had grown in number so much that
+they rivaled terrestrial nations.
+Second, that they were so far away that being
+part of an Earth-based nation simply wasn’t
+practical, like interstellar colonies or anything
+out in the Oort Cloud where even routine communications
+would take months or years.
+And third, where some more powerful nation
+was essentially sponsoring them, as has happened
+often in history where some nation wanted
+to spite a rival by supporting the independence
+of some place they controlled or didn’t
+think they were in a good position to make
+a territorial claim on some place but felt
+they could more easily sponsor them as a sovereign
+and friendly state.
+This last route seems the most likely to produce
+new nations in space first.
+Some outposts of tens of thousands currently
+beholden to this or that nation or parallel
+entity have started resenting their administration
+and rival powers lean on that entity to let
+it be free to run its own affairs.
+I suspect you would first see them obtaining
+sub-division status.
+In the US for instance we have the federal
+government, then beneath that the states and
+territories, and beneath that more sub-divisions
+like counties, townships, cities, villages,
+and so on.
+A colony of ten thousand people is not going
+to be taken seriously as a new nation, partially
+because it just lacks the capacity to support
+a lot of critical government functions.
+While big organizations can often be rather
+slow and bureaucratic, they do tend to provide
+big advantages to their members.
+It’s hard to have due process and an appeals
+court for instance in a nation of ten thousand,
+where there’s probably only a dozen lawyers,
+hard to have a university with lots of professors
+in wide ranges of specialties, and so on.
+You could farm that out to others, like sign
+a treaty with a terrestrial nation to handle
+your high crimes and appeals or send your
+students to and so on, or even to be your
+big gun for diplomatic and military intervention
+when needed, and potentially not the same
+country for all these functions, and we’ll
+explore these ideas more next month in Future
+Types of Government.
+In the short term, you need legal and political
+protections for those going into space, and
+you probably need some sort of land grants
+or other economic incentives to encourage
+folks to head out there, Milestone 8.
+Once they are there, to be safer, to feel
+safer, and to operate cheaper, you need to
+improve your technologies for self-sufficiency,
+Milestone 9.
+This doesn’t have to be total self-sufficiency
+of course, only interstellar colonies would
+need that and even they could be relying on
+trade of information from back home, getting
+tech updates and so on.
+However, they do need to be self-sufficient
+in the sense of not running at a deficit.
+If a colony on this asteroid doesn’t grow
+much food, then it needs to be able to produce
+something to trade for it and at a rate sufficient
+to get what they need.
+There’s always a cost to trade so ideally
+they should be mostly self-sufficient, especially
+on food, air, water, and energy, the four
+things you need constantly to keep your colony
+running.
+Those are your big jugular weaknesses, and
+the degree of self-sufficiency is obviously
+a lot different for a space hotel in low orbit
+and a distant sub-surface rotating habitat
+in a Kuiper Belt Object far from the Sun.
+Fundamentally the same concept though, you
+need to make sure your total imports are less
+than or equal to your exports, and reliably
+so, which is often going to mean minimizing
+what you need to import, and often maximizing
+the quantity and variety of things you can
+produce locally.
+That’s a pretty big aspect of Milestone
+10, which is multi-generational survival off
+Earth.
+If you’re not stable, if you are essentially
+running in deficit, you won’t last.
+But more importantly we’re not even talking
+about humans here, we don’t know how most
+animals will fare in terms of being born in
+low gravity or inside relatively primitive
+artificial ecosystems.
+Some will likely handle it better than others
+but in some cases we might need entirely artificial
+ecosystems of very large and diverse natures.
+During this early phase we can be sending
+folks off to Mars to explore, or off to the
+Belt to find precious metals, or set up this
+or that trial method at fuel or food or air
+or water production.
+But anything truly grand up in space requires
+first tackling how we can establish reasonably
+closed ecosystems up there, and how humans
+themselves handle protracted periods in space,
+both physiologically and psychologically.
+Not just as adults, not just trained astronauts
+picked from the best of the best, but how
+you raise a kid there.
+How you keep them educated, fed, comforted,
+and employed… and also how you keep them
+safe.
+Milestone 11 is developing reliable defenses
+against asteroids hitting Earth.
+There are some nearer-term related concerns
+we’ll have to address along the way.
+For instance, our atmosphere protects Earth
+from small meteors and space debris, but stations
+and ships will need their own protection from
+these common hazards of higher orbit.
+And whatever technologies we use to adjust
+asteroids trajectories away from Earth could
+also be used maliciously to send them to Earth
+or to other targets.
+With unpredictable humans as part of the landscape,
+space will need to be watched for hazards
+more closely.
+As we start in-space fabrication of larger
+structures, milestone 12, this is a greater
+concern, more things to be hit, more things
+to shoot out debris to hit other things, more
+things potentially losing parts or trash in
+construction, maintenance, or operation.
+More places for rogue or malicious elements
+to hide out or exploit.
+But if we can conquer all of these issues,
+make it to these milestones, we’ll still
+be long short of becoming an interplanetary
+species, but the Egg that is Earth will finally
+have hatched, and we can look onward to the
+Moon and other planets and seeing a decent
+fraction of the human population begin moving
+into space, our mid-game, and we’ll explore
+that more in the next episode.
+So what does a civilization at this point
+look like?
+At this stage we’re probably not at the
+point where anyone can fly to space as easily
+as flying to another continent, or even necessarily
+to point where it’s parallel to first-class
+accommodations on a luxury ocean cruise ship,
+but there would be folks working in space
+and folks traveling there who were not either
+ultra-rich or government-funded astronauts.
+We would be expecting thousands of people
+to be going to space every year, possibly
+every week, and many for recreation or for
+jobs that had nothing directly to do with
+science.
+We would be seeing some legal framework being
+placed for nations, companies, and individuals
+to stake claims to territory off Earth or
+other limited resources like a band of orbital
+space around Earth they leased.
+And we would be seeing more and more of the
+daily needs of those in space, like air, water,
+and food - not to mention gravity - being
+supplied on sight by recycling and limiting
+waste, with an eye toward long term sustainability
+and self-sufficiency.
+We would be seeing the groundwork in place
+for detection and protection from asteroids,
+meteors, and artificial space debris getting
+set up along with the personnel and government
+apparatus for tending to that.
+We would be seeing the beginning of orbital
+industry, production, and fabrication, to
+build what we need for space in space.
+That’s the future we’re reaching for in
+part one of our journey to becoming an interplanetary
+species, and it’s a place we could reach
+within a couple generations of now, and which
+I believe most of us will live to see.
+The beginning of a bright and bold future
+out in space.
+Throughout today’s episode we looked at
+the first 12 milestones on the Roadmap, and
+some of those milestones are ones we’ve
+looked at in depth before but one we’ve
+not done in spite of many requests for it
+was on Asteroid Defense, and it was long overdue
+and is out now on Nebula, where we’ll discuss
+the realistic scenarios for an asteroid impact
+and what technologies and approaches are on
+the table for dealing with it.
+Nebula, our subscription streaming service,
+was made as a way for education-focused independent
+creators to try out new content that might
+not work too well on Youtube, where algorithms
+might not be too kind to some topics or demonetize
+certain ones entirely, or just doesn’t fit
+our usual content.
+And if you’d like to get free access to
+it, it does come as a free bonus with a subscription
+to Curiositystream, which also has thousands
+of amazing documentaries you can watch, on
+top of the Nebula-exclusive content from myself,
+like our Nebula-Exclusive series, Coexistence
+with Aliens, and many other excellent works
+by creators like CGP Grey, Minute Physics,
+and Real Science.
+If you’re a curious person, Curiositystream
+is now just $14.99, a 26% Discount, and it
+gets you access to thousands of documentaries,
+as well as complimentary access to Nebula
+for as long as you're a subscriber, and use
+the link in this episode’s description.
+Last week we looked at some truly enormous
+space habitats we might build in our future
+as an alternative to settling new planets
+and next we will take a look at how we can
+go about acquiring the vast amounts of raw
+materials we’ll need to construct millions
+of those continent sized habitats, and ask
+if we should dismantle the solar system itself
+to provide them.
+After that we’ll be back to the Fermi Paradox
+series to consider disappearing stars and
+cosmic voids, to consider if such things are
+natural or might be signs of older alien civilizations
+dismantling their own solar systems or even
+entire galaxies.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

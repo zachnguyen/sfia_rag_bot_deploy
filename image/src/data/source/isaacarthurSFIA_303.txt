@@ -1,0 +1,633 @@
+﻿This episode is brought to you by Morning Brew.
+Possibly the biggest difference between detecting 
+a ship in space as opposed to on Earth is that  
+there is no horizon to hide behind… except 
+perhaps for a black hole’s event horizon.
+Probably one of the most popular tropes in 
+science fiction is the idea of the stealth  
+or cloaked enemy vessel, station, 
+or even planet. For today’s Scifi  
+Sunday I thought we would explain why stealth 
+in space is considered so difficult to achieve  
+and discuss a few of the possible 
+workarounds to each hurdle to hiding things.  
+As always this will be a detailed discussion 
+of the topic, so if you can slip past your  
+housemates unnoticed, go discreetly grab a drink 
+and a snack and settle in for a while with us. 
+I want to emphasize though that under known 
+science the burden is high for achieving stealth  
+and a lot of our workarounds will qualify as what 
+we call Clarketech, technologies so advanced they  
+are Indistinguishable from Magic, and probably 
+technologies that will be fictional for a very  
+long time and maybe forever. With that in mind, 
+it is a good choice for a Scifi Sunday since we  
+tend to relax how stringently we stick to known 
+physics compared to our regular Thursday episodes. 
+We probably need to start by asking what we 
+mean by stealth. We are talking about hiding a  
+spaceship from physical detection from an opponent 
+with roughly equal resources and technology.  
+I feel this is a fair point to emphasize on 
+the grounds that your biggest motivation for  
+stealth in science fiction is usually trying to 
+sneak to seize tactical or strategic advantages,  
+and you do not need those if you are some advanced 
+civilization going up against one much younger,  
+smaller, and less technologically advanced. 
+You can just go in and kick their butts,  
+and sneaking up on your enemy can be reserved 
+for when you don’t already have armadas orders  
+of magnitude bigger, each composed of ships 
+able to destroy their armadas single-handedly. 
+So we are talking about stealth as hiding 
+physically from a technologically equal watcher,  
+but we’ll exclude trickery like getting an inside 
+man in to shut off their detection grid or feed  
+it shovelfuls of garbage data. Note that these 
+are two exceptions to our no stealth in space  
+rule already, and neither should be ignored. 
+Anthropological surveying of primitive alien  
+worlds might require hiding from the natives 
+and certainly implies no parity of technology  
+on their part. So too, an awful lot of sneaking 
+and stealth in modern and historical contexts  
+is achieved by trickery or bribery or so on.
+Another option for sneaking in undetected is  
+to be trying for a level of stealth deemed to have 
+a prohibitive cost to benefit ratio for detection.  
+In other words, your adversary could detect any 
+vessel you send at them, if they’re willing to  
+dedicate unlimited resources, technology, 
+and manpower to watching for it. But there  
+is always going to be a point at which the 
+expense of bigger detectors, more detectors,  
+better processing of data, and vast manpower 
+exceeds their desire for it or their resources. 
+As an example if the defense agency deems the 
+most stealthy threat to your solar system to  
+be a Relativistic Kill Missile, or RKM, and 
+deems themselves able to safely destroy one  
+a light day out without endangering those in the 
+inner system, and the current grid already allows  
+detection of them fully a light month out, it is 
+hard to justify the need to expand that grid out  
+to a light year. You might do it anyway, but 
+if the junior Senator from Pluto rises to ask  
+for quadrupling the defense budget to build a grid 
+able to detect them a light year out--and maintain  
+that extended network for decades or centuries-- 
+some might argue that it is pointlessly expensive. 
+The counter argument might be that the detection 
+level necessary to see a RKM that far out was also  
+what was needed to see some unknown but plausible 
+new threat under development. Or perhaps even an  
+indirect threat like a small probe that might 
+latch onto an Oort Cloud object, where it could  
+quietly hide and spy on the system, so a bigger 
+grid was necessary for those, the unknown threat  
+and the spy. However, that might be deemed the 
+sort of thing that just wasn’t worth preventing,  
+trying to stop unknown unknowns or keep them from 
+spying on you. Especially given that enemy’s with  
+little intel or bad intel on their neighbors 
+often act dangerously erratically, as many  
+argue often happened in the Cold War. Sometimes 
+you want the enemy to know what you are doing,  
+and not for the purpose of intimidation 
+or misdirection, since having them think  
+you are building a giant fleet when you are not 
+might make them act desperately to counter that. 
+There is also something to be said about openness 
+as a policy as an alternative to stealth.  
+In the Star Trek setting, at least in the Mid-90s 
+TNG and DS9 eras, we see the Romulans and Klingons  
+both possessing stealth technology, cloaking 
+fields, but the Federation not having them.  
+There are some contradictory reasons offered 
+for this but the main presented reason  
+is a treaty between the Federation and Romulans 
+that the Federation won’t use cloaking technology. 
+On the surface this sounds like the sort 
+of negotiated deal that only happens when  
+you just unconditionally surrendered after 
+losing or your negotiators turn out to be  
+taking bribes from the other team. However 
+it is worth noting that we don’t know what  
+the Federation might have gotten in exchange 
+for that, and one also has to acknowledge that  
+while cloaking technology very much fits the 
+sneaky conniving Romulan civilization we see,  
+with lots of intrigue and misdirection 
+throughout their culture and government,  
+it is the polar opposite to the way the 
+Federation normally acts and idealizes. 
+For long-time Trek fans, it's fair to say that 
+a cloaking field doesn’t really benefit the  
+Federation much, they already have holograms 
+for hiding from low-tech civilizations they  
+are studying, for obeying the Prime Directive, 
+and that’s their only real desire for stealth.  
+Examples like Section 31 aside, the presumption 
+on the Federation is that it's pretty open  
+about what Starfleet does and genuinely respects 
+concepts like “the People have a right to know”. 
+The Federation’s whole Modus Operandi is 
+non-stealth, and they probably assumed with  
+good reason that they could nullify the stealth 
+edge when needed. Indeed, depending on the episode  
+they seem to have a detection grid in place that 
+at least alerts them when cloaked vessels enter  
+the Neutral Zone. Alternatively their society 
+isn’t well-configured for keeping secrets  
+so stealthy bases on the enemy’s border, or 
+those of prospective new members and allies,  
+would probably be detected through espionage. 
+Or even just reading the newspaper. 
+The cloaking device tends to be pivotal to a lot 
+of debates on how the Federation does things and  
+acts as a proxy for how we ought to do things. 
+Personally I’m opposed to the Prime Directive, and  
+I don’t approve of spying on the natives because 
+I wouldn’t approve of my neighbor spying on me,  
+but the Federation at least offers a 
+reasonably ethical reason for hiding  
+themselves from primitive cultures.
+I emphasize that because I mentioned  
+how a civilization is bound to draw some sort 
+of risk vs cost line on how big and omnipresent  
+their detection grid needs to be, but they 
+also might not like the idea of their own  
+government being quite that omniscient since 
+it might turn its eye on its own citizens too,  
+and thus they might build internal blindspots in.
+Indeed that same sort of acceptable or even  
+intentional weakness is what enemy saboteurs can 
+take advantage of. Such being the case you might  
+even limit your external capabilities somewhat 
+in acknowledgement that the new extended detector  
+offers minimal advantage but the enemy could 
+easily hire a mercenary strike force from  
+your own population to go blow it up for a 
+thousandth the price you pay to maintain it. 
+Now those are some ways you can sneak 
+around without needing to be stealthed,  
+but we’re really interested in physically 
+hiding right now, and that’s very difficult.  
+To explain why, let’s start by pointing out that 
+the light coming from the dimmest stars visible  
+to the naked eye hits Earth with a brightness per 
+unit area of about 20 nanowatts per square meter.  
+In relative terms, we can see the star Vega 
+very clearly even though it's 25 light years,  
+or 240 trillion kilometers, away. It 
+is the second brightest star in the sky  
+and the one whose apparent magnitude 
+is set at exactly 0 for that scale.  
+It gives off roughly 16 x 10^27 Watts of power, 
+40 times what our Sun emits. It would drop off  
+the edge of naked-eye visible if moved about 20 
+times farther away, where it would be 20-squared  
+or 400 times dimmer. In other words, something 
+400 times dimmer than Vega appears in our sky  
+would be just barely visible to the naked eye.
+Needless to say we can do a lot better than the  
+naked eye, but as an example of the visibility of 
+spacecraft, the old Shuttles on takeoff emitted  
+around 12 gigawatts of heat and light as they 
+launched. Vega is more than a billion, billion  
+times brighter than that, but because light falls 
+off with the inverse square of distance, the  
+shuttle would be roughly as bright as Vega when it 
+was about billionth as far away or about 277,000  
+kilometers away, nearly as far as the Moon is. The 
+shuttle should still be naked-eye visible over 5  
+million kilometers away with main engines on. Keep 
+that in mind when next reading a scifi story about  
+a daring smuggler landing their ship undetected on 
+a planet. Our best modern optical telescopes could  
+see that shuttle-bright object about 10,000 times 
+further away incidentally, out at distances we  
+only discuss in terms of AU or light days, 360 AU 
+or 2 light days, about ten times the distance to  
+Pluto. We might assume more advanced civilizations 
+have better telescopes than our current ones. 
+Obviously you would have to be looking 
+right at the object to see it, which is  
+a distinct limitation with a telescope as it 
+necessarily has a very limited range of view,  
+but it illustrates a point that is probably as 
+relevant as the claim that there is no stealth  
+in space, and that is that any stealth you had is 
+gone the moment the searcher has good reason to  
+point their gear in your general direction.
+It is also important to understand that the  
+Shuttle’s drive is far too weak to do anything 
+like the maneuvering the way we see on your  
+typical stealthy scifi spaceship. They need 
+more power than that, and a powerful engine  
+emits either EM radiation or very hot gas that 
+gives off EM radiation. But their only methods  
+for stealth are either to find some way not to 
+emit it at all, to direct most of it in a way that  
+will miss the enemy’s detectors, or to have that 
+power come out as something they cannot detect.  
+Your eye for instance can’t see infrared light 
+or radio waves, and while we can make instruments  
+that can see those, we have a hard time seeing 
+neutrinos and still can’t see dark matter. 
+So if your thrust is coming out as neutrinos or 
+dark matter, you would be quite stealthy to us,  
+but it also implies you have a material 
+for deflecting, reflecting, or absorbing  
+neutrinos or dark matter and those are capable of 
+interacting with those particles by definition,  
+so you can also use them to build detectors for 
+those particles. Which triggers our earlier caveat  
+about how we aren’t discussing your ability to 
+be stealthy to a searcher whose technology is  
+way inferior to your own. In other words, if you 
+can build a drive based on some exotic technology,  
+assume your adversaries can build detectors 
+based on it too. This is usually much easier. 
+The thing is, even these seemingly invisible 
+things as propellants, invisible to us anyway,  
+still would not result in a ship we could 
+not detect. Everything in known physics emits  
+light – and truth be told even black holes are not 
+really an exception to this, not in a practical  
+sense. The frequency of that light can vary, ultra 
+hot things can emit frequencies far higher than  
+our eye can see, like ultraviolet or even X-rays 
+or Gamma rays. Colder objects can emit frequencies  
+far lower than we can see, like infrared and 
+microwaves, but nothing can really stay as cold  
+or colder than the ambient local temperature, 
+and that is 2.7 Kelvin everywhere from the Cosmic  
+Microwave Background Radiation, and in fact higher 
+inside galaxies and higher yet in a solar system. 
+We can detect microwaves and we could detect 
+something that was somehow even cooler and gave  
+off radio waves as its blackbody radiation. This 
+is the light emitted simply by an object having a  
+surface that is not at absolute zero. As a quick 
+note though, this is not totally undetectable but  
+it is pretty dark. An object at a mere 5 or 6 
+Kelvin, double the CMB but probably as cold as  
+you could plausibly get the hull of a spaceship 
+to be for an extended period even with everything  
+shut off including life support, would emit 
+less than 100 microwatts per square meter,  
+several million times less than the infrared 
+emitted by a room temperature object per square  
+meter of surface area. Very weak, but remember 
+what we calculated with seeing a star or space  
+shuttles. A cellphone or walkie talkie or 
+wifi router is only broadcasting 10-10,000  
+times stronger than a single square meter of that 
+ship’s hull is emitting. That ship is probably  
+a lot bigger than a square meter. Remember that 
+we could hear the voyager space probe even after  
+it went past Pluto and its radio transmitter 
+was only a bit stronger than your cellphone. 
+So everything emits light, in some frequency 
+or another and the frequencies and spectrum it  
+emits tells us a lot, indeed you can calculate 
+speed off the redshift or blue shift of the  
+light off from what you would anticipate from 
+other characteristics of the ship or object. 
+Not only does everything emit light, everything 
+also has specific amounts it reflects, absorbs,  
+or transmits light through itself, and for 
+any given frequency of incoming light too.  
+This means it's very hard to be stealthy against 
+someone engaging in an active scan, which is where  
+you emit light at an object and see what bounces 
+back rather than just what hits it naturally. 
+A couple things folks forget when 
+discussing this topic a lot. First,  
+they are not limited to detecting return signals 
+from the emitter, which is how we can outfox a  
+lot of terrestrial radar systems with clever 
+bouncing of radar signals hitting an aircraft.  
+Especially if it's their home system, they 
+probably have millions of satellites scattered all  
+over the place that can pick up scattered signals.
+You have to remember the plausible scale of such  
+civilizations, they really ought not be 
+tiny little villages on a single planet  
+in an otherwise empty solar system, they 
+probably have billions of space habitats on, in,  
+or around every hunk of rock in that system home 
+to quadrillions of people all living on an economy  
+powered by cheap energy and smart automation. 
+They don’t have a starship or two out patrolling  
+deep space and a few defense satellites, 
+they’ve got scouts, vanguards, and picket  
+ship squadrons that probably would dwarf the 
+typical high-budget scifi films displayed armadas. 
+And you have to remember that scale, when they 
+send out an active signal, if they want to,  
+they can be ‘pinging’ a pocket of space with 
+thermonuclear warheads, not flashlights,  
+and probably have directional detection beams 
+that can turn gigawatts of power on some tiny  
+volume of suspect space whole light years away.
+But suppose your ship has a magic ultra-black  
+hull that can absorb any frequency 
+of light it encounters. That’s great,  
+now it gets warmed up by that light and emits 
+blackbody radiation. Your ship was already  
+emitting blackbody radiation, so the increase and 
+frequency tells your enemy even more about you. 
+Okay, instead your ship can scatter light, 
+perfectly reflect it and away. That is also great,  
+your enemy probably has probes and detectors 
+all over the place, especially in their home  
+turf. They probably also know about the trick of 
+using a signal as their active detection emission.  
+So you’re not just bouncing some random light off, 
+you’re bouncing a specific frequency with some  
+pattern in it too, like the time the signal 
+was sent at and the ID code of the sender.  
+Now two other detectors at different angles 
+pick that up and between the two of them  
+they know exactly where you were 
+when that signal bounced off you. 
+That does still leave being transparent to 
+the light, but we will come back to that. 
+You also have to worry about blocking ambient 
+light, all those stars behind you, and while  
+you can simulate those by having lights on your 
+hull of the right wavelengths, mimicking the  
+spectrum of the star you would be blocking, that 
+obviously only works on one single line of sight.  
+Folks off to the side wouldn’t expect you to 
+block that star and would think it weird to  
+pickup that frequency. That said, that is a good 
+way to sneak toward a star system. You come in  
+from the direction of a very distant and bright 
+star, or a galaxy or Nebula that’s a bit of blob,  
+and because solar systems are huge but still tiny 
+compared to interstellar distances, this means you  
+have to be pretty close – in interstellar terms – 
+before the folks on Mars or Ganymede will notice  
+that there’s a dot in front or just to the edge of 
+that distant Hypergiant or galaxy that isn’t quite  
+reading what it should or is not reading what 
+the folks over at Venus or Neptune are getting. 
+Indeed this is one reason we suggested colonizing 
+the Oort Cloud, in the episode of that name.  
+You would put detectors way out at light 
+months of distance from each other,  
+and vastly extend your parallax or how far out you 
+could be seeing reflected and scattered emissions.  
+Using absorbed emissions, would allow you to 
+detect a ship passing through a beam of light  
+between two places, and you could also detect a 
+break in that light beam if you had a signal in it  
+and were spinning it around and reading 
+its scatter or lack thereof from drops  
+when something absorbed it for a brief instant.
+Though as a caveat and speaking of light beams,  
+a ship mounting several beam or laser arrays each 
+capable of emitting a picked spectrum could aim  
+one at Earth, one at Mars, one at Venus and 
+so on so that each got a tailored spectrum.  
+In this way each can be fed a different beam 
+mimicking a different direction tailored to  
+what you want them to see. This trick would only 
+work if you knew where their detectors were all  
+at and would be hard to pull off, but 
+same as you can't hide from them normally,  
+their detectors are likely to be known to you too.
+So everything emits light and everything reflects,  
+scatters, and absorbs light.
+Everything moving through space  
+also has to move through everything in space 
+too. By and large a spaceship while coasting is  
+pretty stealthy, especially compared to when it 
+does anything to change its speed or direction.  
+Any use of thrust is going to be a big 
+signal flare and will be hard to hide  
+by imposing something between you and the other 
+folks, like an asteroid, for three big reasons. 
+First, Let’s say you’re using an asteroid for 
+cover. Light from your exhaust may not be visible,  
+but you still have a big stream of hot gas blowing 
+backwards. Hot gas gives off light, and gas  
+scatters and absorbs light in a characteristic 
+fashion. So your rocket plume is still very  
+visible and this would probably apply to most 
+other drives we might imagine in some way too.  
+Second, you’re only invisible to folks 
+on the opposite side of that asteroid,  
+so same as with trying to ride a star in as cover 
+like we just discussed, by mimicking its signal,  
+anybody at a different angle is going to see you.
+And third, the faster you are going relative to  
+that object, the less time you 
+have for pulling any maneuvers.  
+A rapid course change at interplanetary 
+speeds will kill everyone in that ship,  
+and if you’re going much faster than the tens of 
+kilometers per second we consider interplanetary,  
+less than a thousandth of light speed, 
+you would even manage to kill cyborgs,  
+posthumans, androids, or AI with such a tight 
+turn. If you don’t complete the turn that fast,  
+they still see you. Turning behind something 
+big and distant like a star helps, so fleets  
+might alter course when they thought they 
+had a star between them and their enemy,  
+but their enemy probably would be aware that 
+blind spot was coming up and pay close attention. 
+Don’t rely on trying to turn behind a black 
+hole either, they are actually smaller than such  
+asteroids and they won’t hide your turn unless you 
+make it inside the event horizon, in which case  
+you are successfully stealthed but you would never 
+get a chance to brag about the accomplishment. 
+Conversations about stealth in space tend to often 
+bring in black holes and I would warn folks off  
+assuming they offer any advantages for that. Black 
+holes are not invisible, you would never have a  
+shot of getting a normal black hole undetected 
+anywhere near a star system. And beyond being  
+very visible in terms of their gravitational pull, 
+in the electromagnetic sense they are just much  
+darker than stars, except for when there’s lots of 
+gas and dust nearby them, in which case they can  
+be much brighter than stars. And that brings 
+up interstellar gas because it is everywhere  
+and denser in some spots and it reacts to being 
+hit by fast moving objects. Space may be pretty  
+empty but when you are moving at a decent fraction 
+of light speed you are hitting a lot of gas and  
+dust particles and each is going off with energies 
+comparable to atomic bombs, or even antimatter,  
+in terms of energy released per unit of mass.
+This is not something that is terribly stealthy,  
+and the faster you want to go, the 
+bigger this signature is going to be,  
+rising loosely with the cube of speed even before 
+factoring in relativistic effects. If you go ten  
+times faster each collision carries ten-squared 
+more energy, and collisions with gas and dust  
+are happening ten times as often since you plow 
+through ten times as much space every moment.  
+10 times the speed, 10-cubed means 1000 times 
+the power signature of plowing through space.  
+On the alternate side of this, the slower you go, 
+the more time the enemy has to detect you and the  
+more time they have to act once you are detected.
+This does bring up one other example of effective  
+stealth though, because same as you often have to 
+uncloak in fiction to fire your weapons, there is  
+a point at which you are going to get detected 
+and there is a point at which that no longer  
+matters, especially if you don’t have a crew on 
+board that needs to survive. It is hard to throw  
+a black hole at a star system without someone 
+noticing, not just the gravity but the accretion  
+disc it will pick up as it travels and all the 
+light and gas it will bend or accelerate and  
+all the signals passing by it that it will warp.
+Still it’s a lot stealthier than a star of equal  
+mass and it has an advantage going for it: 
+It is really hard to do anything to stop a  
+black hole rolling into your solar system 
+even with light years of advanced notice. 
+See our episode Weaponizing Black Holes for 
+a lot of the uses as well as the counters  
+and counter-counters of various natural 
+and artificial black holes as weapons. 
+So that’s the basic of why we 
+say there is no stealth in space,  
+in one sense it is hyperbole, we 
+gave plenty of ways you can hide,  
+but in another it’s one of those really 
+ironclad statements approaching a law,  
+like thermodynamics, entropy, and no free lunches, 
+or faster than light travel. You need a perpetual  
+motion machine or warp drive or time machine, 
+various bits of Clarketech, to violate those. 
+To close for the day, those also offer 
+some possible modes of stealth but often  
+the technology offers a means of detection too, 
+which is why I put that caveat near the beginning  
+about stealth only counting for opponents of 
+similar technological prowess. A time machine can  
+obviously let you avoid detection, you just jump 
+back before their detector grid existed and blowup  
+the folks who designed it, or the amoeba they 
+evolved from. Same some material that lets you  
+turn into a phantom or ghost who doesn’t interact 
+with outside particles, be it interstellar gas or  
+photons, might permit stealth but makes navigation 
+difficult for you too. The tech that might permit  
+you to navigate while in phantom mode probably 
+can be used to detect ships in phantom mode too. 
+A FTL drive, or Faster than Light drive, lets you 
+arrive before the light you are emitting arrives,  
+or the light they bounced 
+off you as you approached.  
+Some sort of perpetual motion 
+machine, violating entropy as it does,  
+might offer true cooling, even down to near 
+absolute zero temperatures of nanokelvin,  
+rather than our normal method of just moving heat 
+around. A ship propelled by selected matter to  
+energy conversion might be able to convert matter 
+into beams of neutrinos to shoot out the back,  
+and further aim them off in directions so 
+no one directly behind them and pursuing  
+them could detect. Or directly in front 
+of them as they slowed to attack a planet. 
+But beware assuming these offer no counter. If 
+your ship runs by shooting some faster than light  
+particle out the back, or communicates to home 
+with such particles, then the enemy sensors can  
+detect those particles. If you’ve got perpetual 
+motion machines for keeping your ship eternally  
+supercool, then the enemy has them for generating 
+constant and powerful active detectors and more  
+importantly maybe, for running their economy and 
+factories to churn out endless armies of probes.  
+We also need to keep that in mind for 
+quasi-stealth options like slipping your  
+ship in as a mundane natural object or as one 
+tiny ship with a fake transponder code around  
+a busy planet’s orbital space. This might 
+work but do need to be kept in context,  
+that such civilizations probably 
+do have those swarms of probes  
+and detectors and countless humans or AI checking 
+for anomalies in the data, but such pathways  
+probably do offer a better chance for success.
+We never know what new science and technology  
+might emerge to shatter this apparent rule about 
+stealth in space, but hopefully by now it's  
+clearer why this is so hard. Feel free to suggest 
+and debate some scenarios for stealth in space  
+with hypothetical technologies in the comments 
+below, or for ways to do stealth under known  
+science too of course, if you can think of one.
+I’ve heard a lot of them suggested over the years,  
+but if there’s a way to be unseen under 
+known science, I have yet to see it. 
+So we were talking about stealth spaceships 
+today sneaking up on us and I suspect I’m  
+not the only one who often checks my social 
+media only to find out some new crisis or  
+talking point has snuck up on me that 
+everyone seems to be talking about. On  
+the other hand it’s just plain unhealthy 
+to tune into the 24/7 doom-and-gloom news  
+cycle. You need to keep up with the news 
+though and that’s why I read Morning Brew. 
+It’s a daily Free Newsletter that gets you update 
+on tech, business, and finance news in just five  
+minutes, replacing dry, dense, and boring news 
+with witty, relevant, and informative content  
+and in a fast fashion that lets me get up to date 
+on the world in five minutes over a cup of coffee.  
+So I can get updates on the current space race 
+or how Bitcoin and cryptocurrency are doing,  
+and again all the content is free, it 
+only takes about 15 seconds to subscribe. 
+To envision the future we need to 
+stay up to date on the present,  
+and if you’re interested in business, finance, 
+or tech, there’s no reason not to subscribe,  
+just click the link in the episode description and 
+start waking up with Morning Brew every morning.
+So we looked at hiding spaceships today 
+and on September 23rd we’ll continue  
+that discussion by looking at not just at 
+hiding spaceships but entire civilizations,  
+as we return to the Fermi 
+Paradox for Hidden Civilizations.  
+Before that though, next week we will celebrate 
+the 7th anniversary of our first episode,  
+Megastructures in Science and Science Fiction, by 
+looking at Megastructure Death, on September 16th.  
+Then we’ll have our Monthly Livestream Q&A 
+on Sunday, September 26th at 4pm Eastern  
+Time before closing the month out by asking 
+if it’s possible for future civilizations  
+to exist without money, on Sept 30th.
+Now if you want to make sure you get notified  
+when those episodes come out, make sure subscribe 
+to the channel, and if you enjoyed the episode,  
+don’t forget to hit the like button and share it 
+with others. If you’d like to help support future  
+episodes, you can donate to us on Patreon, or our 
+website, IsaacArthur.net, which are linked in the  
+episode description below, along with all of our 
+various social media forums where you can get  
+updates and chat with others about the concepts 
+in the episodes and many other futuristic ideas. 
+Until next time thanks for 
+watching, and have a great week!

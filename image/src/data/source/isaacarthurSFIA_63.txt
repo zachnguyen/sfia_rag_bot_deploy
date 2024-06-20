@@ -1,0 +1,706 @@
+For us to live and build communities in space 
+we will need law and order, but who will make  
+the rules, what should they be, and what 
+sheriff will see that the law is enforced?
+To discuss the future of space law and regulation 
+we need to begin with Existing Space Law and that  
+mostly hinges on whatever country you live 
+in and the Outer Space Treaty of 1967 and  
+the Liability Convention of 1972, and arguably 
+the Moon Agreement of 1984. I should state from  
+the outset that I don’t personally give the 
+OST any ethical validity. You can view it as  
+a reasonable first attempt by nations to amicably 
+manage emerging efforts in space or less kindly,  
+but either way it’s a placeholder until 
+something else emerges, and hopefully better. 
+Some oversights have been addressed, 
+for instance the OST doesn’t handle  
+Space Debris but the Liability Convention 
+from 5 years later does. We could chop at  
+it all day long but I do view it as a mostly 
+well-intentioned document. Nonetheless, there’s  
+some key flaws or concerns raised about it.
+First and foremost, it’s often just vague and  
+ambiguous. The OST sets broad principles but lacks 
+specific details on many issues. For instance,  
+it states that space and celestial bodies are 
+the "province of all mankind" but does not define  
+what that means in practical terms, particularly 
+regarding resource utilization. In some ways that  
+vagueness is good, it recognizes that they didn’t 
+know how to handle a lot of problems or even what  
+those problems will be and punts to a future 
+generation or a judge who can create some case  
+law, which can then be ignored or overruled by 
+new legals statutes if it’s really bad precedent. 
+The OST is also from a period where only 
+the government launched stuff. With the  
+rise of private space companies, the treaty's 
+provisions that hold countries responsible  
+for both governmental and non-governmental 
+activities in space may be challenging to enforce. 
+Those companies can’t really rise much if 
+they can’t own things or exploit resources  
+in space and the big glaring flaw of the OST 
+is that it prohibits national appropriation  
+of celestial bodies but does not clarify the 
+rights and framework for exploiting resources,  
+like asteroid mining. You can argue that even 
+taking a sample from the Moon or an Asteroid  
+is illegal, though this at least seems academic, 
+as nobody seems to support that being the case,  
+that the OST or future treaties should ban even 
+taking samples, merely that it could be argued to  
+be the case. Though it does have some relevance to 
+contamination concerns which we’ll get to later.  
+This ambiguity has led to varying interpretations 
+by different countries too, but that ambiguity  
+doesn’t alter that it bans space colonization and 
+arguably even interstellar space colonization. 
+There’s also no real enforcement mechanism 
+or clear method for reasonable updates and  
+evolutions, and I tend to be in the camp that 
+reasons that if a law exists that no one really  
+thinks makes sense, outright bans things we all 
+want to do – like space settlement - and is not  
+enforced or setup to be improved, then 
+it isn’t worth discussing in great depth. 
+For all those reasons I don’t really spend much 
+time referencing the OST in other videos and we  
+won’t be referencing much for the rest 
+of today too, but since existing rules  
+are likely to influence near-term future 
+ones, I think we must be aware of it. 
+Current Issues
+In addition to existing treaties and law, in order  
+to discuss future space law and regulation we also 
+need to consider the current issues in play or on  
+the near horizon. In no particular order those 
+are Commercial, Space Debris, Asteroid Defense,  
+Asteroid Mining, militarization & weaponization 
+of space, contamination of worlds, ours or the new  
+ones, by our explorations, and territorial rights.
+We’ll cover those in order, but territory breaks  
+both into who owns distant worlds beyond our 
+moon, and who owns orbital space. However,  
+it goes beyond the strictly physical, because who 
+owns space isn’t like saying who owns the Moon or  
+who owns Antarctica. There’s a volume around 
+earth things can orbit in and the crisscross  
+based on angle of orbit, altitude or semi-major 
+axis of orbit, and eccentricity of orbit. So  
+who owns a given orbit? Does the passage of an 
+orbit over a given nation give partial ownership  
+or a stake over that orbit? We would usually say 
+so about the airspace above a land, so does the  
+altitude of that orbit matter? Or percentage 
+of time, so that things in a geostationary  
+orbit over a place are in its territory.
+What about a power satellite or solar shade  
+or mirror? These are enormous constructs 
+potentially thinner than tin foil,  
+so that even a few tons of material might cover 
+entire square miles or kilometers. Who owns  
+those photons it’s collecting or reflecting?
+In the past people or country’s owned land  
+and that was their main wealth, but we need to 
+widen that in modern times and further in the  
+future in orbital space. There’s a long-running 
+military science fiction series by David Weber,  
+often nicknamed the Honorverse for its main 
+protagonist, Honor Harrington, that features  
+her native star kingdom’s approach to land grants 
+like we give the aristocrats of old. We’re told it  
+can include things like owning a certain band of 
+wavelength around the planet, so that you would  
+be able to rent out the radio channels in it.
+Who owns a wavelength? Nowadays we say the country  
+where it’s at, but this might need to shift up 
+into space and as we contemplate options like  
+space-based microwave power transmission. 
+And again, our goal here is not to say what  
+is in great detail, as our rules currently our 
+essentially a patchwork quilt of handling these as  
+unrelated problems as they arose, nor can I really 
+say what these rules should be in the future,  
+but instead we merely note these problems for 
+consideration. They extend to many other things  
+as well, as we have the geostationary orbit, 
+plus the lunar and solar LaGrange points with  
+Earth to represent some analogy to a fixed 
+volume of space in a more classical sense. 
+Who has priority? And in what regard? For 
+instance, those solar shades and mirrors  
+might be critical to weather and climate control 
+on Earth and future terraforming on other planets,  
+but they represent a particularly troublesome 
+matter for regulation, as they are essentially  
+solar sails and examples of what I dubbed a lagite 
+some years back. This is an object in between  
+normal orbiting bodies and the static satellites 
+or statites proposed by Robert Forward. These  
+statites can have a precise surface density to let 
+them hover over a star rather than orbiting it,  
+with gravity pulling them and light pushing them 
+away with equal force, and both falling off in  
+strength inverse square to distance. The lagite 
+dwells between, able to combine normal orbital  
+mechanics with solar radiant pressure to achieve 
+normally impossible orbits. It might also do this  
+in conjunction with solar wind or even some beam 
+it was emitting that had momentum, like an energy  
+beam to a planet, or potentially even cargo 
+pods of matter it was receiving or firing off. 
+I suspect we’ll see a lot of these in the future, 
+inevitably for thin sail-like structures, but they  
+offer us a conflicting case as one might orbit 
+at the same period but a higher or lower altitude  
+than a typical satellite. Hence you might have a 
+transmitting satellite trying to send or receive  
+to earth with one of these lagites stuck right 
+between them all of the time. Needless to say,  
+even if no one is trying to be obstructive 
+in this use, these sorts of ultra-thin  
+and large orbitals are going to represent 
+protracted blockages in signal and visibility,  
+and are also very vulnerable to space debris.
+This is a good segue into Commercialization  
+though because a future in space doesn’t exist 
+unless it can support itself and indeed will  
+always be slow to grow unless it’s profitable. 
+Profitability can be a bit vague of course,  
+and even in a hypothetical moneyless society 
+the projects need to be viewed as worthy to  
+be continued. We did not make any money off the 
+Moon Landings. We in this case being US taxpayers,  
+but not many regret that, and so you can make 
+the case that space does not, at least for now,  
+need to be directly profitable, as people are 
+willing to buy tickets to the show, so to speak,  
+and the efforts can have secondary benefits, 
+like technologies with terrestrial usage. 
+However, most of us feel commercial ventures 
+in space will rapidly accelerate that growth  
+in space and improve our efforts there in 
+many ways. The question then becomes, how  
+do we regulate so as to encourage those commercial 
+ventures while not endangering other operations,  
+creating long-term costly problems like space 
+debris, or ceding rights over something the  
+public has claim to. As an example of that 
+last, we could imagine creating a planetary  
+wifi internet on that 2.4 GHz band we use now. 
+We could imagine a company having that contract  
+for maintaining the satellites, software, 
+and customer service, but we wouldn’t like  
+to just give them that 2.4 GHz band or sell 
+it. We might lease it to them for 25 years. 
+Incidentally that’s not a prediction 
+or recommendation, merely an example. 
+Nonetheless, I could imagine that something like 
+this was done by settlers on a new planet. We talk  
+about getting investors for interstellar journeys 
+that might take a century to get to a new planet  
+and centuries more to become a real civilization, 
+and that’s a hard sell even inside a long-lived  
+civilization with radical life-extension. But 
+I could absolutely imagine getting investors  
+by auctioning off the rights to a few bands of 
+frequency, say 2.4, 4.8 and 9.6 GHz and so on.  
+So long as they only monopolize that frequency 
+and you build in a few obvious safeguards for  
+monitoring and special access, the commercial 
+value of that is huge but no threat to the colony. 
+As an example of regulation, you might have 
+price caps or eminent domain options for it,  
+but it also might be something built right into 
+your colonial charter that you worry might have  
+major long term negative consequences if you 
+back out of it. Time lag in space travel and  
+communication at the interstellar scale tend to 
+encourage stability and trust in your promises,  
+and these will then be major coins a 
+given star system would guard like a hawk. 
+That’s a little further future, and indeed 
+so is a lot of space commercialization I  
+think would be fun for today but a bit off 
+topic and we’ll carry it over into next  
+week’s episode on Lagrange Point Space Settlement.
+In the near term, a lot of space commercialization  
+regulations are going to be about who owns 
+something, and that’s not necessarily who launched  
+it. Much of that is just establishing precedents 
+and mining current case law, in space or on Earth,  
+for suggestions on how to adapt it. As a quick 
+clarification, statute law is what legislative  
+bodies like congress or your parliament actually 
+create, verbatim, whereas case law – which is the  
+bigger chunk of it – is all those gray area 
+cases that some judge has had to rule on,  
+particularly when two laws overlapped on something 
+and a real world case has two parties each making  
+entirely reasonable, or at least logically 
+coherent, claims based on the law but opposed.
+The one that most recently comes to mind 
+from personal use, over in my other job  
+doing election adjudication, was a law that 
+vaguely stated that something would happen  
+but didn’t say whose job it was to actually 
+do it, and sometimes it might state it but  
+the position responsible was divided into 
+two or three other jobs as time went on  
+and that minor duty got missed when assigning 
+them. And that happens all the time in law and  
+sometimes because no one thought to add 
+it or because the answer seemed obvious,  
+and sometimes probably with the intent of just 
+punting that problem to the next generation.  
+Examples we might expect would be companies 
+or countries who signed on to an agreement  
+suddenly ceasing to exist or merging with other 
+entities. The dissolving of the Soviet Union  
+at the end of the Cold War would be an example 
+and one that was quite pertinent to space law.
+This can also include groups being placed in 
+limbo. Commercially-speaking, uncertainties  
+in the law are usually a bad thing, as 
+while some can exploit them and profit,  
+it generally scares off development when 
+a body isn’t sure they’re on solid legal  
+ground where their ownership or investment 
+is or will be down the road. For instance,  
+at the moment there’s a big gray area on if you 
+can actually own any object in space and if you  
+could mine an asteroid and sell the metal or fuel 
+you made from it. You could probably get away with  
+ignoring that, no one with any real capability to 
+object has much motive to currently, but anyone  
+wanting to invest in an asteroid development 
+company needs to factor in the additional risk  
+that if they’re successful they might get their 
+assets seized or some unknown new tax will be  
+applied. You can probably get an insurance policy 
+to cover that, but then that’s an extra cost too. 
+A lot of times though we come up with a law 
+or decision and everyone quietly ignores it a  
+generation later because it’s kind of embarrassing 
+in retrospect. I suspect anything we do involving  
+property rights in space now, including doing 
+nothing, will get viewed as mistakes down the  
+road. That doesn’t mean we should do nothing 
+of course, and many are hard to predict. As an  
+example, we have a lot of laws still that 
+specifically and casually say man where  
+depending on the usage maybe they should say 
+man, or maybe they really should say human,  
+or just adult human of sound mind, and in 
+the future we might need to consider what  
+those would need to say if we’re talking about 
+a fully-sentient AI or super-intelligent dolphin  
+or chimp or a collective human hive mind.
+As a general FYI I usually just use the  
+term ‘person’ for any of those cases, and 
+‘crewed’ for any spacecraft one of those  
+entities might be running, and used ‘manned’ 
+for typical humans. Context will probably make  
+it clearer in other episodes, but for today’s 
+context we are going to assume property rights,  
+and that the term ‘persons’ is only assuming a 
+normal modern human or an incorporated entity  
+like a government, foundation, or corporation 
+as is already well understood in modern law. 
+When do you stop owning something? Beyond selling 
+or giving it? If your satellite breaks up, do you  
+still own the fragments? If so, can someone 
+still claim them under salvage, and if not,  
+can they still whack you with a lawsuit when 
+a fragment hits their property? What if two  
+satellites impacted and we now have no possible 
+way to determine which bit came from which bird? 
+Can X sue Y for blocking the sunlight that 
+their satellite should get? Can the owner  
+of that satellite be sued for blocking sunlight 
+that should hit a country or reflecting sunlight  
+down on them in excess of the normal amount?
+Sounds absurd but when we move from talking  
+about a few square meters of panel 
+to several thousand square kilometers  
+of panels, the game changes a ton.
+It also matters a lot when we contemplate  
+Space Debris. Now, thankfully something like a 
+thin mesh shade or mirror takes very little damage  
+when struck by a hypervelocity piece of shrapnel, 
+the same as a machine gun isn’t terribly effective  
+against a billboard or ship sail. It gets a hole 
+poked in it, and if you have enough tiny debris,  
+it can effectively get eroded and need repaired 
+or recycled. Very thick armor on bigger ships  
+and stations can help against the problem too 
+but obviously you have a lot of applications  
+where being thin and low value, or armored 
+like a main battle tank, is not efficient. 
+Currently under the 1972 Liability Convention 
+the launching state is liable for damage caused  
+by their space objects on the Earth's surface 
+or in space. This treaty encourages states to  
+prevent the creation of debris since they could 
+be held accountable for resulting damages. They  
+presumably then have jurisdiction over how 
+they regulate launches and debris control on  
+those things being launched, which is handy 
+as jurisdiction over a given region of space  
+doesn’t seem too likely. Though in the long 
+term one could assume that an independent  
+Moon colony or Lagrange Point Settlement might 
+declare that they have physical jurisdiction. 
+What’s more, there’s obviously the issue of if 
+someone blows up your satellite and causes it  
+to damage others, and who arbitrates on country 
+X saying country Y zapped their bird and Y saying  
+they did not or they did but only because it was 
+off trajectory and dangerously likely to intersect  
+one of their space stations, or was leaking 
+debris from the damage that knocked it off  
+course and they zapped it for safety’s sake while 
+the owner’s still thought it was salvageable. 
+Now last month we discussed how to clear space 
+debris and there are a lot of possible methods  
+but the big one is just to minimize how much you 
+generate in the first place and this is area where  
+regulation is probably critical, and where doing 
+it badly could either strangle space development  
+if too heavy-handed or badly targeted, or leave 
+us vulnerable to Kessler Syndrome, where cascading  
+damage floods low orbital space with trillions of 
+dollars of once valuable satellites and facilities  
+now turned into hyper-destructive shrapnel.
+Asteroids & Space Mining 
+It is worth remembering that Space Debris 
+represents not just a potential hazard but also  
+a potential gold mine. Recycling old satellites 
+while getting paid to pick them up could represent  
+a significant sector of the space economy, but 
+moreover, not all space debris is our junk.  
+Indeed, outside of our orbital space virtually all 
+the debris we need to worry about is micrometeors  
+and asteroids. We have multiple episodes dedicated 
+to both asteroid mining and asteroid defense,  
+that get into the how-to of doing either, but 
+here our main concern is how we would regulate  
+that. Ignoring that the OST doesn’t really allow 
+asteroid mining, which I assume everyone will  
+simply ignore in the future anyway, the 
+regulatory issues are mostly three-fold. 
+First, how do we decide who owns what? And 
+that might be a process for letting nations  
+claim bits and pieces then sell them off as 
+they please, or it might be some global action  
+where the purchaser is buying it from the UN 
+and then they divide up the cash and assign  
+jurisdiction using some internal formula, 
+probably one that after careful negotiation  
+everybody agrees to and absolutely hates.
+Second is the debris and alteration issue,  
+as mining an object with no significant gravity 
+is by default going to blow huge amounts of debris  
+into space around it. It is a real concern but 
+thankfully, especially for the next few centuries,  
+a lesser one. There are a number of ways to 
+mitigate debris coming out and it’s not initially  
+much of a concern when we’re contemplating the 
+asteroid belt, which is huge and empty even  
+compared to Cis-lunar orbital space, let alone 
+low orbit, where debris is the main concern. 
+Third is transport home. Several tons of 
+metal winging its way back to Earth space  
+from hundreds of millions of miles away 
+leaves a lot of room for error and a lot  
+of reason for regulations on how to do it. And 
+it likely won’t just be tons, but kilotons or  
+even megatons of metals coming back in, or even 
+smaller asteroids being maneuvered into orbit to  
+allow them to be turned into space habitats.
+Do you need to announce what your cargo is  
+and what its trajectory will be? Do you need 
+to put beacons on it? What do we do about the  
+company that was worried about piracy and so was 
+labeling their shipments as iron even when they  
+were platinum, and so when one went off course 
+and had to be shot down before it hit a French  
+space station, all the numbers were wrong for the 
+intercept and scatter calculations and a hundred  
+ton slab of platinum crashed into the suburbs of 
+London, after crashing through that space station,  
+and now England is claiming the 4 billion 
+dollar meteorite, which is also now the  
+only remaining asset of that mining company 
+as it gets seized and sued into oblivion. 
+That incidentally is implying someone had a way to 
+blow that rogue spacecraft up, or some dangerous  
+asteroid that might get near us undetected, 
+which leads us to Weaponization of space. 
+Mining large near-asteroids strikes me as a 
+better way to handle dangerous asteroids than  
+simply blowing them up, but we need that 
+capability too and it raises the sticky  
+issue of weaponizing spacecraft and putting 
+weapons in orbit. Now as channel regulars know,  
+there is no such thing as an unarmed spaceship, so 
+long as it’s got some guidance and fuel available.  
+This is for the same reason a car can be used very 
+destructively even without mounting weapons on it,  
+but there is a big difference between a regular 
+car and a military jeep or Humvee with some armor  
+and a heavy machine gun on it. Needless to say, 
+there’s an even bigger difference between these  
+and a main battle tank or self-propelled howitzer.
+There are no nuclear weapons or WMDs allowed in  
+space but small arms are allowed and 
+at the moment not with the intent of  
+repelling aliens or boarding parties. Some 
+Russian missions had pistols on board, which  
+really had nothing to do with space, but rather 
+to safeguard the Astronaut if they came down  
+in unsafe territory. The usual example is Alexei 
+Leonov, who did the first spacewalk back in 1965,  
+and who landed in arctic tundra after a spacewalk 
+with his crewmate Pavel or Pasha Belyayev,  
+and it was a couple days before they could get 
+picked up so they were very glad for a weapon  
+against wolves and bears, rather than aliens.
+There are no wolves or bears in space and thus  
+far no aliens, but part of traffic and 
+debris management in space is deciding  
+who has authority to fire and what they can have 
+up there. What do you do if a piece of debris or  
+small asteroid is approaching your station? What 
+about a ship, possibly a damaged one, heading your  
+way? And very fast too, time is minimal when the 
+speeds involved aren’t tens of meters per second,  
+like with vehicles on the road, but tens of 
+kilometers per second. We may have no choice  
+but to allow not just powerful weapons in space 
+but automated fire control, with robots deciding  
+when to engage and with inherently lethal force.
+Trying to draw the line on where we can have  
+weapons and what types are tricky, as we are 
+mostly worried about people using orbital weapons  
+against Earth, but the need for protection 
+against asteroids or for clearance is real. 
+Asteroids aren’t the only threat from afar, 
+and Planetary Contamination is a concern and  
+a two-way street. Right now, we have no verifiable 
+extraterrestrial lifeforms, and thus don’t have a  
+clear danger of contamination, but we don’t 
+know if there are microbes on Mars yet and  
+if we might wipe out some fragile ecosystem 
+there by introducing terrestrial life or if  
+we might bring a probe home covered in virulent 
+extraterrestrial viruses. As we journey out to  
+Mars and Venus and Europa and Titan, all of whom 
+have plausible arguments for possibly housing  
+life, we need to update and improve policy and 
+rules on this concern. As well as enforcement,  
+and it is not allowed under the OST but by and 
+large it's given lip service and often not really  
+taken very seriously outside of science fiction.
+Long before we get to some distant exoplanet which  
+might house significant amounts of life, or 
+even intelligent life, we need to decide what  
+the rules will be on contamination and what 
+the enforcement mechanism would be. After all,  
+once a ship leaves on an interstellar flight, 
+it becomes rather difficult to enforce rules or  
+even monitor what they’re up to. Interstellar 
+trips and inhabited exoplanets are beyond our  
+scope for today but that discussion needs to be 
+had before those trips occur. I would guess that  
+until we find some solid sign of extraterrestrial 
+life in this solar system though, or elsewhere,  
+we won’t see any significant increase in concerns 
+over planetary contamination. We should discuss  
+it before then but until then that conversation 
+isn’t likely to result in any new firm rules. 
+The same probably applies to Bioforming & 
+Terraforming, and we’ve discussed both before  
+in their own episodes if you want to learn 
+more about the techniques but in short form,  
+bioforming is where you adapt an organism to 
+a planet’s environment, like modifying lungs  
+to breathe a lower oxygen mix, and terraforming 
+is where you are modifying a planet to be more  
+Earth-like, in this case, giving it an atmospheric 
+mix and density of oxygen matching Earth’s own. 
+This raises a host of concerns, especially 
+on inspection. No one entity is going to get  
+to own Mars, short of massive war here or there, 
+so what happens when the hundred different bases  
+from fifty different countries of origin settle 
+in and grow there and have different attitudes  
+about terraforming, and some may utterly ban 
+bioforming. Fifty of them want to terraform,  
+ten don’t want to mess with pristine Mars, 
+and forty others preferred Domes as they can  
+mass-manufacture and dump waste gas all over the 
+terrain as long as it’s a barren red rock. Who  
+decides who does what? Do the asteroid miners 
+on some larger asteroid have to vote to decide  
+if they’re going to mine it out and transform the 
+empty tunnels into space habitats or disassemble  
+it into a bigger protective sphere around future 
+habitats or even move that asteroid to an orbit  
+that’s more favorable, such as Earth-distance 
+or transforming it into an Aldrin Cycler. 
+And in centuries to come, as interstellar 
+colonies journey out, will their charters  
+have to include their intentions for 
+terraforming and bioforming before they go? 
+A colonial charter also raises Colonial Rights, 
+and I just mentioned terraforming and bioforming  
+as a concern to those colonists but there will 
+be many more, and I suspect as we colonize the  
+galaxy the number of strange new laws and special 
+cases that strange new planets add will need a  
+planetary sized legal library to house them all.
+Are the colonists who arrive at a new world after  
+a century of travel still bound by whatever 
+colonial charter they signed, or perhaps their  
+ancestors signed, when they left dock above 
+Earth? Do those colonists have a claim on an  
+entire solar system or just one planet? Or even 
+one planet? Can a colony of ten thousand really  
+claim an entire planet from Day 0, when it would 
+take a million times their number to fill it? Who  
+owns the spaceship they came on and who decides 
+who owns what part of their claim? Again, is it  
+the whole system? And if so, where does a system 
+end? The heliopause? Those vary by the Sun and for  
+mid range binaries might get tricky to define. One 
+light-day from the biggest Sun’s center? Or Light  
+week? Light Month? A whole Light year? Half the 
+distance to the nearest star in that direction?  
+Do they have a right to defend themselves, or 
+their territory, if some other colony ship from  
+another group or nation arrives planning to settle 
+another planet, or even just another continent? 
+Odds are decent that long before we send out the 
+first true interstellar colony, we’ll have worked  
+out some basics for what the rights of those 
+colonies are, but in this solar system those are  
+likely to be small offshoots of existing nations. 
+There probably won’t be a unified Mars or Moon,  
+but rather hundreds of smaller settlements 
+who all are territories of some Earth-based  
+nation and want to remain that way. They may 
+see their path forward as becoming another  
+American State or Member of the EU, or even more 
+modestly, just a county inside an existing state. 
+Or possibly a mostly on-paper member of a smaller 
+nation here on Earth in a client relationship,  
+like if several hundred larger space hotels 
+and casinos were to ask some island nation on  
+Earth to be their official nation for legal 
+matters and to whom they pay some minimal  
+member fee or to some bigger nation with 
+military might who agrees to handle defense  
+for them for a kickback from their combine.
+A path for actual sovereignty as a free nation  
+is likely to be further off and ironically might 
+occur at the interstellar scale sooner. There’s  
+not a lot of historical precedent for nations 
+having an exit clause and one that the territory  
+in question gets sole authority to exercise, plus 
+inside this solar system everyone is within a day  
+of communication time, not the months or weeks 
+that tended to delay communications and often  
+were critical factors in why regions to wanted 
+to leave the nation they were part of and what  
+allowed relations to degenerate to that point.
+However, as long as light speed limits our travel  
+and communication, an interstellar colony must be 
+independent from Day 1, and indeed unless they are  
+frozen for the voyage must exercise governmental 
+powers for many years if not centuries before the  
+new land is reached. Those interstellar ships may 
+be the basis for much of our interstellar law and  
+regulation long before the colonies they found, 
+and indeed the exchanges between those system by  
+interstellar ships, bringing trade or migrants, 
+trying to conduct business and sign contracts  
+over the vast gulf of space and time separating 
+those new worlds, may be where we see some form  
+of galactic law and regulation begin, rather 
+than any interstellar federation of planets. 
+As we reach out to heavens and try to transplant 
+our civilization there, so too will spread  
+our need for stability and binding rules and 
+agreements. I expect no uniformity in those,  
+anymore than on Earth, but as we’ve seen today, 
+while our future in space will hopefully offer us  
+great freedom to build new lives among the stars, 
+it will still need some rules and regulations.
+One of things I love about doing this 
+show is that one day we can be talking  
+about a topic like space law and regulation 
+and the next about giant space monsters,  
+and in this month’s Nebula Exclusive we’ll be 
+examining everything from huge space kraken  
+to kaiju and the sandworms of Dune to ask what 
+science tells about their biology and if we might  
+end up encountering, or even engineering, 
+enormous space creatures… and of course,  
+if and how some explorers or pioneers 
+might survive encountering or fighting one. 
+That’s out now exclusively on Nebula, our 
+streaming service, where you can see every  
+regular episode of SFIA a few days early and 
+ad free, and all our other bonus content,  
+including extended editions of many episodes, and 
+more Nebula Exclusives like, Giant Space Monsters,  
+The Fermi Paradox: Hermit Shoplifter 
+Hypothesis, Ultra-Relativistic Spaceships,  
+Dark Stars at the Beginning of Time, Life As 
+An Asteroid Miner, Nomadic Miners on the Moon,  
+Space Freighters, Retrocausality, Orch Or & 
+Free Will, Colonizing Binary Stars, and more. 
+Nebula has tons of great content 
+from an ever-growing community of  
+creators. Using my link and discount it’s 
+available now for just over $2.50 a month,  
+less than the price of the drink or snack you 
+might have been enjoying during the episode. 
+When you sign up at my link, 
+https://go.nebula.tv/isaacarthur  
+and use my code, isaacarthur, you not only get 
+access to all of the great stuff Nebula offers,  
+like Giant Space Monsters, you’ll also be directly 
+supporting this show. Again, to see SFIA early,  
+ad free, and with all the exclusive bonus 
+content, go to https://go.nebula.tv/isaacarthur
+This week we looked at regulating space and 
+next week we’ll be looking at real estate  
+in space as we ask what Lagrange points 
+are, why they’re so valuable as locations,  
+and what settling them might be like. Then 
+we’ll explore Conformal Cyclic Cosmology and  
+the possibility that a previous universe may have 
+existed over which ours is layered on top, before  
+we head into February to look at Death Worlds 
+and surviving on ultra-dangerous planets. Then on  
+February 8th we’ll examine homesteading in space, 
+and what might draw pioneers to new colonies and  
+what sorts of life and challenges they’d face.
+If you’d like to get alerts when those and  
+other episodes come out, make sure to hit the 
+like, subscribe, and notification buttons. You  
+can also help support the show on Patreon, and 
+if you want to donate and help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early and 
+ad free on our streaming service, Nebula,  
+along with hours of bonus content like Giant 
+Space Monsters, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

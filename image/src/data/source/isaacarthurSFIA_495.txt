@@ -1,0 +1,698 @@
+This episode is sponsored by Brilliant
+The Universe has been around for billions
+of years, yet we’ve only been studying it
+for a few centuries, who knows what secrets
+it still keeps and what strange technologies
+we might develop as we discover those?
+So today’s topic is Clarketech, a term we
+use on this channel for referring to technologies
+that generally operate outside the bounds
+of known physics.
+We’ve a lot of material to cover so you
+might want to grab a drink and snack, possibly
+a slice of pie.
+We get this concept of Clarketech from a trio
+of adages by science fiction writer Arthur
+C. Clarke, known as Clarke’s Three Laws,
+particularly the third one.
+They are:
+1) When a distinguished but elderly scientist
+states that something is possible, he is almost
+certainly right.
+When he states that something is impossible,
+he is very probably wrong.
+2) The only way of discovering the limits
+of the possible is to venture a little way
+past them into the impossible.
+And...
+3) Any sufficiently advanced technology is
+indistinguishable from magic.
+The third one is the most quoted but as a
+group they highlight the reason we generally
+won’t say anything is impossible.
+But this shouldn’t be taken too far, and
+folks tend to fall into a sort of intellectual
+laziness by constantly asserting anything
+is possible.
+We do not constantly change our physical laws
+and overthrow science, that’s a truism,
+but we are constantly adding to our knowledge
+and often find weird cases or exceptions,
+usually minor tweaks or phenomena that become
+the exceptions that cement the rules.
+On this channel we usually try to look at
+the future under known science, picturing
+a future where those known rules more or less
+hold up, to show that we can accomplish many
+impressive deeds without relying on technologies
+that would be practically magical to us nowadays.
+Nonetheless, none of us really expect our
+current understanding of science to be complete,
+even ignoring that we have a lot of open questions
+still to answer.
+We take as a given that those questions, once
+answered, will spawn more, and that some of
+those answers will open some truly game-changing
+science akin to what Special Relativity or
+Quantum Physics did.
+Since we don’t know what we don’t know,
+this is often a bad approach for contemplating
+the future.
+A comment like “Anything is possible”
+does us little good, since that would not
+just include things like faster than light
+travel or time travel, but the Moon actually
+being composed of Blue Cheese, with a thin
+crust of rock having accumulated on top of
+it.
+So Clarketech is not ‘anything is possible’
+but what might be plausible if something specific
+in our understanding of the Universe turned
+out different, though we generally include
+any technology common in science fiction too,
+like force fields or teleportation.
+Many of the examples of Clarketech already
+have well-known names too, and we have covered
+some of them and will skim them today, especially
+since we don’t just want to mention examples
+of Clarketech but talk about their implications
+on civilization if we had them.
+There’s no way we can possibly cover them
+all with any depth in a single episode though,
+so this is fundamentally an overview episode,
+and we’ll add to it as time permits.
+We will also run a poll over on the community
+tab of the SFIA Youtube channel with them
+all listed, to see which we’ll cover next.
+Often a technology created in science fiction
+has all sorts of secondary uses the author
+didn’t think of, which can wreck a lot of
+the plot when contemplated, and for a lot
+of these technologies there are uses folks
+wouldn’t normally think of that are often
+far more valuable.
+For instance, this month we’re celebrating
+the Hitchhiker’s Guide to the Galaxy as
+our series for the month, and in that we have
+the Infinite Improbability Drive, a ship drive
+that can basically take you anywhere very
+quickly but does so by playing with probability
+in often crazy ways, as the engine warms up
+to the increasingly improbable.
+Changing missiles into whales or petunias
+was one example, as was burying a starving
+planet in a rain of fried eggs.
+Playing with luck is a common technology or
+ability in science fiction and fantasy, I
+think because the authors know the protagonists
+constantly bumping into world changing events
+and surviving being at the epicenter of them
+strains plausibility so much.
+Larry Niven plays with being lucky as an evolved
+trait in Ringworld and his other Known Space
+novels, and Robert Jordan’s Wheel of Time
+series has characters who are Ta'veren, a
+name given to people who destiny tends to
+center on, thus explaining their typical heroic
+properties of stumbling into crises and opportunities
+and surviving them, but with weird local effects.
+In a town they’re visiting many things will
+happen that are possible but improbable, like
+every coin landing on heads when flipped or
+people finding buried coins when they dig
+a new well, or bad things, like a windstorm
+knocking free a single roof tile that flies
+through the air to hit someone on the head
+and kill them.
+Now consider this ability to affect probabilities
+in the context of Quantum Mechanics, and the
+various quantum events that as best as we
+can tell are truly random.
+We know many particles have half-lives, a
+period of time where there’s a 50/50 chance
+they will decay.
+They may not, and it would be atypical for
+one to decay exactly at that time, one with
+a half-life of 24 hours might decay a second
+later, or a century later, but if you have
+trillions of them in one spot, same as flipping
+coins, a day later almost exactly half of
+them will have decayed.
+If you can manipulate those probabilities
+you might be able to make it so that half-life
+changed, or that every coin landed on heads
+when you flipped a switch, in this case, every
+particle decayed right at that moment.
+When playing with luck we think of surviving
+the odds, winning the lottery, or getting
+struck by lightning, we don’t think of an
+amazing and compact power generator where
+some fairly benign and long-lived radioisotope
+might, at the flip of a switch, suddenly start
+decaying very quickly.
+It can also potentially be used to play with
+things like fusion too, allowing improbable
+combinations of smaller elements.
+Or to make stable isotopes, ultra-big atoms
+that should decay almost instantly but do
+not, one possible way to create materials
+in the hypothetical island of stability, very
+dense elements with far higher atomic numbers
+than uranium that may actually be stable,
+itself arguably a type of clarketech.
+It also makes for a potentially terrifying
+weapon, planets tend to have tons of fissile
+materials at their center, and suns all work
+by a constant coin-flipping of hydrogen atoms
+combining to fuse, if you could screw with
+the probability of that happening even just
+a little bit, you could potentially blow up
+either, or go backwards, suppress nuclear
+reactions to shut off a star or keep a nuke
+from detonating.
+There are plenty of simpler examples from
+physics as well.
+The Second Law of Thermodynamics postulates
+that every closed system proceeds toward a
+state of higher entropy, but the entropy of
+a physical state of the system is actually
+just a measure of its probability.
+In other words, the highest entropy state
+of the system is just it’s most probable
+one.
+If you have closed canister of gas, nothing
+in physics precludes all the gas molecules
+from bouncing over to the left side and leaving
+the right side in vacuum for a while--it’s
+just an improbable coincidence, far less probable
+than the state where that gas spreads out
+evenly--and of course staying in that state
+for long is far less probable than returning
+quickly to what we call the normal state.
+It’s important to understand that the Second
+Law of Thermodynamics is a probabilistic statement--though
+statistics pretty much turn into laws when
+you’re looking at Avogadro’s number of
+particles--but even this basic law of physics
+will fail near an Infinite Improbability field.
+These are the kind of implications such technologies
+could have that we and authors tend to skip
+over, focusing instead on just winning at
+cards or dice a lot.
+And we have another, that leads us into another
+example of Clarketech too, the Perpetual Motion
+Machine, since fundamentally entropy is a
+probability-based process as well.
+We also shouldn’t rule out that if you can
+play with probability, you can also make things
+which have a 0% chance or 100% chance so they
+can occur or don’t occur.
+Since we are speaking about violating the
+Second Law of Thermodynamics, perpetual motion
+machines are probably the most prominent technologies
+that are forbidden by it.
+Now a perpetual motion machine is a bit of
+blanket term, most physicists and engineers
+using the term generally mean anything which
+violates the laws of thermodynamics, an easy
+example being a bike wheel that if spun never
+slows down from air drag and friction, or
+which actually speeds up.
+Note that it does not necessarily need to
+violate conservation of energy to do this,
+it might for instance have some weird property
+that lets it leech momentum and energy off
+air particles it hit, cooling them while it
+speeds up.
+No new matter or energy is created, just moved
+in violation of entropy.
+Such a thing, if invented, has huge implications
+on many things we discuss here.
+We often talk about the Fermi Paradox here
+and something we call the Dyson Dilemma, the
+issue that expanding civilizations ought to
+want to take advantage of all the matter and
+energy they can, by englobing or disassembling
+their own sun and any others they encounter.
+We had some caveats on that, and one of those
+was perpetual motion machines or other thermodynamics
+violating devices.
+This both reduces the need to grab power sources
+and partially negates the “No Stealth in
+Space” rule, because it’s mostly the emitted
+waste heat that makes it impossible to hide.
+If you can constantly recycle your energy
+supply without entropy in the way, then every
+house just has a magic bike wheel in the basement
+with a generator attached and is super insulated
+to not lose heat.
+This is essentially an eternal setup, immune
+to the slow decay of the Universe.
+If it conserves energy you still have to worry
+about slow losses to leakage, and you still
+need matter and energy to expand too.
+If it doesn’t obey conservation of energy
+this is a truly eternal setup, because you
+need not worry about leakage and you can actually
+create matter from energy, matter is just
+one state of energy after all, and you can
+convert energy into mass by ripping quark
+pairs apart.
+For instance, rip two quarks apart and the
+energy needed to do that produces two new
+pairs of quarks instead.
+You can also dump it into black holes, which
+mostly emit photons as Hawking Radiation but
+also produce some particles too.
+But this is where those implications can radically
+shift our view of the Universe.
+I’m rather notoriously of the opinion that
+intelligent alien life is ultra-rare, so rare
+most galaxies and maybe even most superclusters
+won’t have birthed one yet, precisely because
+of the reasoning of the Dyson Dilemma.
+Show me a bike wheel that never slows down
+without an external power input and I’d
+instantly have to revise that opinion.
+By a reverse of that, I tend to assume faster
+than light travel and time travel – arguably
+the same things - are impossible, because
+the Universe is huge, likely far larger than
+the Observable portion of it or even infinite,
+and is still very young.
+If you can travel from any place, or time,
+in the Universe to another, it begins getting
+truly absurd to assume no one has landed here
+on Earth.
+The moment a single species emerges with such
+technology, it can not only colonize the whole
+of the Universe, but go back and colonize
+it the moment it became livable, or even further
+back and just tap the superhot and dense era
+for matter and energy.
+“One-and-done” Fermi paradox examples,
+where it only takes a single example of a
+behavior to negate a solution, are the worst
+kind.
+The same applies for traveling between alternate
+realities, like colonizing empty Earths where
+humanity hasn’t evolved yet, or traveling
+to parallel universes.
+You can visit or colonize a lot of places,
+so making the sum total of reality larger
+never helps to explain the Great Silence,
+nor does any technology that allows such travel
+to be easier.
+We’ve covered FTL methods more elsewhere,
+including the old FTL series, so we’ll bypass
+further discussion, except to note that when
+we were looking at wormholes we commented
+that if you could make the classic portal
+or gate we see in science fiction, you’d
+potentially get unexpected uses like dropping
+one end of a wormhole into the Sun to provide
+cheap power, or to regenerate stars by siphoning
+off helium and adding hydrogen, or weaponizing
+the thing by dumping one end in a star and
+the other as a giant flamethrower on an enemy’s
+planet.
+Teleportation, which we discussed in detail
+last year, offers many of these same options.
+You can make some very fast and cheap ships
+if you can teleport or gate in fuel or propellant
+to a ship.
+Though often one would wonder why you would
+need spaceships at all, when you can just
+gate or teleport from world to world.
+More mundane uses would be people having them
+in their houses, where doorways lead to other
+rooms located on different planets or even
+realities, kitchen on Earth, breakfast nook
+on Mercury, and so on.
+This would be handy for storage too, you could
+have a closet opening to a warehouse somewhere
+else, or even cabinets or backpacks like that.
+This brings up the notion of Hammerspace,
+named for old cartoons where the character
+could yank a hammer out of thin air to hit
+someone on the head.
+Folks who play Dungeons and Dragons will know
+it as a Bag of Holding, and of course the
+TARDIS from Doctor Who, bigger on the inside
+than the outside.
+It could come in a lot of forms, like a box
+that on the outside was a cube a foot across,
+but on the inside was a foot wide and long
+but a mile deep.
+This is obviously handy in any civilization
+with filing drawers, refrigerators, or magazines
+for guns, since it allows huge and easy storage.
+It raises the question of if that mass is
+reduced too though.
+Normally the assumption of Hammerspace is
+the mass is being nullified or reduced too,
+and that has some awesome secondary effects
+as well.
+Not just for classic storage, letting you
+carry all your junk around in your pocket
+or cram a mansion into a closet.
+You could store huge amounts of mass in there,
+which would be a handy way to get around gravitational
+compaction for building megastructures or
+fueling ships if your pocket dimension ignored
+inertial mass.
+That’s an important distinction too.
+We tend to use mass as a single concept but
+we’ve got 3 types of mass.
+Inertial mass – what resists us when we
+push on something to speed it up.
+Active gravitational mass – what generates
+gravity to pull on things.
+And passive gravitational mass – what is
+getting pulled on by gravity.
+One of the mysteries of modern physics is
+why inertial mass and gravitational mass are
+the same, but perhaps they don’t have to
+be.
+The ability to manipulate one or all of these
+is an entire category of Clarketech.
+They’re also decently plausible options
+too, gravity is the first of the 4 fundamental
+physical forces we discovered, but also the
+weakest, and arguably the least well understood
+too.
+It’s entirely possible we might figure out
+how to generate gravitons or block them from
+hitting something, an example of anti-gravity,
+itself one of the best known Clarketechs.
+This whole area is terribly underexplored
+in science fiction though, especially considering
+artificial gravity is ubiquitous in scifi.
+A lot of the interest in playing with mass
+is with negative mass and matter, it’s fairly
+critical to most hypothetical FTL ship drives,
+but even just being able to mess with one
+of the three types of mass, reducing it rather
+than making it zero or negative, or increasing
+it, has huge implications.
+We’ll skim those today, but a ship that
+could drop its inertial mass while maintaining
+its kinetic energy could flick that on and
+suddenly leap up to a huge speed, shut it
+off and drop back down again, totally altering
+our normal view of ships not being able to
+stop mid-flight or parking next to each other
+to exchange fire rather than flying quick
+passes.
+It also allows way cheaper and safer spaceflight,
+since a ship moving at relativistic speeds
+might not have tons of kinetic energy anymore,
+expensive energy that also made it a giant
+weapon for ramming into planets.
+A similar type of Clarketech is the reactionless
+drive, and this would be one avenue for producing
+such a thing or a close approximation.
+It also rearranges our thinking on megastructures
+a lot, you don’t build big rotating sections
+because you have artificial gravity, but you
+also don’t need to worry about size much,
+since you can resist gravity.
+No super-huge constructs collapsing under
+their own weight.
+You can also go the flip side and increase
+gravity, potentially allowing micro-stars,
+local areas low on mass but high on gravity
+where fusion could ignite easily, or where
+micro-black holes could be easily formed.
+Of course we can potentially already do some
+tricks like this by using Dark Matter, if
+we could figure out how to use it, since it
+interacts with nothing except by gravity,
+so if you could manipulate it you could make
+high gravity regions that were otherwise empty.
+One possible way of making slow time fields,
+for instance, since mass slows time but you
+can’t really put valuable things in such
+places as it would tend to be ultra-hostile
+there, like a neutron star, wherever you piled
+enough mass to seriously slow time down.
+This raises interactions with matter where
+we normally can’t, and dark matter is a
+great example since its value is that it interacts
+with virtually nothing, but this makes it
+hard to use for the same reason.
+We have materials that can absorb photons
+and produce electricity, or vice-versa, photovoltaics.
+One could imagine materials that interacted
+to contain dark matter, or other weakly interacting
+particles like neutrinos.
+If you could make a solar panel that converted
+neutrinos into electricity instead, you’d
+gain access to a huge amount of power that
+also wasn’t blocked by things like clouds
+or our planet, the two big problems with normal
+solar power.
+Call this photoneutrionics, and that would
+also be handy for communications, no disruptions
+from walls or such.
+Parallel technologies might be photogravitics,
+panels that absorbed light and produced gravity,
+or the reverse, absorbed gravity and produced
+photons, which would be very handy for lighting
+many of those bigger megaearths or shellworlds
+we sometimes discuss building around small
+or degenerate stars, which are a pain to light
+normally.
+If it absorbs light and produces gravity,
+you might end up with Dyson Spheres or Swarms
+where you lived on flat plates absorbing light
+and producing gravity instead of the classic
+cylinder habitat.
+Even very limited improvements in such technologies,
+like ones that merely reflect light normally
+but can reflect frequencies we can’t really
+build mirrors for, like gamma rays, would
+be incredibly handy for things like fusion
+or kugelblitz black holes.
+Indeed Kugelblitz black holes, which we’ve
+discussed extensively here, are mostly Clarketech
+because of a lack of gamma ray mirrors.
+Being able to play with the physical laws
+or constants directly is yet another type
+of Clarketech.
+We don’t know why the various constants
+like gravity or the speed of light are what
+they are, unless you subscribe to the Simulation
+Theory, where those are set by the computer
+programmer.
+There may be other universes where they are
+different.
+However, we can’t rule out that we might
+be able to alter them locally one day, same
+as we might be able to play with probability
+one day as we discussed earlier, and with
+some overlapping effects too, since a lot
+of things like nuclear interactions are based
+on the speed of light or other constants.
+That’s another of the Fermi Paradox solutions
+too, that civilizations might migrate to Universes
+with physical constants that were more optimal
+or tuck themselves into pockets of space where
+they’ve messed with those.
+Light lag is a huge problem for any advanced
+civilization, FTL is often suggested as the
+solution but being able to make a pocket of
+space where the speed of light was just higher,
+or gravity weaker or stronger, or so on, might
+solve many of those issues.
+This isn’t just physical constants either.
+This episode is coming out Pi Day, 3.14, and
+of course is followed by a lot more digits.
+Historically a lot of folks have tried to
+make it a rational number, though the more
+extreme stories like Iowa trying to set it
+to exactly 3 are fictitious or exaggerated.
+Still, imagine if you could set Pi as being
+exactly equal to 3, or make a circle that
+had only 359 degrees, or 361, or a box where
+anything going off the right side emerged
+on the left, like in some old computer games.
+You could presumably make a simulated universe
+where that last one was quite true.
+Needless to say building your own Universes
+or being able to simulate them is Clarketech
+too, especially types of reversible computing
+that might let you get around how many simulations
+you can make from available mass and energy.
+We mentioned having a bike wheel in the basement
+as a perpetual motion machine running your
+house for eternity, but you could use that
+exact same tech to run a huge simulated universe
+too, benefitting from its entropy violating
+ability to let you use the bonuses of cold
+computation for hyper-efficient computing
+we discuss in the Civilizations at the End
+of Time series.
+You could have your own simulated universes
+in your basement then, your own virtual worlds,
+something we discussed a couple months back.
+Of course Clarketech that gets around things
+like the Landauer Limit or other computing
+limitations might be on the table too, and
+we have a lot of Clarketech in that category,
+though it’s worth noting that things like
+nanotech and utility fog or smart matter – little
+micromachines that can take any form or quickly
+construct things for you, probably are not
+Clarketech, as they operate inside known physics,
+though more extreme forms that do it faster
+or at smaller scales, picotech and femtotech,
+arguably are.
+See the Santa Claus Machine episode for some
+of the limitations on speed and micro-sizing
+that we’d have to overcome for these technologies
+and which are imposed by known physics when
+we dissect them and look at practical considerations
+like heat loss, chaos, noise, and the sticky
+fingers problem.
+Speaking of computation and chaos, one of
+the big problems with weather forecasting,
+let alone any human prediction technology
+like Isaac Asimov’s psychohistory, is chaos
+and exponentially increasing needs for processing
+when forecasting complex systems, so Psychohistory
+for instance would be an example of Clarketech,
+and one we discussed in its own episode.
+We have so many more, we haven’t even discussed
+things like building matter out of things
+other than up or down quarks, like the strange,
+charm, top, or bottom quarks, or creating
+new types of matter entirely.
+What about magnetic monopoles or magmatter
+or neutronium or structures built of frozen
+light or tachyons?
+We haven’t discussed speeding up time, the
+universe lets you slow time but not speed
+it up, that would be another Clarketech.
+We hinted at building pocket universes here
+with different laws, but what about building
+pockets universes like ours but in different
+universes with different laws, like the Webway
+from Warhammer 40k?
+What’s the effect of such places on the
+Universe, around the edges?
+Would you get weird boundary or fringe effects
+or their own type of event horizon?
+Could uses of such things be a type of suicide
+pact technology?
+Invent time travel and instantly erase your
+whole civilization when you use it?
+Could you have places that violated causality?
+We talk about being able to augment our minds
+to be able to learn faster or store memories
+better or even transfer memories to others
+or delete them, but what about a technology
+that did not delete a memory you found unpleasant
+but deleted the event itself?
+Needless to say, we’ve only scratched the
+surface of possible Clarketechs and the uses
+and implications of those we’ve briefly
+touched on.
+As mentioned we’ll do a poll over on the
+SFIA Youtube community tab to see which ones
+we’ll do next, either as their own standalone
+episode, or possibly a few in a single episode
+or shorter bonus episodes for them.
+We’ll also open a poll on our Facebook Group,
+Science & Futurism with Isaac Arthur, where
+you can suggest your own Clarketech options
+and discuss the implications of these various
+techs, and I’ll certainly welcome any thoughts
+on them there or in our Youtube comments section
+below.
+One problem with keeping to a scientific approach
+to futurism is it can sometimes restrict your
+thinking on the possible a bit, so it is often
+good to fish around for thoughts from folks
+who might be able to think outside the box
+on a topic a bit easier.
+However, and I’d put this as a big warning
+on this episode and topic in general, many
+technologies people dream up or write up in
+science fiction tend to fall apart on inspection
+from known science and upon consideration
+of the implications that they have to have
+on the plot and narrative.
+And again, it really is lazy to just say ‘anything
+is possible’, and not too useful either.
+We study and learn, we find out what is possible,
+and we occasionally have to alter or even
+massively overhaul our thinking on that.
+Knowing how the real science and math works,
+knowing what we do know, is invaluable, I
+don’t think I need to try hard to convince
+anyone of that here.
+It’s also something our friends at Brilliant
+excel at explaining, with practical courses,
+quizzes, and daily problems on topics like
+heat and thermodynamics that make the topics
+far more intuitive to learn.
+Learning more math and science is hard, but
+incredibly beneficial in virtually every aspect
+of life, including just the joy of understanding
+the world around us better.
+And places like Brilliant make that learning
+far easier, by presenting topics in easy to
+learn and interactive ways that let you learn
+easier and at your own pace.
+A lot of the technologies we discussed today
+are restricted by Thermodynamics, for instance,
+and we discuss it a lot on the channel as
+a major limitation on what we can do, but
+it can often be unclear to folks why it is
+such a restraint and Brilliant's Science Essentials
+course is a great way to learn about thermodynamics
+and demystify that topic.
+In addition to many great courses, they have
+an online community to help you and discuss
+the material with, and fun daily problems
+that help to exercise your mind and encourage
+you to challenge yourself everyday.
+If you’d like to learn more science and
+math, go to brilliant.org/IsaacArthur and
+sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription...so you can view all the Daily
+Problems in the archives and unlock every
+course..
+Before we get to the schedule, I just wanted
+to announce that the upgrades on our website,
+IsaacArthur.net, are complete, and we’ve
+added some features like a catalog of all
+the various books I’ve recommended over
+the years and a new forum, as an additional
+place you can discuss the concepts and ideas
+we look at here, and while you’re there
+you can take a look at some SFIA merchandise
+we have available.
+Next week we’ll be returning to the Civilizations
+at the End of Time series to take a look at
+how civilizations might survive around the
+deaths of their own suns, and explore some
+extreme options like living on white dwarfs
+or converting neutron stars into giant computers,
+as well as the Supernova Engine, one of those
+extreme types of technology we so enjoy here
+on SFIA.
+The week after that we’ll return to the
+Generation Ships series for an equally extreme
+style of ship, moving entire planets around
+as colonization vehicles, in Planet Ships.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you’d like to support future episodes,
+you can visit our sponsors or donate to the
+channel on Patreon.
+Until next time, thanks for watching, and
+have a Great Week!

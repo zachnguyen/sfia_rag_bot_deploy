@@ -1,0 +1,531 @@
+Hanging a 2000 kilometer long railroad in
+the sky, suspended 80 kilometers in the air,
+might seem rather fanciful, but as we will
+see today, it turns out to be a pretty cheap
+and practical option for space travel.
+Whenever we see a rocket launch, it is going
+straight upwards, which often seems a bit
+confusing since the velocity needed to orbit
+the Earth is side-to-side, not upward.
+Of course rockets do need to get up a ways,
+so that they don’t crash into a mountain
+or anything.
+After rockets rise a bit and clear most of
+the atmosphere they fall over on their side
+in a gravity turn and accelerate laterally
+instead.
+On places like the Moon, where there’s virtually
+no atmosphere, rockets don’t need to take
+off straight up, they can go straight down
+a runway.
+With no air to generate lift they will stick
+to that runway until their speed reaches orbital
+velocities.
+That is after all what orbital velocity is,
+the speed necessary to move sideways faster
+than gravity pulls you down, so the curvature
+of the planet, the horizon, slopes away as
+fast as you fall down toward it.
+Now it would be nice to have a runway on Earth
+up above the atmosphere so you could do the
+same, but this still has limited advantages.
+The nice thing about a runway is that it gives
+you something to push off, instead of tossing
+matter out the back of your spaceship to do
+your pushing.
+You still need energy to do that pushing,
+so a very good runway would provide you that
+energy too.
+The conceptually simplest approach is an electric
+motor spinning wheels that are running over
+the top of a long heavy gauge wire that is
+conducting electricity.
+The vehicle has a metal brush on the bottom
+that brushes along that wire permitting the
+electricity to flow from it to the electric
+motor.
+Such a magical runway, up above the
+atmosphere, would allow you to drive an electric
+car up to orbital speeds and right into orbit.
+Now our topic for today, the launch
+loop, is a little more sophisticated than
+this, but the basic concept is the same...
+suspend a runway in the upper atmosphere that
+provides a spaceship something to push against
+and the energy to do that pushing, so that
+it doesn’t need onboard fuel.
+Not very complicated conceptually,
+but this runway does need to be thousands
+of kilometers long and a hundred kilometers
+above the ground, something which is more
+easily said than done.
+So is transferring power to that vehicle,
+or pushing against that runway, when the vehicle
+is moving thousands of meters a second.
+You can’t exactly rely on rubber wheels
+or metal brushes at those speeds, the friction
+would vaporize them in an instant.
+We get around the contact issue by
+avoiding it, and use magnetic levitation,
+just as with MagLev Bullet Trains.
+But our solution to height is something called
+Active Support, and it’s going to form the
+basis for today’s launch system as well
+as the ones we’ll be discussing in the next
+two episodes of this series.
+In this respect, they essentially form a connected
+trilogy and will finish off the main portion
+of this series.
+I won’t say close it out, because we’ll
+probably come back, but these three episodes
+cover the big ticket items that form the basis
+for a truly high-capacity launch system.
+We will be looking at the simplest
+forms, ones that we could build now for fairly
+reasonable prices and use for relatively normal
+launches, and also the scaled up versions
+capable of lifting megatons of freight and
+passengers into space which include all three
+systems working in tandem as a hybrid form.
+Now every episode in this series is
+supposed to be essentially self-contained,
+so I will discuss active support in each,
+but this episode will feature the more detailed
+explanation and I recommend watching them
+in the following order: Launch Loops, then
+Space Towers, then Orbital Rings.
+Active support is our method for overcoming
+the limits nature imposes on compressive or
+tensile strength.
+We discussed those earlier in the series,
+but the short form is that while it is possible
+to build giant pylons to hold a runway or
+railroad track aloft a hundred kilometers,
+it's not particularly practical.
+And we definitely do want that runway
+or railroad track.
+Fundamentally, every system we’ve discussed
+has either involved making rockets more powerful
+or cheaper, or getting around the rocket equation
+by letting us supply energy to a ship, and
+provide something for it to push off or with,
+without having to carry that energy and propellant
+along.
+Let’s start by reminding ourselves what
+passive support is.
+Most structures are passively supported by
+their various load-bearing members.
+Weight rests on them and compresses them,
+and so long as you don’t put too much weight
+on them, all is well.
+How much is too much depends on the material
+and its compressive strength.
+You can also go the reverse way and pull on
+things, placing them under tension, like suspending
+yourself from a rope.
+Too much weight on that rope, too much tension,
+and it will break.
+How much is too much depends on the material
+and its tensile strength.
+Very long or tall things have to carry not
+only the weight of whatever you want to hold
+up, or hang up, but also their own weight
+pushing on lower levels or pulling on higher
+ones.
+As we discussed in the Space Elevator episode,
+we can increase this distance by either lowering
+gravity, like building on the Moon or Mars,
+or by tapering the load-bearing element, making
+it wider at the bottom for compressive strength
+or wider at the top for tensile.
+No matter what though, you begin to hit practical
+limits.
+These materials are relying on the binding
+forces either holding molecules together or
+keeping them apart.
+We often discuss super materials capable of
+stretching thousands of kilometers into the
+air, like carbon nanotubes, but even then
+it would require pushing those boundaries
+quite a bit to allow us to make a space elevator,
+let alone what we want, which is more extreme.
+Not just holding a smaller tower or spaceship
+up, but holding up an entire city, or even
+hanging a planet or black hole over a city.
+Active Support does let us do such things.
+So what is Active Support?
+Exactly what it sounds like, you are actively
+pushing upwards on something to keep it from
+falling.
+What keeps a rocket from falling down when
+it’s a hundred meters above the pad?
+A big stream of superheated propellant shooting
+out the back, countering gravity’s pull.
+We have as many ways to provide active support
+as we have ways of pushing on things, but
+the key trick is doing it in as close-looped
+a way as possible.
+Short of a perpetual motion machine you can't
+close it completely, and you will need to
+add energy, which seems to be a turnoff for
+many folks, but keep in mind that every structure
+requires energy and resources to maintain.
+Incidentally that closed-loop part is why
+today’s structure is called a launch ‘loop’.
+Let’s begin with the simplest active support
+system we can make.
+A fan or heating vent pointed upward with
+a sheet of paper floating on it.
+That is active support.
+Shut off the air and the paper falls.
+You could also do this with a firehose, aimed
+upward to push on the bottom of a plastic
+plate.
+If the stream of water is perfectly aimed
+and the water pressure maintained, it can
+hold the plate aloft indefinitely.
+If we felt like making that plate out of bullet-proof
+armor, you could actively support it by having
+a squad of soldiers firing machine guns at
+it from below.
+Basically this is how the Space Towers work,
+which we will discuss in the next episode.
+We often call these dynamic structures, in
+part because we can actually change their
+height.
+The launch loop is one such dynamic structure,
+which takes a slightly different approach
+to active support.
+Simply put, we turn on the support and a giant
+runway lifts up from the ocean.
+There are actually a few types of Launch Loops
+but the best known version, which itself has
+a few variations, is the one we usually call
+the Lofstrom Loop, proposed by Keith Lofstrom
+way back in 1981.
+He has improved upon the design and explanation
+since then and I will include his 2009 write
+up on it in the episode description.
+He’s quite detailed but keeps to pretty
+simple language and it explains it well, so
+I will use his example of the concept.
+Imagine a stream of water from a hose pointed
+at an angle into the sky.
+The Stream forms a parabolic arc, each particle
+is rising and falling on a ballistic trajectory,
+forming a parabola controlled by the speed
+and angle the water comes out at.
+Much as an artillery shell’s ballistic track
+can exceed the height of any building we’ve
+ever made, this stream of water, if fast enough,
+could form a big arc kilometers high, and
+since we are constantly adding more water
+this arch will remain.
+You could keep things up at the top of it
+by letting water bounce off the bottom of
+them.
+Of course anything you had up there would
+move in the direction the water was going,
+but we could make a second stream of water
+running backwards, forming a second arch pushing
+the opposite way, and we could put a plate
+on top of both so it didn’t drift either
+way.
+Now if we had a big basin at either end, we
+could catch the water falling from one stream
+and pump it back up in the other stream.
+Now you are probably thinking of a few problems
+with this concept.
+First the water isn’t going to stay in a
+nice neat stream and land in that basin, second
+that plate might not drift forward or back
+but it will probably spin, and third, it takes
+a lot of energy to shoot water.
+We can fix these though, and we won’t be
+using water for the loop anyway, but imagine
+we wrapped a thin hose around the stream to
+keep the water in, and now that plate up top
+is resting on the two hoses and so not spinning.
+We could also make the water go in a circuit,
+conserving power.
+You still need to supply power, it’s not
+a perpetual motion machine, but we can save
+a lot of energy that way.
+Also, we can slowly turn the pressure down,
+then off, and lower the hoses to the ground
+when not in use.
+That’s saves a lot of power too, and illustrates
+another reason why we call it a dynamic structure,
+since we can change its shape as well as adjust
+the elevation.
+You might be wondering how this qualifies
+as a flat runway or track, since it is clearly
+a parabola, not a straight line.
+But keep in mind that a track a couple thousand
+kilometers long and staying at the same altitude
+above Earth is not a straight line either,
+anymore than Earth is flat.
+If we are firing artillery shells or water
+streams in parabolas, by shooting them faster
+and faster, you eventually reach a speed where
+it turns into a circle instead, since it is
+actually now in orbit.
+This is exactly how early, pre-rocketry designs
+for spaceflight worked, build a cannon so
+big that it no longer shooting parabolic trajectories,
+since the range is so large you can no longer
+treat the Earth as flat.
+That’s the concept, and we would make very
+big hoses and lay down a platform over them
+with a way to transfer power to the spaceship
+we are launching, an electrified track for
+instance.
+Now the actual Lofstrom Loop doesn’t use
+water, though it is typically over an ocean
+since that’s a nice safe empty place to
+build one.
+Instead it uses a stream of iron running down
+a vacuum tube.
+This can be a series of connected metal balls
+or links, like a big bike chain, of magnetically
+sensitive material.
+However Lofstrom’s loop is simply one long
+hollow wire, or hollow iron cylinder, called
+the rotor.
+It is only 5 centimeters wide, and with the
+walls .25 centimeters thick, and presumably
+several thousand kilometers long.
+That is very flexible by the way, it is not
+a rigid iron rod, just a metal wire that’s
+rather thick and hollow.
+You will use whatever the engineers decide
+is most practical, a big particle accelerator
+works too, basically though it’s a stream
+of matter running around inside a vacuum tube,
+never touching the sides, pushed away by magnetics,
+so there is no friction.
+It just keeps looping around, though you doubtless
+lose some energy, and with superconducting
+magnets you would lose even less.
+Lofstrom’s loop is 2000 kilometers long
+and 80 kilometers high, it also masses several
+kilograms per meter giving the whole loop
+a mass of several thousand tons, the rotor
+alone comes in at about 16,000.
+Which is actually quite light for something
+as long as an interstate highway.
+Needless to say you can scale it up but it's
+big enough for a 5000 kilogram vehicle in
+this design.
+Lofstrom works through virtually every conceivable
+detail and scenario in his paper, which again
+is attached in the episode description, down
+to the power requirements and individual components
+for this size of loop, so I’ll stick with
+that for specifics.
+Again it can be scaled up, and I’d assume
+loosely linearly, double launch mass, double
+loop mass, and power and financial costs.
+More on those in a bit.
+So why 2000 kilometers long and 80 kilometers
+high?
+For the former, that’s just how long you
+need to accelerate at 3 gees to reach orbital
+velocity, same as the mass drivers we discussed
+before and you can make it longer if you want
+to accelerate slower or make it shorter if
+you can handle more acceleration.
+Like the mass driver this can be combined
+with a sky hook to let you go shorter on the
+track.
+Why 80 kilometers?
+There is a good reason but it can be lower
+or higher.
+So low in fact you could use this as a bridge
+between islands.
+However, 80 kilometers is high enough to be
+over most of the atmosphere and avoid serious
+drag effects on the vehicle, but still low
+enough that many meteors will be vaporized
+before hitting the Loop, and probably more
+importantly there are no stable orbits for
+space trash to follow and collide with your
+Loop.
+There’s not much air there to drag on our
+spaceship, but it's still enough to cause
+a fast decay for anything orbiting at that
+height.
+The launch vehicle itself rides on top of
+magnets and is just like a maglev bullet train,
+but with no air to interfere, or at least
+very little.
+It takes momentum from the rotor, which needs
+to be replaced, but needs no on board fuel.
+This would be a space plane design, and carry
+only what fuel it needed for maneuvering in
+orbit or going higher, though a longer loop
+could launch you into higher orbits.
+You would land conventionally, using aerobraking
+like the shuttle did.
+It is possible to land on such a loop too,
+where aerobraking isn’t an option, but one
+has no reason to build such a system where
+that’s the case.
+Unlike a lot of our other systems, the Launch
+Loop is mostly only useful for Earth.
+It serves no purpose on the Moon, where there
+is no atmosphere to be above, and you would
+only be elevating your track to avoid local
+geography... crater walls, hills, and other
+possible obstructions.
+That low gravity and low altitude allows normal
+supports to lift your track.
+The launch loop is only necessary where you
+have an atmosphere.
+One place it would be very handy is Venus.
+You can for instance float a mass driver in
+Venus’s very thick atmosphere, but not only
+do you still need a wide thick vacuum tube,
+not a small one just big enough for the 5
+centimeter wide rotor, but you also can only
+float stuff using buoyancy as high as your
+lifting gas permits.
+Here on Earth we’ve gotten balloons 50 kilometers
+high but that is not 80 kilometers and they
+were nothing but balloon.
+We weren’t hanging heavy masses on them
+either.
+However with a Launch Loop on Venus you can
+put the lower part of the structure down where
+even normal air is a good lifting gas and
+let the active support lift the higher portions
+up to where the atmosphere is too thin for
+buoyancy alone.
+You can use this trick with gas giants
+too, but it requires some extra effort, they
+tend to be quite thin and composed of hydrogen
+and helium, our two preferred lifting gases,
+so you have to use things like vacuum balloons,
+which we’ll discuss next episode, or more
+active support structures like the Orbital
+Ring.
+So how safe is the loop?
+More or less the same safety factor as a mass
+driver, but that rotor, the big long metal
+wire running around the loop, is carrying
+a ton of energy.
+Actually its carrying about a megaton of energy,
+in terms of explosive yield.
+So essentially there’s a decent sized nuke’s
+worth of juice running around that loop, but
+even if the thing blew apart, that energy
+is 80 kilometers up and spread over 2000 kilometers,
+and it not radioactive.
+For that matter the rotor is traveling at
+orbital velocities, so a lot of it would fly
+up into orbit or even beyond, since the default
+speed of the rotor exceeds Earth’s escape
+velocity.
+The track itself would just fall, and we could
+use explosives to break it into chunks and
+let parachutes bring it down.
+Having the rotor slice its way out of the
+conduit is going to severely damage it too,
+so breaking it up with explosive bolts isn’t
+a big deal since you will be needing to replace
+lots of conduit anyway.
+Also, it’s a good idea to design it to float
+on water as well.
+That’s for a critical failure, you
+can also lower it by just shutting off the
+power, it will actually take quite some time
+to descend that way.
+It’s usually assumed to run on a few hundred
+megawatts, replacing lost power, and it takes
+days to raise or lower that way, though you
+can add more power to raise it faster.
+You normally wouldn’t build these
+near cities though, and oceans are considered
+preferable to land.
+This lets you put it down near the equator
+and it can float on the surface while you’re
+doing repairs or replacing a segment.
+A scaled up version could include a lot more
+redundancies, additional loops and so on,
+but it would also have more energy in it so
+you might hesitate to put it near a city as
+well.
+But these can be any length or angle you want,
+so you could actually run it between two cities
+and have a very fast bullet train between
+them.
+They also normally have tethers coming
+off the sides to help stabilize it like guy
+wires.
+A very scaled up version of this could actually
+use those tethers as entry ramps from other
+places, if you were building over land.
+These are the sorts of things you would
+need to plan for, and Lofstrom goes into just
+about every safety factor and concern I can
+think of in his paper so I will refer you
+to that, again linked in the episode description.
+There are quite a few though, it is a bit
+of engineering nightmare with only our current
+technology, but it does appear doable.
+As to cost, here’s the fun bit.
+Again Lofstrom was very detailed with this,
+down to tables for individual parts, and he
+gives an estimate including research costs
+to build the loop of just 2 billion dollars,
+and an average launch cost of $3 per kilogram.
+It actually beats the space elevator.
+He also only uses components and technology
+we already have, and again we don’t need
+mass produced carbon nanotubes like for the
+space elevator.
+All of which sounds excellent but it does
+have some problems.
+First off, being that long and relatively
+flimsy, you do have to worry about weather
+a lot more, especially down at the loops and
+inclines running up.
+It also runs very hot, though that issue is
+eliminated if you have superconductors in
+play, and the price to run it would drop a
+bit too.
+You are stealing your launch energy from the
+rotor and have to put that back, and if you
+want to be running constant launches you need
+two big power plants at either side of it.
+Personally, I love the Launch Loop,
+especially when combined with skyhooks so
+that you can lower the track length and energies
+involved.
+Fundamentally it is a lot like the mass driver
+but you get to skip on the big expensive vacuum
+tunnel as wide as your ship in favor of one
+about as wide as your wrist and avoid the
+issue of trying to hold the tunnel high up
+in the air.
+Of course holding much heavier objects like
+that tunnel stationary at high altitudes would
+be handy too, and we will be examining those
+methods in our next episode, “Space Towers.”
+We will look at using Active Support for that
+as well and also take some time to discuss
+buoyancy options like balloons or even towers
+made of buoyant segments.
+After that we will finally move onto the Orbital
+Ring and explain a lot of the hybrid options
+we can use with that to create the kind of
+massive orbital infrastructure a civilization
+needs if it wants to be moving millions of
+people and millions of tons of cargo back
+and forth from Earth to orbit on a daily basis.
+For alerts when that and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until Next Time, Thanks for Watching, and
+Have a Great Week!

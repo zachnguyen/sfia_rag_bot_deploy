@@ -1,0 +1,550 @@
+Archeology has long utilized advanced new 
+technologies to help us recover our ancient  
+history. There is a certain poetry in using the 
+tools of the future to uncover our past, much  
+as we use those experiences of the past to help 
+us better navigate a safe path into the future.
+Last Fall, I attended an event that was a mix 
+of both a technology & futurism conference and  
+a camping retreat, as it seemed like a great 
+place to fish around for some episode topics,  
+meet some fun thinkers, and take a brief 
+vacation. My Fellow Youtuber and long-time  
+friend, Cody Don Reeder, from Cody’s Lab was 
+there too, and on the last day of the event  
+we decided to attend a talk by Professor 
+Brent Seales on Archeology and a technique  
+he’s been developing for scanning old, damaged 
+scrolls that we can’t unwind anymore and which  
+might be scrunched up and soaked in sediment.
+It was an inspiring talk. Using modern scanning  
+and AI, they can virtually unwind the scroll and 
+read it. It’s a fascinating approach which we’ll  
+be talking about at more length in a little 
+bit, but it made me want to see what other  
+advances were being made in Archeology. I was 
+impressed to see how much technology was being  
+adapted to archeology to help us explore and 
+recover our shared past; in areas like geology,  
+medicine and many more, which we’ll look at 
+today. There’s a lot of amazing ideas to cover,  
+so settle in, grab a drink and a snack, 
+and hit those like and subscribe buttons. 
+One of the key things to understand when going 
+into today’s topic though is that archeology  
+suffers from the problem of being inherently 
+destructive. Digging around and opening up  
+sites means that important context about what 
+was near what might be lost, and cleaning up old  
+art or relics can damage them - though where 
+we’re at right now is a big improvement from  
+the past. For example, Athens today has much of 
+its ancient Greek past visible, but in the late  
+19th century when that was all excavated, the 
+Ottoman, Byzantine, and Roman layers were often  
+recklessly destroyed to get to that. We have so 
+many sites where we know there is new knowledge  
+to be had but they’re afraid of damaging a 
+lot of it in the process of recovering it. 
+On the flip side, time all on its own can ruin 
+things further, and while a relic that’s already  
+thousands of years old might not suffer much more 
+waiting a century for better and safer technology,  
+it is one more century for time and natural 
+disasters like fires, earthquakes, and floods  
+to strike. Or worse yet, wars - bombing in the 
+first and second world war destroyed many museums,  
+and many archaeological sites continue to be 
+leveled and looted in conflicts today. We have  
+many damaged books and scrolls in our possession, 
+slowly decaying further because we know if we  
+open them now, they’ll simply crumble to dust.
+But even beyond that, it is very common for us  
+to find artifacts because a farmer’s plow 
+or construction crew’s excavator smacked  
+into them and dragged them up out of the ground. 
+That’s not generally very good for those objects,  
+and as soon as someone moves it, the context 
+might be scattered and destroyed. The artifacts  
+also may not be recognized for what they are, and 
+even if they are, they might be quietly destroyed  
+or sold discreetly and anonymously, in a hope to 
+circumvent any regulation that might shut down  
+operations there until it’s been evaluated. It is 
+also hard to know purpose if something gets moved,  
+if something was buried with someone for 
+ceremonial purposes or used in a kitchen,  
+that’s important info, and lost 
+if it’s scattered many paces away. 
+And that’s a good place to begin our discussion, 
+because any recovery process has to begin by first  
+discovering an archeological site, only then can 
+we work to dig it out and classify, organize,  
+and interpret what we find inside. And this is 
+where LIDAR and ground-penetrating radar can help. 
+If you have a field or a construction site, 
+the ability to detect things of archeological  
+interest by GPR, or ground penetrating radar 
+is huge. At the moment, we still need some  
+reason to think it is worth the effort to bring 
+GPR equipment into a site and check. While we  
+do have some other techniques, like using soil 
+electrochemistry to help survey for buildings,  
+GPR has been a huge benefit over the traditional 
+method using excavation and shovel tests to narrow  
+down where the site actually is and finding 
+objects tends to involve setting up a grid and  
+picking just a few spots to dig and sift through, 
+and it is very time-consuming and labor-intensive. 
+GPR, which can be used to build maps of large 
+areas without any excavation[a], including  
+knocking over a house that might be on the 
+buried site, can help you figure out the likely  
+layout of an ancient village and start making good 
+estimates where things of interest are, but again,  
+at the moment it’s a bit prohibitive for finding 
+new sites. That may well change as fundamentally,  
+a GPR device is relatively cheap, 
+in the tens of thousands of dollars,  
+but likely to get much cheaper with time and 
+scaled up production and use. Indeed the usual  
+frequency range is 10 Megahertz to 2.6 Gigahertz, 
+and 2.4 GHz is what most internet Wifi is done at. 
+Given the various other data you can lift with the 
+right software, like where rocks are at and how  
+land might settle if plowed or built on, I really 
+would not be surprised if it became routine to do  
+GPR scan of all construction sites, and maybe 
+even farm fields, or the entirety of all land,  
+including the now submerged spots near 
+rivers or coasts. In a case like that,  
+and with the help of either AI or volunteers 
+or both, we might be able to inspect every bit  
+of Earth’s surface in the coming decades and find 
+virtually every relic humanity left in the ground.  
+At the very least, cheaper and easier scanning 
+makes it much more palatable to those working on a  
+piece of land to let it get scanned and only have 
+those critical bits with buried material get roped  
+off. You can remove things faster too if you know 
+where everything is buried at, and I could imagine  
+robotic excavation making that even easier.
+Not that we’re always looking for human relics  
+either. Sometimes archaeologists are not looking 
+for items or ancient buildings. They’re trying to  
+investigate how the landscape itself was. Rivers 
+and lakes seem like permanent features to us,  
+but they can change course or disappear 
+over the centuries. The kind of trees  
+and grass that grew in an area can help us a 
+lot too, when trying to understand a place. 
+The technique to investigate this aspect is called 
+"auger survey". It requires collecting a deep soil  
+sample and analyzing it. The kind of soil or 
+fossilized seeds contained in the sample can  
+give us incredible data about our ancient past.
+To collect these precious samples, a long but  
+small-diameter bore tube is used, akin to how 
+we can survey other worlds, like Mars or Europa,  
+or gather ice cores. Right now, auger surveys 
+are done by hand or by small petrol engines.  
+It's a tiresome and time-consuming activity. 
+But we can easily imagine a Mars-like rover  
+helping our future archaeologists.
+If robotics and automation technology  
+continues to keep getting cheaper and 
+better however, this method could become  
+much more common to do, like with LIDAR as well.
+LIDAR, short for light detection and ranging,  
+rather than anything laser or radar, lacks the 
+ability to penetrate into the ground like GPR has,  
+but in many ways is even better for finding small 
+objects in the ground, if they’re on the surface,  
+or poking out. A plane flying overhead with LIDAR, 
+releasing thousands of pulses of light per second  
+from overhead, can quickly spot relatively tiny 
+things like a tombstone fragment. Its impact on  
+Archeology to date is already huge, helping 
+us find over 500 new Mesoamerican archaeology  
+sites of both Olmec and Mayan origin, 
+some dating back to as far as 1400 B.C. 
+When it comes to detecting objects and revealing 
+telltale signs of an artificial origin, like  
+right angles and straight lines, the frequency, or 
+wavelength of the electromagnetic radiation you’re  
+using controls your resolution. Loosely speaking, 
+your resolution is about the same as your  
+wavelength, and a radio pulse with a wavelength 
+of meters isn’t letting you image details smaller  
+than that. You could see a statue was there, 
+but only as a blob, whereas something in the  
+millimeter or micrometer range lets you see that 
+statue's fingernails and buttons. Or the writing  
+engraved into a piece of stone. And LIDAR can go 
+through leaves too, up to 4 bounces, and by having  
+a plane or drone fly overhead releasing thousands 
+of pulses a second, each from a slightly different  
+spot, that lets you roll over a forest and 
+find things on the ground, or poking out of it. 
+You can do this to a jungle too, as we used LIDAR 
+to find a 1200 year old city lost in the Cambodian  
+jungle. It also helped find other related sites 
+near Stonehenge, 60 giant pillars forming a  
+mile wide super-henge around it. It’s been very 
+useful for other sites in England and New England  
+for that matter, and even in the Everglades 
+of Florida. It can be used under water too,  
+depending on clarity it can penetrate anywhere 
+from a few feet to over a hundred. It’s very handy  
+for finding underwater obstructions near shores 
+or in rivers for boats to safely travel. And  
+one dangled by a cord underwater near the seafloor 
+rather than from a plane overhead could do better. 
+Archaeology rarely gets the funding that one might 
+wish. The sheer value of LIDAR for other uses,  
+much like GPR, means it can benefit from 
+improvements made for other purposes and  
+even scans done for other reasons, which 
+include everything from terrain mapping to  
+law enforcement applications. Automated 
+Drones are the big future of LIDAR,  
+but they have handheld ground units these 
+days too and it is another thing that I  
+would not be surprised to see have a future 
+incarnation as a feature of your smartphone,  
+though that might be a bit optimistic. Scanning 
+and digitization of archeology in general is  
+huge though, and will only improve with ever 
+more and better data. [b]Using photogrammetry  
+and structured light scanning is allowing us to 
+learn things about artifacts we never knew before. 
+As I was putting this episode together and 
+asking folks in and out of archeology what  
+the big new techs helping the field out 
+were, the one I heard over and over and  
+most enthusiastically was LIDAR. It’s not just for 
+finding objects in the middle of nowhere either,  
+LIDAR can be used to help spot cracks and leaks in 
+the basement, for instance, or where water might  
+flood across a field that isn’t quite flat. That’s 
+very handy for helping properly apply drainage to  
+a worksite or farm field, as well as water and 
+fertilizer, and even pollutants in the water. 
+And we have other scanning methods that 
+can penetrate rocks or higher layers,  
+such as through magnetometry, or tiny robots 
+that can snake their way into old ruins,  
+through tiny cracks and fissures, or by 
+drilling small holes. And this means we  
+don’t need to necessarily dig something up. It’s 
+a weird way to look at doing archeology, but in  
+many ways our goal is to leave things buried if we 
+can[c]. Often this is because we suspect we’ll be  
+better at learning from the site without damaging 
+it in the future, which has turned out to be true  
+and likely will only continue to be more true 
+with more time. It is hard to be patient where  
+curiosity is concerned, especially since time also 
+damages things. Non-destructive scanning offers  
+us the chance to strike a good compromise, 
+leaving things buried for future excavation  
+while learning much of those secrets now.
+So we don’t really want to excavate some old  
+village, not if we can make a digital recording of 
+its layout without ever needing a shovel, except  
+maybe to grab some specific artifacts which might 
+have art or writing we couldn’t otherwise see. 
+Artificial Intelligence though might let us 
+get around even that. As I mentioned near  
+the beginning, it was a talk on using scanning 
+techniques and AI to unwrap ancient and damaged  
+scrolls virtually that got me wanting to do an 
+episode on Archeology. In addition to classic  
+X-rays, there are many frequencies of light, 
+not to mention other non-photonic radiation  
+methods like electron microscopes that can 
+pass through things opaque to our vision. 
+You can spot things of different density and 
+makeup, like a layer of parchment where you  
+could see the difference between ink soaked-in 
+from writing a letter, and a spot left blank,  
+and we could tell how deep that is and thus 
+build a complete three dimensional image of  
+all the paper or parchment pages or layers 
+and where the ink was, or even where two  
+different types of ink were used, colors 
+or some other writing medium like pencil. 
+Conceptually that’s easy enough to convert into a 
+virtual book or scroll you can use without having  
+to open it, except the virtual version is on 
+your computer and doesn’t require much software.  
+But what if part of that scroll had gotten wet, or 
+was under a leak that was dripping muddy sediment  
+on it. Or if a chamber of papers in some basement 
+depository got flooded and was left to dry, and  
+after opening a few and seeing them rip or they 
+just got left alone to get mildewed. Or a shelf  
+collapsed and crushed or mashed some damp ones.
+I probably don’t need to sell anyone on the value  
+of archeology and history who is already several 
+minutes into an episode titled “The Future of  
+Archeology”, but if you need extra reason why 
+document recovery is valuable to a society,  
+then keep in mind that forensics often need to 
+restore paperwork that’s been damaged by fire,  
+water, shredding, time, or all of the above. 
+So a lot of these techniques will be valuable  
+to more than just understanding our ancient 
+past but solving modern crimes too. Truly,  
+the job of detective and archeologist often 
+overlap and that certainly applies to the tools,  
+whether its destroyed incriminating documents or 
+ancient scrolls, and you can use the modern ones  
+for real evidence of how these processes work.
+As an example, by taking newly made scrolls  
+with known writing and patterns on them, 
+and subjecting them to similar damage,  
+we can teach an AI to take a scan and unwrap 
+and repair that scan to show us the original.  
+This is easier said than done of course. And this 
+brings us to the Digital Restoration Initiative,  
+because there are vast numbers of damaged 
+ancient scrolls that we have recovered  
+over the years that have been wisely left 
+untouched as they couldn’t be safely unrolled. 
+Virtual unwrapping and Digital Restoration got 
+their start back about the turn of the century  
+with the repair of some of the burn damage to 
+the Beowulf Manuscript that occurred back in  
+the 18 century, and we see it progress in the 
+last couple decades with unwarping of old pages  
+and virtual unwrapping of scrolls. Trying to 
+repair the scrolls found at Herculaneum after  
+the place was buried by Volcanic Ash almost 
+20 centuries ago takes far more skill though.  
+If you’ve seen those recovered scrolls or the 
+En-Gedi Scroll believed to be from the 3rd or  
+4th Century BC, it's not hard to understand why.
+They don’t look like some decaying and brittle  
+scroll like we see from dusty ruins or libraries 
+in movies, they look like a burned stick and I,  
+for one, would not even have thought they were 
+manmade just from the sight of them. There’s  
+nothing to carefully unroll here and carefully 
+decipher, they’re ruined. But we can 3D scan  
+them in incredible detail and let an AI go to 
+work. I’ll link the Digital Restoration website  
+for folks who want the deep dive on either 
+the scanning process or the AI’s function,  
+but for complexity, I’d say it's like 
+trying to put together a jigsaw puzzle,  
+except you don’t know what the puzzle is of, 
+and someone threw the box and pieces into  
+a trash compactor or fireplace, then dumped 
+the remains in a pit and filled it with mud. 
+Now there are limits on what you can do with 
+things like this, and as we discussed in the  
+case of Roko’s Basilisk - the idea of an AI being 
+able to resurrect the dead by scanning their  
+brains - you need something that is essentially 
+intact as data, such as being buried in ash or  
+fossilized. Corrupted data can be repaired and 
+guessed, something truly scrambled would not be.  
+So while we can learn a lot from a damaged 
+scroll or body that was preserved this way,  
+you can’t unburn the Library of Alexandria or 
+un-cremate someone whose ashes were scattered  
+to the wind. But you never know when you’ll 
+find an old chamber, sealed canopic jar,  
+or crypt that’s in horrible condition but actually 
+has kernels of preserved data for us to use and AI  
+will be invaluable in that role going forward, 
+probably also in terms of helping us find good  
+places to search or recognize apparent garbage 
+that actually is a priceless relic of the past. 
+While we usually associate archeology with digging 
+up old sites and trying to make sense of broken  
+bits of pottery and art, we may see a future 
+by exploring humans themselves. As an example,  
+using AI, it might be possible to feed in various 
+modern and ancient language examples and guess  
+or extrapolate our way back to various earlier 
+languages [d]or ones from periods in between two  
+better-documented ages, or neighboring locations.
+We may even be able to use improved models of  
+human psychology and sociology to help us 
+determine more about day to day life in  
+some ancient culture, where we know some action 
+was being done but not the intent or purpose,  
+[e]and often have to guess rather wildly. You 
+might find the idol of some old god surrounded  
+by bodies of dead children and not know if they 
+were sacrificed to some blood-hungry dark god or  
+brought there when sick for hope of healing 
+and laid to rest there for protection in the  
+afterlife. Indeed over the centuries the idol 
+might have served both roles as the culture  
+shifted, and the signs of that change could be 
+very hard to spot but present among those ruins. 
+Our ancestors were complex folks, and changed 
+much with time and place. Primitive does not  
+mean dumb or simple. They were not us, but 
+at least for many thousands of years back,  
+their brains were basically the same, 
+and fundamentally there is a common  
+shared origin and much exchange of ideas and 
+that’s through language, written or spoken,  
+as well as art and technology.
+But we can also exchange data  
+through our DNA and as we build up a more 
+complete picture of humanity’s DNA pool,  
+we should be able to not only better connect 
+old DNA to now, in terms of cultural migrations,  
+but help restore damaged DNA samples to be more 
+accurate. As an example, the half-life of DNA  
+is sometimes given as 521 years, which is an 
+approximate figure, unlike radioisotopes. We  
+have DNA found in ice cores that are half 
+a million years old, not half a millennia. 
+Generally, the period called a half-life is the 
+time in which DNA we might gather from bones would  
+have had half the bonds in a piece of DNA break. 
+So, if we imagine a book that had half its letters  
+get randomly smeared or erased, we can imagine 
+using AI and a dictionary and a knowledge of word  
+frequency and combinations to reconstruct that 
+book. But your body contains trillions of cells  
+with DNA in them, with very little variation 
+in those from each other. So not only could  
+we potentially reconstruct a damaged book, but 
+with a billion identical copies of that book,  
+each damaged but randomly so, we should be 
+able to produce a very accurate replica,  
+of that original manuscript, and the same should 
+be true with some organism who contains trillions  
+of mostly decayed samples of the same DNA.
+As DNA extraction and reading gets easier,  
+we might be able to take some bones which 
+are 5000 years old, where 10 half lives  
+of DNA passed, and where only 1 in 2^10 or 
+1024 bonds remain intact in a strand of DNA,  
+and by looking at millions of them, reconstruct 
+a perfect copy. That most of that DNA will  
+not have changed between person to person and 
+century to century just makes it a bit easier. 
+Needless to say that opens the door not just 
+to tracking human migrations of the past  
+but also to recreating extinct animals, and we 
+discussed that more in our episode De-Extinction,  
+and a greater knowledge of genetics can 
+also let you make educated guesses to  
+fill in blanks based on what you know the 
+needed functions are, same as a mechanic  
+might look at a smeared blueprint of a car and 
+just know that it is a car and it needs a fuse  
+box and a carburetor and that if they’re missing, 
+that’s probably what the two smeared spots were. 
+On that note, and to close out on a more far 
+future note: If it is possible to use AI to  
+unwrap damaged scrolls and inspect the DNA 
+in old bones to reconstruct undamaged DNA,  
+maybe it might be possible to reconstruct 
+a well-preserved brain. We contemplate this  
+technology for brains frozen in cryo for future 
+resurrection, and if luck found us a well-frozen  
+body or one very untouched, we might be able to 
+bring them back by copying their brain digitally  
+and doing some repairs and educated guesses.
+Sadly, the most obvious candidate, ancient  
+Egypt and their habitat of mummifying people 
+and putting their organs in sealed canopic  
+jars won’t work here, for whatever reason, they 
+did not value brains and just discarded them,  
+though probably by liquifying the brain by 
+whisking it rather than pulling chunks out  
+through the nose as often gets said. Perhaps some 
+other culture we might find might have kept them,  
+rather than tossing them out, who knows what 
+unknown kingdoms and cultures remain still buried  
+under the sands of time? And if so, perhaps 
+we might one day be able to resurrect a few  
+first-hand witnesses of ancient times, who spoke 
+ancient tongues and performed ancient rituals  
+and lived daily lives we can only glimpse a 
+shadow of right now. Nor can we ignore the  
+possibility of using it on future worlds if we 
+discovered relics of ancient alien civilization  
+or abandoned human colonies or derelict 
+spaceships or habitats we had to investigate. 
+Either way, while our ancestors of the past 
+may not have valued brains and discarded them,  
+we have no desire to discard our own 
+knowledge of the past, and as we saw today,  
+our toolbox for peering into that past grows 
+ever bigger the further we walk into our future.
+Today we were talking a lot about 
+how to decipher ancient texts and  
+ruins that are terribly damaged by time, but 
+while we might want to decode old documents,  
+we typically would rather nobody was 
+decoding our private correspondence,  
+let alone some internet hacker or other entity 
+covertly monitoring your web activity. This is  
+where a Virtual Private Network, like NordVPN, 
+can help protect us. NordVPN is the fastest VPN,  
+and with 1-click you can protect yourself by 
+routing your internet traffic through one of  
+NordVPN’s thousands of servers spread all over 
+the world. That also lets you avoid viewing  
+limitations based on country so you don’t 
+miss your favorite content, like this show,  
+which is apparently unavailable some place, 
+or that British scifi show you can't watch  
+unless you’re in the UK. This also means while 
+we’re traveling, we can still do all our online  
+shopping and viewing from home, virtually.
+NordVPN is more than just a VPN though,  
+their Threat Protection shields me from malware, 
+trackers, and ads while their Dark Web Monitor  
+notifies me if someone leaks my credentials and 
+their Meshnet allows me to connect to my devices  
+remotely and securely. My data is always 
+protected by next-generation encryption,  
+and NordVPN doesn’t track or share what I do 
+online. And now with their new Proxy Browser  
+Extensions, NordPVN has made it even easier to 
+protect your privacy, let you bypass censorship,  
+and keep you safe while you browse, use 
+browser-based tools, or play browser games,  
+and even customize it to decide which website 
+sees your real IP address or your VPN’s IP. 
+To try NordVPN out, risk free with a 30 day money 
+back guarantee, go to NordVPN.com/isaacarthur,  
+and enjoy NordVPN on up to six 
+devices, on any major platform,  
+with 24/7 customer support to help you whenever 
+you need it. That’s NordVPN.com/isaacarthur. 
+So today we were looking at decoding and hacking 
+our past, and next week we’ll look at the concept  
+of simulated universes, and how we might hack or 
+escape them if we’re inside one. And next Sunday,  
+March 26th, we’ll have our Monthly Livestream 
+Q&A, before closing out the month of March  
+on March 30th with our 2-hour special, 
+The Advanced Spaceship Drive Compendium,  
+where we will take a look at nearly a hundred 
+different star drives, from existing tech to the  
+entirely hypothetical. Then we’ll head into April 
+to look at the concept of galactic Habitable Zones  
+and their implications to the Fermi Paradox.
+If you’d like to get alerts when those and  
+other episodes come out, make sure to hit the 
+like, subscribe, and notification buttons. You  
+can also help support the show on Patreon, and 
+if you want to donate and help in other ways,  
+you can see those options by visiting our website, 
+IsaacArthur.net. You can also catch all of SFIA’s  
+episodes early and ad free on our streaming 
+service, Nebula, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

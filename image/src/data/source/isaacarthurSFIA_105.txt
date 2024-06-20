@@ -1,0 +1,667 @@
+Spacecraft may one day be so common 
+that everyone has flown on one,  
+with thousands of new spaceships being 
+built every year in manufacturies dwarfing  
+the enormous facilities we build 
+planes and sea-going vessels in. 
+Building a spaceship is an enormous undertaking. 
+They tend to cost as much as an aircraft carrier,  
+even though the crew and cargo are in a space 
+about the size of a small boat or modest yacht.  
+They require precision-manufacturing unlike any 
+other vehicle, and yet, one day their manufacture  
+might be as routine as that of an automobile.
+Emphasis on routine, not simple, as there’s  
+nothing simple about the modern car, 
+and I wouldn’t expect that to be true  
+of personal spaceships either, but in many ways 
+a spaceship can be simpler than a terrestrial  
+vehicle. Space is mostly empty with few 
+obstacles or shifts to road surface or air  
+density to require constant course corrections.
+Today we’ll be examining a lot of different paths  
+for the future of building ships, and we’ll be 
+looking at everything from simple asteroid-mining  
+ships produced in a low-tech future, to cases 
+where all the real work was done on the software  
+and design end, and someone just spills some 
+self-replicator robots on a spare asteroid, and  
+they replicate and spawn ships out of it, or maybe 
+even grow them quasi-biologically. And as we’ll  
+see, even in these high-tech situations, there 
+are limits to how fast you can produce a fleet. 
+Fundamentally, scale is what we’re looking 
+at today though; not building just one ship,  
+or a prototype, but the mass manufacture 
+of them: starship factories or dockyards. 
+When I was a young teen there was a cartoon called 
+Exosquad that is a bit of a hidden gem. It often  
+had deep, realistic, and philosophical discussions 
+buried among second-rate animation and comic  
+action scenes, but I liked it and it features 
+humanity at war, and the good guys forced back  
+to Jupiter at the start of the second season, 
+where they’re repairing and rebuilding their  
+fleet. They lost the flagship in the close of the 
+first season, and its successor was sabotaged and  
+blown up while halfway built at their shipyard.
+That made me wonder how the heck they ever found  
+the resources to build a ship, when the 
+bad guys had the 3 real planets, Earth,  
+Venus, and Mars, under their thumb, and we’re 
+never told that any of the others are seriously  
+inhabited. Those ships were huge, and they showed 
+people in spacesuits going EVA to weld them. 
+Automation, of course, can be a huge game changer 
+in how these things work, but if you think about  
+the newest aircraft carrier we built, the Gerald 
+Ford, that came in at around 13 billion dollars,  
+and if to keep the math easy we assumed everyone 
+in that building process and supply chain averaged  
+26 dollars an hour in pay and compensation, 
+that would imply half a billion man-hours went  
+into construction – most of that occurring 
+off-site, mining and making the materials  
+and paying the people who did that or made their 
+equipment – but half a billion is a huge number,  
+and even the annual version of that, 
+assuming 2000 work hours a year,  
+is still a quarter of a million years of labor.
+It’s important to understand that to build in  
+space, almost all the material needs to be up 
+there for it be economically plausible, and while  
+a lot of the cost might be in hyper-expensive 
+tiny microchips or research, development, and  
+prototyping down on the ground, you are building 
+that ship in space, and also mining, refining  
+and smelting all the metal for it there too.
+It is not hard to imagine needing a million  
+people in space, in terms of workers and families, 
+to build one big spaceship, especially those  
+mile-long ones popular in sci fi. Even with a 
+lot of automation, that still seems plausible. 
+But I thought we’d begin in an era when there are 
+still less than a million people living in space,  
+and look at a pair of fictional shipyards, 
+The George Mueller Orbital Shipyard,  
+around Earth, affectionately known as Port 
+George, and the Linus Collection Point,  
+orbiting 22 Kalliope in the Asteroid Belt, 
+affectionately known as the Scrapyard. 
+Port George is named in honor of 
+the father of the space shuttle,  
+and handles a number of different designs but is 
+best known for its tender vessels, medium-sized  
+ships with a crew of 6-12 designed for multi-week 
+operation anywhere in Cis-Lunar Space out to the  
+Earth-Sun Lagrange L-1 Point. It’s designed to be 
+able to rendezvous with existing space structures  
+or satellites and either to bring them inside, 
+for smaller ones, or go EVA for larger ones. 
+Port George itself has relatively minimal 
+EVA involved in construction, it is a huge,  
+and mostly hollow facility, and even its areas 
+exposed to the vacuum of space are typically  
+still enclosed, just depressurized, to help 
+protect the crew and vehicle under construction.  
+Many of the ships they build are principally 
+made of aluminum mined from Luna, and so there  
+is little concern of oxidation damage to the 
+outside. Even for those ships which are more  
+sensitive to oxygen it is usually considered 
+safer and easier to have a thin-walled pressure  
+chamber for the dockyard workers to operate in.
+Indeed, much of Port George is under low-speed  
+rotation to permit about a fifth of Earth-normal 
+Gravity, as it was determined that a standard  
+earth atmosphere was needed, but that the 
+workers mostly benefited from just enough  
+gravity to feel like there was an up and 
+a down. Personal living quarters generally  
+are kept at 80-100% of standard gravity.
+One of the more interesting things about  
+Port George is that a large portion of its 
+workers live down on Earth, and it would not  
+be unusual for a work crew to consist of one or 
+two humans and a dozen robots being controlled by  
+telepresence operators down on Earth - after all, 
+the time delay from Earth's surface to orbit is  
+much less than a second, so, although the latency 
+is something that takes some getting used to – and  
+may require some anti-nausea medication - it's far 
+from a dealbreaker. After some trial and error, it  
+was determined that keeping those same operators 
+with those same on-site teams tended to result in  
+far better group cohesion and quality control, so 
+many an on-site dockyard worker has workmates down  
+on Earth they’re close enough with to occasionally 
+visit whenever they’re on shore leave. 
+For very big ships, such as an Aldrin Cycler, Port 
+George used to do exterior unshielded assembly of  
+main components, but is now using inflatable 
+bubbles of a thin-walled, radiation absorbent  
+material, to allow crews to use a relatively 
+low-mass spacesuit with their helmet mag-locked  
+to their thigh for if there’s a pressure drop. 
+This is seen as an overall safer work environment  
+due to the physical exhaustion and psychological 
+issues of bulkier suits designed for extended  
+open-space, or ‘void’ work as it is called. The 
+more recent efforts to systemize space debris  
+clearance have also made such large inflatable 
+bubbles more long-lived. Though punctures remain  
+common and are typically treated with a quick 
+patch till the entire bubble degrades, or the  
+project is complete, and it can be recycled.
+Along with being able to rely on Earth for remote  
+workers, Port George gets a lot of state funding 
+and has critical but small components manufactured  
+down on Earth. Nonetheless it still has to 
+be frugal about all its resources, especially  
+those brought up from Earth, which is why salvage 
+and recycling are critical to their operations. 
+Port George is also known for its construction 
+of the DS-12 Toy Box, a space debris collection  
+ship with minimum bells and whistles, designed 
+to allow a 1 or 2 person crew to salvage damaged  
+orbitals and control a number of drones that are 
+able to collect pieces of scrap with low delta-v  
+relative to the ship. The nickname of Toy Box 
+officially is for all the neat drones the model  
+comes equipped with, but everyone knows it's for 
+all the weird and unique garbage they collect. 
+While the DS-12 Toybox is viewed with a certain 
+amount of amused contempt as a junker among other  
+orbital spaceship crews, the handful of them 
+that have been transported to the Asteroid  
+Belt are practically considered luxury yachts.
+The growing Space Industry is hungry for metal  
+but specifically for the cheapest metal, and 
+that’s where The Scrapyard comes in. 22 Kalliope,  
+at over a hundred miles across in most 
+directions, is the second largest Metallic  
+Asteroid in the Belt, and something of a rubble 
+pile including hydrated mineral and silicates,  
+and is home to a handful of mining operations, but 
+Kalliope is better known for having its own Moon,  
+Linus, which itself is 20 miles across and thus 
+is bigger than both of Mars’ moons combined. 
+The Scrapyard formed not long after someone 
+had the idea to run a skyhook-style tether  
+directly between Kalliope and Linus, 
+hanging just over Kalliope’s surface,  
+which has a 4 hour rotation rate. Linus orbits it 
+twice a week a thousand kilometers from Kalliope,  
+and which with good timing can be used to allow 
+ships or cargo pods to accelerate and release  
+around the Belt or even back to Earth. This has 
+made it a popular port of call of asteroid miners,  
+which the Census say now number 30,000 throughout 
+the system, roughly 10,000 of which are in single  
+or two person crewed, owner operator mining 
+and prospecting ships, several hundred of  
+which visit this asteroid pair for the discounted 
+rates of shipping cargo both to and from Earth. 
+Many of these ships were built at the 
+Scrapyard on Linus, and here we see  
+the Art of Minimalist Shipbuilding not seen 
+since the old days of early spaceship travel,  
+and many of which would be illegal to 
+operate near Earth for a variety of reasons,  
+ranging from worker safety hazards to some 
+using radioactive materials. Ultimately,  
+every dollar spent on a ship or its crew 
+has to be paid for with the metals it mines,  
+so the Scrapyard allows lone individuals or small 
+teams to be competitive with the larger and better  
+equipped markets, at the price of taking some 
+additional risks and enduring more discomforts. 
+Fundamentally, a spaceship is just 
+a pressurized box with an engine,  
+and the Scrapyard understands this all too well. 
+Their ships aren’t for landing on big planets  
+or taking off through atmospheres. They don’t 
+need the radiation shielding the DS-12 needs,  
+because they’re about 3 times further from the Sun 
+than Earth, and thus only get 12% of the radiation  
+from the Sun, and there’s no Van Allen Radiation 
+Belt out in the Asteroid Belt, and also, no  
+government inspectors pushing for worker safety.
+This far out from the sun, and orbiting it,  
+and not Earth, the majority of space 
+debris is traveling relatively slowly,  
+so it is possible to armor ships against that, and 
+uranium is reasonably plentiful out in the belt,  
+as is thorium. Solar power isn’t a very realistic 
+option here, it can be done by using large,  
+thin reflective dishes to concentrate sunlight, 
+but that’s less viable while moving around,  
+and the preferred method for mining and 
+prospecting is to park your ship in a deep  
+crater, to protect it from micro-meteors and other 
+debris, but where it won’t get a lot of sunlight. 
+So the Scrapyard tends to make a lot of ships 
+that are very like the cargo pods they shoot  
+back to Earth; brutally simple. Those ships are 
+often only two rooms, a main room for living,  
+working, and sleeping, and a smaller airlocked 
+room for exiting, which often does double-duty as  
+a bathroom. They’ve got robots who make the big 
+metal plates, and the rest they slap together,  
+and a lone person can easily move a multi-ton 
+plate in microgravity. It's a slow process  
+of shoving inertial mass around, but 
+there’s just the air holding it back.  
+That’s one of the neat things about a zero-gravity 
+shipyard, you don’t see many forklifts,  
+and large items are often slowly moved into 
+place with a protective coating of inflatable  
+air pillows on the side to minimize collision 
+damage during installation. Sometimes, one will  
+get punctured and cause a fairly heavy object, 
+like a nuclear power module, to start drifting  
+and spinning around. There are surprisingly few 
+injuries in the shipyards, but at least one was  
+someone having a heart attack at the sight of 
+a nuclear reactor careening around the dock. 
+They can make a ship in just a few days, 
+because they are not large or complex. Weld  
+the hull together, get an airlock and engine 
+port on it, a window, usually on the opposite  
+side of the airlock, so you can escape 
+if one side is blocked for some reason.  
+If your ship burns something out on an asteroid 
+crater it can cause a venting of gas that could  
+knock it over, and then, zero-gravity or not, it 
+could get stuck and wedged in, airlock-side down. 
+The very simplest ships just have a RTG and a 
+device that can run metalysis on ore and produce  
+metal plus oxygen, and they use that oxygen as 
+their propellant when they’re ready to leave,  
+usually buying methane for fuel back 
+at the depot, shipped in from Titan,  
+which buys pressurized pods from Kalliope. 
+These ships have nothing like the efficiency  
+of the bigger and more expensive fission reactor 
+versions, running on more elaborate Ion Drives,  
+but they are cheap and you can make one on your 
+own, often by scrounging parts from many of the  
+wrecked and discarded bits awaiting salvage or 
+disposal on Linus, whose escape velocity of about  
+20 meters per second, or 45 miles per hour makes 
+it just sufficient enough to comfortably hold down  
+cargo or salvage, as well as the crew, who might 
+get flung off something, or some loose debris may  
+collide into and cause an air tank to leak.
+One of those issues with EVA, for an asteroid  
+miner or dockyard worker, is that if you forget to 
+tether yourself or any gear, it’s generally going  
+to get lost. Fetching drones are very popular 
+but not cheap. Kalliope’s has a annual festival,  
+which is held every 5 Earth years, as Kalliope’s 
+orbit around the Sun is 5 Earth years, and it has  
+many contests, one of which is who can untangle 
+tool tethers fastest while in a full EVA suit,  
+and the current champion, four times running, 
+is the current elected mayor of the binary  
+asteroid group. She ran on untangling the complex 
+regulations for shipping back to Earth. Other  
+contests include sealing a leaky compartment, 
+finding a leak on a wall covered in consoles,  
+and various feats of dexterity and acrobatics 
+in microgravity while wearing a spacesuit. 
+This episode isn’t about the lives of asteroids 
+miners or shipyard workers, but the folks at  
+the Scrapyard show us a future in which you could 
+have a thriving shipbuilding and asteroid-mining  
+economy a billion kilometers from Earth, and yet 
+needing only modern technology and automation. 
+Let’s consider the other extremes of that, like 
+ultra-automation and self-growing ships, and begin  
+by considering the nanotech self-replicator 
+option. We tend to have this assumption that  
+we can make tiny little machines that can make 
+copies of themselves and perform some other task,  
+general or specialized, and we assume if something 
+the size of a biological cell can do this,  
+we should be able to make something as good 
+or better, and about the same size or smaller. 
+Such being the case, one designed to live in 
+a vacuum and take apart local regolith seems  
+plausible enough, and they could have their own 
+equivalent of DNA and an extra separate one for  
+the processes or items they were supposed to 
+make. Like turn on, make a copy of itself,  
+build one of object A, make another 
+copy of itself, build another object A,  
+etc. That would be a specialized 
+version, an Object A might be a  
+specific object like a chunk of metal plate, or 
+a paperclip, or maybe even a whole spaceship. 
+Now, this is popular in sci fi. As are 
+the nanobots running wild as Grey Goo or  
+Hegemonizing Swarm. However, in practice we 
+would borrow further from nature by having  
+layers of ecosystems, and then further depart from 
+nature by not feeling obliged to have an organism  
+replicate itself specifically. So instead 
+of having one species of self-replicator,  
+you would probably instead have a few hundred, or 
+million, each designed for some specific tasks and  
+built along different lines and scales. This one 
+seeks metal deposits, this one builds kilns for  
+melting metal, this one makes the rivets 
+for use in Airlocks, this one makes wire,  
+this one makes killer drones that seek out 
+any faulty or mutant bots and kills them. 
+And none of them self-replicate, rather some big 
+drone arrives and builds ten smaller drones meant  
+for building each of ten other smaller drones 
+who each have a specific model of yet-smaller  
+drone that they make. And you probably have 
+some control variable the machines can’t make  
+or get that limits reproduction – this might be 
+some specific rare element or some manufactured  
+black box widget some of the bigger replicators 
+need, or even something akin to Bitcoin. One of  
+the replicating layers has to mine codes 
+before reproducing, and this limits its  
+reproduction once it begins getting in excess 
+of the estimated number needed for the project. 
+So, your replicator arrives at a spare 
+asteroid and turns it into a ship, or ships,  
+and this is simple enough conceptually but its 
+sheer simplicity tends to make folks assume  
+it’s the end of all normal manufacturing. 
+In practice, this is not an insta-ship,  
+even if your drones have a magical infinite 
+power supply, they can only work so fast without  
+overheating themselves and their surroundings 
+till they get melted by their own frenetic work.  
+Also, they break very easily, and the sturdier 
+you make them, the more replication time they  
+need and the more energy per task they need. We 
+talked about this more in our Self-replicating  
+space probes and Santa Claus Machine episodes, 
+and there are a lot of limitations in how fast  
+you can do 3D printing, nanotech, or Star Trek 
+style replicators. Odds are there are more  
+problems we don’t even know of yet too.
+The Clanking Self-Replicator is often a  
+better option, and this is more the assumption 
+that you’re not going for tiny little robots,  
+but a bunch of big drones and factories. 
+Big animals and plants, not microbes.  
+At its core, imagine a factory for making robots 
+that could make any of the robots needed to  
+perform most of the functions in that factory, to 
+supply that factory, or build another copy of that  
+factory. This is going to use a huge, insulated 
+cauldron for making its metals because this is  
+more efficient than a bunch of tiny bots. We don’t 
+really use these on Earth though because it’s so  
+much easier to employ a human for any of the parts 
+that aren’t easily roboticized or repetitive,  
+and we have a lot of humans who need work.
+It's hard to predict how labor will go on Earth;  
+where we have a plentiful supply of people, 
+and there’s good reason to think those people  
+actually require more effort and resources if 
+you don’t keep them occupied usefully, so we will  
+likely never have totally automated factories. 
+But in space, we may have to, especially with  
+interstellar efforts. More likely though, we 
+would engage in Human-Machine Teaming, which  
+at least in recent decades has tended to prove far 
+more useful than machines alone or humans alone.  
+So, our spaceship factories in space, 
+where manpower is likely to be limited,  
+will probably tend to be in this semi-autonomous 
+clanking self-replicator situation where some  
+large but not truly automated chunk of the 
+supply chain is being partially run by humans.  
+Maybe maintenance, maybe they are the ones 
+doing final assembly and quality control,  
+and the overall administration and 
+management might be jobs for them too. 
+This would seem to work better for very big 
+projects like those mile-long battleships sci  
+fi loves, or those even bigger Arkship 
+colony vessels we love to discuss on  
+this show for interstellar generation ships.
+This strikes as your most likely setup in part  
+because it resembles modern manufacturing, but 
+is likely to have a lot of very simplified supply  
+chains, in locations if not steps. You’re always 
+able to move faster and better in manufacturing  
+if you’re dedicating a specific spot to making 
+a specific item, not the whole device. For us,  
+it isn’t the lone bot or factory that 
+self-replicates, or even the lone human  
+or couple, but rather the civilization itself 
+that self-replicates, and that’s very needed  
+where an arkship is considered because you are 
+not just building a big metal cylinder. You have  
+to set up and decorate or equip each compartment, 
+some of which need to be elaborate ecosystems for  
+organisms you’re taking with you, others would 
+need complex factories for gear you need to  
+repair and replace, and yet more would be schools, 
+parks, farms, gardens, and entire communities. 
+So we can imagine tiny little robots or 
+entire automated facilities doing this,  
+maybe even building critters and people from 
+DNA templates and education and care archives,  
+but there are so many hurdles in the way of 
+this process – what we call seed ships or data  
+ships – that it would seem hard for it to go fast. 
+Indeed, when you think about it, while we can  
+repair things hyper-fast NASCAR style, or build 
+houses or bridges overnight. Generally speaking,  
+we tend to move bigger things, and more slowly 
+than in prior times. Houses don’t get built  
+overnight or in a few weeks, it’s a process of 
+many months or even years for bigger buildings,  
+and it produces superior work, at least for 
+whatever quantities you’re optimizing around,  
+be it time, labor, money, minimal 
+paperwork, minimal local disruption, etc. 
+I think this will be the case more in the future 
+too, but in the context of this larger organism  
+doing replication, we might consider mitosis as 
+an option - that our starship factories of the  
+future might be starships themselves. We have 
+contemplated this in the case of our Gardener  
+Ship; a large interstellar generation ship that 
+needs to be able to manufacture any component  
+the ship or colony will need in case it breaks, 
+since in multi-decade or multi-century journeys,  
+anything can break. Thus they can manufacture 
+an entire new ship so long as they’re given the  
+time and enough raw materials, and 
+they have a lot of time. They have  
+decades between nearest points in which to 
+do little but build and breed more people. 
+So, arriving at a colony destination, it 
+would seem very likely that many people who  
+spent their whole life on that giant ship wouldn’t 
+necessarily want to become a planetary colonist,  
+and the population would have risen during 
+that voyage, so some stay on the old ship,  
+some go to form the new colony, and some go 
+on the new ship to a new destination after  
+they help the colonists start up and refill 
+their raw supplies. They just keep doing this,  
+growing their numbers and restocking as they 
+journey toward the galactic rim, see our Gardening  
+the Galaxy episode for a look at that life.
+But critically, it offers us the option of  
+mitosis for ships, or colonial fleets, as they 
+might be a small fleet rather than a lone ship,  
+and might add ships as they go, building them 
+from raw materials acquired at each stop,  
+and occasionally divide that fleet like a cell 
+would. Or a Spaceship might flat-out grow longer  
+over time like a big, long worm, then, unlike 
+actual worms, those types of ships could divide  
+and form new ships by cutting themselves in half. 
+Or they might even grow themselves in a DNA helix  
+style and unzip the ship into two identical ones.
+We’ll be exploring more of the ideas of truly  
+complicated mass manufacturing, and dedicating 
+entire large asteroids to industry – or entire  
+moons or planets – this weekend in our Scifi 
+Sunday episode: Forge Worlds & Industrial Planets,  
+but as we’re seeing today, it is very 
+likely that your true starship factories,  
+those making big ships, along the lines of 
+colony vessels, not merely little shuttles, are  
+more likely to be entire cities or nation states 
+in space, not some small dockyard of hundreds,  
+and in the future, a project of that scope might 
+even be accomplished largely by automation. 
+We’re also seeing this automation is likely to 
+involve many layers, from the classic welder,  
+to entire biosystems of nanotech, to gardeners 
+and biologists, and even more obscure things  
+like hospital administrators, investors and 
+recruiters, because those big ships aren’t  
+just a gun and engine, they’re a small 
+civilization – or even a large one. And  
+you need experts in everything, and storage 
+space for everything, up to and potentially  
+including antimatter fuel or weapon storage, 
+or space for the guys who handle installing  
+the micro-black hole in the spaceship’s basement.
+Indeed, you might need a whole world to really do  
+it right, especially for big ones, and it might 
+be that you do build them down on the ground,  
+then winch them up to space by tether between 
+a pair of orbital rings, but again we’ll  
+examine that option this weekend in Forge Worlds.
+One last option for acquiring your spaceships is  
+not to manufacture them, but to instead steal 
+them from others, and space piracy might be a  
+fairly complex process, especially as it’s often 
+likely to be data and designs you need to steal,  
+not just raw materials or ultra-expensive computer 
+chips. However, it is always possible we might be  
+able to make ships that could travel to other 
+universes if the Multiverse idea is true,  
+in which case you might be able to make your 
+starships by manufacturing one, then stealing  
+copies from those adjoining multiverses where 
+an almost identical spaceship just got produced. 
+Of course, that implies you’re violating the first 
+rule of warfare, never try picking on someone your  
+own size, since they presumably have identical 
+technology and infrastructure to yourself. 
+It’s also a good reminder about scale, because 
+while those massive mile-long ships might be  
+popular in sci fi for their sheer appearance 
+of immensity, we have good reason to believe  
+that bigger will be better for a lot of aspects 
+of ship efficiency, speed, or combat prowess,  
+and that space faring civilizations can get away 
+with both quantity and quality, fielding huge  
+numbers of huge ships which are each incredibly 
+sophisticated, multipurpose capable, and powerful. 
+And so, while we might see small ship factories 
+like The Scrapyard, turning out tiny boats,  
+or others making small personal yachts, like 
+we discussed in Your Own Personal Spaceship,  
+there is definitely room for bigger starship 
+factories, and they might need that room too,  
+as some might be as big as entire 
+continents, or encircle entire planets.
+ 
+I always enjoy writing these episodes with 
+the narrative formats to them as it seems like  
+stories are just such a good approach to teaching 
+science. If you’ve done much STEM teaching you  
+probably know how hard it is to teach some 
+concepts, like electricity and circuits,  
+to even smart adults or teens. It takes a 
+unique mixture of hands on experience and  
+narrative to really make it stick. This is why I 
+was fascinated by our newest sponsor, Upper Story. 
+Their newest game Spintronics, has number of 
+example puzzles for you to build woven inside  
+a beautifully illustrated graphic novel. 
+So instead of boring instructions you get  
+a steampunk-themed story of a young clockmaster 
+learning an alternative technology, electricity,  
+and using gears to build mechanical circuits 
+and teach about both them and electricity. 
+Spintronics does an amazing job showing all the 
+electronic components in a hands-on way that is  
+fun and instructive. I loved it and found it quite 
+stimulating but more importantly my kids loved it,  
+everything from experimenting with different 
+resistor combinations to building chain linkage,  
+and I had to use ice cream to lure them away.
+So as we go into the holiday season, if you’re  
+looking for a fun and hands on educational gift 
+for your family or friends, something that can be  
+played in a group or solo, use the link in the 
+episode description upperstory.com/spintronics  
+to learn more, and don’t forget to use coupon code 
+ISAACARTHUR at checkout to save 10% on your order.
+So back in August we began circulating a petition 
+to save the New Horizons Space probe out in the  
+Kuiper Belt, to keep the research team for 
+the billion dollar probe billions of miles  
+from home running, and I’m very glad to say that 
+was a success. We got thousands of signatures,  
+and the bulk of them, especially the early 
+ones so critical to getting it to snowball,  
+come from this audience. As did the donations 
+that helped promote the petition for others to  
+see it. So if you signed that petition, shared 
+it, donated to it, or wrote your congressmen,  
+yes, you absolutely saved the New Horizons 
+probe so it could continue the process of  
+expanding our horizons. Thank you so much. We 
+literally could not have done this without you. 
+I did also want to thank the rest of the 
+leadership at the National Space Society  
+for their support for this, particularly 
+Executive Vice President Hoyt Davidson,  
+who did so much of the heavy lifting on the front 
+end of this, and the Beyond Earth Institute and  
+Space Frontier Foundation for co-signing our 
+letter to NASA and congress, along with many  
+other groups like Space.com and Universe Today who 
+helped raise awareness or circulate the petition  
+once we got it going, and it just helps show what 
+amazing things we can do when working together for  
+a shared greater future. So again on behalf of the 
+National Space Society, thank you, and Ad Astra! 
+Speaking of building the future, this 
+weekend on Scifi Sunday we’ll be continuing  
+our factory theme by contemplating 
+entire planets devoted to industry,  
+in Forgeworlds & Industrial Planets. Then 
+next Thursday on October 19th we’ll discuss  
+if Life Extension Is Ethical. Then we will look at 
+another type of dedicated planet, Fortress Worlds,  
+on October 26th, and in two weeks we’ll finish 
+October, with our monthly Livestream Q&A,  
+on the 29th. Then on November 2nd we’ll 
+ask if the Rebel Space Colonies we often  
+contemplate in scifi and futurism might occur 
+and what they’ll be like, before we release  
+our big-3 hour long updated and extended edition 
+of the Fermi Paradox Compendium on November 9th. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You can 
+also help support the show on Patreon, and if you  
+want to donate and help in other ways, you 
+can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all 
+of SFIA’s episodes early and ad free on  
+our streaming service, Nebula, along with hours 
+of bonus content, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

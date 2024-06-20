@@ -1,0 +1,642 @@
+So today’s topic is Starlifting, a way of
+removing mass directly from a star, like our
+sun.
+I have talked about starlifting from time
+to time in the past but never in any detailed
+way, so we will explore it in depth today.
+How you would do this and why you would do
+this are our primary goals for today, though
+we are going to cover them backwards, by asking
+why you want to do this, then discussing the
+various methods.
+I should add if you are new to this channel
+that this probably is not the best episode
+to begin with, it is loosely tied into the
+megastructures series.
+So while you do not need to have watched those
+first, it will help, and you may want to watch
+them and come back.
+Or watch them afterwards, particularly episodes
+4, 5, and 8.
+Before we jump into to how we gather matter
+from off a star let’s talk about why you
+would do this.
+There’s basically seven reasons:
+1.
+To get hydrogen from the star
+2.
+To get the other elements from the star
+3.
+To make heavier elements via Transmutation
+4.
+To extend the lifetime of a star
+5.
+To decrease the brightness of a star
+6.
+To make new stars
+7.
+To prevent a larger star from exploding
+Now many of those overlap of course but they
+form your motivations for doing this, and
+it is a time and effort intensive process
+so you need good motivations.
+I joked in the teaser for this episode last
+week that it is how you destroy a star, which
+is true enough, but it is like destroying
+a star the same way you destroy a mountain
+by mining it.
+Destruction is not your real objective.
+Stars are mostly made up of hydrogen, the
+most abundant type of normal matter in the
+universe.
+They convert that into helium to produce energy
+by nuclear fusion.
+In the largest stars, as their cores get depleted
+of hydrogen and they begin burning helium,
+they can also produce heavier elements too.
+Now if we have working nuclear fusion, especially
+fusion that can, like a star, turn normal
+hydrogen into helium, then stars are handy
+places to find hydrogen to fuel your fusion
+reactors.
+But the sun is not the best place to mine
+for hydrogen, since Jupiter has tons of it
+and is easier to get it from if you already
+have fusion to power all your extraction efforts.
+Jupiter is big, but not as big as the Sun,
+so the gravity is less and it is not as hard
+to get the hydrogen away from it.
+Of course it is not as big, so it does not
+have nearly as much hydrogen and if you run
+out you have to turn to the Sun.
+In fact you would probably start with the
+smaller gas giants like Saturn to begin with
+for the same reason.
+Saturn has less gravity, so it is less effort
+getting the stuff.
+Now, even without fusion, hydrogen has three
+very good uses.
+First it is incredibly plentiful, so makes
+a nice source of mass when you are building
+things like the Shell Worlds we discussed
+in Megastructures Episode 5.
+When you just need mass, Hydrogen is pretty
+handy.
+Second it is actually one of the best radiation
+shields you can get, it’s not only plentiful
+and useless for normal construction, but is
+great for stopping high energy radiation.
+As such, it makes a nice shielding layer around
+things like the rotating habitats we discussed
+in Megastructures episode 4.
+Being cheap and plentiful you can shield space
+stations from collisions, radiation, and attack
+by having thin-walled tanks of hydrogen surrounding
+your structure like armor.
+If you are powering that with a fusion reactor
+it also makes a good place to store your fuel.
+Third, hydrogen is plentiful in the Universe,
+but in the inner solar system it is quite
+uncommon, with the obvious exception of the
+sun itself, and oxygen, the third most abundant
+substance in the Universe is the most common
+substance in the inner solar system, and those
+two make water which is important for life.
+So if you want lots of water, just about all
+of it is on Earth, and you will need a lot
+of hydrogen to make more of that.
+Those are the most obvious uses for hydrogen
+itself, besides making new stars which we
+will get to in a bit.
+But it is easy for folks to forget that hydrogen
+and helium are not the only things in the
+sun, and we call everything but these two
+metals.
+A star’s metallicity is a measure of everything
+else in it besides hydrogen and helium, even
+though very little of that is what we would
+normally call metals.
+We actually break stars into three categories,
+population 1, 2, and 3 based on how much metal
+they have in them.
+The very oldest stars, the ones still alive
+from back near the beginning of things or
+in distant galaxies where we can see back
+in time to the early universe, are population
+3 stars and have virtually no metals.
+Newer stars have more because when old stars
+explode and release metals it tends to get
+just as many of those in the stars as the
+planets get.
+Population 2 stars are considered metal-poor,
+and they are a bit hotter and bluer than Population
+1 stars, metal rich stars, since they can
+run a bit hotter without those metals interfering
+with fusion.
+Population 2 and 3 stars are not considered
+great candidates for having nice rocky planets
+like Earth since the emerging solar system
+would not have had many metals to form rocky
+planets from.
+Our sun is defined as Population 1, metal-rich,
+which means it has a bit less than two percent
+of its mass from stuff besides hydrogen and
+helium, most of which is oxygen.
+A bit less than two percent might not sound
+like much, but it means the sun has more of
+these metals than the rest of the solar system
+combined, since even Jupiter, which outmasses
+the rest of the solar system combined itself
+by a large margin, only masses a thousandth
+of what the sun does and it is mostly hydrogen
+and helium too.
+Meaning the sun has something like twenty
+times Jupiter’s total mass, or six or seven
+thousand times the Earth’s mass, in these
+metals.
+You might think denser materials would be
+all packed up in the core of the Sun, but
+they tend to be fairly well-distributed throughout.
+The sun is quite convective and the contents
+mix around like a bubbling soup.
+So, if you lift matter off the Sun you will
+get plenty of these metals too.
+Most is oxygen, and the biggest chunk of the
+remainder is carbon followed by nitrogen,
+and those are the three biggest consumers
+of mass when you are trying to make artificial
+space habitats and planets.
+Whenever I am talking about Dyson Spheres…
+which is technically almost never since I
+am usually talking about Dyson Swarms instead…
+I get asked by some where you would come up
+with all the mass to build one of the spheres
+or swarms.
+Now as I have mentioned in the past there
+is more than enough material in the Planet
+Mercury alone to build a small swarm of thin
+power collectors around the sun, but if you
+need a lot of mass so you can build more substantial
+structures the Sun is a great source in and
+of itself.
+If you extracted all those elements besides
+hydrogen and helium from the Sun you would
+have a couple thousand times more of them
+then you would from disassembling all the
+rocky inner planets and asteroids combined.
+If we were envisioning trying to build a classic
+Dyson shell around the sun out at Earth’s
+distance this would per a surface of around
+3 x 10^23 square meters.
+If you only use Earth’s mass this would
+only give you about 20 kilograms per square
+meter, again more than enough for solar panels
+around the sun but not much to live on.
+Yank all that matter out of the sun and this
+becomes a much more robust figure of about
+100 tons a square meter.
+Which is definitely a comfortable amount of
+material to be building human habitats out
+of.
+You have everything you need to make rock
+and water and air out of.
+Of course if that is not enough we still have
+the option of transmutation.
+Heavier elements are made by nuclear fusion,
+hydrogen turns into helium that turns into
+carbon, oxygen, and so on.
+So hypothetically you can turn hydrogen into,
+say, iron, with some steps in between, and
+actually gain energy from doing this.
+We have not yet mastered the easiest type
+of fusion, which is hydrogen’s isotopes
+deuterium and tritium.
+But if we managed to get this unlocked we
+might be able to do plain, vanilla hydrogen
+fusion too, and learn to turn helium into
+carbon, which is even harder, and possibly
+all the higher ones.
+It is all about getting a high enough temperature
+and pressure in your reactor, and if you can
+do that you can not only make those higher
+elements in a reactor, but get a net positive
+amount of energy out of it.
+Two birds with one stone.
+This is obviously preferred and if you can
+do it, since you can not only yank hydrogen
+and helium off your sun and turn them into
+whatever you want but also gain power from
+it.
+But right now we can make these thing by slamming
+lighter nuclei together in a super-collider.
+That costs power, quite a lot of it, but if
+you need heavier matter because you don’t
+have enough of it, and most of your Dyson
+Swarm consists of power collectors, not artificial
+habitats, you can use all that extra power
+from the sun to scoop hydrogen and helium
+up from the sun and run it around a giant
+supercollider also powered by the sun.
+As you do this you will also be decreasing
+the mass of the Sun and so also decreasing
+its power output, but that is actually a good
+thing since if the sun is getting dimmer while
+you are making more matter to build stuff
+around it you will also need less and less
+matter to absorb all that light, since there
+is less of it, and you just keep going until
+you reach a happy medium.
+You make your star lighter and lighter and
+dimmer and dimmer making material to encompass
+that star, until you have what you need to
+encompass that newer dimmer star that doesn’t
+need as much mass to encompass it anymore.
+So it really doesn’t matter how inefficient
+this process is, but again the fusion of matter
+into heavier elements produces energy so there’s
+a very good chance you could run this operation
+at a profit rather than having to dump tons
+of energy down the drain for transmutation,
+but if that’s your only option it is still
+doable.
+Of course, that is not the only reason to
+decrease a star’s mass.
+Stars get dimmer as they lose mass, quite
+a lot dimmer too.
+A star twice as massive as our sun is not
+twice as bright, they are about 16 times brighter,
+while one half as massive as us is about one-sixteenth
+as bright.
+Because of this, even though bigger stars
+have more fuel, they do not live nearly as
+long, less than you would think since they
+tend to explode long before they use up all
+their hydrogen.
+Smaller stars use a lot more of their hydrogen
+and they use it a lot slower, so they live
+a lot longer.
+Our sun is about halfway through its life
+of about ten billion years, ones twice as
+big live a bit under 2 billion years while
+one half our size would live more like 60
+billion years.
+So we could extend our Sun’s lifetime by
+removing some of its mass, more than you might
+expect since by decreasing that mass we let
+it stir around its contents more to make it
+keep going longer with less helium in the
+core killing the current hydrogen fusion process.
+Indeed you could constantly starlift, removing
+the helium and other elements and dumping
+the hydrogen back down, and even adding more
+hydrogen from other sources to potentially
+extend that star’s life indefinitely so
+long as you have hydrogen to keep adding.
+And again, smaller stars churn their contents
+up more so decreasing a star’s mass makes
+it easier to remove the helium which could
+be thought of as the poison or toxin that
+kills stars.
+Also again, smaller star, dimmer star, less
+material needed to make use of the light it
+does put off.
+Yank just 10% of our sun’s mass off and
+it would be about two-thirds as bright as
+now, needing only two-thirds the material
+to construct a Dyson swarm, and you will have
+about 30,000 times the mass of Earth in matter
+to play with.
+Of course what you do with all that removed
+hydrogen and helium is another story.
+So is capturing it when it comes off the sun
+which we will talk about when we discuss how
+you actually do starlifting in a couple minutes.
+You have the option of making another smaller
+sun out of it, and again smaller suns are
+a lot better at converting hydrogen to helium
+without exploding before they finish.
+It is generally thought that stars under about
+a quarter of the mass of our own sun, smaller
+red dwarf stars, do not even become red giants
+as other stars do near the end of their life
+but just turn into blue dwarf stars instead.
+Not expanding just getting hotter then turning
+into white dwarf stars at the end.
+We cannot be sure since no star in the universe
+of that mass has been around long enough to
+do this.
+But these are the type of red dwarf stars
+that are thought to be able to live over a
+trillion years.
+The ones a bit more massive live a lot longer
+than our sun but still go red giant at some
+point before they go through all their hydrogen,
+so they live significantly shorter lives than
+these.
+Most stars in the Universe are Red Dwarf stars
+too, and we are talking about maybe turning
+our own sun into one by starlifting, so let
+me remind everyone that the color of stars
+is a bit of a misnomer, they all give off
+white light.
+The spectrum is a bit different but even the
+dimmest and coldest red dwarf would give a
+light similar to an incandescent light bulb.
+I have heard people object to the idea of
+settling worlds around red dwarf stars because
+they would not want live under red light,
+besides this being, presumably, much better
+than not being alive at all, I mean, I would
+rather live in the tundra than not at all,
+it’s also wrong since the light will be
+about the same as what you are used to.
+If you really wanted that hotter, whiter light
+you could just make blue dwarf stars from
+the outset by using a mixture of hydrogen
+and helium anyway, if you are in the star
+making game.
+Gives you something to do with all that helium,
+I suppose.
+But speaking of dying stars and red giants
+brings up our last use of starlifting, which
+is preventing the bigger ones from exploding.
+Now I mentioned back in the Shkadov Thrusters
+episode, which dealt moving stars, that it
+easier to move bigger ones than smaller ones.
+The result of which is that if you have a
+giant star getting ready to go supernova it
+is easier to move it away from your own solar
+system than to move your solar system.
+A better option anyway, since you probably
+colonized many solar systems in that area
+so it is better to give the boot to the single
+big problem child in your neighborhood than
+to move all the other colonized solar systems.
+But Starlifting offers us an alternative to
+that.
+You get in there and instead of using that
+star’s light to push it away, you use that
+light to power starlifting and strip mass
+off the star before it can explode violently.
+And while Supernovae are our main source of
+metals, that is not an efficient process anyway
+so you would probably be better off using
+the supercollider approach even if you have
+not got some easier method of transmutation
+available.
+Okay, so lastly, how do we actually do this?
+As I mentioned there are multiple methods,
+but there are three key ones that usually
+get discussed and I will limit us to those.
+With the exception of mentioning the most
+simple and obvious, which is just flying down
+there and scooping the matter up and flying
+away.
+They did that in the TV show Stargate Universe
+and it was probably my favorite scene in the
+sadly short-lived spin-off my favorite science
+fiction franchise.
+This is not going to be a practical approach
+unless you have all sorts of awesome technology
+we do not have.
+It is also generally called Sun Scooping,
+not Star Lifting, though it is both.
+When you start talking about harvesting stars
+for their matter, people tend to assume only
+very high technology civilizations could do
+such things.
+Some of us call that Clarketech, as a hat
+tip to Arthur C. Clarke and his quote about
+any sufficiently advanced technology being
+indistinguishable from magic.
+The methods we will be talking about are not
+high-tech at all, much like Dyson Swarms,
+while people think of them as super-high-tech,
+as Clarketech, they can be done with just
+raw brute force.
+You do not need much technology.
+All three of these methods we are about to
+discuss were thought up, to the best of my
+knowledge, by David Criswell who also is assumed
+to have coined the term Starlifting.
+They are:
+1.
+Thermal Driven Outflow
+2.
+Centrifugal Acceleration, and
+3.
+The Huff and Puff Method
+I always get a kick out of the name for the
+last one.
+Okay, the first, Thermal Driven Outflow, which
+I will just call TDO Starlifting henceforth
+or TDO, basically works by heating up bits
+of a star’s atmosphere.
+You can do this by beaming down microwaves
+powered by solar panels, or even just reflecting
+light back down focused on a spot with big
+mirrors.
+Those mirrors could hover over the same spot
+instead of orbiting, using the Statite method
+we have discussed in the past.
+This would kick up an eruption much like a
+solar flare, feeding more solar wind, you
+would then have a giant ring around the sun
+sucking up sunlight and generating a big ring
+of current as well as a huge toroidal magnetic
+field.
+This would tend to pump this matter up or
+down out the poles of the sun, which is handy
+since we live around the equator.
+Incidentally, you could do this on the Sun
+right now to collect the normal solar wind,
+but our Sun’s solar wind does not give off
+that much matter.
+Bigger stars give off tons that way, but for
+ours you need to be blasting spots to cause
+eruptions and increase the solar wind.
+Now the capture method for this stuff as it
+heads up from the pole is to use giant magnetic
+rocket nozzles.
+Magnetic nozzles are a concept that’s been
+discussed for use in the VASIMR thruster which
+we discussed along with some other propulsion
+methods a couple episodes back.
+This lets you use magnetic fields to direct
+plasma rather than having it flow through
+a classic metal nozzle which would get kind
+of hot.
+It also cools the plasma slightly, making
+it much easier to collect.
+Two quick notes: First the ring around the
+sun does not have to be a solid object, it
+can just be a bunch of orbital stations, they
+can just shoot streams of charged ions between
+each other to make that ring of current, each
+station is a particle accelerator presumably
+powered by sunlight.
+But you could use a solid one and it would
+not fly apart or anything, it is not a Niven-style
+Ringworld under huge centrifugal force, though
+we discussed making giant stationary rings
+back in the first episode of the megastructures
+series if you want one.
+A solid one is maybe more useful if you want
+to have a massive collection of supercolliders
+for transmutation of elements.
+Second, the nozzles are probably way too dense
+to work as Statites, unlike mirrors which
+can just hover over the sun bouncing light
+back down, and they need to stay over the
+poles, so if you are wondering how they would,
+just remember they are called giant magnetic
+rocket nozzles for a reason.
+They can keep themselves from falling down
+by sucking in all that matter flying off the
+star at high speeds.
+Giant Plasma Thrusters.
+Notice by the way that TDO Starlifting is
+not particularly high tech, and I want to
+emphasize that.
+Okay, method 2, Centrifugal Acceleration,
+or CA starlfiitng.
+This is a lot like TDO Starlifitng but you
+put your ring around the poles instead, and
+your nozzles around the equator.
+You then rotate your ring a lot faster than
+that star rotates, and rotate it around the
+star’s poles and it starts flinging matter
+outward.
+This is much harder, since you have to keep
+pushing on that ring to keep it spinning,
+but as I understand it this is supposed to
+create a much faster outflow of matter, albeit
+sprayed all over the place, so I think this
+would be the sort of thing you would do if
+your main goal was not harvesting the star
+for matter but just lightening it in a hurry.
+TDO is better, or at least simpler.
+Okay, Method 3, Huff and Puff, which I guess
+we would call H&P Starlifting.
+Huff and Puff sounds cooler though, but the
+actual effect is more like a bellows.
+Here your ring of particle accelerators are
+not staying up by orbiting the sun but magnetically
+floating over it, akin to the electrodynamic
+tethering method we discussed in the Spaceship
+Propulsion Compendium, but it is the ring
+current they are generating that is holding
+them up.
+You then shut the ring current off and let
+the stations begin to fall.
+Once they pick up a lot of speed you snap
+the ring current back on and they begin flying
+back up away from the sun, rinse and repeat.
+Doing this generates a squeezing action on
+the sun pumping the sun’s atmosphere up
+through the poles, again to be caught by the
+magnetic rocket nozzles.
+If you are only using one ring to do this
+you would get that beating pulse or bellows
+effect on the polar matter stream but you
+could have several rings doing this at once
+in well-timed pumping action for a bigger
+and more steady outflow of matter.
+Personally this is the one I like the most,
+partially for the name, and it should be faster
+than TDO which is a much more passive process.
+Okay, some notes on lifting matter: Removing
+matter from the sun cost about 200 billion
+joules per kilogram, and that’s the minimum
+if you are doing it with 100% efficiency.
+That’s a thousand times what is to get off
+Earth, so do not think this is an easy process.
+That said, while it costs a couple hundred
+billion joules of energy to yank a kilogram
+of matter off the sun, fusing a kilogram of
+hydrogen into helium produces gets you more
+than thousand times that much energy so even
+if you are not doing it too efficiently the
+sun provides a lot more power from fusion
+then is needed to take the sun apart.
+If you used the sun’s entire energy output
+at 100% lifting efficiency you could remove
+about an Earth’s worth of mass this way
+every century, and take apart the sun in about
+30 million years.
+Realistically even getting 10% efficiency
+would be very impressive, and you would not
+be using all the sun’s light for this, so
+think of this as a very slow process.
+Not that the more optimistic 30 million years
+is exactly fast.
+Giant stars have more binding energy but are
+a lot less dense, they’re much bigger than
+their mass would indicate, especially red
+giants which are often as big as a Dyson Sphere
+but only as massive as our own sun.
+They are also way brighter, giving you way
+more power to work with, so you can pull one
+apart a lot faster.
+I would not want to go racing off trying to
+prevent a supergiant star that just transitioned
+into a red supergiant and trying to suck the
+mass off it before it went supernova, they
+usually only spend one or two million years
+in that state, but you probably could do it.
+Needless to say getting there when they are
+younger is a smarter idea.
+But that is one of the reasons why I tell
+people that Interstellar civilizations do
+not need to worry much about a supernova wiping
+them out.
+A Supernova is not particularly big threat
+to a K2 civilization let alone a bigger one,
+and anyone engaging in Starlifitng is almost
+by definition a K2 Civilization or very close
+to it.
+Speaking of which, in two weeks we will be
+discussing a lot of the other cool things
+a K2 civilization, or Kardashev 2 civilization,
+can do in an episode on the Kardashev Scale.
+We have talked about that before but always
+in passing and usually just one cool thing
+they can do.
+That topic got picked by the Facebook group,
+Science and Futurism with Isaac Arthur, and
+we always have a poll going on over there
+to pick topics for the channel so head on
+over and join and vote.
+This week’s video was selected as a topic
+by our Patreon group, the winner being Bill
+Mains, and I wanted to thank him for selecting
+this topic and helping me plan out the material.
+We also have our third and final topic winner,
+Neo Navras, who has selected Stars as our
+topic which we will do sometime in November.
+We still need to flush out what will be covered
+but I will be demystifying a lot of the astronomical
+terms and also discussing a lot of the weird
+hypothetical stars like Quark Stars or Dark
+Matter Stars.
+These Patreon picks have been a lot of fun
+to do so I will probably continue this with
+modification in the future.
+I’ll put those details out when I decide
+the best way to do that.
+Next week’s topic however is CryptoCurrency
+and BlockChain, and we will be looking at
+these concepts and contemplating how they
+might be useful in related areas or for things
+like interstellar commerce, when it might
+take years to confirm someone’s bank account
+balance if they are visiting your solar system.
+So again, next week is Cryptocurrency, don’t
+forget to subscribe to the channel if you
+want alerts when that and future videos come
+out, and in the meantime you can try out some
+of the other episodes on the channel.
+If you enjoyed this episode don’t forget
+to like it and share it with others.
+Until next week, thanks for Watching and have
+a Great Day!

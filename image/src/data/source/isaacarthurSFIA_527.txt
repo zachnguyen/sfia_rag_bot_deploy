@@ -1,0 +1,604 @@
+We often say we reside on small pale blue
+dot, and indeed, most of our planet is covered
+in Oceans. But there is land down, buried
+so deep under the water no light ever reaches
+it, yet we might come to dwell there one day.
+Today we will be continuing our look at the
+seas: this is part two of our thought experiment
+begun in Seasteading and Artificial Islands,
+so while you don’t have to have seen that
+first, I would recommend watching it before
+continuing.
+The ocean depths fascinate us and are still
+largely unexplored, as alien in many ways
+as other planets, and hosting some life in
+greater depths that looks quite alien. Mankind
+has been traveling the seas as long as we’ve
+history to record it, but until the last century
+we couldn’t go very deep, just brush the
+surface.
+Humanity has often imagined living in domed
+cities on the seafloor, and we’ll be looking
+at how you could do that today, but we’ll
+also be exploring many other options for utilizing
+the deep sea, and even discussing how we might
+make artificial volcanos to make islands.
+However, we have to start by acknowledging
+one key point. A big glass dome on the seafloor
+under a kilometer of ocean is not a place
+most folks would want to live, or even visit.
+Even ignoring that you’re protected from
+the water by a glass dome under a hundred
+atmospheres of pressure, there’s nothing
+to see. There’s no night darker than the
+oceans once you get a kilometer deep: sunlight
+just cannot penetrate down there.
+If you want to live down there and see some
+sea creatures or the seafloor, you need to
+have external lights, and in doing that you
+will attract things that can use light to
+live, which means your dome will probably
+get covered in algae and scum and not be too
+fun to look through.
+And again, there’s that pressure issue.
+This isn’t like space, where the atmosphere
+difference is 0 and 1, this is 100 to 1, higher
+than on the surface of Venus. Every square
+inch of that dome is under 1400 pounds of
+weight, every square centimeter 100 kilograms.
+We can build stuff that can handle that, that’s
+about the pressure exerted by someone walking
+around in stiletto heels, but it’s not really
+something you want to do with a thin transparent
+dome. So the glass dome concept for underwater
+bases is more likely to be a bunker structure
+set into the seafloor, that has windows in
+rooms that are compartmentalized against flooding
+if they break.
+Now, domes are an option closer to the coast
+where the seafloor isn’t as deep, and the
+light still penetrates, but even then, you’re
+likely to use the bunker with windows approach,
+not the big glass dome. That has an appeal
+on airless worlds for agriculture, so you
+can grow plants, but for the sea that’s
+not necessary as you can just grow stuff on
+the surface of the water anyways and save
+on the dome. Such bunker windows will also
+need wiper blades like your car has, since
+again they’ll get covered in muck quite
+quickly. Either algae will grow there or it
+will fall down to lower depths as marine snow,
+the various organic detritus dropped from
+higher levels that feeds the midnight ecologies
+of the Bathypelagic and Abyssopelagic regions.
+Thing is, most of the ocean does go a lot
+deeper than sunlight, or indeed even a kilometer.
+Most of our planet is ocean and most of that
+has an average depth of 3 to 4 kilometers.
+There’s parts that are rich in life, as
+sun and nutrients occur together, but that’s
+the minority. Most of the oceans are a desert.
+Sure, they have plenty of water, plenty of
+sun, plenty of nutrients, but in most of the
+ocean those last two don’t mix much, with
+the light above, and the nutrients below.
+Next week when we dive into the enviroments
+of space habitats, we’ll discuss how the
+varying gravity will let us grow trees of
+stupendous heights, and this is one approach
+to terraforming our own oceans, as we might
+be able to create sea-trees able to grow from
+the lowest depths all the way up to the surface,
+to get nutrients from the seafloor and light
+from the sky, like seaweed does at more modest
+depths. Such a plant would be hard to engineer
+or evolve; there’s too much distance from
+light to nutrient, or nutrient to light, and
+would need many tricky features to permit
+the needed strength, energy, and nutrient
+movement, but it could be possible. For that
+matter, we will see today there’s a ton
+of geothermal energy down on the seafloor,
+and an organism could be created to make use
+of that.
+One could imagine some massive tree, that
+kept the oxygen it makes in buoyant sacs or
+inflated leaves to help it handle its mass,
+setting roots in the ocean floor and spreading
+its leaves across the surface, but we could
+also build skyscrapers or seascapers which
+might use the same approach, so massive in
+size they could only be viewed as arcologies.
+More on that in a bit. But it’s worth remembering
+that bioengineering is on the table, for plants
+and for people too. Mythology is full of mermaids,
+and it may be possible to tweak people or
+our pets to have gills or more modestly, to
+handle pressure changes better, if folks really
+want to live in the seas.
+There are not too many reasons why folks would
+move to the deep ocean, unlike living on top
+of if it, but we did find some, like wanting
+to be protected from supernovae blasts or
+just be as far from other humans as possible
+without leaving Earth. We’ll go over some
+of the others as we discuss our options today
+but it raises a big point we make in the Outward
+Bound series, that colonizing a planet doesn’t
+necessarily mean a lot of folks live there.
+A factory planet churning out megatons of
+manufactured goods every minute is certainly
+colonized, but might only have a few thousands
+folks living there to do maintenance. Similarly,
+underwater oceanic colonization offers us
+a lot of resources and benefits, but not too
+many for housing. You might retreat there
+as a refuge from invasion or disaster, or
+like many colonists in history, have been
+exiled or left specifically to get away from
+others, but those imply the surface has in
+some way become hostile to you.
+One novel example, as an exception to small
+groups for science or tourism, or machine
+maintenance, is prisons. If you want to build
+a supermax people can’t escape from, even
+the Moon is less secure. Worldwide, a little
+over 1% of the population is in prison, which
+probably vastly exceeds the number of folks
+we’d have engaging in tourism or science
+under the sea at any given time. I’m not
+sure of the practicality or ethics of such
+a concept, but it does amusingly fit with
+our remarks from last time about a lot of
+early oceanic colonies being founded by those
+trying to evade laws back on land.
+You can even give them a diver’s mix of
+oxygen and helium, or hydrogen, oxygen, and
+helium, instead of oxygen and nitrogen, so
+that if someone did get out they’d be stuck
+for many hours decompressing somewhere you
+could grab them.
+Current mixes and suits still put a fairly
+shallow limit on diving, but we may improve
+both. This, by the way, is one of our options
+for fairly deep habitats that are classic
+domes. You don’t have a pressure differential
+because you put the dome at the same pressure
+as the water and change the air mix. Nitrogen
+becomes a narcotic at high pressures, it’s
+not just the nitrogen bubble issue for decompression,
+so you have to remove it for people to operate
+at pressures deeper than about 60 meters or
+6 atmospheres.
+Incidentally, you add one atmosphere of pressure
+for every 10 meters of depth. That’s Earth’s
+gravity and the density of the material stacking
+up, and water, has a specific gravity of 1,
+or a density of 1000 kg per cubic meter, although
+salt water is just slightly higher. Gravity
+is 9.8 m/s², and 1.03 is the specific gravity
+for saltwater, conveniently 9.8 times 1.03
+equals 10. 10 meters of additional depth adds
+an atmosphere of pressure in saltwater.
+However if you’re under rock that’s twice
+as dense, it would be every 5 meters, or if
+you’re under air, which is about a thousand
+times less dense, it’s about a kilometer.
+If you’re on Europa, where gravity is only
+13.4% of Earth normal, it would be one atmosphere
+for every 75 meters. That’s one of the appeals
+of setting up undersea habitats on moons with
+subsurface oceans: sunlight is a non-issue
+at that point anyway, and so are natural air
+mixes, so you can spread out a lot more before
+water pressure becomes a problem.
+Oceans are truly huge volumes, you can’t
+really think of them as areas, and we often
+talk about using hydroponics to help with
+food needs on Earth or to grow food in space,
+but we often skip aquaponics or aeroponics
+as options too. We’ll skip aeroponics today
+as well, but aquaponics is a growing industry,
+no pun intended, and is ideal for subsurface
+ocean farming. We think of floating farms,
+but there are downsides there, and one of
+those is waves.
+The surface of the sea is choppy, but the
+further you descend in the ocean, the more
+that dissipates. As submarines and fish both
+show, your options in the sea are not limited
+to floating on the surface or rooting to the
+seafloor, so you could have farms or cities
+that just kept themselves slightly submerged,
+and indeed they could bob around, surfacing
+when they wanted or dipping a bit deeper if
+the weather was bad. Even at just 50 meters,
+so long as you’re far from shore, you’re
+pretty safe from even the worst of storms.
+An aquaponics farm need not stay at a set
+depth, you could tow them deeper for nights
+or bad weather, but planting one at that depth
+still permits a solid amount of light to get
+in and is still shallow enough that divers
+could go down without messing with their air
+mix. Such farms aren’t much more than a
+bunch of nets and rods to hold some structure,
+and presumably some ballast to allow it to
+keep or change depth, so we’re not contemplating
+anything very fancy.
+Going deeper you’d have to start supplementing
+sunlight with artificial light, and that’s
+a power issue. That could easily end up a
+non-issue in the future as we get better energy
+sources like fusion or the power satellites
+we discussed some months back, but the oceans
+offer us some power options too. We discussed
+some surface options last time, but deep down
+has two of interest to us.
+First, there’s fission. As we improve our
+reactor designs to better utilize the fuel
+we put in them, better recycle the materials
+used in and around them, and access new fuels
+like Thorium, we get access to a vast supply
+of energy from fissile materials, enough to
+last us as long as civilization has already
+been around at least. But people still don’t
+like it in their backyards, and they certainly
+don’t like the waste there. Remote undersea
+nuclear plants are a handy option in that
+regard, and water is one of the best shields
+against radiation. Dumping radioactive waste
+in the sea is actually banned by International
+Treaty under the London Convention, but mostly
+relates to some rather contemptible practices
+at the time, and ocean floor disposal, particularly
+into subduction zones where the materials
+will get dragged down into the planet’s
+mantle, holds some good options for disposal
+of wastes which might not be recyclable and
+be radioactive for very long periods.
+Of course it’s also a potentially awesome
+place to find such materials too. Most of
+the Earth is underwater, and the seafloor
+is a lot closer to the mantle than the continental
+surfaces are, and not just because the seafloor
+is deeper. The Moho discontinuity, the boundary
+between the crust and the mantle, is typically
+closer under the sea, 20 to 90 kilometers
+below the surface of the continents, but only
+about 5 to 10 kilometers beneath the ocean
+floor.
+Beyond mineral wealth, that makes it a great
+place for geothermal power, and as we get
+better with superconductors, we may well start
+to move all our power generation off Earth’s
+lands to the seas and space. Such power lines
+would be one of many examples of infrastructure
+networks we might run on, or maybe in, if
+we buried them just under the ocean floor.
+We already lay fiber optic cables that way,
+and we may do power or pipelines, but we may
+also do transport.
+Elon Musk’s hyperloop passenger transport
+system, love it or hate, has popularized the
+notion of vacuum trains, or near vacuum trains,
+but the concept is much older and I regard
+it as something of an inevitability. Hypersonic
+or suborbital flights may be on the table
+in even the near future, but ultimately you
+can’t have craft moving through the atmosphere
+over land at such speeds, the sonic booms
+would be ruinous and that’s very fuel intensive.
+You can set up a transport network using orbital
+rings, see that episode for details, but those
+are essentially vacuum trains in space. When
+flying you accelerate and as you gain altitude
+the atmosphere thins, letting you speed up
+with less air resistance. Go high enough and
+it causes no drag or booms and you can accelerate
+as fast as you please.
+However, a vacuum train, or near-vacuum train
+like the Hyperloop, on ground or buried under
+it, offers the same option, and maintaining
+a vacuum deep underwater is no harder than
+maintaining one atmosphere of pressure there.
+Here’s the cool thing, much like a launch
+loop, when you’ve no air in the way you
+can accelerate as fast as folks can comfortably
+handle, and even if that was just 1 gee, you
+would hit Mach 1 in 35 seconds, and Mach 10
+in 6 minutes. Such a Mega-Chunnel would permit
+travel from New York to London in half an
+hour, and you could leave right from a station
+in the middle of the city. You don’t necessarily
+half to stop accelerating at that speed either,
+same as the burn and flip method we discuss
+with spaceships, a vactrain, essentially a
+spaceship, can potentially accelerate the
+whole way, flipping half way through. And
+if folks don’t mind a bit more acceleration,
+or you’re sending priority cargo, you are
+looking at being able to get anywhere on the
+planet in half an hour or less.
+But you have to have a track and it has to
+be pretty straight, beyond the curvature of
+the Earth, indeed as we discussed in Orbital
+rings that does impose a maximum velocity
+because you are turning with the sphere of
+earth, and we can cheat and turn upside down,
+so that centrifugal force from turning is
+counteracted by Earth’s gravity, and it
+works as well underground or undersea as in
+space. You tear through the tube at insane
+speeds upside down at 2g, walking around on
+the ceiling for the trip, and in doing so
+can achieve twice the speed satellites fly
+over at while still feeling like you’re
+under normal gravitational force, albeit to
+an outsider upside down. Needless to say building
+such a network would not be cheap, but only
+in the context of normal highways. We’ve
+million of miles of roads and track after
+all, these are harder to build and pricier,
+but we’re getting much better at boring
+tunnels.
+Key thing to recall about vacuum trains though
+isn’t just that they can get you across
+the oceans very quickly, it’s that it could
+get you from Chicago to Detroit in minutes,
+or Atlanta to Houston, it’s not just for
+globe-spanning trips, however our interest
+is in those big people pipelines under the
+sea today so we’ll save discussing huge
+underground networks of them for later in
+the series.
+They’re a good way to get your feet wet
+in deep sea colonization though, because all
+those vac trains and fiber optic trunk and
+power and pipe lines need maintenance and
+need outposts along the way for safety reasons.
+As we said, with any colony operation whatever
+the main purpose is you want secondary industries
+to help move marginal operations into profitable
+zones, and geothermal power or aquaponics
+or a fission plant or even an undersea supermax
+prison are options there.
+But mining is likely to be a big one, and
+can maybe get even bigger. We always talk
+about mining asteroids or moons, but every
+asteroid and moon in our solar system has
+less combined mass than Earth, and most of
+that is in the mantle and core, and again
+the Moho discontinuity, the edge of the mantle,
+is a lot closer on the seafloors.
+Trying to mine the mantle, sometimes called
+Moho Mining, is a lot easier said than done,
+even in the context of mining things millions
+of kilometers away in space, and we’ll discuss
+it more down the road, but it is theoretically
+doable, essentially boring a hole down into
+the magma below. We have materials that can
+handle those temperatures, and while the pressures
+involved make that much harder, it’s not
+impossible.
+Let imagine for the moment though we took
+such a material and made a big straw, with
+one end poking down into the mantle and the
+other all the way up to the surface, and let
+it fill with air, not water. Straw is an apt
+analogy as you now have a huge pressure differential
+and magma can rise up. We might refine this,
+extracting what materials we want, and dump
+the spill around our lava straw, building
+an artificial island in the process. Indeed,
+we might use such an approach along with good
+earthquake modeling to relieve the pressures
+that cause earthquakes, volcanic eruptions
+where we don’t want them, and so on. These,
+especially as uncontrolled events, are not
+your friend when engaging in massive planetary
+engineering projects. Needless to say the
+mineral wealth and the raw power available
+by steam turbines using this heat might make
+for major industries too.
+But the ocean floor alone offers a lot of
+mineral wealth and we mentioned an idea last
+time of a Jellyfish Habitat where most folks
+live in a main facility on or near the ocean
+surface, while long tentacles scraped the
+seafloor for minerals and nutrients and moved
+the place around or anchored it.
+We’d talked about lighting those tentacles
+to provide for ecosystems it might haul along
+with it, but you need not necessarily move
+such a thing either. We said near the beginning
+that you wouldn’t want to live under the
+sea very deep because there’s nothing to
+see unless you light it, and we just discussed
+a straw many kilometers long buried in the
+mantle and reaching to the surface which could
+become a habitat of it’s own, much like
+oil rigs.
+Let us instead imagine a skyscraper, built
+on the ocean floor and all the way up into
+the skies. You could put windows on such a
+thing so long as you compartmentalize every
+section against flooding if one shatters,
+and indeed all the air, surrounded by water,
+provides a strong buoyant force that would
+relieve a lot of the weight and compression
+normal skyscrapers face, letting you get away
+with a thicker skin. One could give it tendrils
+too, just cords floating out from the side
+giving some light and attracting and boosting
+the local ecology, so now you can see it and
+there’s plenty to see, and it provides some
+food for those living inside.
+This is very like the arcology notion we’ve
+often discussed, vast buildings in which whole
+cities live and farm their own food, vertical
+farming and mega-skyscrapers essentially.
+And like many such structures, it benefits
+from being bigger. We said in the arcologies
+episode that you’d generally make them wide
+and use the middle for farming and manufacturing,
+folks would live on the outer edge, with a
+better view. Depending on how safe those windows
+are and how good the view is, you might reverse
+that in deeper waters, or stick to it, but
+you could have vast columns or cones of arcologies
+rising up from middle of the oceans, and not
+just to the surface either, but far above.
+Indeed if we get good enough with our materials
+or active support systems we’ve discussed
+before, these could be space towers too, one
+might imagine Earth in a few centuries sporting
+mega-arcologies that rooted themselves all
+the way down to the mantle and all the way
+up to space, from Moho discontinuity to Karman
+Line. Such a structure would have, by normal
+building standards, about 40,000 floors, and
+a big cone or needle shaped one just 10 kilometers
+in radius, quite small for an island, would
+have an internal floor space equivalent to
+a small continent, and one could build tens
+of thousands of such structures each housing
+billions in comfort. As we mentioned in the
+Ecumenopolis episode, Planet-Wide cities,
+the follow up on arcologies, finding room
+for trillions of people on Earth, if you have
+the energy, doesn’t involve paving over
+everything. Indeed you’d be enhancing and
+empowering locally ecosystems if done properly,
+the problem is getting rid of all the heat.
+Far future stuff, that, but that’s what
+we look at here, and I be remiss if I didn’t
+mention one other approach to colonizing the
+oceans, which would be to drain them. We have
+a lot of water, indeed we have a lot in the
+mantle too, not just the oceans, and it’s
+precious stuff in space but arguably mostly
+in the way down here. Almost all the ecology
+happens in the first hundred meters or so,
+as does the evaporation that fuels our rain
+supply and weather systems. Last time we mentioned
+a scenario in which we might start building
+many skinny and long islands across the oceans
+and even cutting canals into the continents,
+you can do the reverse too, drain those seas
+out and cut deep lakes and smaller seas as
+cisterns while making new land on what used
+to be the ocean floor, and moving much of
+that water into habitats built in orbit around
+Earth. One need not go all-in on this either,
+water levels have been much lower in the past,
+that’s how our ancestors could walk to the
+Americas or Australia, and one might decide
+to restore that, leaving a very different
+looking planet.
+Again, such things are why we call this the
+Earth 2.0 series, as they fundamentally change
+the planet, whether for better or worse is
+an ethics question we’ll skip here, though
+certainly a worthy one for contemplation,
+for the series we’ll just lay out the options
+that might be on the table, and where they
+might not be something we want to do on Earth,
+the galaxy is full of other worlds we might
+employ such techniques on.
+Or in our daydreams too. As I said at the
+beginning, the ocean depths fascinate us and
+are still largely unexplored, alien places.
+Mankind has been traveling the seas as long
+as we’ve history to record it, but until
+the last century we couldn’t go very deep,
+just brush the surface.
+We often talk about the Golden Age of Science
+Fiction and ‘the classics’ written in
+the middle of the 20th century, but it goes
+back before then and one of the true classics
+is Jules Verne’s “Twenty Thousand Leagues
+Under the Sea”, our book of the month. It
+chronicles a trip around and under the oceans
+in the submarine Nautilus, appropriately sharing
+a name with the actual Nautilus, a craft built
+in 1800 that’s usually considered the first
+practical submarine. Indeed it was also the
+name of the first nuclear-powered submarine,
+which also first transited under the North
+Pole in 1958.
+Verne’s Nautilus, which he chronicled the
+voyages of 150 years ago, sets out in the
+1860s for a trip around the world. Initially
+our narrator for the tale joins an expedition
+hunting the Nautilus, thinking it a Sea Monster,
+not a submarine making a long journey. The
+commander for this 20,000 League journey is
+Captain Nemo, a fascinating character that
+also appears in another of Verne’s novels,
+the Mysterious Island, and has shown up in
+many of the tribute works to Verne, like the
+League of Extraordinary Gentlemen. Needless
+to say this story has been adapted to film
+and TV many times, both good and bad, but
+the book is still amazing even now.
+It’s dated a bit in its science and technology,
+needless to say. However, that’s not only
+part of its charm but also a plus. It is so
+easy for us to forget that science and technology
+and the drive for contemplating the future
+is not something new, and that we had already
+accomplished so much by the mid 19th-Century.
+While hardly without their faults, there is
+so much to admire about our ancestors and
+such works let you immerse yourself in the
+world as they saw it, and the future as they
+saw it. What they got right and what they
+got wrong, always something to keep in mind
+as we ponder our future here on this channel.
+There are many audio adaptations and performances
+to pick from, and if you’d like to grab
+a free copy of the audiobook from Audible,
+you can listen to a sample of each first and
+find the narrator whose voice you like the
+most. I think I saw a dozen or more to pick
+from, and I noticed one was done by Harlan
+Ellison, that fantastic and flamboyant author
+who sadly left us a few months back. I had
+a chance to attend a talk by him many years
+ago and he’s always a pleasure to listen
+to and he narrated quite a few audiobooks.
+Another thing I like about Audible, if you
+find a narrator you like, you can easily pull
+up other stories they’ve read, and it’s
+often a good way to find new authors you enjoy
+too.
+If you’d like to grab a free copy of “20,000
+Leagues Under the Sea”, by whichever narrator
+you enjoy, just use my link in this episode’s
+description, Audible.com/Isaac or text Isaac
+to 500-500 to get a free book and 30 day free
+trial, and that book is yours to keep, whether
+you stay on with Audible or not.
+Next week, we’ll be back up in space in
+“Environments of Space Habitats”. We’ll
+discuss O’Neill cylinders and other space
+habitats, focusing on their environments,
+ecology, and weather, which we’ll see is
+not just inside but also outside in the not-quite-void
+of space.
+And two weeks from now, we’ll be teaming
+up with the SENS Research Foundation, to discuss
+extending the human lifespan, a topic we’ve
+discussed before here in terms of its implications
+for civilization, but this time we’ll dig
+deeper into the biology of aging and the science
+of how to slow it down. Way down.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell. And if you
+enjoyed this episode, hit the like button
+and share it with others.
+Until next time, thanks for watching, and
+have a Great Week!

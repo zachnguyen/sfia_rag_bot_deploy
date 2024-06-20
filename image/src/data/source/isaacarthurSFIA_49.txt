@@ -1,0 +1,666 @@
+We have gazed upon the Moon with 
+wonder since the dawn of humanity,  
+and named its craters as seas, but 
+could those become true seas one day?
+Welcome to science and Futurism with Isaac Arthur, 
+and I am your aforementioned host, Isaac Arthur.  
+Today we will be discussing if it could ever be 
+possible, let alone practical, to Terraform the  
+Moon. To give it seas and sky and make it a 
+beautifully blue and green gem in our sky. 
+The simple answer is yes, it can be done, though 
+it is a monumental task and how practical it  
+is will depend a lot on both your available 
+technologies and how badly we want to do it.  
+Today we’ll be discussing several different 
+approaches and what is involved in each. 
+But let’s begin by laying out some basic 
+principles of terraforming, the main hurdles  
+to doing it to the Moon, the advantages 
+it has, and some misconceptions involved. 
+First, there’s two basic camps of terraforming, 
+which are meant to make them more Earth-like,  
+and that’s terraforming and para-terraforming. 
+There’s no truly distinct line between the two  
+but para-terraforming tends to manifest 
+in options like a dome on a planet full  
+of pressurized and breathable air, or artificial 
+lighting to match Earth’s sunlight duration and  
+spectrum. There’s also bioforming, which is when 
+you alter organisms to fit an alien environment.  
+You might adjust everything’s biology to be 
+content with a 27 hour day on one planet,  
+or more overtly, give humans and other mammals 
+gills so they could live on a water planet. 
+With very few exceptions, we should assume 
+all of humanity’s efforts off of Earth will  
+use a mix of all three options, both 
+over the course of the endeavor and in  
+the final product. Even on earth we may opt 
+to para-terraform our tundras or deserts,  
+and exact matches for Earth should be rare in the 
+galaxy. In nearly every case you have the ability  
+to use one of those options far more heavily 
+than the others if you prefer that approach. 
+For bioforming, you can probably cook up some 
+form of life that can live on a radiation scorched  
+airless vacuum with sufficient effort, even 
+if it means a total overhaul of everything to  
+use silicon-based life in place of carbon. You 
+can get heavy-handed with terraforming to take  
+a planet with a 27-hour day and slow its rotation 
+to 24, by extreme efforts. For para-terraforming,  
+we tend to view this as the active use of 
+technology to replicate Earth-like living  
+conditions. You might alter daylight by use 
+of orbiting mirrors and shades, or gravity  
+by centrifugal force. An extreme version of that 
+might be creating an incredibly elaborate virtual  
+world like in The Matrix on some barren rock and 
+plugging everyone there into, while covering the  
+rock in power collectors and robotic factories.
+In all of these cases there’s likely to be a sweet  
+spot for each planetary setup that varies by what 
+the colonists want and what their technologies  
+make most economical or practical. And that is 
+likely to change with time. For instance, there  
+are something like a million planets in just this 
+solar system – the 8 we talk about that no longer  
+includes Pluto are the Major Planets, and that’s 
+basically the objects more massive than our Moon,  
+Pluto is smaller and less massive than our Moon.
+There’s a couple other moons bigger and more  
+massive than our Moon too but there are probably a 
+hundred dwarf planets akin to Pluto kicking around  
+the outer solar system and millions of minor 
+planets, a large portion of which are asteroids.  
+In a future solar empire, every last one of 
+these will be para-terraformed in some fashion,  
+and Earth will stand as the crown jewel, hub of 
+trade and knowledge. This will likely continue  
+even as we expand out into billions of stars in 
+this galaxy, because almost every colony among  
+the stars will maintain some sort of lifeline 
+with Earth. They would bring a lot of practical  
+experience and knowledge about how to make 
+dead rocks livable and a lot of industrial  
+might and manpower to the interplanetary economy.
+Terraforming options will be very dependent on the  
+resources you can commit to the project. If the 
+Moon is the brightest jewel in the heaven’s next  
+to Earth, itself the center of a powerful 
+empire or confederacy of growing worlds,  
+then the sheer amount of muscle they can throw at 
+the Moon is almost unimaginable. In the meantime,  
+no place is closer to us and easier for 
+us to exert efforts on. We can get stuff  
+to the Moon much easier than Mars or Venus.
+That includes signals, as signal lag from the  
+Moon is only a bit over a second each way, not 
+many minutes like our inner solar system, hours  
+for the outer system, or years to neighboring 
+stars. That means you can run robots on the moon  
+controlled by people here on Earth. And while 
+more advanced AI seems certain in the future,  
+ones able to work fairly autonomously even 
+if we limit it to very-subhuman intelligence,  
+the sheer advantage of a more automated industrial 
+base makes everything about space travel and  
+development enormously easier and gives you a 
+larger amount of resources to throw at projects. 
+The Moon’s proximity to Earth and its low 
+gravity also makes it our natural first base  
+to launch not just interplanetary colonization, 
+but build up efforts in Earth orbital space,  
+as bulk raw materials and fuel can be gotten 
+off the Moon for just a few percent of the  
+energy cost of getting off Earth with its thick 
+atmosphere and high gravity. For this reason,  
+the Moon is likely to be heavily mined and home to 
+a lot of manufacturing, for the build up of space,  
+and thus is likely to eventually have a lot 
+of muscle to turn efforts to improving its own  
+livability, long before a place like Mars might.
+Indeed, I would go so far as to argue the Moon  
+will be the first place we terraform, even if it 
+might be a more heavy case of paraterraforming and  
+thus might not be the first place to decently 
+approximate a naturally livable planet. Though  
+again, unless we find some decent twin to Earth in 
+a neighboring solar system, every other candidate  
+would also need a lot of para-terraforming, 
+with Venus maybe being the easiest, not Mars. 
+This hardly makes it easy and we should begin 
+the major challenges for terraforming the Moon by  
+mentioning that it is also an advantage. The Moon 
+is one of the few objects that gets Earth-parallel  
+levels of sunlight. Mercury, Venus, and the 
+Aten Asteroid Group get more or equal lighting,  
+but most objects are further away, 
+at least for most of their orbits. 
+As such, the Moon is not just a place where 
+solar power is practical, but which needs no  
+more filtering of sunlight than our own Atmosphere 
+provides us. However, nice as that is, there’s  
+two problems with that lighting. First, that 
+filtering our atmosphere does is hardly trivial,  
+if our air suddenly became transparent to all 
+that ultraviolet light and ionizing radiation  
+we would be burned badly. Second, the sun 
+rises and sets on Earth and the Moon both,  
+there is no dark side to the Moon except in the 
+sense of the back side of it being invisible to  
+us here on Earth. The Moon orbits the Earth and 
+always shows it the same face and it does this  
+once a month so that’s how long its day is too.
+For the sake of discussion, yes it would be  
+possible to unglue the Moon from its tidal locking 
+with Earth, and if it were terraformed with seas  
+and sky they would act like a lubricant against 
+tidal breaking, cutting down on how much effort  
+had to be exerted to keep the Moon at a 24 
+hour day. The rotational energy of a sphere  
+rises approximately with the square of its angular 
+velocity. If you want to spin the Moon almost 30  
+times faster, so it rotated every day, you are 
+talking nearly a thousand times the rotational  
+energy it has now but it’s actually very tiny 
+compared to Earth’s, it’s around 3 x 10^23 Joules,  
+whereas Earth’s is almost a million times higher, 
+so even spun at Earth’s rate of once a day, it’s  
+far lower mass and radius means it would still 
+only need a thousandth of the energy Earth did. 
+And indeed that once-a-day Moon’s rotational 
+energy would be a little under the amount the Sun  
+produces every second, and only a small fraction 
+of the sunlight hitting the Moon during a period  
+it would need for tidal locking to reoccur if left 
+to its own devices. So keeping the Moon spinning  
+once per day is entirely doable. This is arguably 
+still para-terraforming since it would require  
+continuous technological effort to keep it from 
+slowing down, as opposed to simply putting various  
+mirrors in shades in a 24-hour orbit of the Moon.
+I think we need to acknowledge a conceptual  
+difference with para-terraforming though, with the 
+idea that para-terraforming is where things are  
+more immediately vulnerable to breakdown. A fleet 
+could come by and wipe out those orbital mirrors  
+and shades. As could some Kessler syndrome event 
+of cascade collisions of orbital junk. Neither  
+would be likely to spin a planet or moon 
+back down again to a lower rotation. While  
+para-terraforming efforts might need regular 
+maintenance, a breakdown of civilization for  
+a century or two after some collapse of an 
+empire or disaster isn’t going to result in  
+that planet de-terraforming. This is obviously a 
+very gray and somewhat arbitrary distinction too,  
+but I think a degree of vulnerability or 
+time-sensitivity is implied with para-terraforming  
+and that its absence tends to be where we 
+consider it more in the line of terraforming. 
+So could we spin the Moon up?
+Yes, and we might too. We could  
+do the same with Venus, to give it a day length 
+like Earth’s instead of its backwards day-night  
+cycle longer than its own year, but since 
+Venus is nearly as massive and wide as Earth  
+we would need to give almost three-quarter’s Earth 
+rotational energy to match our day. Alternatively,  
+Mars, at a tenth our mass and half our radius 
+would have only a fortieth Earth’s rotational  
+Energy for the same day length, and already 
+has one only about half an hour longer,  
+so it already has about 95% of that energy.
+For Mars, we might add to its rate of spin,  
+and angular momentum, by dropping comets on it to 
+bring it valuable volatiles like water, ammonia,  
+and methane. It would not be hard to coordinate 
+all your incoming drops of those to add angular  
+momentum to Mars. That’s no small task but if 
+you’re planning to add those to Mars you might  
+as well do it that way and get the free rotational 
+bump. Especially since dropping an object onto it  
+to add spin means it impacts at a slightly lower 
+velocity, since it’s coming in near the equator  
+and in the direction of existing spin. Less 
+crash damage. Doing it the other way around,  
+to subtract spin, would produce stronger impacts. 
+But you can also magnetically drain a planet’s  
+rotation as a power source, by building a 
+planet-sized dynamo around the planet. You  
+can add spin that way too, but must pay energy in.
+You also have the option of launching material off  
+a planet, or Moon, and using that momentum 
+to shove your planet’s rotation up or down.  
+When we think of exporting large amounts of raw 
+material off the Moon, or Venus for that matter,  
+we can imagine a large mass driver or 
+space catapult that launched so as to  
+add or subtract spin. Two opposing launchers 
+could ensure that the spin remained the same,  
+adding when one launched and subtracting when 
+the other did, so you could get a body to the  
+right spin then keep it there. A directed energy 
+beam from the Sun could do it too, though radiant  
+pressure alone is not your best option. A beam 
+of ionized particles or concentrated solar wind  
+isn’t a great thing to hurl at a planet with an 
+atmosphere you want to keep either, but would  
+also work on an initially airless planet.
+You could build big towers up into space  
+with giant reflectors on them, or deflecting 
+magnets – it’s quite easy to do without any  
+gravity or air constraints -- and use them 
+like a big solar windmill to spin the Moon,  
+or any other body for that matter. However, I 
+think you would opt for timing your landings and  
+launches so they added inertia. And a big mining 
+hub like the Moon in an automated Kardashev Scale  
+civilization might be belching out entire megatons 
+of matter every moment at interplanetary speeds,  
+while receiving large amounts of other materials, 
+which is a lot of inertia changing hands. 
+In any event, the key notion there is that you are 
+likely to try to piggyback a lot of terraforming  
+operations onto existing projects to save effort. 
+I would not be surprised if we saw rotational  
+changes done while terraforming planets, and 
+you might piggyback off the para-terraforming  
+effort too. Our vastly cheaper alternative 
+to spin a planet, at least in the short term,  
+is erecting a big solar shade and mirrors to 
+keep the normal sunlight off the planet and  
+bounce it down in a proper 24-hour pattern. This 
+is ideal for a place like Venus as we can then  
+cool it down over a couple centuries and make 
+it livable and use mirrors to bring in a 24-hour  
+day at Earth-level of intensity and warmth.
+You can make them wavelength selective too. This  
+lets you add more light of a given wavelength 
+to a planet for other stars than our own,  
+or to remove most of the harmful ultraviolet 
+light. Given that such shades and mirrors need  
+to be only a few micrometers thick, even though 
+they must have a combined surface area similar  
+to the planet or Moon they are on, this is not a 
+big investment of mass. Over time they may become  
+a hassle to repair and replace and be viewed as 
+not as good as the real thing. In which case,  
+such shades might be large power collectors and 
+you could beam that energy down to the planet as a  
+power source for the people and industries below.
+A shade like that would represent a huge amount of  
+power and a constant one, there’s no night time 
+or weather at some planet’s L1 Lagrange point,  
+so you could use your surplus power as your 
+civilization grew, or from outside your peak  
+hours, to help spin that planet up, and when 
+you get there you just recycle your orbital  
+shades and mirrors and enjoy a natural day. 
+Or most of them anyway, this sort of orbital  
+infrastructure is likely to be a common feature 
+on any planet or moon we settle on as it has so  
+many advantages and is relatively cheap to deploy.
+It's also a bit trickier on a moon than a planet  
+since the Moon’s own L1 Lagrange point is with 
+Earth, not the Sun, and the same for it’s L2,  
+so you need to orbit them around the Moon at a 
+radius of about 6000 miles or 10,000 kilometers  
+for a period of one day. You would likely use 
+the same big thin sheets for mirror and shades,  
+and just give them some internal power collectors 
+and gyros so they could rotate themselves to  
+either bounce light away from the Moon or add 
+light to it, and they’d spin to reflect light  
+away when in between the Moon and Sun. This 
+amounts to building a micro Dyson swarm around  
+the Moon to keep light out and I suspect you would 
+instead try for an orbital ring around the Moon  
+that just had a big opaque circular shade on it 
+moving to interpose with the Sun, and a similar  
+approach is probably a good pick for Mercury due 
+to its decidedly strange days. You just open or  
+close your sun shade or mirror on that ring 
+to the amount needed to match what you want. 
+This is a decidedly clunky approach though, 
+and combined with the vastly lower energy  
+requirement to achieve proper spin, is why I think 
+we might see that brute force rotation adjustment  
+occur. Which would make for some impressive 
+tides once we got air and water in place,  
+as Earth would cause a lot more tidal warping 
+on the Moon than the Moon does to us, which is  
+why it’s tidally locked in the first place.
+We obviously haven’t got time today to run  
+through all our options for terraforming in the 
+same length, but this topic is one we have tended  
+to skim over in our other terraforming videos like 
+Planetary Terraforming Techniques, and I think  
+it applies more to the Moon. Alternatively, we 
+devoted an entire episode to get a magnetosphere  
+around Mars – which is much easier than folks tend 
+to assume and doesn’t involve nuking its core. And  
+the same options can be applied to our Moon.
+But it brings up our other challenge for  
+terraforming the Moon, and that’s the issue that 
+things aren’t very heavy on the Moon because of  
+its low gravity, and that combined with its lack 
+of a magnetosphere makes giving it an atmosphere  
+very hard. Or rather having it keep an atmosphere 
+once put on. If we just opened a magic wormhole  
+to the Moon and dumped an atmosphere on it, it 
+would not instantly fly off, but the leakage  
+would be awful. We can’t model that well enough to 
+give useful figures but while it might be several  
+lifetimes before any appreciable drop occurred, 
+it wouldn’t be the same geologically long process  
+it was on Mars of a few hundred million years.
+And if you spent a thousand years shipping in an  
+atmosphere and have to replace your atmosphere 
+every several millions years, then that just  
+means you went from having 10,000 mega-freighters 
+dropping air off every month to just one swinging  
+by to replenish miniscule losses. Alternatively 
+if you needed to replenish it on a timeline of  
+centuries, I think that becomes unsustainable, and 
+we don’t know what that timeline would look like  
+for a terraformed Moon. It also represents a lot 
+of air, as you need more air over any given area  
+on a lower gravity planet than on Earth, 
+because the lower gravity makes the same  
+amount of air have less weight and generate less 
+pressure down on the surface. You get a very tall  
+atmosphere as a result, and a thicker one in 
+terms of there being much more air above you,  
+which would change the visual properties of 
+the sky, particularly near dawn and dusk. 
+Now the reality is this atmospheric loss issue 
+is a hard problem to solve, there are several  
+mechanisms for atmospheric loss and they all 
+happen faster when you have lower gravity,  
+or are hotter, or have no magnetosphere protecting 
+you. The Moon has lower gravity than Mars,  
+is closer to the Sun than Mars and has it shine 
+on spots for two weeks straight to further heat  
+things, and has no magnetosphere of note.
+The easy para-terraforming fix is basically  
+to dome over everything. As we saw recently in our 
+episode the Domes of Mars, it is indeed possible  
+to build diamond hard domes – diamond is just 
+carbon after all – with multiple panes that are  
+crystal clear, filter out harmful sunlight, and 
+help protect against micrometeors. You could make  
+them sturdier than the steel armor on a battleship 
+if you wanted and in that episode we detailed a  
+number of backup and emergency protocols to make a 
+dome a safer place to live than under an open sky. 
+Which is part of the problem. I’m not sure you 
+would ever not have those domes up given the  
+advantages they have if big and crystal clear. 
+Indeed so long as they are tall enough to hold  
+in a normal atmospheric depth, so that 
+the pressure was much lower near the top,  
+you would not only still get weather but 
+have very slow leakage out of a given dome  
+even if a huge hole was punctured into it.
+The Moon’s low gravity is still a good deal  
+higher than what is needed to hold particles of 
+air moving at room temperature velocities. That’s  
+generally a few hundred meters per second and 
+the escape velocity of the Moon is around 2400  
+meters per second. Some particles will move faster 
+than that but the distribution of speeds falls off  
+very sharply, especially for heavier molecules 
+like nitrogen, oxygen, argon, and carbon dioxide.  
+What’s mostly going to strip them off is high 
+speed ions. Typically a hydrogen atom or lone  
+proton from the Sun ramming them at roughly a 
+million miles per hour, which is not hyperbole.  
+A strong magnetic field bends most of those 
+out away from a planet, or moon, and prevents  
+all those collisions, and thus is even more 
+important than gravity for holding atmospheres. 
+Again, see that episode about making a 
+Magnetosphere for Mars for details on how,  
+though there we recommend deploying a solar 
+powered magnet at the Martian L1 with the Sun,  
+and have the same problem as solar shades for 
+applying this to a Moon, so you would probably  
+use the alternative approach of a large orbital 
+ring to generate a magnetic field, which could  
+also serve as useful landing and launch platform. 
+It would be a lot less visually intrusive than  
+the solar shade and mirror approach too.
+I am generally of the opinion that an  
+artificial magnetosphere would be installed 
+almost everywhere we settled too, and even  
+Earth might deploy one just to further cut down on 
+the ionized particles coming in – which represent  
+dangerous radiation to those on space stations 
+or ships. This is a paraterraforming option,  
+and one where if it breaks down you aren’t in 
+immediate danger, so not a jugular vein option,  
+and neither are very tall and strong domes 
+on the Moon, which if nice and clear don’t  
+represent any sort of visually unpleasant effect.
+I suspect that even with a magnetosphere and an  
+economy able to import air to replace that lost 
+by slower leakage, you might still have those  
+domes up. I think it would come down to the 
+net leakage rate and if the cost of replacing  
+that was higher than maintaining domes. You would 
+likely keep that artificial magnetosphere anyway.  
+This would minimize energetic particles hitting 
+your domes which would cut down on their own wear  
+and tear and cut down on losses from cracked or 
+leaking domes. You would probably have a very  
+thin atmosphere above the domes anyway just from 
+leakage. This also means if you have short domes,  
+which get all their pressure from being a 
+sealed container stuffed with air, rather than  
+by weight of air like on earth, that when cracks 
+or ruptures do occur your air spilling out is not  
+being stripped off by solar wind very quickly 
+and can be recovered from this over-the-dome  
+atmosphere and pumped back down into domes.
+But that circumvents the gravity issue a bit,  
+which is our last big problem. As we discussed in 
+Moon: Megacity, if we could develop the ability  
+to artificially create black holes then you 
+could stick one in the center of any body,  
+be it an asteroid or a modest planet like Mars 
+and pump hydrogen and helium into that to generate  
+power and add mass. You just surround it with a 
+shell so your black hole is separate. You can also  
+skip on doing this at the core in favor of placing 
+many of them at a shallower depth in a grid around  
+the planet or Moon. We discussed black hole 
+tech more last week, and again Moon: Mega City,  
+covers your gravity options in more detail.
+As noted there, if you wanted full Earth-like  
+gravity on the Moon, which has 7.4% of Earth’s 
+surface area, you would need 7.4% of Earth’s mass,  
+and the Moon only has 1.2% of Earth’s 
+mass, so you would need to add 6.2% to it,  
+roughly 5 times what it has now. That’s a lot of 
+hydrogen and helium to ship in from Jupiter but  
+isn’t even a thousandth of Jupiter’s mass, and we 
+might do this to Jupiter’s 4 big Galilean Moons,  
+which are all comparable to our Moon in size, 
+and much closer to Jupiter for shipping purposes. 
+Adding mass to the Moon would also raise tides 
+on Earth, though at the level of planetary  
+engineering we’re discussing, the increased 
+erosion on Earth from that would be miniscule  
+to correct for compared to everything else. 
+This obviously would help a lot for maintaining  
+an atmosphere and one more like Earth’s.
+But if you are using domes and artificial  
+magnetospheres this question comes 
+down to whether or not lower gravity  
+is biologically adaptable. If it is, I suspect 
+you don’t try messing with the Moon’s mass. 
+We know zero gravity is bad for our health, we 
+have no idea what lower gravity does and how  
+much is enough, but we tend to assume the Moon’s 
+gravity isn’t optimal for our health or those of  
+other terrestrial flora and fauna, though that 
+low gravity might make for some trees so tall that  
+they laughed at redwoods. This is an example where 
+we just don’t know yet. You are likely to see a  
+large change in how ecosystems work in low gravity 
+though, see our life on low gravity planets  
+episode for discussion of that, but as a simple 
+example, ecological balances might shift a lot  
+if your trees are taller and flying is easier, and 
+indeed running changes in low-gravity too, as each  
+springing step takes longer to lower your foot 
+down to the ground for the next one. So a given  
+predator-prey relationship might change massively 
+and disrupt ecologies you try to put in place. 
+This is where bioforming might be a better 
+option than para-terraforming or even  
+terraforming options. You genetically tweak 
+organisms to better handle lower gravity and  
+re-balance your ecosystems. As we mentioned, 
+it is likely that every place we settle will  
+have its own unique blend of terraforming, 
+bioforming, and para-terraforming that it uses,  
+and which might change at any time. A given planet 
+or moon might not have a unified government able  
+to make policy decisions on terraforming and 
+that’s why paraterraforming will often work  
+better. It’s a lot harder to complain if one of 
+the countries on your planet is using domes than  
+it is to if they’re mass altering genetics 
+or bringing in tons of cometary bodies or  
+putting a black hole in your planet.
+And my assumption is that by the time  
+most larger bodies like the Moon, Mars, or 
+Venus have enough people to justify a planet  
+wide terraforming operation, rather than 
+habitation domes and their parallels,  
+that they will also have developed multiple 
+governments, be they sovereign or simply large  
+sub-divisions with different opinions than their 
+neighbors on where their planet or moon should go. 
+That time, intent, and willpower equation 
+is the last big aspect of terraforming,  
+as while it might seem like a monumental task 
+to bring in a quadrillion of tons of nitrogen  
+from Venus or the outer solar system, and many 
+times that in water or hydrogen to make seas,  
+it is in some ways easier to ship that than 
+to decide to keep doing it. If I need to bring  
+in 100 quadrillion tons of water to give 
+the Moon nice deep seas in those craters,  
+then that’s something like a trillion oil tanker 
+deliveries of water or ice, and if you had one  
+arriving every single second of every single day, 
+that’s about 30,000 years’ worth of deliveries. 
+All the while folks who might have been building 
+their homes and towns in those craters might be  
+having second thoughts about how much you really 
+need a sea there and if it really needs to be full  
+depth. Though with Earth hanging huge in their 
+sky, far larger than the Moon is in our sky,  
+they might have that as a constant reminder 
+of what terraforming success looks like. 
+It’s a long term project but in a civilization in 
+which mass automation makes mega-projects viable  
+and which would likely see the Moon second 
+in power and influence in the interplanetary  
+settlement era only to Earth, I think the 
+resources would be there. Indeed you might  
+maintain willpower simply because radical life 
+extension technology might make it so people  
+survived from the earlier days who still 
+dreamed of completing the project. While  
+others might be quite used to the lower gravity 
+and the monochrome wasteland beyond the domes  
+and prefer dwelling underground anyway. They 
+might object to terraforming further. Later  
+generations might push the project once more 
+and seek to terraform the Moon after a pause. 
+Inevitably the question comes down to how 
+Earth-like you want your new home to be,  
+and how Earth-like your descendants want 
+it when it’s been made more habitable but  
+they’ve adjusted too. Time will tell where the 
+happy medium lies. The political landscape of  
+those descendants will shift as the physical 
+landscape shifts. It will also shift with the  
+capabilities of technology to reshape a world, 
+and the balance point of practical and possible,  
+will all help determine the fate of our Moon 
+and of all those other worlds we come to. But  
+we saw today the many ways the Moon might 
+be terraformed, so we know it can be done. 
+And for my part, I think a day will come 
+on Earth when we look up at that Moon in  
+the sky and see another sky, of white 
+clouds over blue seas and green lands. 
+We were discussing the differences between 
+terraforming and para-terraforming today  
+and part of that line between them is their 
+susceptibility to damage from poor maintenance,  
+sabotage, or attack, and we’re seeing more and 
+more these days how vulnerable our infrastructure  
+is to cyberattacks and ransomware. This 
+is almost always preventable and in most  
+cases just using two-factor authentication, not 
+repeating passwords, and using Virtual Private  
+Networks, like NordVPN, will keep you safe.
+NordVPN lets you surf anonymously from many  
+different secure servers around the world while 
+maintaining high-speed performance. You have  
+every right to your privacy, websites are not 
+entitled to know your data without even asking,  
+many sell it and even good actors can 
+get hacked and your data with them,  
+exposing you to attack and fraud. Let NordVPN be 
+your first line of defense, try out their fast,  
+easy to use and intuitive interface that you 
+can test out today with a 30-day money back  
+guarantee at https://nordvpn.com/IsaacArthur.
+One of NordVPN’s best features though is NordVPN  
+Proxy Extensions, that lets easily control which 
+sites you visit with or without the VPN on,  
+split tunneling, so you can log into your bank 
+with your real IP while going to other websites  
+with the IP of the VPN server you’re using. And 
+you can set up different VPN servers on different  
+browsers, including loaned and borrowed devices.
+Use the web safer and hassle free with NordVPN. Go  
+to https://nordvpn.com/IsaacArthur and try it out 
+risk-free with Nord’s 30-day money-back guarantee.
+So that wraps us up for today but we have 
+a bonus episode this weekend, Sunday,  
+February 25th, on the topic of Vacuum Trains and 
+other hyperfast transit systems. Next week we’ll  
+be finishing the month on February 29th, as we 
+leap into the topic of life on colony ark ship  
+carrying people to new worlds that will carry 
+us ahead into this leap year and into March,  
+where we’ll head back to the dawn of time 
+for a look at Primordial Planets. Then we’ll  
+continue our discussion of terraforming 
+by asking if it is ethical and when,  
+and what sorts of challenges future civilizations 
+will face on deciding whether or not a planet  
+should be terraformed and to what degree.
+If you’d like to get alerts when those and  
+other episodes come out, make sure to hit the 
+like, subscribe, and notification buttons. You  
+can also help support the show on Patreon, and 
+if you’d like to donate or help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early and 
+ad free on our streaming service, Nebula,  
+along with hours of bonus content like Topopolis: 
+The Eternal River, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

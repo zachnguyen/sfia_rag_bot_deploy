@@ -1,0 +1,732 @@
+Leo Tolstoy said “The two most powerful
+warriors are patience and time”.
+When it comes to interstellar warfare, he
+couldn’t know how right he was.
+So today we will be looking at interstellar
+warfare and the dynamics involved between
+how two ships would fight while traveling
+in interstellar space, how you’d move fleets
+around, and the sorts of weapons people might
+shoot from their home system to an enemy star
+system, the interstellar equivalent of Intercontinental
+Ballistic Missiles, ISBMs rather than ICBMs.
+This won’t be one of our longer episodes
+but you might still want to grab a drink and
+snack, because there’s also a companion
+episode talking more about the science fiction
+and worldbuilding aspects of interstellar
+warfare which I’ll mention again near the
+end.
+This episode itself is focused more on the
+known science angles and how it affects the
+concept of Interstellar conflicts.
+That’s a tricky concept too.
+As I mentioned back in the original Space
+Warfare episode, predicting the future of
+the battlefield in terms of tactics and strategies
+is almost an exercise in futility because
+the dynamics of combat can change massively
+with a single minor piece of new technology.
+I’ve seen that first hand too, my own unit
+got in a ton of new gear prior to our deployment
+to Iraq, a lot of lasers and optics, so unsurprisingly
+my unit’s leadership decided the guy who’d
+been working on a doctorate in physics before
+jumping ship to enlist was well-suited to
+figure out how all the new toys worked and
+train the others with them.
+New gadgets, no matter how good, are useless
+if folks don’t know how and when to use
+them, indeed they can do more harm than good,
+but of course used properly even a seemingly
+minor bit of technology can let you dominate
+a battlefield.
+That’s the first rule of warfare too, know
+how to use your equipment.
+Anyway I wanted to be upfront about that for
+today, that we are playing a very big guessing
+game.
+To add to that my own background is in artillery
+and infantry combat too, not ships, but then
+modern sea-going navy ships will likely have
+far less in common with spaceship warfare
+than sci-fi tends to portray.
+Or short form, I don’t really know what
+I’m talking about here but odds are nobody
+else does either.
+All we can do is look at basic physics and
+military history and try to see what does
+and doesn’t make sense.
+And of course the short answer is pretty much
+nothing we ever see in sci-fi makes sense,
+though with some weird exceptions.
+For instance one of the classic complaints
+against a lot of old shows is how both ships
+would just park and shoot at each other at
+short range.
+That image is mostly incorrect, though forgivable
+since spaceship engagement ranges are so big
+you could never see the ships fighting if
+portrayed realistically.
+However the parking part is partially accurate.
+Two ships approaching each other at interstellar
+speeds will only get one short pass with an
+engagement window that might be as short as
+milliseconds.
+They can’t loop around for another pass
+even if they have the fuel as at 1G of acceleration
+or deceleration, they’ll need a week for
+every percent of light speed they were traveling,
+to slow down and speed back up in the opposite
+direction.
+However the opposite case, a stern chase where
+one ship is slowly catching up on another,
+would actually seem like a stationary battle,
+especially out in deep space where nothing
+seems to be moving.
+Even at decently relativistic speeds the stars
+don’t go zipping past like in Star Trek,
+so you’d still need pretty precise equipment
+to even measure a shift to them over one day.
+In that case too we have to remember this
+is space, not sea or ground.
+Ships can flip over and even move around side
+to side or up and down while still carrying
+that forward inertia, so that to the two vessels
+involved in the chase it will just seem like
+both are mostly parked or just moving around
+to maneuver.
+But it is the range of things, even over and
+beyond what we saw in interplanetary warfare,
+that makes interstellar combat different.
+Let’s go back to that head-on attack example.
+Two ships moving toward each other at, say,
+15% of light speed from their home systems,
+we’ll say Earth and Epsilon Eridani, about
+10 light years apart.
+Either of them would take 70 years to cover
+that distance, but 35 years into things they’d
+run into each other halfway between with a
+combined speed of 30% of light.
+The distance between them is going to shrink
+by 100,000 kilometers a second.
+Now most modern ships and fighter jets weapons
+have an engagement range of less than 100
+kilometers, especially for anything not guided,
+so if that was their window to shoot at each
+other they’d have exactly 2 milliseconds
+to shoot as they enter that window then exit
+on the other side.
+That’s about 1% of the time a typical human
+reaction takes place during, and a millisecond
+is so short it is below the human threshold
+to recognize.
+Add to that if the two survive that first
+pass, with human crews, and want to make another,
+they both need to slam on the break at 1 gee,
+and if they do, 15 weeks later they can re-engage
+for a second pass, which is a lot longer than
+the 15 or so seconds that it tends to take
+in a sci-fi space duel.
+Obviously, a human can’t handle much more
+than a G of acceleration for prolonged periods,
+and a human can’t handle millisecond engagements,
+but a computer can be built to do both.
+There are realistic limits on how much G-force
+any complex machine can handle, and it will
+depend on the weakest link in the ship, but
+even 10,000 Gs might be plausible.
+Suddenly a second pass doesn’t require 15
+weeks, it requires 15 minutes, a ten-thousandth
+the time.
+Incidentally there’s just over 10,000 minutes
+in a week.
+Having said that, the amount of power required
+to generate a 10,000 G turn in a ship of any
+significant mass will be staggeringly impressive.
+And again, that would seem to be obvious,
+what a lot of folks say, that manned spaceships
+make no sense, and that we only even see it
+in fiction because stories not centered on
+humans are boring to many people to read or
+watch or play, so we stick crews on ships
+and pilots in fighter craft to give them a
+human face.
+But that’s something we’ll be challenging
+a bit today too, at least for a larger vessel
+acting more like a carrier.
+Fighters, at least the classic single pilot
+variety manned by a regular human, are not
+realistically viable.
+There are a few things we can say with near
+certain confidence about interstellar warfare.
+Direct engagements will be terribly fast and
+likely lethal to at least one if not both
+parties, overall battles and wars will be
+terribly slow, and the energies involved will
+be terribly massive.
+Nobody aims for pyrrhic victories so those
+close direct engagements are likely to almost
+always involve at least one of the combatants
+only using expendable drones and munitions,
+while their major assets stay far further
+back and try attacks and maneuvers that are
+far less likely to succeed, but also far less
+likely to get them killed in the process.
+That’s the first rule of warfare after all,
+try not lose while winning, Pyrrhic Victories
+aren’t.
+Such direct engagements at speed also leave
+you no room to follow up if it doesn’t go
+according to plan, all assuming you even survived
+it.
+Just as an example, if we assumed some 100
+kiloton space vessel from the examples we
+just looked at, something of a mass and size
+parallel to a modern aircraft carrier, and
+remembering that energy goes up with the square
+of speed, then that ship was carrying about
+10^23 Joules of energy, about the amount of
+energy in all the sunlight hitting the whole
+planet of Earth over a weeks time.
+So the human crewed one needing 15 weeks to
+slow down will be turning on an engine at
+least powerful enough to light a whole continent
+while it slows down.
+Or alternatively, the energy release of shooting
+out several megaton-yield atomic bombs every
+second.
+This goes with something I’ve said before
+in other episodes, that there is no such thing
+as an unarmed spaceship, and this is certainly
+true of an interstellar one.
+When you think of a classic sci-fi manned
+starship unleashing an orbital bombardment,
+don’t think of it leveling a city, think
+more like it was using a machine gun on a
+planet with H-bombs as the bullets, and probably
+more realistically, it likely has several
+of those it regards as secondary weapons.
+This is something sci-fi author Larry Niven
+dubbed “The Kzinti Lesson”, for a militant
+alien race called the Kzin in his Known Space
+series, or rather the lesson they learned,
+that “a reaction drive's efficiency as a
+weapon is in direct proportion to its efficiency
+as a drive.”, which can be re-stated in
+a more generalized and simplified form as
+“Whatever energy a ship has to move itself
+around represents the minimum destructive
+power it has available to it”.
+Meaning, if that ship in our example rammed
+Earth, it would hit with a force comparable
+to the asteroid that is assumed to have ended
+the dinosaurs, which had thousands of times
+the total explosive yield of every warhead
+in existence during the height of the Cold
+War.
+Now alternatively, the 10,000 G robot ship
+will be turning on an engine 10,000 times
+as powerful, able to light up thousands of
+planets simultaneously, releasing as much
+energy every second as our whole planetary
+economy uses in a year.
+That’s an important thing to consider too,
+because if you’re assuming folks have these
+kinds of energies to give a single ship, then
+try imagining what their actual economy and
+population look like.
+On those rare occasions science fiction remembers
+the kind of kinetic energy a spaceship has
+in terms of planetary destruction, it tends
+to forget the kind of fortifications a planet
+could build if it had access to a power source
+able to run one of those engines.
+This would not be dozens of defense satellites
+each carrying a big particle beam and dozens
+of atomic warheads, but potentially millions
+of titanic defense installations each able
+to obliterate virtually anything we’d normally
+think of as a spaceship in fiction.
+We’ve talked about deploying entire stars
+as weapon systems before, the Nicoll-Dyson
+Beam episode covers that, both the idea of
+a mega-laser able to turn the full fury of
+a whole star on a distant system and the alternative,
+of having it use that beam to shove missiles
+with guidance systems up to relativistic velocities
+able to arrive as volleys.
+This is the preferred approach usually as
+you can use the solar output for many months
+or even years to push missiles launched separately,
+all at slightly different speeds timed to
+arrive simultaneously.
+These devices, generally known as a RKV or
+RKM, Relativistic Kill Vehicle or Relativistic
+Kinetic Missile or a few other names, essentially
+the interstellar version of the ICBM, and
+can include fairly elaborate guidance a laser
+can’t have.
+What’s more, as you get closer to light
+speed the kinetic energy no longer rises with
+the square of velocity, but even more sharply,
+so they carry an unbelievable punch.
+Also, while there is no stealth in space,
+a RKM is very hard to see and moving so fast
+that even when you see it you have little
+time to react, as the light from it is only
+reaching you just ahead of the missile.
+You either detect it during launch or have
+to detect it by the slight glow of collision
+radiation with the interstellar medium, which
+will brighten as it goes faster.
+The faster something is moving, the less time
+you have to react to it and the more energy
+it has to do damage, but you can also see
+it further out and it’s even more vulnerable
+to destruction by some small object just waiting
+in standby to flick into its path.
+They can also be manned since they aren’t
+necessarily accelerating very fast.
+That seems pretty dark, the notion of a manned
+missile, but suicide missions are hardly uncommon
+in war and finding volunteers generally isn’t
+as hard as one might wish it was.
+Add to that, high-tech civilizations, even
+if they regard AI as just as human as a human,
+can presumably find volunteers even more easily,
+since they can offer to backup or copy the
+mind of the individual involved.
+That also has some disturbing implications
+that get explored in our book of the month,
+Richard K. Morgan’s “Altered Carbon”,
+that we’ll discuss more in our episode on
+Teleportation in two weeks.
+Using the example of the energy in the dinosaur-killing
+asteroid that hit the Yucatan Peninsula 65
+million years ago, it’s worth noting that
+the Sun releases that much energy every millisecond,
+so a Kardashev-2 Civilization with full access
+to their Sun’s total energy could be launching
+such a RKM a thousand times per second and
+would have no problem hurling literally a
+billion of them to hit a neighboring system
+simultaneously.
+That’s just two weeks of solar output.
+A billion missiles each massing around a thousand
+tons, all shoved up to 99% of light speed
+by giant lasers.
+All presumably with an advanced guidance system
+capable of splitting the missile up into thousands
+if not millions of sub-munitions, enough to
+strike every single square meter of a planet
+with the explosive output of an artillery
+shell.
+And again, that’s just one of them, they
+can hurl a billion.
+This is assuming no new technology either,
+such a weapon requires huge energy but is
+very simplistic.
+And these are thus the minimum kinds of attack
+you need to prepare against.
+Not a single enemy mothership, not even a
+decently sized-armada of maybe hundreds of
+ships, but the full and virtually incomprehensible
+might of a civilization using a whole star
+to fuel their war machine.
+Folks often ask me why you’d make a Dyson
+Swarm, since its seems a ridiculous amount
+of energy and people, but while I think you
+would fill such a thing up with people eventually,
+I suspect tapping all that energy would be
+a high priority even when you were barely
+at the population needed to fill a planet.
+Such energy can be stored too, possibly in
+kugelblitz black holes, possibly as manufactured
+anti-matter and, even using a steampunk technology,
+as trillions of tiny flywheels spun up with
+that energy just spinning around in space
+waiting for use, after all the problem with
+flywheels as power storage is that air and
+friction spin them down, which is obviously
+not a problem in space.
+We’ll be talking about various energy storage
+options later this spring in Portable Power,
+but the key thing is that you can store energy
+in huge quantities to use.
+You also, in a high-tech civilization, probably
+have virtually unlimited effective manpower,
+since you can not only have robots do most
+of the work but tell them to build more of
+each other instead, then build whatever you
+need.
+So when trying to consider K2 or near K2 civilizations,
+the only kind likely to have most of the normal
+motivations for war, like resource shortages
+or border disputes, at the interstellar scale,
+don’t just picture vast amounts of rotating
+habitats or computers or solar power collectors,
+think massive factories, many potentially
+just sitting there doing self-maintenance
+on an army of robots, and huge energy storage
+depositories ready to feed those into defense
+or production.
+You also probably aren’t arriving to attack
+such a system after years of uninterrupted
+flight for a final day of encountering resistance.
+Such civilizations probably have their whole
+outer solar system, even deep into the Oort
+Cloud, loaded with defense installations hunting
+for attacks, signs of attack, and potentially
+ready to respond or retaliate.
+You also don’t want an enemy using the material
+in your own outer solar system to establish
+a beachhead.
+Your weapons hardly have to be sheer power
+either.
+Odds are good interstellar civilizations are
+effectively immune to biological and chemical
+attacks.
+It’s just that the nature of space habitats
+would make infecting or gassing one very tricky,
+but even without considering weapons relying
+on new technology, we have that army of robots
+issue.
+If they can build themselves, then they can
+build ones that can build more and so on.
+A single tiny bot covertly deployed somewhere
+could fairly rapidly build up quite an army,
+one that grows stronger with each victory.
+Fighting self-replicating machines in space
+is a lot like fighting a necromancer, you
+don’t ever want to engage unless you can
+win, because your lost troops stand right
+back up again and join in the attack.
+Now of course, the first rule of warfare is
+to not fight battles you’ll lose, but a
+common caveat to that would be that it’s
+the war you don’t want to lose, so throwing
+in on battles where you might lose, or even
+are sure you will but will delay or distract
+the enemy, are often okay.
+Again not so in this sort of case.
+You’re just feeding them.
+However they do need a constant supply of
+energy to manufacture and replicate, so it’s
+a good idea to have all of those resources
+bottled up and defended.
+Energy not only provides a potential bottleneck
+but a means of easy detection.
+As I mentioned back in Space Warfare, there
+is no stealth in space, but you can get a
+lot closer before being seen so long as you
+aren’t doing things that require power,
+once you start using power you will light
+up like a beacon signal.
+And these same civilizations who can build
+billions of relativistic missiles can build
+billions of telescopes and detection devices,
+so don’t expect to sneak up on them.
+Now a rebuttal to that would be that this
+sort of thing only applies to K2 civilizations
+or those decently near that, but that’s
+pretty much the only kind who will be fighting
+interstellar wars.
+Or at least one of the two or more involved
+parties will be.
+You have to consider the motives to get into
+such a thing in the first place.
+Obviously you need none but survival to be
+attacked, but someone has to do the attacking.
+So what were their motives?
+Were they low on space or resources in their
+home system?
+If so that can only be because they chewed
+through them or see themselves doing so in
+the reasonably near future, which means they
+are a K2 civilization, probably bigger since
+it’s unlikely they have neighbors to fight
+who aren’t their own colonies.
+Perhaps they want to exterminate all other
+life?
+If so they must be pretty passionate about
+it to plan out multi-century or millennia
+purges across huge volumes of galactic space.
+Presumably more than enough to decide to grow
+their numbers and resources into a K2, but
+they don’t actually need to grow their own
+numbers either, just tell their robots to
+grow their numbers.
+Nothing says a K2 civilization needs to contain
+a billion, billion people, just that it has
+the energy and infrastructure able to do so
+if that was their intent.
+Maybe they just love war, like the Klingons?
+Okay, if you love it, you probably make it
+a focus for your civilization, meaning you
+probably always want more soldiers and ships,
+which means you want more people and factories,
+which means you become a K2.
+Or maybe they’re not aggressive but just
+want to be safe against attack… in which
+case they become a K2.
+Any interstellar conflict, particularly if
+you are limited to light speed or slower,
+is only happening if at least one of the parties
+involved is very passionate about it and in
+a sustained way.
+They won’t be folks prone to half-measures
+or easily bored and we have to contemplate
+that as part of their motives and behavior
+in a potential conflict.
+Fundamentally high-tech civilizations are
+unlikely to be composed of wimps or idiots,
+they’re unlikely to have ever gotten any
+technology if they were either after all,
+and again they don’t have to be numerically
+expansionist.
+They could, if they like, just stay living
+mostly on the homeworld but have a bunch of
+self-replicating robots stowed away in various
+asteroids ready to exploit those raw materials
+in an emergency, and a fair amount of solar
+collectors and raw materials to build more,
+with more robots near those, all just patiently
+waiting for some deep space detector to send
+the signal of an incoming attack and go into
+a flurry of self-replication and manufacture.
+They’ve got millions of detectors seeded
+out in the depths of their Oort cloud ready
+to give advance notice to turn those factories
+on and pump out whole planets worth of defensive
+gear.
+An armada approaching an undefended system,
+detected early, might find that by the time
+they arrive in system those robots have converted
+whole moons into defensive stations and ships.
+Of course if you’ve got a swarm of a billion,
+thousand-ton RKVS heading in at 98% of light
+speed, your signal is only going to arrive
+a week in advance of them for every light
+year out you detected them at.
+So it pays to have a lot of defenses ready.
+You might ask how the heck you deal with a
+billion, thousand ton RKVs, each smart and
+guided, each able to hit with extinction-level
+force.
+And the answer is with a billion one kilogram
+balls able to smack into one, at those kinds
+of speeds they’d be obliterated.
+This presumably leads to countermeasures and
+counter-countermeasures with various point
+defense systems on the RKVs trying to nail
+such devices with anti-collision lasers or
+even smaller anti-anti-RKV devices, but one
+advantage the attacker has is that they can
+do a lot of damage just by the sheer amount
+of relativistic shrapnel and secondary debris
+left over from their missiles.
+The sooner out you can intercept that, the
+wider the cone that debris will cover and
+the more time you have to try to clean up
+that nebula-like wave of deadly space trash
+headed your way.
+We discussed the basic concept last week in
+Orbital Infrastructure, in regard to Kessler
+Syndrome around Earth, and how a scaled up
+version is a massive threat to a Kardashev
+2 civilization.
+And like Kessler Syndrome, this doesn’t
+require an intentional attack, one interstellar
+spaceship cruising in a system and exploding
+from some engine fault could shotgun a solar
+system.
+Such threats are manageable but only if you’ve
+got the infrastructure lying around to handle
+it.
+Now all these concerns only apply if there
+is some parity in size and technology, which
+in general won’t be the case if it’s say,
+Earth and one of its new colonies, or rather
+the Solar System versus one, not the entirety
+of some interstellar empire due to the huge
+lag times required just to decided to attack
+and how.
+So it’s probably more likely to be colony-on-colony
+conflicts, potentially just two factions in
+two seperate systems, neither of whom is the
+only nation in that system.
+In either case rules might apply, so as to
+avoid drawing in neighbors who might take
+sides or intervene.
+Or two technologically maxed out civilizations
+who originated thousands of light years away
+from each other and the defender gains an
+advantage as they get pushed back towards
+their more built up core systems and have
+more time, relatively speaking, to figure
+out the enemy’s technology and build defenses,
+while the attacker is increasingly slowed
+by time lag for new tech, reinforcements,
+and general coordination from their own home
+systems.
+Such interstellar empire on empire wars must
+take thousands of years both from the space
+involved and the need to bring along or build
+your infrastructure in newly conquered systems
+to progress to attack the next.
+In-system conflicts we covered in Interplanetary
+warfare and one-sided curbstomp battles we
+discussed in the Alien Civilizations series,
+which takes considerably longer to watch than
+such conflicts would tend to last.
+If an Armada from a K2 civilization shows
+up in Earth orbit tomorrow looking to tussle,
+we’re going to lose, and very quickly, unless
+they’ve got some weird sense of honor where
+they refuse to land more forces than we have.
+In which case we’d probably still lose,
+because they’re probably all genetically
+or cybernetically enhanced death machines.
+I wouldn’t like our odds even if they just
+landed one ship with a single dude that walked
+out naked with a sharp stick.
+That’s a thing to remember and which we’ll
+explore more in the Planetary Invasion episode,
+an enemy invading some planet or space habitat
+might have marines composed of genetically
+or cybernetically enhanced super-soldiers
+who don’t fear death because their minds
+are backed up somewhere.
+However, those civilian targets, composed
+of normally peaceful inhabitants, might also
+be cyborg’d up transhumans suddenly pumped
+up with rapidly manufactured weapons and combat
+software, all with their minds backed up somewhere
+else too so they are less worried about death.
+That same paradigm applies to big classic
+manned ships too.
+You have that acceleration issue and reaction
+time issue, but you could use transhumans
+instead of AI, and moreover you shouldn’t
+be engaging at hundred of kilometers but more
+likely at hundreds of millions of kilometers
+or further.
+And you probably aren’t engaging with one
+ship or hundreds of ships but possible hundreds
+of thousands of ships.
+You potentially have large capital ships too,
+each of which might have thousands or millions
+of little drones they deploy for the equivalent
+of fighter attacks and defense screens.
+Back on those capital ships though, standing
+off a potentially many millions or even billions
+of kilometers, in order to be able to dodge
+incoming directed energy fire moving at light
+speed, the real concern on maneuvering is
+fuel, far more than how fast they can maneuver
+is how much total delta-v they have for that.
+The further off you are the less delta-v you
+need to apply to make sure your ship isn’t
+where an enemy beam was aimed.
+We discussed the details of that back in space
+warfare, but in short form it makes classically
+manned and large ships more plausible again
+because their constraint is still more about
+ensuring fuel conservation than how fast they
+can burn it.
+That said, the more G-force that ship can
+handle, either accelerating or turning, the
+closer it can be and dodge laser or particle
+beam fire as it randomly jinks around.
+Of course that’s assuming your ship is solid,
+it could be composed of lots of smaller bits
+acting more like cells or a liquid.
+At the end of the day, an AI or cyborg run
+ship is still the better option but the disadvantage
+is no longer as huge for a manned capital
+ship essentially acting as a carrier and command
+and control for a swarm of drones.
+Most likely you use lots of ships, big fleets,
+engaging over huge distances, slowly coordinating
+and maneuvering and inflicting some damage
+until one side realizes it’s odds of victory
+have dropped and peels off to retreat, rather
+than decisive engagements where both sides
+take huge casualties.
+In cases like that you wouldn’t really have
+Ships of the Line, our classic term for a
+line of capital ships engaging another fleet,
+but more like Ships of the Wall, a 2D screen,
+something David Weber uses in his Honorverse
+series, probably one of the best military
+sci-fi series for discussing sublight battles
+and how those might occur, though he’s got
+FTL in there and a type of shields.
+Any given fiction setting with made up technology
+is going to need an entirely different approach
+to realistic combat and sadly most don’t
+think a lot of it through.
+Understandably so, we’ve barely touched
+on the topic today and even then only in the
+context of known science, we aren’t including
+options like opening a wormhole right on top
+of your enemy’s planet, not to dump soldiers
+through but to dump the other end in a sun
+or black hole.
+Thinking through what a given hypothetical
+technology can do is a big aspect of sci-fi
+worldbuilding and we’ll talk about it in
+the companion video.
+It’s pretty challenging too, and fun.
+I mentioned back in the Interstellar Empires
+episode a few months back that one of my side
+projects to the channel was working on developing
+the tech and lore for an upcoming video game,
+Hades 9, and basically to help forge the setting,
+and said I’d discuss it more down the road.
+It’s also where a lot of graphics for this
+episode and some others have come from.
+That’s been progressing and I suggested
+we do a walk up to release by setting up a
+channel and doing some short videos about
+not just gameplay but the setting, its story,
+and the making of the game.
+They liked the idea and we decided to roll
+a few out to start and add as we go, and they
+talked me into doing one of them.
+Not that it was a very hard sell and I suppose
+it’s really more ‘we’ these days, but
+we’ll look there more at the concept of
+realistic worldbuilding, especially in the
+far future, not so much keeping to known science
+but making those necessary departures from
+science minimal and plausible and mesh well
+together without obvious loopholes.
+That’s what I aimed to achieve with Hades
+9’s tech and backstory, set 4000 years in
+the future.
+As I said, that’s for the companion episode
+and I’ll leave a link to it in the video
+description, on an in-video card, and in the
+end screen with the credits.
+Next week we’ll be going even further ahead
+in time, not four thousand years but 4 billion
+years and further, back to the Civilizations
+at the End of Time series for Dying Earth.
+The week after that we’ll discuss the concept
+of Teleportation and see what options there
+might be for that under known science.
+We’ll then close out March with a look at
+Advanced Metamaterials and some of the potentially
+world-changing applications they have.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you want to support future episodes,
+you can donate to the channel on Patreon or
+by going to the donations link at our website,
+IsaacArthur.net
+If you enjoyed this episode, don’t forget
+to hit the like button and share it with others.
+Until next time, thanks for watching and have
+a great week!

@@ -1,0 +1,906 @@
+We often dream of a future out in the 
+galaxy, exploring and settling strange new  
+worlds under the light of alien suns, but 
+what would living in space truly be like? 
+Last week we were talking about Near-Term Space 
+Colonization and some of the hurdles we would  
+encounter on our journey to settle new worlds, 
+but we didn’t talk much about what living in space  
+itself would actually be like and what the 
+challenges for humans are when living off Earth. 
+It’s a big topic because space is big; really 
+big. You just won't believe how vastly, hugely,  
+mind-bogglingly big it is. And that also means 
+there are a lot of different conditions humans  
+will need to adapt to in order to live in those 
+places, or adapt them to our needs, or possibly  
+meet somewhere in the middle, as we often have 
+in our history on just this single world, and its  
+many different climates & ecosystems, which again 
+is but one world among billions and billions. 
+Now, we’re not talking today about living in 
+the actual void of space, which is empty of  
+everything life needs and plentiful in harsh 
+radiation and high-speed micro meteors. We  
+contemplated biology adjusted to the vacuum in our 
+episode Void Ecology, but today we’re principally  
+interested in how life can be adapted to space 
+settlements we build, or those settlements we  
+build on planets, moons, comets, or asteroids.
+While the title of today’s episode needs little  
+explanation, it comes from the title of both a 
+book and an annual presentation track which the  
+National Space Society runs at the International 
+Space Development Conference. That track is one  
+of several that go on at the same time at the 
+ISDC each year and Living in Space is run by my  
+friend Dr. Sherry Bell, the Dean of Psychology 
+at the Kepler Space Institute. More than one  
+episode on this channel has been inspired 
+by those presentations, including Staying  
+Sane in Space from last year, which discussed the 
+hundred-and-one ways space can drive you nuts in  
+just a few weeks on board the space station.
+Our goal is not to repeat that information,  
+since the book[a] and many other presentations 
+cover those topics very well, but rather to look  
+further ahead. To try to imagine what the future 
+would be like if you were an asteroid prospector,  
+for instance, patrolling deep space in a small 
+ship hoping to find and claim a small rock as  
+your own and mine it. Probably all the easy finds 
+are already mined or claimed, and this means your  
+life in the future is strikingly like life was for 
+your ancestors in the distant past – where a great  
+deal of time was spent searching for and gathering 
+resources. Or an asteroid miner who might be  
+essentially living in their space suit all day, or 
+even all night[b][c][d], augmented by its powered  
+exoskeleton and advanced electronics. By the time 
+people start wearing space suits for an everyday  
+job, we'd expect it to be more comfortable now, 
+maybe even like overalls or even a second skin. 
+Perhaps you’re the bartender at the pub[e][f] 
+on the station where miners bring back their  
+ore so it can be refined and fired by giant 
+electromagnetic cannons back to Earth Orbit.  
+Or maybe jobs like that are automated. Or is 
+having a friendly human to talk about your day  
+a job we want a human specifically to do? Perhaps 
+people would be comfortable with a ChatGPT enabled  
+Pubbot 3000 with a wider array of cocktail and 
+conversational options, who can look up all your  
+data and recommend the perfect beverage, selected 
+optimally for your unique tastes and preferences,  
+for you to share and enjoy!
+Or maybe you’re a space farmer,  
+waiting for your climate-controlled crops to be 
+ready and for a ship to dock and take them away,  
+as it does every month, and perhaps almost 
+the only visitors your small community,  
+or perhaps just your single family, ever get. 
+The family farm of 2500 AD might tend to a  
+hundred thousand acres of robotic farms in space, 
+mere seconds from their client communities for  
+conversation or virtual reality, but a few days 
+of travel if you want to gossip face to face. 
+Or perhaps you live the life of a solar 
+array tender, who spends the days running  
+inspection and repair robots on the huge thin 
+arrays, and goes EVA every couple days for an  
+hour to float on a structure no thicker 
+than paper but as large as most cities,  
+and yet populated by you and your five crewmates. 
+Space is immense, and its future will run  
+unnumbered trillions of years, and so almost 
+anything we might imagine might occur in it,  
+and that should include a trillion different jobs 
+and billions of different types of facilities,  
+each different than each other even when made from 
+the same blueprint, and each changing with time. 
+Much of our efforts towards living in space are 
+about trying to make any given bit of it more like  
+Earth, a process we call terraforming, 
+while others will attempt the reverse,  
+namely adapting to the environment. 
+An example of this is bioforming,  
+where you alter people to the environment, an 
+extreme case of which would be giving someone  
+gills to live on an oceanic planet, for instance.
+We are not contemplating anything so large today,  
+but we must be mindful again of just how 
+huge space is, in time as well as volume,  
+and some colony established on an ocean planet 
+near the galactic rim after a series of leapfrog  
+settlements of a dozen prior worlds spread 
+out over a million years might be far more  
+divergent from us than what even a million 
+years of evolution and cultural change might  
+naturally allow for. Growing up under alien 
+suns and with access to a vast knowledge of  
+genetics and cybernetics might mean our 
+distant children on that world shared  
+less with us of mind and body than an animal 
+that ever walked our world or swam its seas. 
+But again, our focus for today is much closer 
+to home in space and time, and those represent  
+problems enough. To shine a light on those 
+topics, we might as well begin with light itself. 
+It’s been almost 150 years since Edison 
+demonstrated his carbon filament light bulb,  
+more than twice as long as it’s been 
+since the first humans went to space,  
+and so it is easy to forget how new artificial 
+lighting truly is. Candles and fires were very  
+inefficient and expensive ways to allow enough 
+light to work when the sun went down, so we  
+didn’t get much done at night. Electric lighting 
+changed that, the result being we are much more  
+used to artificial lighting than our ancestors.
+Our modern civilization relies heavily on  
+artificial lighting and that would seem sufficient 
+proof humans can be comfortable with artificial  
+lighting, but the data coming out these days 
+is indicating that such a relationship might  
+be a lot rockier than we had thought and that in 
+many cases it behooves us to aim for as close an  
+approximation to sunlight as possible.
+Inside our own solar system at least,  
+natural light is in the right spectrum, as it’s 
+the same sun, except the brutal frequencies of  
+ultraviolet are filtered out by our atmosphere. 
+However, space away from any planet’s shadow is a  
+perpetual noon-time summer desert light, without 
+any evening or sunset. Some asteroid miners  
+making their way out to the Belt or combing it for 
+prospects will never see night, for months on end,  
+as the Sun slowly grows dimmer as they journey 
+out, but never disappears. I don’t think I’d  
+sleep well that way, in a world with no nights, 
+nor afternoons and evenings, just eternal noon. 
+While we often talk about how light would be 
+brighter or dimmer on another planet, or its day  
+and year shorter or longer, the color temperatures 
+matter a lot too. This can get confusing because  
+before we did much science on light, we had our 
+normal old rainbow of colors and red, orange,  
+and yellow (flame colors, which came to be called 
+‘warm’ colors); and green, blue, and violet,  
+the ‘cool’ colors. In reality almost all the 
+particles of light, photons, coming off a normal  
+open flame are in the infrared and only a handful 
+are visible, mostly in your red and orange colors. 
+If you’re wearing something blue by a campfire 
+sometime, you’ll notice it seems especially dark,  
+bordering on black, because that fire emits 
+virtually no blue light to reflect off it.  
+Green would be a bit less dark while violet would 
+be even darker. As we turn that flame up, make it  
+hotter, the amount of green, blue and violet light 
+will increase, while the portion that is infrared  
+will decrease. If you look at a torch flame, it’s 
+blue near the tip, where it’s hottest. So too,  
+a hot piece of metal in a fire might begin to 
+glow red, as it heats up it shifts to orange, then  
+yellow, and then it is usually so bright we are 
+flooded with all wavelengths and it seems white.  
+Our Sun’s peak temperature wavelength is actually 
+a blueish-green, but none of us perceive that,  
+as Earth’s atmosphere scatters short 
+wavelength photons. Hence a blue sky. 
+Unfortunately, we’re stuck with that 
+terminology of warm and cool colors,  
+so you will see a bulb listed as 3000 
+Kelvin and ‘warm’ while a 6000 Kelvin bulb,  
+twice as hot and giving off a spectrum like our 
+Sun does, is called ‘cool’. And let’s be honest,  
+those warmer but actually colder 
+temperature lights in the 2000 to  
+3000 Kelvin range are more relaxing and 
+warming hues. Those are the colors you  
+get more in the evening and morning and thus 
+it’s no real surprise it’s relaxing to us. 
+We’re only just starting to gather good 
+data on what light works best for people  
+in what circumstances, as LED lights have made it 
+affordable to use basically any spectrum you want,  
+but the evidence is lining up that we are 
+very touchy about color temperature for  
+our environments. Blue light is not relaxing and 
+not conducive to getting to sleep. Conveniently,  
+our Sun is one of the hotter ones, for 
+all that we call it a yellow dwarf star,  
+it’s bigger and hotter than about 
+95% of the stars in this Universe. 
+So what does all this mean for living in space?
+Well, up in orbit on some space hotel where you  
+whip around the planet every 90 minutes, enjoying 
+fast sunrises and sunsets at that same rate,  
+you cannot allow anything like a natural day to 
+come in through windows, even UV-shielded windows.  
+Your sleeping quarters need to be absent of any 
+outside light, which is fine since we have found  
+that the best sleep comes from the least light 
+and noise. Trust me, an investment in a black  
+out curtains and a good mattress are good ones. 
+We think of a space hotel as a place to visit for  
+its microgravity environment, but I’m certain 
+it won’t take long for them to get rated by  
+how comfy their beds or sleeping cocoons are, and 
+how good a night of sleep the wealthy tourist had. 
+How do we build a space habitat 
+with good lighting without having  
+to produce it entirely artificially?
+It’s tricky and depends a lot on what  
+the other conditions are. For instance, it’s 
+impossible in Low Orbit, again, that 90-minute  
+day-night cycle is in play. You could possibly 
+use a system of mirrors and lenses to blast light  
+from ahead or behind your orbit to light you 
+during your day when you’re behind the Earth,  
+but that seems needlessly complicated in 
+favor of just enclosing the whole environment,  
+except a few observation windows, and lighting 
+it with the best approximation of a normal day’s  
+length and light temperatures, even 
+incorporating seasonal variations. 
+I think that’s likely to be your solution at most 
+places, but in higher orbits of Earth where a  
+space habitat wouldn’t spend much time in Earth’s 
+shadow, and the orbital periods get longer,  
+you could have your space habitat spinning along 
+an axis parallel to the direction of sunlight.  
+Then you stick whatever filters you want in place 
+to block out light of the desired frequencies,  
+and change them over the day and season 
+to mimic a given region of Earth.  
+You can also bounce or direct that excess 
+light into power collectors, or power storage,  
+or running something like fuel production or metal 
+refining, or secondary space farms or hydroponics  
+in lower-quality, cheaper, adjacent facilities.
+This works essentially anywhere except on, or in,  
+a planet, major or minor, or in low orbit of it. 
+You can even put a big parabolic dish behind your  
+hab to bounce in a larger amount of sunlight if 
+you’re far from the Sun. It’s paper thin, or even  
+thinner, so not much of an extra cost even way 
+out in deep space, as we discussed in more detail  
+in our recent look at Colonizing the Kuiper Belt.
+This is going to be a bit of a theme when it comes  
+to planets and living in space, that it tends to 
+be way easier to make the blank template of space  
+into something Earthlike than it is to reshape a 
+planet. You have a blank if hostile canvas to work  
+with, not one already painted Martian red, so to 
+speak. Of all the planets, only Mars has anything  
+close to our day length, being a half hour longer 
+and presumably allowing some extra sleep each day.  
+The other rocky planets have day lengths measured 
+in months, while the gas giants are all shorter,  
+with Jupiter at 10 hours, Saturn 11, Uranus 17, 
+and Neptune 16 hours. Most asteroids spin around  
+even faster than that, and only a handful of 
+tiny moons near Jupiter and Saturn have day  
+lengths of 24 hours or less, with most moons 
+being tidally locked and having days equal to  
+the orbital period around their planet, like 
+our Moon, and are often weeks or months long. 
+As we move to a gravity environment, this problem 
+only gets worse. We know microgravity is bad for  
+people in the long term, but we have no idea 
+how little is enough. Only 12 humans have ever  
+existed in low gravity, and only for a few days 
+each in lunar gravity, with that stay bookended  
+by high-g rocket burns and periods of microgravity 
+moving to the Moon and back. So, for all we know,  
+the Moon and the dozen or so other bigger moons in 
+this solar system might be just fine for humans.  
+In which case, settling them is far easier, 
+whereas if it isn’t, then we may use human  
+repair crews on short month-long contracts and 
+have robots on the ground, or remote control them  
+from spin gravity habitats orbiting those moons.
+And if gravity is too low on those moons, maybe  
+Mars is fine, at about two-fifths Earth’s 
+gravity. Or maybe even Venus and Saturn,  
+each within about 10% of Earth’s gravity, would 
+still not be close enough. Earth’s gravity has  
+been the same over the entire duration of life 
+here and varies by far less than 1% from pole  
+to equator or valley to mountain top. Nothing is 
+adapted to gravitational variation. We could find  
+that some ecologies totally fall apart even 
+at just under a 1% difference in gravity, so  
+that even the cloud cities and floating gardens of 
+Venus, floating a hundred miles over the surface,  
+need constant tinkering to help with gravitational 
+issues of its near-Earth gravity. Perhaps your job  
+there as a botanist or zoologist is helping 
+with that tinkering and adjusting for the  
+gravity not being quite right, and your spouse 
+helps run the local tourist rental for gliders  
+and blimps and acid-proof pressure suits.
+My hunch is that the gravity on Venus would  
+not be a problem at all, but science is about 
+rigorously testing hunches and as of right now,  
+we haven’t developed the means to test this one. 
+It may be that our tolerance and adaptability,  
+and those of our fellow organisms, is so high 
+and quick that even bizarre environments with  
+just 1% gravity would be able to be adapted to. 
+Places where we’re floating in 3D environments  
+and where you glide around like a bird are 
+easy to create and dwell-in. Those habitats  
+might sport trees a dozen kilometers tall 
+or wide, with entire glades or pools hidden  
+in the various nooks of their branches. While 
+micro-gravity trees might grow out spherically. 
+But it is very important to know for our future 
+because that future looks very different if humans  
+can handle low gravity very easily or if treatment 
+for microgravity health concerns become simple and  
+routine. So too, a civilization with easy cancer 
+treatment might build very different ships, domes,  
+stations and other settlements than one 
+that dies easily from radiation exposure. 
+Alternatively, we can say that humans 
+experiencing acceleration from being spun  
+around, like a car going around a sharp turn 
+or laundry in the spin cycle, does show every  
+evidence of simulating gravity sufficiently, 
+with a few caveats we’ll get to in a moment. 
+First, some do wonder how we know gravity and this 
+sort of use of centrifugal force can approximate  
+each other, and the answer is right there in 
+things like the microgravity in space stations or  
+any satellite around our planet or any other moon 
+or planet for that matter. They don’t fall down  
+toward the planet because the centrifugal force 
+of them whipping around that object counteracts  
+the falling. That’s why astronauts float on the 
+space station, and it’s also why you wouldn’t  
+float if you jumped up towards the center inside 
+a rotating space habitat. It would seem like  
+you would float off the ground in a spinning 
+cylinder, and indeed you would if you magically  
+appeared inside one by teleportation, at least 
+until all the air started shoving you around,  
+but the same is true if you teleported in over 
+Earth, there will be an instant before gravity  
+affects you, or vice versa, since it travels at 
+light speed. And then you would fall under the  
+power of gravity. The real confusion comes from 
+people not really thinking through how you jumped  
+off the surface of that ring or cylinder to get 
+suspended in the air, and not carrying through the  
+inertia or looking at the force chart of jumping 
+off the floor while both you and it are moving. 
+TL;DR if you’re content to accept that 
+spin-gravity works fine – I’ve never  
+heard another physicist object to it working 
+this way either – but often folks hear about  
+the idea and it confuses them or they think the 
+idea is something out of sci-fi or fringe physics  
+when it’s terribly mundane and old school. 
+It’s just a pain to visualize and requires  
+messing around with rotating non-inertial 
+reference frames, which is also a pain. 
+The other half of that skepticism, I think, comes 
+from the lack of any existing space stations with  
+spinning sections. However, this comes down to 
+three key facts. First, one of the major points  
+of us having a space station is that we can do 
+experiments in space there, and the only thing we  
+can’t really emulate down here that is up there, 
+is that near absence of gravity – or rather,  
+that near-perfect balance of centrifugal force 
+and gravity to create that weightless microgravity  
+environment. We could build a big long tunnel 
+around the planet’s equator, suck the air out  
+of it, and run a hyperloop-style vacuum train 
+around the planet at thousands of miles per hour  
+and achieve the same thing but as expensive as 
+space stations are to build, that would be worse.  
+Admittedly it would have great travel uses.
+Anyway, putting gravity onto the only place  
+we can conduct zero gravity experiments is kind 
+of self-defeating. I suspect we will find many  
+folks enjoy microgravity in our early space 
+hotels but soon find they would like at least  
+partial gravity in their hotel room itself. 
+It certainly makes plumbing easier and less  
+embarrassing. Those people aren’t living in space, 
+but may be the customers of the first people who  
+really do. When it comes to your hotel staff, 
+which is not usually a very high-paying job,  
+it might be that the cost of bringing them 
+up to space and down is so prohibitive that  
+such companies pay extra bonuses to those who 
+stay on longer between trips home to Earth. 
+The second reason is, it’s more expensive to 
+build since you have either a large cylinder, wide  
+enough for reasonable spin gravity, or you make a 
+ring or torus, and for the latter that means you  
+have even more surface for air to leak out from 
+and radiation to leak through, raising costs. 
+And third, while we could have a station that had 
+a spinning section connected to a non-spinning  
+section, that is a lot harder to do than it sounds 
+as you have a collar, or section, trying to mate  
+those two bits up that has to be airtight. It is 
+doable but it is also a hassle and tends to result  
+in some leakage – which is fine, all stations 
+leak – and needing some power to keep the section  
+spinning. Any strictly rotating space station 
+doesn’t require any power to keep it spinning  
+once you get it up there, but I suspect most real 
+space habitats will still have to use some way to  
+handle matching that up to whatever non-rotating 
+structures attach to them. For instance,  
+it’s handy to place a habitation cylinder, or 
+hab drum, inside a thicker non-rotating sheath,  
+superstructure, or hollowed region of an asteroid.
+Now, I mentioned that spin-gravity wasn’t a  
+perfect match with normal gravity and a key part 
+of that is that you have to spin faster and faster  
+the smaller you want to make a habitat and people 
+get nauseous from rotation. You may be watching  
+this on a swivel chair and if you’re like me and 
+have it at a U-shaped desk, then it is normal  
+to rotate that chair partly around or all the 
+way around a few times a minute, and it would  
+be normal for doing that to cause no nausea, not 
+like the dizziness of just lifting your feet and  
+spinning around in that chair every few seconds 
+and repeatedly. This is the nausea we worry about  
+for spin habitats and it is quite mundane, but it 
+means that anyone in a ring or habitat that’s only  
+a dozen feet wide has to spin around 22 times per 
+minute, or 22 RPM. They would also find that their  
+head, near the center of the spinning cylinder, 
+was experiencing virtually no gravity effect,  
+and indeed if they were over 6 feet tall 
+or jumped a bit or stepped on a footstool,  
+their head would now be experiencing not just low 
+or no gravity, but instead, a small upward tug. 
+Studies have shown that low-radius 
+spinning habitats are intolerable  
+due to Coriolis forces. A maximum rate 
+of rotation of 2 rpm is often specified,  
+although some studies have indicated humans could 
+adapt to 4 rpm. A maximum rotation rate of 2 rpm  
+producing 1g gives a radius of 224 m. If a rate 
+of 4 rpm is considered acceptable, the radius can  
+be reduced to 56 m, 184 feet. A rotation rate 
+of 22 rpm is impractical, at least for humans. 
+Spin gravity grows with distance from the center 
+of spin; twice as far away, twice the gravity.  
+This is the opposite of normal gravity, which 
+is inverse square, meaning twice as far away,  
+one fourth the gravity. So it’s actually easier 
+to work with in that regard than normal gravity  
+but it means your station, while not needing 
+to be anywhere near the size of a planet,  
+does need to be big enough that folks walking 
+around it experience no significant change in  
+gravity between head and feet, and also the first 
+floor and second floor of a building… although  
+lower gravity at different heights might actually 
+be a popular feature. You could, for example,  
+have an Earth-gravity floor, a Mars-gravity floor, 
+and a lunar-gravity floor, as contemplated in  
+the Gateway Space Station design some years back.
+All of this means we tend to be looking at either  
+creating a moderately low gravity environment, 
+like simulating Martian gravity in Earth orbit, or  
+something that is at least 1467 feet wide, or 447 
+meters, to achieve that 2 RPM threshold at normal  
+Earth gravity. Needless to say that’s outside 
+the price tag of what we are ready to pay right  
+now for a space station. We usually assume this 
+is a ring or cylinder of that diameter but what  
+we call a hammer hab works too, which is where you 
+have your rotating sections swinging around on a  
+tether, or similar, rather than a complete ring.
+And while we’re pretty confident 2 RPM as a  
+rotation rate should be fine for any human, we 
+can’t be quite as sure that would be true of other  
+organisms, and the same for gravity variation.
+Which takes us to the discussion on non-human  
+life, by which I don’t mean aliens, at least 
+not in the classic sense. Humans are probably  
+fairly normal examples of how mammals will handle 
+something like an O’Neill Cylinder, a big wide  
+hab drum whose full-size version is comparable 
+in living area to your typical US county. At 5  
+miles or 8 kilometers wide, they only rotate once 
+every two minutes or half an RPM, so, not nausea  
+inducing. Such an environment is big enough to 
+create real ecosystems, not just boxes in space  
+for humans and some short term experiments.
+But if you’re trying to replicate whole  
+ecosystems, you do have to worry about how fragile 
+your most sensitive critter is. As an example,  
+I really doubt any mobile organism is going to 
+have a problem with spinning around once every  
+other minute, otherwise it would have a rough time 
+moving to flee predators or prey on something,  
+which is rather the point of being 
+mobile. Trees might be more sensitive,  
+not being mobile, given that earth only spins 
+once a day or 0.0007 RPM, however they have to  
+survive wind and gusts, so they are probably not 
+that sensitive. We don’t actually know though. 
+On the other hand we do know that bees navigate 
+using the Sun and its ultraviolet light,  
+so if you are spinning that hab at 0.5 RPM, 
+not 0.0007 RPM, that might really mess with  
+their ability to use it to navigate by. The 
+rest of us might not like having a window  
+that looked out at the starry night and swung 
+completely around every two minutes either.  
+Physically spinning around in circles isn’t 
+the only way to get motion sickness after all. 
+So you enclose your cylinder and control light 
+coming in or create it entirely artificially,  
+including non-visible frequencies like UV or 
+infrared. That is all doable but it definitely  
+takes extra effort; and, moreover, while 
+that lets you fix the gravity to whatever  
+you like and the lighting and day and year 
+length, unlike any planet you might settle,  
+but the more things you have to get right, 
+and the narrower the range we find ourselves  
+and our fellow earth organisms can handle, the 
+harder and more expensive this all gets. That  
+brings up that balancing act of terraforming 
+versus adapting yourself to the environment  
+and with bioforming as an extreme example of that.
+We might find we’re okay with modifying honeybees  
+to work differently - or just use some other 
+pollinator - we already have been breeding bees  
+and other critters to be more docile or productive 
+for thousands of years, now we just have better  
+technology for that and likely will be even better 
+at it down the road. The thing is, tinkering with  
+an organism is also tinkering with an ecosystem, 
+as even a small change in one organism can throw  
+everything else out of whack as a result. Think 
+about a forest in which beavers were far more  
+common and productive and predator resistant. 
+Before long, there is probably a lot less forest. 
+Some things might be easy adaptations of time. 
+We presumably did not evolve living under roofs,  
+but it’s normal to us now, and having your blue 
+sky replaced by a green lawn or forest hanging  
+overhead is probably doable. But we have often 
+found that things we would assume we would handle  
+easily were surprisingly rough on us physically or 
+psychologically. We have ways we could fix that,  
+including a fake sky on a smaller cylinder nested 
+inside the main one. But we also have ways to  
+combine spin gravity and normal gravity[g] to make 
+higher-gravity habitats on low gravity planets.  
+We can use solar shades and mirrors to adjust 
+apparent day length, including seasonal variation,  
+or even brute force-alter a planet’s rotation or 
+mass. We’ve discussed heavy-handed approaches to  
+terraforming in other episodes and they’re 
+not that far-fetched in a practical sense. 
+All of these habitats or terraforming 
+operations require a lot of effort to  
+accomplish, not to mention cost, but 
+that always needs a caveat of scale.  
+Greater technology and automation allow modern 
+humans to enjoy houses that most kings of yore  
+would call a palace and envied. And that they 
+would immediately attempt to seize for themself.  
+I don’t think most folks used to watching 
+or reading about those cultures in fantasy  
+or history tend to realize how small and cramped 
+your typical castle or great house was. As well  
+as dirty and hot or cold. Better technology 
+and automation allow us to do things easier,  
+and we are not that far away from being able to 
+not just have factories mostly run by robots but  
+robots that build other robots and which require 
+less attention and control than modern ones. 
+How expensive is it really to terraform a planet 
+if you can dump one vial of bacteria on it, which  
+can grow and reproduce, then come back a thousand 
+years later and find that planet has got air,  
+soil and basic organisms on it[h]? Well-engineered 
+machinery that does similar is presumably just as  
+possible and need not be totally independent in 
+reproduction. We can have a robot ecosystem of  
+thousands of different types of robots big and 
+small, and we can set that up so that they are  
+not independently reproducing like our organisms 
+do. The simpler and more repetitive the task, the  
+easier that is to design and oversee construction 
+or maintenance of, and fundamentally a giant  
+rotating habitat is not much different than one a 
+tenth its size. Much as a freeway is huge compared  
+to a carefully carved stone statue, size is not a 
+great indicator about effort and cost, and varies  
+a ton based on technology, especially as a 3D 
+concrete printer or robot with a chisel arm might  
+make statues very fast and cheap too.
+So we can’t trust our intuitive sense  
+of what is practical versus ridiculously 
+over the top when thinking about the scale  
+of megastructure construction or terraforming. 
+That’s why this show discusses concepts like  
+building Dyson swarms or englobing black holes 
+or even making a black hole, because as huge as  
+englobing Dyson swarms are, they are allowed 
+under known science and aren’t prohibitively  
+complicated. They are conceptually simple and 
+they are thought to be physically possible,  
+and that means they are plausible to build and not 
+necessarily in some future of godlike posthumans. 
+Now, it is entirely possible that living in 
+space will come after we have transitioned  
+into some transhuman or post-human state that no 
+longer needs nor wants terrestrial ecosystems,  
+or one that has been wiped out by AI who 
+similarly doesn’t need those kinds of ecosystems,  
+and I would argue both of those are alive 
+and thus would fall into the scope of our  
+episode for today. However, this episode is less 
+interested in physical modifications to humans or  
+what some cyborg, AI, or alien might be doing.
+So let’s talk about the cultural changes that  
+living in space offers. First, one of our 
+strengths and weaknesses as a species is  
+that we are social by nature and required to 
+be by practical life. We have to mostly get  
+along with our neighbors at a day to day level 
+and have a lot of customs for managing that,  
+which vary from culture to culture, many of 
+which are influenced by the local environment  
+and technologies, and space would be no different. 
+However, it does present some unique problems and  
+advantages. For instance, just as some planet 
+with a 26 hour day and two moons, one orbiting  
+every 8 days and one every 32, is likely to 
+have a culture built around that, folks in  
+artificial habitats can choose to build a culture 
+around the number ten if they really wanted to,  
+going for a 100 minute hour, ten per day, ten 
+days a week, 10 weeks a month, 10 months a year,  
+and so on; which would certainly be easier to 
+learn and work with than our modern timekeeping. 
+This is a similar situation with post-scarcity 
+economies – the kind that have robots and are just  
+ridiculously prosperous by modern standards, 
+because they basically have the resources to  
+make any system work if they’re just stubborn 
+about it. Folks debate about which system is  
+more efficient - capitalism, socialism, communism, 
+anarchy, etc. - but a post-scarcity civilization  
+can probably get away with picking its leaders and 
+policy by random lots or using a Ouija board or  
+bowl of alphabet soup to pick their next king. 
+That’s probably not stable in the long term,  
+but then again, nothing really is, and the 
+nature of the sort of civilizations that grow  
+out of massive automation and energy abundance 
+is that they are so huge in scope and possible  
+population that you are almost bound to have 
+semi-functional examples of virtually any crazy  
+system in place at any given time somewhere, and 
+possibly supporting itself in-part on tourism  
+from folks wanting to see that in action, 
+like some wild west reenactment village. 
+That’s one of the big draws to space 
+for a lot of us, if you can imagine it,  
+th[i]is sort of civilization can make it a reality 
+– admittedly so can virtual reality – and what’s  
+nice about that in a peaceful sense isn’t that 
+there’s more than enough room for everybody in  
+the immensity of space. That’s poetic but it’s 
+really our neighbors that set our teeth on edge,  
+not the weird loonies in that other country with 
+that bizarre habit of theirs we’ve heard about.  
+VR and the internet let you interact with people 
+all over who share your less common habits,  
+and what’s really cool about space habitats is 
+that they are inherently mobile and smaller so  
+people can individually migrate and so can 
+whole communities. If two O’ Neill Cylinders  
+in a local swarm can’t stand each other, 
+one can undock and move to another swarm. 
+But surely space itself has some 
+cultural changes inherent to it?[j][k] 
+Well, yes, I think so, especially in the near 
+term. Recycling might be an example. Everything  
+about living in space is about needing to be good 
+at recovering and reusing resources and even a  
+very post-scarcity civilization is bound by this.
+In big space habitats, there may be little need to  
+make rooms airtight in homes or personal quarters, 
+or to walk around in a spacesuit. In other places,  
+some sort of pressure suit might be routine as 
+clothing. It might be comfortable clothing too,  
+as light as a sweater, or even a feather, using 
+advanced materials, or maybe heavy and thick  
+but interwoven with servos and electronics 
+and radiating tubes so that you don’t just  
+have the machines in your gear carrying their own 
+weight, but possibly intuitively amplifying your  
+own strength and speed.[l] Or maybe the technology 
+never improves as much, and on asteroid colonies  
+kids learn how to rapidly don their spacesuit 
+helmet in the same way we learn to look both  
+ways to cross the road, or tie our shoes, or know 
+where the fire exits in a building are located.  
+And maybe the built-in recyclers on their bulky 
+suits are so good and practical that they don’t  
+take them off much. They use the bathroom in them, 
+the internal systems clean their skin[m][n] and  
+remove waste and so on. Maybe they sleep in them. 
+Given that we spend our early years in diapers,  
+this might be an easy adaptation for kids born 
+and raised there, queasy as it sounds to us. 
+Other places might have habitats so idyllic 
+they require no houses with ceiling or walls for  
+protection from the elements[o], and no spacesuit 
+or even clothes for the inhabitants. Meanwhile,  
+other places might be so inherently harsh that 
+living in a spacesuit all the time is the only  
+real option besides cybernetic alteration. 
+And of course many might choose that,  
+or already have chosen it before going to 
+space, indeed the term cyborg originates from  
+discussion of adapting people to living in space.
+In the end, we could tell a million stories about  
+how life might be in space and barely crack the 
+surface of the options a future humanity will  
+have to explore, but one thing seems sure, given 
+many, many options for living here on Earth, and  
+how tiny that is compared to space, the future for 
+those living there seems practically limitless.
+There’s a thousand stories we could delve into 
+about living in space, but one that really  
+spoke to me to delve into more since writing this 
+episode a few months back was Life as a Asteroid  
+Miner, and so we have a Nebula Original exploring 
+what it might be like to be out in the Belt in the  
+centuries to come prospecting for minerals and if 
+we would see lone miners on asteroids or big teams  
+or something more like the mining camps of the 
+California Gold Rush and the sorts of suddenly  
+booming communities or ghost towns that sometimes 
+followed and what that lifestyle and community  
+progression might look like in a space setting.
+If you want to see that bonus episode you can  
+subscribe to Nebula, our streaming service, where 
+you not only get to see every regular episode of  
+SFIA a few days early and ad free, but all our 
+other bonus content, including extended editions  
+of many episodes, and more Nebula Original 
+episodes like, Nomadic Miners on the Moon,  
+Space Freighters, Retrocausality, Orch Or 
+& Free Will, Conformal Cyclic Cosmology,  
+Colonizing Binary Stars, and more.
+Nebula has tons of great content from  
+an ever-growing community of creators. Using 
+my link and discount it’s available now for  
+just over $2.50 a month, less than the price of 
+the drink or snack you might have been enjoying  
+during the episode, and it goes to supporting 
+new content from myself and other creators. 
+When you sign up at my link, 
+https://go.nebula.tv/isaacarthur and use my code,  
+isaacarthur, you not only get access to all of the 
+great stuff Nebula offers, you’ll also be directly  
+supporting this show. Again, to see SFIA early, 
+ad free, and with all the exclusive bonus content,  
+go to https://go.nebula.tv/isaacarthur
+One last quick note, folks often ask if  
+we’re doing another lifetime membership drive 
+for Nebula and for the month of September 2023  
+you can get a lifetime membership, for 
+as long as both you and Nebula exist,  
+for $300. Which goes to developing more and 
+bigger Nebula Originals and platform improvement,  
+and if you sign up using my code, isaacarthur, 
+a third of that goes directly to the channel. 
+So that’s it for today but we’re just starting 
+for September. On the 14th we’ll ask about the  
+Interplanetary Infrastructure we need to build 
+in our solar system to colonize it, and then  
+we’ll jump into Scifi Sunday on September 17th to 
+celebrate the SFIA’s 9th birthday with the Fermi  
+Paradox: Fallen Empires. Then on the 21st we’ll 
+talk about how we can mine atmospheres like those  
+on Venus or Titan, or even Gas Giants and Stars. 
+Then we’ll close out the month with our Livestream  
+Q&A on Sunday, September 24th, and then on the 
+28th we will have an exploration of what traveling  
+the galaxy as an adventurer or lone wanderer 
+will be like in Have Space Suit - Will Travel. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You can 
+also help support the show on Patreon, and if  
+you want to donate and help in other ways, you 
+can see those options by visiting our website,  
+IsaacArthur.net. You can also catch 
+all of SFIA’s episodes early and ad  
+free on our streaming service, Nebula, 
+along with hours of bonus content,  
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching,  
+and have a Great Week!
+[a]is this a book that viewers  
+can get access to? maybe a link can be placed 
+in the video description if this is the case. 
+[b]Do we still believe that spaceship crew would 
+wear suits all the time? For the entire voyage?  
+This was mentioned in Surviving The Expanse Of 
+Space but a lot of people on the subreddit find  
+that idea dubious. If so, would individualize 
+customize their suits as a form of expression?
+This could be a whole episode 
+in itself, come to think of it. 
+[c]I have been thinking about it :) Life 
+as an asteroid miner is a July image poll  
+topic. But I think it comes down to how bulks 
+a suit is, it might be like wearing overalls,  
+or bulkier but comfortable.
+1 total reaction 
+Merv Johnson reacted with 😀 at 2023-06-12 08:42 AM
+[d]I think that'd be great, either a quick note in  
+this episode as an example of day-to-day life 
+or as a full blown episode in it's own right. 
+[e]Would that job be automated? Or is having 
+a friendly human to to talk about your day a  
+job we *want* a human specifically to do?
+[f]I should add a note about that later,  
+re chatGPT
+1 total reaction 
+Merv Johnson reacted with 👍 at 2023-06-12 08:43 AM
+[g]What. The. Fork. :) Make that an episode. :) 
+[h]That's not us, that's engineers from 
+Prometheus. As for us, by the time your  
+vial gets to the surface, it probably lands on 
+the roof of some unauthorised settlement. :D 
+[i]this?
+[j]I think the Overveiw effect is worth  
+mentioning in this section too. I presume you 
+know if it, but in case not people who have been  
+to space have a huge shift in their outlook of the 
+world having seen if from orbit. A society where a  
+huge portion of the population has had this happen 
+to them is bound to view things different to us. 
+[k]There's a lot of the book of the same 
+name discussing it, we can add it in,  
+I just tend to wonder how well documented it 
+really is and how mch is just being in space,  
+as opposed ot on a vital mission etc.
+[l]Future Fashion episode? 
+[m]I'd really love to know if anyone's figured 
+out a way to take a bath inside a space suit.  
+LOL Do we just throw nanobots at it or can 
+we actually flood every part of suit (but  
+the helmet) and then drain/dry it? Maybe even 
+leverage nearby space vacuum to evaporate-dry  
+the skin before re-pressurizing?
+[n]You could potentially do something  
+like reversed pores on the inside of the 
+spacesuit, soap-sweat cleaning things away,  
+but barring smehting like that I think 
+you'd have to remove it occasionally for  
+cleaning or go those other routes you mentioned.
+[o]This is actually something I was thinking about  
+the other day. We're used to thinking of indoors 
+vs outdoors, but in an O'Neill Cylinder theres  
+there need to be two outdoors? I bet we'll 
+see just a blend of public vs private spaces,  
+both featuring plant and nature features. Your 
+"bedroom" might have a tiny babbling brook or moss  
+flooring. Habitat interior 
+decorating is going to be wild!

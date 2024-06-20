@@ -1,0 +1,2414 @@
+In order to reach the stars, we’ll need
+space ship drives of titanic output, even
+those powered by 
+the stars themselves…
+So, over the years, we’ve reviewed a lot
+of spaceship designs in our overall discussions
+of humanity’s future and of space colonization
+in general, some in-depth, and some only in-passing,
+and some in episodes that were made so long
+ago that they’re buried in search engine
+results, and since our Megastructure Compendium
+episode from last summer was well received,
+I thought we might follow that up today with
+a list of all the various advanced spacecraft
+propulsion methods that are either on the
+drawing board, represent popular theories,
+or are even just things that are regularly
+and seriously discussed in science fiction.
+Each will have its own alphabetical entry,
+and those on youtube should see a chapterized
+version available, and we’ll have a time
+index of topics in the description on all
+of our platforms.
+If you review those, you’ll note that some
+aren’t very advanced drives at all, or even
+propulsion methods, as I felt that certain
+critical topics like the Rocket Equation or
+what Specific Impulse is; should be in the
+episode, especially as while you can listen
+to this episode all the way through, it’s
+not necessarily intended to be observed in
+that way like most of our episodes incline
+towards.
+It is also going to be a long one, so a drink
+and a snack is advised, and my wife Sarah
+will be calling off the titles and references
+between episodes to help distinguish the break
+up of the individual entries.
+Also, at the end of every entry there will
+be a list of other entries related to the
+topic or mentioned in the entry, and we will
+sometimes reference relevant episodes, and
+for viewers the cover art of that episode
+will appear as thumbnail on screen, to help
+you find that episode, as Youtube limits us
+to 5 in-video links, and also 100 chapters,
+which we discovered with the previous compendium
+episode, and is part of the reason why some
+of our topics are merged.
+One of the others being that some are very
+similar, especially without getting into technical
+details that most casual watchers wouldn’t
+follow.
+Indeed, being a physicist rather than an aerospace
+engineer, there are a few I’m not sure I
+do either, and there is a reason why rocket
+scientist is synonymous with being very smart.
+I would also like to note that virtually all
+of these ideas are someone’s brainchild,
+whether it was a scientist or scifi writer
+or both, and for brevity’s sake we’re
+not delving into the full backgrounds and
+bios of the device and their designers, especially
+when the device is named for them.
+Though that means folks like Mark Millis,
+who proposed or expanded on tons of hypothetical
+drives like the Bias Drive, Diametric Drive,
+Disjunction Drive, Pitch Drive and more, are
+not getting anything like the credit they
+deserve.
+I can only say that for as long as this episode
+is, much is being left out, and there is mind-bending
+science, fascinating development backgrounds,
+and amazing science fiction out there for
+those who choose to go beyond these short
+entries and explore these topics more.
+If you are looking for good places to continue
+finding out more on these drives, I’d definitely
+recommend the National Space Society, Tau
+Zero Foundation, Atomic Rockets, Centauri
+Dreams, Orion’s Arm, and of course NASA’s
+Eagleworks Lab.
+With all that said and without further ado,
+let’s get started.
+Alcubierre drive
+The Alcubierre Warp Drive is a well known
+example of a type of warp drive that uses
+hypothetical negative matter or negative energy
+to warp spacetime in front of a ship to contract,
+and behind a ship to expand.
+Because the ship itself is not accelerating,
+this not only allows high speeds but bypasses
+normal limits on the speed of light in the
+same way dark energy and Hubble expansion
+do.
+Because of it requiring an exotic matter not
+currently known to exist in nature and permitting
+faster than light, or FTL travel, this technology
+is an example of Clarketech - technologies
+so advanced they are indistinguishable from
+magic and to which we have no clear scientific
+path to produce - and is very similar to an
+Induction Ring Drive, as it is creating a
+bubble of warped space around the ship.
+See our episode on Warp Drives for more on
+the Alcubierre Drive.
+See also: Bias Drive, Clarketech, Diametric
+Drive, Disjunction Drive, Pitch Drive, Warp
+Drive
+Antimatter Rocket
+Antimatter is matter with opposite characteristics
+of normal matter, and when particles of antimatter
+such as the anti-proton or anti-electron,
+better known as a positron, come into contact
+with a proton or electron respectively, they
+typically turn into a pair of photons containing
+the total mass energy of those particles.
+By itself this is not explosive and occurs
+often enough in nature, as many particles
+emit positrons during decay, including inside
+your own body, and rapidly find an electron
+to mutually annihilate with.
+In large quantities antimatter makes a nuclear
+bomb look weak, as a single kilogram of antimatter
+would combine with a kilogram of mundane matter
+to release the equivalent of a 43 megaton
+hydrogen bomb, equal to the Tsar Bomba which
+was the largest thermonuclear device ever
+tested, which also weighed 27,000 kilograms,
+not just 1.
+Antimatter has the second advantage that it
+doesn’t require any other hardware to do
+its job, other than presumably magnetic containment.
+The difficulty of making it and storing it
+are the two main limitations, and the basic
+theory and techniques for producing antimatter
+are discussed in our episode Antimatter Factories.
+Assuming you can make and store it, antimatter,
+along with an equal amount of mundane matter,
+can be easily magnetically sprayed into your
+equivalent of a rocket nozzle and form a photon
+rocket with an exhaust velocity of light speed.
+An antimatter rocket such as the theoretical
+Valkyrie spacecraft was expected to be able
+to reach 92% of light speed, at which speed
+the crew of the ship would be experiencing
+less than 10 hours for every day here on Earth,
+or 40 years for every century.
+For this reason antimatter is generally considered
+the most powerful rocket fuel available under
+known science.
+However, due to its incredible rarity in nature
+and difficulty to produce and store, more
+frugal uses of antimatter are often considered,
+such as the Antimatter Ablated Light Sail
+& Antimatter Catalyzed Fusion.
+See also: Antimatter Ablated Light Sail, Antimatter
+Catalyzed Fusion, Photon Rocket.
+Antimatter Ablated Light Sail
+As antimatter is thought to be hard to produce
+and store, various rationing ways to use it
+in tandem with other materials have been contemplated,
+and this includes the Antimatter Ablated Light
+Sail.
+This technique involves a small supply of
+anti-hydrogen, maybe just a few grams for
+smaller ships.
+This uses anti-hydrogen slowly released toward
+a forward plate or dish, akin to the Medusa
+Drive, made of Uranium-238, which might be
+as small as a few meters, allowing a relatively
+small ship.
+The antimatter reaction with the U-238 should
+produce neutrons and other secondary products
+which would leave the sail at very high speeds,
+and produce a power rate of a couple megawatts
+per kilogram of sail.
+Such ships may be able to gather the necessary
+antimatter from natural sources, such as gas
+giants.
+See also: Antimatter Rocket, Antimatter Catalyzed
+Fusion, Medusa Drive
+Antimatter Catalyzed Fusion
+We have been pursuing artificial fusion with
+varying but improving degrees of success for
+decades, but one of the most promising methods
+is antimatter catalyzed fusion.
+Using small amounts of antimatter we can catalyze
+far larger bursts of fusion, releasing far
+more energy than that bit of antimatter held,
+and it is believed to be a fairly simple process.
+This could either run a fusion reactor, to
+power ion drives, or simply be used for micro-fusion
+bombs right behind the ship as an effective
+fusion rocket.
+Unfortunately it requires a small supply of
+antimatter, which is barely existent naturally
+and hard to make and store.
+Should we find a way to make and store antimatter,
+but not in sufficient quantities for a full
+antimatter rocket, antimatter catalyzed fusion
+could allow a Fusion Torch Drive behind a
+ship allowing it to travel at very high speeds,
+possibly in excess of 10% of light speed.
+See also: Antimatter Rocket, Antimatter Ablated
+Light Sail, Fusion Torch Drive, Nuclear Pulse
+Drive, Orion Drive
+Arcjet Rocket
+The Arcjet Rocket or Thruster is an electric
+spacecraft propulsion method commonly used
+in small spacecraft as it is simple and small.
+An Arcject that uses a pair of electrodes
+to generate an electric arc, the same as a
+conventional arc welder, that in turn vaporizes
+the propellant and pushes it back.
+The arc and propellant, now plasma, then continue
+backward through the thruster gaining speed
+from the anode and cathode.
+This is an example of a low-thrust, high-efficiency
+rocket, as very little thrust is produced
+at any given moment, but the exhaust velocity
+is very high.
+Ammonia, a popular Arcjet rocket propellant,
+typically has an exhaust velocity of 9000
+meters per second, more than double that of
+a typical chemical rocket.
+The arcjet is generally more efficient than
+its cousin, the Resistojet, but both suffer
+from some durability and longevity issues,
+particularly of its electrode, which electrodeless
+designs such as Pulsed Inductive Thrusters
+seek to circumvent.
+See also: Pulsed Inductive Thruster, Resistojet
+Bias Drive
+A Bias Drive is an example of a Clarketech
+engine that works not by warping space or
+time, but by locally altering physical constants
+of the Universe, in this case the Gravitational
+Constant, in front of and behind the ship,
+letting it essentially fall to its destination.
+Beyond having no method to alter physical
+constants at this time, it is likely that
+a bias drive would produce a singularity in
+the center of the ship.
+If functional however, such a ship would not
+need to expend any fuel to move from point
+A to B, and a bias drive would appear to allow
+perpetual motion machines, for producing electricity
+and power, though it is entirely possible
+that techniques for changing physical constants
+might still conserve quantities such as energy
+and momentum.
+See also: Clarketech, Pitch Drive
+Black Hole Drive
+Black Hole Drives are a group of hypothetical
+spacecraft propulsion methods that can range
+from using a naturally occurring one to accelerate
+and redirect a spaceship to co-opting one
+to move an entire star system, as discussed
+in our episode Fleet of Stars.
+The most well known version relies on using
+micro black holes in the sub-megaton range
+to generate Hawking Radiation, and Hawking
+radiation drives are covered in their own
+section.
+Other methods include using the Penrose Mechanism
+or similar methods to dump matter into a black
+hole, presumably a micro black hole larger
+than a megaton, and get 20-40% of its mass
+energy released as radiation during the descent.
+Gaining power from black holes this way is
+not technically complex, it’s simply absorbing
+high energy photons coming off it as with
+any nuclear process, and such black holes
+may be tethered to spaceships or stations
+with magnetic fields, which black holes both
+produce and interact with.
+Additional uses, which are discussed in our
+episode Black Hole Ships, would also involve
+using them as the power plants of ships running
+photon rockets, using them to power giant
+laser pushing beams such as we contemplate
+for Laser Sail and pushing relay stations,
+or even using them in pairs for accelerating
+ships around them in a loop to achieve high
+speeds.
+See also: Hawking Radiation Drive, Laser Sail,
+Matter Beaming, Photon Rocket.
+Bussard Ramjet
+The core concept of the Bussard ramjet is
+that most of space is full of ionized gas
+particles, most of which are hydrogen, a ready
+source of fusion fuel, and if you can grab
+these magnetically and suck them down into
+your ship, you can use them as fuel.
+The ramjet part comes from parallels to how
+an air-breathing ramjet works, sucking air
+in and superheating it, then shooting it out
+the back, but here the power source for heating
+that gas up is the gas itself by fusion, and
+that fusion is ignited by sucking in interstellar
+gas at relativistic speeds and jamming them
+tightly down the throat of the ship to ram
+into other gas particles at high speeds, temperatures,
+and pressures.
+This seemed like a possible way to give ships
+an infinite power supply, simply grabbing
+it out of space as they flew by, like a ship
+sailing on a sea of diesel fuel.
+Indeed it was contemplated for a while as
+a way to keep accelerating indefinitely, something
+we see in the scifi classic novel Tau-Zero,
+or with other drives likes the Gravitic Dipole
+or Laser Sail, but the math turned out not
+to work.
+Indeed some argue the method would actually
+require more energy than the reaction released
+and result in the ship slowing.
+Which ironically makes this drive handy for
+decelerating for free, which would make it
+function very well with a laser sail and relay
+system on the front end of the journey, to
+push the ship up to speed, and the ramjet
+to slow on arrival, while also powering other
+ship functions.
+Additionally, this technique of sucking in
+ionized particles magnetically; works perfectly
+fine if you have otherwise functional fusion
+reactors and are not planning to move in excess
+of what that ship’s normal exhaust velocity
+is, and thus works just fine for giant ships
+with conventional fusion reactors who only
+plan to move a few percent of light speed.
+This might include freighters, deep space
+miners, monitors or patrols, or giant beaming
+stations, be it laser, energy, or matter beams,
+needing to do station-keeping and to resupply
+their fuel.
+It also works just fine if you have a refuelable
+black hole in the throat of your ship, into
+which you’re stuffing in the matter you
+sucked in, though only to whatever speed your
+effective exhaust velocity of that system
+would be, since otherwise, you’re sucking
+in matter that you have to absorb the momentum
+of to use for power and propellant which would
+exceed what you were getting out of it.
+That makes it handy for big carrier ships
+wanting to turn directions or launch higher
+speed vanguards out of, since it can supply
+power to those too, by laser or energy beaming.
+So the bussard ramjet wouldn’t work as planned
+but they do have some variations and alternative
+applications worthy of note.
+See also: Black Hole Ships, Gravity Dipole
+Drive, Laser Sail, Matter Beaming.
+Caplan Thruster
+A Caplan Thruster is a method for moving stars
+proposed by Matthew Caplan in 2019 for using
+statites to concentrate solar energy and erupt
+solar wind in a beam out from a star, which
+would then pass through an enormous Bussard
+Ramjet Assembly and jets of Oxygen-14 to push
+a star at a faster rate than a traditional
+Shkadov Thruster would allow.
+See our episode: Fleet of Stars, for more
+discussion of potential methods of moving
+stars.
+See also: Bussard Ramjet, Helios Drive, Nova
+Drive, Quasar Drive, Shkadov Thruster
+Chemical Rockets
+Chemical Rockets is the ballpark term for
+any rocket running on chemical interactions
+but generally refers to those running on combustion
+and producing the classic high-intensity rocket
+flame seen in countless rocket launches.
+In such cases the fuel is typically burned
+with an oxidizer to emit a propellant that,
+because of its high temperature, also has
+a high exhaust velocity, allowing it to exit
+the rocket nozzle with a high momentum, while
+pushing the ship in the opposite direction
+with that same momentum.
+Chemical rockets typically have far higher
+exhaust velocities and specific impulse than
+alternatives such as compressed gas, as is
+used in CO2 cartridge guns, pumped water rocket
+toys, or other alternatives such as the elasticity
+that traditional catapults or bows use for
+firing a projectile.
+Because combustion occurs very quickly, it
+permits a spacecraft to have enough thrust
+to escape from a planetary gravity well, whereas
+more efficient ion drives could never get
+off the ground or clear an atmosphere, even
+though they will ultimately push a ship to
+a far higher speed.
+However, as a result, chemical rockets are
+most efficient at high temperatures and so
+we run their combustion as hot as the rocket
+body and nozzle can withstand.
+The most efficient known chemical rocket fuel
+is molecular hydrogen burned with oxygen,
+though it is difficult to handle compared
+to its more commonly used counterpart rocket
+fuel, which is essentially kerosene.
+Many other fuels have advantages in certain
+conditions or environments, or are easier
+or safer to work with, or easier to obtain,
+which becomes critical in wanting to source
+your fuel from your destination for a return
+trip, in-situ production of fuel from whatever
+is available on the Moon or Mars or elsewhere.
+See also: Ion Drive, Propellant, Oxidizer,
+Rocket Equation
+Clarketech
+Clarketech is not a propulsion system itself
+but a category applying to many possible propulsion
+methods suggested in hypothetical science
+or science fiction.
+The name is derived from Arthur C. Clarke’s
+famous quote that “any sufficiently advanced
+technology is indistinguishable from magic”,
+and is the name for various technologies that
+folks have suggested that would not seem possible
+under currently-known physics and can include
+negative matter or other exotic matter types,
+as well as faster than light systems and perpetual
+motion machines.
+It would also include propulsion technologies
+that operated by altering physical constants,
+such as the speed of light or force of gravity,
+or the electromagnetic or strong and weak
+nuclear forces.
+Or bending spacetime in strange fashions,
+like creating a circle with only 359 degrees
+inside, or portals to other dimensions with
+different properties.
+See our episode: Clarketech, for more discussion
+of these near-magical technologies.
+See also: Alcubierre Drive, Bias Drive, Diametric
+Drive, FTL drive, Inertia Reduction Drive,
+Krasnikov Tube, Pitch Drive, Negative Matter
+Propulsion, Warp Drive, Wormhole Drive
+Diametric Drive
+The Diametric Drive is a Hypothetical Clarketech
+reactionless drive typically envisioned as
+running on negative mass, but may work on
+any field or force which can be used to create
+an effective pressure difference on the ship
+to push it along, much as an airfoil in the
+atmosphere works.
+A property of negative mass particles is that
+they are believed to gravitationally repel
+both positive and negative mass, unlike positive
+mass which is believed to pull on both positive
+and negative mass.
+Therefore, two positive mass particles pull
+toward each other, two negative mass particles
+repel each other, and a positive and negative
+mass particle will actually shove the positive
+mass away from the negative mass, while pulling
+the negative mass toward the positive mass,
+resulting in the positive mass particle being
+chased by the negative one.
+This technology is akin and equivalent to
+a gravitational dipole drive where gravity
+is the force or field being used for propulsion.
+Diametric Drives are a subcategory of Pitch
+Drives, and again may use negative energy
+to achieve this push, or other effects, and
+is very similar to a tractor beam, which might
+also be used for spaceship propulsion.
+See also: Bias Drive, Clarketech, Gravitational
+Dipole Drive, Pitch Drive, Negative Matter
+Propulsion, Reactionless Drive
+Disjunction Drive
+The concept behind the disjunction drive is
+that a field might be disjoined from the object
+that created it.
+Conceptually, we might imagine a ship built
+near a large gravity well, which was then
+disjoined from the mass creating it and potentially
+reattached to the front of the ship so it
+constantly fell forward.
+We might also disjoin something’s inertial
+mass while leaving its gravitic mass in place,
+or disjoin an electrostatic or magnetic field
+from their generator.
+This could also be a disjunction from a Higgs
+boson field.
+Needless to say, such technology would be
+Clarketech.
+See also: Bias Drive, Clarketech, Pitch Drive,
+Reactionless Drive
+Electric Solar Wind Sail
+Our Sun has a surface temperature of thousands
+of degrees constantly being stirred around
+by the Sun’s immense magnetic field, and
+this results in emission of particles, principally
+ionized hydrogen, from our Sun’s surface,
+moving at hundreds of kilometers per second.
+It is possible to create a large thin sail
+that would take these particles and be shoved
+by them, same as a ship sails the winds here
+on Earth, but as solar wind is very diffuse,
+such a sail would need to be very large and
+potentially impractical, even if made from
+graphene.
+Instead though we might run out conductive
+cables or wires as thin as a hair, like spokes
+on a wheel and kept in a circle by slow rotation
+of the main body, allowing the equivalent
+of square kilometers of sail from tiny threads.
+As these particles are mostly ionized, they
+can interact with electric and magnetic fields,
+and in this case electrically to push the
+ship along.
+This method only works inside solar systems,
+and thus is a good method for accelerating
+ships to speed or decelerating them once they
+reach another star, to save fuel, if used
+in tandem with other drive systems.
+It should be noted that, while all stars have
+solar wind, the quantity and speed of those
+particles will vary immensely as the difference
+in brightness from the dimmest red dwarfs
+to the largest supergiants is a factor of
+over a billion.
+Stellar remnants may also have more polar
+particle stream, such as we might expect from
+pulsars, which interstellar ships might use
+for both gravitational assist, to gain speed
+and direction, and to ride away on that jet,
+gaining more speed.
+So too, technologies such as Starlifting,
+see that episode, which are normally intended
+for mining a star of its materials, also allow
+for increasing solar wind and directed streams
+of denser and higher speed wind, similar to
+what we might use for matter beaming.
+See also: Magnetic Solar Wind Sail, Matter
+Beaming, Solar Sail
+Electrodynamic Tethering
+Electrodynamic tethering is an electric propulsion
+technique available around large magnetic
+fields, such as many planets like earth have.
+By having a satellite with an anode hanging
+below it attached by an insulated tether,
+we can run electric current through that system
+and push away from Earth, shoving on the magnetic
+field, or de-boost by having the tether above
+instead of below.
+Due to the size of these magnetic fields,
+in a physical sense, the tethers must be long
+to function, typically on an order of kilometers
+of wire, and this technique may be reversed
+to generate power rather than turn power into
+thrust.
+Electrodynamic tethering is often considered
+an option for regenerating momentum in Skyhooks
+and Rotovators, which lose momentum while
+helping spaceships move from air to orbit,
+though vastly reducing their own fuel needs
+with the boost, see our episode: Skyhooks
+for details, but a skyhook which lost some
+momentum and altitude by lifting a spaceship
+to orbit could slowly regenerate that over
+some hours by gathering sunlight from solar
+power and using that electricity to run an
+electrodynamic tether, as skyhooks are already
+very long tethers themselves.
+Such technology is also good for stationkeeping
+of satellites, space stations, or high orbital
+variations of a rotavator meant to slingshot
+a ship into deep space at high speed, and
+could also be employed near superpowerful
+magnetic fields like those of gas giants,
+stars, and stellar remnants like white dwarfs,
+neutron stars, pulsars, and black holes.
+See aso: Rocket Equation
+EM Drive
+The EM Drive is a spacecraft thruster that
+gained popularity, or notoriety, early this
+century as a potential reactionless drive
+or perpetual motion machine, as it seemed
+to exhibit properties violating conservation
+of momentum.
+It was catapulted into fame when NASA Eaglework’s
+Lab built and tested one in 2016 and it seemed
+to exhibit the purported physics-breaking
+properties but those were later blamed on
+measurement errors and no other experiments
+have since replicated the desired results.
+As it appears to be a falsified technology,
+rather than a still hypothetical one, we will
+not classify it as Clarketech, and we will
+also not give it further discussion today,
+other than to say the basic principle is to
+supply power to a magnetron into a resonant
+cavity that is roughly cylindrical but narrows
+a bit, thus has one side with a slightly smaller
+diameter than the other, which the microwaves
+will now bounce between.
+This is said to produce a larger force on
+the slightly wider side and a smaller force
+on the narrower side, for a net force on the
+object pushing it toward the narrow side,
+which would be fine from a conservation of
+momentum standpoint except the claim is that
+it is producing more thrust than a photon
+rocket under similar power input would achieve.
+See also: Clarketech, Quantum Vacuum Thruster,
+Reactionless Drive
+Exhaust Velocity
+Exhaust velocity is a critical term to rocketry
+and spaceship propulsion, and represents the
+speed at which particles of propellant are
+being exhausted out of the back of a rocket
+or ship drive.
+That velocity, times the mass of the exhausted
+particle, is its momentum.
+As conservation of momentum requires a ship
+to gain the same momentum in the opposite
+direction as the propellant being exhausted,
+a fuel with twice the exhaust velocity lets
+a ship travel twice as fast, or the same speed
+but on far less fuel.
+Most chemical rocket fuels have an exhaust
+velocity on an order of a few kilometers or
+miles per second, and it is typically impractical
+for a spaceship subject to the rocket equation
+to go much more than thrice the exhaust speed,
+thus we seek propellants with higher exhaust
+speeds, or drives which circumvent the rocket
+equation.
+Fundamentally, all particles moving around
+as a hot gas do so at a certain average speed
+based on their temperature and mass, low mass
+particles like hydrogen move much faster at
+the same temperature as higher mass particles
+like carbon dioxide do and thus are generally
+preferable propellants, where a simple thermal
+rocket is involed.
+Most objects - including rocket nozzles - will
+melt at temperatures of thousands of degrees,
+so this is often our limit on exhaust velocity
+as well, though options like magnetic containment
+and ion drives circumvent this issue, and
+can work better with heavier ions.
+A propellant’s exhaust velocity divided
+by the gravitic acceleration of Earth, 32
+feet or 9.8 meters per second per second,
+will give the approximate Specific Impulse
+of a propellant, or essentially how many seconds
+a rocket running on it could hover the ship
+in Earth’s gravity.
+See also: Propellant, Rocket Equation, Specific
+Impulse
+Field Propulsion
+Field Propulsion refers to any type of spacecraft
+whose momentum is exchanged by interaction
+with external force fields, such as we see
+in Electrodynamic Tethering, or any spaceship
+being launched from an electromagnetic space
+catapult, such as those discussed in our episode
+Mass Drivers.
+This also includes more hypothetical or fictional
+examples, such as most gravitic drives, or
+various other hypothetical external fields,
+possibly including Vacuum Energy.
+See also: Electrodynamic Tethering, Gravitic
+Propulsion
+FTL or Faster Than Light Drives
+This category includes any method of moving
+a spacecraft at superluminal speeds or faster
+than the speed of light, which can range from
+Tachyons to Wormholes to Hyperspace and Warp
+Drives.
+As known science generally considers this
+impossible, it is classified as Clarketech,
+and methods for doing it usually require exotic
+matter such as negative matter or imaginary
+mass, and generally result in time travel
+and violations of casualty.
+See our FTL series for more discussion of
+techniques proposed and their strengths and
+flaws.
+See also: Alcubierre Warp Drive, Hyperspace
+Jump Drive, Krasnikov Tube, Warp Drive, Wormhole
+Drive.
+Fuel
+Fuel is what keeps a ship speeding up or slowing
+down, or runs its onboard power plant to keep
+the crew alive and the equipment running.
+Most often with modern spacecraft the main
+fuel is burned up with an oxidizer and the
+byproduct of that combustion is expelled out
+of the rocket as a propellant, pushing the
+ship along.
+Not all ships would have conventional fuels,
+and might rely on nuclear reactors, solar
+panels, energy beamed in from afar, or exotic
+materials like antimatter.
+We also contemplate ships needing no fuel
+or propellant, a reactionless drive.
+See also: Oxidizer, Propellant, Reactionless
+Drive, Rocket Equation, Thrust
+Fusion Torch Drive
+While the term torchship originally referred
+to a ship that converted matter completely
+into energy, a fusion torch drive is one that
+achieves very high speeds by being able to
+turn fusion fuel, potentially even basic hydrogen,
+into energy and the fused remainder into its
+propellant heated by that energy.
+Since fusion occurs at millions of degrees,
+this is not something that takes place inside
+a normal chamber, and generally needs magnetic
+confinement and involves lots of equipment
+for conversion of released radiation and heat
+into electricity and then into accelerating
+propellant, typically by some form of ion
+drive or plasma thruster.
+In practice this would really limit how fast
+a fusion-powered ship could reach and how
+fast it could accelerate up to that speed.
+This is where the torch ship comes into play
+as it is assuming the reaction is taking place
+at the rear of the ship and basically acting
+like a rocket flame rather than a reactor
+or engine burning gas.
+A ship able to do this is one which can reach
+high speed quickly by high thrust, rather
+than requiring low thrust from a reaction
+inside the ship designed not to melt the ship
+or blow it to bits or erode it all under the
+intense gamma and neutron radiation.
+There are many basic if still theoretical
+designs, Atomic Rockets has the best collection
+of them I know of, and many examples in science
+fiction, but probably the best known, The
+Epstein Drive from the Expanse series, is
+a fusion torch ship design.
+Fusion Torch Ships are beloved by space enthusiasts
+as often being considered the most near-future
+technology which definitely makes space travel
+practical for regular human transport, including
+interstellar travel and ground-to-space travel.
+Though as we’ve discussed elsewhere, there
+are lower tech or parallel tech options that
+should allow interstellar colonization, many
+of which we’ll review today.
+See our episode: Fusion Propulsion for a more
+in depth look on the topic.
+See also: Antimatter Catalyzed Fusion, Ion
+Drive, Photon Rocket, Torch Drive or Torch
+Ship
+Gravitational Dipole
+A type of negative mass reactionless drive,
+using a dumbbell-shaped ship with a sphere
+of negative mass on one end, and positive
+mass on the other, able to accelerate due
+to the suspected properties of negative matter,
+that it is attracted to positive matter but
+exerts a push on it, thus two particles, one
+negative mass and one positive, will result
+in the positive mass fleeing the negative
+which is pulled behind it in a perpetual and
+accelerating chase.
+This is a parallel concept to the Diametric
+Drive.
+A ship utilizing this technique is described
+by Robert L. Forward.
+He proposed a simple dumbbell-shaped spacecraft
+design using a ball of regular positive mass
+on one side, the front side, and negative
+mass on the back or stern of the ship.
+Such a ship in theory can accelerate eternally,
+though likely would experience drag force
+on its prow, from interstellar gas and radiation,
+giving it a maximum speed at 99.9-something
+percent of light speed, making it what is
+sometimes called a lighthugger, a ship that
+moves at within a tiny fraction of light speed.
+Such a ship could slow down by flipping over
+and would accelerate or decelerate based on
+its ratio of drive mass to payload, and could
+likely physically anchor itself to any larger
+object.
+Such a ship may or may not violate conservation
+of energy or momentum, though would appear
+to do so on first glance.
+See also: Diametric Drive, Negative Mass Propulsion,
+Reactionless Drive
+Gravitic Propulsion
+Gravitic Propulsion is a blanket term for
+any ship drive manipulating artificial gravity
+or using anti-gravity, directed gravity waves,
+graviton beams, certain types of tractor beams,
+or insulating itself from gravity to move.
+While we typically classify this as Clarketech,
+and indeed have an episode on the topic, Clarketech:
+Anti-Gravity, it does seem plausible that
+gravity may be able to be manipulated or produced
+by means other than raw mass.
+In theory a gravity drive might also circumvent
+normal inertial problems of rapid acceleration,
+as discussed in Isaac Asimov’s 4th Foundation
+novel, Foundation’s Edge, which features
+a ship using this sort of drive.
+Normally, rapid acceleration causes damage
+as not everything is accelerating simultaneously
+at the same rate, but when falling into a
+gravity well, this is not an issue, as the
+force applies to every particle equally, no
+matter how strong or fast the acceleration,
+and ignoring tidal effects.
+A gravitic engine with this property would
+permit safe super-rapid acceleration of people
+and cargo, which is of inestimable value for
+short space journeys especially, or those
+on interstellar ships able to reach ultra-relativistic
+speeds.
+See also: Clarketech, Diametric Drive, Field
+Propulsion, Gravitational Dipole, Inertia
+Reduction Drive, Negative Mass Propulsion,
+Reactionless Drive
+Hall Effect Thruster
+A type of ion drive, the Hall Effect Thruster,
+is named for Edwin Hall and the Hall Effect,
+and is recognizable for its rather lovely
+plasma jet colors that it emits, based on
+the propellant it uses.
+The Hall Effect results in a potential difference
+perpendicular to a magnetic field, so we can
+create a cylindrical chamber with a large
+magnetic solenoid in it, and any ionized particles
+will accelerate down the axis of that chamber
+as with a normal ion drive.
+The magnetic field itself is responsible for
+ionizing the propellant and shoving it and
+the electrons out the back to neutralize the
+ions as they emerge.
+Hall Effect Thrusters have been around since
+before we went to the Moon and have seen continual
+improvement, and come in multiple varieties,
+as well as achieving exhaust velocities as
+high as ten times our best chemical rocket
+fuels.
+As is often the case, we have to choose between
+high thrust or high efficiency, and Hall Effect
+Thrusters are very low thrust.
+The highest power one yet produced is the
+University of Michigan’s, which is a 100
+kilowatt thruster massing 230 Kilograms and
+producing just 5.4 Newtons of thrust.
+Force being equal to mass times acceleration,
+this thruster, without any additional equipment
+including a power source, would only accelerate
+at about 0.0022 meters per second per second,
+about 4,500 times slower than something falling
+in Earth’s gravity.
+So, by itself, it could not be used to leave
+Earth, however one accelerating constantly
+for an entire day would reach a speed of 190
+meters per second, for an entire month, nearly
+6 kilometers per second, and if its fuel held
+for an entire year, 70 kilometers per second.
+See also: Ion Drive, VASIMR
+Hawking Radiation Drive
+A Hawking Radiation Drive is one that utilizes
+a small black hole to create a photon rocket,
+as it is believed that black holes evaporate
+over time, releasing mostly photons, and do
+so faster as they get lower in mass.
+A one megaton black hole is believed to evaporate
+at a rate that would release 356 Trillion
+Watts of Power, and would do so at a slowly
+rising rate for a lifetime of 1474 years,
+while one at a tenth of the mass, 100 kilotons,
+would emit 100 times more power and live just
+a thousandth as long, 1.47 years, and it is
+usually assumed Hawking Radiation Drives would
+use black holes in this mass range of 100
+to 1000 kilotons for operation.
+Bigger ships would use multiple black holes,
+not a bigger one, as bigger is lower power
+for black holes, albeit vastly longer lived
+and with higher ultimate energy output.
+Smaller is better but smaller is harder to
+make, and even harder to refuel, and we have
+looked at methods of using them as ships,
+power sources, and weapons, in our Black Hole
+Series, including hypothetical ways of creating
+them.
+This does appear possible under known physics,
+so we do not necessarily classify it as Clarketech,
+though it is at the hazy edge of that category,
+especially as it is also difficult to chain
+the black hole magnetically to the ship and
+to make the emissions, mostly gamma rays,
+to leave the ship non-omnidirectional, as
+we have no gamma-reflective materials.
+In their absence you have to absorb those
+and re-emit it as heat at a lower frequency
+that existing materials could then reflect.
+For Hawking Radiation drives, bigger is not
+better, and again for a bigger ship you just
+add more black holes.
+This is not the only way to use black holes
+as spaceship drives or to move ships.
+See also: Black Hole Ships, Clarketech, Photon
+Rocket.
+Helicon Double-Layer Thruster
+A type of Plasma Thruster, the Helicon Double
+Layer Thruster, or HDLT for short, excites
+its propellant to high velocity by using radio
+waves to break it down into a plasma.
+It is similar concept to the better-known
+VASIMR thruster, and is not subject to building
+up a charge and needing a neutralizer, as
+an ion drive is by default, nor does it have
+any moving parts or anything particularly
+susceptible to erosion for it to function,
+which makes it a low maintenance design as
+long as you have a power supply and remaining
+propellant.
+See also: Ion Drive, VASIMR
+Helios Drive
+The Helios Drive is a variation of the Shkadov
+Thruster that incorporates Starlifting Technology
+to move stars and can accelerate a star faster
+than a Shkadov Thruster but achieves a slower
+maximum velocity, because it uses accelerated
+plasma as the drive, lowering the stars mass
+in the process.
+By turning mirrors towards a star instead
+of reflecting its light in a single direction
+like the Shkadov Thruster does, we can cause
+a stream of hot matter to come off that star
+like a rocket flame.
+This technique works well for moving dangerously
+large stars which might go supernova out of
+a region of space, as it takes far less time
+to get that star moving at interstellar speeds
+and also reduces the mass of that star, potentially
+extending its lifetime.
+A variation of this using Bussard Ramjets
+to fuse the plasma as it comes off that star
+to provide more thrust is called a Caplan
+Thruster.
+This technology can also be used to boost
+the surface temperature of a star, by statite
+mirrors over its polar regions such as a red
+dwarf, to produce a hotter star with a spectrum
+more like our own, for its equatorial region
+where the planets and space habitats might
+be at, and is known as Starboosting.
+See our episodes: Starliftng and Fleet of
+Stars for more discussion.
+See also: Caplan Thruster, Shkadov Thruster,
+Statite
+Hyperspace Jump Engine or Hyperdrive
+Hyperspace drives are a blanket term for any
+number of FTL drives that operate by having
+a spaceship leave this Universe to enter into
+another congruent to our own, that allows
+for faster travel by either being smaller
+or having a higher speed of light.
+As a conceptual example, imagine you wanted
+to travel from The Western United States to
+the Eastern US, and could leap from the real
+world onto where you are on a map of Earth
+the size of a normal piece of paper in an
+atlas, and just step from where you were to
+where you want to be, as that map is congruent
+to the US, and teleport back to the real world,
+as opposed to walking the whole way.
+Popular scifi examples of hyperspace would
+be Star Wars, Babylon 5, Event Horizon, Warhammer
+40,000, and many more.
+It is more or less interchangeable with the
+terms subspace, superspace, overspace, underspace,
+or Nulspace, though these are different concepts
+in mathematics.
+While many modern cosmological models permit
+various possible hyperspaces or similar, we
+have yet to document any, nor a means to transfer
+between them or survive in such a hyperspace,
+and for this reason we would classify this
+as Clarketech.
+This topic is discussed in greater detail
+in our episodes: Cheating Reality, the Edge
+of the Universe, and Folding Space.
+See Also: Clarketech, FTL Drive
+Inertia Reduction Drive
+Inertia reduction works on the assumption
+that all objects have an inertia or momentum
+that must be conserved, and which is based
+on their speed and mass.
+Specifically their inertial mass, which is
+seen as different from the mass which generates
+or interacts with gravity.
+Inertial mass is how much an object resists
+being shoved on, by something like a rocket
+attached to it.
+A ship which massed 100 tons, and was able
+to shift its inertial mass down to 10 tons
+while in flight, should be able to move like
+an object with the same momentum or kinetic
+energy but a tenth the mass, thus far faster.
+It would also do far less damage on a collision
+with an object, which means it would represent
+a safer form of space traffic.
+So too, it could slow down very suddenly,
+like we often see spaceships in science fiction
+do, braking speed by rapidly restoring its
+true inertial mass or raising it even higher.
+Such Technology is generally considered Clarketech,
+and may violate conservation of momentum or
+energy.
+Inertia Reduction Technology may also imply
+access to Inertial Dampening Technology, such
+as we see in science fiction for explaining
+how ships can rapidly jump to high speeds
+or down from them without painting the ship's
+interior with the jellified remains of the
+crew, a feature we might also see with Gravitic
+Propulsion, which might be considered as a
+twin technology.
+See also: Clarketech, Field Propulsion, Gravitic
+Propulsion
+Ion Drive
+Ion Drives, also known as ion thrusters or
+ion engines, represent a large category of
+electric spaceship propulsion, generally any
+situation where ionized particles, being those
+with some electric charge, are accelerated
+in an electric or magnetic field powered by
+an electric supply.
+The ion is typically propelled out the back
+of the ship by the electric or magnetic field
+at a far higher speed than combustion of a
+rocket fuel allows.
+They require an electricity supply which can
+be anything from batteries to radioisotope
+thermal generators, or RTGS, to onboard reactors,
+solar panels, or energy delivered by a laser
+or energy beam.
+These are typically low-thrust, high-efficiency
+engines which cannot be used for take off
+from a planet, but allow for much higher speeds,
+as they typically could operate for many hours
+or even weeks in comparison to a chemical
+rocket, which will usually run for mere minutes
+at most, but can provide a high enough thrust
+during that period to escape a planet.
+For this reason ion drives are a popular option
+for situations where power can be provided
+but haste is not needed, such as an interplanetary
+voyage or a satellite needing to counter minor
+orbital perturbations, or station-keeping.
+There is no real limit on ion drive exhaust
+velocity, as fundamentally it is a particle
+accelerator, and those have achieved velocities
+as high as 0.999,999,999,988c, but they are
+likely to have practical limits on what is
+most effective.
+See also: Hall Effect Thruster, VASIMR
+Krasnikov Tube
+The Krasnikov Tube is an example of a Warp
+Drive for FTL travel, and like other warp
+drives relies on the existence of exotic matter
+not yet experimentally shown to exist in nature,
+and thus is classified as Clarketech.
+Under standard special relativity, a ship
+moving at near-light-speed will experience
+far less time on a journey than those outside
+it will have experienced.
+A ship moving at 99.5% of light speed will
+have only one day pass for every 10 experienced
+by those outside, and thus could travel to
+Epsilon Eridani, a star System 10 light years
+away, in roughly 10 years, but only experience
+one year on board the ship.
+In simplified terms, S.V Krasnikov argues
+that in the wake of that ship is a tube that
+allows a shortcut through time, where someone
+could make that 10 light year journey in just
+one year.
+This allows a fast ship to make the journey
+as normal, but for someone to depart 9 years
+later in its wake and arrive at the destination
+when the ship does.
+This means a ship could depart in the year
+2090 to Epsilon Eridani and a person could
+leave here in the year 2099 and both arrive
+at Epsilon Eridani in the year 2100.
+One should be able to keep a constant stream
+of ships to a given destination, say one departing
+the first day of each month, to provide a
+tube of constant FTL travel between two star
+systems.
+However, a two-tube system, one going each
+way to allow return trips, is generally considered
+to violate causality.
+See also: Alcubierre Warp Drive, Clarktech,
+FTL Drive, Warp Drive
+Laser Sails
+A Laser Sail is very much like a solar sail,
+bouncing light or other EM radiation off a
+thin reflective sail to impart momentum and
+thrust on the ship the sail is connected to,
+except it allows us four options: First, to
+push on a spaceship by sending a concentrated
+supply of photons to be absorbed or bounce
+off the back, like a solar sail, only vastly
+more powerful and thus allowing a smaller
+sail to achieve the same thrust.
+Second, by concentrating a beam we can also
+keep it focused on the sail far from its origin
+source.
+Third, its origin source need not be a star,
+but can also be a power planet or relay station,
+such as a deep space comet converted into
+a fusion reactor and laser, allowing us to
+extend range indefinitely.
+And Fourth, it allows us to transfer energy
+to the ship, be it by solar panels absorbing
+a laser beam far from the Sun or giant rectennas
+absorbing microwaves.
+Depending on circumstances, a ship might take
+advantage of one or more of these options,
+even if it had another drive system and power
+plant.
+Transmitting energy to a spaceship allows
+us to run ship operations, but can also allow
+us to achieve higher thrust by using that
+energy to superheat a propellant or ionize
+it and fire it out the back as with an ion
+drive.
+Doing this will usually sacrifice a higher
+final speed in favor of faster acceleration,
+though such technology can be employed in
+tandem with a matter beam to potentially refuel
+the ship's propellant.
+That propellant can also be used to fire forward,
+and thus slow the ship even though a beam
+is hitting it from the otherside, which is
+a good way of moving comets, by beaming energy
+to them from in-system that they use to vaporize
+ice as propellant to push back against the
+beam and bring them into a system.
+So too, if your destination system has a laser
+beaming array in place, it can slow a ship
+on arrival without fuel.
+And we have discussed how to forward deploy
+these beamers to use them to slow each other
+on arrival in a new system to help a fleet
+slow down.
+Use of Laser Sails is heavily discussed in
+the show, particularly in our Episodes Exodus
+Fleet, Interstellar Laser Highways, and Interstellar
+Colonization Strategies, where we discuss
+using relay chains of them between star systems
+to allow cheap relativistic travel to near
+light speed.
+See also: Electric Solar Wind Sail, Magnetic
+Solar Wind Sail, Matter Beam, Solar Moth,
+Solar Sail
+Magnetic Solar Wind Sail
+A Magnetic Solar Wind Sail, also called a
+Winglee or just a Magsail, is very much like
+an Electric Solar Wind Sail, using the stream
+of ionized matter emitted from the Sun to
+drive it to speed, but can take advantage
+of superconductors, especially high temperature
+superconductors, to speed or slow or maneuver
+inside a star system by using the solar wind.
+It should also be noted that the galaxy has
+many pockets of high speed ionized gas that
+might be ridden around the galaxy or out toward
+the rim, and that it may also be used for
+slowing from higher but still modest interstellar
+speeds by spiraling into a solar system.
+See also: Electric Solar Wind Sail, Solar
+Sail
+Magnetoplasmadynamic Thruster
+The Magnetoplasmadynamic Thruster, or MPDT,
+or MPD Arcjet, or Lorentz Force Accelerator,
+is another example of electric propulsion,
+but a potentially very high speed one compared
+to your basic ion drive or Resistojet.
+The MPDT is fed on ionized gas, with everything
+from hydrogen to neon, argon, or xenon being
+good but lithium having the best known performance
+to date.
+The acceleration chamber is acting on the
+principles of the Lorentz force or Electromagnetic
+force, as opposed to electrostatic or magnetic
+forces alone, and that is what is accelerating
+our plasma, and as with similar designs we
+have a lot of erosion of our cathodes.
+This combined with it being a power hog, needing
+hundreds of kilowatts to run efficiently,
+often make it of low interest for satellites
+and small probes.
+That is no bar to usage for larger ships and
+manned interplanetary missions, however, and
+it is a popular candidate for those options,
+where you would expect to have lots of power
+and a crew able to do some maintenance.
+In theory a MPDT could achieve an exhaust
+velocity of over 100 kilometers per second,
+though just over half that is more common
+in tests, but that would be sufficient for
+interplanetary travel and at the lower edge
+of viable interstellar travel, as we discussed
+in our episode Crawlonizing the Galaxy.
+It also has a very high thrust compared to
+most other electric propulsion techniques,
+permitting not just a high final speed but
+an acceleration rate to it that is not superslow.
+See also: Arcjet, Ion Drive, Resistojet, VASIMR
+Matter Beam
+Matter Beaming is an example of how we can
+circumvent the rocket equation by accelerating
+matter at some stationary facility to push
+on a ship, much like a laser sail, but such
+matter beams in theory could also refuel a
+ship.
+A beam of oxygen could provide air to breathe
+and shove on a ship from behind, as a simple
+conceptual example.
+This is typically thought of as a stream of
+ionized atoms fired out of a long linear particle
+accelerator, and has the problem that they
+will tend to shove off each other being ionized
+and like particles of the same electric charge
+repelling each other, causing the beam to
+spread out too fast.
+Numerous workarounds have been proposed, though
+it should be noted this could also include
+actual cargo pods rather than microscopic
+particles, as a ship might catch such a pod
+in its own net, a long decelerator, or a pod
+might be designed to vaporize near a ship
+so that its scattered atoms spread to push
+on the sail or pusher plate, and such a pod
+can have limited guidance and transmission
+packages on it.
+Regardless of focusing methods and their effectiveness,
+matter beams are far more useful than laser
+sails for pushing ships up to speed while
+they are moving up to or at interplanetary
+velocities.
+Matter beaming is a parallel concept to energy
+beaming, though there it is assumed we would
+be using photons and electromagnetic waves,
+and principally to transfer power, which we
+discuss more in the laser sails entry.
+See also: Laser Sail, Magnetic Solar Wind
+Sail
+Medusa Drive
+The Medusa Drive is a variation of Pulsed
+Nuclear Drives that replaces the pusher plate
+behind the ship with the equivalent of a parachute
+in front of the ship.
+A large sail assembly connected to the ship
+by a very long tether is shoved forward by
+detonating nuclear bombs inside the sail,
+and much like the normal Orion Drive’s pusher
+plate, this shoves the sail forward, which
+then drags the ship along by the tether, rather
+than shoving the plate forward to push the
+ship from behind.
+This potentially lets you use nukes for leaving
+low orbit, as the detonation might be in safer
+higher orbits and drag the ship along.
+See Also: Nuclear Pulse Drive, Orion Drive
+Microwave Electrothermal Thruster
+Whether generated by an internal power source
+or beamed in as microwave energy beam, it
+is possible to use microwaves inside a spaceship
+much as we use them in our kitchens, to heat
+matter up.
+The Microwave Electrothermal Thruster or MET
+does this, and much like the arcjet rocket,
+igniting a plasma in a propellant gas.
+Electrothermal Thrusters all work on the concept
+of using electricity to heat the propellant,
+and as mentioned, this electricity might be
+supplied internally, by reactor, RTG, or battery,
+or by solar panels, or beamed in.
+As electrothermal propulsion goes, the MET
+is usually considered superior to the Resistojet,
+due to its higher specific impulse, but inferior,
+or at best roughly equal, to the arcjet.
+Electrothermal thrusters in general are popular
+mostly for their simplicity as an electric
+propulsion system, as they are generally neither
+efficient nor high thrust, even for electric
+propulsion.
+One advantage they do have is fuel, as a MET
+can run using water as its propellant, which
+is super abundant throughout the cosmos.
+See also: Arcjet Rocket, Laser Sail, Resistojets,
+Solar Moth
+Negative Mass Propulsion
+Negative Mass Propulsion is a catch-all term
+for any drive that relies on the properties
+of negative mass, generally how it should
+warp space to expand around it, opposite of
+normal matter contracting space around it,
+or be pushed toward you if you shove on it.
+As no negative mass has ever been detected,
+any negative mass technology currently qualifies
+as Clarketech, and this includes most warp
+drive and wormhole proposals.
+There are multiple versions of how negative
+mass should operate, depending on if it is
+negative inertial mass or gravitational mass,
+active or passive, or some combination thereof.
+In the most commonly discussed version it
+is generally assumed that positive mass will
+attract both positive and negative masses,
+and negative mass particles would repel both
+positive and negative masses.
+As a result, two positive mass particles pull
+toward each other, two negative mass particles
+repel each other, and a positive and negative
+mass particle will actually shove the positive
+mass away from the negative mass, while pulling
+the negative mass toward the positive mass,
+resulting in the positive mass particle being
+chased by the negative one.
+This is the basis of reactionless spaceship
+propulsion concepts like the diametric drive,
+and we discuss variations of negative matter
+in our episode Clarketech: Anti-Gravity
+See also: Alcubierre Warp Drive, Bias Drive,
+Clarketech, Diametric Drive, Pitch Drive,
+Warp Drive, Wormhole Drive.
+Neutrino Rocket
+Neutrinos are very low mass high speed particles
+that normally do not interact with regular
+matter, being more likely than not to pass
+through an entire planet without being absorbed.
+If you could manipulate them they would be
+very handy as a rocket propellant, as they
+would not superheat air or structures around
+them or shake the ground, allowing for quieter
+propulsion.
+A Neutrino Rocket currently would qualify
+as Clarketech, as it would require technology
+that either allowed for the near total reflection
+or absorption of neutrinos or their production
+in a directed fashion.
+Such technology or materials generally imply
+the ability to have far more efficient fusion
+reactors.
+While a rocket beam made of neutrinos is useful
+for stealth purposes, as neutrinos are hard
+for us to detect,this probably only assists
+in stealth against lower-tech targets, as
+it might be assumed that anyone possessing
+this ability also has a very good neutrino
+detector too.
+It would remain a valuable propellant for
+its low heat transfer rate to objects around
+it.
+It potentially would represent a Quiet Aliens
+technology for the Fermi Paradox as well,
+as the implied technologies of stealthy neutrino
+drives that emitted little heat or noise would
+also have advantages being used in other energy
+and industrial applications.
+See also: Clarktech, Photon Rocket.
+Nova Drive
+Nova Drives, along with their big brother,
+the supernova drive, are a method of moving
+dead stars such as white dwarfs, by delivering
+a stream of hydrogen to them to cause a small
+nova.
+This is a parallel technology to the Orion
+Drive, which propels a ship with nuclear bombs,
+only vastly bigger.
+See our episode: Fleet of Stars, for more
+details.
+See Also: Helios Drive, Pulsed Nuclear Drive,
+Orion Drive
+Nuclear Electric Ion Drive
+A Nuclear Electric Ion Drive, also called
+a nuclear electric rocket, or nuclear electric
+propulsion, refers to any type of drive where
+a nuclear reactor, fission or fusion, is being
+used to generate heat to convert into electricity,
+which in turn is used for electric propulsion,
+such as an ion drive, where charged particles
+are accelerated by electrodes or electromagnets
+to serve as a high-speed propellant.
+This would apply to a ship that was running
+a nuclear reactor as its main way to heat
+the ship, run the lights, life support, and
+other equipment, and use excess power to run
+the ion drive propelling the ship.
+As there is always some significant loss in
+converting energy at each step, as well as
+additional equipment to buy, carry, wear down,
+and maintain, many nuclear designs seek to
+circumvent the normal heat engine producing
+electricity for options like the Nuclear Light
+Bulb, Nuclear Thermal Propulsion, or Nuclear
+Pulse Approaches.
+See also: Ion Drive, Fusion Torch Drive, Nuclear
+Lightbulb, Nuclear Pulse Drive, Nuclear Thermal
+Propulsion
+Nuclear Lightbulb
+While a nuclear lightbulb drive might seem
+like a photon rocket at first glance, and
+indeed could be modified to act as one, the
+purpose of a nuclear lightbulb is to take
+a gas core fission reactor rocket, run it
+at roughly 22000 Kelvin, and give it a quartz
+wall, which is transparent to photon emissions
+at that temperature, which are mostly hard
+ultraviolet.
+Again, that light could be allowed to move
+out the back, making for a weak but reasonable
+photon rocket, since the power source is nuclear
+and energy dense.
+Instead though, we run it into a propellant
+that absorbs those ultraviolet photons and
+which we would expect to provide an exhaust
+velocity possibly as high as 30,000 meters
+per second, far better than our best chemical
+fuels and quite reasonable for interplanetary
+spacecraft.
+For details, see our episode: The Nuclear
+Option.
+See also: Nuclear Electric Ion Drive, Nuclear
+Pulse Drive, Nuclear Thermal Propulsion, Photon
+Rocket
+Nuclear Pulse Drive
+The Nuclear Pulse Drive, also called external
+pulsed plasma propulsion, is best known for
+its Orion Drive variation, which uses nuclear
+bombs detonated behind the ship and pushing
+it to higher speed, relying on the vast amounts
+of energy proportional to mass that nuclear
+detonations have.
+These are not always large bombs or at a very
+high rate of explosion.
+Ideally we would like many very small nukes
+to detonate almost continuously, to produce
+the equivalent of a nuclear rocket flame,
+but generally, bombs are both cheaper and
+more efficient the bigger you make them, and
+we must resort to ultra-rare artificial elements
+or antimatter catalyzed fusion to contemplate
+very small nuclear explosions more equivalent
+to a typical bomb or even less than a hand
+grenade.
+Your basic design calls for a large and sturdy
+plate behind the ship, called the pusher plate,
+which can absorb or reflect the photons released
+by the blast, and this shoves it forward where
+it slams into a layer of immense springs,
+which slowly push the plate back into place
+to await the next detonation, while moving
+the ship forward at a more modest acceleration,
+translating the rapid shove of the plate into
+a protracted push on the ship.
+The Medusa variation uses a forward sail to
+absorb the blast, which is attached by a long
+and somewhat elastic tether to the ship.
+While the Orion Drive was the first major
+design of this type, we also have other variations,
+such as Project Daedalus, which imagined detonating
+lithium deuteride pellets with a laser and
+a small deuterium and tritium trigger at its
+center, not unlike the laser fusion method
+used at the National Ignition Facility.
+This would release very modest fusion powered
+explosions to run the ship.
+Were we ever able to produce a material able
+to reflect gamma rays - which would be invaluable
+for both fusion and many other high energy
+applications - this would make a superior
+pusher plate option, reflecting rather than
+absorbing the gamma rays and achieving twice
+the momentum per detonation.
+Nuclear Pulse Drives are mostly unproto-typed,
+minus some early work in the 50’s and 60’s
+and later modeling, but are considered buildable
+and do have the ability to reach speeds which
+would allow interstellar travel.
+See our episodes: “The Nuclear Option”
+and “Revitalizing Project Orion: A New Dawn
+for Nuclear Spaceship Propulsion” for more
+discussion of this technology and its variations.
+See also: Antimatter Catalyzed Fusion, Medusa
+Drive, Nuclear Electric Ion Drive, Nuclear
+Pulse Drive, Nuclear Thermal Propulsion, Orion
+Drive
+Nuclear Thermal Propulsion
+In a Nuclear Thermal Propulsion system we
+have a reactor which is being cooled much
+like a normal fission reactor, but that heat
+is used to superheat a propellant.
+While the individual engineering varies and
+is complex, the basic concept is as simple
+as that, cool your nuclear reactor with your
+future propellant, and try to get that propellant
+as hot as you can without melting things,
+which is more difficult if you are attempting
+closed loops that make sure your actual propellant
+is not getting radioactive.
+While it is possible to run an open-cycle
+reactor that would blow radioactive propellant
+out the back, and rather cheaply and efficiently,
+this is not considered a viable method of
+spaceship propulsion on or near Earth, or
+honestly any place people will be hanging
+out at.
+Either closed or open cycle NTP’s make interplanetary
+missions much easier, and of course space
+is empty of basically everything but radiation
+already, so other than shielding the crew,
+we mostly need to ensure safety when approaching
+or leaving inhabited places.
+While they are usually advertised as never
+being used to get off Earth, from a realistic
+perspective this is reasonably safe with a
+closed loop NTP, not particularly more or
+less dangerous than a normal rocket to those
+who might be near it or get hit by its debris
+on a failed launch, and thus may one day become
+common in launch vehicles.
+In the meantime though it is contemplated
+as a second stage system used to travel from
+some space station in high orbit of Earth
+to other worlds, with conventional rockets
+or alternatives like space elevators being
+used to get to that station.
+See also: Nuclear Electric Ion Drive, Nuclear
+Lightbulb, Nuclear Pulse Drive
+Orion Drive
+The Orion drive is the best known example
+of Nuclear Pulse Drives, using nuclear explosions
+behind the ship to propel it to very high
+speeds, sufficient for interstellar travel.
+See our episode: “Revitalizing Project Orion:
+A New Dawn for Nuclear Spaceship Propulsion”
+for details.
+See also: Medusa Drive, Nuclear Pulse Drive
+Oxidizer
+While every rocket needs fuel to burn, it
+also needs an oxidizer, as no fire can go
+without oxygen to breathe, and indeed molecular
+oxygen is the most common oxidizer.
+In most cases a rocket’s propellant will
+be a byproduct of the combustion of the fuel
+with the oxidizer, carbon dioxide and water
+being plentiful in most rocket exhaust, as
+well as plane and car exhaust.
+See also: Chemical Rocket, Propellant, Rocket
+Equation
+Photon Rocket
+The key to a good rocket is a high exhaust
+velocity, fast moving particles coming out
+the back of your ship and the faster the better.
+And with the possible exception of exotic
+hypothetical particles like tachyons, nothing
+moves faster than photons, the particles of
+light that travel at the speed of light, and
+of gravity.
+This is where the photon rocket comes in,
+sometimes called a flashlight drive.
+This is a device that shoots photons out as
+its rocket plume, possibly light, possibly
+even a laser beam, maybe different frequencies
+like microwave or gamma rays or even radio.
+Such a ship, if it could contain a large portion
+of its mass as photons waiting to be propellant,
+or something it turned into photons, like
+antimatter or Hawking radiation off a black
+hole, would allow a ship to travel at near
+light speeds.
+Now, the problem with a flashlight is that
+your typical modern battery contains less
+than a million joules per kilogram of battery,
+about a megajoule, just a percent or two of
+what an equal mass of gasoline or rocket fuel
+has, and while an actual kilogram of photons,
+or its mass-energy equivalent, would be an
+amazingly powerful rocket fuel, that wouldn’t
+be a megajoule, but rather 90 billion megajoules.
+That drained battery only lost a few nanograms
+of mass, not a kilogram.
+We might imagine some box made of perfect
+mirrors that light bounced around inside,
+frozen light essentially, or options for things
+that convert some or all of their mass into
+photons - nuclear reactions, antimatter, evaporating
+black holes, and so on.
+If you have these, photon rockets are a good
+approach to achieving very high speeds.
+For lower speeds though, you’ll get more
+thrust from the same energy by applying it
+to a propellant.
+A particle of hydrogen that soaked up a 1
+MeV gamma ray and flew out of your ship is
+going to have more momentum exchange, and
+thus yield more thrust than that gamma ray
+alone did.
+But it also had 938 times more mass-energy
+than that photon carried and is now only moving
+away at 4400 kilometers per second, which
+is dozens of times faster than any spacecraft
+we’ve ever made but still only about 1.4%
+of light speed.
+With that in mind, unless you actually have
+a matter to energy converter like the Torchship
+has, ships moving in interplanetary space,
+even if possessing a photon rocket, will still
+opt to use that energy to superheat propellant
+as they should have little difficulty tanking
+up on hydrogen or some other plentiful propellant
+while in-system.
+This is essentially the notion of a Nuclear
+Lightbulb Drive.
+See also: Laser Sail, Matter Beaming, Neutrino
+Rocket, Nuclear Lightbulb, Propellant, Rocket
+Equation, Torch Drive or Torchship
+Pitch Drive
+The Pitch Drive is a Hypothetical Clarketech
+reactionless drive where a field or force
+can be used to create an effective pressure
+difference on the ship to push it along.
+Diametric Drives are a subcategory of Pitch
+Drives, where there is a source for the force,
+like a ball of negative mass.
+Pitch drives in a wider sense do not require
+a source and would include technologies that
+simply caused some force or pressure difference
+to appear on your ship.
+This is a general concept rather than a hypothetical
+engine so no specific cases are involved and
+it would qualify as Clarketech.
+This technology is also akin to a gravitational
+dipole drive when gravity is the force or
+field being used for propulsion, and negative
+mass is available.
+See also: Bias Drive, Clarketech, Diametric
+Drive, Gravitational Dipole Drive, Reactionless
+Drive
+Propellant
+Propellant is the term for anything leaving
+a spaceship with the intent of adding to its
+momentum, and typically this is the byproduct
+of combustion of the rocket’s fuel with
+an oxidizer, though a propellant can also
+be ions slung out of the ship by electric
+propulsion or photons produced by an antimatter
+reaction.
+All things being equal, your optimal propellant
+is fast-moving, with a high exhaust velocity
+and specific impulse, and this can include
+light speed or near light speed particles
+like photons, gravitons, neutrinos, or various
+other lesser known or hypothetical particles.
+See also: Antimatter Rocket, Exhaust Velocity,
+Fuel, Oxidizer, Neutrino Rocket, Photon Rocket,
+Rocket Equation, Specific Impulse
+Pulsed Inductive Thruster
+A Pulsed Inductive Thruster, also known as
+a PIT, is another example of an ion drive
+but one utilizing both magnetic and electric
+fields.
+It is popular for its lack of electrodes,
+which tend to be a weak spot of other ion
+thruster designs as they are eroded by use.
+PIT have a nozzle that sprays a small puff
+of gas toward a flat electromagnetic coil,
+which a bank of capacitors will then pulse
+up to many thousands of volts for just a few
+microseconds.
+This causes the gas to ionize and move in
+a circle opposite the original direction,
+making it a plasma flowing perpendicularly
+to its magnetic field, which is ideal for
+the Lorentz Force to grab and hurl out the
+back of the spaceship at tens of kilometers
+per second.
+PIT is also scalable to high powers too, with
+a megawatt system able to pulse it a couple
+hundred times per second, making for decent
+thrust, and it’s relatively omnivorous for
+propellant, able to use everything from water
+or carbon dioxide to ammonia or hydrazine
+to argon or xenon, which makes it attractive
+for use on Mars missions where it might be
+able to refuel while orbiting from scooping
+Mars’s carbon-dioxide rich atmosphere.
+See also: Ion Drive, Magnetoplasmadynamic
+Thruster
+Quantum Vacuum Thruster
+Also Called a Q-thruster, the Quantum Vacuum
+Thruster is a hypothetical space drive making
+use of the Casimir Effect and Quantum Mechanics.
+It is the current belief of physics that at
+the Quantum scale we have a constant ebb and
+flow of electromagnetic waves and virtual
+particles pop in and out of existence, we
+discussed this more in our episode Antimatter
+Factories, where we explain how virtual particles
+and sea and valence quark interactions are
+thought to take place.
+In summary though, we generally think of what
+we call the Vacuum of space, sucked of all
+normal matter and walled off from outside
+radiation, to still not be quite a vacuum.
+Rather it is a false vacuum that still has
+all these electromagnetic waves and virtual
+particles popping in and out of existence
+on the hazy edge of reality.
+They exist for an instant but there’s always
+a ton of them, amounting to a constant supply
+and density.
+If you’ve heard of the Casimir Effect, this
+is where we put two very flat and uncharged
+conductive plates just a few nanometers from
+each other, barely enough room for a few atoms.
+This generates a very small repulsive or attractive
+force or pressure on the plates depending
+on the arrangement.
+While you can get a similar effect inside
+any medium that’s oscillating like water,
+empty space and vacuum isn’t supposed to
+have any of that, no medium to oscillate.
+So this was quite mysterious and is where
+we get concepts like Vacuum Energy and False
+Vacuum from, experimentally anyway.
+One way of thinking of this is that no virtual
+particle can appear between those two plates
+whose wavelength is bigger than the plates.
+Which means if you get them close enough,
+no virtual particles could appear, making
+for an even more vacuumy-vacuum.
+That means the plates are experiencing a net
+force from outside, where the vacuum is just
+normal and thus greater than inside, and we
+can use that to create power.
+Key bit there: if the quantum was getting
+confusing, we can generate power, or thus
+photons or other particles, out of nothing
+at all, and thus don’t have to carry them
+with us, particles we can use as a propellant.
+Meaning we now have a photon rocket, or neutrino
+rocket or a plasma of whatever particles or
+waves are emerging from our plates, which
+are going to keep pumping them out.
+It is debatable if this would qualify as a
+reactionless drive since it is generating
+reaction mass.
+Since this would seem to blatantly violate
+conservation of energy and momentum, and make
+for a very simple perpetual motion machine,
+it is generally assumed to be Clarketech,
+it is also very similar conceptually to the
+EM drive which is better known and more recent,
+though this technology continues to be discussed,
+and seriously.
+For those wanting a deeper dive, Centauri
+Dreams has had several articles discussing
+it and variations over the years.
+See also: Clarketech, Bias Drive, Diametric
+Drive, EM Drive, Field Propulsion, Pitch Drive,
+Reactionless Drive
+Quasar Drive
+The Quasar Drive is a scaled-up black hole
+drive, capable of moving planets or entire
+galaxies and is the ultimate engine for moving
+large objects, being both faster than a Shkadov
+Thruster to accelerate stellar objects, and
+more efficient, allowing faster final speeds.
+The quasar drive takes a charged black hole,
+artificial or natural, builds a structure
+around it to attach to it magnetically, and
+injects matter into it to produce power production
+as is typical for a large-scale black hole
+power generator.
+This is then used to run a drive able to achieve
+a decent fraction of light speed.
+The name ‘Quasar drive’ is derived from
+Quasars, the super bright objects which are
+typically thousands of times brighter than
+entire galaxies, as a result of matter falling
+into the black holes in the centers of many
+galaxies.
+Used carefully, a Quasar Drive on a supermassive
+black hole in the center of a galaxy, can
+move that galaxy, especially if used in tandem
+with many other drives throughout that galaxy,
+gravitationally dragging that galaxy along,
+which may permit a sufficiently advanced civilization
+to counteract hubble expansion in a large
+region of space, such as a galactic supercluster,
+and potentially several billion light years
+around, though much of the galaxy’s mass
+must be used to power the trip the further
+out you go, as Hubble expansion rises by roughly
+7% of light speed for every billion light
+years of distance.
+Planet Ships using Quasar Drives represent
+a plausible approach to intergalactic colonization
+of even galaxies more than a billion light
+years away.
+See our episodes Fleet of Stars, and Intergalactic
+Voyages, for more discussion of this.
+See also: Shkadov Thruster.
+Reactionless Drives
+Newton’s Third Law says that for every action
+there is an equal and opposite reaction, and
+this is critical to spaceflight but also a
+strong limit on it.
+All modern spacecraft work by using a propellant
+to provide reaction mass, matter being expelled
+at speed out the back of a spacecraft to push
+the ship the other way.
+Those particles flying out the back have a
+certain mass and velocity, and mass times
+velocity is momentum, a quantity which must
+always be conserved, so the ship gains that
+same added momentum.
+This means immense amounts of propellant must
+be expelled and that every new bit of propellant
+you carry takes more propellant to push, what
+we call the tyranny of the rocket equation.
+Outside of a vacuum environment, like space,
+we can cheat around this.
+When walking we can push off the ground, which
+provides our reaction mass, the Earth being
+shoved ever so infinitesimally the other way.
+An aircraft can do the same, burning fuel
+but using the air to suck in and push out
+the back.
+Such options aren't available in a vacuum,
+and even a spaceship having photons or matter
+bounced off it from the outside, while circumventing
+the Rocket Equation, still represent reaction
+mass, much as us stepping on Earth and shoving
+off it, or an air-breathing engine on an airplane
+or jet.
+Thus a reactionless drive is usually considered
+Clarketech, but it is contemplated with spaceship
+drives such as the Alcubierre Warp Drive,
+Diametric Drive, EM Drive, Field Propulsion,
+and Gravitational Dipole Driven ships.
+See also: Alcubierre Warp Drive, Diametric
+Drive, EM Drive, Field Propulsion, Gravitational
+Dipole Drive, Propellant, Rocket Equation
+Resistojet
+Resistojet Rockets are an example of electric
+propulsion, using a power supply to create
+electricity that we then run through resistors
+to produce a hot incandescent filament - same
+as a classic incandescent light bulb - which
+in turn heats up an inert material that becomes
+the rocket propellant.
+Resistojets are commonly used in satellites
+and have been for decades, as they provide
+the benefit of decent specific impulse like
+hydrazine does, but the safety of an inert
+propellant like cold gas thrusters have.
+This makes it good for minor course corrections
+and long term use over many years.
+It can also be used in conjunction with a
+power supply like an RTG or solar panel.
+It should be noted that it is not very efficient
+compared to its cousins, the Arcjet and the
+Microwave Electrothermal Thruster.
+See also: Arcjet, Microwave Electrothermal
+Thruster
+Reusable Rocket
+While much discussion of rocketry has to do
+with better fuels with higher exhaust velocities
+or higher tech propulsion, most of the cost
+of modern rockets and space launches currently
+and in the past was not the fuel, but the
+rocket body itself, which must be precision-tailored
+and incredibly tough to handle the insane
+forces, pressures, vibrations, and heat involved
+in a launch.
+As a result, the easiest path to cheaper space
+travel has been seen as either recovering
+and reusing those rockets, or repurposing
+the booster shells leftover in orbit as space
+station components.
+These days, we can not only use parachutes
+to slow a booster falling back to the ground
+but reserve some fuel to gently re-land it,
+as Space-X has often demonstrated.
+However, reuse is still harder than it sounds,
+since even a rocket body that isn’t slamming
+into the ground at high speed or falling into
+corrosive seawater has still been through
+a burn, which tends to cause cracks and warping
+and requires careful inspection and reuse.
+Supermaterials that were more resistant to
+this wear and tear would vastly cheapen rocket
+launches, allowing quick and easy reuse such
+as we see with automobiles and planes.
+See our episode: Reusable Rockets for more
+discussion of this topic.
+See also: Exhaust Velocity, Propellant, Rocket
+Equation.
+Rocket Equation
+The Rocket Equation governs how fast a ship
+can go based on the speed its propellant moves
+out of the ship - its exhaust velocity - and
+the ratio of its initial mass when full of
+rocket fuel and oxidizer to its final mass
+when that fuel is expended and only the ship
+and the payload it is carrying remain.
+For a rocket to achieve the same speed as
+its exhaust velocity, but in the opposite
+direction, it must have nearly double the
+amount of fuel as rocket and payload combined.
+Alternatively, to achieve half that speed,
+it would need only about half as much fuel
+and oxidizer as rocket and payload.
+This means a 10-ton pod being launched with
+a 10,000 mile per hour exhaust velocity propellant
+can achieve 5,000 miles per hour with roughly
+6.5 tons of fuel, but would need almost 17
+tons of fuel to get to 10,000 miles per hour,
+to get to double the exhaust velocity, 20,000
+miles per hour, fully 64 tons of fuel, and
+to get to three times the exhaust velocity,
+201 tons of fuel.
+This sharply-rising curve is why we often
+hear the expression, in regard to space travel,
+of “The Tyranny of the Rocket Equation”.
+Most chemical rocket fuels have exhaust velocities
+of thousands of meters per second, or as high
+as roughly 10,000 miles per hour, but to reach
+low Earth orbit, and ignoring losses to air
+friction during your climb, you must reach
+almost 8000 meters per second or 17,000 miles
+per hour, to go to other planets even more,
+and interstellar travel speed must be tens
+to hundreds of times higher to be practical.
+While we do have higher exhaust velocity options,
+in general we often must sacrifice rate of
+thrust to achieve a more efficient higher
+final speed from a higher exhaust velocity.
+Virtually all discussion of advanced propulsion
+is about trying to find either higher exhaust
+velocity propellants or to circumvent the
+rocket equation, with options like reactionless
+drives or laser sails.
+See also: Exhaust Velocity, Fuel, Laser Sails,
+Oxidizer, Propellant, Reactionless Drive,
+Specific Impulse, Thrust
+Shkadov Thruster
+A Shkadov Thruster is a type of stellar engine
+designed for using a star’s own power to
+move it, by surrounding the star in orbital
+mirrors or statites which reflect light in
+one direction.
+With this method, stars can be slowly accelerated
+up to a small fraction of light speed.
+Bigger stars accelerate faster as they have
+a higher brightness to mass ratio, whereas
+small dwarfs can attain higher ultimate speeds
+as they burn a larger percentage of their
+fuel.
+All versions are slow though, and because
+of the acceleration time, it is a relatively
+minor difference in effort to move them across
+a galaxy or even between galaxies, compared
+to simply moving them a few systems over.
+See our episode: Shkadov Thruster and Fleet
+Of Stars, for more discussion.
+See also: Caplan Thruster, Helios Drive, Nova
+Drive, Quasar Drive
+Solar Moth
+A solar moth is a type of solar thermal rocket
+that uses a parabolic mirror, or wing-like
+pairs of them, to focus light from a nearby
+star on a tank of future propellant, the tank
+likely being half-silvered to allow light
+in and keep it bouncing around to heat the
+gas inside the tank.
+This Super-heated gas then makes for an excellent
+propellant.
+We may also use this in conjunction with laser
+beaming or microwaves or another type of energy
+beaming, to achieve a higher thrust.
+This approach allows for higher thrust than
+a simple solar sail, or laser sail, though
+that thrust comes to end when the propellant
+runs out, and it will then simply be a solar
+sail, though one moving faster sooner and
+bearing less cargo and payload.
+It may be very useful for forward-deploying
+laser beaming equipment to new star systems.
+Like a laser sail, it could be used in conjunction
+with a matter beam to replenish propellant
+too.
+A solar Moth is a very simple design with
+few failure modes and a solar moth might use
+very nearly anything that can be vaporized
+as a propellant, including common elements
+in deep space like hydrogen, water, methane,
+or ammonia, making them a potentially good
+engine for probes and long-term monitors in
+the Asteroid Belt or Kuiper Belt.
+Scaled up, a solar moth is a good way to move
+a comet, simply using it as propellant, as
+energy beamed to it from in-system will create
+far less outward thrust than the energy received
+being used to vaporize ice and shove inward
+toward the solar system’s inner regions..
+See also: Laser Sail, Matter Beam, Solar Sail
+Solar Sail
+Solar Sails operate on the principle that
+photons of light carry momentum which may
+be absorbed by opaque objects, transferring
+that momentum, or reflected by reflective
+objects, or mirrors, which can double the
+imparted momentum, sending the photon back
+with the same but opposite momentum, or deflecting
+it at an angle to send both sail and deflected
+photon off in different directions.
+This allows a sail to quarter the Sunlight.
+The weakness of a solar sail is the need for
+a very large thin sail to reflect enough sunlight
+to shove a relatively tiny spaceship.
+That sail, even if made from super-thin materials,
+remains a target of micrometeors, can be eroded
+by space dust and radiation, and if big enough,
+is a navigational hazard.
+Sunlight also drops-off inverse square to
+distance, meaning a solar sail twice as far
+from the Sun is getting only a quarter of
+the push, and so a sail at Mercury pushed
+out to Pluto is receiving many thousands of
+times less push at the end than at the beginning.
+With this in mind we have options like laser
+sails, which are simply solar sails which
+a laser is focused upon, and Electric and
+Magnetic Sails, which can use ionized solar
+wind particles or matter beams to fill and
+push their sails.
+Solar Sails can also be used to maintain stationary
+or atypical orbits, as with Statites.
+See also: Antimatter Ablated Light Sail, Electric
+Solar Wind Sail, Laser Sails, Magnetic Solar
+Wind Sail, Matter Beaming, Statite.
+Specific Impulse
+Specific Impulse is the twin to Exhaust Velocity,
+and both are used to measure how effective
+a given rocket fuel, propellant, or spaceship
+drive are.
+While Exhaust velocity measures how fast particles
+of exhaust come out of a rocket nozzle, or
+other spaceship drive, specific impulse, abbreviated
+as Isp, is a measure of how efficiently the
+engine creates thrust.
+It is measured in how long the engine can
+produce that thrust, and the default measurement
+is based on how many seconds an engine could
+operate at 1-g of thrust, the amount needed
+to hover a rocket right over the ground on
+Earth, neither rising nor falling.
+Most modern rocket fuels will be on an order
+of a few hundreds seconds, and it should be
+noted that some lower specific impulse fuels
+will be more useful in certain situations,
+or that specific impulse can alter based on
+if you’re in an atmosphere or not.
+Such being the case, we will often use lower
+specific impulse boosters to get off the ground.
+A propellant’s exhaust velocity divided
+by the gravitic acceleration of Earth, 32
+feet or 9.8 meters per second per second,
+will give the approximate Specific Impulse
+of a propellant, and vice-versa, multiplying
+specific impulse by gravitic acceleration
+will yield exhaust velocity.
+See also: Exhaust Velocity, Fuel, Oxidizer,
+Propellant, Reactionless Drive, Thrust
+Statite
+The Statite varies from most propulsion systems
+in that it aims to keep an object stationary
+rather than moving it.
+Statites are the brainchild of Robert Forward,
+who suggested the name in 1993 as a mix of
+static and satellite.
+A Statite is able to hang directly above a
+star, rather than circling it in a typical
+orbit.
+These make use of the radiant pressure of
+sunlight to allow very thin objects perpendicular
+to the Sun, to hover in place by balancing
+the amount of force the sunlight exerts against
+the gravity of the Sun.
+A Statite must be carefully balanced in terms
+of its cross-section density so that it doesn't
+float further away or fall closer, and thus
+would likely include the ability to adjust
+its cross section and tilt to allow it to
+engage in station-keeping or even moving as
+a solar sail.
+The critical factor of statite function is
+surface or cross section density, how thick
+the statite is, and this will generally be
+on the order of tinfoil or thinner.
+As the strength of light and gravity both
+fall off inverse to the square of distance
+from the Sun, a statite of a given surface
+density functions regardless of its distance
+from its star, however it would not function
+around any star with a different brightness
+to mass ratio.
+Statites are far easier to make function around
+more massive stars - which are far brighter
+- than they are around less massive dwarf
+stars, as stars can vary by a factor of around
+100 in mass but more than a billion in brightness
+for that range.
+Variations of these can also use magnetics
+to deflect solar wind ions, as an alternative
+to sunlight or in combination with them.
+So too, the use of focused sunlight from solar
+mirrors or beams can be used to allow heavier
+statites.
+The Lagite variation of this, being a combination
+or Lagging and Satellite, is where we can
+mix normal orbits and propulsion with a statite
+to produce an object that orbits at an unnatural
+speed, such as Low Earth Orbital object that
+orbited Earth two times per day, rather than
+every 2 hours, or a near-Mercury orbit power
+array that remained in conjunction with Earth
+as it orbited the Sun every 365 days, to beam
+power home.
+See also: Shkadov Thruster
+Teleportation
+While teleportation is most familiar as a
+short range point-to-point transfer, such
+as the transporters in Star Trek, this general
+category of space travel can refer to any
+drive that circumvents travel between two
+places to deposit you immediately there, and
+thus differs from hyperspace jump ships which
+typically involve moving to a parallel and
+congruent space or reality where either the
+space is smaller or the speed of light is
+higher.
+Examples of this vary wildly, and might include
+the Holtzmann Drive utilized by the Spacing
+Guild in Frank Herbert’s Dune series or
+the intended use of the Drive in the movie
+Event Horizon for the ship of the same name,
+which is described as instantly moving between
+two points but instead turns out to be a type
+of hyperdrive, much to the crew’s dismay.
+Teleportation, especially for FTL purposes,
+is usually considered Clarketech, but for
+possible teleportation methods under known
+science, see our episode: Teleportation.
+See also: Clarketech, FTL Drive, Hyperdrive
+Thrust
+Thrust is what makes ships move, the more
+they experience, the faster they accelerate,
+and the longer they accelerate, the faster
+they go, but the bigger they are, the more
+thrust they need to push themselves.
+Most often in spaceships, this is produced
+by a rocket flame expelling superheated gas
+out of the ship, pushing on it in the other
+direction, and providing a high thrust.
+High thrust is good, as we cannot get off
+a planet without a high thrust, and the faster
+we can get up to speed, the shorter our journey
+time.
+However, in practice, almost all high thrust
+technologies are low efficiency, allowing
+a quick acceleration to a modest speed, and
+lower thrust engines like an ion drive allow
+for very long accelerations to a higher final
+speed.
+The holy grail of spacecraft propulsion is
+a high-thrust, high-efficiency fuel, such
+as a torch drive or antimatter rocket.
+See also: Antimatter Rocket, Fuel, Fusion
+Torch Drive, Oxidizer, Propellant, Rocket
+Equation, Torch drive
+Torch Drive or Torchship
+While the term torch drive is often used to
+discuss fusion reactions, which generally
+convert no more than 1% of the fuel’s mass
+to energy, its original usage was on a TorchShip
+in Robert Heinlein’s 1953 short story “Sky
+Lift”, where it was able to convert 100%
+of matter to energy, which generally means
+it can achieve an order of magnitude higher
+velocity than a fusion drive, and parallels
+the performance of antimatter drives.
+Converting matter directly into energy is
+preferable to antimatter as it implies the
+ability to load any matter into your spaceship
+harvested from any source, as opposed to needing
+complex and dangerous antimatter production,
+and storage.
+Some consider a ship a torchship if its exhaust
+velocity multiplied by its thrust amounts
+to a very large figure: for example, a high
+speed and high thrust ship like those in The
+Expanse, or perhaps a low acceleration but
+very large ship that puts out hundreds of
+terawatts of power even as it’s pushing
+a few milligees.
+See also: Antimatter Drive, Fusion Torch Drive
+VASIMR
+The Variable Specific Impulse Magnetoplasma
+Rocket, known by the acronym VASIMR, is a
+spaceship propulsion technique utilizing an
+electrothermal thruster, using electricity
+generated by a reactor, battery, or solar
+panel to generate radio waves which then ionize
+a neutral and inert propellant, generally
+Xenon or Argon, noble gasses with no net electric
+charge.
+Once ionized by the radio waves, they lose
+an electron and gain an electric charge, and
+are injected into a hollow cylinder full of
+electromagnets which shove on the now-ionized
+particle, much like a particle accelerator,
+and propels it out the back of the ship at
+the equivalent temperature of a million degrees,
+rather than the low thousands of most chemical
+rocket fuel exhausts.
+VASIMR and parallel engine concepts allow
+a ship with a good power supply, such as a
+nuclear fission or fusion reactor, or external
+power such as solar or energy beams, to achieve
+very high speeds on a very small amount of
+fuel.
+See also: Hall Effect Thruster, Ion Drive
+Warp Drive
+While the Alcubierre Warp Drive and Star Trek
+Warp Drive are the best known examples of
+warp drives, this category predates both concepts
+and relies on the notion that a spaceship
+has to travel through space and thus warping
+space or spacetime becomes an attractive option.
+If we can warp space to make two pieces of
+it meet, like folding a paper map in half
+to make London touch Los Angeles, or contract
+it to just shorten the path, we can make my
+trip faster or easier.
+Since Einstein’s Relativity tells us spacetime
+can be warped, and this has been experimentally
+confirmed many, many times, much speculation
+of using this for moving ships has been contemplated.
+Additionally, warping spacetime circumvents
+normal relativistic restrictions on traveling
+faster than lightspeed, and potentially offers
+travel with little fuel or energy used.
+It should be noted that problems still tend
+to arise using space-warping for FTL purposes,
+that likely make this usage impossible, but
+such space warping can still be practical
+for sub-light travel and indeed could be argued
+to be at work in a gravity assist maneuver,
+since large bodies like planets, stars, and
+black holes all warp spacetime.
+However, most warp concepts require not just
+contracting space, which normal mass and gravity
+do, but also expanding space, which requires
+the use of negative mass, or energy, and negative
+mass has not yet been documented to exist,
+nor negative energy outside of the debatable
+case of the Casimir Effect and Vacuum Energy.
+See also: Alcubierre Warp Drive, Black Hole
+Ships, Clarketech, Faster Than Light FTL Drives,
+Negative Matter Propulsion, Quantum Vacuum
+Thruster, Wormhole Drive
+Wormhole Drive
+A Wormhole Drive is an example of a type of
+Clarketech, utilizing a wormhole not to travel
+along, but to bring fuel in from.
+If wormholes are possible to create, it is
+likely that you would have to create the entrance
+and exits at the same place, and then move
+them apart, or that the exit would appear
+at a random place, possibly deep in a gravity
+well or in another Universe.
+They may also be one-way or destructive on
+passage, scrambling data and objects that
+pass through, irrecoverably.
+Should any of these be true, another way to
+use a wormhole for travel would be to place
+one end in close orbit of a star or even inside,
+and the other end on the back of your ship,
+allowing huge amounts of thrust to be produced
+without needing to carry it along, thus circumventing
+the rocket equation.
+Parallel methods, for Stargate-style portals,
+would also permit matter or laser beams to
+be sent to ships or the transfer of cargo
+or personnel.
+See also: Clarketech, Matter Beam, Photon
+Rocket
+We looked at a lot of spaceship engines today,
+from the classics to the distant far future,
+some of which might let us travel to other
+worlds.
+But for now we have rockets and a very real
+concern is how much we could scale up using
+them before it becomes an environmental problem.
+It’s a sad reality that a lot of our technology,
+especially in transport, has various negative
+or disruptive impacts on the environment,
+whether it’s deforestation or carbon emissions
+or air and water quality.
+There’s often a lot disagreement on what
+do about these problems, but if you’ve ever
+wanted to find out how you can make a difference,
+you can go visit Wren’s website and answer
+a few simple questions to calculate your approximate
+carbon footprint, and then see a list of options
+like planting trees, mineral weathering, or
+rainforest protection, to offset your total.
+Wren is a climate-centric Public Benefit Corporation
+that let’s people sign up for a monthly
+subscription equal to their carbon footprint,
+which for most folks is less than $20 a month.
+Carbon offsets are a controversial space with
+a lot of projects failing to live up to their
+potential.
+Wren deep dives a project’s finances, gets
+third party experts to evaluate them, and
+does its due diligence by asking potential
+project partners over 80 questions to make
+sure they have a financially, logistically,
+and scientifically sound project.
+Like their tree planting project in East Africa,
+which helps subsistence farmers improve their
+land while planting trees, but also makes
+sure to track real progress and make sure
+the trees are healthy and not just getting
+cut down again in ten years.
+Wren focuses on data-driven, transparent,
+and accountable projects, and if you signup,
+you receive monthly updates from the projects
+you support.
+You get to see what your money is spent on,
+with photos and details on every tree planted,
+every acre reforested, every ton of carbon
+offset.
+And the first 100 people who sign up using
+the link in the episode’s description will
+get their first month of subscription covered
+by Wren for free!
+As a brief aside before we close out, as a
+lot of you probably know already, I recently
+was elected the President of the National
+Space Society, and it’s a great honor to
+be heading up a group that has been working
+to help raise awareness and encourage research
+in so many of the topics we looked at today
+and in general on the show.
+And something of a happy coincidence, the
+NSS hosts a space forum every other Thursday
+evening, though not this week or next, and
+since I plan to get more actively involved
+in those, I am curious what topics or people
+folks would like to see over in those, so
+leave a note in the comments if you’ve got
+any suggestions.
+So, that will wrap up for today’s very long
+episode and March, but we’ll be back next
+Thursday to start April up with another of
+our favorite topics, the Fermi Paradox, and
+a look at the concept of Galactic Habitable
+Zones.
+After that will head on back to modern Earth
+for a discussion of Nuclear Energy and Small
+Modular Reactors, and an update on the state
+of that industry.
+Then it will be time for our monthly Scifi
+Sunday episode, to contemplate Super Weapons,
+from the kind that blow up planets all the
+way to the things that could rip holes in
+reality or kill Universes.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

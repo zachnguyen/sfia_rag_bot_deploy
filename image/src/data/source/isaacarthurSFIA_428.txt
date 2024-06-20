@@ -1,0 +1,718 @@
+This episode is sponsored by Brilliant.
+Could the most common future on the horizon
+be a future with no horizon?
+The O’Neill Cylinder is a massive rotating
+space habitat designed to house tens of thousands
+of people, or potentially even millions, and
+has been one of our most commonly discussed
+megastructures here on the channel.
+However, while we’ve discussed what an O’Neill
+Cylinder is a lot, and even what the environment
+and ecology inside one might be like, we’ve
+rarely looked at what might motivate folks
+to move into one or what their life would
+really be like once there.
+Partially because that is a bit tricky, when
+asking what life inside one would be like,
+as the attraction of such habitats is that
+they can be made very Earth-like, and ideally
+life inside one is just like home.
+Yet there will be some differences, and potentially
+many.
+We should start by reviewing what an O’Neill
+Cylinder is.
+The O’Neill Cylinder is named for its original
+designer, Gerard O’Neill, and its basic
+form tends to be a smaller design with two
+such habitat drums – our nickname for a
+rotating habitat inside a large structure
+– often with windows involved to let the
+sunlight in.
+We often envision no windows on the design
+these days, with internal lighting provided
+by mirrors through smaller and safer window
+ports or simply electrical lighting.
+The original space art looks pretty cool and
+beautifully illustrates the core concept,
+but in practice is not a great design itself,
+space is hostile and deadly, you want a lot
+of good thick steel between you and it, not
+giant windows in the floor.
+You then simulate the light or pump it in
+via mirrors to make it very Earth-like, assuming
+that’s what you want.
+For our purposes today we will mostly just
+be using the term to describe any such rotating
+habitat that’s roughly cylindrical and has
+an axial length on an order of magnitude with
+its diameter or longer, and has an area of
+around 100 to 10,000 square kilometers.
+That is to say, big enough to support a reasonably
+stable community and ecology but not one of
+the giants like the Continent-sized Bishop
+ring or McKendree Cylinder, or the true leviathans
+like a Banks Orbital, Topopolis, or Niven
+Ringworld.
+Let me put an emphasis on reasonably stable
+community and ecology too.
+While even a fairly small rotating habitat
+could be made fully self-sufficient for geological
+timescales with certain technologies, we don’t
+really envision them existing as a closed
+system, by and large.
+Indeed even the entirety of Earth is not,
+and even fairly isolated communities or ecosystems
+here on earth usually are getting a lot of
+input and change from around them, they are
+not static.
+For a rotating habitat that needs to be much
+more active and designed -- But hopefully
+minimally so and mostly in the background.
+As said earlier, we’re not too interested
+today in the maintenance angle, mechanical
+or biological or ecological or digital, as
+we examined those more in Environments of
+Space Habitats already.
+Rather, we might start by asking why anyone
+would build such a thing, and not just one
+but many thousands of them.
+Building a few here and there for space exploration
+or novelty or prestige is one thing, and not
+a thing we care much about today.
+No, we’re interested in what the setup would
+be when the average human could at least plausibly
+contemplate living in one.
+This brings up a lot of questions.
+First, is there an incentive to move there
+of an artificial kind?
+Folks often suggest we might build a lot of
+these in orbit around Earth and move into
+them, and turn Earth into more of a nature
+preserve, which might result in a tax incentive
+to move into these habitats or even coercion,
+but as I’ve mentioned before, the more logical
+strategy for nature preserves is actually
+to put them in rotating habitats, as they’re
+a lot easier to keep isolated from human interference
+or contagion from other ecosystems, and while
+humanity is responsible for a lot of extinction,
+we’re not solely responsible.
+I don’t know about other folks but I want
+to preserve species against extinction from
+any vector, not just people, I don’t really
+care what killed off the Sabretooth Tiger,
+Dodo, or Mammoth, natural selection or human
+intervention, I just want to keep the critters
+we have around or resurrect the ones who already
+died off, and an isolated ecosystem tailor-built
+for an ecology is easier to make that work
+for than Earth.
+I also have no idea how you’d get everyone
+to move off Earth without using coercion which
+would be beyond repugnant to most of us, myself
+included.
+However, we do need to think of ways we could
+get a lot of people to move off Earth into
+one of these habitats, and the most obvious
+one is new living area.
+Planets are big places but a sphere is not
+a particularly efficient use of raw materials,
+and terraforming can be a very long and expensive
+process.
+You might need to build a million such rotating
+habitats to equal the living area of Earth,
+but you can build a trillion of them using
+the same mass as Earth has and thus get a
+million times the living room.
+So overpopulation and general crowding might
+be one such motivation.
+Getting more elbow room is pretty much the
+driving force of migration in nature and human
+history, so makes a very good one.
+Another reason might be ideological: politically,
+religiously, or economically -- similar to
+how many of the American colonies started,
+and so we’ll spend some time talking about
+how these habitats might organize and govern
+themselves later on, but even that is fundamentally
+about getting more elbow room and space and
+these habitats would seem ideal for that.
+Of course for that to be true, it means you
+need to be able to make these things fairly
+cheaply and also make them safe and attractively.
+We often show O’Neill cylinders as looking
+like giant farms, forest, or parks, but there’s
+no reason one couldn’t be a crowded metropolis.
+The thing is, you don’t really need more
+space for cities on Earth, you can have a
+Trillion people on Earth rather easily, in
+terms of living area, even with parks, you
+need all that space for food production and
+general ecology.
+That need not be in an O’Neill Cylinder
+though.
+If you want to preserve ecology, you do that
+mostly with dedicated nature preserves or
+quasi-dedicated ones, possibly a big cylinder
+with a rigid population cap.
+If I were doing one like that I might say
+it permitted 1000 people, half rangers and
+scientists, the other half wealthy folks who
+really wanted the big wide open nature space
+but would agree to strict ecological measures,
+along with some carefully managed tourist
+industry.
+Doing that keeps the ecology pretty safe while
+providing funding.
+On the food side, we need a lot of space but
+we can keep it cheap.
+You don’t need to bother putting that on
+your habitation drum, cheap thin cylinders,
+potentially almost entirely automated and
+devoted to hydroponics, can get you way more
+bang for your buck, or grub anyway.
+I should note that if you haven’t already
+grabbed a drink and a snack, it might be a
+good time as we’ll be here for a bit.
+Such space farms can export food down to Earth
+if it comes to it, see the Space Farming episode,
+and can be used in tandem with in-habitat
+production to supplement it too.
+You could keep your livestock on pasture lands
+but supplement them with hay or cereals grown
+and bailed on some cheap space farm, assuming
+you don’t just produce your meat synthetically.
+So too, you might boost your own ecosystems
+population density of critters by supplementing
+their food from robot-operated space farms.
+Either way, your default O’Neil Cylinder
+wouldn’t grow food any more than your default
+suburban housing development does, which is
+to say there’s plenty of gardens and many
+do grow food people eat, but it’s not capable
+of or intended for main food production.
+Transport isn’t an issue either, amusingly
+it would be much easier to transport food
+from a space farm nearby than to truck it
+in from outlying farmland to a city on Earth.
+Getting into space is a pain, once you’re
+up there though, moving back and forth between
+various habitats and stations that are orbiting
+the same planet is quite easy.
+Which also means that much like nowadays you
+can commute around rather easily from such
+habitats to some other nearby space station
+too, though I’d not expect most folks to
+commute to other stations daily much except
+for those physically tethered together, which
+we’ll discuss more later.
+So barring hub ports, nature preserves – public
+or private – and dedicated habitats like
+some amusement park or resort, we anticipate
+more of a suburban to dense rural or exurban
+layout for O’Neill Cylinders.
+That might change with time, so that one slowly
+grew into a metropolis, but my gut says main
+production will be to those looking for a
+few acres to call their own.
+Now considering the cost of building and sustaining
+an O’Neill Cylinder, obviously you’re
+not doing this until your land costs on Earth
+are more or less the same as building and
+maintaining an equal amount of land in a space
+habitat.
+Such Cylinders might be meshed together into
+collections of hundreds of them, we could
+see pricier land costs in one that was connected
+to a major habitat for the same reason land
+can be rather pricey outside but near a city
+compared to, say, Montana.
+By and large though, especially in relatively
+early days, the paradigm of ‘location, location,
+location’ presumably does not apply since
+space is huge and is located mostly next to
+nothing.
+People are moving there for space, and presumably
+are working from home or our habitat needs
+to provide jobs.
+Of course this assumes employment is anything
+like nowadays, and considering the cost of
+literally building land, that generally implies
+a huge amount of automation.
+Indeed so much so that if someone says they’re
+a factory worker they probably mean they’re
+the guy who oversees, maintains, or programs
+the factory robots and possibly may not have
+ever even set foot inside the actual factory,
+which might be thousands of kilometers from
+their home and could be freezing cold or boiling
+hot and utterly toxic or a vacuum inside.
+So let’s say we’re land developers getting
+ready to build such an O’Neill Cylinder.
+A big first question has to be theme, what’s
+attracting people to our place?
+Because while the mundane is nice, it never
+commands the best price.
+There’s an assumption we’d mass produce
+these to standard sizes, and doubtless to
+some degree that would be true, but I doubt
+you’d see much cookie-cutter arrangement
+given the scale, so each would likely include
+at least one weird thing, like a giant waterfall
+or low gravity forests near the end caps,
+which can be cone or bowl shaped.
+A question that arises though is if it’s
+being commissioned or if you’re building
+it with the intent of selling plots and parcels.
+My hunch would be that you’d have two major
+ways of doing this.
+First.
+An organization, such as a business or government,
+might entirely fund the thing or sell bits
+as they go, probably some being sold before
+the first hull plating was even being fabricated.
+Second, you might have groups of people get
+together to build one, each getting a chunk
+of land equal to their investment.
+Which raises a point on size.
+Bigger is better for the natural look, but
+we shouldn’t just assume these things always
+get built as big as we can economically and
+safely produce.
+You can potentially add to such habitats over
+time if you want, by making them longer, but
+in practice you’d just connect them together
+with others, so what you build is what you
+got.
+However, these things do require constant
+maintenance like any structure, see the Space
+Janitors & Maintaining Megastructures episode
+for details.
+So abandoning and scrapping one is entirely
+viable over just running it for tens of thousands
+of years even when you feel it isn’t big
+enough anymore, with some interesting implications,
+see the Space Derelicts & Trash Worlds episode
+for those.
+All of which means that while you probably
+build with growth in mind, and generational
+growth at that, you probably will see many
+more commissions of smaller habitable cylinders
+than those pressing the boundary of what material
+strength permits.
+You might get one commissioned by just a few
+hundred people, intended for only a few thousand
+residents tops, far more often than the juggernauts.
+As a hypothetical, your default village of
+maybe a thousand folks, most living in or
+near town with the rest given over to forest
+and garden and so forth, probably only needs
+to be 10 square kilometers to be considered
+rather ample and spacious, just contrasting
+it to several of the towns and villages of
+my chunk of semi-rural north east Ohio.
+That would equate to a cylinder a kilometer
+in diameter and 3.2 kilometers long, about
+2500 acres of land and water on the section
+under spin-gravity for those more comfortable
+thinking of housing in acreage.
+Needless to say that’s a pretty arbitrary
+figure, you could go smaller or more dense
+or bigger or whichever.
+I pick that number for population more in
+terms of what works nowadays for an effective
+semi-isolated community.
+Dunbar’s number, around 150 or 160 people,
+is a handy population size basis we’ve used
+before for discussing this topic or colony
+ships, but the minimum optimal size for a
+fairly self-contained community is very dependent
+on technology and culture.
+As an example, if you want to have your own
+school for a community, and with modern US
+population growth rates, a thousand people
+would have about 14 being born to them every
+year, not really optimal for class size, just
+one class per grade of 14 kids, give or take.
+On the other hand, if education shifted to
+smaller classes or more remote or one-on-one
+formats, that would not be a concern.
+It’s hardly the only one where larger community
+size helps but it’s a good example insofar
+as people tend to look at the schools heavily
+when picking a community to settle down and
+raise their kids in and if anything, I’d
+tend to expect parents in a more prosperous
+society to be even more choosy in that regard.
+If you want to have a shopping mall inside
+your habitat it needs to be either (A) easily
+accessible to neighboring habitats, or (B)
+have an internal population large enough to
+support said shopping mall, which would obviously
+require many thousands of people.
+Then again, we probably won’t have a lot
+of giant shopping malls or plazas in the future
+as we transition to more online commerce.
+But don’t think of transport between habitats
+as super-encumbering.
+It’s quite easy to build, with only modern
+technology, the equivalent of a personal car
+as a spaceship or space bus for public transport.
+The delta-v such a thing needs to drive to
+a neighboring habitat in the same approximate
+orbit around a planet is small enough that
+you could commute over larger distance than
+folks do now in less time and with less fuel.
+Plus you really can lash hundreds if not thousands
+of these cylinder habitats together into a
+big static glob.
+You might need to start using some very strong
+or thick tethers or struts if you’re trying
+to connect thousands of megatons of habitat
+together at several kilometers of distance
+but it’s not too big a deal and easier in
+higher orbits too.
+No two orbital paths are exactly identical
+so two objects orbiting a planet next to each
+other will drift apart over time, but even
+a thin rope would easily keep two houses together
+while separated by many meters of distances,
+so you just have to scale it up.
+Plus with ships presumably constantly leaving
+and arriving and likely being coordinated
+to avoid collisions and jams, you can strategically
+time arrival and departure to provide thrust
+in the right direction or station keeping
+too.
+Most of these habitats rotate around on an
+order of a few minutes – part of why windows
+for sunlight are non-optimal – so coordinating
+arrivals and departures to get free station-keeping
+is not introducing major delays.
+You also might charge residents a tiny fee
+for launching their space-car at the wrong
+moment to pay for the wasted momentum, I suppose.
+Of course if they’re all lashed together
+you can just run monorails between them, and
+since it’s in the vacuum of space those
+can get moving very, very fast, with no friction
+or air drag to worry about and most of the
+energy recoverable when it slows down.
+Accelerating at 1-gee, so that you felt like
+you had normal gravity, such a space train
+could get you to a destination hundreds of
+kilometers away in mere minutes.
+Incidentally these don’t have to be between
+objects that are stationary relative to each
+other, you could easily shoot grapples at
+passing stations on a winch to keep it taut
+as you moved around near each other, though
+not too fast, and just disconnect it and winch
+it in when the transfer was complete, though
+I doubt you’d use this approach frequently.
+Nor does it have to be tethers.
+Connecting rotating habitats together with
+an actual corridor filled with air is a bit
+of a pain, and doing it with something like
+a third connecting skinny rotating habitat
+that had its own ecosystem would be a major
+pain, but it is doable.
+You can take two big nature preserve cylinder
+habitats and connect them with a third skinny
+tube that allowed migration by air, sea, or
+land, though land in particular would be a
+serious hassle, especially if you were trying
+to keep a consistent earth-normal gravity
+on it.
+Doing big connection hubs where several cylinders
+meet together and stick off at different angles
+is best done with no gravity and just a pressurized
+interior, and it would obviously be fine for
+humans and probably birds too, but you could
+get more elaborate if you want.
+I suspect you’d often see dozens if not
+hundreds or even thousands of these cylinders
+connected together to form bigger communities,
+possibly with new ones being added or old
+ones deciding to leave and join another conglomeration.
+Such habitats aren’t really ideal spaceships,
+since you don’t build them with much acceleration
+in mind, but they are definitely mobile.
+So if your community decides it hates the
+rules imposed by that bigger conglomeration
+community it can up and move.
+That’s another reason smaller habitats might
+be preferred too, potentially even single
+family ones though you can’t build these
+too small and keep them feeling very natural.
+This would be very different from communities
+in the present, which can’t move, so the
+“my way or the highway” approach isn’t
+really viable today but could become possible
+with O’Neill Cylinders, just like it possibly
+is with modular seasteading.
+Space habitats can move, and so we might see
+an entire cylinder move elsewhere if a big
+factory or corporation most folks worked at
+went belly-up, instead of creating the ghost
+town effect we often see nowadays and in recent
+centuries.
+Of course they might be pretty routinely mobile
+too.
+A cylinder focused on asteroid mining and
+refining might routinely pick up, burrow into
+a new asteroid, mine it out, then leave.
+Which raises the question of how these might
+all be governed.
+By default your natural smallest subsidiary
+government would be the whole cylinder itself,
+though of course larger ones might contain
+several village councils, while again you
+can potentially have single household units.
+If I had to guess, you’d probably see something
+like a municipal or town government at the
+cylinder level, then something like a county
+or district government for a conglomeration,
+and then those being woven into something
+like a province or a smaller nation consisting
+of many such conglomerations.
+Odds are such conglomerations would also have
+some permanent central hub and tons of ancillary
+facilities under low or no rotation, be it
+defense platforms, industrial facilities,
+space farms, large solar arrays, or what have
+you.
+Such conglomerations can obviously vary wildly
+in size, but let’s imagine one that’s
+rather standardized to be 100 conglomerations
+each consisting of couple dozen habitats and
+support facilities of varying but modest sizes.
+Each conglomeration is a county government,
+and each habitat a town, village, city, etc,
+depending on its configuration.
+That 100 conglomeration total might have tens
+of millions of people in it, or way more for
+that matter, but it’s a fairly plausible
+51st state or self-governing nation.
+Your default full-sized O’Neill Cylinder
+could handle a million folks inside it in
+relative luxury for space and a pack of a
+dozen of them tied together would obviously
+rival most modern nations, the median size
+for which is under 10 million people.
+A growing humanity might see nations numbers
+themselves in the trillions, or even quadrillions,
+or it might see a move to micro-nations of
+well under a million a piece, and quite possibly
+both at once and everywhere in between, but
+I’d expect the individual habitat to be
+your lowest common subdivision.
+This of course assumes democracy and local
+rule is more the norm, and while local rule
+would probably be the norm especially early
+on, you could also have habitats being owned
+by individuals or families who basically rented
+the land, akin to your basic feudal or aristocratic
+setup.
+Potentially even getting some futuristic equivalent
+to titles like Baron, Count, or Duke, or even
+brushing off the old titles for use.
+I’m not sure I’d care for living in such
+a setup personally but many folks might be
+fine with the owner handling most administrative
+matters so long as their personal and civil
+rights were guaranteed.
+And of course flat out tyranny is always an
+option too.
+So how about living in one, day to day?
+Well, they can be tailored to be very Earth-like,
+of whichever climate on earth you like, mostly
+differing in that the sky is your neighbors
+backyard and the horizon curves up.
+There’s plenty of techniques for obscuring
+that, though you might not always bother,
+and indeed you might not always aim for very
+earth-like.
+You might want habitats with lower gravity
+or varying gravity or whose sky was green
+or magenta or whichever.
+For day to day life, by default, the goal
+is to be as like Earth as you can make it,
+and you can make it very earthlike indeed,
+though again I suspect most would not only
+accept some differences for practicality but
+engineer even more for uniqueness.
+You can, for instance, do sky cities on rotating
+habitats relatively easily, a house or village
+can just swing from a tether around the middle,
+which in some ways is what the whole habitat
+is doing anyway, and you can do some rather
+peculiar and fun things with the interior
+geography and climate too.
+Maybe the biggest difference is that, no matter
+how secure you make the O’Neill Cylinder
+space habitat, there’s always going to be
+some fear of a catastrophic puncture, even
+if it’s engineered so solidly that the odds
+of it are way less than typical earth-based
+calamities like earthquakes, hurricanes, tsunami,
+or asteroid impacts.
+That fear will be there, and would probably
+manifest itself as most houses having an automated
+lockdown and airtight capacity so they could
+act as a lifepod if someone nukes a giant
+hole into the side of the habitat.
+You might also see a lot of general architecture
+and landscaping seeking to segment or contain
+areas against such a blowout, hidden diaphragms
+or plasma windows, ultra-transparent glass
+walls with occasional airlocks dividing the
+habitat into wedge or other segments, and
+so on.
+House basements themselves might poke right
+through the skin of the habitat drum too,
+to connect to exterior vacuum train monorails
+or have a space-car garage there.
+Indeed such space-houses might be mobile,
+like an RV, and just plug into rented land
+parcels, the spaceship being your house, which
+you can move to different habitat if you choose,
+same as the habitats can move to different
+conglomerations.
+I tend to assume houses will only get bigger
+and more luxurious as technology improves,
+and I’d not be surprised if the typical
+‘suburban’ family dwelling on one of cylinders
+was something between a mansion and buried
+skyscraper and spaceship poking out between
+the hull on the outside and the ground on
+the inside.
+This is especially the case considering the
+existence of these things implies you’ve
+gotten very good at creating artificial green
+spaces and adapting to those, and of course
+have very good and cheap construction.
+An O’Neill Cylinder, while often shown to
+be just a surface inside a can, is likely
+to be laid out far more three dimensionally
+anyway so a certain amount of subterranean
+infrastructure is not only likely, but probably
+so prevalent that the green space and gardens
+inside are less like a plot of land with houses
+on it and more like a vast infrastructure
+and dock that someone’s dumped dirt and
+water on top of, a massive rooftop garden.
+Those subterranean levels though might be
+just as garden like in some spots as the surface
+layer, and in other sections, they would be
+utility tunnels, keeping the top layer free
+from overhead cables and ensuring everyone
+and the habitat proper receives proper data
+connectivity, freight tubes and plumbing.
+Weather control on these habitats is easily
+accomplished too, though the weather might
+not always be mild since the inhabitants might
+not prefer that.
+Now if conglomerations of habitats rather
+than isolated ones was the norm, you’d presumably
+also start seeing specialized economies in
+each chunk of the conglomeration and likely
+each specializing in many other ways too,
+even ecologically and climatically.
+Nothing is really stopping a conglomeration
+from containing hundreds or even thousands
+of habitats after all.
+So you might get rather inhospitable habitats
+in a conglomeration just because it was big
+enough folks wanted a ski resort or place
+where it was cloudy and dark and raining all
+the time.
+Divergence and specialization have value,
+both in abstract and practical economic terms.
+So there would be many differences for life
+on board an O’Neill Cylinder compared to
+living here on Earth, and probably many more
+than we’d expect, but again they fundamentally
+are meant to be just like home, and where
+they won’t be, probably only because they’ve
+intentionally been designed to be more comfortable
+or interesting.
+Which is a good thing, because it’s quite
+likely that in the centuries to come these
+will start becoming a common place for folks
+to live.
+And if we stay mostly human, still wanting
+a nice house and a lawn, then as we grow to
+enclose our Sun and transition towards a Dyson
+Swarm, conglomerations of these cylinders
+would likely be where the overwhelming majority
+of folks lived, not on planets.
+In the far future, life on board an O’Neill
+Cylinder might be the norm, and everything
+else the weird anomaly.
+A common source of confusion with rotating
+habitats is why you experience gravity, or
+something effectively identical to it, and
+why you’d fall down to the bottom if you
+were hovering in the air.
+Fundamentally this comes down to understanding
+what we call a rotating frame of reference
+and we happen to live on one, the Earth keeps
+spinning under you if you jump up, indeed
+it spins faster than a passenger jet, but
+you land back down at the same place.
+If you’d like to get a better understanding
+of the physics involved, I’d recommend trying
+out the Rotating Reference Frames Quiz in
+Brilliant’s Course on Classical Mechanics.
+Brilliant is an online learning community
+with over 60 interactive courses and many
+quizzes and puzzles, plus Daily Challenges
+that help get the brain warmed up for the
+day.
+Those Challenges provide a context and framework
+that you need to tackle, so that you learn
+the concepts by applying them, which is the
+best way to learn new concepts.
+Brilliant makes learning fun and easier, and
+their online community gives you places to
+discuss the material or ask questions, and
+their mobile apps offline feature lets you
+take courses even when you’re not getting
+a good signal.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+So today we looked at living under artificial
+gravity in cylinder habitats, and next week
+we’ll be contemplating living under low
+gravity in crater habitats, as we return to
+the Moon with Crater Cities.
+The week after that we’ll head deep into
+the future to examine the Heat Death of the
+Universe and looks for ways to postpone that,
+assuming we’re still around in many trillions
+of years to need to worry about the problem.
+We often worry that we might not be, and one
+of the more common concerns for what might
+end our civilization is artificial intelligence,
+so before we look at Postponing the Heat Death
+of the Universe we’ll have a bonus episode
+looking at the problem of Coexistence of Humans
+and AI.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to support future episodes,
+visit our website, IsaacArthur.net, to donate
+to the channel or check out some of the awesome
+SFIA merchandise.
+Until next time, thanks for watching,
+and have a Great Week!

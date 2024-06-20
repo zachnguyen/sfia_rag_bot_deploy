@@ -1,0 +1,985 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+Our world represents but one tiny pale blue
+dot in a sea of darkness, the only bastion
+of life in the ocean of the night we know
+of, and yet there seem to be billions of billions
+of stars and planets, what are the odds our
+pale blue dot is the only such bastion?
+Today we'll be looking at the Fermi Paradox
+and Drake’s Equation.
+The first of these looks at the probability
+of other aliens existing, based on the size
+and age of our universe, while the second
+highlights the immensity of that scale in
+space and time.
+The Drake Equation is essentially a formula
+for calculating how many alien civilizations
+there ought to be in our galaxy right now.
+Today, we’ll be looking at that equation,
+and plugging in some of the known numbers
+to see what our estimates might look like.
+But we’ll also be highlighting some of the
+problems with the equation, and the assumptions
+it can lead to.
+Dr. Frank Drake, who posited the equation
+in the form we’ll be considering here, is
+an accomplished astronomer, astrophysicist,
+and pioneer in the search for extraterrestrial
+intelligence.
+He was actually part of founding the SETI
+program, and was the creator of the Arecibo
+message, our own first attempt to say ‘Hello’
+on the Galactic scale.
+So where did this idea come from?
+Well, the Universe is huge and old, really
+huge and really old, and by the 1960s it was
+getting pretty clear just how big our own
+galaxy was and how likely it was that a lot
+of those other stars were going to have planets.
+I’ve heard folks say we were surprised by
+just how many exoplanets there were, once
+we’d actually started discovering them,
+but to be honest I don’t remember anyone
+thinking otherwise.
+Even as a kid in the 1980s first exploring
+astronomy and science fiction, the usual sentiment
+was that planets would be fairly common, and
+it was just a question of how common.
+Nobody was thinking that a galaxy of billions
+of stars was going to have anything less than
+many millions of planets, unless they were
+thinking it would have effectively none, in
+case our solar system was a bizarre fluke.
+The bigger question seemed to be how many
+of those millions or billions of planets might
+plausibly be Earth-like, or put another way,
+how many might conceivably make a home for
+us in the future.
+The next question, heavily related, was how
+many of those same planets might already be
+home to another civilization.
+This is where the Drake equation comes in.
+In 1961, astronomer Frank Drake proposed a
+Probabilistic Argument to estimate how many
+such civilizations there might be.
+The equation itself is pretty non-controversial,
+since it’s a very solid basic approach to
+discussing the notion of alien civilizations
+in terms of frequency.
+But what the factors are, how we determine
+them, and whether they warp our perspective
+for discussion, are all factors for debate.
+I tend to take that latter view, that they
+warp our perspective, and will get to that
+in a moment.
+But first, let’s discuss those factors.
+Before we even start into the equation itself,
+we should take a moment to consider that this
+equation is only discussing the Milky Way
+Galaxy, which is one issue I have with it,
+and is something we’ll revisit later.
+Secondly, it aims to calculate the number
+of active civilizations in this galaxy at
+the moment which we can detect, not which
+have ever existed.
+Because of these issues, the equation is often
+restated with slightly different variables.
+But for today, we’re focusing on the basics
+and the original framing.
+With all that being said, the factors of the
+Equation are as follows:
+The Rate at which stars form in our galaxy.
+The Fraction of stars that have planets,
+The average number of those planets with potential
+habitability.
+The fraction of habitable planets on which
+life actually develops at some point,
+The fraction of planets which develop life
+which is also intelligent,
+The fraction of intelligent life which develop
+technology which is detectable to us by its
+signature,
+And lastly, the length of time for which that
+technology is releasing said detectable signature.
+As we mentioned earlier, this is often stated
+differently, but the original notion was about
+detecting alien civilizations by radio from
+here on Earth, which is reflected in the way
+the equation is phrased.
+Were we to consider it in a more modern context,
+it's not just that we could speak about some
+of these factors with tighter constraints,
+but also that we’d probably rephrase the
+variables based on what we now know.
+For example, looking for oxygen absorption
+lines in an exoplanet’s atmosphere might
+indicate an ecology existed on that planet,
+and is another approach to looking for aliens,
+but it is not in any way dependent on the
+last three variables of the Drake equation.
+And there are many other such bio- and techno-signatures
+which we might reasonably include today, based
+on the knowledge and technologies we’ve
+developed in the last 60 years.
+So too, an alien civilization might abandon
+a given techno-signature, such as no longer
+using a power source that generated that signature
+in favor of a better one, rendering that means
+of detection a bad one or at least one only
+good for detecting civilizations in a very
+short window of usage.
+People often figure radio signatures themselves
+are one such short-term techno-signature in
+favor of some hypothetical faster than light,
+or FTL, communication system.
+Bio-signatures are potentially handier as
+detection methods, because we know nothing
+about those last three variables, the ones
+relating to alien life.
+On the other hand, we have the first and second
+ones, star formation rate and planets-per-star,
+pinned down pretty well at this point, to
+at least an order of magnitude.
+Truth be told, we wouldn’t really care about
+star formation rates these days.
+If you’re a channel regular, you’ve probably
+heard me talk about why certain terms and
+phrases, like ‘our sun is a yellow dwarf
+star’, are rather outdated.
+This is because when we came up with these
+terms, we were still missing large pieces
+of information we now know: the number of
+different sized stars, for instance, or how
+long they live.
+We also hadn’t really locked on the Age
+of the Universe by then, the Big Bang model
+had only been proposed a generation before,
+and I’m not even sure if we had switched
+to calling it the- Big Bang yet.
+It was originally used as a derogatory reference
+to the theory - we may have still been calling
+it the Primeval Atom Hypothesis, the original
+name proposed for the Big Bang.
+Even with the original variables, we can apply
+some knowledge from today: very few of the
+stars which have formed, and which could plausibly
+have had life like ours evolve around them,
+are likely to have expired by the present
+day.
+The big giant stars that represent the lionshare
+of visibly-dying stars don’t stick around
+long enough for the likely evolution of complex
+life, and very nearly every star has planets,
+so we can probably safely just assume there
+are at least 100 billion stars in this galaxy
+with at least one planet, probably more.
+There are likely trillions of planets.
+The rate of formation has more to do with
+the assumption that civilizations pop up on
+a life-bearing planet after 4 billion years
+or so, then disappear at some point.
+I really do think that suffers from both assuming
+that life arrives at complex intelligence
+at the same rate as Earth, and that civilizations
+inevitably wipe themselves out.
+This seemed to be a very common view of scientists
+and academics during the days of the Cold
+War.
+I’m sure it will come as no surprise that
+I disagree with both of those assumptions.
+The first one is overly simplistic, and overlooks
+all of the variables involved in the story
+of life and civilization, as though it should
+be exactly the same in every case, regardless
+of factors such as elemental abundance, ecological
+relationships, and important events.
+As for the second, I’d personally caution
+folks about being overly fatalistic or pessimistic
+about their fellow humans, and have never
+thought it very likely you could have a doomsday
+scenario that got everybody, without replacing
+them with other folks of a different type.
+In considering the Drake equation, we have
+to imagine this as being almost insignificant,
+since it would only generate a pause in detectability.
+Even if you nuke yourselves, some folks will
+generally survive, and nobody in the Cold
+War was aiming for ‘wipe out humanity’
+as their end-goal, nor were any of our weapons
+capable of doing so at the time.
+Fallout does not last forever, and humans
+breed pretty quickly on galactic timelines.
+Even if you kill off 99% of the population,
+a couple of centuries later everything is
+rebuilt and your numbers are restored.
+Alternatively, if you get replaced by some
+killer machine intelligence, it doesn't really
+matter to the Fermi Paradox anymore than us
+replacing the Neaderthals would: for our purposes,
+it’s still an intelligence.
+And that’s a good example too, because we
+really didn’t replace the Neanderthals,
+and any artificial intelligence or other civilization
+replacing us is likely to be at least part-human
+in some fashion, even if it’s a metaphorical
+kinship as in the case of AI or uplifted animals,
+like super-intelligent humanoid cats, dogs,
+or dolphins.
+A lot of times the future doesn’t belong
+to A or B, but some hybrid of both.
+An individual or group which replaces another
+generally has some superior array of traits,
+though that might mean they are more coordinated
+and generous or more hyper-aggressive or very
+good at being sneaky and stabbing folks in
+the back.
+Most of these options actually make a replacement
+species more likely to be detected, not because
+they are necessarily more likely to be broadcasting
+hello signals into space, but because we generally
+see signatures of civilizations.
+In general the more successful something is,
+the more noticeable it is.
+It is often suggested that they might hide,
+and we’ll come back to that point later
+too, but I would point out for now that civilizations
+hiding themselves is not a tactic that seems
+common in our own history.
+Cities and nations don’t hide themselves,
+but are far more likely to spend tons of money
+on various monuments and attractions to advertise
+themselves, and building roads and infrastructure
+to connect with other peoples and places.
+While there are numerous reasons a group may
+or may not advertise itself in some form or
+another, either directly or indirectly so,
+it seems fair to say that we observe this
+behaviour as a general rule.
+Conversely, groups which choose to hide themselves
+are typically doing so to deliberately avoid
+a larger, potentially dangerous civilization,
+which by necessity they must be aware of in
+order to know there’s something to avoid.
+With the Fermi Paradox, we’re not talking
+about trying to find a specific hidden alien
+civilization, but any of them at all, so while
+we might miss one civilization hiding from
+another, it’s extremely unlikely that we’d
+miss who they were hiding from.
+Some civilizations might attempt to hide,
+while others might blow themselves up, or
+fail to recover from another sort of doomsday
+event.
+But with a bit of reflection, it seems like
+this group might be the minority.
+Let’s take an example: still assuming that
+at least 100 billion stars in our galaxy have
+planets, we’re left with five remaining
+factors to consider.
+If we assume that only 10% of stars have planets,
+and that of those only a further 10% are potentially
+able to support life, and only 10% of those
+actually developed life at some point, and
+only 10% of those developed intelligent life,
+and finally, that only a tenth of all such
+civilizations ever released detectable signature
+into space, we would still have had 10 million
+such detectable civilizations throughout our
+galactic history.
+I’d argue that if even 10 million civilizations
+reached our technological level, it’s likely
+that at least one of them would not be self-destructive
+or replaced by something which was, especially
+since it seems more probable that such cases
+should be the majority, rather than some freak
+minority.
+Let’s discuss that more, though.
+Drake’s Equation, the Fermi Paradox, and
+SETI - the Search for Extraterrestrial Intelligence,
+principally by radio signals - all suffer
+from being a bit outdated, conceptually speaking.
+Outside of Science Fiction, nobody was realistically
+expecting galactic empires to exist when these
+ideas were developed, and that hasn’t really
+changed.
+Such a civilization would need to rely on
+faster than light travel and communication,
+and current science says that probably is
+not in the cards for the future, if it’s
+possible at all.
+But historically, it was less about FTL, and
+more about materials and energy.
+It merits consideration that when Drake first
+posited his equation, we hadn’t even been
+to the Moon.
+And while nuclear designs for spaceships were
+being considered as a basic concept, even
+then, the notion of sending a crewed mission
+on a centuries-long voyage to another star
+seemed like a long shot, the sort of thing
+a civilization might only do once or twice
+over their entire collective existence, perhaps
+in order to save themselves from an extinction
+event.
+If radio communications are a consideration,
+as the Drake equation originally assumed,
+then on the scale of interstellar empires
+they are likely to be extremely loud and fairly
+easy to see, due to various issues involved.
+But if we’re looking at anything smaller
+than that, where we’re trying to hear from
+a single planet or solar system among billions
+of duds, it’s a proverbial needle in a haystack,
+trying to find maybe a handful of planets
+transmitting faint, undirected radio sources.
+For the sake of context, let’s consider
+ourselves: even if we were looking directly
+at ourselves, we likely wouldn’t be able
+to hear our own civilization from beyond a
+very small pocket of the galaxy, much less
+from significantly further away.
+Civilization has existed here for thousands
+of years, but our transmissions haven’t
+reached out very far, and probably blend into
+the larger background on the galactic scale,
+so if we’re still assuming others would
+follow the model of life on Earth, why would
+we expect them to be any different?
+There’s also no real reason to assume alien
+civilizations would broadcast louder in the
+future unless they decided to stick with omnidirectional
+radio signals.
+Rather, it’s more likely that more advanced
+technology would make such broadcasts more
+difficult to find, since technology tends
+to favor weaker signals with higher compression
+rates that make them look like noise.
+In fact, that’s the whole point of compression:
+to remove patterns by replacing them with
+a short note describing that pattern, effectively
+removing parts of the message to the point
+that it would be difficult to understand even
+if it were somehow picked up and determined
+to be alien in origin.
+Also, given the fall-off of radio signals,
+dropping as an inverse square to the broadcast
+distance, it would seem like interplanetary
+and interstellar communication would most
+likely use directed signals.
+Laser beams broaden with distance too, but
+using one to send a message to a distant location
+avoids using a lot of power and significantly
+extends your range.
+But in terms of detection, unless these beams
+were using significant amounts of energy,
+spotting them might be more difficult than
+the sort of idealized, symmetrically-transmitting
+civilization the Drake equation seems to assume.
+So if we could see only a millionth of the
+Milky Way Galaxy by radio, and only 10 million
+civilizations had ever existed in the galaxy,
+we’d only expect to ever see around 10 of
+them.
+If they didn’t really spread out, but maybe
+colonized a few other neighboring systems
+to avoid having all their eggs in one basket,
+then it is still basically ten.
+And if they didn’t last for billions of
+years, but only a few millennia or centuries,
+then the odds that any would still be around
+at the same time as us for our instruments
+to hear them would be parallel to winning
+the lottery.
+And this makes a lot of sense too, considering
+the context.
+A lot of folks thought that giving us coin-flip
+odds of surviving the Cold War was being generous,
+and if we assume such generosity could be
+stated as having a 50/50 chance of surviving
+a given century, then our odds of surviving
+two centuries would be 1 in 4, our odds of
+surviving 3 centuries would be 1 in 8, our
+odds of surviving 4 centuries, 1 in 16, and
+our odds of surviving 10 centuries would be
+1 in 1024.
+Of surviving 10,000 years, just 1 in a million.
+And ten thousand years is a very short detection
+period on the galactic scale.
+Now, there are a ton of flaws in those assumptions,
+which we’ve discussed in more detail throughout
+our series on the Fermi Paradox and Alien
+Civilizations, but I wanted to restate them
+here for context.
+It’s important to understand that in the
+1960s when these concepts were new, the assumption
+that alien signals would be hard to detect
+actually made a lot of sense.
+Of course, on this show we have a few counters
+to that argument, including the Hart Conjecture,
+the Hart-Tipler Argument, the Dyson Dilemma,
+and finally the general notion that even Intergalactic
+Colonization should be possible without resorting
+to FTL.
+Without going into depth, Michael Hart is
+an Astrophysicist who in 1975 did a detailed
+analysis of the Fermi Paradox, which is when
+it got its name, and who essentially argues
+that interstellar colonization should be possible
+and that life, which he argues evolves to
+be pro-growth, would make efforts toward furthering
+its expansion.
+We can imagine this to mean that if a civilization
+settles their neighboring star systems, it
+follows that they should eventually continue
+to do the same, exponentially spreading outward.
+The analogy I like for this is that early
+humans spread over the whole planet without
+needing to coordinate with each other or sending
+out colonists from a single origin point,
+presumably somewhere in Africa.
+Instead, we established new regions, new economies,
+and new bases for expansion along the way.
+Each successive group has a motive to split
+and send out new colonies, dividing to produce
+more, and so on.
+Cosmologist Frank Tipler essentially added
+on the notion that this could be done through
+the assistance of machines, as a way of getting
+around the various issues with conventional
+Generation Ships, namely that the original
+colonists would have long since died off before
+they arrived at the colony world, not too
+mention the difficulty of maintaining a closed
+ecology in a spaceship in deep space, then
+setting one up on a new planet when you finally
+arrive.
+We tend to take that ability for granted on
+this show not because it is easy but because
+we have discussed the challenges and problems
+in depth, see our Generation Ships Series
+for details on that.
+Some folks feel that the Fermi Paradox should
+be renamed the Fermi-Hart Paradox, or the
+Fermi-Hart-Tipler Paradox, in part because
+Fermi himself didn’t regard it as a paradox,
+he just figured aliens were rare, that civilizations
+are probably short-lived compared to galaxies,
+and that interstellar travel wasn’t viable,
+which, as we noted earlier, would solve the
+problem entirely if true.
+I doubt we will ever see it renamed though,
+as sadly both Hart and Tipler have unenviable
+reputations unrelated to the Paradox which
+we won’t delve into here.
+The Dyson Dilemma, which I’ve often regretted
+naming such myself, basically argues that
+civilizations don’t really colonize planets,
+anymore than we colonized mountain caves,
+but instead would tend to build up artificial
+structures from available raw materials.
+Things like the O’Neill Cylinder, vast artificial
+habitats which make use of regionally-available
+raw materials to create an artificial living
+area.
+Just as your average house or apartment complex
+is significantly more efficient and useful
+by comparison to a cave, a space habitat with
+around a million times more efficiency than
+a planet has a similar analogy.
+Continuing with the idea that it makes sense
+on such a scale to eventually build a house
+in space, we can imagine that larger civilizations
+would continue to build such habitats, creating
+the analogy to a city, if we’re still thinking
+of the planet like a cave.
+Even well before that point, a civilization
+is likely going to want other resources in
+space, with energy being a primary concern.
+Since our Sun puts out a couple billion times
+more sunlight than what lands on Earth and
+powers our ecosystem, it might be a reasonable
+assumption that home stars gradually become
+wrapped up by such artificial habitats and
+power collecting structures, until they either
+englobe the thing completely - what is called
+a Dyson Sphere or Dyson Swarm - or until they
+run out of raw materials.
+Such a process, even partially complete, would
+alter a star’s visible spectrum and brightness,
+with anything approaching total englobement
+effectively dimming the star into the waste
+heat frequencies of the infrared range.
+In an ideal form, such constructs would appear
+mostly dark, being visible only in that they
+would still be warmed by the starlight as
+they use it.
+Finding these objects is what’s referred
+to as Dysonian SETI, and we would solidly
+classify such a civilization as being “type
+2” on the Kardashev Scale.
+While perhaps not as well known, this represents
+another major type of SETI, hunting for the
+infrared emission or techno-signature of such
+objects rather than radio signals.
+Civilizations which would be capable of even
+small-scale structures on this level would
+represent populations millions, if not billions
+of times greater than our own, but rather
+than spread out, they’re packed into a single
+star system.
+No FTL, advanced communications, or loud noises
+required for this model.
+And with a few modifications, those O‘Neil
+Cylinders and similar constructs also present
+the basic framework for ideal generation ships,
+if you were to strap an engine on the back.
+More importantly though, the sheer power available
+to such civilizations makes sending such ships
+to other systems possible, and not at a slow
+crawl either, but at an appreciable fraction
+of light speed.
+What’s more, those civilizations are not
+limited to finding only rare ideal planets
+around rare G-types stars: since they’re
+working with the raw resources of planets
+and other objects, they can essentially build
+copies of their civilization around any star
+with enough components in its neighbourhood.
+Like a pioneer building a cabin in the woods,
+as long as they have trees to make logs - in
+this case, asteroids, planets, and even the
+star itself - they can build their home anywhere
+they please, not where they find a comfortable
+cave.
+Given that this would make colonization comparatively
+easy after a certain point, the Dyson Dilemma,
+is essentially the argument that unless some
+factor prevents or dissuades a civilization
+from participating in this type of expansion,
+it seems implausible that they wouldn’t
+eventually do so.
+Once they’ve spread out a bit, they shouldn’t
+really be subject to extinction events, and
+since each new colony would have the capacity
+to continue the expansion, it should self-perpetuate
+across the whole galaxy, and even beyond.
+If we consider the possibility that this could
+be the case, if even a single such civilization
+ever arose in the galaxy and successfully
+pursued that policy, they should have colonized
+the whole place by now to an extent that we
+couldn’t possibly miss them.
+And considering the time scale we’re dealing
+with, it most likely wouldn’t be just our
+own galaxy, but probably the whole supercluster
+of thousands of galaxies by now.
+Again, see our Dyson Dilemma episodes and
+Generation Ships series for more detailed
+discussion of that concept and the methods
+that should make it possible.
+Back to Drake’s Equation.
+This intergalactic issue is one of the big
+flaws, since you can’t just run your numbers
+on our own galaxy.
+If you’re not contemplating massive self-perpetuating
+interstellar colonization, with or without
+FTL travel, then other galaxies don’t matter,
+so leaving it out of the equation at the time
+made perfect sense, and was necessary in any
+case since we had no idea how big the Universe
+was in terms of galaxies at the time.
+That first factor then, the rate of star formation
+in our galaxy, is not enough from the perspective
+of an intergalactic scale.
+But this is something folks often seem to
+skip over anyway.
+Even when I mentioned it earlier, it was to
+say how many stars were in the galaxy, not
+a discussion of the rate at which they form.
+This is because a precise formation rate is
+hard to pin down, since we still don’t know
+how many stars there are, or exactly what
+their breakdown is in terms of type and lifespan.
+They also tend to form in clumps of space
+and time from events that cause lots of them
+to be birthed, like nebulae and supernovae.
+But if it’s around a hundred stars per year
+in our galaxy, on average, it would seem pretty
+solid to say that probably at least 10 stars
+per year are likely to have both the lifespan
+to support planetary evolution, and some form
+of rocky planet or moon that falls into the
+loose range of being life-plausible.
+That factor, the average number of life-potential
+planets per star that has planets, is a total
+wild card.
+And it only gets worse, since it’s actually
+the only factor we can really even guess about,
+with all the remaining factors being complete
+unknowns.
+Folks often talk about how we have pinned
+Drake’s Equation down a lot more these days,
+but we really haven’t.
+Rather, all we have is a better understanding
+of some of the data for the first variable,
+and some better-informed ideas about how the
+others might look.
+All we really know, in the context of the
+equation, is that most stars probably have
+planets, and that the galaxy has about half
+a trillion stars.
+We also now know that there are billions of
+galaxies, and indeed a lot of stars in between
+those galaxies as well.
+But again, all this really does is change
+the educated guess we make about that first
+factor.
+It lets us go from guesses about 1 in 10 stars
+having planets, to talking about 1 in 100
+or 9 in 10 having them, an uncertainty of
+a couple orders of magnitude dropped to less
+than one, and while that’s certainly helpful,
+it ultimately changes very little.
+It also has the downside of introducing a
+mental bias, because we start by talking about
+that first factor of planets around stars,
+and tend to frame it as somewhere between
+1% and 99%, which frequently gets simplified
+to 1 in 10, and we seem to tend toward assuming
+that the other factors are probably in that
+range as well.
+We did that earlier in this episode, specifically
+saying 1 in 10, and still ending up with 10
+million civilizations having existed in our
+galaxy at some point.
+Even if we decided that each of those factors
+was only 1 in 100, it would only have dropped
+down to 10,000 civilizations.
+What’s crucially missing here is that final
+factor, how long they exist and are detectable,
+and if they can and do expand into the galaxy,
+which isn’t considered in the 10,000 we’ve
+arrived at, and it matters a lot.
+A civilization that’s spread throughout
+the galaxy is probably detectable forever,
+or at least on fairly arbitrary timescales,
+whereas one that lasts a mere million years
+still represents less than a thousandth of
+the period the galaxy could plausibly have
+had intelligent life in it.
+In this case, it gets a lot more believable
+that we just aren’t in the one-millionth
+of the galaxy where their radio signals could
+be heard during the tiny fraction of time
+their civilization was around out of a few
+billion years civilizations could have been
+around.
+And for perspective, we should probably consider
+that such a civilization, lasting for a mere
+million years, would still have existed for
+over one hundred times longer than our own.
+If a civilization sticks to one planet, it’s
+a lot more plausible they’ll die off eventually,
+but you don’t really need them to do so
+in order to solve the Paradox, because you
+just have to find values for the other 4 factors
+which add up to one in a million or less.
+All that’s needed is for each of them to
+be 1% or less.
+Indeed, given that 100 cubed is a million,
+if one of those factors was 100% the others
+could still be 1% and still make hearing a
+civilization less likely than not.
+Another big flaw though is not with the equation
+itself, but with how it’s framed.
+Probabilistic arguments are only meant as
+loose setups until you can get better data,
+and people have a tendency to assume each
+term is in the same general region of likelihood.
+All those factors might be 1 in 10 except
+1 of them, and the probability could end up
+being 1 in 10 quintillion, rather than a smaller
+number we might be expecting based on intuition.
+The probability of the others doesn’t matter.
+As an example, if we did a version of Drake’s
+Equation to calculate your odds of winning
+the state lottery, I might set that up as
+saying it was the product of your odds of
+living in a country that has states, the probability
+those states can have a lottery, the probability
+you live in one that does, the probability
+you regular visit a place that sells tickets,
+the probability you ever buy one, and the
+probability a ticket is a winner.
+All those early factors were somewhere in
+the 1 in 10 or better region, but that last
+one is very low.
+Indeed knowing the last one is low might discourage
+people from buying tickets, lowering the second
+to last factor’s probability, because it
+is a bad idea, lowering the odds further of
+winning.
+That’s an important thing to remember about
+probabilistic arguments, such as the Doomsday
+Argument, people often get locked into viewing
+them as immovable and not subject to intelligent
+critters contemplating them and altering their
+behavior.
+Many probabilistic arguments can seem very
+convincing once considered mathematically
+even when intuition on first hearing them
+says they’re wrong, and often that is quite
+true.
+What’s more, the number of factors is arbitrary,
+so if you have one that has eight factors
+and one that has six, and you’re estimating
+loosely by assuming it’s all 1 in 10 per
+factor.
+With six, you’re looking at 1 in a million,
+while eight gets you 1 in 100 million.
+And unfortunately, that’s easy to do with
+Drake’s Equation.
+Factors 3 and 4, the probability of planets
+that can potentially support life and the
+probability that life actually develops, could
+easily be rolled into one factor, or split
+into another to include complex life that
+develops Eukaryotic life, biological cells
+with nuclei, one of the more popularly suggested
+Great Filters life must evolve through before
+it can get to that final status as a detectable
+alien civilization.
+Now, all this just represents a tendency toward
+mental bias in folks considering the Fermi
+Paradox and Drake’s Equation, and it’s
+not actually a flaw in the math or in the
+equation itself.
+But over many years of discussing the Fermi
+Paradox with thousands of people, I would
+rate that as probably one of the most significant
+problems it encounters.
+Folks just look at it, hear the first coupled
+factors, and say “Well surely, even if it’s
+1 in a million, if there are billions of worlds,
+there must be life”, but nothing about the
+equation itself implies only 1 in a million,
+or even 1 in a quintillion.
+Another missing factor relates to zones of
+detectability.
+Again, if we’re assuming that we’re just
+listening for copies of ourselves, of other
+folks broadcasting terrestrial radio and TV
+and occasionally a louder or more deliberate
+shout, then we would have problems hearing
+that outside of a radius of some hundreds
+of light years.
+That area would not contain even a million
+stars, let alone a million plausible stars
+for Earth-like worlds, and would represent
+only around a millionth of the stars in the
+galaxy.
+The odds of hearing, or being heard, could
+be fairly low indeed.
+Of course, you can build much bigger transmitters,
+and much bigger receivers, see our Mega Telescopes
+episode, but we can say with pretty decent
+certainty what that factor should be for us
+looking for our analogue,and it cuts nearly
+all of the galaxy out except for a tiny little
+volume of space some hundreds of light years
+around, with the galaxy being a hundred thousand
+light years across.
+To be fair, aliens might be much louder, but
+there’s no reason to assume they would be
+if they’re only transmitting within their
+home system, and maybe to some nearby neighbors
+with tight beam signals.
+Alternatively, if they didn’t, then the
+entire final factor of civilization duration
+can be removed or treated as a value of 1.
+Let’s dwell on that a little more, because
+that final factor, where a world has made
+it through all of the filters to having technologically
+advanced life emitting radio could have existed
+for only a millionth of the time the galaxy
+has been around, and was detectable to only
+those nearest stars occupying a millionth
+of that galaxy, or they could have spread
+out across the galaxy and endured in various
+forms since they first invented rockets, potentially
+for billions of years.
+The difference between those two scenarios
+is a factor of a trillion.
+That’s the difference between a single star,
+and an entire large galaxy, the difference
+between one small shack that existed for a
+few days, and every structure on this planet
+that we have ever built in the history of
+our existence.
+It is the difference between running into
+intelligent life on a planet that’s been
+inhabited for centuries with vast empires
+and civilizations, or bumping into one random
+alien survey team that just happens to be
+investigating the same planet as you.
+And that’s just the impact of that one final
+factor meant for contemplating our odds of
+detecting them if they ever even existed at
+all.
+So yes, we can nail down that first factor,
+stars having planets, as being very high,
+and we can probably nail down the second factor
+of planets with the right size and temperature
+as being decently common - though those two
+likely don’t include all the options for
+letting a planet potentially support life.
+But we have no idea about the odds of life
+actually emerging, much less all the factors
+which might be involved, and getting to intelligence
+is another matter entirely, with a myriad
+of other factors varying in probability to
+consider.
+Even if we get through all of that, we still
+have the final factor for longevity and detectability
+to consider, which can be anywhere between
+1-in-a-trillion, and near certainty.
+Every time we have a new discovery relating
+to exoplanets, or a solution to some astronomical
+or geological phenomena which adds new insight
+to our origins, folks ask if we can finally
+pin down Drake’s Equation.
+The answer, as we’ve seen today, is no.
+There’s just too many unknowns involved,
+and clearing some up only changes things in
+a Bayesian sense.
+If we don’t know how probable something
+is, we can still have a discovery that tells
+us that it’s twice as likely or unlikely
+as before, but it really doesn’t help us.
+We still wouldn’t know if it was near certain,
+or worse than the odds of winning the lottery
+ten times in a row.
+Fundamentally, 60 years after its been proposed,
+I think it is worth asking not whether Drake’s
+Equation is right or wrong, but rather if
+discussing it really helps us solve the Fermi
+Paradox.
+Truth be told, we won’t actually know the
+answer to those variables until we have discovered
+hundreds of worlds with alien life and had
+the chance to examine them, and even then
+all that will really tell us is that it is
+possible for intelligent life - our own species-
+to arise on a planet, and journey to hundreds
+of others with life, thus implying that final
+factor of longevity and detectability is high,
+and that the other factors about the potential
+for life to arise might be based on how many
+planets we find where life hasn’t been found,
+versus where it has.
+But we still wouldn’t know about the rest,
+and could still only arrive at educated guesses
+at best.
+The implication of searching a million star
+systems and finding life on a hundred of them,
+but no highly intelligent life, would be that
+life probably evolves often enough, 1 in 10,000
+systems, or 40 million in the galaxy, but
+that technology develops very rarely, since
+we could only find one example and could show
+that one example - us - had the ability to
+spread throughout the galaxy by investigating
+all those worlds in person.
+It’s the Catch-22 of the Fermi Paradox.
+Since we’ve already done a lot of astronomy
+looking for radio signals and for the infrared
+signatures of Dyson Swarms, unless someone
+stops by to tell us they exist, we’ll probably
+only get the answer by going out there and
+investigating in detail.
+And that act of investigating itself will
+ultimately answer as many questions about
+the Fermi Paradox as the results of the investigations.
+In the end, the only way to prove if anybody
+else is out there, unless they come to us,
+is to go to them, and that’s just one more
+reason why we should head out into space,
+in case avoiding being wiped out by misfortune
+by staying on our one lone world, our pale
+blue dot, wasn’t enough reason to venture
+into the galaxy.
+Our episode ran rather long today, as it often
+does with Fermi Paradox episodes, so I cut
+out some discussion of human population growth
+rates and why they are not declining, as that’s
+a popular objection to the notion of galactic
+expansion.
+It also tends to be a touchy topic that might
+cause a stir with Youtube’s Algorithms,
+so it’s doubly ideal for a Nebula Extended
+Edition, and if you’d like to catch that
+discussion or any of our other extended editions
+on Nebula, they do replace our sponsor reads.
+Our episodes come out on Nebula early and
+ad free, and we do have some exclusive episodes,
+like our Coexistence with Alien Series as
+well as these new Nebula Plus Extended editions.
+Now you can subscribe to Nebula all by itself
+but we have partnered up with CuriosityStream,
+the home of thousands of great educational
+videos, to offer Nebula for free as a bonus
+if you sign up for CuriosityStream using the
+link in our episode description.
+This means you can watch all the amazing content
+on Curiositystream, like the “Is Anybody
+Out There” which delves into the SETI Project
+of looking for alien signals and habitable
+exoplanets, but also all the great content
+over on Nebula from myself and many others.
+And you can get all that for less than $15
+by using the link in the episode’s description.
+I mentioned us discussing population growth
+or a lack thereof as a reason civilizations
+might not colonize the galaxy, and a missing
+chunk of that is that we have good reason
+to think Lifespans will keep going up, potentially
+radically so, and especially if that included
+an extension in fertility which would have
+massive impact on population.
+You can have a lot of kids in a few centuries
+if you’re so inclined, and that is one of
+the Effects of Longer Lifespans and this weekend
+we’ll have our monthly SciFi Sunday Bonus
+episode to look at other effects.
+Then next Thursday, April 15, we’ll look
+at another challenge future civilizations
+might have in terms of creating a sense of
+purpose in a post-scarcity near-utopian world,
+one which may not be populated by modern humans
+in the biological or psychological sense,
+and something we’ll look at in two weeks
+as we examine Transhumanism and Post-humans.
+Then we’ll wrap April up with another Fermi
+Paradox Episode, where we will ask what the
+impact and changes to our discussion of the
+topic are when we contemplate concepts like
+Multiverses and the Many Worlds Interpretation
+of Quantum Mechanics.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us itunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

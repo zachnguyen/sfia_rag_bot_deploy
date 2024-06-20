@@ -1,0 +1,925 @@
+This episode is brought to you by World Anvil.
+When it comes to adopting nuclear energy,
+the saying goes that the best time to plant
+a reactor was yesterday, and the next best
+time is today.
+So today we will be looking at Nuclear Power,
+and how and if we should finally embrace it
+as a major energy source after decades of
+controversy and association with nuclear weapons.
+This episode comes out on August 5th of 2021,
+76 years after the first and only use of atomic
+weapons in warfare, at Hiroshima and Nagasaki
+on August 6th and 9th of 1945 respectively.
+A full human lifetime has passed since then,
+and we’re still not sure how many people
+died during the attack itself, or from radiation-related
+illnesses afterward, but most figures put
+it at well over 100,000.
+Thankfully no other atomic weapons have seen
+battlefield use, though that would have been
+surprising to most folks who lived during
+the Cold War that followed.
+I was 10 years old when the Berlin Wall fell,
+an event that is usually seen as the end of
+the Cold War in much the same way Hiroshima
+and Nagasaki are seen as the end of World
+War 2, and prior to that it was taken as a
+given by so many people that atomic warfare
+would be the death of our civilization - and
+probably sooner than later.
+Taken in that context, it makes sense why
+nuclear energy seemed to be an easy sell during
+the cold war, when nuclear technology was
+already being mass produced, and is at least
+partially at fault for much of the anti-nuclear
+sentiment we saw in the years that followed.
+There are rational reasons to fear using nuclear
+energy, but also a lot of irrational ones
+too, and many that maybe straddle that gap.
+For those who remember living under the looming
+fear of impending nuclear war, the desire
+to scrap every bomb and powerplant could be
+understandable.
+If you’re going to title an episode Embracing
+Nuclear Power, it generally won’t shock
+folks that it has a pro-nuclear theme, but
+we also aren’t going to bury our heads in
+the sand about potential problems with nuclear
+power, or the advantages of alternative technologies.
+There’s a lot of bad arguments against nuclear
+power, but there’s some bad ones for promoting
+it too.
+For instance, a lot more folks have died mining
+coal and drilling for oil than in all of our
+nuclear accidents combined.
+And while those numbers would be dramatic
+to quote, it’s also not a terribly fair
+argument against those technologies, let alone
+solar, wind, hydroelectric, and geothermal.
+A lot of folks have died in accidents building,
+maintaining, and installing those power sources
+too, but the entire line of reasoning is flawed.
+Coal Mining deaths in the US have dropped
+from over 2000 a year a century ago to about
+10 a year today.
+Part of that is due to advances in technology,
+and more serious efforts at workplace safety,
+but a lot of it is simply a result of practice
+and knowledge.
+Any technology is going to have risks associated
+with it, some obviously a lot more than others,
+but we often can’t know how to properly
+control and mitigate those risks until we’ve
+experienced enough of them to understand where
+they exist.
+Sadly, it’s hard to do any sort of risk
+analysis without a significant amount of firsthand
+experience, and statistical analysis only
+works with data.
+We also need to keep in mind that statistics
+can also be used to distort real risks, and
+it’s downright contemptible how some anti-nuclear
+advocacy groups warp the dangers to suit their
+agendas.
+However, that also doesn’t justify nuclear
+advocates fighting fire with fire, so to speak,
+and it’s unfortunately common to see folks
+advocating for nuclear by overplaying the
+dangers of the alternatives.
+The reality is that none of our current energy
+generation methods are particularly risky
+to their workers compared to how many die
+just driving to their job and back, which
+we all treat as actuarial noise in our modern
+lifestyle.
+It’s also important to consider that those
+risk-related statistics are hardly static.
+I’ve heard folks say that solar power exposes
+its workers to skin cancer, and in some sense
+that’s probably true, since solar panels
+are generally installed in sunnier places,
+necessarily outdoors, and likely during the
+daytime, meaning that the folks doing that
+work get more sun and thus potentially more
+skin cancer than someone working in a different
+sector.
+But even ignoring how many jobs are out in
+the Sun, and the apparent health benefits
+of sunlight, should that turn out to be a
+real risk, we could just make an effort to
+encourage the use of sunscreen and UV protective
+clothing by folks in the industry.
+So to recap: while we’re fairly free about
+being pro-nuclear on this show, as we go through
+some of the potential options for nuclear
+energy and its integration into our society,
+we’ll refrain from using fear of its alternatives
+as a motivating argument.
+Nuclear could only become a main power generation
+option if folks were comfortable with it.
+Between the constant bashing of renewable
+sources, and the fact that much of our current
+grid depends on things we feel we know and
+understand, it’s unsurprising to see an
+attitude toward sticking with the status quo
+and the devil we know, rather than taking
+a risk on something new.
+And on that note, let’s start by discussing
+the safety through distance or NIMBY option
+of distant and large reactors.
+NIMBY, short for Not in my Back Yard, is the
+concept for folks wanting something, like
+garbage dumps or wind turbines, but nowhere
+near their own house.
+One way to allay fears of nuclear is just
+to have it far from where folks live in large
+numbers.
+We’ll be discussing small reactors today
+too, but smaller is often less efficient in
+raw economic terms.
+Often bigger power plants generate more power
+per unit of fuel too, but an awful lot of
+your construction and operating costs also
+don’t scale up evenly with size.
+For example, you usually would not need to
+double your security guards, parking lot size,
+roads to the facility, or a hundred other
+minor factors by having multiple reactors
+at the same site, or a reactor that’s twice
+as big.
+One of the problems with putting a bunch of
+reactors in the middle of a desert or tundra
+is that while people may not live there now,
+workers and their families would have to move
+there, as would a lot of the support personnel,
+and everything that comes with supporting
+a community, from convenience store clerks
+to teachers and doctors.
+Being remote also means you’ll lose a lot
+of power to transmission on wires.
+A lot of what gets generated at a power plant
+is lost before reaching your electric outlet,
+and the longer the distance between power
+plant and consumer, the more will be lost.
+In many ways having a large reactor is the
+most attractive path for deploying nuclear,
+since it lets us run maybe a dozen big sites
+far from human habitation, not in anyone’s
+backyard except for those who pay for the
+mortgage of their backyard by working at said
+power plant.
+So how do you make it easier to place power
+generation far from habitation?
+If the big concerns are transmission and isolation,
+we’ll have to look toward superconductors
+for transmission, and robots for the labour.
+Superconductors are still a developing technology,
+where the cost of production is changing quite
+a lot each year.
+Since new technology for the manufacture,
+maintenance, and installation of superconducting
+power lines is constantly emerging, it’s
+hard to say when we’ll hit the point where
+it’s practical to replace existing infrastructure
+with its superconducting equivalent.
+Another recent technology currently being
+used to reduce losses over long distances
+is Ultra-High Voltage DC transmission, or
+UHVDC, and while it’s not as efficient as
+superconductors, it remains practical and
+cost-effective given our current capabilities.
+But while using better trunk lines make large
+remote nuclear plants more attractive economically,
+it also does the same for solar.
+It’s always a clear sunny day somewhere,
+and the places with the clearest and sunniest
+days tend to be rather remote and uninhabited,
+like the desert.
+As we’ll see today though, we’re not interested
+in an exclusively nuclear future, but rather
+one in which it simply plays a very big role.
+No single existing power source is likely
+to be the cure-all by itself, and a single
+power source also has the added downside of
+lending itself to monopoly or cartel behavior
+in its production.
+As for making things safer, robotics are likely
+to play a big role in the future of nuclear
+power, as they likely will in other sectors
+of the economy as well.
+This applies not only to what we might immediately
+imagine, in terms of avoiding direct exposure,
+but to other areas also.
+Many issues with nuclear waste come from the
+production of tons of barely irradiated safety
+gear, and unlike high-level waste, which we’ll
+cover soon, such contaminated equipment can’t
+be reused, forcing us to issue new gear each
+time someone enters the relevant areas of
+the plant.
+But a robot doesn’t need to constantly replace
+its protective layers, or be decontaminated
+before going home.
+We can even use other robotic systems to perform
+remote maintenance on the contaminated robots,
+adding yet another layer of protection in
+defense of outside contamination.
+90% of nuclear waste is this type of low-level
+radioactive waste, with intermediate waste
+like decommissioning reactor parts making
+up most of the remainder, and the high-level
+waste being the least common.
+That 90% contains less than 1% of the radioactivity,
+but it’s an expensive logistical problem
+from the constant use and disposal of equipment
+that robots can potentially solve.
+Putting more robotics into play lowers the
+dangers and the costs, both direct and secondary,
+improving the economic viability of nuclear
+power.
+It’s also likely to help with public perception,
+since using robots would remove much of the
+risk to humans, and many of the dangers presented
+by human error, which has historically played
+a major role, and is still seen by some members
+of the public as an insurmountable barrier
+to safety.
+Of course, much like superconducting trunklines,
+better robotics also improves other power
+generation options, especially renewables,
+where manufacturing or maintenance represent
+a big chunk of the cost.
+That’s important to consider, since one
+objection I’ve heard regarding nuclear power
+is if it’s so economically advantageous,
+and if we’ve made so many safety and operational
+improvements in recent decades, why aren’t
+we using more of it?
+There are many reasons for the absence of
+nuclear growth, but one of the simplest is
+that while improvements have been made for
+nuclear power, we’ve also improved everything
+else.
+For instance, in the half century from when
+we landed on the Moon till now, the fuel efficiency
+of the average vehicle went from 13 miles
+per gallon to 22, a 70% increase, while solar
+power went from being a novelty item mostly
+seen on hand calculators, to a major form
+of power generation today, being more efficient
+per panel and vastly cheaper to produce.
+So while it’s true that nuclear has been
+improving across the board, this is true of
+its alternatives, as well.
+Speaking of those little solar hand calculators
+of my youth, part of the reason you don’t
+see many solar powered hand devices anymore
+has to do with the development of better batteries,
+and the invention of other technologies which
+allow us to complete many tasks on our smartphones
+or the cloud.
+Potential advancements in wireless recharging
+and improvements to batteries overall might
+strongly impact the future of handheld and
+portable devices, and we might also see nuclear
+emerge in an ultra-tiny form.
+The suggestion of having a small nuclear reactor
+or RTG in your pocket might raise some concerns,
+so it’s probably wise to put those dangers
+into context with a quick look at the different
+kinds of radiation.
+Of the 4 major types of ionizing radiation,
+alpha, beta, gamma, and neutron, one of the
+least damaging and dangerous is beta, coming
+in under gamma’s weaker cousins X-Rays and
+UV light.
+Beta particles consist of electrons and their
+antimatter counterparts positrons.
+The best example of beta radiation is the
+Banana Equivalent Dose, a unit of measure
+mostly used to make it clear how omnipresent
+radiation is and how minimal its impact typically
+is.
+Bananas contain a lot of potassium, which
+has many isotopes, one of which is Potassium-40
+with a half-life of over a billion years,
+typically decaying into Calcium by emitting
+an electron.
+This electron gets spat out rather fast, and
+is like a little bullet slamming through the
+delicate machinery of organic cells.
+But because it’s an electron, it interacts
+with nearly everything, and so it gets absorbed
+by any molecule it happens to encounter pretty
+quickly.
+In machinery terms, think of a human cell
+as an incredibly delicate bit of glassware
+or clockwork, a bullet will break something
+if it zips through, but if that glassware
+or clockwork is housed inside a mountain bunker,
+someone shooting the side of that mountain
+with a pistol isn’t going to do much apart
+from chipping at some rock.
+In this analogy, humans have a layer of dead
+skin playing the role of the rock; alpha and
+beta radiation just can’t penetrate it,
+while neutron and gamma radiation are more
+like cannonballs or bunker buster missiles.
+For this reason, beta emitters aren’t really
+a concern when it comes to radiation sources.
+There’s also a lot of potassium in your
+body, stored in places like your bones.
+This includes potassium-40, which even now
+is decaying and doing some amount of damage.
+As we noted in our Sleeper Ships episode,
+where we contemplated freezing folks for the
+long journeys to other solar systems, if you
+freeze someone for a few thousand years they
+will absorb a lethal dose of radiation during
+their stasis, just from the slow decay of
+isotopes like potassium-40 inside their own
+body.
+But even ignoring your skin as a protective
+layer, a thin sheet of aluminum foil or nearly
+anything else will stop beta radiation dead
+in its tracks.
+But why does all this matter?
+While it’s safe and easy to contain, beta
+radiation is also fairly easy to use for power
+generation, its electrons and it converts
+easily to electricity.
+Instead of using thermocouples to generate
+power from the heat of the nuclear decay,
+we can use semiconductors instead.
+Because of the relative safety, such devices
+are potentially ideal for implanted medical
+applications, and other low-power devices.
+There are a lot of beta-decaying isotopes
+out there, but for compactness you want something
+that decays a lot faster than potassium-40
+at over a billion years.
+Carbon-14 is a nice option, as it’s created
+in the graphite blocks of graphite-moderated
+reactors, and has a half-life of 5700 years.
+This is the method employed in the nuclear
+diamond batteries you’ve probably heard
+of, and which we discussed a bit more in our
+episode on Portable Power.
+Another option which was briefly discussed
+in our episode on Graphene is using it to
+directly capture the kinetic energy of alpha
+and beta decay particles, and convert it directly
+to power that way.
+In fact, that technology is being actively
+researched today.
+Speaking of graphene, we also discussed graphite-moderated
+reactors, and what reactor moderation was,
+in our episode “The Future of Fission”,
+where we delved into more of the actual function
+of reactors.
+Today we’re more interested in how nuclear
+might find its way into more common usage.
+On top of being generally safe, one of the
+big concerns with anything nuclear is that
+it could somehow melt down.
+This simply isn’t possible with radioisotope
+batteries, though even with the lack of safety
+issues, I suspect a lot of folks would have
+concerns over holding a smartphone with an
+atomic power supply next to their head, especially
+given all the anxiety folks already have about
+microwaves and radio signals from their phones.
+I think the way these enter regular usage
+is probably with implanted devices, where
+any concerns of radiation are minimal compared
+to battery toxicity concerns or infection
+risks of skin-breaching devices, like a power
+jack piercing the skin, or from surgeries
+to replace a worn-out battery.
+Implanted devices are also less likely than
+consumer gadgets to get burned up in an accidental
+fire, to become litter, or to be improperly
+discarded in the general purpose waste stream,
+and it’s fair to acknowledge that casual
+disposal of radioactive objects - even weak
+and short-lived beta emitters - would be a
+concern.
+Although handily they would be easily detected
+and removed from garbage dumps, or even garbage
+trucks, as radiation detectors are quite cheap
+and compact.
+This idea of radiation used for medical applications
+is already normalized to some extent, with
+most folks knowing about radiation therapy
+for cancer, and few people have issues with
+going for an x-ray.
+There’s also a lot of very low draw devices
+where something as simple as a radioisotope
+generator is ideal, but they are specifically
+for more remote applications, and so don’t
+strike me as a path toward humans embracing
+nuclear in their daily lives, whereas for
+medical and cybernetic implants, you are embracing
+such power supplies in a very literal sense.
+So that’s the mega-huge option and the micro-tiny-option
+covered, and as for its role in space travel,
+we examined that in more detail in our episode
+the Nuclear Option.
+But what about the smaller modular reactors?
+What about Thorium?
+And can it run your car?
+Now years back there was the notion of a Thorium
+car making the rounds on social media, and
+while that was nonsense, atomic cars are technically
+possible.
+However, it's hard to get a reactor down to
+a size that small and still generate enough
+power safely, where you can throttle the reaction
+rate so it’s providing only as much power
+as needed.
+It's much more viable for things like trains,
+where they spend far more time in motion,
+and have more room for batteries to charge
+or drain for use in tandem with the reactor.
+It also gives you more space for the reactor
+and its shielding.
+Plus let us be honest, none of us really would
+want to trust the average driver with a kilogram
+of radioactive material.
+I don’t see much likelihood for something
+smaller being used, like atomic buses or trucks,
+but I could imagine atomic freight trains
+being viable since in addition to having more
+space for the reactor and batteries, they’re
+also on rails and have fewer risks associated
+with them than road-driven vehicles.
+It's also technically an option for airplanes,
+especially big ones, but the safety concern
+here and for trains is less about danger to
+the passenger than spreading of radioactive
+material in a crash.
+I also suspect that many people might be made
+uncomfortable travelling in such a vehicle.
+Another option might be large nuclear-powered
+cargo ships, particularly since this technology
+is already in use.
+The US concepted it back in the late 50’s,
+and the Russians have a few nuclear-powered
+icebreaker & shipping hybrid vessels currently
+in service - but the problem with it is simply
+retraining the workforce to nuclear standards.
+If that can be done, much of the infrastructure
+to implement it is already in place, thanks
+to the demand for nuclear-powered military
+vessels, so it might just be a matter of will,
+time, and economics.
+So I wouldn’t expect atomic vehicles to
+be the pathway for nuclear power getting into
+our lives more casually - at least, not directly.
+Indirectly speaking, electric vehicles powered
+by nuclear energy are already a thing, especially
+in countries like France, which has the second
+highest nuclear power production on the planet,
+a close second to the entire US, and the highest
+per capita production by far.
+But once larger nuclear vehicles have taken
+hold, it could potentially spread to smaller
+applications.
+I’m a physicist; I’ve worked with radioactive
+samples, including plutonium, since I was
+a teenager.
+I know how it works, and I’ve lived near
+a nuclear power plant for most of my life.
+Riding on an atomic train or plane wouldn’t
+bother me, even in terms of a possible vehicle
+accident.
+All that heavy metal flying around at high
+speeds is a lot more lethal than the radioactive
+material itself, and if the housing were to
+crack open you can evacuate the spot and send
+in robots to clean up the easily-detectable
+radioactive bits.
+People can learn to relax around radiation,
+as we do around fire, and we shouldn’t assume
+a constant anxiety about all things nuclear
+is inherent to humans anymore than we worry
+constantly about using flammables like gasoline
+or natural gas constantly flowing around us
+in our vehicles and homes.
+Fire still kills far more people than nuclear
+power ever has, but most people don’t get
+anxious roasting marshmallows.
+We’re not just talking today about how we’ll
+get to be comfortable with nuclear power,
+but what forms it will take if we manage to
+achieve that level of comfort.
+It’s possible people might someday carry
+around a belt-strapped power plant as casually
+as we carry a phone or wallet today, if that
+comfort level were high enough, because we
+could make things that small, and being the
+source of your own wireless power grid has
+some advantages.
+But let's get to probably the most commonly
+discussed scenario these days for nuclear
+power to grow into our society: SMRs or small
+modular reactors.
+First, I should note that the term “small”
+is very relative, and what we’re mostly
+talking about when we say small is the total
+amount of power generation compared to larger
+existing plants.
+A classic nuclear power plant looks like a
+big, almost monolithic industrial site , usually
+with a massive concrete cooling tower, and
+employs about a small town’s worth of people.
+SMRs generate less than 300 Megawatts, and
+some designs for Very Small Reactors are only
+15 megawatts.
+We’ve just discussed nuclear power options
+in the sub-megawatt range for vehicles, and
+in the milliwatt range for medical implants,
+so something generating enough power to supply
+thousands of homes doesn’t seem small, much
+less very small.
+So too, when we say modular in this case,
+it mostly relates to construction and maintenance.
+With a modular reactor, much of this work
+could be done off-site in a controlled factory
+environment, then shipped as modules for assembly
+at the power plant site, speeding up construction
+and repairs, and enhancing both efficiency
+and safety.
+Factory production also means economies of
+scale and standardization in production, reducing
+the one-off construction costs and overhead
+associated with many larger power plant designs.
+As an additional boon, maintenance and quality
+control also improve with the standardization
+and mass production you get from producing
+modules.
+I’ll add as an aside that 3D printing might
+see a role in power plant construction too,
+an expansion on what we see with Oak Ridge’s
+Transformational Challenge Reactor program
+3D printing that reactor’s core.
+3D printing allows remote fabrication, where
+hazardous materials might be a factor, and
+we can make big 3D printers that print whole
+buildings too.
+This might rival the advantages of off site
+construction, but another advantage to modular
+forms is that you can pull out an entire section
+and replace it, or move things elsewhere for
+safe recycling and disposal.
+I think the popular view of SMRs when they
+show up is a reactor you could carry in the
+back of a truck or on a train car for rapid
+deployment, and while there are some models
+in development along those lines, I should
+note that this is not what’s generally meant
+when the topic’s discussed.
+The upper end of SMRs, like the 440 Megawatt
+Rolls-Royce SMR, is around half the size of
+a big power plant, but it still has a construction
+time of years, and the plant itself takes
+up 4 hectares or 10 acres, which is only a
+tenth the size of most existing plants, but
+still about 9 football fields’ worth of
+space.
+So it’s not something you can easily put
+in the middle of an existing city, albeit
+nobody is really clamoring for building them
+that close.
+But it’s hardly huge, and we have plenty
+of shopping centers that dwarf that; your
+typical Walmart plus parking lot is bigger,
+and this is still at the larger end of SMR
+designs.
+On the smaller end, we can start discussing
+thorium, though a full discussion is too large
+of a topic for today.
+Now it isn’t that Thorium reactors are inherently
+smaller than uranium or plutonium ones, but
+the theory is that they offer advantages in
+fuel chemistry with molten salts, and in security
+of nuclear materials.
+“Meltdown-free” reactors are a technology
+we technically already have, they just haven’t
+passed the licensing for commercial construction
+and use.
+But they do exist - molten salt, liquid metal,
+and gas cooled reactors are all pushing through
+to begin construction within the next 10 years.
+As we retire all the old reactors that might
+plausibly meltdown, public fear of it happening
+will hopefully go away, leaving us mostly
+with the remaining concerns about security,
+excess waste, and mining.
+Worries over people stealing enriched uranium
+or plutonium from power plants are rather
+overblown in the first place, with the real
+concern being the theft of the material while
+it’s en route to or from the site.
+You don’t send a commando team or group
+of thieves into a reactor to grab fuel rods,
+that’s not going to work out well for them,
+or anyone else involved.
+However, it might be a bigger concern for
+small reactors with presumably less overall
+security.
+Also most of the time, when someone is talking
+about thorium and security, they actually
+mean energy security, in that thorium is a
+lot more plentiful and geologically available
+than mineable reserves of Uranium, and so
+it offers more security of supply in the long
+run.
+But in terms of nuclear proliferation, Thorium
+is also quite attractive, as it’s much harder
+to utilize for any kind of weapons production.
+Note I said harder, not impossible.
+The thorium fuel cycle produces Uranium-233,
+in fact it’s the Uranium-233 that’s doing
+the power production.
+The Thorium is simply there to absorb neutrons,
+so it can move from the naturally available
+Thorium 232 into Thorium-233, which then Beta
+decays into the short lived Protactinum-233,
+in turn decaying into Uranium-233.
+Ironically one of our big improvements in
+nuclear technology is using lasers to separate
+the different isotopes, an idea that’s been
+thrown around to clean up high-level nuclear
+waste, but which would also make separating
+Uranium-233 from Uranium-232 much easier,
+allowing for Uranium-233 based nuclear bombs.
+In the past the US tested a Uranium-233 based
+warhead, and found it was otherwise too tricky
+to make and too inefficient to be practical,
+but laser separation might minimize the benefits
+of thorium from a nuclear proliferation standpoint.
+All that being said though, you’d still
+need some very high-end gear to even make
+such an attempt, so it’s worth repeating
+that it would certainly still be difficult
+and expensive.
+I’ve been asked a lot over the years to
+discuss Thorium-based nuclear power in more
+detail, but I don’t want to shoehorn that
+discussion into today’s episode, which is
+already longer than average, so we will give
+Thorium its own dedicated episode a bit later
+in the year.
+For the moment, that covers the basic function,
+advantage, and concern.
+The thorium fuel cycle has a lot of pros and
+cons, but also shows a lot of promise.
+The exact function of classic and modern uranium
+reactors is discussed in more detail in our
+episode The Future of Fission, but the reality
+is that how they work isn’t terribly relevant
+to whether we use them more in the future,
+or how we might convince folks that we should.
+Fundamentally, the issue is in convincing
+folks that radiation is mundane, and not some
+dangerous phantasmic boogeyman.
+It’s everywhere around us, and really just
+particles moving quicker than normal, bouncing
+around till they get absorbed.
+There’s no perfectly safe reactor, anymore
+than there’s a perfectly safe combustion
+engine.
+Trying to convince folks it’s safe by statistics
+isn’t likely to sway them, because we don’t
+really process dangers in that way, and it’s
+more in how they poke at us psychologically.
+Necessity and familiarity are what let us
+handle fire and knives constantly without
+excessive concerns, and that’s one reason
+why communities around these power plants
+have really high approval of them, compared
+to communities that aren’t.
+I’ve spent most of my life living in sight
+of one for instance, and never realized how
+much distrust other communities had of them
+till I went away to college to learn physics,
+so it wasn’t a deeper knowledge of physics
+and radiation that made me feel comfortable
+with them, nor most of my neighbors who aren’t
+physicists or nuclear engineers.
+As to necessity, that’s a bit debatable
+in truth, because solar is shaping up to be
+a viable mainstay for power generation.
+It’s just that the two of them together,
+fission plus the sun’s own fusion giving
+us sunlight and wind, especially in tandem
+with better batteries and superconductors,
+offers us true energy security.
+There’s enough uranium to last us a long
+time, centuries, even without using breeder
+reactors, seawater extraction, or Thorium,
+all of which offer far more.
+If we can’t get fusion working by then,
+then it probably can’t be done, and we’d
+then have to switch to solar exclusively at
+some point.
+But that’s okay too, since space-based solar
+is great at Earth’s orbit.
+See our episode Power Satellites for more
+on that.
+A good case can be made that we’ll have
+good solar or even fusion long before we run
+out of fissionable material, or even conventional
+fossil fuels.
+Some might argue that investing into a fission-based
+power infrastructure simply switches focus
+away from other renewables in what is often
+perceived to be a deadline or race to get
+off fossil fuels.
+But as I touched on earlier, while I think
+we should use more fission power, I don’t
+think that all arguments against it are irrational
+either.
+There’s also the argument that we should
+instead be investing our power infrastructure
+money in fusion research, in a type of “Manhattan
+Project” to free us from energy production
+waste, but there’s no guarantee that it
+would succeed, or that it would free us from
+that waste, as a reminder, nuclear fusion
+produces radiation too.
+Ironically, one of the most fear-mongering
+concerns about nuclear energy – that it
+will encourage weapon proliferation – is
+also the one I believe to be the most inaccurate.
+It’s a strange way to think of it, but I’ve
+always thought of the fight against nuclear
+proliferation as a bit of a lost cause.
+There’s no particular secret to building
+an atomic bomb, and any nation with a handful
+of decent physicists and engineers could throw
+together a decent design in short order if
+they couldn’t just steal or buy one from
+another power, so it’s always been more
+about keeping the enriched material away.
+The thing is, 3D printing, robotics, and improvements
+in material processing, not to mention in
+conventional explosives and switches, make
+building bombs vastly easier than it was in
+the 1940s and 50s, so I don’t think you
+can really keep a modern nation from having
+one except by threats and coercion, and given
+that atomic bombs are often seen by nations
+as the ultimate defense – people can only
+play so rough with you if you’ve got them
+– I tend to think of preventing nuclear
+proliferation by controlling fissionable materials
+and enrichment processes as a bit of a lost
+cause in the long term and that other methods
+will have to be utilized.
+Presumably soft power and other techniques
+can be effective, given that most nations
+could have nukes if they wanted but still
+don’t have them, and there’s really not
+much point in having them secretly if your
+intent is to use them as deterrence.
+Possibly not the most cheerful note to end
+on, but if that turns out to be the case,
+it might be that the reason we embrace nuclear
+power is the same one that probably encouraged
+us during the cold war.
+If having nuclear power plants isn’t seen
+as increasing the odds of anyone getting the
+bomb, then a lot of the concerns about those
+power plants will simply go away.
+Admittedly, it does leave the door open for
+a lot of other concerns, but once we can move
+past that initial fear, I suspect it’s likely
+that solutions for those issues will be easier
+to find.
+And while we can speculate all day about what
+improvements we will make to solar or wind,
+or when fusion might finally be ready, all
+those improvements are speculative at best,
+and we never really know how the economics
+of it will work out until it’s actually
+done.
+We have nuclear now, and we’ve had safer
+and more-efficient designs for decades, but
+we’ve resisted using them largely because
+of fear.
+So far, our aversion to nuclear hasn’t made
+us any safer, or kept us away from nuclear
+war.
+Instead, it’s led to a continued reliance
+on an ever-dwindling supply of fossil fuels
+whose environmental and health effects outweigh
+any of the risks that even the harshest critics
+have levied on nuclear.
+The time to switch to nuclear power isn’t
+tomorrow, or a decade from now if alternative
+energy sources don’t pan out as well as
+we’d hope.
+The time was decades ago, and it could have
+brought us much more prosperity and much less
+environmental harm.
+But because we missed a great chance then,
+doesn’t mean we shouldn’t adopt nuclear
+energy now, merely that we should take the
+opportunity while we have the chance for cheaper,
+cleaner sources of power.
+All that’s holding us back is our willingness
+to use it; we’ve never been cowards about
+dangerous technology, and shouldn’t let
+ourselves flinch from something as tiny as
+an atom.
+Something that probably represents one of
+the biggest background sources of resistance
+to nuclear power is just how much media we
+have showing post-apocalyptic wastelands,
+though they happen to make for some great
+fiction.
+From video games like Fallout, to classic
+pen and paper role playing games like RIFTS.
+Now odds are pretty good if you’re a channel
+regular you’ve watched or read a lot of
+scifi and fantasy, rattled around your fair
+share of 20-sided dice, and dreamed up some
+worlds or stories for your own amusement or
+possibly for a novel.
+A lot of the time, the hardest part of turning
+your ideas into a game or story is simply
+having a good worldbuilding toolset that lets
+you quickly create and easily organize all
+the ideas going through your head, and if
+you’re running an RPG, of making it easily
+accessible and clearly understandable to your
+players.
+That’s where World Anvil, the award-winning
+worldbuilding toolset, comes in.
+Over the years I’ve helped create settings
+for books, video games, and tons of RPGs,
+and World Anvil is that tool for creators
+I’ve always wished for.
+It’s quick and easy to learn, for you and
+your players, but has so many additional handy
+features, and has an amazing set of tutorials
+walking you through how to use them that also
+inspires you in many new ways to use them
+to improve your setting.
+World Anvil’s tools lets you quickly create
+settings and flush them out to very deep and
+interactive levels, everything from leaving
+notes on maps and smaller maps to alternate
+timeline tracking for your world’s history.
+Whether you’re managing a campaign or writing
+a novel, whether you’re making city or dungeon
+maps or family genealogies, whether it's scifi
+or fantasy genres, World Anvil lets you forge
+your setting better and easier than anything
+I’ve ever worked with before, and it has
+a free version so you can share it with others,
+and selectively, so they’re not seeing secret
+content.
+And you can also incorporate ways to monetize
+your content, such as Patreon or Kofi or your
+own storefront.
+World Anvil offers wikipedia-like articles
+for your world setting, interactive maps,
+timelines, an RPG Campaign Manager and a full
+Novel-Writing Software, all the tools you’ll
+need to run your RPG Campaign or write your
+novel, and never lose your notes again!
+If you’d like to give World Anvil a try
+and let it help you forge new worlds, just
+click the link in this episode’s description!
+So this wraps us up for today but we’re
+just getting started for August, and next
+week we’ll look at what the next space station
+after the ISS will be, before we have our
+mid-month Scifi Sunday episode: Alien Artifacts
+& Xenoarcheology, on August 15th.
+Then in two weeks we’ll look at Fusion Propulsion
+designs and concepts for Spaceships before
+closing the Month out by heading all the way
+out to the Edge of the Universe, on Thursday,
+August 26th, then we’ll have our Monthly
+Livestream Q&A on Sunday, August 29th at 4
+pm Eastern Time.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us iTunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

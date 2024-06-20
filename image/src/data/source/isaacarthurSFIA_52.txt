@@ -1,0 +1,846 @@
+Black holes are objects of mystery and 
+dread from which nothing can escape… but  
+could they also be the foundations of future 
+civilizations of unimaginable might and size. 
+Black holes are interesting objects that have 
+fascinated us both in science and science fiction,  
+but their portrayal in science fiction and 
+even often in science has tended to be flawed  
+and included a lot of misconceptions. 
+We’ll be clearing those up today as we  
+discuss technological applications we might 
+have with black holes and seeing how they  
+might be the centers of future civilizations – 
+metaphorically and even physically – not their  
+destroyers. Though we will also be examining 
+weapons based around black holes, including the  
+Quasar Cannon, Obhof Gun and black hole bomb.
+We need to start with the key misconception  
+though, and that’s the idea that black holes are 
+these invisible monsters that sneak up on you and  
+from which you can’t escape. In reality it's very 
+difficult to get sucked into one especially before  
+you notice it's there. Your typical black hole 
+is the leftover remnant of a star so big that it  
+stretched millions of miles across and would 
+be lethal to be anywhere within hundreds of  
+million miles of it. The kind of stars that put 
+out tens or even hundreds of thousands of times  
+more light than our own sun does. And yet a black 
+hole of, say, three solar masses, is 11 miles or  
+18 kilometers wide, very tiny compared to planets 
+or even moons, let alone the star that made them,  
+with a volume quadrillions of times higher.
+That monster may be tiny but it still has mass  
+and its gravity acts normally, so that the force 
+of gravity would be huge and stronger than Earth’s  
+surface once you got about 4 million miles or 
+6 million kilometers away. Indeed this is one  
+of our coolest features of a black hole, we could 
+build a shellworld around it of that radius and  
+terraform that and have an Earth-like planet with 
+that black hole at its core that had one million  
+times the surface area as Earth. A Mega-Earth, 
+as we discussed in our episode of that name. 
+And black holes of other sizes can exist with 
+these structures around them, and these might  
+range from black holes even bigger than the one in 
+our galactic center – what we call a Birch Planet,  
+down to one’s small enough to make a modest 
+asteroid have regular surface gravity,  
+a micro-planet. We’ll discuss those 
+more later but two quick notes. First,  
+as long as you want the same gravity, the surface 
+area of any sphere is going to be proportional to  
+its mass. Ten times the mass, ten times 
+the living area, a thousandth the mass,  
+a thousandth the living area. Your density 
+varies linearly if you do this though,  
+and is why point-like or near point-like objects 
+such as black holes are thought to be so handy in  
+this regard, forming the literal center of 
+your civilization. In the absence of them,  
+your shell worlds can only have Earth Like gravity 
+at roughly Earth Radius out to the mass of a  
+brown dwarf, which admittedly is still a very big 
+range offering some very big artificial planets. 
+Second, while this would be the literal center 
+of a very big civilization if built around a  
+natural black hole, we also mean this more 
+metaphorically, because they are essentially  
+the epitome of power generation. You get a high 
+fraction of mass energy conversion from them, and  
+you can use any fuel at all. Indeed you get better 
+results than by fusion, but it’s also something  
+you can do with leftover fusion byproducts like 
+helium that don’t have a lot of chemical uses. 
+In theory you could even use dark matter to 
+bulk up a black hole, and get power from it,  
+but this is a good place to discuss the difference 
+in how you get power from a black hole, as they  
+control how you can use one, how big of one you 
+want to use, and what you can use it for. This  
+episode isn’t meant to be focused on generating 
+power off of black holes but it’s fairly critical  
+to other applications and technologies 
+so we’ll go over them in modest detail. 
+Now there’s 5 techniques but essentially 
+they all work around two basic approaches:  
+gather energy from things ramming into each other 
+or heating up while falling in, and gather energy  
+from black holes directly. That last can cause 
+some head-scratching since a black hole is best  
+known for nothing being able to leave it, though 
+this is a misunderstanding. For instance, photons,  
+being particles of light, can’t escape from any 
+region of the black hole where its escape velocity  
+is equal to the speed of light or higher – the 
+event horizon is that boundary. On the other hand,  
+gravitons, the particle of gravity, also move 
+along at light speed and don’t have this issue,  
+since if they did there wouldn’t be any 
+gravity escaping it. Now that’s a bit  
+of over-simplification of how gravity and 
+general relativity work but that same sort  
+of over-simplification is how black holes get 
+ascribed their better-known misconceptions. 
+Right until the moment you hit that event horizon, 
+you are not trapped, and indeed you would simply  
+enter a normal orbit around one from which 
+you could easily break away. The thing is,  
+lots of other items will do this over time. 
+And the gravity the nearer you get to it is  
+increasingly harsh and tidal, so that an object 
+of any size might feel a stronger pull on the  
+part closer to the black hole and get shredded 
+by that. Your feet experience slightly more  
+gravity when you’re standing than your 
+head does, but it’s trivial. However,  
+if gravity was ten times higher at your feet than 
+your head you would definitely get injured badly  
+by that tidal force difference, and black holes 
+are even worse about this, indeed they can be so  
+sharp in force change near their boundaries 
+they can rip molecules or even atoms apart,  
+and this is sharper with smaller black holes.
+But even without that, this accumulating cloud  
+of objects will tend to collide occasionally and 
+generate a collision cascade like we consider with  
+orbital debris around Earth in Kessler Syndrome, 
+only far worse. This ends up being the accretion  
+disk around the black hole and it emits radiation, 
+which being above the event horizon can leave and  
+can be absorbed by us for power. By dumping matter 
+down toward a black hole, especially by having it  
+slightly offset so it wants to orbit, not fall 
+straight in, you’re feeding this process and  
+emitting radiation every time there’s a collision, 
+often at energies that would cause fusion too. 
+And this gives us one type of black hole power 
+generation, Accretion Disk Utilization, and a  
+very easy one to tap, indeed easier than most 
+modern power generation, and as we’ll see today,  
+while reaching a black hole or creating one 
+artificially might be technological difficult,  
+generating power off them mostly is not. In 
+this case, the accretion disk of a black hole,  
+consisting of material spiraling into it, heats 
+up due to friction and gravitational forces,  
+emitting radiation. Keep in mind that hot gas 
+around 6000 kelvin is what gives us sunlight,  
+so it’s not hard to tap, though most accretion 
+disk radiation is going to be vastly hotter,  
+tending to X-rays or Gamma-Rays.
+This radiation could potentially  
+be used as an energy source, though as it would 
+be in dangerous spectrums, you would either want  
+to surround it with more gas to absorb and emit 
+cooler wavelengths, much as the gas around our  
+sun’s fusing core does, or wrap it in something 
+like a big lead or Tungsten shell. Something  
+that can absorb gamma and get hot, and then you 
+can run a heat engine or a thermocouple off of  
+it. A ship in a higher orbit around a black hole 
+would probably want to extend a large thin sail  
+perpendicular to the pull of the black hole to 
+gain power this way. And there’s no need for total  
+enclosure of the black hole, any more than hanging 
+a solar panel over the Sun, you just might keep  
+scaling up till you got to that point.
+There’s nothing low-powered about this method but  
+it’s not your highest efficiency path either. It’s 
+simple and controllable. And often you would use  
+this method in tandem with others – and for that 
+matter the power harnessing aspect is often going  
+to be similar, which is to say, absorb high-energy 
+radiation and convert it into electricity. 
+We use this same approach with Magnetic Field 
+Exploitation. Black Holes spin incredibly fast,  
+and generate insanely powerful magnetic fields 
+assuming they have charge. So Black holes  
+with strong magnetic fields, particularly 
+those around some supermassive black holes,  
+could theoretically be used to generate power. 
+Similarly, ionized Gas and dust spiraling into  
+the black hole from that magnetic field at high 
+speeds can heat up and emit intense radiation,  
+which could potentially be harnessed. Again we’re 
+fundamentally talking about either a dynamo or  
+perhaps a stream of ionized particles flowing 
+down into that monster and power production  
+isn’t too difficult to explain as a concept.
+The Penrose Process is conceptually less simple  
+though a bit parallel, and since we’re 
+not going to touch on general relativity  
+or frame-dragging today beyond the basics, it 
+can be summarized as stealing spin energy from  
+a black hole. Proposed by Roger Penrose in 
+the 1960s, this method involves extracting  
+energy from the rotational energy of a rotating 
+black hole. Black holes usually have a large  
+percentage of their total energy as rotational 
+energy, often around 20%, and this rotation,  
+to put it in simple terms, gives you a region 
+around the black hole just outside the event  
+horizon that’s wider at the spinning equator than 
+the polar region. We call this the ergosphere. 
+The idea is to drop an object into the black 
+hole's ergosphere, the region outside the event  
+horizon where objects cannot remain in place. The 
+object would split into two, with one part falling  
+into the black hole and the other escaping 
+at a higher energy level than the original,  
+thus extracting energy from the black hole. Ergo 
+means ‘work’, and the erg is the lesser-known unit  
+of energy beside the joule, and this name was 
+chosen because you can dip things into it to  
+extract work from it, in a process that slows 
+the black hole's rotation just a little bit. 
+Generally, that’s a good thing, as for other 
+applications a non-spinning or slow-spinning  
+black hole is easier to work with, but if you 
+wanted to you could always do controlled drops  
+of matter to add more angular momentum. Akin to 
+this would be wrapping a black hole in mirrors  
+at a distance and sending beams down through the 
+ergosphere, where they can get amplified during  
+passage by stealing some of that rotational 
+energy. This is basically how a black hole  
+bomb works which will touch on more later.
+Our next one is Blandford-Znajek Process,  
+or BZ Process, which is another method of 
+getting at that buried rotational energy in  
+a black hole using similar physics to our 
+last two and tapping that ergosphere. The  
+black hole’s magnetic field lines passing 
+through the ergosphere become twisted due  
+to the black hole's rotation. This twisting is due 
+to frame-dragging, where the rotation of the black  
+hole drags space-time around with it, but again 
+we’re not going to dip into that in depth today.  
+Extraction of Rotational Energy is achieved 
+as the magnetic field lines twist, they can  
+tap into the rotational energy of the black hole.
+This energy is then transferred along the magnetic  
+field lines away from the black hole. Which 
+essentially means it spits out high-energy  
+particles and radiation, and you capture those. 
+The same will be true of our fifth process,  
+Hawking radiation, which we’ll get to in a moment, 
+but again the theme is that you send matter down  
+into the black hole and extract a percentage of 
+its energy in the process, usually a fraction of  
+what you dropped in there in terms of mass energy 
+but getting 20% of your mass energy back is pretty  
+good, given that stars usually convert much 
+less than 1%, and take very long times to do it. 
+Now the BZ Process is how we think quasars get 
+their energy and these are objects so bright  
+they outshine entire galaxies and by a heavy 
+margin. It’s a leading suspect for the process  
+behind gamma-ray bursts and importantly it is not 
+omni-directional, it blows out the poles in a bit  
+of beam. We don’t know for sure if this is the 
+mechanism for any of them, but it is considered  
+to be the most plausible explanation for the 
+immense energy output observed in quasars and  
+other active galactic nuclei. These are some 
+of the most luminous and energetic objects in  
+the universe, and it's believed that they are 
+powered by accreting supermassive black holes. 
+We know what’s happening but aren’t sure of 
+the mechanism, alternatively for our fifth  
+and final one, Hawking Radiation, we understand 
+the process very well but have essentially no  
+way to confirm it. This method is named after 
+Stephen Hawking and is, incidentally, what he’s  
+originally famous in physics circles for before 
+he got famous with everyone else, along with  
+him and Penrose’s work on black holes in general.
+Our inability to get experimental proof of Hawking  
+radiation is why he never got the Nobel Prize, 
+but the math and reasoning fits so perfectly  
+that it tends to be taken for granted that it's 
+correct, same as we don’t have experimental proof  
+of what's in the Sun’s core or Earth’s for that 
+matter. It’s also appropriate for our last type to  
+discuss as it is not expected to naturally occur 
+in any significant quantities for quintillions  
+of years after the last star burns out.
+As a quick caveat, I say ‘last’ but that’s  
+not including some stranger or more obscure 
+singularity methods allowed under various  
+theories and cosmologies. If you start throwing 
+in string theory, naked singularities, wormholes,  
+or extra dimensions, other options can arise.
+We’ve done entire episodes on explaining Hawking  
+Radiation and from different angles of attack, 
+and we’ll be examining the method more in a month,  
+so we’ll summarize here. All of space and 
+time is constantly frothing with new virtual  
+particles popping in and out of existence – see 
+our episode on Vacuum Energy & Zero Point Energy  
+for discussion of those mechanisms. Normally 
+this is as two opposite particles that almost  
+inevitably run into each other and annihilate. 
+Indeed, it’s been suggested that it's really the  
+same particle moving forward than backward for 
+a tiny instant of time, since a particle moving  
+backward in time looks and acts identical to its 
+antimatter twin in this interaction. The black  
+hole itself is not generating this energy, rather 
+it’s the extreme tidal force. Two particles pop  
+up near an event horizon, as they do everywhere 
+else all of the time, but here one of them is just  
+a bit closer to it and experiences a bit more 
+gravity, and gets pulled in while its partner  
+does not. It flies off, un-annihilated, and we 
+absorb it for power just like any other radiation. 
+Now the problem is that even a black hole doesn’t 
+have that much tidal difference nears its surface,  
+it might be so immense that as you fall into it 
+feet first your feet are experiencing millions of  
+g’s more force than your head and you get shredded 
+down to you atoms, spaghettified as it’s called,  
+but the math tells us this should still 
+be very rare. So rare that even a single  
+electron-positron pair having this break happen on 
+a 3 Solar Mass black hole’s event horizon should  
+occur only a few times in a billion years.
+Alternatively, the tidal forces on a black  
+hole a thousandth that mass are so high that 
+even though that event horizon is a thousandth  
+the diameter and millionth the surface area, 
+it will kick particles out a trillion times  
+faster per unit of area and at a total rate 
+million times more than its big brother. 
+It is not that the smaller one is 
+somehow making more virtual particles,  
+we expect this rate to be the same everywhere 
+in the universe, including inside you or I,  
+it’s that it’s much better at tearing them apart 
+to make one become real and permanent and the  
+other to fall into the black hole and reduce 
+its mass… the two have net zero energy so the  
+escaping one has to have positive energy while the 
+other must then be negative. These are ‘virtual’  
+particles so it is fair to think of them unreal if 
+you like, though ‘real’ is a pretty ambiguous and  
+head-ache causing concept in theoretical physics.
+In any event, this means the smaller a black hole  
+is, the faster it loses mass. Natural black 
+holes are utterly useless for generating  
+power off of by Hawking Radiation and will be for 
+next trillion-trillion-trillion-trillion-trillion  
+years, when the smallest natural black holes 
+created by supernovae or dead star mergers will  
+finally have trimmed down enough to be emitting 
+enough power to run a light bulb. The bigger  
+ones will take even longer. Now somewhere around 
+the trillion-trillion-trillion year mark, they  
+would be generating enough power we could actually 
+measure it with modern lab equipment and for that  
+reason you might be able to run post-biological 
+civilizations on them at that point as we examined  
+way back in our civilizations at the end of time 
+series in its first episode, black hole farming. 
+But Hawking Radiation Black Holes don’t get 
+interesting to us till they at least hit the  
+one watt range. Which they do at 1.89 x 
+10^16 kilograms, or just under 2000 gigatons,  
+the mass of a modest asteroid and about double the 
+mass of the larger Martian Moon, Phobos. And it  
+would keep emitting that one watt, slowly rising 
+with time, for around 10 Trillion-Trillion years,  
+a lot longer than the time in which stars will 
+exist. A 10 watt black hole, which is parallel  
+to the power requirements of a human brain, would 
+live 313 billion-trillion years and mass just 6  
+gigatons. Every time you raise the power output by 
+a factor of a hundred, lower the mass by a factor  
+of 10 and lifetime by a factor of a thousand.
+If you can make a black hole that’s less massive  
+than these, you’ve got yourself a serious power 
+plant, and the very nice spots are options like  
+a gigawatt, which masses just 5.97 x 10^11 
+kilograms, 597 megatons or less than a single  
+kilometer wide asteroid, or its mass equivalent 
+in hydrogen, and would keep pumping this power  
+out for 313 billion years, as long as all but the 
+most long-lived of stars. This only keeps rising,  
+and those in the 100 kiloton to one megaton range 
+start looking like awesome spaceship drives,  
+or power plants for entire civilizations. As a 
+reminder though, while a 1 megaton black hole  
+would live 1500 years, and easily power our whole 
+modern civilization, a 100 kiloton black hole  
+would live just a year and half, and growing 
+steadily brighter, so is probably something  
+you would only use on a spaceship as a booster 
+to get up to speed for an interstellar journey. 
+My friend Bob Fowler worked out a nice chart 
+of all the interesting sizes that I’ve got up  
+on the screen that I recently started using a 
+personal cheat sheet, and Viktor Toth’s Hawking  
+Radiation Calculator is available online for 
+anyone wanting to look up values on their own. 
+They are kind of safe as they can’t be made to 
+explode unexpectedly – unlike antimatter – but  
+they all presumably do explode in the 
+end as they get so low in mass. They’d  
+make interesting weapons since they would 
+carry huge amounts of energy in the space  
+of something smaller than an atomic nucleus, but 
+we looked at that more in weaponizing black holes. 
+I also have to admit that I am more than a bit 
+skeptical of any black hole functioning like  
+this under the subatomic size scale. We have no 
+proper theory of quantum gravity, which really  
+matters at this scale, and we have some heavy 
+disagreement in theory versus experimental data  
+about how much energy is sitting around in a 
+given chunk of space in the quantum foam or  
+if it could reach or exceed a Planck Temperature 
+– 10^32 Kelvin, and all of these objects radiate  
+like a black body of a given temperature, 
+which indeed is essentially the alternative  
+conceptual approach over virtual particles.
+We do have a possibility that black holes  
+were formed in the Big Bang and which would 
+not need to be of stellar mass, they’d have  
+a minimum lifetime of 13.8 billion years then 
+since they would have otherwise expired by now,  
+thus would have to be at least 200 megatons, 
+though since even these would still be bright  
+enough to radiate 8 gigawatts of power it would 
+seem likely they were either pretty rare or  
+more massive than that, otherwise we should be 
+able to detect them. They also would be able to  
+absorb more mass and energy from the area around 
+them which changes lifetime profiles a bit too. 
+But there could be some natural sources for black 
+holes in a useful mass for Hawking Radiation,  
+and ‘useful’ varies. If your goal is power a 
+personal space habitat with around a square  
+mile or kilometer of internal living area, then 
+anything in the gigawatt range works perfectly,  
+and you could do with a lot less, or simply 
+several of them supplying power instead of one. 
+To wrap up on Hawking Radiation black holes 
+though, they’re essentially not useful unless  
+you can make them and even options like 
+kugelblitz creation – which is focusing  
+huge amounts of photons into one place and 
+moment – get rather iffy. Bigger is easier,  
+and avoids feeding problems too. No black hole 
+useful for Hawking Radiation is bigger than an  
+atomic nuclei which makes stuffing matter into 
+them rather tricky. Again black holes aren’t magic  
+vacuum cleaners and one of these would fly right 
+through our planet without absorbing anything,  
+being slowed by anything, or damaging anything 
+except by radiation. That’s quite a smorgasbord  
+to bypass, so trying to carefully feed a 
+matter stream in as fuel is even harder. 
+Can we make a black hole? Yes, absolutely, unless 
+we’re just flat out wrong about their physics.  
+Can we make one smaller than stellar mass?
+Probably, and probably a lot smaller. But my  
+own hunch is that a hawking radiation scale one, 
+especially the sub-megaton power leviathans, is a  
+much harder lift and maybe impossible. There’s 
+a lot of ways you might do this. Shooting two  
+massive iron balls or skinny rods at each other 
+out of huge relativistic accelerators to slam into  
+each other is probably the simplest and basically 
+equivalent to how we did the old basic gun-style  
+nuclear devices, though scaled up. And by that 
+same reasoning, the trick of using explosives to  
+implode a device that we use for other nukes 
+would be a good approach. You surround a big  
+sphere of iron with nukes all set to detonate in 
+the same instant and this implosion is basically  
+replicating the effect inside a supernova.
+The kugelblitz approach of pouring energy  
+beams into one spot all at the same time works 
+too, its just that you probably need to be at  
+a bigger scale. Black holes, in terms of that 
+critical event horizon, grow much less dense as  
+they get more massive or bigger. Ten times 
+the mass, one hundred times less density,  
+and that density – or the density of stuff right 
+next to it as you try to cram it into form – is  
+the bottleneck for making one. You need to beat a 
+supernova. I expect this can be done and at many  
+orders of magnitude less for the total mass, 
+but how much less is probably impossible to  
+say right now. Or a very good topic for a paper or 
+thesis, so long as it is by someone other than me,  
+Einstein Field equations make my head hurt.
+In any event, I think it does open the door  
+to larger but sub-stellar artificial black holes 
+being a thing in the future. Which opens a lot of  
+doors for us too. If you can make one that you 
+can then feed up bigger on hydrogen and helium,  
+then you can stop feeding it when it gets to 
+your preferred mass. Or slow the feeding to  
+keep it there if there was any significant 
+Hawking Radiation leakage. Or you might keep  
+feeding it to generate power, and as quick note, 
+if you just want to add mass, you aim your beam  
+right on target, you try to miss by a hair for 
+power generation. In terms of why you might want  
+to do this, if you manufacture black holes, by 
+dumping mass in, then generating power slows how  
+fast you can make them since you need to otherwise 
+dissipate that energy as fast as you make it which  
+again is a small but decent fraction of that 
+thing’s total mass energy. And again we’ll be  
+looking more at Kugelblitz Black Holes next month.
+Beyond the power implications it's your  
+gold-standard for decent gravity when terraforming 
+as an alternative to spin-gravity. You can pop  
+a micro-black hole into the center 
+of some asteroid and call it home,  
+indeed an artificial gravity generator on an 
+asteroid was the situation in the short story,  
+Collision Orbit by Jack Williamson, that coined 
+the term terraforming. As we’ve already discussed  
+black holes are not monstrous planet eaters – 
+with the exception of the Obhof Gun which we’ll  
+get to later - and you could keep one inside 
+a sturdy metal shell, contained by magnets to  
+keep it from drifting – you can move a black 
+hole with magnets too, obviously touching one  
+with anything made of matter is not a great plan. 
+That shell has to be able to handle the pressure  
+of whatever mass is sitting on top of fit and 
+now experiencing higher gravity but normal earth  
+gravity dragging a hundred meters of asteroid 
+regolith down is not hard to engineer around. 
+For bigger cases, like trying to give Mars or 
+the Moon Earth-like gravity – you would need  
+to use active support, orbital rings or atlas 
+pillars – see the Megastructure Compendium for  
+details on how those work but they do take power 
+and conveniently you have a handy power supply  
+right there. Incidentally, no, that would not 
+make the Moon or Mars the same Mass as Earth,  
+it scales with surface area, so Mars would need 
+about 38% of Earth’s mass for Earth-like gravity,  
+and the Moon 7.4%, and in both cases 
+minus they’re existing mass. The cool  
+thing is that it can be any available matter, 
+so hydrogen or helium from Jupiter would work. 
+We discussed this in more detail in the 
+episode Moon: Mega City, but one parallel  
+tech we discussed there was using lots of smaller 
+black holes in something like 2D hexagonal layout,  
+again anchored magnetically, to create a flat 
+surface with gravity. I can’t ever imagine using  
+this on a spaceship, but for space stations, or 
+even for an inhabited spaceport on a smaller body,  
+where you just wanted higher gravity in that 
+area, it is an option. In theory you can  
+expand this flat plane trick in scale to create 
+something like a stasis field or slow time region,  
+as black holes do slow time but only the truly 
+enormous ones do so to any useful degree in a  
+way that wouldn’t utterly shred anything bigger 
+than a particle left inside it. Two even and  
+flat planes could allow a uniform region inside.
+I don’t view black holes as particularly useful  
+for their time-distortion effects though, any more 
+than their potential usage as a heat dump to get  
+around some cooling issues mega-civilization 
+have. Breaking thermodynamics with a black  
+hole is dubious, we don’t understand the 
+physics of that well enough to say no for  
+sure but that’s basically the situation, 
+we don’t think so but can’t utterly rule  
+it out. Same for hiding your civilization by 
+dumping your waste heat into a black hole,  
+even if you could get 99% of your waste heat down 
+into the thing, that’s not making you invisible,  
+just dimmer, visible to the same instruments 
+at a tenth the previous distance. As usual for  
+Fermi Paradox scenarios, since you presumably 
+only hide from bigger and older civilizations  
+who could plausibly threaten you, you are trying 
+to hide from someone who already knows you exist  
+and knows the trick you’re trying to use.
+Plus, fundamentally, these objects are  
+not stealthy even when truly dark because they 
+generate tons of gravity, and more importantly,  
+they represent some of the most valuable 
+real estate in all the cosmos so it’s not  
+exactly a good hiding place as everyone 
+should want to visit it all of the time,  
+and use it to power their civilizations. It’s 
+like hiding your empire in a fertile river delta. 
+You can absolutely use a natural black hole 
+as a power supply by those other 4 methods  
+we discussed earlier. You can use them as 
+gravitational slingshots, especially in pairs,  
+to speed ships up to a decent fraction of 
+light speed or slow them down too. This  
+means they can be hubs for interstellar 
+travel at a galactic scale. But there’s  
+only around 100 million of them in this galaxy, 
+possibly much less from mergers and ejections,  
+which means each would be servicing a region 
+of space on an order of 10,000 star systems,  
+even assuming they were evenly distributed 
+galaxy wide which they are not likely to be. 
+Black holes are probably ejected at high 
+speed from the galaxy a lot and incidentally  
+even stellar sized ones make good intergalactic 
+spaceships, and we explored some of those starship  
+drives, the kind used for moving actual stars, 
+in our episode Fleet of Stars. In this way you  
+can dump matter into them as fuel and propellant 
+and push them toward a new galaxy to colonize  
+and use them to sustain you till you arrive, 
+and tow other stars with you too if you want. 
+But they also would make for some awesome galactic 
+sector hubs. And as we’ve discussed before,  
+if you’re using them to help add or subtract a ton 
+of speed beyond what your other spaceship drives  
+allow, they’re likely to be where the first colony 
+ship for a given piece of the galaxy arrives. So  
+they are in a position to become a de facto first 
+settlement and sector capital. And thousands of  
+star systems is quite the interstellar 
+empire and a plausible one to maintain.  
+That’s likely to be no more than a century or 
+two of light lag for communication and that at  
+least puts a unified civilization on the table 
+as believable. Especially since that black hole  
+represents a massive asset, no pun intended, 
+and that system would be in a good position  
+to keep its neighbors in its proverbial orbit.
+Given that it could build a spherical shell with  
+more living area than a Dyson Swarm, and possibly 
+with multiple levels, it definitely has the  
+population density aspect suitable for a galactic 
+metropolis or capital. For a true galactic  
+capital, or a place to collapse a galaxy into so 
+as to avoid light lag, we have Birch planets, the  
+bigger version of these that might being millions 
+to even hundreds of billions of solar masses,  
+and which one of these days I need to give its 
+own episode, but let’s stick to assuming natural  
+black holes in the ‘small’ stellar mass 
+range or at most intermediate hundreds to  
+thousands of stellar masses range for today.
+Black holes at this scale can be used as  
+power supplies, the centers of shell worlds or 
+huge habitation rings, and industrial titans,  
+including possibly the ability to take matter 
+streams and send them in like a supercollider  
+to make heavier elements out of hydrogen 
+or helium. I think a lot of these might be  
+possible on paper and harder or even impossible 
+in real engineering but they will represent huge  
+strategic and logistical advantages, and if 
+they were the first place settled in a region,  
+likely a historical and traditional ones too.
+But they also represent huge weapon platforms.  
+You’ve probably heard of the black hole bomb, and 
+you can get more details on that in the video by  
+Kurzegesagt that introduced it but the key aspect 
+is superradiant scattering. You put mirrors up  
+around the black hole and start bouncing light 
+beams through that ergosphere, and they pick  
+up energy every time they go through. Since we do 
+not have any materials able to reflect gamma rays,  
+that’s as far as this amplification can go, 
+but I can see this being used as both a power  
+supply and a beam enhancement method.
+Obviously blowing up your black hole,  
+or rather the area around it, is not something 
+you want to do and would not be something  
+done by simple sabotage, so this specific 
+approach, if you had gamma reflective mirrors,  
+would probably be limited to a deadman switch. If 
+you invade us and win too well we’ll set this off…  
+which I can see being used as a strategy in truly 
+ancient post-stellar civilizations to discourage  
+attempts to steal their resources in an era 
+where there is none left to find anywhere else. 
+We shouldn’t rule out gamma reflective mirrors 
+being possible, and their existence would make  
+any number of technologies, including artificial 
+black hole creation and usage, way easier. 
+The same applies for anything that lets us reflect 
+or contain dark matter, and that’s your ideal  
+feedstock for black holes if you manipulate it 
+since it has no other interactions but gravity  
+and no obvious purpose but producing it. However, 
+it won’t fall into black holes as easily as it  
+doesn’t interact with other matter and won’t 
+slam into other things in an accretion disk. 
+But getting back to dominating an interstellar 
+empire, your big weapon you can do and which  
+makes a natural black hole a military powerhouse 
+is the quasar cannon. This thing makes the death  
+star or a Nicoll-Dyson Beam look weak and 
+I don’t think you’d ever use a full powered  
+version on a black hole that was your civilization 
+center. You are setting off an artificial quasar,  
+at some scale or another, and these emerge along 
+poles so you can aim it like a cannon and also  
+probably focus that beam further with magnets. You 
+might use this as a very powerful pushing beam to  
+accelerate immense ships to ultra-relativistic 
+speeds. Used in a strictly weaponized form,  
+this is an apocalyptic device that you 
+could use for taking out whole galaxies. 
+The Obhof Gun is a particular variation of 
+this and actually the inspiration for the  
+Quasar Cannon and the short video I did on 
+it last year. A friend of mine, Larry Obhof,  
+had inquired about planets getting eaten by black 
+holes and it got my brain chugging along on the  
+concept and initially I was thinking of this 
+one graphic I often use where it show a planet  
+falling into some huge black hole – in practice 
+black holes are much smaller than planets, except  
+the really big ones at galactic cores, and the 
+Obhof Gun in my head is the scenario where you’re  
+feeding planets into one of these monsters like 
+shotgun shells. Each blast coming out is somewhere  
+on an order of 10^41 joules to thousands of times 
+that for big gas giants, and that’s a directed  
+supernova coming out of your metaphorical shotgun. 
+Even the low yield version is pumping out a  
+billion times the energy needed to vaporize Earth.
+I’m not sure what you would aim that weapon at,  
+Cthulhu’s big brother maybe, and it’s the power 
+range of gamma ray bursts and quasar bursts so it  
+is something that naturally occurs… and of course 
+there might be civilizations out there needing to  
+build these things too. The extreme version 
+of this would be chucking in not planets but  
+white dwarfs or neutron stars, which are far more 
+massive and compact and might make better bullets. 
+As terrifying a weapon as that sounds, it is 
+fundamentally a big energy blast, so you might be  
+using it power something or move something – like 
+a galaxy – and I don’t know what sort of thing  
+might be needed for drilling into other dimensions 
+or alternate universes if they exist, or firing  
+up new big bangs to make pocket universes, but 
+this might be the kind of scale of device needed,  
+something able to machinegun out hypernova blasts.
+And that’s a good one to end on for today, because  
+for all the talk about power and destruction, we 
+have seen a lot of constructive and creative uses  
+of black holes in our discussion. And yet, one 
+of their most popular applications in theoretical  
+discussion is the possibility of creating new 
+Universes, with some theories suggesting a new  
+big bang is set off in some unreachable place 
+every time a black hole forms. It might be  
+that black holes aren't made in order to create 
+great civilizations here, but to create whole  
+new universes somewhere else. But as I said 
+at the beginning, for all that they're seen  
+as the embodiment of ruin and destruction, 
+and can indeed be unleashed to that end,  
+the true value of black holes is to empower 
+civilizations and function as engines of creation.
+We discussed some very big megastructures 
+today that we might be able to build with  
+certain advanced technologies, but there’s 
+one megastructure that’s among the very  
+largest that could be built with simple modern 
+materials and technology, called the Topopolis,  
+a rotating habitat that’s no wider than 
+an O’Neill Cylinder but can be any length  
+you desire. In this month’s Nebula Exclusive 
+Topopolis: The Eternal River, we explored these  
+megastructures whose interior landscape might 
+stretch out like some enormous river valley  
+the entire distance of thousands or even millions 
+of miles. Join us in journey down a river so long  
+it traces out a thousand worlds as we explore 
+a megastructure buildable with known science  
+and materials but of unbelievable proportions.
+And again, that’s out now exclusively on Nebula,  
+our streaming service, where you can also see 
+every regular episode of SFIA a few days early  
+and ad free, as well as our other bonus content, 
+including extended editions of many episodes,  
+and more Nebula Exclusives like last month’s 
+look at Giant Space Monsters, December’s  
+episode The Fermi Paradox: Hermit Shoplifter 
+Hypothesis, Ultra-Relativistic Spaceships,  
+Dark Stars at the Beginning of Time, Life As 
+An Asteroid Miner, Nomadic Miners on the Moon,  
+Space Freighters, Retrocausality, Orch Or & 
+Free Will, Colonizing Binary Stars, and more. 
+Nebula has tons of great content 
+from an ever-growing community of  
+creators. Using my link and discount it’s 
+available now for just over $2.50 a month,  
+less than the price of the drink or 
+snack you might have been enjoying  
+during the episode.
+When you sign up at my  
+link, https://go.nebula.tv/isaacarthur and use my 
+code, isaacarthur, you not only get access to all  
+of the great stuff Nebula offers, like Topopolis: 
+The Eternal River, you’ll also be directly  
+supporting this show. Again, to see SFIA early, 
+ad free, and with all the exclusive bonus content,  
+go to https://go.nebula.tv/isaacarthur
+As we explored today, with artificial gravity  
+provided by a black hole we could potentially 
+settle planets which were much smaller than Earth,  
+and that would include our own Moon, but you 
+might not need that technology to terraform  
+our moon. Next week, on February 22nd we’ll ask 
+if it is possible to terraform the moon to have  
+green lands, blues seas, and white clouds, just 
+like Earth, and then visit the topic of Vacuum  
+Trains and other hyperfast transit systems on 
+Sunday February 25th, before finishing the month  
+on February 29th, as we leap into the topic of 
+life on colony ark ship carrying people to new  
+worlds that will carry us ahead into this leap 
+year and into March, where we’ll head back to  
+the dawn of time for a look at Primordial Planets.
+If you’d like to get alerts when those and other  
+episodes come out, make sure to hit the like, 
+subscribe, and notification buttons. You can  
+also help support the show on Patreon, and if 
+you’d like to donate or help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early and 
+ad free on our streaming service, Nebula,  
+along with hours of bonus content like Topopolis: 
+The Eternal River, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

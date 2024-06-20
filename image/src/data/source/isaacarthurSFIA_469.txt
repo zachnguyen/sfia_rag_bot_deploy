@@ -1,0 +1,549 @@
+This episode is sponsored by Brilliant
+Probably one of the most paradigm-shifting
+concepts leading into the modern era of science
+is that we are not special or terribly unique
+here on Earth, but merely one fairly hum-drum species
+on a mediocre world among the countless trillions in the void…
+but what if that’s
+the wrong perspective?
+So today we’ll be looking at Boltzmann Brains,
+the Anthropic Principle, the Simulation Hypothesis,
+and Consciousness.
+This is part 2 of a collaboration with Jade
+from Up and Atom, so if you’re coming over
+from her channel, welcome, and for channel
+regulars, you should watch part 1 on her channel
+first, where the Boltzmann Brain gets explained,
+then watch this one, and you can find part
+1 linked in the video description or the in-video
+card.
+Quick summary version though, improbable but
+possible events will tend to happen given
+enough time or space.
+Flip a coin enough times and you’ll get
+heads ten times in a row, shuffle a deck of
+cards enough times and in spite of randomizing
+it each shuffle, you’ll return it to some
+more ordered state eventually, like all the
+cards in numerical order.
+Look at enough collections of matter and you’ll
+find something that’s randomly assembled
+into a seemingly artificial grouping, like
+the basic building blocks of proto-life, or
+a computer chip or a brain or even an entire
+galaxy.
+Needless to say, things which are less improbable
+will be more likely to occur and should be
+more frequent, and in Ludwig Boltzmann’s
+time, the late 19th century, we assumed the
+Universe was probably an infinite and eternal
+place in which anything which could happen
+should happen, though again the more likely
+it was to happen the more often we’d see
+it.
+Thus a randomly assembled brain would be more
+common than a randomly assembled galaxy.
+Or a randomly assembled Universe, which is
+a notion still often kicked around as a possible
+cause for our own Universe appearing in a
+Big Bang, a low entropy state slowly rising
+in entropy as the Universe expand and decays.
+The thought that perhaps our Universe simply
+emerged from some random fluctuation, not
+very different than shuffling a deck of cards
+back into order, though vastly more improbable.[a][b]
+We examine this notion more in part 1, and
+our main interest now is in considering some
+of the possibilities it implies.
+To look at those we first have to consider
+the Anthropic Principle, which is itself a
+fairly difficult concept to cover for a variety
+of reasons.
+First it is a somewhat tricky concept.
+Second, the popular examples people use tend
+to really predispose people to dislike the
+solutions, and thus the method of reasoning.
+And third, there’s no rigorous definition
+of what it is.
+In a way, it’s not a tricky concept at all,
+it’s basically the exact opposite of the
+Copernican or Mediocrity Principle, and is
+an example of a starting point you use for
+looking at situations when you have virtually
+no evidence to work with and no obvious way
+of getting more anytime soon.
+Its examples tend to include cases where it’s
+basically impossible to get more data at this
+time too, which results in examples that set
+many people’s teeth on edge in my experience.
+What is the Mediocrity Principle?
+Well you know that one, it’s a cornerstone
+of science.
+If we have only one or only a few examples
+of something, we choose to assume they’re
+pretty normal examples until we have evidence
+otherwise.
+Often they aren’t normal, but it helps to
+start from this case.
+Hence we tend to assume Earth or Humans are
+fairly common examples of habitable planets
+or technological civilizations.
+Hence the Copernican Principle, Earth is not
+the center of the Universe and is probably
+fairly mundane, or mediocre, and thus the
+generalized version, the Mediocrity Principle.
+Of course often the first example of something
+we see is not particularly normal, and not
+just as an outlier of chance, that first alien
+you ever met was fairly tall or short for
+their species for instance.
+Someone watching Earth having come across
+it might catch our broadcasts of basketball
+games and assume humans were quite taller
+than our average.
+Frequently the first example of something
+you’re going to encounter is an outlier,
+not by chance, but for the reason you’re
+encountering them first.
+This is how we ended up dubbing our Sun a
+Yellow Dwarf originally, even though it’s
+much brighter and more massive than average,
+because it is far easier to see the more massive
+and bright stars so we thought they were normal
+first.
+What’s more, you can have cases where simply
+by being able to observe something you represent
+a skew on the normal.
+We’re not talking about normal observer
+bias here, but the kind where your odds of
+being there to see something are altered by
+you existing.
+Now this often sounds a bit arcane and many
+examples of it don’t help, but you think
+about problems this way all the time, same
+as the Mediocrity Principle.
+You routinely encounter stuff and figure it’s
+probably a mediocre and common example of
+that stuff till you get more examples.
+But you also assume you observing it is probably
+impacted by you, for instance it’s not going
+to surprise anyone watching this video if
+they go into the comments and see a lot of
+generally geeky comments on science, math,
+or science fiction and you are probably watching
+this, observing this, because you have such
+interests too.
+You might be here randomly but even then this
+probably got recommended to you because your
+prior watch and search habits indicated an
+interest along those lines.
+Not a random observer, and it affected what
+you could see.
+Same, if you woke up with amnesia in a room
+full of people wearing the same clothes, you
+could assume via the Mediocrity Principle
+that most people wore that garb, like business
+suits or t-shirt and jeans for instance, or
+you might assume you saw that first as an
+outlier appropriate to your observation, like
+doctors and nurses in scrubs as you had a
+head injury.
+Or you might glance down and notice you wore
+the same thing, like a jersey or military
+uniform, you banged your head doing drills
+and you are observing them in this garb because
+you, as an observer, are just much more likely
+to be in their particular company.
+These are all valid approaches to looking
+at situations when you have virtually no evidence
+on hand.
+Now I mentioned that another problem with
+the Anthropic Principle is that it doesn’t
+have an exact definition, one of the more
+famous thinkers on this topic, Nick Bostrom,
+noted around 30 fairly distinct versions when
+looking into the matter and added his own
+too, the Simulation Hypothesis, one familiar
+already to channel regulars.
+Another, and the one where the term was first
+used, was Brandon Carter’s Doomsday Argument,
+and this version often is called the Weak
+Anthropic Principle, though he’s since remarked
+that he wished he’d called it the Observer
+or Egocentric Principle instead, and as you’ve
+probably noted those are maybe better than
+the Anthropic Principle since they more generally
+speak to what it is, an assumption when looking
+at a situation that you’re not some random
+observer of an event that’s probably normal
+or mediocre as such events go, but are focused
+more on why you are seeing that event.
+We looked at the Doomsday Argument some years
+back and you can catch that episode for the
+details.
+The third well known version is the Fine-Tuned
+Universe theory, popularized by Cosmologists
+John Barrow and Frank Tipler in their book
+the Anthropic Cosmological Principle, and
+along with the Simulation Hypothesis are our
+two of interest in regard to Boltzmann Brains
+today.
+I mentioned that these examples often stir
+a bit of dislike and argument in folks when
+trying to learn the concept, and the reasons
+are pretty obvious, while the Doomsday argument,
+Simulation Hypothesis, and Fine-Tuned Universe
+theory are great examples for generating discussion
+of the topic since, they may be summed up
+in order as basically arguing Humanity is
+mathematically doomed, if Reality is actually
+real, and if there is a God.
+Shockingly these topics sometimes touch a
+nerve.
+For Simulation Hypothesis the reasoning is
+pretty simple, and often misstated in discussion
+of it, Simulation Hypothesis is not the idea
+that you might live in a false reality, but
+rather that you might live in a specific type,
+an Ancestor Simulation.
+Which is where the simulators are specifically
+running their own history or a version of
+it, like if we ran a simulation where a war
+ended differently or a piece of technology
+got invented sooner or later or more personally,
+if your parents had moved to a different town
+when you were young or so on.
+Those are ancestor simulations and one of
+the reasons that distinction is important
+is because it implies the rules of your reality
+actually match up to the layer above simulating
+it.
+It’s not very likely they’d have changed
+the basic rules of how the Universe operated,
+or maybe at most tweaked one a little bit,
+and so studying the Universe around you is
+actually helpful even though it’s fake.
+Maybe the Moon Landings happened a decade
+later and by a different country, but the
+Moon still orbits the Earth and for the same
+reasons.
+That’s not a requirement of a simulation,
+and if you’ve played games where you can
+walk off one side of the screen and pop out
+the other, that’s an example of playing
+with the basic physics, that Universe circles
+around on itself and isn’t a flat plane.
+More on that in a moment, and if you want
+more on the Simulation Hypothesis we’ve
+got episodes looking at it, but one key bit
+of it is the Principle of Indifference.
+Yeah, lots of Principles today.
+The Principle of Indifference, or Principle
+of Insufficient Reason, is another of those
+approaches to making guesses and decisions
+when you know basically nothing.
+You assume if you have a handful of options,
+all reasonably plausible, but without anything
+to let you argue decisively that one is more
+likely than another, you just assume for now
+that they are equally likely.
+For Simulation Hypothesis we assume 3 reasonable
+scenarios.
+First, that nobody does these ancestor simulations
+because they are impossible or you wipe yourself
+out before you can do them.
+Second, that nobody does them because they
+are impractical or undesirable or illegal,
+but that you can do them if you want, and
+third, that they can be done and get done
+a lot, so much so that the vast majority of
+21st century Earth’s are actually Ancestor
+Simulations run from sometime ahead in the
+future.
+You’ll often be told odds about us being
+in a simulation or not, but by this reasoning,
+it’s 33%, or just under a third, because
+one third is option 1, the other third is
+option 2, and in option 3, even if there are
+many more simulations than real universes,
+there’s still a finite chance you’re in
+the real deal, so just under a third.
+Obviously those three options aren’t going
+to be equal in probability, but we have no
+way at this time of knowing what those odds
+actually are.
+Again see those episodes for further discussion.
+This of course is not the only type of simulated
+Universe you can do, you can change the fundamental
+physical rules, and presumably you could for
+instance set the speed of light in a simulated
+Universe to any value higher or lower than
+what ours is.
+There being an awful lot of numbers you basically
+have a vast number of unique potential universes
+you could generate this way, and there are
+other physical constants and parameters you
+could tweak too, either individually or in
+combination.
+Needless to say, there could also be a large
+number of other real universes with different
+physical properties too, one of the examples
+of the Multiverse notion.
+As best as we can tell – currently - there
+is no particular reason why the physical constants
+of our Universe are the values they are, so
+we assume they could have been different.
+And as best as we can tell most of these values
+do not allow intelligent life to arise via
+evolution.
+Higher gravity, stars form and burn out too
+quickly for planets to have time for evolution,
+that sort of thing.
+If this is the case, that these constants
+can be over a huge range, the overwhelmingly
+majority of which can’t have life in them,
+well, you’ve got a bit of problem.
+The Universe would seem to be fine-tuned for
+life.
+You can assume we just got lucky or you can
+assume no such thing, that the Universe is
+artificial, fine-tuned, divinely created or
+simulated, take your pick.
+The alternative is obvious by now, that this
+Universe is indeed improbable, but that there
+are a bunch of other ones, not just ours,
+and most are indeed dead but since nobody
+is there to observe them, their probability
+of existing is not puzzling anyone.
+There is no evidence supporting any of the
+options incidentally, and they’re all pretty
+logically coherent, so feel free to pick the
+one that suits your tastes.
+It’s very handy for discussing the concept
+of drawing conclusions and making decisions
+with very little data for that reason.
+Now, this basic analysis of Dead Universes
+is off the notion of life evolving from something
+pretty simple into something much more complex,
+and as we’ve noted, a Boltzmann Brain is
+statistically far less probable – in a Universe
+with our characteristics – than an evolving
+one should be.
+Other rules, other probabilities, and it’s
+very easy to come up with a Universe where
+as improbable as a Boltzmann Brian is, it’s
+still more likely than Darwin’s Approach
+because the latter just won’t work there,
+whereas Boltzmann Brains can pretty much work
+anywhere.
+You could have a place where an entire Universe
+blew into a supercomputer and the machinery
+and fuel to run it randomly as soon as the
+place cooled enough to operate.
+You could have one where gravity was just
+super weak and everything meandered around
+in a stew until falling into patterns, and
+only those really big and complex ones could
+really sustain themselves long enough to do
+anything.
+Even in some Universe where gravity is so
+strong virtually everything turns into black
+holes almost right away, black holes could
+be used as a switch and so you can create
+a computer that way and so over a long enough
+time line – and black holes live a long
+time – you might expect a Boltzmann Brain
+to emerge made of the things.
+Critical notion, these dead universes may
+out number universes like ours by so much
+that the number of Universes in which one
+has popped up exceeds the ones where it evolved.[c][d]
+So such minds might be far more numerous than
+seemingly natural ones like ours.
+As we noted though, the Simulation Hypothesis
+only focuses on Ancestor Simulations because
+you can still meaningfully talk about the
+higher simulating layer if you’re assuming
+it works on the same principles.
+Needless to say some mind that just popped
+out of nowhere, a new conscious surrounded
+by the empty waste of eternity, or living
+in utter sensory deprivation because it didn’t
+come with any eyes or ears, is not going to
+be simulating us as an ancestor simulation.
+Even if it knows about the Universe it lives
+in and the rules it has, which is hardly guaranteed,
+simulating 21st century Earth as part of its
+past clearly doesn’t work logically.
+Which would seem to end the idea except here
+we have some mind, essentially dreaming away
+in the void.
+Possibly it’s a more or less human mind,
+possibly it’s some giant megacomputer like
+a Matrioshka Brain.
+Either way, its sanity would seem rather dubious.
+We can’t really assume that just because
+it was born blind and deaf and alone it’s
+naturally okay with those circumstances.
+We have a conscious mind shaped by evolution
+– presumably – so all our abstract thinking
+had to make some sort of survival sense and
+requires a certain basic level of sanity in
+one’s natural environment, for a given value
+of sanity.
+It does not, it didn’t evolve, it doesn’t
+have any predators, but it has, by random
+luck, achieved consciousness.
+Ponder that for a moment or two and you can
+guess that this lone mind in the void is probably
+as mad as a hatter, if the randomly assembled
+brain was anything even vaguely like ours,
+which of course at least some would have to
+be by random luck.
+It would be very easy for something like that
+to dream up a reality – either a world of
+people or just you, and indeed the ‘just
+you’ option is a lot more likely since as
+we noted at the beginning, a smaller Boltzmann
+Brain, one just smart enough to be of human
+intellect, is way more probable than one that
+could do a whole simulated civilization or
+Universe.
+Though it’s worth noting such a mind need
+not be static and incapable of growth, just
+because it wasn’t evolved.
+The random luck that created it probably need
+to randomly give it fuel and repair options
+or it will be a pretty short-lived intellect,
+which might permit growth and mutation too.[e][f]
+Regardless, I doubt most of us really have
+to stretch our imagination too much to contemplate
+the notion that we might live in some world
+we dreamed up as a delusion.
+Incidentally it doesn’t actually matter
+that rules of this Universe would imply life
+was likely – since they’d presumably be
+self-rationalized anyway – or that the entire
+premise of this is based off assuming other
+universes exist that have different rules
+by having seen inconsistencies in our own,
+Fine-Tuning.
+Because the premise doesn’t come from that,
+ignoring that it’s an old idea, that we’re
+dreaming reality, it requires no empirical
+evidence to assume your universe has rules
+and that there may be other places with different
+rules.
+It merely requires you believe that there
+are rules to your reality, even if they are
+wrong or made up.
+Again it’s not an ancestor simulation, so
+we couldn’t assume the real rules were anything
+like what we saw, but that hardly prevents
+us considering that there may be other places
+with different rules.
+In the broadest sense, if any place can exist,
+then you’d have places like our apparent
+reality where life evolved just like we think
+it did, ones where human-level minds, while
+improbable, popped out of nowhere first because
+evolution couldn’t really work there, and
+ones where giant megaminds popped into being
+and dreamed us all up.
+Obviously hard to figure out which of these
+scenarios is more probable but none should
+be impossible so at a minimum we can’t rule
+out that there’s a finite probability you
+or I are actually in any of these versions.
+Boltzmann Brains dreaming up everyone and
+dreaming up rules too, without knowing either
+or forcing yourself to forget things, which
+would require you be really nuts, like some
+sort of person left on their own in a dark
+prison cell for years.
+If you haven’t already seen Part 1 you can
+check that out for a discussion of why a Boltzmann
+Brain, in spite of being very improbable in
+our Universe compared to evolved intelligence,
+might be fairly probable or even more probable
+in a grand multiverse sense of things.
+Alternatively, we can’t assume it is more
+improbable anyway since if we lived in one,
+or were one, our observations about this natural
+Universe mean nothing anyway, again, not an
+Ancestor Simulation.
+This, by the way, is why I often say the big
+question probably isn’t whether or not reality
+is real but if it actually matters if it is
+or we’re just being a bit arbitrary about
+what ‘real’ means.
+Anyway the most probable Boltzmann Brain would
+be a single simple intelligence, just one
+smart enough to think about such things as
+abstract concepts like this, and if you were
+one of those than you’d have to assume we’re
+made up voices in your head.
+… and you’d have to be crazy to dream
+this stuff up, right?
+A theme we’ve had in today episodes is that
+our common approach to modern science is to
+assume that all we witness is fairly random
+and ordinary, that our ability to observe
+it is coincidental.
+We talked today about how that’s not always
+the best approach, but it has generally been
+a very good way to go about learning how our
+world and the Universe in general function,
+and that’s been a very useful and profitable
+set of knowledge for humanity to acquire,
+as a group and individually.
+Understanding math and science is just plain
+handy, but it’s also a lot of fun to know
+and having fun while you learn it is also
+the best approach.
+If you want to learn more math and science,
+and have fun while you’re doing it, try
+out Brilliant.
+Their online interactive math, science, and
+computer science courses and daily challenges
+let you enhance your knowledge of math and
+science with easy to learn interactive methods
+from the comfort of your own home and at your
+own pace.
+To make it even easier, Brilliant now lets
+you download any of their dozens of interactive
+courses through the mobile app, and you'll
+be able to solve fascinating problems in math,
+science, and computer science no matter where
+you are, or how spotty your internet connection.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+We have our regular Thursday episode coming
+up, and for that we’ll be back in the Alien
+Civilization series to take a look at the
+general methods and motivations for an alien
+invasion, be it overt or covert, and try to
+reason why a hypothetical alien civ might
+or might not do such thing, in Invasive Aliens.
+Then we’ll have our usual end of the month
+livestream after to close out July before
+heading into August to look at some examples
+of other threats to Interplanetary or Interstellar
+Civilizations, from natural to artificial,
+internal or external or existential.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And don’t forget to check out part 1 over
+on Jade’s channel, Up and Atom, or any of
+her other awesome episodes.
+Until next time, thanks for watching, and
+have a Great Week!

@@ -1,0 +1,745 @@
+So you are at a Base on the Moon when you
+get the phone call from back home on Earth
+saying there’s been a disaster and no new
+supplies will be arriving anymore.
+What do you do?
+Today we are going to be discussing Life Support,
+how we keep people alive in places we didn’t
+evolve to survive in.
+Space is a pitiless place that is full of
+stuff that will kill us and devoid of the
+stuff we need to live.
+Science Fiction makes a lot of mistakes about
+what can kill you in space, how quickly it
+can do it, and how hard or easy a given risk
+is to deal with.
+But it tends to get the overall concept correct.
+Space will kill you.
+To survive in space we need to consider everything
+a person needs to live, and we can rank those
+in order of urgency, but there are two we
+will skip which are also the most important
+resources in any survival situation.
+Which is knowledge and the will to survive.
+The former seems kind of obvious and the latter
+a bit jingoistic, but there is a reason why
+just about every manual and guide on survival
+stick these in bold and repeat them over and
+over again.
+During an immediate life and death situation
+our reflexive urge to survive does just fine,
+and its knowledge and practice using it that
+tends to fail us, people stumble around not
+sure what to do.
+But in extended circumstances it is often
+that desire to live that gets degraded.
+We’ve all seen that happen to folks and
+while it is a bit sugary sweet to say a good
+pep talk and a hot bowl of chicken noodle
+soup will magically fix everything, the psychological
+aspect of survival is a very real.
+If folks give up the game is over, and they
+often do so before they’ve exhausted all
+the options even if they think they have.
+It’s also infectious, causing those around
+you to give up too, even if they might have
+seen a solution you missed.
+“Never give up, never surrender”, is not
+just jingo, because while you are still looking
+for solutions there is at least a chance you
+might find one.
+There is a myth that goes around that astronauts
+used to be given suicide pills in case they
+were faced with a hopeless situation.
+It is a myth by the way, something like that
+would be quite counterproductive due to its
+demoralizing effect.
+Also, somewhat redundant anyway.
+It is by definition usually very easy to get
+yourself dead in life and death situations,
+so packing specialized equipment for that
+contingency seems kind of superfluous.
+Not the best approach when you are running
+out air either, since a corpse doesn’t suddenly
+become a chemically inert piece of furniture
+no longer consuming or emitting gases.
+Many of those are quite toxic, or at least
+distracting, in an unventilated space.
+This of course brings up our first and most
+urgent life support concern, which is air.
+During the course of a day a person will inhale
+oxygen and exhale about a kilogram of carbon
+dioxide.
+Carbon dioxide being molecular oxygen plus
+a carbon atom, if you are exhaling a kilogram
+of it you used up about 730 grams of oxygen
+doing so.
+The amount you need of course varies by person
+and what activities they are up to, but this
+is mostly about how many calories you are
+burning.
+There’s another myth that you shouldn’t
+do much talking when there’s limited air
+because it will use it up even faster, and
+it is technically true since speaking does
+burn more calories than not speaking, but
+the difference is minimal.
+As a rule what raises your heart rate uses
+more oxygen and vice-versa.
+Running out of oxygen is generally not the
+immediate problem where air is concerned either.
+It’s that carbon dioxide filling up the
+volume.
+Let’s assume for the moment I am in a room
+2.5 meters high by 8 by 5.
+Or 8 feet high, and 26 by 16 feet wide, for
+an even volume of 100 cubic meters.
+A cubic meter being 1000 liters, it has 100,000
+liters of volume.
+Volume and mass are not the same thing, so
+for instance oxygen takes up 21% of that volume,
+21,000 liters, but is 23% of the mass, most
+of the rest being nitrogen which is lighter
+than oxygen.
+The density of air varies a lot with temperature
+and altitude but at room temperature is about
+1.2 kilograms a cubic meter, so our room holds
+120 kilograms of air and 23% of that is oxygen,
+28 kilograms.
+Or 38 days of oxygen for a person.
+Incidentally you will often see this figure
+given as about 550 liters of oxygen per day
+instead, but 38 x 550 is about 21,000, and
+as I mentioned a moment ago, that’s how
+much oxygen there was by volume.
+You can get yourself tripped up sometimes
+though when people are talking about percentages
+by mass and by volume.
+Now you will not survive for 38 days in that
+room, even if you could get rid of the carbon
+dioxide that will start poisoning you pretty
+soon, because once that oxygen gets down to
+about half that concentration you will have
+problems breathing it, and various negative
+side effects will kick in making you nauseous,
+lethargic, unconscious, and eventually dead.
+If you could shrink that room it would help
+extend your life.
+The air is mostly nitrogen so it would get
+harder to compress and eventually that nitrogen
+would get concentrated enough to cause issues
+too.
+Of course humans don’t need nitrogen, and
+can survive at a lower pressure with just
+oxygen, so we often only partially pressurize
+spacesuits because all spacesuits leak and
+everything leaks slower at lower pressure.
+Before we get to carbon dioxide we should
+talk about two common science fiction myths
+in this regard, how long before the air runs
+out and how fast air gets sucked out through
+a hole.
+Let me dispose of the second one first, if
+you poke a hole in the side of a spaceship
+about the size of your finger, about a square
+centimeter, you will lose about a kilogram
+of air a minute.
+If you stuck your thumb over that you would
+plug that leak and it will not rip your thumb
+off let alone drag you through the hole like
+a sausage grinder.
+The air loss will slow as the pressure drops
+but you won’t pass out till it gets at least
+under half an atmosphere and in that 100 cubic
+meter room we just discussed that would take
+an hour.
+It’s also very easy to find leaks, especially
+in zero-gravity.
+Leakage rates loosely go with the area of
+the leak, twice the area, twice the leakage.
+Even if you put your fist through the hull
+you should have a few minutes to do something
+about it and random objects flying into the
+hole would help to partially plug it too.
+That’s the major reason we use partial pressure
+in space suits and use only oxygen, not nitrogen.
+Again all spacesuits leak a little bit, typically
+through the joints, and lowering the pressuring
+in them slows that a lot, particularly since
+those tend to be the kind of leaks that get
+bigger when being pushed at by more pressure,
+furthering increasing the leakage rate higher
+pressure causes.
+In regard to the first of the two myths, running
+out of air, the air supplies in an Apollo
+era space capsule were pretty tight, because
+there wasn’t much space, so it gave rise
+to some bad ideas.
+Your typical science fiction spaceship tends
+to be a lot roomier.
+Nevertheless when power runs out or life support
+fails the crew often seem on the ragged edge
+of death in hours, or even mere moments.
+This is just wrong.
+Someone once made a nice table of the volumes
+of various famous spaceships in science fiction,
+and came up with a volume for the USS Enterprise-D,
+of just under 6 million cubic meters.
+That’s the one Picard captained, not James
+T. Kirk.
+Ignoring any reserves of air they would presumably
+have that would be 1,656,000 kilograms of
+oxygen, or about 2.3 million days worth of
+supply, 6200 years, for one person.
+It had a crew of a thousand so that would
+be 6.2 years, and at least a couple years
+before oxygen deprivation would be an issue
+even if they did nothing.
+Of course carbon dioxide gets to be a trickier
+issue, that can start causing problems even
+before you get to 1% by mass.
+A thousand people will exhale a thousand kilograms
+of carbon dioxide a day so they’d hit 1%
+carbon dioxide, by mass, in just 72 days.
+Again not really a time critical problem.
+Once it hits these concentrations the side
+effects will begin to impair your ability
+to get things done too.
+Headaches, dizziness, and irritability get
+common and don’t help you think of solutions
+to your problem.
+All of this gets steadily worse as the concentration
+rise till it eventually kills you somewhere
+above 10%, by mass, about 7% by volume.
+So it isn’t an urgent issue on the classic
+big capital ship we seen in science fiction.
+Even on the International Space Station, which
+is not noted for its abundant elbow room,
+at 900 cubic meters of volume for 6 people,
+it isn’t that urgent.
+You have about two months of oxygen.
+However you only have about two days before
+the Carbon Dioxide would start causing problems
+and maybe a week before it got too severe
+for them to operate.
+Death would arrive probably inside another
+week.
+Obviously the ISS has ways of scrubbing carbon
+dioxide from the air, and indeed there are
+many options available to us, but let’s
+do our hypothetical scenario on a base in
+Shackleton Crater on the Moon instead, one
+of the places often think about constructing
+such a base.
+Now as mentioned, there are tons of ways to
+get carbon dioxide out of your air, we developed
+many for space travel and submarines and we’ve
+learned even more in trying to deal with carbon
+dioxide in our own atmosphere.
+These typically fall into two major types,
+regenerative and non-regenerative.
+The latter typically involves some chemical
+compound that is expended during the process,
+often using up about an equal mass of that
+material to the carbon dioxide it removed,
+which at a kilogram per person per day can
+mount up pretty fast.
+Where it is the non-regenerative kind, say
+Calcium Oxide or Quicklime, you are using
+that up to remove carbon dioxide, as it absorbs
+the CO2 and becomes Calcium Carbonate, that
+stuff shells are made out of, and is then
+done.
+If you begin with say 56 kilograms of calcium
+oxide you will end with 100 kilograms of calcium
+carbonate, having absorbed 44 kilograms of
+carbon dioxide.
+Just 44 days worth for one person.
+We’d much rather not be left with 100 kilograms
+of useless calcium carbonate, so we’d prefer
+some way to sieve through the air and remove
+the carbon dioxide, to just dump it out an
+airlock, or to just turn that carbon dioxide
+back into oxygen.
+That’s the usual notion behind a regenerative
+scrubber, it either captures the CO2 in some
+form you can use or toss out and which leaves
+the scrubber material unchanged afterwards,
+or does one better and produces oxygen again
+by removing the C from the CO2.
+Plants of course do just that, they suck in
+carbon dioxide and emit oxygen.
+We can also eat plants so it’s a great option,
+but it takes up a lot of space, time, and
+energy to grow plants.
+Often the energy to remove carbon dioxide
+that way is a lot higher than alternatives
+too.
+It’s very hard to separate carbon dioxide
+into oxygen again, it’s not the path of
+least resistance, and the various good techniques
+for doing that efficiently tend to be a bit
+on the bulky side.
+Carbon sequestration when done at the large
+scale can do as good as a couple hundred kilowatt
+hours per ton of CO2, which would convert
+into about 720,000 Joules per kilogram, or
+about 8 watts per person.
+We’ve also seen some interesting research
+recently into breaking it up with ultraviolet
+light, and potentially using nanoparticles
+in tandem with Ultraviolet to convert carbon
+dioxide into oxygen and methane.
+In any event, that would mean you could convert
+your CO2 back into oxygen in a spacesuit using
+a solar panel small enough to comfortably
+fit on your air tanks, which would be very
+handy.
+In an ideal case a spacesuit would be able
+to scrub that CO2 indefinitely with a power
+source, and also extract oxygen from water
+or even oxides in rocks.
+As we’ll see in a bit, that’s not too
+energy intensive of a process, but trying
+to get such processes down to the small scale
+without losing tons of efficiency can be tricky,
+especially miniaturizing it to the degree
+necessary for a space suit.
+But it does give us a decent scale for our
+hypothetical Moonbase, 8 watts of power generation
+for CO2 scrubbing per person, under optimal
+scenarios.
+Over there in Shackleton Crater we have the
+advantage, as we discussed in the Moonbase
+Concepts episode, of spots along the rim of
+the crater that are almost perpetual lit,
+making solar power a nice option, though fission
+is also an option.
+Down in the crater we believe there to be
+an abundance of water ice available too, and
+you can get oxygen out of ice for around 30
+Million joules a kilogram.
+The moon is also about half oxygen by mass,
+even though it is mostly tied up in oxides,
+but you can pull oxygen out of rock if you
+need to.
+The energy needs to do this are pretty high,
+usually on an order of around 100 Million
+joules per kilogram of oxygen, which would
+be more like 1000 watts per person, compared
+to about 10 watts that scrubbing carbon dioxide
+took per person.
+So it’s a good way to get oxygen to begin
+with but it’s clearly better to recycle
+it.
+It cheaper to get oxygen out water, more like
+300 Watts per person, but water is a lot less
+common on the moon than rock and you might
+want to do other things with it.
+I keep mentioning these wattages because energy
+is always your ultimate bottleneck, and a
+lot of times people just assume using plants
+for recycling is going to be better.
+That’s only ever true because you can also
+eat those plants, and you need to grow them
+anyway if you don’t want to starve.
+Of course that’s not all there is to air.
+Indeed air has moisture in it and regulating
+humidity can be an issue in keeping good health,
+especially where plants are concerned.
+But most of air is actually nitrogen and while
+humans don’t use it to breathe, our plants
+do.
+That’s a serious issue, because plants are
+always the preferred long term means of recycling
+air since it takes less plants to recycle
+a person’s air than it does to feed them.
+If you need those plants to eat, you might
+as well let them do your recycling too, waste
+not want not.
+There seems to be very little nitrogen on
+the moon, and Mars not much better.
+We’re not actually sure how little there
+is but it certainly is not abundant.
+Concentrations are low, on an order of a percent
+of a percent of lunar regolith.
+It’s not tricky to bake that out, but it
+is energy intensive.
+To a degree that’s okay because you can
+probably get it out as a byproduct of all
+the smelting you’d have to do to get the
+construction material to make greenhouse domes
+there if you decide to grow food.
+Moving on to water we’ll find this is actually
+one of our easier issues.
+In our base in Shackleton Crater we expect
+to find a lot of ice mixed in with the regolith
+there and we can just cart that inside and
+melt it and filter it.
+Many places in the outer solar system are
+super-abundant in ice.
+Unfortunately in the inner solar system not
+only is it rarer, but so is hydrogen.
+You can find oxygen everywhere, and of course
+the single biggest concentration of hydrogen
+is in the inner solar system but that’s
+in the Sun, and getting at that is fairly
+difficult.
+If you’ve got hydrogen and oxygen you can
+make water, unfortunately most places that
+don’t already have water don’t have much
+hydrogen either.
+So generally you either have plenty or you
+have none.
+Getting it into drinkable format is a bit
+tricky, as is recycling it.
+You can of course evaporate water out of any
+mixture of seawater or mud or human byproducts
+but that’s quite energy intensive, typically
+on an order of hundred times more so than
+options like reverse osmosis.
+But water, the keystone of life and what most
+of your body is made of, is actually one of
+the easier parts of our life support problem.
+Energy needs generally run on an order of
+1000 joules per liter of water treated, though
+it can be a lot higher depending on circumstances,
+but if we assumed you needed around 100 liters
+a day then this would be a power need of about
+1 watt, a lot less than what would be needed
+to heat that water for a shower for instance.
+NASA has invested enormous energy into recycling
+sweat and urine, and has gotten very good
+at it.
+Less so solid waste, and that usually mostly
+goes overboard.
+I have folks frequently ask me about debris
+in orbit as a hazard and it is something we
+will get to in the not too distant future
+in an episode with the working title of Space
+Trash, but yes there is a lot of shit in orbit
+and yes a lot of it is literally that.
+Needless to say you’d want to recycle that
+too if you were planning on agriculture on
+your moonbase.
+It’s actually a bit harder in space as opposed
+to on the moon, there’s less gravity there
+than on Earth but there is some, and so on
+ISS we actually have a keg that spins around
+to provide centrifugal force to simulate gravity
+to help remove contaminants from water when
+we’re filtering it.
+Gravity, even in small amounts, helps to ensure
+dust and water settle out of the air and make
+sure a lot of biological mechanisms function
+properly.
+We do not know the real long term effects
+of low-gravity, or even zero gravity all that
+well.
+We’ve had people up on the ISS for months
+at a time and been able to study that but
+we’ve never landed anyone on Mars with its
+38% of normal gravity and the Apollo missions
+only spent a few days each on the Moon with
+its 16% gravity, and that was in between long
+zero gravity durations.
+So we have only educated guesses about how
+long you could live on either place before
+suffering health issues.
+I’ve spoken before many a time about using
+centrifugal force to simulate gravity, called
+spin-gravity, or even combining it with local
+gravity where there isn’t enough, so I don’t
+want to spend too much time on it now.
+The short form is you take a big cylinder
+and spin it around and the walls of that cylinder
+become the floor.
+Folks occasionally ask me if I’m over-simplifying
+how easy or functional this is and assume
+that if it were that easy and effective we’d
+do it on the ISS.
+There’s a flaw in that reasoning, the main
+purpose of the ISS is scientific and the major
+feature it offers us that we can’t do down
+here on Earth way cheaper is a lack of gravity,
+so putting it on the ISS would be counter-productive,
+especially since one of those things we study
+up there is the health effects of zero-gravity
+on people.
+But spin-gravity offers us some problems.
+The one we most often consider on this channel,
+because we mostly contemplate huge structures,
+is that spinning something around places it
+under a lot of force, equivalent to what a
+suspension bridge of equal length to the cylinder’s
+circumference would experience on Earth.
+On the other side of the size issue, if you
+go too small then you have folks experiencing
+a significantly different force on their feet
+than their head.
+On Earth gravity is just a bit weaker [oops: stronger] on your feet than your head when standing up,
+but the difference is so small only our finest instruments could detect it.
+Standing on the walls of a cylinder 5 meters
+in radius, if the gravity is normal at the
+ground it’s about 40% lower at your head.
+We can assume that would be pretty nauseating.
+In case it isn’t, the whole thing is spinning
+around at 13 RPM, about once every four seconds,
+which will probably succeed in nauseating
+you if the difference in gravity didn’t,
+that’s faster than the typical Tilt-a-Whirl
+they have at amusement parks and festivals.
+From our experience with such things, and
+more scientific if less fun versions, we know
+people can handle about 2 RPM, one rotation
+every thirty seconds, without feeling nauseous,
+and that most should be able to adapt to a
+bit more.
+Unfortunately to achieve one gravity at 2
+RPM means your cylinder needs a radius of
+224 meters, which is a circumference of 1400
+meters.
+Plenty of living space but bigger than we
+normally envision space station or ships,
+though on this channel we routinely discuss
+ones that would have closets bigger than that.
+However centrifugal force goes with square
+of those RPMs and linear with the radius,
+so if we wanted to simulate Mars’ or the
+Moon’s gravity, 38% and 16% of Earth’s,
+the necessary radius of our cylinder would
+drop to 38% or 16% respectively, or 85 and
+36 meters.
+Alternatively if we upped the RPMs from 2
+to 4, our radius for normal gravity would
+drop to just a quarter, 55 meters.
+Kick it up to 6 RPM, which we’ve decent
+reason to believe most folks could adapt to
+after a while, and it drops to just 25 meters
+radius.
+It’s also entirely possible half-gravity
+is fine, maybe even less, again we have zero
+experimental data on how much gravity is okay,
+just that none is not.
+If you wanted to simulate Martian gravity
+on a ship on the way there, to get everyone
+used to it, and you found they could handle
+6 RPM, then a 10 meter diameter is all you
+need.
+It also doesn’t have to be a cylinder, or
+even a ring, spin two pods attached by a beam
+or tether, and they could have spin-gravity
+in the pods.
+You do have to worry about wobble on such
+things, but it’s not too huge an issue,
+we can use counter-spinning sections, gyros,
+and so forth.
+Now as I said, and have spoken of in some
+other episodes, you can slope a floor, using
+a bowl shape, and spin that to combine local
+gravity and spin gravity.
+Often when I’ve spoken of this, since it
+has usually been in passing, I’ve implied
+it’s a fairly shallow bowl.
+But in practice it would be more like a buried
+cylinder with a slight curve adjusting its
+angle with the weakening spin gravity to keep
+down pointed at the wall.
+On Mars it would be a deep bowl, on the Moon
+more like a very deep vase.
+You don’t have to bury it under the ground
+but it’s a good way to protect from micrometeors
+and the view is never good from inside any
+rotating habitat smaller than planet-sized,
+since your windows would be in the floor and
+the stars would spin around a couple times
+a minute.
+Excavation is also very easy in low gravity
+and you can pile tons of material on top of
+something that isn’t all that structurally
+strong.
+We discussed this concept more in the Rotating
+Habitats episode, but it is worth noting that
+the windows would be on the floor and wouldn’t
+make for a good view since you are spinning
+around a couple times a minute or more, so
+you probably wouldn’t have a lot of windows.
+This brings up lighting and temperature, our
+next two topics.
+So far our energy needs have stayed pretty
+mild, well under the normal electric use of
+the typical citizen of an industrialized nation.
+However, when it comes to keeping things warm
+and bright your energy bill can shoot up quickly.
+Just doing lighting for one person to see
+by is cheap enough, modern LED lights are
+durable and low-powered, and even a 10 watt
+bulb provides comfortable lighting, but when
+we start talking about lighting up large sections
+of hydroponics that changes.
+We’ve discussed that in the past a few times
+too, and I usually place 2000 Watts as the
+bare minimum energy supply for lighting enough
+plants to feed a person and I tend to assume
+everything has been optimized.
+Not just lighting done only in those wavelengths
+and luminosities needed by those plants, but
+also temperature, humidity, CO2, etc.
+Of course the sun provides free sunlight but
+using that isn’t always a good idea even
+when it is an option.
+Temperature though turns out not to be as
+bad as you might expect if you live in a cold
+climate, are used to an expensive winter heating
+bill, and are thinking space is freezing cold.
+In space heat can only escape or enter an
+object by radiation, shining light on it or
+the infrared radiation it emits based on its
+temperature.
+That’s the effect of vacuum, and even on
+the moon a lot of things would be clad in
+a vacuum same as any vacuum flask, the Thermos
+being the best known of these.
+But these are not insulated just by a vacuum
+cutting off convection and conduction.
+That wouldn’t keep something warm for long.
+Rather the inside of the outer layer is made
+to reflect infrared light back into the inner
+vessel, cutting off even that means of emitting
+energy.
+This is something we usually bypass mentioning
+in most of the space-based constructs we discuss
+on this channel because we are typically trying
+to get rid of heat as fast as possible, since
+we tend to be generating tons of it.
+But when you’re not, that inner layer helps
+a lot because even if you are only emitting
+heat by radiating it, not via conduction or
+convection, you can radiate it away pretty
+quickly.
+Heat radiation is entirely based on how hot
+the object is and how much surface area it
+has, and a man in a space suit has about 2
+square meters of surface area and is radiating
+about 500 Watts per square meter at human
+body temperatures.
+That’s 1000 Watts you are emitting by default,
+the equivalent to burning 21,000 calories
+a day, so anything you can do to cut that
+down in terms of insulation is a good idea.
+Of course in a spacesuit near Earth, or on
+the Moon, when you are exposed to sunlight
+you can overheat very quickly instead.
+Particularly if you were wearing black instead
+of a nice reflective white.
+The same applies to dome or habitats, properly
+insulated they don’t need much heating,
+especially if sunlight is coming in and you
+have a ton of thermal mass available.
+Which you would on the Moon or Mars if you
+don’t mind digging down a ways where temperature
+won’t fluctuate as much.
+Day length is about the same on Mars as on
+Earth, but the Moon’s day is a month long
+and you really need to factor that into considerations
+for staying cool in the day and warm in the
+night, and burying yourself helps with that
+and with protection from meteors and radiation
+too.
+That’s one reason why artificial light,
+or light bounced in through mirror and lens
+assemblies, is better than the classic glass
+dome.
+We talked about that more in Moonbase Concepts,
+mirrors and parabolic dishes, especially ones
+that are just polished metal, are cheaper
+and harder to damage than a glass dome so
+you stick them around the thing you want lit,
+and let the light come in through the windows
+instead.
+You can also use that reflective surface to
+filter out any frequencies you don’t want,
+or want less of, like infrared or ultraviolet,
+or even green if you have a hydroponics area
+you have to worry about overheating, since
+green light does little for plants.
+The other nice things about the moon as opposed
+to a space station is that we do have the
+option of cooling with conduction or convection,
+as well as warming.
+All that lunar regolith around and below you
+can be used to dump waste heat or to help
+warm the installation during the night.
+It’s a lot easier to dig pipes for that
+purpose there too, again from lower gravity.
+So lighting and temperature can be pretty
+cheap, or very energy expensive, depending
+on circumstances.
+We’ve got three more things I want to touch
+on briefly before we close out.
+Construction, Communication, and Manufacturing.
+Communication is another one of those no-brainers,
+but it certainly helps to have stockpile of
+information on-site in case they go down.
+Manuals are not the same as having a crack
+team of experts on any field available to
+help on short notice though.
+It’s also your sanity lifeline home, so
+you can talk to friends and family, but again
+this needs little detailing and is a no-brainer.
+It becomes a much bigger issue as you get
+further from Earth and time lags of minutes
+or even hours can come into play and also
+require transmitters than use significant
+amounts of power.
+As to Construction and manufacturing, the
+biggest cost and hurdle to doing a moonbase
+or giant space station is the cost of getting
+material and equipment there.
+Anything you can manufacture on site, or in-situ,
+saves tons of money and of course anything
+you need to live is ideally something you
+should be able to make on site.
+In space you need to bring in all your material,
+so most of the time it makes more sense to
+make stuff here and ship it up to space.
+But even there some manufacturing ability
+is very useful, and you can save a lot of
+mass if you don’t need 50 spare parts and
+a lot of specialty tools because you can 3D
+print them on the spot if they’re needed
+and maybe even recycle that mass when they’re
+done.
+But simple 3D printing, and even the ability
+to make construction material for buildings
+out of local regolith, isn’t really enough.
+Taking that hydroponics example for instance,
+you need to be able to make machines to bake
+you air out of and to smelt that regolith
+to make steel or aluminum and glass and solar
+panels and wiring.
+You need to be able to make trays and piping
+for the plants either out of metal or plastic
+and if the latter you probably need vats of
+algae to make your plastics and so on.
+Needless to say anything which can miniaturize
+or automate manufacturing with that degree
+of intricacy helps us out enormously.
+I think that is where we will stop for today.
+We could do, and probably will do, whole episodes
+going into more in depth looks just at in-situ
+resource exploitation, but that would take
+at least an episode and is probably better
+discussed in terms of each place we would
+do that at, as the options are different for
+Venus and Mars and Titan and so on.
+There’s a number of books that have been
+written over the years about surviving on
+the Moon, my friend Bob Goddard wrote one
+titled ‘Mother Moon’ not long back, and
+it begins right where we started, with a lunar
+colony struggling for survival when supplies
+stop coming from Earth though it ends in a
+very different place.
+Until next time, thanks for watching, and
+have a great week!

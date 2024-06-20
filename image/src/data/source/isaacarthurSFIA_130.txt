@@ -1,0 +1,25 @@
+Starboosting is a technique for raising the
+surface temperature of stars to create larger
+habitable regions around them, and under sunlight
+more like our own sun produces.
+The vast majority of stars are red dwarfs,
+ultra-long-lived but cool stars with a redder
+spectrum of light than our Sun, similar to
+what a ‘warm’ color light bulb gives off.
+Virtually all planetary systems have all the
+planets in a fairly narrow range of orbits
+around that star’s equator, meaning none
+of the starlight of its polar region hits
+a planet.
+But by floating large, thin statite mirrors
+above the poles we can reflect light back
+down onto the star, warming it, and causing
+it to emit more light and in a hotter spectrum
+toward those planets.
+Such mirrors float by radiant pressure above
+the star, and likely would require only a
+few larger asteroids worth of mass to build,
+and could also work as massive power collectors
+and a Shkadov drive for moving that star system.
+See the Megastructure Compendium for more
+discussion of stellar engines and megastructures.

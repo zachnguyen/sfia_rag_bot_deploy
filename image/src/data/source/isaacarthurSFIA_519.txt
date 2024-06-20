@@ -1,0 +1,676 @@
+The world may be a sphere, not flat, but as
+we’ll see today, a Flat Earth is a pretty
+cool place to live.
+So today we return to the Megastructures series
+to look at how and why you would build a flat
+or flat-ish planet, as well as a few interesting
+variations on it.
+Now, before we delve into the topic, I should
+note that we’ll be assuming that gravity
+is being provided by classic use of mass,
+not centrifugal spin as we often use for rotating
+habitat examples or any high tech type of
+artificial gravity like we so often see in
+science fiction.
+With that in mind, our options for construction
+are limited to using ultra-strong material
+or what we call active support, which is basically
+pushing on something to keep it from falling
+down.
+We’ve discussed both many times so we’ll
+mostly bypass it today, but if you’re new
+to the channel you may want to jump over to
+the Upward Bound series or early Megastructures
+episodes for a more detailed explanation.
+Building a flat planet, often called a Discworld,
+is decidedly tricky even by the very high
+standard of building an artificial planet
+to begin with, and even the simplest of these
+would dwarf any engineering project humanity
+has ever taken on, and to the same degree
+our planet dwarfs such projects.
+However it’s not really a scientific challenge
+or super-high tech, just a matter of brute
+force, to which more technology would doubtless
+help.
+This episode is not about the Flat Earth Theory,
+I tend to take for granted anybody watching
+SFIA assumes our world is a sphere so it would
+be preaching to the choir, but the various
+problems with that theory are also some of
+the problems we have to overcome to make such
+a planet have conditions that are either Earth-like,
+or improvements to conditions on Earth, so
+we will look at some of them.
+That’s a good place to begin though.
+When you’re getting ready to pile vast amounts
+of matter in place to make an artificial world,
+we tend to assume you’d go with a sphere,
+like Earth, as it’s the version that’s
+going to give you the maximum living area
+for unit of mass.
+That’s true enough but contains three flawed
+assumptions.
+First, it doesn’t actually give you the
+maximum surface area for volume of mass, in
+fact a sphere has the lowest surface area
+per volume of any object, but what’s generally
+meant in this context, by saying living area,
+is something with Earth-like gravity, which
+is to say, around as strong as Earth at any
+point on the surface and pointed down at the
+ground.
+On a sphere, gravity always points down and
+perpendicular to the surface, on a cube or
+slanted.
+It will also have the same amount of light
+hitting every part of one side of that disc,
+whereas we get less light near our poles,
+which are tilted away from the Sun.
+Now you don’t have to light one of these
+artificial worlds with a classic star, but
+if you are, it has some advantages and disadvantages,
+because while a flat planet gets the same
+light everywhere, and a spherical one loses
+a lot of real estate to being too hot or too
+cold.
+When you build a flat planet orbiting a star,
+the whole thing has mostly the same climate,
+meaning you have less real estate but you
+can use every little bit of it.
+The third flawed assumption is that you actually
+care about how much mass you are using.
+It takes far more mass to make a classic mass-gravity
+planet than a spin-gravity one of the same
+living area, by many orders of magnitude,
+which we covered the specifics of in the episode,
+“Mega Earths”.
+So if you’re making a spherical planet,
+it already implies you aren’t trying to
+optimize that.
+If you’re already using a million times
+the mass to build a spherical planet instead
+of swarms of rotating habitats of an equal
+living area, going up to two millions times
+isn’t that big a deal.
+Now you might say that highlights a problem
+right there, you wouldn’t build these natural-gravity
+worlds because they are mass wasteful.
+Except they are not.
+They’re not expending mass, they are storing
+it, and it doesn’t matter what kind of mass
+it is.
+Earth masses about 6 Zettatons, mostly iron,
+oxygen, silicon, and magnesium, but to produce
+gravity, 6 Zettatons of Hydrogen and Helium
+work just as well, and they are each far more
+abundant than every other element combined.
+The only source of gravity more abundant is
+dark matter, and if we ever figure out a way
+to capture and store that, it would work too.
+Hydrogen is very valuable to civilizations
+that run on fusion, be it artificial fusion
+or from a star.
+You’d need to store it somewhere and a big
+spherical or disc-shaped tank that you’ve
+slapped a layer of dirt, water, and air around
+works just fine.
+You’d have to haul it out of a gravity well,
+but the energy released by fusing a kilogram
+of hydrogen is so much more than the energy
+needed to lift it out of an Earth-like gravity
+well that it can be disregarded, and you could
+have derived a similar amount of power from
+it while dropping it down that well in the
+first place.
+When you're storing hydrogen gas for billions
+of years, its very likely to leak out if the
+gravitational pull isn’t much higher than
+the kinetic energy of those hydrogen atoms
+in your containment vessel.
+So while you’d expect most folks to live
+inside cylinder shaped rotating habitats,
+you’d also expect a proportionally small
+but still large number of these kind of artificial
+planets that used natural mass-based gravity
+as it serves as both storage and living area.
+What the filler is would vary, it might be
+their fuel reserves or their temporary trash
+cans too.
+By default we assume advanced civilizations
+use hydrogen turned into helium for energy,
+and helium is actually a pain to use for gravity
+because you have to build very large to overcome
+its low density, but they might be able to
+fuse helium into carbon, or nitrogen, or oxygen,
+or even go all the way up to iron, which is
+great for building smaller natural gravity
+planets as it is very dense.
+Of course they might feed matter right into
+black holes for power production, in which
+case it doesn’t matter what type of matter
+you use.
+We’ll discuss many other advantages of flat
+planets as we go, but think of it this way:
+If you’re storing huge amounts of raw material
+someplace, you might as well get some extra
+use out of it by living there, and if you’re
+engaging in the kind of stellar engineering
+we’ve discussed for things like Starlifting
+or extending a Sun’s lifespan, especially
+the latter, you are going to end up with tens
+of thousands of planet’s worth of excess
+mass whose value is huge, but only in the
+context of being able to use it billions of
+years from now.
+Which makes it perfect for a planetary storage
+system.
+Now if you go fill a giant hollow planet with
+gas, you can actually rely on pressure to
+hold the surface up, like a balloon, for certain
+sizes and pressures anyway, or some superstrong
+firmament material if you had it, but you’d
+usually end up using a big spherical shell
+made out of overlapping orbital rings, see
+that episode for details or again Mega-Earths.
+For nonspherical planets you pretty much have
+to do this anyway, because on a flat thick
+disc of a planet, gravity only points down
+at the middle.
+As you move out from the center it will start
+tilting toward the center instead of straight
+down, and left to its own you’d end up seeing
+the disc deform to have a bulge in the middle,
+what we call a Pancake Planet, and eventually
+turn into a sphere.
+A Pancake Planet has some advantages too,
+you have a horizon on one from the curvature.
+On a strictly flat planet you do still have
+an effective horizon as the light traveling
+through all that air will get blurry and bent,
+but it’s a long way off.
+Interestingly, on a big enough discworld,
+like the Alderson Disc, a version billions
+of times bigger in area than Earth, you would
+have to consider the effect of gravity on
+the light too.
+If someone far off points a laser your way,
+the beam will curve down and hit the ground
+before reaching you, but, if they angle it
+up a bit, it would curve down and reach you,
+like throwing a ball which follows a parabolic
+trajectory.
+That would seem to give a horizon, BUT, that
+whole disc will have light heading up at angles
+too, which will curve down and reach you,
+so that even though you are standing on a
+flat surface, it will seem to curve up.
+We’ll discuss Alderson Discs another day.
+For our more modest flat planets, if we want
+gravity to point straight down, we have to
+distribute our mass differently and not uniformly.
+To avoid that slanting effect as you move
+out from the center, you need to increase
+the amount of mass under you as you go.
+Though you can also spin the planet like a
+carousel to get centrifugal force, which would
+push out, helping to counter the central mass,
+and it will rise as you move out from the
+center too.
+Imagine for the moment our flat planet was
+made of many concentric rings, each a bit
+more massive than the next, growing as you
+move to the edge.
+We will also spin it, and we will balance
+the whole process out for whatever combination
+best achieves a mostly uniform gravity pointing
+more or less downward.
+It need not be perfectly uniform either, Earth’s
+gravity isn’t after all, it’s lower or
+higher depending on your altitude and latitude,
+and it does angle near mountains and cliffs,
+which pull you a bit sideways.
+Now, since I raise those rings, let’s take
+a moment to remind everyone what an orbital
+ring is.
+An orbital ring is a hollow ring around a
+planet that is basically stationary relative
+to the planet’s surface, inside it is a
+vast amount of matter spinning around faster
+than the normal orbital speed, and the net
+momentum of the hollow, stationary part and
+the inner spinning part just have to add up
+to whatever the appropriate momentum would
+be for an object of that total mass to orbit.
+Visually, think a big long hose wrapped in
+a circle with water spinning around that loop,
+and again see the Orbital Rings episode for
+the specifics on that.
+We call that active support and we have a
+few types besides that discussed in Space
+Towers and Launch Loops and some other episodes,
+but we’ll focus on the Orbital Ring.
+We will make a ton of them, each a bit wider
+in diameter, laid out as a disk.
+We will pump a huge amount of matter through
+them, probably hydrogen or helium, which we’ve
+compressed to a high density, so it’s a
+good chance it’s metallic hydrogen which
+is handy if those rings are using magnets
+or superconductors to keep the mass spinning.
+You would increase the density in each subsequent
+ring so it had more mass, or put more rings
+below them.
+Two quick notes, if for some reason you can’t
+compress your hydrogen or helium enough to
+keep things decently flat for a coin-shaped
+disc to live on rather than a thick cylinder
+you’d live on the caps of, you do have a
+couple options.
+First, you can use artificial black holes
+instead.
+Those do have magnetic fields you can push
+on them with and they could orbit inside a
+hollow tube just fine.
+Second, if you’ve got to make it deeper
+as you go out, you can opt to make it taller
+instead, sloping your world up near the edges,
+rather than the middle like the Pancake Planet,
+those sloping sides, like a bowl, let you
+add more mass and it also tilts the gravity
+more outward, counteracting the slant toward
+the center.
+Some folks might object to living over top
+of a bunch of black holes or ultra-compressed
+hydrogen, but just as reminder, we all live
+on top of a vast molten, radioactive ball
+of metal.
+The solid part we live on, the crust, is about
+as thick and sturdy as that nasty skin that
+forms on top of hot soup or pudding.
+Assuming you can get those materials in the
+rings dense enough, you can go ahead with
+your entirely flat planet at this point, otherwise
+you might need some curved geometry and we’ll
+discuss a few other fun options later.
+Your next step though is to lay down a normal
+layer of artificial land and sea, and this
+is obviously no easy process but in terms
+of effort per living area, this phase is no
+harder than terraforming planets or building
+rotating habitats.
+Your Flat Earth has no real horizon, but it’s
+still better than a rotating habitat in that
+regard, where the ground curves up and your
+neighbor’s backyard hangs over your head.
+Here it just goes on forever until interrupted
+by air interference and blur, or landscape.
+That’s another trick for handling gravity
+slanting issues too, you can build many layers
+of circular mountain ranges whose extra mass
+yanks material toward them, keeping air and
+water from drifting off too much, breaking
+up horizons, and letting you tilt land to
+match slants with less of an issue.
+An Extreme form of this is the Ripple world,
+where it just moves outward like a wave of
+peaks and valleys from the center.
+Differing from a ripple caused by dropping
+a stone in a pond in that the further out
+from the center you get, the higher those
+waves would be, rather than attenuating off
+in amplitude or height.
+The planet would still look rather flat from
+a distance, but to those living on it there’d
+be more natural landscape curvature.
+Playing with the landscape this way also helps
+break up the weather and climate, again a
+flat planet has the same lighting and temperature
+everywhere on a given side, and while you
+might prefer that over land wasted on equatorial
+hot spots and frozen poles, a little variety
+would be nice.
+Speaking of lighting, that’s the next big
+issue.
+Now unlike the Flat Earth Theory, our flat
+planet can just be orbiting the Sun and spinning
+like a coin for day and night, and we can
+tilt it too so it has seasonal variation.
+The Sun would otherwise rise and set just
+like normal, twilight and dusk are a bit different,
+but there is still a horizon in this regard
+for it to rise and set across and you’d
+still get that noon blue and twilight red.
+However, such constructs require huge amounts
+of effort and energy that you likely can only
+afford in scenarios where you can mimic the
+Sun anyway, via artificial fusion or huge
+mirrors or kugelblitz black holes, so we might
+prefer to go the Flat Earth approach on this
+one.
+In the Flat Earth Theory the Sun is not a
+giant far from Earth and nearly a million
+times more massive, it and the moon are fairly
+tiny objects that just circle over the Earth,
+about where the equator is, a circle about
+halfway out form the center of the disc, with
+the north pole at the center, and the south
+pole as a circle on the rim, both far from
+the Sun and Moon.
+Now this begs the question as to why the Sun
+does not fall down, as I recall under Flat
+Earth Theory this is because gravity is much
+weaker and diminishes faster than in Newtonian
+Physics, somewhat akin to an extreme form
+of MOND – Modified Newtonian Dynamics – that
+sought to explain dark matter as a false positive
+caused by gravity getting weaker faster than
+inverse-square at very large distances.
+We are assuming throughout this episode that
+gravity works more or less like Newton and
+Einstein said it does and that we’ve no
+artificial way of messing with it beyond piling
+mass up somewhere or spinning things very
+fast.
+In this case though, we are obviously not
+dealing with a typical star, so we need not
+assume it is that massive.
+Such an object needs to be putting down around
+200,000 terawatts on our Flat Earth, assuming
+it’s got the same land area as Earth, and
+presumably be about 30 kilometers in diameter
+to be about the same size as the Sun or Moon
+in the sky if about 3000 kilometers above
+the equator, implying each square meter of
+that Sun-disc object was giving off about
+7 gigawatts of power.
+Imagine for the moment that our sun here was
+a big flat mirror, or solar sail, and that
+we were beaming lasers or light beams at it
+that it bounced back down to the flat planet
+below.
+If you’ve seen the Interstellar Laser Highways
+episode or any of the ones we discuss laser
+propulsion spaceships in, you might remember
+it takes either 3 gigawatts of laser per ton
+absorbed or 1.5 gigawatts when bounced instead
+to accelerate an object at 1g, or hold it
+stationary against Earth’s gravity.
+We’d have enough power per unit area here,
+7 gigawatts per meter squared, for a very
+thick mirror, indeed one thicker than battleship
+armor rather than the thin foil we normally
+think of for solar sails and mirrors.
+So that part at least is easy, such a fake
+sun can be held up either by its own internal
+power generation or by light it is reflecting
+from the true source.
+That’s also more than enough energy to let
+you steer the thing around in a circle.
+Similarly, a big internal fusion plant could
+be grabbing up trace atmosphere to superheat
+and use as exhaust.
+One problem is that for that size and power,
+your blackbody spectrum corresponds to more
+than twice the Sun’s surface temperature
+which is obviously a problem for building
+an object to generate this, since it would
+melt to slag, and also be generating a lot
+more ultraviolet light than we’d like.
+Not as big a deal for mirrors though, since
+they’d be reflecting most of the light away,
+not absorbing it, and are of course mechanically
+simple so can better handle heat anyway.
+Now conveniently a black hole producing this
+amount of energy via hawking radiation only
+masses 40 kilotons, and even using just a
+small portion of that as thrust would be enough
+to keep it aloft, however it would only live
+a couple months so you’d have to be constantly
+feeding it.
+You’d probably use many of them clumped
+together with more mass, longer lives, and
+less power output.
+You’d also need to surround it with something
+that could absorb all that gamma radiation
+and spit it out as normal light, same as our
+sun actually does.
+We’ll discuss this more in Making Suns early
+next year, where we’ll look at both building
+the natural kind and all sorts of pseudo-suns
+we can make via artificial power sources or
+black holes, but for the moment we’ll just
+say the mirror approach is probably the best
+ones for doing this variety of lighting, where
+the sun spins around over a flat planet and
+you’d probably fake the Moon the same way,
+or moons, if you wanted to.
+You also need another sun on the other side,
+unless you want to waste half your flat earth’s
+potential living area.
+The other option, which we’ll also discuss
+more in Making Suns, is a Sun-Moon, the classic
+geocentric one where the Sun is a moon-sized
+object orbiting the planet.
+Couple caveats, first, for any given object
+there’s only one distance in terms of orbits
+that is going to produce a 24 hour orbit,
+which can be a pain for getting your sun in
+the right place.
+We can counter that by spinning the planet
+too, with the Sun-Moon or backwards.
+For instance, if the Sun did orbit the Earth
+every 24 hours it would always hang in the
+same place because the Earth spins that fast,
+that’s a geostationary orbit, alternatively
+if the planet spun backwards in such a case
+the Sun would take less time to re-illuminate
+the same place.
+So we can do the same thing with a flat earth
+to widen our options, but you can’t spin
+such an object very fast.
+Indeed that’s one of the problems with using
+the real sun for lighting if you try to makes
+these much bigger than Earth-sized, too much
+centrifugal force on the sides.
+If you want to scale a discworld up you need
+to make it an ellipse instead of a circle
+so you can spin it relative to the Sun without
+getting extreme forces near what I suppose
+we will call the Equator.
+You might do that for one with a sun moon
+too, since an orbit around a big disc is not
+quite the nice circle or ellipse that it is
+for sphere, especially a disk with a non-homogeneous
+distribution of mass.
+Now, your fake sun gives a lot more of its
+light to your planet, proportionally, than
+ours does, but it still wastes a lot if it
+by radiating omnidirectionally so you’d
+probably have a big spotlight or parabolic
+dish arrangement for your sun rather than
+a uniform lightbulb, and that helps a lot
+for trying to get the fake Sun to be the right
+size and orbital rate and brightness and spectrum.
+You can also use the same trick as with the
+hovering sun from earlier though, since all
+that power can be used as thrust to let you
+get around the normal orbital mechanics for
+time and distance.
+Of course you can circumvent all of this by
+just having giant lights overhead that switch
+on in sequence to fake a moving sun or using
+a big spaceship that flies around lighting
+you with its engines, sort of like Helios
+and his sun-chariot from Greek Mythology.
+Heck it might even land in some sea on the
+rim to refuel with water for thrust and hydrogen
+fusion fuel every night.
+Seems kinda crazy as a very extreme effort,
+these sorts of things, but keep it in context,
+you just built a whole planet shaped like
+a pizza, which dwarfs this type of fake sun
+building.
+Okay, that’s the basics, let’s add some
+options for variation or adding these together.
+One of these is a Roulette World, where like
+a Roulette Wheel it bulges up on the rim and
+middle.
+Actually this is one of the variations used
+for the Flat Earth Theory, and it gives you
+better horizons and better light distribution
+if you’re using that hovering but circling
+sun approach.
+It’s also much easier to build, since you
+can have a central mass and a lot of other
+mass orbiting normally in a hoop around it,
+then just build a layer overtop curved to
+keep gravity perpendicular to the ground.
+You can later expand this with more rings
+to create the Ripple World we mentioned earlier.
+With any of these you also have to decide
+what to do with the sides, or rim of the planet.
+You can let it flatten off as a straight disk
+so you’d sail over the edge of, but you
+wouldn’t fall forever, and depending how
+you did your lighting and mass distribution
+this might be a forbidding dark frozen wasteland
+or just a curved rim, maybe habitable.
+Unless you’re building much smaller than
+Earth, there’s no need to have rim walls
+for retaining air or keeping things from falling
+off as gravity still pulls on everything,
+just not straight down relative to the ground
+and of course so long as it’s lit, this
+area, the edge of the coin, is entirely habitable
+with gravity pointing the right way.
+Curve it and it has horizons too and you can
+just walk, sail, or fly around it to the other
+side.
+Assuming we’re using one lit by our own
+sun, again you can just spin it on a side,
+and so long as it’s not too big you don’t
+have to worry about it flicking people off
+the nominal equator, so don’t build one
+bigger than a gas giant unless you also want
+to start distributing your mass non-homogeneously
+in that way too.
+Which you can do, orbital rings aren’t the
+only trick for that and need not be circles
+anyway.
+You can use what we call an Atlas Pillar for
+instance too, which is essentially a space
+tower, a straight structural member in which
+accelerated matter shoves at the ends to give
+it an arbitrarily high compressive strength,
+one can think of these as orbital rings of
+very high eccentricity.
+See the Space Towers episode for details.
+As to arrangements, if you’re providing
+your own lighting or using beamed in light
+off a big hovering mirror, you can put these
+anywhere you please, but if you want them
+using the Sun, then you’d put them in a
+big ring around the Sun out as far as Earth.
+You could pack in tens of thousands of them
+in one orbital plane, which is about all you’d
+have mass for if you were stealing that mass
+mostly from the Sun via Starlifting, and of
+course you’d need to go in closer as the
+Sun would have gotten a bit dimmer as you
+stole its mass and extended its life.
+Since they are flipping around a lot of that
+sunlight would be wasted so you’d probably
+put a big thin Ringworld covered in solar
+panels behind them or maybe a variation on
+the Rungworld we discussed in Dyson Spheres.
+There’s some weird tricks you can do to
+allow you to travel easily, maybe even walk,
+between such collections of planets, but we’ll
+discuss those another time too.
+As to why you’d ever build such things,
+it’s worth remembering that any civilization
+that can build such things is one powerful
+enough to justify the efforts simply by saying
+“Because we can”, however as mentioned
+earlier, they do serve an actual purpose.
+You can store mass in many ways, but if your
+civilization is going in for the long haul,
+you do need huge reserves of mass and ones
+that can reliably be kept securely for astronomically
+long times.
+Quite possibly more than an entire solar mass,
+as your home system might be grabbing additional
+material from nearby systems.
+Most storage spots would probably be spherical
+shell worlds, and they’d only be a small
+fraction of the places people lived, but there’s
+no real major downside to using other geometries
+that would prevent you from doing some for
+novelty value.
+A Flat Earth is going to be a major tourist
+attraction and one which conveniently has
+good weather everywhere on it, no polar or
+equatorial variation, so you could cover it
+with tons of archipelagos of snaky islands
+and beach resorts for instance.
+For that matter, you could also recreate earth-like
+deep oceans, something that is very hard to
+do with rotating habitats.
+So this is an example of a type of megastructure
+and artificial planet that you wouldn’t
+build a lot of, but which you probably would
+build some of.
+So while in the past folks often incorrectly
+believed the Earth was flat, in the future,
+there will probably be folks who could say
+that and be correct.
+It does make me wonder though, if any of those
+folks living on a Flat Earth might create
+conspiracy theories that they actually lived
+on a sphere.
+It’s going to be a long time before we’re
+building artificial planets, but they do seem
+to serve a practical purpose, not just the
+stuff of daydreams.
+Of course they already do, we often use weird
+geometries like flat or cube or hoop shaped
+planets for teaching students how to master
+working with gravity and if you going through
+the episode today wondering about other strange
+geometries and how you calculate their gravity,
+or just want to improve your math and physics
+skills, head over to Brilliant.org.
+Brilliant focuses on teaching you practical
+knowledge at your own rate, but they know
+that to learn the material it helps to have
+a lot of fun examples, and one of those is
+the Flat Earth quiz that walks through the
+math and concepts involved.
+If you want to increase your own understanding
+of that topic or others, and have fun while
+you’re doing it, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription.
+We’ll get to our schedule in a moment, but
+as a reminder, we have our End of the Month
+Livestream coming up tomorrow evening at 7
+PM Eastern, and I hope to see you then!
+Next Thursday we’ll be back to the Upward
+Bound series for a look at Kickstarting Space
+Industry, and we’ll review some of the options
+that might be what get us into space in a
+big way.
+The week after that, we’ll make a trip to
+the North Pole and Antartica to look at ways
+we might transform the cold regions of our
+own planet into livable places.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching, and
+have a Great Week!

@@ -1,0 +1,777 @@
+This episode is sponsored by Audible.
+A human floating around outside the Earth’s
+gravity is very much a fish out of water.
+But our distant ancestors were literally fish
+out of water, and they adapted to living on
+land pretty well. Maybe some of our descendants
+will adapt just as well to life without gravity.
+Last February, we did a well-received episode
+about low-gravity planets, and the probable
+effects on human physiology and evolution.
+We also talked about how close to the truth
+science fiction has come in its portrayals.
+So taking that concept all the way to zero-g
+or near-zero-g seemed like an appropriate
+follow-up.
+Of course, we’ll be talking mostly about
+man-made habitats in this episode, because
+to hold an atmosphere in place requires either
+significant gravity or an airtight enclosure,
+but we will talk about some other possibilities.
+And while this won’t be a very heavy episode,
+you might still want to go get a sealed drink
+and a non-crumbling snack, and seatbelt yourself
+in for a while.
+The terms near-zero-g, micro-g, and microgravity
+are interchangeable terms for the same thing.
+What astronauts experience in space used to
+be popularly called “zero-g”, but that
+was a popular misnomer, because there’s
+a solar system and universe around us that
+make it impossible to get away from all gravity.
+If you’re in a circular orbit around the
+Earth, centrifugal force cancels the Earth’s
+gravity, but the Sun still exerts about half
+of a thousandth of a g on you and your spacecraft,
+and the Moon exerts about three millionths
+of a g. Your craft, crew, and cargo also have
+mass and so also exert some attractive force
+on each other. An average-sized adult close
+enough to shake hands with exerts about one
+billionth of a g on you, and if you’re the
+length of the International Space Station
+away from the center of the International
+Space Station, it’s also exerting about
+a billionth of a g on you.
+For objects that are very close, tidal forces
+also become a concern. The strength of gravitational
+force is inversely proportional to the square
+of the distance, so there’s slightly less
+gravity on your head than your feet here on
+Earth, but we can usually ignore that. In
+microgravity, less so. The very slight gravitational
+force exerted on you by the astronaut you’re
+shaking hands with is several times stronger
+on your hand than on your shoulder. The difference
+can have a measurable effect, for example,
+on current ISS experiments on micro-assembly
+and micro-crystal growth.
+You can mostly isolate an experiment from
+all the jostling and vibration caused by astronauts
+bumping around in the space station, but there
+is no insulating it from their gravity and
+tides. So, while the term zero-g was close
+enough decades ago, more precise measurements
+on more sensitive modern experiments require
+us to adopt more precise terminology.
+Human bodies are not very well equipped to
+adjust or adapt to microgravity, and I think
+that’s largely because evolution has never,
+in all of life’s history on Earth, had to
+deal with any changes in gravity. The temperature,
+light level, day length, oxygen levels, and
+most everything else about every natural habitat
+vary significantly with the season, location,
+and geological era. Gravity has been the one
+nearly absolute constant.[a][b]
+1g is by definition 9.80665 meters per second
+per second, meaning that the speed of a falling
+object, absent air resistance, will increase
+by 9.8 meters per second every second. This
+value is an estimate of the average gravity
+on the Earth’s surface, but local gravity
+varies over the Earth’s surface by less
+than a percent, from .995g atop mountains
+near the equator, to a crushing 1.003g over
+the Arctic Ocean, the place where the Earth’s
+surface is closest to the Earth’s core.
+The gravity we experience today was the same
+for our primate ancestors, our rodent, reptile,
+fish, and bacteria ancestors, and every living
+thing that’s ever lived on this planet along
+the way.
+So to call a human experiencing microgravity
+a “fish out of water” is just about the
+most apt figurative use of that phrase I can
+think of. Taken out of the environment they
+evolved to function in, our bodies start to
+malfunction, and sometimes rather badly. Even
+extraordinarily fit and healthy individuals,
+like those selected to become astronauts,
+such as Chris Hadfield or Scott Kelly, end
+up having serious medical issues arise from
+extended stays in microgravity—some of which
+can jeopardize the mission, and some of which
+don’t go away when the astronauts return
+to Earth. We will have to solve or at least
+address all of those problems before we dare
+send humans much farther from Earth than we
+already have, at least without artificial
+gravity.
+The first common problems that arise are nausea
+and headache. The first minutes in microgravity
+can be rather like car-sickness or seasickness.
+The vestibular system of your inner ear uses
+fluid flowing freely in your semicircular
+canals to sense acceleration and determine
+what direction down is in. Your brain attempts
+to reconcile the orientation you sense with
+what you see. And just like when you’re
+in the cabin of a rocking boat or reading
+in a moving car, your brain can’t do that
+reconciling, but it keeps trying, and eventually
+it notifies you that something is wrong here
+by making you feel as awful as possible. There’s
+a reason the training plane NASA uses to simulate
+microgravity has been nicknamed the Vomit
+Comet.
+The failure of bodily fluids to move normally
+is a big problem when your body is 60% water.
+Long ago, astronaut Wally Schirra explained
+in commercials for decongestants that sinuses
+do not drain in space. So when he gave his
+fellow crew members on the Apollo 7 mission
+his cold, they were in real physical pain
+for days and just had to work through it.
+Wally also invited us to imagine what it would
+be like to sneeze inside a space helmet—but
+I won’t do that, in case you’re enjoying
+that snack I recommended earlier, and it's
+one of many examples of how normal human bodily
+functions aren’t normal in spacesuits or
+micro-gravity.
+Cerebrospinal fluid also does not move around
+in microgravity quite the way your body needs
+it to. Without gravity pulling it down, it
+pools in your head and exerts pressure on
+your brain and the backs of your eyeballs.
+This contributes to the headaches and also
+deforms the eyeballs a bit. Astronauts are
+screened for having perfect vision, but after
+several weeks on missions they often end up
+with blurry vision and nearsightedness that
+doesn’t always go away when they return
+to Earth. Worse, the adjustable-focus glasses
+that NASA issues are so un-cool-looking that
+they somehow manage to make even astronauts
+look uncool.
+Blood flow is a more serious issue though.
+Your blood doesn’t rush to your head in
+micro-g like when you hang upside down, but
+it also doesn’t drain downward like normal.
+That’s why astronaut’s faces always look
+a bit puffy during missions—then after we
+get used to seeing them like that, they look
+a bit gaunt doing interviews back on Earth.
+They also say they get skinny “bird legs”
+in space because blood and interstitial fluid
+do not pool down there like they normally
+do. But these are not just aesthetic concerns,
+they are indicators of blood not flowing through
+the body normally, which means the heart isn’t
+functioning normally either.
+Blood pressure and heart rate also drop in
+micro-g, and this is where things get truly
+dangerous. Without gravity to overcome, your
+heart simply does not pump as hard. When astronauts
+are working lightly, their heart rates are
+about the same as when they are lying in bed
+on Earth. When the heart does not work as
+hard, it atrophies, losing strength and soon
+thereafter losing muscle mass. This condition
+gets especially concerning when astronauts
+return to Earth, because the heart must regain
+that muscle mass before it can adjust to the
+new heavier load. Many astronauts have passed
+out on reentry after a long mission, and several
+have ended up having to ingest a lot of salt
+or take low blood pressure medications for
+many months after their missions.
+And your heart is not the only muscle that
+atrophies quickly in microgravity. It probably
+will not surprise anyone that when your body
+doesn’t have to exert itself to lift things
+or lift itself, it gets weaker. But it is
+the postural muscles, the core muscles that
+stabilize your back, abdomen, and pelvis,
+that atrophy the most quickly because they’re
+composed mainly of slow-twitch fibers. Exercise
+helps a great deal, so astronauts spend two
+hours a day working out, but it seems to only
+slow the atrophy not stop it. Atrophy of the
+muscles that hold the body stable and erect
+causes another host of problems when the astronauts
+return abruptly to full gravity on Earth.
+We do not currently have any moon bases or
+low-g rotating space habitats where astronauts
+can return to gravity gradually, but as more
+people spend longer times in microgravity,
+such facilities will almost certainly become
+necessary. And this is where rotating habitats
+like O’Neill Cylinders or the Kalpana 1
+space habitat would be ideal, because the
+simulated gravity you experience inside one
+is proportional to your distance from the
+hub, so if it’s a bit too heavy for you
+today, you just have to move up a floor to
+where the gravity is lighter.
+Your bones also deteriorate in space. When
+load-bearing bones aren’t under any load,
+they quickly start losing calcium, which makes
+them brittle. This happens even to Earthbound
+people who don’t exercise much, but in microgravity
+the effect is more rapid. And calcium released
+from your bones gets absorbed into your blood
+and passed through your kidneys, where it
+can form the jagged variety of kidney stones,
+which are extremely painful and debilitating.
+Staying very well hydrated reduces but doesn’t
+eliminate the kidney stone problem. And just
+like with muscle atrophy, exercising two hours
+a day, particularly exercise with some impact
+like running on a treadmill, reduces but doesn’t
+eliminate the bone deterioration. I suspect
+by now it is pretty clear why I so often emphasize
+the importance of spin-gravity rotating habitats
+in space settlement.
+But as serious as these issues are, they are
+clearly manageable and recoverable. In 1994-95,
+Valeri Polyakov spent a continuous 437 days
+or 14 months aboard the Mir space station.
+He’s now 77 and still in good health according
+to the Russian space agency. Gennady Padalka
+spent a lifetime total of 879 days or 28 months
+in microgravity, spread over 17 years and
+5 missions aboard Mir and the ISS. His career
+demonstrates that it’s not only possible
+to recover normal health after months in microgravity,
+it’s possible to remain fit enough for the
+space program so you can go do it all again.
+But of course, we have to remember that astronauts
+are NOT ordinary people, they are among the
+most extraordinarily fit and healthy specimens
+their respective countries could find. So
+there’s no data on how average or out-of-shape
+folks will fare in space or recover from it,
+and I doubt NASA is going to run that experiment
+any time soon, though my fingers are crossed.
+And of course the late great John Glenn, first
+American to orbit Earth and long time Senator
+for my own state of Ohio, did manage to get
+back up into space again at age 77 in a NASA
+experiment focused on the effects of the environment
+on seniors, so there is hope for those who
+want to get in space as a test subject for
+how microgravity affects folks who aren’t
+in peak health, and we do need to know those
+eventually since space settlement is not intended
+to rely on sending only olympic athletes to
+space.
+The physiological effects of extended microgravity
+are a major concern for planning any manned
+journey to Mars. Realistic mission plans put
+the astronauts in transit for at least 18
+months. The landing party would certainly
+have an easier time adjusting to 1/3 g on
+Mars’ surface than they would adjusting
+abruptly back to a full 1g, but they wouldn’t
+have the help of dedicated ground crew and
+medical personnel around them, only each other.
+And then after months in Mars’ 1/3 g they’ll
+spend another at least 18 months traveling
+back to Earth. For a deeper analysis of the
+gravity-related issues our explorers and their
+children might encounter on Mars, you can
+check out our episode about Low-Gravity planets.
+But barring any sudden medical breakthroughs
+that solve all of the microgravity problems,
+we’ll have to equip the spaceship with a
+rotating section to travel in, what we often
+call the Drum. Such a drum would add enormous
+fuel costs and construction time to the mission.
+The Drum would have to be quite large if the
+astronauts were supposed to spend any significant
+time in it. As I mentioned, centrifugal force
+is proportional to the distance from the axis,
+so a person standing inside a spinning drum
+feels literally light headed, with lighter
+simulated gravity on their head than their
+feet. The only way to remedy this is to make
+the drum so large their height is pretty small
+compared to the radius. For example, if the
+radius is twice your height, your head would
+feel half as much gravity as your feet, but
+if the radius is ten times your height, your
+head would feel 90% as much gravity as your
+feet, a big improvement at quite a cost.
+And the more surface area the habitat has,
+the more mass of shielding it needs. When
+people and cargoes move back-and-forth between
+the rotating and non-rotating sections, they
+carry and transfer their angular momentum,
+so you’ll need thrusters and flywheels to
+keep the respective sections rotating or not-rotating
+correctly and steadily, otherwise your whole
+vessel will be spinning before long. Maneuvering
+also gets complicated when you’re carrying
+a massive gyroscope around, an issue you either
+deal with or solve by having a second giant
+gyroscope rotating the opposite direction.
+This is turning into quite a lot of mass we’re
+adding to our vehicle, that we’d currently
+have to lift into orbit with rockets for about
+$10,000 per kilogram. And this is the answer
+to a question I frequently get, about why
+the ISS doesn’t just have a rotating drum
+section.
+I mentioned earlier that the worst problems
+associated with prolonged microgravity arise
+when the astronauts return to Earth, so simply
+NOT returning to Earth is an obvious way to
+solve those problems.
+This has actually been proposed non-jokingly
+as a way to solve a lot of problems with a
+Mars mission, just skip the brief jaunts,
+cautious visits, and hauling along a return
+vehicle. Just make the trip one way and commit
+to a colony outpost founded by people prepared
+to spend the rest of their lives there, paving
+the way for the future arrivals. So it’s
+not completely unreasonable to think this
+might be a solution to the problems caused
+by returning from microgravity, particularly
+if someone had been stuck in space for longer
+than planned and found that they were medically
+unable to return.
+In the early 90’s, cosmonaut Sergei Krikalev
+was stranded aboard the Mir space station,
+not because of any technical problem, but
+because his home country the Soviet Union
+dissolved. Even his intended landing site
+at the Soviet cosmodrome was suddenly in a
+different country, Kazakhstan. So he ended
+up staying aboard Mir for 311 days, twice
+what had been scheduled. Sergei was alright
+and even flew several other space missions,
+but his case does raise the question of what
+would happen if someone were stuck in space
+for much longer.
+Every improbable event will happen eventually
+if you wait long enough, so it’s fair to
+say that someday, either by an accident in
+space or a disaster on Earth, someone is going
+to get stranded in microgravity for so long
+they just can’t ever return to full gravity.
+That would be a terribly lonely existence
+if that person or crew were stranded on the
+only space station in orbit, but it might
+not be so terrible if it happened in an era
+where there’s significant infrastructure
+and permanent human presence in orbit. Then
+they’d at least have company and a job where
+they’ll always be the most experienced worker
+around. Though unless others are remaining
+permanently, it might be rather rough on them
+having many short term relationships always
+ending in remaining in touch by correspondence
+or not at all. That may incline many folks
+who work for long times in space to opt for
+more expensive options allowing them to return
+to gravity eventually, like a space miner
+having a rotating section on their ship or
+taking long vacations into gravity.
+Of course, it’s also very possible that
+before we build major orbital infrastructure,
+we’ll establish a permanent presence on
+the Moon—in fact we’d probably establish
+lunar mines and factories precisely to build
+our low-orbit infrastructure. And those lunar
+colonies might be viable places to send our
+stuck astronaut to, either to retire or to
+recover more gradually, where they only have
+to adjust abruptly to 1/6 g, which is probably
+a lot easier than adjusting to an abrupt return
+to full 1g.
+And by the way, the idea of retirement homes
+in space has also been kicked around, a place
+where less physically able people can enjoy
+mobility again, where weak bones and muscles
+don’t matter so much, and where there’s
+zero danger of falling in the shower. Though
+we should also remember that while many might
+find those attractive options now, they may
+be redundant in a century as medical technology
+is also likely to improve.
+So now that we’ve covered involuntary permanent
+residency in microgravity, let’s think about
+voluntary stays. We take it more or less as
+a given on this channel that someday people
+will live on Mars, the Moon, and Venus. If
+people live their lives there, they will adapt,
+and there’s really no need to ensure they’re
+able to return to 1g. Most Americans have
+never visited the countries their ancestors
+lived in two hundred years ago, and most humans
+have never felt the need to visit the East
+African grasslands where our species originated,
+so there’s no reason to think most Martians
+or Venusians will visit Earth ever. And with
+options like virtual reality available for
+visits, there’s less need to make sure they
+physically can visit.
+The same is true for the people who will be
+farther out, mining asteroids and comets.
+If you work in space, you’ll probably be
+in microgravity all day long and quite accustomed
+to it. Your spaceship or mining facility might
+have a habitation drum providing gravity,
+but that represents an extra cost and maintenance
+issue so wouldn’t be a feature of a marginal
+operation, and most businesses usually are
+marginal operations to some degree, though
+spin-gravity habitats on facilities might
+also be something government mandated. So
+too, full gravity is harder than low-gravity,
+so spaceships and smaller facilities might
+feature Martian or Lunar levels rather than
+Earth-standard gravity. It might seem a major
+inconvenience to have to return to the 1g
+O’Neill habitat for a few months every year,
+just to keep you medically able to return
+to a planet you don’t care much about. And
+it will certainly be inconvenient having to
+either travel great distances to that habitat
+or drag such a habitat around with you, paying
+for it all the way.
+If colonizing the Solar System plays out like
+the settlement of the American West—or like
+it’s depicted on The Expanse—the first
+settlers in some areas might be people acting
+on their own, either poor enough or enterprising
+enough to set off and try to make a life or
+a fortune grabbing up those resources that
+are there for the taking. Folks like those
+are likely to skip the time and expense of
+building rotating sections for gravity, let
+alone giant O’Neill cylinders. So, you’ll
+have humans living and working in microgravity
+for years, with no illusions about returning
+to Earth. If they find they can just adapt
+to that life, it is likely many will just
+go on that way, one job to the next. It seems
+inevitable that many space workers will simply
+become permanent microgravity residents.
+Of course, if you are talking about a civilization
+or nation of people living permanently in
+microgravity, they’ll have to be able to
+reproduce, and we still don’t know if this
+is harder in zero-gravity. While animal embryos
+and pregnant animals have been sent into space,
+there hasn’t yet been a complete animal
+gestation in space, where the animals got
+pregnant in space and remained there until
+they gave birth, let alone multi-generational
+studies. So the data on this is lacking, and
+is totally absent where humans are concerned.
+Animal data won’t necessarily tell us if
+humans can have normal and healthy births
+in space. We already gestate and give birth
+rather differently than other mammals owing
+to our torsos being vertical and our pelvic
+canals being relatively small to keep our
+guts from falling through. And if microgravity
+affects the flow and pooling of blood, that
+will have effects on a pregnancy. This is
+probably manageable, but the rigorous scientific
+answer to whether or not human beings could
+actually breed in space is, “We don’t
+know, no one has tried.”
+I’ve talked so far about the many problems
+of adapting and adjusting to microgravity.
+But I am very much a science-optimist, and
+I tend to believe that none of these are absolute
+barriers, only problems to work through. We’ve
+done episodes on genetic engineering, cybernetic
+enhancement, and all sorts of ways we might
+alter our bodies and minds, so problems like
+bone and muscle atrophy and abnormal fluid
+pooling seem pretty modest and very solvable.
+And what we treat initially with drugs or
+mechanical enhancement, we might eventually
+address with permanent genetic grafts, so
+that workers will simply be born able to remain
+in microgravity indefinitely.
+Indeed this is the root of the term “Cyborg”
+or cybernetic organism, the word originally
+meant the various biological and chemical
+adaptations or treatments we might need to
+make life in an off-Earth environment possible,
+the concept of a cyborg as someone walking
+around on mechanical limbs or sporting metallic
+augmentations is a more modern development.
+That version might be in the cards too, and
+in many cases folks might embrace chemical,
+genetic, surgical, or mechanical alterations,
+treatments, or augmentations that made their
+life in a specific non-Earth environment easier.
+Chances are, space-dwelling humans will live
+in many different levels of gravity and even
+move around between them. If you colonize
+a planet, you are pretty much stuck with whatever
+gravity was native to it. Even if you had
+something like artificial gravity generators
+you presumably need power to run those, and
+run them perpetually. Doing that planet-wide
+would seem a far greater effort than just
+adapting life to that lower gravity. The preferred
+human habitat, though, will likely be the
+O’Neill cylinder, and those can be constructed
+and spun up to synthesize however much gravity
+you’d like, there’s no upkeep cost to
+that gravity beyond maintaining the structure
+itself since it relies on conservation of
+angular momentum, it will keep spinning in
+a vacuum environment with no friction and
+generate spin-gravity while it does so.
+But that gravity isn’t uniform, it's proportional
+to the distance from the axis of rotation,
+and unless your drum is very large that difference
+can be rather noticeable in multi-story buildings
+or any landscaping that is more vertical than
+flat grasslands. Skyscrapers or even trees
+would be dealing with significant changes
+to gravity along their height in any drum
+not kilometers in diameter. Many would probably
+be a lot smaller too, just the tens of meters
+minimally necessary to avoid noticeable difference
+in gravity between your head and feet.
+It would seem a terrible waste of expensive
+living space if everyone just lived on the
+one level at the right radius to have exactly
+1g. The outer levels with higher gravity probably
+will not be favored as much as the lower-g
+levels closer to the axis, but there’s no
+good reason to leave either uninhabited.
+But the folks who live in microgravity won’t
+have to go to the inconvenience of building
+a huge drum, making it strong enough to not
+spin apart, and controlling its rate of spin.
+They can pretty much just build a box of any
+convenient size and shape or even inflate
+a balloon, then slap on some radiation shielding,
+and they are ready to move in. This will give
+them quite an advantage when there’s new
+territory to settle. They will also be able
+to handle long remote space missions, so they
+will likely be the vanguard exploring and
+surveying new systems, which would usually
+imply access to the choicest parts of those
+new territories. This means they will settle
+a lot of places the floor-bound folks haven’t
+reached yet—and might not ever reach.
+And this raises interesting possibilities
+for human evolution. When two groups are separated
+in this way, they will begin to diverge—socially,
+then culturally, then genetically. We might
+very well find the human species branching
+into groups that find each other’s way of
+living and the appearance of their bodies
+quite alien.
+There’s no way we can know for certain if
+they’ll call each other Floaters and Sinkers,
+so I’m forced to assume they will. Floaters
+living in microgravity would probably tend
+towards much lighter skeletons with scrawny
+limbs, as they tend to be portrayed in science
+fiction. One might also imagine they would
+adapt away from hands and feet toward four
+hands, their feet and toes shifting toward
+being able to grab things, as that would be
+more useful than the modern foot and leg structure,
+which has to handle lots of repeated heavy
+impacts. And while such a thing might take
+a long while to evolve naturally, it is not
+likely to be a major challenge for genetic
+engineering. Indeed our entire bipedal setup
+is less advantageous in zero-gravity too,
+where things like floors and walls and ceilings
+become rather arbitrary.
+You can swim and fly through air too, and
+while I’d imagine early space travelers
+might opt for clothing that let them push
+the air to move about, webbed fingers and
+toes might develop and even wings aren't off
+the table. A culture evolved – or engineered
+– for micro-gravity might be a pretty alien
+thing, shifting to the more aquatic or avian
+formats.
+While that sounds alien to us, it might seem
+eccentric and reactionary to them that Sinkers
+would migrate into space and then refuse to
+adapt to it. Micro-g is the norm, what you’re
+going to find in most of space, with gravity
+only available on planets that might not be
+habitable and in those inconvenient rotating
+cylinders. But when your subspecies simply
+adapts to conditions in space, your options
+for places to inhabit are pretty much the
+definition of vast.
+We also have a host of megastructures focused
+on low or no gravity that we discuss here
+less than rotating drums because we tend to
+focus on Earth-like habitats. One of those
+is the Gravity Balloon. This is a structure
+where you just have a big balloon full of
+air whose outer surface is covered with protective
+material, that might be armor and solar panels
+or just rubble and spill from mining an asteroid,
+or ice or some sturdy transparent material
+if you wanted to see outside or let light
+in. Here the pressure of the air, presumably
+at one standard Earth atmosphere, is counteracted
+by the weight of the outer protective layer,
+thus not something that can pop from a puncture
+in spite of the implication from being called
+a balloon.
+Given that it's the air in the balloon generating
+that gravity these can get to be enormous,
+one modest asteroid ground down to provide
+the protective outer layer might provide a
+culture’s whole living area, potentially
+a whole world. Considerably larger than planets
+in fact, the Edersphere, a giant hollow empty
+steel shell, is several times larger than
+Earth and filled with an Earth-like atmosphere.
+You can also have some rather unique biology
+in zero-gravity, especially when we include
+low-gravity of less than a percent human normal,
+floating islands held aloft by buoyancy or
+trees and coral reefs stretching through kilometers
+of empty air. You would still have weather
+in such things even if it’s driving forces
+were quite different. Those might make for
+very attractive environments to visit, and
+to live in, where you could fly or swim around
+the sky as easily as a fish, and you could
+arrange bubbles of water and land with some
+careful engineering.
+So, returning to the fish-out-of-water analogy
+for a moment, it’s relevant to note that
+while humans out of gravity have similar problems,
+some fish do voluntarily venture out of water
+when they have good reasons. Some found that
+laying eggs on the beach was a good way to
+keep them safe. And some of them spent so
+much time out of water their species evolved
+to land, and now they are driving cars, doing
+science, and watching videos on colonizing
+space. So it is worth pondering if our species’
+relationship with gravity could go the same
+way.
+Considering how much science fiction takes
+place in space, relatively little of it actually
+takes place in zero-gravity, even in books
+where there’s no need for expensive special
+effects to simulate it. Even when we do see
+it, it tends to be short scenes, and very
+few authors have tackled true micro-gravity
+cultures as a topic. One who did was Larry
+Niven, in his 1984 novel Integral Trees, Book
+two of his State Trilogy, and its sequel Smoke
+Ring, which both take place in a thick gas
+halo around a neutron star in which life has
+evolved in a massive atmosphere halo around
+that star with no gravity. The story follows
+the descendants of a team of humans who arrived
+to explore it and now dwell in the micro-gravity
+environment, and Integral Trees is our Audible
+Audiobook of the Month.
+This is not Niven’s first time winning our
+Audibook of the Month, and with good reason,
+the author of Ringworld, The Mote in God's
+Eye, Lucifer's Hammer, A World Out of Time,
+and many more excellent novels and short stories
+writes science fiction that is simultaneously
+mind-blowingly fantastic and scientifically
+realistic, and you can find them all on Audible,
+just visit Audible dot com slash isaac or
+text isaac to 500-500.
+Audible has an incredibly library of thousands
+of audiobooks, theatrical performances, original
+entertainment, guided fitness and meditation,
+sleep tracks, and podcasts, and now’s the
+perfect time to join as they are having a
+President’s Day’s Sale for 6 months of
+Audible for just $9.95 a month. For a limited
+time – In addition to accessing one title
+from their Premium selection, you can download
+and stream thousands of all-you-can-listen
+audiobooks, originals and podcasts for less
+than the regular membership.
+Again Just visit the link in the episode description,
+Audible.com/Isaac, or text “Isaac” to
+500-500.
+Some of you probably noticed that we had a
+few changes in our schedule, swapping this
+week’s episode and last week’s Colonizing
+Red Dwarfs on the schedule for January and
+even moving around the Monthly Livestream
+Q&A, which appeared on the Schedule for Sunday
+January 24 then January 31st. I’d forgotten
+that I had moved it to the 24th because my
+wife Sarah, who cohosts the Livestreams, was
+out of town for wedding on the 31st and figured
+I’d just forgotten January had 31 days,
+and moved it back. I wanted to thank my longtime
+friend David Thomas for being nice enough
+to fill in for her this last weekend. I usually
+talk about our upcoming episodes at the end
+of a video and will get to the schedule in
+a moment, but someone mentioned to me how
+they kept missing the Livestreams and that
+they didn’t realize they could still watch
+them afterward, the livestreams have replays
+available. So if you missed that, or last
+week’s episode, Colonizing Red Dwarfs, you
+can still catch them.
+So today we looked at gravity, or rather civilizations
+existing in an absence of it, and next week
+our topic is going to be a substance we can
+only detect by its gravity, as it seems to
+be absent in every other respect, as we discuss
+Dark Matter, what it might be, and what technologies
+we might be able to develop for using it.
+After that we have our mid-month bonus Sci-fi
+Sunday episode, Multi-Species Civilizations
+& Co-Alien Habitats on Sunday, February 14th,
+and in two weeks we will be returning to the
+topic of Space Warfare to look at Orbital
+Bombardment, and we will finally find out
+what the First Rule of Warfare is.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas. You can also follow
+us itunes, Soundcloud, or Spotify to get our
+audio-only versions of the show.
+Until next time, thanks for watching, and
+have a great week!
+[a]This is not strictly correct. First, the
+moon and tides. And second, organisms that
+use free fall is part of their daily routines
+(birds, monkeys, squirells. I guess, fish
+out of the water and tortoises, that come
+out to lay eggs or is it body weight change
+not the same as change in gravity for the
+purpose of the discussion?) Skydivers?
+[b]You're editing an episode that was marked
+as recorded a month before this, need to be
+careful about that, even if it was mostly
+good edits I only change recorded ones for
+critical edits.

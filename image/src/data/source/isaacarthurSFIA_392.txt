@@ -1,0 +1,776 @@
+This episode is brought to you by Skillshare.
+Alone in a dark forest, does the sudden hush
+of woodland critters frighten you?
+Are you really alone?
+There are a pair of fairly common reactions
+to any new astronomical phenomena.
+The first is to see such an anomaly outside
+our current understanding and assume its proof
+of alien life.
+The second is seeing that anomaly and saying
+it is certainly of natural origin and any
+suggestion to the contrary is absurd.
+Now, neither reaction exists in a vacuum.
+Of course, nothing does exist in a vacuum
+which is essentially our topic for the day,
+in an astronomical context, but also in a
+human context, on the discussion of the existence
+of aliens, both reactions are from decades
+of folks contemplating the topic of the Fermi
+Paradox, the seeming contradiction between
+the sheer size and age of the Universe and
+the apparent absent of any other intelligent
+life in it.
+Those two reactions I mentioned, ‘this is
+aliens’ and ‘this is definitely not aliens’
+aren’t really the ground state of either
+reaction, and indeed the second is more of
+a reaction to the first.
+The first is generally initially simple intrigue.
+We’ve got something we can’t explain yet,
+and we wonder if maybe it’s a sign of something
+unnatural and artificial.
+Whereas, the other might be regarded as an
+exasperated reaction to how often folks jump
+to that conclusion even after all the times
+it’s turned out otherwise.
+Two of the phenomena that most often grab
+attention as possibly artificial are the Cosmic
+Voids, immense regions of nearly empty space
+far larger than any galaxy, and the occasional
+stars in our own galaxy which seem to be fading
+out or disappearing entirely for a variety
+of reasons, with some for reasons we don’t
+know.
+Since the usual approach of SETI – the Search
+for Extraterrestrial Intelligence – is to
+hunt for things like radio signals, inhabited
+worlds, or other clear signs of life, it can
+seem a bit counter-intuitive that we would
+look at big empty spaces or missing stars
+and say that was a sign of life.
+However, this essentially boils down to the
+concept of the Kardashev Scale, something
+we call the Dyson Dilemma, and a bit of misunderstanding
+about both.
+The Kardashev Scale is an approach to measurement
+of a civilization’s power usage, with astronomical
+detection in mind, see our episode on the
+Kardashev Scale for further discussion of
+what such immense civilizations might be like.
+Civilizations are assumed to need energy and
+be bound by the Laws of Thermodynamics, meaning
+they don’t use energy up, but merely take
+energy in, get some work done with it which
+transforms it into a higher entropy state
+of energy, and emit that as waste heat.
+There’s nothing to permit convection or
+to conduct heat away in the vacuum of space,
+so heat must be dissipated via radiation as
+photons of light coming off from the object
+instead.
+In the case of inhabited planets this would
+be expected to be infrared photons of the
+wavelengths associated with terrestrial temperature
+thermal emissions, or LWIR, long-wavelength
+infrared.
+Generally those temperatures you’d get when
+water is a liquid, not ice or gas, though
+the official region for LWIR is -80 to 89
+Celsius, or a wavelength of 8 to 15 micrometers.
+I wanted to emphasize that because it can
+be a bit confusing talking about waste heat
+and radiation and infrared.
+The visible light our Sun produces, that warms
+us and serves as the ultimate engine for all
+life on Earth, represents a tiny band our
+eyes can see, splitting much larger bands
+of radiation, the Infrared and the Ultraviolet,
+a skinny little river separating two big nations.
+In truth it’s more like the Mississippi
+River separating the East and West United
+States as the processes associated to making
+Infrared and Ultraviolet light are more or
+less the same, whereas the other major bands
+of photon radiation like X-Ray, Gamma, and
+Radio tend to be produced by different physical
+processes, like nuclear fission or fusion
+in an atom’s core for gamma.
+All the light from the Sun originates as Nuclear
+Fusion producing energy that gets absorbed
+by the gases in the Sun which then re-emit
+it as waste heat, just at a much smaller wavelength
+than LWIR.
+Regardless, while our own Sun produces a lot
+of visible light, it actually produces more
+infrared than visible light, it’s just a
+much more energetic zone of infrared than
+LWIR, the Infrared region known as NIR or
+Near Infrared, being near the visible light
+region of the spectrum.
+Generally using light as a power source is
+going to result in absorbing photons in shorter
+and more energetic wavelengths and re-emitting
+them as longer and less energetic photons.
+And you do have to re-emit them as your temperature
+would keep rising otherwise, till you baked
+in your own waste heat, though we’ll discuss
+some hypothetical alternatives to that today
+too.
+In regard to the Kardashev Scale, the notion
+is that civilizations use up sunlight to run
+themselves, converting that into infrared
+light of the wavelengths associated with their
+effective ambient temperature, which we generally
+assume would be in that LWIR range.
+This results in a lot of misconceptions though,
+as some will say that a Kardashev-2 civilization
+for instance, one which uses up all the light
+of its sun, would be invisible.
+It’s not, and indeed it isn’t using up
+all that light, it’s merely using all that
+light and converting it into LWIR wavelengths,
+its waste heat.
+Incidentally a Kardashev-1 Civilization is
+one that uses up all the energy of a planet
+and a Kardashev-3 is one that uses all the
+sunlight of an entire galaxy.
+These are very broad ranges, and only useful
+in a SETI astronomical alien-hunting context,
+and a Kardashev-2 or K2 civilization – one
+using up all its star’s energy – would
+be highly variable since our Sun for instance
+is much brighter than most stars, some of
+which are thousands of times dimmer than our
+Sun, while the really big giants can be a
+million times brighter than our Sun.
+A K2 around the dimmest of red dwarfs and
+one around the brightest of Supergiants would
+vary as civilizations in scale as much as
+a single person in a log cabin to an entire
+planetary population.
+The Kardashev Scale is very popular for talking
+about advanced civilizations and trying to
+contrast them – indeed we did an episode
+talking about what such civilizations can
+do – but as we pointed out there, it really
+is an awful system for trying to compare this
+or that hypothetical or fictional civilization
+to each other, like what the Kardashev designation
+for your favorite interstellar empire from
+a scifi book or tv series is.
+Also, we don’t actually tend to assume they’d
+be invisible even in the visual spectrum,
+just way dimmer, they might capture every
+single visible light photon coming off their
+own Sun but they probably would not, and would
+probably re-emit more from this or that artificial
+source.
+The general notion is that they are just way
+dimmer and only in the usual spectrum, they
+are just as bright as before only the brightness
+is in the LWIR range.
+Now the means for this capture is generally
+assumed to be a Dyson Swarm, a big cloud of
+orbiting satellites and constructs around
+a star that each absorb and use some light
+and emit some waste heat infrared.
+This is also known as a Dyson Sphere but since
+that term tended to get borrowed and distorted
+in science fiction to mean a single solid
+spherical shell around a star full of artificial
+land on the inside, we tend to stick with
+Dyson Swarm instead, and a Dyson around a
+star would be characteristic of a K-2 Civilization.
+The Kardashev Scale assumes a civilization
+would tend to build such things around their
+own home star over time, making it slowly
+dim in the visual range and brighten in the
+infrared, and colonize other stars and eventually
+Dyson those up too, eventually getting to
+their whole galaxy which would be a K-3 civilization,
+one that was invisible visually, or very dim
+anyway, but very bright in that LWIR infrared
+range.
+This is the Dyson Dilemma of the Fermi Paradox
+incidentally, since if we assume that civilizations
+like to grow, they grow to other planets and
+other solar systems, and are operating under
+known physical laws, eventually they should
+become a K-1, then a K-2, than a K-3, and
+in the process dim all those stars down to
+non-visible emission.
+In the Dyson Dilemma, we don’t look out
+at the stars and wonder if they’re inhabited,
+instead we wonder why we can even see any
+stars at all, since with billions of years
+of headstart and billions of billions of stars
+to work with, you’d expect them all to have
+been turned into Dyson Swarms long ago.
+That they haven’t been is a bit of a dilemma,
+since it implies some core assumption of science
+we make, be it Darwinian Evolution or basic
+biological imperatives or the Laws of Thermodynamics
+or some other core assumption, is just wrong.
+So this is where the Voids and Disappearing
+Stars comes in, because if you see a star
+getting dimmer over time, or disappearing,
+well that’s what you’d expect from a civilization
+busy englobing that star.
+The slight mistake being made usually is assuming
+that a star would actually disappear rather
+than just change colors, as it were.
+And the massive supervoids in the Universe
+would look a lot like a K-3 or even K-3+ civilization
+that englobed a vast stretch of space.
+Now often that is the end of that consideration
+since such voids are not gushing out galaxies
+worth of infrared so obviously aren’t trillions
+of classic Dyson Swarms surrounding all the
+stars in a clump of galaxies, but there’s
+also the thought that since that infrared
+signature has to do with Heat and Entropy
+and the big problem on the mind of any vast
+and ancient galactic empire would be how to
+manage heat and defeat entropy, that the Infrared
+waste glow might be a missing feature on a
+huge and ancient empire sprawling over many
+galaxies as they would have solved that problem.
+Now for my part I don’t really expect anyone
+will ever solve the problem of entropy, and
+if they did, they really wouldn’t need to
+bother with englobing stars anyway, but it
+has been suggested you might be able to use
+black holes to absorb infrared waste heat,
+by simply having a layer of infrared reflective
+panels and parabolic dishes that reflected
+the LWIR Heat into the black hole.
+The thermodynamics of black holes is rather
+uncertain currently and they may actually
+violate thermodynamics in whole or part.
+They probably do not but we can’t actually
+rule it out yet.
+In any event this wouldn’t likely be a total
+solution, allowing you to completely eliminate
+energy loss or turn invisible, but it would
+make you a lot dimmer and the Cosmic Voids
+aren’t actually totally empty of light anyway.
+Of course that’s the other issue, the voids
+aren’t true voids.
+And we might as well say what they are now.
+The Universe is not homogenous and evenly
+distributed, anymore than our solar system
+or galaxy is.
+If you zoom out far enough, to what we call
+the End of Greatness, it is, but not when
+you’re smaller.
+The End of Greatness is the scale of the Universe,
+a few hundred million light years across,
+in which everything is still Unique but more
+in the way people or soap bubbles or snowflakes
+or trees are unique from each other.
+The End of Greatness is essentially the Zoom
+out scale at which you’re seeing the Forest
+as a green blob.
+We do have some things which are that size
+or bigger, same as you might have a forest
+glade that was clearly visible as empty in
+that green blob, but by and large it all looks
+like a blob zoomed out to that scale.
+I referenced soap bubbles as an analogy though
+and as best as we can tell our Universe is
+arranged more like soap bubbles, with the
+soap film itself being where most of the galaxies
+are.
+Cosmologists have been working to figure out
+why the Universe formed this way since we
+noticed this distribution, why we get long
+strings, filaments, and walls of galaxies
+and big regions of emptiness, but the key
+thing is that these regions, these voids,
+aren’t empty at all.
+They’re just much lower density, same as
+if you look at a night-time image of Earth
+and you see lots of bright lights at the cities
+and major seaboards and rivers where people
+tend to congregate but still have lights and
+people further away from there.
+There are plenty of galaxies and stars in
+voids, they’re just far less common.
+Indeed you have plenty of stars in the more
+mundane intergalactic voids between galaxies
+too, just far less than in galaxies, but the
+big Cosmic Voids are even more thinly distributed
+than that.
+Nonetheless they are in there and there’s
+no reason a civilization swallowing up whole
+galaxies into Dyson Swarms would bypass big
+clumps of stars in their expansion and produce
+that effect.
+Moreover, as we said englobing a star this
+way doesn’t make it dimmer, it just switched
+the light to Infrared and we can’t see that
+with our eyes but our telescopes can and we’d
+notice if these voids were freakishly bright
+in LWIR wavelengths.
+Now as a caveat, while I often say on this
+show folks will probably tend to go this Dyson
+route with stars and growth, that’s not
+really a complete image.
+The notion is more that with a star in a solar
+system producing all that light and burning
+all that fuel, and generally making up at
+least 99% of that solar system’s mass, folks
+will want to use that star.
+They don’t necessarily use it just as a
+big power source, they might disassemble it
+via Starlifting or slow feed it into artificial
+black holes and store all that mass and energy
+for far slower release for a longer-lived
+civilization.
+Indeed, such a slower release would not only
+mask the Infrared signature by massively decreasing
+it, it’s likely to shift it out of the LWIR
+range of light into the Far Infrared, those
+wavelengths of light emitted by very cold
+objects like Pluto, or even into the Microwave
+range.
+You can see the Civilizations at the End of
+Time episodes Black Hole Farming or Postponing
+the Heat Death of the Universe for more details
+on why this would be the case and how it functions,
+but in a nutshell, a post-biological civilization
+– essentially one where everyone has uploaded
+their minds to computers – benefits from
+running at very cold temperatures, each joule
+of energy gives you way more computational
+power when you’re running ultra-cold, and
+so a vast and ancient empire planning to be
+around a long time might have converted over
+to this hyper-efficient approach to computation,
+thought, and life and as such would probably
+show up as only a small glow of Far Infrared
+or maybe even Microwave wavelengths, as they
+are intentionally going low power, low-temperature,
+ultra-efficient and long-lived.
+This is what really caught the eye of astronomers
+and futurists a couple decades back when the
+Supervoids got discovered, because we found
+some voids that were far larger than the normal
+ones and bigger than that End of Greatness
+Scale.
+We could not think how they would form naturally,
+at the time anyway, and we were simultaneously
+getting into serious contemplation of post-biological
+existence like mind uploading.
+That got a bit garbled and simplified in a
+lot of discussions, but essentially it was
+that we were seeing a few voids too big to
+naturally form in our current understanding
+of the Universe and we couldn’t see them
+very well.
+As an example, you can also detect large objects
+and constructs, especially galaxy sized things,
+by their gravitational influence on their
+neighbors, and we didn’t really have a good
+enough picture at the time to see if that
+the voids gravitational influence on the areas
+around them matched the expected amount from
+what stars and galaxies we could see inside
+them, plus they weren’t very well mapped
+initially to even see a lot of those occasional
+galaxies.
+Such astronomy is very difficult and we had
+only the most limited knowledge of Dark Matter
+and Energy at the time so it made it quite
+a guessing game with big margins of uncertainty.
+As time passed, we could see more such voids
+and see them and their galactic neighbors
+better, and we also could start seeing how
+time passed for these voids.
+Astronomy is history, and if I can see something
+like a void 12 billion light years away then
+I’m seeing a void 12 billion years ago.
+Since the Universe is only about a couple
+billion years older than that, we’d not
+expect to see giant civilizations present
+back then making such voids, and we do see
+them, only they are smaller.
+Now at first that is a positive sign for life,
+things which might be artificial and which
+get more common or larger over time match
+the profile for life as they are growing.
+We call this TEA, or the Time-Elapse Argument,
+that any phenomena which is more common in
+the past or bigger is presumably not an artificial
+one since you’d expect a growing civilization
+and it’s artificial constructs and signatures
+to get bigger and for more examples of them
+to pop up in the Universe over time.
+And again Astronomy is history, so we can
+see the past.
+We can find a strange phenomena and look at
+all the objects 1-2 billion light years away
+of that type and compare them to all the ones
+at 2-3 billion light years away, and 3-4 and
+4-5 and so on and see if the density is higher,
+lower, or the same in the patches nearer us
+in space and time.
+If it is higher density or size in the regions
+closer to us, which is to say more common
+as time passed by, then a phenomena would
+pass muster with TEA, the Time Elapse Argument,
+as a phenomena become bigger or more common
+as the Universe aged and life presumably got
+more common and had more time to grow intelligent
+and engage in interstellar and intergalactic
+colonization.
+So Quasars, for instance, which are phenomena
+that some attributed to intelligent critters
+when we first started finding them, don’t
+pass muster under TEA because they were more
+common in the past.
+As we found out with more study, they are
+the product of vast amounts of matter falling
+into big and hungry black holes at the centers
+of galaxies.
+Alternatively those big central black holes
+found in the centers of many galaxies which
+grow over time as they eat more material would
+pass muster under TEA, because they are getting
+bigger with time.
+However, we have a perfectly natural reason
+why they do, they’re just eating up matter.
+Though they are also likely the sorts of places
+you would find major civilizations migrating
+to, see our episode Colonizing Black Holes
+for why.
+Anyway those vast cosmic voids are getting
+bigger with time, but we can see the smaller
+versions of them as far out as we can see
+back in time, pretty much to the dawn of the
+Universe, and it wouldn’t be plausible life
+could have existed then let alone be out flying
+around in spaceships.
+We’ve also found a lot more of these massive
+voids in the years since we found some of
+the particularly anomalous supervoids, such
+as the Bootes Void, also known as the Great
+Nothing, and we tend to figure these occasional
+supervoids just happen to be where two or
+more voids expanded into each other.
+And yes they are expanding, but they are expanding
+at the same rate as everything else in the
+Universe is expanding so in this case, while
+it meets the condition of the Time-Elapse
+Argument, it doesn’t seem to indicate anything
+artificial in that expansion.
+I should not underplay just how huge and empty
+these things are.
+As an example, the aforementioned Bootes Supervoid
+is over 300 million light years across and
+its center is only about twice that far away
+from us.
+Were we at the center of it, we would literally
+not have known of the existence of the rest
+of the Universe till less than a century ago
+when our telescopes got much better.
+Now it isn’t empty, there are galaxies in
+there, probably a couple thousand of them
+though we’ve only catalogued a handful,
+but as an example, your typical Galaxy Filament,
+the huge complexes of galactic superclusters
+between the voids, and which are about the
+same size scale, would generally have tens
+or hundreds of thousands of galaxies in it
+and are smaller in volume than voids too,
+so the voids aren't empty but they are pretty
+empty even compared to the space between galaxies
+inside galactic clusters, superclusters, galaxy
+filaments and walls.
+So we can rule out the Voids and Supervoids
+as being indicative of life.
+They might well have civilizations in them
+but the voids themselves are not a telltale
+signature of them.
+As we learned more about them they didn’t
+really seem at odds with our understanding
+of the Early Universe, quite to the contrary,
+and their expansion is simply mundane universal
+expansion, their emptiness merely a mark of
+being low density rather than hidden materials
+and invisible civilizations.
+What about disappearing stars though?
+One that might be turning into Dyson Swarms?
+Well, first we have to recognize that this
+is many different phenomena.
+For instance, a star catalogued as having
+a brightness, or apparent magnitude of say,
+10, back in 1920, a century ago, would be
+one you couldn’t see with the naked eye
+but was well inside the range of any modest
+telescope.
+There are billions of such stars and virtually
+none have a name other than a catalogue reference.
+Someone looking at it now might see one there
+with an apparent magnitude of 12 and simply
+assume it was a different star, they do move
+a bit with time and errors get made in reporting
+them.
+Indeed a lot of stars get found and recorded
+because someone pointed a telescope that way,
+saw something, jotted down it’s coordinates
+and magnitude, and sent those to an observatory
+for confirmation.
+If it’s a mundane star, simply put, nobody
+cared.
+Astronomers and Astrophysicists do not care
+about any star that isn’t particularly interesting
+because there are so many of them, a report
+of one with no interesting properties is as
+exciting as finding an oak tree in a national
+park.
+In theory someone at an observatory looked
+there and confirmed all the data was right
+but people being people, and astronomy having
+a lot of variability and uncertainty, it might
+have been a magnitude 12 star originally and
+just mistakenly got recorded as a 10 and nobody
+cared till someone saw it century later and
+thought it anomalous.
+Now that’s just a mundane example of human
+error or equipment limitations and we’ve
+some more mysterious examples of disappearing
+stars we’ll get to, but don’t ever underestimate
+such errors and their frequency in science.
+Someone finds some stars a century back all
+near each other in the sky, their estimate
+of brightness is a little shaky, a lazy observatory
+assistant tasked with the boring task of confirming
+them sees they are there and the brightness
+is about right, and a century later someone
+else sees them, more accurately sees their
+brightness a bit lower than originally reported,
+and folks say ‘look, a bunch of dimming
+stars are in proximity to each other, that
+could be a sign of a growing interstellar
+civilization dimming those stars by Dyson
+Swarm englobement’, even though those stars
+are in the same direction but one is a few
+hundred light years away and another is a
+few thousand, implying any civilization actually
+colonizing that region opted to skip millions
+of closer candidate stars to do that Dyson
+Englobement.
+Of course that’s a thing to keep in mind
+with Dyson Swarms, if you build such things,
+you don’t skip nearer stars, even if they’re
+not ideal copies of your native star with
+no decently habitable planets to terraform,
+unless they’re dangerously unstable or in
+a chaotic neighborhood, and maybe not even
+then.
+A civilization going up the Kardashev Scale
+has abandoned planets as a center for life
+in favor of alternatives like O’Neill Cylinders
+- or for post-biological civilizations, massive
+orbiting computer complexes – and while
+rare gems of systems with a ideally habitable
+planets might be treasured they aren’t skipping
+other systems, just prioritizing those gems
+a bit.
+Also while we usually picture them as growing
+blobs of darkness, expanding out from their
+homeworld in a rough sphere, that doesn’t
+mean that patch of sky goes utterly dark,
+even ignoring that it’s actually going infrared
+anyway, because a sphere a hundred light years
+wide of Dyson Swarmed stars still has stars
+out past it or before it that we’d be seeing
+still from that direction.
+What else causes stars to appear to disappear
+though?
+Besides observational error that is.
+Well we don’t just have astronomer eyeballs
+to work with, we often had photographic plates
+and we found some where the plate showed a
+star brighter than what was there now.
+Stars often do vary a bit in brightness over
+time and can flare for any number of reasons,
+like something smacking into them, nor are
+such old plates ultra-reliable for data, but
+it’s important to keep scale in mind.
+If an event happened on average once every
+million years that brightened a star for a
+century, then 1 in 10,000 stars, if photographed
+at random, would be undergoing that at any
+given time, and looked at a century later
+would seem freakishly dimmer.
+There would be millions of such stars doing
+that in our galaxy at any given moment.
+Similarly dimming events, like an obscuring
+debris cloud, could cause false appearances
+of dimming too.
+But we do have entire classes of stars like
+pulsars, variable stars, or the recently identified
+hot subdwarf pulsators that can change brightness
+rather largely over time increments, either
+irregularly or with high precision timing
+of repetition, and of course you could have
+both, a star that pulsed in brightness by
+10% every month and just happened to have
+undergone a dimming or brightening effect
+like a collision while we were looking at
+it.
+The odds of both being the case might be small,
+but our galaxy is huge, giving us a sample
+size of hundreds of billions for such freak
+coincidences to occur.
+This is where we approach such anomalies under
+the Fermi Paradox by asking why we’d only
+see one sign of potential artificial origin,
+rather than several.
+For instance, you know you’re near a human
+city when you have a large light glow at night
+time, from all the street and window lights
+in that city, it’s a sign of artificial
+origin, but you’d also expect to see at
+least a couple more such signatures, like
+a spike in thermal infrared from all the artificial
+heat and energy of that city, or a spike in
+radio transmissions, which even if you can’t
+decipher them or see a pattern in them because
+they’re encrypted or very compressed, still
+would be around as a spike in the amount of
+transmission.
+I don’t need to be able to make out individual
+conversations in a crowded room of people
+to know folks are talking, there’s a loud
+buzz.
+So if you find a dimming star, you check it’s
+neighbors to see if any of them are dimming,
+you check that star and those neighbors for
+anomalous amounts of LWIR emission, extra
+radio waves, and so on.
+Key notion incidentally is that a Dyson Swarm
+can be built very fast, especially a simple
+solar collector that might be thin sheets
+of material constructed and assembled in mere
+years by automated robots dissembling a handful
+of decent sized asteroids for raw materials,
+as we discussed last week in our episode “Let’s
+Dismantle the Solar System”, but this still
+takes time and effort and long before you’ve
+got your Dyson Swarm up to even blocking a
+mere 1% of the star’s brightness – and
+we could barely notice such a dimming – you
+have all the power and energy to launch huge
+interstellar colonization fleets.
+After all, 1% of our Sun’s energy is still
+20 million times the amount of energy Earth
+receives from the Sun, which we don’t use
+very efficiently either, so such a civilization,
+what we’d call a K-1.8 in this case, two
+orders of magnitude beneath a full K-2 or
+K-2.0 civilization, already dwarfs in power
+and scale what we usually see in science fiction
+when talking about huge galactic empires of
+a million worlds.
+If you’ve found one that has dimmed enough
+in a century to be noticeable to us as definitely
+not a recording error, you’ve found a civilization
+with sufficient energy and construction capacity
+to have already started that process around
+all their neighboring stars their ships could
+have reached in that time and done so rather
+easily.
+Or in short form, if they’re dimming that
+quickly, it means they are fast growing and
+quite capable of interstellar colonization,
+and aren’t even a little interested in subtlety,
+so you’d expect to see all the stars near
+them begin showing those dimming characteristics.
+More importantly, since these dimming stars
+are all fairly near us in the galaxy, and
+dimming just recently, it would be a freaky
+coincidence for there not to be tons more
+such civilizations that did that long before
+now and that raises the Dyson Dilemma, as
+the galaxy should be packed with such rapidly
+expanding civilizations… or rather the daughter
+colonies of the first civilization in the
+galaxy to have started such an expansion a
+billion or more years ago before anyone else
+had a chance, if there’s anyone out there.
+I often get asked about the animations we
+use on the episodes and I do make some myself
+but many more are done by graphic artists
+who volunteer their time on the show or from
+stock footage sources, and if you’ve got
+some animation or graphics background and
+some free time and want to help out, just
+drop me a line on the email posted on the
+About page for the channel.
+If you’re interested in learning how to
+do animation or graphic design though, it
+can often be kind of intimidating at first
+as it often has a steep learning curve, but
+there are some great courses on the topic
+over at Skillshare, including a series on
+making motion graphics from our friends over
+at Kurzgesagt in a Nutshell.
+As usual for them, they’re excellent at
+squeezing important information into quick
+but understandable packages, to help you get
+started on animating, and there are many more
+great animation courses on Skillshare, along
+with thousands of other courses on a wide
+variety of useful and interesting topics.
+Perhaps you’re trying to adjust to working
+in a new environment or just looking to pick
+up some new skill or hobby, Skillshare has
+a course for it, whether you’re a beginner,
+a pro, a dabler, or a master, Skillshare has
+thousands of classes on a wide variety of
+topics from experts to help you learn.
+Skillshare is an online learning community
+for creatives, where millions come together
+to take the next step in their creative journey,
+and Members get unlimited access to thousands
+of inspiring classes, with hands-on projects
+and feedback from a community of millions.
+If you’d like to give it a try the first
+1000 of my subscribers to click the link in
+the description will get a 2 month free trial
+of Premium Membership so you can explore your
+creativity.
+Act now, and start learning, today.
+So a common answer to the Fermi Paradox is
+that advanced civilization arise a lot but
+tend to collapse, and next week we’ll be
+taking a look at the popular science fiction
+trope of Techno-Barbarians, civilizations
+existing in a post-apocalyptic time using
+an anachronistic combination of primitive
+and advanced technology.
+But before that we’ll have our monthly livestream
+Q&A, on Sunday, July 26th, 4 pm Eastern US
+Time.
+Those will finish out for the month of July,
+but we’ll be back in August, starting with
+a look at Superconductors.
+What they are, how they work, and what the
+impact of them is and will be if we ever get
+ones that work at room temperature.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

@@ -1,0 +1,850 @@
+This episode is brought to you by Brilliant!
+Benjamin Franklin once said “He that can
+have patience can have what he will”, and
+when it comes to space, it means having a
+lot of patience, but the reward is an entire
+galaxy.
+So, science fiction often shows us faster-than-light
+spaceships taking pioneers to new colony planets
+halfway across the galaxy in mere months,
+and on this show we often discuss how FTL
+probably won’t be an option but we can still
+colonize space, it will just take us longer,
+requiring generation ships that might move
+at 10 or 20% of light speed, needing a generation
+or two to get to the nearest stars and maybe
+several to get to a preferred candidate system.
+However, while known physics certainly allows
+such ships, it relies on a lot of optimistic
+solutions to problems, not least of which
+is, if it is really possible to build a ship
+that could survive moving through space at
+truly relativistic speeds.
+What we normally do on this channel is to
+show everyone that even if we don’t get
+the FTL technologies ubiquitous in science
+fiction, we can still colonize our galaxy.
+Today we’ll take that a step further and
+argue that even if we can’t get travel through
+space while moving at a mere 10% of light
+speed, we can still colonize the galaxy via
+slow-boat ships, what we’ll call crawlonizing,
+and we’ll also discuss how that might vary
+in approach.
+First, we need to talk about why we might
+not be able to go faster than 1% of light
+speed or maybe even .1%, and there are a number
+of reasons this might turn out to be the case;
+either hard limits or simply a matter of practicality
+for big colony ships.
+For instance, we might be able to send probes
+or scouts to systems far quicker than we can
+a big colony ship, also called a slow boat
+at these speeds, for a combination of risk
+and cost.
+A robotic probe or a 100-ton scout carrying
+a dozen crew members simply doesn’t come
+with the same cost and risk as a 10 gigaton
+O’Neill Cylinder designed for carrying a
+hundred thousand people and an entire ecology.
+That Slow boat needs 100 million times as
+much mass and fuel to speed and slow it, and
+it’s carrying families and a community,
+not a handful of intrepid explorers who knew
+the risks or a just computer who fears no
+risk.
+Even ignoring the rocket equation, which is
+even harsher in cost for adding speed, a ship
+moving ten times as fast, needs 10-squared
+or a hundred times the energy or fuel, and
+one moving a hundred times faster, 100-squared
+or ten-thousand times the fuel.
+We can make a very strong case for why this
+is no real limit on colony ships, since that
+fuel is often assumed to be hyperabundant
+hydrogen or deuterium, but that does assume
+we have gotten fusion working, at least deuterium-deuterium
+fusion, and small enough for a spaceship.
+We don’t have profitable fusion yet and
+maybe never will.
+What’s more, because a fusion reaction still
+needs to convert that energy into thrust out
+the back of a rocket ship made of real materials,
+so that they don’t all melt, maximum speed
+might be lower than the mass-to-energy conversion
+of fusion implies.
+I’ve heard folks question if we can achieve
+a better exhaust velocity than perhaps 50
+kilometers per second, with a fusion reaction,
+hundreds of times less than that mass-to-energy
+conversion rate should give us.
+Now I think we can do way better but realistically,
+if that were the limit, that puts us at about
+triple the exhaust speed, 150 km/s, as a maximum
+ship speed, from thrust alone anyway.
+This is a touch slower than the Parker Solar
+Probe got to as it accelerated toward the
+Sun with gravity assisting, so don’t think
+of this as a super-scifi velocity.
+150 km/s is very fast, but the speed of light
+is 2000 times faster.
+We’re going to be talking about ships in
+this speed range to about 20 times faster,
+1% light speed, and for context 300 km/s is
+.1% light speed, and 3000 km/s is 1%.
+We often abridge kilometers per second as
+k-m-s.
+I’m not worried about being able to get
+to .1% or 300 km/s, from a propulsion angle,
+this is a limit induced by an assumption we
+might find the engineering environment too
+harsh to make ships able to go faster, or
+that some other unanticipated constraint might
+come in.
+Plus, we have too many tricks for boosting
+speeds, like slingshotting around planets
+or stars or accelerating the ship with lasers
+and using the fuel to slow down, or even a
+light sail on a close approach to the destination
+star.
+A lot of those tricks don’t work as well
+at significantly higher speeds though.
+As an example, your classic solar sail slowing
+your ship is all about the power the star
+it is using is putting on that sail and how
+long it can do that, and if you’re moving
+fast, that time is decreased.
+On the other side of things, the energy of
+various little collisions of gas and dust
+particles with a sail is massively enhanced
+by moving faster, with a drag force whose
+power rises with the cube of your speed.
+So, a ship might leave a system using laser
+propulsion on a sail, run itself on a nuclear
+engine as it heads out into space, and then
+use its sails again to slow on gas particle
+collisions as it nears a system and let the
+solar sails or mag sails finish the job of
+bringing it to a halt around its destination
+world.
+There seems to be a strong consensus we can
+achieve at least this .1% or 300 km/s speed
+so we will use that as one of our cases today.
+Getting above 1% though is a bit more debated
+and a lot of that is because of those gas
+and dust collisions rising in power with the
+cube of speed.
+See, the kinetic energy of an object rises
+with the square of velocity, but how often
+you smack into stuff along your path rises
+with your velocity too, so if you go ten times
+as fast, you hit stuff ten times as often
+and each thing has ten-squared or 100 times
+the energy, so ten-cubed or a thousand times
+the power.
+Now, you’ve probably heard before that even
+running into a tiny grain of sand in space
+will rip a ship to pieces and this is almost
+entirely hyperbole.
+For one thing, grains of sand vary in size
+and mass by around a factor of about ten-thousand,
+and generally, for a given square meter of
+spaceship front, you’d expect it to be able
+to absorb something like a single grain of
+sand in collisions between a pair of stars.
+Space is pretty empty, some parts emptier
+than others and the variance in density of
+interstellar dust and gas is a lot like the
+variation in sand grain sizes.
+Part of that hyperbole is about speed, but
+a lot is from ignoring that most grains of
+sand are the tinier ones and most parts of
+space would have the thinner ones.
+Colliding with a small grain of sand, say
+a microgram grain, at 300 km/s, again .1%
+of light speed, is releasing 45 joules of
+energy, a little less than a typical tennis
+ball would be carrying, though, slamming into
+a spot only a micrometer wide so that spot
+is taking real damage, and bear in mind that
+a 1 microgram particle is in the lower mass
+range for interstellar dust.
+We can build the prow of the spaceship to
+handle that level of damage, especially given
+that it is not constant, so, plates on the
+front that get dinged up can be removed, repaired
+and replaced during flight.
+Alternatively, a big grain of sand weighing
+10 milligrams and moving at 86% of light speed,
+260,000 km/s, has 900 billion joules of potential
+energy in it, 20 billion times the energy
+involved in that previous collision, and is
+equivalent to about 215 tons of TNT.
+Needless to say, that’s going to hurt, and
+that is something you are likely to run into
+with the front of a decently sized spaceship
+during an interstellar flight.
+Again, space is empty but not that empty.
+The handy thing about moving at 86% light
+speed is that from your perspective, the trip
+is going to take half as long, from relativistic
+time dilation, on top of your conventionally
+higher speed.
+So a trip taking a thousand years at 300 km/s
+– which is only a light year – is taking
+that ship at 86% light speed, just over a
+year, but their own relativistic dilation
+would make them think it was only half as
+long, about 7 months.
+Obviously, that is preferable but since it
+involves spending millions of times more energy,
+at best, and getting hit by what are effectively
+large bombs along the way, some of which are
+nuclear in scale, it’s a lot more iffy a
+process both in terms of economics and engineering.
+You also have way more detection and response
+time if you see a bigger object, like a space
+rock the size of an actual tennis ball, to
+see it and either dodge it, or vaporize it.
+Even seeing and responding to a rock that
+small at 300 km/s is pretty tricky, that’s
+a speed that’s about a thousand times faster
+than a plane travels after all, so, giving
+yourself ten seconds to spot and react to
+such a stone means seeing it 3000 kilometers
+or 2000 miles away, and remember, this is
+something the size of a tennis ball.
+That’s as far apart as west coast cities,
+like LA and San Francisco, are from those
+of us living around the Great Lakes, and is
+the distance you’d need to be able to detect
+that tennis ball at.
+And for a little more context, hitting a tennis-ball-sized
+rock at 1% of light speed is still going to
+be a couple trillion joules of energy, depending
+on what the tennis-ball-sized rock was made
+of and how it hit, a bit more than the relativistic
+grain of sand of a moment ago, though maybe
+still survivable for a big ship with a big
+thick forward prow.
+So, things get pretty iffy at speeds above
+1% light speed just for moving through space.
+One bit of good news, for folks who aren’t
+fond of calculating in relativistic effects,
+is that relativity is pretty minimal at this
+scale.
+You can’t ignore it at an engineering level,
+at 1% light speed your clocks are going to
+be off by 4 seconds a day and that needs to
+be factored into your positioning and so forth,
+but it can be ignored when calculating flight
+times and such by you or I, and 0.1% is even
+less, about 43 milliseconds a day or 16 seconds
+a year.
+Of course, that definitely means you’re
+not getting any time savings on your flight
+for the passengers, where you’d need thousands
+of years to even save a day from relativistic
+effects.
+And this takes us to our first key notion,
+time is the biggest factor in decision making
+at these speeds.
+I’ve often suggested that we’re not likely
+to be skipping around orange and red dwarf
+stars and instead looking for much rarer yellow
+twins of our own Sun or bypassing systems
+that lack an Earth-like planet.
+This seems even more true if it takes two
+or three times as long to get to the nearest
+yellow star, if a red or orange one happens
+to be closer.
+As a reminder, these are all white stars anyway,
+the red, orange, yellow, blue, or white designations
+just discuss where their peaks are at and
+even a comparatively cool red dwarf varies
+from our daylight in that it’s the same
+color as traditional incandescent bulbs are.
+You can definitely notice changes in color
+warmth and tone, especially in blue shades,
+with incandescent lighting, but not to the
+point of it being a major quality of life
+concern for colonists under red suns, especially
+given that they can use daylight bulbs in
+homes or stores.
+A person contemplating setting up a colony
+around a nearby red dwarf like Proxima Centauri
+or Barnard’s Star, at even 1% of light speed,
+versus Tau Ceti, the nearest yellow star besides
+Alpha Centauri and our own Sun, is looking
+at more than 600 years more travel to get
+there at 1% light speed and 6000 years at
+.1%.
+600 years is a long time, longer than even
+the most generous estimate for the Industrial
+Age, and 6000 years ago predates recorded
+history and enters the realm of pure archeology.
+Of course, simply contemplating journey timelines
+like this makes one wonder who would volunteer,
+even if we were using hibernation options
+like freezing people.
+Which is a technology we cannot take for granted
+will be developed, and as we note in our Sleeper
+Ships episode, generally requires parallel
+technologies to what you need for radical
+life extension technology too, and longer
+lifespans also alter the colonization dynamics.
+Now, for my part, I don’t see that as preventing
+things.
+Fewer folks will volunteer for such long voyages
+but since the entire colonization timeline
+is slowed, you have a lot more time to recruit
+in.
+Just as an example, a colonial mission initiated
+in the year 2200 AD meant to get to Tau Ceti
+and planning on taking 1200 years, crawling
+out at 1 lightyear per century, might opt
+to freeze its colonists, and it might take
+a few decades to get the final funding and
+the ship built too, so, volunteers and early
+investors might all opt to freeze themselves
+to be loaded when the ship is ready to depart
+and so when it leaves in 2222 AD, there might
+have been thousands of people frozen for the
+trip but only a hundred or so from any given
+year from 2200 to 2222.
+Tau Ceti is also only 11.9 light years away,
+not 12, and suddenly that makes a real difference
+because it’s an extra decade of flight time.
+At our lower speed limit, .1% light speed,
+that jumps to a century being shaved off a
+12,000 year trip.
+We have spent centuries building things before,
+so I’m not worried about finding funding
+or volunteers, even if I wouldn’t expect
+the same kind of deluge we would get in some
+other scenarios.
+Those sorts of projects tended to be things
+like cathedrals and so a similar degree of
+group devotion might be needed, but that implies
+a parallel source, like the Mormon colony
+ship we see in The Expanse.
+And if we just assumed every medium-large
+nation and religious denomination decided
+to fund a colony mission at some point, that
+is around a hundred, enough to get one to
+every star within 15 lightyears of us.
+And we now need to contemplate that the trip
+time to reach such a colony is similar or
+even longer than what we need for that colony,
+once established, to grow that colony to be
+as populated and powerful as the homeworld
+that sent them was, so that they might consider
+sending out colony ships in their own turn.
+If you need a thousand years to get to your
+new homeland with your colonists, and a thousand
+years after colonization you have an interplanetary
+empire of billions there, then you’re probably
+contemplating sending your own colony ships
+on to any uncolonized neighboring systems.
+Given that it is a founding piece of your
+history and culture, it’s probably been
+a prized goal for centuries.
+You are descended from a race of explorers
+and pioneers who settled your world, it’s
+built into your culture and maybe even into
+your DNA, and when folks suggest building
+a next wave of colony ships, naysayers are
+likely to have people point at the ground
+everyone is standing on as proof it can and
+should be done, and this argument will hold
+a lot of weight with those present, maybe
+even beyond what rational thought would permit,
+as it is baked into their culture.
+Many centuries later, on a star around a world
+even further from Earth, that same conversation
+is likely to replay again, leapfrogging through
+time and space to the galactic rim and maybe
+beyond.
+So, when estimating the speed of galactic
+colonization, FTL colonization tends to require
+long incubation periods for growing your numbers
+before you want a new colony, when compared
+to your travel times to get there.
+However, crawlonizing the galaxy is all about
+travel times, not the incubation times at
+each colony as you leap frog outwards.
+I would say that you could comfortably estimate,
+when contemplating crawlonizing the galaxy,
+that the rate that occurred at would not be
+less than half your typical colony ship cruising
+speed.
+Indeed, as we’ll discuss in a bit, probably
+actually less than that cruising speed, but
+at half the speed, assuming folks spend about
+half the time traveling and half the time
+incubating at the new colony before sending
+out seeds, a 1% light speed cruise velocity
+colonizes the whole galaxy in about 10 million
+years and .1% in 100 million years and the
+galaxy is estimated to be over 10 billion
+years old.
+Indeed, Earth itself orbits the galaxy in
+about 230 million years, what we call a galactic
+year.
+So, even in an extreme crawl, at Voyager 1
+speeds, you can get a galaxy colonized in
+a timeline a bit longer than our orbit of
+the galaxy.
+However, I don’t believe this represents
+a true colonization scenario anymore.
+First, and we’ll come back to this in a
+bit, there are a lot of options for speeding
+things up at the galactic scale by throwing
+extra effort into getting a few ships out
+much further beforehand, and doing that by
+exploiting options like the Interstellar Black
+Hole Highway Network or Red Giant Hubs, which
+we’ll come back to.
+Second, colonizing the galaxy isn’t just
+about getting to every star, because there’s
+a lot more to the galaxy than those objects,
+and crawlonizing the galaxy makes those other
+spots even more important.
+If you’re flying from star system to star
+system at hundreds of times light speed on
+your awesome sci-fi ship, you don’t need
+to stop between stars, assuming it has a bathroom
+and kitchen onboard anyway.
+Conventional Star flight doesn’t encourage
+taking breaks either, as you coast at speed
+rather than having to keep the engine roaring
+to stay at speed like with cars or planes,
+burning fuel.
+However, while space is pretty empty, there
+are likely to be a lot of big rocks or ice
+balls floating around between stars, each
+a tiny potential oasis.
+Truth be told, so long as I’ve got a functioning
+fusion reactor, I can turn any rocky iceball
+the size of a mountain into a space habitat,
+able to support more people than all but the
+largest of modern nations.
+Now, in our episode: Colonizing the Oort Cloud,
+some years back we examined this notion in
+a little more detail, though it feels like
+a topic I might want to revisit with an additional
+episode, and so we’ll do an episode on Deep
+Space Habitats in a couple weeks, but for
+our purposes today, the key concept is that
+places like Neptune or Pluto or the Kuiper
+Belt that we think of as out near the edge
+of our solar system are really not even a
+thousandth of the way out to what we’d think
+of as the territorial edge of your typical
+star system.
+Our planet is one AU from our Sun, Neptune
+more like 30, and a light year is 63,000 AU.
+There isn’t much matter out there when you
+compare it to the vastness of space, and yet
+there’s still also an awful lot.
+Estimates are necessarily hazy for the outer
+Oort Cloud but we think ours might contain
+around a trillion objects a kilometer across
+or more, and probably at least a percent of
+those are going to be metal rich.
+We also expect many billions in the larger
+10+ kilometer diameter range.
+Definitions are also somewhat hazy and for
+instance, we have an asteroid belt between
+Mars and Jupiter with about a million objects
+a kilometer-wide or more, which is really
+multiple belts, then we have the Kuiper Belt
+out past Neptune which is really more of a
+Torus or Donut shape, and the Scattered Disc,
+which is more disc-like, in that same general
+region.
+Then you get to the inner Oort Cloud which
+is also donut-shaped and sometimes called
+the Hills Cloud now, and which stretches out
+to about 20-30,000 AU or 4-6 light months
+from the Sun, and it is thought to contain
+5 times as many comets as the outer Oort Cloud.
+Now, there’s nothing special about a kilometer-wide
+object, you would expect at least twice as
+many bodies half that wide or bigger if the
+distribution is anything like our asteroid
+belt, but there’s also something like 25
+million asteroid belt objects bigger than
+100 meters across, with a mass of at least
+a megaton.
+And any of those represents either structural
+material for building a space habitat or the
+filler to go inside as rock, water, or air.
+We often talk about turning our asteroid belt
+into a collection of artificial habitats,
+able to comfortably house a quadrillion or
+more people, and there’s a lot more mass
+in the Oort Cloud to work with.
+Probably several thousand times as much…
+which isn’t actually all that much, Earth
+itself is a couple thousand times heavier
+than the entire belt, depending on estimates.
+We usually estimate the Oort Cloud has at
+least an Earth’s worth of material clumped
+into usable bits, and it may be way more.
+What it means though, is that the Oort Cloud
+should have no problem providing the materials
+for housing a million times as many people
+as Earth does nowadays, if not, many more.
+And if they’ve got working fusion, then
+proximity to the Sun or inner system still
+has a lot of plus sides but also means that
+many of the things that would tempt someone
+to travel to another star system could be
+found by just immigrating to a space habitat
+in the Oort Cloud.
+Now, without fusion, we might find it’s
+profitable to stretch long lines of relay
+stations between our Sun and its hundred nearest
+neighbors, possibly a long line of stations
+refocusing an energy beam and sending it to
+the next, or a mass stream to minimize attenuation.
+If we assumed each relay point was 12 light
+hours apart, one day of signal reply message
+lag, and most of those relays were 10 light
+years long on average, that’s a chain consisting
+of about 7300 Stations.
+If we have 100 total lines, that is 730,000
+relay stations.
+Sounds like a lot, and if those are O’Neill
+Cylinders in scale, for the main habitation
+drum of the relay station, then we’re looking
+at anywhere up to a million people in easy
+comfort.
+730 Billion people in total, about 100 times
+the population that Earth had on the year
+this channel premiered, and probably in the
+vicinity of a few quadrillion tons of building
+material for all of them.
+Which is like one large-ish asteroid of the
+kind we only have a few hundred of in the
+Asteroid Belt.
+In other words, we expect no problems getting
+the material for it.
+Now, I mention these because once you’ve
+slow-crawled out to a new star system, you
+can use these relays to move ships a lot faster,
+because you can relay power out from the Sun,
+even if you don’t have fusion generators,
+to use for pushing-beams, and you can keep
+that area a lot clearer and better monitored
+for space debris, allowing safer travel along
+these interstellar laser highways.
+If you don’t have fusion or something better,
+then besides these relays, power is either
+coming in beamed via some extensive infrastructure
+and at significant cost, or you’re running
+classic nuclear power plants, and that probably
+means much more energy-compact approaches
+to space habs that are still running through
+kilograms of uranium or thorium a day.
+Though, truth be told, that’s not much of
+a bottleneck, as it might cost less than gasoline
+does nowadays even though it's a million times
+energy richer, and again we’ll do an episode
+on Deep Space Habitats in a couple weeks to
+examine this more.
+Key concept for now, a lot of what folks will
+want around distant planets, they can also
+get by mining out some iceberg floating in
+deep space, and a lot faster, and with a real
+chance of maintaining contact with people
+from home.
+What’s more, a handful of colonists claiming
+an entire solar system, or even just a planet,
+is a much harder claim to maintain than grabbing
+a small mountain in space, less folks seeking
+to jump your claim or become your neighbor
+on the other side of the continent.
+Of course, you still have communications moving
+at light speed in a slowboat environment,
+and those relays are good for that too.
+It also permits instantaneous teleportation
+for post-humans with digital consciousnesses,
+via data-transport teleportation.
+Their mind moves at light speed and experiences
+no time during transit.
+A human might teleport this way too, with
+their body and mind being duplicated on the
+other side.
+Now, this is really just a copy of their mind,
+but for many, that might work, see our teleportation
+episode for more on that, or, see also, our
+androids, cyborgs, and transhumans playlist
+for discussion of the pros, cons, and challenges
+of digital consciousnesses and uploaded minds.
+What it generally means though, is that we
+would expect that Oort Clouds would be getting
+colonized too and that you’re probably never
+more than a light day away from some habitat,
+when in long-colonized regions of the galaxy,
+because even if we’re just talking a smaller
+Kalpana Style Habitat for a few hundred folks,
+or possibly for a single family that likes
+its elbow room, there’s too many upsides
+to having such outposts.
+You’d need a few billion of them per system
+for that one per light-day-density, but in
+the context of a Kardashev-2 Dyson Swarm Civilization
+– which are even more likely I’d say in
+a Crawlonized Galaxy – that’s still a
+smaller budget item proportionally than a
+highway rest stop is for the US.
+And I mean a rest stop, one, singular, not
+all of them.
+A few billion small space habitats just isn’t
+anything noteworthy to build and fund at the
+Kardashev Scale, so you could subsidize their
+construction like crazy and even pay folks
+to live there and still barely notice it as
+a budget item compared to the inner system
+economy, which benefits greatly from that
+outer system.
+If you do have fusion, or black hole power
+generators, then they don’t need subsidy
+them from in-system, they’re swimming in
+reactor fuel out there.
+So, now we have a galaxy-sprawling civilization
+crawling out from Earth at somewhere between
+0.05 and 0.5% of light speed, and by the year
+10,000 AD, you’ve got our whole system Dyson
+Swarmed up and well out into the Oort Cloud
+and you can be shoving spaceships along relay
+paths to our nearest neighbors.
+Personally, I don’t see any problem going
+much faster than that, but more importantly,
+I said earlier that I’d expect the colonization
+wave, at the galactic scale, to move as fast
+or even faster as the typical colony ship’s
+cruising speed and I want to finish by explaining
+that.
+It doesn’t seem to make sense that you could
+colonize the whole galaxy faster than a single
+ship typically moves, but here’s the key
+piece.
+We have four objects of note, black holes,
+neutron stars, white dwarfs, and the red giants
+that make them when they expand and die off,
+sometimes as a supernova.
+Now, we can sundive on stars as we travel
+to build up more speed, much as we do with
+planets, but you tend to get pretty scorched
+doing that sort of thing, as closer is better.
+Indeed, you can do some pretty neat tricks
+diving on a star with a solar sail to expand
+out, as you pass it, to cut down on fuel use
+in a slingshot maneuver, but this is easier
+to do around objects with more mass than brightness.
+That means red giant stars are not your friend
+for this maneuver, though they will be for
+another, that we’ll get to in a minute.
+Red dwarfs are better, being much less bright
+per unit of mass than our own sun, let alone
+a giant, and being the most common type of
+star.
+However, white dwarfs, the most common type
+of dead star, are much better for slingshotting
+around as they are typically around half as
+massive as our sun – most current white
+dwarfs come from stars that were originally
+more massive than our Sun and some white dwarfs
+are more massive than our Sun like Sirius
+B, but a white dwarf is usually only about
+1% as wide as our Sun and around a thousandth
+as bright – though it varies a lot, meaning
+you can get a lot closer to a lot more mass,
+allowing slingshots to far higher speeds.
+If your ship could handle being at 160 times
+Earth’s solar illumination for a couple
+days, maybe they have a nicely mirrored surface
+for instance, then you could be within 38,000
+kilometers of such a dead star, with a star’s
+mass for accelerating you but without getting
+burned, and that’s very close in, given
+that our Sun is 18 times wider than that,
+and you’d be flying through its core.
+So, it’s very plausible a spaceship might
+accelerate toward Sirius B or some other nearby
+white dwarf.
+There’s several within 20 light years of
+us, most of which are cooler and dimmer than
+Sirius B. So you catapult away from this to
+gargantuan speeds, and point yourself toward
+a neutron star or black hole close to where
+in the galaxy you want to end up at.
+Now, neutron stars are much rarer than white
+dwarfs, we think there’s around a billion
+in our galaxy, and the nearest is 400 light
+years away, and older ones are dimmer and
+thus much safer to slingshot around.
+Black holes are considerably rarer, but there’s
+still at least a million in our galaxy and
+probably spaced out no more than a thousand
+light years or so apart, thus you can use
+them to hurl yourself up to decently high
+speeds.
+This works even better around binary pairs,
+though these are fairly rare, or even a pair
+of white dwarfs.
+That is called a Dyson Slingshot by the way,
+as Freeman Dyson suggested it for white dwarfs
+or neutron star pairs about 60 years ago,
+and we also have the Halo Drive as a more
+advanced version of this using black holes
+and lasers and able to go faster.
+We will skip on further discussion of all
+of those besides noting that any of these
+approaches allow you to boost to over 1% of
+light speed, indeed a lot more, though they
+only really help if you have one in your home
+system or are making a very long trip, where
+such objects are considerably closer than
+your trip length, thus you go to them first.
+More importantly maybe, a slingshot maneuver
+can be used to slow down too.
+So you can hurl yourself toward a dead star
+or dead star pair, hurl yourself toward another
+one a large part of the way across the galaxy,
+and slow down at that one to speeds that your
+ship can use conventional methods to finish
+slowing down on at some more-habitable neighboring
+system.
+You can also drag through a large, thin red
+giant to further slow a ship, those are cold,
+as stars go, but more importantly they are
+huge and whispy.
+So if you have a very reflective hull, then
+much as you can stick your head into an oven
+for a few moments, even though it’s hotter
+than boiling water, which would scald you
+almost instantly, you can slam through a red
+giant’s upper layer to slow a ship, and
+also use sails to slow using its sunlight
+and solar wind, both of which are immense,
+and then drag those sails more as you go through
+that star.
+As a result, we have a lot options for sending
+ships out to some ideal hub systems that are
+near such stars and dead stars and thus can
+travel to them faster than our normal ship
+speed, and given the times involved, shaving
+time off on these dead star galactic highways
+is likely to mean that this new hub world
+has tens or even hundreds of thousands of
+years of head-start as a new nexus to get
+to some neighboring worlds than ships moving
+at the normal cruising speed.
+Think of the galaxy as the surface of a pond
+as rain comes in, causing thousands of little
+ripples out from where individual drops are
+falling, only these ripples are that hub system,
+colonizing thousands of stars bordering it,
+or even millions, before expansion waves from
+other neighbors or back home on Earth reached
+them.
+So even if we can’t ever get our awesome
+fusion drives or FTL systems, we can still
+crawl our way out to the edge of the galaxy,
+covering it with our civilization in considerably
+less time than a galactic year.
+I think we will be able to do it far faster,
+at well over 1% of light speed and maybe 20
+or 30%, but even if we only can go a thousandth
+the speed of light, we’ll get there one
+day.
+We don’t know if we share this galaxy with
+other life forms that are not from earth,
+but if we don’t, then the whole galaxy is
+ours, and we do have the means to claim it.
+Admittedly, it is going to require some patience
+and determination, but as Samuel Johnson said,
+“Great works are performed not by strength,
+but by perseverance.”
+One thing missing from a lot of our discussion
+today was looking at how probability simulation
+might less us determine how successful or
+rapid galactic colonization occurred at various
+speeds of travel, terraforming or habitat
+construction, and population growth rates.
+We tend to limit ourselves to intuitively
+logical forecasting with that in mind but
+it doesn't eliminate the value of that sort
+of simulation and if you want an example,
+Brilliant has an excellent one on Mission
+success and lifetime on Mars that really helps
+visually demonstrate that, along with great
+courses on probability in general.
+When it comes to math, beyond the fundamentals
+when folks ask me if something is practical
+for them to know and use, probability is an
+absolute and emphatic yes.
+It’s one of the greatest tools mathematics
+gives us and it is incredibly useful in virtually
+every aspect of life.
+As an example, the Actuaries who calculate
+risk for a living have the lowest divorce
+rate of any profession, followed by physical
+scientists.
+Many key life decisions benefit from being
+able to see the odds clearer.
+It is also so much easier to learn with interactive
+examples and that’s so often the hard part
+for learning math or science, the best learning
+is hands-on and interactive learning, hands
+down, and Brilliant has worked tirelessly
+over the years to offer more and ever better
+interactive learning options for math, science,
+and computer science.
+Brilliant makes it easier for anyone to learn,
+be it the basics or advanced materials.
+Life gets a lot easier if you know how to
+calculate your odds, and learning is much
+easier if you’ve got Brilliant as your partner,
+and they’ve been a partner supporting this
+show and many other education focused shows
+for years now, helping us make knowledge easier
+to get and more abundant.
+With Brilliant, you can learn at your own
+pace, learn on the go, and learn something
+new.
+To get started for free, visit brilliant.org/IsaacArthur
+or click on the link in the description, and
+the first 200 people will get 20% off Brilliant's
+annual premium subscription.
+All right, that wraps us up for today but
+we’ll be back next Thursday to see what
+Life as an Interplanetary Explorer might be
+like, as we finish up our three-episode look
+at surveying habitable star systems.
+Then we have our livestream Q&A coming up
+Sunday, June 26th.
+After that it is on to July for a look at
+Deep Space Habitats, then Extragalactic Sanctuaries
+on July 14th.
+Next we’ll have our mid-month Scifi Sunday
+episode, Primitive Aliens, and the challenges
+of interacting with them, on July 17th.
+If you want alerts when those and other episodes
+come out, don’t forget to subscribe to the
+channel and hit the notifications bell.
+And if you enjoyed today’s episode, and
+would like help support future episodes, please
+visit our website, Isaac Arthur.net, for ways
+to donate, or become a show patron over at
+Patreon.
+Those and other options, like our awesome
+social media forums for discussing futuristic
+concepts, can be found in the links in the
+description.
+Until next time, thanks for watching, and
+have a great week!

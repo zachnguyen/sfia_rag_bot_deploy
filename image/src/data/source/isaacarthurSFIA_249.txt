@@ -1,0 +1,698 @@
+This Episode is brought to you by World Anvil.
+It takes a lot of energy, precision, and effort
+to hang a satellite in orbit above our atmosphere,
+but it takes even more to hang one inside
+our atmosphere.
+So today we will be looking at placing satellites
+and even non-moving objects into ultra-low
+orbits, or even beneath the Karman line, the
+edge of outer space and the main atmosphere,
+and to do that, we need to start by explaining
+why we don’t now, and why we want to.
+Many folks mistakenly believe there’s no
+gravity on the Space Station because it’s
+way out in space, an enormous distance from
+Earth.
+In reality, the ISS and most of our satellites
+are as close to Earth as we can possibly put
+them before atmospheric drag slows them down
+too much for them to remain in orbit.
+Gravity is an inverse square force, meaning
+it’s proportional to the square of the distance
+from the center of the planet, and the ISS
+is only 254 miles or so up, just 6% farther
+from Earth’s center than you are, so the
+gravity there is only 13% weaker than what’s
+holding you down right now.
+So if the ISS is at .87g, why doesn’t it
+fall?
+Well, it *is* falling, but as Isaac Newton
+famously illustrated, if you travel fast enough
+over the surface of a planet, you’ll fall
+toward it at the same rate it curves away
+from you, so you’ll keep falling around
+it indefinitely—a situation we call being
+in orbit.
+If you were to move at about Mach 23, just
+3% faster than the ISS does, you could, in
+theory, orbit the Earth and experience weightlessness;
+inches above the surface.
+But in practice you’d run into three critical
+problems.
+The first is that the Earth isn’t smooth
+or perfectly spherical, it bulges out at the
+equator and has all kinds of features sticking
+up for you to slam into, like mountains.
+The second is that things like oceans and
+crust have very different densities, so the
+earth’s gravitational field isn’t perfectly
+spherical, so your orbit won’t be perfectly
+circular and will intersect with the surface
+at some point.
+And the third barrier to ultra-low Earth orbit
+is that you’re slamming into all that air,
+which slows you down fast.
+Loosely speaking, air particles colliding
+with an object, sap energy out of that moving
+object with the square of the velocity, ten
+times faster, one hundred times the energy
+loss from each collision with an air particle.
+You also are moving ten times as fast though,
+so you’ll run into those particles ten times
+as often, meaning your power loss actually
+runs at more like the cube of your velocity.
+Orbital speed is on an order of 8 kilometers
+or 5 miles per second in low orbit or Earth
+atmosphere, about 100 times what your car
+is doing on a highway.
+One hundred times as fast, 100-cubed or one
+million times the power-loss, draining away
+your speed and requiring you to either burn
+fuel or let your orbit decay.
+This is why those satellites are up there,
+above it all.
+At sea level, the density of air is about
+1.23 kilograms per cubic meter.
+At the Karman Line, what we usually call the
+edge of our atmosphere and space, 100 kilometers
+up, air density has dropped to 567 micrograms
+per cubic meter, 2 million times thinner than
+at sea level.
+Even that altitude is too low for most satellites,
+allowing orbital times far shorter than the
+useful lifetime of a satellite, so we go higher.
+Low Earth Orbit is usually at least twice
+the height of the Karman Line, and the lowest
+satellite I’m familiar with is Jaxa’s
+Tsubame Super-Low-Altitude Test Satellite
+that was up for about 2 years from 2017 to
+2019 and was at 167 kilometers of altitude.
+I put that qualifier on there because we try
+to keep spy satellites as close to Earth as
+possible for best viewing and thus a country
+might have broken that record, though likely
+not by much, and wouldn’t want to publicly
+claim they had.
+Even just dipping down to that height at the
+perigee of a very elliptical orbit is going
+to take a lot of operation time out of your
+satellite.
+Perigee incidentally is when an orbiting object
+is closest to Earth, apogee when its furthest,
+when that orbit isn’t circular.
+The stratosphere, which ends about 50 to 60
+kilometers up, is even denser, no less than
+a thousand times thicker than what it is up
+at the Karman Line.
+So stratospheric satellites hanging up there
+by simple orbital mechanics isn’t really
+doable, even for a single rotation.
+They need power, and a lot of it, very much
+more than it would take to simply get into
+orbit.
+Now it’s not that tricky to stay at the
+Karman Line briefly, but we’re usually talking
+minutes, not years, and at much lower speeds.
+The current altitude record for a rocket plane,
+of 112 kilometers, has been held by Brian
+Binnie since 2004 but Joseph Walker first
+crossed the Karman Line at 106 kilometers
+way back in 1963 in the X-15, but neither
+was getting up to orbital speed, the X-15
+for instance barely got up to a quarter that
+velocity on its 11 minute flight, covering
+543 kilometers, just over a percent of Earth’s
+circumference.
+Spaceship One, in 2004, actually went slower,
+it just got higher and claimed the record.
+Simply shoving against air at hypersonic speeds
+is not an optimal way to keep something up,
+you might do better by simply hovering it
+on a rocket engine at 1 gee at the chosen
+altitude, because then it’s just fighting
+gravity, not air drag, and then with modern
+rocket fuels you might keep something up for
+a handful of minutes.
+Indeed, how many seconds you can keep something
+hovering under normal earth gravity is what
+we measure Specific Impulse in for rockets,
+and the favored ones nowadays run 250 to 500
+seconds.
+Something to keep in mind is that we obviously
+can hang things lower and slower for longer,
+like a helicopter or a plane or balloon, and
+we will return to that.
+However we also shouldn’t casually rule
+out much-higher specific impulses altering
+the landscape.
+Nuclear rockets, or fusion rockets, might
+do much better, and a satellite crammed full
+of antimatter, or a micro-black hole, might
+have no problem remaining static above the
+landscape or in low orbits for months or years
+before needing to come down for repairs and
+refueling.
+We also can’t dismiss that some form of
+anti-gravity might get developed at some point
+too.
+Nonetheless, let’s keep to the assumption
+that if our object is orbiting, it is doing
+so above the Karman Line, and if we want to
+go lower, we are not having the objects moving
+at 8 kilometers per second; at least not on
+the outside.
+One example of ultra-low orbital infrastructure
+we could potentially build, is an Orbital
+Ring, which is essentially a hoop around Earth
+that remains stationary with the ground, and
+inside it, there’s a flow of matter moving
+faster.
+This matter moving faster than normal orbital
+speed has an excess of angular momentum, which
+when combined with the stationary or slow-spinning
+sheath around it, gives the pair of them just
+the right angular momentum to remain in orbit
+together.
+This mass stream is usually assumed to be
+magnetically contained and accelerated with
+a power supply hooked up from ground or attached.
+This is called active support and is a good
+option when it comes to low-sky options, including
+ones connected to the ground.
+Now, when it comes to helicopters, those might
+technically count as another low-sky option,
+as those remain stationary by shoving air
+down constantly, but helicopters run out of
+fuel and would thus need to land a lot, but
+they could be ran on electricity, and that
+could be via ultra-lightweight helicopters
+running on attached solar panels, or even
+a tethered power cord to a groundside nuclear
+plant, or energy beamed up by microwaves from
+the ground or down from orbital power satellites.
+Solar by itself is non-optimal in most cases,
+because of night and clouds.
+Electric quadcopters, common in modern aerial
+drones, probably would only be an option for
+continuous running if they were either inside
+a wireless power grid or if we invented batteries
+that have orders of magnitude better power
+density than modern ones.
+Some more power-dense nuclear battery or radioisotope
+thermal generators might permit this.
+Such solar helicopters would work better on
+low-gravity thick-aired places, like Saturn’s
+Moon, Titan.
+Or even a place like Venus, where the world
+turns so slowly that you can keep up with
+the Sun setting, and never lose your solar,
+so long as you stay above the clouds.
+Now, you can use motion to produce lift on
+a wing, like any airplane’s airfoils, but
+if you wish to remain stationary, you need
+to keep in a tight circle above the spot you
+want.
+This works well enough, and we do have unmanned
+planes, able to fly constantly on solar these
+days, but they’d need a lot more improvements
+before they could fill the role of communications
+or surveillance.
+Now, weather satellites tend to be high orbiters,
+and are example that not every satellite benefits
+from being lower, but options like circling
+planes or balloons, are very tempting alternatives
+to satellites or tall towers for objectives
+like communications.
+One key thing about altitude that does benefit
+you, is that it’s a wider range of view.
+Folks tend to assume, incorrectly, that up
+on the space station, you can see the whole
+planet, or at least the whole hemisphere you’re
+facing.
+In reality it’s a circle containing about
+3% of Earth’s Surface at any given moment,
+not 50%, at its altitude of about 400 kilometers.
+For lower altitudes you can calculate how
+far you can see based on your height, ignoring
+terrain, with the rule of thumb that if you
+take the square root of your height in feet
+and multiply it by 1.22, that’s how many
+miles you can see, or the square root of meters
+of height multiplied by 3.57 for kilometers.
+That is a rule of thumb that works for determining
+how far away the horizon is, when your altitude
+is much less than the radius of the planet
+you’re on, and even the space station is
+only about 6% of the Earth’s radius above
+the planet.
+Now, a communication satellite up in geostationary
+orbit, 36,000 kilometers up, is high enough
+to see most of a hemisphere, 42% of the planet,
+and it can usually get everything from 81
+degrees north and south, and since it is geostationary
+it sees the same 42% of Earth all the time.
+However that does mean it takes a quarter
+of a second for a signal to reach that satellite
+from the ground and return to another spot
+in its zone, and longer if it had to bounce
+it around to another geostationary satellite,
+that might be a quarter of a second away too.
+That means if you were talking to someone
+on a satellite phone on the other side of
+the planet you could get half a second from
+when you spoke to when they heard you, and
+at least a quarter of a second for anyone,
+even just down the road, and that would be
+very irritating, whereas something using a
+fiber optic cable, or bouncing between low
+orbit satellites, can bring that down to a
+fraction of that time, and a very tiny one
+if they are just down the road, signal lags
+too small for a human to notice.
+Cell phone towers can only see as far as their
+height permits - though that distance would
+obviously be further than their height - and
+that tends to be especially limiting in places
+with hills and valleys.
+Now, in the future, we could probably build
+them more economically by building them higher
+than we currently do, but there’s an understandable
+desire to contemplate things hanging many
+kilometers up.
+Now, kites are an option, as are any sort
+of engine powered by a tether, running electricity
+from the ground, but such tethers are dangerous
+to airplanes, and would need lights like a
+tower does, and are also probably prone to
+snapping and falling on the landscape.
+That really shouldn’t be fatal to anyone
+it hits directly.
+Getting hit by a whip isn’t usually lethal
+and whip-tips cracking in the air, only do
+so because they are moving supersonically,
+and a falling cable will be moving slower,
+but definitely a hazard.
+A hot air balloon would seem the next option,
+or just one full of helium or hydrogen, and
+needing no fuel, which would allow rather
+great heights.
+We’ve gotten manned balloons over 40 kilometers
+before and unmanned ones up to 53 kilometers.
+From 40 kilometers up you can see 714 kilometers
+or 444 miles to the horizon around, bigger
+than Texas, and at 53 kilometers you can see
+822 kilometers or 511 miles around.
+This also means you’re getting signals even
+down in the shadows of cliffs.
+Now a cell phone tower can be up to 500 watts
+per channel, though usually they’re under
+100 watts, and the taller ones can give service
+over 40 miles away, and we obviously need
+a stronger signal for higher reaches, and
+more sensitivity on the receiving end.
+Aircraft rarely go above 8 miles or 11 kilometers
+up, so if we put a lot of helium or hydrogen
+balloons at 10 miles or 16 kilometers up,
+they’d have a range of 280 miles or 450
+kilometers, essentially one could service
+an entire state or medium sized nation.
+This doesn’t really interest us for its
+width of service area though, more that it
+cuts down on relays and signal-dead zones
+in valleys.
+In theory, a thousand such stationary balloon
+comm stations could cover a whole planet,
+in practice you’d probably want several
+times that.
+Picture something like this as a big floating
+flower, covered in solar panels or a big antenna
+hanging from a balloon but tethered to the
+ground.
+Either power is running up or it's getting
+it by solar, or both, or wind power if the
+tether is strong.
+Why don’t we already do this?
+Well, a number of reasons, but maybe the big
+one is that helium leaks and is very expensive,
+and hydrogen leaks even faster.
+Also, if you want the stations to stay stationary,
+they either need that tether or a powerful
+engine, or they need an airfoil and the ability
+to circle.
+Hydrogen is a better buoyant lifting gas than
+helium and vastly easier and cheaper to supply
+– and no, we’re not worried about it igniting
+Hindenberg-style – but the problem is that
+hydrogen and helium are the two tiniest atoms
+out there, and they tend to slip between the
+molecules of whatever the skin of your ship
+is as a result, being smaller than those atoms.
+Worse, while helium is a Noble gas and doesn’t
+interact with any other atoms, hydrogen interacts
+with tons of stuff and in this context ‘interact’
+tends to mean ‘corrodes’.
+2D materials, like graphene, have tight spacing
+that can hold-in helium or hydrogen and thus
+are getting looked at as a coating for hydrogen
+tanks and permits potentially ultra-thin balloons
+that would need far less frequent replacement
+or reeling-in for recharging.
+Indeed, you might be able to replace hydrogen
+while up there, given that it’s a lot more
+prevalent in ionized atomic form at higher
+altitudes and might be collected electromagnetically,
+or with sufficient power, electrolyzed from
+water vapor.
+With a strong power supply you can also heat
+a gas up, to make it a better lifting-gas,
+and electrolizing it would have that dual
+effect.
+Amusingly, the material that we love for ultra-long
+tethers is also graphene, and of course is
+the reason why we don’t see these kinds
+of balloons yet.
+We’re not good at mass manufacturing large
+sheets of graphene - though way better than
+in previous years.
+It’s also a very good conductor and very
+promising for integration into solar cells.
+However, we do have other modern materials
+that do very good jobs compared to when satellites
+and cell phones were fairly new, and that
+will take us to the Dark Sky Station in a
+moment.
+First though, two other interesting options.
+It may be that we figure out how to do fusion
+sooner than later, in which case, we might
+opt for a deuterium-filled balloon that had
+a fusion reactor running on that deuterium
+and that probably could just sit there in
+the sky, even in the middle of hurricanes
+or the Great Red Spot on Jupiter.
+Indeed, it would strike me as a likely option
+for a gas-harvesting station on gas giants,
+since that implies you have fusion if you
+want the stuff in such quantities.
+Non-rotating Skyhooks are another option,
+as, with good tether technology, you can hang
+a satellite rather low, while having most
+of its weight and power generation higher
+up, and as we discussed in our Skyhooks episode,
+it is possible to regenerate momentum lost
+to atmospheric drag by electrodynamic tethering
+off Earth’s Magnetic Field, with a power
+supply.
+This is slow and low-power, but skyhooks can
+also qualify as Ultra-Low Orbital Infrastructure,
+since their lower end, or bottom of their
+rotation for spinning ones, is usually assumed
+to dip below the Karman Line.
+They also work even better on thin-aired or
+no-atmosphere worlds, and Earth isn’t the
+only place we’re interested in.
+See that episode for more details.
+But this is one option for stratospheric satellites,
+the long skyhook hanging some instruments
+into the stratosphere, or for that matter,
+a high-altitude balloon hanging a guidance
+package tens of kilometers lower, this latter
+is the StratoSat, which imagines a wide balloon
+gondola 35 kilometers up, with a tether hanging
+down to 14-20 kilometers up, with guidance
+systems and devices hanging from it.
+How this is handy is that, at the end of that
+tether, you can hang a wing, and the huge
+difference in velocity between wind at that
+altitude and up at the gondola, lets you guide
+the thing and circle the Earth in about 10-20
+days and it would rarely exceed speeds of
+40 meters per second or 90 miles per hour.
+More tech and better materials help, but these
+Stratosats are not terribly sophisticated
+and we can make them now.
+They are principally of interest for meteorology
+and if you want more details on them, there
+was an article on them in the American Meteorological
+Society’s August 2009 edition, “Stratospheric
+Satellites for Earth Observations”.
+We could make them a lot bigger though, and
+they’d be a relatively easy thing for any
+plane to perform a mid-air docking maneuver
+on, potentially even down where unassisted
+breathing was still possible.
+The 14-20 kilometer altitude for the bottom
+is to avoid air traffic, and bigger and more
+sophisticated ones could have a winch on their
+tether to lower it more.
+Now, if you are hanging from such a balloon,
+not only can you climb up it, but you can
+also use it as a track for accelerating up,
+pulling the balloon down, but a donut shaped
+and large, wide balloon might let you speed
+up its tether to reach higher velocities while
+pulling it down a ways, then it just floats
+back up later after you release and fly up.
+Think of it like a vertical mass driver.
+Now flying straight up doesn’t get you into
+orbit, but you can push into a high-eccentricity
+orbit this way, or just shove to the side
+a bit and glide back down elsewhere on the
+planet for a relatively fast and low fuel
+flight.
+I haven’t encountered this particular approach
+in this specific form before, so we’ll go
+ahead and name it a “StratoTram”, unless
+someone knows of someone detailing or naming
+it before, as it is fairly similar to a cablecar,
+and also a bit parallel to the StarTram mass
+driver.
+It benefits over simply lifting a spaceplane
+on a balloon, because you’re coming out
+the top at high velocity, not just floating
+up there.
+As I often note about orbital rings, the cool
+thing about them is that they are also useful
+for rapid travel around your own planet, and
+so is a StratoTram, and anything that is highly
+beneficial to folks living on Earth, is excellent
+for space development and travel in general.
+Now the Dark Sky Station, or DSS, from JP
+Aerospace tries to take this notion of buoyancy
+beyond classic balloons.
+The concept is fairly straightforward.
+We take some long cylinder-shaped balloons,
+five of them, and arrange them like a starfish
+around a hub, and cover the tops of the balloons
+in solar panels for energy.
+It hangs up at just under 43 kilometers of
+altitude and is the midway point for their
+approach to space travel, which involves two
+giant ascenders.
+The first is a large V-shaped vessel, designed
+to be both buoyant and aerodynamically lifting,
+so it floats, but has propellers too, and
+the thing is huge, solar-powered and designed
+to lift to that Dark Sky Station.
+At the DSS, folks disembark and shift over
+to the Orbital Ascender, which is too fragile
+to exist in the lower atmosphere, being hyper-thin
+and large, and again, solar powered.
+It begins a 9 day journey to orbital heights
+while accelerating slowly to orbital speeds,
+as the air thins.
+I think it's awesome, but I suspect folks
+would view it as more of an eyesore over options
+like an orbital ring or space tower, which
+are a lot more compact and rapid, in terms
+of cargo carrying.
+Orbital rings can be that low, in the Stratosphere
+or even Troposphere, and Space Towers can
+be built that high, and indeed the Lofstrom
+Loop design essentially lets you make a long
+runway that you can lift or lower to basically
+any altitude you want.
+That same technology lets you lift a highway
+or parking lot or even a city.
+You might build a big long tube or track across
+a continent, hanging in the stratosphere for
+trains or even pressurized personal car-planes
+to whip across from coast to coast at high
+speeds and low fuel usage.
+Refineries in high orbit can potentially be
+grabbing up air to be used on space stations
+or as a propellant or fuel too, not optimal
+in the extreme long run, but Earth has supplies
+of these that are many orders of magnitude
+greater than we would need for even a very
+large orbital infrastructure and habitats.
+Plus aerobraking cargo pods makes replenishing
+Earth’s air supply from distant mining colonies
+easier and cheaper than shipping air from
+those to orbital colonies.
+Now, will there ever be an ultra-low orbit
+or stratospheric infrastructure?
+Yes, though I’d imagine the bigger objects
+will rely on active support rather than buoyancy.
+This might be the kind we envision with orbital
+rings or space towers, or it might be that
+the entire planet is saturated in a wireless
+energy field, provided by millions of power
+satellites beaming microwaves down from medium
+orbit, so that personal spaceplanes could
+travel without needing to carry fuel, or giant,
+hanging turbines could suspend themselves
+in the sky for years at a time.
+So too, microwave-powered scram jets might
+allow genuine orbits by sheer brute force,
+all the way down to the Karman Line, though
+simply hanging in the air like a geostationary
+satellite, but far closer, will often be preferable.
+And no, you don’t really need to worry about
+these things crashing, you just include a
+battery, good for several minutes, or a parachute,
+or both.
+Amusingly, Graphene, our wonder substance,
+also allows for superior batteries and super-large
+and strong parachutes, that make silk look
+heavy and fragile.
+It also represents a fall-back option against
+Kessler Syndrome, as a civilization that found
+its orbital infrastructure had caused debris
+cascade, could opt to move things a bit lower,
+ensuring a far more rapid clearance of debris
+and protection from it.
+Such being the case, why not build in the
+stratosphere?
+We often talk about filling Earth’s orbits
+all the way out past the Moon, with millions
+of orbital habitats and power collectors,
+and in a distant future, why leave a gap?
+In the future we might have buildings stretching
+all the way up to space, and we may find that,
+not only might a lot of folks have addresses
+on the ground and in orbit, but also in ultra-low
+orbits, and the mesosphere and stratosphere
+too.
+As I like to say, the sky is not the limit.
+So one of the awful things about COVID is
+that it made it impossible to do a lot of
+the gathering and conferences that not only
+allowed people with shared interests to learn
+more about those in person, but also to meet
+each other, and I’m rather glad that’s
+drawing to a close.
+As you probably know, I’ve been doing some
+public speaking again now that I can and this
+episode came out a bit early today in order
+to allow me and Sarah to head down Arlington,
+Virginia for the biggest space-based conference
+out there, the annual International Space
+Development Conference hosted by the National
+Space Society, of whom I and many of you are
+proud members, Ad Astra, and I’ll be talking
+there this Sunday but we’re arriving Thursday
+Evening and I hope to get to meet some of
+you in person then, and if you can’t make
+it, I hope you’ll join us virtually.
+That is one of the silver linings of COVID,
+a lot of advances in teleconferencing, Zoom
+and its cousins, and maybe more importantly
+a lot more people growing comfortable using
+those technologies.
+For most of us on the geeker side of things,
+chatting with friends on Discord or gaming
+on Roll20 is hardly new, but its gotten easier
+and more streamlined and also had a lot more
+folks willing to use it for business and recreation.
+Which is nice for a lot of us who prefer the
+versatility of pencil and paper role-playing
+games over MMORPGs, because everyone’s gotten
+a lot more comfortable joining online, meaning
+we can keep up our gaming groups even when
+nobody lives in the same state anymore.
+I’ve been rolling 20-sided dice for over
+a quarter of a century now and while computer
+games have improved a lot since then, I still
+prefer pencil and paper, but I definitely
+like being able to use all those computer
+resources for worldbuilding and campaign crafting.
+That is where World Anvil, the award-winning
+Worldbuilding Toolset comes in, because they
+have created the hands-down best suite of
+software for gaming and worldbuilding out
+there, so that you can use all those awesome
+computerized options while still enjoying
+the versatility of pencil and paper gaming,
+or fantasy and scifi novel writing for that
+matter.
+It’s great for DMs and folks wanting to
+let their audience peek into the novel’s
+setting more collaboratively as it does have
+a free version and also has ways to monetize
+your content on platforms like Patreon, Kofi,
+or your own storefront, and you can share
+that content selectively to keep secret content
+hidden.
+Whether you’re managing a campaign or writing
+a novel, whether you’re making city or dungeon
+maps or family genealogies and world history,
+whether its scifi or fantasy genres, World
+Anvil lets you forge your setting better,
+easier, and more interactively than anything
+I’ve ever worked with before.
+They also have an amazing collection of great
+tutorial videos so not only can you learn
+how to use World Anvil but so can anyone you’re
+trying to introduce to it, though it is very
+intuitive.
+World Anvil offers wikipedia-like articles
+for your world setting, interactive maps,
+timelines, an RPG Campaign Manager and a full
+Novel-Writing Software, all the tools you’ll
+need to run your RPG Campaign or write your
+novel, and never lose your notes again!
+If you would like to give World Anvil a try
+and let it help you forge new worlds, just
+click the link in this episode’s description!
+So as I mentioned I’ll be at the International
+Space Development Conference this weekend
+and I’ll be giving a live talk on Megastructures
+there instead of our normal End of the Month
+Livestream Q&A, and I hope you’ll join us
+for that.
+Preparing that talk on Megastructures had
+me thinking on all the ones I couldn’t cover
+or haven’t covered in episodes down the
+years and I decided it was time to reboot
+our original episode of SFIA, where we discussed
+a lot of Megastructures in a quick summary,
+and on June 9th we will have an expanded 2-hour
+episode, the Megastructure Compendium, covering
+roughly a hundred enormous space structures
+and artificial worlds we may one day build.
+Before that we will be starting June off by
+asking what Ancestor Simulations are and if
+we might be living inside one and if we could
+possibly know, and then the weekend after
+is Scifi Sunday, June 12th, where we’ll
+look at the Silurian Hypothesis, the concept
+that some ancient civilization like intelligent
+dinosaurs might have once dwelt on Earth long
+ago.
+We will also ask what would remain of humanity’s
+accomplishments millions of years from now
+if we suddenly died off.
+Now if you want alerts when events and episodes
+are coming out, make sure to subscribe to
+the Channel and hit the notification bell,
+and if you enjoyed this episode, please hit
+the like button, share it with others, and
+leave a comment below.
+You can also join in the conversation on any
+of our social media forums, find our audio-only
+versions of the show, or donate to help support
+future episodes, and all those options and
+more are listed in the links in the episode
+description.
+Until next time, thanks for watching, and
+have a great week!

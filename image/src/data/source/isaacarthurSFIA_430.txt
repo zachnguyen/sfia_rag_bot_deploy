@@ -1,0 +1,771 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+We already know, from the Hitchhikers’ Guide to the Galaxy,
+that the answer to life itselfis 42.
+And while that’s useful to know, it doesn’t
+tell us why life exists in the first place.
+Welcome to our 222nd weekly episode of Science and Futurism with Isaac Arthur,
+where we  tackle the big questions.
+And this episode’s question is so big, it
+hasn’t merely vexed the greatest minds of
+history, it also won the most recent poll
+of what topics SFIA subscribers would like
+to hear discussed in an episode.
+But a question that’s vexed humankind for
+millennia might be a little tricky to fully
+answer in a single episode, even a long one,
+so first let’s ponder what angle we want
+to examine that question from.
+“Why” is something of an ambiguous word,
+and when we ponder why something is, we have
+to ask first if we are expecting it to have
+a cause or a purpose.
+Imagine if you were watching an intense game
+of chess, and a fellow spectator next to you
+asked, “Hey, why did Black move his rook
+like that?”
+This is a perfect example of where you probably
+wouldn’t give a causal answer, in terms
+of what was going on before the move that
+caused it, but a teleological answer, one
+in terms of what purpose the move was meant
+to accomplish further along in the game.
+Technically you could answer in terms of how
+Black’s mindset just before making the move
+caused the move, but that would still be a
+discussion of possible futures Black anticipates,
+not about past board states causing the move.
+As students of science, we think in terms
+of cause and effect, even though some things
+in theoretical physics might violate causality
+as we currently understand it.
+But in practical language we very often talk
+about phenomena in these teleological terms,
+in which things seem to be pulled by the future
+rather than pushed by the past.
+This is the most true when we’re pondering
+why a manmade device or component was engineered
+in a certain way.
+It’s built like this in order to accomplish
+that….
+Really, any time we’re discussing rational
+decisions of minimally cognitive beings, a
+teleological explanation will tell the story
+the most clearly.
+But we have to be very careful when we start
+discussing non-conscious or non-rational actors
+in that same way, lest we create some misunderstandings.
+And unfortunately, this language permeates
+discussions of the evolution of life.
+We hear phrases like, “The birds evolved
+longer beaks to get at the nectar in larger
+flowers”.
+I expect most fans of this channel know that’s
+just a shorthand figure of speech, and a more
+precise description would be, “The lengths
+of birds’ beaks varied by minor mutations,
+and in places where large nectar flowers were
+more abundant than plants that produce seeds
+with husks, long beaks conferred a greater
+survival advantage than short chisel beaks,
+enabling the long-beaked birds in those regions
+to reproduce more, leading to a greater average—”
+I think you get the idea, that we’d go mad
+if we had to talk that way all the time, so
+we abbreviate a bit, though that can sometimes
+cause misunderstanding.
+While the teleological explanation, in which
+a creature evolves a feature to accomplish
+a purpose, is convenient and non-maddening,
+it can be very misleading.
+As we explained in more detail in our Void
+Ecology episode, evolution does not engage
+in a generations-long process of developing
+an expensive new feature that will confer
+a survival advantage someday, in the future,
+when it’s finished—even if that advantage
+will eventually be huge.
+Every step along the way needs to confer an
+advantage, or at least be sufficiently neutral
+that it causes no survival problems.
+Something like fur patterns or hair color
+might be fairly neutral initially, or even
+cause a very minor disadvantage, but eventually
+produce something like camouflage patterns
+or a color or style more appealing to potential
+mates.
+It’s all a big statistical survival game
+where other factors including luck are in
+play, but the key idea is that in Darwinian
+evolution each incremental change must enhance
+that generation’s survival or at least not
+diminish it, but it can’t be explained by
+its being part of some longer term goal or
+purpose.
+So, back to our sub-question.
+When we ask why life exists, are we looking
+for a cause or a purpose?
+Well, it seems to me that a thing only has
+a purpose if there was a designer, engineer,
+or strategist behind the thing, who had some
+goal in mind.
+Design and Purpose to life is certainly a
+possibility, and plenty of designers and purposes
+have been suggested over the years.
+The Intelligent Design school of thought these
+days includes not just religious creationists
+but also alien origin theorists and simulated
+universe theorists.
+And if you adhere to any of those theories,
+then asking the purpose of life is really
+just asking what was on the creators’ minds
+and what they were out to accomplish.
+But while life on Earth indeed might have
+been made by aliens who evolved billions of
+years earlier, they still have to have originated
+themselves, so why do they exist?
+The same question would apply to a single
+creator.
+So that declaring our universe to be a simulation
+still requires figuring out who made the Universe
+running our simulated Universe.
+This is a common problem with origin-of-life
+theories, many just kick the time of origin
+and “why” further back.
+Of course that doesn’t mean they’re wrong
+either.
+And we can speculate in an at least logically-bounded
+way why a creator or simulator might make
+a universe, what purpose he/she/they/it had
+in mind, where they are now, and why they
+exist.
+But such things don’t really fit well into
+scientific inquiry so we’ll shelve them
+and discussion of the purpose of life for
+today.
+So that leaves us to ponder the cause of life,
+to examine how and why unconscious physical
+laws governing primordial particles, without
+an engineer in sight or any goal in mind,
+could turn those particles into amazingly
+complex living things.
+It can be counter-intuitive at first, that
+simple laws governing a simple system can
+give rise to extremely complex behaviors.
+We call such systems Emergent, as they emerge
+from a lower set of rules or principles.
+Emergent systems have properties as a collection
+that the individual components do not have.
+And we usually use the term to imply that
+the emergence was unexpected, at least by
+us.
+And it’s a quite common phenomenon, that
+simple systems produce more complex systems
+with governing rules that you can discover
+and base predictions on, even without understanding
+the simpler systems or simpler rules underlying
+them.
+For example, consider two elements of Newtonian
+mechanics: force equals mass times acceleration,
+and gravitational force between two bodies
+being inversely proportional to their squared
+distance.
+From just those rules, Kepler’s laws of
+planetary motion are logically, mathematically
+inevitable.
+But remember, Kepler died before Newton was
+born.
+He gathered those laws of planetary motion
+strictly from observation, without ever knowing
+that gravity is an inverse square force.
+In other words, he figured out the higher
+level laws of planetary motion and made accurate
+predictions with them without ever knowing
+the simpler rules from which his Three Laws
+emerged.
+And likewise, humanity discovered a great
+many laws of chemistry and used them for centuries,
+only learning about a century ago that those
+rules all emerged from the simpler rules governing
+how the components of atoms behave.
+The specific ways that nucleons and electrons
+attract, repel, and bond give rise directly
+to everything in chemistry, from elements
+to stable valence shells to atomic bonds to
+the unwinding of double helixes.
+We have a few mathematical games that beautifully
+illustrate emergent behaviors and help make
+the concept far more intuitive.
+Conway’s Game of Life and Langton’s Ant
+being perhaps the two best known.
+I’ve included links to both in the description,
+because you’ll probably want to go play
+with them.
+In the Game of Life, created by mathematician
+John H. Conway, the world consists of a flat
+grid of squares.
+Each square is either black or white and interacts
+with its eight neighbors.
+The squares are periodically updated according
+to a simple rule: Turn black if you have three
+black neighbors, remain your current color
+if you have two black neighbors, turn white
+otherwise.
+And that’s it, the complete and unabridged
+fundamental laws of physics for a simple universe
+at the equivalent of the Planck scale, in
+one rule.
+And yet, as the game allows you to observe,
+that simple rule can give rise to structures
+that stand, spin, dance, travel, leave trails,
+send out streams of travelers, even merge
+with other structures and reproduce.
+And many of these structures are so simple
+they’ll often form accidentally in a world
+seeded with some random black squares.
+Even more complex structure can form on larger
+grids, and it’s quite exciting to see what’s
+going to form when traveling structures collide
+with one another.
+As surprising as the behaviors are, you can
+see with certainty that all the complexity
+you’re observing emerges inarguably from
+that very simple grid update rule.
+If you’re having difficulty imagining how
+incredibly complex molecular processes like
+protein folding and DNA transcription could
+come about just from electrons and nucleons
+pushing and pulling at each other, play the
+Game of Life for a while and ponder emergent
+behaviors.
+Langton’s Ant is another math game that
+somewhat illustrates emergent behaviors but
+also illustrates another phenomenon we’ll
+need to grasp to discuss why life exists.
+In this game, an ant wanders around another
+two-dimensional black-and-white grid.
+At each time interval, it steps forward one
+square.
+If the new square is white, it turns the square
+black and turns right.
+If the new square is black, it turn the square
+white and turns left.
+And then it repeats.
+Again very very simple, and again complex
+behavior emerges.
+If you start the ant on a blank grid, for
+the first few hundred moves it will create
+simple geometric patterns that are almost
+symmetric.
+But then things turn chaotic, and the ant
+follows a pseudo-random path.
+But then after about 10,000 moves we see the
+emergence of what is called a highway, as
+the ant begins creating a recurrent pattern
+of 104 steps that repeats indefinitely and
+carries the ant farther and farther away from
+the complex structure it spend 10,000 moves
+forming.
+It turns out that no matter how you initiate
+the grid with black and white squares, the
+ant will always eventually form this highway.
+This is what we call an attractor state in
+chaos theory.
+Nature is full of such examples and life itself
+is assumed to be one such, though we see attractor
+states in everything from actual ant hive
+behavior to the weather.
+Another thing we see a lot in nature is following
+the path of least resistance, and of course
+this also applies to the weather.
+The path of least or minimum resistance, everything
+in nature tends to flow to a low-energy and
+stable state, often pausing in lower energy
+and fairly stable states on its way to lowest
+energy and most stable states.
+Indeed all those atoms and molecules are emergent
+properties of various smaller and quantum
+things following into stable, or fairly stable
+states, where fairly stable might be mere
+trillionths of a second, an eternity at the
+quantum scale, or trillions of years, an eternity
+at the human scale.
+Emergent properties are a big thing in connecting
+the fields of science together.
+We would say particle physics consists of
+all sorts of little particles that exist as
+emergent properties of quantum, and that atomic
+physics emerges from that, and chemistry from
+that, and microbiology from that, and biology
+and botany and zoology and even psychology
+and economics and philosophy are emergent
+from that too, several times removed in some
+cases.
+It’s weird to think that Earth’s weather,
+and all its patterns, is essentially an emergent
+property of hydrogen being able to fuse into
+helium at certain rates under certain conditions,
+giving us all those bigger atoms like iron,
+silicon, and oxygen that form our world and
+the sunlight that falls down on it to drive
+those weather patterns, as water evaporates,
+falls back down, and eventually ends back
+up in the ocean as a statistical result of
+molecules been banged around by each other
+and photons and presumably gravitons as well.
+That’s a fairly important point for our
+topic because a hidden clause on why life
+exists is “Why does life exist in this Universe?”
+If you re-arrange the basic properties of
+the Universe just a tiny little bit, life
+as we know it would simply not occur, and
+indeed we’ve got pretty good reasons to
+think only a miniscule fraction of possible
+universes would have a proper alignment of
+physical properties to permit any sort of
+life to exist.
+Though as we mentioned in Boltzmann Brains
+and the Anthropic Principle, the Fine-Tuned
+Universe approach to saying life wouldn’t
+exist in most possible Universes assumes first,
+that those physical properties have randomly
+assigned values, and second, only refers to
+life emerging and gaining complexity through
+a long sequence of random processes headed
+toward that most stable state or path of least
+resistance.
+We typically don’t discuss evolution or
+life phrased in quite that way but that’s
+essentially what the process is, especially
+when generalized beyond Earth-specific biochemistry.
+A given organism, in a given environment,
+generally represents a pretty stable state,
+and successive organisms fall toward ever
+more stable states in that environment, and
+if that environment remained static, over
+a long enough time, you get a most stable
+organism.
+Environments don’t stay stable though, they
+get stirred up a lot, changing that point
+of stability, as those environments shift
+around approaching more stable states themselves.
+Stable in an ecological sense rather than
+a quantum or thermodynamic one, which is fine
+since ecology is an emergent property of those
+two anyway.
+If you wait long enough everything will fall
+into its ground state, as it were, unfortunately
+we live in an entropic universe whose ground
+state is pretty much the opposite of life,
+what we call the Heat Death of the Universe,
+which we’ll be discussing options for postponing
+in some weeks.
+That can get a bit of raised eyebrows though
+as life seems a lot more complicated than
+random material, and our planets started off
+presumably as exactly that, a bunch of gas
+floating around from some nebula that coalesced.
+Earth is not a closed system, being driven
+by the Sun’s light, and thus can defy entropy
+locally, as the Sun is rising in entropy to
+produce that light, but forget that for a
+moment.
+Wondering why life, more complicated than
+a random chemical soup it presumably formed
+from, can exist in an entropic Universe, overlooks
+asking how all that molten material mixed
+together in a proto-earth cooled and formed
+into complex things like mountains and rivers.
+Or why those rivers tend to be shaped like
+big long waves water meanders down rather
+than straight lines.
+You’d think a river would be straight, and
+straighter the older it got, as it plowed
+through and eroded any rock in its way till
+it cut a straight path to the sea.
+Quite to the contrary, the older a river gets,
+the less straight it becomes, eventually becoming
+a sine wave then snapping those curves off
+to go straight again, then curving once more
+later on.
+It’s actually a rather bizarre process that
+can create meander scarring and oxbow lakes,
+u-shaped lakes that get cut off from the river.
+Why that was happening is actually something
+Albert Einstein figured out, and it’s a
+good example of how complexity can arise as
+an emergent property of a very simple-seeming
+system, namely that where water is concerned,
+what goes up, must come down.
+And it does this because it’s the lowest
+energy state it can reach, or at least a lower
+energy state than it was in.
+Very literally in this case too, as objects
+have a higher potential energy the higher
+up in the air they are, and they fall down
+and lose that potential energy.
+It converts into kinetic energy on the drop,
+but they hit stuff falling down which leeches
+some of that energy away, leaving the fallen
+object in a lower energy state when it lands.
+Now how could this apply to life?
+In life’s case it is presumably all about
+energy and heat.
+Indeed, we have a theory from Jeremy England
+of MIT that argues that life popped up because
+a group of atoms, when exposed to an external
+energy source, like the sun or similar, and
+when inside some big heat bath, like an ocean
+or atmosphere, will gradually restructure
+itself to better dissipate heat.
+As we noted earlier, “Life” has some rather
+debatable definitions but one trait it has
+from a physics perspective is that it’s
+much better at capturing energy from around
+itself and dissipating it as heat.
+Which is an interesting way of saying that
+life is way more entropic than inanimate material
+by and large, which is one of the common objections
+to evolution, that it seems to violate the
+laws of thermodynamics by adding complexity
+over time rather than decaying into a simpler
+form.
+It doesn’t, life is hugely entropic, thus
+why we need to eat, but it’s an interesting
+characterization as it’s saying that the
+complexity of life is specifically an emergent
+quality of heat dissipation.
+Now that is just a theory with some rather
+neat math and modeling attached, but it has
+an appeal as it’s basing the reason for
+life existing, this complex and strange thing
+that seems to grow more complex and strange
+with time rather than breaking down, on that
+very engine of entropy itself.
+It’s kind of amusing in a semi-related way
+that humans are just about as good as it gets
+in nature when it comes to getting rid of
+heat and as we mentioned in the Fermi Paradox
+Great Filters series, our ability to jog around
+all day, by having a really nice heat dissipation
+setup compared to other animals, also let
+us run that massive brain on our shoulders,
+which needs a lot of energy and gives off
+a ton of heat that needs to be dissipated.
+I suppose there’s something poetic about
+life being an emergent property of heat dissipation
+and entropy, albeit via complex, organized
+mechanisms.
+Also a bit grimly amusing, since life is very
+good at accelerating entropy, and the more
+sophisticated it is, the better it can do
+it and the farther it can reach out to do
+it.
+In this context, if the supposition is correct,
+life exists in order to expedite the Heat
+Death of the Universe.
+Again rather grim, but since I need to do
+a video on what we could do to postpone the
+heat death of the Universe fairly soon, the
+first solution that came to mind was “Die”.
+In any event, if the reasoning is sound, we
+should expect life to pop up pretty much everywhere
+in the Universe and in any other Universe
+where complexity was possible and some equivalent
+to thermodynamics and entropy applied.
+Needless to say this doesn’t tell us anything
+about where all that energy came from in the
+first place or any actual meaning of life,
+assuming it has one.
+Of course an alternative view on all of this
+is that random luck is why life exists.
+This has been the default view on abiogenesis
+in a scientific context, that while evolution
+from that most basic element of life was selection-driven,
+that first element assembled at random.
+What that first element is we don’t know,
+there are several competing theories and nothing
+approaching a consensus on one as a lead candidate,
+even ignoring that it would be rather murky
+to say what the dividing line was between
+something that self-replicated – which crystals
+and fire can both do – and something that
+was actually alive.
+Needless to say, trying to calculate the probability
+of that occurring is mostly pointless at the
+moment since we don’t know what ‘that’
+is to try to model it, when and where it actually
+happened, or what the specific chemistry and
+energy influx would have been in the primordial
+soup it presumably occurred in.
+We know it was improbable, since it doesn’t
+occur constantly nowadays.
+Though as a caveat, it may have happened many
+times and those proto-lifeforms simply failed
+to gain traction in a world where one had
+already gained traction and grown in complexity.
+Regardless, it doesn’t happen often enough
+that we’ve ever seen it pop up in sterile
+labs with the right elements and no competition,
+so it’s improbable.
+It may be just improbable enough that we’ve
+not seen it but still probable enough that
+virtually every chemical soup bigger than
+a swimming pool with energy influx for more
+than a few year spawns one, and so life is
+virtually everywhere.
+Or it may be so improbable that it’s only
+ever happened here, that one time, and nowhere
+else in the Universe.
+Though complex life, living cells with an
+internal method of energy conversion or metabolism,
+has occurred at least 3 times on Earth.
+Once in plants, another in animals, and again
+in a type of seaweed.
+But that original self-replicating cell, with
+the precursor to RNA and DNA, could be so
+improbable that even other Universes like
+ours are devoid of life.
+This is where the Mediocrity Principle comes
+in, the general notion being that if you see
+something apparently improbable, but don’t
+know the details, you have two ways to look
+at it.
+You can assume it’s not actually improbable
+at all, but likely very probable and rather
+mediocre and mundane, and we call that the
+Mediocrity Principle and it’s our default
+approach to observing new phenomena in a scientific
+context, that the first example of something
+you see might be a really weird example of
+the object or phenomena, but probably isn’t.
+The other approach, the Anthropic Principle,
+is to assume that it probably is weird but
+that there may be a reason why you being able
+to see it factors into that.
+As an example, as random collections of matter
+go, a tree is a fairly improbable one, we
+don’t really see them anywhere but on the
+very thin layer of Earth’s biosphere, but
+we happen to live there and so we see them
+all the time, and this is not coincidental.
+It’s not coincidental that you’d encounter
+other fans of Star Trek or some obscure personal
+favorite science fiction in the comments section
+of this channel or any of our forums.
+Neither the Anthropic or Mediocrity Principles
+is right or wrong, and both routinely produce
+wrong results, they’re just options for
+trying to get a basic handle on some new observation
+when you can’t get more information.
+Which is pretty much the case at the moment
+for the prevalence of life in the Universe.
+The Mediocrity Principle says we have one
+example and should assume that it’s fairly
+normal, the Anthropic Principle says we have
+one example and we should ask if us encountering
+it is related to us as an observer.
+We don’t know if life is incredibly common
+or if various alternate universes are devoid
+of life, or even exist, we just know that
+in any universes where intelligent life doesn’t
+exist, no one is sitting around noting that
+is the case.
+So there could be a trillion-trillion dead
+universes for every one with life in it, and
+obviously only the ones with life in them
+have the option of asking if that’s weird
+or not.
+Now this perspective gives an easy answer
+for why life exists, it’s just random luck,
+though again that’s more of why it exists
+as it does and when and where it does.
+Where a new river exists is random luck, that
+rivers will exist but its basic properties
+are not.
+Although if we’re taking the stance that
+there’s an infinite or near-infinite number
+of realities, each with randomly assigned
+physical properties, then the existence of
+rivers would indeed be random.
+Additionally, extreme cases like the Boltzmann
+Brain are clear examples of life being utterly
+random, even thinking life.
+Now all this does incidentally is to show
+that life can exist randomly, it doesn’t
+mean that’s actually the case.
+Short of discovering an alien outpost, containing
+an observation log of four billion years,
+we have no way of knowing if life emerged
+on Earth naturally and such a discovery seems
+unlikely.
+Indeed even if we encountered life on thousands
+of other worlds and literally watched it start
+in a lab and in an alien sea, we still wouldn’t
+know if that’s what happened here for certain,
+from a scientific standpoint.
+As an example, we used to assume life probably
+started in tidal pools on the coast, but now
+we tend to think it was deep sea thermal vents
+as they look like more probable candidates.
+Even if that’s the case, it might have happened
+in tidal pools somewhere else, or have happened
+in tidal pools here.
+And even if we showed it was 99% likely to
+have been thermal vents and only 1% likely
+to be tidal pools, it might still have been
+tidal pools.
+It might also have been Aliens who originated
+long ago and visited here to engineer life,
+or to empty their septic tanks while restocking
+on raw materials.
+Either case merely kicks the origin of life
+back to earlier in the universe, and that’s
+arguably true with non-natural or supernatural
+cases too.
+Life might exist because someone created it
+on a computer as a simulation, but you then
+have to ask where that someone came from.
+This isn’t quite the same as the progenitor
+aliens though since they would have come to
+exist and developed in our actual Universe
+with its specific physical properties.
+A simulated Universe might have very different
+properties and ones that made the Big Question
+really easy to answer, and it’s only murky
+to us because our Universe isn’t actually
+natural nor are its life forms.
+In such cases the reason why life exists,
+here anyway, is because they wanted it to,
+that programmer or creator, though presumably
+they had a reason, everything from the artist’s
+desire to create something amazing to the
+scientist’s desire to model and experiment,
+but regardless we couldn’t speak as to why
+they and life in their place exists because
+we’d have no way of knowing the parameters
+of the reality they emerged from.
+With the specific exception of an Ancestor
+Simulation, where the simulated Universe by
+default closely matches the real one, see
+our Simulation Hypothesis or Reality & Simulation
+episodes for further discussion of this matter.
+The notion we discussed earlier, that life
+might be an inevitable consequence of heat
+dissipation and entropy, is certainly an attractive
+one because it would indicate it can pop up
+in a lot of places, though not necessarily
+everywhere.
+For instance, it’s popular in fiction to
+suggest life forms might live inside stars,
+or even on the surface of dead neutron stars
+as we see in Robert L. Forward’s Dragon’s
+Egg, but the whole concept rests on the notion
+of chemistry arranging itself to take in energy
+and efficiently dissipate it, and there’s
+no chemistry happening on the surface of a
+neutron star since there are no chemicals
+there.
+Same, we often see in fiction the ideas of
+very slow and long-lived lifeforms, the sentient
+glacier in Alastair Reynolds short story,
+“Glacial”, which also examines the notion
+of emergence, or the Counting Trees in Terry
+Pratchett’s Discworld, which having noticed
+that people would cut down trees to count
+their rings, began growing plaques that said
+how many rings they had, and promptly got
+cut down to provide address plaques for houses.
+Really long slow lifespans don’t allow for
+much evolution to complexity, biologically
+or culturally, but they generally wouldn’t
+indicate something that was, at its core,
+a byproduct of a system trying to optimize
+energy use and heat dissipation.
+Which we’ll use as our closing point.
+When contemplating strange hypothetical lifeforms,
+the reason why life exists is actually a pretty
+important one.
+If it’s an artificially created thing, one
+needs to ask what the purpose and motive was
+for its creation.
+If it’s just an initially random process,
+then all that matters is the odds of any specific
+medium and environment producing a viable
+lifeform and how big that medium and environment
+is in terms of size and duration.
+If it’s driven by physical laws pushing
+toward minimum energy and stable states, then
+only where that would produce such an entropy-engine
+lifeform would we expect to see it.
+In the end, we just don’t know yet, and
+sometimes I tend to feel the best answer really
+is 42.
+Of course one popular notion for why life
+exists is to simply grow in numbers, and indeed
+evolution does seem to encourage that strategy.
+It doesn’t really answer the ‘why’ but
+certainly describes how it functions well
+enough.
+For a species to exist it needs to be able
+to at least keep up with it’s replacement
+levels and if it gets technology it will usually
+be able to expand not only how many of its
+members survive to adulthood but also how
+many it can support in total, it’s carrying
+capacity.
+Folks often wonder just how many people we
+could support on Earth, what its carrying
+capacity is, and we’ll examine this in our
+new episode “Can we have a Trillion People
+on Earth?”, which is out now for early-release
+on Nebula.
+Nebula, our new subscription streaming service,
+was made as a way for education-focused independent
+creators to try out new content that might
+not work too well on Youtube, where algorithms
+might not be too kind to some topics or demonetize
+certain ones entirely, or just doesn’t fit
+our usual content.
+SFIA uses it principally for early releases
+of episodes, such as “Can we have a Trillion
+People on Earth?” as well as Nebula Exclusives
+like our 4-episode Coexistence with Aliens
+Series.
+If you’d like to get free access to it,
+it does come as a free bonus with a subscription
+to Curiositystream, which also has thousands
+of amazing documentaries you can watch, on
+top of the Nebula-exclusive content from myself
+and many other creators like CGP Grey, Minute
+Physics, and Wendover.
+A year of Curiosity Stream is just $19.99,
+and it gets you access thousands of documentaries,
+as well as complimentary access to Nebula
+for as long as you're a subscriber, and use
+the link in this episode’s description,
+curiositystream.com/isaacarthur.
+Where folks might live in the future and how
+is a question that’s fairly important in
+our discussions here on SFIA, and while Earth
+or other worlds are certainly options, one
+we suggest a lot is living inside giant rotating
+orbital habitats such as the O’Neill Cylinder,
+and next week we’ll be taking a look at
+what it would be like to live inside one,
+in “Life on board an O’Neill Cylinder”
+The week after that we’ll look at another
+place near Earth folks might live, in “Moon:
+Crater Cities”
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to help support future
+episodes, visit our website, IsaacArthur.net,
+to see ways to donate, or buy some awesome
+SFIA merchandise.
+Until next time, thanks for watching,
+and have a great week!

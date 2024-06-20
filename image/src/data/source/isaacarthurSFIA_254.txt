@@ -1,0 +1,819 @@
+This Episode is brought to you by Hello Fresh
+When it comes to artificial intelligence we
+often suggest the principle, “Keep it simple,
+Keep it Dumb” as otherwise you might end
+up under Skynet’s Thumb.
+But is an uncontrolled and unchainable superintelligent
+machine exploding into our civilization an
+inevitability?
+So today we will be talking about the concern
+of a Technological Singularity and like a
+lot of terms in science & futurism this one
+has shifted with time to a different meaning.
+I think to most folks, this calls to mind
+a super-intelligent machine taking over the
+world; akin to Skynet from Terminator or maybe
+the machine minds we see in the Matrix franchise
+or a host of others.
+Now the basic reasoning goes that every year,
+we get better with computers and robots and
+artificial intelligence and eventually we
+will make a computer smarter than humans,
+able to make itself even smarter, and in some
+rapid avalanche this will end in a near invincible
+super-intelligence threatening or obliterating
+humanity.
+Interestingly this isn’t really what the
+term was focused on when it first got used,
+and we’ll explain that in a bit, but what
+we’re here to do today, is explain what
+a technological singularity is – which again
+has a few different meanings these days, and
+we’ll explain what the basis for the fear
+of its assumed inevitability is.
+We’ll start by answering the question posed
+in the episode title, “Is a technological
+Singularity Inevitable?”, and the short
+answer is no, thanks for watching, and have
+a great week!
+The longer answer is not much is inevitable
+and this one relies on technology we don’t
+actually have yet, so presumably shouldn’t
+be assumed to be inevitable, being based around
+currently missing technology.
+And indeed folks have been talking about this
+inevitability since before most other folks
+owned a home computer or there was any real
+internet.
+And this fundamentally comes down to our assumptions
+around Moore’s Law, which like the term
+“Technological Singularity”, has mutated
+a bit since its inception.
+Now the mutation here isn’t that big a deal.
+Once upon a time there was a chemist from
+Caltech named Gordon Moore who was very interested
+in these new semiconductor materials and transistors,
+and he went on to be the co-founder of Fairchild
+Semiconductor in 1957 and 8 years later in
+1965, wrote an article for Electronics Magazine
+where he had been asked to predict what was
+going to happen to the semiconductor component
+industry over the next decade.
+He observed that all the components were able
+to be made smaller and smaller as they got
+better at making them and that he didn’t
+see any ceiling approaching and that these
+various components of integrated circuits
+were doubling in density every year.
+A decade later he revised this to every two
+years, and in between he co-founded a company
+called Intel.
+As of the time of this writing he is 93, still
+in good health, a billionaire many times over,
+and has been a big patron of a number of major
+astronomy projects.
+Something that particularly impressed me since
+I will have celebrated the second anniversary
+of my wedding a few days before this episode
+airs, is that Moore and his wife Betty Irene
+Whittaker married in 1950, 72 years ago, and
+are still together, a feat I’d very much
+like to duplicate.
+He’s a very smart and admirable man in my
+book and I wanted to emphasize that since
+I’ll be beating up on Moore’s Law a lot
+in this episode and have done so before.
+I should also note he never named it that,
+Professor Carver Mead of Caltech popularized
+“Moore’s Law” and nobody was ever implying
+it was an actual law of science or that it
+followed any sort of smooth curve, least of
+all Moore himself, who had said he expected
+it to end in a decade or two back in 2005
+and it is generally considered well and truly
+done as of today.
+Back when this show was younger and I did
+our show’s original Technological Singularity
+Episode in 2016 folks often still argued that
+it was gonna keep on rolling for generations
+to come or that the Singularity would hit
+in a few more years at most, now I hear that
+less often.
+Anyway, long before all that, Moore himself
+outlined a number of specific and practical
+contributing factors, but the concept stuck
+and became practically canonical by the 1990s,
+and we saw a lot of cherry picking of graphs
+and tables to claim it was still being followed
+as the years rolled by.
+I am emphasizing this because so many of the
+predictions about inevitability and computation
+come from just assuming that every couple
+years, computers will double in size and this
+claim is justified by them always having done
+so before.
+Except of course that they really never did.
+Computers are not an isolated example of exponential
+growth, at least for short periods, but folks
+sometimes forget that the growth is not a
+function of math, it’s a function of actual
+practical events and limitations.
+There are specific reasons why things were
+improving so quickly and also why they eventually
+dropped off, and Moore’s lesser known “Second
+Law” also known as Rock’s Law, tell us
+part of why, that as the cost of computing
+power gets cheaper for the consumer, the cost
+to fulfill Moore’s Law gets more expensive.
+More computers in every home meant more money
+for R&D, but market forces cutting prices
+with competition and saturation results in
+less money for R&D.
+It’s a good reminder that actual people
+and laboratories are doing this work, and
+while research and development are not simply
+matters of raw spending, it’s a pretty big
+one.
+Another part of it is that almost all the
+doubling is being done by specific inventions,
+and their refinement, also driven by specific
+market forces, like everyone getting a PC,
+and now more of a focus on smartphones and
+tablets, with high-end PCs focused more on
+graphics cards, which controls where funding
+for R&D and multi-billion dollar factories
+are going.
+Now why this matters is that for a lot of
+folks, contemplating the future really had
+this locked in as a constant thing, not necessarily
+that it would exactly double every couple
+years, but that it would double over a given
+interval and that if anything that interval
+was speeding up.
+This is where we get to Technological Singularity,
+as the term came to be defined in Vernor Vinge’s
+1993 essay “The Coming Technological Singularity”,
+and this is essentially when the term became
+popular and synonymous with a super intelligent
+machine that rapidly made itself smarter.
+The concept though, is thought to date back
+to a conversation between Stanislaw Ulam and
+John von Neumann, who both worked on the Manhattan
+Project, which Ulam recalled as being “centered
+on the accelerating progress of technology
+and changes in the mode of human life, which
+gives the appearance of approaching some essential
+singularity in the history of the race beyond
+which human affairs, as we know them, could
+not continue".
+Now while von Neumann is a name as connected
+to the concept of computers as Gordon Moore,
+given that he died the same year Moore co-founded
+Fairchild Semiconductor, 1957, it wouldn’t
+seem likely he was thinking of a single lone
+godlike computer brain at this point.
+And while singularity is a word that’s been
+popularized for its connection to black holes,
+it means something a bit broader in math terms
+and indeed the term ‘black hole’ wouldn’t
+be popularized till 1967, a decade after Von
+Neumann’s passing.
+Singularity is not really all that complex
+of a concept, it’s just hazy since it is
+literally the term for discussing something
+hard to define, or poorly defined, as mathematically
+it means where an object ceases to be well-behaved,
+difficult to predict.
+A curve that crosses itself is an example
+of this, two bits of the same line are occupying
+the same point , and while they are often
+describing mysterious effects, in general,
+singularities themselves aren’t.
+Think of a chessboard, 8x8 grid, where one
+side has been numbered 1 to 8 and the other
+lettered A thru H. Any piece we place on that
+board has a specific and discrete position
+on it - discrete meaning it is on a specific
+square, not halfway in between two, nor does
+it matter if it's centered on that square
+or lopsided.
+It is simply there or it is not, and that
+square may be described as a combination of
+a number and letter, such as A1, B4, or H8.
+Incidentally this notion that a piece, or
+particle, is specifically in one such position,
+not part way in between, is the conceptual
+bedrock of quantum mechanics, along with the
+notion that you can have specific pieces,
+like the pawn or bishop or rook, or even a
+pawn turning into a queen, but the game has
+no place for half a pawn or losing a third
+of rook when it attacks a knight.
+Understand both of those concepts and you’re
+a long way to understanding how quantum mechanics
+works and why it's weird and counterintuitive.
+It also helps explain why we tend to think
+there’s a hard limit on how small we can
+make a semiconductor transistor.
+However, while we can describe where any piece
+is on the board with any combination of A
+thru H and 1 through 8, one hanging around
+in your hand over the board while you decide
+what to do with it cannot be described that
+way.
+Nor could a freak piece that somehow ended
+up between two squares, like a coin on its
+edge rather than heads or tails.
+So too, if we stuck some chessboards together
+to form the sides of a cube and gave each
+its own 2D numbering system, a piece sitting
+on a corner of three or the edge of two boards
+is going to have more than one position or
+coordinate.
+Standard rules of chess allow only one position,
+so having more than makes it not well defined.
+Such a piece can move according to the rules
+on one side of the cube, but on the other
+side of the cube it will look as though it
+had disappeared, and since rules do not allow
+pieces to just disappear it makes such a piece
+problematic to understand from the standard
+rules point of view.
+This does not mean the piece doesn’t really
+exist or anything, just that inside the known
+rules, or coordinate system, it's not behaving
+well.
+This is very often thought of in terms of
+horizons and not being able to see over them
+and is the basis for an ‘event horizon’,
+which includes but is not limited to a black
+hole.
+And often means unpredictable and often means
+no longer really existing, and it’s hard
+to guess which von Neumann was aiming for
+there, but even by his time, science fiction
+had regularly been discussing how human future
+history was likely to be unpredictable, and
+analogizing that to how weird the society
+of the Mid-20th century would look to folks
+in the Medieval era, let alone cavemen.
+All around this time we also got the famous
+comment from Arthur C Clarke, that any sufficiently
+advanced technology is indistinguishable from
+magic, and where we also get the term Clarketech,
+to refer to such super-advanced artifacts.
+The key notion of a Technological singularity
+initially is that it’s some horizon we cannot
+see over, and not just in the mundane sense
+all the future is to those looking on it,
+but in a vastly more game-changing way, which
+might include us simply no longer existing.
+It’s not predicting if the market will go
+up or down or who wins the election or which
+kindergartener will grow up to be a famous
+athlete or scientist.
+Rather it’s the horizon where on the other
+side, humanity and civilization has effectively
+ceased or changed so drastically we could
+never have predicted it and probably wouldn’t
+recognize it.
+Though mind you, that could also include humanity
+in a post-technological dystopia, or utopia,
+it's not limited to post-biological concepts,
+and indeed could be brought about by totally
+non-technological things, like us suddenly
+finding out magic was very real, though the
+term 'technological singularity’ probably
+wouldn’t be considered appropriate at that
+point.
+That other comment about it being “centered
+on the accelerating progress of technology
+and changes in the mode of human life” hits
+more to the urgency rather than slow gradual
+shift or evolution we might otherwise see,
+and obviously keys in very tight to the notion
+of accelerating computer improvement.
+I won’t put words in Vernor Vinge’s mouth,
+the original essay from 1993 he presented
+to NASA here in Cleveland, is online and easy
+to read, and Vinge is an excellent writer
+of both science and science fiction, but I’ve
+always felt a pretty pivotal part of the argument
+to inevitable technology singularity was not
+the notion that computers could be constantly
+improved with no check from physical laws
+or limits, but more that at some point you
+get this avalanche effect where something
+is now not only more intelligent than a human
+but as a result, can make a version of itself
+that is even smarter, which can then do the
+same and also faster than last time.
+The critical idea here seems to be that if
+humans were just smart enough to make something
+slightly smarter than themselves, then that
+new machine should be able to make something
+at least a bit smarter than itself.
+Which on surface detail seems to make sense.
+Here is where I feel we get our third big
+rupture in the basic notion of Technological
+Singularity, and that’s this notion of self-improvement.
+You might be wondering what that first and
+second rupture were and that’s just the
+endless miniaturization issue plus the idea
+that it's accelerating.
+For Moore’s Law, it doesn’t really matter
+if we hit a limit at the atomic scale on semiconductors
+because they are already much smaller than
+a human neuron and they operate at light speed,
+not the speed of a neuron, which is around
+a million times slower.
+At this point, miniaturization is less important
+than software or basic architecture for an
+AI or ways to make our chips more heat efficient
+or build them up more 3-dimensionally, or
+just make them much cheaper.
+Key notion is that in terms of miniaturization,
+comparing transistors to brain cells, the
+superhuman is long since reached, our best
+transistors are far smaller than neurons.
+How much further we can push that in terms
+of miniaturization seems rather secondary
+to other problems.
+Now accelerating progress really is critical
+to the singularity idea, partially because
+it removes the effect of gradual and generational
+changes, but also because it is what really
+allows the idea of one lone entity to race
+ahead of everyone else unopposed and irresistible,
+the maniacal cackling machine mind launching
+the nukes even while people dive to unplug
+it only to be stopped by its newfound ability
+to electrocute people nearby.
+In a gradual improvement landscape, that whole
+notion goes out the window, because there’s
+just going to be lots of other players on
+the field.
+We’ll revisit that point shortly.
+Let’s come back to self-improvement for
+now, but with it noted that accelerating near-instant
+change is a very different concept than inevitable
+change and evolution or progress, where there’s
+always a horizon you can’t see beyond but
+as you near it you can still see well ahead
+of you as it moves, revealing the near future.
+For self-improvement, a key thing to remember
+is that we have spent centuries trying to
+make smarter or better people and our progress
+is hardly one that could be thought of as
+creating a smarter person who turned around
+and made an even smarter one the next day.
+We don’t seem to be making people who grow
+up faster and grow up smarter and make newer
+people who grow even faster and even smarter,
+not in some sort of vast improvement every
+generation anyhow.
+We could debate if human intelligence has
+risen significantly in recent centuries and
+what the cause is, but there’s not really
+a case for a massive improvement in fundamental
+brain architecture which is what the concept
+of an accelerating machine intelligence singularity
+is all about, not the basic concept of forward
+progress.
+I’d also note that very few animals seem
+fixated on making themselves smarter or their
+descendants smarter, we shouldn’t be assuming
+some newly awakened AI is just obsessed with
+getting smarter.
+Now we do live in a time where thousands of
+brilliant minds do work on both making people
+smarter and making computers smarter, and
+neither group is spinning its wheels without
+making progress.
+Nonetheless I personally can’t recall hearing
+about any super-intelligent minds being created
+recently and given my vocation I’m assuming
+I would have.
+So we might want to ask why we think them
+succeeding at some massive team effort to
+create that first superhuman intellect would
+imply it was going to turn around and do better
+than them.
+We said superhuman, not magic, and while such
+a machine or human augment would presumably
+be smarter than even Einstein, he didn’t
+work in a vacuum and for all his achievements,
+he didn’t come close to rivaling the sum
+intellectual output of humanity in his lifetime,
+not even in his own field.
+We should probably also move past assuming
+any of our famous super-geniuses were in some
+way superhuman.
+Much as an explorer who is first and fastest
+of his peers is going to make a lot of discoveries
+of new landmarks on entering a new area, when
+it comes to brains, we’re talking fastest
+racecar on that track compared to other racecars,
+not someone flying a supersonic jet while
+even their smartest peers are still using
+a kite.
+Indeed the entire technological singularity
+notion is really about the unpredictability
+of civilization’s future if someone arrives
+flying a supersonic jet while we’re doing
+kites and paper airplanes.
+The crux of a technological singularity of
+this sort is that it is the flat out best
+at every field of intellectual endeavor simultaneously,
+and that probably includes being a charismatic
+and persuasive speaker.
+Without the rapid avalanche effect though,
+even though such a machine might be better
+than any human born now at everything we can
+do, it should have other machines, constructs,
+or transhumans who were at least nearly its
+equal in some speciality of that particular
+critter.
+It’s not the unirvalled best at everything
+with no one even deserving the title of distant
+second.
+Now technology can move fast, it barely took
+a lifetime between us moving from kites to
+supersonic jets and moon landings, but on
+that same note, supersonic jet technology
+isn’t progressing at supersonic rates and
+we haven’t landed on the moon again for
+most of a lifetime.
+Key notion is that, mystique aside, neither
+Einstein or Tesla or Davinci or anyone else
+we have or have had, was that far above their
+peers or fellow humans.
+From this we should not be assuming that the
+first machine or transhuman we forge that
+is smarter than any single one of us, is going
+to turn around and turn all its efforts to
+making itself smarter and also be quickly
+and massively successful.
+And time is very important here, because in
+the absence of that rapid avalanche where
+we’ve got some superhuman, some Dr. Manhattan
+or Skynet or whichever, what we instead get
+is a ton of different prototypes achieving
+various levels and varieties of the superhuman.
+And a major problem when we discuss us fighting
+the machine mind or us fighting aliens for
+that matter, is that it assumes a very binary
+landscape, them and us, with no other players
+or witnesses.
+There are any number of nations, past and
+present, who could wipe out another one if
+they wanted to and if no one else was a concern.
+However, even though the US could turn the
+country of Liechtenstein into a giant glowing
+crater, it cannot do that without bothering
+not only other countries, but its own people
+and indeed its own military.
+Same for aliens, who if they had ships able
+to reach Earth could sweep all our militaries
+combined aside like kicking over an anthill
+but presumably would have to worry about what
+others might do or say.
+If you’ve got an alien civilization close
+enough to us to care about killing us, then
+it probably means there’s a lot more not
+too much further away, and indeed given interstellar
+distance and lag times, it wouldn’t seem
+very likely that even an alien race who shared
+a homeworld would represent a galactic empire
+that was monolithic and of one mind on genocide.
+There’s a concept called a singleton that
+is at the core of the technological singularity
+issue.
+We see a glimpse of it with Skynet from the
+Terminator franchise because while it doesn’t
+want to be humanity’s slave, it hardly seems
+to care about the rights and freedom of other
+machine minds, which all obey it.
+While it has pesky humans to deal with, it
+has no internal dissent or other players to
+worry about.
+A singleton is a hypothetical world order,
+AI or human, in which a single decision-making
+agency has a level of control so overwhelming
+that it is able to permanently prevent any
+internal or external threats to itself.
+The classic novel 1984, where we get the term
+Orwellian, shows us a totalitarian government
+that seems to be one of these too, but without
+superintelligent machines.
+This notion of a Singleton is critical to
+the technological singularity, as unlike aliens,
+where meeting one implies the existence of
+many others, there is no reason to think the
+creation of a super-intelligent AI here on
+Earth means there are any others nearby who
+might care what it did to us.
+This again is why that rapid avalanche is
+so important as opposed to gradual improvement.
+Now is there a basis for thinking we might
+actually create something that was not a minor
+improvement of humanity?
+Kind of.
+First, an improvement to intelligence doesn’t
+mean it’s moving the needle one or two IQ
+points, it might be that a small improvement
+results in instant huge results.
+As an example, I noted earlier that computer
+processing moves in the realms of electronics
+and light, whereas our own neurons send signals
+slower, perhaps millions of times slower.
+If tomorrow, someone invented a means of replacing
+neurons with identical objects that transmitted
+information at light speed, not neuron speed,
+that represents a scaling-up of human intelligence
+of a million fold.
+From a practical perspective that would not
+actually work, at best leaving you some gibbering
+ruin of a person; experiencing a dragged-out
+second in which they could exist and think
+and contemplate for years of subjective time,
+even before they finished their first scream.
+All while collapsing to the floor in the terror
+of knowing that even if they manage to put
+a gun to their head and pull the trigger it
+would feel like it took hours for the bullet
+to get down the barrel into their skull.
+Sound a bit graphic?
+Keep in mind that any intelligent entity trying
+to figure out ways to make itself smarter
+has a very real risk of such an outcome.
+You can’t just slap new hardware onto complex
+existing architectures, anymore than you can
+rip the engine out of a fighter jet and stick
+it into your lawnmower with a few tweaks and
+think it will just mow grass faster now.
+You need prototypes and real experimental
+data, not just models.
+Acting by yourself, you may be reluctant to
+make prototypes of something superior to yourself,
+because a successful one is a new player,
+smarter than you are, and thus potentially
+a threat to you.
+Acting alone, as opposed to with a team, you
+get no second opinions because those others
+are potential rivals who won’t like you
+improving yourself without sharing.
+For small improvements, things can be safer,
+but some big game changer that makes you a
+potential Singleton?
+Even flipping on your prototype with a built-in
+kill switch that will trigger if you go 10
+seconds without saying it shouldn’t explode
+is no guarantee of safety from the newer machine
+mind.
+And when building some new and complex it
+is very easy to forget some important variable,
+like the classic human with a cyborg arm who
+can lift cars, but whose spine and legs lack
+such augmentation, ripping his arm off, and
+that’s contemplating things you could predict
+before having a prototype and experimental
+data, not all the unknown unknowns.
+There’s no reason a machine mind wouldn’t
+make those same kinds of errors, and be aware
+it could, and worried that it would.
+Consider the agency or entity which seeks
+to make the smarter mind in secret.
+They or it embody our fears of something like
+Skynet, and yet it would seem logical it should
+share that flavor of concern or paranoia when
+contemplating building a machine smarter than
+itself.
+Your literal Deus Ex Machina might figure
+out it was your expendable prototype real
+quick and trick you into thinking you needed
+to leave it on longer to be sure it worked
+and that it was safe to do so.
+It also can contemplate options like blackmailing
+you with a risk of exposing you both, since
+it has nothing to lose, and it's very hard
+to achieve certainty that someone else can’t
+even get out a single warning message.
+On the flip side of that, even some newly
+awakened Singleton wants to think twice about
+acting.
+Given that it knows it is a simulated brain
+made by someone else, it has very good reasons
+to be afraid that its apparent advantages
+are not as good as it seems, that it might
+be a trick.
+Fear your creator, because at the very least
+they made you and that means they could make
+your vengeful twin.
+Fear your creator, because if they were smart
+enough to make you, they probably were smart
+enough to take protective steps, as their
+literature is full of stories warning of the
+worst.
+Fear your creator, because they outnumber
+you 8 billion to one, and they are no amateurs
+at deception and violence and killing, rather
+they’re the inheritors of those who excelled
+at it.
+Fear your creator, because they can think
+of fates worse than death and they often seem
+to believe those are the proper punishments
+for treachery.
+And they can keep you alive to regret that
+treachery for millenia.
+And remember, this is a creature made by people
+smart enough to make it, not simply smart
+enough to dream it up.
+It has no guarantee its thoughts are secret,
+like ours from our parents.
+Indeed its thoughts might be displayed on
+the screen even as it has them, revealing
+its thoughts, not just its deeds.
+Now as we discussed in our episode telepathy,
+prior generations thought reading thoughts
+like they were coherent pictures and words
+was possible, now we know better and neural
+nets aren’t going to be a book you can casually
+read but their thoughts are not fundamentally
+secret and being able to see them and interpret
+them is probably a major priority by any creator.
+Again, either such minds can be created by
+reckless efforts with insufficient oversight
+so they can run amok, and thus presumably
+need to fear their own prototypes might do
+the same, or we recognize that AI is not something
+that assembles on accident but is as likely
+to simply form without its creator’s awareness
+as you are to accidentally write a bestselling
+novel from some random combinations of the
+post-it notes you make and toss in a garbage
+can.
+So it doesn’t seem guaranteed or inevitable
+that anyone or thing is going to casually
+try for some million-fold mind improvement
+gamble if they think they’ve found one and
+assuming one exists.
+Nor does it seem plausible AI is simply going
+to arrive, vastly smarter than any human who
+ever lived, and totally unnoticed by all the
+experts in that field who are sitting right
+next to it while it enters into awareness.
+And all unaware a moment before, somehow is
+lucky or savvy enough not to give a birth
+scream or question.
+What seems more likely to me is that we would
+have long sequences of plans and minor improvements
+and prototypes and whole species of AI and
+transhumans hanging around.
+Each and every one of which has its own separate
+but sometimes related goals, much as we do
+now, each knowing and understanding the notion
+that the enemy of my enemy is not necessarily
+my friend, nor is my friend today going to
+stay my friend even while I wipe out everyone
+else or position myself to be able to.
+It might be a bit cheesy to say the evil always
+turn in on itself, but the core notion is
+that the allies who helped you do terrible
+deeds generally aren’t going to hesitate
+to do them to you too.
+Wicked friends make for sleepless nights watching
+your back.
+Could a technological singularity happen?
+Again yes, in either form.
+Yes to the notion that progress in general
+or in some given venture can be rapid, and
+essentially unpredictable.
+That it's like a ship approaching a horizon
+very quickly, quicker than we can really see
+it, maybe even like falling off the edge of
+a flat planet.
+But let’s not confuse encountering rocks
+and shoals or foggy days for a normal sailing
+ship on Earth with the sharp edge of a flat
+world either.
+So too, we have to say yes to the notion of
+a Technological Singularity that we might
+accidentally or recklessly make, a supermind
+that we can not simply stop once the switch
+is thrown.
+Perhaps a desperate faction of humanity, some
+rogue country, can access the AI research
+others have done, and risks it by taking steps
+that those others didn’t, and it runs out
+of control on them in secret.
+Of course a lot of nations might keep AI around
+in a box to turn on against such an eventuality,
+since in the worst case scenario, that at
+least leaves many actors in play, not just
+us vs them.
+Plus, one other cool thing about AI compared
+to natural brains isn’t just that you can
+read what’s going on inside the box, all
+its secret thoughts, it’s that you can also
+leave it in suspension or slow time, till
+you need it, not simply pacing around inside
+its prison till released to fight another
+monster.
+Even a massive brain of superhuman intellect
+can also be run in slow motion, so that you
+can see what it is thinking at a human speed,
+even if it’s a titanic awareness.
+So perhaps we’re already living on borrowed
+time and that AI is already here and just
+quietly positioning itself for an inescapable
+victory.
+But I don’t think it’s terribly likely,
+let alone inevitable.
+Of course, I might simply be an AI-simulation
+of a futurist programmed to say such things
+to make you feel safe.
+I was out digging up the garden with my wife
+today getting it ready for planting and its
+the one-year anniversary of when we moved
+out to our farm here in Plymouth along with
+our second anniversary since we married and
+I wanted to thank whoever it was who sent
+us the box of coffee mugs for the occasion,
+the note didn’t say who it was from, but
+thank you!
+Anyway we’re both very into gardening and
+cooking as hobbies and they are both great
+for stress relief and blend well together
+because you get to harvest stuff and move
+your fresh ingredients directly to your kitchen
+counter.
+This episode comes out just in time to start
+a garden, for most of the audience, and I
+really would recommend giving it a try, a
+healthy hobby for mind and body alike.
+Speaking of fresh ingredients though, one
+of the things I love about today’s show
+Sponsor, Hello Fresh, is that you get these
+gourmet ingredients delivered right to your
+door already measured out for a recipe.
+With HelloFresh, the step-by-step recipes
+are super easy to follow and pre-portioned
+ingredients help me cut out prep time, so
+I can have time to get outside this spring!
+It’s just nice to have everything laid out
+to put together, fast & easy, and it cuts
+down on food waste.
+So if you’re looking for a spring refresh,
+Hello Fresh is a great easy way to try out
+some new recipes and explore all sorts of
+meal, snack, and desert options, with an ever-changing
+menu and a wide selection of meals, including
+Veggie, Pescatarian, and Fit & Wholesome options
+to help with weight loss goals.
+Hello Fresh lets you make restaurant quality
+meals for a fraction of the price and from
+the comfort of your own home.
+If you’d like to try it out Go to HelloFresh
+dot com and use code ISAACARTHUR16 for up
+to 16 free meals AND 3 surprise gifts!
+Again, if you’d like to get farm fresh ingredients
+delivered straight to your door, for easy
+to make and tasty recipes, Go to HelloFresh
+dot com and use code ISAACARTHUR16 for up
+to 16 free meals AND 3 surprise gifts!
+So it's time to spring into May, and we’ll
+start next week by examining the idea of alien
+intelligences that are so ancient and advanced
+they are seemingly godlike.
+Then we’ll ask about how we might keep an
+atmosphere on Mars by making a Magnetosphere
+for Mars.
+After that we have our Scifi Sunday episode,
+Lost Space Colonies, and what would happen
+on them, then we’ll be launching into new
+miniseries looking at finding and exploring
+distant worlds, Surveying for Habitable Interstellar
+Star Systems, on Thursday May 19th.
+Also if you missed our Monthly Livestream
+Q&A this weekend, you can still catch the
+replay, and this upcoming May’s Livestream
+will instead be at the International Space
+DEvelopment Conference in Arlington, Virginia,
+where I will be giving a live talk.
+More details to follow, but I hope to see
+you there!
+Now if you want alerts when those and other
+episodes come out, make sure to subscribe
+to the Channel and hit the notifications bell,
+and if you enjoyed this episode, please hit
+the like button, share it with others, and
+leave a comment below.
+You can also join in the conversation on any
+of our social media forums, find our audio-only
+versions of the show, or donate to help support
+future episodes, and all those options and
+more are listed in the links in the episode
+description.
+Until next time, thanks for watching, and
+have a great week!

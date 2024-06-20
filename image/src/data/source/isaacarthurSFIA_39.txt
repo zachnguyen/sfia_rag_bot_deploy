@@ -1,0 +1,574 @@
+The Red Planet beckons us toward it, and 
+the day draws closer when humans will walk  
+on its dusty surface, and the moons of 
+Mars may be our gateway to that future. 
+Today we are taking a look at the 
+two Martian Moons, Phobos and Deimos,  
+named after the horses that drew the god of war’s 
+chariot, and as we’ll see, they could potentially  
+play a critical role in transport to and from 
+Mars in keeping with their mythological namesakes. 
+Probably the two biggest differences between Mars 
+and the Moon for the purposes of visiting and  
+exploring them are how long it takes to get there 
+and how much harder it is to get back off it. 
+The Moon is more than an order of magnitude 
+further away from Earth than any place on  
+Earth is from another, but Mars is two 
+more beyond that, moving from a quarter of  
+a million miles away to more like a hundred.
+Neither has much gravity compared to Earth,  
+but Mars has more. It also has a scanty 
+atmosphere, just enough to make landing  
+there cheaper in fuel than on an airless 
+place, and also a bit of a pain to get off of. 
+This is our core issue today because Mars 
+is so far from Earth that any mission sent  
+there is out of luck for resupply and 
+needs to hang out there for many months,  
+not days like the Moon Missions. But so long as 
+a mission has access to power and water, it can  
+basically keep going indefinitely, especially 
+if it has a lot of redundancy of low-weight  
+objects like medicines, tools, or seeds.
+Power is probably obvious but water a bit less so  
+and it's half our reason today for looking at the 
+two tiny Martian Moons, Phobos and Deimos. Water  
+is very easy to turn into breathable oxygen and 
+the fuel, oxidizer, and propellant for a rocket  
+home. Using the example of the Perseverance 
+Rover we sent to Mars, getting that one-ton  
+rover to the ground on Mars from the launchpad 
+here on Earth took an Atlas Rocket bulking in at  
+around 500 tons, and if you wanted to bring that 
+home would have required launching it with return  
+fuel and an initial mass of a lot more than 500 
+tons, especially if you were using a single ship. 
+We have no desire to be carrying the fuel for 
+returning to Earth not just to Mars but down  
+to the ground and back up again. Instead the 
+ideas are to make fuel down on Mars or leave  
+your return fuel to earth up in orbit, along with 
+any parts of your spaceship that you need for the  
+voyage but not for going to and from orbit.
+You can absolutely make Fuel down on Mars,  
+electrolyzing water into hydrogen and oxygen is 
+a simple and scalable process and you can see the  
+mountains of ice on the Martian Poles, but the 
+problem is we don’t really want to do missions  
+there and we are not going to be able to travel 
+much beyond the landing site on early missions,  
+especially without fuel. The good news 
+is that we have good reason to believe  
+there are subsurface ice deposits nearer the 
+equator and that is a wonderful thing because  
+it takes a lot of fuel to get off of Mars.
+It’s escape velocity is more than double the  
+Moon’s, and in practical terms, using our ideal 
+rocket fuel of hydrogen and oxygen, a rocket  
+getting off the moon needs about 7.5 tons of fuel 
+for every ten tons of craft escaping the Moon’s  
+gravity, while one doing that for Mars needs more 
+like 20 tons of fuel for every 10 tons lifted. And  
+if you’re planning on going home to Earth, most 
+of that mass is going to be your fuel, so anything  
+you make down on Mars is paying a toll of at least 
+two-thirds (practically speaking probably more). 
+Hence, if we can make fuel over at those moons, 
+that’s way better, because it means that we can  
+still make fuel down on Mars but a ship 
+arriving from Earth only needs to carry  
+the fuel to have gotten to Martian orbit, 
+can re-tank to land from an orbital depot,  
+and refuel on the ground to launch back to that 
+depot, then refuel there for the trip home.  
+Phobos and Deimos are both so pitifully tiny 
+that we need not even consider their gravity;  
+a person in a space suit could literally 
+throw a fuel pod off Deimos, for instance. 
+We often talk about generating fuel for Mars on 
+the Moon but even there you are spending about  
+half your fuel to get it off the Moon and 
+then you have to chuck it over to Mars and  
+burn more to slow it into orbit, though this is 
+easier if we have a mass driver on the Moon, but  
+while that’s a lot easier to setup and maintain 
+there than on Mars, it's still a big piece of  
+infrastructure to be contemplating this early in 
+space settlement. We also enjoy the advantage of  
+proximity to our existing industry when we make 
+fuel down on Earth regardless of the percentage  
+lost to get it into orbit, as we have an 
+overwhelming amount of infrastructure, industry,  
+and manpower down here already. A base on Mars 
+enjoys no such advantage over its own Moons. 
+So in our ideal scenario a ship launches from 
+Cis-lunar space with the fuel needed to orbit  
+Mars, picks up fuel for its landers in orbit 
+there, lands on Mars, refuels there, launches  
+back up, refuels again in orbit, and heads home.
+Or alternatively we just build a base on one of  
+those Moons and interplanetary ships dock there 
+and landers do too. This is handy if you’re using  
+an Aldrin Cycler for your journey between planets 
+because the longest step of that is it looping  
+around out past Mars and you could just leave the 
+ship on auto-pilot for that boring and routine  
+journey and jump back on board when it came back 
+through if all the systems seem safely intact. 
+In any event, one big caveat is that we don’t 
+know that Phobos or Diemos has any ice. They  
+have virtually no gravity so we can’t take that 
+for granted just because Mars does and our own  
+Moon does, and it's not too easy to check as what 
+it would have would be under the surface. Phobos,  
+being the bigger of the pair, would seem the 
+better bet but the big problem is that we might  
+need a manned mission to set up such a facility 
+and we might find it had no ice available. 
+Now the good news is that you don’t have to 
+have water to make fuel, you can make it out  
+of most things that have oxygen in them by 
+pulling it out, which is true for most metal  
+ores and rocks. And keeping iron or aluminum 
+around as a fuel source is way easier than  
+storing hydrogen too. Though specific versions, 
+like powdered aluminum in liquid oxygen as a  
+monopropellant gel, might be harder to store 
+than others which might not perform as well,  
+and is no easier to store that way than liquid 
+oxygen and aluminum powder separately would be,  
+so you might mix them shortly before use instead.
+Indeed by preference we use methane or ammonia as  
+our way of storing hydrogen simply because even 
+though most of that mass is carbon or nitrogen  
+instead of hydrogen in those cases, it’s a lot 
+more stable and easier to store without leaking.  
+Which matters when you want to make and store 
+it for months or years at a time. What’s more,  
+whatever your fuel is, be it hydrogen or 
+hydrogen bonded to carbon or nitrogen,  
+most of your mass is actually the oxidizer.
+Burn hydrogen fuel and you end up with water,  
+which is 89% oxygen by mass, compared to 
+hydrogen, which is obviously 100% hydrogen  
+by mass though it needs heavier tanks to store 
+it, or methane which is 25% hydrogen by mass,  
+or ammonia which is 18% hydrogen by mass, again as 
+opposed to water, 11% hydrogen by mass. So even if  
+you’re only producing your fuel down on Mars, you 
+can save a lot by making your oxidizer up there. 
+If the moons don’t have readily available 
+ice, you get your hydrogen down on Mars,  
+either as hydrogen or as methane probably as 
+opposed to ammonia – carbon is plentiful on Mars,  
+compared to nitrogen, on other bodies nitrogen can 
+be more common and this is generally going to be a  
+concept and process transferable elsewhere. Like 
+the asteroid belt, where water ice might turn out  
+quite uncommon but where you might be mining 
+metals and refining them and using the oxygen  
+leftover from that to make up the bulk of your 
+rocket weight going home, even if you decided it  
+was cheaper to bring some fuel in from elsewhere.
+I am going to bet Phobos and Deimos do have  
+ice though, but wouldn’t favor a manned 
+mission there before we were confident on  
+its occurrence and accessibility. The problem 
+is that it generally makes way more sense to  
+preposition lots of spare fuel and supplies in 
+orbit of Mars before sending a Manned Mission  
+there and a robot can handle a rendezvous with 
+either of those moons way better. You can slowly  
+rendezvous over entire days with either moon 
+if you wanted and if the rocket doesn't work  
+on the final burn you’re crashing at several 
+miles per hour, not several miles per second. 
+By default you probably want to land on one 
+of the lunar poles too, they’re essentially  
+in the sunlight all of the time so while solar 
+is weaker out there than here, it is essentially  
+constant minus when it goes into the shadow of 
+Mars, which it orbits three times a day and the  
+shadow is on an order of minutes, not hours 
+like Earth’s night or weeks like on the Moon,  
+so only very modest batteries are needed for 
+operation there. Deimos is smaller and further  
+out, orbiting about every 30 hours and would spend 
+even less time in the shadow of the planet but may  
+be further out than you’d really want your base, 
+both have their pros and cons and I’d imagine  
+both will eventually have their bases. I just 
+tend to think we should pick one to have a  
+base on it before we put one on Mars itself.
+The issue that gets raised a lot is that we  
+wouldn’t want to go all the way to Mars with 
+some human crew and then not even land on it,  
+and that’s a fair point to raise but I should note 
+that we did do that with the Moon. Frank Borman,  
+commander of Apollo 8, who passed on 
+not long before I drafted this episode,  
+orbited the Moon but never landed on it, 
+as did 1 out of the 3 astronauts sent on  
+those missions which did land on the Moon.
+It is more attractive to imagine sending a  
+ship that would park in orbit and send some folks 
+down, but I’d rather see the supply built up in  
+Martian orbit or on its moons first before we send 
+a human millions of miles from help or resupply,  
+and then from that disadvantaged position, 
+have them try to get up and down from space  
+to a planet too, which is even harder than 
+the long flight between us and the Red Planet. 
+I would make the case that we’d be wise to 
+consider either moon as a place to plant some  
+equipment first. For one thing, those moons are 
+free shielding from radiation and micrometeors.  
+If you’re planning to leave things in orbit for 
+potentially months or years waiting for ships to  
+arrive with people, it’s better to tuck them into 
+some crater. Now the question becomes can we clap  
+together a reliable module that can land itself 
+on that moon’s pole, spread out some solar panels,  
+and start crunching up rock to process into 
+metal and oxygen or drill down for ice,  
+one that’s able to produce at least a 
+few times its own mass before breaking. 
+To me this experiment and prototype is honestly 
+more valuable than rock samples off the Red  
+Planet, because it furthers space development 
+and developed space can more easily get resources  
+landed on Mars and other places for settlement. 
+If I’ve got some simple module that can land on  
+any rock or ice ball, spread its solar powered 
+wings, and start pumping out fuel for a tank,  
+I can now send unlimited robotic 
+and human expeditions around the  
+solar system and at decently faster speeds.
+It might be easier to run something like that on  
+a RTG instead, a radioisotope thermal generator, 
+but the big issue with solar power on Mars is  
+the dust and space doesn’t have that problem, 
+so I like it better there. Either way, while  
+producing fuel here and rendezvousing for fuel 
+does add another point of failure to missions,  
+which is never a good thing especially with 
+robotic missions with lots of signal lag time,  
+it is reducing your initial fuel burden by an 
+order of magnitude. I also very much like the  
+idea of having two places that can produce 
+fuel on Mars, so if one of them goes bad,  
+we have options. Fundamentally I don’t want 
+anyone a hundred million miles from home relying  
+on a static fuel supply that’s not several times 
+what they need and stored in more than one spot. 
+And such a device can be of fairly arbitrary 
+size. I would guess one twice the weight of  
+another would produce more than twice the fuel, 
+so bigger might be better, but such devices might  
+easily mass less than a human. Long term it 
+would also be awesome if the device were able  
+to make its own polished mirrors for condensing 
+sunlight on its solar panels and cranking out  
+air-tight pods to put its fuel or oxidizer 
+in, but that’s icing on the cake, or comet. 
+So given my choice I’d send these sort of solar 
+or nuclear fuel generators to both moons and  
+two spots on Mars and still send one with the ship 
+and with the lander. That way the ship can meander  
+over to Phobos after the lander deploys and make 
+fuel while it waits or tanks up off the one there,  
+while, enjoying lots of radiation shielding. 
+But I’d also want a basic communication relay  
+on anything in orbit, satellite, ship, or 
+moon, so the ground team was never in comm  
+blackout and still had a backup if the main one 
+broke. Redundancy and backups are important,  
+this message brought to you by Chief Miles O’Brien 
+and the Department of Redundancy Department,  
+which would like to remind you that 
+redundancy and backups are important. 
+This is an episode on settling both those 
+moons though, not on their initial use as  
+fuel producers, but that is the big initial 
+reason to put infrastructure on either so  
+it factors in the same way rum or tobacco 
+did to settling the Caribbean or Virginia. 
+Ultimately these are both fairly tiny moons so 
+they aren’t eternal supplies of raw materials, not  
+that anything is, but Diemos masses 1.5 Trillion 
+tons, and Phobos is about 7 times that. That’s ten  
+and seventy times the mass of mount Everest and 
+so it's hardly a trivial amount of mass you’re  
+going to exhaust, we are talking more mass than 
+humanity has ever used in all our buildings and  
+industrial forges combined, but Mars is a hundred 
+million times as massive as both combined and at a  
+certain point it gains sufficient infrastructure 
+to offset the difficulty of pulling mass off it. 
+Nonetheless I think both could be thought of 
+as the river delta of Mars, that very valuable  
+initial real estate that everything is 
+going to move through. As an example,  
+Phobos is a weird moon, very close as these 
+things go and orbiting quicker than Mars rotates,  
+so it rises in the west and sets in the east.
+A non-rotating skyhook hung down from Phobos could  
+be just under 6000 kilometers or 4000 miles long 
+and dangle over the atmosphere at about 800 meters  
+per second, or 1800 miles per hour, in comparison 
+to the equatorial speed of Mars as it spins, 240  
+meters per second, or the low orbit speed around 
+Mars, and in some ways would work better for space  
+planes to match up with than a fixed space 
+elevator which also would be harder to build. 
+And I should emphasize that when I talk 
+about Phobos or Diemos being small, again,  
+there’s enough mass in Phobos alone to build 
+millions of oil supertankers or aircraft carrier  
+sized vessels. When we’re getting to that sort of 
+scale, you take a bunch of those and run them off  
+to the outer system to grab fuel instead.
+I’m not a huge fan of geostationary space  
+elevators – or since this is Mars, 
+Areostationary – in favor of options  
+like Orbital Rings and Tethered Rings or some 
+mass driver running up the side of Olympus Mons,  
+but all of those options are way further down 
+the line and I just don’t see building them  
+unless you’ve either got very good automation 
+of the clanking self-replicator variety or a  
+few million folks living down on Mars, in which 
+case these moons are great fuel depots and also  
+great launch points. These sort of super-strong 
+tether tricks can also be used for catching ships  
+coming in at higher speed, to save rendezvous 
+fuel for them or Mars, and to launch them too. 
+But while a big chunk of rock isn’t optimal 
+for fuel production compared to an iceball,  
+it is very good for metal production and allows 
+us to start making big orbital mirrors for  
+warming up Mars or big power collectors to begin 
+beaming energy down to Mars where ground solar  
+might not be optimal, or even creating a big L1 
+Lagrange Point magnetic deflector for shielding  
+any atmosphere we bring to Mars, like we discussed 
+in our episode on Making a Magnetosphere for Mars. 
+As we discussed a couple months back 
+in our episode on Statites and lagites,  
+great big thin mirrors can hang basically anywhere 
+in our solar system at an area density of about  
+3 grams per square meter, thin tin foil density, 
+and can have lots of atypical orbits as lagites,  
+even when an order of magnitude thicker or more. 
+Thus, we don’t need to get very delicate in our  
+production of aluminum foil on Deimos or Phobos 
+to start mass producing orbital mirrors for Mars.  
+Let’s say we ended up with clunky satellites 
+that had to average 100 grams per square meter,  
+controls and all, to make for an orbital mirror 
+around Mars, and one capable of providing its  
+own stationkeeping by tilting those mirrors.
+You could still produce an equal amount of  
+those to the entire surface area of Mars for 
+14 billion tons of metal. Around a thousandth  
+the mass of Deimos, the smaller moon, and actually 
+less than a quarter of current worldwide aluminum  
+production here on Earth. Sounds weird but you 
+can build very thin and light in space and yes,  
+we could cover the whole planet, Earth I mean, in 
+aluminum foil if we wanted to without bankrupting  
+the economy, ignoring the damage covering 
+the planet in foil would do. Though it would  
+save us from the alien brainwashing satellites.
+With those mirrors and shades and power collectors  
+and magnetic deflectors in place, you could make 
+Mars quite a nice place to live. More importantly  
+in the short term, you could be manufacturing a 
+lot of the bulk items for strictly space usage  
+or de-orbiting, like a drop pod for atmospheric 
+entry or the hull plating for Aldrin Cyclers. And  
+you could be making smaller mirrors massing on an 
+order of magnitude of a few tons that could focus  
+on a usefully small spot and double the sunlight 
+at a local base, and they might be thin and keep  
+their shape by slowly spinning or they might be 
+collections of rigid hexagons strapped together. 
+They might be dual purpose solar reflectors and 
+microwave power beamers too. I do not think you  
+would want to hang these at ground-stationary 
+orbit as that’s a long focus distance compared  
+to lower orbits, but you could have a cloud of 
+them orbiting and just switching which base they  
+were flicking their light and power down to 
+as they went, or even hanging over the poles  
+to keep a constant beam on one place as we 
+discussed in that Statite and Lagite episode. 
+What would Phobos or Deimos be like? Well, in many 
+ways like any other asteroid we might mine. Early  
+on they have no gravity so any human-operated 
+facility probably needs a rotating habitat,  
+probably something small on the order of a Von 
+Bruan wheel and I think you’d pick a crater to  
+stick that in or even just dig it in, they’re 
+loose rubble piles with an escape velocity not  
+much faster than a jog, so moving material 
+is easy. Indeed your big problem is losing  
+material when you hit it, so you probably want a 
+mesh or tarp over any site you’re mining. And one  
+very easy method of transport would just be to 
+use a fairly thin wire of a material of decent  
+tensile strength, steel or carbon fiber would be 
+sufficient, and just jam some tall spikes into the  
+surface of either Moon around its circumference 
+to run a tram along so you stayed bound to the  
+moon. Phobos, the larger of the two, is 26 
+kilometers or 16 miles across at its widest. 
+Neither is particularly spherical in shape, 
+and likely would eventually be reconstructed as  
+something bigger and more hollow. Amusingly there 
+was a theory back in the mid-20th century that  
+Phobos might be hollow, but those turned out to be 
+errors and better measurements confirmed it had a  
+higher density than they thought at the time. 
+But that probably is its fate, to get hollowed  
+out or expanded into a megastructure or a few of 
+them. It’s likely to have the resources to achieve  
+that end too, as it’s a very valuable rock.
+In theory, if we ever got artificial micro-black  
+holes working, we might dump a black hole several 
+hundred times its mass into its core and that  
+would replicate the Martian gravity below or we 
+could go about double that and replicate earth  
+gravity, but that’s obviously a very distant 
+horizon sort of scenario. Albeit we might have  
+that technology, if it is even possible, 
+in a couple centuries and long before any  
+terraforming effort on Mars would have done more 
+than barely gotten underway. Phobos and Deimos  
+are very valuable rocks and that’s not actually 
+that much mass, especially in hydrogen or helium,  
+so if any place is likely to be able to 
+afford such a luxury I think it might be them. 
+I’d be remiss if I didn’t mention that Phobos 
+is slowly losing altitude over Mars at a rate  
+of about 2 centimeters or one inch a year, 
+and we figure that if we left it to its own  
+devices it would either crash into Mars in about 
+fifty million years or get ripped into a new  
+planetary ring. It’s a good deal bigger than 
+the asteroid that hit Earth 66 million years  
+ago and probably shuffled the dinosaurs off the 
+evolutionary stage so that’s obviously something  
+we would want to prevent. To be fair using it 
+as a skyhook platform does the exact opposite  
+of that but it’s fairly minimal and there are 
+other ways to slowly regenerate momentum, even  
+if it isn’t a great candidate for electrodynamic 
+tethering the way skyhooks and rotovators orbiting  
+Earth and in its powerful magnetic field are.
+For comparison, I don’t think either moon could  
+ever be an equal to Mars, or even on the scale our 
+own Moon would be as part of a wider Earth region,  
+but if we imagined Mars as the equivalent of 
+Eurasia, Phobos and Deimos might be bigger players  
+on their edge the way England or Japan are, but 
+certainly would be on the scale some of the better  
+known Mediterranean islands are and maybe the 
+equivalent of Long Island in its relation to the  
+US. They can be powerhouses in their own right and 
+critical pieces of emerging Martian civilizations. 
+I would honestly not expect Mars to ever be a 
+single nation anymore than I’d expect Earth to be,  
+but Phobos or Deimos probably would be and since 
+they are not that big I could see countries back  
+here butting heads over who got to use them, 
+as they are a lot more strategically valuable  
+than any other specific bits of Mars are, 
+even well-known spots like Olympus Mons  
+or the polar ice caps, since there’s two of 
+those and probably ice elsewhere underground. 
+In that respect, while science fiction 
+and futuristic speculation often likes  
+to contemplate battles over the Red Planet 
+that gets its name from the God of War,  
+I think we’d see conflict or tension arising 
+on those two moons a lot sooner and easier. 
+That said, I think the future of the 
+Martian Moons is a pretty bright one,  
+and in large part because they can first help 
+fuel our explorations and settlement of Mars,  
+and later perhaps very literally as they help 
+forge the mirrors, collectors, and magnetic  
+deflectors that will help bring sunlight to Mars 
+and protect the seas and sky we might give it.
+When I was a kid I always loved board games 
+and puzzles, and one of my earliest futurist  
+predictions from way back then was that we’d 
+see more and more learning subjects get their  
+own fascinating games, and one of things I’ve 
+most enjoyed about being a dad is getting to  
+find games like those and play them with my own 
+kids. It can be pretty impressive what kids can  
+learn if it's in a fun and well-designed 
+format, and that was what most impressed  
+me about Turing Tumble from Upper Story. 
+Turing Tumble lets you build an actual,  
+Turing-Complete computer that runs on marbles 
+instead of electricity. It opens up the black  
+box that is computing to most folks and lets you 
+explore concepts like logic gates and processing  
+or calculating in a hands-on fashion that you 
+can do as a group, collaboratively, or solo. 
+It is a real computer you build 
+yourself, and which runs on Marbles,  
+you could run any game or program on it if you 
+had a big enough board and were patient enough,  
+though you might need a board as big as Texas to 
+play some newer video games. I was truly impressed  
+how engaged my kids were with it, and I loved 
+it too, it's just a fascinating and intuitive  
+way to learn and hands-on experiment with the 
+fundamentals of computing. It also comes with  
+a wonderful graphic novel that gives you a 
+story and presents you dozens of different  
+challenges and switch diagrams to try, before 
+modifying and experimenting on your own. 
+Upper Story’s motto is “Endless Curiosity”, you’ve 
+heard me talk about their game spintronics before,  
+and Turing Tumble is just as fun. Turing Tumble 
+is named after after the great Alan Turing,  
+one of the fathers of computers, and a portion of 
+every purchase goes to support the Turing Trust,  
+who provide reused IT equipment, 
+loaded with educational resources,  
+and training to schools in sub-Saharan Africa, 
+Learn more about the game and see it in action  
+at upperstory.com/turingtumble Use the coupon 
+code ISAACARTHUR for 10% off your total purchase. 
+So that will wrap us up for the day but join 
+us this sunday, MArch 17th, St Patrick’s Day,  
+for our sci-fi sunday episode, Automated Justice, 
+for a 50-minute deep dive on the role of AI in our  
+courts and justice system. Then we’ll return to 
+the Fermi paradox on March 21st to discuss that  
+evolutionary jump from the simple to complex, and 
+if that might be the solution to the big question  
+of where all the alien life is. Then we’ll 
+finish our discussion of last month on black  
+holes by deep diving kugelblitz black holes 
+and using them for power generation, before  
+finishing out the month, with a bonus scifi sunday 
+episode on the 31st, Multi-Planetary empires. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you’d like to donate or help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all of SFIA’s 
+episodes early and ad free on our streaming  
+service, Nebula, along with hours of bonus content 
+like Crystal Aliens, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

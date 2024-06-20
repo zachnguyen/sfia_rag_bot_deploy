@@ -1,0 +1,546 @@
+So today we’ll be looking at the concepts 
+of Statites, or Static Satellites,  
+and several variations of them like the 
+Lagite, Quasite, Mag Sail, and Solar Moth. 
+One of the difficulties of doing a show focused on 
+space and the distant future and the cool things  
+we might find and build out there is that we 
+often have concepts we use a lot that are not even  
+vaguely household concepts and I end up discussing 
+them quickly in an episode focused on something  
+else but which requires that topic. I created the 
+Megastructure Compendium a couple years back as  
+a handy reference for a lot of them but as I 
+was writing & recording this month’s episode  
+on Lagrange Point Settlement I found myself 
+discussing Lagites and Statites and I explained  
+them but neither there or the Compendium really 
+allowed us to discuss what these things are, what  
+all their variants are, what their limitations and 
+changes are, and any of the really cool things we  
+can do with them. Some of which, like starliftng 
+or Shkadov thrusters, have their own episodes. 
+We should start with the basic concept though. 
+Smaller things orbit much larger bodies at a  
+rate determined from that bigger object's mass 
+and how close it is. The further away you are,  
+the slower you orbit, the more massive it is, 
+the faster you orbit. This means around any big  
+body there’s a fairly limited number of options 
+for where you are orbiting at and none of them  
+are stationary with the kinda-sorta-exception 
+of a geostationary orbit and its equivalents  
+around other bodies besides Earth.
+If we imagined I wanted to put a big  
+solar collector in near Mercury or closer, where 
+it could get maximum efficiency without melting,  
+then beam that energy back to Earth, I’ve got the 
+problem that my satellite orbiting out there is  
+not doing so every 365.25 days, but rather might 
+be doing it every 80 days, and that makes for  
+quite a pain for keeping that beam on track 
+even when it’s not got the Sun in the way or  
+some other orbiting body or space station that 
+might pass through its no-fly-zone of safety. 
+This is where the Statite can help out because 
+we could just hang it right over the Sun’s north  
+pole. Statites are short for static satellites 
+and were introduced as a concept by physicist  
+and sci fi writer Robert L. Forward in 1993 
+and the idea is amazingly simple and a bit  
+of a misnomer. A statite isn’t orbiting at all and 
+unlike the lagite, which we’ll get to in a moment,  
+isn’t a satellite, it’s a solar sail that hovers 
+over a bright object held by radiant pressure of  
+photons. Think of a sheet of paper hanging over 
+a heat vent, blown up by it and pulled down by  
+gravity, same idea but easier to control.
+Partially because most stars are decently  
+stable in their output of light, our Sun 
+particularly so, and very stable in gravity.  
+The light coming off a star drops with the 
+inverse-square of distance and so does gravity,  
+they weaken at the same rate, so light twice 
+as far from Earth is a quarter of its strength,  
+and gravity is a quarter of its strength here too.
+Making these work at a practical level is a bit  
+trickier but conceptually it is simple. For any 
+given star there is cross-sectional density a  
+sheet of reflective material would have 
+that would cause it to float in place,  
+make it a bit thinner and it will blow away, 
+a bit thicker and it will fall down. Stick it  
+around a dimmer star and it will fall down. Big 
+giant stars can be thousands or even millions  
+of times brighter than our sun while only having 
+ten or twenty times the mass or gravity, while red  
+dwarfs might be tenth our sun’s mass and not even 
+a thousandth as bright. This massively affects how  
+this technology works in other star systems and 
+so too would things like high star variability,  
+binary partners, or a large hot Jupiter nearby. 
+Though again, a statite hanging over our Sun’s  
+north pole could be closer than Mercury or further 
+than Pluto and still work the same way. Again the  
+light and gravity both diminish at the same rate.
+From this spot a giant power collector could beam  
+energy back to Earth, or any other planet or the 
+asteroid belt, as those all generally orbit around  
+the equator of the Sun and thus are visible 
+from above or below the Sun all of the time. 
+Now how thick does this sail need to be 
+in order to be stationary? Again it's very  
+dependent on the star in question but can be 
+many thousands of times thicker around a big  
+supergiant. For our Sun, which generates about 10 
+micronewtons per square meter out here near Earth,  
+and which generates about 6 micronewtons per 
+gram of material out here, gravitationally,  
+that means whatever you’re using needs to be 
+pretty thin. The good news is that if you reflect  
+sunlight away rather than absorbing it you double 
+the radiant pressure it exerts, so a shiny surface  
+might allow more than 3 grams per square meter.
+A gram isn’t much but we’re talking  
+tissue-paper or aluminum foil thickness and 
+thin sheets at that. So for moving sunlight  
+around this works. That works for your typical 
+Shkadov thruster around a star like our own  
+but even doing power generation might require 
+some special materials like graphene to permit  
+something thin enough to also handle the weight of 
+some machinery and computers hanging down from it.  
+And if you imagine a statite as a big parachute 
+with some module attached, that’s about right,  
+gravity slowly pulls it down but sunlight blows 
+it back up, like a strong wind up from the  
+ground might on that parachute. In the solar 
+system, away from a planet, the Sun is down. 
+It also makes Starboosting tricky around 
+suns much dimmer than our own, which are  
+exactly the kind you want to starboost 
+normally, to make hotter and brighter. 
+We have four fixes for this. The first is better 
+materials and honestly those better materials  
+should be doable but regardless anything that 
+makes it easier is better. Graphene can be made  
+very thin, even thin enough for a red dwarf, 
+and has great tensile or hanging strength,  
+though ensuring it’s opaque or reflective at those 
+miniscule thicknesses or surface densities might  
+be pushing it for the smallest and dimmest stars.
+The second option is to use pushing beams to  
+achieve a higher density, and you might do 
+this in cases like trying to keep a statite  
+over a planet or some other gravitating body that 
+doesn’t give off much light for a unit of mass,  
+as an alternative to the polesitter option we’ll 
+discuss later. You can use a surface based laser  
+to hover an object over our atmosphere, but 
+this does need to be pretty powerful since  
+Earth’s gravity near its surface is more than a 
+thousand times stronger than the sun’s gravity  
+out here is. We have materials reflective enough 
+to take a beam a thousand times stronger than the  
+Sun at full noon without melting but we also 
+have geostationary orbits and other forms of  
+active support that are more power efficient. 
+One of those would be running charged objects  
+like ions at a magnetic field to carry momentum up 
+to it, hand it over, and fall back down, caught on  
+the drop to regenerate momentum and be shoved back 
+pu again, rinse and repeat. They are going to be  
+a much better approach in cases like this and so 
+is solar wind, the other thing coming off the sun. 
+Solar sail is a term a lot of folks have heard 
+but which is a bit nebulous, as it can include  
+not just radiant pressure of sunlight or focused 
+beams of light, but different wavelengths the Sun  
+doesn’t produce much of, like microwaves, and also 
+charged particles and arguably spills over into  
+magnetic sails or magsails. Much as a statite 
+is basically a slightly heavier solar sail,  
+a slightly heavier magsail would do the job too, 
+hovering stationary. And an object could be using  
+any combination of these, sunlight, laser, MASER, 
+beam, solar wind, or a particle cannon or matter  
+beam shoving on it. At the bigger scale, it 
+could be pods containing matter or supplies  
+fired out of a mass driver that it caught down a 
+long reversed driver of its own. It could also be  
+some massive asteroid hanging over a planet that 
+was using sunlight to power a giant mass driver  
+that fired slugs of matter down to the planet 
+below. Which might be for industrial uses or  
+might be some sort of orbital bombardment siege 
+cannon that was constantly falling and popping  
+back up from the recoil whenever it fired.
+Those all probably deserve their own specific  
+name, but I already coined the term for 
+our fourth option so figure I’ve hit my  
+quota. Our fourth option is the Lagite and 
+combines a normal orbit with radiant pressure,  
+or beams of light or matter, or solar wind, to 
+produce a non-Keplerian orbit, one that either  
+isn’t a circle or ellipse or just has the wrong 
+orbital period for its distance. This can include  
+artificial Lagrange Points. This category of 
+variant got that name from me way back in 2016  
+when the channel was young, and I was discussing 
+Shkadov Thrusters and my interest at the time was  
+having large reflective solar mirrors orbiting a 
+star at an atypical period, mostly to let sunlight  
+through to planets around that star while you 
+moved it. These are satellites that are not  
+static but rather lag behind their normal orbit, 
+hence a lagging satellite, or lagite, rather than  
+a static satellite or statite. Thus they might 
+be where an orbit should only be a few months  
+but have a lagging orbital period of exactly 
+one year, so as not to block light from Earth  
+while maximizing the light a Shkadov Thruster or 
+other Stellar Engine or Dyson Swarm could get. 
+I’m attached to the name as it seems a good fit 
+but I’m hesitant to claim the concept as mine own  
+as I’m guessing others thought it up before at 
+some point, Colin McInnes suggested using Solar  
+Sails for a type of Halo Orbit even before Forward 
+patented the statite and my friend David Kipping  
+from Cool Worlds independently came up with the 
+quasite not long after, which overlaps a fair  
+amount, and while I like my name better, that’s 
+also a pretty good name, especially in the context  
+he was discussing them, which also discusses using 
+them as a possible techno signature for aliens and  
+the Fermi Paradox. If you haven’t ever watched 
+an episode of Cool Worlds, he has a very good  
+catalog including Quasites, and he also did 
+a paper discussing them as technosignatures. 
+To give an example of how these theses could 
+be a techno signature, let us imagine I’ve  
+found a star with a nice planet we could 
+terraform, only it’s a bit far from its sun,  
+which is a weaker orange dwarf. Our baseline 
+statite cloud could be composed of tons of  
+reflective mirrors aimed right back down at 
+that sun, mostly over its poles. Probably  
+these would be large parabolic dishes to make it 
+easier to reflect light back down on that sun,  
+again picture a parachute. It absorbs that light 
+in its photosphere and it raises the temperature  
+of that star in general, making it brighter.
+For a simple first approximation, if half its  
+light is bounced back down all the time, it will 
+reach an equilibrium when the total coming out  
+and staying out matches that original. In such 
+a case that star’s surface temperature is going  
+to go up and now matches our sun’s spectrum 
+and emits more net light into that equatorial  
+band. If half that light were blocked, we would 
+assume the blackbody temperature of that star  
+had to rise to produce twice as much sunlight, 
+which goes with the fourth power of temperature  
+so would be a rise in temperature of 
+15%, around 900 Kelvin in this case. 
+We use this approach with the Alderson Disc BWC 
+megastructure and it also works for Dyson swarms  
+where you want to build it more stably as a wide 
+equatorial torus that would be bigger than the  
+default equatorial region Dyson swarm there would 
+otherwise be. In that regard I would expect this  
+style of starboosting to be fairly common, or its 
+variant where those polar mirrors just deflect the  
+light back down on the wider equatorial region.
+There are secondary effects and this is also  
+the basic method we use for pushing off 
+more solar wind to engage in starlifting,  
+which also uses a statite or lagite hybrid 
+as the pump for taking matter off the star's  
+surface. This isn’t an episode on Starboosting 
+though, or on Starlifting, so we’ll bypass  
+further discussion. Using this method you could 
+also make the star's radiant pressure rise and  
+thus permit a thicker or more massive statite.
+However, if you're starting with a very dim star,  
+you can opt to deploy lagites orbiting that 
+star and they are very flat and thin satellites,  
+so with a little guidance they can alter their 
+profile to turn perpendicular or parallel to the  
+sunlight. In this way you could have a large 
+collector array orbiting a star, in polar  
+orbits or equatorial, and they could simply turn 
+parallel to the sunlight when they were passing in  
+between that sun and its planet you want that 
+light to get. It will begin to fall until you  
+turn it perpendicular again, but a statite would 
+fall faster, since it has no orbital momentum. 
+Now these would never be a simple flat sheet. 
+Likely it’s a flat reflective surface or even  
+pinwheel with a couple spots that are solar 
+panels to run a computer and to run some  
+winches. You probably spin it so that centrifugal 
+force spreads it out and constrict it back in  
+with those winches and some wires, again it might 
+come to resemble a parachute. You build it bigger  
+and thinner than needed to stay where it should 
+and it maintains active balance by relaxing its  
+pull if it's dropping and pulling it tighter 
+if it's gotten a bit too far from the star,  
+and it can pull in one side or spread out another 
+to turn or reposition. This works with any of  
+these versions, statite or lagite or ones using 
+magnets and solar wind. For solar wind you have  
+simple wires spread out as a magsail that deflect 
+solar wind and this can actually be a lot thinner  
+and bigger than one running on radiant pressure.
+Now the primary value of a lagite is for creating  
+fake Lagrange Points, where you can have something 
+like a solar shade or power beamer remain fixed  
+with a planet just like it’s L1 would, or to 
+engage in free station keeping for very massive  
+space stations in Trojan Lagrange Points, where 
+even a modest solar mirror or sail could keep an  
+enormous and dense station where it needs to be. 
+We’ll discuss those more in that Lagrange Point  
+Settlement episode in a month that I mentioned, 
+but the one key takeaway for now is about  
+Lagites being used to widen Lagrange Points.
+If I put an enormous solar Shade at Venus’s  
+L1 Lagrange point with the Sun, it will block 
+sunlight from reaching Venus and let us cool it  
+down and then we can terraform it, as we explain 
+in Winter on Venus. However, let’s imagine 4  
+different objects out there. One is simple wire 
+mesh that’s transparent to light and which solar  
+wind would blow through unaffected. This needs to 
+be at the normal L1 Lagrange point to stay where  
+it should be, doing whatever it is supposed to do. 
+If we charge that up to be a solar wind deflector,  
+as we’ve discussed for use at the Martian 
+L1 to minimize atmospheric stripping,  
+as an artificial magnetosphere, that solar wind 
+will push that mesh back and away. Which means it  
+won’t be stable there and we need to put it closer 
+to the Sun to keep it in a quasi-L1 stationary  
+position with Venus or Mars in this case.
+If instead we used an opaque sun shade, it  
+gets pushed by sunlight it absorbs too, thus will 
+also need to be closer to the sun to be a stable  
+L1-like actor than the normal L1 spot. But it 
+would be different than the magnetic deflector and  
+it would be different than if we made it 
+reflective instead, which would double  
+the push. As would hybrids that do both. 
+These will never be one big sheet either,  
+thousands of kilometers wide, but rather those 
+of smaller sheets, maybe just a kilometer wide,  
+which is why the ability to quarter the light 
+is important. They can shift their direction  
+left or right or north or south, instead of just 
+radially outward or inward. Individual sheets can  
+then hang off to the side of the L1 or modified 
+L1 and stay there by titling themselves a bit. 
+Though some big conglomeration of sheets 
+can also be kept in touch and tweak position  
+with thin tethers connecting them, at all 
+times perhaps, or just firing one off to  
+connect to a neighbor and pull them in and then 
+disconnect, after the adjustment. The ability to  
+alter their reflectivity or use different colors 
+reflective to some wavelengths may also be handy,  
+especially in hybrids like a farming station that 
+let green light in but reflected others away. Such  
+relatively low-mass and reflective stations might 
+tend to occupy the rural outskirts of a Lagrange  
+Point settlement region for that reason.
+What this means is that you can get some  
+very large Lagrange Point-like regions and 
+put artificial structures in those that can  
+maintain true stability of position with that 
+constant positional tweaking. The thinner one is,  
+the further to the edge of the Lagrange Region 
+they can be. This is not just an inner-system  
+advantage either. Out in deep space where gravity 
+is so light that objects take centuries to orbit,  
+like Neptune, we have the ability to create 
+what we call a parabolic hab, and these are  
+big cylinder habitats with huge but thin and 
+light parabolic dishes behind them focusing  
+sunlight into them for warmth, sun, and power.
+And again, this is likely to be many small mirrors  
+acting as a parabolic dish. When it's twilight 
+or night time they can swivel off the ones not  
+being used specifically for power generation to 
+engage in stationkeeping too. Instead of orbiting  
+at the normal rate they could have a far longer 
+orbital period or far shorter period or remain  
+stationary as a de facto statite, especially 
+around brighter stars. With some tinkering  
+we can also adjust asteroids in the belt to be L2 
+LaGrange Point like objects, speeding their orbits  
+so they matched Earth, or simply other nearby but 
+closer asteroids they wished to form a long term  
+economic tie too. Though in many cases a tether, 
+as an actual and literal tie, might serve better. 
+One other note on that, comets are weak 
+lagite-like objects as the Sun ablates  
+gas and dust off them as tails that push in 
+a different direction than gravity is pulling  
+and thus alter their orbit more than modestly. 
+We can stage that up and it is the idea behind  
+the solar moth, which uses sunlight focused 
+on a supply of fuel to be heated and vaporized  
+and emitted in the direction of your choosing.
+Now we’ve been talking about applications of these  
+close to the sun or far out in space but not near 
+Earth, except in application to expanding Lagrange  
+points or doing stationkeeping, and again we’ll 
+discuss that more in Lagrange Point Settlement,  
+but there are near-Earth applications and 
+one of those is creating a completely new  
+quasi-Lagrange point, such as one hovering 
+not over the sun’s north or south pole but  
+over Earth’s. Something geostationary but 
+over the poles, or just not over the equator. 
+This is called a Polesitter and there’s a few 
+ways to do it with either a normal statite  
+that Earth is dragging along or a tilted lagite 
+that’s deflecting light from the sun at an angle  
+to create a push away from Earth as well. You 
+can even do cylindrical orbits around planets. 
+If your materials are good enough and thin, you 
+can use this as a type of polar space elevator,  
+by having a large collection of thin and spinning 
+mirrors tilted to bounce sunlight to push up from  
+Earth, and again is essentially a form of active 
+support at this point. I should note that we have  
+discussed something similar both for slowing or 
+speeding the rotational rate of a planet, on top  
+of a space tower, or pushing a planet further from 
+its star to cool it or protect it from a sub giant  
+or red giant phase of that star as it nears death. 
+Different constructs but also uses the sun’s  
+light and solar wind to do your work for you.
+As for the pole sitter, you could intentionally  
+break this light into two or more directions 
+so it went either side of Earth but if you  
+wished this could also be used to warm a polar 
+region of a planet. You can also use these same  
+methods to add sunlight to a planet or add certain 
+wavelengths you find beneficial or remove certain  
+wavelengths you feel harmful, or to deflect solar 
+wind around to help minimize atmospheric stripping  
+and ionizing radiation near your planet, 
+making orbital facilities and ships safer. 
+The amount of material necessary to entirely 
+englobe our sun in such statites at about 3  
+grams per square meter and let’s say 50 
+million kilometers radius from the Sun,  
+a bit less than Mercury’s distance, is 10^20 
+Kilograms, not even thousandth of Mercury’s  
+Mass or just seven thousandth of our Moon’s Mass, 
+and probably made out of aluminum or carbon or  
+some other abundant material. I can’t really see 
+any colonization effort at a new star not having  
+enough mass for one. We have individual asteroids 
+that could supply all that raw material themselves  
+and there’s no sophistication to it requiring 
+advanced AI and automation to make. Grab rock,  
+crush rock, melt out metal or separate our 
+carbon, churn out thin flat reflective sheets,  
+attach a computer no stronger than 
+needed to run an old Nintendo. Repeat. 
+You could likely create one within a few 
+decades of arriving at a new star system  
+and using no dangerously sophisticated AI. 
+And now you’re a Kardashev 2 civilization  
+even though you’ve only got a colony ship of a 
+few hundred thousand people, and maybe millions  
+more coming in faster on follow up ships your 
+new pushing array can be used to slow down. 
+And now you have total access to all 
+the power of that star. You can move it,  
+using a Shkadov Thruster or one of the other 
+variants we’ve discussed in Fleet of Stars or  
+the Megastructure Compendium, you can move whole 
+armadas of space arks out to claim the galaxy,  
+pushed by laser or ion beams, or you can 
+weaponize it into some terrifying Death star  
+that can sterilize a whole galaxy. You can use it 
+to run the settlement of that system, harvest that  
+star for planets worth of heavy elements, dump the 
+excess power into Kugelblitz black holes for long  
+term storage as batteries good for quadrillions of 
+years or use it to power relativistic spaceships. 
+This is what statites, lagites, and our other 
+variants let us do, and by now I’m sure you see  
+why we discuss them in passing in so many 
+of our episodes about mega engineering and  
+our future in the cosmos. They are simple but 
+they are the keys to the Kardashev scale and  
+the reason why even a civilization that wanted 
+to stay in one system or even one planet would  
+still want to deploy these technologies. 
+And I believe we will within this century,  
+and use them to unlock the doorway to the galaxy.
+So today we were discussing enormous objects  
+in space that might help us forge our future, 
+but another enormous thing in space that might  
+affect our future is giant space monsters, and in 
+this month’s Nebula Exclusive we’ll be examining  
+everything from huge space kraken to kaiju and the 
+sandworms of Dune to ask what science tells about  
+their biology and if we might end up encountering, 
+or even engineering, enormous space creatures. 
+That’s out now exclusively on Nebula, our 
+streaming service, where you can see every  
+regular episode of SFIA a few days early and 
+ad free, and all our other bonus content,  
+including extended editions of many episodes, and 
+more Nebula Exclusives like, Giant Space Monsters,  
+The Fermi Paradox: Hermit Shoplifter 
+Hypothesis, Ultra-Relativistic Spaceships,  
+Dark Stars at the Beginning of Time, Life As 
+An Asteroid Miner, Nomadic Miners on the Moon,  
+Space Freighters, Retrocausality, Orch Or & 
+Free Will, Colonizing Binary Stars, and more. 
+Nebula has tons of great content 
+from an ever-growing community of  
+creators. Using my link and discount it’s 
+available now for just over $2.50 a month,  
+less than the price of the drink or snack you 
+might have been enjoying during the episode. 
+When you sign up at my link, 
+https://go.nebula.tv/isaacarthur  
+and use my code, isaacarthur, you not only get 
+access to all of the great stuff Nebula offers,  
+like Giant Space Monsters, you’ll also be directly 
+supporting this show. Again, to see SFIA early,  
+ad free, and with all the exclusive bonus 
+content, go to https://go.nebula.tv/isaacarthur
+One of the more interesting alternatives for 
+encountering non-human intelligence in the future  
+is that it might be intelligence we engineered, 
+such as making animals smarter, a process we call  
+uplifting and this Thursday we’ll discuss the 
+ethical challenges of that endeavor. Then on  
+January 14th it will be time for Scifi Sunday and 
+a look at two other types of inhuman intelligence,  
+Aliens and AI, and which is a greater threat 
+to us and who would win in a fight between the  
+two. And we’ll discuss regulating space on January 
+18th, then we’ll talk about settling our Lagrange  
+Points and why a society at L5 would be awesome.
+If you’d like to get alerts when those and other  
+episodes come out, make sure to hit the like, 
+subscribe, and notification buttons. You can  
+also help support the show on Patreon, and 
+if you want to donate and help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early and 
+ad free on our streaming service, Nebula,  
+along with hours of bonus content like Giant 
+Space Monsters, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

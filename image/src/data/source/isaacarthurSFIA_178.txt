@@ -1,0 +1,638 @@
+Our daily life seems to increasingly 
+revolve around smart phones, and soon  
+smart houses and smart cars, but what 
+about the towns and cities we live in? 
+Some months back, I was at an event where a 
+lot of discussion was taking place about urban  
+planning and the various technologies we might 
+incorporate into it; everything from vehicle  
+charging stations to phone charging stations, 
+wifi coverage, and many points in between. 
+Ironically, for someone who dislikes living 
+in cities personally, preferring my farm here  
+in Plymouth, I always find city management and 
+planning fascinating, or at least I have since  
+playing SimCity on the Super Nintendo a few 
+decades back. So the conversations on urban  
+planning at that event caught my interest and 
+I heard the term smart city getting used there,  
+which I’d heard in-passing elsewhere in 
+recent years but had never really heard it  
+defined. I asked some folks for more info on the 
+general concept and I got a lot of fascinating  
+but also often vague details and explanations, 
+some nt matching others. Needless to say,  
+our goal in today’s episode isn’t really 
+to try to better-define a term that’s still  
+rather embryonic, but rather to discuss the 
+concepts under its umbrella and what we’ll see  
+coming of it in both the near and far future.
+The term “Smart City” has been growing in  
+popularity in recent years, doubtlessly due 
+to the influence of the word smartphone,  
+and while many of the concepts involved are 
+older than the widespread use of cellphones,  
+it seems that the new term is here 
+to stay. A quick check of Wikipedia,  
+which currently lists only 4 US cities including 
+Columbus, here in Ohio, as Smart cities, gives us  
+a rather complicated opening definition, seemingly 
+heavy in technospeak that I will boil down as  
+saying “Smart cities are those which collect and 
+collate data and then use it in their management”. 
+Which, of course, pretty much defines any city or 
+village or town that actually has someone managing  
+it, who is not utterly incompetent or lazy. Of 
+course, you collect data about your town and use  
+it to make decisions from. So, obviously it’s a 
+matter of degrees here and as for the decisions,  
+we might throw in some automation too. 
+As a fairly simple example, conceptually,  
+traffic lights that monitored flow rates based on 
+the time of day and week and were able to adjust  
+themselves to optimize traffic flow, would be an 
+example of a smart city device. Taking that the  
+next step up, we could have a timer on each 
+that nearby cars could detect and set up on  
+their console or HUD automatically, giving 
+the remaining countdown before it turns, and  
+we could also have ones that we could inform of 
+upcoming roadwork or big events, like a festival,  
+which would alter those ideal timings.
+But the back end of that is that you can  
+be using all those traffic counts and times 
+to be predicting when you’ll need to repair  
+roads or expand existing segments. And of course, 
+that’s something civil engineers have been doing  
+for years, but the more improvements in making 
+data-collection up-to-date and cheaply-collected,  
+the better. This is also where we start seeing 
+AI having a role, as, while AI is now finally in  
+the public awareness for its chatbot ability as a 
+real thing that exists, not technology of twenty  
+years from now, it is generally much better for 
+applications like real-time traffic-monitoring  
+and learning how to predict and optimize traffic 
+patterns, than it is at writing a song for you. 
+Right now, to avoid smog, for instance, we 
+optimize around minimum time spent just idling,  
+which is all for the good, but it's less of 
+a concern for electric cars or those which  
+automatically shut off when not moving. Situations 
+change a lot if we decide to start using more  
+automation in cars. I don’t like the term 
+self-driving car, it’s not really accurate anyway,  
+plus it bugs people, but having an auto-pilot that 
+can keep you stay inside the lines doesn’t really  
+seem to bug folks any more than cruise control, 
+and our real objective is to allow maximum safe  
+and convenient driving, which, at least for the 
+immediate future, is always going to be at its  
+best when any onboard computer is merely assisting 
+a human, as opposed to being in direct control. 
+I think most folks want the robot that’s able to 
+slam the break for the dog or kid running into  
+the road, and that notices when your eyes are 
+off the road and can beep at you, or just keep  
+things rolling-on, not the machine equivalent 
+of a chauffeur, though many will like that too,  
+and in time, that might become the norm. For 
+now though, it’s all about how much automation  
+we actually have in terms of capability 
+and price, and which ways it can safely,  
+and non-irritatingly, be incorporated into 
+our driving and public transportation,  
+or even our walking and biking. And to communicate 
+to the other devices around it, so that your car  
+can see a kid running out into the road, but the 
+kid’s smartwatch also warns the car and so do the  
+motion sensors on the streetlight. Redundancy 
+and alternative avenues are critical to safety  
+and automation can really help with that.
+That’s even more the case for cities, so, as  
+we contemplate smart cities, and here on SFIA 
+at least we are going to contemplate actual AI  
+potentially being incorporated as a city, we 
+need to ask how much autonomy is available,  
+preferable, and agreeable to both the city’s 
+administrators and the citizens in it. In an  
+ultimate sense we like the idea of a city where 
+strips of grass, trees and flowers are all over  
+the place and carefully tended by robots, so 
+it presumably costs less and can be done at  
+night when it won’t interfere with traffic.
+In the nearer term though, we could imagine  
+the monitors on a stretch of nicely tended green 
+noticing how often folks slowed or paused there  
+compared to other places and what they most took 
+interest in. A slightly more advanced version  
+might also anonymously query the smartphones and 
+fitbits of passersbys to see if the passage or  
+pause there had lowered their stress or anxiety. 
+And in more complex terms we might even see data  
+sufficiently utilized to determine if a 
+given greenspace or piece of public art  
+had contributed to lower crime rates, or stress 
+rates, or even heart attack and divorce rates. 
+Needless to say, that does raise some ethical 
+concerns about data-use and privacy, and I don’t  
+want to spend too much time on that today, not 
+because it’s not a major deal, but because it’s an  
+issue in basically every part of life these days 
+and cities aren’t special in this regard compared  
+to other entities. Your local city government 
+either is or isn’t tyrannical already. Such  
+technology, like many others, is merely a tool for 
+enhancing what can be done, which includes brutal  
+police-state oppression, if that’s on the agenda.
+There’s a tech-tree cutscene for the Self-Aware  
+Colony in Sid Meier’s classic video game ‘Alpha 
+Centauri’, where someone is spraying graffiti  
+around, about needing to dissent, presumably to 
+the government, where the city basically stalks  
+the guy in the dark of night, neutralizes him, and 
+erases the graffiti, all without witnesses. That  
+always stuck with me when I first read 1984 
+some years later. That really isn’t all that  
+impressive on the Big Brother scale of what an AI 
+running a city with full decision-making ability,  
+with cameras and drones all-over, might be able 
+to do either. So basically, if your city council,  
+mayor or dictator is the sort of person who read 
+1984 like an instruction manual, you’ve already  
+got problems, but if not, then AI with lots of 
+public transparency, carefully-considered use,  
+and healthy caution, can be an amazing tool to 
+make cities safer and more pleasant places to  
+live, and with cost-savings to boot. Nor are 
+these applications limited to large cities,  
+many will work well in towns and villages.
+Going back to the more pleasant aspects,  
+like adding green spaces, and other 
+beautification options, this is where we  
+have the concept of “Third Places”, which include 
+public-operated space, like libraries and parks,  
+as well as private businesses like 
+cafes, churches or gyms. The notion  
+here is that it is a social surrounding that’s 
+separate from either your home or workplace,  
+those generally being considered the first and 
+second place you spend time at and socialize  
+in. The term is relatively recent, having been 
+coined by urban sociologist Ray Oldenburg in  
+his 1989 book “The Great Good Place”, who passed 
+away shortly before I decided to do this episode,  
+at the age of 90. Nonetheless it can still feel a 
+touch dated with so many of us working from home  
+and using virtual places for socializing, as well 
+as the growing use of third places for doing work. 
+Going to study in the library is nothing 
+new for instance, but by and large,  
+most jobs of the past did not really have an 
+option to go sit in the sun and relax on a bench  
+in a garden park while working. Even just taking 
+your cellphone to the park to make phone calls,  
+which was new and uncommon tech when the term 
+emerged, could be difficult due to road and crowd  
+noise. Now we aim to make third places, publicly 
+or privately owned, the sort of place where you  
+can spend tons of time while socializing or 
+working or both, and they can help a person  
+feel more like a part of their community 
+as well as being a vent from home and work. 
+Needless to say, they tend to attract people 
+and businesses to come to such communities,  
+when well-done anyway, though obviously at a cost. 
+Balanced right though, it’s the option that lets  
+you decrease office tensions by encouraging 
+employees to take working breaks to the park  
+where there’s wifi, and lets parents have some 
+place to take their kids to play and socialize,  
+and a thousand other things including everything 
+from local theater groups to monthly flea markets. 
+I don’t want to overly focus on greenspace here, 
+or even third places in general, but greenspaces  
+tend to be reliable, cheap, and universal options 
+for third places, at least when the weather is  
+nice. Cheap is relative of course, devoting a 
+few acres to a football or baseball field in the  
+middle of a city is obviously not cheap, and even 
+if you’re just removing a vacant and low-interest  
+lot, like an old broken-down warehouse, you still 
+have to mow the thing and it’s not generating you  
+much direct tax revenue like a strip mall 
+or some apartment buildings would. It can  
+indirectly of course, by raising local property 
+values and encouraging folks to move nearby. 
+But both are much more expensive than, say, a 
+basketball court, which take up way less space  
+and are easier for a city to find room for, and 
+which also don’t need to be mowed, or sprayed  
+with pesticides or fungicides. Of course, robotic 
+lawn mowers and hedge trimmers – and yeah those  
+are a thing now too – alter that paradigm. In 
+a way this isn’t new either, the village green  
+everyone could use and which festivals and 
+games could be held on is older than dirt. No  
+doubt we’ll also see them in early space colonies 
+too, especially when a dome on a planet or garden  
+spot on a space habitat is still incredibly 
+expensive and so needs to be a shared space. 
+It is really easy to talk about adding parks 
+to towns or rooftop gardens but it’s generally  
+a lot more complex than folks tend to think, and 
+a lot of that is maintenance and administration,  
+and keeping up with changing tastes and moving 
+populations, not to mention managing resistance  
+to doing so. Having good data as to what folks 
+like in a given park, and what attracts them to  
+other parks, is handy for improving your parks 
+but equally handy for convincing local community  
+members that your planned overhaul is justified. 
+If you want to replace the old baseball field with  
+a skatepark and lots of cool marble benches and 
+herb gardens it helps to have some actual data to  
+show the folks who have lived there their whole 
+life and grew up playing baseball on that field,  
+and aren't anxious to see it changed.
+Same, if you’re trying to repurpose some  
+old site with neighborhood garden plots. Not only 
+does that data help decide if that’s warranted and  
+remains so, but technology and data-collection 
+make it easier to set up soil-monitoring and  
+automatic watering and mowing, and having a shared 
+tool shed that doesn’t turn into a cluttered mess,  
+full of everything but the tools it 
+was supposed to have which have all  
+been stolen or borrowed indefinitely. Again the 
+modern notion of smart city isn’t really about  
+robots going around fixing stuff, it’s about 
+gathering data to make better decisions with. 
+But that is likely to be a path we go down with 
+further automation, and as an example, most cities  
+love the idea of repurposing some derelict, ruined 
+building into some greenspace, like community  
+vegetable gardens, but you have a big problem of 
+maintaining plots not in use so that they either  
+look nice, or at least not be a giant overgrown 
+mess of weeds which some skunk decided to claim  
+as its home, and enforcing reasonable standards 
+or having some robot that tills patches and sprays  
+them with some nice pollinator-friendly seed 
+mix of flowers while vacant is definitely a  
+plus. Especially in terms of headaches since your 
+overseers can just shrug and say “I’m sorry ma’am,  
+the robot is just set to turn a garden plot 
+over if no one has tended it in a year… didn’t  
+you get its automated texts and emails?”
+Greenspaces for play are hardly the only  
+options of course, and they’re also not really 
+very vertical. A park might have some up and  
+down elements but is generally just one level, 
+not several stories like the buildings near it.  
+This is also much of the appeal to arcology 
+towers, the giant super-skyscraper concept  
+where the inside might have whole levels of parks 
+and gardens and even farms. For further discussion  
+of those and adding verticality to cities, see 
+our Arcologies and Arcology Design episodes.
+So, what are some of the goals of smart cities? 
+These are inevitably going to be a bit vague,  
+and variations on improving the wellbeing of 
+citizens and the economic health of a town,  
+with data and communication, as it really is just 
+how to better-use computers and modern technology  
+to help in planning and running a city. This is 
+going to involve a lot of the Internet of Things,  
+because it’s about integrating a million 
+and one types of gadgets into the wide  
+grid of that city. I’m not sure if there’s a 
+specific term for something like a blend of  
+noosphere and internet at a city level, maybe 
+noopolis, but the keystone on a lot of this  
+is making those integrations fast and seamless.
+I’m going to guess the big one in another decade  
+or so will be how to create a shared 
+augmented reality at the city level,  
+probably with several map layers, that is 
+useful to citizens, administrators, businesses,  
+and visitors. This strikes me as something that on 
+the standardized software side of things, might be  
+on the Microsoft Office, Google Search Engine, 
+Amazon Marketplace, Facebook level of cultural  
+impact for any software engineers looking for 
+long-range, potentially super-profitable projects,  
+especially given that the clients are likely to 
+be public entities. Though I suppose it’s worth  
+noting one way that data and AI might help run 
+cities smartly is to help them find waste and  
+fraud, including some piece of software they have 
+an expensive license for that barely gets used. 
+We might instead ask what some of the examples 
+are of cities doing this and how those might  
+be realized. As I mentioned near the beginning, 
+one of the few examples of Smart Cities I could  
+find was my state’s capital of Columbus, and 
+if you’ve been there, it is a pretty-well-laid  
+and modern town, but the articles discussing 
+why and how it is a smart city seem to mostly  
+focus on attempts to best locate 300 charging 
+stations for electric cars, principally on a  
+grant from the US Department of Transportation, 
+and some forward thinking about how autonomous  
+cars might play a role in the near future.
+My own bet is that the main role autonomous cars,  
+ones intended to drive themselves entirely 
+and possibly without someone in them,  
+in the near future, is to get themselves banned 
+very nearly everywhere. I think it’s a big lift  
+to get people okay with their kids’ school bus 
+being driven by a robot, and if you can make that  
+work you can probably sell people on automatic 
+freight trucks and deliveries very easily.  
+Many places have a heck of time finding enough 
+school bus drivers these days, and I suppose if  
+parents could access the cameras such a vehicle 
+would presumably have, they might feel better. 
+But that whole area has a lot of room for 
+automation and AI, be it bussing routes  
+or snow plows, and I would not be surprised if 
+cameras which parents could view on their baby  
+monitor app started showing up on buses and at 
+the fronts of schools for dropoff, complete with  
+facial recognition software to let you know 
+your kid got dropped off. Facial recognition  
+software at schools in general, and at parks, 
+is probably a this-decade technology, though  
+depending on its rollout it might be beloved or 
+spark outrage, suspicion, or all of the above. 
+I’m actually betting that a lot of smart city 
+tech is going to be stuff the public initially  
+hates and demand gets removed, and has to get a 
+decade of PR rehab and rebranding before being  
+gradually and systematically reintroduced. Notice 
+all those traffic cameras we don’t have in most  
+American cities that can save a lot of money, 
+make the roads safer, and free police up for  
+other tasks. I remember over a decade back, 
+the nearest city to me spent a ton of money  
+putting them in, and a citizen-driven petition 
+and election promptly saw them all removed. 
+As another example of that, one of the other 
+‘smart cities’ I saw listed was Santa Cruz,  
+specifically for its use of data for predictive 
+policing, to figure out how many police should  
+be on shift and where police officers should 
+be waiting when not responding to crimes. The  
+basic method was to generate by analysis 
+some spots where property crimes were more  
+likely and have a handful each day an officer 
+would be at. It was discontinued back in 2018.  
+Again, I expect that the job of making folks feel 
+safe and comfortable with a given new bit of smart  
+city tech, especially the ‘data collection’ 
+part of that, is going to be as big of one  
+as the actual engineering of the technology.
+New York City is unsurprisingly a place trying  
+its hand at smart city initiatives, 
+and the big one there is LinkNYC,  
+which actually builds off an effort to replace 
+the 10,000 or so remaining payphones… I assume  
+they used to have way more too… and it’s weird 
+to think back to a time when these things were  
+everywhere and also to realize that payphones, 
+collect phone calls, and the battle between AT&T  
+and MCI and various other less-known long distance 
+providers belongs to another century now. But,  
+the Big Apple started converting those into 
+wifi hotpsots and USB charging stations with big  
+screens almost a decade ago, and we have certainly 
+seen variations of that in many other places. 
+In the city, being able to stroll along the 
+sidewalk while maintaining high-speed wifi  
+access is getting to be as important a bit of 
+infrastructure as those actual sidewalks, much  
+as last mile broadband rural internet has come 
+to be viewed in recent years as akin to getting  
+telephone and power lines out to everyone. 
+Even ignoring Starlink and parallel options,  
+my guess is that we’ll also see state initiatives 
+to get not just every city with public wifi,  
+but maintain some degree of it along 
+the major roadways and highways. 
+It’s just too critical to commerce, or will 
+be, and that sort of easy and everywhere wifi  
+is critical to any smart city design too. If 
+wireless power transmission makes much progress,  
+it may also develop along those lines, people able 
+to have their devices powered or recharge in their  
+pocket all the time, no plugs, which might require 
+some usage monitoring, unless we have energy  
+abundance. Pondering how that affects the local 
+economy gets tricky, as it also starts opening  
+the door to drones that can hang around all the 
+time, smartly controlled to avoid collision by  
+the local grid, which also runs power into them.
+Options continue for things like determining how  
+much power you need and how much production 
+capacity you need for that, or for water and  
+sewerage, or what your optimal garbage and 
+recycling pickup paths and frequency are.  
+And also where you might be needing two 
+different systems, rather than something  
+one-size-fits-all for different parts of the 
+city with different layouts and densities, which  
+is easier to have if an AI is doing a lot of the 
+basic administrating, so you don’t have the extra  
+administrative burden of using multiple methods.
+On the administrative note, and as a last  
+near-modern topic before we jump ahead to the 
+more distant future, I think we should assume an  
+increasing amount of virtual spaces for public 
+offices like the BMV. Why stand in line to do  
+some paperwork that’s mostly filling out your 
+name and address when a mix of modern tech and  
+augmented reality and maybe ChatGPT-like 
+interfaces can handle almost all basic  
+clerk-at-the-counter interactions, so that one 
+person can handle many times the basic clerk work. 
+I had to get a minivan recently to accommodate 
+the trio of new kids we adopted, and the various  
+nieces and nephews who often come over, and I was 
+at the BMV registering it and have no complaints  
+about the process. It’s faster and easier than 
+when I was 16, but I was struck by how easily  
+that could have been done from my home PC or 
+phone if we had a fairly seamless and trusted  
+way to handle the whole “Need to see some ID, 
+fill this out” part, and the inevitable “Can  
+you explain this bit here on the form?” part.
+In some ways, speed isn’t a virtue on upgrading  
+these things, there are hardworking folks 
+who have been clerks their whole career and  
+the cost for retraining and disruption to 
+their lives is often cutting heavily into  
+your apparent savings for some new tech, 
+but I think this era is definitely coming,  
+where an awful lot of government offices close 
+down physically and shift more and more virtually.  
+This might end in something like the local 24-hour 
+county community center as the place to go if you  
+have something very atypical or just can’t figure 
+out the tech remotely, and most every other office  
+is done from home, or third places, or whichever. 
+It also means you can share specialized personnel  
+easier with neighboring towns. Needless to 
+say that alters your city planning a lot,  
+when the office of city planning is no longer at 
+city hall and city hall is more like a museum. 
+I’m not expecting these upgrades to come 
+very fast, but they’re too valuable -if  
+you can make them work- not to try to 
+implement, and as improvements come along,  
+they should get better, cheaper and 
+easier to make people comfortable with. 
+Where that shifts over to becoming a city hall 
+that is actually an artificial intelligence gets  
+a bit blurry, but I suspect folks will 
+find letting a computer run their road  
+crew dispatches is going to come easier than 
+letting them run your tanks and fighter jets.  
+I would not expect android police to be a thing, 
+especially for beat cops and crowd control,  
+but the AI detective might be a thing. Probably 
+not the way we see with Eljiah Bailey and his  
+humanoid android partner R. Daneel Olivaw in Isaac 
+Asimov’s classic robot novels, but AI is already  
+making its way into detective work and of course, 
+computers have been used in that role since before  
+there were home PCs, let alone smartphones.
+Would you have an actual AI as the incorporated  
+mind of a city? Maybe, something like a Genus 
+Loci, the spirit of a place, that we often see  
+in some religions or mythologies, and which 
+we have discussed as an option for maintaining  
+space habitats, especially intentionally 
+unpopulated ones like nature preserves.  
+More likely, I think, than an actual AI that 
+thought of itself as New York City or London,  
+you would probably have something more like 
+Department Deputies, the AI that helps the  
+engineer’s office for a town and might slowly 
+evolve to become the actual chief engineer. 
+In a lot of counties in Ohio and other states, 
+it’s not unusual for there to be an elected  
+department head and a deputy who does most of 
+the work but avoids most of the credit or blame,  
+and I could see this role shifting to 
+something an AI is filling. Indeed,  
+I could imagine pathways to futures where the AI 
+is regarded as a person and has been doing the job  
+for decades and just inherits the role, or even 
+gets elected to it. The notion of an AI who ran  
+the road department in a small town deciding it 
+wanted to move up and run for office in a bigger  
+city is an interesting one to contemplate.
+One could imagine a dozen or more different  
+department AI who could be under a human city 
+council or mayor, who may or may not be entirely  
+human themselves anymore, lots of cyborg and 
+transhuman options on the table unrelated to all  
+this that are likely to play a big role anyway. 
+Maybe they can engage in a temporary hive mind,  
+like the Unimind we see with the Eternals 
+in Marvel comics, when a big decision needs  
+making. Those might be changing too, where you 
+annex some ward of neighboring city that had its  
+own AI that now moves into the mix, or instead of 
+a city hive mind, the twenty AI in the region who  
+all handle power distribution or water or sewers 
+have to bump heads, or merge them, to plot out  
+where to build the new water treatment facility 
+or shift the load while one is being upgraded. 
+Smart cities, or smartly-run cities at least, will 
+grow and others will probably not, or even shrink,  
+and so I think we will see ourselves moving 
+more this way because, again, fundamentally it  
+is just too useful to use AI, automation and data 
+collection to run things and get better results,  
+and to offer more options to citizens, and by 
+and large, it’s results and options that people  
+care about when picking their community, 
+and when picking who leads or manages it. 
+One thing seems sure though, whatever the role of 
+AI and the internet is in cities moving forward,  
+it is going to be a big one, whether the 
+city is a big one or a small village. 
+So today we were talking about Smart Cities and 
+the idea of making them just generally better  
+places to live and work in, to have your home or 
+your business. A lot of that is about being more  
+efficient and organized, but just as much is about 
+making communities people actually love being part  
+of. It’s not just about finding a place or job you 
+enjoy, it’s about finding something that makes you  
+feel positive about doing it. Every job has good 
+and bad days, but if you love your work and feel  
+it makes a difference in the world, even hard days 
+can be energizing, because you know it matters. 
+Most people spend about 80,000 hours of their life 
+in their job, 40 hours a week, 50 weeks a year,  
+for 40 years, and would prefer that time helped 
+the world. 80,000 hours is a lot of time,  
+so it’s a good idea to do some research on how 
+best to use it. And that’s where our friends at  
+80,000 Hours come in, they’re a non-profit 
+that spent a decade alongside academics at  
+Oxford University researching which 
+careers have the most impact, and all  
+the research is on their website, for free.
+80,000 hours website includes a lot of tools  
+and resources to help you find your path. Problem 
+profiles, aiming to answer the question ‘what are  
+the most pressing problems facing humanity today?’ 
+Career reviews, which discuss which career paths  
+they recommend if you want to have an impact, 
+and lots of decision-making tools, such as their  
+8-week career planning course. They also have a 
+jobs board, that’s curated & constantly updated  
+and list of hundreds of active job openings, that 
+they think might help you have a high impact,  
+and you can filter those by job location, role 
+type, job requirements, and what problem area  
+they work on. Scanning around, there’s 
+everything up there from Nuclear Physics  
+Jobs at MIT or AI research in Silicon Valley to 
+city management or ecology roles, from Intern to  
+senior directorships. Potential careers for a wide 
+variety of different skill sets and career stages. 
+And again, 80,000 hours is free, completely, 
+if you looking for a career that works on  
+one of the world’s most pressing problems, 
+sign up now at 80000hours.org/isaacarthur 
+So that will wrap us up for April, and I’m heading 
+off for an anniversary trip with my wife this  
+weekend so apologies in advance if I’m delayed 
+responding to comments on the episode. We’ll back  
+next Thursday though for two of our favorite 
+topics, the Fermi Paradox and Megastructures,  
+as we contemplate Dysonian SETI, and how we can 
+search for Dyson Spheres. Then we’ll look at  
+a lot of the common misconceptions about Space, 
+Life, the Universe, and Everything, on May 11th.  
+After that we’ll have our Scifi Sunday episode, 
+on May 14th, as we explore the grim realities of  
+super-urbanized Hive Worlds, then we’ll have its 
+companion episode, Hungry Aliens, on May 18th. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you want to donate and help in other 
+ways, you can see those options by visiting  
+our website, IsaacArthur.net. You can 
+also catch all of SFIA’s episodes early  
+and ad free on our streaming service, 
+Nebula, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

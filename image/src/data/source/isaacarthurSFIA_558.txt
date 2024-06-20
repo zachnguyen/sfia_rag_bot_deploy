@@ -1,0 +1,663 @@
+Nietzsche said "if you stare into the abyss,
+the abyss stares back at you."
+With metamaterials, how it stares back at
+you depends on how you designed your abyss.
+Today we will be looking at metamaterials,
+a somewhat ambiguous concept oftentimes defined
+as any material engineered to have properties
+not found in nature.
+If you stop and think about that definition,
+though, it basically covers any material that
+humans have made in their journey from the
+Bronze age and up as most metals are rarely
+found in their pure form in nature and alloys
+like bronze even less so.
+We might stretch the point for some alloys
+or materials like glass which do occur in
+nature but which we’ve learned to make with
+different properties.
+Purified metals, alloys, semiconductors, ceramics,
+plastics and almost everything we use besides
+wood and stone tend to be materials we manufacture
+from the ground up these days.
+For our purposes today, this definition is
+simply too broad.
+The main characteristic of most things called
+a metamaterial is its ability to manipulate
+waves of light and sound as well as electromagnetic
+properties on the macroscale, so let's use
+this to narrow our definition.
+Now there are many theoretical applications
+of advanced materials that we can and will
+get into in future episodes on strange materials.
+These include Computronium, a theorized type
+of computing material; Neutronium, a hyperdense
+stabilized form of the pure neutron material
+in neutron stars, strange matter and anything
+made out of quarks besides the up and down
+quark, and materials like smart matter or
+utility fog, that can take on programmed shapes.
+However, in this episode we will focus primarily
+on the electromagnetic and acoustic metamaterials,
+as this is the most understood aspect and
+is already beginning to have an impact on
+the world around us.
+Some theoretical applications have wonderful
+and absolutely crazy potential uses, but even
+without them, the electromagnetic and acoustic
+metamaterial applications are poised to drastically
+alter our future in ways that few can truly
+envision.
+I don’t want to delve into the physics too
+much but this typically revolves around properties
+of materials called permeability and permittivity.
+These properties also affect the index of
+refraction of a material; essentially how
+the material reacts to magnetic fields, electric
+ones, and light.
+Most materials have positive values for permeabilitypermittivity
+and permittivitypermeability, but some materials
+have either a negative permeabilitypermittivity
+or a negative permittivitypermeability.
+No naturally-occurring materials have both
+a negative permeabilitypermittivity and a
+negative permittivitypermeability.
+The metamaterials we are talking about today,
+though, need both of these to be negative,
+and we’ll get to how to achieve that shortly.
+Now, for ease of visualization, I’m going
+to be referring to light here, but it applies
+equally to visible light, infrared light,
+microwaves and longer radio waves too.
+To explain a negative refractive index, let
+us think of a vertical mirror that we bounce
+a beam of light off of from a high angle,
+so our light comes in from the top left at
+an angle that hits the mirror and gets reflected
+away at an opposite angle towards the bottom
+left.
+Now, if we replace the mirror with a metamaterial,
+but instead of vertical, it is horizontal,
+we get much the same effect.
+The magic, though, is that we don’t need
+a bulky mirror to reflect the light off of,
+but instead we have a material that can handle
+simultaneous beams hitting and refracting
+the light away as if we had millions of vertical
+mirrors in a series, ones that do not get
+in each other’s way too.
+Metamaterials that have a negative index of
+refraction are known as NIMs, negative index
+materials, and they have that weird perpendicular
+mirroring effect that we do not see in normal
+materials like water, where that index of
+refraction is what causes sticks stuck into
+water to appear to bend at the surface of
+the water with the air above, but not enough
+to appear to be a mirror because normal materials
+can only bend light inwards a little bit.
+So how do we make a metamaterial?
+The principle is that we construct geometric
+patterns out of at least one material with
+negative permeability and at least one other
+material with negative permittivity.
+Typically, these are arranged in repeating
+patterns called ‘cells’ and an individual
+cell is smaller on a side than the wavelength
+of light it is affecting.
+On the macro scale, the combination of the
+material with negative permeability and another
+material with negative permittivity is a material
+with a negative refractive index.
+Let us use your LED computer monitor screen
+to illustrate this.
+Your monitor is not a metamaterial, but this
+will still help explain how metamaterials
+work.
+The LED screen is composed of a large number
+of pixels.
+Each pixel is actually a collection of red,
+green, and blue LED elements.
+By turning on and off the red, green, and
+blue elements, much like turning on and off
+individual bulbs of a small collection of
+colored light bulbs in a cluster, a pixel
+is created that can generate almost any hue
+and brightness.
+Zoom out and you see this video you are watching
+now.
+You are not aware of what the individual pixel
+hues and brightnesses are and you are definitely
+not aware of what the individual LED elements
+are doing in the pixels.
+All you are interested in is that you can
+see the magical moving pictures that were
+fantasized about only a few generations ago
+and that would have been treated as something
+approaching magic by your forebears.
+Your more recent forebears would have understood
+about colored lights and light switches, but
+they would not have any idea about how to
+miniaturize these to the level required or
+be able to do it fast enough to create the
+impression of a moving picture.
+It is the same with metamaterials, the individual
+elements do not behave differently from normal
+materials we know about, but taken as a whole
+with the other individual elements, the metamaterials
+act very differently from what conventional
+materials do.
+In a metamaterial, its individual elements
+should be constructed into geometric shapes,
+again called cells, which are smaller than
+the wavelength of light, EM radiation, or
+sound that the material is designed to manipulate.
+This meant, up until recently, that metamaterials
+were designed to affect the radio spectrum
+and sound waves and not visual light because
+it was much easier to create elements that
+would work with the larger wavelengths of
+radio or sound.
+Microwaves have the shortest wavelength of
+radio, around a millimeter or larger, which
+is more than 7,000 times bigger than even
+the longest near infrared wavelength of 1,400
+nanometers.
+Creating geometric patterns that have a size
+smaller than the 390 to 700 nanometers of
+visible light or even the 750 nanometers to
+1,400 nanometers of the near infrared spectrum
+is a real challenge.
+The difficulty at these wavelengths of light
+is that atoms are only 0.1 to 0.3 nanometers
+across, so building elements becomes tricky
+because there are quite a limited number of
+atoms that will fit into those elements.
+As an example, while we think of human biological
+cells as quite tiny, they typically are many
+thousands of nanometers across, or even bigger,
+and thus you can see them with a microscope
+and visible light wavelengths.
+A cell in a metamaterial needs to be smaller
+than light, mere hundreds of nanometers.
+Now as you know, we’ve been getting good
+at making things smaller in recent decades
+and transistors in modern processors are about
+14 nanometers across, which is 50 times smaller
+than the longest wavelength of light we can
+see, deep red bordering on infrared, and about
+30 times smaller than the smallest we can
+see, the blues and violets on the edge of
+the ultraviolet spectrum.
+So we are down in that range now, the trouble
+is that we have very little material to work
+with before we hit the wavelength size of
+the light we want to manipulate and we’re
+not making something homogenous and identical.
+That’s not to say that metamaterials in
+the visible and infrared spectra are impossible,
+it’s just that they are significantly more
+difficult to create.
+We have some examples of these and they are
+usually very fine layers of two very different
+materials where the layer combinations are
+much thinner than the wavelength of optical
+light.
+So let us talk first about the radio-based
+metamaterials and how to make them, because
+they are the ones we understand best and the
+ones that came first.
+As I said earlier, most natural materials
+have both positive permeability and positive
+permittivity.
+There are exceptions, though.
+Ferrites have positive permittivity but negative
+permeability.
+On the other hand, plasmas have a negative
+permittivity and positive permeability.
+Metals have what is known as a plasma frequency,
+below the optical range of frequencies.
+At high frequencies, metals act like a plasma.
+Normally metals are a good conductor, but
+above the plasma frequency, they become poor
+conductors and currents cannot be excited
+properly.
+This causes the wave to pass through the metal
+as if it was in a lossy vacuum instead of
+a solid substance.
+If we make very small metal rods, we can get
+them to act like a plasma and get that negative
+permittivity for a designed wavelength range.
+If we make small ferrite rings, we can get
+that negative permeability for a designed
+wavelength range.
+These materials on their own do not give us
+any useful negative refraction, though.
+The magic happens if we combine the rods and
+rings and you now have a metamaterial element.
+Multiply that out and you have a metamaterial
+with negative permeability and negative permittivity
+and a negative refractive index.
+Individually, the rods and rings will not
+create that magical negative refraction, but
+in combination, they do.
+We’ve now got our first metamaterial, but
+what can we do with it?
+Say you want to focus a beam of radio waves
+onto a receiver, if you use a slab of a conventional
+material as a focusing lens, it would disperse
+the radio waves even more.
+The opposite happens with a layer of our metamaterial
+and the best thing is that the material can
+be made flat and it will still concentrate
+the waves on the receiver, which is great
+for electronics.
+We have achieved the holy grail of creating
+a perfect lens, one that focuses the radiation
+but does not require any variation in thickness
+of lens to do so.
+The more we can miniaturize this setup, the
+smaller the wavelength we can use this material
+for as a lens.
+We can also do other interesting things.
+Let us say we only want a very particular
+wavelength of radio waves to go into our receiver,
+for our example say we want the Wifi 2.4 GHz
+frequency, or 12.5 centimeter wavelength.
+We can tune the metamaterial elements so that
+the metamaterial only acts as a perfect lens
+for the Wifi frequency range we want.
+Everything else will be scattered or reflected
+as would be the case with a normal material.
+Our signal to noise ratio suddenly gets much
+better and we get a more efficient and higher
+quality of Wifi signal.
+We can introduce another effect, which is
+called the reverse doppler effect where we
+can actually compensate for any doppler effect
+by changing the geometry of the elements.
+You will know about the doppler effect if
+you have ever listened to the sound of a horn
+or siren on a vehicle travelling past you.
+As it approaches you, the pitch rises, something
+we call blue shifting, and as it travels away
+from you, the pitch gets lower, something
+called redshifting.
+You’ll also know this from astronomy as
+stars blue shift when approaching us and redshift
+while traveling away, which every star outside
+our galaxy and its closest neighbors is doing
+as the Universe expands.
+In spacecraft, which move quite fast, this
+is a problem as signals that are transmitted
+get blue or red shifted, depending on whether
+the receiver and transmitter are approaching
+one another or getting further away.
+Compensating for this has been a major headache
+for NASA over the years, requiring expensive
+equipment to compensate for this phenomenon.
+We nearly got no data out of the Huygens spacecraft
+that entered the atmosphere of Saturn’s
+moon, Titan, because of a doppler issue with
+it and its mothership, Cassini.
+This issue delayed the deployment of the Huygens
+probe from Cassini for years.
+In the future, though, simply tuning our metamaterial
+means that we can reverse any doppler effect
+and cause the receiver to pick up the exact
+frequency that it was designed to work best
+at.
+This is also great for spacecraft themselves
+as this makes the radios more reliable, lighter
+and more energy efficient.
+Another great effect of the metamaterial is
+that it can take radio waves transmitted from
+a variety of angles and perfectly refract
+them onto the receiver; no more fiddling to
+get the best angle for receiving a signal.
+That’s a good place to introduce a more
+real-world example.
+Given the tendency to look at metamaterials
+for their military potential and my own background
+in the military, we’ll use a martial scenario
+for that example.
+We have two soldiers, Romulus and Remus.
+Romulus is using conventional tech on the
+battlefield, whereas Remus is using metamaterial-based
+tech.
+So how will they fare?
+Romulus sets up his camo gear and applies
+face paint to break up his appearance so he
+is not quite so obvious to the enemy.
+Unfortunately for Romulus, there is nothing
+that will really hide his infrared signature
+and he is far from being actually invisible.
+Covering up his gear with camo and the application
+of his face paint also takes precious time.
+His unit is moving into the battlefield.
+The unit cannot easily tell where other units
+might be located or even where each of the
+members of the unit are located.
+The reality is that friendly fire sometimes
+takes down friendly units, particularly when
+they can’t see each other.
+After a hard day trudging through the battlefield,
+Romulus’ unit gets a break and they rest
+up.
+The electronic equipment he carries has to
+be powered by heavy batteries due to the amount
+of power that they drain.
+Romulus sets up some solar panels to partially
+recharge the equipment and sets up a satellite
+uplink to get further orders.
+It takes a while for Romulus to set up the
+uplink as it has to be pointed in the right
+direction of the sky to get a signal through
+to the satellite and it is a hit and miss
+affair.
+After a while, he manages to contact his superiors
+and get further orders.
+The communications gear he has is encrypted
+to ensure that the enemy cannot listen in,
+but increasingly transmissions have been detected
+and decoded by the enemy.
+To compensate, the gear has become power hungry
+and slow because of the added encryption burden,
+meaning that he worries that the batteries
+might not hold out or that the gear will take
+too long to send and receive messages to be
+useful.
+Even though the solar panels have been operating
+the whole time that he had his gear set up,
+they have barely improved the charge in the
+batteries and he is worried that he might
+not have enough charge left in the batteries
+to complete the mission.
+They receive orders to scout out a nearby
+enemy encampment and send back images.
+They sneak closer and hope that they are not
+spotted.
+He carefully uses his camera to capture images
+of the camp and zooms into areas of the camp
+that might be of interest.
+The zoom capability is limited for the type
+of camera lens he has as the more resolution
+he wants, the more bulky and heavy the lenses
+have to be.
+They do this at night as they do not want
+to be seen by enemy lookouts and snipers.
+This compounds the problem because the night-vision
+capability of the lenses and the camera is
+limited.
+He needs to get dangerously close to the encampment
+to get useful images as a result.
+Romulus’ day ends badly when his squad is
+spotted and they have to make a hasty retreat
+under enemy fire.
+It takes several hours before he can set up
+an uplink to his superiors and provide them
+with the footage they required.
+Now as everyone knows, Murphy’s Law, that
+anything that can go wrong will go wrong will
+go wrong, is the first rule of warfare, and
+that’s doubly true of both electronic equipment
+and the battlefield.
+True to form, the batteries give out before
+the images are uploaded and he has to try
+to explain to them instead, by radio, what
+his squad saw, and hope it is in enough detail
+for his superiors to make use of it.
+Remus, on the other hand, has quite a good
+day.
+He has a metamaterial infrared camo suit that
+directs his heat in a desired direction away
+from him so when someone looks at him using
+an infrared night scope, they do not see heat
+coming from him.
+He also has the latest in chameleon suits,
+which bend light around him, making him invisible
+in the visible spectrum during the day too.
+Unlike in the movies, these metamaterials
+are robust and take hardly any power.
+The metamaterial radio transceivers he has
+allow pinpointing of his unit on the battlefield
+by friendlies.
+He always knows where everyone is at all times
+and there is no real possibility of friendly
+fire.
+It was a long trek that day, but the equipment
+he has is relatively light thanks to the metamaterials
+they use.
+They also use less power due to their increased
+efficiency than the equipment Romulus carried
+so the batteries he carries are a lot smaller.
+He is also able to quickly and fully recharge
+his equipment using metamaterial solar panels
+that are much lighter and more efficient than
+the ones that Romulus was carrying.
+The metamaterial transceivers mean that it
+takes no time to set up a connection and get
+a signal through to a satellite and his superiors
+have been monitoring his progress directly
+all along.
+The ultra-small and efficient metamaterial
+optoelectronic processors mean that very little
+power is needed to encrypt and decrypt communications
+and it happens in real-time too.
+It’s very easy to forget that one of the
+biggest bottlenecks on computation is how
+much energy is needed to flip each bit and
+the heat built up doing that.
+Remus is even less-exposed in this regard,
+as normal electronic equipment tends to stick
+out even more than people on thermal-zone
+infrared detectors.
+They receive the same orders as Romulus to
+scout out a nearby enemy encampment and send
+back images.
+He uses his metamaterial camera to capture
+images of the camp and zoom into areas of
+the camp that might be of interest.
+The zoom capability is excellent being a perfect
+lens and he is able to get the necessary images
+from well away from the camp, both in the
+visible spectrum and in the infrared.
+He is far less exposed to detection by being
+more distant and can more easily safely retreat
+if detected.
+He also wants to get heat signatures from
+the equipment in the camp so waits until dark
+to get infrared images too.
+The night vision enabled enemy lookouts and
+snipers cannot see him through his chameleon
+and infrared camouflage suit.
+The images taken are beamed to his superiors
+in real time and they ask him to zoom in on
+various locations of the camp that they are
+interested in.
+Remus’ day ends well as his squad is effectively
+invisible to the enemy and they make a clean
+getaway.
+Unlike Romulus, who retreated under fire and
+in doing so let the enemy know they’d been
+scouted, and react to change their deployment.
+Remus’s day was nothing like Romulus’
+day and that comes down simply to the metamaterial
+revolution that Remus is part of.
+Now, don’t get the impression this represents
+perfect stealth by the way, there are quite
+a few ways to detect Remus but he’s much
+better hidden than Romulus was and like all
+stealth, it’s really about lowering the
+odds of detection against standard search
+efforts.
+So we see a major use of it, one that gets
+talked about a lot in science news, for chameleon
+effects, camouflage, and partial invisibility.
+Needless to say every military is very interested
+in those applications.
+We can also use that for shielding as well,
+as such materials let us bend away light,
+electric or magnetic fields from objects we
+need to protect from them or the noise they
+create.
+We also saw its value in receivers that don’t
+have to move to track a satellite for instance.
+At the smaller scale this also allows better
+transmission of wireless devices, further
+improved by the ability to make a perfect
+lens for a specific frequency or wavelength.
+They also potentially offer faster data processing.
+So we get far better phones and far better
+cameras on those phones as well.
+Your typical smartphone already has a camera
+vastly smaller and higher resolution than
+anything from a few decades back, and this
+only increases that more.
+Not only can they make better lenses to see
+things with, but they might be able to do
+things current lenses can’t do at all.
+We talk about wanting very high-speed broadband
+internet everywhere, and through metamaterials
+we can not only do that far easier but also
+make the amount of power and the size of the
+receiver much smaller.
+And where fiber optics replace copper wires,
+metamaterials can replace them as well.
+As I mentioned, we can potentially make solar
+power far more efficient and less bulky this
+way too, one half of our portability issue
+with devices is recharging them, the second
+half being storing that power, which we’ll
+look at in more detail next week in Portable
+Power.
+However I mentioned that while their cloak
+of invisibility aspect is probably their best
+known application, it can be foiled; one obvious
+example of that is by sound, and a cloak of
+invisibility isn’t going to hide you from
+bats with echolocation or help you in a fight
+with Daredevil.
+Your covert scouting party can stay pretty
+silent but could still be detected by sound,
+tremors created by footsteps, or just doing
+what bats do and what whales and dolphins
+do underwater and blasting an area with sound
+and listening to echoes.
+I also mentioned earlier that metamaterials
+included acoustic varieties, not just electromagnetic
+ones, and the principle is fairly similar,
+and in fact a bit easier as sound wavelengths
+our ears can hear range from a couple centimeters
+for the highest frequencies to about 20 meters
+for the lowest, as opposed to nanometers for
+visible light.
+Needless to say being able to hide sound is
+handy, not just for covert scouting parties
+or sonar protection for submarines.
+Tanks make far more noise than cars, and cars
+make so much noise we have to erect sound
+walls along highways in urban areas.
+It also offers better quality speakers and
+microphones, potentially far thinner sound
+insulation, and so on.
+So it’s also a type of metamaterial and
+one with a lot of valuable applications.
+Further, since sound and thermal transfer
+are heavily related in terms of conduction,
+it could offer some impressive applications
+for heating and cooling too.
+Let us also not forget that you can move stuff
+with sound too, and very directed sound lenses
+might have some applications for real life
+equivalents of tractor beams or shields, though
+obviously not for in space since they’d
+need air or some other medium to function.
+This is just a short list of potential applications
+suggested for metamaterials and we expect
+far more to be thought up as we further develop
+them.
+It’s almost impossible to overstate their
+potential impact on civilization or foresee
+all the possible applications, any more than
+the first folks who experimented with semiconductors
+could, or even those who turned them into
+transistors.
+They are potentially a huge part of our future
+and one you can expect to see affect every
+aspect of our homes and lives, and probably
+sooner than later, this is tech for the next
+generation, not far future blue sky technology.
+And again one of those is for very light encryption
+of portable devices which is going to be an
+increasingly big deal as we head into the
+future.
+In fact encryption and privacy is going to
+be one of the major topics we cover this spring
+and summer as we revisit Post-Scarcity Civilizations
+and see some of the very real challenges facing
+civilizations that on first glance look like
+they want for nothing.
+Like today’s episode and next week’s,
+that topic, Life in a Post-Scarcity Civilization,
+came out on the top of our most recent episode
+topic poll on Patreon but I can’t see doing
+it in just one episode, just discussing something
+like privacy concerns in a high-tech civilization
+can easily use an entire episode to itself.
+Good timing for that particular topic too
+since we are welcoming on board a new channel
+sponsor, NordVPN, and you can learn more about
+them at NordVPN.com/Isaac.
+I don’t have to tell you that privacy is
+big concern on the internet especially in
+this era of wireless devices where you are
+often connected to a public network you have
+no control over, and a VPN, a Virtual Private
+Network, encrypts and reroutes all your data
+so that even a public network becomes a secure
+private one.
+And it’s not about shadowy folks hacking
+your banking or email in an era when it seems
+like everyone from Facebook to Microsoft to
+Google to your own ISP is essentially spying
+on you and often reselling the data they collect.
+I’ve been using a VPN when online for some
+time, one downside of having a big presence
+online here on Youtube and social media is
+folks try to hack me a lot.
+There are Youtube Channels that have been
+flat out stolen before and we all know at
+least one Facebook friend who suddenly started
+posting strangely then posted later they’d
+been hacked.
+For me a VPN is a simple necessity, but having
+a virtual private network really eases your
+mind if you do much online commerce, and especially
+over wireless interfaces.
+That added layer of military-grade security
+and privacy to your personal online footprint
+is very comforting, and as we become increasingly
+digital and wireless it is going to be more
+of necessity, but NordVPN offers a very low-price,
+fast, and reliable VPN service that is also
+intuitively simple to use, something a lot
+of other VPNs I’ve encountered are not.
+It has a lot of handy features but to me the
+best one is that it’s so easy and seamless
+you don’t even notice it’s there.
+If you want to learn more about those other
+features though, visit NordVPN.com/Isaac and
+get 77% off a 3 year plan today.
+As mentioned next week we will be looking
+at Portable Power, and discuss not just modern
+approaches to move energy around for mobile
+applications, but more advanced possible approaches
+like storing energy as antimatter or light.
+For alerts when that and other episodes come
+out, make sure to subscribe to the channel.
+If you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, this is Isaac Arthur, saying
+thanks for watching
+and we’ll see you next week!

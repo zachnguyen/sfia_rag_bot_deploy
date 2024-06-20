@@ -1,0 +1,700 @@
+This episode is sponsored by Brilliant
+Every year hundreds of elves are tragically
+injured in toy-manufacturing related accidents
+while reindeer are driven to the brink of
+exhaustion… but in the future they may be
+replaced
+by robotic factories and delivery drones.
+So today’s episode comes out in the midst
+of the Holiday Season, and of course many
+winter-time holidays have a bit of focus on
+gifts and good cheer, which I’ve often suspected
+was meant to help counteract the rather glum
+mood that comes with the cold and snowy time
+of year.
+Of course the most familiar avatar of that
+gift giving is Santa Claus, so it’s no surprise
+that one of the common terms for hypothetical
+devices that can make almost anything is a
+Santa Claus Machine, one of the most well-known
+fictional examples of that being the Replicators
+in Star Trek, which can produce many things
+by a simple verbal command, notably tea, Earl
+Grey, hot.
+These are also often known as Cornucopia Machines,
+for the horn of plenty, and if we’d been
+doing the episode around Thanksgiving we’d
+probably have titled it that, but it’s December
+so Santa it is.
+As a young and rather credulous kid I once
+asked my grandfather why Santa was at the
+North Pole and in an impressive display of
+ad hoc composition he said it was because
+there was a large supply of minerals and oil
+in the Arctic regions and Santa needs lots
+of raw materials to make presents.
+There was no Google or Siri back in those
+days so he was fairly used to fielding bizarre
+questions from me and I suspect breathed a
+sigh of relief when my sister finally taught
+me to read, but it got me thinking on the
+logistics of Santa’s annual gift giving
+operation and I tended to revisit the topic
+every Christmas as I learned more math and
+science and grew increasingly shocked at the
+sheer scale that would be necessary.
+In hindsight I’m not sure why I didn’t
+just look up the statistics of the Christmas
+industry, which if you’re curious, in the
+US alone is a 500 billion dollar annual industry
+estimated to involve almost 5 million jobs
+at home and abroad.
+Now the assumption that this means 5 million
+of our proverbial elves working in mega-factories
+at the North Pole would be incorrect, most
+would be in other aspects of the manufacturing
+and delivery process, tens of thousands of
+elves doubtless work on arctic oil rigs or
+warehouses, and some presumably have the unpleasant
+task of cleaning the reindeer stables.
+How many actually work in the vast polar foundries
+and factories would depend on the degree of
+automation involved, and ideally almost all
+these processes could be automated.
+This of course takes us into our topic for
+today.
+Machines able to produce anything, in fiction,
+generally tend to appear to do so almost like
+a magic wand, it just appears or fades in.
+Likely simply as time saver for special effects
+and props departments who can just pause the
+recording and stick the item into the shot.
+However, such a machine need not be arcane
+and compact, but more likely a very large
+automated factory, at least initially.
+There are many hypothetical and fictional
+examples of entirely automated manufacturing,
+but the most likely is what we call a Clanking
+Replicator, an artificial self-replicating
+system that relies on conventional large-scale
+technology and automation rather than nanotechnology
+or teleportation.
+Think of a large automated factory that was
+able to deploy robots to gather raw materials
+and could turn those into every device needed
+to operate that factory, including those robots,
+who presumably also do the assembly.
+Non-artificial examples of a clanking self-replicator
+include humans, and really any organism.
+Indeed all our cells.
+A typical cell, while microscopic, is less
+of a simple machine or factory than a giant
+city full of warehouses, refineries, factories,
+roads, and distribution networks.
+Evolution has created a dizzying complexity
+in each cell by trial and error, without the
+need for a brain.
+Each cell is a self-contained self-replicating
+survival machine.
+We can assume it will be possible at some
+point for us to make our own artificial ones,
+even if we have to piggyback on existing biological
+cellular structures to do this.
+For that reason, while many of the devices
+we’ll discuss today are more speculative
+and iffy, the Clanking Replicator itself is
+considered an inevitability, a matter of when
+not if.
+The other more classic example in sci fi is
+tiny little nanorobots able to reproduce and
+perform tasks, which raises the doomsday scenario
+of what’s called Grey Goo, which is when
+they run loose and turn a whole planet into
+more of themselves.
+This is also likely possible if we’re just
+discussing cells, since cells are microscopic
+and so are viruses, which are even smaller
+and essentially a working example of grey
+goo.
+Indeed you could argue our planet has already
+been grey gooed, or maybe green gooed, we
+just happen to be the end result of that.
+Much smaller ones, able to manipulate individual
+molecules or even atoms, are called Universal
+Assemblers, and their feasibility is a bit
+less certain.
+Eric Drexler, the gentleman who got the debate
+started in earnest with his 1986 book Engines
+of Creation, offers us one example called
+a Molecular Assembler, ultra-tiny machines
+able to take individual molecules and build
+anything, including more of themselves, from
+them.
+About this same time we got our hands on Buckyballs,
+a new carbon allotrope that opened the doors
+to carbon nanotubes, graphene, and serious
+discussion of nanotechnology.
+The inventor there was Richard Smalley, a
+chemist who was born just down the road from
+me in Akron, and would later receive the Nobel
+prize in chemistry for the discovery.
+He and Drexler got into a debate about the
+viability of such machines now known as the
+Drexler-Smalley debate, a series of articles
+and open letters the two exchanged in the
+early 2000s.
+The debate isn’t about the possibility of
+manipulating molecules or even individual
+atoms.
+Specialized proteins, called enzymes, in all
+biological cells and even viruses manipulate
+molecules all the time.
+We’ve also had industrial solutions since
+the 1980s that can manipulate individual atoms
+using scanning tunneling microscopes.
+The debate rather centered around whether
+we can miniaturize these types of machines
+and make them self-replicating.
+Both Drexler and Smalley raised many good
+points but of course the key one from Drexler
+is the notion that you should be able to make
+something very tiny able to reproduce itself
+at least a couple times before breaking down,
+leading to an exponential growth process same
+as we’d see from bacteria in a petri dish.
+We can’t be sure yet what that minimize
+size can be but can use biology as a safe
+upper maximum.
+One of the points raised by Smalley though
+is of special interest to us today, as is
+the basic concept which can be expanded to
+other types of these machines.
+This is the Sticky Fingers Problem, sometimes
+also called the Fat Fingers Problem.
+Any given machine is going to need some sort
+of finger equivalent to interact with whatever
+media they are in and to build stuff.
+These have to be made of atoms and thus have
+an irreducible size.
+I can use my hands and fingers to handle large
+object easily but need special small tools
+like tweezers to work on anything smaller.
+To quote Smalley, “Because the fingers of
+a manipulator arm must themselves be made
+out of atoms, they have a certain irreducible
+size.
+There just isn't enough room in the nanometer-size
+reaction region to accommodate all the fingers
+of all the manipulators necessary to have
+complete control of the chemistry....
+[Also,] the atoms of the manipulator hands
+will adhere to the atom that is being moved.
+So it will often be impossible to release
+this minuscule building block in precisely
+the right spot.
+Both these problems are fundamental, and neither
+can be avoided.
+Self-replicating, mechanical nanobots are
+simply not possible in our world.”
+Needless to say, even if this argument is
+true, it does not rule out self-replicators,
+just ultra-tiny ones, again biology offers
+billions of different schematics of functioning
+microscopic ones.
+Nor do you necessarily need precision placement
+on atoms to get them in the right place.
+Time will tell on those but the problems shows
+up when we discuss 3D printing.
+In 3D printing you are layering a substance,
+or a few different substances to create an
+end product.
+The higher your resolution, the smaller your
+printer heads or nozzles need to be, or the
+more numerous.
+As with the fat fingers problem, while we
+could assemble a vast two dimensional array
+of nozzles, those nozzles still must be bigger
+than whatever is coming out of them, even
+if we assumed a single material, not multiple
+substance with their own nozzles, so the nozzle
+array does need to move back and forth or
+side to side to print a layer, just not a
+lot.
+Way back in the self-replicating machines
+episode, I mentioned that there’s a maximum
+speed you can print at an atomic or molecular
+resolution.
+We probably didn’t spend enough time then
+to clarify some objections but we’ve got
+some speed limits on this.
+Firstly, you obviously cannot use just a few
+nozzles, one for each substance, as trying
+to print out anything, even microscopic, with
+atomic detail on any sane timeline would require
+the needle to be move so fast it would generate
+sonic booms and tear itself apart.
+Anything Macroscopic would require it to move
+at relativistic or even FTL speeds and require
+the kind of superstrong materials only found
+in science fiction.
+Santa’s toys are going to be blown apart
+and end up a useless wreck.
+Here’s our second speed limit, printing
+at this resolution, the atomic or molecular
+level, means anything macroscopic has on an
+order of a billion layers, so even if you
+have many nozzles, they all have to be moving
+in unison, each with its own area of coverage.
+Only materials don’t actually move in some
+perfectly rigid fashion, they compress and
+wave.
+A common thought on faster-than-light travel
+is why you couldn’t have a very long and
+rigid stick from Earth to Mars and just push
+on it on Earth and poke someone on Mars instantly.
+This doesn’t work and indeed they’d not
+get shoved by the end for years because you
+didn’t push on the stick, you pushed on
+a package of atoms near one end which then
+push on the next set closest to them, who
+do the same and so on, sending a wave that
+is moving the stick and doing so at typically
+a few times the speed of sound, depending
+on the material.
+The short form is you can’t just shove on
+some big printing nozzle array and expect
+every last nozzle to move instantly the exact
+right distance to the sub-nanometer scale
+and disgorge their next bits or pixels on
+the right trajectory, then a nanosecond later
+get shoved again and repeat.
+So you can only go so fast and maintain accurate
+resolution, and such a device is pointless
+if it isn’t accurate, I don’t need to
+3D print a concrete house at molecular resolution
+after all and thus can move faster.
+Now you could angle the nozzles, like pivoting
+cannons, each shooting at their own area,
+though it’s always worth remembering that
+you need some machinery for that kind of thing
+and that takes up space, and the more area
+each has to cover, the faster it needs to
+spin and stop, and as an example, a kilometer
+long rail gun on a spaceship can’t pivot
+and shoot at a new spot in an instant because
+turning that fast would rip the gun right
+off its mountings or snap the barrel from
+the centrifugal force.
+None of these nozzles are being made out of
+unobtainium, they have to obey real laws of
+materials, acceleration, stress, relaxation
+times, inertia, and at this scale, quantum
+mechanics.
+If you can get through all of that, you still
+have another speed limit, which is how fast
+your ‘ink’ is moving.
+If you’re throwing colored balls at the
+wall to stick and form a pattern, you can
+only throw those so fast before they’d start
+bouncing off, or smashing themselves and the
+wall to bits.
+You can’t throw atoms and molecules around
+to hit each other at supersonic speeds, let
+alone relativistic ones.
+When those atoms land on the previous layer,
+they have to be moving slow enough to get
+caught and not damage the connections of their
+neighboring atoms.
+Nor can you spit out new volleys right behind
+them which leave before the previous one landed
+or you’ll start getting lots of interactions
+between the particles as they approach.
+And if you’re thinking you could get around
+this with extreme precision calculations,
+don’t forget quantum, because we are doing
+this at the scale where something’s momentum
+and position starts getting uncertain.
+And remember any extra energy of motion of
+those particles is turning into heat.
+Printing circuit boards at the atomic scale
+is probably doable, printing a cup of tea
+in a few seconds is probably impossible.
+One hates to imagine the sheer amount of computation
+that would be needed to rapidly print any
+macroscopic object in a few seconds without
+everything getting jumbled up, but it would
+probably slag the device, and possibly the
+city it was located in, from all the heat
+generated running the math.
+We’ve another example of making tea beside
+Star Trek, in the Hitchhiker’s Guide to
+the Galaxy, Arthur Dent ties up the whole
+computer in his quest to synthesize a proper
+cup of tea and it’s not hard to imagine
+why - any macroscopic object contains trillions
+of trillions of atoms, each of which would
+need to be precision placed.
+Of course the classic Picard Star Trek menu
+option of Earl Grey presumably relies on transporters
+to teleport stuff into place.
+In theory you might be able to use quantum
+entanglement to copy an existing cup of tea
+on to a pocket of matter, but since the no-cloning
+theorem would wreck your template tea cup
+and entangling trillions of trillions of atoms
+together just to make a cup of tea seems fairly
+ludicrous, we can probably discount that approach
+to teleportation replication in the future,
+and it is our best option for making teleportation
+technology under known science, see the Teleportation
+episode for details.
+One last major concern, which may be an even
+bigger problem, is heat building up in whatever
+you’re printing.
+After all, on atomic or molecular scales,
+heat and motion are the same thing.
+This is something that we discussed back in
+the Nanomachines episode, but is definitely
+worth bringing up again since it’s one of
+the biggest problems with molecular assemblers.
+The amount of heat that can be rejected from
+a given volume is directly related to the
+amount of surface area, and how conductive,
+that material is.
+The smaller you go, the less surface area.
+So, if you try to print too quickly, you’ll
+end up melting whatever you’re trying to
+make and possibly the machine trying to make
+it too.
+This might be an option for making self-cooking
+food, but proteins aren’t the strongest
+of structures, so even there you could destroy
+what you’re trying to make before it’s
+done.
+Santa’s Christmas mince pies are going to
+end up a lump of smoldering charcoal.
+Come to think of it, isn’t it convenient
+that those on the naughty list get a lump
+of coal?
+Maybe Santa’s been experimenting with a
+Santa Claus machine for some time?
+Of course all of this only matters if you’re
+aiming for resolution at the atomic level.
+Your feedstock material and nozzles can all
+act a lot faster if they’re printing at
+a lower resolution like the microscopic.
+A cellular printer, as opposed to an atomic
+one, is using as its bits or pixels individual
+biological cells, and each of those contains
+trillions of atoms.
+The problem is, and it’s what make atomic
+printers more tempting, is there’s a lot
+of different cells and you pretty much need
+a nozzle for each type.
+An atomic printer only needs a maximum of
+around a hundred since that’s how many atom
+types we have and typically you would only
+be using a handful of types, a molecular printer
+is much worse.
+This brings up the issue of specialized manufacturing
+which is exactly what these sorts of universal
+assemblers are supposed to circumvent, a general
+or universal creator of objects from some
+data template.
+A specialized food printer for instance could
+just have nozzles for protein, fat, and carbohydrates,
+that’s most of what food is, with just some
+trace micronutrient vitamins.
+Of course it isn’t, most food is mostly
+water but that at least is very standardized,
+there’s only one type of water, ignoring
+various isotopes that mostly don’t matter
+chemically.
+That’s not true of carbs, fat, and proteins.
+Even ignoring that proteins are size-wise
+to a carbohydrate what a skyscraper is to
+a hut, they all come in a lot of different
+types.
+Even amino acids, which proteins are made
+of, come in many forms, even just limiting
+ourselves to the main ones in biochemistry.
+For carbs you’ve got monosaccharides and
+disaccharides, the most commonly recognized
+being glucose, fructose, sucrose and lactose.
+They are, in turn, built into polysaccharides,
+made of a dizzying array of combinations of
+these.
+Polysaccharide examples are cellulose, which
+paper is made from, and starches, like you
+find in your potato chips.
+We also don’t eat most of our food raw,
+and it’s kind of hard to print a loaf of
+bread from a big dough vat.
+You might be able to make a machine that can
+print any food on demand, maybe even on a
+sane time scale, but someone is bound to point
+out that a centralized facility or facilities
+can make this things better and faster and
+deliver them to you by drone, in many cases.
+You could also employ a swarm of drones, each
+with specialized tasks, hanging around till
+they get a call.
+The notion that building a ton of drones might
+take a lot of effort comes to mind but can
+be instantly discarded, since you are specifically
+talking about machines that make stuff.
+You’re not building ten million specialized
+drones for making or delivering a certain
+class of item, you are building one machine
+that makes those drones, or makes the machines
+that make those drones.
+When I was a kid the big new rage was Dominos’
+promise to have Pizza at your door in 30 minutes
+or less or it was free.
+Nowadays we’re seeing this get expedited
+with the notion of devices which bake the
+pizza en route.
+It’s an alternative scenario for Santa too,
+that instead of having some Doctor Who bigger-on-the-inside
+Sled that can store vast amounts of matter
+in TARDIS or Hammerspace, or reindeer able
+to move at faster than light speeds to return
+to the North Pole for loading whenever the
+cart runs dry, that Santa’s sleigh is a
+matter replicator ramjet that sucks in air
+as it goes and subjects it to a lot of chemistry
+and transmutation to create gifts.
+This is complete with nanoscopic elves inside
+doing the work.
+Gotta have elves, of course!
+I’ve no idea where they get the energy for
+this, but I have long suspected that Rudolph’s
+glowing red nose actually indicated a radioactive
+atomic power source was mounted there, or
+perhaps a kugelblitz black hole.
+While this would explain how they obtain the
+necessary speeds required for the trip and
+possibly the time dilation implied, I still
+have not determined what purpose the cookies
+serve in Santa’s refueling operations, it
+would seem to imply thus far unknown properties
+of chocolate chips as an energy source.
+Further experimentation is probably advised.
+Now, assuming you get ones of these replicator
+methods working, even just the clanking replicator,
+we have the issue of unemployed elves and
+reindeer to deal with, and of course people,
+already an ongoing problem as technology improves.
+Something like this is likely to develop gradually
+and as we’ve noted before, a surplus of
+cheap goods tends to largely address the issue
+of getting paid so you can buy them.
+However, what replicators, self-replicators
+in particular, introduce is a new paradigm
+of manufacture.
+It’s the complexity more than the size or
+quantity that is your bottleneck.
+It’s weird to think of some vast cylinder
+space station hull massing Gigatons being
+cheaper than a single thumb-sized microchip,
+but as long as you’ve got quadrillions of
+tons of raw material lying around the solar
+system, it’s really the design phase that’s
+expensive, not the production itself, and
+a big hollow metal cylinder is not exactly
+complicated.
+In theory, you release a single clanking replicator
+whose additional product is sheet metal on
+an asteroid and check back in a few months
+later.
+Job complete, it’s not really going to tie
+up hundreds of R&D teams to program and modify
+it to take in rocks, smelt them, roll them
+as sheets, and weld them together, whereas
+you might need hundreds of people to design
+the printing template for a single dessert
+item, or a single microchip, or just one door
+in an airlock on that cylinder hab.
+We’ll discuss this more next week when we
+look at using this kind of technology in place
+of giant generation spaceships, but it’s
+a thing to remember, even nowadays thought
+and complexity are way more expensive than
+raw materials or labor.
+A freeway is much cheaper, pound for pound,
+than microchips, let alone the weight of a
+thumbdrive holding the schematics, data itself
+doesn’t really have mass, whereas it obviously
+has a vast value.
+The various templates designed for replicators,
+be it 3D printers or nanomachine assemblers
+or Trek-style ones, are likely to be hugely
+valuable and a major industry, indeed maybe
+one of the few industries left if devices
+like these are developed.
+One can imagine the kinds of funds and feuds
+involved in intellectual property rights in
+this regard, from copyright lawsuits to piracy.
+Now the piracy issue mostly would be a problem
+if everybody had a Santa Claus Machine in
+their basement, as we’re seeing today it
+would most likely instead be a lot of somewhat
+specialized printers at depots with delivery
+by drones or mobile printers that got an order
+and headed your way while making it.
+However if we did have them so everyone could
+have one in their basement, that intellectual
+property rights issue is secondary to the
+terrorism one.
+Forget printing a nuclear bomb in your basement
+from a pirated template or some anarchist
+cookbook online, you’d have problems getting
+the uranium unless your Santa Claus Machine
+had cheap transmutation too, in which case
+you’d probably make antimatter bombs instead.
+Rather, you have to worry about any random
+lunatic printing up a lot of Ricin or hunter
+seeker kill drones, or worse, self-replicating
+hunter-seeker kill drones.
+I did mention this was the nightmare before
+Christmas, didn’t I?
+This sometimes gets suggested as a Fermi Paradox
+solution, and is one of our examples of Suicide
+Pact Technologies, ones where everybody inevitably
+invents it without realizing it will wipe
+you out or where it’s just so attractive
+or easy that it ends up happening even though
+you know it’s dangerous.
+It’s not always in an obvious way either,
+we see an interesting example of a civilization
+collapsing and rebuilding after getting its
+hands on a Cornucopia Machine in Charles Stross’s
+novel “Singularity Sky”, where everything
+falls apart simply because nobody needs anyone
+else at all, and we explored some of the consequences
+of that in our Post-Scarcity Civilization
+series in more detail.
+Great book by the way, deals with a lot the
+issues of extreme and god-like artificial
+intelligence and technological singularities
+too.
+We often classify Artificial Intelligence
+as another possible example of a Suicide Pact
+Technology and it indicates another possible
+weird scenario in this case.
+We probably don’t have to worry about the
+prior example because as mentioned, these
+are unlikely to be something everyone has
+in their basement but rather lots of slightly
+specialized ones working from central depots
+for drone delivery, Amazon dialed up to 11,
+basically.
+Such a scenario makes it way easier to control
+it against dangerous tech and copyright violations
+because only certain people can approve new
+templates and it won’t print anything not
+on that template, and people don’t go up
+and fiddle with it either, drones fly in and
+pick up the goods for delivery.
+That’s not completely secure of course,
+but better than any lone random lunatic being
+able to bring about the Apocalypse in their
+basement.
+However, any given template will need some
+customizable parameters.
+I don’t want a shirt, I want a shirt of
+a specific material, color, size, shape, etc.
+One problem we have now with online shopping
+is that you’ve got millions of products
+and usually at least many thousand that would
+show up for any common keyword that you need
+to sort through.
+In many cases a lot will be standardized to
+the person though.
+I don’t need to see every type of tire or
+seat cover available, just the ones that will
+fit my car’s make and model, and you can
+enter those so whenever you search it only
+offers you ones that fit that.
+Similarly, you can obviously select clothing
+sizes while shopping but even these are fairly
+general compared to tailoring and it would
+be nice if your phone just scanned you regularly
+and kept your measurements updated when you
+went clothes shopping.
+However it’s not just if it fits but if
+it looks good, and that’s not only more
+complicated but something we often want a
+second opinion on, not just ours, so a computer
+can’t just take our scan and CGI a model
+of us in that garment to see if we like it.
+I mentioned in the episode “Jobs of the
+Future” that consulting would be a big industry
+in the future and often for surprising things,
+but it’s easy to imagine one of the earlier
+uses of AI would be using it to help pick
+out the right clothing fashions for people.
+We always worry about AI going crazy on us,
+either Skynet style defense computers or some
+grey-goo like the Paperclip optimizer, but
+there may be more mundane and less threatening
+routes.
+Imagine instead an AI built to advise people
+on fashion, maybe one with an Asimovian-prescription
+about harming people with insults when it
+tells them that they really do look fat in
+that garment.
+Consider also that people are bound to use
+it for some opinions on some fairly bizarre
+clothing since they can do it in private.
+That’s a big market requiring endless banks
+of supercomputers trying to handle the often
+illogical fashion tastes of billions of people,
+and probably not monitored as closely as a
+defense computer would be.
+I could so easily imagine that fashion-computer
+going quietly, utterly, and homicidally insane.
+It reminds me of the Robot Santa Claus from
+Futurama, which due to a programming error
+had much too high standards for who was naughty
+and nice and how to deal with that, and went
+mad and flew around each Christmas attacking
+people.
+Devices like the ones we’ve looked at today
+offer us a future where almost anything we
+could wish for was ours for the asking, just
+like a Genie in a Lamp, and just like that,
+it is always good to remember to be careful
+what you wish for…
+While A Santa Claus machine can make almost
+any object you might wish to gift someone,
+the one thing it can’t give them is knowledge.
+Knowledge, as we all know, is priceless, and
+a love of it is the gift that keeps on giving.
+Help your loved ones nurture their curiosity
+and build problem solving skills in a fun,
+bite-sized way, with Brilliant.
+Go to brilliant.org/IsaacArthur and grab a
+gift subscription to spark a lifelong love
+of learning.
+So we looked at replicating machines today
+and next week we will close out our fourth
+year here at SFIA with a look at how this
+technology might help us colonizing the galaxy,
+in Seeding the Stars, and while that will
+finish us out for the year, SFIA will be back
+the next week to start 2019 up by examining
+a different sort of travel to different sorts
+of worlds, as we take another look at virtual
+worlds, simulated realities, and how they
+might become very real indeed.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, and haven’t
+bankrupted yourself shopping for presents,
+we’d appreciate your support on Patreon,
+and if you have, you can always hit the like
+button or share the episode with others.
+Until next time, thanks for watching, and
+Happy Holidays!

@@ -1,0 +1,550 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula,
+when you sign up for CuriosityStream using
+the link in the description.
+In the future,
+there will be no resistance to the widespread
+adoption of superconductors.
+So today is our 250th weekly episode and we’ll
+be looking at Superconductors, how they work,
+what they can do for us, and what the impact
+of them will be on our civilization.
+This is a tricky topic because on the one
+hand, we already have superconductors and
+their impact has been rather large already,
+but what we usually mean are room-temperature
+superconductors.
+Those would open up doors for us to do some
+truly impressive mega-engineering among other
+technological feats, particularly if twinned
+together with the invention of a material
+that acted as a true magnetic shield, which
+we’ll discuss later.
+Let’s talk about the most obvious impact
+first though.
+Right now, we are always short of electricity,
+especially from cheap and renewable sources.
+However, something like half our electric
+production simply goes to waste as heat in
+the electric lines from your local power plant
+to the power outlet in your wall.
+The longer the line, the more is wasted, and
+so often even better and more efficient power
+options can’t be used because the distance
+involved makes it less efficient.
+Solar panels located in the desert with ample
+sunlight, but far from human habitation, lose
+too much power to transmission distances.
+Solar is also off half the day at night time
+and weak when it's cloudy, but the Earth generally
+has a steady supply somewhere.
+If distance wasn’t an issue, we could easily
+supply everyone all day from solar because
+it’s a bright sunny day somewhere.
+Why is this?
+Well, most folks are familiar with the idea
+of electrical conductivity and resistance,
+that any given electric wire – or any other
+substance – has a certain resistance that
+any electricity passing through it must overcome,
+and it acts like friction on a car, the road
+friction and air drag just slow you down and
+leech energy that must be replaced.
+Wires do this and power leaks out, wasted
+as heat.
+Now metals in general tend to have lower resistance
+than many other materials, which is to say
+that they conduct electricity better and often
+have a much lower resistance as temperature
+drops.
+We’d hypothesized it might drop to zero
+at low enough temperatures, possibly only
+at absolute zero, but in 1911 Heike Onnes
+found that mercury at 4 Kelvin had absolutely
+zero resistance.
+Scientists found some more materials that
+could also do this, superconduct, but the
+problem was all of them had to be ultra-cold,
+temperatures not found anywhere on this planet
+outside a laboratory, or indeed anywhere in
+this solar system, so its industrial application
+was pretty limited.
+Particularly since those temperatures could
+only be achieved with Liquid Helium, which
+is vastly more expensive to make than Liquid
+Nitrogen largely in part to Helium’s scarcity
+here on Earth.
+While wrapping all our electrical lines in
+sheaths of liquid helium would have dealt
+with wasted electricity, it would also have
+required a huge output of power and money
+to supply all that refrigerant as it warmed.
+We also had no idea how superconducting was
+happening, and we had thought it would need
+to be near absolute zero.
+We’ll get to why in a moment, but first
+we should note that since a superconducting
+wire can have an electric current flow through
+it without diminishing, and since running
+current through a coil produces a magnetic
+field, a superconductor can produce a constant
+magnetic field for free - except for the cost
+of cooling it and the initial current input.
+This is why superconductors are often shown
+levitating things such as magnets, so long
+as you keep them cold enough to superconduct,
+they will keep levitating.
+This is still not free energy, as magnetic
+fields do not do work, in the physical sense.
+A charged object in one can change direction
+but it retains the same total kinetic energy.
+It can circle around for instance, same as
+a planet orbiting in a gravitational field.
+So superconductors are not what people call
+perpetual motion machines, in that they don’t
+generate free energy or violate the Laws of
+Thermodynamics, though they could allow an
+object in a vacuum chamber to remain perpetually
+in motion.
+That’s the issue with superconductivity
+in the first place.
+In an ideal metal or crystal, all the atoms
+are nicely lined up and so a wave, like that
+of an electron carrying charge and electric
+current, could go through unimpeded, with
+no resistance.
+In practice that perfect lattice of atoms
+isn’t going to be perfect, some atoms will
+be out of place or the wrong kind, the metal
+not being perfect pure.
+There are many other factors that can impact
+resistance and conductivity, some of which
+aren’t temperature based.
+However, to worsen it, our concept of heat,
+at the microscopic scale and even smaller,
+is really random atoms and such bouncing around
+and if they are bouncing around randomly they
+obviously aren’t perfectly aligned.
+The hotter something is, the more random bouncing
+is involved.
+So the more resistance we had in that lattice.
+As we cooled it, that went down but even in
+a perfect metal or crystal lattice it couldn’t
+be zero bouncing around – allowing zero
+resistance or superconductivity – unless
+there was no random motion, which is to say,
+no heat, or absolute zero.
+Which even today we still figure is impossible
+to actually reach, even if we can come close
+to it, with laboratories able to take things
+to less than a billionth of Kelvin above absolute
+zero.
+Of course, back in 1911 when James Dewar and
+Onnes were pushing the limits of cold, they
+weren’t down under a Kelvin yet and as mentioned,
+had already found that some materials superconducted
+above that.
+And this is where the notion of a Cooper Pair
+comes in.
+Classic cold superconductors are thought to
+work because electrons can pair up tightly
+and at a lower energy level, when normally
+two electrons would instead repel each other.
+This allows easier transit through a material
+so all those random motions don’t matter
+as much.
+This pairing can only happen at lower temperatures
+and still needs that lower level of random
+bouncing and heat, but allows them to genuinely
+superconduct, at exceptionally low temperatures
+but not at absolute zero.
+Now two quick notes there.
+First, a lot of emphasis should be on how
+superconductors ‘are thought to work’
+because we are still not entirely sure how
+they do work, especially the warmer ones.
+And second, what temperatures mean for superconductors.
+Classic cold ones are those that operate under
+30 Kelvin, or temperatures you would have
+problems finding naturally even out at Pluto.
+When we say warm-temperature superconductor,
+we are not talking about what you or I would
+find warm, or even what Antarctica would.
+We’re talking about warmer than Pluto, and
+generally don’t even call it high-temperature
+superconductivity rather than warm-temperature
+till it reaches liquid nitrogen temperatures,
+which are still colder than any place on Earth.
+We've been getting warmer as we’ve improved
+research, the current record was set about
+33 years after we first encountered a warm-temperature
+superconductor, in 1986.
+That was a copper oxide that superconducted
+at 35 Kelvin, and this resulted in a big boom
+in research on the field.
+When I was in college for Physics in the late
+1990s and early 2000s, our department had
+a few folks specializing in this area and
+we had some superconductors on hand that could
+operate at Liquid Nitrogen Temperatures – handy
+as Liquid nitrogen is vastly cheaper than
+liquid helium to make and use.
+To this day though, we still have only theory
+for how they function, as it is quite different
+than the classic cold superconductors.
+Still even liquid nitrogen is hardly free
+nor do great big cooling apparatuses make
+for cheap electric grids or superconducting
+micro-circuits for commercial application.
+And by the way, finding superconductors that
+you can cool with liquid nitrogen instead
+of liquid helium is pretty important for applications,
+especially larger-scale ones.
+As a rule of thumb, wherever you live in the
+developed world, and in whichever decade of
+the 20th or 21st century, liquid helium costs
+about as much per liter as good scotch, while
+liquid nitrogen costs about as much as milk.
+And then there’s the fact that Earth’s
+atmosphere is 78% nitrogen, so if you compress
+and refrigerate it yourself, you can pretty
+much have all you want and don’t have to
+truck it in, because it’s all around you.
+Our high temperature superconductor record
+was broken again in 2019 as scientists found
+one that operated at the scorching hot temperature
+of 250 Kelvin… which is -23 Celsius or -9.4
+Fahrenheit, so still cold, but that is a temperature
+that actually occurs on Earth.
+Moreover, many of the other ‘warm-temperature’
+superconductors, while being quite cold by
+our standards, would operate on other worlds,
+like Pluto, and naturally occurring ones potentially
+forming something akin to a computer is one
+of the more interesting scenarios we contemplated
+in our look at Non-Carbon Based Life earlier
+this year.
+While our best is still arctic temperatures,
+there does seem ever more reason to believe
+we will find one that can operate at Room-Temperature,
+that is the biggest game changer if we can
+get it.
+However, a few caveats there.
+First, we’d probably want a bit better than
+room-temperature, though it isn’t entirely
+necessary, but you wouldn’t want anything
+in regular use that stopped doing its job
+the instant it got a bit warm.
+Second, they also stop doing their job if
+they get impinged on by magnetic fields, either
+powerful enough ones or sometimes any at all,
+depending on the material.
+We really don’t have good magnetic shielding.
+Normally we shield from magnetic fields by
+sheer distance, or by using materials with
+high magnetic permeability.
+The best magnetic shielding generally being
+provided by what we call mu-metal, mu being
+the symbol for magnetic permeability in equations,
+and this is an ferromagnetic alloy of nickel
+and iron, though it’s something of a blanket
+term for such materials and we’ve discovered
+many more that do the job better in one or
+more respects.
+They may be good enough to shield thin wires
+of superconductors so that we could use them
+in small and cheap applications, but it would
+depend on how sensitive to magnetic fields
+a room-temperature superconductor was.
+We don’t even know if one exists yet, let
+alone how sensitive it or any others we might
+find would be.
+So, these are less than perfect as shields
+but might be enough and would be for certain
+applications at least.
+However, as we discussed in our episode Advanced
+Metamaterials we do have reason to think we
+might be able to make metamaterials that shield
+far better or perhaps even perfectly.
+We don’t know if we can make these or how
+big, bulky, expensive, or durable they might
+be.
+And lastly of course for the hypothetical
+room-temperature superconductor its properties
+in terms of cost and durability would matter
+too.
+If the stuff is brittle and breaks easily
+– and many are ceramics - or requires something
+scarce like platinum or some rare isotope
+or Transuranic element, it might be less than
+useful for commercial or big-scale application.
+If it is sturdy and cheap but made of toxic
+materials, you don’t want it in household
+items… amusingly mercury and lead were our
+first superconductors.
+All right, let’s assume we had such a material
+though, one that worked at room temperature
+and even a bit higher, and which was decently
+durable and could handle magnetic fields well,
+either from being robust to them or by having
+a good shielding material for them, and which
+didn’t cost a fortune to manufacture or
+cause huge health or environmental risks.
+The first big impact would be on the electric
+grid, because you’d have almost twice as
+much electricity for the same fuel and operation
+costs, just from the lack of heat losses from
+resistance.
+And you could put your power generators far
+away, so building your nuclear fission plants
+in some very remote place far from people
+or seismic activity and in large efficient
+clusters would be possible.
+As would transcontinental power lines so surplus
+power – say summer daytime solar in Australia
+or the Sahara could pump to Alaska or Siberia
+in the dead of night.
+No need for batteries.
+However, superconductors permit some exceptionally
+good batteries.
+Superconducting Magnetic Energy storage, or
+SMES, is where you put electricity directly
+into a superconductor.
+This is already in use in many applications
+despite the coolant cost as it has virtually
+no delay in charge or discharge.
+That makes it great for adding to power grids
+that can have sudden drops in transmission
+or spikes in demand, as it can cycle up near-instantly
+to stabilize the supply.
+A room temperature version might allow a very
+compact battery that could rapidly be charged,
+which is obviously ideal for everything from
+phones and laptops to electric vehicles.
+The rapid discharge also opens the door to
+things like laser rifles or man-portable rail
+guns, especially as for the latter the superconductors
+would be rather handy for the magnetic coils
+in that railgun.
+They’d also be handy for large scale railguns
+like the mass driver for launching things
+into orbit.
+Lastly, as it is a superconductor, you are
+not losing energy appreciably while it is
+stored, hypothetically, no longer how long
+you’re storing it.
+So one benefit we mentioned, being able to
+move power from surplus to places that need
+it, based on time of day, season, or weather,
+is amusingly a bit less valuable as this same
+technology allows better battery storage too.
+Though of course even if we don’t have to
+cool it we still need to maintain a given
+battery and build it in the first place too,
+so there is still an energy storage cost,
+just far less.
+That is not the only power storage method
+magnetics allows either.
+We’ve worked on creating magnetically suspended
+flywheels in vacuums.
+Essentially a disk which you spin using energy
+and stores that energy, like any flywheel
+energy storage or FES System, but which isn’t
+losing energy to air drag or friction on its
+axis.
+We can already do this, but it is a bit bulky
+and not something you’d put in a typical
+personal vehicle.
+That is potentially very handy for spacecraft
+using electric engines, especially if in coordination
+with beamed power transmission, since if it
+lost the beam for a bit it could keep operating
+until connection was re-established.
+Room temperature application is ideal, but
+since we’re discussing spacecraft it is
+again worth remembering that many places are
+much colder than Earth, and the vacuum of
+space – while usually about the same temperature
+as any planet or object nearby it would be
+– can be made very cold simply by use of
+shades and mirrors to keep sunlight off it.
+One problem with putting major bases on the
+Moon is the concern about what to use for
+power, as while it is great for solar during
+the daytime, getting as much light as Earth
+– and indeed more since it has no atmosphere
+blocking light let alone clouds – those
+day times last a couple weeks… but so do
+the night times.
+SMES or advanced FES energy storage gets around
+this issue, assuming you can mass produce
+them, and we’ve got some very cold places
+on the Moon down in deep craters where we
+might house such batteries made of more modest-temperature
+superconductors.
+Cold places in vacuum are not in a shortage
+in this solar system, nor are places far from
+any major interfering magnetic field, so superconductors
+may see major use in space colonization even
+without room-temperature ones.
+Possibly nearer at home too.
+We’ve discussed many active-support structures
+like the Lofstrom Loop or Orbital Ring, and
+while both can work without superconductors,
+they become much less major power gluttons
+with them.
+Since they are in pretty active use as transport
+systems, you benefit a lot from having advanced
+magnetic shielding in play, but if you had
+that, then this becomes a truly huge boon
+to space colonization from the sheer launch
+cost savings involved, which are far higher
+if you’re not having to burn a lot of energy
+or coolant on keeping your magnetic launch
+or support system running.
+See our episodes on that topic for more information
+on why these are awesome for mass transit
+to space.
+How about back down on Earth?
+Well, for mass transit, big levitating trains
+sure are nice, but if you’ve got really
+good batteries and really low-loss power transmission
+you can just keep using personal vehicles.
+Possibly levitating ones too.
+Potentially even levitating buildings or cities,
+though you definitely want to be having good
+magnetic shielding before you try that.
+You can also use it as an effective frictionless
+surface for the space between a rotating habitat
+and it’s non-rotating superstructure, which
+is particularly handy if you’re trying to
+employ the trick for getting around tensile
+strength limits we discussed in our episode
+Continent-Sized Rotating Space Habitats.
+However, the really cool part about Superconductors,
+to me at least, is the options it opens up
+for mega-engineering projects.
+We often talk about building structures using
+active support, such as that orbital ring
+or what we call an Atlas Pillar, essentially
+a long straightened loop of material flowing
+up then around and down again, over and over,
+inside magnets.
+We looked at this in more detail in Space
+Towers, and if there is no energy loss at
+all, if it is essentially a closed and charged
+up loop inside magnetic shielding to form
+a structural member, then you’ve got something
+with an arbitrarily high compressive strength
+to be building out of.
+This could allow buildings thousands of kilometers
+tall instead of thousands of meters.
+Combined with its more circular or elliptical
+sibling, the Orbital Ring, we could potentially
+manufacture cheap, durable megastructures
+far too large to make from classic materials
+or even many of the supermaterials like Graphene.
+Indeed you could fabricate entire artificial
+planets this way, or even giant ones, like
+we looked at in Mega-Earths or Matrioshka
+Worlds.
+So, when it comes to the Impact of Superconductors
+on our world, it’s a pretty big one, including
+potentially letting us build new worlds.
+We’ve got a couple of announcements before
+we get to the schedule including celebrating
+our 250th episode.
+First off, for those of you who have subscribed
+to our new streaming service Nebula, you already
+know that we put all our weekly episodes up
+there too, not just our early-releases and
+nebula-exclusive episodes like the Coexistence
+with Aliens series.
+However, I’ve decided to start putting ad
+and sponsor free versions of the new regular
+weekly episodes up there and since those usually
+are ready a bit earlier, I will start releasing
+the weekly episodes on Nebula - ad free - a
+day or two before our normal Thursday morning
+airing.
+Nebula is an experiment I and a bunch of other
+channels started up last year as an alternative
+to youtube dependence and this is a pair of
+features that we all thought our audiences
+would appreciate, so again the new episodes
+of our show will be available there now a
+day or two early and without ads in them.
+We’ll continue to experiment and to add
+features as time goes on, both there and on
+Youtube and our other platforms too.
+Now Nebula is it’s own separate streaming
+service but our friends at Curiositystream
+do offer it as a free add-on if you subscribe
+to them, and since they have so much excellent
+educational content of their own and are running
+26% discount if you use the link in the description,
+it’s a great deal.
+It means you get a year of both Curiositystream
+and Nebula for less than $15, and it helps
+support this show and a lot of other educational
+content which is what Curiositystream and
+Nebula are all about, and again you can get
+a year of both for less than $15 by using
+the link in the episode’s description.
+So today marks our 250th weekly episode, which
+is a bit of a misnomer since there’s well
+over 300 videos on the channel between bonus
+episodes and livestreams, and these days the
+episode numbering is essentially what production
+week we are in.
+Amusingly that should also be over 300 as
+its been 306 weeks since the original episode
+on megastructures, just under 6 years ago,
+but we didn’t do regularly weekly episodes
+till early 2016 and amusingly, for fans of
+“Arthursdays” I was actually releasing
+them on Fridays for a while.
+And these days we do more like 76 episodes
+a year, our regular 52 weekly episodes plus
+a monthly bonus episode plus a monthly livestream.
+No matter how you count it, it’s a lot of
+episodes, and it seems like forever since
+we began.
+I’m not sure if anyone who subscribed to
+the show back when it only had 1 episode on
+it in 2014 is still around watching these
+days, or how many of you have actually watched
+every single episode since that would take
+nearly a week without pausing for a drink
+and a snack let alone sleep, but if you have,
+thank you, I hope it has been as fun and interesting
+a journey for you as it has been for me, and
+I hope you enjoy the next 250 episodes just
+as much.
+Speaking of upcoming episodes, today we were
+talking about how superconductors might make
+it easier to build titanic megastructures,
+and next week we’ll take a look not at various
+types of Megastructures but rather how you
+might go about navigating around them and
+to them.
+Then on Sunday, August 16th, we’ll be teaming
+up the Exoplanets channel and Parallax Nick
+for a three-part bonus episode, Talkative
+Aliens and Laser SETI.
+The week after that we’ll return to the
+Fermi Paradox series to contemplate Galactic
+Disasters.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

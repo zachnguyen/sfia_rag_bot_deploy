@@ -1,0 +1,797 @@
+This episode is sponsored by Brilliant
+The trick to designing any machine, especially
+a spacecraft, is knowing what its purpose
+and mission are… unfortunately science fiction
+provides us with few ships designed with those
+concepts in mind.
+So today we’ll be looking at spaceship design
+from modern ships to those of the distant
+future, to some that might never exist outside
+of science fiction.
+We’ll also be deconstructing some sci-fi
+designs to see if they really make that much
+sense, and[a] examining some real-world design
+elements that are specific only to modern
+spacecraft.
+Right now every spacecraft is designed to
+be as light as possible, because every kilogram
+costs a lot of money to get into space.
+Also, spacecraft are most commonly lost in
+the launch phase, so if you want to assemble
+a bigger ship or station in orbit, you need
+a lot of launches, each of which might blow
+up on the pad or shortly after launch, and
+even for automated launches, that results
+in in missions exceeding budgets and introducing
+big delays.
+And so, in modern space exploration, if you
+can make a hammer that weighs half as much
+but costs a hundred times as much, you send
+that expensive hammer up instead of the cheaper
+and heavier one.
+The major paradigms of modern spaceship design
+are extreme quality control, ultra-reliability,
+and the minimization of your mass, because
+failure is not an option.
+If a rare manufacturing defect in a half-penny
+resistor can disable a circuit that disables
+your $100 million probe, you’ll spend thousands
+of dollars making sure that half-penny resistor
+works right.
+This stands in contrast to the standards to
+which most mass produced items are held, where
+cost usually is a bigger concern than reliability
+or redundancy.
+You generally don’t pay 10 times as much
+for an appliance that will last twice as long
+or is half as likely to malfunction.
+As a result, our perception and attitude towards
+modern terrestrial industry can warp our understanding
+of spacecraft design.
+A good example is addressing the issue of
+radiation.
+Most spacecraft rely on thin, but dense, shielding
+made usually of lead, gold foil or water,
+but other materials such as uranium can work
+as well.
+Thick shielding adds cost due to the weight,
+for fairly little added benefit.
+Another thing we have to consider is that
+not all of the ship needs to be shielded,
+only the areas which have vulnerable computer
+systems or lifeforms do, which saves on weight
+and cost.
+We can also look to technological solutions
+to eliminate the cost and weight of shielding.
+For example, magnetic fields strengthened
+with ionized gases like xenon have been proposed
+for shielding against cosmic radiation, as
+they are able to deflect charged particles
+away from the crew.
+However these also come with trade offs - such
+a device consumes more power, so you have
+to have a bigger power source, which means
+more mass as well.
+Of course, a more efficient power source can
+help solve that issue, and a total and cheap
+cure for cancer would minimize the need for
+shielding humans too.
+A different approach is to incorporate other
+components of your mass into your shielding.
+For example, water is a fantastic radiation
+shield - that’s one reason why we use it
+to shield radioactive material here on earth;
+you can design a spacecraft’s storage for
+water and waste to double as your radiation
+shielding.
+Aerogels also offer a lightweight approach
+to shielding while having a minimal effect
+on mass, though the larger or faster the projectile,
+the thicker the layer of aerogel or the incorporation
+of a denser layer working in tandem.
+Of course, if you’ve already well established
+yourself in space, and need to protect habitats’
+long term inhabitants from radiation, you
+can always simply pile mass around your habitat.
+An established space industry can take advantage
+of low-gravity bodies like small moons or
+asteroids to save on launch costs, making
+thicker shielding practical.
+Some of our habitats and spacecraft are likely
+to be built into existing small, rocky bodies
+as well, which will mean they come with their
+own free shielding.
+Perhaps the most important factor though,
+especially for spaceships, is the square-cube
+law.
+If you make something bigger by simply expanding
+its geometry, the surface area will rise with
+the square of that increase while the volume
+rises with the cube of that value.
+Double a sphere’s radius, and it has four
+times the surface area, but eight times the
+volume.
+Make a cylinder ten times bigger along its
+long axis and radius, and it gets a hundred
+times the surface area and a thousand times
+the volume.
+If we want a space station that can hold a
+thousand times as much cargo or personnel,
+we make it ten times bigger, which also gives
+it a hundred times the surface area, and by
+default a thousand times the mass.
+But it’s not really necessary to make my
+shielding ten times as thick, we only need
+to extend it over one hundred times as much
+area, and now shielding accounts for a tenth
+the proportional mass that it did on the smaller
+version.
+And many other aspects of my ship also won’t
+need to scale up by 1000 either.
+So, I probably don’t need a thousand times
+as many spare parts for instance, even if
+I do need a thousand times as many components--which
+I probably wouldn’t anyways.
+You will always need two of any critical component
+or part, but that doesn’t necessarily mean
+you need two-thousand of them just because
+you have a thousand times as much space.
+For spaceships, bigger is often better.
+In other words, once you start making ships
+of a certain size, even if mass is still a
+big concern, radiation shielding really stops
+being an issue.
+Even on interstellar ships plowing through
+the void at relativistic speeds, you really
+only need to increase your shielding on the
+nose of the craft.
+The easiest way to do this is to simply keep
+your spare fuel and water supply up front
+to soak up radiation.
+Hydrogen and water ice mostly won’t be harmed
+by it, and they will be stored in thick volumes,
+so you can design long and skinny ships with
+the front, thick shielding being proportionally
+smaller, reducing how much proportional mass
+you’re pushing around.
+So that’s our most likely layout for spaceships,
+they are skinny and long.
+This does not necessarily mean you build ships
+like long, ultra-thin wires, but you will
+generally want to optimize the shape of your
+spacecraft by employing a minimum longitudinal
+cross-section.
+A spear, needle, or arrow shape is preferred,
+not a blocky one.
+Generally it would be symmetric too, though
+they don’t necessarily need to be aerodynamic.
+There’s no air in space to cause drag; however,
+if you’re moving at highly relativistic
+speeds, the near-vacuum of the interstellar
+medium actually acts like a gas, though we’ll
+come back to that later.
+With that in mind you could easily introduce
+a lot of protrusions such as antennae, shielding,
+extra habitation pods, and so on, which destroys
+the image of a nice, sleek hull.
+Not every location or area on a ship needs
+the same level of protection, for example,
+you don’t particularly care if a random
+bit of space debris slams into an antenna,
+as such hardware is easily replaced or can
+even be manufactured on the ship.
+Indeed you might use less armor and shielding
+on spare water and fuel tanks to ensure any
+debris doesn't fragment upon impact.
+That could cause a large exit wound, and which
+means your fuel or water will be lost to the
+void.
+If you can ensure debris only punches a small
+hole in those tanks, the leakage could be
+kept minimal during the tiny amount of time
+it would take to patch that small puncture,
+especially if you have a self-sealing material
+for the tanks.
+Indeed, perhaps such a self-sealing tank might
+leak an average of a few hundred kilograms
+to these minor punctures during the voyage.
+However, if you were to use a more heavily
+armored tank, you’d have to attach many
+thousands of kilograms of additional armor,
+adding to your ship’s mass, and increasing
+your fuel bill.
+In this case, you’d want to go with the
+thinner tanks and just absorb the minor losses,
+because it’s an overall net gain.
+You are also very likely to have a lot of
+modular, reconfigurable, or retractable segments
+or pods on your ship.
+During the ship’s construction, you won’t
+be fighting air resistance or the drag of
+gravity, but once you embark on your journey,
+during your acceleration phases, you will
+effectively be back under gravity’s thumb.
+Of course the robustness of your ship design
+will need to consider the level of acceleration,
+and deceleration you intend to use.
+Short trips may accelerate harder for a brief
+time, whereas longer journeys may opt for
+a protracted, but lower and more efficient
+acceleration.
+Once the acceleration phase ends and you begin
+your coasting phase, which will be the majority
+of your trip, there’s no reason why you
+can’t begin to expand outward, adding segments
+and pods and extrusions of all types, but
+this must be measured against the fact that
+you will be increasing your ship’s cross
+section.
+If you wish to expand, you must decide how
+much radiation shielding and anti-collision
+armor you’ll give to each extrusion.
+However, while you’re cruising, you even
+have the option to trail things behind your
+ship; maybe you detach your power generator
+and instead drag it behind you, apart from
+the ship, so whatever waste it produces can
+be ejected into space, instead of remaining
+part of your ship’s mass.
+You can reel the reactor back in when it’s
+time to fire your engines for your deceleration
+phase.
+There’s also the option to trail a radiator
+behind you, to help dissipate the excess heat
+all of your shipboard activities will generate.
+Indeed, interstellar craft might sport many
+thin radiating fins protruding from the hull.
+You could even add things to the front--radar,
+anti-collision lasers, or thin sails sent
+drifting in front of you to absorb collisions
+and minimize damage to the actual ship.
+But then again, maybe not, because while losing
+an antenna or radiating fin or a few scraps
+of a thin fuel or water tank might not be
+a big deal, the fact is that the debris destroying
+your antennae is moving extremely fast, relative
+to your ship.
+Even small pebble- or sand grain-sized particles
+are essentially bombs at interplanetary speeds
+- and at interstellar speeds, those grains
+are atomic bombs.
+Any ships coming into an inhabited system
+might need to retract such flimsy protuberances.
+Should a radiating fin or antenna be knocked
+off your ship by interplanetary debris, at
+the speed you’ll be moving, even as you
+decelerate from interstellar speeds into the
+system, your lost equipment just became an
+entire nuclear arsenal’s worth of kinetic
+energy, rocketing towards your intended destination.
+Just imagine some space freighter decelerating
+into a densely inhabited system; it would
+be disastrous to essentially nuke the world
+you spent decades, or even centuries, to reach,
+with a loose or broken piece of hardware--so
+all of your protuberances and extrusions need
+to be pulled in to minimize your ship’s
+cross section again when you are in a system,
+in interplanetary areas.
+Unless of course you are an invading fleet,
+in which case all that potential debris becomes
+your target’s problem rather than yours.
+Though speaking of space freighters, those
+are probably one of those things you’d only
+see in science fiction - specifically of the
+giant mega-freighters plowing through deep
+space variety.
+There’s plenty of room for freighters, but
+if we’re talking about moving large quantities
+of raw materials around, realistically, those
+huge container freighters really aren’t
+the best way to ship your resources.
+Instead, you’d attach a small ship to a
+large payload, essentially a slowboat, meekly
+cruising back towards the world or habitat
+or station that requires the materials, taking
+many years to arrive.
+A megaton of iron is just as valuable when
+it is on its way as it is the moment you acquire
+it.
+Let’s consider 3 likely cargos of raw materials
+one might haul around in the future.
+Ice, Gas, and metal ores.
+Let’s start with ice.
+Water in any form is rare in the inner system--outside
+of Earth, of course--but out past the asteroid
+belt, past the “frost line,” there are
+innumerable icy bodies, asteroids, comets,
+and ice-covered moons around the gas giants.
+This makes the concept of transporting large
+quantities of water very logical; if you’re
+building rotating habitats in the inner system,
+you’ll need that water to be shipped in.
+However, those icy bodies aren’t entirely
+pure water ice--they typically also contain
+chemicals such as frozen ammonia, methane,
+and so on--a little perk, resources that can
+be put to other uses.
+If your ship’s job is pushing ice out from
+Saturn’s Rings or the Kuiper Belt, that’s
+exactly what you would do: push it.
+You wouldn’t cut the icy body into pieces
+and haul them into a massive freighter, you’d
+simply attach your ship, which is probably
+rather small, to the icy body and use your
+engines to accelerate the body towards your
+destination.
+However, you really aren’t just shoving
+the cargo--you don’t want to send a comet
+rocketing into the inner system on a ballistic
+trajectory.
+You will probably arrive at the ice with equipment
+that is basically a set of extra engines and
+a protective wrap.
+As you push the ice in-system, if it is unprotected,
+it will start to melt and outgas--which is
+what gives us those beautiful comet tails
+we all know.
+So you’ll want to wrap the ice in some sort
+of thermal protection--something that will
+keep the ice cold and frozen even as you approach
+the warmer inner system.
+You’ll want the wrap to maintain some pressure
+inside, so that any phase changes that do
+occur will be the ice melting into a liquid,
+instead of sublimating into a vapor.
+The wrap will also probably be reflective,
+especially to infrared radiation.
+While comets are beautiful to see, in this
+situation, we definitely want to avoid losing
+all that precious water.
+However, any sublimation and outgassing could
+make handy propellants to push that comet
+around, and an alternative to wrapping the
+comet.
+You could follow the comet closely and collect
+the gas and vapor so you don’t lose those
+resources to the vacuum.
+Once collected, you have many options for
+using these gasses: process the mix and separate
+all the molecules.
+Electrolyze the water to get the hydrogen
+to dump into your fusion drive or reactor.
+Or perhaps your ship has great mirrors or
+solar sails, which you can use to reflect
+and focus an energy beam at the comet to sublimate
+the ice into natural propellant.
+This superheated gas and vapor would push
+the comet in-system quite powerfully, and
+would get to its destination more quickly.
+However, this method requires some decision
+making; how much of that material are you
+willing to lose in order to get the comet
+to its destination faster?
+You might of course do this entirely automated,
+but if you need on-site crew, they need a
+place to live, and you’re never going to
+be in a rush on ice, since the slower you
+go the higher your profit, minus the cost
+of salaries and equipment maintenance, which
+I’d imagine will be the dominant factors
+in deciding how slow you can push ice.
+They’re going to want to make a bit of a
+home out of that place, and of course might
+carve in ice tunnels or extract minerals to
+build more stuff – icy bodies typically
+have plenty of rock mixed in there too.
+This gets one thinking about ore freighters
+as well.
+Now you might opt to move a metal or carbon
+rich asteroid this same way.
+If that’s the case, given that many a freighter
+or colony ship might also be a mobile refinery
+and factory, they might not be moving raw
+materials but instead be making stuff out
+of them or refining as they go.
+I should also note that ship hulls and space
+habitat hulls are likely to be fairly generic,
+so you might start moving an asteroid and
+turning bits of it into a ship plating and
+end with a classic big space freighter full
+of a mix of ore, refined metal, and manufactured
+goods, all surrounded by cheap, standardized
+hull plating you could also sell at your destination.
+One-use freighters in a sense, with a core
+ship for the crew and sophisticated components
+you couldn’t make en route.
+As to moving gas, the reality is that you
+probably would not, in favor of pressurizing
+and cooling it enough to be a liquid or solid.
+A great big balloon is going to leak on you,
+both from all the extra debris it might be
+punctured by from its larger size, and because
+any container has to be able to keep tiny
+gas molecules from slipping through, and that’s
+very hard to do with hydrogen for instance
+since its smaller than the atoms of the container
+material.
+So a gas freighter might end up looking a
+bit more like our classic image as it probably
+would be a ton of tanks filled with gas or
+liquid strapped to a ship.
+That crew doesn’t really need much room
+compared to the sizes involved, especially
+in terms of the habitat drum.
+This is all assuming you even need a crew
+but as we often mention on this show, the
+concept of a sophisticated ship computer able
+to replace a human crew doesn’t necessarily
+mean its ‘unmanned’.
+By and large you don’t need much brains
+for navigating space but many of the other
+tasks might start edging into an area where
+you need something animal-smart, and if it
+needs human-smart, you use a human.
+Or a person anyway, even if they might never
+have been born in the classic sense.
+Artificial intelligence is a rather vague
+concept when you get to higher levels.
+Whether it’s an unmanned ship or a manned
+one, and for all the vagueness of that term
+in a futuristic sense, a ship is always going
+to have a computer on board.
+What else does it need?
+Well air and water and warmth if anything
+biological is in play, and a means to clean
+and recycle both.
+It’s tempting to assume spaceships will
+always have gardens or hydroponics onboard
+if people are on board, but plants aren’t
+the most mass-efficient way to scrub carbon
+dioxide out of the air.
+Short-run ships or those that need to accelerate
+fast like a warship probably wouldn’t bother.
+For everyone else, it offers at least a supplement
+of fresh food and something green to look
+at.
+Your crew needs to bring some home along though,
+and will always try to, within the limitations
+of the ship and mission.
+A ship that needs to be able to accelerate
+very fast and suddenly might have problems
+keeping a garden or hydroponics bay going
+so it doesn’t get smashed around by the
+sudden jerks or effective high-gravity, but
+I suspect that would simply results in lots
+of inventions to make it practical rather
+than abstaining from having them.
+When it comes to living quarters, ‘as close
+to home as possible’ will always apply,
+and where it can’t we either do our best,
+go without, or modify ourselves for it to
+not matter.
+That could be a minor thing like everyone
+wearing sunglasses and sunscreen because the
+ship or work environment in space was heavily
+flooded with UV light, or more likely the
+reverse, having sunrooms you could sit in
+that let you soak up the rays while the ship
+tended to be otherwise dim.
+Alternatively it could be big stuff like modifying
+a human to not need gravity, or handle gravity
+and acceleration better, or even uploading
+minds into computers or cyborgs to handle
+extreme conditions like acceleration or radiation.
+Ships that spend a lot of time cruising or
+only undergo weak long accelerations like
+an ion drive , rather than fast burns like
+chemical rockets, are generally going to be
+able to have a much more regular layout of
+things like dining and food preparation and
+bathrooms and gardens.
+Alternatively, ships that do have to be ready
+for rapid burns need to have very specialized
+and specific places for eating, drinking,
+disposing of waste, and even sleeping.
+You might need to strap in.
+If the ship needs to be able to rapidly accelerate
+on short notice, you need padded walls or
+airbags in them, because a sudden 5-g burn
+might slam someone into the ceiling or wall
+of a corridor hard enough to shatter their
+bones.
+You might go the other way though and include
+padded suits instead, or pad objects that
+might not be secured.
+Pet collars on such a maneuverable spaceship,
+and I’m sure most with crews would have
+pets too, would likely feature air bags or
+balloons that could act as impromptu life
+support bubbles.
+Amusingly a coffee cup might have an accelerometer
+in it that triggered a lid and blew out a
+balloon, many tools might too.
+We often see boarding parties in science fiction
+fighting through corridors, but less so debris
+bouncing around or the combatants trying to
+blast or squirm through corridors that have
+blown out airbags down their length.
+On any such ship though, every bit of equipment
+is going to be secured when not in use and
+likely attached to tethers even when in use.
+A hammer or screwdriver kicked down a corridor
+by a rapid burn is a lethal object.
+Such ships wouldn’t have large rotating
+sections much either.
+We often picture stations or ships that provide
+gravity by rotation as being the whole thing
+rotating, but as we’ve noted in other episodes,
+usually the rotating section would be inside
+a larger superstructure, and on a ship, except
+a classic slowboat generation ark ship, that
+rotating drum is likely to be only a small
+part.
+They are a place for sleeping and relaxation
+or stationary work, like offices, kitchens,
+or workshops.
+A ship doesn’t have to have only one drum
+though, it can have several of various sizes,
+even nested inside each other and providing
+different levels of gravity.
+Your issue there is that the smaller in diameter
+a drum is, the more times per minute it needs
+to rotate to produce the same gravity.
+Evidence suggests 2 RPM is beneath our threshold
+to feel nauseous but more RPMs are probably
+easy to acclimate to.
+That limits how small a drum can be, though
+it can be smaller if you don’t need full
+gravity and odds are some small workshop in
+a distant corner of a ship only needs enough
+gravity so stuff falls and things feel up
+and down, moon gravity might be enough.
+Propulsion is important for how a ship will
+be laid out inside, but of course it’s a
+big deal for overall ship configuration too.
+Indeed in the case of a ship attempting to
+achieve high delta-v, meaning a high cruise
+velocity, the so-called propulsion bus may
+have to represent the bulk of total mass:
+the “payload”, where you’d have crew
+quarters, cargo and life support, would look
+relatively small even if it’s in the thousands
+of tons, and it would be dwarfed by the engines,
+waste heat removal systems / radiators, and
+the fuel tanks, which may be the largest part
+of the ship, to obtain a high mass ratio.
+Let’s talk a little more about streamlining
+the outside of ships though.
+For the most part, as I mentioned earlier,
+ships don’t need be streamlined other than
+to cut down on overall mass and cross section,
+and might feature a lot of retractable equipment
+in exterior bays so you could store them under
+more cover when not in use and make it easier
+to get at them for repairs, be it antennas
+or radiators or sensors or big point-defense
+guns.
+We’ve got some special cases for streamlining
+though.
+Needless to say if you want your ship to be
+able to land on a planet or move into a gas
+giant it needs streamlining.
+Such ships have an excuse for more of the
+jet or plane look, as they have to deal with
+lift since they are going through air and
+gravity fields.
+However space is not a true vacuum and at
+high enough speeds even in intergalactic space,
+as close to true vacuum as you can get outside
+a lab, it can act like air giving drag and
+friction, though not lift, or much anyway.
+If you’re flying above a galaxy at ultra-relativistic
+speeds you might get a tiny amount of lift
+you needed to account for.
+This does mean relativistic ships want to
+have a nose on them, so that if stuff hits,
+it deflects away, rather than just impacting
+against a flat wall.
+Of course at such speeds even a grain of sand
+is like a big bomb but it still helps to have
+that nose-cone, and I was apparently rather
+unintentionally ambiguous about that in our
+Interstellar Travel Challenges episode where
+we looked at the issues and options for ships
+moving at a decent percentage of light speed.
+I also mentioned there that you probably would
+never want to build a ship that ever went
+anywhere near light speed, but there are cases
+and setups where that would make sense.
+All the gas and dust lying around will be
+acting as drag, and even a ship with infinite
+fuel, either by some magic clarketech or by
+a pushing laser, will eventually reach a maximum
+speed where the ship drive or pushing laser
+equals out in thrust to the drag of the interstellar
+or intergalactic medium
+Even if you do reach highly relativistic speeds,
+you have a new problem, because even if you
+can clear out every speck of debris in front
+of you, that ambient radiation everywhere
+in the universe becomes a problem.
+A really skinny ship with a magic stardrive
+can potentially get insanely fast, but would
+rely on technology we have not even an inkling
+of yet, and maybe ever.
+A pushing laser can be done though but introduces
+a new problem.
+A great big sail or mirror on the back also
+massively increases your ships cross section.
+The better you can focus that beam the smaller
+that cross section can be, but even if you
+can pull off a long relay of pushing stations
+so the beam is always tight, you still get
+an issue with light red shifting, and blue
+shifting.
+The faster you’re going, the more red-shifted
+the pushing beam will be, and thus the weaker
+it is and the less thrust it offers.
+On the flip side, all the ambient radiation
+you’re plowing through will be more blue
+shifted, and thus provide more thrust against
+you.
+Inside a galaxy this radiation drag is going
+to be way less than from all the gas and dust,
+even keeping in mind that there’s a lot
+more ambient radiation from all those stars.
+Out in the intergalactic void though you still
+have to tackle Cosmic Background Microwave
+Radiation, which is evenly dispersed everywhere.
+Far, far in the distant future this will grow
+ever weaker, as it redshifts as the Universe
+expands, but right now it places a barrier
+at about a gamma of 133, according to calculations
+by Colin McInnes in his book “Solar Sailing”,
+where the red shifted pushing beam and the
+blue-shifted CMB radiation equalize out.
+Gamma by the way is the term for the Lorentz-factor
+in Special Relativity, we’ve discussed that
+more in other episodes but for a quick abridged
+version, this is how much time slows down
+for you relative to the outside universe or
+how much of your total energy is in kinetic
+motion rather than mass energy.
+A gamma of 133 would mean 133 seconds would
+pass on other people’s clocks for every
+second you experienced, or basically a bit
+over two minutes for each of your seconds.
+It also means you’d be moving at 99.9972%
+of light speed.
+In other words, if you were making the trip
+to the Andromeda Galaxy at this speed, 2.5
+million light years away, you would personally
+experience only 19,000 years on the voyage.
+At that speed incidentally the light from
+any signal sent when you left would only arrive
+about a century before you on your 2.5 million
+year journey.
+I doubt you could ever get to that speed,
+but it does mean that even if you do, your
+intergalactic crews still either need radical
+life extension or very-multi-generation-ships
+for the trips.
+Even frozen crews, as we mentioned in Sleeper
+Ships, need special measures to be taken to
+avoid being killed by buildup of radiation
+damage from the tiny amounts given off by
+the radioactive potassium isotopes in your
+bones and other isotopes in your body.
+Such ships can start slowing by just cutting
+off their pushing laser.
+Slowing down cost fuel and energy, so you
+want to get all the freebies you can, and
+at these speeds you’d start by slowing using
+ambient blue-shifted energy, then cosmic gas
+and dust, then hopefully by vanguard probes
+hitting stars ahead of you and building pushing
+lasers to slow you, using the technique we
+discussed in Exodus Fleet.
+Magnetic sails can also help you with deceleration,
+their effectiveness increases with initial
+speed, and even today’s proposed designs
+could allow a braking rate of several milligees,
+though it may be less in intergalactic space
+due to its lesser density.
+The faster you’re going though, the more
+each mote of dust or photon you collide with
+reduces your speed, and here we see yet again
+how much ship design has to vary with things
+specific to purpose rather than technology
+available let alone any constant rules of
+ship design that apply across all levels of
+mission purpose, technology, and aesthetics.
+I’ll also note though before we close out
+that what we think of as a cool looking spaceship,
+or machine, often is altered by our exposure
+to it.
+When you get around to a rocket or a jet or
+a sportscar don’t look that particularly
+awesome until you know what they can do, and
+your mind tends to start altering what you
+think is cool to look at.
+Your default spaceship is likely to look a
+lot more boring and plain than what we see
+in scifi, but our descendants in the future
+might think those designs look pretty cool.
+I’d like to have spent some time looking
+at a lot of the classic scifi spaceships we
+see and talking about what their flaws and
+window dressing was, but we should wrap up
+here for the sake of brevity and I’ll just
+give a quick shout out to Spacedock as a fun
+channel to look into the pros and cons of
+all those schematics of spaceships from our
+favorite shows and films.
+Science and technology and purpose ultimately
+take center stage on design, and if you want
+to contemplate how a spaceship might be designed
+properly, it helps to have that science background.
+I’d also say though, and it's an approach
+we favor here on SFIA, that we already know
+it’s beneficial to have a science background
+and the important part is learning and practicing
+with that knowledge on fun topics.
+That’s something our friends at Brilliant
+excel at.
+Brilliant is a problem solving website and
+app with a hands-on approach, and not only
+do they have over 50 courses to help you learn
+new science and math, but they also have daily
+challenges that can reinforce and strengthen
+material in your head.
+They make it fun and interactive though, because
+we not only find it easier to set aside time
+to learn when it’s fun, but we learn better
+that way too.
+They also appreciate that we often have to
+squeeze our learning in when we have time,
+so they have a great mobile app that lets
+you access their courses on the go and use
+them even when your internet connection is
+spotty.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+We were looking at spaceship design today
+and how that might get us out in the solar
+system and eventually the galaxy.
+Next week we’ll be exploring the possibility
+that we might not ever get out there, either
+because we can’t design the ships or we
+kill ourselves off first or some other worrisome
+notions as we return to our Fermi Paradox
+Great Filters series to look at Late Filters,
+things that might prevent civilizations as
+advanced as ours already from going the full
+distance to be galactic empires.
+The week after that, we’ll have our poll-winning
+topic, “Gods & Monsters: Space as Lovecraft
+envisioned it”, which beat out it’s 4
+competitors, and thank you to the over 16,000
+folks who voted in that poll.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to support future episodes,
+visit our website, IsaacArthur.net, to donate
+to the channel or check out some of the awesome
+SFIA merchandise there.
+Until next time, thanks for watching, and
+have a Great Week!

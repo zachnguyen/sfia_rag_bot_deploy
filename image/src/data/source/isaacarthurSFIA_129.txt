@@ -1,0 +1,855 @@
+Many millennia from now we may have journeyed
+out to colonize billions and billions of planets
+in our galaxy, but every journey has to start
+somewhere.
+Today we will look at how near-term space
+colonization and development is shaping-up
+and what the current hurdles to it are.
+I think that to have a realistic view, we
+need to see those hurdles for what they are
+and also see space for what it is.
+Those of us in the pro-space camp are sometimes
+prone to seeing space in the near-term with
+rose-colored glasses because we know how awesome
+space in the long term can be...
+Worlds without end.
+And we’ll cover many of those worlds later,
+after we cover some of the current hurdles
+to space, and as we look at colonization in
+Orbit, on the Moon, Mars, The Asteroid Belt,
+Venus, and Jupiter.
+Some topics are too big for the episode, so
+next week we will look at Living in Space,
+to ask both what the hurdles are to living
+in space and what it might be like.
+Also we’ll be doing a poll at the end of
+today’s episode on our Youtube Community
+Page, to see which topic from today we’d
+most prefer to see get expanded into its own
+episode.
+The one undeniable thing about space is that
+it is big, and there’s always more to discuss.
+But in order to see a realistic path forward
+we need to acknowledge some of the things
+space isn’t, or at least isn’t for many
+generations.
+For instance, we often say we shouldn’t
+keep all of our eggs in one basket, and need
+to put some eggs into some other baskets,
+that is; get humanity out to other worlds
+so we don’t get wiped out, but while true
+that it’s not really that much of a safeguard.
+If humanity wrecks Earth, there’s no new
+planet to flee to.
+Even a previously M-class but now bombed-out
+and nuked wreck of a planet is always going
+to be easier to fix than it would be to terraform
+some other world.
+Some little outpost of a hundred people on
+the Moon isn’t going to save humanity if
+our atmosphere gets ruined by pollution or
+a supernova or gamma ray burst, and dying
+stars as a large and proximate danger are
+an overhyped threat anyway.
+If we make some killer AI, it’s just as
+capable of chasing down our colonies and just
+as likely to be formed on one, where the colonists
+lack the resources to control it as well,
+then come home here for a visit.
+Indeed, realistically, our colonies and distant
+mutant children or cousins raised on alien
+planets far from Earth are a lot more likely
+to be threats to us than some natural catastrophe.
+More planets and more people mean more minds
+working to solve problems and more redundancy
+of civilization in general but when settling
+new worlds, it’s not an across-the-board
+miracle solution either.
+In the long term it makes sense, on million
+year timelines you do have to worry about
+dangerous dying stars, or stellar remnants
+crossing our path, or dinosaur-killer-scale
+asteroids, but no threat of doom either near
+or on the horizon, and of our own making is
+ever truly eliminated by us being spacefaring.
+Where Humanity is concerned, we are our own
+biggest near-term threat and we export ourselves,
+and our troublemaking, Pandora’s Box-opening
+ways to any colony we form.
+If we can’t make ourselves work over millions
+of years, or even just centuries, adding more
+planets to the mix isn’t likely to be that
+big a gamechanger to our survivability.
+And even for those rare astronomical threats,
+having more planets is merely beneficial,
+not necessary.
+We probably do not need a huge space presence
+of hundreds of settlements to protect Earth
+from an incoming asteroid.
+You need a very impressive radar grid and
+tracking system, and some delivery system
+for the nuke, laser, or thrust module you
+would use to blow that asteroid up or redirect
+it.
+It is statistically improbable an asteroid
+of any dangerous size, let alone an extinction-scale
+one, would hit us in the next century, and
+odds are such a detection and deflection platform
+would be a lot better and cheaper by then.
+However, the big difference is that in a future
+where we have lots of space development, that
+asteroid isn’t a potential cataclysm costing
+billions a year to monitor for and defend
+against, instead, it’s a jackpot for space
+developers.
+Free raw materials approaching Earth orbit
+to be used to fuel more construction and development
+there.
+This is generally going to be true of a lot
+of potential reasons for developing space,
+it’s very handy to have but expensive to
+get, and not necessarily worth the initial
+investment.
+For a bit of context, you don’t tell early
+pioneers in the US to build a freeway along
+the Oregon Trail.
+Big long continent-spanning multi-lane paved
+roads like Route 90 or 20 came later, as did
+the railroads.
+Built too soon and you would devastate the
+development effort with the high cost and
+bad reputation of being wasteful of investor
+funds or public money.
+As well as tying later funds up in marginal
+projects or those deemed too big to fail.
+One of our biggest problems with getting to
+space is the cost per flight, or per pound
+or kilogram gotten into orbit, and while that’s
+come down a lot in this last decade it is
+still high.
+It takes a lot of fuel to get to orbit, but
+ironically, as huge and costly as that is,
+it is only a small portion of the cost.
+Most of it is in the cost of building the
+rocket that fuel goes into, which historically,
+has often been single-use, and even reusable
+ones tend to need costly overhaul and maintenance,
+far in excess of the fuel cost per trip, and
+have made far fewer trips between repair than
+a car or airplane do.
+If you built a Boeing 747 for a single flight
+and then scrapped it after every flight and
+built a new 747 for the next flight, flying
+would be way too expensive.
+The same is true with rockets, historically
+we threw away the rocket after every flight
+because it was considered too bulky and complex
+to attempt a recovery.
+Even with the Space Shuttle, it was so expensive
+to get the recoverable parts back into working
+order after every flight, we couldn't save
+anything by refurbishing parts of the Space
+Shuttle and other parts like that big external
+tank just burned up in the atmosphere.
+Thankfully we seem to be getting close on
+the fully reusable rocket.
+For a long time this was considered a pipe
+dream.
+The mighty Saturn V for example managed to
+get something like 2.5% of its starting mass
+into LEO and went from a huge, 10m-wide flying
+skyscraper down to a cramped, stripped-to-the-bone
+2 person pod in order to briefly land two
+people on the Moon, from which they had to
+quickly hurry off before their non-renewable
+supplies ran out.
+After the Saturn V rocket was scrapped, for
+a long time we moved on to even less efficient
+rockets, something Elon Musk in particular
+lamented about in his heyday and pointed to
+a big reason why he helped form SpaceX.
+They have done a great job improving reusability
+and the road forward to cheaper and more reusable
+rockets is definitely an uphill and bumpy
+one, but it does seem transversable, and who
+knows, perhaps in the future we will design
+and perfect a fully 3d-printed reusable rocket
+with no assembly required.
+We’re discussing capabilities for getting
+to space, and having the energy, resources,
+and funding are vital to that but there’s
+also the need for political & bureaucratic
+concerns.
+This isn’t an easy handwave either.
+For instance, we were just talking about rocket
+costs and a lot of that is regulatory burdens.
+Call it legitimate safety measures or bureaucratic
+red tape, and that can be pretty debatable
+and subjective depending on the specific rule
+and oversight, but it adds cost and time to
+everything and isn’t easily brushed aside,
+nor do we necessarily want to brush it aside.
+There’s no clear bad guy or enemy or political
+faction to point at and blame for it either,
+or funding for space in general.
+By and large space is very popular politically,
+and with the populace in general, even if
+individual programs might be more mixed.
+I don’t think there’s any major faction
+of any major government that wouldn’t love
+to have a moon base if they could be offered
+one with a reasonable price tag and a reasonable
+certainty of it happening for that cost and
+timeline.
+Problem is, while I love NASA, their track
+record of keeping to budgets and timelines
+is, well, not one to brag about even by government
+standards.
+And speaking from anecdotal observation, they
+don’t seem to be good at pitching space
+development projects as attractive in the
+same way they tend to be good at pitching
+telescopes.
+It does beg the question if NASA is really
+the optimal institution for Space Development,
+and this is something a lot of folks at NASA
+are dubious about too, from anecdotal experience.
+Space is huge, it’s much bigger than Earth
+let alone any nation on Earth and yet most
+nations use a large spectrum of departments
+or ministries to operate their country.
+We already see this happening with the American
+Space Force, the recognition that there is
+a need to approach space militarily and that
+NASA neither wants nor needs that role, and
+no existing branch of the military was ideally
+suited for it and thus it had to be created.
+Incidentally this doesn’t imply any bad
+actors or someone to blame.
+When it comes to NASA, it isn’t just the
+astronauts who have the right stuff.
+What happens is focus shifts back to the main
+goal of the body though.
+Put the Army in charge of the space program
+and we’d tend to favor programs that gave
+us better space-based ground surveillance
+satellites, give the air force or navy funds
+to develop a spaceplane and they are going
+to subconsciously move those funds toward
+hypersonic fighters or bomber craft, as opposed
+to space defense paradigms.
+It’s institutional.
+And any of them are going to prefer a focus
+toward things like anti-satellite programs
+or asteroid defense; over making rocket fuel
+or money in general.
+Give NASA ten billion dollars to make a moon
+base and they’re going to set up a telescope
+there, which honestly has very little to do
+with profit and industry, unless you make
+and sell telescopes.
+Private companies involved in this don't necessarily
+fix the problem either.
+The ones with huge resources able to handle
+space development are generally so big they
+have the same sort of risk-averse behaviors
+government departments and governments in
+general have.
+That does have advantages, I don’t think
+most of us truly want our main sources of
+law, infrastructure, and industry to be prone
+to erratic and risky behavior, and they tend
+to have a known mission and stick to it with
+bloody-minded stubbornness.
+And you probably need something like that
+when tackling mega-projects like building
+a highway system or administering many types
+of policies to millions day in and day out
+for decades.
+So, one can make the case that what you need
+is the equivalent body of the department of
+commerce or infrastructure or transportation,
+but for space.
+And eventually an agency for every space version
+of our groundside departments and ministries
+and bureaus, but not yet; nobody wants 50
+different space-centric agencies right now,
+and instead you just do what normally organically
+happens, make a blanket group that occasionally
+undergoes mitosis or spits out a sub-department
+that needs to be its own thing, like the Army
+did for the Army Air Corp back in the day
+to make the Air Force and later happened with
+the Space Force.
+We’ll just call it the Space Development
+Agency for the moment but figure on this idea
+getting more and more life in the next decade
+or so then ending up as a reality in the decade
+after that.
+If we, meaning the US, don’t have one by
+2050 I’d be shocked, unless it was specifically
+an international or multi-national group,
+which has its own advantages and pitfalls
+of course.
+Note that I’m only talking about an agency
+with some real oomph, not a feel-good shell
+with no real resources, authority or attraction
+to talent.
+Short on the heels of that you will need to
+contemplate how we actually govern space settlements,
+and that doesn’t necessarily translate to
+new countries.
+The idea of some colony of a thousand Martians
+under a dome being a sovereign nation is popular
+in sci-fi but probably would not be the norm
+for successful colonies.
+Interstellar colonies need to be independent
+from Day 1, but that’s further ahead.
+Settlements in this solar system have very
+little signal lag.
+Old-school, messages traveled with people,
+so your colony several weeks aways by foot,
+hoof, or ship really wasn’t in much contact
+and often didn’t benefit from the relationship
+or didn’t feel they did.
+That dynamic is likely to be different in
+a digital age.
+A colony on even distant Pluto, or in the
+Kuiper Belt, is only 4-6 hours of signal time
+away, and prior to the last century, that
+was the lag time for communicating with your
+nearest neighboring towns and we certainly
+had functional and centrally operated nations
+with bigger communication time lags than that
+during those eras.
+That’s email time not phone time, and it
+does mean you need some local executive or
+viceroy with emergency powers, but there’s
+nothing stopping a colony on Pluto, let alone
+Mars or the Asteroid Belt, from simply being
+a state or even a county or township.
+Which would fit in better with the population
+numbers.
+It’s unlikely any universal model would
+apply but while early colonies are likely
+to be under the direct administration of their
+main government, like congress does for DC
+or small territories, it is also likely that
+as they become more numerous or common they
+would be looking to leave that mixed blessing
+behind in favor of being either part of some
+existing state or province or forming up with
+a handful of other colonies to either be a
+new state or province, or a new small nation.
+Just as much as the air they need to make
+so they can breathe, a colony is going to
+need a smooth administrative and bureaucratic
+landscape, citizens and business investors
+will want that, and existing governments can
+potentially provide that – you don’t really
+have the manpower for your own Supreme Court
+or FBI or Treasury.
+We also don’t necessarily want to encourage
+too much independence or isolationism in emerging
+colonies.
+As fond as I am of the American Pioneer era,
+it certainly had its nastier moments and a
+lot of those and parallel examples of history
+come from corrupt viceroys and thuggish local
+robber barons or ranchers who own half of
+everything and think they’re above the law.
+Or some outbreak of Salem Witch Trials or
+tinpot dictators who think they are the law
+and keep busts of Robespierre and Saint-Just
+in their office.
+Or some brutal religious cult whose leader
+seems to need dozens of teenage wives.
+Or a mining town whose workers are essentially
+used as a corporate asset and kept in ignorance
+and debt slavery.
+Homeworld bureaucrats and regulations can
+also make your life beyond difficult even
+without bringing war or embargo into play.
+In that regard it might be more like radiation
+you manage as opposed to the air you breathe,
+but it’s a vital part of a successful space
+colonization and needs to be part of any space
+development plan.
+And I’m just guessing “We want to build
+our own new nation” is not a good opening
+line if you’re looking for government funding.
+And while I think private space enterprises
+have an ever-growing role in space and we’re
+reaching a point where they’ll be the majority
+of it sooner than not, that time isn’t here
+yet and also isn’t the same as total government
+involvement.
+You also need to be contemplating multinational
+situations and problems like who is actually
+entitled to grant you the right to mine an
+asteroid or build a dome on the Moon or build
+some huge power collector or sunshade in orbit
+and visible to the naked eye by everyone down
+here.
+And that seems a good place to transition
+from hurdles we’ll encounter to places we’ll
+go, as what we do in orbit of Earth is likely
+to dominate all our other space ventures for
+a long time.
+Longer than folks might think too, as it’s
+not just going to be the gateway to space,
+once we have some settlements on other worlds,
+but probably the lion’s share of space settlements
+and enterprises until the population in space
+exceeds that on Earth.
+And indeed it is likely to be the largest
+single chunk of the human population off Earth
+for millennia to come.
+That’s not a near term concept and one we
+explored more in our episode CisLunar & Lagrange
+Point Colonization, but in the near term it’s
+where most of your satellites are and virtually
+all your microgravity experiments or manufacturing
+and space hotels.
+You might ask how much space colonization
+can really be supported on space hotels but
+remember that in the US alone, as of 2023,
+there are almost 170,000 hotels and on any
+given day, on average, 9 million people staying
+in them.
+It’s a multi-trillion dollar industry and
+one only likely to grow in a hopefully evermore
+prosperous society in the US and worldwide.
+Just as an example, if we got to the point
+where a trip to space might cost the equivalent
+of 10-20 thousand modern dollars or euros,
+it would be very plausible that around 10%
+of the population would make the trip once
+in their lifetime and worldwide at current
+population and lifetime that would be about
+10 million people a year and 100 billion plus
+of annual revenue.
+That’s hardly a tiny economic sector.
+But we may also see entire manufacturing chains
+move to low orbit.
+There are things you can do with crystal growth
+in microgravity that hold the potential to
+revolutionize computers or other material
+sciences, and that’s a sector where the
+products are already far more costly than
+their weight in gold and thus could be profitable
+even if you had to fly the materials up rather
+than source them from the moon or some asteroid.
+The critical component of orbital space development
+though is being able to get most of your bulk
+fuel and raw materials from some place other
+than Earth.
+That may rapidly change if we get some technology
+like Mass Drivers, Orbital Rings, Space Elevators,
+or Tethered Rings working, see our Upward
+Bound Series for deep dives on each of those.
+If those work out though, it is likely to
+be cheaper to get things to orbit from Earth
+than from the lower gravity well of the Moon
+or an asteroid, all of which are hundreds
+of thousands to hundreds of millions of miles
+away, not hundreds, as Earth is to low orbit.
+Devices like that seem inevitable to me, but
+they’re inevitable the way railroads and
+freeways are, and may not emerge in the next
+century, though I’d love to be wrong about
+that and it changes everything if they become
+easy to build and the investment gets made.
+In the near term, to make space happen it
+would seem we need to find a way to get the
+bulk of our material off the Moon, where a
+lack of air and low gravity make that easier.
+A couple months back we delved into mining
+and refining on the Moon in detail but the
+critical idea is that even if we can’t find
+water buried on the moon in ice or other formats,
+it has tons of metals and tons of oxygen,
+which gets released when making those metals.
+Virtually every rocket fuel we use also uses
+oxygen to burn itself and that’s usually
+the majority of the mass involved.
+So even if you can’t get water or hydrogen
+off the moon, you can instantly get most of
+your rocket’s mass by filling it with the
+oxygen you get from the Moon while turning
+local regolith into the bulk metals or silicon
+that you need for building orbital facilities,
+spaceships, domes, habitats, solar collectors,
+mirrors, or shades.
+That means you can carry molecular hydrogen
+or maybe methane into orbit and use that and
+your moon oxygen for running spaceships around
+orbital space or to other planets.
+We also have a lot of non-rocket methods of
+moving around orbit, from ion drives to electrodynamic
+tethering or various runway-style launch systems
+like orbital rings.
+Down the road you can get ice and hydrogen
+cheaply, if slowly, from the outer system,
+as we discussed in our recent episode on Comet
+Mining.
+So, if you run out of moon ice or it doesn’t
+have any, you can get it from Earth or other
+sources while still enjoying the huge savings
+in oxygen and bulk raw materials from the
+Moon.
+Other substances like Helium-3 might be turn
+out to be useful too, though if you get an
+aneutronic fusion reactor working that uses
+Helium-3, I think you rapidly shift to getting
+it from better sources in the outer system,
+see our episode Colonizing Neptune, and while
+it’s valuable for other uses besides possible
+fusion, I’m not sure there’s be a big
+enough market for it or a big enough supply
+on the moon to make that a good industry,
+but every little bit matters for overall space
+development.
+That overall lunar develpment process probably
+needs to either be nuclear powered or as pilot
+solar projects, as the sun sets on the Moon
+for a couple weeks at a time.
+Longer term, the Moon is likely to be mass
+producing all sorts of mirrors, shades, and
+power collectors for orbital use and can presumably
+use some of those for its own.
+In the meantime, this could be an industrial
+effort of literally millions of people involved
+in mining, refining, processing, manufacturing,
+and shipping all this raw material… and
+they might live on the Moon too.
+Though we need to be mindful that at just
+over a light-second away, the Moon is a great
+candidate for robotics, remote control, telepresence,
+and limited AI.
+So it could be a future of thriving and heavily
+populated settlements on the Moon, or it could
+be a relative handful of people who cycle
+in to repair robots, handle weird and unexpected
+problems, and make sure all is well.
+See our episode Lunar Space Elevators for
+more discussion of getting material off the
+moon once you refine it.
+Mars doesn’t have that robot problem, in
+the remote or telepresence sense.
+Obviously the only thing we have ever sent
+to the Red Planet is robots and the Moon will
+probably hold the unique status of being the
+only body ever walked on by a human before
+some robot visited it.
+We can usefully control operations on Mars
+remotely, but it isn’t easy with the signal-lag,
+so we either need to get better AI – which
+we probably will – or send manned expeditions
+there.
+In the short term, much of what we do with
+Mars will be determined by the contents of
+our Moon and the Red Planet’s own two tiny
+little excuses for moons, Phobos and Deimos.
+If they are found to have ice on them, then
+our first voyage to Mars should be to those
+Moons instead, to set up the fuel refining
+process we have mastered on our own Moon.
+Barring that, we could still get oxygen there,
+using those metal processing methods, and
+Mars itself definitely does have ice so getting
+the hydrogen for our fuel is much easier if
+Phobos and Deimos lack it.
+We can also send fuel from the Moon cheaper
+than from Earth.
+Being able to go to Mars in a big way, complete
+with setting up a radiation-shielded base
+in one of those two moons and deploying some
+communication satellites in orbit of Mars,
+makes settlement of Mars from the outset much
+more plausible.
+This would help circumvent some long period
+between the first manned-mission and actual
+settlement, like with the Moon, and it has
+been over 50 years since we’ve visited Luna.
+However, I am not optimistic about Mars being
+humanity’s future.
+It has the ability to be colonized and terraformed,
+we’ve examined and discussed that in detail
+in other episodes like Colonizing Mars and
+Springtime on Mars.
+Nonetheless it offers few reasons for anyone
+to migrate there.
+Mars is not going to be shipping anything
+of value home to Earth, or the Moon.
+I have difficulty seeing it ever being a net
+positive in trade, which means it would not
+be fast to develop beyond science outposts.
+Given time it would grow, it has no shortage
+of raw materials, but so do many other places
+with even less gravity.
+The classic sci-fi image of Mars as Earth’s
+near-equal and holding a higher status among
+humanity’s space colonies just doesn’t
+seem warranted, anymore than thinking that
+McMurdo station in Antarctica will one day
+rival the great cities or nations of other
+continents.
+Nonetheless, Mars fascinates us and will be
+colonized sooner than not, and I suspect we’ll
+see dedicated tourists travel there on large
+and slow Aldrin Cyclers with a decade or two
+of the space hotel industry in orbit reaching
+1000 or more annual tourists.
+Mars has a lot of attractions to visit, from
+the tallest mountains in all known creation
+to canyons so immense and long they make the
+grand canyon look like a ditch.
+But I can’t see people rushing to make it
+their home or wanting to bring their spouse
+and kids.
+The big advantage Mars has compared to the
+Asteroids or Moons of Jupiter, which we’ll
+get to in a bit, is that you can do domes
+and feel real if iminished gravity and maybe
+turn the red planet blue, green, and white
+one day.
+However, when it comes to places we could
+terraform that way, Venus has the edge.
+We used to think Venus was a paradise world
+till we found out those beautiful clouds on
+it were made of acid and the surface was hotter
+than an oven.
+Venus turned out not to be a place of paradise
+but more like a suburb of Hell, and so it
+fell off the map and gave Mars prominence
+as Earth 2.0 But as we discussed in Winter
+on Venus, cooling and terraforming that planet
+isn’t particularly more time consuming and
+difficult than Mars.
+Indeed, it is probably much easier and offers
+a planet that is far more Earth-like.
+In the meantime, Venus offers lots of science
+options and tourism too, hang gliding the
+blimp outposts of Venus is bound to be attractive
+to many tourists and it’s a shorter and
+faster trip to Venus than Mars.
+You wouldn’t fall to your death if something
+went wrong either, normal breathing air floats
+on Venus and your ‘parachute’ could just
+be your air tank popping into a balloon to
+hover you till some drone came by to bring
+you back.
+Venus is also attractive for Atmospheric Mining,
+particularly of nitrogen, which is rare in
+the inner system off Earth, but it means it
+has an export of clear value, and it also
+has a hyperabundant power supply in the form
+of solar panels, which could easily be made
+into solar blimp balloons which instead float
+high in the atmosphere.
+Jupiter is another place we’re interested
+in for atmospheric mining, and of a different
+variety, but we’ll save that discussion
+for our episode on Atmospheric Mining next
+month, on September 21st, 2023.
+In the meantime our main interest in Jupiter
+is actually in its many moons and associated
+asteroids.
+Radiation near Jupiter is an issue but most
+of our interest in those moons is deep down
+on them, as we think Europa and maybe Callisto
+have subsurface oceans.
+And you only need maybe a meter of dirt or
+ice to shield you comfortably from the radiation
+around Jupiter.
+We don’t need it for sunlight, Jupiter is
+far from the Sun, so the surface matters little.
+But those moons have low gravity but also
+are rich in volatiles and water ice.
+The gravity on each of them is similar to
+our own Moon, time will tell if that’s comfortable
+for humans or needs to be augmented with spin-gravity
+habitats, and the answer to that might determine
+if the moon is Earth’s preeminent colony
+or a giant robotic factory.
+The same is true of the Moons of Jupiter except
+that they are a candidate for native life,
+and we will want to explore them.
+Should we find life there, or on Mars or anywhere
+else in the solar system, the dynamics for
+settlement shift a lot.
+Lots of science to be done there, and also
+lots of concerns about damaging that ecosystem.
+To me, the first established trade line to
+the Moons of Jupiter and the first settlement
+on those has always represented the stepping
+stone where we’ve gone from dreaming of
+space development to truly doing it.
+Space isn’t just pilot programs, research,
+and distant future dreams, it has become a
+reality at this point, even if it’s still
+very early days.
+The same applies to ventures to Saturn or
+its moon Titan, a critical threshold has definitely
+been reached by this stage.
+Indeed you could argue that threshold has
+been reached by the time you get to the asteroid
+belt, but that can be confusing with our penultimate
+topic for the day, asteroids, as we often
+talk about them being vital to early space
+development, more so than Mars or Venus and
+maybe even the Moon, and while the Belt has
+lots of them, there are thousands that qualify
+as near Earth Asteroids and which represent
+the best options for early asteroid usage.
+They are easier to reach for probes and mining
+efforts.
+Many are small enough they could be moved
+and turned into space habitats in high-orbit
+of Earth or turned into Aldrin Cyclers to
+the belt or other planets, allowing cheap
+and radiation-proof slow boats to those places.
+Many could be outfitted with solar kilns and
+simple electromagnetic mass drivers or space
+guns to fire ingots of metal into Earth orbit
+for construction and use that momentum and
+oxygen byproduct to push themselves into a
+stable position at a Lagrange point or as
+an Aldrin Cycler.
+Indeed if we needed to, we could potentially
+shove one to the Earth-Sun L1 Lagrange Point
+and detonate it to create a thin cloud blocking
+some of the light hitting Earth for a time,
+as a quick and dirty alternative to putting
+solar shades there.
+This to me represents the final big kickstarter
+for real space development, as these sorts
+of asteroids are, in a way, much easier to
+terraform than planets.
+Indeed the term terraforming was coined in
+the sci-fi short story Collision Orbit by
+Jack Williamson in 1942 in reference to an
+asteroid someone was making livable with artificial
+gravity.
+We don’t have sci-fi style artificial gravity
+but we can produce it by spin, and it would
+be very easy to nest a spinning ring or cylinder
+habitat into a crater or mine shaft on an
+asteroid or comet and cover it over with thin
+layer or regolith or ice to protect it from
+collisions or attack.
+Those rotating habitats can have 24-hour days
+and normal earth-like lighting and gravity.
+In my mind that makes them much more attractive
+to settlers, who have a readymade industry
+on that asteroid to fuel the economy – be
+it mining or space farming or being a space
+hotel or aldrin cycler or tending to a local
+collection off solar rafts beaming power home
+or to space ships and facilities.
+Of course, space might get pretty crowded
+during development, especially in orbit of
+Earth, and if you’re doing things like blowing
+up asteroids.
+This sets off the concern of space debris
+and our last topic for today, and one I suspect
+needs its own episode.
+It’s also more tempting since I finally
+took audience advice and watched the anime
+Planetes which has some interesting explorations
+of space debris clearance.
+Space debris has the problem that in orbit
+any little bit of debris can hit something
+else and eject far more debris from that impact,
+which can cause a chain reaction up there
+without air slowing the debris down.
+This may be the pollution issue of the future,
+with vast efforts directed at limiting and
+controlling it, or it may be something like
+the smog that orbital habitats and ships just
+dwell in, with thicker armor, which many would
+need to have anyway to attract settlers.
+No one wants to live in something separated
+by the vacuum by a thin layer of tinfoil,
+give me battleship thick hulls instead.
+There are a lot of options for potentially
+handling space debris and we’ll need to
+come up with some good ones before we can
+truly develop space.
+But this episode has already run long, and
+I thought since we had a few topics that we
+had to discuss briefly but deserved more time,
+we would do a poll of those on our Youtube
+Community Tab Page to vote on which of those
+subtopics we should do a focused episode on.
+Those are: Clearing Space Debris, Near Earth
+Asteroid Development, Space Regulation, and
+Settling Mars: Phobos and Deimos.
+I think all of those might turn out to be
+very important to near term space colonization,
+but you can collectively choose which topic
+we’ll discuss next, and in the meantime,
+one nice thing about talking about near term
+space colonization is that the front end of
+that wave is just years away now, not some
+distant idea of scifi.
+Our future is in space, and that future isn’t
+that far off anymore.
+So before we get to our upcoming schedule
+I wanted to give everyone an update on the
+New Horizons petitions that we discussed two
+weeks back in Comet Mining.
+That is to save that spacecraft so it can
+keep properly exploring the Kuiper Belt out
+past Pluto, for the low cost of a few million
+more dollars rather than waiting decades to
+get another billion-dollar probe out there.
+Rumor on the grapevine is that it is having
+the desired effect, so thank you everyone
+who signed that.
+I think we should keep the inertia up, so
+if you haven’t signed that petition already,
+please help us save the New Horizons Spacecraft,
+by signing the petition linked in the episode
+description, so it can keep helping us explore
+New Horizons.
+Once we explore new Horizons it will be time
+to settle them, and so next week we’ll be
+continuing today’s topic with a discussion
+of Living in Space, and the week after that,
+the topic of Interplanetary Infrastructure.
+After that it will be time for Scifi Sunday
+again on September 17th to celebrate SFIA’s
+9th birthday with the Fermi Paradox: Fallen
+Empires.
+Then on the 21st we’ll talk about how we
+can mine atmospheres like those on Venus or
+Titan, or even Gas Giants and Stars.
+We’ll close out the month with our Livestream
+Q&A on Sunday, September 24th, and then on
+the 28th we will have an exploration of what
+traveling the galaxy as an adventurer or lone
+wanderer will be like in Have Space Suit - Will
+Travel.
+If you’re impatient for that next episode,
+you can get caught up on recent episodes,
+like Comet Mining, and get all the details
+on why saving New Horizons matters.
+And don’t forget to vote in our poll today
+to see what topics of Near Term Space Colonization
+we should make episodes about in the future.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content,
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!
+.

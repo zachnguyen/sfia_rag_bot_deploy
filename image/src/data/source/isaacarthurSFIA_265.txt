@@ -1,0 +1,875 @@
+This episode is brought to you by Brilliant. 
+Nothing lasts forever, but to build the truly 
+immense and bright future we often envision,  
+we may need machines that can 
+function for millions of years. 
+So often in our contemplations of the future 
+we look at ships or megastructures that have  
+implied lifetimes of thousands of years or even 
+longer, sometimes much longer, and these sorts  
+of machines that need to last geological lifetimes 
+are very common in science fiction too. So often  
+there’s a bit of handwave as to how in the 
+heck you keep something functioning that long.  
+Indeed even assuming self-repair mechanisms 
+raises issues like machine equivalents of mutation  
+and cancer, or their ideological equivalents 
+too, how do we keep a colony ship on a ten  
+thousand year journey on task and focused 
+on achieving their original mission. While  
+keeping in mind that ten thousand years is longer 
+than all of recorded human history let alone an  
+actual civilization or continuous organization.
+That’s more than a hundred human lifetimes,  
+a hundred centuries, and yet a million years 
+is a hundred times longer than even that.  
+Truth be told it's impressive to keep any machine 
+or organization running, let alone substantively  
+unchanged for a century. If we’re being 
+honest, often even a year is pretty impressive.  
+So you might have a computer that can assess 
+maintenance needs but what’s maintaining it? If  
+you’re curious the longest running computer 
+still in use is FACOM, a big supercomputer  
+built by Fujitsu in 1956 and maintained in 
+working order by the company to this day,  
+and needless to say it isn’t maintaining itself or 
+getting much useful done. 65 years for a computer  
+is a really long time, retirement age in the US, 
+but would be barely sufficient for a computer on  
+a fusion powered starship making a journey to 
+one of the nearest stars, like Alpha Centauri. 
+So what we are going to be doing today is asking 
+how we can engineer such extremely long-lived  
+machines, and we might as well begin by 
+looking at the current record holders. 
+The oldest machine still in constant or regular 
+use is hard to determine since machine is a bit  
+of a hazy concept, but the oldest thing 
+running on electricity I could find is an  
+incandescent light bulb, running since 1901, 
+at a Fire Station in Livermore, California.  
+The oldest engine in use appears to be the 
+Newcomen Memorial Engine, restored in honor  
+of Thomas Newcomen, the gentleman usually credited 
+with the invention of modern, useful steam engines  
+and the engine in question was built by him in the 
+early 1700s, initially for pumping water out of  
+mines but finally ending up as a canal pump about 
+a century later where it saw another century of  
+intermittent service, then sat around for half 
+a century till being upgraded and restored in  
+the mid 1960s as the Newcomen Memorial. Note both 
+that engine and that light bulb have been around  
+essentially since their foundational technology 
+was invented, so older examples are not possible,  
+but both might be around for a long time to come.
+The only other machine with moving parts and gears  
+I could find that exceeds that engine appears to 
+be some church bells on older cathedrals, with the  
+Salisbury Clock of 1386 often getting the title 
+of oldest working clock, though that is disputed,  
+and was neither continuous nor without repair, 
+but nearly six and half centuries is a pretty  
+impressive lifetime. Another popular one is the 
+Antikythera Mechanism, often considered the oldest  
+computer and assumed to be used for astronomical 
+predictions. Though not in continuous use, as it  
+was found in 1901 in a shipwreck off the Greek 
+Island of Antikythera, the same year that the  
+oldest working lightbulb got turned on, and 
+believed to be from sometime in the first or  
+second century BC. At over two thousand years old, 
+it’s both a reminder how long things can survive  
+even with no attempt to preserve them nor 
+to design them to be long-lasting, and of  
+course reminds us how much effort it would take to 
+build a machine that could last a million years. 
+Now as I already mentioned machine is a hazy 
+term and even something like a self-replicating  
+organism or an organization of humans 
+devoted to operating and repairing a machine  
+can be contemplated as machines. So too, I would 
+not be surprised if there was some old canal lock  
+or waterwheel that was still going 
+from the hazy dawn of civilization,  
+or some old roman road, and one can make 
+an argument that a lot of stone constructs,  
+like Stonehenge or megaliths and pyramids, are 
+still doing their job and qualify as machines.  
+If one happened to be instructions on how to 
+maintain a device, like a big stone tablet carved  
+with the schematics and purpose for something 
+more intricate, then that might qualify too. 
+It is often noted that old objects were built 
+to last, often in context of modern stuff being  
+cheap junk, and also often citing those old 
+stone age relics as proof of the comment.  
+First, tons of stuff made in every period of 
+humanity is short-lived or long-lived but the  
+longer back you are looking, the fewer of the 
+available examples are going to be short-lived.  
+We made crappy cheap furniture in the past too, 
+but you won’t find a lot of 100 year old examples  
+of unsteady furniture because it broke already. 
+Second, while planned obsolescence does occur,  
+a lot of time someone engineering and building 
+something asks if there’s any good reason to build  
+it to last long, and many devices are expecting 
+to be upgraded anyway – You don’t need a CD player  
+or tape deck designed to last a century – so we 
+don’t bother spending money on stronger materials  
+or extra durability testing. And a carpet meant 
+to last 50 years sounds nice but do you really  
+want to pay twice as much for the pleasure of 
+still having a shag rug in your house from 1970? 
+If you know in five years your gadget will 
+be redundant you have little incentive to  
+engineer it to have a longer life, especially 
+as you would like folks to buy new ones and also  
+really don’t want to be maintaining an expensive 
+tech support department trying to solve puzzles  
+on an increasingly old and erratic version of 
+the device in favor of telling folks to throw  
+them in the trash and buy a new one. Which sounds 
+irritating from a consumer side of things but so  
+does finding out your old flip phone was made 
+twice as heavy and four times as expensive as  
+it needed to be so that you could still use 
+it in 2122. Same often applies to furniture,  
+we have bigger houses than back in the 
+day and move more, so more furniture,  
+more moving, and sturdy furniture is heavy 
+and expensive and fashion changes a lot.  
+The 400 pound lime green sofa grandma bought may 
+still be structurally sound, even all these years,  
+but it just doesn’t match your décor. And honestly 
+most folks like switching up a house or at least  
+a room every so often, remodel or redecorated.
+And I’m emphasizing this point because this has  
+always been true. There is always a cost to making 
+something more durable against time and wear and  
+tear, and sometimes it just costs more in terms 
+of effort, other times it breaks the usefulness  
+of the item. Our ancestors didn’t have steel for 
+their mammoth hunting spears, and a stone shaft  
+might have made them last longer than a wooden 
+one, while sitting around waiting for use and not  
+rotting away, but it would have been ultra-heavy 
+and brittle, thus not very useful for its job.  
+Our ancestors built monuments out of stone 
+because they could, and they used huge slabs  
+because they didn’t have the architectural 
+and engineering skills to use lighter ones. 
+By and large our ancestors were 
+probably more short-sighted than us,  
+they had more immediate crises 
+and generally shorter lives,  
+but it didn’t stop them from taking on 
+multi-generational building projects.  
+In some way it probably encouraged it because they 
+didn’t know all the ways stuff could wear down and  
+have all sorts of actuarial tables and analysis 
+of opportunity cost encouraging them to ask if  
+the project was a good investment or if a given 
+feature or component should be done more cheaply.  
+Either way, they built plenty of stuff 
+that was short term too but we only see  
+the stuff that was long term and a lot of time 
+because it was basically emulating geology. 
+However, while stone is a potential option for 
+long lasting machinery, a stone monolith doesn’t  
+really last ten thousand years, rather the big 
+chunk of stone it was made out of is already  
+millions of years old when you carved it up, and 
+now those exterior features will start weathering  
+down, and getting eroded by tourists and by 
+folks who dislike the monument and deface it.  
+Stone is also an example of self-selecting 
+examples, there is plenty of stone that  
+doesn’t handle time and weathering and erosion 
+well. It's just that over many billions of years  
+a lot of different types of stone get made and 
+the more durable ones tend to become more common.  
+Much like radioactive isotopes, it's not that the 
+isotopes of some element with shorter half-lives  
+form less often, it's that they decay away much 
+quicker, so that in nature, on an old planet like  
+ours, almost all of a naturally occurring element 
+is those stable or long half-life versions. 
+So is this what we’re building machines out 
+of? Stone and radioisotopes with longer lives? 
+Possibly, it's not a bad option. Stone is 
+durable, and generally against radiation too,  
+and cheap. Radioisotopes are weaker as 
+power sources the longer lived they are,  
+but there’s quite a few with half-lives in 
+the million year range, and they generally  
+are over a million times more energy dense than 
+chemical fuels or batteries. These can be used  
+to passively power RTGS, radioisotope thermal 
+generators, which are a type of nuclear battery.  
+Their decay causes some heat to be produced, then 
+generates electricity in a thermocouple and RTGs  
+are amazingly simple and durable devices. Indeed 
+it's hard to imagine a machine much more simple  
+and durable than a thermocouple or a thermopile, 
+a stack of thermocouples, as a thermocouple is  
+just two bits of conductive metal – but not the 
+same type of metal, like copper and nickel, stuck  
+touching each other. That makes RTGs the de facto 
+lead candidate for powering ultra-durable machines  
+since the other part of that power supply 
+beside the durable and simple thermocouples  
+is the radioisotope, and those decay following a 
+statistical pattern that is so ultra-reliable – in  
+quantity anyway – that we long used it for 
+our most accurate clocks, atomic clocks, those  
+wouldn’t lose a second over an entire century.
+So RTGs for power but what radioisotope could  
+run a million year machine? Uranium-234, half-life 
+of a quarter of a million years, probably wouldn’t  
+quite do the job since only a 16th of it would be 
+left after a million years to power the device,  
+but Plutonium-242, half-life 375,000 years, 
+Aluminum-26, half-life 717,000 years,  
+Iron-60, 2.6 million years, and Neptunium-237 at 
+2.1 million years, are all good candidates. Indeed  
+Neptunium-237 is the only isotope of Neptunium 
+produced in our nuclear fuel cycle of uranium  
+in any quantity and thus is a decent option. Many 
+isotopes would be more ideal for a given timeline,  
+there are around a hundred radioisotopes with 
+lives in excess of a thousand years, some with  
+lifespans longer than our Universe, which might do 
+the job but some are far harder to get in quantity  
+than others. See our episode from last week on 
+Nuclear Transmutation for more discussion of that. 
+Now we often imagine very long-lived 
+machines as having two sorts of lives,  
+one is the perpetual use variety, it does its main 
+job all the time like the artificial lighting that  
+a space habitat would need, and the other is 
+the hibernator. It runs on low most of the time,  
+or even sleeps and wakes to check intermittently, 
+and then flips on to main power if the tasks it's  
+been waiting for is ready to go. An example 
+might be a probe you landed on the airless  
+moon of some inhabited planet with animal 
+life to watch for signs of technological  
+life emerging millions of years later.
+For something like this, a mix of radioisotopes  
+and a fission reactor might work well. Our main 
+fuel for existing nuclear reactors is uranium-235  
+with a half-life of 700 million years, so your 
+machine can keep a supply of it ready for an  
+actual fission reactor to turn on and pour out the 
+megawatts for millions of years without problem,  
+indeed you could use it as your radioisotope 
+thermal generator fuel supply for a billion-year  
+probe. For something in the million year 
+range, you might run an RTG on something  
+that was a fission or breeder reactor byproduct 
+like Plutonium-239, half-life 24,000 years,  
+and turn your big fission reactor on every 20 
+millennia or so to refresh your supply and do your  
+main maintenance cycle. That cycle might include 
+sending out resource harvesting probes too, or  
+checking for and implementing upgrades and patches 
+from home, or siblings in your network breaking  
+down where you might need to copy yourself and 
+send a probe to replace the one a few light years  
+away on another world that failed. Redundancy, 
+durability, and replacement are the keys here. 
+Incidentally one might wonder why you would land a 
+probe on the Moon for monitoring Earth, or another  
+alien world and its moon, and also why not use 
+solar power given the reliability of sunlight.  
+For location it’s a fairly popular one in 
+science fiction, presumably because you could  
+not get there to find it, but that’s a fairly 20th 
+century specific bit of thinking. A long duration  
+satellite would be closer, a mountain or polar 
+base even closer than that, it's just that by the  
+time of modern scifi we had explored our ice caps 
+and mountain peaks and found every remote island,  
+so they didn’t seem good picks anymore. Early 
+20th century scifi did often have ancient aliens  
+on remote islands, deep under the sea, or in 
+antarctica, like the classic Cthulhu mythos tale  
+“At the Mountains of Madness” by HP Lovecraft, 
+set during an exploration of Antarctica.  
+A million year machine to monitor a species 
+for emerging tech probably won’t cite its  
+location in a place we couldn’t find to 
+the 20th century rather than 19th, or 21st,  
+like our Moon, but remote has other advantages.
+The assumption is an airless and waterless world  
+like the Moon is better for avoiding rust, 
+corrosion, erosion, getting buried under a  
+glacier or avalanche, and so on. This is decent 
+reasoning but you need to bury most of your probe,  
+because that lack of air isn’t burning up 
+meteorites to protect your gear like our own  
+atmosphere does. That makes Solar power fairly 
+rough to do, and made worse by all that nasty  
+moondust, which is brutal on machinery and would 
+be kicked up by any nearby micro meteor collision,  
+and by ultraviolet light, which is equally 
+brutal on machinery and electronics. There  
+are ways around that, for instance a bunch 
+of radioisotopes is not the only way to make  
+a power supply with a thermocouple, you just need 
+a heat source, and sunlight works for that too. A  
+big pile of rock with thermocouples in it getting 
+heated by sunlight then cooled by its absence is a  
+pretty rugged and durable power generator, albeit 
+not even vaguely efficient in terms of mass or  
+conversion efficiency. But rock and sunlight are 
+both cheap and so are thermocouples. If you need a  
+kilowatt of steady power and the durable version 
+requires a hundred times the volume, it hardly  
+matters on the Moon, which has plenty to spare.
+Down on a planet you have to worry about things  
+besides meteors too, like weather and earthquakes 
+and continental shift not to mention some critter  
+chewing on your machinery or deciding all your 
+conduits make a great place to build a hive.  
+I’m not really sure how aliens would react to 
+finding out that their multi-trillion dollar  
+anthropological probe was now full of honeycombs 
+and some strange amber-colored thick liquid  
+full of sugars but I really could imagine 
+something akin to that happening to one of  
+our own probes on some alien planet someday.
+The top of a mountain is better protected  
+from life, and offers a wider field of view of the 
+planet, but nothing like its entirety. You can see  
+336 kilometers or about 200 miles all around Mount 
+Everest, an area roughly the size of Germany, but  
+that’s not even a thousandth of Earth’s surface 
+area. So this makes a moon sound more appealing  
+but keep in mind, even the Hubble telescope can’t 
+see the Apollo Mission leftovers on the Moon,  
+so you would need a pretty big and 
+visible telescope on the Moon to see  
+Earth in enough detail to even notice something 
+elephant-sized as a distinct and moving blob.  
+So you either need to be considering satellites or 
+doing something ground-based if you actually want  
+to usefully observe the lifeforms, let alone 
+get biological and genetic samples and data. 
+Now satellites are an option but have their 
+own problems lasting long times without being  
+perturbed from orbit, and the closer to a planet 
+the worse that is. I could definitely imagine  
+one with regenerative orbital stabilizers 
+though, rather than a limited fuel supply,  
+we have designs for that already, electrodynamic 
+tethering, light sails, or even emitting a laser  
+beam as thrust. So we can assume an advanced 
+civilization can keep a satellite up,  
+especially in a higher orbit, but it still 
+wouldn’t let you poke around on the planet,  
+just observe from above, and that’s an awful 
+place to send probes from since you have to  
+mess around with atmospheric entry and huge fuel 
+bills, plus there’s no raw materials on hand. 
+So what would that look like? An 
+ultra-long duration orbital probe,  
+to me, is probably one with an unfolding 
+shell, it uses solar thermal power to run  
+itself not photovoltaic panels, and probably 
+uses a thick hide to absorb sunlight for that  
+and only extrudes its thruster, electrodynamic 
+tethers, periscopes, sails, or what have you  
+when in the planetary shadow. It would likely 
+use visible light sensors but also infrared,  
+radio, or a bunch of other sensor options.
+A big thick dark shell for absorbing sunlight  
+makes it fairly stealthy, and you can also set it 
+to crash itself into the atmosphere and detonate  
+mid-drop to dispose of the evidence of its 
+existence if you start seeing signs of technology,  
+after sending home a signal of course, and 
+assuming its either too dumb or too loyal  
+not to object to doing a suicide maneuver as its 
+rewards for a millions years of faithful service. 
+Crashing into an atmosphere isn’t a 
+guaranteed burnup of everything either,  
+it might still leave components scattered all 
+over the place, especially with the ultra-robust  
+engineering standards you would be using for this 
+machinery. Another option would be to instruct the  
+probe to steer its reentry into an active volcanic 
+lava lake such as Mount Erebus. Probably the most  
+realistic option though, would be to just calmly 
+begin raising your orbital velocity until the  
+probe escapes the planet, then fly it into a 
+gas giant or have it leave the solar system.
+Incidentally the idea of an ancient alien probe on 
+the Moon often relied on the notion that it wasn’t  
+observing much, it was just waiting for some 
+clear sign of intelligence, like a radio signal,  
+but as we have discussed in our various Fermi 
+Paradox and Alien Civilization episodes,  
+this is not a good approach to monitoring 
+the galaxy for life or intelligence. Whether  
+it is for malevolent or benevolent ends, 
+there’s much easier ways to look for life,  
+and intelligent life too, than waiting for 
+a radio signal. Hundreds of regular infrared  
+signatures of fires staying controlled 
+rather than roasting the local landscape,  
+which is to say campfires, is one that lets 
+your probe find humanity a million years ago. 
+Now something like a time capsule to 
+help you rebuild your civilization  
+might aim for a technosignature like that, 
+radio signals or others specific to a later era,  
+heightened carbon dioxide or signs of large scale 
+agriculture and so on. The idea being you want  
+to make sure the archive with all the tech in it 
+is only getting opened by folks already advanced  
+enough not to accidentally smash it. I dislike 
+fictional portrayals of low-tech civilizations  
+as stupid and casually destructive like a toddler 
+but it isn’t really hard to imagine an iron or  
+bronze age explorer finding such a radio beacon, 
+seeing the antenna, and casually snapping it off  
+to take closer look, like a twig off a tree. Not 
+a good idea to gamble your civilization-restoring  
+gambit on nobody doing something like that.
+That’s a good reminder that part of building  
+a machine that can last a million years is 
+including animals and human psychology in the mix.  
+Whatever its purpose is, you want to minimize 
+the chance of that being lost or hijacked.  
+There’s a game commonly played by kids 
+called telephone, where one person starts  
+a message and each kid whispers it into their 
+neighbor’s ear till the last kid on the chain  
+gets it and announces it. There’s always some 
+mutation from problems hearing or low attention  
+span but a lot of the mutation is boredom, and 
+thus an amusing message or mutation lasts longer,  
+in what might be considered an amusing parallel 
+to evolution and natural selection, as any silly  
+or attention-grabbing mutation of the message 
+is likely to get repeated with higher veracity.  
+When building machines for the long term, 
+keep it simple, keep it dumb probably helps,  
+but so does keeping it amusing or interesting. So 
+too, when building on these timescales, you need  
+to worry about your care tenders or gatekeepers 
+mutating too, in thought and even form. 
+Now how long you can build a machine obviously 
+depends on your available materials but we really  
+shouldn’t be assuming advanced civilizations just 
+magically have better ones. Nature produces a  
+lot of materials out of ridiculously brutal 
+conditions, planet mantles and star cores,  
+and those materials which are made in such places 
+and are durable are mostly still around. Now  
+in our recent episode on Advanced Materials 
+we went through a list of various materials  
+that were the current best at some given thing – 
+strength, heat resistance, lightness, and so on,  
+and many were new but many were not, many were 
+old champions still reigning. So we shouldn’t  
+just take for granted we’re going to come up 
+with better materials and more importantly,  
+we don’t actually need to for this purpose.
+Don’t get me wrong, some hyper-tough material that  
+could withstand nuclear blasts would be handy for 
+building but by and large the failure modes for  
+these machines wouldn’t be structural collapses 
+anyway. Rather, it's getting the gears clogged  
+up with some mix of lint and goo or a thick layer 
+of dust on the circuits because those need cooling  
+and nobody remembered to account for that in the 
+ultra-long-lived design. Sadly the easiest way to  
+correct problems is to encounter them repeatedly 
+and redesign around them, and that’s rather hard  
+to do for a machine you’re prototyping for a 
+million-year lifespan, especially if it’s the  
+survival vector for your civilization on some 
+interstellar ark ship or technology-preserving  
+museum. A lot of times you just overbuild your 
+device for a long duration by making every  
+component bigger, even your screws and wires, but 
+this doesn’t work too well for micro-circuitry. 
+High-tech sure helps though. As an example, 
+if you’ve got enough power and enough computer  
+you ought to be able to constantly replenish 
+everything via self-replication or 3D printing,  
+and then it’s just a matter of making sure you can 
+actually print all the parts for your 3D printer  
+on your 3D Printer. This isn’t a scifi story 
+though or genie lamp with a rule about not  
+wishing for more wishes. There’s nothing in 
+modern 3D printers that’s weird and hard to make,  
+allowing you to manufacture the parts 
+the 3d printer needs for replacement,  
+and so there is no reason to think your plan 
+would fail because your 3D printer could make  
+everything else you need but more of itself.
+Of course there might be other devices you  
+need that are very hard for that 3D printer 
+to make but there’s no particular reason  
+your survival strategy should be built 
+around a single manufacturing machine,  
+in quantity or type, any more than our 
+current industry and infrastructure do.  
+This is why I often emphasize that we 
+should imagine self-replicating machines  
+as an entire ecology of many different species, 
+akin to the variety of organs and microorganisms  
+inside our own bodies, not a single homogenous 
+universale tiny robot. This pathway probably  
+lets you repair your machines and replace 
+them, then you just need to power them. 
+There’s some pretty cool power supply options too, 
+like a hawking radiation black hole generator,  
+and some 9 million ton micro-black hole should 
+have a lifetime of a million years and a power  
+output of 4 trillion watts, a thousand hoover 
+dams, so makes for quite the power plant for  
+any bunker or buried moon probe or giant 
+deep space archive or factory complex.  
+Or galactic space vessel, for that matter, though 
+it’s a bit heavy and low in power to weight ratio  
+for an interstellar ship and bit too short lived 
+for an intergalactic one. But a black hole engine  
+in that mass and power range would be optimal 
+for a sublight journey from one region of the  
+galaxy to another or even to Magellanic Clouds. 
+Hawking Radiation Drives also get more powerful  
+and lighter in mass as time goes on, so they 
+are great, if your timing is good, at serving  
+as the deceleration method for a colony ship.
+If you’re curious, a billion year black hole  
+masses about 10 times that, 88 million metric 
+tons, and would provide 460 gigawatts of power,  
+which would run a pretty big life support 
+system for an intergalactic colony  
+ship aimed at another supercluster. Black Hole 
+evaporation time goes with the cube of mass,  
+10 times the mass, a thousand times the lifetime, 
+and power goes with the inverse square of mass,  
+10 times the mass, a hundredth the power. 
+It has ten times the mass and energy in it,  
+but since it takes a thousand times longer to leak 
+out, it does so at a hundredth the rate overall,  
+but that rate rises with time as the mass leaks 
+out and causes the evaporation rate to rise. 
+Hawking Radiation Black Holes are amazing 
+power supplies for long range ships too  
+because again, you can build that black 
+hole to your expected mission timeline  
+and then use something like a laser 
+highway to push you up to cruising speed  
+then run your life support on that black hole and 
+use it’s near-death higher power to slow the ship.  
+And if your timing is off, you can feed it a 
+little more matter to slow that end. It would  
+be an interesting conundrum if civilizations 
+using such micro black holes intentionally  
+made them bigger, weaker and longer-lived 
+than the mission required for redundancy  
+or shorter-lived for higher power and power to 
+mass ratio but fed the black hole to sustain it,  
+and presumably it depends on how easily they can 
+feed one, which is counter-intuitively difficult  
+for tiny ones, since they would often be tinier 
+than the atoms you were trying to feed them. 
+See our various Black Hole episodes for more 
+discussion of all that and other ways to power  
+ships or civilizations with black holes. It is 
+also decently likely you could make a very durable  
+power generator around a micro-black hole too. The 
+leading candidate for containing one is a magnetic  
+field, which is easy to make and make durably, 
+and nothing is stopping you from making your  
+housing out of lead and just using the heat of 
+the evaporating black hole to run thermocouples. 
+So the power supply seems solid and normally 
+raw materials for repair won’t be the problem.  
+Truth be told I wouldn’t expect self-replicating 
+machinery or simple micro-repair machinery to  
+be the hard part either. We do not have this 
+yet ourselves but we are actually made of it  
+ourselves, and it's worth remembering that while 
+we started by building our machines big and  
+miniaturizing them, nature started miniature and 
+evolved to be big. Given that we assume this was  
+done by accident and random chance, it presumably 
+is not that hard to replicate. The big issue again  
+is that whole mutation issue, after all those tiny 
+early natural machines eventually mutated into us. 
+To be fair they mostly did not mutate into us. 
+If you count every organism on this planet,  
+virtually all of them are microscopic, and if you 
+count everyone that ever lived this share rises,  
+as they reproduce and die far faster than big 
+organisms, by and large. But things can keep their  
+purpose a long time this way, we often think of 
+humans as the most evolved organism on the planet  
+but that implies purpose – which is antithetical 
+to the concept of Darwinian Evolution. 
+By that, the more reasonable gauge of evolution 
+advancement would be number of generations an  
+organism had since that primordial one and we 
+would be pretty low down on that list while  
+bacteria would be way ahead, potentially 
+more than a trillion generations removed,  
+and viruses can do even better and might be a 
+much better basis for self-replicating machinery.  
+The thing is, while really unstable DNA, or 
+RNA, is not great for survival of the species,  
+low mutation DNA to the point of no mutation 
+isn’t either, thus presumably doesn’t evolve much.  
+DNA is really good at copying itself 
+accurately but is not a good basis for  
+assuming how mutation in machines or data works.
+Most people these days copy and move data all the  
+time but few wonder how it manages to arrive 
+perfectly intact, even when transferring on  
+your phone during a phone call through 
+an area with signal cutting in and out.  
+There’s a number of ways of engaging in data 
+authenticity but probably the easiest and most  
+well known is called Checksum, particularly the 
+longitudinal parity check. Here a piece of data  
+is broken into segments for transmission and any 
+given segment has a unique or near unique number  
+corresponding to how you add up the bits in 
+that segment which the receiver sends back.  
+If the sender gets a number back that 
+doesn’t match what it's supposed to,  
+it says no, here’s the correct one again.
+There’s several other methods, variations  
+on Checksum and others completely different 
+in nature, and they may be used in tandem as  
+each additional layer makes it exponentially 
+less likely to be flawed, by accident anyway. 
+We are already easily able to produce a data 
+verification method that would be less likely than  
+not to mutate a single bit of data in a sample the 
+size of a DNA helix over the course of the entire  
+age of the Universe, and this isn’t really about 
+getting more technologically advanced to further  
+improve it. I would hardly be surprised if a few 
+centuries from now they had vastly better methods  
+but the key point is we already have all the 
+tech and knowledge we need for effectively  
+mutation-free data transmission and storage, even 
+of galactic distances, quantities, and timelines. 
+Nonetheless you still want to use other methods 
+since for one thing, that was assuming random  
+mutation, not sabotage. Imagine you have a 
+replicator Swarm hanging out near an asteroid  
+where the big main manufacturing hub, reactor, 
+and brain was, and those swarms were its probes,  
+defenses, resource gatherers, eyes, and ears, and 
+so on. It probably has several different breeds of  
+machines performing this role, and that probably 
+includes sending out waves of random inspectors  
+to grab some machines and check their equivalent 
+to DNA, and sending out additional purge waves if  
+mutation has arisen. It would seem very unlikely 
+random mutation would ever cause fairly dumb AI  
+probes to mutate up to being geniuses without you 
+noticing with attention and periodic inspection,  
+even over interstellar efforts spanning billions 
+of years. As an intuitive parallel, its unlikely  
+cats, dogs, elephants, or dolphins would evolve 
+an advanced brain and civilization without us  
+noticing and preventing it would be no challenge.
+Instead the real issue is with the thinking brain.  
+And you need one, even if it isn’t some machine 
+mind but rather the humans in the colony fleet  
+or back home directing all this and making 
+the big calls. Now that is a debatable point,  
+and Peter Watts laid out a brilliant line 
+of reasoning in his novel blindsight for why  
+intelligence may be totally unnecessary and even 
+a hindrance for spacefaring species, but I didn’t  
+find it quite compelling enough as a Fermi Paradox 
+solution and the key thing about intelligence is  
+that it’s pretty changing and change-seeking by 
+nature and there’s a fairly strong argument to be  
+made that Perverse Instantiation is inevitable 
+with any artificial intelligence - which would  
+include people too, like your colonist on your 
+ship deciding they no longer want to follow the  
+plan you laid out long before they were born.
+The AI Control Problem, which checks for  
+Malignant Failure and Perverse Instantiation, is 
+basically reasoning that any super intelligent AI  
+will always figure out someway to pervert 
+your orders and directives to its own ends,  
+and again it's not unique to robots, it's just 
+something similar to that habit of little kids  
+to try to lawyer their way out of some parental 
+dictum. You tell it to protect and obey all humans  
+and it weasel words that into deciding humans 
+represent the biggest threats to other humans,  
+so it lobotomizes all of you super-quick before 
+you realize it's trying to and dumps you all in  
+life support tanks. Or skips the lobotomy and just 
+sticks you into a virtual world, Matrix-style. 
+With this in mind Hibernation is a good idea for 
+anything with a real brain. Alastair Reynolds’  
+uses that notion with his civilization-wrecking 
+Inhibitors, a galaxy spanning cloud of tiny  
+machines that form into smarter conglomerations 
+for handling crises – like civilizations trying to  
+colonize the galaxy – and which just keep merging 
+into smarter and bigger units, and reproducing to  
+get smarter as needed, until they can handle 
+the problem. Then they crank back down again,  
+going dumb and waiting till the next crisis be it 
+a decade or a billion years later. I’m not sure  
+I’d trust a machine to lobotomize itself after its 
+job, but that might turn out to be a very easy and  
+reliable thing to program into a mind. We’re too 
+new at AI to speculate beyond comparing it to  
+ourselves and our self-survival instinct.
+I could imagine weird innovations like  
+mind viruses, existential crises triggered 
+by protracted awareness and lack of purpose,  
+mission complete, existential crisis and 
+suicide timer triggered. That’s pretty grim,  
+especially if we’re talking people, for a given 
+value of ‘people’, but they might be volunteers  
+and of course just because it's unethical doesn’t 
+mean it is ineffective or wouldn't be done. 
+Personally I would imagine most civilizations 
+going interstellar are fairly post-human too, so  
+that the people on the journey are quite capable 
+of going into hibernation either by freezing  
+or just dialing themselves down, the cyborg 
+shifting power to maintenance mode as it were. 
+So this part of things should be doable, whether 
+it's an AI or a human or human colony. You aim for  
+hibernation to maintain purpose, in your thing 
+or things doing the thinking and deciding. And  
+you can probably have progressive layers of those 
+woken as needed for various severities and types  
+of problems, including the problem of checking 
+on the ideological purity of its peers. Gives  
+a bit of grim retitling to the ship's counselor 
+or mission psychologist though, as nominal jury  
+and executioner, or programmer and brainwasher.
+It also minimizes, for humans or their equivalent,  
+the whole mission drift issue, because it's not 
+the distant descendants still doing the mission.  
+Something we discussed way back in our Ark of 
+Million Years episode was how you would keep  
+your colonist not only trained in how to run and 
+maintain a ship over thousands of generations, but  
+how you would keep them locked on that mission, 
+colonization of a given star or some other  
+mission like a distant invasion or million year 
+monitoring or quarantining of a primitive planet.  
+A point I raised there was that I 
+wasn’t sure it was ethical to even try.  
+In the classic scifi series, Isaac Asimov’s 
+Foundation, a recurring point is that the Dead  
+Hand of their ancient oracle, Hari Seldon, is 
+guiding everything to an inevitable conclusion.  
+Honestly, even though I love that series, 
+I think that’s something I would reject. 
+Only a fool ignores the lessons of history 
+or wisdom of their ancestors and forefathers,  
+but by that same reasoning, there’s more 
+history passed since then, and I can see  
+any crisis going on currently at least as well as 
+they could, centuries back. Such being the case,  
+the decision making role should belong to the 
+folks on the ground at that place and time,  
+not a controller distant in the past. And the 
+morality seems pretty similar, what right does  
+some long dead or distant person have telling me 
+what to do? Why should I let myself be moved by a  
+long dead hand? If it's because their purpose 
+and reason were highly reasonable, then that  
+reason should be as clear to me now, and only 
+overridden if I could see an even better path,  
+and thus adapt or alter the plan to better.
+And if as we have seen today your most reliable  
+enduring and self-repairing machine is a 
+smart one, or rather a collection of them  
+working in concert and checking on each other, 
+then is not your best million year machine a  
+civilization itself? And if it is, then does the 
+original planner have any more skill or foresight  
+or right to be steering that mission? Anymore 
+than whichever ancestor of ours a million years  
+ago discovered fire? And do they actually need 
+to leave a monolith behind telling us how to  
+make fire and what it can be used for? That which 
+is useful is rarely forgotten and if it isn’t,  
+maybe a vast effort to ensure it 
+is recalled is not a great plan. 
+In the end that may be the most 
+important part of designing a machine  
+able to endure a million years, not if you could 
+build it, but whether you need to, or should.
+So we were discussing Checksum and other methods 
+of maintaining data integrity today and if you’re  
+curious to learn more about such concepts and 
+improve your knowledge of computer science,  
+algorithms, and math in general, there’s a 
+number of amazing courses on Computer Science  
+over on Brilliant. The best way to learn things 
+is with hands on interactions, and Brilliant’s  
+interactive quizzes on Algorithms and Decision 
+making are just a few of their entertaining  
+and educational approaches to helping you learn.
+Coding language can seem opaque and confusing,  
+making folks think they can’t learn computer 
+science, but Brilliant can help you learn  
+how to program without having to dig through 
+the weeds of coding syntax through these fun  
+and interactive challenges. You just shift around 
+these blocks of "pseudocode", and then you can get  
+immediate feedback on your results. It's a good 
+way to understand how computer algorithms work,  
+and then once you have that down, the coding 
+syntax becomes a lot less intimidating. 
+Brilliant is an online interactive 
+STEM-learning platform that helps you gain  
+a deeper understanding of concepts in math, 
+science, and computer science by taking you  
+through the subjects piece by piece in visually 
+stimulating, hands-on ways. To get started  
+for free, visit brilliant.org/IsaacArthur 
+or click on the link in the description,  
+and the first 200 people will get 20% off 
+Brilliant's annual premium subscription. 
+So that will wrap us up for today but not for 
+the week, as this weekend we’ll have our March  
+Scifi Sunday episode to look at the concept 
+of Synthetic Life. And we’ll keep to the scifi  
+theme as we return to our Alien Civilizations 
+series to contemplate the concept of clandestine  
+extraterrestrial operations and Covert Aliens. 
+After that we’ll jump forward to the distant  
+future and look at a time when the Moon has 
+become an enormous Mega City. Then we’ll finish  
+out March with our Livestream Q&A followed 
+by a look at Programmable and Smart Matter. 
+Now if you want alerts when those and other 
+episodes come out, make sure to subscribe to the  
+Channel and hit the notifications bell, and if you 
+enjoyed this episode, please hit the like button,  
+share it with others, and leave a comment below. 
+You can also join in the conversation on any  
+of our social media forums, find our audio-only 
+versions of the show, or donate to support future  
+episodes, and all those options and more are 
+listed in the links in the episode description. 
+Until next time, thanks for 
+watching, and have a great week!

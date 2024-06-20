@@ -1,0 +1,800 @@
+This episode is sponsored by Brilliant.
+As futurists, we love to think about the technologies
+that will enhance the lives of our distant descendants.
+It’s easy to forget, though,
+that there will be some pretty amazing technologies
+we’ll actually live to see!
+While this show tends to spend a lot of its
+time in the far future, today we’ll be looking
+at technologies more on the near-horizon,
+from automated vehicles, to improvements in
+medicine, to space technologies and many more.
+Indeed, many, many more, so you’ll definitely
+want to grab a drink and snack for this one
+as we’ll be here for quite a while.
+To cut down on a few of these topics, we’ve
+discussed a few of these technologies in greater
+length before, so I’ll be putting up thumbnails
+of various related videos as we go.
+There are going to be more than youtube lets
+me add in-video card links for, so we’ll
+add those we can’t include in the video
+to the episode description.
+We’ll also be hitting a lot of other topics
+that probably deserve their own episodes,
+so we’ll run a poll over on our community
+tab for some of those, and see which one most
+of you would like to see us cover in more
+detail.
+Also as we go through these, beyond discussing
+what the tech is, I’ll try to give a guess
+of about how far off it is, and what sort
+of impacts it might have on our civilization.
+It’s worth noting that big shiny awesome
+technologies often don’t have as big an
+impact as something much more subtle, as we
+noted back in the episode Quiet Revolution.
+Stuff like Amazon’s online marketplace or
+Uber’s crowd-source approach to taxi cabs
+isn’t the stuff of science fiction novels,
+but often has far more impact on society than
+a deeper theoretical knowledge of cosmology
+or particle physics does.
+Just to give an example, self-driving cars
+seem pretty neat but it’s really more its
+impact on stuff like freight vehicles that
+would heavily alter our economy.
+Very few folks realize what a large sector
+of our economy freight is, but the job of
+‘truck driver’ is the most common job
+in 29 states of the United States.
+Retail sales is still larger by about a million
+people, but automated self checkouts and online
+shopping are impacting that.
+Both truckers and cashiers are quite likely
+to go the way of the milkman in the next generation.
+The impact that it will have on freight and
+retail is vast, good and bad, as every item
+we buy has to factor in the cost of paying
+a driver to take the goods to the store, and
+either a cashier at that store or a deliveryman
+to bring the merchandise to your home.
+Remove or decrease those and everything gets
+cheaper, and folks can buy more things to
+improve their lives, items which will also
+likely have gotten cheaper.
+But that’s hardly the sole impact, even
+ignoring the massive job displacement.
+Early automated vehicles may well have dedicated
+lanes on large freeways, similar to the carpool
+lane, and indeed automated vehicles are ideal
+for carpooling in modern times, in an Uber-esque
+way, since each person can enter their pickup
+and destination time and location into a service
+and computers can near instantly plot the
+optimum way to have many vehicles pick up
+many more people.
+It will be quite some time before many folks
+would be willing to abandon owning a car personally,
+automated or not, depending on their preferences
+and needs.
+However there would be many folks who decided
+such an automated pickup and transport was
+a better option, and many other folks who
+could rent out their car to services providing
+it when not using it themselves, and far fewer
+families that felt the need for multiple cars.
+It also would indirectly impact residential
+housing.
+That attached multiple-car garage on many
+houses might be less common and we might see
+a lot of existing ones converted to other
+uses, and large driveways may also disappear.
+Garages in turn might find themselves being
+converted into externally accessible delivery
+bins that open on a signal from an authorized
+delivery person or robot.
+There’s a rising problem with folks snatching
+packages off other people’s porches as we
+have more and more deliveries, and secure
+drop-off containers for packages, possibly
+including insulated or refrigerated ones for
+groceries, are things I’d expect to see
+become rather common in dwellings in years
+to come.
+It would be very easy for each house and each
+container to have its dimensions and characteristics
+catalogued so all these new distribution managers
+could say in advance what could be safely
+delivered to them, or picked up from them.
+Of course a lot of this delivery tech might
+be interrupted by improvements in 3D printing,
+as some products might be delivered to your
+home in the form of data, and printed on the
+spot, or we may even have roving printing
+and delivery trucks for some items.
+See the episode “The Santa Claus Machine”
+for more discussion of the uses and challenges
+of advanced 3D printing, or our episode “Synthetic
+Meat” for a discussion of printing steaks
+at home, rather than getting them delivered
+from a long supply chain originating from
+a cow.
+Another one of those tiny techs that would
+be better automated is cataloguing.
+Smart phones or internal sensors would monitor
+where all your junk was and tagged it, and
+you just slap a barcode or RF sticker on it
+from some cheap roll of stickers and scan
+the object while saying what it is, assuming
+most products don’t come with such things
+built into them to help with inventory at
+stores, which could be used at home too.
+The follow up on that would be an optimizing
+software that suggested and displayed ideal
+packing of everything from your attic to your
+refrigerator, based on minimizing space and
+maximizing easy access to regularly used objects,
+and potentially also telling you stuff like
+“Based on attic or basement temperature
+and humidity changes, this object should not
+be stored here” or “The following food
+items in your pantry or refrigerator are nearing
+their expiration date”.
+AI might even go further and recommend lifestyle
+changes based on your eating, shopping, and
+other habits, a problem we’re already facing
+with private data collection today.
+You can get tiny little impacts too, like
+local charity food pantries getting an influx
+of canned goods as people get alerted to things
+near their shelf-life, decide they don’t
+feel like eating it that week, and just toss
+it into one of their delivery bins while flagging
+it for donation.
+The next delivery person or bot grabs it,
+and then it makes its way to a food pantry.
+Less waste, less cost, less hassle, a small
+thing but also a big one too.
+In the same way you might auto-Ebay objects
+you no longer want, just stick it in the bin
+and say ‘sell me’ and it goes up for remote
+auction, you get part of the sale, and you
+never worry about it again.
+Better household robots might help with a
+lot of that too, easily picking up your trash
+or clothes or personal effects and disposing,
+cleaning, or storing them with no further
+thought.
+That’s a bit more complicated than our robot
+mops and vacuums we’re starting to see become
+regular household appliances, but not too
+much so.
+Since this episode is premiering in the spring
+when folks are returning to their lawn and
+gardens, it’s worth a segue onto that topic.
+We can expect to see a big boom in robot lawnmowers,
+I suspect before 2030 you will see a huge
+drop off in manual lawnmower sales, with most
+remaining manual lawnmowers at households
+being old or used and slowly becoming a niche
+market.
+You can expect the same for snowblowers, and
+many other easily automated tasks like trimming,
+fertilizing, edging, and aerating.
+Not because every household would necessarily
+need to own one either, but because one such
+robot could probably serve many households.
+It will be interesting to see if this sector,
+of rentable automated lawn maintenance robots,
+will be in the form of businesses renting
+them or more of that crowd-sourced Uber approach,
+of local owners and some app or company that
+buys it for the downtime.
+This need not necessarily be limited to robotic
+equipment either, but various more expensive
+tools folks need not very often.
+After all, for something like a snowblower,
+even in the winter they spend most of their
+time shut off but if the snow is coming down
+it’s nice to have first dibs on its use
+by owning it personally, however you can then
+rent it out to others.
+Other items see even more infrequent and time-dependent
+use.
+20 or 30 people in a town of several hundred
+might own a lawn aerator robot, something
+you’d only use a few days a year, and as
+the market develops you see a lot of folks
+who buy it for the novelty and decide to make
+some extra cash when the device isn’t in
+use.
+It’s also good for ecological reasons too,
+healthy lawns that are maintained and fertilized
+on proper and accurate schedules save a lot
+of water and fertilizer, and decrease a lot
+of runoff issues we have with that.
+You also might see a drop off in lawns in
+favor of more complex gardens if robots are
+handling most of the grunt work, be they strictly
+ornamental or food producing gardens.
+Better digital mapping of lawns is also something
+I’d expect.
+It’s nice if your fertilizer robot knows
+the type of tree it’s meandering by and
+its mass, so it can fertilize appropriately,
+but it’s also handy to homeowners and agencies
+to be able to see when a tree needs to be
+trimmed or brought down to minimize the risk
+to houses and power lines.
+Of course we’re also seeing improvements
+in boring technology that might see burying
+lines and many other utilities get far easier,
+cheaper, and more common.
+One other example of unexpected business impacts
+before we move on to more technology.
+Insurance companies may see a decline in claims,
+and consumers in their premiums, from all
+this automation.
+We won’t use self-driving cars much until
+they are demonstrably safer than the average
+driver, let alone those who are inexperienced
+or under the influence which is where a vastly
+disproportionate number of car wrecks come
+from.
+So too, more home and lawn automation and
+computerization is likely to see all sorts
+of house damage decrease in frequency or severity.
+An ounce of Prevention is worth a pound of
+cure, as the saying goes, and we’ll be seeing
+this more and more in medicine.
+DNA testing is now dirt cheap and I expect
+it to become near-universal by 2030, even
+if it’s the insurance companies paying for
+it.
+There’s just so many illnesses that can
+be prevented or mitigated with advance warning
+when someone is predisposed to them genetically.
+And many illnesses that can be cured or mitigated
+by early warning through detection.
+When I was a kid the MRI machine had just
+been invented a few years earlier by Raymond
+Damadian.
+As they’ve become cheaper and better, they
+have saved many, many lives, not to mention
+much hardship.
+With improvements to them, the software running
+on them, and the cost of making them, we might
+expect to see full body scans at even better
+resolution than now be a routine part of an
+annual physical.
+However, we’ve also seen the Fitbit and
+parallel devices become quite common in the
+last few years, and I expect they’ll get
+even more widespread in both their use and
+uses.
+Laser imaging, constant tracking of heart
+rate and blood pressure and possibly many
+other blood-related bits of data may result
+in someone’s smart phone being able to build
+a ridiculously accurate day-by-day or even
+minute by minute medical log of those, sleep
+cycles, other biological cycles, weight, body
+fat, calories in and out, and an ever-growing
+catalog of relevant health information that
+could be automatically analyzed and forwarded
+to your doctor or expert AI.
+There’s another sector that might see some
+drop off.
+As equipment for medicine and delivery improves,
+we might see a lot of medical tests performed
+by technicians we often get a couple weeks
+before our physicals be something done at
+home.
+How tricky might be a bracelet that could
+image for an artery or vein and grab a quick
+blood sample for pickup and transport to a
+lab for analysis?
+I’d not expect too much of that in the next
+decade but probably within a generation, two
+at most, we’d see a lot less routine trips
+to the doctor for preventative medicine, while
+at the same time having vastly more preventative
+medicine.
+That’s the sort of thing that could have
+a huge impact on the health sector, when the
+vast majority of ailments are detected almost
+immediately and at home.
+AI could also have a major impact on these
+jobs, as some things like analyzing a bone
+for a fracture can be performed far more accurately
+by software than by a human.
+Needless to say improvements of nano-technology
+in medicine would be beyond helpful, as would
+various types of cybernetics or mind-machine
+interfaces like we’ve looked at in our Cyborgs,
+Mind Augmentation, and Mind-Machine Interfaces.
+And we’re seeing major developments in all
+those now, not just in the pages or scripts
+of science fiction anymore.
+I suspect we’ll also see far more improvements
+in things like gene therapy, cancer treatment,
+and life extension.
+Indeed, as we discussed in Life Extension
+and Science of Aging episodes, all medicine
+is life extension technology, a favorite quote
+of mine by my friend Aubrey de Grey of SENS
+Research Foundation.
+As folks continue to live longer and healthier
+lives, they can enjoy a far larger percentage
+of their life being economically productive,
+which would doubtless see some major impacts
+on those sectors of the economy centered on
+children or the elderly.
+If you join the workforce at 25, retire at
+65, and die at 80, you get 40 years of work,
+50% of your life.
+If you live to 100 and are as productive at
+85 as at 65, then you get 60 years of work,
+50% more, and can work for 60% of your life,
+20% more.
+But you’re gaining more skills every day.
+What’s more, if we assumed a stable population
+of zero growth for the moment, averaging 100
+years to keep it easy, a kid in K-12 is only
+spending 13% of their life getting state-funded
+education and 60% of their life paying taxes
+for that education, as opposed to the earlier
+example where they retired at 65 and died
+at 80, 16% of their life getting schooled
+and 50% paying taxes for it.
+That’s literally 50% more production vs
+education time for the longer life meaning
+you could spend 50% more on education, or
+25% more for it and 25% in lower taxes or
+educating people longer.
+Of course that was assuming people are as
+productive, but in a high-skill workforce,
+more experience often means more productivity
+so it’s likely even better than that 50%
+increase we just calculated.
+Of course you often have to retrain people
+as the technology and industry changes, which
+is no easy thing as we’ve found, not too
+mention train them in the first place, and
+education technology is the next big one we’ll
+discuss.
+College has become rather more common than
+it was when I went, and certainly when I was
+born, and even then it was pretty common compared
+to the mid-20th century.
+There is a feeling among many that we’ve
+reached “Peak College,” about the maximum
+percent of folks who are attending university,
+and I kind of agree.
+I will say outright I think the number of
+degrees and the value of those degrees to
+those getting them has dropped sharply, and
+I’ve some rather pointed views on our colleges
+I’ll keep to myself, but I don’t think
+we’ll see a drop off in folks getting more
+education, quite the opposite in fact.
+I do think we will see a drop off in physical
+university attendance and a slower but sharper
+drop in tuition the next few decades as we
+see more and more online schools arising and
+being seen as more valuable than they currently
+are.
+But it’s also worth mentioning trade schools
+or on-the-job training will likely come back
+around as the need for workers specifically
+oriented to maintaining robotics and AI increases.
+Needless to say I’d like to see improvements
+in teaching technology, we’ve discussed
+before some options like a computer that monitors
+a student’s interest in something they are
+reading by scanning their eyes and vital data,
+to switch to an alternate example or zoom
+in on a topic that piqued their interest,
+or sensing they are growing frustrated with
+a problem and summoning a teacher.
+However, the use of artificial intelligence
+in learning can’t be underestimated.
+If you can track a student’s progress individually
+and far more accurately on each topic, or
+even how they respond to certain teachers
+or styles, we can better match them up and
+also hopefully cut back on standardized exams
+which so often leads to “teaching to the
+test” which is unsurprisingly rather unpopular
+with everyone, even those who view it as the
+best option, or least worst, for evaluating
+performance of students, teachers, and schools.
+The use of Artificial Intelligence in administrative
+roles and the impact of that cannot be downplayed
+either.
+While we principally think of robots for drudge
+work or giant factories, even relatively simply
+AI can do wonders for clerical and administrative
+tasks.
+Computerization has always seen more use in
+offices than factories anyway, but just to
+use that example from a moment ago of a computer
+monitoring a student’s vitals to track mood
+and engagement, the same software can be used
+at workplaces to help allot work tasks to
+those who enjoyed them and performed them
+better, which tends to be synonymous.
+From a managerial standpoint, if you can go
+in and see who does what best and likes it
+most at a very accurate and detailed level,
+you know who to assign to what and who to
+promote or fire.
+Or who to put on shift together.
+You can shift things around for ideal performance
+if you have data showing folks in good or
+bad moods around a given coworker, or superior.
+The same applies to stuff like online dating
+too, since any time you have vast amounts
+of data on folks, it’s much easier to build
+a true and accurate profile of what they like
+or dislike.
+Arguably even better than they could say themselves,
+since even ignoring lying, we often aren’t
+consciously aware of a lot of our preferences
+and irritations.
+I’d imagine few dating websites would have
+a preference mark for people who can’t stand
+it when someone else chews with their mouth
+open or tends to click pens or tap their fingers.
+But if you’re monitoring folks all their
+life though, stuff like that could be included
+in an algorithm that filtered folks from each
+other for such minor but deal breaking quirks.
+We looked at some of the more interesting,
+amusing, and disturbing scenarios for the
+future of dating and relationships in the
+episode “Happily Ever After”.
+It’s a bit disturbing, to say the least,
+to think about being monitored and analyzed
+all the time but it does come with many advantages
+and AI opens the door to it maybe being much
+more private, it’s easier to put safeguards
+on an AI spilling personal data to people,
+and presumably they aren’t prone to gossip
+or bribes.
+Telepresence deserves a quick mention too.
+We’ll be seeing a lot more remote work in
+years to come, but that’s not just a matter
+of convenience but also safety.
+Robots will be working dangerous jobs or in
+space or on the moon, especially ones incorporating
+a small amount of AI for mundane work and
+remote access for more detailed, hazardous,
+or irregular tasks.
+Limited AI and Telepresence will blend together
+wonderfully in robots.
+We can get quite an impressive operating suite
+into something ambulance sized these days
+and if we’ve got remote cars we can have
+remote ambulances too.
+Even ignoring more high-tech robots, if a
+paramedic, police officer, firefighter, or
+other first responder with basic medical skills
+can have a remote ambulance arriving rapidly,
+they can provide very impressive care with
+the aid of a telepresent doctor or surgeon.
+Such things will have huge impacts on medicine,
+which we just mentioned, but also on stuff
+like crime.
+It’s much harder to commit crimes when there
+are records of pretty much everywhere someone
+has been, and it’s pretty hard to mug someone
+if they can summon help with a single quick
+tap and police can instantly activate every
+street camera nearby and potentially requisition
+or subpoena feeds from other folks phones
+who were identified as being in the area and
+then run facial recognition on the perpetrator.
+Or even just monitor them as they flee.
+They might be actively pursued by drones as
+well, many officers are injured by foot chases
+either by accident or ambush, and of course
+they might not be as fast as whoever they
+are pursuing.
+A drone can help a lot with that, and potentially
+include a taser, see the episode “Attack
+of the Drones” for more discussion of those
+options.
+That kind of criminal surveillance tends to
+assume cameras or sensors on public roads,
+but this is another thing I figure will be
+ubiquitous within 10-20 years, and part of
+our next technology to discuss, which is smart
+cities.
+This isn’t even a thing of future or modern
+times, administrating cities with technology
+predates even things like traffic lights.
+Strictly speaking, even everyone just becoming
+literate made navigating via maps and road
+signs much easier in large cities.
+But traffic lights that can detect how much
+traffic is waiting, or even approaching, helps
+a lot.
+As do navigation maps and tracking systems
+that can warn of traffic jams and reroute,
+or simply be analyzed for what bits of road
+most urgently need repair or expansion.
+Cities are proverbial for their traffic jams
+but advances in such things, automated vehicles,
+and better public transport might make those
+a thing of the past even in the most dense
+cities.
+Needless to say AI can help a lot with your
+power, water, and communication grids too,
+but we also have a lot of technology for power
+on the horizon.
+Fusion might genuinely be 20 years away, as
+we discussed in Fusion Power, and beamed energy
+might be on the horizon too, as we looked
+at in Power Satellites, but photoconductive
+graphene and perovskite solar panels might
+allow massive cheap printing of solar panels,
+ones so cheap and thin we could use them as
+casually as wallpaper.
+You don’t need advanced metamaterials or
+hyper-efficient batteries to help with power
+if you’ve got dirt cheap solar, though we’re
+seeing tons of improvements in both.
+The Diamond Battery is a weak nuclear battery
+that runs on the beta decay of Carbon-14 and
+could last thousands of years while providing
+a small but safe, ultra-sturdy, and compact
+power source; it may well enter regular use
+before too long, meaning you’d never need
+to replace batteries on many devices.
+See the Metamaterials and Portable Power episodes
+for all the exciting developments and options
+there.
+We also have classic nuclear fission too,
+which is seeing tons of improvements.
+We looked at space based Nuclear a lot in
+our Nuclear Option episode and in our recent
+episode Moon: Industrial Complex.
+While Thorium is a tempting and much talked
+about option, Uranium molten salt nuclear
+reactors offer a lot more promise for near-term,
+safe, cheap, and massive power production.
+Modern nuclear reactors in general don’t
+really need to be far from cities, they are
+indeed quite safe, but one of the big hurdles
+for nuclear power is the fear of it.
+Molten salt reactors are safer, and other
+types of new, safe designs like very small,
+high temperature, gas-cooled Reactors could
+allow for their use in every day manufacturing
+plants that need lots of heat production,
+like metal smelting or water desalination.
+However, we’ll probably still tend to site
+nuclear reactors in rural or remote areas
+anyways.
+Part of the problem with the power grid is
+that you need to be able to carry power long
+distances with little loss, and indeed a large
+portion of existing power generation is lost
+as heat just going through our wires.
+If we can develop room-temperature superconductors,
+that problem is totally eliminated, and you
+can also start moving power over any distance
+with little to no loss, allowing the sunny
+side of the planet to power the dark side
+for instance, or your deserts to power your
+cold and cloudy areas, or your big wind or
+hydro or geothermal plants to pick up the
+slack far away from where they are.
+Assuming we remain resistant to nuclear fission
+and don’t get Fusion or Power Satellites,
+and I’m hoping the wall will break on at
+least one of those in the next couple of years
+or decades because abundant safe power is
+something that we need badly and that would
+benefit us in a thousand economic sectors.
+Room-temperature superconductors may elude
+us forever, but if they can be made they likely
+will be found within this generation, and
+we’ve been having a lot of luck with very
+recent work in 2-Dimensional materials like
+Graphene and Molybdenum Diselenide, and research
+on what’s called “Magic Angle” orientation
+of these nanoparticles.
+Superconductivity, however is a topic that
+requires a bit too much discussion to go into
+in any detail today, and we’re definitely
+overdue to give it its own episode.
+Of course advanced geothermal energy production
+might get easier soon too.
+Normally geothermal power relies on heating
+water to turn turbines, and that might benefit
+a lot from improvements in boring technology
+allowing us to drill those holes and lay those
+pipes deep underground for much cheaper.
+However, we also have a device called a thermocouple
+that is basically a metal rod that produces
+electricity if one end is hotter than the
+other.
+These things aren’t terribly efficient,
+but they are ridiculously cheap and sturdy,
+so one that was basically a long rod hammered
+into the ground would be nice for power if
+it was simply more efficient.
+And certain materials called Skutterudites
+are showing promise in allowing thermocouples
+that might be efficient enough to make them
+a realistic option for commercial power generation.
+I suspect most of us would rather like the
+idea of our power and heating or cooling supply
+being a big rod in our basement rather than
+something that has to be brought in by wire,
+pipe, or transmission from afar, so if that
+did become economical it might become preferred
+or at least take on the role of a backup power
+generator or supplement.
+Residential power production is having a major
+impact on infrastructure already, along with
+other technologies like water collection or
+waste recycling or the like, which makes going
+off-grid more tempting for many rural folks.
+Of course you’d still need roads to those
+places.
+Or maybe not.
+It’s an old complaint that people often
+wonder where the jetpacks and flying cars
+are that science fiction promised them way
+back, and same as we might see drones doing
+a lot of deliveries in the future, that is
+actually technology that can be scaled up
+for people too.
+I should also note that one of the reasons
+we don’t use a lot of blimps and dirigibles
+is because it’s so hard to keep lifting
+gases like hydrogen and helium from leaking
+out, as they are atoms smaller than the material
+containing them usually.
+However, pristine graphene is impermeable
+to these gases, so we may see some big improvements
+in quadcopters and gas containment that might
+allow some safe and affordable flying vehicles
+to finally hit the commercial marketplace,
+and maybe sooner than later.
+We’ve talked a lot about automated supply
+and manufacturing, and while the self-replicating
+robot is often seen as very scifi, this is
+one I’d expect we’ll have in the next
+10 to 20 years too.
+Probably not as the tiny nanobot, though maybe,
+but more likely as what we call a clanking
+self-replicator, which is more of a large
+scale, automated factory.
+If you’ve got enough automation in your
+supply and manufacturing you arguably already
+have a self-replicating machine, even if bits
+and pieces of it occupy ten thousand factories
+and mines and freight vehicles.
+There’s also nothing special about one that
+requires no human involvement.
+We want such devices because of the vast amount
+of production they represent and their ability
+to exponentially grow that production as they
+make more of themselves.
+That’s not really hindered – except for
+deep space or interstellar purposes – by
+having humans as a small but necessary component
+of that self-replication, indeed it’s arguably
+a nice safeguard against various machine Rebellion
+or Paperclip Maximizer scenarios.
+Machines make things cheaper than people do
+but are often themselves expensive to make
+too.
+When they are self-replicating in whole or
+part, and building their own power sources
+too, most of your cost is now simply design,
+and so many things would become dirt cheap
+at that point, much as how the cost of steel
+or aluminum in the past made things like railroads
+or skyscrapers impractical not because they
+were great engineering hurdles, but were simply
+too expensive to produce, and then suddenly
+were not.
+With sufficient manpower, or sufficient production,
+virtually any task can be accomplished through
+raw effort, even the building of vast megastructures.
+If the machines do most or all of that effort,
+including mostly making themselves, the game
+changes on everything, and that game may change
+in a mere generation, giving us unbelievably
+immense production and work capacity.
+As we say here on SFIA, if Brute Force isn’t
+working, you’re not using enough of it,
+and soon, we may have more than enough of
+it.
+It’s always hard to predict when new technologies
+will roll out and how quickly they’d catch
+on.
+For instance, as usual I wrote and recorded
+this script some months before it aired and
+predicted how we’d see a lot more deliveries
+of groceries and remote work and learning,
+I was thinking the boom in that would be in
+a decade or so and with the current health
+crisis I’m inclined to revise that as happening
+a bit faster now, every storm has its silver
+lining and we might see a lot of preventative
+health monitoring we mentioned today developed
+sooner along with being able to use people’s
+phone positioning data to help rapidly track
+and contain outbreaks as we could simply compare
+their time’s and positions to other folks
+to see who might have been exposed, and alert
+them.
+Things like that raise privacy concerns that
+could be addressed in many ways, both by policy
+and technology, but one way to do that effectively,
+rapidly, and privately might be employing
+artificial intelligence using neural networks,
+a rapidly growing area as neural networks
+are far better at prediction and decision
+making than classic computers.
+If you’re interested in learning more about
+Neural Networks, there’s a great course
+on it from Brilliant, which offers extensive
+but plain-English and interactive learning
+methods for that topic and many more.
+If you’d like to enhance your own understanding
+of science, and do it from the comfort of
+your own home and at your own pace, or have
+family members who need to do the same, then
+Brilliant is a great match.
+Brilliant is an online learning community
+with over 60 interactive courses and many
+quizzes and puzzles, plus fun Daily Challenges
+that help get the brain warmed up for the
+day.
+Those Challenges provide a context and framework
+that you need to tackle, so that you learn
+the concepts by applying them, which is the
+best way to learn new concepts.
+Brilliant makes learning fun and easier, and
+their online community gives you places to
+discuss the material or ask questions, and
+their mobile apps offline feature lets you
+take courses even when you’re not getting
+a good signal.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+Today we were looking at technologies coming
+up in the near future and how hard it is to
+predict when breakthroughs will be made, so
+next week we’ll look at what might happen
+if no more breakthroughs are made, in Technological
+Stagnation.
+The week after that we’ll be exploring the
+idea of life not based on normal organic chemistry,
+or even carbon at all, as we look at the idea
+of non-Carbon Based life and the stranger
+life that it might be and the stranger locations
+we might find it.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can visit our website, IsaacArthur.net,
+to donate to the channel, check out our catalog
+of episodes or book recommendations, or buy
+some awesome SFIA merchandise.
+Until next time, thanks for watching,
+and have a great week!

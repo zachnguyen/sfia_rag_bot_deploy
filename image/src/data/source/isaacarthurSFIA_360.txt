@@ -1,0 +1,665 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+For centuries humanity has used the stars
+to navigate our own world, but our future
+is to navigate to those stars and the worlds
+around them.
+We’re deep into the holiday season this
+week, and I remember when I was a kid there
+was a lot of media attention given to trying
+to find or backtrack the location of the Star
+of Bethlehem, or Christmas Star, mentioned
+as guiding the Magi in the Gospel of Mark [Matthew].
+There have been a lot of theories advanced
+as to what that might have been, star, comet,
+nova, and so on, but it stuck in my head as
+a kid, having taken up a deep interest in
+astronomy, that the stars move relative to
+each other and us.
+Our sky changes slowly but it does change,
+some of it cyclically, some of it not.
+It's something folks don’t often appreciate
+about trying to send a ship, or even a message,
+to another star.
+If you aim for it, it won’t be there when
+you or your message arrive.
+Today we’ll be looking at Interstellar Navigation,
+but for completeness we won’t just look
+at slower than light travel today, but also
+faster-than-light navigation issues and intergalactic
+navigation issues and even problems with popping
+forward or backward in time through a wormhole.
+But even without time travel, the galaxy shifts
+a lot over time and not in the regular and
+repeating way we see in solar systems.
+While objects do orbit the galaxy, much as
+moons orbit planets and planets orbit stars,
+there’s very little recurring pattern to
+this.
+The Earth has orbited the Sun over 4 billion
+times, and the Moon orbited Earth probably
+about 50 billion times, and each orbit is
+nearly identical to the last.
+Nearly.
+But our Sun has only orbited this galaxy about
+20 times and the galaxy never looked vaguely
+the same between each orbit.
+A few of the stars near us have been since
+our Sun’s beginning, co-moving from the
+original Nebula they all formed from, but
+many have been swept out of that pack and
+some have migrated toward us, while many more
+are just passing by at different angles and
+were not our neighbors a million years ago
+and won’t be in another million.
+The Alpha Centauri system is well known as
+the closest one to us, but its three stars
+are not siblings to our Sun, which is nearly
+a billion years younger.
+At the Moment our solar system is moving in
+the general direction of Altair, the 12th
+brightest star in the night sky, 17 light
+years away.
+But what that means is that we’re moving
+toward it’s approximate current location
+at 26 kilometers per second, which is still
+less than 1% of 1% of light speed.
+So don’t worry, we won’t hit it, not even
+close, though our Sun has often passed near
+other stars.
+Everything about the interaction of stars
+in this galaxy can be thought of as very temporary,
+at least in the timescale of a star’s lifetime,
+not like the patterns of planets and moons.
+Altair is rather young, just over a billion
+years old, but it is one of the bigger types
+of stars, an A-Type nearly twice our Sun’s
+mass, and it will turn into a white dwarf
+well before reaching our Sun’s age of 4.6
+billion years.
+Both our Sun and Altair orbit the galaxy roughly
+every quarter billion years, so they’ve
+both already completed several orbits, but
+many giant stars won’t even live a billion
+years and won’t live long enough to complete
+a single orbit.
+Even in a ship capable of near lightspeed,
+you can’t just aim it at a star and expect
+to arrive there, because you’re looking
+at old light the star emitted tens or hundreds
+or thousands of years ago, and you’ll see
+the star moving along as you get closer to
+the newer light.
+Of course you would try to predict the star’s
+trajectory and plot an intercept course, but
+remember the star isn’t in a simple elliptical
+orbit like a planet around a star, it’s
+on a complicated trajectory affected by all
+the other stars that will pass anywhere near
+it during the millennia of your travel.
+So you’ll have to project the motion of
+all those stars as well.
+In other words you’ll need to model the
+motion of an entire section of the galaxy,
+so let’s hope you have the data and processing
+power to do that.
+And while you’re at it, make sure you won’t
+encounter any poorly-timed supernovas and
+that your star isn’t going to be dead when
+you get there.
+You’ll often hear people talk about navigating
+by pulsars, and that’s both a very good
+and also very limited means of navigation.
+First, we should clarify that a Pulsar is
+not exactly a unique star category, but rather
+most are fairly recently formed Neutron Stars,
+and are visible as pulsars from certain angles
+and during their more energetic youth.
+All Neutron Stars are produced by a giant
+implosion of a bigger star, most of which
+is blown away in a supernova, but the explosion
+occurs in the middle layers of that star,
+so it pushes the outer layer away, exploding
+outward, and the inner core gets pushed inward,
+and the implosion forms a hyper dense chunk
+of super-hot degenerate matter.
+This is effectively a dead star now but it
+retains all the heat-energy and all the angular
+momentum it used to have before getting crunched,
+and gains even more heat energy during that
+implosion.
+Stars generally rotate on an order of days
+to months, but angular momentum is a product
+of mass, radius, and velocity, and is conserved,
+so when the radius crunches down a thousand-fold,
+the velocity goes up a thousandfold, and since
+the object’s radius and circumference are
+a thousand times smaller now too, the rotational
+rate will jump a thousand squared or a million
+times faster.
+Pulsars can vary in rotational rate from as
+little as a few millisecond to several seconds,
+but each pulsar is pulsing at a very specific
+rate and spectrum, essentially a unique signature,
+though one that changes with time as the pulsing
+is taking up a lot of energy and the neutron
+star produces no new energy, just what it
+has in terms of heat and rotational energy.
+This pulsing is also not omnidirectional,
+coming off the poles of the star, so is not
+visible as a pulsar from all angles.
+Thus even though we estimate there are over
+a billion neutron stars in our galaxy, we
+have only detected a couple thousand.
+We suspect there may be a hundred times as
+many not yet detected, but that still means
+not even 1 in 1000 neutron stars is a pulsar.
+Or at least is one anymore.
+The Crab Pulsar, in the Crab Nebula about
+600 light years away, is one of the few optically
+visible pulsars, and believed to be the remnant
+of the Supernova SN 1054, recorded by Chinese
+astronomers in 1054 during the Song Dynasty
+as a ‘guest star’.
+It’s only a thousand years old from our
+perspective – the star having died several
+thousand years ago but we are seeing it as
+it was when the light left.
+That’s a thing to remember though, if you
+traveled there now, it would seem to age very
+quickly as you approached, especially if you
+were jumping there by warp travel of some
+sort.
+Its current period is 33.5 milliseconds, or
+33 and a half million nanoseconds, and it
+is slowing down.
+Its period increases by an estimated 38 nanoseconds
+a day, or 0.0139 milliseconds a year.
+So if you suddenly fell through a wormhole
+to arrive nearby it, you wouldn’t find it
+at that 33.5 millisecond rotational rate,
+you’d find it at more like 120 milliseconds,
+because it’s 6000 years older now that you’re
+closer and has slowed a lot.
+As I said, there’s estimated to be over
+a billion neutrons stars in the galaxy and
+most would have been pulsars at some point,
+but we figure on only about 1 in 10,000 of
+them being visible as pulsars and have only
+detected about 1 in a million of these neutron
+stars as known pulsars.
+This isn’t just a distance issue, some of
+those known pulsars aren’t even in our galaxy.
+It’s a time issue, they just don’t stick
+around that long, and those pulsars in other
+galaxies aren’t going to look even vaguely
+the same if you jumped there, assuming you
+could even detect one.
+Nor can you assume that a neutron star is
+slowing at a precise and constant rate over
+thousands of years.
+Any absorption of mass for instance can alter
+a neutron star’s characteristics, and they
+are often formed in places where lots of material
+is floating around to be absorbed.
+Indeed most of our heavier elements in the
+Universe are the products of neutron stars
+merging with other neutron stars, rather than
+a dying star exploding.
+Key thing here is, while pulsars are a great
+way for figuring out your location during
+relatively mundane interstellar travel, it
+won’t help you for getting hurled through
+vast amounts of space and time by some entity
+or anomaly as we often see in science fiction.
+You don’t get chucked halfway across our
+galaxy, even to the same point in time – which
+is a pretty dubious concept anyway – and
+just check your local pulsars for a quick
+positional fix.
+They won’t be where they were on your map,
+they won't be spinning at the rate you expect,
+and they won’t have the same spectral characteristics.
+Given time to find all the local pulsars and
+get a fix on the galactic center, the Andromeda
+Galaxy and so on you’ll be able to guess
+your location decently but this won’t be
+fast and it won’t be precise and it isn’t
+something just fixed by having way better
+computers.
+If we are talking about getting hurled into
+other galaxies or any motion in time, then
+you are pretty much out of luck with pulsars.
+However, that still leaves them good for local
+navigation, right?
+Sure, but in basically the same way stellar
+navigation is handy for getting around town.
+You can do it but it’s both overkill in
+terms of effort and way less precise than
+just using a map, let alone a GPS with a map.
+Pulsars are great for local interstellar navigation
+but aren’t really necessary because you
+aren’t going to just suddenly pop out somewhere
+on some unknown trajectory if your spaceship
+is operating under known physics.
+They’d be handy for getting a fix if you
+whack some bit of space debris and your ship
+was in a tumble and lost lock and it took
+you so long to restore everything, like years,
+that you couldn’t just grab an image of
+the starscape from right before the accident
+and tilt the ship that way and be back on
+course.
+That could plausibly happen to an interstellar
+sleeper ship whose computers got damaged and
+some backup protocol woke up the ship’s
+pilot and navigator.
+In general though, the sheer amount of energy
+available in any given solar system, and the
+sheer amount of energy needed to run an interstellar
+ship’s engines, is so massive compared to
+the energy needed to broadcast an omnidirectional
+radio signal folks could hear for a few light-centuries
+around, that you would expect every single
+star system we visited to have at least some
+automated transmitter that just sat around
+watching some radioactive isotopes decay and
+shouting out the time and its identification
+number and the frequency it transmitted at.
+You pick up the signal, and it says its 104.9
+FM, and 8:45 AM December 17, 202020, and yet
+you are picking it up on 103.8 FM, telling
+you the frequency red-shifted 1.06% and that
+you are moving approximately 3000 kilometer
+per second away from the transmitter, or 1%
+of light speed, your radial velocity.
+You can then look at your own clock and compare
+the dates for the actual distance.
+If you can pick up a few more you can triangulate
+your position very accurately and way better
+and faster than by pulsar.
+It is just GPS, only the G stands for Galactic
+not Global.
+It’s also important to understand that while
+the exact method, ID, and names might vary
+over a galaxy wide civilization, if you are
+traveling slower than light you are going
+to have decades elapsing between times you’d
+need to worry about potential alterations
+of such a system and plenty of time to be
+contacting nearby systems for updates and
+news on any major changes on navigational
+systems.
+And these sorts of calculations can be done
+easily and near instantly by modern computers,
+but also fairly quickly manually, there’s
+nothing high-tech about picking up a loud
+radio signal and doing some trigonometry and
+redshift calculations against some catalog
+of local stellar nav beacon IDs, and given
+the time it takes to travel, you could literally
+raise a child from infancy and hand them the
+manual on how to do it, and still have plenty
+of time to make your corrections.
+You are also not too dependent on any given
+system either.
+Space is three dimensional and wide open,
+if your ship can pick up the default navigational
+beacon orbiting the average star from a few
+hundred light years away, then you should
+have many thousands of beacons to pick from.
+Even if some can’t be bothered or they’re
+automated and several fail, or even if some
+intentionally tamper with their beacons to
+screw people up, you shouldn’t have a problem
+getting a fix, and when in doubt you can be
+using pulsars or other things too big or cosmic
+to fabricate to confirm things are about right.
+You can also enforce beacon trustworthiness
+and function fairly easily too.
+As an example, Earth is likely to be the effective
+center of the galaxy for a very long time,
+at least to humans, not just as the center
+from which colony ships emerge, but the place
+where most of the research is getting done
+and where most colonies probably had an embassy
+to make sure they got that new technology.
+It would be very easy for Earth to say they
+will send the signal containing the tech data
+only to beacons transmitting the right date,
+time, and transponder code.
+Odds are pretty good that it would be a fairly
+standard protocol for neighbors too.
+The one type of interstellar commerce we can
+be confident will be common and large in content
+is the transmission of information at light
+speed.
+I can’t see neighbors cutting off all transmission
+if a navigational beacon went offline or screwy,
+but that information is money and power, it
+might even be digital people transmitting
+copies of their own minds.
+So you are probably not transmitting that
+to some system that went haywire on transmission
+and navigation protocols, and no system has
+a motivation to not have plenty of backup
+beacons online.
+They are not that power-hungry, a gigawatt
+radio signal can be heard many light years
+away easily enough, and a gigawatt might be
+a lot to us now, but it would barely run an
+interstellar spaceship of the most modest
+sort.
+It’s also not that much to us either, we
+have plenty of power plants in that energy
+range and we might not use the entirety of
+one for a SETI signal but we sure would if
+it was a central piece of our markets and
+economy.
+In all probability it would actually be lower
+power than that though, with lots of megawatt
+or even kilowatt beacons scattered throughout
+deep space too.
+There’s always the question what you’re
+navigating around because it is, at sublight
+speed and under known physics, pretty hard
+to miss a star if you started off aimed in
+the right direction.
+And yes they do move and quickly too, but
+even if for some reason you didn’t calculate
+that into your original trajectory it’s
+not going to be hard to track it as it goes.
+Rather you will probably be navigating around
+and tagging all the minor bodies in deep space.
+Interstellar navigation is mostly tricky for
+avoiding all the tiny junk in space, and we’d
+be talking about millions of minor planets
+per solar system and trillions of things too
+big to vaporize or allow for the ship to absorb
+the hit.
+I would tend to guess that most systems that
+were decently developed but still hadn’t
+totally consumed all the natural raw materials
+in their Oort clouds, would probably leave
+radar arrays beacons on every minor planet
+they found to inform folks not just that they
+existed but to sweep the area for space debris
+and let ships know about it.
+Much akin to the role of lighthouses, or buoys
+marking shoals.
+This is another reason we never talk about
+stealth in space.
+It’s really hard to hide ships when everyone
+who needs to deal with spaceships also needs
+to deal with pebble-sized nuclear bombs, because
+that’s the kind of energy an interstellar
+spaceship is going to receive as a blast if
+it runs into a pebble no one detected and
+it’s the kind of energy any pebble sized
+bit of garbage lost by that ship is carrying
+if it runs into a space station or planet.
+I know we all like to think of the future
+in space as a peaceful place, but don’t
+ever assume that means it’s demilitarized.
+A developed star system is going to offer
+a lot of things to visitors and traders, just
+about anything they could be looking to find,
+and if they’re looking for trouble, they’re
+going to find that too, because your typical
+K2 Civilization, just one lone star system,
+even a pretty low tech one with no fancy sci-fi
+science, could beat the snot out of most of
+the fictional galactic empires we see in sci
+fi.
+We’ll talk about that more next week, but
+short form, you’re listening to all those
+local navigation beacons less to find your
+position and speed precisely, which you can
+of course, and more to make sure you don’t
+do anything that is going to cause any of
+the tons of telescopes around that system
+pointed at your ship to tell any of the tons
+automated weapons platforms to point your
+way too.
+That’s the first Rule of Warfare after all,
+don’t pick fights you don’t have to, especially
+with people bigger than you.
+The nature of interstellar spaceships is one
+where you’ve got potentially megatons of
+ship moving at speeds where each kilogram
+of that ship amounts to a nuke, and very little
+time for contemplation or chat.
+Warning messages are things a ship’s captain
+pays attention to because warning shots do
+not exist, and if some megaton space freighter
+moving at 10% of light speed into a solar
+system veers off the accepted course and deceleration
+pattern, the next thing it finds along its
+new and unauthorized trajectory is likely
+to be enough ordinance to level a continent,
+because that’s the kind of kinetic energy
+it is carrying if it hits something.
+So what about the classic scifi case of your
+ship getting thrown through a wormhole or
+some other anomaly and emerging at an unknown
+place, or even unknown time?
+Ignoring that our current knowledge of physics
+says that probably can’t happen, how would
+you figure out when and where you were?
+Well the first thing you would be doing is
+settling in for a long wait, and one probably
+long enough to move your ship to the nearest
+star system to be picking up raw materials
+for construction, because this won’t be
+fast.
+The first thing you would want to do is start
+pinpointing galaxies and their red shift away
+from you.
+You might get lucky and find you are in or
+near your own galaxy and fairly close in time,
+but you can start estimating your own speed
+– you probably did not emerge at a relative
+stop – by the speed of those local galaxies
+relative to you.
+Their distance from each other and relative
+speeds to each other can give you a good hint
+where you emerged in time too, because everything
+in the Universe is expanding away from everything
+else, in general, and the rate and average
+distances will tell you a lot about time.
+So too will the frequency of the cosmic microwave
+background radiation, or CMB.
+We tell people that the CMB is at 2.7 Kelvin,
+or more precisely 2.72548 Kelvin plus or minus
+0.00057 Kelvin, and that’s the peak wavelength,
+it is a spectrum.
+It also varies a bit by direction you look,
+that plus or minus being those cold and hot
+spots you see on the CMB maps of the Universe,
+variations of less than 0.02%, and corresponding
+to a frequency of about 160 GHz, or 1.9 millimeters
+wavelength, in the Microwave range of the
+spectrum.
+That is for today, when the Universe is about
+13.8 billion years old, it was at a much higher
+frequency when the Universe was younger since
+those little photons weren’t microwaves
+when they were made, they were in the visible
+or high infrared range and have red shifted
+around a thousand fold in their interim journey.
+So if your spaceship pops out of some anomaly
+at an unknown point in the Universe and you
+measure the CMB at about 4 or 5 kelvin, not
+2.7 Kelvin, you know you have plenty of time
+to find your way home because you’ve popped
+out in spacetime to about the time when Earth
+was first forming.
+Alternatively if the CMB is colder, you know
+you’ve gone ahead in time, and can calculate
+by how much, how precisely just depends on
+how precise you can measure that CMB from
+your ship, how good your civilization’s
+measurement in your computer archive is, and
+how solid your model of the Universe’s expansion
+is.
+I gave it above to six significant digits,
+so that’s presumably what we could do now,
+and should let you pin down your date to within
+a range of a hundred thousand years of this
+general era of the Universe.
+If you emerge trillions of years in the future
+when the CMB is down into the radio range,
+not microwaves, you’d be looking at estimating
+to the hundreds of millions of years, and
+another big clue will be that you will either
+find no galaxies or just one very big one,
+as by about a trillion years from now galaxies
+will all have coalesced with their nearer
+gravitationally bound neighbors while the
+others have all done the same with their neighbors
+but expanded so far away they fell over the
+cosmological event horizon, leaving you in
+a volume of space essentially vastly bigger
+than the current observable Universe but with
+only one single large galaxy, which may be
+dying off by then, star formation generally
+expected to begin ebbing around the trillion
+year mark and finishing off well before a
+quadrillion years.
+If you’re further ahead than that, and assuming
+you had awesome sensors, you could be guessing
+the age still of that CMB as it red shifts
+ever further and also off black holes.
+They are expected to evaporate and give off
+energy over truly long periods of time - see
+our Civilizations at the End of Time series
+for discussion of surviving in this era by
+farming those black holes.
+However, if you can sample a lot of them for
+their mass and Hawking Radiation rates, you
+should be able to guess decently accurately,
+relatively speaking, about how old they all
+are.
+Your margin of error for this, even if very
+small, is likely to be a period of time longer
+than the current age of the Universe.
+You also might – if your sensors are high
+tech enough, be able to pickup telltales of
+the gravitational waves given off by black
+hole mergers, which are monstrously energetic
+events even compared to supernovae.
+Or for that matter be able to pickup neutrino
+background radiation from the very beginning
+of the Universe.
+The CMB all originates from when the Universe
+was about 300,000 years old, what we call
+the Last Scattering, as before then the Universe
+was so dense photons generally got absorbed
+rather than wandering through light years
+of space, but neutrinos would not have been
+absorbed and should have a CMB equivalent
+that we could use to look at the earlier Universe
+even before the Last Scattering, if we get
+better at neutrino detection.
+Could you figure out where you were though?
+Well, maybe, there are some very large objects
+in the Universe in a nebulous sort of sense
+that are pretty unique, and if for instance
+you have mapped out the various cosmic voids,
+you would probably be able to calculate a
+decent idea what their size and shape was
+when they were younger or older and match
+that to your time estimate for the Universe
+to figure out which voids you were seeing
+were which ones in your archives.
+So too, quasars are monstrously powerful and
+visible Universe wide, and you might have
+good luck calculating position off those if
+you can make good guesses as to which were
+which.
+Of course when I say Universe Wide I mean
+the Observable Universe, and that will be
+different if you magically teleported to a
+different piece of it, when or where, as we
+assume the actual Universe is much bigger,
+maybe even infinite, see our episode on Alternate
+Realities and Parallel Universes for more
+explanation of that.
+In such a case, you might not ever be able
+to get your “Where”, but you could still
+get your when, unless you were in a different
+Universe, not just a different part of it.
+In the end, if you get lost in space you probably
+ought to follow the same policy when getting
+lost on Earth, sit still and listen for a
+bit, to see if you hear anyone or someone
+saw you and comes looking, or head for the
+brightest source of lights or noise.
+In this case that’s just going to be a star
+or Dyson Sphere, or galactic core, or some
+galaxy-scale megastructure like a Birch Planet
+maybe.
+Or just some random star that is closest and
+looks promising as a possible colony.
+Patience is a virtue if you’re getting lost
+or traveling in interstellar space, and doubly
+so if you’re getting lost in interstellar
+space, let alone intergalactic spacetime.
+You might need to park your spaceship at some
+planet, terraform it, and wait a hundred generations
+till you’ve got the skill, knowledge, manpower,
+and infrastructure to figure out where and
+when you are.
+The road to space is going to be a long one,
+and before we can navigate interstellar space
+we first have to build up our presence in
+interplanetary space.
+As we often discuss on the show, asteroids
+are likely to be a focus for much of that
+buildup, in terms of mining them and settling
+them, and that begins with exploring them.
+At the front line of that exploration is the
+OSIRIS-REx probe, our asteroid hunter, and
+there’s an excellent video on OSIRIS-REx
+over at partner and sponsor - Curiosity Stream.
+Curiosity Stream has thousands of fun and
+educational videos, but they’ve also partnered
+up with us at Nebula, our Streamy-Award Nominated
+streaming service, to offer Nebula’s content
+along with their own, if you sign up at the
+link in the episode description.
+That means you will not only get Curiosity
+Stream, and at a 26% discount, but also lets
+you catch SFIA episodes early and without
+ads, and help support our show while you’re
+doing it, as well as see our Exclusive Coexistence
+with Alien Series and other great content
+from our sibling shows.
+Again you can get a year of both Curiositystream
+and Nebula for less than $15, get to support
+the show and see our episodes early, and get
+all that for less than $15 by using the link
+in the episode’s description.
+So we are almost done with 2020, but we still
+have a couple episodes and a livestream to
+go.
+Next week we will look at how we go about
+building our own solar system up into a Kardashev-2
+Civilization, then on Sunday December 27th
+we will have our Monthly Livestream Q&A, and
+finally we wrap the year up on December 31st
+with Becoming an Interstellar Species.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!

@@ -1,0 +1,740 @@
+This episode is sponsored by Audible
+Ever since humans figured out that the Sun
+is powered by hydrogen fusion, we’ve imagined
+controlling the process and powering our civilization
+with miniature Suns.
+But as it turns out, the Sun is highly impractical,
+and we’re going to need to design something
+a lot better...
+So today we are looking at Fusion Power, how
+it might work, what’s holding up this technology,
+and what cool new options it opens up for
+our civilization.
+Many of these possibilities are less obvious
+than simply cheap electricity or fast spaceships,
+but just as important.
+This is a topic we mention in passing a lot
+on this channel as a keystone for many of
+our future technologies and pathways, so as
+we progress I’ll pop up the cover art for
+the relevant episodes.
+I thought we should start by addressing the
+challenges with achieving a working fusion
+reactor.
+There is an overused saying that makes me
+scowl whenever I hear it; that Fusion is the
+technology of 20 years from now, and always
+will be.
+Fusion as a serious concept is a lot newer
+than many of our other power sources, and
+has progressed neither particularly faster
+nor slower than most of them.
+Just as an example, solar power – itself
+an example of harnessing fusion from the Sun
+– has only recently become economically
+viable as primary power source.
+Back when I was a kid in the 1980s, we really
+only saw photovoltaics on very low energy,
+portable devices like calculators, as it was
+very expensive and inefficient.
+It was not new technology then either, way
+back in 1876 it was found that you could generate
+electricity by exposing selenium to sunlight,
+and Charles Fritts made the first solar cells
+in 1883.
+So it took over a century before we even had
+good enough solar to consider commercial usage
+of it.
+It was also half a century after those first
+solar cells before we even knew what fusion
+was, and before that we thought the sunlight
+running those primitive solar cells was caused
+by gravitational collapse.
+We had our first working artificial fusion
+source a mere generation later, with the Hydrogen
+Bomb in 1952.
+Similarly, while Ben Franklin did his famous
+kite flying experiment with electricity in
+1752, it was half a century later before Alessandro
+Volta, for whom the volt in named, built the
+first electric battery.
+Then it was a couple more generations before
+we saw the first electric generators and engines,
+and a couple more before Edison and Tesla
+hit the scene.
+Considering how hard it is to experiment with
+fusion, something which only naturally occurs
+in the heart of stars, it isn’t all that
+surprising that we still don’t have a working
+fusion reactor less than a century after we
+even realized such a thing as fusion existed.
+It’s not helpful when folks go around talking
+about 20 years from now like that was useful
+or meaningful, when its timeline is still
+shorter than the development of many other
+technologies, from computers and rockets to
+other power generation mechanisms.
+The other big issue is that you need large,
+high tech, and expensive facilities just to
+experiment with fusion in a serious way, which
+usually means anytime you learn something
+new from an experiment, you need around 20
+years just to digest and theorize about that
+new data, draw up a new experiment, pitch
+a grant proposal for major government funding
+to build new massive and expensive facilities,
+and then build them, before you can get your
+next set of data to refine your models, rinse
+and repeat.
+Now as to the mechanism, there’s a bit more
+to it than hydrogen slamming together and
+turning into helium at millions of degrees.
+At high temperatures, the electrons get stripped
+off atoms and you have a plasma of atomic
+nuclei.
+In the case of common hydrogen-1, the nucleus
+is just a single proton with no neutrons.
+To fuse two protons together you first have
+to overcome the repulsion of their positive
+charges, and the closer you get them together,
+the greater the force and energy involved.
+That energy is what we call the Coulomb Barrier.
+The normal means for supplying that energy
+to move the particles together at high speed
+can be done in a particle collider, but the
+method used in stars is just heat, which is
+just a measure of how fast individual particles
+are traveling.
+One of the things that slowed us down on figuring
+out what powered the Sun was that its temperature
+isn’t actually high enough to overcome that
+Coulomb Barrier.
+That takes various quantum effects, and so
+does binding the protons together once they
+get there.
+And here’s where we get into what makes
+hydrogen fusion so tricky, it’s a hurdle
+that comes early in a fairly complicated process.
+When a pair of protons get close enough together,
+the Strong Nuclear Force will bind them, kind
+of, into a very unstable isotope called a
+diproton, which nearly always splits right
+back into a pair of protons.
+Very rarely—and here’s where quantum mechanics
+comes in—that diproton instead emits a positron
+and decays into a nucleus of deuterium, a
+proton-neutron pair.
+From there, there are actually a number next-steps
+that might take place, some of which is the
+deuteron might fuse with another proton or
+deuteron, to produce various intermediate
+isotopes that undergo fusion and decay reactions
+of their own… before finally producing nice
+stable nuclei of Helium-4, which have two
+neutrons and two protons.
+But the difficult hurdle to clear, the bottleneck
+in the whole process, is that rare decay of
+a diproton into deuterium.
+That bottleneck is the reason stars take billions
+of years to use up their hydrogen.
+The half-life of a proton in the core of our
+Sun before it is fused into deuterium is about
+a billion years; which is to say, bouncing
+around at that temperature, in the core where
+fusion is actually taking place, any given
+proton has only coin flip odds of fusing into
+deuterium in a billion years, even though
+it would fuse briefly into diprotons several
+times along the way.
+That’s a good thing for us, because we wouldn’t
+be around if the Sun burned fuel faster than
+that.
+Indeed bigger stars create a higher pressure
+at their cores resulting in faster fusion,
+so they have shorter lives precisely because
+they have more fuel.
+Even then it’s pretty slow for our purposes.
+It doesn’t come up much in our discussion
+of fusion as a power source, but if you could
+replicate the conditions inside the Sun in
+some reactor down here on Earth, with several
+tons of fusion fuel inside it, that would
+release perhaps a billion, billion joules
+of energy over the course of a billion years.
+Which means it could run a light bulb.
+And while it would last a billion years, you’d
+have to expend energy to maintain and run
+the thing too.
+That’s the two foremost challenges of fusion
+reactors: getting a net positive energy gain,
+and dealing with all the damage to the components
+and containment vessel from the radiation.
+Fortunately, the past few decades of research
+have yielded improvements in the efficiency
+of the design and durability of the alloys
+we use in fusion R&D, though still not enough.
+But again, such a reactor doesn’t interest
+us much as a power source, any more than a
+H-bomb does, so we need something that can
+run a lot hotter.
+People talk about how hard it is to replicate
+the conditions inside a star, but we’re
+way past that.
+We usually estimate the temperature of the
+Sun’s Core at about 15 million Kelvin, while
+those Tokamak Fusion Reactors you’ve heard
+about can run at 150 million Kelvin, 10 times
+hotter, and we’ve actually briefly produced
+temperatures in the trillions in labs by ramming
+particles together.
+So again, we’re not trying to replicate
+the center of our Sun, because that’s not
+good enough.
+We’re also not trying to do proton-proton
+fusion much right now.
+The default approach is to use deuterium or
+tritium, hydrogen isotopes with a proton and
+one or two neutrons, or helium-3, with two
+protons and one neutron, or lithium, which
+has three protons.
+These isotopes have lower Coulomb Barriers
+to overcome to produce a fused particle and
+release energy, so they are our first step.
+Deuterium-Deuterium, or D-D Fusion, is often
+seen as the most attractive because Deuterium,
+while rare compared to normal hydrogen, is
+still very common on Earth, whereas Tritium
+has a half-life not much over a decade so
+it’s hard to find, and helium is quite rare
+on Earth and Helium-3 even more so.
+Handily if you do have a fusion reactor, you
+can build ships that can quite quickly and
+economically go fetch these rarer fuels from
+our various gas giants, and Helium-3 is an
+attractive fusion fuel for reasons we’ll
+get to in a bit.
+Remember how difficult it is to produce deuterium
+from protons?
+When we fuel a fusion bomb or reactor with
+deuterium, we are taking advantage of the
+fact that dead stars, of whose material our
+planet is made, already took care of the most
+difficult part of fusion for us.
+Thanks, Universe!
+Your ideal fusion reactor though would run
+basic hydrogen all the way through the various
+heavier fusion chains to iron, releasing energy
+at each step.
+This series of reactions can be considered
+the ultimate goal as it’s the most efficient
+use of the fuel, but achieving such a thing
+is a long way off.
+I should note that not all fusion reactions
+produce energy.
+In general those resulting in elements heavier
+than iron, are net negatives.
+These reactions are easier in some ways too.
+It’s fusion when you add neutrons to uranium-238
+to turn it into Plutonium-239, for instance.
+So regular Fusion is hard to do, particularly
+as we have to do it better than stars can,
+and with far less mass and gravity to work
+with.
+So what are the methods?
+Well first there is the H-Bomb, which uses
+a fission explosion to make fusion occur much
+in the same way we use conventional explosives
+to set off the fission reaction.
+We can make power with this, and I mean usefully
+too.
+You make small fuel pellets of plutonium and
+your fusion fuel, essentially small H-Bombs,
+and set them off in something that can absorb
+the energy, like water or preferably molten
+salt, which you then tap for power more slowly
+using conventional heat engines like many
+power plants use.
+Then all you have to do is set a new one off
+every so often to reheat the liquid medium.
+This is a fission-fusion hybrid, arguably
+a chemical-fission-fusion hybrid since it
+uses chemical explosives to ignite the fission
+to ignite the fusion.
+But bomb-grade explosives aren’t cheap,
+and neither is weapons grade uranium or plutonium
+for the fission or deuterium and tritium for
+the fusion.
+At least the tritium anyway, deuterium actually
+is relatively cheap and more so when you have
+an abundant cheap power source for separating
+it from water.
+So it’s pricey, but the costs would get
+lower with scale, these need to be big plants
+and the bigger the better, ideally ones powerful
+enough you only needed a few per country,
+but at least it lets you get a lot more juice
+out of your fissile materials.
+Whether or not it would be competitive or
+cheaper than existing power is debatable,
+but that wouldn’t necessarily matter if
+you’re running out of material for those
+existing sources.
+Now you could make smaller bombs for smaller
+reactors using transuranic elements beyond
+even plutonium, but that wouldn’t be for
+Earth based power, but some place where you
+needed a small and short lived but powerful
+reactor.
+These aren’t high-tech futuristic technology,
+incidentally.
+I’d say we could build one tomorrow, but
+the scale of such a plant would imply many
+years of construction to make something big
+enough and shielded enough to absorb even
+small blasts.
+However this sort of approach is more attractive
+if you’ve got cheap superconductors since
+it means you can have very few but very large
+plants, or ones in isolated areas, without
+losing lots of your energy to resistance in
+your electric wires.
+Of course superconductors also make awesome
+magnets, which is the keystone of the best
+known approach to fusion: tokamaks and other
+magnetic confinement systems.
+Hot hydrogen and helium turned into plasmas
+are charged particles, so very susceptible
+to magnetic fields, and so we can use them
+to contain our plasma.
+This is important because that plasma needs
+to be hundreds of millions of degrees, and
+even our best alloys can only handle thousands
+of degrees, so if the plasma could touch the
+containment vessel, it would slag the whole
+thing.
+Your basic Tokamak is a big toroid, or donut,
+created by using magnets to contain the plasmas
+and to exert force on them to speed up and
+start slamming particles around so they get
+hotter.
+The primary problem is that doing this takes
+energy, hence the concept of ‘break even’.
+So you need a reactor that produces more energy
+than it takes to heat everything up.
+The next problem is actually utilizing that
+energy, and the general assumption is that
+you’d be absorbing the radiation given off
+as heat in the containment vessel, and exchanging
+it with coolant with which you’d then generate
+power through a normal heat engine.
+There’s a lot of losses in such a process,
+which means your real break-even, in a practical
+engineering and economic sense, is even higher.
+The next problem after that is that you are
+irradiating that containment vessel.
+You have to if you want to get power after
+all, and while magnets are good at containing
+protons and electrons, they don’t protect
+against gamma rays, neutrinos, or neutrons,
+all of which are being produced, though the
+neutrons are the major concern.
+None of these are thought to be unconquerable
+problems, and we’ve been slowly approaching
+the break even point over the years, but we’ve
+also been encountering other issues as we
+progress.
+The Tokamak tends to be the default fusion
+reactor everything else gets compared to,
+and comes in other shapes than toroids, like
+spheres, but it isn’t the only approach.
+Even focusing only on magnetic confinement,
+there are many other variations.
+Another method is inertial confinement, which
+usually uses a laser or charged matter beam
+to slam enough energy into a fusion-fuel pellet
+to ignite fusion, and is conceptually pretty
+similar to the technique we discussed for
+making Kugelblitz black holes, only a lot
+easier.
+This is the approach the National Ignition
+Facility uses.
+Another confinement approach is Inertial Electrostatic,
+which uses electric fields to speed up the
+plasma, rather than magnets, though the Polywell
+approach combines the two.
+You’ve also got magnetic and electric pinch
+approaches.
+A pinch in this context is where you get some
+electric filament, such as a plasma, and compress
+it magnetically, and you actually see this
+in the sky a lot with both lightning bolts
+and the aurora.
+There’s a few types of pinch designs, but
+the main one is the Z-pinch, which you might
+recognize from the Z-Machine, or Z Pulsed
+Power Facility at Sandia National Labs.
+This is also an example of pulsed power, same
+as the h-bomb route, where the idea is to
+produce it in quick enough bursts that it’s
+essentially continuous for practical applications.
+There are many other methods, but I’d like
+to get on to the practical impact of fusion
+so we’ll skip them, though I don’t want
+to imply their omission reflects badly on
+them.
+While the idea of “Cold Fusion” has a
+deservedly shady reputation, a lot of other
+fusion experiments get tainted by association
+with that, usually unfairly.
+The last thing I want to mention real quick
+is helium-3 and aneutronic fusion.
+Most fusion approaches produce a lot of neutrons
+which damage and irradiate things, and we
+don’t want that if we can avoid it.
+Helium-3 produces a lot less neutrons in its
+various fusion chains like helium-helium,
+helium-deuterium, or helium-lithium.
+It’s harder to do than the various deuterium
+and tritium reactions, but it would permit
+longer-lived and lighter reactors, which makes
+it especially tempting for spaceship engines.
+There is very little helium-3 on Earth, and
+the Moon isn’t really a great source of
+it either due to its very low concentration
+in the regolith, but there is plenty of it
+out in the gas giants and that could easily
+drive colonization of Uranus and Neptune as
+we discussed in colonizing Neptune, as they
+have the highest concentrations, and plenty
+of deuterium too.
+The key thing is you don’t need much of
+it on the Earth or the Moon to start using
+it, since the moment you have a fusion reactor
+good enough for a spaceship, you’ve got
+a spaceship that can easily run back and forth
+to Neptune to collect Helium-3, and a reactor
+that can easily power refineries and habitats
+around those gas giants, far from the Sun.
+Indeed it’s good enough for interstellar
+travel too, potentially allowing speeds of
+10-20% of light speed, though more realistically
+probably less than that.
+Check out Atomic Rockets if you want a detailed
+breakdown of the various hypothetical fusion
+drives, Winchell’s website goes into the
+details without bogging it down in techno-speak.
+Obviously the biggest application for fusion,
+normal or aneutronic, is power generation,
+since down on Earth you don’t care about
+power-to-mass ratios.
+Fusion rockets are the other as we just mentioned,
+but it’s not so good for ground-to-space
+ships, because while you can accelerate slowly
+in space, which fusion is really good at,
+you really need high thrust to get out of
+an atmosphere, and your default high-efficiency,
+high-power fusion torch drive does not radiate
+its containment vessel to warm it up and run
+a heat engine or superheat some propellant,
+but rather it dumps all that hot plasma out
+the back as the propellant, which is decidedly
+unhealthy.
+Not that standing in a normal rocket flame
+is very healthy either, but a superhot plasma
+exhaust with lots of gamma rays and neutron
+flux is a whole new level of hazardous, especially
+considering such ships probably need to be
+quite large too.
+They also might not be great for power generation
+in space, at least reasonably near the sun.
+Fundamentally, while fusion is very energy
+dense, fusion power is really not.
+You’re heating something up to run a normal
+heat engine, and in space you could achieve
+the same thing by taking a bunch of thin parabolic
+mirrors and aiming them at that same working
+medium.
+Considering how cheap a mirror is, how much
+sunlight there is, and how much empty space
+there is to put mirrors in, you are probably
+going to find it’s cheaper in the inner
+solar system, in terms of both money and mass
+and for stationary power generation, to just
+use solar.
+Though as with every power generation method,
+there’s likely to be occasions where one
+system outperforms another for a specific
+use, even if in most other cases it doesn’t.
+Now, down on Earth, what’s the advantage?
+First you’re not beaming any energy down
+from space, as we discussed in power satellites,
+or dealing with clouds or night time for ground-based
+solar.
+Second, even if you are limited to deuterium,
+or even helium-3 and tritium, you’re going
+to get a lot more energy from those stockpiles
+on Earth or throughout the solar system than
+you would from chemical or fission fuels.
+There is no such thing a truly renewable power
+source, but we count the sun as the next best
+thing, and fusion parallels or beats that.
+It also doesn’t generate the highly radioactive
+waste that fission does, though I should note
+that the fear of radioactive waste from fission,
+especially with modern methods, is decidedly
+exaggerated.
+It also doesn’t produce carbon dioxide,
+nor does extracting deuterium from ocean water
+cause any ecological issues associated to
+mining.
+In fact, since carbon dioxide from fossils
+fuels is produced by adding oxygen to hydrocarbons
+and producing water and carbon and energy,
+it’s worth noting you can run that process
+backwards, just paying energy to do it.
+That’s not advanced science, sucking carbon
+dioxide and water out of air to make hydrocarbons
+and oxygen, in reverse, is quite easy.
+It’s just going to take you more energy
+than you’d get by burning it.
+But if you’ve got a huge source of energy,
+though not a mobile one, you suddenly can
+start making gasoline out of air as a nice
+compact, carbon neutral power source.
+Chemical fuels are awesome ways of generating
+power compared to even our best modern batteries,
+so if you can synthetically produce a cheap,
+unlimited, and ecologically safe supply of
+them, the impact would be huge.
+It could be carbon negative too, since you
+could dump that carbon out of the air into
+mine shafts or maybe make diamonds or graphene
+out of it.
+Needless to say those are valuable to us too
+but diamonds might be energy prohibitive to
+mass produce as a construction material, unless
+you have good fusion reactors.
+There’s also aluminum though, and for that
+matter steel.
+Aluminum is awesome stuff for building many
+things but cost prohibitive because it takes
+a ton of electricity to make.
+Similarly while you do need carbon for steel,
+the main use of it in steelmaking is for heat,
+so fusion lets you make both cheaper then,
+and if you are using it to run carbon sinks,
+it lets you get away with using concrete to
+your heart’s content without carbon concerns.
+It also makes vertical farming or cold-climate
+farming in greenhouses economically viable,
+as you can now run lighting and heating at
+competitive costs to natural open air farming,
+amplifying the amount of food you can get
+out of a chunk of land.
+You can also desalinate water and pump it
+anywhere, with that kind of energy, allowing
+the conversion of arid deserts and tundras
+for agriculture.
+Similarly, with cheap power, you can recycle
+virtually any material economically and extract
+new metals in more environmentally friendly
+ways.
+We’re only touching on the options available
+which we’ve discussed in a lot of our episodes,
+particularly the Impact of Fusion episode
+in our show’s first season, and the Arcologies
+& Ecumenopolises episodes that looked how
+far you can go with vertical farming when
+you have a ton of cheap energy.
+This is a power source that basically eliminates
+most ecological problems, directly or indirectly,
+allows interplanetary and even interstellar
+space travel, and lets you terraform planets
+or build and light and heat artificial habitats.
+I think sometimes the skepticism towards fusion,
+as mentioned at the beginning, has to do not
+with it developing particularly more slowly
+than most other technologies have, but, rather,
+in part from its breakthrough and wonder status,
+it being seemingly miraculous.
+Now, there are still some downsides and limits.
+First off, the cost of power is not just the
+cost of fuel, which is not free even for fusion,
+especially if you need to use rarer isotopes
+than deuterium or plain hydrogen.
+Power Plants need maintenance, electric grids
+need maintenance, but you’d expect to see
+a big drop in cost and possibly more of a
+subscription approach rather than a per unit
+approach, like we tend to do with phones and
+internet.
+You pay for access to a certain amount of
+power whether you use it or not, rather than
+per unit of energy, which might mean big industrial
+users get their energy very cheaply, as everyone’s
+really paying for their electric lines and
+building & maintaining the power plant.
+You’d also have huge knock-on effects to
+the economy, when gasoline, fertilizer, construction
+material, and many manufactured goods all
+get cheaper.
+The price of power might only get cut in half,
+but if everyone is earning twice as much and
+paying half as much for many goods, it’s
+not just a tiny cut in your electric bill.
+It’s an economic snowball, and it’s why
+I usually count fusion as one of the handful
+of technologies that if you’ve got it, either
+by itself or maybe with one other, instantly
+kicks you into a post-scarcity civilization.
+Putting it bluntly, within a couple decades
+of us developing a viable commercial fusion
+reactor, even one that can only match modern
+energy costs, whether that be tomorrow or
+a century from now, will almost certainly
+push humanity into an era of universal prosperity,
+since so much of what’s holding us back
+from that today is the limited stockpiles
+of fuels and the worries over their usages.
+Of course it’s not a total end to ecological
+worries like global warming either.
+Greenhouses gases trap heat, but if you’re
+using enough power, green or not, you can
+start warming up.
+Fortunately you’d need to have trillions
+of people living on Earth before that was
+a serious issue and we discussed some ways
+to get around that in Ecumenopolises, Planet
+Wide Cities.
+One of those approaches was great big space
+towers or orbital rings for radiating heat,
+or bringing food and materials down to Earth
+cheaply, so you could reduce how much heat
+you made here on the ground, and active support
+structures, which require a lot of power,
+is something fusion is great for too.
+And that’s fusion in a nutshell.
+Unsurprisingly, the power of the Sun, when
+we get it working, offers us a very bright
+future…
+Fusion is one of those technologies, like
+smart automation, that offers a key to unlock
+the galaxy to us and make our own world into
+a paradise.
+Many authors tend to write dystopian science
+fiction to add tension and challenge but while
+those often make for great stories, they often
+feel very unrealistic to me, even if they
+have good hard science in them.
+There’s more to realistic science fiction
+than just getting the science part right,
+the civilizations on display have to feel
+realistic for the setting and technology too,
+and of course Paradise is rarely without it’s
+own new challenges and can be a bit subjective.
+One of my favorite authors in that regard
+is Peter F. Hamilton, particularly in his
+Commonwealth Saga beginning with the novel
+Pandora’s Star.
+Set in the 24th century, the book shows us
+many fantastic and immense ideas, but also
+gives a close look at day to day life and
+how those wonders, like energy and land abundance
+and life extension, begin shaping that civilization.
+Later books in the series follow that civilization
+into future centuries.
+The series is also narrated by John Lee, who
+as I’ve mentioned before is my favorite
+audiobook narrator and as usual he gives an
+excellent performance that only improves an
+already excellent series.
+You can get a free copy of Pandora’s Star
+at Audible.com/Isaac or text Isaac to 500-500.
+ 
+Audible offer a 30 day free trial, but each
+month you’re a member you now get a free
+audiobook and 2 audible originals, and those
+credits rollover to the next month or year
+and stay yours, along with any books you got,
+even if you later discontinue your membership.
+And with their convenient app, you can listen
+on any of your devices and seamlessly pick
+up where you left off, whether you’re listening
+at home, commuting, running errands or off
+jogging or at the gym.
+Audible makes it cheap and easy to access
+a vast collection of amazing stories.
+So a couple quick announcements before we
+hop into the schedule for the rest of the
+month.
+First, an update and apology, back around
+the beginning of the year I grabbed a post
+office box after requests I give folks a non-electronic
+way to send me things and obviously didn’t
+want my home address up on the internet but
+some confusion during the setup resulted in
+a lot of that getting returned to sender and
+I didn’t find out for months.
+That should be fixed now, and the address
+is still Isaac Arthur at PO Box 529, Geneva,
+Ohio, 44041 in the United States.
+Second, we have a new extra episode up on
+Nebula about the Butterfly Effect, and I’ll
+leave the promo link in the episode description
+so you can use the 7-day free trial to check
+that out, and our previous one, the Paperclip
+Maximizer.
+Nebula is a new streaming service a bunch
+of us creators got together to make as an
+experimental alternative hosting platform
+to give us more flexibility in content and
+control of our content and its launch exceeded
+even our most optimistic expectations.
+There’s a lot of material I and other creators
+on Youtube mostly don’t create because we
+worry about getting punished by the recommendation
+algorithms and Nebula is designed to help
+us with that and we’ll keep adding features
+as it grows.
+In general the stuff I upload there that is
+just bonus episodes will migrate over to Youtube
+after a couple months but other content like
+extended commentary or behind the scenes material
+that folks ask for but which would get butchered
+by the Youtube Algorithms will likely stay
+exclusively there, and we’ll get channel
+specific links for Patreon supporters integrated
+into that in the near future too.
+As you probably noticed, we had a lot more
+callback to prior episodes than normal, as
+this topic is very integrated into a lot of
+our episodes, and these days there’s about
+200 episodes, many look at things which seem
+nigh impossible but technologies like Fusion
+might one day bring them into existence.
+With that in mind, we’ll be having our 200th
+official episode, “Things which will never
+exist” in just two weeks.
+Before then though, there’s another topic
+we discuss a lot and that is megastructures
+or other giant constructs like generation
+ships or artificial planets, and something
+we don’t look at much when discussing those
+is how you go about maintaining those and
+sweep up all the debris you generally need
+to clear out to make them or generate in making
+and using them.
+So next week we’ll take a look at the untidy
+underside of our big bright future in Space
+Janitors & Megastructure Maintenance.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+Also if you want to check out any of those
+many past episodes we mentioned today, check
+out the playlists for the channel here on
+Youtube or our website, IsaacArthur.net.
+Until next time, thanks for watching, and
+have a Great Week!

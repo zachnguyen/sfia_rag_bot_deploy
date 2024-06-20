@@ -1,0 +1,796 @@
+Our world is ancient, but the Universe is far 
+older. What were those first planets like,  
+and how soon can life emerge on new ones?
+About 1 second after the Big Bang the  
+conditions of the Universe were so hot and dense 
+they surpassed a supernova, and in under a minute  
+virtually every particle of hydrogen, helium, 
+deuterium, and lithium that now exists was formed.  
+Things grew less dense and cooler after that, and 
+by 400,000 years after the Big Bang conditions had  
+settled down to what the surface of a dimmer star 
+would be like. It’s ironic that folks think we  
+have problems recreating fusion in the lab because 
+we’re trying to replicate the innards of stars,  
+but we’re not, fusion of any given particle 
+in the core of a typical star is the sort  
+of thing that happens less often than once 
+in a billion years. People might envision  
+a house-sized fusion reactor replicating our 
+sun’s interior with 100 tons of stellar core  
+matter inside as some powerful juggernaut but it 
+would only be able to run a few light bulbs off  
+the fusion energy it was producing, albeit 
+it would run them for billions of years. 
+No, to generate useful power from fusion you need 
+to replicate the conditions inside a dying star,  
+and those are the conditions that forged 
+the matter planets are made of and those  
+conditions lasted only a few brief 
+moments after the beginning of time. 
+Had the Universe expanded a bit faster than that 
+there’d probably be little helium still and no  
+lithium, had it expanded much slower than that 
+then we would probably have a universe without  
+any hydrogen to fuel stars and possibly 
+just a lot of iron and nickel floating  
+around until it turned into black holes.
+There might have been some different story  
+where conditions after that first minute left 
+us a modest fraction of heavier elements that  
+would have permitted those first stars to 
+have rocky planets around them. There may be  
+realities in which those planets formed even 
+as the first stars were born. But instead,  
+we had to wait for many generations of 
+the shorter-lived and bigger stars to  
+live and violently die for those conditions 
+to arise. And indeed, for the corpse stars,  
+those stellar remnants like white dwarfs 
+and neutron stars, to collide together,  
+as much of the heavier matter in the Universe is 
+not birthed by a large star going supernova but  
+from the violent ends of white dwarfs absorbing 
+matter or neutron stars merging with neighbors. 
+Today we are going to discuss those first 
+planets and also what young planets born  
+later in the Universe are like. When could 
+the first planet able to support life have  
+formed and how young can a planet be for 
+us to successfully settle and terraform it? 
+It’s a big problem spanning billions of 
+years. We won’t need that long to explain it,  
+but we’ll still be here for a bit. 
+So settle in, grab a drink and snack,  
+hit those like and subscribe buttons, and let’s 
+journey to the time of Primordial Planets. 
+Nowadays we discover new exoplanets every day, 
+but in truth we still know little about them,  
+and most of the ones we discover are enormous 
+giants or right by their sun or often both. Huge  
+gas giants don’t interest us much when we’re 
+considering how rocky planets form, as while  
+newer gas giants often have several rocky planets 
+worth of heavy matter in their centers, you only  
+get those exposed for life if they are so close to 
+their sun that it can strip the massive atmosphere  
+off and leave you that remnant. We call those 
+Chthonian planets and the name derives from the  
+idea of an infernal underworld and these are 
+going to be no more habitable than Mercury is. 
+But you might be wondering if Mercury ever did 
+have an atmosphere and that’s a good place to  
+begin. When a star forms it does so from a local 
+cloud of gas and the temperature of that gas is  
+quite important. Space is not cold like folks 
+tend to think and it used to be a lot hotter,  
+and we still have nebulae and gas clouds that 
+can be as hot as a million Kelvin. Even hydrogen  
+particles of just a few thousand kelvin are moving 
+thousands of meters per second and at a millions  
+it’s more than an order of magnitude higher. 
+So they are not getting captured easily by  
+gravity as a star tries to form. Formation happens 
+better in cooler and denser regions, often ones  
+recently hit by the shockwave of a supernova.
+Molecular clouds are these cooler and denser  
+regions we get stars forming in and they 
+make up less than a percent of the galaxy’s  
+volume and are mostly packed in from 11,000 to 
+24,000 light years from the galactic center,  
+we are a bit further out, 26 or 27,000 light years 
+from the center. As a star forms in these we get  
+other clumps of matter too, and the heavier 
+elements will clump easier as they move slower  
+at the same temperature. Gas speed generally rises 
+with the square root of temperature and drops with  
+the square root of mass, so a molecule a hundred 
+time heavier than a random hydrogen particle is  
+moving at a tenth the speed, meaning it’s a lot 
+easier for it to clump into things rather than  
+bouncing off or evading the rising tug of gravity.
+Stars form from a cloud that has a certain makeup,  
+almost entirely that same hydrogen and helium that 
+formed in the first minute after the Big Bang,  
+but when our Sun formed about 9 billion years 
+after the Big Bang it was a bit under 2% heavier  
+matter by mass. Those particles are all heavier 
+elements so they actually only make up about 0.1%  
+of the Sun’s atoms by number, and similarly, 9 
+out of 10 atoms in the Sun are hydrogen but only  
+about 7-tenths of the Sun’s mass is hydrogen and 
+that’s been the approximate ratio since that first  
+minute of the Universe. All the heavier stuff 
+is a tiny fraction compared to that primordial  
+hydrogen and helium and more than half of that 
+remainder are oxygen and carbon atoms with Neon,  
+Iron, and Nitrogen as distant runner ups.
+All these elements heavier than hydrogen and  
+helium are referred to as metals in astronomical 
+terms and we can roughly gauge a star's age by  
+its metallicity, the percentage of it composed 
+of anything heavier than helium. Metallicity  
+of a given star or nebula is not a precise 
+measure of age by any means, as it reflects the  
+local activity of dying stars and stellar remnant 
+collisions and that is not going to be homogenous  
+throughout a galaxy or between galaxies either.
+Stars were originally categorized as Population  
+1 and 2, where our Sun is a 1 and population 
+1 can include stars with a metallicity only  
+a tenth of our own up to those with a few 
+times more. Population 2 was anything with  
+a lower metallicity than that, less than 
+tenth of our own down to only a thousandth,  
+and these are older stars and thus also mostly 
+stars less massive than our own that can live  
+many billions of years. In early astronomy when 
+we were first figuring this out we mostly only  
+saw stars bigger than our own and thus called it 
+a yellow dwarf but we later found about 95% of  
+all current stars were less massive than our Sun 
+and virtually none of these stars has died yet. 
+This effects metallicity in terms of composition 
+too, as while we usually treat it as a raw value  
+or even estimate it off the ratio of iron 
+or magnesium we see in a star’s spectrum,  
+certain elements like carbon and nitrogen 
+are formed mostly in the deaths of lower  
+mass stars that do not go supernova. Ones that 
+form white dwarfs after a red giant phase. Stars  
+that go supernova typically live 100 million 
+years or less, whereas no white dwarf could  
+be younger than that, and the majority of iron 
+and nickel is from exploding white dwarfs which  
+absorbed matter off a less massive and longer 
+lived binary partner, a Type 1a Supernova,  
+whereas magnesium is only made in quantity 
+in supernova of big stars, type 2 Supernova,  
+and so is oxygen and phosphorus. That’s where some 
+of our nickel and iron comes from too and some of  
+our carbon and nitrogen, but most of that carbon 
+and nitrogen is from smaller stars blowing matter  
+off as they head toward being white dwarfs.
+These ratios matter because our very first  
+planets probably formed alongside the very 
+first stars, the hypothetical Population  
+3 stars with essentially no metallicity, and 
+these planets wouldn’t have had them either,  
+but as those built up we get higher ratios of 
+metals and greater chances of large rocky planets  
+forming but elements like carbon and nitrogen 
+– which are pretty critical to life, are going  
+to be at a lower ratio in those oldest planets 
+because most of the stars that would produce them  
+took a lot longer to die and do that. That ratio 
+of heavy elements is probably going to matter and  
+while metallicity of stars and the nebula planets 
+develop from rises overall with time, it isn’t  
+constant across galaxies and the ratio of the 
+elements it’s made from is not constant either. 
+But rocky planets will form even when the 
+protoplanetary disc it's forming from is  
+fairly low on metallicity. As mentioned, Hydrogen 
+and helium are generally moving much faster than  
+other particles and won’t clump as easily so 
+we can’t assume the smaller planets formed with  
+the same ratio as that star did, but it is very 
+likely early-stage rocky planets all had a thick  
+atmosphere of hydrogen and helium themselves. 
+Likely even more so in the more distant past when  
+those metallicity rates were lower. Once that 
+star ignites, a lot of the remaining hydrogen  
+is going to be blown away from that solar system, 
+both whatever is just floating around and whatever  
+is around smaller planets as it just doesn’t mass 
+very much and it will be getting hit by solar wind  
+coming off that sun, which are mostly hydrogen 
+atoms that by definition have to be moving fast  
+enough to escape the solar system themselves.
+Some hydrogen lingers as it bonds to heavier  
+atoms, like oxygen to make water, nitrogen 
+to make ammonia, and carbon to make methane,  
+and heavier molecules too. Indeed, those three 
+molecules tend to be very common deeper out in  
+the solar system and form the majority of 
+Trans-Neptunian and cometary matter. Helium  
+and Neon are also very common but don’t form 
+molecular bonds and tend to fly away. Argon  
+doesn’t form bonds either but is heavier 
+and lingers, it’s just not terribly common. 
+How soon was that possible? Well, realistically 
+only a population 2 star could have hosted a  
+planet. About the most a population 3 star would 
+have is one thousandth its mass as metals and  
+that’s the high end, the earliest would have been 
+even lower. Now that’s more than enough matter  
+for a planet but the issue is that it’s likely 
+to have been the rough makeup of that initial  
+planetary body itself too. Jupiter’s makeup 
+is fairly close to our Sun’s and so is Saturn,  
+while Uranus and Neptune, being smaller ice 
+giants, still are mostly hydrogen andhelium  
+but have a much higher ratio of those other 
+secondary but abundant elements like oxygen,  
+carbon, and nitrogen. Strip any of those down of 
+their hydrogen and helium and you’ve got a rocky  
+planet, but we believe the core metal core 
+of Uranus is only around Half Earth’s Mass,  
+with Neptune maybe at 1.2 Earth’s Mass, 
+and Saturn and Jupiter both much bigger. 
+What this basically tells us though is that 
+anything big enough to have an Earth-mass of  
+rocky materials while in a system with a tenth 
+or much less of the metallicity of our own Sun  
+is likely to be in at least that Saturn mass 
+range and likely higher, and it would be a big  
+stretch to get that massive atmosphere stripped 
+off in any place where a habitable planet would  
+be left over. I could imagine it in a case 
+where you had a trinary system with two close  
+binaries with one being a star that might be 4-8 
+times the mass of our sun and another smaller,  
+and a third star out at least several AU 
+away, in a loose orbit of the other two. 
+The bigger one goes red giant, shucks 
+off its outer layer, goes white dwarf,  
+sucks matter off its partner and goes Type 
+1a Supernova, leaving a fairly metal rich  
+system and possibly stripping a lot of 
+hydrogen off some gas giant orbiting  
+our other outer star. Something like that 
+isn’t super likely but isn’t strange either,  
+and in a universe of billions of billions of stars 
+probably has happened billions of times already. 
+So that’s one way you might get 
+a rocky planet fairly early,  
+after that we don’t see any population 1 stars 
+till about 10 billion years ago, about twice our  
+Sun’s age and these are all on the low side of 
+metallicity themselves, in that zone of being  
+a tenth of the metallicity of our sun or a bit 
+higher. We have a lot of stripping, migration,  
+or ejection methods that could plausibly result 
+in something like Neptune being stripped down to  
+a rocky planet, so that I would be willing to 
+say primordial Earth-like planets should have  
+existed as early as 10 billion years ago if not 
+sooner. Let me caveat that by saying a lot of  
+those methods for permitting a low metallicity 
+system to produce a big rocky planet are also  
+not situations or events I’d think of as being 
+great situations for life to try to exist in. 
+For conceptual purposes, we might find that 
+Earth-like rocky planets formed a hundredth  
+as often 10 billions years ago as 5 billion, when 
+our sun formed, and were also 1% as likely to be  
+plausibly long-term habitable at their location, 
+and so we have only a ten-thousandth as many life  
+bearing planets popping up 10 billion years 
+ago as 5 billion years. But if only one in  
+ten thousand systems produced such a planet 
+5 billion years ago, that means only one in  
+a hundred million did 10 billion years ago. That 
+doesn’t sound like many, but that still means  
+at least a thousand in this galaxy alone. Places 
+where life might have flowered to be building its  
+own spaceship before Earth had even begun forming. 
+And again, we do have potential scenarios like a  
+population 2 star managing to get a rocky planet 
+by seeing a very large gas giant get stripped  
+down and maybe even in the first billion 
+years of the Universe, though I’d not give  
+it great odds even at the Supercluster Scale.
+Gas giants can form anywhere as they have so  
+much mass, but those volatiles and icy bodies 
+are limited to the outer system further out,  
+beyond what we call the frostline which is at 
+the edge or past our own asteroid belt and here  
+you get bodies mostly composed of those ices as 
+they are simply far more common. Oxygen, Carbon,  
+and Nitrogen are very abundant and hydrogen far 
+more so, hence their simple molecules of water,  
+methane, and ammonia will dominate the makeup of 
+most bodies out past here. Rocky objects in this  
+region can be moons that are captured asteroids 
+from closer in-system or expended comets or a  
+tidally wracked moon like Io near Jupiter that 
+just blew material off, and we can imagine an  
+Io like Moon, or one a bit bigger, as a potential 
+primordial planet, or primordial moon, as they’d  
+make a decent candidate for life to emerge on.
+Our default assumption is that a primordial  
+planet life would emerge on has enough 
+size to retain an atmosphere for billions  
+of years while close enough to its sun to 
+get light for photosynthesis and liquid  
+water on its surface. This also suggests an 
+iron-rich molten core helping to generate  
+a protective magnetosphere around a planet.
+However, I think one can make a good case that  
+a body with a thick ice crust over an ocean, 
+such as another of Jupiter’s moons, Europa,  
+is thought to have, might make just as plausible 
+a place for life to begin. There is no firm  
+consensus on the local conditions where life began 
+or where it did but the leading candidate for some  
+time is deep sea thermal vents and there’s no 
+sunlight there and you would have those on any  
+large icy Moon orbiting close to a gas giant. 
+Other candidates are tidal pools, which was the  
+earlier lead candidate and probably give us a bit 
+of an institutional bias to look for planets with  
+surface ocean and land, though those are better 
+candidates to hunt for complex life, ecosystems,  
+and technological civilizations I think.
+Cometary bodies themselves have generally  
+been a distant third or fourth candidate for the 
+origin of life and if true that really shifts  
+the dynamic on where life emerges. This isn’t an 
+episode on Panspermia and cometary seeding though,  
+it's on Primordial Planets, but our main 
+interest here is as place life can emerge at. 
+It is also worth noting that stars begin dimmer 
+and brighten as they age, our Sun would have been  
+about 70% of its current brightness on Primordial 
+Earth. This gives us a bit of a problem,  
+called the Faint Young Sun Paradox, since 
+Earth shouldn’t have had enough sunlight for  
+surface oceans then but seems to have had them 
+anyway, but we will return to that in a moment. 
+Let’s instead take a moment to consider a large 
+moon around a gas giant out at a distance from  
+its Sun that gets lighting similar in brightness 
+to what reaches Mars. It starts as a frozen moon  
+maybe the size of Mars or even bigger and 
+with subsurface oceans stirred up by tidal  
+forces from its parent gas giant planet and its 
+seafloor has lots of nice volcanic thermal vents  
+spewing out the appropriate cocktail for life.
+Life begins there and as the Sun warms up that  
+ice layer melts from a mix of brighter sun 
+and rising volcanic land masses breaking the  
+crust and spewing black ash all over the surface, 
+changing it from light-reflective clean white ice  
+to heat-absorbing black. Those new landmasses and 
+ash-covered icebergs start giving life down on the  
+seafloor an avenue to crawl up to the surface 
+and get sunlight and evolve photosynthesis. 
+Now to me that’s not particularly more or 
+less likely to be the origin of our first  
+life-bearing planet than an Earth-duplicate is, 
+but we need to be mindful that Earth is not the  
+planet it used to be either, so we shouldn’t 
+lock ourselves into thinking of modern Earth  
+as the place to go hunting for life. We also need 
+to keep in mind that coincidences often correlate. 
+Whatever might end up as the normal case for where 
+life tends to emerge, that might be the conditions  
+on Planet 1 as well, but it might be that the 
+first life-bearing planet was a freak anomaly  
+not just in how early life arose there but in its 
+conditions. It also isn’t a good idea to assume  
+that it’s the first-place life got to technology 
+at either or that life is still there. We could  
+have an awful lot of tidally wracked ice balls out 
+there where life began earlier and where it never  
+got much of anywhere because conditions didn’t 
+allow for much of an ecosystem and wasn’t robust  
+enough to survive conditions and climate change.
+And we need to be mindful that conditions really  
+do change. We think Earth is in its third 
+atmosphere at this point, with the first likely  
+being heavy on hydrogen and helium though likely 
+also rich in water vapor, ammonia, and methane. We  
+believe that it got blown away in the collision 
+of proto-Earth with some smaller planet, which  
+stripped off that atmosphere and from the debris 
+remaining the moon is thought to have formed. 
+Amusingly the idea that Earth and the Moon 
+used to be a single body dates back to late  
+19th century and was a suggestion by George 
+Darwin, an astronomer and geologist with a  
+heavy interest in the early Earth which 
+is probably not surprising since he was  
+the son of Charles Darwin. He thought the Moon 
+might have been spun off by centrifugal forces,  
+what was dubbed fission theory, and technically 
+that would be correct in a more explosive sort  
+of context. Fission Theory is usually deemed 
+highly unlikely nowadays but I encountered it a  
+lot more as a little kid studying astronomy 
+in the mid-1980s and mostly from my library's  
+collection of outdated kid’s astronomy texts, many 
+written in the 1950s. But we knew even then that  
+the Moon’s orbit was expanding and it used to be 
+closer to Earth, so assuming it used to be even  
+closer wasn’t exactly unreasonable. The Moon was 
+also still volcanically active till just over a  
+billion years ago, more than twice the time since 
+life crawled out of the oceans here on Earth. 
+Maybe a hundred millions years after the 
+solar system began, all this settled down,  
+assuming it is correct which we shouldn’t take 
+for granted, Earth began acquiring its second  
+atmosphere from a mix of volcanic gasses and 
+asteroid and comet collisions. There’s a ton  
+of debate still about the composition of this 
+2nd atmosphere, we just know it had very little  
+free oxygen. Emphasis on free because the oceans 
+and the very rock we live on are mostly oxygen.  
+It loves bonding to other atoms so random oxygen 
+floating around as a pair of oxygen atoms forming  
+a gaseous molecule is prone to being absorbed by 
+something, oxidizing it, and thus can’t linger  
+in the air unless the ground is so saturated with 
+oxidized materials there’s no place for it to go. 
+Around 2 billion years ago oxygen was finally 
+plentiful in the atmosphere, it had grown slowly  
+over eons, and this is the origin of the modern 
+atmosphere and it is basically half the planet’s  
+age and we do not expect an oxygen-rich atmosphere 
+to last more than a billion or so more years. As  
+mentioned the Sun keeps warming up and getting 
+stronger and ripping atmospheres off even faster. 
+Which takes us back to the Faint Young Sun 
+Paradox, and asks why we definitely had lots  
+of surface water by 4 billion years back, 
+and possibly even 4.4 billion years ago. 
+Part of that is that the planet was still very 
+hot. Things gain speed as they fall and when they  
+collide and merge all that energy gets released 
+as heat. During planetary formation that energy is  
+huge and to give a conceptual scale, think about 
+all the heat and flame in a rocket launch and  
+remember that is being used to speed something up 
+to give the kinetic energy or escape velocity to  
+get away from Earth, and anything falling down has 
+to gain that same speed and energy as it falls. 
+We also had a lot more uranium back then too 
+and it’s been decaying and warming the planet,  
+though at an ever decreasing rate. The planet was 
+molten hot for a long time after that collision  
+that formed the Moon and wasn’t cold when 
+that happened either. Remember most of the  
+planet is still hotter than boiling water, 
+just our thin crust isn’t, and the core of  
+Earth is hotter than the surface of the Sun.
+That’s a lot of heat and several thousand  
+kilometers of rock and mantle is a lot of 
+insulation. But it doesn’t quite add up  
+and that’s part of the problem with determining 
+atmospheric composition for that era. Some gasses  
+aren’t gasses at some temperatures, or like water 
+vapor, can exist in higher concentration at higher  
+temperatures, others insulate better. Some, like 
+carbon dioxide, only have a gas and solid form,  
+unless the pressure is several times what our 
+current atmosphere is, in which case you can have  
+carbon dioxide lakes. All these options alter 
+the heat loss rates of our planet and are hard  
+to determine from 4-billion-year-old evidence 
+that has repeatedly been blown up by volcanoes  
+and asteroid impacts during that time when 
+not being eroded by the far stronger erosive  
+conditions of early Earth. So geologists 
+and physicists can be forgiven for not  
+having a clear consensus on the matter yet.
+As another example, ammonia is a pretty  
+good greenhouse gas and as mentioned it is 
+very common in the Universe being made of  
+the mutually abundant elements of hydrogen 
+and nitrogen. But it also does not do well  
+when exposed to sunlight, particularly ultraviolet 
+light. Hotter stars produce a lot more ultraviolet  
+so it was suggested by Carl Sagan and George 
+Mullen that maybe that ammonia was around and  
+keeping the planet warmer and as the sun kept 
+on shining and brightening it slowly turned  
+that ammonia into regular nitrogen gas – which 
+is the majority of our modern atmosphere – and  
+hydrogen which would either have bonded to oxygen 
+to make more water or blown away into space. They  
+also suggested a non-specific photochemical 
+haze could have better protected that ammonia.  
+The numbers didn’t seem to work out on this, we 
+wouldn’t have expected them to remain in quantity  
+more than maybe ten million years, and so the 
+theory was for a time dismissed but the others  
+have more recently argued that photochemical 
+protection might have been possible after all. 
+Now this goes back to the experiments by Stanly 
+Miller in the 1950s where he was showing amino  
+acids could form if you put electricity through a 
+mixture heavy in ammonia and methane, and you’ve  
+probably heard how the Miller experiments are 
+thought to have been wrong for the origin of  
+life as it was shown the atmosphere couldn’t 
+have that mix but again we’re not really so  
+sure about that either. We also don’t know 
+that we need methane and ammonia around,  
+and that in the absence of free oxygen we 
+might have got the same results simply from  
+an atmosphere heavy in nitrogen and carbon 
+which could come from molecular nitrogen and  
+carbon dioxide as easily as ammonia and methane.
+Lots of unknowns about that primordial period,  
+and while we are getting close to good enough 
+to look at the atmospheres of exoplanets and  
+probably will find some young and earth-sized 
+planets in the next couple decades to examine,  
+it would be a pretty big jump to assume those 
+paralleled how things were on Earth even  
+in fairly close matches of that planet 
+to Earth and both having similar suns. 
+Incidentally, this is the moment in writing this 
+script back in December where I paused my typing  
+to head into court for my adoption hearing 
+for my three children, Kristofer, Isabella,  
+and Geometry, four months before this will 
+air, but it seemed a good footnote to include,  
+and I just got back from there and having cake 
+and ice cream with my newly formalized family. 
+It’s also a decent excuse for a segue to the 
+idea of us visiting and claiming new worlds,  
+and specifically brand-new worlds that still 
+have the fresh car smell on them. Admittedly  
+they probably reek of ammonia and methane so 
+not really a car you’d want to drive. First,  
+we should probably assume nearly half of the 
+Earth-clones are going to be in this territory  
+given that we had over two billion years before 
+we got an oxygen atmosphere and don’t expect it  
+to last more than another billion or so years. I’m 
+not sure I’d call Earth still ‘primordial’ at the  
+2-billion-year mark though. But most stars will 
+have planets and I would guess somewhere between  
+1% to 10% of new star systems are going to have 
+a rocky planet of something in the Earth-mass  
+range that’s somewhere in the habitable zone 
+of its star and has a basic atmosphere there. 
+The atmospheres of these worlds will 
+vary immensely in composition but we  
+would most expect to see a high concentration 
+of hydrogen and helium still ebbing off or  
+be in a phase heavy in those hydrogen-abundant 
+molecules of water vapor, ammonia, and methane,  
+or shifting to molecular nitrogen and carbon 
+monoxide and dioxide. There’s about 6-7 new  
+stars born in this galaxy every year and all with 
+high metallicities though most of those are red  
+or orange dwarfs, and different conditions 
+may tend to exist around these dimmer stars  
+with different spectrums and where tidal locking 
+off habitable zone planets might be more common. 
+But each is likely to be highly prized as they 
+emerge into a future settled galaxy. This is a  
+gold mine for terraforming purposes and the 
+question becomes if the planet is still hot  
+enough on the surface that you need to utilize 
+methods for cooling it for a couple centuries  
+like we discussed in Winter on Venus or if 
+it has any real surface yet as it might be  
+very volcanic and have very deep oceans.
+Potentially not just water oceans either,  
+bigger and colder planets might have seas of 
+ammonia or carbon dioxide. But these will be  
+very good candidates for terraforming anyway 
+and that solar system is likely to have a lot of  
+bigger minor planets and dwarfs still around. Our 
+solar system likely had a lot more planets before  
+they merged, got captured as moons, ejected 
+from the solar system, or eaten by the Sun  
+and would have been an enormously rich prize 
+for a developing interplanetary civilization  
+less interested in terraforming one planet than 
+creating a large spacefaring local civilization. 
+Or not so local, as these young systems typically 
+come in tightly packed clusters. New stars also  
+tend to form most densely near the core too 
+which is way away from us. Alternatively,  
+around a thousandth of the stars in this galaxy 
+are 10 million years old or younger and around 1%  
+on an order of 100 million years old, so you 
+won’t have to search far to find primordial  
+planets. They’re not evenly distributed 
+as stars tend to form in bubbles and stick  
+together for quite a while, slowly dissipating 
+from their packs as they orbit the galaxy and  
+get perturbed when intersecting other systems.
+You wouldn’t expect to find a lone young system  
+but several dozen to a few thousand in an 
+open cluster and often you’re going to have  
+them pretty tightly packed while waiting for some 
+of the bigger stars to go supernova. The Hyades  
+Cluster is close, about 150 light years away and 
+is a roughly spherical blob with a core radius of  
+about 10 light years and containing hundreds 
+of stars, though many of those stars are in  
+larger tidal radius where stars can peel off 
+to go their own way easier or the halo radius  
+where they are already escaping the cluster.
+At 625 million years of age it's not a very  
+young cluster but it would also be past the age 
+of Type 2 supernovae, though Type 1a Supernovae  
+are very plausible still as we know of at least 
+17 white dwarfs in there and 4 are confirmed  
+binaries. Supernovae can be devastating inside 
+a radius of 30 or so light years and clusters  
+in that size range can easily get zapped by 
+multiple type 2 supernovae then some type 1a  
+supernovae before they scatter into a wider area 
+and it is quite likely many primordial atmospheres  
+get wrecked by those events, maybe even ours 
+way back. Which might help set the stage for  
+future atmospheres that are more life friendly 
+too. I mentioned we’re on iteration 3 of our own  
+atmosphere but that is more like the minimum 
+number and back when our solar system was in  
+a cluster it might have gotten whacked repeatedly.
+Hyades is the closest open cluster to us but it's  
+also close in the sky to the Pleiades, which is 
+a bit over 400 light years away and is closer  
+to a hundred million years old, so very rich 
+with primordial planets but also where lots  
+of young giants live, like the Seven Sisters, 
+and they’re visible to the naked eye and its  
+youngest and brightest member, Alcyone, is 
+still a hundred million years old and not  
+big enough to go supernova so this is another 
+potential hub for some thousand-system star  
+empire within a light decade of a diameter. We’ll 
+talk about that more at the end of the month in  
+Multi-Planetary Empires but these clusters are 
+likely to be hubs of interstellar civilizations  
+and the Hyades cluster is likely to end up 
+as the closest rival to Earth for status as  
+the core of a future sprawling civilization 
+making its way out into the wider galaxy. And  
+Pleiades would be an even richer strike, being 
+bigger and younger. Clusters younger than this,  
+like the Orion Nebula or Orion Trapezium 
+Cluster, or Pi Puppis Cluster, would still be  
+in their window for supernovae and represent 
+an additional complication for settlement. 
+This is generally what we mean by 
+supernovae being a Fermi Paradox filter,  
+they can happen to older planets passing near 
+some other young star intersecting paths and  
+that could cause a mass extinction event 
+and temporarily damage the atmosphere of  
+a planet but wouldn’t wipe all life out unless 
+it was improbably close. Mostly it's that early  
+era when everything is packed in tight and you 
+still have the young big stars or white dwarfs  
+with binary partners close to everyone else.
+I could imagine civilizations going into open  
+clusters early in the game and using starlifting 
+or Shkadov thrusters or some of the other methods  
+we’ve discussed to choke off potential supernova 
+of any type or just boot the dying star out of the  
+cluster as big heavy stars are the fastest and 
+easiest to move with any of the stellar engines  
+types we’ve discussed in episodes like Fleet of 
+Stars or the Megastructure Compendium. As we noted  
+in our recent episode on statites, that’s not 
+high tech, you can disassemble a couple of larger  
+asteroids into materials able to reflect photons 
+or ionized particles and get that star moving. 
+So even young clusters aren’t hard-nos for 
+settlement. They are frequently going to have  
+lots of red giants in them, which we’ve discussed 
+before as an option for slowing very high-speed  
+spaceships that get sent out by pushing beams 
+and need a free way to slow down. Also those  
+tight groupings of stars are going to offer 
+some options for slowing down just by being  
+compact and as you get nearer you are likely to 
+be able to detect some black hole, if it has one,  
+that you can slow down around too. Hence these 
+might be your first places colonized in any region  
+of a galaxy since you might be able to plausibly 
+send spaceships toward them at a high fraction  
+of light speed and slow them down, letting ships 
+reach them tens or even hundreds of thousands of  
+years before spaceships leap-frogging their way 
+out system-by-system from Earth might arrive. 
+A lone spaceship reaching one might have 
+time to grow a civilization of a million  
+worlds before it encountered the leading edge 
+of the main expansion sphere out from Earth. 
+In this way, primordial planets might become 
+the homes to young empires out among the stars.
+So welcome to March here on SFIA, and we have 8 
+episodes this month, and we’ll get the upcoming  
+schedule in just a moment but this is actually our 
+second episode for the month and every month we  
+release an episode Exclusively on Nebula on the 
+first, and this month’s episode Crystal Aliens,  
+follows up on our discussions of ammonia-based 
+and silicon-based lifeforms from late last year  
+where we look at where and how crystals might 
+serve as a building block for life and look at  
+5 different hypothetical planets where it emerged 
+using different evolutionary paths and mechanics. 
+And again, Crystal Aliens is out now exclusively 
+on Nebula, our streaming service, where you can  
+also see every regular episode of SFIA a few 
+days early and ad free, as well as our other  
+bonus content, including extended editions of 
+many episodes, and more Nebula Exclusives like  
+last month’s episode Topopolis: The Eternal River, 
+January’s Giant Space Monsters, December’s episode  
+The Fermi Paradox: Hermit Shoplifter Hypothesis, 
+Ultra-Relativistic Spaceships, Dark Stars at the  
+Beginning of Time, Life As An Asteroid Miner, 
+Nomadic Miners on the Moon, Space Freighters,  
+Retrocausality, Orch Or & Free Will, and more.
+Nebula has tons of great content from an  
+ever-growing community of creators. Using 
+my link and discount it’s available now for  
+just over $2.50 a month, less than the price of 
+the drink or snack you might have been enjoying  
+during the episode.
+When you sign  
+up at my link, https://go.nebula.tv/isaacarthur 
+and use my code, isaacarthur, you not only get  
+access to all of the great stuff Nebula offers, 
+like Crystal Aliens, you’ll also be directly  
+supporting this show. Again, to see SFIA early, 
+ad free, and with all the exclusive bonus content,  
+go to https://go.nebula.tv/isaacarthur
+This Thursday, March 7th we’ll continue  
+our discussion of terraforming from last month's 
+episode on Terraforming the Moon by asking if and  
+when terraforming in general is ethical, and 
+what sorts of challenges future civilizations  
+will face in deciding whether or not a planet 
+should be terraformed and to what degree. After  
+that we’ll travel toward Mars to look not at the 
+Red Planet, but instead at its two tiny moons,  
+Phobos and Deimos, and ask why and how we 
+could settle them. Then it will be time for  
+our sci-fi sunday episode, Automated Justice, 
+for a 50-minute deep dive on the role of AI  
+in our courts and justice system. Then we’ll 
+return to the Fermi paradox on March 21st to  
+discuss that evolutionary jump from the simple to 
+complex, and if that might be the solution to the  
+big question of where all the alien life is. Then 
+we’ll finish our discussion of last month on black  
+holes by deep diving kugelblitz black holes 
+and using them for power generation, before  
+finishing out the month, with a bonus scif sunday 
+episode on the 31st, Multi-Planetary empires. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you’d like to donate or help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all of SFIA’s 
+episodes early and ad free on our streaming  
+service, Nebula, along with hours of bonus content 
+like Crystal Aliens, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

@@ -1,0 +1,786 @@
+So today we will be looking at the Simulation
+Hypothesis, also known as the Simulation Argument,
+the concept that we might be living inside
+one immense computer simulation.
+And this is going to be a fun trip because
+it’s a fascinating idea especially when
+applied to the Fermi Paradox, the apparent
+contradiction between the how old and big
+the universe is and how seemingly absent it
+is of any other intelligent life besides ourselves.
+So to do this we need to first do a basic
+introduction to the concept, sweep away some
+misconceptions about it, explore the concept
+a bit, then look at what it means in terms
+of the Fermi Paradox.
+Now the inventor of the idea.
+Nick Bostrom, actually does a wonderful job
+explaining this himself and in the video description
+below I’ve linked his original arguments
+and FAQ, which I’d strongly encourage you
+to browse if you have a chance.
+I will be mostly summarizing it here and I
+also won’t be going through the more formal
+arguments he offers there, though before I
+scare anyone off that with fears of formal
+logic, Bostrom does an excellent job presenting
+it in a very approachable fashion and I would
+certainly assess him as one of best modern
+scholars.
+Now the concept gets muddled a bit because
+Bostrom is actually discussing the specific
+notion of what is called Ancestor Simulations,
+which differs a bit from simulated realities
+in that it is specifically when you are simulating
+some piece of your civilizations past, or
+a close approximation thereof, as opposed
+to simulating entirely different civilizations
+or whole universes which might have different
+physical laws.
+Today we’ll be looking as much at those
+two alternatives as Ancestor Simulations themselves,
+but if you have difficulty picturing that
+notion just think of all the historical dramas
+or videogames we have.
+Often we intentionally add a fantastic aspect
+to them, but just as often all effort is made
+for historical accuracy and a very accurate
+one would be an Ancestor Simulation and it
+is quite easy to imagine why an advanced civilization
+might do such a thing.
+In recent videos we’ve spent a lot of time
+talking about how much processing power and
+how little energy might be needed to simulate
+a human mind, partially to lay groundwork
+for today,
+In those videos, most notably the recent video
+on Transhumanism, I mentioned the Landauer
+Limit, the apparent absolute minimum energy
+at any given temperature to flip a bit, or
+essentially the absolute minimum cost to perform
+calculations, and our best current guesses
+at how much computing power we need to simulate
+a human mind, called whole brain emulation.
+I won’t repeat that now, you can click on
+that video link if you want more details on
+the concept, but we found out that even at
+the relatively high temperature you and I
+live at, as compared to cold deep space, you
+could hypothetically run a million human minds
+for the same energy needed to run a light
+bulb.
+Now obviously achieving that efficiency would
+take a lot of improvements in modern technology,
+and at the same time if we are talking about
+ourselves as the simulations we have no idea
+what the physical laws of our simulators are
+bound by let alone the temperature they are
+running us at, but if we are talking about
+it just in terms of a more technologically
+advanced version of our own civilization interested
+in running a near perfect ancestor simulation
+of us now, with our 7 billion people, they
+could conceivably do that for as little as
+a megawatt.
+Which in terms of current power cost would
+translate as a bit over $100 an hour, or about
+a million dollars a year.
+Now ignoring that something like fusion reactors
+might make that a great deal cheaper, something
+we’ve looked at on this channel before,
+it is not hard to imagine at all that we might
+run such a whole planet simulation or indeed
+many hundreds or thousands of them simply
+for entertainment purposes alone.
+Now in the 1980s and 1990s we saw an great
+interest in virtual reality, which probably
+helped give rise to the Simulation Argument
+in the early 2000’s, and we also saw about
+then the takeoff of Reality TV shows, which
+I think all by themselves represent strong
+evidence in favor of the concept.
+Some of you may be familiar with older philosophical
+concepts like the Brain in a Vat, as well
+as general thought experiments about how we
+can know if everything around us is real or
+just a dream.
+You might wonder if Bostrom’s notion is
+anything new or just a modern flavor on those
+old concepts and my mention there of evidence,
+in regard to reality TV shows, is a big part
+of that.
+The simulation hypothesis is presenting this
+concept from the perspective that there are
+things which could be interpreted as evidence
+that we are in such an Ancestor Simulation
+or that such things are clearly possible.
+Bostrom presents us basically three scenarios
+for the future, one’s that will feel pretty
+familiar to those of you who have seen the
+Fermi Paradox Compendium video where we contemplated
+ways in which a civilization might continue
+after it reached our current technological
+level.
+Those are, to paraphrase:
+1.
+That civilizations go extinct before acquiring
+the necessary technology to do ancestor simulations,
+or that they turn out not be possible.
+2.
+That civilizations who can perform ancestor
+simulations do not wish to do so.
+3.
+That they can do ancestor simulations and
+choose to do so.
+In that first option, civilizations simply
+ceases to exist, since we appear to have established
+that such simulations are most likely possible.
+We’ve looked at those apocalyptic scenarios
+before and will look at more of them down
+the road, but like with the Carter Doomsday
+Argument he’s not presenting a specific
+scenario, just that it could happen.
+Technological Civilizations able to generate
+Ancestor Simulations may either never have
+a chance to develop that tech before ceasing
+to exist or do so shortly thereafter, for
+whatever reason, nuclear war, plague, etc,
+does not matter.
+So option 1, ancestor simulations don’t
+exist because nobody exists able to run them.
+Option 2, Ancestor Simulation don’t exist
+because nobody wants to run them.
+Now we know that isn’t true for ourselves,
+we’d cheerfully simulate any of our old
+civilizations.
+However we can’t assume anyone with this
+technology would feel the same way.
+They genuinely might not want to, but more
+importantly they also might have serious objections
+at an ethical level.
+We discussed the concept of Mind Uploading
+in the Transhumanism video and while many
+would disagree I didn’t make much of a secret
+that in my own opinion a Whole Brain Emulation
+would deserve the benefit of the doubt that
+it was a genuine person.
+We’ll discuss that more in a bit, but in
+that context, if they are people, and we assume
+that’s the case in the Simulation Hypothesis,
+then there are a lot of ethical problems.
+I’d feel pretty bad about recreating someone
+to live out a life as a Roman Slave for instance,
+even though presumably most of those folks
+considered that quite superior to not being
+alive.
+They might regard us much the same, certainly
+I am quite fond of my life but it’s a good
+deal better than those enjoyed in many of
+the less fortunate areas of the world and
+it might considered quite unpleasant by the
+standards of those a century or two down the
+road.
+The quality of life of those of us alive right
+now is what matters to the Simulation Hypothesis
+too, since it’s presenting the notion that
+we ourselves might be simulations.
+So we can’t skip the notion entirely that
+even assuming many folks did want to run such
+simulations that they would be banned, and
+that probably is a decently enforceable ban
+at least where simulating an entire planet’s
+population at full WBE is concerned.
+Even ignoring all the difficulties that might
+be had acquiring the hardware and software,
+a megawatt to run it is still a lot of juice
+and we’ve talked before about detecting
+power usage as waste heat in regard to megastructures
+like Dyson Sphere.
+It would be quite hard to conceal that power
+use from us right now, with just our modern
+infrared detection devices and satellites,
+if we were looking for it, it would probably
+be impossible to hide from anyone on the same
+planet who had much higher tech then ourselves.
+Option 3 is that they do run ancestor simulations,
+and could easily then run tons of them, which
+raises the notion that we might be such an
+ancestor simulation ourselves.
+If you’ve got, as an example, a planetary
+population of 10 billion people and you’ve
+mastered this down to near that minimum power
+use I mentioned earlier, with a modern day
+cost of about a million bucks a year per simulated
+planet, if each of those folks coughed up
+$1 a year for running simulations, or only
+1% was paying $100 a year, same thing, you’d
+have 10,000 such simulations running.
+If, to keep the math easy, we assumed each
+of those worlds had about 10 billion people
+who lived through our modern period, that
+would be a 100 Trillion folks out there who
+lived through the early 21st century or thought
+they had with the same certainty we have now.
+If you were to assume you could randomly be
+one of the 10 billion who really lived through
+this era versus the 100 trillion who thought
+they did, there’d be a 99.99% chance you
+and I would be one of those simulations.
+And realistically, if you can program something
+as complex as a human mind, you can certainly
+program more simple automated construction
+and maintenance robots so you could probably
+do this way, way cheaper in which case even
+our 1% of 1% odds of being the non-simulated
+people would be optimistic.
+That’s essentially the Simulation Argument,
+if we assume our civilization will eventually
+be able to make ancestor simulations and wants
+to do that, then odds are good the total number
+of people be simulated in our modern times
+down the eons to come will so massively outnumber
+the handful who really lived through the original
+one that we have to assume it is statistically
+improbable we are the originals and far more
+likely we are not.
+That we are the simulations.
+Also to clarify on the ancestor simulations,
+we’re talking about any occasion someone
+wants to run a decent simulacrum of 21st century
+life, this does not require it include the
+same people.
+An advanced society just wanting to know the
+usual time table of going from basic computers
+to whole brain emulations, and what percentage
+of civilizations do that, might run tens of
+thousands of century long simulations.
+That’s our first connection to the Fermi
+Paradox, in the absence of direct proof of
+aliens you might run world after world to
+see which evolutionary tracks were possible,
+and you do ancestor simulation after ancestor
+simulation to try to figure out how probable
+it all was.
+Nor is that necessary an ethical dilemma.
+The Simulation Hypothesis gets a lot of comparisons
+to theological topics because of the obvious
+similarities.
+One common point raised in both would be “Why
+would God, or the Programmers, create a world
+with so much suffering it?”.
+Now there are a number of counterarguments
+where God is concerned but they are less relevant
+to the Simulation Hypothesis in regard to
+ancestor Simulations because the most straightforward
+answer would be “Because we were replicating
+conditions accurately, that was our goal.”
+And both have the upside that you can keep
+going on after death in some place nicer.
+Even a particularly traumatic and premature
+death could be erased or sealed off to limit
+that trauma.
+Nor, incidentally, does everyone in such a
+simulation have to be a full WBE.
+You probably don’t need anything nearly
+as complicated as a full brain simulation
+pass casual Turing tests by other people inside
+the simulation.
+Very advanced civilizations might even like
+to use such lives as a way of reproducing.
+If for instance they were trying to instill
+a deep emotional tie to their ancient cultural
+heritage when, considering the available technology,
+they might be running entirely on computers
+themselves.
+We tend to think a certain amount of hardships,
+challenge, and pain are necessary components
+of a mature mind and they might feel the same,
+and anyone who has spent much time contemplating
+exactly how spoiled a kid might be in a truly
+Utopian Post-scarcity society can see where
+the motive for that might lie.
+You’d also have to consider that it needn’t
+be done in real-time.
+We’ve talked before about subjective time,
+in the Transhumanism video I pointed out that
+replacing the current means of sending information
+around your body with one closer to the speed
+of light could result in thinking a millions
+times faster so that you could experience
+an entire lifetime in about an hour.
+In a post-scarcity society where you might
+easily have trillions or quadrillions of people
+hanging around it’s not hard to imagine
+several billion of them agreeing to log-in
+to a simulation for an hour where most of
+their memories are temporarily suppressed
+so they can live a new life for a while.
+If I offered you a chance right now to go
+live in, say, the 19th century, with your
+memory wiped during the process but to be
+re-integrated back into you when you were
+done, and you’d wake up in an hour, how
+many people would say yes?
+Especially if the reintegration of memories
+could delete truly traumatic events or the
+setup allowed you to pick a general area to
+live in or start with some strong suggestion
+in place, like for isntance.
+“I’ve always wanted to be a football player,
+can we set me up in a body suited to that
+with a subconscious imperative to pursue that
+career?”
+For those who have been following along the
+videos where we talked about Dyson Spheres
+and available energy and populations of Kardashev
+2 civilizations, you know that you’d only
+need a tiny fraction of the population willing
+to do that just a single time to ensure thousands
+of modern ancestor simulations ran.
+It’s not hard to imagine a lot of folks
+doing this regularly for the experience.
+Let alone just one time.
+And remember, we’re not talking about a
+re-enactment of our exact history, just an
+alternate reality in which folks are living
+through those same times again, doesn’t
+have to be the same events, same people, or
+anything like that.
+To re-emphasize, the Simulation Argument is
+the notion that the total people who experienced
+our modern times would massively outnumber
+the tiny handful who really had.
+So much so that the odds you or I are those
+original people who actually experienced the
+genuine original version might be astronomically
+tiny.
+That’s the simulation hypothesis.
+Now before we look at the Fermi Paradox angles
+on this, let’s talk a bit about what consciousness
+is and also talk about other applications
+besides ancestor simulations.
+A Whole Brain Emulation is pretty much a straight
+clone of an entire human brain, where you
+basically just got a piece of software pretending
+to be each brain cell.
+In many ways it’s not that sophisticated
+and it’s probably orders of magnitude more
+code and processing power than it would take
+to create a replica of a person able to have
+convincing interactions with other people,
+a Turing-Compliant piece of software.
+That’s worth remembering because a lot of
+applications where we might want simulated
+people to interact with aren’t requiring
+genuine consciousness, just something way
+better than we have now.
+A lot of times when people are thinking of
+virtual worlds the sort of responses needed
+from the facsimiles of people in order to
+maintain the illusion doesn’t require anything
+like full human consciousness.
+If I want to see and interact with a historical
+drama on the Egyptian pyramids I don’t need
+to simulate anyone living in the Americas
+and really even just the people on the worksite
+need to be able to have conversations, and
+most of the time the individual folks in line
+of sight just need basic facial expressions
+and tasks.
+So by and large virtual realities don’t
+require whole simulations of consciousness
+to interact with.
+That is one strike against the Simulation
+argument because by and large people going
+into one for entertainment purposes or educational
+purposes won’t need anything like a true
+human brain to interact with and doing so
+would probably waste tons of processing power,
+energy, and money.
+But we don’t really know where the line
+of consciousness begins and ends.
+We just assume that a whole brain emulation
+must be because it is genuinely emulating
+every brain cell, and in more extreme and
+probably total unnecessary versions would
+be emulating every molecule or even atom.
+It’s a computer doing this but it technically
+does not need to be.
+Or rather, it does need to be a computer but
+a computer is a much vaguer term than most
+realize when we picture the modern devices
+of that name.
+Back before the era of modern home desktops
+it was actually a job title given to people
+who performed computations.
+I think I’ve mentioned this before on the
+channel, and if you look at some older science
+fiction, like Isaac Asimov’s 1955 novel
+“The End of Eternity”, two of the main
+characters have that as a job title as do
+a whole bunch of the folks involved in the
+organization the book mostly revolves around.
+Anything a computer can do, humans can do
+slower.
+Every calculation can be performed on paper
+or with an abacus.
+So hypothetically, in a situation much like
+the infinite number of monkeys typing out
+Shakespeare, you could have room after room
+of people just churning through the same calculations
+our computer would be to produce a Whole Brain
+Emulation.
+Is that consciousness?
+Are those billions of people, each quite conscious
+themselves, producing an independent and slow
+running human mind?
+For that matter if I take a whole bunch of
+monkeys and train them to perform a couple
+simple calculations, basically just the trio
+of basic Boolean operations, AND, OR, NOT,
+are they busy running a human consciousness
+far beyond their own intellectual abilities?
+It’s a weird way to look at it, to imagine
+warehouse after warehouse of thought accumulating
+on paper to form contemplations and memory
+of some very ethereal person, but it is as
+valid as a computer doing it.
+And it is essentially what we argue our brain
+cells are doing to.
+Each one a little monkey pounding out simple
+operations for reasons it does not understand
+or care about.
+You could even presumably do this with ants.
+Each bit could be a tiny red or blue kernel
+coming down to shafts, one at a time each,
+to produce a pair.
+And it is programmed to see two blue, or two
+red, or one of each, and for each take and
+drop a single orange, yellow, or purple ball
+down another shaft.
+Basic binary operation, very basic logic circuit.
+A very large hive of ants might conceivably
+emulate an entire human brain that way.
+A hive mind, not as we often see this as somehow
+centered on the queen but a genuine mind separate
+and distinct from them and not interested
+in their problems any more than we are in
+our own cells.
+Which is to say we have to make sure all those
+cells are protected and fed for our own continued
+existence.
+But it doesn’t matter to that over consciousness
+if all those ants are replaced over the years,
+or if the whole hive moves with time to somewhere
+else.
+This gets us back to the notion of personhood,
+and in a modern example, an incorporated village
+or city or company or church has a somewhat
+distinct identity from its individual human
+components.
+The people might move in and out, be born
+or die, the boundaries or location or buildings
+may change, but it’s still arguably the
+same group entity.
+Now there’s a lot of notions for how we
+should regard identity but one of the most
+popular is from John Locke, the 17th century
+English Philosopher whose work was heavily
+influential in the construction of modern
+democracies and concepts of human rights.
+While the science was still new, Locke was
+already aware that our bodies change over
+the material they are made of.
+Most of the cells in your body replace themselves
+every several years and the ones that don’t
+still replace the atoms they are made from.
+The substance of our body and mind, the material
+it is made from, changes over time.
+So Locke argues that personal identity can’t
+rely specifically on substance of the body
+or mind, because the bits change.
+A Tree is still the same tree even as it grows
+bigger and cycles out material or gets a branch
+cut off.
+And he also argues identity isn’t reliant
+on the soul.
+He says it relies on consciousness and in
+that context the concept of continuous identity
+gets a bit murky, because it relies on gradual
+change without anything terribly radical going
+on.
+Even if a persons behavior and opinions change,
+they are still the same person.
+Reckless or naive childhood behavior and opinions
+being abandoned with time no more changes
+your identity then watching this video does,
+even though the content of your brain is certainly
+changing a little and possibly your opinions
+on the Simulation Argument.
+Our tree is still the same tree, and our village
+the same village, our hive mind the same hive
+mind, and our personal identity the same identity,
+even as all the components change so long
+as it is gradual.
+Locke says consciousness is the perception
+of what passes in a person’s own mind.
+This is often restated as basically meaning
+your memories.
+Obviously if you can tinker with those, copying
+them to other people or deleting them, you’ve
+got a break in that and some problems.
+Now Locke’s thinking on this is hardly unchallenged,
+there are many other schools of thought, and
+there are problems with it, but it is one
+that most of us are pretty familiar with and
+comfortable with.
+But again, and especially in the context of
+high technology, it is hardly perfect or without
+its problems.
+In a non-organic case let’s say I knock
+off the top two thirds of the statue of liberty
+and steal it to hide in my underground treasure
+trove.
+The people of New York come by and rebuild
+it.
+Many would argue that it is, in rebuilt form,
+still the Statue of Liberty.
+This gets a bit stranger though if they decide
+copper is too expensive to build and maintain
+and opt for plastic instead.
+Now imagine the city gets nuked and a century
+later the people of New New York twenty miles
+north go in to the ruins and reclaim their
+statue and move it to New New York.
+It’s even further complicated if in that
+same time people found my stolen two-thirds
+of the Statue and congress ordered the Statue
+of Liberty erected on new legs in the middle
+of the Potomac so that fifty years before
+the folks of New New York came into the radioactive
+ruins of Old New York to retrieve their ‘original’
+mostly plastic version there’s been one
+sitting near Washington DC claiming the mantle.
+Which is the original?
+Are either of them the original?
+Are they both the original?
+And in the case of a person, while in the
+John Locke view of things if I am slowly replacing
+bits of your brain with machines that simulated
+the same behavior would maintain identity
+it gets a bit murkier if I do that instantly,
+just replacing the whole brain at once.
+Now imagine you were running a small but growing
+business when you got diagnosed with a terminal
+illness and decided to get frozen till there
+was a cure.
+A year or two later a company figures out
+how to do brain scans accurate enough to read
+your frozen mind and put it into a nice duplicate
+body and your spouse is happy and decides
+to dispose of your frozen body, but your daughter
+doesn’t accept that it is the new you and
+fights it.
+The cryonics company in the meantime accidentally
+mixes up their files and starts copying your
+mind into a new duplicate of someone else,
+the lab tech realizes halfway through and
+stops it and starts transferring the right
+mind, ending with some scrambled memories.
+While they are sorting out this mess they
+leave your digital copy running to compare,
+and since you were half expecting some sort
+of high-tech brain emulation or nanotech to
+be what resurrected you when you went on ice
+you, or your simulation, figure out what’s
+up and demand to be left on.
+So we’ve now got that first duplicate, the
+memory scrambled duplicate, and the strictly
+digital duplicate, and someone figures out
+how to cure your illness and how to safely
+restore damaged frozen bodies and minds.
+Your daughter gets you resurrected.
+Now there are four of you, and the original
+duplicate, who has turned your small business
+into quite an empire, falls over dead, and
+angered that the daughter never treated him
+as he father writes her out of the will.
+You’ve got three living and one dead person
+all with the same original memories of starting
+that business and you go into the court demanding
+a portion of that empire and to nullify the
+will in regard to your daughter too.
+And the probate judge just stares at you,
+your very different looking memory scrambled
+duplicate, and the digital you testifying
+by TV, and probably has a stroke trying to
+sort things out.
+Like I said, difficult concepts, deep thoughts
+tend to follow that are best assayed with
+a lot of coffee and aspirin on hand.
+Trying to deal with something like a murder,
+if the person had gotten themselves scanned
+before plotting out the crime, or after plotting
+it but before doing it, can get pretty hazy.
+What do you do if a murderer gets killed in
+prison and his spouse has his brain scan uploaded
+into a duplicate?
+One who does not have the memories of doing
+the crime or maybe even of plotting it?
+I should probably add that identity gets even
+screwier in the context of the many worlds
+interpretation of quantum mechanics, or its
+lesser known sibling called Many Minds, when
+we try to decide if the virtually identical
+two people living in a pair of parallel realities,
+or the very nearly infinite numbers of you
+in those near infinite realities, are the
+same person and when that breaks off, when
+you could be said to be distinct individuals.
+Okay, so what does all this have to do with
+the Fermi Paradox?
+Since the Fermi Paradox is about trying to
+find alien civilizations or why they don’t
+exist, Simulation Hypothesis can come up in
+a lot of ways, but we usually mean why would
+we, if we are ancestor simulations, experience
+an absence of aliens?
+And that’s tricky because again it splashes
+over into motivations and can get very close
+to theological contemplations of the idea.
+The big one is would God, or the programmer,
+make such a huge Universe just for us?
+Now the obvious answer would seem to be no,
+but one has to remember two things.
+First, if it is a simulation, it doesn’t
+mean everything else is equally simulated.
+I don’t really need to simulate every atom
+on Earth to do a very convincing job of it,
+I certainly don’t need to for the atoms
+in a galaxy a billion light years away, and
+it is kind of creepy how our physical laws,
+the speed of light and the unpredictability
+of quantum mechanics, especially when viewed
+as a sort of maximum resolution of the simulation,
+seem to almost conspire to be handy for the
+purpose of simulation that isn’t running
+everything fully but only simulates stuff
+in more detail when its being deeply examined.
+If you’re a physicist it can be very unnerving
+at times just how fine-tuned our Universe
+is in a lot of ways to allow for intelligent
+life, and the counterargument is essentially
+the Anthropic Principle, something Nick Bostrom
+is also heavily associated with.
+The general notion that it doesn’t matter
+how many universes might exist that aren’t
+possessing the right quantities for intelligent
+life, since only the ones with them will have
+people in them who can notice this freaky
+improbability.
+The second thing to remember is that just
+because we only use a small part of the Universe
+now, it doesn’t mean we still will be in
+the future.
+We discuss human expansion off planet and
+out into the galaxy and beyond a lot on this
+channel and what we’ve mostly found is that
+the evidence is pretty good we will eventually
+be able to do this.
+If we can, then making a universe even though
+you only occupy one planet right now is no
+more indicative that this is or isn’t a
+simulation then a few microbes dropped in
+a Petri dish should assume that there are
+other microbes elsewhere in the giant Petri
+dish just because it is so huge and empty
+when they arrived.
+We made that Petri dish specifically so they
+could expand into it.
+And we don’t want anything else growing
+in there to interfere with the experiment.
+But at the same time it doesn’t mean there
+aren’t aliens in the simulation, since someone
+might have simulated us, and several other
+intelligent species elsewhere, just to see
+how we’d interact or who would evolve to
+intelligence and technology first and how
+each unique species handles the problem.
+So the short answer, much akin to when we
+contemplate the idea that some intelligent
+agency might have made humans to begin with,
+is that you can only make predictions regarding
+the Fermi Paradox if you know that Creator’s
+motivation for making people to begin with.
+Ultimately though, it doesn’t tell us much
+about the Fermi Paradox if we are assuming
+it is a genuine simulation from start to finish.
+You’d expect everything in it do have been
+following the rules of reality the whole time
+or best approximated to do so or not look
+like tinkering if someone wants to see how
+things play out naturally.
+Now the focus of the Simulation Argument is
+on Ancestor Simulations but for the Fermi
+Paradox we need to extend that to include
+even wildly differing scenarios where someone
+has simulated a Universe in full right from
+the Big Bang but with different physical laws,
+in order to see what claws its way up Darwin’s
+ladder.
+So simulated reality or not, it doesn’t
+make much difference since we can only see
+outside the box if the Creator of the box
+has either made a mistake and opts not to
+fix it or voluntarily pops in to inform you
+that you’re a simulation.
+So fundamentally the Simulation Hypothesis
+is just not a good solution to the Fermi Paradox
+because even if true it still doesn’t let
+us determine why things are so silent in this
+Universe, since all the other solutions we’ve
+previously discusses work just as well in
+a simulated Universe as a real one.
+Because while someone might have left our
+Universe empty except for us, we’d also
+expect them to keep things self-consistent
+so that the science of that reality can explain
+the silence in that reality.
+If you want only one intelligent species in
+the Universe you configure the laws to make
+it incredibly unlikely to happen so you don’t
+have extra unwanted ones popping up everywhere
+draining your processors.
+If you do want it, then you make sure the
+physical laws match that, to either produce
+multiple intelligent species or make it seem
+logical that they could have been produced.
+So while the Simulation Argument is definitely
+interesting in the context of the Fermi Paradox,
+especially when you contemplate simulations
+running their own simulations who run their
+own simulations, it sadly doesn’t help us
+contemplate it much.
+And on that note, we’re going to wrap things
+up for the day.
+Next week we’ll be looking at a somewhat
+similar concept with the Carter Doomsday Argument.
+If you want alerts when that video come out,
+make sure to subscribe to the channel, and
+don’t forget to like and share this video
+with others if you enjoyed it.
+While you’re waiting for that next video
+you can try out some of these other videos
+and if you want to learn more about this topic,
+don’t forget to check out the links below
+in the video description or ask questions
+or leave comments below.
+I do try to respond to as many comments as
+possible, and the other subscribers on the
+channel tend to be a pretty clever and friendly
+bunch who will probably give you a good response
+on questions too or be happy to chat about
+the subject.
+So I hope you enjoyed the video, have a great
+day, and as always Thanks for Watching and
+we’ll see you next time!

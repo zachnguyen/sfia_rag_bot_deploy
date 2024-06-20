@@ -1,0 +1,714 @@
+Skyhooks are an ingenious device for fishing
+planetary atmospheres and catching spaceships.
+Today, we are going to look at skyhooks, a
+type of tether system used in orbit to help
+get ships up into space with a lot less fuel.
+We are going to look at several different
+varieties, explain how they each work, how
+ready the technology is for deployment, and
+look at the cost and safety issues of this
+method.
+We will also discuss their uses far from Earth,
+everywhere from low gravity airless moons
+to deep-gravity well gas giants.
+We’ll be at this for a while today
+so you might want to grab a drink and snack.
+Also, a quick note before we begin while you’re
+doing that.
+We have looked at skyhooks before.
+It was one of the oldest episodes I did and
+during a short phase where I took some well-meant
+but bad advice to keep the videos brief.
+As a result the original Skyhooks episode
+holds the channel’s record for the shortest
+episode to date.
+That episode has always nagged at me because
+this topic, skyhooks, is one of the most useful
+and clever concepts out there for getting
+into space, as we will see today.
+I think when we’re done today you will be
+wondering why they don’t get more coverage,
+in science or science fiction, something that
+has puzzled me for years, because they are
+incredibly useful.
+Okay, introduction complete, explanation
+complete, drinks and snacks acquired, let’s
+dig in.
+Skyhooks come in a variety of forms
+and we will cover all of them, but the simplest
+one to explain, and thus for us to cover first,
+is the non-rotating kind.
+This is a lot like the Space Elevator we covered
+previously, only instead of running from the
+ground all the way up past geostationary orbit,
+the basic skyhook just runs from the upper
+atmosphere to Low Earth Orbit or even higher.
+How far up depends on how strong your material
+is, like space elevators you’d ideally used
+carbon nanotubes and taper the tether to be
+wider at the top than the bottom, to get the
+tether as long as you can without it snapping
+under its own weight.
+Let’s consider the motion of this tether.
+Unlike the space elevator it is not holding
+a fixed position over the ground.
+It is orbiting, but the orbit is a bit weird.
+You see, how far away an object is from Earth
+controls its orbital speed, at least for totally
+circular orbits, which is what we’re contemplating
+at the moment.
+The higher up you are, the slower the necessary
+orbital speed to avoid falling down.
+Just above the atmosphere things orbit about
+once every 90 minutes, or one and half hours,
+at a speed of about 7.8 kilometers a second.
+If we went up about 4000 kilometers higher,
+things orbit about once every 3 hours, taking
+twice as long, and moving at about 6.1 kilometers
+per second.
+A difference of 1700 meters per second, and
+a big difference, since that speed would get
+you from the West to East Coast of America
+in under an hour.
+Again, the higher object is moving much slower
+and takes double the time to orbit.
+Now let’s say I took a super-long and strong
+tether and connected those two orbiting bodies.
+What happens?
+They have to move together now but their orbital
+speeds are a lot different.
+To be in a stable orbit now they’d need
+a period somewhere in between the 90 minutes
+and three hours each previously had.
+Because gravity is not uniform we can’t
+assume it would be right in the middle at
+the center of mass, also because the tether
+is wider near the top to make it stronger,
+more of the weight is nearer the top.
+So we will say now that the whole thing wants
+to orbit every two and a half hours.
+And that is what it will do, but that means
+the top and bottom both are also doing so.
+So now the top is not moving 6.1 kilometer
+per second anymore.
+It is moving 6.8 kilometers per second instead,
+a lot faster.
+Down at the bottom tip, the reverse applies,
+before it moved 7.8 kilometers per second
+but now it isn’t orbiting every 90 minutes
+but every 150, it is only moving 4.7 kilometers
+per second, about 60% of its original speed.
+If a rocket or shuttle could get itself up
+to 4.7 kilometers per second, instead of the
+normal 7.8 needed for orbit at low altitudes,
+it could get hooked by that tether, climb
+up it, and exit anywhere along the way having
+transfered momentum from the tether, the ‘sky’
+hook, and enter a normal orbit anywhere along
+the way or even higher, since the top of the
+skyhook is moving faster than is necessary
+to orbit at that height.
+A longer and stronger skyhook could match
+up at an even lower speed at the bottom tip
+and an even higher one at the top.
+Sounds good, but how good is 60% slower for
+orbit?
+Doesn’t really seem that much of a game
+changer for space flight.
+But consider, your typical liquid hydrogen
+and oxygen rocket has an exhaust velocity
+of 4.4 kilometers per second, just a bit less
+than the 4.7 our bottom tip, the hook, is
+doing.
+To get up to normal orbital velocities that
+rocket would need to be about 83% fuel, under
+ideal conditions, 5 kilograms of fuel for
+every 1 kilogram of payload and ship.
+To get up to 4.7 kilometers per second it
+only needs to be 2 kilograms of fuel for every
+kilogram of ship and payload.
+Just 40% of the fuel.
+And that was without including the equatorial
+spin launch bonus that both rockets would
+receive but which benefits the slower rocket
+even more proportionally, or the extra drag
+higher speeds impose.
+What’s more, for those lower speeds we have
+a lot more options available to help something
+get to that speed without rockets.
+Though we will contemplate hybrid systems
+like shooting our shuttle down a massive railgun
+later in the series.
+But you can see the benefit.
+That is a lot of fuel saved.
+A longer cable can do even better, but we’ve
+already massively cut down on the fuel per
+launch.
+It still isn’t ideal though.
+I mean 4.7 kilometers a second is still insanely
+fast, that’s Mach 14, more than double the
+record for jets.
+Also you are probably wondering what happens
+to the skyhook, if it is giving the spaceship
+it hooks a lot of its momentum, why doesn’t
+it fall down?
+The answer is that left to itself it would,
+making the skyhook essentially a disposable
+device and thus less beneficial since you
+need to spend fuel getting it up there, and
+more to put it back into place after each
+lift if you want to re-use it, otherwise after
+a few uses it will sink into the atmosphere
+and burn up.
+There are ways to regenerate that momentum
+for re-use without using tons of rocket fuel
+though and we’ll discuss those later.
+Let’s consider a couple alternatives to
+our basic skyhook, one that just hangs over
+the ground doing a slow circular orbit, probably
+over the equator to maximize the equatorial
+spin bonus but it can orbit at any angle and
+you can arrange to have it go over any specific
+spot on the ground at regular intervals.
+The first to consider is another identical
+tether hanging higher up over the first one.
+It has the same basic dynamic, the bottom
+is moving slower than it should and the top
+faster, so you could arrange for your ship
+on the lower tether to jump over to the higher
+one and gain more speed.
+Which is very handy, especially since you
+can make tether longer the further they are
+from the Earth and its gravity yanking on
+the tether trying to rip it apart.
+This also means that you can always use a
+ladder of these tethers with any material,
+just one after the other, even if your materials
+only let you make tether a hundred kilometers
+long, and we can do way better than that with
+existing materials we can already mass produce.
+But the problem is it doesn’t help with
+that initial hook, which is the important
+part.
+Such a ladder is great for getting higher
+up without more fuel but doesn’t help much
+getting into orbit in the first place.
+We want the bottom tip of that hook to be
+going as slow as possible relative to the
+ground.
+So we have a solution, we spin the tether
+so it cartwheels in space around the planet.
+If our previous tether was 4000 kilometers
+long and naturally gave us 4.7 kilometers
+per second at the tip, if we spun it backwards
+when the tip dropped to the bottom of its
+spin it would be going slower than that.
+Let’s assume it spun around three times
+every orbit, which was every two and a half
+hours or 150 minutes, so it spins once every
+50 minutes.
+Now that tip is drawing a circle with a diameter
+of 4000 kilometers, or a circumference of
+that times Pi, 12,600 kilometers, once every
+50 minutes for a speed of 4.2 kilometers per
+second.
+Well the tether was already down to 4.7, so
+as it swings down backwards into our upper
+atmosphere that tether tip at the bottom of
+its course is just 500 meters per second.
+That’s pretty fast, but it’s only Mach
+1.5, faster than most commercial jets but
+slower than the Concord used to cruise at
+and way slower than the top speed we can make
+an air-breathing jet fly.
+In fact, since the equator is spinning at
+just under 500 meters per second itself, on
+the equator, this hook would spin down there
+at the speed of normal car.
+And a hook just a tad longer could actually
+snatch a stationary object.
+Pretty handy, on paper anyway, this degree
+of performance is a bit trickier to achieve
+than it sounds like.
+For one thing you have air drag to worry about,
+but on an airless or nearly airless place
+like Mars or the moon, where you can also
+have longer tethers from the weaker gravity,
+this rotating method can be combined with
+a slightly elliptical orbit to have the tether
+dip down and snatch something right off the
+ground and swing it up into orbit.
+Also,this rotating skyhook, commonly known
+as a rotovator, is spinning forwards at the
+top of its spin in the direction of the orbit,
+meaning it can launch whatever it grabbed
+from the surface into high orbit at tremendous
+speeds.
+With ideal materials such a rotating skyhook,
+a rotovator, could pick a man right off the
+ground on Mars and chuck him straight back
+to Earth.
+I doubt he’d survive that trip but it would
+work with cargo containers or spaceships on
+the landing pad just fine.
+But it has some problems, especially if you
+have air, since that hook would experience
+a lot of drag swinging down through the air.
+The other problem though is the tether.
+Doing a 4000 kilometer long tether is already
+kind of pushing it if we’re not using perfectly
+manufactured carbon nanotubes and tapering
+the tether, but that tapering is designed
+to make something wider at the top then the
+bottom and thus stronger, as we discussed
+in the Space Elevators episode.
+That goes a bit out the window when the thing
+is spinning, so that the top isn’t always
+the top or the bottom the bottom.
+We can still benefit from that partially but
+mostly by allowing the weight of the ship
+to be included on the bottom when the bottom
+is actually down near the planet.
+It doesn’t really let you make a vastly
+longer tether than an untapered one.
+That’s okay, we use a shorter tether but
+we spin it faster right?
+Well, no, because when you start spinning
+something around it has centrifugal force
+trying to rip it apart.
+A tether spinning around far from any gravity
+well can still only spin so fast, same as
+when we discuss rotating habitats producing
+spin gravity we can only make them so wide
+or they’d tear themselves apart.
+So our rotating tether, our rotovator, can
+not be as long as our non-rotating tether
+because we can’t take as much advantage
+of tapering it, and we can’t make up too
+much of that loss by spinning it faster because
+it will tear apart.
+At the bottom of that hook when it is spun
+down near Earth it has all of Earth’s gravity
+yanking on it plus the centrifugal force is
+pulling that tether down the same direction,
+adding to the force.
+The rotovator design still has a lot of net
+advantages, especially when you’ve got much
+stronger materials or are working in a weaker
+gravity well, but it isn’t too likely to
+let us snatch regular planes out of the sky.
+But it should be able to grab some hypersonic
+spaceplane designs that have been proposed,
+and we’ll talk about those later too.
+We still have a couple more types using more
+clever tricks, but I’m going to skim past
+the Cardio-rotavator design.
+Same basic concept as the rotovator, another
+long tapered tether that rotates, but does
+so on an elliptical orbit, rotating twice
+every orbit.
+The trajectory of the tip is roughly heart-shaped
+so we call it a cardio-rotovator.
+It has a few minor advantages over the normal
+rotovator and a few disadvantages too, but
+is essentially taking advantage of how elliptical
+orbits don’t have the same speed all the
+time.
+In a circular orbit an object stays at the
+same speed, in an elliptical one they are
+fastest when closest to the object they orbit,
+called perigee when that object is Earth,
+and slowest when furthest away, called apogee
+for Earth.
+If we use a long tether that can reach down
+from apogee, it will be going slower there
+than normal, and so the rotating tip will
+also be going slower.
+Because of this it has to do exactly two spins
+for every orbit, so that the long tether doesn’t
+smack the planet when it is at perigee, the
+system isn’t as flexible but still slightly
+outperforms the basic rotovator in some key
+ways.
+The last variation I want to discuss quickly
+is called the T4 or Tillotson Two-Tier Tether,
+this is a spinning tether with another spinning
+tether on the end of it, called the first
+and second stage respectively.
+As mentioned one of the issues with spinning
+a tether is the centrifugal force trying to
+rip it apart, and that rises linearly with
+how long it is and with the square of how
+fast it is spinning, its angular velocity.
+So the longer it is or the faster we spin
+it, the more force acting to shred our tether.
+But if we use a shorter or slower spinning
+tether with another tether on the end spinning
+too, the dynamics change a bit.
+You arrange the rotation so both are sweeping
+backwards when it goes to hook, same basic
+concept, but this system lets you use a shorter
+tether under higher acceleration.
+I’ve noticed both the Cardio Rotovator and
+T4 can confuse folks a little and they don’t
+really alter the basic dynamics of the concept
+much, which is part of why I skipped them
+entirely in the first skyhook episode, but
+I did want to give them a quick mention this
+time and I should note there are some other
+variations on this concept, I’ll attach
+some links in the video description for any
+of you want to explore those and who feel
+more comfortable with the math and orbital
+dynamics.
+Now I mentioned earlier that one of
+the problems with a skyhook is that once you
+hook something and begin lifting it up, Newton
+says the skyhook has to go down.
+It is sharing its momentum with the thing
+it is lifting up, so if you don’t do something
+to regenerate that momentum your skyhook will
+have a limited number of uses before it falls
+down into the atmosphere, goodbye skyhook.
+Even disposable hooks have some advantages
+but we want to keep ours for many uses, but
+if you want to do that, you have to restore
+its momentum after each lift.
+Now, the obvious way to do that is with a
+rocket, but that somewhat defeats the point
+of having these things to assist rocket launches.
+However, we do have some better options.
+First, there are drives you can use in space
+that are too weak for launching, but much
+more efficient overall, like the ion drive.
+We discussed ion drives at greater length
+in the Spaceship Propulsion Compendium but
+in short form Ion Drives, especially if they
+can get external power from solar panels,
+can use a tiny amount of propellant to achieve
+much higher final velocities than rocket fuel
+allows.
+Unfortunately they do this very slowly so
+are totally useless for getting into space.
+However a skyhook with solar panels
+on it to power an ion drive can use that to
+slowly restore momentum between hooks, and
+you just need to make sure ships getting hooked
+occasionally bring up some propellant, preferably
+Xenon but many other more abundant fuels like
+Argon do the job almost as well and it is
+less important which you use for an essentially
+stationary tether as opposed to a spaceship
+going to Mars, you can refuel as needed so
+you just use whatever works well and is easy
+to get, especially if you don’t need to
+get it from the Earth.
+And you can also source those from places
+other than Earth.
+There’s nothing particularly complex about
+getting Argon from the Moon for instance,
+thus avoiding Earth’s gravity well entirely,
+and skyhooks work quite well on the Moon too,
+no air drag.
+More on that in a minute, but it’s worth
+noting that the propellant wouldn’t have
+to come from Earth.
+Solar panels ionize that propellant and slam
+it out the drive, restoring momentum to the
+hook without needing to bring rocket fuel
+up from Earth.
+Now we don’t actually need propellant
+here on Earth.
+The handy thing about Earth is that it has
+a giant magnetic field, probably the major
+reason we have a breathable atmosphere.
+The nice thing about a giant magnetic field
+is that if you have a long tether of some
+conductive substance inside one, you have
+a large electrical potential between the top
+and bottom of that tether.
+This allows us to use Lorentz Force to push
+on our tether.
+By apply electricity, presumably from solar
+panels, we can basically push off the planet’s
+magnetosphere to restore momentum, using a
+trick known as Electrodynamic Tethering.
+This is also potentially handy for station-keeping
+of satellites, but one has to weigh the ups
+and downs of including some mass for a tether
+versus some fuel for a rocket, and tethers
+are also a bit of a navigational hazard, especially
+if you’re using tons of them.
+Since we already have a tether anyway, waste
+not, want not.
+You can also use this trick backwards to generate
+power by removing momentum, but we’ll skip
+that for today.
+Now Electrodynamic tethering would certainly
+seem preferable to ion drives, no fuel or
+propellant at all, but as I mentioned, skyhooks
+can be used in more places than just Earth,
+and not all of those would have a nice big
+magnetic field to use.
+By the way while we are speaking of magnets,
+I should probably mention that the hook itself,
+the thing that grabs the payload down at the
+bottom tip, doesn’t have to be anything
+mechanical, a nice big electromagnet that
+can slam onto the metal frame of whatever
+you’re hooking minimizes some of the problems
+matching up speeds.
+If you’ve ever seen a mid-air refueling
+you can kinda guess this is not exactly a
+simple operation especially when everything
+is moving supersonic.
+But we have the option for electrodynamic
+tethering or ion drives or some others for
+regenerating momentum.
+Which of those you do might depend on where
+you are doing it.
+On an airless rock like our moon a skyhook
+could flat out swing down to just over the
+ground and grab something, the rotavator version
+using conventional materials could pick stuff
+right off the ground because there’s no
+air drag.
+Of course our moon and most airless places
+do not have very strong magnetic fields so
+odds are good you’d want to go the ion thruster
+route instead.
+But skyhooks would work great for the moon,
+though, since we already have materials strong
+enough for building a space elevator there
+it might seem a bit redundant, but remember
+that a skyhook doesn’t just pick you off
+the ground, the rotating kind accelerate you
+very quickly and fling you away at high speeds,
+and don’t require as long a tether length,
+compared to a space elevator.
+Mars would be an ideal case since it has very
+little air but still has strong enough gravity
+to make a space elevator a dubious proposition.
+Skyhooks are also handy for de-orbiting on
+airless planets too, where we have no drag
+to help us slow down, since we can arrange
+for them to lower a ship’s speeds as easily
+as increase it.
+They also have applications in places where
+a space elevator is unlikely to ever be practical,
+like a gas giant.
+Those typically have huge magnetospheres to
+help recover momentum and they also have huge
+amounts of gravity that would snap an elevator,
+plus no ground or sea to tether anything to
+at the bottom.
+Bases on gas giants either need to be super-light
+to float in low-density hydrogen and helium
+gas those are made of, or constantly flying
+to generate lift, also a topic for another
+time, but skyhooks might be advantageous there
+too, or even for working near the Sun, and
+we used some similar tricks to electrodynamic
+tethering when we discussed harvesting material
+from the Sun in the Starlifting episode.
+Of course one of the problems with
+tethers is they can only be so long before
+they’d break, same as a space elevator,
+these things rely on tensile strength.
+As I mentioned earlier we could essentially
+build a ladder out of multiple skyhooks, rotating
+or non-rotating.
+Transferring between them is a bit of an exercise
+in good timing but nothing even the simplest
+modern computer couldn’t handle.
+Your ladder, composed of rotating or
+non-rotating hooks, or a combination of both,
+can include as many components as you like,
+and each one as long as the material will
+comfortably permit based on its strength,
+the gravity at that distance, and the centrifugal
+force it experiences if spinning.
+This sort of skyhook ladder, combined
+with electrodynamic tether momentum regeneration,
+ensures that you can get off any planet relatively
+cheaply, even ones more massive than Earth,
+and even if you never figure out how to mass
+manufacture super-strong materials like Graphene,
+as good old Zylon or Kevlar will do the trick.
+And you can have multiple hooks in the same
+orbit, even at a different orbital angle,
+to ensure you can do a lot of pickups and
+cut down on time delays of waiting for higher
+hooks to come back around for a transfer.
+However these are long cables and even the
+non-rotating ones are a bit of hazard, so
+you don’t want to clutter space up with
+too many of them without doing some very careful
+coordination of orbits.
+This does raise safety issues though.
+Skyhooks are also probably the safest
+of the launch systems we will look at in this
+series.
+These move around the planet quite quickly,
+so if they drop into that atmosphere they
+just burn up.
+As with the space elevator we have the option
+to include the occasional explosive charge
+to break the hooks into smaller bits.
+It shouldn’t really be necessary to do so
+but something I forgot to mention in the Space
+Elevator episode is that proper spacing and
+timing of explosives on tethers, skyhooks
+or space elevators, can help you control where
+they drop, which is handy since most of the
+planet is ocean and even most land is sparsely
+populated.
+Better the ocean than land, but better a wheat
+field in Kansas than New York City.
+Again, though, these will reliably burn up
+in the atmosphere so there’s little need
+to worry, nor would they do much damage if
+they hit.
+The big safety issue is the hook and the plane
+not matching up or it snapping when the hook
+was made, but that is one of the reasons why
+a plane carrying a payload is preferable.
+A plane can more safely and easily maneuver
+to an airport to land.
+So if you miss a hook the plane just diverts
+to an airport or loops around to return to
+its launch site.
+They are a bit of hazard to space navigation
+and also vulnerable to space debris hanging
+around orbit, but not too much of one for
+the former and we’ll talk about the latter
+soon but not today.
+Overall skyhooks are quite safe, safer than
+rockets I suspect, particularly once they’ve
+had as much service time for us to learn their
+quirks and hazards as we have with rockets.
+But even more than the safety, the
+nice thing about skyhooks is that they are
+cheap.
+They don’t offer the same super-low launch
+costs a space elevator does but they come
+close and are way cheaper to deploy.
+This is a technology we already have and which
+wouldn’t need a lot of prototyping.
+It is just an immense cord, and though the
+momentum regeneration angle is a bit trickier
+that is also on very solid and old scientific
+footing.
+R&D is needed but more in the way a new car
+design needs it, as opposed to trying to build
+a hover car or something.
+Also while neither Kevlar or Zylon are cheap,
+compared to steel, they are in the dollars
+per kilogram range.
+So if we imagined a cable of it 200 kilometers
+long, massing, say, a 100 grams a meter, or
+100 kilograms a kilometer, that cable would
+only mass 20,000 kilograms, which is on the
+heavy end of a normal single launch but quite
+doable, and would only cost you a couple hundred
+thousand bucks to manufacture though presumably
+several hundred million bucks to launch.
+Since they would instantly save you a big
+chunk on launch costs of every future flight,
+it pays for itself after just a handful of
+launches.
+If you were pretty confident that your electrodynamic
+tethering would work first try, you could
+even use the hook to snatch up all solar panels
+and equipment needed for regenerating the
+hooks momentum on your second launch.
+So unlike the Space Elevator and most of the
+other systems we will look at, it does not
+have the huge initial capital investments
+of R&D, prototyping, and construction.
+It doesn’t offer you quite the same super-low
+costs per kilogram launched some of the other
+options have, or the ability to move truly
+huge amounts of cargo back and forth to space,
+nor can you can use these right next to your
+big cities, sonic booms and all, but it is
+a strong candidate for near-term use.
+Safe, cheap and relatively low tech.
+In fact your biggest R&D cost would probably
+be those hypersonic planes meant to connect
+to the hook, though there are some alternatives
+we will discuss for getting spaceships up
+to the necessary hooking speed besides hypersonic
+jets.
+Back at the turn of the century, when we were
+thinking about replacing our space shuttles
+with space planes, Boeing worked out a system
+using skyhooks called HASTOL, the Hypersonic
+Airplane Space Tether Orbital Launch System,
+in a partnership with Tethers Unlimited.
+It used a hypersonic airplane to get up to
+the highest speed an air-breathing jet could
+pull off, then link to a spinning tether.
+Typically releasing a payload to attach to
+the tether since the plane is then useless
+mass, which can then go land elsewhere, refuel
+and reload and do it again.
+The idea didn’t go much past the drawing
+board, but not because the tech wasn’t promising
+or was too blue sky, we never did replac the
+space shuttles with spaceplanes as was the
+general assumption we would do at the time,
+and this was one of the stronger candidates.
+You don’t necessarily need to use hypersonic
+planes either, it can be adapted to work with
+conventional rockets it’s just that the
+planes would tend to be cheaper once you got
+done with the R&D.
+I’m not sure which companies are looking
+at skyhooks right now, a lot of folks are
+mostly focused on reusable rockets at the
+moment and that is very promising technology
+we’ll be looking at soon too.
+Also, again, you can adapt skyhooks to work
+with those too, so I think as that technology
+progresses skyhooks will get a second look
+for possible use with them.
+If not, they will likely make an appearance
+to work in tandem with some of the other systems
+we will discuss in future episodes, they’re
+very much a launch-assist option, meant to
+be used as a hybrid with something else that
+helps them get up to that necessary hooking
+speed.
+I think we will stop there for today, hopefully
+by now you see why I felt this system deserved
+longer coverage than I gave it in the original
+episode, and it remains my personal favorite
+in terms of near-term technology to make space
+cheaper.
+As we’ve seen, the skyhook is cheap to construct
+and launch, the main costs being related to
+the development and production of a fleet
+of hypersonic airplanes.
+While the launch cost reductions are not on
+par with, say, the space elevator or the orbital
+ring, it still offers considerable reductions
+in launch costs.
+We will look at the orbital ring later in
+the series.
+Next week, though we will take a look at Life
+Support, and look not at ways of getting into
+space, but ways of staying alive in space,
+and we will look at a lot of the options available
+and try to give some solidity to them.
+After that we will return to this series to
+look at Mass Drivers and similar concepts
+for getting into space, or at least up to
+high speeds, by accelerating a ship down a
+long tunnel like a cannon shot.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel.
+If you enjoyed this episode, please like it
+and share it with others.
+Until next time,
+thanks for watching, and have a great week!

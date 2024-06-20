@@ -1,0 +1,534 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+66 million years ago the world was changed
+forever
+when an Asteroid only the size of a mountain
+struck Earth
+and wiped out the dinosaurs.
+It could happen again, any day,
+so what could we do to stop it?
+The primary current theory for what ended
+the dinosaurs was a massive asteroid, and
+it wasn’t the first or last time one struck
+our world with earth-shattering consequences.
+Indeed current theory also says a truly massive
+asteroid or dwarf planet early in our planet’s
+history struck us and threw much of our crust
+and mantle into orbit, debris from which later
+formed our atypically large moon.
+When thinking of calamities it is worth remembering
+that we ourselves probably would not exist
+except for that moon-generating event-- and
+we’d still be rodents if not for the one
+that got the dinosaurs-- so they can be beneficial
+for everyone but the folks on the receiving
+end…
+though that may not be the case for more advanced
+civilizations who may consider an incoming
+asteroid quite a boon.
+Those two events, the dinosaur-killer and
+moon-maker, are hardly the only major impacts
+we’ve had.
+The latter was so enormous there is no crater
+for it, it erased any events before it occurred,
+but we have hundreds of major craters we’ve
+found thus far and more doubtless we will
+find or that were erased by time.
+We’ve a crater in South Africa, estimated
+at 2 billion years of age, that is twice as
+big as the one from 66 million years ago that
+struck the Yucatan, and three more with craters
+over a 100 kilometers wide, with dozens in
+the tens of kilometers width.
+The largest known event in human times was
+about a million years ago in Ghana in Africa,
+and left a crater 10 kilometers wide, and
+another larger one in Kazakhstan also around
+a million years back at 14 kilometers.
+To give a scale, we usually say the energy
+release to form a crater roughly goes with
+the cube of the diameter, and that a one megaton
+nuke would leave a crater about a kilometer
+wide.
+So one 10 kilometers wide would be the equivalent
+of 10-cubed or 1000 megatons, essentially
+our cold-war arsenal, whereas one 100 kilometers
+wide would be a 100-cubed or a million Megaton
+blast.
+Those two about a million years back could
+each have been strong enough to cause major
+climatic events.
+Since then we’ve had many more that would
+dwarf a typical nuclear explosion, and while
+hardly civilization toppling events at a planetary
+scale, such an impact in modern times would
+likely be ruinous for the nation it landed
+in and potentially have disastrous economic
+consequences planet-wide.
+So, they are not rare, though the bigger you
+go the less common they are, and they are
+a thing to worry over.
+Particularly as there are probably over a
+million objects in our asteroid belt alone
+big enough to cause those kinds of impacts
+that would be civilization-toppling, and thousands
+that could cause mass-extinction.
+It is also all a statistics game, it is unlikely
+that anything that would even wipe out a city,
+let alone a planet, would strike Earth in
+the next thousand years but not super unlikely
+either.
+We are not talking lottery-odds, especially
+for city-destroyers.
+We’ll be talking today about how to detect
+and prevent or destroy such asteroids coming
+toward Earth.
+We also need to remember that this is the
+same technology that can permit malicious
+asteroid attack, someone nudging an asteroid
+into a collision course with Earth or even
+some accident in asteroid mining operations
+causing scatter collisions and perturbations
+that nudged many objects onto dangerous new
+trajectories.
+Now asteroids are not an ideal attack method
+because they are slow and easy to detect compared
+to something like a “Rod From God” or
+it’s big brother, the relativistic kill
+missile, nor would you tend to miss someone
+setting of the sorts of explosive or propellant
+needed to move one onto an attack vector,
+but it is an option and moreover, any number
+of asteroid mining projects could accidentally
+put one on a dangerous trajectory.
+Key notion though is that we can’t assume
+luck will protect us because even ignoring
+that asteroids hit us from time to time naturally,
+a civilization moving into space opens up
+many new avenues for increased space debris
+and collision dangers we will need to defend
+from.
+The first key to defense of course is knowing
+where the threat is.
+Early detection is key to asteroid defense,
+because their sheer speed makes it easy to
+miss them until it is too late to redirect
+them.
+In general an asteroid impact crater will
+be ten times as wide as the asteroid that
+caused it because of the enormous kinetic
+energy released by the collision.
+Asteroids vary in speed of impact but usually
+move in the tens of kilometers per second
+range, and would cover the distance from the
+Moon to the Earth in under a day.
+Timelines for such an object being spotted
+at interplanetary distances and reaching us
+might be around a year but we need to see
+it clearly enough to know its trajectory,
+though we currently still haven’t spotted
+most asteroids in the Belt that are considerably
+larger than a kilometer across.
+Anything over a kilometer across represents
+a major threat to us, likely to leave millions
+dead and trillions of dollars lost, and it
+would be very hard for us to spot nowadays.
+Such an object a kilometer wide would be three
+million times dimmer than the moon at the
+same distance from us as the moon is.
+That would be about 16 dimmer in terms of
+apparent magnitude than the moon, which is
+a -13 at a full moon.
+For astronomical magnitude every 5 is equal
+to a factor of 100 in brightness, and that
+would make it about a 3 so it would be noticeably
+visible to the naked eye but hardly bright,
+plenty of nighttime stars are 3’s.
+An object’s apparent brightness drops off
+with the square of distance, so one a ten
+times further away will be ten-squared or
+one hundred times dimmer, or 5 orders of astronomical
+magnitude dimmer, so that same asteroid we
+mentioned a moment ago that was decently naked-eye
+visible out at the moon’s distance would
+be an 8 at that point, ten times further away,
+and visible with binoculars.
+The asteroid belt is around thousand times
+farther from us than the moon and so is a
+million times dimmer or 15 orders of magnitude
+dimmer, but it’s actually worse than that
+because we see them by reflected light from
+the Sun which also falls off with the square
+of distance, and the Belt is much farther
+from the Sun than Earth is.
+Space is big and these things are dim and
+one headed toward Earth is not going to stand
+out much until it is too close and we have
+little time to react.
+Now we could build much bigger telescopes
+in space and more of them, see our Megatelescopes
+episode, but this relies on passive detection
+and these asteroids have their light all scattered
+around the solar spectrum like most objects
+reflecting light.
+It is much easier to pick up an object shining
+dimly but in a specific narrow frequency than
+one shining brightly in a white spectrum,
+and this is the basic notion of ‘active’
+detection.
+You blast out a rapid pulse of some tight
+frequency of light, usually radio or microwave
+rather than visible, and that tends to reflect
+off the sort of substance you are looking
+for, and see what scatters back and with the
+time of return and direction you’ve got
+your ping – that is essentially RADAR.
+You can also do very wide images shot from
+multiple angles and have a computer come back
+and crunch the numbers for matchups, which
+is an approach you could use with ambient
+light like solar illumination or the infrared
+blackbody radiation given off by the object.
+Indeed for the latter the peak wavelength
+of infrared will also give a fairly good idea
+how far away it is from the Sun, as that correlates
+to temperature of the object.
+Both of these approaches benefit hugely from
+having lots of detection gear in space and
+not just in orbit around Earth.
+You could also put them at Earth’s Lagrange
+points or any number of other orbits to give
+yourself a much better resolution and detection
+capacity.
+You need to do this as you go out in space
+too because our atmosphere protects us from
+small junk, which is vastly more common than
+big objects, and things in space do not get
+that protection and can be trashed by a fist-sized
+one-kilogram meteor that would have been torched
+by our atmosphere.
+Indeed about 25 million hit Earth every year,
+nearly once a second, to the tune of about
+15 million kilograms a year.
+And keep in mind there’s nothing special
+in this regard about Earth.
+Our gravity well does make us get hit a bit
+more often than some random bit of empty space
+of the same volume, but not that much.
+Space is full of dangerous stuff, and will
+be more so as we start littering the place
+with our own junk.
+So you have a very good motivation to put
+up that detection and monitoring system if
+you want to build a robust presence in space,
+and that presence makes it much easier to
+build that detection system.
+Monitoring is important too because keeping
+track of all these objects helps avoid them--not
+to mention that if you check in and see that
+one isn’t where it is supposed to be that
+means something struck it or perturbed it,
+which would cause lots of other stuff to be
+flying around on potential new collision courses,
+and it’s easier to find those if you can
+calculate from where they got nudged or blasted
+loose.
+A future humanity in space needs detection
+and monitoring and can do it easier in many
+respects than we can now, but what about now?
+What would we do if we picked one up?
+There is a persistent myth that nuking asteroids
+would not be effective.
+But the First Rule of Life In General is,
+“If brute force isn’t working, you’re
+not using enough.”
+Yes, you could turn an asteroid into sand
+and golf balls by hitting with enough nukes,
+though a really big asteroid would require
+several times more nukes than currently exist
+on Earth.
+And if blasting it apart were your only strategy,
+you would have to blast it into pieces that
+small to be sure the atmosphere could burn
+them up, because if the Earth were going to
+be struck by the Rock of Gibraltar, peppering
+it instead with a billion hurtling Volkswagens
+would actually be worse.
+This approach to asteroid management would
+also leave you having to track and avoid all
+the shrapnel you created.
+A far more efficient and tidier way to use
+nukes against asteroids is to detect an asteroid's
+collision course with Earth early, very early,
+and nudge it onto a slightly different path.
+The high energy radiation from a nuke will
+vaporize or ionize a very thin layer of one
+side of the asteroid, trillions of tiny explosions
+pushing on the asteroid like rockets.
+If we approximate the asteroid as a sphere,
+the optimal detonation placement to yield
+the greatest nudge per nuke is actually about
+an asteroid radius away from the surface.
+Distributing the pressure over so much of
+the surface greatly increases the chances
+that the asteroid will stay in big pieces,
+which are easier to track and avoid later,
+after they miss Earth.
+And the nudge you need isn’t very much,
+relatively speaking, if your network detects
+at a distance and defends quickly.
+Traveling 1 m/s for 70 days, you’ll cover
+a distance equal to the Earth’s radius,
+which means that if you can change the velocity
+of an incoming object by just 1m/s 70 days
+before it hits Earth, you’ll have saved
+the Earth--even if in a somewhat uncinematic
+way.
+The real issue with using nukes, at least
+at the moment is that warheads are not terribly
+fast, sturdy, or lightweight items except
+in terms of how much punch they pack.
+You cannot just load a hundred megaton nuclear
+warheads onto a shuttle or rocket and fly
+them into space.
+They are also somewhat delicate items, in
+that the detonation trigger is a high-precision
+device, the design of which challenged the
+world-class engineers and scientists on the
+Manhattan Project.
+It’s even more difficult to design and build
+one that will survive the shaking of a high-g
+launch into space and still function reliably
+when it reaches its target.
+Contrary to what movies show, blowing up a
+nuke will not set it off, it will only break
+it and make it non-functional.
+So you can’t send a barrage of simultaneous
+nukes at a target unless you are incredibly
+precise about the timing, otherwise the radiation
+blast or tons of high-velocity debris from
+the first nuke will disable the others.
+But just getting your nuke up even to high
+orbit is no small trick either.
+Warheads aren’t light but ICBMS are down
+right heavy, what with all that rocket fuel,
+and are not designed to be launched from orbit.
+Trying to rapidly retool and refuel ICBMS
+to be carried into orbit on a rocket then
+launched from there so they could reach something
+out in high orbit or the moon is not a quick
+or easy thing to do.
+There is a reason we use phrases like ‘this
+isn’t rocket science’ and ‘this isn’t
+brain surgery’, and rapidly retooling an
+ICBM and an orbital launch rocket to a job
+neither was meant for, or ‘rocket surgery’
+is considerably harder.
+So if we want to nuke an asteroid we need
+to build those nukes from the get-go with
+that in mind and we should be putting them
+up in space, so we aren’t needing to deal
+with orbital launch energy costs or weather
+windows scrubbing that launch.
+This kind of precaution carries the small
+problem that some folks are squeamish about
+having atomic bombs whizzing around in orbit
+overhead - and that both warheads and rockets
+need lots of constant maintenance to work
+which is hard in space.
+The other problem is you have to fly the rocket
+there and they do have rather long flight
+times.
+Again early detection is the key since it
+gives you more time to get your bomb ready
+for the flight and actually fly it there.
+Some asteroids are just a big ball of gravel
+loosely held together by gravity while others
+are more of slab you can shatter, and we call
+the Impact Disruption Energy the kinetic energy
+needed to shatter an asteroid and remove at
+least half its mass if we just whack it with
+another object… like if we shoved another
+smaller asteroid or space station or spaceship
+in its way that it plowed into.
+Part of this energy is the shattering energy,
+and is generally proportional to the mass
+of the asteroid, but you also have the gravitational
+energy in there, because it does have gravity
+and if you shatter it the bits can just fall
+back down and reform, so you need to shatter
+and blow it apart.
+In general for smaller rocks that shattering
+energy is much higher than the gravitational
+energy, larger ones though are gravity-dominated.
+What we’re seeing here is that while yes,
+nukes can absolutely get the job done, again
+with sufficient brute force you can get almost
+any job done, they are not ideal.
+Especially now.
+Down the road and with far better detection,
+an Earth-bound asteroid wouldn’t be such
+a world-shaking calamity.
+After all it is a bunch of free metal already
+headed your way you can mine and harvest on
+the cheap.
+High-tech civilizations might just regard
+an incoming asteroid as free stuff.
+But that is a good way off, so how about more
+short term?
+If not nukes, what is the alternative?
+One innovative suggestion was to fly a ship
+out to spray paint the asteroid to be highly
+reflective, so that reflecting sunlight will
+push it like a solar sail off course, but
+this probably isn’t practical with anything
+but smaller ones and very early detection.
+However, it’s not a bad approach if you
+can add more light pressure with a laser,
+and we have often discussed using lasers to
+push spaceships up to high speeds, as we looked
+in Interstellar Laser Highways.
+You could also maneuver that asteroid around
+to some place you wanted it, like into a lagrange
+point to serve as a nice base for a space
+station.
+Of course, if you have lasers that powerful
+and if time were limited, you could skip the
+reflective paint job and just hit the asteroid
+with the laser directly.
+This will produce significantly less thrust,
+but it will at least produce the same surface-vaporization
+rocket effect as the radiation from a nuke,
+but in a slower, more controlled version that’s
+less likely to messily shatter the asteroid.
+The big benefit is that light is near-instant,
+even over the vast tracts of interplanetary
+space it gets to its target in minutes not
+days or weeks.
+You can also keep at it, it’s not a single
+expenditure of energy like a bomb.
+Nukes might seem like they have a lot of energy
+in them – and they do as atomic energy is
+far denser than chemical energy, but a megaton
+H-bomb still only has the energy equivalent
+to what the United States power consumption
+is over a couple of hours, so if you plugged
+that into a laser and kept it on the asteroid
+it would be delivering a dozen megatons of
+zap to that asteroid every day and delivering
+it precisely in mere minutes from when you
+flipped it on.
+Remember, you’re not trying to simply zap
+the thing and blow it apart, rather you’re
+cooking or ablating off its surface with a
+more diffuse beam to act as propellant to
+shove it aside.
+You basically are shining a powerful flashlight
+on it to push it aside using its own heated
+matter as the propellant.
+We’ve discussed parallel tricks to this
+for snatching comets in from deep space to
+help provide water for terraforming and artificial
+space habitats.
+Your laser provides the energy and the struck
+object provides the propellant that energy
+superheats.
+Now I like this method for a couple of reasons.
+First, you can’t exactly plug the planet’s
+power grid into a big laser, our atmosphere
+is kind of in the way, but space is a great
+place for renewable energy, namely solar panels
+that never have to worry about clouds or nighttime,
+and we talked before in our power satellites
+episode about how handy it is to get power
+this way and beam it down as microwaves to
+Earth, as diffuse Masers, the microwave variety
+of laser.
+Indeed, it is on my shortlist of things likely
+to kickoff major space industry as our energy
+sector is a multi-trillion dollar one so moving
+it to space gives us huge resources for other
+space projects to piggyback on.
+But you could easily divert part of this power
+supply to such lasers to occasionally vaporize
+more mundane space debris or push ships away
+from Earth to our various colonies.
+Lasers are also easier to secure against theft
+and misuse than nukes lingering in orbit or
+on the moon.
+So that would be my preferred approach to
+asteroid defense, but we have many and what
+they all rely on ultimately is early detection
+and a robust presence in space, which also
+gets all your eggs out of one basket in case
+another Moon-maker or dino-killer heads our
+way.
+Ultimately, your best defense against asteroids
+is not an individual system like nukes or
+lasers but simply that robust push for space
+development.
+The best way to protect ourselves from threats
+from space is to expand ever outward into
+space.
+We’ll be talking more about the uses of
+asteroids in the coming months as we continue
+our new series, Becoming an Interplanetary
+Species, and we just had our second episode
+of that come out this week, looking at colonizing
+Cislunar Space.
+For those of you who are subscribed to Nebula,
+our new streaming service, you already had
+a chance to catch today’s episode as an
+early release, and while I’ve enjoyed putting
+our mid-month bonus episodes up there a couple
+months early, I have decided for now to switch
+away from doing that in favor of just releasing
+ALL our future episodes on Nebula a couple
+days early, and ad free.
+If you’d like to catch all of SFIAs episodes
+early and without ads, or see any of the great
+content from our sister channels on Nebula,
+you can signup for Nebula today, or you can
+get it for free by instead signing up for
+Curiosity Stream, whose partnering with us
+to bring you the best education videos out
+there.
+Curiosity Stream has excellent educational
+content of their own and they are running
+26% discount if you use the link in the description.
+That’s a great deal since it means you get
+a year of both Curiositystream and Nebula
+for less than $15, and it helps support this
+show and a lot of other educational content
+which is what Curiositystream and Nebula are
+all about, and again you can get a year of
+both for less than $15 by using the link in
+the episode’s description.
+So as mentioned we are continuing our look
+at Becoming an Interplanetary Species, and
+we’ll start October off with episode 3,
+as we look at returning to the Moon and staying
+there.
+But there’s more to come before then, and
+this Thursday we’ll be taking a look at
+the Future of Fission, as we celebrate the
+sixth anniversary of the show.
+Then the week after that we’ll be back to
+the Fermi Paradox series to look at the Phosphorus
+Scarcity problem with life evolving, then
+close the month out with our Livestream Q&A
+on Sunday, September 27th, 4 pm Eastern Time.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!

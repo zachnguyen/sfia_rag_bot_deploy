@@ -1,0 +1,745 @@
+This episode is sponsored by Raycon.
+“Only those who will risk going too far
+can possibly find out how far one can go.”
+– T.S.
+Eliot.
+In last month’s episode, Surveying for Habitable
+Interstellar Star Systems, I mentioned that
+as soon as I started the topic, I knew it
+was going to require more than one episode;
+so we briefly discussed interstellar probes
+and manned scouting missions down to a planet
+in that episode, but we focused on distant
+astronomical techniques.
+Today, we’ll be taking a deeper dive into
+interstellar probes, both flyby-missions and
+long-term orbiters.
+However, we’ll follow up the next two weeks
+with a look at slow-boat colonization of the
+galaxy at less than 1% light speed, what we
+call “Crawlonizing”, and the week after
+that we’ll be asking what life as a Planetary
+Explorer will be like.
+Today our focus is on those probes though
+so don’t forget to subscribe and hit the
+notifications bell if you want alerts when
+those and other episodes come out.
+In our Surveying episode, we pointed out that
+the nature of telescopes and probes at the
+interstellar scale meant that you could always
+get a probe to park itself around a world
+a little bit quicker than the time it would
+take for a colonization fleet to arrive, but
+that a flyby probe, since it can use all of
+its fuel for accelerating and doesn’t need
+to save any for decelerating, can get there
+in half the time, and, of course, a telescope
+can actually get there backward in time, seeing
+the world not when your probe arrives, but
+as it was when light from it left and got
+to us back here.
+Let’s create an example to give this some
+context, with a system about 100 light years
+away, where we’ll imagine that we detect
+an anomaly right before the start of the 22nd
+century.
+After short discussion and the New Year’s
+celebration, its decided to investigate.
+A flyby probe launched in the year 2100 AD,
+sent out to achieve 10% of light speed to
+a system about 100 light years away, Epsilon
+Fornacis, one of the dimmest stars visible
+to the Naked Eye, an ancient binary system
+composed of both a star that’s a bit less
+massive than our own, and its medium-distant
+binary neighbor, about half our Sun’s Mass,
+estimated to be in excess of 12 billion years
+old.
+This is not a great place to be hunting for
+rocky planets, being so old that it predates
+most supernovae, but we got a ping, not much,
+just a brief bit of signal that might have
+been natural or might not have been, in that
+hazy “Wow!
+Signal” range of uncertainty, and when we
+examined it with an available telescope, some
+of the spectrography and infrared didn’t
+really match what we expected.
+So, right away, 6 things happen: First, a
+signal is sent out to that system, initially,
+several loud attention-getting signals, then
+a lexicon, and a general greeting, along with
+informing them that probes are en route and
+their ETA and trajectory are given, along
+with a self-destruct code.
+They are then told that manned missions will
+follow and that if either a specified signal
+is sent or the self-destruct alert signal
+from the probes is received, that mission
+will abort.
+In this way, not only have we said hello and
+established a method of communication if anyone
+is there, we’ve made every reasonable attempt
+to avoid giving the impression of being reckless,
+neglectful or threatening, but without including
+unnecessary delays.
+Of course, if we don’t get a response, we
+may wait until hearing back from the probe
+before deciding to send a manned probe, but
+in this case we won’t those two centuries.
+Second, Epsilon Fornacis gets a telescope
+dedicated to staring at it, with a variety
+of instruments, which is nicknamed Nicolas,
+in honor of Nicolas-Louis de Lacaille, the
+astronomer who first documented the Constellation
+Fornax, during his time at the Cape of Good
+Hope in the 1750s, though he originally named
+it the Chemical Furnace.
+The telescope Nicolas sees the system as it
+was in the year 2000, a century back, when
+the light left.
+They will be monitoring this system for the
+next few thousand years.
+Third, the flyby probe, Louis, is launched
+to reach 10% of light speed, and will arrive
+in 1000 years, the year 3100 AD.
+This would actually be a little over 1100
+years after the initial anomaly was detected.
+Some additional probes are sent out towards
+plausible colonization candidates in that
+same general trajectory.
+Fourth, the probe carrier Lacaille is launched,
+carrying squadrons of various planetary and
+solar probes at 5% light speed, and able to
+accelerate and decelerate at 100 gees, they
+need about 9 hours total to speed up and slow
+down, and they will arrive January 1, 4100
+AD.
+Fifth, the Firefly, a vanguard manned vessel
+is launched that will move at 5% light speed
+as well, but will only accelerate at 5 gees,
+and thus they will arrive on January 3, 4100
+AD.
+The crew will exist in suspended animation,
+having received prototype augmentation and
+nanotechnology.
+The volunteers have been informed that this
+is high-risk.
+Sixth, Musketeer, an armed colony fleet of
+three Super-Orion-Drive vessels, the Athos,
+Porthos, and Aramis, will be launched and
+will also travel at 5% light speed, but it
+will use a classic ark ship approach, a big
+rotating habitat drum, and will not exceed
+a tenth of a gee of acceleration, thus will
+arrive July 1st of 4100 AD.
+No significant construction times are needed
+as everything has been re-tasked from other
+colonial ventures and there is heavy automation
+in 22nd century manufacturing.
+The colony ship will be able to send information
+and directives to the probes and receive information
+from them, and thus will be able to redirect
+the second wave of probes off the flyby data.
+Similarly, the Vanguard team will gain consciousness
+a bit later, by January 4th and review the
+first 4 days of second-wave probe data, while
+having just under 6 months before the colony
+fleet arrives.
+Complicating factors are numerous, hence Louis,
+the flyby probe and the second-wave probe
+on board Lacaille, if they determine the system
+is unexpectedly hostile, natural or by alien
+artifice, can send an abort code to the Firefly
+or Musketeer to divert to another of the potentially
+habitable worlds further out that would require
+minimum delta-v to redirect to, that we sent
+those other flyby probes to.
+But the efforts of the Firefly and Musketeer
+will depend entirely on what the Louis and
+Lacaille probes will achieve, and it’s the
+efforts of these two probes that we will consider
+today.
+Firefly and Musketeer will have to wait a
+couple weeks for their episode.
+Now, Louis is no simple camera on a power
+supply with a transmitter, he is a 50-ton
+probe, shaped like a needle, now wrapped in
+his cloak, the remnants of the vast solar
+sail he powered out of the Sol System with
+that now serves as radiation shielding, where
+before, it was a kilometer-wide sheet of slowly
+self-healing reflective foil, designed to
+be targeted by lasers to push him up to speed,
+then retracted to minimize interstellar collisions
+and reduce wear and tear.
+Louis can spin this back out to serve as a
+massive parabolic dish, both for communication
+back home and for serving as a mirror for
+its own telescopes.
+This may also be used as it approaches a star
+to slow or redirect it, and to funnel light
+to a solar panel for recharging its graphene
+batteries.
+Louis is not a complex AI, he knows his job
+and very little else.
+He has a number of smaller probes he can detach
+and give a tiny shove to the side, and he
+plans to do this as he approaches Epsilon
+Fornacis and can combine information from
+Telescope Nicolas back home, and his own sensor,
+to get locations for planets or any other
+objects of interest.
+Louis is aware he has a small thermonuclear
+device on board, that can be triggered by
+himself or others with the right code, and
+this does not bother him.
+Given that he is a 50-ton object moving at
+10% of light speed, and thus has a kinetic
+energy equal to over 5000 megatons of atomic
+weapons, more than existed during the Cold
+War, Louis would not assume this nuclear bomb
+was intended as a weapon of aggression.
+Louis’s protocols include a number of self-destruct
+failsafes, for scenarios like him finding
+himself on an intercept course with a planet
+or clearly artificial structure, or if he
+loses the ability to determine this, such
+as instrument failure.
+It is designed to shred him down to the molecules,
+where his fragments, moving at 10% of light
+speed, wouldn’t be big enough to harm anything
+they collide with eons later.
+Fragments need to be small though, even a
+tiny sliver of metal, no bigger than a pencil,
+weighing maybe 10 grams, would carry about
+a kiloton of explosive power.
+For this reason, like most of the probes in
+his class, Louis also includes a number of
+small spikes he can send out to hit objects,
+causing a nuclear-level explosion, whose dust
+and debris clouds could be analyzed by his
+instruments to tell him more about that object’s
+makeup, however, these have been explicitly
+disabled for this mission.
+Mission control does not expect to find anything
+alien, but it considers this much more likely
+than normal and is intent on making sure it
+doesn’t accidentally blow up any aliens
+or start a war.
+With that in mind, no AI will have any capacity
+for doing damage and even the manned missions
+have strong controls in place.
+This is an important thing with any interstellar
+probe, you need to contemplate any reasonably
+plausible way the thing might inflict damage,
+particularly if it suffers damage itself.
+So if Louis can no longer see his surroundings
+clearly, he can no longer be sure he’s not
+on a collision trajectory and will need to
+self-destruct once a reasonable effort is
+made to repair or restore those, if unsuccesful.
+Same for if his beacons go out, because he’s
+cruising along at 10% light speed and that
+means, without a beacon, he’s not really
+very easy to see in time to react if you just
+happen to be some small outpost or vessel.
+His actual odds of running into anything are
+virtually nil, even if his trip was across
+the whole galaxy, but sending a probe into
+a system where there is a suspicion there’s
+a civilization means raising those odds immensely,
+as does sending it on a straight-line path
+between any two star systems, where, if there
+are ships traveling between them, would be
+where those ships are most likely to be traveling.
+Space is huge but those straight corridors
+between stars are much smaller and thus you
+have better odds of encountering someone traveling
+between two planets, especially two with bio
+or technosignatures.
+Sending it into where there might be a lot
+of spaceships and space habitats makes that
+even worse, and while our telescopes will
+have picked up every planet and maybe even
+every dwarf planet or larger moon by then,
+space habitats or ships might be harder to
+pinpoint.
+And an unknown alien beacon is likely to be
+something that people, or aliens, would want
+to rendezvous with and dissect.
+With that in mind, you need to make sure the
+self-destruct goes off only when the probe
+is disabled but before a lack of sensory data
+could cause it to unknowingly detonate within
+range of someone who would be damaged by the
+blast.
+Which is to say, if it goes blind from sensor
+damage, it needs to detonate itself before
+someone could plausibly have gotten into range
+of it or its own path unknowingly wandered
+of course into something.
+After that, it can't know if someone has rendezvoused
+with it or its veered toward a colonized system.
+And its giant detonation also tells anyone
+watching it that it has detonated and need
+no longer be worried about.
+There’s a second aspect of this too, because
+we need to contemplate any reasonably plausible
+way that the thing might inflict damage, and
+that includes psychological and diplomatic
+damage, like them worrying the message and
+detonation was a ruse and the probe is still
+coming toward them on course to hit their
+world.
+Any probe is a two-way street when it comes
+to information, at least if those the probe
+goes to look at are aware of its existence.
+If they’re a technological civilization,
+they likely will have the ability to spot
+anything moving into their system at dangerous
+kinetic energies.
+Stealth is very difficult in space, especially
+when trying to stealth something threatening,
+because that’s exactly what folks are going
+to build their detection gear to find and
+its not likely to be hard to get a budget
+through your alien congress or parliament
+for detecting 5000 Megaton bombs headed into
+your colonized system.
+If your aims are peaceful and you want to
+build a relationship with aliens, it helps
+to make it clear that you were thoughtful
+when you built your probes, and that means
+assuming they will either dissect your probe
+or do a public records request to get the
+schematics and mission planning one day.
+First impressions are probably as important
+to aliens as to us, and while science fiction
+likes to show us horribly misunderstanding
+a peaceful alien who merely ‘seemed hostile’,
+so that we needlessly attacked them, we don’t
+want to stick aliens in a similar situation
+where they thought our intent was hostile
+when it wasn’t.
+We want to build trust from day 1, as well
+as an incentive to work with us, and that
+means making it clear we not only have good
+intentions, but are also competent and thoughtful.
+Thus good potential partners and allies and
+dangerous enemies.
+That means that even though we’re anthropomorphizing
+Louis the Probe here, we didn’t send an
+advanced AI on our probe that was smart enough
+to even vaguely qualify as human, for four
+reasons: First, we don’t need that much
+brains on a camera.
+Second, we don’t want to be throwing artificial
+intelligence out into the galaxy, far from
+where humans can check up on them and see
+that they’re not mutating horribly, which
+means not sending probes out to where we’ll
+never follow or will be centuries following
+up, that have high intelligence and any sort
+of capacity of self-replication, which a self-repair
+system might be jury-rigged to work as.
+That’s how you get von Neumann Berserker
+Probes, or grey goo, in the galaxy.
+Third, we don’t want aliens thinking we’d
+casually do that either.
+And fourth, we don’t want our first interaction
+with another intelligent species very unlike
+us to involve them seeing us using an AI – an
+intelligent entity very unlike us - as a disposable
+slave with orders to commit suicide.
+It might give them the wrong impression about
+us.
+Or, it might give them a bad impression anyway,
+and hopefully a wrong one.
+The critical concept is that, before we ever
+send an interstellar probe out, we need to
+have a good idea how it might be viewed by
+others, especially if we have any plausible
+expectations that there are going to be other
+sentient lifeforms at its destination.
+This is just as important as all instruments
+we’ll be using to view those star systems,
+to help make sure what we see isn’t an alien
+armada packing up and heading our way to discuss
+the 5000 megaton bomb we slammed into one
+of their worlds or artificial habitats.
+So, Louis is very much built along the lines
+of being a harmless probe, but without forgetting
+that he also looks like a giant doomsday device.
+Of course he still has a real mission, which
+is providing us with intel on what’s assumed
+to be an uninhabited solar system, just maybe
+less guaranteed to be one than normal.
+While he’s been traveling towards this system,
+Louis has been continuing to get updates from
+home, and realistically, that will include
+every planet in that solar system’s approximate
+orbital path and timing.
+In this particular case, it’s actually got
+three different solar systems to be looking
+for, as the primary and secondary are far
+enough apart to possibly have stable orbits
+in their habitable zones while also potentially
+having habitable worlds orbiting around both
+stars, circumbinary, at least in terms of
+what is habitable to technological civilizations.
+This is complicated because the primary star,
+while less massive than our own Sun, is much
+older, and is now a subgiant that’s grown
+brighter as it has aged, and is four and half
+times brighter than our Sun is today, with
+a habitable zone that’s 212% the width of
+our sun’s, but would have been only 60%
+as bright as our sun during its main sequence,
+and its habitable zone only 77% as wide as
+ours.
+Meaning, if anyone evolved on a world here,
+billions of years before, they either had
+to migrate or do some serious planetary engineering
+to keep their homeworld livable.
+The secondary star is only a few percent as
+bright as our Sun, and even a world that’s
+a fifth of an AU away might be too cold to
+live on.
+But, of course, that’s not what we’re
+really looking for, because we’re looking
+for either a place that humans of the 42nd
+century will be able to colonize, or a place
+that emitted a technosignature in the year
+2000 and either has survived for another 1100
+years when Louis arrives, or has died off.
+None of those scenarios really care about
+naturally habitable worlds.
+So, Louis can redivert a little bit, but essentially
+has to pick a straight-line path through this
+system that gives it a chance to photograph
+one planet decently up close, and the rest
+at distances of billions of kilometers.
+Those other planets will get a smaller probe
+detached from Louis, but they’ll basically
+be 20 kilogram cameras with a little guidance
+and solar panels and a charged up battery.
+They are going to detach if, and only if,
+Louis’ pre-programmed criteria, when he’s
+about a light year out, are satisfied that
+sending those probes on flybys isn’t going
+to cause a Kessler Syndrome event or any other
+kind of would-be catastrophe.
+Louis himself has a number of more detailed
+missions that will begin with that detaching
+and with spreading out his sails as he enters
+the system, at about 60 AU, for his window
+of roughly one week for useful observations.
+He’s been repairing or re-melting his sail
+during his voyage so that it’s nice and
+smooth, and now configured as telescope mirrors,
+making it part of one giant telescope that
+Louis is transforming into, with a host of
+sensors that exceed his smaller, older cousins,
+Hubble and Webb.
+Louis will be passing by a world that’s
+half again as massive as Earth, that was almost
+an AU out from the primary, and is now quite
+hot and nearly airless but which may have
+been habitable millions of years ago.
+He will be taking pictures of many other things
+as he passes through though, being far more
+powerful than the smaller drones he dispatched
+to flyby each planet.
+These probes are going to tell us far more
+about each world than the Voyager probes could,
+but moving at 10% of light speed, they will
+have less than a minute where they will be
+as close to their planet as the moon is to
+us.
+After that, their only remaining job will
+be to leave the sensors on for any other useful
+readings they might offer and to try to rendezvous
+with Louis, who will seek to either reabsorb
+them or send them their own detonation code
+once they’re back out to deep space, and
+their components would have lightyears to
+drift and fragment before encountering anything
+else.
+Louis will be attempting to use his sail to
+swing toward his follow-up star.
+Those lesser drone probes will not be as powerful
+as Hubble was and not have long to image,
+and Hubble could not see the Moon Landing
+Site in any detail from orbit of Earth, so
+we are not expecting zoomed in photos of alien
+lifeforms.
+But they will see every continent and mountain
+and larger lake and island, and they would
+see a city.
+Louis will do even better, though fundamentally
+his focus is really the whole system, and
+collecting and transmitting that data homeward.
+Nonetheless, he detects some interesting anomalies
+on that world as he passes closely, which
+we will now designate as Louis Epsilon Fornacis,
+or the planet Lef.
+In a millenia, armed with Louis’s data,
+which it will receive in 3150 AD, the Lacaille
+Probe carrier will arrive, then slow, and
+will begin sending probes to orbit those worlds
+of interest.
+It will go and park itself in orbit around
+Lef, and begin taking detailed readings as
+good as our entire modern orbital surveillance
+grid can produce in terms of spysats, weather,
+infrared, and more.
+They will even be able to begin setting up
+ground-penetrating radar and microwave detectors
+to help look for signs of underground caves,
+tunnels, buried ruins, or bunkers.
+Though it will have only a few days to gather
+data before the Firefly arrives with its Planetary
+Explorers, but we’ll save that discussion,
+of Lef, its anomalies, and its intrepid human
+and robot explorers, for another day.
+Now, how realistic was our tale?
+Ignoring my shoehorning-in a probable alien
+civilization?
+Well, it has a couple breaks with reality,
+though it’s hard to say where.
+For instance, I’ve made a big point of saying
+how a flyby probe can get away with traveling
+twice as fast as practically identical probes
+and ships meant to stop there, but that specifically
+has to do with propulsion systems that operate
+on the rocket equation, whether that’s chemical
+fuel, fission, fusion, or antimatter.
+In our case, its real speed would be about
+whatever speed we could achieve during the
+window back home where we can keep a laser
+focused on that probe, and the amount of energy
+we are willing and able to spend.
+Project Starshot thinks it can get probes
+up to a third of light speed with a ground-based
+laser, using essentially modern tech.
+Having gotten to meet its director, Peter
+Worden, and chat about it in person, I believe
+this will be possible, and in this century.
+Truth be told, and for folks who remember
+our prior videos on laser propulsion, I already
+believed this, but Peter Worden is a compelling
+and expert speaker, and he burned out any
+lingering doubts I had.
+In such a setup, your flyby probe like Louis
+has only maneuvering fuel, and its speed has
+no relation to the other vessels that need
+to slow down using some sort of rocket, even
+if they were also laser propelled, and probably
+to a lower speed since the faster a laser
+can accelerate you, the more gees, the higher
+your speed when it loses contact at its maximum
+distance.
+In this case, I think flyby interstellar probes
+will be moving at a minimum of a third of
+light speed and maybe much higher, even 99%
+light speed, it will depend on how well we
+can absorb or evade interstellar dust collisions.
+Those other ships may be able to leave at
+the same speeds, though often would require
+a longer launch period and distance to avoid
+super-high acceleration routes, and unlike
+a flyby, they have to be able to slow from
+whatever speed they reach, which means they
+can’t go much faster than they could have
+without that light sail initial boost, though
+we discussed some tricks for that in our Exodus
+Fleet Episode.
+I also assumed everyone launched at the same
+time, to emphasize the time difference that
+acceleration rate makes, which you wouldn’t
+expect to be the case with that colony ship
+at least.
+You might scramble a dozen explorers off for
+a hibernation ship on a few days notice, to
+prep the ship and give them time to say goodbye,
+as they’ll awake 2 millenia later, but that
+colony ark ship is not just going to be sitting,
+waiting with prepared colonists, and I can’t
+imagine rediverting a colony ship set to launch
+elsewhere without at least giving folks a
+chance to think on it and opt to wait for
+another ship.
+Though diverting a colony ship already part
+way toward another system and on a close enough
+path to be able to divert is also an option.
+There’s also that big question if you should
+be launching probes and scouts, let alone
+colony missions, before you have even given
+your signal time to reach them let alone receive
+a reply.
+In practice though, I think you would because
+two centuries is a long time to wait when
+if the answer is ‘abort mission’ it means
+you either redivert to another empty system
+or have on hand ambassadors ready to go.
+Keep in mind, we probably would not be offended
+by having an alien colony fleet show up, if
+they had pre-messaged us their friendly intent
+and offered to either redirect or settle some
+asteroid and serve as an embassy, to trade
+cultural knowledge and technology.
+And as we discussed in Hidden Civilizations,
+there’s an expectation that you post clear
+no trespassing signs if you’re capable of
+doing so.
+I suspect you’d wait but not two centuries,
+just in the context of giving yourself more
+prep time for the colony and scout missions.
+Also if there are alien ruins, you don’t
+need a scout team of a dozen explorers, you
+need many thousands of archeologists and an
+infrastructure to supply them, there’s no
+villagers to buy food from on this planet
+and there’s an entire planet, or even solar
+system, that needs digging up.
+Still, the key concepts are there.
+Once you park things in orbit, the difference
+between a simple probe taking photos can begin
+blurring as we contemplate artificial intelligence
+and manned missions.
+How much AI you’re willing to give a probe
+matters a lot, and whether or not you want
+to give it self-repair and replication, and
+the ability to land on a planet.
+If you do, then you’d probably first send
+it to an asteroid to eat the thing up and
+gain the resources needed for a major deployment
+system-wide, to orbit and down to the ground
+and potentially even acting as not just explorers,
+but colonizers, as we looked at in our seed
+ships and self-replicating robots episodes.
+Now, AI on interstellar probe missions is
+often regarded as a necessity, but I don’t
+think so.
+Reckless deployment of high-intelligence or
+self-replicators is dangerous, and if you
+trust the AI and it’s human smart, then
+I think that, practically and ethically, we’re
+talking about a kind of ‘manned mission’
+the term just lacks some accuracy, but then
+it already does, which is why the term ‘crewed
+mission’ is often preferred.
+Today we were only contemplating sub-human
+intellect or none at all, I don’t really
+think the term ‘probe’ is really appropriate
+if it does have a real mind onboard it, natural,
+artificial or some blend of both.
+To me that’s a scout.
+What else is missing?
+Well, we’re not just surveying that whole
+system because we suspect it might have techno
+signatures and thus might have a presence
+off a habitable planet.
+The normal job of these probes in any case
+where it’s not about some anomaly of scientific
+interest, like a tech or bio signature, is
+scoping for all those minor worlds and asteroids
+and nailing down their orbital paths during
+the week or so of flybys of the whole system,
+because to colonists, those low-gravity objects
+are the first point of interest in their chronology
+of colonizing a system.
+They’re not planning to go and orbit one
+planet and dump everything down on its surface,
+they want to get their orbital and interplanetary
+infrastructure started before descending down
+into a gravity well, and so they need a map
+of the best candidates for exploitation.
+We’ll examine both of these topics more
+in the next couple weeks though, as we look
+at slow colonization of the galaxy, crawlonizing,
+and find out what the anomaly was as Lacaille
+and Firefly arrive at Lef.
+So a fairly critical concept to interstellar
+probes is that they let us get up close to
+an object, and that circumvents all the noise
+and signal loss.
+This same thing applies to listening to music
+or audiobooks and podcasts, and is why you
+want a nice pair of noise reducing or isolating
+earbuds, and I’ve been using my Raycon earbuds
+now for over 2 years to listen audiobooks
+while mowing my lawn or taking a nap and the
+other thing I love about them is that don’t
+fall out of my ear, whether I go over a bump
+or sleep on my side.
+Raycon’s Everyday Earbuds have optimized
+gel tips for the perfect in-ear fit, so they
+are comfortable and they will not budge or
+fall out, and they give you high quality audio
+at half the price of other premium audio brands.
+That’s probably while Raycon Everyday Earbuds
+have tens of thousands of 5-star reviews,
+including mine.
+The individual earbuds have a 8 hour playtime
+battery life and they recharge in their compact
+carrying case, for 32 hours of listening time
+without needing to plug into a wall, and they
+have a wireless charging feature for the case
+too you can try out.
+Raycon Everyday Earbuds are also Siri and
+Alexa compatible, and their noise isolation
+feature can be turned on for total immersion
+or you can go into awareness mode if you need
+to be able to hear the world around you while
+listening.
+They’ve also got three sound profiles, pure
+sound, for those of us who like to listen
+to podcasts and audiobooks, a bass-boosted
+mode for music with a lot of beat, and balanced
+mode.
+And they are water resilient and tough, mine
+have even survived being left in my pocket
+through the washing machine.
+They won’t fall out of year but if you drop
+one in a puddle accidentally, it’s usually
+going to survive.
+They’re just all around great earbuds in
+terms of quality, versatility, comfort, and
+cost.
+So if you’re looking for a great and affordable
+listening experience and want to help support
+our show while you’re at it, just click
+the link in the description box or go to buyraycon.com/isaacarthur
+to get 15% off your Raycon purchase!
+All right, that wraps us up for today but
+we’ll be back next Thursday to look at the
+concept of Crawl-onizing the Galaxy, how humanity
+can still settle the stars even if we are
+limited to spaceships moving at less than
+1% of light speed, and what that will look
+like.
+Then we’ll have part 3 of today’s episode,
+as we join the scout missions down to Lef
+and see what Life as an Interplanetary Explorer
+might be like.
+We’ll also have our livestream Q&A coming
+up Sunday, June 26th.
+Then it is on to July for a look at Deep Space
+Habitats, then Extragalactic Sanctuaries.
+If you want alerts when those and other episodes
+come out, don’t forget to subscribe to the
+channel and hit the notifications bell.
+And if you enjoyed today’s episode, and
+would like help support future episodes, you
+can got to our website, IsaacArthur.net, which
+we’ve recently relaunched new and improved,
+and check out our donate tab for ways to help,
+and all those other options are linked in
+the episode description, along with our social
+media forums like facebook, reddit, and discord,
+where you can chat with others about today’s
+episode and many other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!

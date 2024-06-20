@@ -1,0 +1,697 @@
+This episode is brought to you by Brilliant.
+The Solar System is full of wonders we’re
+only beginning to discover and explore.
+But what will we do in the future,
+when all that stuff is just getting in our
+way?
+Humanity mostly lives, works, and plays on
+only a small fraction of Earth’s surface,
+and virtually all activity here is limited
+to maybe the first ten meters of dirt, rock,
+water, and air on that surface.
+But the ground goes down nearly a million
+times deeper than that.
+Similarly, the Earth receives less than a
+billionth of the light the Sun puts off, and
+even when we add in all the other planets,
+moons, and asteroids in our solar system,
+it’s still only a tiny fraction of the Sun’s
+light that falls on these worlds and mostly
+goes to waste there.
+For scale context, as sunlight is essentially
+the ultimate fuel all life runs on, it is
+as if we produced enough food for a vast empire
+but only had one single person eating.
+Indeed it is even worse than that as Earth,
+the only place known to host life, is quite
+wasteful with the light it gets, especially
+from an Anthropocentric perspective.
+The Sun produces around 4 Trillion-Trillion
+times the power a human actual runs on.
+From the center of the Sun, where fusion takes
+place and makes the power that runs all life,
+to the final endpoint of running a human,
+only about 1 watt out of every 50 quadrillion
+produced actually is running a human, with
+the rest all being sucked up by middleman
+processes or outright waste.
+To give a better perspective, it would be
+like producing enough food to feed every person,
+past and present, of which only one single
+bite from one single meal would be eaten by
+one single person, with an entire mountain
+worth of leftovers.
+This then is the reason why we might consider
+dismantling our solar system, not with destructive
+intent but out of the recognition that the
+default setup doesn’t lend itself to being
+efficient for life.
+It’s essentially the notion that while a
+cave in a mountain is a very handy and easy
+place to shelter, that mountain has a lot
+more living potential contained within its
+raw resources than as a mountain itself.
+Using that analogy, terraforming other planets
+to live on would be like finding a dozen or
+so other caves that weren’t really ideal
+homes and chiseling them into better ones,
+getting you a dozen times more living space,
+while dismantling that mountain to build stone
+houses, or in this case artificial megastructures
+in solar orbit, would get you many millions
+or even billions of times more living space.
+Of course space is hardly our bottleneck in
+our solar system, because we’ve got a ridiculous
+amount of empty space.
+Indeed if you scattered every human around
+the solar system roughly evenly over a sphere
+that enclosed the Solar System out to Pluto
+you’d have over a million kilometers between
+you and your nearest neighbor, and a volume
+to yourself not only bigger than Earth but
+bigger than the entire Earth-Moon system.
+So space is not at a premium in Outer Space,
+rather it’s stuff like raw materials to
+build with, energy to run on, plus all the
+biological, mechanical, or electronic problems
+we tend not to think of normally like getting
+rid of waste heat or avoiding gravitational
+collapse.
+That’s probably a good place to begin on
+the dismantling concept, because heat and
+gravity are two very big constraints when
+it comes to disassembling existing worlds
+or building new ones.
+If you’re a channel regular you already
+know what we mean by building new worlds,
+but if not, see our Megastructures series
+where we talk about building things like artificial
+planets – Shellworlds being the main example
+– or artificial Earth-like habitats, typically
+the O’Neill Cylinder, though we covered
+a bunch of more grand designs a couple weeks
+back in our episode “Continent Scale Rotating
+Space Habitats”.
+And that’s essentially what we’re looking
+to build that will require whole planets worth
+of raw material, not to build a single vast
+habitat but to build many of them, so many
+that they take up and use most or all of the
+Sun’s light, rather than letting it go to
+waste by radiating off in to empty space.
+This is the notion behind a Dyson Swarm, often
+called a Dyson Sphere, a cloud of constructs,
+be they space habitats or solar panels or
+whatever else we desire, that engulfs a star
+to use up most of its energy.
+This is generally assumed to be the end-state
+of any solar system that technologically advanced
+life dwells in long enough.
+We call these Kardashev-2 or K2 Civilizations,
+one using all the energy of a solar system,
+with K1 using all the energy of a planet or
+the K3 utilizing the entire energy production
+of a galaxy.
+At its beginning, a solar system is a big
+cloud of gas, mostly hydrogen and helium but
+with lesser amounts of other materials, where
+we see some clumps begin forming.
+As those small clumps form, they develop enough
+gravity to pull in more material.
+Eventually one or more of these clumps will
+gain so much mass that it can ignite as a
+star.
+Other clumps either get swallowed by it, clump
+together to form smaller stars or planets
+around it and thus you get a solar system.
+When we think about a star we think of all
+that fusion going on and think that’s where
+all the heat comes from but in truth a big
+part of it comes from gravity while it formed,
+and you have to pay in all that energy to
+pull that matter back away from that planet
+or star.
+We call this energy the gravitational binding
+energy and it’s what makes freshly formed
+planets hot, as every particle coming to join
+that world picks up speed as it falls in and
+that turns into heat as it starts colliding
+with other material and slowing down.
+Doubling the mass of an object does a lot
+more than double its gravitational binding
+energy though.
+Most objects aren’t uniform in density,
+as the heavier elements tend to sink to the
+center, but as a simple approximation a sphere
+of uniform density will have its gravitational
+binding energy rise with the square of mass
+and fall off with its radius.
+However, mass generally rises with the cube
+of radius, so that a planet twice the radius
+or width would generally have two-cubed or
+eight times more mass.
+So our twice-as-wide planet would have mass-squared,
+or 8-squared or 64 times more gravitational
+energy, divided by 2 for having twice the
+radius, or 32 times more energy, for only
+having 8 times the mass, meaning it has 4
+times more energy per unit of mass.
+As a result of this, a planet with a thousand
+times the mass of another, but the same density,
+would be expected to be 10 times wider, but
+have a hundred thousand times more gravitational
+binding energy, and a hundred times as much
+energy would be needed to lift away a single
+unit of mass off that world as from its much
+less massive counterpart.
+This is a large part of what makes the Asteroid
+Belt and smaller moons so attractive as sources
+of raw material.
+Not only do they lack any atmosphere your
+mining spaceship would need to plow through
+to get off them, or you mass drivers need
+to shoot through to extract material from
+them, but it simply takes way less energy
+to fight off the gravity or pay that gravitational
+bill.
+We do not have a completely accurate picture
+of Earth’s density in terms of its layers,
+so calculations of Earth’s Gravitational
+Binding Energy vary a bit from model to model
+but are generally around 2x10^32 Joules of
+energy.
+That’s a lot of energy, something like a
+trillion times the annual energy consumption
+of humanity and half a million times what
+the Sun’ total output in a given second
+is.
+So when you see planets getting blown up in
+science fiction, most memorably by the Death
+Star in Star Wars, keep in mind for them to
+blow a planet to smithereens in one quick
+blast a second long means whatever the power
+source was for that weapon, it was half a
+million times more powerful than our Sun,
+and that a Dyson Swarm built specifically
+for turning our Sun into a big laser beam
+weapon – what we call a Nicoll-Dyson Beam
+– would need to focus all it energy in on
+an Earth-sized planet for around a week to
+evaporate or explode it.
+That’s a thing to keep in mind for your
+extraction processes too, unless you’re
+vaporizing a planet this way, all the heat
+produced by your lifting engines, be they
+spaceships or mass drivers, also has to radiate
+away so it doesn’t melt your equipment surface-side,
+or your citizens if they are still there.
+As Earth only gets about a two-billionth of
+the Sun’s Light to maintain its current
+temperature, you’d need about two billion
+weeks to radiate that much heat away as you
+disassembled the planet without it raising
+the temperature significantly or requiring
+special cooling efforts like those we discussed
+in Matrioshka Shellworlds.
+Or around 40 million years.
+You could go much faster but there’s always
+going to be waste heat in the extraction process
+you need to deal with if you are not vaporizing
+the planet outright.
+Alternatively, to take apart Jupiter, 300
+times the mass of Earth though also less dense
+and proportionally wider, would take about
+10,000 times as much energy, 200 year’s
+worth of solar output, and cost about 30 times
+as much energy per kilogram removed as it
+does on Earth.
+Keep in mind that we spend thousands of dollars
+to get a kilogram off Earth right now too.
+On the flipside, the Moon, still in the top
+20 most massive objects in the solar system
+which contains millions of large rocks, is
+almost the reverse of Jupiter, at a little
+less than a twentieth the energy cost per
+kilogram off Earth, and something like 700
+times cheaper than Jupiter per kilogram.
+In the most extreme cases, the Sun’s own
+gravitational Binding Energy is around a billion
+times that of Earth and would take about a
+five-hundredth of all the energy the Sun will
+produce in its existence to pull it apart.
+Things like white dwarf stars and neutrons
+stars are far worse, while black holes are
+impossible to dismantle.
+While a modest asteroid about 6 or 7 kilometers
+in radius, containing maybe a billionth the
+mass of Earth, would only take about one millionth
+of a billionth the energy to disassemble as
+Earth would and cost a mere millionth as much
+energy as on Earth to take a kilogram of mass
+from.
+Needless to say this is why mining asteroids
+for raw material for space habitat construction,
+not just precious metals, is so appealing.
+Unfortunately the mass of the entire Asteroid
+Belt is less than a thousandth of what the
+Earth’s is and most of that mass is tied
+up in Ceres and a dozen other major asteroids,
+while the other million or so asteroids of
+noteworthy size share only the remainder between
+them.
+You start with the low-hanging fruit as you
+build up your solar system, mining these less
+massive and much cheaper to dismantle places,
+and moving up as you run out, potentially
+all the way up to the Sun itself using a method
+called Starlifting that we’ll discuss in
+a bit.
+Two caveats though.
+First, we shouldn’t assume raw energy is
+the same as actual cost.
+Even limited just to dismantling a planet,
+your energy bill isn’t likely to be your
+only or even necessarily your principal cost,
+even if you’re using robots not paying salaries.
+Then you have got all the transport and construction
+considerations to factor in.
+There’s also the availability of energy
+too, Starlifting mass right off the Sun may
+be the most energy intensive place to do it
+from, but you also have a massive power supply
+right on hand to fuel that.
+As an example, it does take more energy to
+build a rocket and launch it carrying a payload
+to Earth’s orbit than it does to smelt that
+payload, if it were raw ore.
+When you get down to even large moons though,
+that’s no longer the case and the general
+smelting, refining, and manufacturing energy
+budget is going to be much larger than the
+dismantling energy involved.
+Even Ceres, the biggest and most expensive
+asteroid to mine off of, only has an escape
+velocity of half a kilometer per second, which
+would be a kinetic energy of 125,000 Joules
+per kilogram.
+That is 500 times less than the kinetic energy
+of Earth’s escape velocity, but more relatably,
+that’s about how much energy your microwave
+puts into food if you have it running for
+about two minutes, the same amount of time
+and energy as my own microwave just spent
+reheating my coffee which I let go cold and
+untouched while distracted working on this
+script.
+Obviously that is way less energy than you’d
+need to smelt some bit of metal ore into something
+useful.
+It's also worth keeping in mind that dismantling
+the entire solar system, minus the Sun, would
+only take the Sun’s energy output for a
+couple centuries and virtually all of that
+would be spent on Jupiter, which makes up
+about half of the non-solar mass in our solar
+system but nearly all the binding energy.
+Indeed, if we ignore the gas giants, we’d
+only need about a month of solar output for
+dismantling every last rocky planet, moon,
+asteroid, and comet orbiting out our Sun.
+Considering the scale of such an endeavor
+on the construction side – we are after
+all not dismantling the solar system for idle
+entertainment but rather raw materials for
+building stuff – a couple centuries isn’t
+much, or even 10 times that long if you're
+not being super-efficient or rushed, and you’re
+not using any significant part of that total
+solar energy till you start building tons
+of megastructures out of these raw materials.
+As for our second caveat, and on the topic
+of megastructures, the Asteroid Belt seems
+tiny when compared to Earth, which is nearly
+3000 times more massive.
+However we only inhabit a tiny thin layer
+of Earth’s Crust, and if you went one three-thousandth
+of the way to Earth’s center, you’d already
+be around as deep as our deepest mines tend
+to go.
+If you ground up the whole asteroid belt and
+laid it down on a thin sheet about ten meters
+deep, that sheet would be about 100 billion
+square kilometers, a square 310,000 kilometers
+or 200,000 miles a side, and containing 200
+times the surface area of Earth, land and
+sea combined.
+That’s maybe a little thin on the ground,
+and we’d still need 10,000,000 times the
+mass to fully use the Sun’s light, but it’s
+nothing to sneeze at and certainly seems a
+far more productive use of those asteroids
+than mining them for precious metals – which
+you could do anyway – let alone letting
+them sit there mindlessly and fruitlessly
+banging into each other in the Asteroid Belt.
+Earth on the other hand, being about 3000
+times more massive, could be dismantled and
+built into the equivalent of 60,000 times
+as much habitable land as Earth’s surface,
+though that would only take us up to a few
+hundred-thousandths of the area the Sun could
+comfortably light.
+Still, it is 60,000 times the room we have
+now, and you could stretch that out quite
+a lot thinner if you needed to.
+This the core concept though, fundamentally
+the same as our mountain cave analogy at the
+beginning.
+We can be content with our one cave here on
+Earth, or we can put a lot of effort into
+making a handful of other caves reasonably
+comfortable too, by terraforming those other
+planets.
+Or we can dismantle that mountain and make
+a billion artificial caves with much nicer
+and roomier interiors, in the form of stone
+houses.
+We dismantle our solar system to build something
+far grander, and far friendlier to life.
+I often get asked by folks if we actually
+have enough mass in our solar system to build
+a Dyson Sphere or Swarm and the answer is
+“yes, but…”.
+It depends a lot on what you’re making that
+swarm out of, and critically we always call
+it a Swarm because that is what the late great
+Freeman Dyson had in mind when he discussed
+the concept of a Dyson Sphere originally,
+not its common portrayal as a big hollow inverted
+planet around a star.
+A Dyson Swarm isn’t really a megastructure
+in of itself, anymore than a city or a nation
+is, rather it’s a collection of tons of
+different structures, which can be standard
+and uniform but would probably vary wildly
+in size, design, and purpose.
+It would also likely change with time.
+As an example, your phase 1 Dyson Swarm is
+probably going to be composed mostly of big
+solar collectors, and them mostly thin metal
+foil mirrors reflecting and concentrating
+light.
+A classic Dyson Sphere, that big metal shell,
+with just ten-meter deep soil, would take
+more than the entire mass of Jupiter to build
+and of course Jupiter is mostly hydrogen and
+helium, not rock, and while its core contains
+a could deal more metals than Earth does,
+it wouldn’t be enough to do a full solar
+englobement, at least of that type.
+Alternatively, tiny little Mercury, a mere
+twentieth of Earth’s mass, is actually more
+than capable of englobing our Sun, just much
+more thinly.
+If we’re talking about mostly mirrors, and
+floating in space, then even a density of
+a single kilogram per square meter would be
+lavishly abundant.
+Mercury is a lot closer to the Sun, which
+makes it hotter but makes a sphere of that
+radius around the Sun much smaller than one
+out at Earth’s orbital distance, about a
+tenth the total surface area and thus construction
+material.
+Also such heat isn’t a big consideration
+for swarm objects that are basically big sheets
+of shiny aluminum foil bouncing sunlight around.
+Such a swarm of solar collectors would be
+many thousands of times less massive than
+their rotating habitat equivalents, in terms
+of surface area, even if we’re assuming
+fairly thick reflective sheets in contrast
+to rather thin habitat interiors and hull.
+You could probably build a good and complete
+solar collector sphere around our Sun using
+only the mass of a single decent sized metallic
+asteroid.
+Or a carbon-heavy asteroid for that matter,
+as the carbon allotrope of graphene might
+be far more useful for much of these building
+projects, see the episode the Impact of Graphene.
+You could also do this around any other star
+too, brighter and bigger ones would need more
+mass, smaller and dimmer ones less, but as
+a loose rule of thumb the needed material
+would be proportional to the brightness.
+A Dyson around a star a tenth as bright needs
+a tenth as much construction material, one
+ten times as bright would need ten times the
+material, and stars range from tiny Red Dwarfs
+giving off only about a ten-thousandth the
+light of our sun to behemoths giving off a
+millions times as much.
+Key notion though being that any solar system
+should have enough raw material for this most
+basic of Dysons, the solar collector, and
+you could use the excess material for habitats
+and other constructs of more compact nature
+than a thin solar collector foil.
+Also, again these are not actually solid spheres.
+They are just a cloud of orbiting objects.
+So, there’s no downside to building a partial
+one or building in steps incrementally.
+If for some reason you only have enough material
+for space habitats using a mere thousandth
+of the available sunlight for people, farms,
+forests and so forth, that’s still many
+thousands of times the living area of what
+you’d find available in any natural solar
+system’s collection of terraformable planets.
+I would imagine that even extra-galactic stars
+ejected from their native galaxies that left
+most of their planets behind while being ejected
+would still tend to have enough objects around
+them to get a partial solar collector going.
+And partial is enough because the biggest
+source of heavy metals in our solar system
+or any other is actually inside that star,
+and they can be removed.
+It’s rather energy intensive but so long
+as you’ve got enough raw material to build
+the apparatus you can lift materials off a
+star, which of course provides the power you
+need for the process.
+Essentially we use magnetics and mirrors to
+enhance solar wind output and capture what
+blows off.
+We call this Starlifting and have detailed
+the various methods and how they work in our
+episode on that topic, but in a nutshell,
+your typical star is mostly hydrogen and helium
+but is around 1% of other materials, or metals.
+Metals in astronomical terms means anything
+that isn’t hydrogen or helium, so includes
+stuff like carbon and oxygen not just iron,
+and the metallicity of stars varies a lot
+but our own has a metallicity of about 1.2%
+of its mass, and loosely speaking this about
+the content of metals you’d expect in gas
+giants in a solar system too, whatever it’s
+star’s metallicity was, as barring those
+very close to their sun, their gravity would
+have held onto all their mass, whereas hotter
+or smaller worlds, like our own rocky inner
+planets, would have originally had more hydrogen
+and helium when forming and lost them down
+the eons.
+If we think of that metallicity as our construction
+material, than our Sun has thousands of times
+Earth’s mass in various construction materials
+and is enough for creating an entire dyson
+swarm of rotating habitats.
+Of course as you extract mass from a star,
+you can either dump the hydrogen back down
+onto it to burn or use it for other purposes,
+and by removing the helium and other metals
+you actually lengthen that stars lifetime,
+almost indefinitely.
+Remove enough material and you dim that star
+too, meaning you need less material for a
+full Dyson englobement.
+You can also get metals the hard way via artificial
+fusion or using your power surplus to run
+massive supercolliders.
+Any way you put it, any star you find will
+always be convertible to a Dyson Sphere of
+the kind you want with enough time and effort,
+even if you have to spend a million years
+sucking metals and mass out of it while using
+your power surplus to run particle colliders
+to make heavy elements for construction.
+Fundamentally, this is why the Dyson Dilemma
+of the Fermi Paradox is always so compelling.
+The notion that there can’t be a ton of
+alien civilizations around because if there
+were, they’d build such constructs not just
+around their own star but every one they colonized,
+and that the Universe would be visually dark
+by now, with no stars in the night sky, because
+all that light would be absorbed by the Dyson’s
+Swarms around them and re-emitted as infrared
+waste heat, see the Dyson Dilemma episode
+for more discussion of the notion.
+There are other pathways than building Dyson
+Swarms for civilizations as they grow - assuming
+they do grow - but those pathways tend to
+resemble Dyson Swarms, particularly in the
+astronomical sense of being visually absent.
+For instance you could make artificial black
+holes for your power source and dump hydrogen
+into them for power generation – see Colonizing
+Black Holes – but you get a similar astronomical
+detection on that because a swarm can only
+be as dense as the waste heat it generates
+permits it to be, and you’d always want
+to build you swarm rather dense since even
+a very dense one is still going to have large
+travel and communication time lag issues compared
+to folks living on a planet, even in super-rural
+areas.
+That gives it the typical infrared waste heat
+blob appearance a Dyson would have, regardless
+of its power source, be it a star or artificial
+fusion or a black hole or energy beamed in
+from elsewhere or whatever else we might use
+that doesn’t violate the Laws of Thermodynamics.
+Should we do this?
+Should we dismantle our solar system?
+Well it would seem the logical thing to do
+but folks often object for many reasons.
+Some of these I don’t find very reasonable,
+like notions that we’d have too many people.
+I understand the notion of having too many
+people for your available resources, but that’s
+too many people to support, not objecting
+to the simple notion of higher quantity itself,
+if you can support it.
+Nor is it just people, if you dismantle your
+solar system you can use a tiny fraction of
+that mass to build wildlife-focused habitation
+cylinders and still have thousands of times
+the wildlife environments and ecosystems that
+a pristine Earth had.
+Of course some folks object to the notion
+of dismantling those other pristine worlds,
+but I don’t really think of big dead rocks
+in space as having much intrinsic value in
+just sitting there.
+A ton of random rock doesn’t strike me as
+being as cool and neat as a ton of humans
+or a ton of kittens and puppies.
+Of course as we saw, the Sun has most of our
+building material anyway so we could bypass
+those planets and leave them be, and we could
+at least do that for Earth itself.
+The solar system has plenty of construction
+material nor are we limited to just our solar
+system.
+Those great big solar collectors make a nifty
+way of moving materials between stars as we
+looked at in our episodes Interstellar Laser
+Highways and Exodus Fleet.
+It is a bit of pain trying to maintain stable
+orbits of billions or even trillions space
+habitats when you’ve great big gravity wells
+like planets orbiting around with them, but
+it is manageable and if you’re going dismantle
+an entire solar system, well most of that
+mass is hydrogen and helium and they do actually
+have some construction value.
+You can use them for outer hull shielding
+against accidental collision or attack on
+a rotating habitat or as filler material on
+shell worlds for making mass and gravity.
+If the latter, you can put your planets in
+a ring around a star, what we call a Kemplerer
+Rosette, and that helps a lot with the gravitational
+perturbations such planets cause a Dyson Swarm,
+letting you keep Earth and have some additional
+classic spherical worlds, or even weird shaped
+ones like Hoopworlds or Flat Disc Worlds or
+Sombrero Planets.
+Needless to say you can also fuse that hydrogen
+and helium into heavier elements, which if
+done right produces energy rather than uses
+it.
+In that light, while it’s a lot of work,
+many thousands of years’ worth at least,
+and not without some downsides, the upsides
+seem far greater.
+So for my part, I say it’s a great idea,
+Let’s Dismantle our Solar System!
+We were discussing a lot of astronomy and
+physics today, like calculating the gravitational
+binding energy of planets, moons, and stars,
+and if you’re interested in learning more
+astronomical concepts or the math and physics
+behind them, I’d recommend Brilliant.
+The Universe is an immense and amazing place,
+and knowing the math and science behind it
+only makes it seem more amazing, and Brilliant’s
+thought-provoking, fun, and interactive courses
+makes them a great choice for learning, whether
+you’re a student, a parent trying to enhance
+your kid’s education, a professional brushing
+up on cutting-edge topics, or someone who
+just wants to use this time to understand
+the world better, you should check out Brilliant.
+Try adding some learning structure to your
+day by setting a goal to improve yourself,
+and then work at that goal just a little bit
+every day.
+Brilliant makes that possible with interactive
+explorations and a mobile app that you can
+take with you wherever you are.
+If you are naturally curious, want to build
+your problem-solving skills, or need to develop
+confidence in your analytical abilities, then
+get Brilliant Premium to learn something new.
+Brilliant’s thought-provoking math, science,
+and computer science content helps guide you
+to mastery by taking complex concepts and
+breaking them up into bite-sized understandable
+chunks.
+You'll start by having fun with their interactive
+explorations, over time you'll be amazed at
+what you can accomplish.
+If you’d like to learn more science, math,
+and computer science, and want to do it at
+your own pace and from the comfort of your
+own home, go to brilliant.org/IsaacArthur
+and try it out for free.
+So next week we’ll be back to the Fermi
+Paradox series to consider disappearing stars
+and cosmic voids, to consider if such things
+are natural or might be signs of an older
+alien civilization dismantling their own solar
+systems or even entire galaxies.
+The week after that we’ll be taking a look
+at the popular science fiction trope of Techno-Barbarians,
+civilizations existing in a post-apocalyptic
+time using an anachronistic combination of
+primitive and advanced technology.
+But before that we’ll have our monthly livestream
+Q&A, on Sunday, July 26th, 4 pm Eastern US
+Time.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

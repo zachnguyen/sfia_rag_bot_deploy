@@ -1,0 +1,822 @@
+This episode is brought to you by Brilliant.
+Our progress in the field of rocketry this
+last decade has been amazing, but to reach
+a future in which millions can travel to and
+from orbit everyday, we will need freeways
+and train tracks to space itself.
+So today we are going to be looking at a space
+launch system, the Tethered Ring, that is
+a cousin to the Mass Driver, Orbital Ring,
+and Lofstrom Loop, three of our favorite active
+support launch systems.
+Now each of those has its own episode in our
+Upward Bound series that you can watch for
+details and it seemed right that the Tethered
+Ring should get its own episode too.
+It’s a fantastic idea for hanging a non-rocket
+based launch system in the upper atmosphere
+that could make launch costs to orbit around
+Earth as cheap as air travel around Earth,
+and indeed could make travel around Earth
+a lot faster and cheaper too.
+If you haven’t seen any of those episodes,
+they’re not prerequisites to understand
+today’s topic, but a basic understanding
+of them is helpful to understanding how the
+tethered ring works, as is an understanding
+of Active Support, so we will cover them briefly
+today as a prelude to the Tethered Ring.
+It might be helpful to think of the Active
+Support in a tethered ring as a system for
+simply keeping our ring rigid, something that
+a potential super-material might allow too.
+So while the coolest thing about the Tethered
+Ring is that it can be built on the earth’s
+surface entirely with present day technology
+for a reasonable cost, for our sci-fi writers
+out there, it actually represents something
+you could have hanging on a planet without
+maintenance or power needs - if you had a
+rigid enough supermaterial.
+This is a Ring that hangs over a planet by
+being tethered to the ground, thus hangs over
+the ground by hanging from the ground, a somewhat
+counterintuitive notion that we’ll explain
+in a bit.
+When its inventor, Phil Swan, explained the
+concept to me at the International Space Development
+conference, I had a facepalm moment at the
+beautiful simplicity of the idea and never
+thinking of it before myself.
+He and his team, which goes by the name “The
+Atlantis Project”, have been developing
+and discussing it for years now and I’m
+very glad that SFIA is going to be a venue
+to help popularize the notion, and I’ll
+be linking to the website for it that has
+all the deep dives and technical details,
+and also a very nice app for placing the rings
+where you want and with the various parameters
+you like.
+This is a very cool system that would work
+well on Earth and on many other planets too.
+Now, Active Support is seen by some as a technique
+for emulating supermaterials by applying large
+amounts of energy, and in a simplest conceptual
+example, it’s like keeping a piece of paper
+floating by placing it over a heat vent on
+the floor.
+Indeed, if you anchored that paper with a
+cord or tether to the vent and left the vent
+running it would hang up there forever and
+ants could crawl up those tethers to the paper
+and hang out and build cities there.
+This is Active Support, and so would be a
+Helicopter or drone Quadcopter that had an
+electric engine that you anchored to ground
+with a power cable from a power plant.
+We could also do the same with a plane, but
+it would need to fly in a circle to avoid
+breaking that power cable.
+Of course if it was flying high and had a
+rail gun or an electromagnetic cannon on it,
+a mass driver, it could launch things from
+that altitude, high above most of the air,
+and the US Military has funded studies on
+the feasibility of launching payloads to space
+from high-altitude planes, which have concluded
+that this is plausible from a thermodynamics
+point of view.
+Indeed that power cord could power both the
+floating plane and the launcher attached to
+it and would be a viable space launch mechanism.
+I don’t know of anyone having previously
+studied or named that approach before, it’s
+one I’ve played with on and off for some
+years and it’s probably been thought of
+before so I won’t claim it and name it today
+especially as it’s not our focus nor would
+it ever be very handy except maybe for a new
+colony planet with limited launch needs and
+a centralized first base, and mostly for cargo
+that can handle a lot of g-force.
+Think of it as a Planetary Slingshot.
+The topic today will essentially replace that
+circling plane with a much better static ring
+which spacecraft can race along to launch
+into space at accelerations that humans would
+find comfortable.
+Active Support comes in other forms too.
+It’s the same concept for a water hose,
+which is a fairy floppy device but when we
+run water through it at high pressure, it
+suddenly becomes quite stiff and rigid, but
+not as rigid as, say, a large ring made of
+diamond.
+Generally our discussion of active support
+on this show are for building giant space
+towers, orbital rings, or even artificial
+planets, and thus utilize methods for replicating
+materials stronger than nature seems to allow.
+The Orbital Ring for instance uses a giant
+hollow ring around the planet, stationary
+with respect
+to the ground and with magnets inside, while
+inside this sheath a metal ring spins at slightly
+faster than orbital speed, and we can speed
+up or slow down that ring with linear motors
+on the outer, stationary sheath, and we use
+levitation electromagnets to keep the inner
+ring from touching the stationary sheath while
+it is moving around at 10 kilometers a second
+or even faster.
+The combined momentum of both objects is kept
+at what is needed for orbiting Earth at that
+altitude, a velocity of 7.8 kilometers per
+second times whatever its total mass is.
+Total mass for itself, both inner ring and
+outer sheath, as well as the cargo on it,
+the ships, the tethers helping hold it in
+place on Earth so it doesn’t wobble or suffer
+from precession, and possibly solar panels
+to power it.
+You use tethers off at an angle to keep it
+in place and provide transport via cable car
+up to the Ring, for people, cargo, and power,
+and it’s an excellent launch location.
+With very good superconductors and magnetic
+shielding this can be very low power.
+It is easiest to do above the equator but
+so long as your tethers are strong enough
+you can position your hoop at any angle around
+the Earth, but it’s still larger than the
+full circumference of the planet, which implies
+that you need to build it in orbit, which
+means that you need to launch material into
+low earth orbit to build it, or mine the material
+on the moon and then bring it to low earth
+orbit.
+On the other hand, a tethered ring has a smaller
+diameter and can thus be built on earth, for
+example in the ocean around Antarctica, or
+in the Pacific Ocean.
+These, as we’ll see in a bit, are some of
+the options The Atlantis Project team proposes.
+You can tap power off that inner spinning
+metal ring, or simply run other electricity
+up there, to magnetically propel a space vessel
+along the ring until it reaches orbital speed
+itself and can launch off.
+The same is true of the Loftsrom Loop which
+is easier to think of as a cannon on the ground
+firing metal pellets in a big parabola up
+into space that land far away and get turned
+around and fired back, and much like the inner
+spinning ring of Orbital Ring, we can build
+a sheath around this and give ourselves a
+big launch ramp suspended in the air.
+We can then either leach power magnetically
+off the metal pellets or chain or ribbon inside
+the external stationary sheath, or just run
+a power cord up to it.
+Same concept for a Space Tower, except here
+we magnetically accelerate metal pellets or
+bolts straight up then use magnets at the
+top to redirect them back down again, which
+counters the pull of gravity.
+The systems at the base accelerate the pellets
+back up again, and on this track we keep a
+large tower built which can be impossibly
+tall compared to what even the strongest of
+tough compressive strength materials permit.
+Active Support is very good for making things
+rigid or having great compressive strength,
+so long as you either have lots of cheap power
+to run it, or you have a way to minimize the
+power requirements.
+One way to approach this is to use superconductors
+and good magnetic shielding, but the tethered
+ring white paper design proposes a different
+approach, which is more akin to the technology
+used in active magnetic bearings, specifically
+a type of active magnetic bearing called a
+“permanent magnet biased homopolar linear
+active magnetic bearing”.
+Don’t worry, you don’t need to memorize
+that term.
+Active Support can also, with a little more
+work, be used to replace high Tensile Strength
+materials, this is the strength a material
+has when you pull on it rather than push on
+it, or when you hang a weight from it.
+See our Ringworlds episode for discussion
+of how, but for today’s topic, Tethered
+Rings, it’s worth noting that we have materials
+that work for our tethers already, like Kevlar,
+or Zylon, indeed carbon fiber will do the
+trick, though obviously supermaterials like
+Graphene could do it even better if they could
+be made cheaply enough.
+The difference is that when we look at space
+elevators, we are looking at materials that
+need to hold vast weights up over tens of
+thousands of miles or kilometers, while alternatively
+our tethers on a Orbital Ring, Lofstroom Loop
+or Tethered Ring, just need to hold things
+for tens of miles or kilometers.
+Still not easy, mind you, but inside the realm
+of materials we already have the ability to
+cheaply mass produce.
+For a given value of the word ‘cheaply’.
+The basic models of the Orbital Ring, Lofstrom
+Loop, Space Tower, Mass Driver, and Tethered
+Ring all cost in the tens of billions of dollars.
+Active structures also require maintenance,
+and I usually assume such things parallel
+highways and bridges at needing about their
+original cost to build to be spent again over
+the cost of a decade or two to keep them up,
+and they also need a lot of energy to stay
+up and to launch spaceships.
+What’s cool about them all is it takes so
+much less energy per kilogram launched, so
+long as you are doing a lot of launching.
+You knock your launch cost down to maybe a
+hundredth what they are now, but only if you’re
+interested in doing about a hundred times
+as many launches a year as we do now, preferably
+more.
+Folks sometimes wonder why we don’t build
+these things already if they’re physically
+possible and that’s the key reason, it’s
+like a railroad or the Panama canal, way cheaper
+fuel costs once built but only if you are
+moving enough freight to justify the initial
+cost and maintenance.
+So, building space infrastructure makes sense
+when your space goals are ambitious, such
+as setting up and supplying human outposts
+on other worlds.
+But it perhaps makes more economic sense to
+use rockets if you only want to launch satellites
+and build a space station or two in low-earth
+orbit.
+Another reason these don’t get built yet
+is because even though the basic physics works
+fine, like anything else they need prototyping
+and often anticipate some technological improvements
+that would make them way more effective.
+The Tethered Ring is pretty simplistic and
+can be built smaller as a test model, so there’s
+less worries of needing multiple generations
+of expensive prototypes.
+And it also doesn’t require the cooperation
+of a bunch of different countries to build
+these prototypes.
+One problem with the Orbital Ring is that
+since it does have to encircle the entire
+planet, even if not at the equator in favor
+of being tipped at an angle, it still has
+to pass over a lot of countries and just hangs
+in the upper atmosphere above them, so we
+assume permission has to be gotten from them
+to build it.
+They have good reason to say yes, as it presumably
+grants them ultra-cheap and fast access to
+both space and everyone else on that ring,
+but the geopolitics could still be a pain.
+Alternatively a full scale Tethered Ring can
+be built and tested many meters below the
+surface in the ocean, in international waters.
+One possible location, discussed in the patent,
+is around the Antarctic continent.
+Another, discussed in the White Paper, is
+around the Pacific Rim.
+In fact, after a tethered ring is constructed
+and raised, it can be moved to a better location,
+if the geopolitical issues can be worked out,
+so that it can provide carbon-neutral point-to-point
+international high-speed transit for the countries
+that it passes over.
+A Tethered Ring is lifted up and held up by
+its tethers, which can seem a bit counterintuitive.
+We actually hang it from tethers attached
+to the ground which keep it from falling down
+to the ground.
+And we do hang it too.
+We have some visuals to explain this we’ll
+be putting on the screen but for our audio-only
+listeners, over on Soundcloud, Spotify, Itunes,
+Audible, Amazon Music and others, this might
+be a bit tricky to visualize.
+Picture a basketball and a metal hoop just
+a bit wider than it.
+This hoop is our normal orbital ring and it
+can be put at any angle.
+Now shrink that hoop down to be a smaller
+radius than the basketball.
+It can be placed on the basketball and it
+won’t fall down and hit the ground because
+gravity keeps pulling it straight down while
+the hoop isn’t wide enough to finish dropping
+past the basketball once it widens out wider
+than the hoop.
+Of course this doesn’t result in the hoop
+hanging in the air, it just rests on the basketball’s
+surface.
+However, Earth’s gravity doesn’t point
+down at the ground, it points in toward the
+basketball’s center, when Earth is the basketball.
+So a big hoop around Earth would just land
+on the ground wherever as everywhere is down.
+Indeed it would flop to the ground as even
+a ring made of pure diamond would be as flexible
+as a rubber band at this scale, much like
+our Topopolis Megastructure, a giant spinning
+hollow steel cord miles wide that we can literally
+tie into knots or loops because its flexible
+at big enough lengths.
+Making our Ring rigid is the principal role
+of Active Support here and the only part it
+is required for.
+Just as with the Orbital Ring we will have
+a hollow tube lined with magnets, stationary
+with respect to the ground, and inside there
+will be a big metal hoop spinning at high
+speed, and much like water in a hose, this
+will make the object rigid even though its
+thousands of miles long.
+So why isn’t the ring falling down?
+The tethers attach to it, and the ground,
+not space, so it’s hard to picture how this
+is actually hanging in the sky from those
+tethers.
+If I ran guy-wires up to a hot air balloon
+after all, those hold it to the ground, but
+only because it wants to move up, shut off
+the hot air or replace a blimp’s helium
+with lead and it will fall down and those
+tether’s won’t stop it.
+Here’s the key part: Earth is curved, and
+down is not in the same direction everywhere
+along this ring or its tethers.
+If you picture a very long tether running
+from the ground off at an angle, then as the
+Earth curves away beneath it the distance
+from it to the ground is going to rise sharply.
+Indeed even a straight line running along
+Earth’s surface is going to curve away to
+great height, this is how the horizon works
+for the light moving in a straight line to
+your eyes from some distant object.
+So what our tethers are doing here, as they
+radiate out from the Ring opposite of how
+spokes of a wheel go, though slightly angled
+down, is to reach to a distant spot to anchor
+the ring in a roughly straight line.
+Since the planet is curved, if the ring falls
+down, it pulls on the tethers more, thus it
+can’t fall down.
+Our ring is held in the sky by being tethered
+to the ground.
+It’s a really neat trick and if you’re
+having problems still picturing this, then
+flip it around and imagine holding a ring
+or disc from guy wires off the side attached
+to tall towers.
+The ring is held up by hanging down from those.
+This is still the case, it’s just that our
+tethers here are very long and our towers
+are further away, and the point where they
+attach is high, relative to the ring, because
+the earth is actually a little bit inside
+the ring as opposed to being entirely below
+the ring.
+Thus they don’t actually need to be up in
+the air at all.
+They can be on the ground because of the planet’s
+curvature, and because the ring’s size allows
+it to partially encircle the planet.
+Of course for a big ring thousands of kilometers
+in circumference, it would droop and stretch
+all over the place between those tethers,
+pulled outward where a tether connected and
+drooping down between two tether connections,
+so the tethers are forked so that they distribute
+their tensile forces more evenly.
+Also that inner spinning ring keeps the outer
+stationary ring stiff and circular.
+Much as with the Lofstrom Loop or Orbital
+Ring we could use the kinetic energy of the
+spinning ring as a source of power for our
+launcher too, sapping speed off the ring magnetically
+to propel a ship up to speed.
+Our Ring is still in the atmosphere, mind
+you, so it makes sense to house the mass driver
+within an evacuated tube, and to have a fast
+opening airlock at the end to let the spacecraft
+out without letting too much air leak in.
+We looked at this in Mass Drivers and a plasma
+window might be an option too.
+The reference design for the ring, is at an
+altitude of 32 kilometers.
+That it is far above storms and thick air,
+so maintaining a near-vacuum tunnel around
+the launch track is no problem.
+And those tethers also make a great way to
+move people, cargo, and power up to the Ring.
+So how big is this ring?
+Well that depends on circumference, of course,
+and bigger is better in this case, as it means
+your ships can accelerate to higher speeds
+with a larger turning radius.
+At ISDC this year Phil and his colleague,
+Ceana, presented us the option of one running
+essentially around the perimeter of the Pacific
+Ocean as a circle, with about half its mass
+in the ring and half in the tethers, but the
+majority of the cost is in the tethers themselves,
+which used just over 2 megatons of carbon-fiber
+and roughly cost, in current money, about
+45 billion dollars.
+There’s also the transit tube, and of course
+the outer sheath and inner metal hoop.
+That metal hoop would probably be made from
+iron although any ferromagnetic material works.
+The inner ring just needs to be decently sturdy
+and able to be shoved on by magnets.
+That outer sheath can be aluminum, as it’s
+lightweight and decently cheap, and we can
+also put solar panels on it to power the whole
+thing, a meter wide over its entire circumference
+is sufficient.
+In terms of actual energy stored in the Ring,
+that varies by size – and much like the
+Orbital Ring you can make these much thicker
+if you want – but the baseline model would
+have 2x10^17 Joules running inside that hoop
+at any given moment, roughly the amount of
+energy that hits Earth every second from the
+Sun.
+How often we need to replenish that energy
+overall is hard to say at this time, but at
+least many days, so the solar panels or perhaps
+a handful of modern powerplants could do the
+job, if not less, and you could be doing much
+of recharging up power cords on those tethers
+from the various major cities they connected
+to outside their peak hours when they had
+a surplus.
+Or again by hanging solar panels from the
+ring.
+Even if we needed total energy replacement
+once a month, which would require almost 80
+gigawatts of power production to hit that
+2x10^17 Joules over a month, that’s still
+not much at a global scale.
+However that is a lot of juice, the equivalent
+of roughly 50 megaton nuclear devices, but
+it’s all spread out over thousands of kilometers,
+same as car wrecks on a freeway system or
+a hurricane, and a hurricane contains a hundred
+times the kinetic energy.
+But, it is worth considering what would happen
+if the ring got wrecked and whether it would
+damage things.
+If it did break, it’s not a huge worry,
+much like an orbital ring, all the fast moving
+bits are either flying off into orbit or burning
+up in the atmosphere like meteorites, if it
+breaks.
+The bigger stationary segments could just
+deploy parachutes and fall gently down.
+I wouldn’t say a thicker carbon fiber tether
+falling down is going to be totally safe for
+those nearby but it would be nothing compared
+to a trainwreck, and this is what we’re
+seeking to replace here.
+Of course a lighter material like graphene
+works even better and would allow even more
+safety provisions, but Phil Swan and his collaborators
+were focused on modern and available materials,
+and those available in 2015 specifically,
+when the idea was first developed.
+Phil told me that way back in the 1980s he
+had been doing simulations of space elevators,
+and concluded that the tethers were impossible
+– this was pre-graphene and he went on hiatus
+with such thoughts ‘till 2015 at a conference
+on space elevators, and that’s where this
+idea was first publicly presented.
+It hasn’t been a secret either, I’m a
+little sad it was around for nearly a decade
+and this show’s entire lifetime before I
+encountered it, and next week marks our show’s
+8th anniversary incidentally.
+Now again all numbers are necessarily approximate
+and in modern values and technologies, but
+I wanted to step through some specifics before
+we close out as well as looking at more high-tech
+versions and off-world use.
+The Tethered Ring reference design’s height
+is 32 Kilometers or 20 Miles up, that keeps
+it above air traffic and weather.
+Transport could be directly up a vertical
+elevator cable that’s 32 kilometers long,
+or at an angle, and the angle does not have
+to be uniform on this.
+You also can run cables inward or outward,
+not just directly down from the tether, which
+means that you can locate the elevator’s
+terminuses near train stations or city centers,
+if you wish, even if the ring doesn’t pass
+directly over these locations.
+The default tether is 110 kilometers long,
+or 70 miles.
+At the anchor point a tether is on the order
+of arm’s width in diameter, and it will
+widen slightly as it gets closer to the ring,
+much as a tapered tether for a space elevator
+does.
+Spacing of the tethers’ anchor points could
+be about 45 kilometers or 28 miles between
+each tether, but because the tethers fork
+on the way up to the ring, the spacing of
+the ring attachment points is just a few meters,
+feathering out to evenly grasp it.
+We’re assuming a transit tube with a diameter
+of about 12 meters or 40 feet which supports
+four lanes of traffic.
+The cars that travel within it are 4 meters
+in diameter and 20 meters long, similar to
+the fuselage of a business jet, and these
+cars can switch between collector and express
+lanes.
+The mass driver’s tube could support space
+vehicles with diameters of 12 meters or possibly
+more, which can obviously hold a lot of spaceship,
+or cargo and people.
+More strength helps but the current model
+already assumes you could have lots of observation
+pods and structures suspended from the ring
+for commerce and tourism.
+The view would be amazing, 400 miles or 600
+kilometers in any direction.
+And again, a simple parachute built into one
+would allow it to safely drift down in event
+of accident or sabotage.
+Indeed people in pressure suits could probably
+skydive down from them, adding tourist revenue.
+Current cost assumes about $10 a kilogram
+for launch to orbit, cheaper to just go up
+to the ring for a visit or around it and back
+down to travel to another city.
+In terms of building up there, since you’re
+adding new weight and presumably new solar
+panels to add and maintain power, even though
+solar is a lot better at this altitude, it
+is still pretty pricey, $110 a kilogram of
+static load, so building a ten-ton lightweight
+restaurant pod up there would run you 1.1
+million dollars, in early 2022 money, a 20-ton
+RV equivalent, 2.2 million bucks, etc.
+Obviously that’s still pretty small for
+living three times higher than the tallest
+mountain peak, or running a hotel or restaurant
+there, and this baseline ring would be expected
+to be serving tens of thousands of people
+at a time.
+You can also overlap rings much as with the
+Orbital Ring, to allow transfers between them.
+And as with them, your travel time once on
+the Ring to anywhere on Earth is on an order
+of a few hours, but getting up and down the
+tethers or elevators and to and from the stations
+they’re anchored at is likely to match modern
+travel to airports and taxi, takeoff, and
+climb speeds, plus customs and security.
+So way faster intercontinental travel, and
+bigger versions of these might have bullet
+trains that left a ground terminal and stopped
+at another without pause at waypoints and
+averaged hypersonic speeds for the trip.
+It is a space launch system, of course, and
+that’s its big interest to us, but that’s
+the simple part, you electromagnetically accelerate
+the launch vehicle down a track once you’re
+up there, skipping on rocket fuel issues,
+and it just lets go and flies into space.
+You can launch at higher speeds and from higher
+altitudes if you want to send people and payloads
+directly to other planets without refueling.
+Alternatively, if you want to keep the capital
+cost of the tethered ring low you could construct
+one that is closer to the ground, use it to
+accelerate vehicles just part way up to orbital
+speeds, and make up the rest of the delta
+V needed for the mission with a second stage
+rocket or a skyhook.
+See our Skyhooks episode for more details
+on those and the Mass Drivers episode for
+more discussion of the specific mechanics
+and economics of electromagnetic catapult
+launches themselves.
+But not only does it let us get to space,
+it makes on-planet, point-to-point travel
+much cheaper and faster, which is also the
+big selling point of the orbital ring.
+As with those and space towers and mass drivers
+they can all be mixed and matched together
+to form a vast orbital skybridge network allowing
+millions of people and millions of tons of
+cargo to move anywhere on a planet or into
+orbit or down form orbit every day and at
+cost equal to or less than modern transport
+costs, at a fraction of the time, and being
+purely electric, via renewable solar or nuclear
+energy sources.
+Sounds like something worth building, to me,
+or at least prepping for a prototype of, and
+again the full 100 page white paper and technical
+specs are all available at the website listed
+in the episode description if you want the
+nuts and bolts.
+Project-Atlantis.com, that’s project-hyphen-atlantis.
+Now as I mentioned near the beginning, the
+active support here, in a way, is just keeping
+that ring rigid, and with a sufficiently advanced
+material technology you could just have a
+giant solid ring tethered to a planet, hanging
+there for all time unpowered.
+Also, for folks who ask about high-gravity
+being a possible Fermi Paradox Solution, keeping
+people from space because rockets couldn’t
+do it - this is one of those counterarguments.
+The Ring fabrication process lets you place
+it partially sunk under the ocean during fabrication,
+as it comes out of its factory, to avoid interfering
+with seagoing traffic while under construction,
+then you turn it on and lift it under its
+own power out of the ocean and into the stratosphere.
+You can use it to bootstrap your Orbital Rings
+and other higher infrastructure into space
+too, again it’s a great complimentary technology
+of many we have elsewhere discussed, not just
+a replacement or alternative.
+It works well alone or in tandem with other
+systems.
+So it gets us into space but to close out,
+where else in space would we use it?
+Well it works fine on a place like Mars or
+the Moon, though on the Moon it would be a
+bit redundant.
+We already have materials strong enough for
+a classic space elevator on the Moon and we
+don’t need an elevated track to get us over
+its atmosphere, as it has none, so a simple
+raised track above the ground to allow a nice
+even circle can achieve the same job.
+It potentially works on Venus quite well,
+in tandem with cloud cities, or even augmenting
+them, but your tether material needs to be
+able to handle high-temperatures, since you
+are tethering it into the ground, and Venus
+is ultrahot, but the melting point of carbon
+fiber is a lot higher than even Venus’s
+inferno-like temperatures so it’s just making
+sure your anchor system, which is likely to
+involve a winch for loosening or tightening
+the tether, can handle the pressure and temperature
+there.
+You can’t really use a tethered ring on
+the “surface” of a gas giant, and an orbital
+ring is preferable there anyway.
+Again they don’t really serve a function
+on any moons too small to have atmospheres,
+though they would be handy on Saturn’s moon
+Titan.
+Also they are great options for any world
+with significant gravity and atmosphere, especially
+ones where either is higher than on Earth.
+So lot’s of options for use off Earth, and
+for getting us off Earth, and for getting
+us around Earth.
+Not bad for a simple Tethered Ring, and pretty
+impressive for an object that so counter-intuitively
+hangs itself over the ground by hanging itself
+off the ground.
+One of the trickier parts about today’s
+concept was trying to explain how the Tethered
+Ring avoids falling to the ground, and this
+same sort of problem comes up when folks try
+to figure out why a kite stays up, tethered
+and pushed and pulled on by wind and gravity,
+where wind and lift is our active support
+in that case.
+Same problems occurs for wondering why clouds
+stay up or astronauts do, and many folks might
+shrug and just accept that they do even if
+it seems counterintuitive, but if those sorts
+of things bug you and you want the tools to
+understand it better, then I would recommend
+Brilliant.
+Brilliant’s focus on interactive learning,
+like their scientific thinking course on Balance
+and Center of Mass, help illustrate concepts
+like opposing and balancing forces while letting
+you adjust the system and see the results.
+Many topics in science can seem hard because
+there is no interactive and intuitive way
+to work with the idea, compared to more traditionally
+hands-on topics that you can play with and
+thus learn easier, so Brilliant focuses on
+making interactive and handson content which
+makes it easier for anyone to learn, be it
+the basics or advanced materials like astrophysics.
+A better knowledge of math, science, and computer
+science can not only be enlightening personally,
+but a road to greater personal success.
+Be a lifelong-learner, and let Brilliant be
+your partner on that journey.
+With Brilliant, you can learn at your own
+pace, learn on the go, and learn something
+new.
+To get started for free, visit brilliant.org/IsaacArthur
+or click on the link in the description, and
+the first 200 people will get 20% off Brilliant's
+annual premium subscription.
+So this was the first launch system we’ve
+done a dedicated episode on in a while and
+we may take a look at some others going forward
+as I’m glad to say there’s been a lot
+of good development on many of these with
+the renewed push to space we’ve had building
+up in this last decade.
+Part of what made this episode possible though
+was a great deal of technical and graphic
+aid from the Atlantis Project and I wanted
+to thank Phil Swan and Ceana Prado Nickel
+for the help in particular, and they both
+have long and distinguished careers in the
+aerospace industry which lends the project
+more firm details than we sometimes get to
+have in our discussion of megastructures,
+and again that website is linked in the episode
+description and has a number of additional
+explanations and technical details for those
+wanting an even deeper dive.
+It is always neat to get to work with experts
+and one of my welcome perks from doing the
+show, and while I’m at it, I wanted to give
+a shout out to our long time cover artist,
+Jakub Grygier, who has been making those great
+covers and thumbnails for the show since around
+episode 20, today being episode 359, not including
+bonus episodes.
+You may have noticed we’ve been experimenting
+with the covers a bit of late and a lot of
+that was me feeling that plastering the episode
+titles over Jakub’s amazing art when the
+title is already right next to episodes anyway
+was obscuring those needlessly.
+Now hopefully you can see his art better,
+and don’t forget to checkout his link in
+the episode description to see those in higher
+detail along with tons more of his art.
+And while I’m thanking folks, let me give
+a shout to Sergey Chermisinov, whose song,
+Sirius, is the one we always open and close
+the Upward Bound series episodes with, and
+we haven’t done one in a bit so it was nice
+to have a return.He’s got an a amazing collection
+of compositions I highly recommend.
+Speaking of returns, we have our monthly scifi
+Sunday episode coming up this weekend, on
+Alien Impostors and Doppelgangers, and we
+will be picking our SFIA Book of the Month,
+so make sure to join us then.
+And after that we will be celebrating the
+8th Anniversary of our original episode, Megastructures
+in Space, by examining the barriers to becoming
+a Kardashev Civilization.
+Then we’ll continue September with a look
+at Post-Science Civilizations, who have discovered
+everything there is to know or abandoned future
+research, and then onto the Grabby Aliens
+perspective of the Fermi Paradox, and what
+Grabby Aliens are and if we will become an
+example of them.
+If you want alerts when those and other episodes
+come out, don’t forget to subscribe to the
+channel and hit the notifications bell.
+And if you enjoyed today’s episode, and
+would like help support future episodes, please
+visit our website, Isaac Arthur.net, for ways
+to donate, or become a show patron over at
+Patreon.
+Those and other options, like our awesome
+social media forums for discussing futuristic
+concepts, can be found in the links in the
+description.
+Until next time, thanks for watching, and
+have a great week!

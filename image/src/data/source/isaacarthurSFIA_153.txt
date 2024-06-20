@@ -1,0 +1,618 @@
+Today we'll be talking about walking cities.  
+Cities on the go. Because there are 
+no clickbait titles on this show.
+So, today’s topic is mobile cities and we’ll be 
+covering everything from small settlements to big  
+moving metropolises, from those floating on sea 
+or in the sky to those running around on giant  
+legs like a spider tank, or big tank treads, like 
+the behemoths we saw in the film Mortal Engines. 
+Now, to some degree, we don’t need to know the 
+reasons why we might want a city to be mobile,  
+just how to make it work. It’s such a cool 
+concept that we’d be interested in looking at it  
+regardless of whether it’s practical or not. That 
+said, there are some compelling reasons that we  
+might want to have a mobile city, either cultural 
+or pragmatic, and we’ll get to those later.  
+We’ll take a look at some of the examples 
+in science fiction, from the crazy to the  
+more plausible, but we’ll also ask how 
+we could make these things practical and  
+what sorts of cultures might make them so.
+We also need to acknowledge from the outset  
+that all cities are mobile already. If you 
+look at maps of cities over generations,  
+they tend to creep around the landscape like some 
+sort of amoeba blob. There have been cases where  
+entire cities have been moved by disassembling 
+and moving the very stones they’re made from,  
+like Kiruna, Sweden that is currently being 
+moved 3 kilometers east, building by building,  
+a process that will take over a decade 
+and is planned to be complete in 2035. 
+Today we’re contemplating considerably 
+faster-moving ones, but those moving around  
+within a world, not orbiting it or some immense 
+spaceship or habitat that itself moves like an  
+arkship or O’Neill Cylinder. And, we’re also not 
+really thinking about cities that are established  
+and expected to be permanent, but instead end up 
+being moved for another reason -- in history, this  
+is the bulk of the examples. For instance, where a 
+city needed to be moved away from a specific place  
+due to the construction of a dam that would leave 
+the area flooded, or needed to be moved off of a  
+flood plain or to higher ground because of rising 
+sea levels. Instead, we’re looking for settlements  
+that move around by land, sea, or air, or maybe on 
+ice or lava too, and possibly even disassembling  
+and reassembling itself periodically.
+In the end, so long as you’ve got a  
+couple key technologies, you can absolutely 
+make these sorts of moving cities work.  
+That can be ultra-energy abundance so that 
+you don’t really care how much juice it takes  
+to run your giant S.H.I.E.L.D. Heli-carrier to 
+ultra-airtight durable tanks that you can fill  
+with helium and not worry it will leak out, or 
+better access to cheap helium, which may be ultra  
+abundant on some worlds. Or hydrogen-resistant 
+coatings, or just good old-fashioned anti-gravity.  
+We’ll discuss those options and more in a bit, but 
+the real problem with mobile cities isn’t if you  
+can build one, but for what reasons you would.
+The key question is to ask why you would move  
+a whole city instead of just sending out rovers 
+to collect what you need and bring it back. This  
+seems pretty obvious to us now, where most of us 
+live in permanent houses or apartment buildings.  
+but we certainly have precedent for moving whole 
+settlements. It is literally what the nomad life  
+is all about, and has been an extremely common 
+approach to living throughout human history. Nor  
+is it absent in the modern world even today, with 
+things like recreational vehicles and houseboats,  
+and #vanlife trending on social media fairly 
+regularly. One difficulty with nomadic life  
+is it tends to limit you to what you can carry, 
+and you need to make do with no infrastructure,  
+but we shouldn’t take that for granted 
+that weight restriction is as important  
+in a higher-tech civilization or to a culture to 
+which being nomadic is vital to their way of life. 
+Higher tech options can decrease mass or 
+make it easier to carry mass. After all,  
+how heavy is a wall between rooms, or a floor, 
+if it’s made out of some super strong material  
+and highly insulated against heat and sound? 
+How heavy is it if every wall is actually a  
+tank you can fill with water or fuel for more 
+insulation and as storage? Or with Helium? How  
+many rooms does a house really need when your 
+residents are packed full of augmentations  
+allowing them to watch shows or plug into VR 
+without any gear, just direct neural linkage? 
+Spaceships are all about mass, not size, so a 
+lot of colony vessels to new star systems might  
+be adapted to cultures that put a big focus on 
+minimizing the mass of personal accommodations  
+and gear, and that could easily translate 
+into the eventual colony on a new world. 
+We probably need to start by asking what 
+sort energies are involved in walking,  
+floating, or levitating some giant city, 
+which probably needs to start by asking  
+how much a city weighs and emphasis 
+on weighs because some giant land  
+crawler running around the Moon leaching 
+minerals and Helium-3 off the surface is  
+a lot easier to roll around than some 
+giant tank on a high-gravity planet. 
+One upside though, is that unless we’re talking 
+high-speed cities, we can mostly ignore air  
+resistance, which is another reason why weight 
+is more important than mass in this discussion.  
+Either way, what is the weight? I’ve seen a 
+number of loose napkin math estimates for an  
+entire city weight, 10 billion tons for New York 
+City was one figure and with a decent value for  
+the approximation, but I suspect ships like oil 
+tankers and aircraft carriers is your better  
+basis for an estimate. Those tend to be in the 
+hundred of thousands of tons range, not billions,  
+which is five orders of magnitude smaller. Though 
+also home to a thousandth the people, so maybe we  
+could estimate 10-100 tons per person loosely.
+Bigger vehicles tend to get better mileage per  
+ton than small ones, especially at lower speeds, 
+tanks and semi’s are way more fuel efficient than  
+even the best modern sedans, in tons per miles 
+per fuel used, but none of those are truly big.  
+While the biggest vehicles in terms of raw mass 
+are giant bucket excavators for mining coal,  
+for a while the space industry had the biggest 
+land vehicle. Or vehicles. NASA’s twin transport  
+crawlers for rockets, Hanz and Fraz, originally 
+designed to carry 2700 tons or 6 million pounds,  
+and were each 40 meters or 131 feet long by 35 
+meters or 114 feet wide. Their newer upgrades push  
+that capacity to 8200 tonnes or 18 million pounds. 
+It might be surprising that its engines are only a  
+few thousand horsepower, the typical personal 
+vehicle being a couple hundred. Essentially,  
+you’d only need one horsepower per ton, 
+which makes intuitive sense anyway, given  
+an actual horse could pull a ton easily enough.
+Those crawlers burned around 300 liters of diesel  
+per kilometer or 125 gallons per mile, and they 
+typically made their trip at a mile per hour.  
+So they weren’t fast, they moved about half or 
+a third of the average person’s walking speed.  
+But for context, if you built a city on such a 
+platform, it could move itself from New York to  
+LA in a little over a hundred days, and at a fuel 
+efficiency of around 20 miles a gallon per ton. 
+This sort of platform can be made bigger and 
+faster, and while diesel engines or going  
+steampunk is visually tempting, let’s switch 
+over to electric and imagine a nuclear powered  
+one instead, and for simplicity we’ll assume one 
+kilowatt of power production will let us equal  
+a horsepower or move one ton of city at a slow 
+walking pace. We’re just aiming for some easy  
+to recall figure accurate to an order of magnitude 
+here. In that same vein, 20 kilograms per kilowatt  
+of power is reasonable for a ship reactor, 
+or 50 kilowatts a ton, 50 times what we need  
+to move that ton, so it’s pretty plausible you 
+could have a city that was less than a tenth its  
+mass in reactors, engines, and actual wheels, 
+axles, tracks, et cetera, without needing to  
+assume any really advanced hyper technology.
+Needless to say, if we’re talking about a  
+megaship or floating island, it’s even easier 
+than moving across the ground, and the same for  
+a mostly buoyant airship or sky city. If you want 
+it running as a big helicopter or airplane - which  
+would be faster too, you’re adding an order of 
+magnitude to your energy budget, if you’re putting  
+this thing on a significantly lower-gravity 
+world, Mercury or Mars, or the Moon, then it’s  
+an order of magnitude less energy needed.
+So, this is surprisingly a very plausible  
+concept on the Moon, where your mobile mining 
+platform might actually run on solar power and  
+need to creep across the landscape over the 
+Moon’s month-long day-night cycle to remain  
+always in sunlight. Even at the equator, the 
+day-night terminator only moves at just under  
+10 miles per hour, or just over 15 kilometers 
+per hour, and is much lower closer to the poles.  
+It would need to be even slower on Mercury or 
+Venus, and a lot of the bigger moons in the  
+outer solar system have very long days too due 
+to them being tidally locked to their planet. 
+As to why you would build that way, well it 
+takes a lot of additional gear to move and  
+work safely in a vacuum with people - part of 
+why we like robots - so a big mobile miner on  
+an airless low gravity planet or moon would seem 
+to make more sense, especially as you can get away  
+with giant and ultra-lightweight solar masts where 
+there’s no wind and where all your terrain is dry  
+as a bone. All your crew and equipment is right 
+there, all inside nice thick hulls and airlocks. 
+Another thing to keep in mind is that on a place 
+like Earth, we do have the option of buoyancy in  
+the atmosphere, and we mostly don’t use it because 
+helium - the second most common substance in the  
+Universe - is ultra-rare on Earth. Hydrogen, the 
+most common substance in the Universe, is also  
+not terribly common on Earth either, and also 
+has the quality of being incredibly explosive,  
+which isn’t so great for safety. They both are way 
+lighter than air as molecules, great for buoyancy,  
+but they leak through things. If you have tanks 
+that are lightweight, sturdy, and air tight,  
+you can effectively have a long lasting 
+floating balloon that rarely needs replacing. 
+We don’t necessarily need an entirely buoyant 
+structure floating over the landscape,  
+but if you can make strong durable parts that 
+are hollow but filled with lightweight gas,  
+or even vacuum if you can make them strong enough,  
+an awful lot of your structural weight might be 
+decreased while adding in a lot of buoyancy to  
+cut weight down. Needless to say, some sort of 
+awesome anti-gravity technology is even better. 
+That’s really the only way you can get 
+away with airborne floating fortresses or  
+upside down mountains with cities on them, 
+which are so popular in the fantasy genre,  
+like the wizard-enclave cities of Netheril 
+in the Forgotten Realms. They are usually  
+doing it by some variation of magic, but 
+barring antigravity you can only do that  
+if all that height and depth is made out of 
+net-buoyant material, which rock obviously isn’t. 
+Different planets, different options 
+though. For instance, on Hycean Worlds,  
+your surface gravity would generally be a bit 
+higher than on Earth, as these are bigger planets  
+which we assume have a high concentration of 
+free hydrogen and helium in the atmosphere  
+and maybe very deep oceans below, but very high 
+pressure at the surface, be it land or sea. So,  
+much like on the airless worlds, a self-contained 
+large mobile environment makes more sense, and  
+normal air might be naturally buoyant at standard 
+pressure, but you can grab hydrogen or helium out  
+of the air and superheat them with waste heat 
+from your reactors for a good lifting gas too. 
+Just keeping to our earlier figure of needing a 
+kilowatt a ton to move a big land crawler on an  
+Earth-like planet, and more if you want to go 
+faster, we should probably note the viability  
+of this is very dependent on your energy cost and 
+vehicle maintenance cost. If you’ve got some scifi  
+sturdy material like adamantium to be building 
+your tracks and axles out of, and some fusion  
+reactor gushing out megawatts for pennies, yeah 
+this sort off mobile city works just fine. And in  
+point of fact, is a lot cheaper to move around 
+than those big mobile space habitats we often  
+discuss, especially at the interplanetary scale.
+We’re also assuming the roaming cities are  
+self-propelled in this case, but you could have 
+dome habitats, even very large ones, that we built  
+with being lifted in mind and many such mobile 
+cities exist but are stationary until swarms of  
+big heavy lifters come by to move one, then head 
+off to help migrate one of its sister cities. 
+It’s not really a weight issue either, even in a 
+modern context. Your typical modern home masses  
+between 40-80 tons, so using our earlier figure 
+from the NASA crawler, you’d only be burning 2-4  
+gallons of diesel per mile you wanted to move, 
+and at modern costs that would be 10-20 dollars  
+a mile, and moving halfway across the state 
+might only cost a few thousand bucks, which  
+is certainly a better option than many days spent 
+packing and unpacking, and all the time and cost  
+with realtors and movers. It’s not really that we 
+would expect a post-scarcity civilization to have  
+every house have its own means of transport, but 
+it might get a lot more plausible that ‘mobile  
+home’ in a future context, might mean one built 
+with the idea that you could untether the house  
+and then some massive megacopter could swing by, 
+attach tethers, and lift some 500 ton mansion to  
+your new preferred address, possibly all during a 
+single afternoon while you’re off running errands  
+and without even spilling the water glass 
+you forgot and left on the kitchen table. 
+Which is a thing to remember in terms of these 
+big mobile cities, you would expect them to be  
+vibrating and shifting around a lot and quite 
+loud. I remember riding around in big tracked  
+vehicles in the Army a lot and it’s definitely not 
+a place you can really sleep or concentrate in,  
+even with practice. Or at least I couldn't, we 
+did have a couple guys in the unit who could  
+nap inside the things somehow, even when we were 
+bumping along at high speed, so presumably that  
+is something people could adapt to. So too, 
+you’ve got stuff jarring around and spilling,  
+but ships already have to deal with that and there 
+are plenty of folks who spend much or even most  
+of their life on ships. Bigger ones sway around 
+less too. Some civilization living in a mobile  
+tracked city or artificial island dwarfing an 
+aircraft carrier might not have that much shaking  
+and swaying going on, and after a few generations 
+might be totally adapted in habit and custom too. 
+There are things you could do to dampen that noise 
+and vibration. Arguably, big long telescoping  
+legs are better than tracks for that. Though 
+as awesome as a giant walking city would be,  
+I really have difficulty justifying that option 
+outside of highly cratered and creviced moons,  
+where it’s just easier to walk around in the low 
+gravity and have your city on big spider legs  
+than wheels or tracks. Also, it’s important to 
+remember the weight with things having feet. Some  
+big tracked vehicle that has nearly as much track 
+surface area as the vehicle has would leave huge  
+ruts on anything but very hard ground, and the 
+bigger a critter is, the even larger its feet need  
+to be to distribute its weight so it doesn’t sink 
+- just like walking on soft ground wearing riding  
+boots vs. high heel shoes. Same for sturdiness of 
+leg bones - you need them to be strong and stable  
+enough so they don’t buckle under the weight 
+as you move. Wide and flat works better for a  
+mobile city, not some skyscraper with legs, and if 
+you’re doing legs, it may be better to emulate the  
+centipede, not the biped, or even the arachnid.
+So far, we’ve mostly talked about moving across  
+the ground, but there are more options for 
+moving in water or some other liquid. A mobile  
+city might be a submarine, moving around water 
+or some other fluid by propellers and buoyancy,  
+like the giant city-sub Universalis in 
+the book Undersea, which roams around for  
+resources as well as to stay out of danger and 
+away from its rival city-sub, the Population.  
+It might be a big sphere of a city moving through 
+an ice world by slowly melting its way around the  
+ice. Or floating around lava, not water, or moving 
+through a planetary mantle, which might occur on  
+a Chthonian or Volcanic Planet. Those worlds 
+might even allow for magnetic levitation in  
+many cases. Others might have cities hanging from 
+huge orbital rings by tethers, like the Chandelier  
+Cities we discussed in Colonizing Neptune..
+We still haven’t really covered why you’re  
+moving though. And that is a problem that we can’t 
+really handwave, as it's often not going to make  
+sense to move a city. It definitely does in some 
+cases though, and a big spaceship designed for  
+continuous thrust, powered by a torch drive or 
+a micro-black hole, might just land and power  
+down on a planet like a giant skyscraper or 
+arcology, or even just roll over the surface  
+with the engine on, though unless it is using 
+something more benign like neutrinos or dark  
+matter for its thrust, it would be like rolling 
+over the landscape with a giant flamethrower. 
+But let’s start with the easier-to-justify cases. 
+Floating cities on Venus or huge gas refineries  
+on Jupiter or Neptune, where movable cities 
+are basically the only option for being there.  
+On a place like Mercury, you’re doing it to stay 
+out of the Sun, which moves over many months. So  
+there you could have some big mobile city trying 
+to stay in the dark where it's cooler to do its  
+mining, moving on over days, and that place might 
+even use stilts and legs and have a big reflective  
+umbrella over it, one of the mushroom habitats we 
+discussed in Colonizing Mercury, for being on the  
+day side, since walking with feet means way less 
+touching of the ultra hot ground, letting you keep  
+a livable temperature inside the facility.
+The episode is Mobile Cities, so we are  
+contemplating ones that are stationary most of the 
+time and can just be moved, and we have tons of  
+historical and modern examples of that, from tent 
+cities to huge caravans of recreational vehicles.  
+The main reason for mobility in those examples 
+is that whatever the lifeblood of that city is,  
+is moving -- for example: following migrating 
+animals for food or sport or entertainment.  
+In our Hiveworlds episode earlier this year I 
+mentioned an example of the Hive City of Nessus,  
+from Gene Wolfe’s Dying Earth series “Book of 
+the New Sun”. There, the city is slowly moving  
+away from the original spaceport that was the old 
+city as it heads down a river as the planet slowly  
+freezes. It just moves over time and folks raid 
+and rob the mostly abandoned buildings of prior  
+generations. Mobile cities pillaging the world 
+definitely work well in more dystopian settings,  
+be they post-apocalyptic or Dying Earth, but it’s 
+viable in other cases too, even on modern Earth. 
+And also, it’s important to note that 
+although most mobile cities are moving  
+towards something that its inhabitants want 
+- like more resources or better weather,  
+a city also might want to move away from 
+something it doesn’t want -- be it a political  
+threat or even bad weather. We could imagine a 
+mining operation wanting to pull up and out of  
+dodge if a super-strong storm developed 
+on the planet or moon it was working on,  
+or if a volcano started to erupt and 
+threatened to melt it completely. 
+Moving around based on either wanting to go 
+towards something or away from it is obviously  
+very common in hunter-gatherer cultures but it’s 
+normal enough in agrarian ones too. In the Plain  
+States like Kansas, it really isn’t unusual for 
+harvesting those vast fields of wheat to involve  
+basically a rolling wall of vehicles and a lot 
+of harvesters to make a 1500 mile trek from there  
+up to Canada, just harvesting fields as they 
+go. I could imagine a world in which that was  
+state-owned, or organized where some single huge 
+mobile harvester, miles wide and fairly thick,  
+just rolled non-stop over the monocrop 
+field both night and day, same for planting,  
+and was just a mobile town, complete with 
+shops and schools and churches and such. 
+But a mobile city might not need to use much power 
+either, especially if it relies on other things  
+that can move it, like ocean currents or wind 
+patterns. The Raft in Neal Stephenson’s Snow Crash  
+comes to mind here. The black-market hub city was 
+a loosely connected flotilla of ships instead of a  
+single structure, and being that it was too big 
+to steer in any meaningful way, it mostly moved  
+by ocean currents, with some slight diesel power 
+to get it to the right places, and traveled all  
+around the Pacific over the span of several years.
+So, that example brings us to the next thing to  
+consider -- a mobile city also need not 
+be a single huge machine, it might be a  
+bunch of components that can move separately 
+and reassemble on the end, or separate for a  
+while and then rejoin into a larger group, or move 
+together staying loosely connected the whole time.  
+The Freedom Ship proposal, which was more 
+like a fleet of barges than a single ship,  
+was designed as mobile community of up 
+to 80,000, and we discussed that general  
+concept more in Seasteading, where you might 
+have a lot of square or hexagonal standardized  
+components that could just link back together as 
+a grid of whatever arrangement you wanted, and  
+with bits coming or going, migrating themselves.
+The same applies to floating cities in the sky,  
+or on gas giants, or places like Venus. There 
+are a few practical reasons you might want to  
+do this too. For any kind of seasonal shift, 
+it might make sense to reconfigure the city to  
+take advantage of the different temperatures, 
+available resources or any number of things  
+that come on a cycle. These need not be external 
+forces either, it’s easy to imagine any number of  
+cultural reasons to reconfigure or move a city 
+based purely on human whims -- like the Aurora  
+Borealis? Move North according to the 11-year 
+solar cycle so you’re more likely to catch them.  
+Or avoid the rainy West Coast of North America 
+for the peaks of the El-Nino Southern Oscillation  
+cycle and instead enjoy more sun by floating 
+your city near Japan where it’ll be sunnier.  
+And while you’re at it, why not reconfigure 
+the city to get rid of all tall buildings for  
+optimal moon viewing for the tsukimi, the 
+traditional autumn moon-viewing festival. 
+As for how to get it done, it is all about the 
+technology you have on hand. For instance, the  
+cityship of Atlantis from the Stargate Franchise 
+is first shown to us as a fully functional  
+spaceship, able to travel between galaxies, and 
+we frequently contemplate giant spaceships bigger  
+than cities on this show for mundane interstellar 
+colonization, and whole planet-ships for  
+intergalactic colonization. So it’s worth keeping 
+in mind that those spaceships, while not designed  
+for atmospheric travel or orbital insertion, 
+wouldn’t generally have a problem floating  
+around on an ocean. Or under one for that matter, 
+even without the powerful forcefield Atlantis  
+uses for deep diving itself in that show.
+If you’ve got shields and abundant energy  
+or anti-grav, then it all works just fine. Low 
+gravity makes it easier too. In the John Carter  
+Film, set on low-gravity Mars, the Zodanga have 
+a mobile city, though they don’t have that in the  
+original books, just the film. Mortal Engines does 
+have it in the film and the book, the Traction  
+Cities, that can move around that post-apocalyptic 
+landscape to avoid earthquakes and volcanoes and  
+so on, and eat other cities, moving or not. The 
+notion of Municipal Darwinism in the setting is  
+a fascinating one, albeit I couldn’t rate it as 
+super-realistic. We see a couple other examples  
+in the Warhammer 40,000 setting too, Ambulon from 
+the Dark Heresy setting that migrates between  
+different types of resources it needs. Floating 
+ones like Atlantis are common too, the video  
+game Civilization: Beyond Earth has migrating 
+floating settlements in the Rising Tide DLC. 
+And again, the fantasy genre loves them, the 
+floating cities of the wizard kings of Netheril  
+from the Forgotten Realms or the flying castles 
+from Dragonlance come to mind, and there are  
+tons more. They’re also quite the staple of the 
+Steampunk Genre, be they tracked, or ones walking  
+around on legs. I can think of lots of various 
+plausible scenarios for world setups or cultures  
+or combinations of technology that might make such 
+places reasonably common, but probably never the  
+main way humanity housed itself. On planets 
+anyway, as channel regulars know, we tend to  
+assume most humans would live on artificial space 
+habitats like O’Neill Cylinders in the future,  
+and those are inherently mobile. And in that 
+regard, we would assume mobile cities would be the  
+norm for humanity, whether it’s orbiting a planet 
+or migrating around to new asteroids to mine,  
+or turning the engines on and moving your whole 
+giant O’Neill Cylinder to a different region of  
+the solar system, or even a new solar system.
+So yes, mobile cities will be a thing in the  
+future, probably both on and off planets.
+How well they match up with their portrayals  
+in fiction is hard to say, but whether 
+or not those portrayals are realistic,  
+I think as we move into the future, there will 
+definitely be a place for moving cities too.
+Last week we were talking about Lunar Mining and 
+Refining and after I finished that episode I felt  
+something missing was looking at the lives 
+Miners on the Moon might have, particularly  
+Nomadic prospectors, and today’s topic reminded 
+me we can build huge mobile mining platforms that  
+might be as populated as an offshore oil rig or 
+small town. So I did a bonus episode - Nomadic  
+Miners on the Moon - which is available now 
+exclusively on Nebula, our streaming service,  
+where every episode comes out early and ad free, 
+both our videos and our audio-only podcasts. No  
+ads or sponsor reads, like this one.
+If you subscribe to Nebula, not only  
+do you get to see every regular episode 
+of SFIA a few days early and ad free,  
+but we have lots of bonus content, including 
+extended editions of many episodes, as well as  
+bonus and exclusive content, like Nomadic Miners, 
+Orch Or & Free Will, Conformal Cyclic Cosmology,  
+Planets Vs Megastructures, Space Freighters, 
+Colonizing Binary Stars, and many more. 
+Nebula is a streaming service started by creators 
+for creators and their audiences, and has grown to  
+be the largest creator owned streaming service, 
+with tons of great content from an ever-growing  
+community of creators. Using my link and discount 
+it’s available now for just over $2.50 a month,  
+less than the price of the drink or snack you 
+might have been enjoying during the episode,  
+and it goes to supporting new content from 
+myself and other creators, like our new feature,  
+Nebula Classes, so its 2 for the price of 1.
+When you sign up at my link,  
+https://go.nebula.tv/isaacarthur and use my 
+code, isaacarthur, you not only get access  
+to all of the great stuff Nebula offers plus now 
+Classes, you’ll also be directly supporting this  
+show. Again, to see SFIA early, ad free, 
+and with all the exclusive bonus content,  
+go https://go.nebula.tv/isaacarthur
+If you’ve finished up today’s topic  
+and still want more, we have a NSS Space Forum 
+tonight, Thursday July 13, 9 PM Eastern Time,  
+where Dr. Doug Plata will be discussing the 
+Instabase concept for inflatable habitats for  
+using on the Moon or Mars. You can check that 
+out live and ask questions, or catch it and any  
+of our prior other weekly forums over on the 
+National Space Society’s own Youtube Channel. 
+And speaking of the Moon, we’ll be looking 
+at the possibility of building a Lunar Space  
+Elevator on August 3rd, but before then we still 
+have plenty more content for the rest of July,  
+continuing this weekend, with our mid-month scifi 
+Sunday episode, Robots and Warfare, and a look at  
+the role drones and autonomous machines might have 
+in the future, along with finding out what the  
+first Rule of Warfare in the future will be. After 
+that we’ll discuss whether or not alien lifeforms  
+might be based on ammonia instead of water, and 
+what that might look like. Then we’ll continue our  
+look at the future of warfare with Dropships 
+and planetary invasions or boarding actions. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you want to donate and help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all 
+of SFIA’s episodes early and ad free on  
+our streaming service, Nebula, along with hours 
+of bonus content, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

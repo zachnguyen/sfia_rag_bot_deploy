@@ -1,0 +1,697 @@
+This peisode is brought to you by Raycon.
+To paraphrase Ellen Ripley of Aliens “Sometimes
+you need to nuke the entire site from orbit.
+It’s the only way to be sure…”
+So today we are returning to our Space Warfare
+and Future Warfare series, looking at Orbital
+Bombardment, something that might come into
+play as a regular weapon of war in the next
+century.
+And we’ll be looking at that in a few weeks
+too, with an episode on the Next Century of
+War.
+At the time I’m writing this, near the end
+of 2020, I just had occasion to give a guest
+lecture and talk at the US Air Force Academy,
+and unsurprisingly it got me thinking on the
+future of warfare again, particularly its
+progression into orbital space.
+On the personal side, it reminded me that
+it's been a decade since I left the Army and
+two decades since my first time working for
+the military, as a research intern for the
+Air Force at AFIT back when I was 19 in my
+senior year as a physics major at KSU.
+A few years later I left grad school where
+I had been working toward a Ph.D. in theoretical
+physics to enlist in the US Army, where I
+finished out that decade.
+At the time there had been a lot of talk of
+going to the Moon again, and the urgency of
+replacing our shuttle program, neither of
+which has since happened, and it reminds of
+popular expression in the military, “Hurry
+Up and Wait”, as it so often seems like
+everything involving the space program seems
+like both a constant rush of improvement and
+a constant test of patience.
+Another thing I noticed in my time in the
+Army, besides its fondness for acronyms, was
+that everything was always the most important
+thing.
+Almost every bit of advice I got from my mentors
+was phrased as “The Most Important Thing
+to know about being a soldier is…” or
+“The First Rule of Warfare is…”.
+Many were contradictory, and nothing was ever
+the second most important thing or second
+rule, and there seemed to be hundreds of these
+little gems of wisdom, and that is the origin
+of our long-running gag on the show of the
+First Rule of Warfare, which includes a few
+dozen first rules at last count.
+One of my personal favorites, the unofficial
+motto of my old field artillery unit and of
+our show nowadays, is that if Brute Force
+isn’t working, you’re not using enough
+of it.
+That is both very descriptive of what is involved
+in orbital bombardment and its exact opposite,
+since it allows precise and surgical strikes.
+The First Rule of Warfare is always to seize
+the high ground, you cannot get much higher
+than orbit, and it is a great place to launch
+attacks from.
+Though as we will see today, it has its own
+weaknesses and vulnerabilities too, an orbital
+weapons platform is very vulnerable to attack
+from groundside facilities and anti-satellite
+or ASAT weapons.
+We see the use of orbital bombardment a lot
+in science fiction, and today we’ll consider
+some popular examples and ask how realistic
+they are from a science perspective too, as
+well as a practical military perspective.
+It takes immense amounts of energy to get
+things into orbit, and anything up there has
+access to that energy.
+What comes up must come down, unless it is
+in a stable orbit, which still tends to degenerate
+with time, and when it comes down it's picking
+up as much kinetic energy as you used putting
+it up there.
+Keep that in mind because we can’t get more
+energy back from a mechanical impactor than
+we put into it in the first place.
+Exceptions can be made, though, if we’re
+talking about propelling that object towards
+Earth, which adds extra energy into the impactor.
+We will discuss a few different approaches
+to orbital bombardment today and how it might
+get used, as well as means of defending or
+countering it.
+Now first it is important to understand that
+things don’t just hang over planets, barring
+some clark-tech anti-gravity drive, or from
+some structure like an orbital ring.
+So what we’re almost always discussing is
+some spaceship or weapons platform orbiting
+the target planet, or moon, or asteroid, and
+firing down on it.
+Except you’re not actually firing ‘down’.
+You, yourself, are whirling around the planet,
+possibly in a nice simple circular orbit,
+possibly in something rather elliptical, and
+what you’re actually doing is kicking your
+projectile into a different orbital path,
+one that intersects with the planet below
+and preferably with a specific part of it.
+Now this might be something moving far faster
+than orbital speeds, like a laser beam or
+simply a slug fired out of a space catapult
+or mass driver or rail gun at speeds far in
+excess of orbital craft.
+In this case so long as you have line of sight
+you are effectively firing in a straight line,
+or as close to it as a bullet is.
+This is the best approach if you have the
+technology and energy budget for it, because
+you retain all that orbital velocity (which
+you have already paid for) and is essentially
+what we see in science fiction most of the
+time.
+There are a couple of problems though.
+First, you still have targeting windows since
+you are orbiting.
+Second, things moving fast into an atmosphere
+suffer even more abuse from re-entry and might
+burn up or get knocked off course easier.
+It would be very hard to build something designed
+to enter an atmosphere at thousands of kilometers
+a second that could have exterior guidance
+and sensor packages that wouldn’t be wrecked
+by tearing through all that air at those kinds
+of speeds, so precision strikes aren’t simply
+a matter of dropping a rock on your target
+and very clever cutting-edge engineering and
+materials would be needed even to attempt
+something like this.
+Beam weapons might do better but have the
+issue of scattering in air, not to mention
+thermal blooming, which is a big issue with
+high energy beams.
+Air distorts beams, air being super-heated
+by a beam distorts them more and more chaotically.
+That’s a major issue with trying to shoot
+down ICBMS with lasers, and it is just as
+severe from orbit to ground as ground to orbit.
+The other thing is if you have weapons able
+to move that fast and through an atmosphere
+with any precision, it tends to imply the
+other side has them too, and a satellite or
+spaceship in orbit is a heck of a lot more
+vulnerable than some groundside facility buried
+under a mountain or some submarine that only
+surfaces long enough to shoot you.
+Even more so since spaceships have to worry
+about moving all their mass around, including
+their protective armor, so generally can’t
+afford as much of it as ocean-going vessels,
+let alone a fixed facility.
+They are shooting up, and you are shooting
+down, so everything they send has less energy
+from clawing its way out of a gravity well
+and everything you have gains energy in the
+descent.
+And that’s a lot of energy, but when we’re
+talking about energy beams, it is next to
+nothing, the speed of light is tens of thousands
+of times faster than most planet’s escape
+velocities.
+As for solid slugs or missiles, if we are
+talking about ones moving many times orbital
+speeds, then the energy loss or gain from
+being groundside or in orbit gets to be fairly
+minimal and the reality is that while a fleet
+of kilometer long warships with guns as big
+and wide as skyscrapers sounds nasty, and
+certainly is, an entire industrialized planet
+is going to just tear through that like it
+was a swarm of gnats if both sides are on
+the same approximate technological level.
+The disadvantage of being at the bottom of
+a gravity well is all your strikes are a bit
+weaker and all theirs a bit stronger, but
+the advantage of being at the bottom of a
+gravity well is that you have a lot more mass
+to be using as armor and weapons.
+We looked at this more extreme case in our
+episode Planetary Invasions, and the short
+form is that while armadas and orbital bombardment
+are awesome if your fleet has a big technological
+edge or is invading and bombarding some lightly
+populated or low-tech colony world, if you
+try that on some industrialized planet you
+are only going to succeed in causing a navigational
+hazard from the wreckage of your fleet.
+Getting into a shooting match with a planet
+from orbit violates the first rule of warfare,
+“Don’t Get Shot, that’s the other side’s
+job”, which is best achieved by doing all
+your shooting from too far away for them to
+easily aim at you.
+Alternatively a planet can’t move around
+to avoid being hit.
+In space warfare, especially the high-tech
+kind involving folks able to move at a decent
+fraction of light speed, the disadvantage
+of being at the bottom of a gravity well is
+that all that mass is hard to move and easy
+to hit.
+That does sadly spoil a lot of classic Science
+Fiction, especially Space Opera, though if
+you want to occupy a planet you eventually
+need to get into orbit around it and presumably
+do some bombardment and we’ll discuss that
+scenario later, but let’s consider the more
+near-term and modern-tech approach for now.
+When dealing with weapons orbiting and deploying
+at fairly similar speeds, the usual notion
+is to have the orbiting weapon be in a stable
+orbit, be it circular or highly elliptical,
+low orbit or high orbit, and transfer to an
+orbital path that now intersects the planet.
+That is easy enough to do, the tricky part
+is getting the timing right to hit the place
+you want to hit and making sure it can arrive
+at its destination on target and without burning
+up.
+Tungsten rods are a popular option for this,
+Tungsten is fairly cheap as dense and heat-resistant
+materials go and isn’t fissile so doesn’t
+raise any nuclear concerns.
+Such an object would slam into the ground
+at about Mach 10 and be very good at penetrating
+hardened targets.
+You may have heard of this weapon discussed
+as Project Thor or a “Rod from God”.
+It’s not going to match the firepower of
+a nuke, but is worth more than its weight
+in chemical explosives.
+It also doesn’t violate the Outer Space
+Treaty’s ban on deploying chemical, biological,
+or nuclear weapons from space.
+Last I heard the engineers at SpaceX seemed
+confident they were going to get launch cost
+to orbit down to under a thousand dollars
+a kilogram, possibly well under, so the prior
+cost concerns on such tungsten rods costing
+hundreds of millions of dollars a piece to
+get into space are probably on their way out.
+If it costs a few million dollars to get a
+rod into orbit, well that’s competitive
+with a bunker buster bomb, the various Massive
+Ordnance Penetrator, or MOP, bunker buster
+bombs generally cost a few million apiece
+too.
+What’s more, that’s the price to get them
+up from Earth, it’s cheaper to fly one in
+from the Moon or some tungsten rich asteroid,
+nor do you have to use tungsten, uranium is
+a popular suggestion and plenty of other metals,
+alloys, and ceramics would work.
+It’s probably a lot easier to set up an
+off-Earth manufacturing chain for metal rods
+than sophisticated bombs full of explosives,
+so these are likely to see a future in warfare.
+They do not match an atomic bomb, let alone
+a hydrogen bomb, in destructive potential,
+but they definitely make a good tool for getting
+into armored targets.
+Don’t assume incidentally that you can easily
+hollow one out and fill it with explosives
+or guidance packages either, such things don’t
+handle the kind of stresses and heat a kinetic
+weapon made of a solid slug of simple metal
+can.
+That said if you can get something in there
+that can act as a decent fuse or detonator,
+some ten ton rod of metal suddenly shattering
+into bullet-sized hypersonic fragments, presumably
+around a million of them, either once inside
+an armored bunker or high up in the air would
+be a vicious anti-personnel or even anti-vehicle
+weapon.
+If you had one that could reliably fragment
+as air bursts then deploying larger ones or
+several of them would probably let you chew
+through a city.
+In an industrialized orbital and cislunar
+economy, something we will pass through on
+our way to settle our solar system and the
+galaxy beyond, there should be a point at
+which producing and shipping these rods ran
+to mere thousands of dollars a piece, allowing
+you to keep arsenals of millions of them on
+hand, and they do then become a great weapon
+for both groundside attacks and orbital strikes
+on things like space stations too.
+Of course you can counter one by good detection
+and interception, and nobody with a serious
+presence in space wants a major conventional
+war in orbit either as it sets off Kessler
+Syndrome, a cloud of debris in orbit making
+it hard to pass through without heavy armor
+or sweeping it clear with something like a
+laser broom.
+Such rods are good for cracking into such
+armored targets though.
+Kessler Syndrome events are something parallel
+to MAD or Mutually Assured Destruction concepts
+of the Cold War, in that any major player
+can set one off, but we also want to keep
+in mind that thinly armored spaceships and
+space stations or habitats is not something
+we should expect to exist indefinitely.
+Such rods become potent weapons exactly because
+mining and shipping metals from the Moon or
+asteroids gets so cheap, so shipping in armor
+plating gets cheaper too, and while a chunk
+of metal fragments zipping around a ten kilometers
+a second sounds horribly dangerous, it isn’t
+the same as a projectile forged with penetration
+in mind and shot right at you, and it is quite
+likely a lot of stuff built in orbit will
+start to include levels of armor and point
+defense able to handle that sort of debris,
+or even those sort of kinetic strikes.
+On the other hand, some components simply
+aren’t easy to armor.
+Solar panels, radiators, sensors, and antennae
+would likely need to quickly retract inside
+your armor when RADAR or LIDAR detects incoming
+debris.
+Perversely, once you retract your sensors
+to protect them from debris, you can no longer
+see incoming debris.
+Also your rocket engine bell nozzles better
+not take a hit while thrusting because they’ll
+be running at their material limits.
+Even small impacts would likely destroy a
+nozzle.
+Ships in motion, accelerating, decelerating,
+or maneuvering, are very visible and very
+vulnerable targets compared to objects simply
+drifting.
+Now I mentioned how they aren’t as powerful
+as a nuke and barring the Outer Space Treaty
+there is good reason to put your nukes up
+there.
+ICBMS have good reach but are limited, compared
+to an orbiting device, and usually maintaining
+those rockets fueled-up for short notice launch
+is far more costly and difficult than building
+and maintaining the actual nuclear warheads.
+Incidentally this is not the same as FOBS,
+or a Fractional Orbital Bombardment System,
+which is just launching a nuke into orbit
+briefly on its way back down, as a way of
+extending its range to anywhere on the planet
+and concealing the target location, at least
+in terms of the launch path not revealing
+it.
+Folks sometimes get confused by this because
+it sounds like something that would go higher
+than an ICBM but rather it’s the exact opposite,
+a depressed trajectory to no more than 150
+kilometers of altitude, precisely because
+it is at orbital speed, while alternatively
+ICBMS go almost ten times higher and fall
+back down.
+ICBMS only reach about 6 or 7 kilometers per
+second, decently slower than orbital speed,
+so it can be confusing why they go higher,
+but the key thing to remember is that while
+things in orbit might only be a couple hundreds
+kilometers up, all that rocket fuel isn’t
+to get them that high, it’s to get them
+going sideways fast enough to fall around
+the planet perpetually.
+We only put them high up to get them over
+the air drag of the atmosphere.
+Ignoring air drag on the way up, you only
+need to shoot something at a couple kilometers
+a second to get it up to those altitudes,
+so it will fall down to the ground.
+That’s just fine for shooting things up
+there incidentally, since they are moving
+sideways at several kilometers per second,
+if you fire some over-powered flak cannon
+up like a fountain in their way, or a pod
+that’s more aerodynamic and will explode
+as flak, all that flak needs in terms of lateral
+velocity is enough to spread out in a cloud
+the orbiting satellite, tungsten rod, defense
+platform, or whatever will pass through and
+be damaged by the cloud of flak before the
+flak falls back down.
+Incidentally this is essentially the same
+way you counter more distant strikes too,
+like interplanetary bombardment, asteroid
+strikes, or relativistic kill missiles sent
+in from deep space.
+Those are all going so fast that it only takes
+them running into something to explode, so
+you defend by simply putting things in the
+way that are much smaller and cheaper and
+need little propulsion either.
+Orbital bombardment has the advantage that
+there’s very little time for detection,
+more so since the planet’s horizon can obscure
+the weapon as it approaches.
+Bunker buster rods from god and atomic weapons
+aren’t the only things orbital bombardment
+is good for.
+A popular trope of science fiction is sending
+down drops pods with troops in them.
+So, you might want to be using this for some
+non-military purpose like sending in emergency
+rescue personnel or supplies.
+For that matter, the Rod from God might be
+a good way of excavating – it's weird to
+think of using orbital strikes to cut a road
+through a mountain range or dig a hole for
+a building’s foundation, but we use explosives
+for these often enough anyway, and it might
+be very handy as a tool for terraforming other
+worlds.
+Now back on the notion of drop pods for troops,
+you obviously can’t be dropping someone
+inside a hollowed out metal rod, even if it’s
+a robot or cyborg able to handle way more
+gee force.
+This is called lithobraking, as opposed to
+aerobraking, and it's when you slow something
+down by ramming it into rock or earth instead
+of by air drag.
+Needless to say not much is going to survive
+ramming into the ground at several kilometers
+per second, though if it did, that’s nothing
+you want to pick a fight with!
+Anything that walks out of a crater it made
+probably is something you should run away
+from and hope it doesn’t follow you.
+You can actually make stuff that would survive
+that impact by applying the same concept as
+an air bag, though in cases like that your
+pod might be a very long rod that basically
+acts like some cross between a rifle barrel
+and a spring, as its whole job is to try to
+extend the period the cargo of the pod experiences
+the braking action as the pod itself rams
+into something.
+But, even if you made one that somehow minimised
+the g-forces experienced by the troops inside
+to something survivable, they’re still going
+to have to dig themselves out of the crater
+created by the impact, one with molten materials
+trying to dissolve their boots while they’re
+at it.
+That violates the first rule of warfare: don’t
+create a hellscape for your troops to deal
+with before they even encounter the enemy.
+Though I suppose they could use the crater
+as a defensive dugout.
+We also see concepts like that in boarding
+torpedoes in some science fiction and I think
+they’d be most realistically viable for
+attacking spaceships, space stations, or asteroids
+where those folks in the things are decelerating
+only at a rate they could survive, from a
+speed that could be slowed down from in a
+few hundred meters.
+Humans can’t handle more than 10-g of deceleration
+without passing out, but we can handle more
+without dying and we can build machines, and
+yes probably cyborgs or genetic superman,
+able to handle a lot more.
+At 10-g of deceleration a human can decelerate
+down from 10 kilometers per second in 100
+seconds, so an orbital drop pod decelerating
+at that rate from that speed has to pour on
+the gas at an altitude or distance of 500
+kilometers.
+That still makes it a hard target to hit given
+it’s probably jittering around as it does
+this and would still be moving as fast as
+a speeding bullet till that last kilometer
+or so.
+Also that 10 g’s is just to avoid passing
+out while experiencing protracted acceleration
+or deceleration.
+While humans in car crashes often experience
+over a hundred g’s and live or even walk
+away, the first rule of warfare is: don’t
+send your troops into battle feeling like
+they’ve just walked away from a car crash.
+So even 10g’s is probably a bit on the high
+side for a practical troop drop.
+Still, if the folks, or robots, on board could
+handle a 1000-g acceleration, and we can build
+some machines able to handle that, like fuses
+on artillery rounds for instance, then they
+only need 1 second to drop speed and can start
+their braking at 5 kilometers out.
+How you’re actually slowing down from these
+speeds is tricky, but my best guess for an
+ideal method that involved something like
+a small pod would be a parachute made very
+large and out of something of very high tensile
+strength like graphene and carbon nanotubes.
+That parachute is an easy but irrelevant target,
+poking a million tiny holes in a kilometer
+wide drop pod parachute wouldn’t matter
+much, and note that this does not require
+a gentle landing that offers the enemy plenty
+of chances to shoot you as you descend slowly
+through the air.
+You’re potentially undergoing the same horrible
+g-forces we just talked about, but on an automatic
+timed basis to slow you to a crawl right before
+hitting then maybe using mild lithobraking
+or rockets to finish the drop.
+This strikes me as much more useful for rapid
+delivery of supplies to a combat zone or rapid
+delivery of people to an emergency where no
+one is shooting at them, or at least no army
+is shooting at them with high-tech weapons
+meant for killing paratroopers.
+Otherwise I’d tend to think dropping bombs,
+not combat troops, would make more sense in
+most cases, but then again you always want
+your troops in-theater quickly, just in case
+folks start trying to shoot them even if it
+previously seemed safe, so this might be the
+method used, it’ll save fuel and a bunch
+of giant parachutes certainly makes clean
+radar returns and targeting a nightmare.
+Of course you might also be fighting your
+way down in waves.
+As we often point out in other episodes on
+space colonization, it is likely planets will
+have massive orbital infrastructure, and indeed
+might have far more people and far more industry
+up in orbital space than down on the planet.
+They also might have active support structures
+like space towers and orbital rings, or even
+live in a multi-layered matryoshka world,
+in which case your orbital bombardments and
+or actions might be happening at much slower
+speeds and smaller distances.
+The same would apply to attacking moons or
+colonized asteroids and those are likely to
+massively outnumber planets, so presumably
+be more common targets in conflicts.
+Dropping from an Orbital Ring a hundred kilometers
+up is no different than dropping from a plane
+except you need that initial protection from
+vacuum and cold, you are falling through very
+thin air so you can get quite fast, but this
+isn’t re-entry speeds, and orbital rings
+can frankly be at any altitude, as can space
+towers, see those episode for details, but
+trying to fight your way down a hundred kilometer
+tall space tower with 30,000 floors strikes
+me as a nightmare scenario for an infantry
+regiment, on offense or defense.
+Frankly, this strikes me more as a generational
+war than a battle.
+We tend to think, from the sheer scale of
+the weapon powers involved, that planetary
+invasions would be quick affairs, at least
+to get groundside, but it really might be
+the sort of thing that takes generations of
+travel to get to the orbital space of the
+planet, decades of fighting to claim the thousands
+or millions of orbital stations and habitats,
+and just as long fighting your way down to
+the ground, relying on the defender not wanting
+to trash their own ground-to-orbit transport
+systems like orbital rings and towers as cover
+for seizing them one slow and brutal footstep
+at a time.
+Remember again what we said earlier, as massively
+powerful as orbital bombardment seems, that
+planet probably can punch back much harder,
+so it wouldn’t be that surprising to deploy
+a strategy that focused on seizing and holding
+little bits of valuable real estate one bit
+at a time, discouraging them from deploying
+their heaviest weapons, possibly to the point
+that it was more like an invasion by migration.
+That brings me to the first rule of warfare:
+Keep your wars short.
+Don’t plan a war with troops that start
+off as teens and end up fighting until they’re
+octogenarians looking for an old folks home.
+It is hard to say of course, it might be fast
+or slow, but our usual assumptions about future
+warfare are also that it's more automated,
+faster, and more precise, and that might not
+turn out to be the case across the board,
+nor necessarily stay the same over time.
+Every century sees new innovations in warfare,
+often turning the prior fundamental strategies,
+truths, and rules on their heads, and we’ll
+see what the Next Century of War might hold
+in our next episode of the series.
+Whatever happens, though, always remember
+the first rule of warfare!
+We’ll get to our schedule and announcements
+in a moment, but first if you’re looking
+for a good pair of earbuds with noise isolating
+features, without dangling wires. and at half
+the price of other premium earbuds, I’d
+recommend trying out Raycon’s Everyday E25
+Earbuds.
+Personally I love them for the snug, discreet,
+noise-isolating fit that means I’m able
+to wear them during conference calls without
+missing the conversation even while in loud
+rooms, or just getting away from my screen
+without getting unplugged, and of late I’ve
+often used them to listen in on calls even
+when my wife was doing a zoom conference call
+five feet away.
+Plus they’ve got a good battery life and
+a very compact charging case with its own
+battery that can recharge them four times
+while you’re on the go, which means they’re
+recharging every time I put them back in their
+case for safe keeping.
+Raycon earbuds give you 6 hours of playtime,
+seamless Bluetooth pairing, more bass, and
+a more compact design for a comfortable, noise-isolating
+fit!
+Raycon is disrupting the electronics industry
+by designing premium wireless audio for half
+the price, without compromise.
+They’re doing things differently than other
+brands out there—from the way they design
+their products to the way they price them,
+Raycon prioritizes their customer experience
+from start to finish.
+The company was co-founded by Ray J. and is popular with celebrities Snoop Dogg, Melissa Etheridge, 
+ and many others for their comfort, style, and playtime. They also come in a range of colors and style, 
+and Raycon has a 45-day free-return policy.
+Whether you’re taking up a new hobby—or
+just want to make your day-to-day a little
+more comfortable—Raycons are the perfect
+way to bring premium audio to everything you
+do, and if you’d like to give them a try,
+click the link in the description box or go
+to buyraycon.com/isaacarthur to get 15% off
+your Raycon purchase.
+So today we were looking at Orbital Bombardment
+and we will continue to exam the future of
+warfare in the coming months, and we will
+probably end up doing an episode devoted to
+the Space Force at some point.
+I mentioned that I had the privilege of guest
+lecturing at the Air Force Academy some months
+back and I’ve also had the chance brainstorm
+with some folks about industry and defense
+in space, and I wanted to give a quick shout
+out to my friend Colonel Peter Garreston,
+author of “Scramble for the Skies: The Great
+Power Competition to Control the Resources
+of Outer Space” and editor of “STATE OF
+THE SPACE INDUSTRIAL BASE 2020”.
+I’ll link to those in the video description
+and the 2020 report is a great outlook at
+the situation in space development right now,
+I hope you’ll find Peter’s work as insightful
+as I do.
+Again we will be looking more at future warfare
+in two weeks, in “the Next Century of Warfare”,
+on March 4, but before then we will be asking
+if it is possible to colonize solar systems
+around Red Giants and other short lived massive
+stars, then we will finish February out with
+our Livestream Q&A, Sunday, February 28th,
+at 4pm Eastern Time.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us iTunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

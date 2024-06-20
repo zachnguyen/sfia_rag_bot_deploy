@@ -1,0 +1,699 @@
+The universe provides so much power, yet we
+struggle to tap it and crave more.
+Instead of being powerless, let’s get off
+Earth and conquer space.
+So today we continue the Upward Bound series
+and our look at how to get into space cheaper
+and easier, and what we can do up there once
+we can place stuff in orbit more cheaply.
+Of course, if you’re up in space for a while
+you’ll need a reliable power supply, and
+that generally means either solar or atomic.
+In terms of the latter, fusion is a good option
+if we can ever get it working, but fission
+is not something folks want in orbit overhead
+in large quantities.
+The big weaknesses of ground-based solar are
+that it’s useless on cloudy days and at
+night, but this is an area where being in
+space is actually a major advantage.
+When we refer to the dark void of space, we’re
+being more poetic than accurate.
+Space near Earth is constantly lit brighter
+than the noon-time Sun, and indeed you’d
+have to get out beyond the Asteroid Belt before
+solar stops being as effective there as it
+is on most of Earth.
+The equivalent of darkness in space depends
+on your distance from the Sun, or if something’s
+in between you and the Sun, placing you in
+the object’s shadow.
+While any object in a classic Low Earth orbit
+is spending a lot of its time in the relatively
+large shadow of the planet, as you get further
+away less of your orbital path is in that
+shadow.
+Additionally, various non-circular obits,
+or locations like the Lagrange points, have
+little to no time in shadow, eliminating most
+or all of the downtime experienced by solar
+panels situated on the Earth.
+As for wearing down over time, solar panels
+on Earth have to contend with dust, rain,
+snow, hail, sandstorms, thermal fluctuations
+and other weathering, none of which are present
+in the vacuum of space - and, needless to
+say, there are no clouds there either.
+The total benefit is about seven times more
+kilowatts-hours per year from a given Photovoltaic
+solar panel.
+Perpetual lighting also eliminates most of
+the need for batteries.
+All of which makes solar an excellent choice
+for space.
+It’s much more attractive than on Earth,
+and of course we’re interested in getting
+that energy to Earth, whether beamed down
+or otherwise, and eventually to other places
+in space.
+This idea has been looked at a lot for decades,
+but is becoming increasingly feasible now
+that launch costs are plummeting.
+For this to be practical though we have to
+overcome certain issues, and we should start
+by laying those out.
+First and foremost, getting stuff into space
+is expensive.
+Doing that cheaper is, after all, what this
+series is mostly about.
+A solar panel in space might be several times
+more effective than one on Earth, but if you
+needed to spend hundreds of times more money
+to get that panel up there, while it remains
+useful for powering things up there, it wouldn’t
+really make sense to beam it down.
+Not when you can far more easily deploy and
+maintain conveniently-sized arrays of panels
+down here.
+But down here you have to add energy storage,
+which is several times more expensive than
+PV panels, if you want to compare apples to
+apples.
+Second, there is the question of how you beam
+that energy down, and this comes with a lot
+of problems.
+For instance if you’re beaming down with
+a visible-light laser, it still has to go
+through all that air and clouds.
+There is also an additional effect called
+thermal blooming that causes laser light to
+be absorbed by the atmosphere over any significant
+distance, at least for frequencies that interact
+with the atmosphere.
+You also lose energy at every stage of the
+process, as you convert sunlight to electricity,
+then into lasers, then down to Earth through
+the atmosphere, into a collector there, and
+back into electricity again.
+We’ll be looking at these problems, some
+solutions, and some alternatives to visible
+light today in greater detail.
+But that brings up a third issue, which is
+safety.
+A big giant laser is also known as a death
+ray, and with any power-beaming system, you
+are directing a lot of energy into a potentially
+small place.
+This is a serious problem if your beam goes
+off target from the collector, and over to
+a city, be that as a result of an accident
+or deliberate action.
+So we will be looking at ways you’d be trying
+to make one safe to use.
+It is also worth remembering though that a
+giant laser in space also has some handy uses,
+like blowing up incoming asteroids or space
+junk, not to mention it’s a great way to
+push spaceships up to high speeds, so we will
+also be discussing some of the non-terrestrial
+uses of power-satellites later on, though
+our main focus is getting energy to Earth.
+At this point, we have to start considering
+scale.
+At present, humanity uses energy, from all
+sources combined, at an average power rate
+of about 18 terawatts, 18 million megawatts,
+not including the solar energy used by photosynthesis
+and evaporation.
+That’s about 2400 watts per person, day
+in and day out, every day, and while we are
+getting a lot more efficient with power usage,
+we also have a lot of people in developing
+regions who don’t use much yet and hopefully
+will in the future; hopefully not too much
+or too soon though because our main method
+of power generation has concerns about heating
+up the planet.
+We should start with a note there then, as
+folks often worry about power satellites heating
+the planet by adding more energy, which of
+course they do.
+The thing is, it isn’t our direct use of
+energy that’s heating the planet.
+While we use energy at an 18 terawatt rate,
+Earth receives about 10 thousand times that
+energy from sunlight.
+The extra heat we add would be trivial on
+its own.
+The concern is with greenhouses gases being
+released and trapping an additional fraction
+of the solar energy, not the extra energy
+we consume directly.
+However, power satellites are solar-powered,
+so were that a concern you could just have
+them block incoming light to Earth, cutting
+down on how much reaches us.
+Not that you’d bother, since you could easily
+use a mirror to do the job, which is cheaper,
+thinner, and a lot less complex for such a
+geoengineering purpose.
+18 Terawatts is a huge amount of power, and
+even our most efficient experimental solar
+panels, those still being worked on in the
+lab, would only get about 600 watts per square
+meter, in orbit.
+To get up to 18 Terawatts, you’d need 30,000
+square kilometers of our best panels, or a
+single panel 100 kilometers in radius.
+That wouldn’t include any losses in transmission
+either.
+Fortunately, we can assume high-efficiency
+panels are used, as the single biggest cost
+to deploying a power satellite is launch cost,
+which we’ll discuss in a moment.
+Solar panels will continue to get lighter,
+cheaper, more durable, and more efficient
+as times goes on.
+But for the moment, if we use our top end
+figures for performance, we can do a panel
+with thickness as low as 2 millimeters, massing
+only about 2 kilograms a square meter and
+generating about 600 watts per kilogram in
+space, constantly.
+To get 18 trillion watts out of 600 watts
+per square meter would require 30 billion
+square meters or 30,000 square kilometers,
+at an approximate mass of 60 billion kilograms.
+At current launch costs, that could run nearly
+a hundred trillion dollars, and doesn’t
+include any losses in transmission or other
+associated equipment.
+However, these would likely have a lifetime
+of 20-30 years, and since the energy sector
+is several trillion dollars a year, with estimated
+figures varying widely, spread out over 20-30
+years this would already be approaching a
+competitive cost.
+As manufacturing continues to improves and
+launch costs drop, this could get us into
+the economically feasible zone for power satellites
+rather quickly, and now would seem a good
+time to start prototyping to see if this can
+be made viable as launch costs drop.
+However, this is SFIA so we’re less interested
+in the next decade then the next century,
+and the earlier episodes of this series discuss
+many launch systems that we already have the
+tech for that can drop launch costs to a tenth
+or even a hundredth of what SpaceX’s Falcon
+Heavy can do.
+As a reminder, stuff like Jim Powell’s StarTram
+or Keith Lofstrom’s Launch Loop or Paul
+Birch’s Orbital Ring are not all that high
+tech, they just have a big upfront cost, many
+billions of dollars, which only looks big
+since we don’t actually spend our relatively
+small space budget on launching truly massive
+things.
+Our annual ground to space launch volumes
+are tiny compared to a single day’s traffic
+through any major airport, and same as you
+don’t build an international airport next
+to a small village, you don’t build these
+kind of launch systems till you are ready
+to up your game and a launch a lot more, not
+because they are particularly high-tech.
+When you are thinking about replacing a multi-trillion
+dollar sector of the economy, options like
+those launch alternatives suddenly become
+much more attractive and profitable.
+See those episodes for details, but even the
+most expensive of them are offering launch
+costs smaller than the production cost of
+the power satellites.
+It’s also worth noting that much of their
+operational cost is electricity, which needless
+to say is altered when you’re launching
+gigawatt-sized power generators into orbit.
+Additionally, most of the weight of a panel
+is still silicon, the second most abundant
+element on the Moon’s Surface, right after
+oxygen.
+Nor are solar panels incredibly tricky to
+produce, especially when mass and efficiency
+isn’t much of an issue, and the moon is
+close enough for us to do remote operations,
+so any factories there don’t need much personnel
+physically present to operate, or sophisticated
+artificial intelligence.
+Before we move on, I should also note that
+photovoltaics, turning photons into electricity
+the way a solar panel does, is not the only
+way to turn light into electricity.
+We could, for instance, just concentrate light
+on a liquid in pipes so it heats up, boils,
+and turns a turbine… a Thermal Powersat,
+like the prize-winning Flowersat design.
+This is a viable way of generating power,
+provided the light is sufficiently intense,
+and sunlight can be made incredibly intense.
+Thermal methods are how most power generation
+occurs, using an atomic or chemical fuel source
+for heat instead of sunlight.
+If you can’t make cheaper solar panels,
+you can always use a bunch of thin parabolic
+mirrors and non-imaging light funnels to focus
+light on some substance to heat it and drive
+a fairly standard heat engine.
+Getting rid of the waste heat during the cycle
+is harder, when you can only remove heat from
+a system in space by radiating it, but you
+can still use cooling by conduction and forced
+convection inside it.
+The back side of all those mirrors can also
+be used for radiating surfaces, too.
+Even surfaces exposed to sunlight can potentially
+be used to radiate waste heat, by use of wavelength-selective
+surfaces.
+Okay, so we can collect it up there, but how
+do we get it down?
+The traditionally suggested method is microwaves,
+in a beam, which worries folks a bit since
+we all use those to heat up our food and they’ll
+heat up a person, or a city, just as well.
+We’ll get to the safety issues in a bit.
+First, why microwaves?
+They are not the only option, but in terms
+of our spectrum, the atmosphere does a very
+good job keeping out virtually all gamma and
+X-ray radiation, and the overwhelming majority
+of Ultraviolet too, so they’re not great
+wavelengths to use to get our energy past
+the atmosphere.
+Visible light goes through pretty well, obviously,
+but much is still lost even in an open sky,
+and clouds obviously are murderous on visible
+light transmission.
+Don’t discard it just from that though.
+Power satellites all around the planet can
+just re-target their beams to collectors not
+obscured by the clouds, and only on the cloudiest
+days would we not have clear sky windows which
+some powersats could use to get an angle on
+the ground-based collectors.
+I should also note that we always want other
+power generation methods and energy storage
+in any power grid anyway, so that some ground
+based collectors being blocked by clouds sometimes
+is not really a deal-breaker for visible light.
+Nor do you necessarily need to beam light
+down as a laser.
+A big parabolic dish concentrating light on
+ground-based collectors is an option, too,
+which gets around thermal blooming that happens
+when a high-powered laser enters a medium,
+like air, that’s absorbing some if it and
+heating up and scattering the beam a lot.
+This, by the way, is a really big issue for
+using ground-based lasers to intercept missiles
+or using lasers for ultra-high-bandwidth data
+transmission over long distances.
+Since part of the point is to get power down
+at night, using the visible range of the spectrum
+in broad diffuse beams could cause a lot of
+light pollution, though in some places this
+might be advantageous.
+Of all the spectrum, radio waves are the ones
+that basically ignore the atmosphere and clouds
+the most over all, and microwaves, which are
+shorter than radio waves in wavelength, which
+is where the name micro comes from, are quite
+good at going through our atmosphere, clouds
+or not.
+You might wonder about the danger of this,
+but if you are accessing this episode over
+a wireless network, I should note that those
+use microwaves too and the same frequency
+as your microwave oven.
+There’s nothing very special about that
+frequency by the way, it just in a small band
+the FCC leaves free for non-broadcast purposes.
+Equipment operating at these frequencies is
+also pretty efficient at converting between
+electricity and microwaves, especially compared
+to lasers.
+You can do better than 75% with a magnetron
+converting electricity into microwaves whereas
+laser efficiency, as much as it’s improved,
+is still generally more like 50%.
+Our best new laser designs can almost match
+that, but historically, lasers have been much
+less efficient.
+Microwaves remain better, but not by the same
+overwhelming margin.
+Here’s the thing though, a Rectenna, a specialized
+type of antenna for absorbing these microwaves
+and turning them back into electricity, has
+an efficiency of at least 85%, much better
+than our best solar panels.
+This means that any side-effect environmental
+heating from beamed-in microwaves will be
+much less as well.
+Now as to safety concerns, the general notion
+is to beam the energy in at about 100 Watts
+per square meter, non-coincidentally what
+OSHA says is the maximum safe workplace exposure
+amount.
+To get 18 Terawatts, and keeping in mind 15%
+is lost in conversion by the Rectennas, would
+require about 200,000 square kilometers of
+rectenna collector surface area.
+Sounds big, and indeed it is, that’s about
+the size of Nebraska.
+Not that you’d be putting them all in the
+same place.
+More to the point, that doesn’t really seem
+much better than covering huge chunks of land
+with solar panels.
+Of course you could just increase power density,
+and fence the place off, but you’d still
+be blowing birds away left and right and potentially
+have a doomsday weapon.
+Though, realistically you could ramp the beam
+intensity up an order of magnitude without
+producing too much of either problem.
+Birds would tend to avoid them as uncomfortable
+or be able to swoop through before being hurt.
+This is mostly just raw heat damage like being
+too near your fireplace, after all.
+However, the neat thing about a Rectenna is
+that you can use multiple of them to cover
+a wide area, and this area is not entirely
+lost to you, as a Rectenna is a mesh more
+like chicken wire than an opaque glass panel,
+and tougher too.
+Indeed you could beam it right down on a city
+and provide wireless power, though obviously
+you’d want to be careful about concentrating
+it too much.
+Incorporating solar panels into roads and
+parking lots obviously has extreme issues
+with durability, while sticking a layer of
+chicken wire over farm fields or grazing land,
+isn’t difficult, nor is it that hard to
+concentrate such beams to such sizes and keep
+them on target, nor will they torch a fiery
+furrow through the landscape as they go.
+But the optical considerations of microwaves
+mean that rectennas receiving gigawatts will
+necessarily be large, usually several kilometers
+across.
+Safety is easily achieved by having the emitter
+and collector handshake, and the beam just
+shuts off if it goes off target.
+I should probably note that an optical version
+of this, using nanotech and metamaterials,
+called the Nantenna, shows promise of achieving
+a 70% or higher conversion of optical light
+frequencies to electricity.
+The impact of this emerging technology on
+solar panels, ground or space based, might
+be immense and very near at hand.
+Again though, this is SFIA.
+In this series, it’s only been a few episodes
+since we were talking about Orbital Rings,
+the great big rings around planets for getting
+into space once we want to be moving millions
+of people and megatons of cargo back and forth
+between space and the ground on a daily basis.
+An Orbital Ring is far cheaper, kilogram for
+kilogram, than any other options and you can
+scale it up immensely if you want to, unlike
+rockets, where that kind of throughput would
+also produce enough pollution and heat to
+mess with your climate.
+If you want to do a lot of travel from ground
+to space, and you love your planet, you should
+put a ring on it.
+While the massive drop in launch costs is
+certainly handy, the orbital ring also brings
+some benefits from being directly connected
+to the planet below.
+You can run tethers and lines down to the
+surface without making them of super-materials
+like graphene.
+Though you may still want to use graphene
+in particular, since recent improvements are
+being made in producing it in bulk, and it’s
+quite a good conductor of electricity.
+But the important point is that tethers going
+from the ring to the planet need only be reasonably
+strong, not space-elevator strong, and don’t
+have to be rigid or run in straight lines.
+Because of this, they can be built with some
+extra features in mind, such as transmitting
+power, bringing people or cargo to and from
+the cities near the ring, and can do so without
+a lot of the hassle of something like a rocket.
+You can’t launch a rocket anywhere near
+a city, or any sort of spaceship meant for
+that kind of speed and acceleration, not without
+damaging the city or even killing people,
+so you’d have to commute to a launch pad
+far from that city and any of its suburbs.
+Alternatively an Orbital Ring tether can leave
+from any terminal in that city as easily as
+a train or subway, allowing direct transport
+of people from a city up to the Ring.
+And for that matter, they can also transport
+up heat, something we might discuss more in
+the future, but this is interesting in the
+context of Ecumenopolises, planet-wide cities,
+or their little brothers, arcologies, in that
+it means space based power generation is actually
+better than fusion, because a fusion reactor
+is still producing a lot of waste heat in
+the process of making electricity.
+Power plants generally lose over half their
+energy to heat loss in making electricity,
+even before it hits the power grid, where
+even more is lost to resistance on the lines.
+But a solar panel in space running electricity
+right down a cable to a city, or for that
+matter a reactor in space doing the same,
+is not producing one extra drop of heat on
+Earth that isn’t in the grid.
+So no heat is being produced due to electricity
+production waste, though of course all that
+electricity will end as heat, either in the
+wires or at your house, it’s just not leaving
+half or more back at the power plant.
+Orbital Rings a major investment, and they
+also aren’t local, you have to encircle
+the whole planet.
+We do have another option, which can be done
+strictly at one location, and that is to build
+Karman space-towers.
+I call them that because they reach the Karman
+line, which is the generally accepted line
+between our atmosphere and space.
+Even with our material science today, we can
+build such a lightweight structure using Carbon
+fiber materials.
+We might even squeak by without having to
+resort to newer construction techniques too.
+As many of you will be aware though, here
+at SFIA, we are very much in favour of using
+active support systems to build higher and
+stronger.
+See our episode on space towers, and particularly
+the Atlas Pillar, for how to do that.
+As a brief recap, we support the tower by
+a series of fountains of material propelled
+through the tower.
+Our Karman towers are lightweight Atlas Pillars
+poking above the atmosphere with an energy
+collector at the top.
+Now, the atmosphere does not abruptly end
+as you go into space.
+At the Karman line, which is 100 kilometers
+up, the air density is about 2.2 million times
+less than at the surface.
+That's handy for power generation, as we'll
+see.
+Should you have trouble building quite that
+high, much of the advantage remains from going
+shorter, but taller is better.
+Atlas Pillars take a lot of power to keep
+them supported, how much depends on your efficiency
+regenerating the momentum of the support material,
+in theory that could be a 100% efficient closed
+loop but we’re not there yet and these would
+use a fair amount of power.
+You might ask what is the point of having
+a Karman Tower that consumes some of the power
+it produces when you could just beam the energy
+to ground instead?
+The answer is the energy collector is in space.
+Having the collector in space handily gets
+around a lot of the transmission losses and
+other problems we discussed, like thermal
+blooming, light pollution, hazards to animals,
+and that trade off of concentration for safety.
+You can skip a lot of the steps by just having
+big mirrors and parabolic dishes that can
+point at a large array of solar collectors
+fanned out on top of that tower and flood
+the panels with as much light as they can
+handle, and those mirrors can bounce light
+to night side collectors just fine as well
+as filter out any frequencies we can’t use
+well or which might degrade the panels.
+You stick one just north of a city so it never
+shadows it and run a low resistance power
+line down it and now that city has a good
+power supply and a popular tourism spot, since
+looking down from 100 kilometers up gives
+a breathtaking view of everything for a thousand
+kilometers around.
+It also has virtually no footprint on the
+ground, is very safe if there’s a power
+loss, offers ultra-high efficiency power transfer,
+and provides direct access to space and a
+launch system.
+See the Space Towers episode for more on this.
+Another thing that having a direct connection
+between space and the ground gives us is an
+ability to deal with the heat produced at
+the converter.
+In space, the only way to get rid of heat
+is to radiate it away, which requires giant
+radiators.
+It's also less efficient than using convection
+and conduction, which are cooling options
+only available on the ground.
+If we pipe the heat back to Earth, we can
+much more easily dissipate it.
+We can also use the heat as a source of power
+in its own right, or use it as a way of desalinating
+water with coastal Karman Towers.
+Come to think of it, I like the idea of a
+steampunk solution.
+We generate steam at the collector and use
+the steam pressure as part of the active support
+of the tower itself.
+We also tap it for energy using turbine generators
+and then pump the cooled fluid back up to
+the collector.
+The entire structure could be a giant steam
+engine converting the steam to electricity
+as we go.
+Traditionally you do this with magnets, launching
+material up a mass driver that’s slowed
+down and deflected back by a receiver up top,
+but in theory any flow of matter works.
+So power satellites seems a much more attractive
+option, and a potential gateway to space as
+launch costs drop.
+We’ve talked about many industries that
+might fuel a snowball effect to help us get
+into space, science, tourism, even filmmaking,
+but which of these can match energy?
+A market making up roughly 10% of our global
+economy, and the biggest bottleneck on greater
+prosperity for humanity in this modern era.
+Get power satellite operations down to even
+just near the price per kilowatt-hour of other
+existing sources, and it not only could power
+our homes here on Earth, but our efforts to
+make homes off Earth.
+And certainly the power demands to manufacture
+space habitats will be much higher than that
+sized for the habitat’s ongoing domestic
+consumption.
+So, even if power generation was the first
+piece of infrastructure built, additional
+power could be beamed to construction projects
+as needed - or even as emergency power later.
+Indeed temporary beamed power for space projects,
+such as mining and construction could be a
+major space industry in itself.
+And its applications aren’t just for Earth
+and near Earth.
+As we’ll see next week, when we continue
+our discussion of generation ships to colonize
+distant stars, one of the hardest parts about
+traveling in deep space is getting up to the
+speeds necessary to do it on reasonable timelines
+and to provide power to those ships, far from
+the Sun, but still needing to keep warm and
+lit for those who dwell inside.
+You can beam power out quite a long way, and
+you can use it to help ships get up to speed.
+Of course slowing down is another matter,
+and one we’ll discuss next week in “Exodus
+Fleet”.
+Electricity is the life’s blood of all of
+our science and industry here on Earth, and
+will be for those ships too, and fundamentally,
+as launch costs drop and solar panels efficiency
+rises, power satellites can offer us a virtually
+unlimited supply of electricity without the
+ecological problems or supply bottlenecks
+of our current energy options.
+We had to gloss over a lot of discussion of
+the basics of electromagnetism, induction,
+current, heat engines, and other core topics
+that explain how power generation and transmission
+is actually done, and why some of the methods
+we looked at today are better than others.
+If you’d like to learn more about those
+topics or just brush up on them, then I’d
+recommend the Regents Physics Reviews.
+Those courses step through basic physics and
+some more advanced material in a detailed
+and professional fashion, never skipping over
+terms by assuming folks already know them,
+but also not dumbing things down either.
+Those are available over at Skillshare, an
+online learning community that focuses on
+assembling classes on technology and has courses
+on everything from basic sciences to a lot
+of modern software, and I’ve been using
+a lot of their classes on video production,
+audio engineering, and animations to improve
+the content here on the channel.
+If you want to improve your skills, unlock
+new opportunities, and do the work you love,
+give Skillshare a try, and a Premium Membership
+gives you unlimited access to classes like
+those.
+If you want to join me and the millions of
+other students already learning on Skillshare,
+we have a special offer just for my listeners:
+Get 2 months of Skillshare for free.
+To sign up, go to S-K-L-dot-S-H slash Isaac.
+Again, go to S-K-L-dot-S-H slash Isaac to
+get 2 months of unlimited access to over 20,000
+classes for free.
+Act now for this special offer, and start
+learning today.
+As mentioned, next week we’ll be returning
+to our topic of Generation Ships to look at
+ways to provide them the power they need to
+cover huge interstellar distances in reasonable
+times and to keep their crew alive during
+those voyages through the empty ocean of space.
+The week after that we’ll be teaming up
+again with Joe Scott of Answers with Joe to
+look at some of the potential catastrophes
+humanity might have to deal with before we
+can get out and settle the galaxy, and ways
+we might avoid those, mitigate the damage,
+or recover afterwards.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button, and share it with others.
+Until next time, thanks for watching, and
+have a great week!

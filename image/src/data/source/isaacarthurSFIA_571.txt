@@ -1,0 +1,711 @@
+The sun is a mass of incandescent gas, a giant
+nuclear furnace.
+Without the sun, without a doubt, there’d
+be no you and me, but the sun is hot, and
+it is not a place where we could live… or
+is it?
+Welcome back to Science and Futurism with
+Isaac Arthur, and welcome to our fourth year.
+I am your host, the aforementioned Isaac Arthur.
+If there’s one thing this channel tends
+to be known for, it is truly enormous and
+over-the-top concepts, like artificial planets
+or moving solar systems or even galaxies.
+But we always try to stick to things inside
+known physical laws, and on those rare occasions
+we don’t we hang a flag on it and explain
+both why it probably can’t be done and some
+of the other potential applications it could
+be used for that get missed when using it
+in science fiction.
+We are going to stay inside those limits of
+known physical science today, but I’ll just
+warn from the outset that we are going to
+be pushing that a lot.
+When I first suggested an episode about colonizing
+the Sun, as a chapter in our on -going look
+at colonizing the solar system, the Outward
+Bound series, the initial response was mostly
+to assume I was joking or talking about Dyson
+Swarms.
+In fact, I mostly was - joking that is.
+About halfway through last year I gathered
+up volunteers to help review the scripts for
+the episodes, and to bounce episode ideas
+off of, and while I hate to admit it, their
+initial response at how crazy it was is actually
+what spurred me to give it a more serious
+look.
+While “Oh yeah?
+I’ll show you!” isn’t the best motivation
+for doing things, I’m glad I did succumb
+to that because it made me try to tackle the
+problem and it turned out there are a lot
+of options there for utilizing the Sun in
+a very hands-on manner.
+Now in truth we have talked about utilizing
+the Sun before on many occasions.
+A sun-encompassing swarm of habitats or power
+collectors or mirrors, a Dyson Sphere, is
+something I mention on the channel at least
+once a month, and is a type of Stellar Engine,
+a device or group of devices meant to utilize
+most of a star’s energy to some purpose,
+and we’ve discussed others like the Shkadov
+Thruster or Nicoll-Dyson Beam.
+We will review those concepts today, and some
+new ones.
+We have also talked about Starlifting, a way
+of mining resources from the Sun, which contains
+99.8% of all resources in the solar system,
+not just hydrogen or helium but all the other
+elements too.
+We’ll talk about that today too, but we
+are going to go further and by the end of
+the episode we will be talking about walking
+around on the Sun or even in the Sun.
+This is important as our main motivation though.
+99.8% of the solar system is compacted into
+that giant ball of shining plasma.
+998 out of every thousand atoms are in the
+sun, 1 is in Jupiter, and the remaining 1
+is spread over the solar system, mostly in
+the remaining three gas giants.
+Classic space colonization tends to ignore
+all that mass as being unavailable, even the
+stuff in gas giants.
+Truth be told even most of the mass in planets
+gets treated as serving no purpose but to
+generate gravity and fuel the occasional land
+replenishment via volcano.
+Even concepts like Dyson Swarms typically
+still ignore all that mass in a Sun as anything
+other than a source of energy.
+A very big source of energy admittedly, less
+than a billionth of the Sun’s light ever
+reaches Earth and only a small portion of
+that gets used for anything other than heat.
+The ratio is so small it would be like creating
+an entire hurricane just so you can get a
+glass of water, or breaking into Fort Knox
+to steal one person’s gold wedding ring.
+This gets at the entire appeal of a Dyson
+Sphere: you use all the energy, not just that
+minuscule portion of it that hits planets.
+You stick wads of solar panels or artificial
+habitats around a star in a roughly spherical
+cloud to use all that light up.
+Yet again, it still ignores all that mass
+in the Sun, except as a power source.
+Most people find even a Dyson Sphere to be
+a pretty ridiculous object, albeit mostly
+because even those who have heard of one think
+it’s supposed to be some giant inside-out
+planet.
+This was never what a Dyson Sphere was, but
+the misnomer stuck so instead we call the
+original a Dyson Swarm.
+Such a construct takes a ton of mass to build,
+and how much depends on how thick you want
+to build it.
+There’s plenty of mass even just on Mercury
+to build solar panels all around the Sun,
+but trying to build habitats with the available
+mass in the solar system is much trickier,
+which is where we saw the value of Starlifitng,
+harvesting a star for its matter, not just
+its energy.
+This of course is a bit of an issue.
+You can’t land on the Sun with a bucket
+and shovel and start mining for metals.
+Not because they aren’t there; in fact,
+if you scoop some solar matter off the surface,
+there’s a lot of stuff besides hydrogen
+and helium in that, over 1%.
+The reason is because it’s so hot, and also
+because a bucket full of the Sun contains
+virtually no matter, less than a bucket of
+air.
+The photosphere, the nominal surface of the
+Sun and where the light mostly comes from,
+is about 5700 Kelvin, hotter than any known
+element or alloy can remain solid at, and
+is a surface only in the sense that we can’t
+see deeper than that.
+The density of the ‘ground’ is about one
+ten-millionth that of the various rocks and
+dirt we walk on, and actually only about a
+thousandth as dense as the air you are breathing.
+Above that is the chromosphere and then the
+Corona, both of which are increasingly less
+dense, and finally the Heliosphere, which
+is actually where all the planets are located.
+So this image we have of the Sun as a sort
+of molten liquid is all wrong since you don’t
+crash into it any more than you crash into
+a sky.
+It’s not even a gas, either, but rather
+a plasma.
+It’s not dense at all, though far more so
+than Red Giant stars - what our sun will eventually
+turn into - which are so thin you could fly
+a spaceship through one if it wasn’t for
+the heat.
+It gets denser as you go deeper, eventually
+getting to be a dozen of times the density
+of lead at the center, but you have to go
+quite deep before it even gets as thick as
+Earth’s atmosphere, let alone oceans.
+There’s very little matter immediately under
+your feet on the Sun, again much less than
+air, and gravity is 28 times higher than on
+Earth, so you’d fall down very fast with
+all that force acting on you and almost nothing
+in the way.
+If you could dangle Earth down a long cord
+into the sun, like an apple on a fishing hook
+lowered into the sea, it would actually take
+quite a while to destroy the planet.
+It wouldn’t detonate in an instant like
+people would visualize.
+Indeed when we discussed one of the types
+of Stellar Engine, the Weaponized death-star
+like variety called a Nicoll-Dyson Beam, we
+saw that you’d need to leave one on full
+power on Earth for around a week to vaporize
+it, though you’d roast the biosphere off
+it in minutes.
+The Sun gives off 63 megawatts of light per
+square meter, around 60,000 times what the
+light intensity hitting Earth is, so if you
+had a floor between you and the sun and poked
+a hole in it with a needle it would light
+that room up as effectively as a normal window.
+Even diluted by spreading out for 150 million
+kilometers on its way to Earth, it’s still
+so energy dense that looking at it will blind
+you.
+So at first glance it would seem like being
+anywhere near the Sun ought to obliterate
+you, but it’s important to understand that
+damage is not just about temperature, it’s
+about energy transfer.
+We think of space as cold but there are plenty
+of giant pockets of it a lot hotter than Earth
+is, and you wouldn’t be burned to death
+in them because they are so thin no real heat
+will transfer to you.
+Your oven is a lot hotter than a pot of boiling
+water, but if you stick your hand in your
+oven without touching any metal for a moment
+it’s just uncomfortable.
+Stick your hand in a pot of boiling water
+for a moment and you are going to get badly
+scalded.
+There’s a thousand times more particles
+hitting every chunk of skin in that water
+than in the hot air.
+Indeed the surface of the Sun is actually
+a good deal cooler than its higher layers,
+the chromosphere and the corona, which are
+hundreds of times hotter.
+However, we have two tricks for getting near
+the Sun.
+First, until you get to the Corona, all you
+are encountering is lots of photons and a
+little solar wind.
+Photons can be reflected by mirrors.
+We use a lot of metal foils, silver, aluminum,
+and gold, though we’ve got newer materials
+that work better.
+People tend to think of mirrors as glass but
+there’s a reason why we talk about them
+being silvered: we used to use silver plating
+on the back of them, but aluminum plating
+is more the norm these days.
+Not everything reflective to visual light
+is as good a reflector to other frequencies
+either, so don’t assume a traditional mirror
+you look at your reflection in is ideal.
+The Sun gives off a lot of light in frequencies
+we can’t see and which typical mirrors don’t
+bounce well.
+However if you assumed you had a mirror that
+was 99% reflective to the Sun’s full spectrum,
+you’d only absorb 1% of the light you normally
+would, and so could get to a place where the
+sun was 100 times brighter than Earth.
+Since light falls with the square of distance,
+that would be 10 times closer, .1 AU.
+A quarter of the distance Mercury is from
+the Sun, a place already so light blasted
+that we could only consider colonizing it
+by living in mushroom habitats and sitting
+on stilts over the ground and shielded by
+a big mirror from the Sun.
+This close to the Sun, only a tenth as far
+away as Earth is, is actually where we say
+the Sun officially ends, the outermost edge
+of the Corona.
+If you make some reflective shield up front
+of your spacecraft you can get this close,
+.1 AU, and indeed the Parker Solar Probe scheduled
+for launch later this year is supposed to
+get to just .04 AU from the Sun, ten times
+closer to the Sun than Mercury is and 25 times
+closer than Earth.
+You can get closer, too, either by having
+a shinier mirror or by having a lot of heat
+radiators trailing behind in the shield’s
+shadow, cooling the shield and radiating heat
+away in that shadow.
+As you get closer to the Sun you eventually
+need to make that mirror shield more bowl
+shaped so the whole thing looks like a mushroom,
+as sunlight is no longer coming directly at
+you only from the front.
+If you’ve seen the film Sunshine, which
+is one of my favorites, at least the first
+hour before it turns into horror film, you
+can see how the ship uses that basic concept
+with a gold covered forward solar shield reflecting
+light away.
+The more you can reflect, the closer you can
+get to the Sun.
+So how shiny can you make a mirror?
+Theoretically 100%, and indeed labs have made
+materials that are completely reflective at
+a particular frequency.
+Keep that in mind for later, but generally
+a material will reflect different wavelengths
+of light better or worse, and the Sun emits
+a wide spectrum of wavelengths.
+You do get two other problems once you get
+inside this range though.
+First, the sun does radiate more than just
+photons you can reflect away, and as you get
+closer you aren’t just dealing with a higher
+density of solar wind but particles in the
+Sun’s upper atmosphere, the Corona, which
+can be around 2 million Kelvin.
+Second, the Sun has an insanely powerful and
+strange magnetosphere, and can start generating
+heat by magnetic induction through things.
+All those particles are ionized so we can
+reflect or deflect them with a magnetic field,
+but you need power to run such a thing and
+that means heat.
+Nonetheless, if you can bounce away all those
+particles no heat will transfer to you; so
+it’s actually conceivable you might be able
+to get very close, indeed all the way down
+to the photosphere ‘surface’ with materials
+that were ultra-reflective and by deflecting
+those ionized particles.
+This is just inside the realm of known physics.
+If we move over to science fiction, suns are
+always treated as automatic killamajigs.
+However, those ships often have force fields
+or wormholes, and if you did have that kind
+of tech - the game changes.
+I’ve pointed out before that a handy power
+source can be made with a wormhole by dropping
+one mouth into a star, but you could do that
+in reverse and suck heat out from some space
+station inside a star to keep it cool.
+This is much trickier without such technologies
+though.
+You could have a highly conductive or even
+superconductive material - such as a tether
+rising off the sun, carrying heat away from
+your base on the sun as fast as it got in.
+The problem is, that close to the Sun light
+is coming in from every direction below you,
+much like the Earth and it’s own horizon
+when standing on the ground, and indeed from
+above you too.
+The Chromosphere and Corona both emit light,
+just less than the photosphere, so you need
+to sheathe those tethers as well.
+It would also snap.
+A Space Elevator is hard to engineer on Earth,
+when it has to hold up its own weight for
+thousands of kilometers in Earth gravity.
+Gravity is even higher on the Sun and you
+have a lot more of it.
+You have to be at 5.3 solar radiuses, or about
+3 million kilometers above the photosphere,
+before gravity drops to Earth normal.
+If you built a sphere that far over the sun,
+3.7 million kilometers in radius, or .024
+AU, it would have a surface area 330,000 times
+that of Earth, as big in area compared to
+Earth as the Sun is massive compared to Earth.
+If you remember our episode on Mega Earths
+I pointed out there that if you are trying
+to keep the same surface gravity there’s
+a linear relationship between the object’s
+mass and surface area or living space.
+Ten times the mass, ten times the surface
+area, a hundred times the mass, a hundred
+times the surface area.
+Of course the Sun may be 330,000 times as
+massive as Earth but as we’ve mentioned,
+it gives off enough sunlight to illuminate
+Earth a couple billion times over again.
+So this sphere would be getting 6000 times
+the light you want it to get.
+However this is about as close to the sun
+as a person would want to get since the gravity
+is rising.
+Using the orbital ring technology we have
+discussed before, the giant stationary rings
+full of super-fast moving magnetic material,
+like a pipe full of running water, you could
+construct a permanent stationary ring around
+the Sun, assuming you can reflect enough light
+and deflect enough particles.
+You could then walk around on top of this
+ring, with the same gravity as on Earth, and
+be well inside the Sun’s Corona.
+Now, before we ask why anyone would want to
+live there, let’s ask if this is as close
+as a human could live?
+Not a cyborg meant for higher gravity or heat
+tolerance but an actual normal old human.
+And the answer is no.
+You would have to be standing on the ring
+surface facing away from the Sun as the Sun’s
+gravity is pulling you down onto the ring.
+If the ring was stationary when a person experiences
+1 g, normal Earth- gravity, then if the ring
+is placed closer to the Sun then the gravity
+increases.
+We can offset that increase, though, by spinning
+the ring.
+Spinning the ring has the effect of introducing
+an artificial gravity on you away from the
+Sun.
+No matter how much gravity you would usually
+experience if the ring were stationary, we
+can offset that by spinning the ring faster
+so you always experience 1 g.
+Unlike a normal spinning habitat, this ring
+contains two sections, an inner and outer,
+which don’t move at the same speed, but
+whose combined momentum is what they need
+to orbit classically.
+In this case, we keep the inner ring stationary
+and spin the outer one, or even spin the inner
+one in the opposite direction.
+You can also keep a third stationary sheath
+outside this to prevent friction with whatever
+environment is outside.
+This trick can be used to produce low-gravity
+bands near any star, gas giant, or Super Earth,
+see the Orbital Rings episode for a more detailed
+explanation of the mechanics.
+Needless to say it takes a lot of power to
+run such rings, which are giant magnetic machines,
+but you aren’t short of energy near the
+Sun; and when it comes to extracting matter
+from the Sun, the main method of Starlifting
+we’ve previously discussed specifically
+uses a giant magnetic ring to rip matter off
+the star.
+Other methods all have the problem that it
+takes huge amounts of energy to lift matter
+out of that gravity well, but the entire original
+point of an orbital ring is that it makes
+a phenomenal way to move huge amounts of matter
+out of gravity wells.
+You can also use concentric stacks of them,
+each a little further out, connected with
+tethers to act as elevators.
+We’ve used that trick before but it has
+two added advantages here.
+First each higher one is getting some light
+blocked by the lower ones, and second, you
+could probably transport heat up those tethers
+to help cool the lower ones, ending with one
+really high up, very wide, but perpendicular
+to the Sun.
+With a low solar cross section such a massive
+radiator serves for the ones below and as
+a pickup and storage point for ships coming
+in to collect material harvested below.
+I should note that our Sun is not the only
+star either, in fact it is on the large and
+hot side.
+Many are much cooler, even having surface
+temperatures lower than the melting points
+of some known materials, and for big red giants,
+they are not only cool but vastly less dense,
+and using these tricks you might be able to
+flat out construct machinery right over or
+even inside their photospheres.
+We will look at that more, and the interesting
+case of doing this with white dwarf or neutrons
+stars, in our next episode of “Civilizations
+at the End of Time: Dying Stars”
+So while we would definitely need to come
+up with a lot of new technologies to live
+this close to the sun, we don’t necessarily
+need any new physics.
+But why live there, in, on, or very near the
+Sun?
+It is worth noting from the outset, as pointed
+out in Colonizing Titan, that colonizing is
+not the same as terraforming and indeed doesn’t
+necessarily mean anyone lives there, let alone
+that they need to be traditionally human.
+We have a lot more options on the table if
+we are including alternatives like artificial
+intelligence too, but for today we will assume
+you’d need regular old humans on-site or
+in proximity.
+While it might not be a big hub for actual
+living, the value of a colony near the Sun,
+if you can successfully build it, is so huge
+that it would rapidly come to dominate the
+entire system economy.
+Even if it only takes a skeleton crew to operate
+some of these immense machines, so that it
+was like one person working inside a large
+modern warehouse, when industrialized you
+could have trillions of people working there,
+supplying untold billions of megatons of raw
+materials and trillions of gigawatts of power
+to a growing solar economy.
+There is nothing in this solar system that
+the Sun doesn’t have more of, except empty
+space and lower temperatures.
+From the Sun we can run giant energy beams
+out to distant energy-hungry colonies (more
+on that in a moment), we can use it to maneuver
+and accelerate spaceships, we can harvest
+it for huge amounts of hydrogen and helium
+as well as heavier elements.
+Beyond those, you can use surplus power to
+run a giant ring shaped supercollider… which
+is also basically an orbital ring… to turn
+lighter elements into heavier ones.
+You could potentially even be making anti-matter
+or kugelblitz blacks holes to store energy
+or use as spaceship engines.
+Whenever we talk about fully harnessing the
+Sun for power I get asked what we’d do with
+all of it, around 20 trillion times humanity’s
+total power consumption, and these are just
+some of the examples of what you can do, but
+in a nutshell, if you’ve got trillions of
+times the energy and matter, you run trillions
+of times the industrial output.
+Now I want to talk about Beam Propulsion again
+because we’ve been talking about using lasers
+to push ships in some of the episodes from
+late last year and we just mentioned beaming
+power.
+I often mention both as alternatives, if we
+never make fusion reactors a reality.
+Laser beams spread out gradually with distance,
+they aren’t beams of even width the whole
+way and the tighter you can keep them over
+distance the better.
+Now the traditional way to make these lasers
+is to suck up energy from sunlight via solar
+panels and use that to run a classic laser,
+albeit a gigantic one, however that is a fairly
+inefficient process and we have a far more
+efficient, cheaper, and vastly easier option
+called a Stellar Laser, or Stellaser.
+Here we describe a version conceived decades
+ago by Steve Nixon, who coined the term Stellaser.
+We are going to turn the Sun itself into a
+laser.
+Now we talk about lasers on this channel a
+lot but I’ve never really explained them,
+and this seems a good occasion to do so in
+some detail.
+At its simplest, a laser consists of a lasing
+medium we can excite, such as a gas that gets
+placed between two mirrors.
+We can excite the medium, usually with electricity
+or a big lamp, raising the energy of a population
+of atoms in the medium to the point they behave
+strangely.
+They behave less randomly, more in unison;
+they are stimulated to lase.
+Mirrors help stabilize the process..
+As it turns out, the Sun’s corona is a natural
+lasing medium, already conveniently excited
+by the Sun's brilliance, like a giant lamp,
+and a rather powerful one at that!
+In the Sun, an ion is an atom where one or
+more of its outer electrons has been knocked
+off.
+In the Sun’s corona there are naturally-occurring
+heavy ions that have lost several electrons
+thanks to the high temperature there.
+Some of these ions are found in that special
+higher-energy quantum state.
+What makes the special state special is some
+atoms can easily enter via collisions, but
+it’s a one way trip because the normal transitions
+back to lower energy are forbidden quantum
+transitions.
+De-excitation from normal states is easy and
+fast, but de-excitation from this special
+state is rare, so these excited ions accumulate
+in the Sun’s corona.
+A concentration of such excited, but inhibited,
+particles is called a population inversion.
+This excited medium provides us with the powerful
+opportunity we need as it sets the stage for
+lasing, much like happens in a Helium-Neon
+laser, in which excited helium atoms transfer
+energy to neon atoms by colliding with them.
+Iron ions in the solar corona are already
+in this special excited state, all pumped
+up at 2 million Kelvin, trapped in that state
+and ready to lase.
+What do they need to enable lasing?
+Mirrors pointed at each other, mirrors of
+very high reflectivity at the wavelength of
+interest, such as a green light for iron,
+and as we said, we can make mirrors almost
+perfectly reflective at a specific wavelength
+these days.
+These mirrors need to be of high optical quality,
+very smooth, fairly large diameter, and positioned
+far enough apart to pass a beam between, through
+a small fraction of the solar corona... which
+is still a large volume.
+So put them in orbits at the same altitude
+above the Sun, or any other star, but positioned
+so the star is almost between the mirrors…
+just off to one side.
+Point the mirrors at each other and wait a
+bit.
+Spontaneous emission does occur, rarely, despite
+the forbidden transition.
+When such a photon happens to come from between
+the mirrors and be directed at one, it will
+begin to bounce back and forth.
+As it does, it will encounter excited ions
+like the one that emitted it, and will stimulate
+them to emit as well.
+These new photons will be emitted in the same
+direction and with the same phase as the incoming
+photon.
+This is the essence of Light Amplification
+by Stimulated Emission of Radiation, the LASER.
+After bouncing back and forth a few times,
+the resonating energy becomes quite large,
+nearly monochromatic, and mostly in-phase
+or coherent.
+A few additional components inside the laser
+cavity will make it very monochromatic and
+coherent.
+With good mirrors, the rays will be extremely
+parallel and will bounce many times.
+Rays which are not parallel will escape and
+no longer contribute to the laser’s resonant
+amplification.
+Nor will escaped rays subtract any more from
+the available energy.
+After a while, only parallel rays are being
+amplified.
+Stellaser mirrors are a bit of a technical
+challenge, but technology always improves
+when there is a goal and a motive.
+Use of large diameter mirrors eases some of
+the problems and makes it possible to keep
+a tight beam for a very long way.
+Huge volumes of solar corona means equally
+huge energies are stored there and the Stellaser
+taps into it, organizes it and unleashes that
+energy.
+We could make a small Stellaser with today’s
+technology.
+You could potentially be making these mirrors
+thousands of kilometers across, or putting
+thousands around the sun.
+You could also potentially use other substances
+besides iron as well, you’re not limited
+to that specific element and a green beam.
+This very simple design is also ideal for
+use in interstellar travel.
+We send in an advanced probe that arrives
+ahead of a larger interstellar vessel to construct
+a Stellaser before the other bigger ship arrives
+and use it to slow the ship down without fuel,
+as well as provide all the power would-be
+explorers or colonists might need.
+It could also be bootstrapped and expanded
+to assist a second wave of incoming ships
+moving far faster and carrying more cargo
+proportionally.
+So potentially these are just as useful for
+arriving at a distant solar system as helping
+you leave ours.
+Next time in the Outward Bound series we will
+do just that, and jump to Alpha Centauri,
+to discuss interstellar colonization concepts
+and the specific case of solar systems around
+binary stars, which has some interesting aspects,
+restrictions, and possibilities.
+Binary Stars have a lot of differences in
+how you colonize them than single star systems,
+and for that matter there’s a huge variation
+in how individuals ones behave.
+Their life cycles and how you go about utilizing
+them varies by a lot more than just how long
+they live and what color they are, and you
+need to adapt your colonization plans accordingly.
+As I explained at the start, we're still staying
+within the limits of known physical science
+in order to colonize the sun, and so this
+absurd sounding proposal is actually not that
+far-fetched.
+If you want to understand the scientific possibilities
+and limitations of modern space travel, then
+I recommend that you check out Brilliant.org.
+Their astronomy course provides you with the
+physics tools that astrophysicists use to
+understand the cosmos, the life cycles of
+stars, and the fate of the universe.
+Through active problem solving, you build
+up your frameworks to understand these concepts,
+instead of just memorizing formulas from a
+textbook.
+You can dive right in at whatever your skill
+level is and explore at your own pace.
+I can never overemphasize how handy that math
+and science skill-set is to have in your mental
+toolbox, and Brilliant is a great place to
+get started.
+To support the channel and learn more about
+Brilliant, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription.
+That’s the subscription I’ve been using
+to explore their multitude of thought-provoking
+puzzles.
+Next week we’ll come back to Earth and consider
+how we might evacuate our planet if some disaster
+was going to render it uninhabitable, and
+look at everything from the most basic ways
+to save some remnant of our civilization up
+to moving the whole ecology of our planet
+elsewhere in Evacuation: Earth.
+And the week after will be joined by Astrophysicist
+Paul Sutter to examine many of the various
+theories for however the Universe might end.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching and have a great week!

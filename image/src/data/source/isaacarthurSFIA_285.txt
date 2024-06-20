@@ -1,0 +1,749 @@
+This Episode is brought to you by Hello Fresh!
+We always assume alien civilizations simply
+grow with time, sprawling out across the galaxy,
+or else shrink and wither away.
+But what if they shrink in size, not in stature?
+So today we are returning to the topic of
+the Fermi Paradox, the problem of rectifying
+the apparent absence of alien civilizations
+with a Universe so ancient and enormous it
+seems like it should be teeming with a trillion
+interstellar empires.
+And one of the key concepts to the Paradox
+is the idea that colonizing other worlds and
+star systems should be possible and practical
+and something that appeals to many species
+who have the same basic imperatives that we
+have and that life on Earth generally has
+– to expand and explore and grow.
+So the paradox always comes down to trying
+to account for why this has not happened for
+others, which might involve explaining why
+life is rare, or acknowledging that it might
+be out there but we’ve somehow missed detecting
+it.
+Generally the reasons why are that we would
+expect intelligent life to be rare or short
+in duration, which fall under the Great Filters,
+or else that they are not rare but are hard
+to detect, which falls to SETI, the astronomical
+Search for ExtraTerrestrial Intelligence,
+and finally why it might hide from us or ignore
+us.
+And regardless of their subcategories, most
+of our answers in this case end up being somewhere
+in those three main ones, or a fusion of two.
+One of the common Fermi Paradox solutions
+folks ask me to discuss springs from Moore’s
+Law of Transistors, or the general tendency
+of computers to get smaller and smaller and
+yet more powerful.
+The general idea is that civilizations then
+would follow a similar pathway, getting more
+miniaturized, opting to grow yet doing so
+by needing less and less resources for each
+person.
+This solution has a number of problems we’ll
+get into, but from years of thinking and feedback
+on it, I suspect it might be a bit more plausible
+than I sometimes give it credit for.
+But of course, all of the Fermi Paradox solutions
+have some issues, ranging from relatively
+minor to multiple and gaping, to the point
+that I suspect some critical part of our modern
+perspective on the Universe must actually
+be wrong or somehow skewed.
+One of those notions is that life arises from
+common ancestry and, through a long series
+of mutations while under environmental pressure,
+diverges into different forms which share
+some common characteristics that emerge from
+repeated natural selection coin flipping.
+Principally, any trait that makes them more
+capable of survival or of protecting their
+own species or ecosystem, is going to persist
+in future generations more often than other
+traits.
+This is more or less what we’d call evolution,
+and its main focus, an emergent property of
+biology in its most general sense, so it’s
+something we expect to be somewhat universal.
+Because of this we assume a species has some
+drive toward betterment, and that even an
+intelligent one with science, technology,
+and abstract thoughts, still has this as their
+default end goal, even if they are aware of
+it consciously and able to resist it or dismiss
+it.
+That’s an important caveat, since by default
+we might expect any technological species
+to seek and colonize other worlds once they
+can do so practically.
+But we are also aware of the various pros
+and cons of that general strategy, and we
+also would be expected to seek the capability
+to alter our own minds and instincts.
+Which is to say, a technological species has
+to worry about addictions and pathological
+or maniacal behavior, and would seek the science
+and technology to manage those too, and such
+technologies probably let you switch off or
+dampen a specific motivation like the drive
+to explore or split the tribe to expand, for
+good or ill.
+So the default is a civilization seeking to
+colonize the stars but we can’t ignore that
+they, or some non-natural successor they made
+like artificial intelligence, might lack that
+motive.
+And the follow up on that is that while they
+probably would not be looking to remove all
+pioneer spirit or ambition, they might opt
+to dampen or redirect specific forms of it
+toward others, indeed we often do this already
+and it’s hardly new.
+And for today’s topic that redirection is
+the notion that we compact ourselves rather
+than expand ourselves, doing more with less,
+and thus still growing our numbers but through
+miniaturizing the individual.
+So if you need half the resources to support
+someone as you did a generation ago, then
+you could double your numbers, and use those
+new folks to help find a way to halve things
+again, letting you double again, and so on,
+ad infinitum.
+And that’s the first flaw on this; that
+it does require the miniaturization be ad
+infinitum, because the moment that you grow
+faster than you can miniaturize, you need
+more resources, and not all those resources
+are infinitely reusable, getting expended.
+What’s more, finding ways to grow more food
+on less land presumably has its limits.
+Now this is where the computer angle comes
+in because the assumption is that we can upload
+our minds to computers or create progeny and
+civilization built on computers, possibly
+living in virtual worlds.
+And these virtual worlds offer far more variety
+than we expect the actual Universe to have.
+So the basic reasoning is that a humanity
+– or post-human successor or aliens – opt
+to create vastly more efficient and compact,
+but also more interesting, virtual worlds
+to live in.
+And there is a certain tendency to assume
+Moore’s Law about computer improvements
+would continue indefinitely.
+Even about 5-10 years ago, many of those futurist
+minded folks I tended to discuss these concepts
+with were often very resistant to any implication
+that there was a limit to how long we could
+keep doubling processor speed every couple
+years or a hard limit on how compact computers
+could get.
+This has waned a bit, we’re hitting the
+hazy limit of what a silicon semiconductor
+transistor can be compacted into, just a few
+atoms in size, as we brush close to the edge
+of Quantum Uncertainties.
+At the same time desktop computers aren’t
+really improving as fast as they used to and
+folks don’t seem quite as emphatic about
+Moore’s Law being eternal.
+So in the last few years I have noticed I
+actually get far fewer arguments for eternal
+miniaturization as a Fermi Paradox solution.
+But some modify this by fairly pointing out
+that the level of miniaturization you could
+do is probably finite, but the amount of available
+Universe to colonize presumably is finite
+too.
+So too, while miniaturization options may
+be infinite, as may the Universe, your ability
+to get to new bits of it is a factor to consider.
+The Universe may be infinite, but if you can
+only get to 10% more new systems in a given
+generation, that’s all you can grow.
+And the same limitation applies to miniaturization;
+if you only get 1% more miniaturized in a
+period, but grew 2%, that’s not sustainable.
+And indeed, likely neither rate is sustainable
+since resources do get used up.
+Even the stars die.
+Entropy slowly eats away at your gain, so
+that even though you could support X number
+of people now, tomorrow, the numbers you could
+support would be reduced just a little bit,
+and a bit more the day after, unless you either
+got more efficient or got more resources.
+You have to keep getting new resources, and
+growing that way, or miniaturizing, not just
+to permit new growth of your people, but just
+to keep from declining.
+So the other objection, and the one I usually
+raise, is the Either-Or issue.
+Which is to say that there’s nothing stopping
+you from doing both strategies, go colonize
+new worlds while finding out better ways to
+use what you already have.
+Given that some options will appeal to some
+people – or aliens or AI – more than to
+others, you presumably will have volunteers
+seeking to devote their efforts to both paths
+and all the subcategories of each and hybrids
+of both.
+Assuming you have not classified such people
+as insane and sought to treat them, which
+is very possible, and a point we’ll come
+back to later.
+Now a civilization might not care about growing,
+and indeed might object to it.
+To a high-tech civilization, every new mouth
+to feed might be an eternal one too, as methods
+of life-extension might make the idea of growing
+old and dying a thing of the past, especially
+for digital civilization living in virtual
+worlds on computers.
+To an individual lost in virtual empires of
+their own making, potentially existing in
+those for untold centuries, most of what drives
+us to unity as a culture and species goes
+away, such as desiring offspring in spite
+of them competing with us for limited resources
+and influence.
+One might ask if there is any inherent value
+to increasing your numbers, and post-biological
+organisms with no overriding hormones or any
+fear of death by old age might think the answer
+is “No”.
+And this is where we get two problems with
+our normal perspective on this.
+The first is that a virtual civilization living
+in a billion private paradises probably isn’t
+very good at running a civilization anymore,
+and we have examined that concern before and
+may give the topic of virtual reality or neurohacking
+possibly wrecking civilization, their own
+episodes, but for today we’ll raise our
+usual main rebuttal on that.
+Any civilization capable of building hyper-realistic
+virtual realities populated with virtual characters
+who do even an okay-ish job at mimicking human
+behavior, and thus is attractive to most humans
+as an alternative to living in the real world,
+can also build ultra-good robots capable of
+colonizing space or harvesting space resources.
+We’ll return to that point later too but
+the other problem is that purely digital or
+mind-augmented humans who are featured in
+most virtual or digital civilization scenarios
+are not necessarily experiencing time at the
+same rate we do.
+Indeed as we’ve discussed in our post-human
+and cyborg episodes, they are likely to experience
+variable time.
+Think of them as having processors and fuel
+as their brains and how fast they run them
+is how fast time passes for them, in terms
+of thinking, as compared to in the outside
+Universe, and of course if your whole existence
+is digital in a digital world, that essentially
+means time passes at whatever rate you choose
+at the time.
+This will be bound by many factors, and one
+is that it is generally cheaper to run slower,
+using less energy to calculate the same things
+– or have the same thoughts – at a slower
+rate.
+This is the notion behind the Black Hole Farmers
+we discuss in our Civilizations at the End
+of Time Series.
+But speed, while less efficient, has many
+advantages, especially if competing for finite
+resources, or if your resources spoil, or
+your machinery decays with time, or you have
+a certain baseline where slower isn’t much
+better.
+And for digital critters mimicking human intellect
+on a computer, odds are good this would be
+a lot faster than we experience.
+So the notion is that if you think 100 times
+faster than a normal human, you experience
+about 2 years worth of thought in a week,
+and a week of normal thought in a couple hours.
+But this also means you experience a 40 year
+journey to another solar system at a fraction
+of light speed as 4000 years.
+Now the upside of being such a being is that
+you can slow your time down too, so as to
+exist for centuries while only experiencing
+a few years – and in point of fact we usually
+assume slowing or speeding of subjective awareness
+for transhumans and digital consciousnesses
+– what we call frame-jacking – could be
+occurring millions of times faster or slower
+than normal times, not hundreds.
+So this would seem to advantage such civilizations
+at finding colonists and running interstellar
+civilizations.
+Those travelers can experience the journey
+at whatever rate they want, presumably even
+totally frozen.
+Indeed they can experience it at normal time
+or sped up time if they like, given that they
+might already live on a computer in a simulated
+reality, some or all of the time.
+They make this voyage partially for curiosity,
+but also because a virgin solar system offers
+them virtually unlimited resources to continue
+their own existence.
+And indeed that is the case and what’s also
+the case is that they might be able to make
+such journeys at light speed by being sent
+as a radio or laser signal of data, and so
+too, a small number of colonists can be copied
+millions of times to produce colonies if needed.
+Indeed given that such civilizations might
+number in the quadrillions back here on or
+near Earth, and that copied minds diverge
+from the originals and each other, you should
+have little problem finding billions of volunteers
+and even a few thousand volunteers should
+give you a multiplicity of qualified candidates
+for every necessary slot, especially given
+that they might be superhumanly intelligent
+and nigh immortal, which makes them likely
+to be skilled at many things.
+Consider, if a copied mind diverges, then
+a pool of a thousand randomly selected colonists
+from a pool of ten thousand, even cutting
+that down to be random only from specific
+candidates, like one biologist selected from
+five available, offers more potential combinations
+and permutations of colonists than stars in
+this galaxy.
+And divergence of personalities from different
+combinations of friends and coworkers, and
+different planets with different challenges,
+would ensure those folks had very little in
+common with their clones a thousand light
+years away and thousands of years diverged.
+I should probably note though that we’re
+assuming their civilization does have outlier
+folks who want to colonize.
+They might not.
+One case makes a pretty good argument that
+our civilization’s pioneers and inventors
+and researchers are all outliers, maybe even
+crazy, and I’ve heard the analogy that a
+lot of our civilization’s achievement is
+achieved by encouraging and yoking our obsessive
+workaholics.
+This episode isn’t on the Pareto Principle
+or its psychological variant for human productivity,
+Price’s Law, but if it were true that a
+lot of a civilization’s forward momentum
+creatively and scientifically was being driven
+by a relative minority of folks who are rather
+atypical in motivation and drive, to the point
+of being obsessive or maniacal about some
+pursuit like exploring or scientific research
+or writing or art and so on, a sufficiently
+advanced civilization probably has the ability
+to ‘fix’ that behavior and might feel
+morally obliged to.
+They may not want to make gains by what they
+saw as the neglectful abuse of some members
+for a reason akin to why we dislike dangerous
+testing on humans even when doing so might
+save many more lives.
+Bit of a tangent and not one unique to miniaturizing
+civilizations, but such miniaturization is
+inherently based on altering human minds by
+at least shifting them to some other substrate
+besides a meat-brain, like semiconductors,
+so given their embracing that option, mind
+alteration of an extensive thing is likely
+to be something they are very good at and
+more open to doing.
+We have to acknowledge then that such a civilization
+has the ability to colonize the galaxy or
+harvest it with ease.
+Now one concern with a society of individuals
+or small groups in a vast Dyson Swarm of computer
+realities around our Sun, is that they really
+have no personal motivation to go to those
+new systems.
+Whatever science fiction shows us, worlds
+out in the galaxy will have a certain boring
+sameness, if they’re all uninhabited dead
+rocks when we get there, compared to endless
+virtual worlds of our creation.
+Curiosity isn’t a bad reason to send probes,
+but mostly you send out harvesters to bring
+back more resources for building and fueling
+more virtual worlds or for fueling them longer
+or faster.
+Speed can still matter though and partially
+because competition might be in play.
+I don’t think the future of post-humans
+in virtual worlds is necessarily a trillion
+people ruling over their own personal world
+of simulated citizens as petty god-kings,
+but in such a scenario if you did have folks
+harvesting resources from many stars away
+and bringing them back, you might find it
+easier to pirate them instead of sending your
+own harvesters.
+On the other side of things, folks might decide
+the best way to run their personal universe
+was to pack themselves, their computers, and
+some resources up and fly off to the frontier
+to claim a whole star for themselves.
+Key notion is that in both cases, nobody is
+really interested in their neighbors as cohesive
+civilizations, just threats, rivals, and targets
+for predation.
+And in one where folks are motivated because
+of a fondness for that civilization, you’re
+asking them to head out to space where they
+will miss out on participating in that civilization,
+and be delayed on a lot of their civilization’s
+experiences and events, including their friends
+and family.
+The reality is that their ability to slow
+time to skip a boring journey or losing life
+is no real advantage, they’re functionally
+immortal if they’re digital and their personal
+utopia is mobile too, it’s just their interactions
+with others they are losing by traveling,
+but to them it matters.
+And to them, the lag is probably more brutal.
+The civilization they love is a thousand light
+years away, every message a thousand years
+old, but everybody at home is experiencing
+time a thousand times faster and so they’re
+a million years behind.
+This is a miniaturized civilization too, smaller
+is faster.
+By default an organism that is otherwise identical
+but a tenth the size reacts and moves and
+experiences things ten times faster.
+In a realm of tiny fairies and Lilliputians,
+a centimeter tall for every meter a human
+is, with tiny nerve connections a hundred
+times closer, with arms that only need to
+cover a fraction of the distance to move and
+can receive and send nerve signals in a hundredth
+the time, reality just moves faster.
+Though of course this assumes they can compact
+as much brain into a small space, but that’s
+the advantage of brains made of semiconductors
+not meat brains of neurons, or maybe something
+else even better at compaction than semiconductors.
+So how miniaturized and faster is a digital
+empire?
+Consider, our default Dyson Swarm or Kardashev-2
+civilization for those who’ve opted for
+miniaturization and digitization is what we
+call a Matryoshka Brain, essentially where
+a whole star is devoted to computation.
+Such a device is essentially one where all
+the light of the Sun is turned into thought
+as efficiently as possible, and the upper
+limit for that is what we call Landauer’s
+Limit, and it is actually about lower limits,
+which is to say, lower operating temperatures
+are better, a tenth the temperature, ten times
+the efficiency of converting energy into thought.
+This is where the Matryoshka part comes in,
+referencing the many dolls nested inside bigger
+dolls of the Matryoshka Doll.
+Here we have inner layers that are very hot
+and energetic, shells of energy collectors
+close to the sun, surrounding it and computing
+and radiating off waste heat at lower frequencies
+and temperatures to be reabsorbed by the next
+layer around, which repeats the process, probably
+at half the temperature or less, but resulting
+in some number of layers or shells around
+the Sun between maybe 1000 Kelvin, in closer
+than Mercury is, to perhaps 10 Kelvin, well
+out past Pluto.
+These need not be discrete layers either,
+rather it’s probably swarms of objects ever
+further from the star at a density that results
+in the equivalent of layers.
+Closer to the star, you think faster but inefficiently,
+and your neighbors are close and fast to talk
+to, further out they are slower but more efficient,
+with your neighbors further away and with
+you needing to run slow to let your switches
+cool between flipping.
+It takes a lot longer to cool from 110 Kelvin
+to 100 Kelvin than from 1010 Kelvin to 1000
+Kelvin.
+All right, let’s run the numbers for two
+of those layers real quick, one at Earth Temperature,
+293 Kelvin, and one at a bit under Pluto’s,
+29.3 Kelvin.
+We usually assume a human mind emulated on
+a computer could run at about ten microwatts
+of power at that level of efficiency at Earth
+Room temp, and that other one, at a tenth
+the temperature, would do it ten times more
+efficiently, a single microwatt, obviously
+those are very loose figures.
+The Sun gives off 4x10^26 Watts, so the Earth
+Temperature Layer is capable of simulating
+4x10^31 people – 40 million-trillion-trillion
+people.
+The outer colder layer is capable of doing
+400-million-trillion-trillion folks.
+Now they might be running a hundred times
+faster than us and be 100 times less numerous,
+but let’s keep to human normal intelligence
+and speed for the moment.
+What’s this look like?
+Well, if we think of these as actual shells
+divided into solar panels and processing chunks,
+then if divided into pieces creating digital
+people with the human-norms for thinking speed
+and intellect, then that inner sphere, about
+an AU in radius, is divided so that each individual
+square meter of that shell is home to 100
+million digital people, each fingernail-sized
+area of a square centimeter, home to 10,000
+people.
+Incidentally that outer shell at a tenth the
+temperature is a hundred times further from
+the Sun and 100 squared or 10,000 times bigger,
+though ten times more efficient, on the same
+amount of power even if it’s red-shifted
+much cooler.
+Hence ten times as many people on 10,000 times
+more surface, a thousand times less dense,
+but that’s still 10 people per fingernail-sized
+spot.
+Now that means communication times at light
+speed with your nearest ten billion neighbors
+are basically nothing, much like it is here
+and now for the 8 billion of us here, not
+even a tenth of a second of round-trip communication
+anywhere on Earth.
+For these folks in the low density outer shell,
+10 billion are in a spot only about 30 meters
+across, and light doesn’t need a tenth of
+a second to cover that distance, it needs
+a ten millionth of a second.
+Let's instead say everyone is operating a
+thousand times faster though, here on this
+slow outer shell.
+Now the population density drops a thousand-fold
+to 100 per square meter, and your nearest
+ten billion neighbors takes up an area of
+a square kilometer.
+Signals back and forth take microseconds but
+to you they feel like milliseconds.
+This is still fine, you can communicate with
+an entire world of people at speeds faster
+than you can really talk, even subjectively
+frame-jacked up.
+Let’s scale again, a million times faster
+thinking.
+A population density of 10 meters per person
+now, a small room-sized area – though only
+out here, far past Pluto, in that inner shell
+near Earth the real estate at a million fold
+thinking is still putting folks into spaces
+measured in centimeters, 100 per square meter,
+what we looked at in our last example, only
+they speak to each other in microseconds but
+since they experience time a million times
+faster, this is about human speed now.
+We’ve reached equilibrium of modern Earth
+communication times among modern Earth population,
+with a layer in which you have 40-trillion-trillion
+people living a million times faster than
+we do… which also means the folks living
+on the other side of that shell, over a thousand
+light seconds away, but experiencing time
+a million times faster, hear messages from
+you at what feel likes a billion light seconds
+–or about 30 years – which is to say,
+they have the same kind of communication lag
+time, subjectively, that we would have with
+neighboring stars.
+But back here past Pluto though, that means
+your ten billion nearest neighbors now occupy
+a space of 100 billion square meters, that’s
+the area of a square over 300 kilometers per
+side, where light takes a about a millisecond
+to carry messages around, but to you a millisecond
+is a thousand subjective seconds, and you’ve
+got lag times of minutes in conversations
+like if you were on the phone with folks on
+Mars or Venus.
+Alternatively, folks on the other side of
+this outer shell are having conversations
+with their distant neighbors taking thousands
+of subjective years, since it’s 100 times
+wider than the inner shell we just discussed.
+They are still squeezing 400 trillion-trillion
+people into this layer, an entire galactic
+supercluster worth of traditionally colonized
+planets, so the idea that conversations with
+others in the far edge of their sphere might
+take thousands of years instead of hundreds
+of millions for a supercluster is still better.
+Now odds are good many of these folks would
+feel no need for live conversation with billions
+of near neighbors either, let alone those
+insanely huge numbers we discussed, but if
+they do, slowing down to have real time chat
+with those further away might feel like taking
+a long trip away from friends and family,
+and regardless, we would assume folks would
+gravitate to the place that allowed them the
+best optimization of cost of energy per thought,
+speed of thought, and social inter-connectivity,
+depending on their preferences.
+This was also the extreme upper case of efficiency
+under known physics, it’s probably lower.
+Also, thinking more and thinking faster aren’t
+necessarily the same thing, ten times more
+brain power but running at normal experiential
+rates might be the norm too.
+The takeaway though is that outer layers have
+very different economics and civilizations
+than inner layers.
+Sort of like urban versus rural, the compact
+areas, or hotter areas, are more expensive
+to live in, but more desirable real estate
+in many ways.
+Critical notion though is that we were seeing
+an optimization probably hitting somewhere
+on the fast side of a thousand times normal
+thinking speed, so for these miniaturized
+civilizations, interstellar space and its
+lag times for travel and communication become
+that much worse.
+We said they can cram an entire galactic supercluster’s
+population into one solar system fueled by
+a single tiny star, but to them the interstellar
+distances between stars, in terms of subjective
+time experienced, feel like intergalactic
+distances.
+Giant tiny empires in a Dyson Swarm, worlds
+worth of people in spaces the size of buildings,
+not planets, and possibly each of those people
+enjoying simulated worlds all of their own.
+And if they are experiencing life a million
+times faster than we do, that colony ship
+to Alpha Centauri that’s going to take a
+few decades to arrive, and a century or more
+before any resources might come home, is an
+investment taking 100 million personal years
+to pay off.
+Nonetheless I think they still would colonize
+or resource harvest, but they might be much
+more restrained in how far they’d go.
+Yet they should still wish to expand.
+So I still don’t feel this option of miniaturization
+works solidly as a Fermi Paradox solution,
+this realm of tiny little giants living at
+superspeeds, but it is a much stronger argument
+on contemplation than it seems on initial
+inspection.
+And it’s certainly a fascinating contemplation,
+and perhaps worth remembering that if those
+folks living a million times faster were watching
+this video now, for them it would have seemed
+to take several decades to play, an entire
+natural human lifetime.
+So as we’re moving into the holiday season
+it tends to be a great time for both doing
+some cooking and spending time with friends
+and family and and my wife Sarah and I tend
+to do a lot of cooking together and have friends
+over a lot, and one of the things I love about
+Hello Fresh is that it’s always been recipes
+neither of us has made before so it switches
+things up a bit.
+That’s especially nice right right after
+Thanksgiving if you’ve been working through
+lots of leftovers.
+And with all the running around in life, especially
+at holiday season, it really is nice just
+to get the entire recipe delivered to you
+with everything you need fresh off the farm,
+pre-measured and the instructions easily laid
+out to make the meal.
+The recipe cards are perfect for it and I
+was joking with a couple other creators who
+also do Hello Fresh about the growing folder
+of those recipe cards we all seem to be collecting,
+and they offer 50 menu and market items to
+choose from every week, include tons of seasonal
+options, and I lost count of how many recipes
+they had on their website, including plenty
+of gourmet, vegetarian, and calorie-smart
+options.
+That includes Quick & Easy options for 20
+minute-meals and easy cleanup, and they put
+a real focus on minimizing waste and using
+recycled shipping materials as part of their
+goal for maximizing sustainability.
+So you can get the food to your door while
+minimizing waste.
+And they can also ship to your friend’s
+door too, and your friends will enjoy receiving
+the Hello Fresh box a lot more than the usual
+gift basket of cheese and sausage, and the
+recipes are also great for entertaining and
+having guests over for dinner.
+With the giant selection, easy instructions,
+and straight to your door fresh ingredients,
+it’s no wonder Hello Fresh has more five
+star reviews than any other meal kit, and
+you can try them out today, just go to HelloFresh
+dot com and use code “ISAACARTHUR14” to
+get 14 free meals AND 3 free gifts! plus free
+shipping!
+Eat fresh, eat healthy, eat variety, and eat
+sustainably, and again you can try it out
+for free today, just go to HelloFresh dot
+com and use code “ISAACARTHUR14”.
+So we’re into December now and next week
+we will look at Upcoming Advances in Material
+Science on December 9th.
+Then we’ll have our Scifi Sunday episode
+on December 12th to look at folks staking
+and jumping claims on asteroid mines and similar.
+Then we’ll move on to a discussion of Vertical
+Farming, the technology that may let us nourish
+many billions of people while keeping our
+planet pristine.
+Then we’ll take a look at Escaping the Galaxy
+the week after that, if we need to get away
+from someone who has blown up our planet,
+before closing out the month and the year
+with a look at the Challenges we will be facing
+in the next 100 years.
+Now if you want to make sure you get notified
+when those episodes come out, make sure subscribe
+to the channel, and if you enjoyed the episode,
+don’t forget to hit the like button and
+share it with others.
+If you’d like to help support future episodes,
+you can donate to us on Patreon, or our website,
+IsaacArthur.net, and patreon and our website
+are linked in the episode description below,
+along with all of our various social media
+forums where you can get updates and chat
+with others about the concepts in the episodes
+and many other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!

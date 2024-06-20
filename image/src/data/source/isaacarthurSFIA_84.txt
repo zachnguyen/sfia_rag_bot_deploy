@@ -1,0 +1,649 @@
+In the past, we had entire civilizations 
+devoted to agriculture, but in the future,  
+we might have entire planets devoted to it.
+ 
+As the harvest season wraps up for those of  
+us in the northern hemisphere for 2023, I thought 
+it might be a good time to examine the concept of  
+Agriworlds, entire planets dedicated to growing 
+food inside larger galactic empires, such as the  
+twenty dedicated farming planets that supported 
+the Imperial Capital of Trantor in Isaac Asimov’s  
+Foundation series, or the far more dystopian 
+agri-worlds of the Warhammer 40,000 setting. 
+So we will look at this concept, what farming 
+might look like in such vast civilizations,  
+and ask if there is a scientifically plausible 
+scenario where an entire planet might export  
+food to another world, and if so, what kinds? 
+As well as asking what role space farms might  
+have in the future and what they might look like.
+These planets are ubiquitous in science fiction  
+but often covered only in passing, the literary 
+equivalent of driving through the cornfields  
+of Indiana or the endless plains of wheat 
+stretching from Oklahoma and Kansas through  
+to Alberta and Saskatchewan. I’ve only seen 
+one description longer than a few sentences,  
+in Chris Wraight’s novel Lords of Silence, one 
+of my favorite authors from the Black Library,  
+and it’s decidedly darker than the worlds 
+we’ll discuss today, but I’ll read an abridged  
+excerpt of it now, discussing the creation and 
+tending of an Agri-world, Najan specifically,  
+but they’re all basically the same, and it 
+is the passage that inspired today’s episode. 
+“After discovery of a candidate planet, the first 
+fifty years are spent in terraforming according to  
+well-worn Martian procedures. All pre-existing 
+life is scrubbed from the rocks, […] Weather,  
+at least as generally understood, disappears. 
+Rainfall becomes a matter of controlled timing,  
+governed by satellites in low orbit and kept in 
+line by fleets of dirigibles. The empty landscape  
+is divided up into colossal production zones, 
+each patrolled by crawlers and pest-thopters. […] 
+Soon after this process completes, every 
+agri world looks exactly the same – a flat,  
+wind-rummaged plain of high-yield crops swaying 
+towards the empty horizon. A person could walk for  
+days and never see a distinctive feature. Not 
+that anyone sane would choose to walk in such  
+places – the industrial fertiliser dumps are so 
+powerful that they turn the air orange and make  
+it impossible to breathe unfiltered. A single 
+growing season exhausts the soil completely,  
+requiring continual delivery of more sprays of 
+nitrates and phosphates, […] The entire world  
+is given over to a remorseless monoculture, 
+with orthogonal drainage channels burning  
+with chem-residue and topsoil continually 
+degrading into flimsier and flimsier dust. 
+But that doesn’t matter. A planet can be 
+driven like this for thousands of years before  
+it eventually keels over and becomes a death 
+world. […] At the end of every season, the great  
+harvester leviathans are stoked up and dragged 
+from their pens and let loose on the grey fields,  
+smokestacks belching and tracked under­carriages 
+sinking deep. These massive creatures of  
+high-sided metal and intricate pipework, the 
+smallest of which are a hundred metres long,  
+crawl across the blasted prairies, sucking up 
+every last speck of pallid grain and piping it  
+directly to antiseptic internal hoppers. 
+Feed-landers come down from high flight,  
+dock with the still-trundling leviathans and 
+extract the raw material, from where it is  
+taken into the city-sized processor vats, 
+blasted with antibiotics, smashed, burned,  
+crushed, then stamped and packaged. Once ready for 
+transport, containers are dragged up into orbit  
+aboard swell-bellied landers, ready for transfer 
+to the void-bound mass conveyers, which deliver  
+the refined product to every starving hive 
+world and forge world in their long circuits. 
+There is a quaint tradition […] of marketing agri 
+worlds as quasi-paradises, free of the squalor and  
+overcrowding of a standard urban station, 
+and full of bucolic ease. […] In reality,  
+life on an agri world is as unrelenting, 
+back-breaking and monotonous as the vast  
+majority of other Imperial vocations. 
+There are no trees laden with glossy fruit,  
+only kilometre after kilometre of hissing corn. 
+There are no gentle strolls under the warming sun,  
+only punishing work details in rad-suits, leaning 
+into the dust-laden winds that howl around the  
+equator with nothing to halt their rampage. Once 
+the new arrivals have made planetfall and found  
+this out, it is too late. Crew transports arrive 
+on agri worlds full and leave empty. There is a  
+saying among the indentured workers – you 
+come for the soil, you end up part of it.” 
+And again that was from Chris Wraight’s novel 
+Lords of Silence, and listening to the unabridged  
+audio of that passage from that book made me want 
+to examine this topic and ask a few questions.  
+First, why would you monocrop a whole planet, 
+and I don’t mean that as a rhetorical question.  
+Second, could you plausibly transport foods 
+between planets, or even between stars in a  
+no-FTL Universe, and if so, what limitations 
+or technologies are needed. And third,  
+would it actually be profitable to burn a world 
+out that way? Because while it sounds loathsome,  
+we can always imagine someone doing 
+it if it truly were more efficient. 
+So, for the first one, the answer is mostly 
+no but it depends. There’s a reason why we do  
+crop rotation, quite a lot of them. Up near me the 
+majority of farms grow soybean one year and corn  
+the next, this replenishes the nitrogen and helps 
+with pest and disease carrying over in the soil,  
+and is fairly sustainable though not without some 
+caveats, the big one usually discussed the days  
+being glyphosate, or roundup, for keeping weeds 
+down. Corn and soybean are not the only things  
+grown locally of course, my area has a lot of 
+apple orchards and vineyards. We do hay on my  
+own farm, and you don’t need to rotate that, 
+though it is usually a mix of plants anyway,  
+such as clover for nitrogen. Growing 
+grass is trickier than it sounds like. 
+Other areas do other rotations, but corn, 
+soybeans, and wheat were very common monocrops,  
+and monocropping is where you just keep growing 
+the same thing on the same land year after year  
+till depletion occurs, and in their case on the 
+grounds that they are crops that produce a lot  
+of calories per acre, or hectare, and with very 
+little manpower per calorie produced this way,  
+and in a foodstuff that’s very easy to 
+transport and store for a long time.  
+Intercropping is where you’re growing two 
+or more crops in the same field together,  
+and overlaps with the concept of polyculture. 
+Monoculture is having a single crop in a spot  
+at a given time, so includes crop rotation, 
+where monocropping is always the same plant,  
+in the same place, by itself, year after year.
+Rotating corn and soy is usually better than  
+monocropping it, and a lot of fertile river 
+valleys could grow a crop over and over because  
+the flood every year replenished nutrients. The 
+upside of monocropping is that it lets you really  
+specialize, you only need the equipment for one 
+crop, only need to learn and master one crop, only  
+need to be an expert in its diseases and pests, 
+and so on. We’ve all been raised to think of  
+monocropping as bad, but we do need to be mindful 
+that it has big advantages, and that we don’t tend  
+to think of retooling a factory every season to 
+produce a different product because it wouldn’t  
+tend to make sense. Almost every other industry 
+does the equivalent of monocropping so we should  
+be mindful that it does have some advantages.
+It has tons of disadvantages too, but the whole  
+point of technology is to let you have your 
+cake and eat it too, and odds are good a lot  
+of monocropping problems can be addressed 
+via technology. If you’re wizards at pest  
+and disease control, it’s not a problem, if you 
+have easy access to the mineral form of whatever  
+you’re depleting, like phosphorus, or have huge 
+fusions plants churning out ammonia fertilizer,  
+then it’s not a problem. If you’re real 
+wizards at genetics, then you might have  
+put nitrogen fixing genes into some plant 
+that normally depletes nitrogen, and so on. 
+We could imagine some masters of genetic 
+engineering had designed a plant with all  
+black leaves that ate every bit of sun that 
+came down on it, perhaps even near-infrared,  
+and was perennial and ever-bearing, and robotic 
+drones came by and harvested the fruit or seed  
+and clipped it or dead-headed it as needed 
+so that some seasonless world was constantly  
+under-production. That’s a pretty bleak sounding 
+place though it probably wouldn’t be a uniform  
+shade of total black and I can’t see any reason 
+why you would need to flatten the terrain. 
+One exception might be an existing flat terrain. 
+Some years back in our ocean worlds episode we  
+defined a number of types of ocean dominated 
+planets and one example we gave was what I  
+called an Epipelagic Planet. The epipelagic zone 
+on Earth is that first zone where sunlight can  
+penetrate to, around a hundred meters or yards 
+down. And you could have low-tectonic planets with  
+faster rotations or just older planets where the 
+mountains were all worn down. The mountains are  
+not eternal and only active tectonics would keep 
+a planet from flattening over time, then the water  
+would sit on top of that. Indeed, I would imagine 
+most Earth-like planets around orange dwarf stars,  
+left to themselves, would eventually become 
+entirely oceanic, perhaps just dotted by a  
+few archipelagos, and then as the water slowly 
+evaporated to space as that star aged and heated,  
+you would have a time where it was not very 
+deep in most places. Everything flattens out,  
+and such a planet might be an awesome place 
+for certain monocrops like rice or seaweed. 
+That’s also a good reminder that algae 
+and seaweed and fish are things you can  
+farm just as intensely as corn and wheat 
+and chickens. We’ll come back to that but  
+it’s worth remembering that if we’re working 
+with existing plants and critters then you are  
+always going to have some polyculture even if 
+it’s non-obvious. You will have indigestible  
+bits of food – to humans anyway – that you can 
+feed pigs, cows, or chickens – and any number  
+of insects aerating soil, who may or may not 
+be needed for pollination too. Though again,  
+technology opens a lot of doors that would seem 
+nonviable under normal agricultural practices. 
+Let’s contemplate production 
+and population for a bit. 
+First, we can assume a planet focused on 
+agriculture is probably using about half its labor  
+force for that and is at least as productive per 
+person as modern agriculture in the US is. As of  
+2020 a thousand acre wheat farm generally needed 
+8 workers and produced 44,000 bushels of wheat,  
+which was low compared to the year before 
+or after, and it takes about 12 bushels to  
+provide the calories for a typical human adult as 
+their sole source of calories. So each worker was  
+producing enough food for a bit under 500 people 
+and on 125 acres, or 4 people fed per acre.  
+Earth in total, every bit of land, sea, ice, and 
+mountain, is about 125 billion acres so we could  
+be talking 500 billion people being fed off that.
+And before you go ‘wait a minute!’ about the  
+inclusion of tundra and sea, keep in mind wheat 
+is not a calorie dense crop by acre. Soy does  
+about the same but corn does about twice as many 
+calories per acre and potatoes thrice as many,  
+though all those numbers vary a lot. Algae can do 
+far better and use saltwater to boot. And while it  
+would seem like you would be planting these 
+based on both available climate and demand,  
+it is worth noting you could monocrop an entire 
+planet by using domes and that often terraforming  
+a planet is going to involve them anyway. 
+We might imagine a planet sized greenhouse,  
+what we call a worldhouse, to ensure some barren 
+planet was transmuted into some titan of industry,  
+to make all the gear for terraforming, then turned 
+to agriculture, churning out enough food to feed a  
+few trillion people a year, factories to farms, 
+rather than the other way around. And since it  
+would be many big domes, not one single enormous 
+one, that allows superior climate control, erosion  
+prevention, water retention, and huge advantages 
+at preventing the spread of pest and disease. 
+Again I wouldn’t expect them to monocrop but 
+we’re seeing how they might if they wanted to,  
+especially as they could pump heat around 
+that planet via vast cistern aqueducts too,  
+to cool and hydrate deserts while warming tundra 
+and desalinating water. This might be a preferred  
+approach to terraforming too, doming and mass 
+producing food as your way of paying for the  
+terraforming effort and as your population 
+grows you transition from farming planet to  
+regular one. And doming everything makes sense, 
+especially since most worlds would need a floor  
+put on to keep the potentially poisonous 
+surface layer of regolith separate from the  
+soil you were producing there from it by a lot 
+of treatment. In this way the planet is moving  
+not from Agriworld to barren Death World, but 
+rather to paradise planet. Indeed the default  
+order might be Death World to Forgeworld to 
+Agriworld to Paradise Planet and perhaps to  
+Ecumenpolis or Hive World after all that.
+But if we were assuming 500 people fed for  
+each farmer, and 125 acres tended by each, then 
+that implies that if every bit of land and sea  
+was farm, and our planet Earth-sized specifically, 
+that you would have only a billion farmers on the  
+whole thing. Now they have families and other 
+needs, they will still want restaurants and  
+schools and so on, but even if we assumed they 
+were fully 10 to 1 in terms of other workers  
+and kids to active farmers, I suspect future 
+automation would do much better than that. For  
+one thing, modern equipment already does, just 
+most farmers run on stuff a bit more dated and  
+often have other work they do. I am in no 
+way a full time farmer and my own tractor  
+is fairly new but a smaller and general purpose 
+one, rather than a large and specialized device,  
+with many specialized attachments. So a billion 
+people would probably be on the high side,  
+with them feeding well over a trillion, and 
+that would imply a population density of about  
+5 people a square mile or 2 a square kilometer, 
+with many living in floating homesteads on the  
+seas tending algae or other crops.
+Or fish, again we shouldn’t assume  
+monocropping or no other exports. But this 
+implies villages spread all over, probably  
+with populations in some single digit multiple of 
+Dunbar’s number, low hundreds to low thousands,  
+which are probably kept to the optimal size of 
+minimal travel time to field work and not needing  
+to replicate basic services too often, which is a 
+major background influence on rural towns in the  
+last century or two anyway. Is this place big 
+enough for its own school or church or library  
+or convenience store? If so, the land is probably 
+more expensive to farm, so it becomes a tradeoff. 
+This might be a case of mobile communities too, 
+not just the ones engaging in sea farming either.  
+As we discussed in mobile cities, the game 
+changes a lot if you’ve got plentiful energy,  
+like compact fusion reactors, because now you 
+can have a town rolling around on the landscape  
+on what might be a single massive harvester or 
+tiller. That tilling machine might have a big  
+fusion-powered Haber-Bosch reactor yanking air in 
+and spitting out ammonia fertilizer made from the  
+nitrogen and water in the air. Things like that 
+might move on some giant rail system with huge  
+crane arms on it too, and you don’t care about 
+soil erosion because it all ends up in some other  
+field eventually, even if it’s dredged up from the 
+ocean floor occasionally instead. Or maybe you’re  
+in huge dirigibles instead of land crawlers so you 
+don’t disturb the field and everyone works while  
+suspended from cables above, supplying them power 
+or water not just holding them above the field,  
+as individuals or on floating platforms or 
+modules. Which actually sounds kind of cool,  
+hanging in some harness while manipulating some 
+huge fertilizer hose or suspended harvesting rig. 
+Or your climate controlled domes might all be 
+supplemented with day light and heat and providing  
+wireless power transmission to the crop tending 
+drones. Such a dome, interwoven with microwave  
+receivers, could also absorb energy coming in from 
+orbital power satellites. And even without fusion,  
+a lot of these planets might add in supplemental 
+lighting via orbital mirror and dish arrays. So  
+if you want to grow oranges in Alaska, that’s 
+no problem if you don’t mind doing it inside an  
+insulated dome and having some extra lighting 
+provided by an orbital mirror or electric  
+powered LED lights. You can fine tune either for 
+photosynthetically optimized frequencies too. 
+So on 107 Piscium B, a roughly Venus sized planet 
+in orbit of that K1 orange dwarf star 25 light  
+years from Earth, they founded an agricultural 
+colony. The world had a decent amount of water,  
+mostly frozen, as it was further from its star 
+than would be classically habitable. That star is  
+old too, 2 billion years older than our own, and 
+the world had no real moon helping with tectonics,  
+so it wore down. The last volcanic eruption there 
+was about the time life crawled out of our seas.  
+It’s a very flat place, and while some agriworlds 
+counter this with fruit trees or hardwoods for  
+windbreaks, here they just dome everything over. 
+107 Piscium B has a very small axial tilt and  
+little seasonal variation. The entire planet is 
+domed over like bubble wrap with diamond-domes a  
+kilometer wide that got slowly added over 
+the centuries, and even over its oceans,  
+as the local air mix wasn’t breathable by humans.
+From higher up the planet looks honeycombed by  
+those domes, packed in hexagonal fashion, and 
+every 127 domes there’s a modest town instead  
+of a farm with a tether to an orbital ring at 
+which huge spaceships dock to carry cargo away.  
+The night sky is dotted with the orbital rings, 
+these spaceship leviathans, some kilometers long,  
+and the huge mirrors and power satellites shining 
+light and microwaves down. Some worlds focus on  
+mirrors that are filtered to send only red light 
+down to enhance that photosynthetically valuable  
+range of the spectrum, but this orange dwarf is 
+already heavy in that range so they just absorb  
+the infrared light to generate power they beam 
+down and reflect the visible spectrum to world  
+below, particularly the more polar latitudes.
+One of those cargo haulers, Grange-922,  
+contains 5 billion cubic meters of storage area 
+in its holds, and has over a thousand kilometers  
+of heavy transport rail internally to allow rapid 
+loading and unloading. Fully loaded, Grange-922  
+can carry as much as 4 trillion kilograms 
+of wheat, or 13.6 quadrillion kilocalories,  
+enough to feed 186 billion people for a year.
+Which begs the question of where this ship is  
+going, and if could you plausibly transport 
+foods between planets. And that’s tricky  
+question because usually what folks mean is 
+interstellar travel, transporting cargo between  
+two star systems light years apart. And that 
+can only ever be viable if we have FTL of some  
+sort. Now that’s all fine in science fiction, 
+and there you might have behemoth ships like  
+Grange-922 parking for loading and then traveling 
+through hyperspace or warp to another star. 
+Alternatively, they might have actual 
+wormholes like the stargate-style portal,  
+and just leave them open, with rail lines running 
+food to a distant capital world while others ran  
+back with cargos full of fertilizer fresh from 
+sewage planets. Or they might have sewage pipes  
+dump it right into oceans of some planet, 
+same as they might terraform a planet by  
+opening a gateway between an ocean planet and 
+a desert one and letting water drain between. 
+It's hard to imagine transporting it slower 
+than Light though, simply because even if you  
+had giant cheap stasis options – which you kind 
+of do with freezers being cheap to run ultra-cold  
+in interstellar space – it should always take 
+way more energy to move that food between star  
+systems than it would take to grow it locally 
+in some artificial space habitat and farm. 
+Now if those turned out to be impossible beyond a 
+certain scale then yes, this could still be done  
+in some very limited cases. Earth is likely 
+to be the most valuable bit of real estate in  
+the galaxy for millions of years to come and 
+the one where an awful lot of the science,  
+technology, and finance runs through. They may 
+very well expect colonies to pay them for those  
+valuable assets by shipping enormous cargos of raw 
+materials or ultra-durable foodstuffs and be able  
+to afford it if they were the center of an empire 
+of a million star systems – still a tiny dot in  
+the galaxy – and were home to 1% of the wealth 
+and the pipeline for science and technology. 
+However, that’s likely to be a rare and unstable 
+exception, so by and large you only could move  
+food around one star system. As we’ve discussed in 
+other episodes, the real limit on population – as  
+well as agricultural or factory production – 
+is waste heat removal and it’s usually going  
+to take less heat to move food or retail goods to 
+Earth, than to produce them locally… or whatever  
+star empire capital is under discussion.
+Such being the case, the question is if we  
+can get them off another planet cheaply 
+enough, in terms of money and heat,  
+to make that a profitable trade path. And the 
+answer is yes, we discussed a lot of the options  
+for that in Interplanetary Infrastructure a 
+couple months back. Those might be examples  
+like our hypothetical 107 Piscum B or ones more 
+like Najan from earlier. Or maybe they’re a world  
+that’s got giant towers running into space which 
+are themselves huge arcologies or vast underground  
+chambers of artificially lit crops and forest 
+of mushrooms, some lying fallow for years while  
+roving tribes move in before being chased out 
+when it’s time to cycle up production again. 
+We need not go so far as a full Dyson Swarm to 
+imagine a future solar system in which Earth  
+imports virtually all its food and retail. It’s 
+common to view such planets as leeches on their  
+wider empires but in practice that’s no more valid 
+than saying a nation’s capital is – albeit they  
+have also often been viewed this way. But in an 
+emerging K2 civilization in a couple thousand  
+years, one maybe just at what we call the K1.6 
+region, about a thousandth of the Sun’s light  
+being used to support civilization, that would 
+already imply they had at least a million times  
+our current numbers, and a national capital being 
+just 1% of it’s nation’s population would tend to  
+be on the small side of normal, so an Earth of 
+100 trillion people almost entirely focused on  
+running government, finance, research, and museums 
+would not need to export a single thing to more  
+than cover its costs of importing everything, and 
+would then presumably need something on an order  
+of hundreds of Earth-like worlds to feed itself.
+Obviously those hundred planets don’t exist in  
+our solar system, but we might easily build many 
+times that number of space habitats. Hence part  
+of why I keep calling them Agriworlds, in spite of 
+that being harder for me to pronounce than planet,  
+because on this show we tend to use 
+world to mean any independent body,  
+be it a planet or large moon or a very large space 
+station or asteroid. Amusingly even my speech  
+therapist had problems pronouncing agriworld 
+so I wonder if the word is likely to catch on. 
+These presumably would focus on farming, and 
+it might be a huge McKendree Cylinder filling  
+ships like Grange-922 every week, or a billion 
+smaller space farms, filling more modest cargo  
+vessels. Some might be on elliptical orbits of 
+Earth, orbiting in every few months when the  
+harvest season nears, before looping out deeper 
+in Cislunar space. Others might be part of the  
+Terran Ring concept we’ve discussed elsewhere, 
+most recently in Interplanetary Infrastructure,  
+where a billion kilometer long tether 
+of habitats encircling the sun allows  
+physical rail travel of people and cargo 
+from a billion habitats right to Earth. 
+I don’t know what the optimal shape or gravity 
+or size would be for one of these space farms.  
+A lot will depend on culture and technology. As 
+an example, we might assume space farms tend to  
+be big enough to allow the comfortable support of 
+Dunbar’s number, which at around 150-160 people  
+is what we tend to think is on the small side of 
+viable for a community. If that were the case, and  
+one person’s labor with robotic help could supply 
+foodstuffs for a thousand others – including a  
+wider diet like fruit and meat – then your minimum 
+viable space farm supports feeding 150,000 people  
+and needs an internal land are, or its equivalent, 
+of probably somewhere between a few miles wide to  
+tens of kilometers in radius, and of course many 
+might have multiple layers and even orbit closer  
+to a star where they get more sunlight. They might 
+be big flat plates or long cylinders to provide  
+gravity, with their axis aimed at their sun and 
+a big mirror on the back to scatter light in. 
+Farms habs on distant and cold worlds might us 
+a big parabolic reflector behind them capture  
+and focus more sunlight on their crops while a 
+farm tower on Mercury might be a big mushroom  
+shielding them from much of the sunlight 
+while spreading it around a vertical farm,  
+the mushroom’s shaft, a hundred levels tall, 
+and with cargo picked up from the top in huge  
+container pods scooped up by skyhooks. The 
+subsurface vertical reefs of Europa might  
+descend for kilometers surrounding long chains 
+of fusion-powered lights, with the non-digestible  
+waste spilled out for local fish to eat, pursued 
+by submarine drones who netted some of them for  
+processing in the fish stick factories of Io.
+The options are limitless, and a hungry Earth  
+of the year 4000 AD might need that, as it 
+consumes 5 quintillion chicken nuggets each  
+year. Some from chickens, some from genetically 
+modified megaraptors, some printed from an  
+algae base as synthetic meat. The dairies of that 
+future ship in 10 quadrillion gallons of milk and  
+500 trillion pounds of cheese and butter every 
+year. 50 trillion bushels of apples, and once  
+a small town was destroyed when a ship docking 
+at an orbital ring ruptured its cargo hold and  
+50 billion apples fell down upon the town below.
+10 quadrillion tins of cat food come in per year,  
+500 trillion dog bones, an uncounted amount of 
+hay for pet horses or other animals on Earth,  
+and again is well below the heights 
+of a true Kardashev-2 civilization,  
+just a Kardashev-1 Earth with a wide panoply 
+of space habitats on which most folks lived.  
+How fast we can move things and how far they must 
+travel at what speed, along with our technology  
+for storage helps control if those apples are 
+coming in fresh or as canned applesauce. It  
+controls if fresh bananas are affordable or if 
+those big ships bring in dehydrated food and  
+staple crops known for their shelf-life.
+In all of the scenarios I am glad to say  
+that such worlds are likely to be much more 
+ecologically sound and much less bleak than  
+our early example of the Agriworld of Najan, 
+and while I suspect most space habitats would  
+do a lot of their own agriculture, there is room 
+for trade inside solar systems. And whether an  
+agriworld is Kansas times a million or a floating 
+space farm lazily orbiting the Earth-Moon system,  
+I think the future leaves the door open for 
+farming and for a decent life for future farmers.
+So while I was researching and writing this 
+episode on farming in space I was struck by how  
+often even articles and news on agriculture, 
+space, and technology seem to come with the  
+writer’s ideological agenda stuck in there. I hate 
+when it feels like the article I’m reading was  
+written by someone with an agenda and bias that 
+they’re consciously pushing, even if it's one I  
+share. It worries me when topics get entirely 
+covered by one side or ignored by another. 
+But there’s a better way to read the news, 
+and that's with Ground news. Grounds News  
+is a website and app designed to help you 
+pull back the curtain on media bias. Every  
+story comes with a quick visual breakdown of the 
+ownership, factuality, qnd political bias of the  
+sources reporting - all backed by ratings from 
+three independent news monitoring organizations. 
+Ground News is a fantastic tool for sifting 
+through the daily misinformation and bias.  
+They let you see who is covering what and 
+which groups are ignoring a topic. You can  
+see the bias, the typical factuality of 
+the outlet, and who owns them, keeping  
+your news feed transparent and accountable.
+Ground News is on a mission to empower readers and  
+provides all the tools you need to be a critical 
+thinker. I believe Ground News is so useful that  
+I’m offering 30% off their Vantage Subscription. 
+You can only access this discount through my link,  
+so go to Ground.News/IsaacArthur or click 
+the link in the video description and  
+support an independent news platform working 
+to make the media landscape more transparent.
+So that’s it for November but join us next week 
+as we begin December with a discussion of how  
+to select spaceship crews, before returning to 
+our Alien Civilization series for Scifi Sunday  
+on December 10th, with a look at Nihilistic 
+Aliens. Two weeks from now we’ll talk about  
+ways to warp and manipulate reality, on 
+December 14th. In three weeks we’ll look  
+at discussing Silicon based lifeforms on the 
+21st, and then will finish the month and year  
+with clearing space debris on the 28th and our 
+final Livestream Q&A on Sunday, December 31st. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you want to donate and help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all 
+of SFIA’s episodes early and ad free on  
+our streaming service, Nebula, along with hours 
+of bonus content, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

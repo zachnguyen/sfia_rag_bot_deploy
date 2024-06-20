@@ -1,0 +1,802 @@
+After over half a century, it is time to return
+to the Moon, and use its vast resources as
+a bridge to countless new worlds.
+Welcome to Science & Futurism with Isaac Arthur,
+and I am your aforementioned host, Isaac Arthur,
+writer and producer of this show and also
+President of the National Space Society, an
+organization dedicated to a future of space
+settlement.
+And when it comes to settling space, finding
+a way to set up self-supporting bases on the
+Moon is necessarily always at the forefront
+of those efforts.
+After all, if we can’t make things work
+on the Moon, the only celestial body within
+real-time communication distance of Earth,
+how could we ever hope to make things work
+on any other planet?
+At its core though, the Moon is not just the
+prototype place to try out space settlement,
+but also the gateway to those other places
+because it is very rich in resources to mine,
+process, and refine, but also low in gravity
+and air, the two things that make getting
+off Earth and into space so hard.
+This is why we have done many episodes on
+the Moon, and will doubtlessly do many more,
+and why today we will be focusing on how we
+get those resources; and in the near future,
+with existing technologies.
+And it all comes down to economics and the
+tyranny of the rocket equation.
+If I want to put a spaceship on another planet,
+I either need a vastly better fuel and propellant,
+or I need to be willing to launch dozens of
+ships into space carrying a payload of fuel,
+just to be able to have the fuel to send one
+of those spaceships off to another planet.
+That ship isn’t moving too fast either.
+Even if a better fuel is found, it is still
+better sourced on the moon, but so is all
+that air, water and honestly anything that
+we can build there instead of here on Earth.
+That might get sophisticated as we improve
+automation and options like 3D printing.
+For now though, it’s okay if we have to
+fly every sophisticated piece of equipment
+up from Earth, every microchip or control
+panel, if we can produce big, thick shielding
+panels for the ship, or water tanks, or the
+water for those tanks, on the Moon.
+Or simply get the resources there and move
+them to orbital factories and dockyards near
+Earth.
+After all, on the Moon, we have a power generation
+issue.
+There’s no fossil fuel or wind or hydropower,
+but there is half a month of sunlight followed
+by half a month of darkness, which makes solar
+kind of viable, and there are plenty of options
+for using nuclear reactors there as there’s
+not much worry about radiation.
+Or rather, the place is already pretty irradiated
+so it’s not a big concern to add to that.
+We could contemplate some sort of arrangement
+where nuclear combined with solar ran a lot
+of power-intensive projects at a base for
+two weeks, then shifted to lower-power ones.
+Maybe you smelt metal for two weeks and then
+spend the next two weeks surveying for, or
+collecting, new ore.
+We do have a lot of ways to supply power in
+the dark period too, and for that matter there
+are places on the Moon that are more or less
+dark than the average.
+Some crater bottoms are perpetually dark,
+or nearly so, and lava tubes too, whereas
+some crater rim walls, especially far from
+the equator, get much longer periods of light.
+Those craters and lava tubes are of immense
+interest to us as resources sites too.
+Now, when we talk about building a lunar economy
+up and extracting material from there, it’s
+worth noting that this is not pie in the sky.
+Carisa Christensen, CEO of Brycetech, says
+the annual investment in the lunar economy
+is currently around 10 billion dollars a year.
+This is principally government funding, and
+Project Artemis is around 7 billion of that.
+But it means we are, and have been, putting
+billions into R&D focused on the Moon.
+And by we, that does include both private
+sector spending and other governments, the
+Canadian Space Agency (CSA) and Japan Aerospace
+Exploration Agency (JAXA) are both big partners
+on Artemis.
+Incidentally, for the raw facts and figures,
+I’ll be drawing heavily today on John F.
+Kross’s 2022 Ad Astra Article, “The Lunar
+Economy”, as this episode is intended to
+be how we get stuff off the moon economically
+this century, not in the more distant future.
+So while we might one day mine Helium-3 off
+the Moon for aneutronic fusion reactors, for
+today we’re assuming we don’t have any
+new power generation technology beyond minor
+modifications to adapt stuff we already have
+to be functional on the Moon.
+Same for other technologies, it need not be
+something we have streamlined or achieved
+mass production of or even built an official
+prototype, but it does need to be solid tech.
+That said, a little later in the episode,
+we will dip a bit into harder lifts like a
+Lunar Mass Driver for getting cargo off the
+surface.
+That technology is pretty solid but it does
+still have some hurdles to clear and more
+to the point, it represents a pretty big piece
+of infrastructure, and our other limitation
+today is that we’re not really contemplating
+megaprojects.
+Our biggest limitation on getting to space,
+and then getting to the Moon from there, and
+finally getting things off the moon, is fuel,
+and the majority of the weight of the fuel
+isn’t actually the fuel itself but the oxidizer
+we burn with it, which is typically oxygen.
+The downside of rockets is they can’t be
+air-breathing because there’s no air off
+Earth and even making an air-breathing rocket
+for use during travel through the atmosphere
+is often considered impractical.
+Though designs like SABRE for the Skylon spaceplane
+seek to make it otherwise.
+Whether or not they succeed in that effort,
+it doesn’t help once you’re in space or
+on the moon because you need that oxidizer
+and it is literally the supermajority of that
+ship’s mass, out-massing every drop of fuel,
+piece of ship, and item of cargo combined.
+Oxygen is heavy, and our two major rocket
+fuels are liquid hydrogen and kerosene, both
+of which combine with oxygen molecules to
+make water, or water and carbon dioxide.
+A water molecule, H2O, may be two to one hydrogen
+to oxygen atoms, but that single oxygen atom
+is 16 times more massive than hydrogen atoms;
+and water is 89% oxygen by mass, while carbon
+dioxide is 73% oxygen by mass.
+So, even just being able to produce our oxygen
+on the Moon would let us save massively on
+the return fuel for any lunar trip, or for
+shipping anything off the moon for orbital
+construction.
+We also need oxygen to breathe, and so looking
+at how we can get oxygen on the Moon will
+be our first topic.
+And the first step of that is finding oxygen,
+but amusingly that’s the super-easy part.
+For a place where there is no air we tend
+to think of getting oxygen as hard, but oxygen
+is the third most abundant element in the
+Universe and the most abundant element on
+the Moon.
+42% of the Moon’s mass is oxygen, tied up
+in rocks like silica, SiO2, AKA quartz, much
+as on Earth, where oxygen is the most abundant
+element in our crust and the second most abundant
+overall, shortly after iron, of which there
+is a vast quantity of in our core.
+So, finding oxygen on the moon is easy, you
+literally can’t walk there without tripping
+over the stuff.
+Getting it out of the rock is trickier though.
+This is a lot of the reason why hidden deposits
+of ice in craters or lava tubes is very interesting
+to us in exploring the Moon, as it takes considerably
+less energy to get oxygen out of water or
+ice than out of rocks like Silica or Alumina,
+which includes sapphires and rubies, or Lime,
+which you might have had to clean out of your
+bathtub if you have hard water.
+Plus, the process also frees up that hydrogen
+in the water.
+You can then burn that hydrogen and oxygen
+right back together into water as a rocket
+propellant.
+This is a very simple process but takes more
+energy to separate it than recombining it
+is going to get you, which is why we don’t
+just burn water as a fuel on Earth, but it’s
+a good way to make an energy-rich portable
+fuel – for rockets or for rovers or smaller
+satellite facilities, if you have a big, bulky
+stationary power source, like a nuclear reactor,
+or several acres of parabolic mirrors focused
+on a solar thermal tower that could produce
+tons of fuel and oxidizer during those two
+sunny weeks and then lie dormant thereafter,
+till the sun rose again, letting you produce
+a ton of fuel and oxidizer in the meantime,
+at a rate of about 13 million joules per liter
+or kilogram of water to be separated, though
+probably a decent chunk of that would be lost
+to various conversions and inefficiencies.
+In the absence of readily available water
+though, we have an alternative to electrolysis,
+and that’s metalysis or cracking rock, which
+is generally about 45% oxygen by mass on the
+Moon.
+This takes a lot more energy, varying by the
+rock type, and instead of getting oxygen and
+hydrogen, what you usually get is some metal
+plus oxygen.
+Which is a plus too, as we want to be able
+to mass produce steel or aluminum or titanium
+or silicon there, not just air.
+There is a million dollar prize from NASA
+for the first team to demonstrate a method
+to extract five kilograms of oxygen from simulated
+moon rock in eight hours or less, which works
+out to 15 kilograms or 33 pounds a day.
+That might not sound like much, and indeed
+isn’t for fuel, but it's all the oxygen
+you need for several humans to breathe during
+that time.
+We go through a little under a kilogram a
+day per person, 0.84 kilograms or 1.85 pounds,
+on the space station and presumably the consumption
+would be similar on the Moon.
+Around 15 years back, Derek Fray of Cambridge
+had put together a reactor that could do about
+a kilogram of oxygen for 142 megajoules, which
+is an order of magnitude higher than electrolysis
+of water but was producing metals as well,
+and that would work basically anywhere, on
+or of the moon, on some asteroid.
+For context though, a rocket booster might
+easily go through hundreds of thousands of
+kilograms of oxygen to get off Earth, and
+tens of thousands to get off the Moon.
+So if I wanted to get ten thousand kilograms
+or ten tons of oxidizer produced every day,
+during a day cycle on the Moon, we are talking
+over a trillion joules of energy, or 16 megawatts,
+to produce about 7 kilograms or 15 pounds
+of air per minute.
+Enough for a 80-person team to breathe for
+a whole day, produced in one minute, or enough
+for a modest daily launch of a roughly equal
+weight of cargo off the moon.
+Meaning you could be running a depot somewhere
+producing refined metals that are launching
+using the oxygen released during the making
+of those metals.
+16 Megawatts is both a lot and not much, a
+couple months back we looked at various small
+modular reactors for nuclear energy and the
+smallest module we discussed there was a 20
+megawatt design by Last Energy.
+On the solar front, there is no air in the
+way on the Moon, so a whole bunch of shiny
+aluminum parabolic dishes pointed at a solar
+thermal tower should have no problem providing
+at least 100 watts per square meter of actual
+electricity, and a good deal more in terms
+of heat that might be used to assist processes
+for separating rock.
+So a field 70 meters in radius should do the
+trick.
+One of those alternate oxygen-creation methods
+is to heat rock to above 900 Celsius, and
+many metal-forging processes are heat-dependent,
+so energy being lost to heat in the usual
+flow of making electricity can at least be
+partially productively repurposed.
+We also have magma electrolysis, where you
+melt lunar regolith by running electric current
+with it, liberating oxygen at temperatures
+of 1400 degrees Celsius or 2500 Fahrenheit.
+Given that making big shiny metal panels shaped
+as parabolic dishes out of native aluminum
+is not that hard of a process, one could imagine
+landing with some pre-built ones or a reactor,
+and using that power to build more, in situ
+bootstrapping of energy.
+As a minor sidenote, during the daytime on
+the Earth-side of the Moon, it is usually
+night time on part of the planet, so power
+creation on the moon, without air to interfere,
+could plausibly beam energy back to either
+Earth itself, during Earth’s night phase,
+when Earth-based solar doesn’t work, or
+to various satellites and facilities in orbit
+of Earth but currently in its shadow.
+Every little thing that might make money on
+the Moon or decreases losses on surplus production
+is one more thing that makes lunar settlement
+viable.
+This is definitely a thing of the next couple
+of decades too.
+Citigroup analysts are expecting the annual
+revenue of the space industry to hit a trillion
+dollars by 2040, which isn’t that far off
+anymore, and they’re predicting a 95% reduction
+in launch costs by then.
+This is not assuming any new technologies,
+just anticipated ones making expected progress
+at streamlining and improving, paying off
+the research costs and scaling the production
+of the technology up.
+One of the notions suggested for scaling up
+fuel production on the moon would be setting
+a guaranteed price for a time, several hundred
+dollars a kilogram, and at that point in time
+someone can rely on a decade of steady revenue,
+which makes it feel less risky of an investment.
+But if we imagined a single parabolic dish
+or photoelectric solar panel around a meter
+across that was steadily producing 100 watts
+on average for a decade, then under electrolysis
+we would be able to produce over 2000 kilograms
+of rocket fuel by electrolysis or 2-300 kilograms
+of oxygen and a similar amount of metal.
+If you’re expecting to make several hundred
+dollars on each of those kilograms, then you’re
+looking at somewhere around a hundred thousand
+dollar return off that single panel or dish.
+Such a panel might only mass a kilogram, or
+even less, especially first generation ones
+brought from Earth, which might then get to
+the Moon for under a thousand bucks a piece
+and recoup that investment in a month or two.
+I should also note that our options aren’t
+just electrolysis of water or metalysis or
+cracking of rocks.
+We also have some carbon dioxide on the Moon
+and we are getting pretty skilled at separating
+carbon from oxygen.
+Carbon is quite valuable too, and needless
+to say carbon dioxide is handy for plant growth
+on the Moon, which would reduce food you need
+to bring in.
+As another minor sidenote, since gravity is
+small on the moon and there is no air or wind,
+your panels and dishes can be large with relatively
+little structural support.
+Your big issue is cleaning dust off if it
+gets on there, which would mostly be from
+astronauts walking around or from rovers milling
+about to do errands.
+You can potentially be sticking 10-meter-wide
+panels atop telephone poles, tall, but skinny
+supports.
+And given the low gravity, it’s not that
+much work if someone needs to climb a ladder
+to one either.
+One critical thing to building anything on
+the moon is that every bit of structural support
+can be vastly weaker and thus lower in mass
+and all of these factors reduce the cost.
+The exception to that is storage tanks, since
+any vessel under pressure on the moon actually
+needs to be a bit tougher than on Earth, where
+we at least have one atmosphere of pressure
+pushing back already.
+And this is one reason why molten salt techniques
+for generating and storing energy are nice
+on the moon, as molten salt is not under any
+pressure, and thus doesn’t need to be sturdy
+like a steam engine or turbine on the Moon
+would still need to be.
+Molten salt approaches also potentially allow
+oxygen production as a byproduct.
+So, using molten metals to produce air and
+generate and store heat is attractive on the
+moon, where insulation is easier anyway, and
+this might be getting energy by nuclear or
+by solar thermal farm or solar photovoltaic.
+And possibly a mix thereof.
+Running power cords on the Moon between facilities
+isn’t terribly tricky either, nor is avoiding
+the dark cycle by just having some power-beaming
+satellites orbiting the Moon, and given that
+space-based power production might be one
+of the big industries of the Moon, they may
+have relatively cheap access to it.
+Solar thermal and nuclear are both attractive
+options on the moon, but silicon photovoltaic
+cells remain a strong option there too.
+Blue Origin has been working on Blue Alchemist,
+their solar panel design made from lunar regolith
+simulants.
+Their reactor produces iron, silicon, and
+aluminum through molten regolith electrolysis,
+running current through the regolith, and
+produces oxygen as a byproduct, with silicon
+that’s been purified to 99.999%, and they
+have now made working solar cells from this
+simulated regolith.
+The process they developed may have applications
+back home too, as it’s entirely electricity-based
+and appears to be much more environmentally
+cleaner than currently employed methods for
+getting silicon.
+There’s a lot of silicon on the moon too,
+silica or silicon dioxide is the most common
+compound on the moon’s surface, at nearly
+half, followed by alumina, di-aluminum trioxide,
+at around a fifth to a quarter, and then a
+rough three way tie between lime, which is
+calcium oxide, Iron Oxide, and magnesia, or
+magnesium oxide, each making up a tenth or
+so of lunar surface compound, depending on
+region.
+Titanium dioxide comes in at a few percent,
+and sodium dioxide at a bit under a percent,
+and everything else at far lower concentrations.
+But that means from a practical standpoint
+we have an unlimited supply of Oxygen, Silicon,
+Aluminum, Iron, Magnesium, Titanium, and Sodium.
+Note that hydrogen, carbon, nitrogen, potassium,
+and phosphorus, all fairly critical to life
+and farming on the Moon, aren’t casually
+abundant and may be easier to truck in initially.
+We don’t have to get everything in situ.
+If you can get 90% of your raw mass on the
+moon instead of Earth, that massively alters
+the space economy.
+For one thing, it also creates one, since
+you’d have all that industry and freight
+capacity to and from the Moon that would make
+other industrial and economic sectors easier
+to start and piggyback off of.
+It is important to keep in mind that we really
+don’t know the best way to get resources
+off the Moon yet, other than that, many techniques
+from Earth probably still apply well while
+other crazy options might work too that would
+never work on Earth.
+For instance you might use a roving mining
+facility that trundled around to good small
+deposits then basically went over top them,
+suction-cupped over them, then blew out huge
+inflatable mirrors the size of football stadiums
+to act as a solar oven on that spot, vacuum
+up the superheated gas and centrifuging it
+into its constituent bits.
+Such a tactic would be utterly insane on Earth,
+and probably isn’t the most efficient approach
+on the Moon either, but even so, it would
+actually work.
+I would say your processor might just be a
+vacuum cleaner rolling around the moon’s
+surface but vacuums don’t work on airless
+planets, so just a scoop would have to do.
+That low gravity and lack of air also make
+it fairly easy to move cargo around, so we
+needn’t really contemplate onboard refining.
+Rather, we can expect surveying drones to
+wander around looking for the best deposits
+of the desired material and then for something
+bigger to come on by and get it, probably
+by either that scoop, or a sweep approach,
+maybe by an actual robot, hand-picking up
+loose rocks of a desired material.
+This might not be on the Moon’s main surface
+either.
+Those craters in many cases are going to have
+some nugget of some meteor in them which might
+be a nice individual find, and those immense
+lava tubes might be great places to mine too.
+I don’t want to give the impression that
+our options are limited to just dumping energy
+into rocks to melt them down.
+I like that one as a general one-size-fits-all
+approach that’s easy to explain to folks
+new to the topic but in all probability it’s
+one that will rarely get used.
+It is essentially the brute-force energy approach,
+which is mostly handy for its simplicity.
+Also, it may be needed in some cases simply
+from restrictions.
+I am strongly of the opinion that the Outer
+Space Treaty can be ignored as a placeholder
+awaiting something more informed and useful,
+but it is entirely possible it or some future
+modification or successor of it might see
+restrictions on resource utilization.
+We might see a ban on fission reactors there
+or power beaming from there or limits on mining
+techniques that involved throwing lots of
+high speed dust or releasing certain vaporized
+materials or quantities thereof.
+I think your two biggest non-fuel demands
+are going to be steel and aluminum, truthfully
+we don’t need much oxygen to breathe and
+much would be recycled by growing some supplementary
+plants and herbs for fresh greens and flavor.
+Aluminum is abundant but the preferred source
+is assumed to be anorthite, one calcium atom,
+2 aluminum, 2 silicon, and 8 oxygen, and would
+typically be obtained by grinding anorthite
+out of anorthosite, and then magnetically
+separated from magnetic anorthite.
+The FCC Cambridge Process is a favored process,
+using electrolysis of the ground up anorthite
+in a bath of molten calcium.
+After the oxygen comes out and the calcium
+melts into the bath, we would expect the silicon
+to remain solid and the aluminum, being denser
+than calcium chloride, would drip out the
+bottom for collection.
+The process would probably need fine-tuning
+for a lower gravity environment.
+It would anticipate yielding, 46% oxygen,
+20% Silicon, 19% Aluminum, and 14% calcium
+by mass.
+A parallel approach works for removing Iron
+and Titanium from Ilmenite, found plentifully
+in the Lunar Maria and is magnetically separable,
+and gets you 37% Iron, with the balance of
+the mass equally split between titanium and
+oxygen.
+There are other ways to get Aluminum out too,
+like raising it to 2000 Celsius in a vacuum,
+and again; any of these materials can be taken
+down to the atomic level with sufficient application
+of energy.
+The trick for optimal processing is finding
+that goldilocks spot of effort, time, equipment,
+and energy, and that will be different for
+every material, but an abundance of sunlight,
+lower gravity, and lack of air are the three
+critical factors, likely to shift which processes
+work best on the Moon as opposed to Earth.
+Also, here on Earth we have vast supplies
+of water as a coolant or solvent, and a surplus
+of manpower and replacement components.
+Stuff built on the moon needs us to contemplate
+cooling options beside air or water, and must
+be very durable and potentially need replacement
+components that can be easily 3D printed.
+Remote control and maintenance options are
+also viable on the Moon, as it’s close enough
+that signals lag on a couple seconds, not
+minutes or hours as with the rest of the solar
+system.
+Also while we talk about it as a great place
+to get oxygen or aluminum off of, valuable
+elements like gold or platinum are every bit
+as plentiful on the moon as asteroids.
+Speaking of Aluminum again though, while it
+is a high-energy cost material to make, it
+is a handy one for production on the moon
+for many reasons, but maybe most of all, early
+on as an alternative to water.
+Hydrogen and hydrocarbons aren’t the only
+things that burn when combined with oxygen,
+and aluminum is a great example of that.
+Aluminum will burn with water, to produce
+alumina and hydrogen molecules, and vice versa,
+you can use hydrogen molecules to take alumina
+and turn it into aluminum and water.
+This fuel is called ALICE, short for Aluminum
+Ice Rocket, and is likely to be a great in
+situ fuel any place where ice and rock are
+both plentiful, like the outer asteroid belt,
+or moons of Jupiter and Saturn.
+But if the moon turns out to be a hard place
+to get water or hydrogen from, we can combine
+iron oxide and elemental aluminum to instead
+produce aluminum oxide and elemental iron,
+and release a lot of energy in the process.
+This is also known as thermite, and is already
+used in some rocket thrusters.
+Producing thermite on the Moon and processing
+it into rocket fuel is a relatively simple
+process, and I like it as an option not because
+it’s any sort of miracle fuel, but because
+the stuff is going to be plentiful any place
+you land, even places where no in-situ water
+is a stark reality.
+And it’s not just aluminum either; boron,
+chromium, magnesium, silicon, titanium, zinc
+and others all have pyrotechnic combinations
+with some sort of oxidizer, which isn’t
+just molecular oxygen but a number of common
+oxides.
+So if the Moon is where we’re getting a
+lot of our fuel and raw materials for expansion
+out into the solar system, using fuel systems
+that can be refilled at the destinations or
+waypoints is a good plan.
+Carrying return trip fuel with you is beyond
+brutal, again the Tyranny of the Rocket Equation,
+and likely to suck any profit or practicality
+out of any venture needing to bring stuff
+home in quantity.
+Amusingly your rocket exhaust is partially
+vaporized metal so it’s not a horrible idea
+to contemplate shooting things out of a long
+tube or tower, like a gun barrel, where your
+metallic and oxide exhausts can be partially
+reclaimed.
+Again, there’s no air on the moon so even
+some lavatube shaft repurposed and shored
+up to serve as a long runway is a possible
+option.
+This would still apply to water or an alternative
+fuel like methane, and I think we hear these
+options discussed more because they are a
+lot easier to make and use, and we have grown
+increasingly optimistic about getting water
+on the Moon.
+Long term, the Moon hasn’t got much water
+or hydrogen, so it’s not a good source for
+it for ages to come, but it’s a good boon
+for starting up, and water and hydrogen are
+stupidly common elsewhere in the solar system
+and can be fairly cheaply imported back in
+later generations.
+But if it turns out we’re wrong about that
+hydrogen and water supply on the Moon, it
+just shows we have different options, and
+also shows us our pathway to mass-producing
+metals there too.
+Many of which are magnetic and would be very
+easy to magnetically propel out of a mass
+driver.
+We also do not need to achieve the super high
+velocities that we have to in order to get
+off Earth, nor do we need any sort of megastructure
+tens of miles high for the tube to open out
+of above the atmosphere, since there isn’t
+one.
+Done with the right timing, things launching
+off the Moon already have a lot of the extra
+delta v they need to get to a more distant
+destination, or vice versa, have their velocity
+dropped enough to make an orbital insertion
+around Earth or to aerobrake down to earth
+relatively cheaply.
+We might one day have big orbital installations
+around the moon, including lunar elevators
+or orbital rings, but early on we can probably
+get away with a launch tube running over the
+surface that only has a tube for the sake
+of keeping dust out, and thus need not be
+very substantial.
+A human ship aiming to achieve low orbit of
+the Moon, at around 1 mile or 1.6 kilometers
+per second, only needs an acceleration track
+long enough for 160 seconds of 1 gee acceleration,
+something like 80 miles or 130 kilometers
+of track.
+Or alternatively, a 4g acceleration of 40
+seconds, which would be a rougher ride, comparable
+to your typical rocket off Earth, but only
+need a track a quarter as long, 20 miles or
+32 kilometers.
+And a cargo launcher sending relatively dumb
+matter, just sheets of panel or ingots of
+metal, probably could get away with 40 gees
+or more, a 4 second acceleration down a mere
+2 miles or 3.2 kilometers long, and short
+enough you might just leave this out in the
+open on a flat spot and have a robot run down
+the rail before a launch to take any dust
+off from the last one.
+In terms of power, this isn’t a trivial
+amount either, but it requires no propellant
+and avoids the rocket equation.
+So if you’re flinging an object into orbit
+of the Moon at 1.6 kilometers per second,
+you are probably able to pull that off with
+a mass driver for an energy cost of a few
+megajoules per kilogram lifted, making it
+a good deal less than electrolysis to make
+a kilogram of fuel from water, at 4 times
+that cost, or cracking oxygen out of rock,
+at 50 times that cost.
+Your freight bill goes way down.
+Longer tracks or higher accelerations could
+send you off the Moon with all the speed you
+need to reach your target, though timing would
+be absolutely critical in such cases.
+Thankfully there’s no weather windows and
+delays like we often have for launches from
+Earth.
+This is why, while Mars is often contemplated
+for colonization, or even Venus or Titan or
+some asteroids, the Moon is always the best
+place to get your start.
+From there you can stop building and fueling
+spaceships on the cheap, with barely enough
+fuel to get a ship to another planet and with
+barely enough radiation shielding to keep
+the crew from dying.
+With the moon as your source for fuel and
+building materials, we can pre-stage huge
+amounts of supplies to destinations before
+a human ever gets there, and send them faster,
+and on bigger and better-equipped and shielded
+ships.
+All supported by vastly superior near-Earth
+orbital facilities, industries, and habitats.
+In this way, the Moon becomes our Gateway
+to all those other worlds, and the stars beyond.
+It seems like after over fifty years we’re
+finally truly on the road back to the Moon,
+and while that time gap after Apollo was disheartening
+to go through, it is a reminder that to obtain
+huge goals often means working for a lifetime.
+The same is true of personal learning too.
+You don’t just become an expert one day,
+the secret to achieving huge learning goals
+and staying sharp for a lifetime is learning
+a little every day.
+It’s also why many dreams never get off
+the ground.
+The billion-dollar start-up idea, the invention
+that’s going to change the world, or the
+career you know you’d love.
+Because getting the skills and knowledge to
+make them happen takes effort.
+But here’s a secret to beating the odds
+and actually achieving your goals—learning
+every day on Brilliant dot org.
+Brilliant is the best way to learn math, science,
+and computer science interactively, they have
+thousands of lessons — from foundational
+and advanced math to AI, neural networks,
+space, rockets, and more — with new lessons
+added monthly.
+Brilliant’s visual, hands-on approach is
+such an effective and engaging way to learn—
+it makes building a daily learning habit easy.
+Interactive learning has been proven to be
+6x more effective than passive learning, like
+watching lecture videos, so Brilliant helps
+you learn by doing.
+Create programs with drag-and-drop coding,
+interact with charts and graphs, and play
+around with so many stunning visualizations.
+Brilliant makes it easy to build a daily learning
+habit, and you can try everything Brilliant
+has to offer, for free, for a full 30 days,
+by visiting brilliant.org/IsaacArthur or clicking
+on the link in the description, and the first
+200 people will get 20% off Brilliant's annual
+premium subscription.
+Incidentally, I’d imagine many have you
+noticed by now that we’ve been doing some
+short form content, a mix of original material
+like the Quasar Cannon and clips from some
+of our compendiums.
+I’m not sure if that’s permanent feature
+of the show or not yet, but I figure I need
+to release about half a dozen a month for
+a few months to see what the effect is, and
+if it’s worth doing.
+I’m also kinda curious if I can explain
+concepts in under 60 seconds, I’m not exactly
+known for my brevity, but for anyone who is
+worried, no we are definitely not replacing
+any of our normal content with shorts, this
+is just added material like our monthly livestream
+or Scifi Sunday episode or image polls to
+help pick future episodes.
+Regular episodes on Thursdays are still what
+this channel is focused on.
+Speaking of that, next Thursday, July 13th
+we’ll move on to the idea of moving cities,
+from those floating through the clouds to
+those on massive tank tracks or even legs.
+Then it will be time for our mid-month scifi
+Sunday episode, Robots and Warfare, and a
+look at the role drones and autonomous machines
+might have in the future, along with finding
+out what the first Rule of Warfare in the
+future will be.
+After that we’ll discuss whether or not
+lifeforms might be based on ammonia instead
+of water, and what that might look like.
+Then we’ll continue our look at the future
+of warfare with Dropships and planetary invasions
+or boarding actions.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, along with hours of bonus content,
+at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

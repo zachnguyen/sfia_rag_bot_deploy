@@ -1,0 +1,706 @@
+This Episode is brought to you by world Anvil
+A new model suggests that nearly a quarter  
+of the Universe is now colonized by a few 
+thousand grabby alien mega-civilizations,  
+each one controlling not just millions of 
+worlds, but millions of galaxies, and that  
+Humanity will likely join their number shortly, 
+as the heir to quadrillions of stars and planets. 
+So, just over a year ago, Robin Hanson and some 
+colleagues released a paper in the Astrophysical  
+Journal titled: “If Loud Aliens Explain 
+Human Earliness, Quiet Aliens Are Also Rare”,  
+which we’ll link in the description, as well as 
+a website, grabbyaliens.com, and almost as soon  
+as it came out folks started asking if I’d do a 
+video on this new solution to the Fermi Paradox,  
+and I joked that we had already done several.
+Grabby aliens is a cool mathematical model  
+but we need to say from the outset that it is 
+not a new Fermi Paradox Solution, it’s modeling  
+a trio of variables we have some data on that are 
+related to civilizations getting out to the stars,  
+and it seeks to show us that for any plausible 
+value of those variables, the only one that makes  
+sense is that alien civilizations don’t pop up 
+much, that the kind that remain fairly quiet  
+from an observational standpoint aren’t vastly 
+more common than the big loud expansionist ones,  
+and that therefore, humanity doesn’t see 
+aliens because we’re among the earliest. 
+It suggests that there might not be any of what 
+we would consider to be alien civilizations in  
+this galaxy and that it’s probably half a billion 
+light years, if not more, much more, to the next  
+high-tech alien civilization. Alien life isn’t 
+really rare, it’s just rare right now, and any  
+alien civilization that emerged in its local 
+corner of the Universe is very likely to be doing  
+as we do, wondering where all the other life is, 
+and concluding that someone had to be the first,  
+and for that region of space, it was them. The 
+concept being that life spreads quickly, so, much  
+as the first amoeba on Earth might see a whole 
+empty ocean, it and its offspring would probably  
+fill that whole ocean before life independently 
+evolved elsewhere in that ocean again. 
+Channel regulars know that’s the default 
+position of this show and it’s the argument  
+I advanced in Season 1 episode 1, way back in 
+2015, the Dyson Dilemma, which isn’t a Fermi  
+Paradox solution either, but supports this same 
+solution which is the Rare Intelligence camp  
+of the Rare Earth Hypothesis. This is no surprise, 
+Robin Hanson is best known in these circles as the  
+gentleman who gave us the term “Great Filters”. 
+These describe the various hurdles that life has  
+to pass through to get from dead young planet 
+to building rockets, like evolving life,  
+cellular nuclei, brains, tool use, etc. all while 
+not being wiped out by asteroids, climate shifts,  
+supernovae, or older civilizations who come 
+and take the planet for their own uses. 
+Now, that wasn’t quite a new idea then either, 
+Brandon Carter – an astrophysicist best known  
+on this show for his discussion of the Anthropic 
+Principle and Doomsday Argument – had discussed  
+this in the 1980s but had borrowed the term ‘Hard 
+Steps’ from the medical field. I have rather  
+intentionally not reached out to Dr. Hanson before 
+writing this script, as I’m trying to be properly  
+critical of the theory; which is hard enough when 
+it’s strongly backing my own preferred stance on  
+the Fermi Paradox and it’s written by a man whose 
+work I respect, so I didn’t want to make that  
+worse by reaching out for a dialogue, instead, 
+just reading the paper. As a result, I don’t know  
+if they opted to use the term Hard Steps instead 
+of Great Filters, because he had coined that term,  
+but it has resulted in Hard Steps showing up more 
+in Fermi Paradox discussions these last several  
+months and I rather regret that such is the case.
+I mentioned Hard Steps was borrowed from medicine,  
+and there, it is discussing the probability of 
+mutation on the road to cancer and I hate when  
+anyone compares humanity to either cancer or a 
+swarm of locusts when talking about us on this  
+Planet or heading out into the Galaxy. So I’ve 
+always avoided the term and prefer Great Filters  
+and rather hope Hard Steps doesn’t catch on. I’m 
+also not terribly fond of the term “Grabby Aliens”  
+as to me at least that puts a negative connotation 
+on the entire concept of space colonization,  
+but, fundamentally, both are just nitpicks by 
+me that have nothing to do with the concept  
+at hand. It needed a name and it was clearly 
+catchy, and brought more interest to the topic,  
+so no complaints, and it’s much more compact than 
+Aggressively Expanding Civilizations, in keeping  
+with Jay Olson’s Fermi Paradox paper from 2015, 
+“Homogeneous cosmology with aggressively expanding  
+civilizations” it helps make the case that we 
+can’t just limit our notion to aliens colonizing  
+one galaxy, but also moving beyond, and as we’ll 
+see today, the assumption is that grabby aliens  
+grab a lot more than one galaxy or even thousands.
+The paper also explicitly rejects the Zoo  
+Hypothesis, the idea that Earth is a zoo 
+and surrounded by aliens who keep themselves  
+hidden from us, and while that’s fine for 
+the running of the model, I don’t believe  
+that’s justified as a conclusion. For the 
+model, it's kind of necessary, as otherwise,  
+you could get alien expansion spheres erupting 
+inside existing ones or you could have aliens  
+inside another civilization that didn’t know they 
+were inside of one, and we could easily be one.  
+See our episode on the Zoo Hypothesis for more 
+explanation of the pros and cons of that solution. 
+That’s the basic intro though, for channel 
+regulars, this isn’t a new Fermi Paradox solution,  
+it’s a new model that adds support to the Great 
+Filters and Rare Earth or Intelligence solutions.  
+Today we’re going to look at that model, its 
+assumptions, and some of its strengths and  
+weaknesses, but overall it’s quite strong, and it 
+follows from Carter’s own earlier reasoning on the  
+Anthropic Principle that even though space 
+travel is slow compared to human lifetimes,  
+it can be incredibly fast compared 
+to planetary and stellar lifetimes,  
+so the first species in a galaxy – or supercluster 
+even – who get intelligent and gets expansionist  
+is going to colonize everything in that area 
+before anybody else arrives on the scene,  
+because intelligent life and the spawning 
+of an intelligent, cooperative civilization  
+from it, isn’t very likely to occur on 
+worlds in any given galaxy, at a frequency  
+that is faster than the travel time of colony 
+ships across that galaxy – or supercluster. 
+Thus, every species that colonizes a galaxy 
+started by asking why the place was so empty,  
+and found out that it was because it actually 
+was empty before them. Nobody else ever gets the  
+chance to wonder that because they can’t evolve on 
+a planet that someone else has already colonized  
+or disassembled for building materials. They 
+can’t peer into the night sky and wonder if  
+anyone lives around those stars because those 
+stars aren’t visible to the naked eye any more,  
+they’re surrounded in Dyson Swarms, and at 
+most, your world is a protected nature reserve  
+they left behind or uploaded into a computer 
+simulation or has been pushed into a pocket  
+Universe of its own by higher technology.
+And we’ve discussed those options and many  
+others in our Fermi Paradox series and our 
+Alien Civilizations series, and to save time,  
+we’ll reference some of those episodes as we go 
+for those wanting more discussion on the matter. 
+So, the paper mentions Loud Aliens and 
+Quiet Aliens, and for general context,  
+Quiet Aliens are those who 
+contribute to the Great Silence,  
+The Great Silence is the observed condition of the 
+Universe by modern astronomy and SETI – the search  
+for extraterrestrial intelligence – that we don’t 
+see anyone, and the basis for the Fermi Paradox,  
+which is the question of why we don’t see any 
+civilizations in the vast and ancient universe.  
+Why we see this Great Silence? Quiet aliens are, 
+by definition, the only kind we currently observe,  
+since they preserve the Fermi Paradox, and Loud 
+Aliens are what we are looking for with SETI. 
+For the purpose of the paper though, 
+loud aliens have 3 characteristics:  
+they expand fast, they last a long time, and 
+they make visible changes to the places they go,  
+like terraforming planets and building 
+megastructures and Dyson swarms  
+and so on. Quiet aliens are those that 
+don’t do at least one of those three,  
+maybe they don’t expand or do so very slowly even 
+on cosmological timelines, maybe they ceased to  
+exist, blew themselves up for instance, or they 
+don’t really leave a footprint where they go,  
+like a non-technological species of giant whales 
+that lived on gas giants or inside stars which  
+might migrate between them at a galactic scale 
+and still not leave anything behind we would see. 
+And of course, there are dozens of different 
+methods or exceptions to each of these conditions,  
+but critically, none of them really discuss 
+technology, motives, or culture of aliens  
+involved, only the most general condition and 
+one that we can see, a species that expands fast,  
+lasts long, and leaves marks. Making 
+them easy for us to notice, or loud. 
+Grabby Aliens in the paper are those which, quote 
+“(a) expand the volumes they control at a common  
+speed, (b) clearly change the look of their 
+volumes (relative to uncontrolled volumes),  
+(c) are born according to a power law in time 
+except not within other GC volumes, and (d) do  
+not die unless displaced by other GCs ” unquote.
+Let’s unpack that. 
+First, a GC is a galactic civilization, and we 
+may extend that to include Intergalactic ones too,  
+or even multiverse-traveling ones. Indeed based 
+on the model’s results, a GC in this context  
+is likely to be a multi-million galaxy empire 
+rather than a civilization inside a galaxy or  
+controlling an entire one, what GC usually means 
+and what we call a Kardashev 3 or K3 civilization,  
+and I’d suggest maybe the civilizations in 
+this model should be considered K4 instead. 
+Second, this is all about setting up a computer 
+model of various origin planets of various aliens  
+randomly distributed at a given density, and each 
+with a random expansion speed and duration, in  
+order to see how likely we are to be first in our 
+region of space, and if so, what that indicates  
+about how often that loud, grabby aliens occur and 
+run into each other. From the model they typically  
+expand to get to a million or so galaxies 
+before running into neighboring expansion waves. 
+That quote from a moment ago is them setting up 
+the parameters. So, we have expanding volumes  
+under their control at a common speed. What does 
+that mean? In this case, it means that every GC,  
+once it starts expanding, will move at 
+the same speed the whole time – until it  
+bumps into a neighbor – and that all those 
+neighbors move outward at the same speed.  
+That’s got some problems we’ll get to in a 
+moment, but models always need to simplify  
+some variables. We’ll be pointing out 
+some of those simplifications today too,  
+and some might matter for the 
+conclusion but probably not this one.  
+We assume ships will get faster with time and 
+thus colonization rates outward would speed up  
+but at the scale involved, that probably would 
+be maxed out long before it really mattered. 
+A few thousand years of spaceship propulsion 
+improvements to get from 1% light speed ships,  
+up to 80%, matters a lot in a system where 
+civilizations all start popping up within  
+a few thousand years of each other and 
+expanding a few thousand light years,  
+like we see in the typical space opera of 
+hundreds of aliens in a galactic region, but  
+it really doesn’t matter at extragalactic scales 
+of millions of years of travel time or more.  
+We assume the same physics applies Universe-wide 
+and that loud aliens are curious ones too,  
+where science is concerned, and thus 
+work to improve their ship drives  
+until everyone ends up with that 
+same optimized engine concept. 
+From a practical standpoint, that means that all 
+the expanding bubbles of new GCs expand at the  
+same rate from their homeworld even if not from 
+the same start date. In practice it would seem  
+like what will actually matter for colonization 
+will be if there’s a maximum safe speed to travel  
+between galaxies, as most of our expansion time 
+in this model is intergalactic colonization  
+and K3 civilizations, or even K2, really 
+shouldn’t have any problem building powerful  
+and long enough acceleration ramps to let 
+ships reach 99% of light speed for that voyage,  
+but that might be too much for safe travel on 
+voyages lasting several million years. Barring  
+that, it would be my expectation that at the 
+intergalactic scale colonization occurs at .99c,  
+a tiny fraction slower than light speed.
+A possible caveat, however, is that intergalactic  
+space is orders of magnitude emptier than 
+interstellar space, so it may just allow  
+for higher cruising speeds after all, owing to the 
+lower risk of dust collisions. See our generation  
+ships series and Intergalactic Colonization 
+episode for more discussion of that, including  
+hurling planet-sized ships out of the galaxy, 
+or moving galaxies back here for harvesting. 
+Second bit, B, that grabby aliens 
+clearly change the look of their volumes  
+(relative to uncontrolled volumes), is easy 
+enough to understand. Uncontrolled volumes or  
+natural volumes of space not yet colonized will be 
+recognizably different by astronomy than those the  
+aliens have reached and colonized or otherwise 
+utilized, like building Dyson Swarms around  
+every star or giant beacons or any number of other 
+megastructures, or even just sucking bits of space  
+dry for bringing back to their homeworld – or 
+home dimension, we don’t want to take for granted  
+that our Universe is the only board in the 
+game, though understandably the paper does this,  
+for simplicity I assume. And condition B basically 
+amounts to saying when you colonize a place it  
+looks different then when it was untouched.
+Third, grabby aliens are born according to  
+a power law in time, except not within other GC 
+volumes. Which means the older the Universe gets,  
+the more likely any random spot not already 
+occupied by a GC is going to produce intelligent  
+life. More stars have formed, more heavy elements 
+of big planets, older planets with more time for  
+life to have emerged and evolved. And the model 
+will effectively argue that no new GCs would be  
+emerging after about 4 billion years from now, as 
+the whole Universe should be full of other GCs,  
+even in very pessimistic occurence and 
+growth rates. In terms of the model,  
+it means the longer it runs, the faster new 
+intelligences are appearing in unoccupied space,  
+but that they do not appear inside already 
+occupied space. Or where they might, that  
+they would just expand at the same speed as part 
+of that wider GC from a practical perspective. 
+And again, they reject the Zoo Hypothesis 
+here, for the purpose of the model at least.  
+There are a lot of good objections to that, but 
+they mostly should not matter for that model.  
+For instance, us getting killed off by 
+Artificial Intelligence of our own devising  
+in the next few thousands years; doesn’t matter 
+to this model anymore than if it takes us a  
+century or a hundred centuries to perfect our 
+spaceship drives, in terms of maximum speed.  
+Us getting replaced by AI or by a human-descendant 
+clade or by some terran or alien species  
+we found and uplifted - supersmart dolphins for 
+instance – just changes that GC marker to either  
+shift it to be quiet aliens or still loud aliens 
+but with a different profile pic, so to speak.  
+Same business, new owners.
+Lastly we have D, that a  
+grabby alien civilization or empire does not die 
+unless displaced by other GCs, which is that, GCs,  
+once they get rolling off their homeworld, just 
+aren’t going to evaporate away. They might have  
+that AI rebellion that replaces them but if you’re 
+spread out to a thousand worlds and growing,  
+only an AI that wanted to do the same would 
+really be a threat, as opposed to parking on  
+the colony world they rebelled on. Indeed, you 
+getting chased out by pursuing waves of angry AI  
+or uplifted chimps is a pretty good way to 
+encourage fast and loud colonization too.  
+As we discussed in our Extragalactic Sanctuaries 
+episode, where we had folks colonizing whole  
+star systems and turning them into giant 
+fortresses and death traps, merely because  
+they are running in retreat across the galaxy, 
+hurling quintillions of ships and troops at the  
+invader just to slow them down and distract them.
+An expanding GC is not implied to be unified here,  
+just that any given elements near its current 
+frontier edge tend to be prone to expanding  
+that frontier, even if on various sides of that 
+GC’s bubble, none of them have ever spoken to  
+each other or know much about the other side 
+of the frontier, nor do they even necessarily  
+still resemble one another. A million years of 
+evolution, genetic engineering, and cybernetics,  
+might mean that the ‘humans’ expanding into the 
+Western part of the galaxy resemble those on the  
+Eastern Fringe no more than a cougar resembles 
+a shark, for all they are ancient relatives. 
+Now, once they began running these simulations 
+with different values for the parameters  
+and in random setups over and over, the evidence 
+tilted to us being about in the middle of Galactic  
+Civilization emergence, which would seem to 
+be 4 billion years ago to 4 billions years  
+from now, and that GCs already controlled about a 
+fifth to a quarter of the observable Universe and  
+generally colonized outward at nearly 80% of light 
+speed. That the light of expansion evidence has  
+reached 35% of the known Universe and we’re in the 
+roughly 65% that can’t see another GC yet. Most GC  
+Bubbles, as they expand and maximize like a big 
+bubble in a sink or bath touching many others,  
+will be bigger than our GC bubble, with 62% being 
+bigger than humanity’s eventual GC. Not that we’ll  
+be crowded, we’ll probably have a volume of 
+space at least as big as our whole supercluster  
+of 100,00 galaxies before we bump into another 
+GC. Roughly 7000 GCs will appear in an Observable  
+Universe-Sized Volume. As usual we do not know 
+how big the entire Universe is, possibly it is  
+infinite. We assume the Observable Universe is 
+relatively small compared to it and in this case,  
+that portion would have 7000 GCs. Note that 
+this is essentially the approach of looking for  
+the most crowded Universe that fits the data and 
+model, nothing in this says that GCs can’t be even  
+more spread out than that, nor does it imply that 
+Earth isn’t the only place life ever appeared,  
+we may be be 1 in gajillion, this model just seeks 
+to say we are not less than one in a quintillion,  
+in terms of stars giving rise to GCs. We might be 
+civilization 100 to appear, not 4000-or-something,  
+or even #1. Though we expect the model to roll 
+out the same, it would just shift from 10-18  
+billions after the Big Bang to more like 13 to 20.
+We had reached that parallel conclusion in the  
+Dyson Dilemma discussion way back when the show 
+started and it’s a logical extrapolation of prior  
+work, all the way back to at least Michael Hart in 
+the 1970s, who coined the term the Fermi Paradox,  
+and argued that since interstellar travel seemed 
+increasingly plausible and biological life  
+should be prone to wanting to expand, 
+intelligent life had to be very rare  
+or we should see it way more often.
+In our case, we looked it at with as  
+little math as I could get away with, just as 
+today I’m trying to skip as much as we can,  
+and we also looked at it from the angle of how far 
+off we could see expansion occurring given that a  
+species that emerged 4 billion years ago as a GC 
+needs to be less than 4 billion light years from  
+us for us to have seen that emergence; Indeed, 
+a good deal closer due to Hubble expansion,  
+but Hanson et al does it much more 
+rigorously and mathematically than we did  
+and it's very nice to see this properly 
+modeled at the intergalactic scale. 
+And as is normal for these lines of reasoning, 
+it is assuming that faster-than-light travel  
+is not possible, which bugs many folks, but as a 
+reminder, FTL only exacerbates the Fermi Paradox,  
+as it means that a civilization appearing 10,000 
+years ago in the Andromeda Galaxy could already  
+have colonized our galaxy, as opposed to the 
+multi-million year journey otherwise required.  
+You should be able to run this same model at 
+various superluminal expansion speeds and the  
+result would just be to expand those individual GC 
+bubbles and thus imply GCs were even less common. 
+Now, in a lot of the discussion around Grabby 
+Aliens I see folks bringing up how it mentions  
+that our star and planet have a much shorter 
+window for life than normal, with the majority  
+of stars being red dwarfs that can live a trillion 
+years or more, and with our planet likely to  
+become uninhabitable inside another billions years 
+or so. Channel regulars know we’ve discussed ways  
+to extend a star’s lifetime, and that we wouldn’t 
+expect GCs to really be bound by star lifetimes or  
+types much once they got rolling, but honestly 
+I didn’t see the relevance of star lifetime  
+to the discussion at all. We don’t know how likely 
+life-bearing worlds are to form around red dwarf  
+stars compared to yellow ones, but, longer-lived 
+stars being able to spawn their first civilization  
+far later, say 100 billion years after forming, 
+really would only matter if it turned out that  
+it is less likely for intelligent life to 
+form on worlds around those longer-lived  
+stars than it is for intelligent life to form 
+on worlds around yellow, orange, or white stars. 
+We could stretch that, our Sun has been getting 
+hotter every year we’re around it, as stars do,  
+growing slowly brighter over time, and thus 
+the habitable zone of a system will change.  
+Red Dwarf’s planets really don’t have this 
+issue, they are slow to age and brighten,  
+but it might be that stars much bigger than our 
+own sun, while likely having far more planets  
+and bigger habitable zones, may brighten too 
+fast to allow life to be sustained on them,  
+so that even stars that live 5 billion years 
+couldn’t have intelligent life emerge on them even  
+though our own sun only is 4.6 billion years old.
+The obvious problem of course is that, at no fault  
+to the authors, we just don’t know much about 
+alien life yet, and we probably will get to  
+find some examples of unintelligent life before we 
+come across what is indisputably-intelligent life  
+or other GCs. Indeed, under this model 
+you would expect to have the leading edge  
+of your GC run into more primitive worlds or 
+even smaller proto-GC bubbles far more often than  
+it runs into full GCs, as it still works under 
+the usual assumption that the time between now,  
+and us colonizing every star in this galaxy, 
+is on a similar order of magnitude, as how  
+long since we discovered fire. A million years 
+to go from fire to rocket ships, and a million  
+years to go from them to galactic dominance.
+To me, that’s a bit more permissible for the  
+Zoo Hypothesis, as, first off, we are not 
+really assuming any real relation or rapport  
+between elements of a GC besides maybe 
+locally within a few hundred light years.  
+Nobody really sits around waiting thousands of 
+years to get an email back from all the mutants  
+living in their tiny corner of the galaxy for 
+instructions on how they should handle this new  
+planet they found with smart slugs on it, and 
+by that point in time there would probably be  
+accepted branches of humanity that bore less 
+resemblance to you than those smart slugs. 
+In that regard, I don’t think expanding GCs are 
+necessarily bad for younger worlds near them. In  
+a system with many competing and rival interests 
+– like a GC or even a small piece of its expanding  
+frontier – extermination policies don’t work 
+well, on top of being monstorus. Nothing can be  
+done in secret, and now all your neighbors know 
+you’re a bunch of genocidal maniacs and even if  
+you’re all derived from the same homeworld 
+and that initial spacefaring civilization  
+was entirely fine with exterminating aliens, 
+you’ve diverged beyond that and you also know  
+the universe has other GCs at that point and have 
+to worry about them knowing what you did when you  
+do inevitably run into them and also while knowing 
+that you cannot do it to them quite as easily,  
+since they will likely to be expecting it even 
+more so if they’ve seen you do it once before. In  
+a non-FTL and expanding universe, there’s no real 
+winning percentage for an eternal expansion into  
+your neighbors at the Supercluster scale, even if 
+you began with a billion year headstart over them. 
+So, I don’t see rolling over other younger worlds 
+and burning them really happening universally,  
+and more importantly, I just wouldn’t 
+expect a single GC to have a universal  
+policy on encountering primitive worlds, let 
+alone every GC having an identical policy.  
+Probably just absorb and add into 
+the local interstellar ecosystem,  
+and if there’s a tendency for GCs to go 
+post-human, or post-alien and inorganic,  
+then it's entirely possible nobody would 
+care if their neighbor had evolved from smart  
+slugs rather than a monkey like them, just one 
+more icky option they don’t like to dwell on. 
+For the math-inclined I really do recommend 
+the paper, and I want to emphasize that you  
+should not be taking away from this that Hanson 
+et al have gone and proven it is possible to  
+travel at 80% of light speed economically or that 
+there are 7000 intergalactic empires out there,  
+and that roughly 4000 have already emerged and 
+we’re next. That there’s a little under three  
+thousand whose galactic capital homeworlds are 
+busy somewhere between developing photosynthesis  
+and discovering fire, while some of the older ones 
+already have empires a billion lightyears wide.  
+Relatively minor changes to the numbers or 
+additions of other parameters, or more or  
+less hard steps could alter the dynamic a lot. 
+And for all that it's essentially extrapolating  
+off the Anthropic Principle, the Mediocrity 
+Principle is still in a lot of the basic concepts  
+and it seems rather normal that we’d 
+end up in the middle of the distribution  
+like that. Each GC presumably has run this same 
+model and gotten similar results, adjusted a bit  
+for the age of the Universe when they ran it, 
+whether they were #1 or 4000 or 7000 in truth. 
+But if the thousand oldest and biggest GCs had 
+already settled 10% of the Observable Universe  
+between them, then that means they’d average 20 
+Billion-Billion Stars each, and given that we  
+were talking about the Kardashev Scale last week 
+and I’m sure that’s brought up the idea of K4  
+civilizations, it always does, we are going to go 
+ahead and semi-officially dub a GC of this size,  
+a K4 civilization, which is a bit ironic since 
+again GC is short for Galactic Civilizations  
+and those are the definition of 
+a K3 or Kardashev 3 civilization.  
+Maybe we should call them an Average Hanson 
+Bubble or GAC, Grabby Alien Civilization, K4,  
+though if anyone has a better and appropriate 
+acronym, let me know in the comments below. 
+In the meantime, while again, it’s 
+not conclusive proof of anything,  
+and we already mentioned some exceptions and 
+have discussed other ones in other episodes,  
+I do think it shows us a fairly plausible model of 
+what our Universe and its civilizations look like.  
+And it’s one that (on paper) almost guarantees us 
+at least a few galaxies and trillions of stars to  
+ourselves, if not a few million galaxies, which 
+is about as far as we can probably expand at this  
+point in our Universe’s age and expansion.
+The one big take away from the model though,  
+and the Rare Intelligence solution to the Fermi 
+Paradox, is that us and any other alien who’s  
+smart enough to be able to look up at the night 
+sky and see stars and wonder what they are,  
+has a good chance of becoming the ancestors 
+of a civilization which will control every  
+one of those dots of light, even the smudgy 
+ones that represent neighboring galaxies.  
+That if they proclaim that all that they can see 
+is theirs, then they will turn out to be right  
+if they only put the effort into earning it, and 
+aren’t so foolish as to destroy themselves first.  
+And if they do, there are many 
+worlds waiting in the wings to rise  
+and take their forfeited place a 
+few million years down the road. 
+And hopefully, we won’t forfeit 
+our place among the stars.
+So today we saw a theory that makes a strong 
+case for humanity having at least as many  
+worlds free for us to claim as there are 
+living humans, and indeed many times over,  
+even if that future is still centuries ahead 
+and trillions of miles away. Thankfully,  
+we already have endless worlds at our fingertips 
+that we can behold through the mind’s eye,  
+and one of our great assets as a people is 
+our ability to share those with each other.  
+I think it is easy to forget sometimes just how 
+awesome it is to be able to share stories and  
+tales and imagined worlds with each other, and 
+I was reminded of that recently as my gaming  
+group had been on hiatus for some months and we 
+finally had a chance to start a new campaign. 
+If you’ve ever had occasion to roll some 
+20-sided dice around in some pen and paper RPG  
+or their computer and online version, then you 
+probably know what I mean. And those shared  
+settings can become amazingly complex, the game 
+we just restarted returns us to a campaign setting  
+we’ve been playing on and off again now for almost 
+20 years and I was very glad to have World Anvil,  
+the award winning worldbuilding toolset, to 
+help. It made it easy to transfer our various  
+remaining notes in a dozen different formats 
+into a collected and easily accessible format.  
+It was also the first time one of our 
+players had seen World Anvil in action  
+and they said almost word for word the same 
+thing I said when I first started using it,  
+“I wish this existed when I first started gaming”.
+I love the ability to upload many different  
+setting maps and link them together along with 
+articles, whether they’re text and images I’ve  
+carefully written or even just a photo snapshot 
+of some old notes I had but don't have time to  
+retype and reformat, it just makes it so easy 
+to tie all my notes together and add more and  
+do it in a way that’s not only easy for me to work 
+with, but easy for my players to navigate through,  
+and easy for me to lockout materials they 
+shouldn’t be able to see yet or which only  
+certain players should see. And while its 
+highly versatile, world anvil also makes lots  
+of standardized gaming needs like timelines, 
+genealogies, map-connecting, character sheets,  
+and articles on people and places very easy.
+But the newest feature of World Anvil that  
+I loves is their whiteboards, it's a canvas 
+for connecting articles, diagrams like family  
+trees or hierarchies, tavern boards, mindmaps, 
+and character arc development. There are just  
+so many features that make worldbuilding and 
+sharing easier and better, with world anvil,  
+but the very best feature is all their easy 
+online tutorial videos that not only show you  
+how to do everything, but give endless ideas for 
+uses you might not think of on your own, that will  
+just keep making your setting better and better.
+With world anvil, you can elevate your setting,  
+whether it's for a game, podcast, or a novel, to 
+a whole new level. If you would like to give World  
+Anvil a try and let it help you forge new worlds, 
+just click the link in this episode’s description!
+So that will wrap us up for September 
+and the eighth year of SFIA,  
+and we’re heading into October to start year 9 by 
+looking at the idea of colonizing planetary rings,  
+like Saturn’s, and if life might be able to evolve 
+in such places. Then we’ll ask the question of  
+what we do if all these options for space travel 
+never pan out, and we are stuck here on Earth,  
+and then we’ll have our Scifi Sunday episode 
+to look at what happens if space travel  
+does indeed pan out and what strange 
+alien environments we might encounter.  
+Possibly on your own Personal Spaceship, 
+which we’ll look at on October 20th. 
+If you want alerts when those and other episodes 
+come out, don’t forget to subscribe to the channel  
+and hit the notifications bell. And if you 
+enjoyed today’s episode, and would like  
+help support future episodes, please visit our 
+website, Isaac Arthur.net, for ways to donate,  
+or become a show patron over at Patreon. Those 
+and other options, like our awesome social media  
+forums for discussing futuristic concepts, 
+can be found in the links in the description. 
+Until next time, thanks for 
+watching, and have a great week!

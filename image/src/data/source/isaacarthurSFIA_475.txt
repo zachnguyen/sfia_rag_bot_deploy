@@ -1,0 +1,523 @@
+This episode is sponsored by Skillshare
+The Rocket Equation is an amazing thing, it
+enabled us to launch into space and step foot
+on the moon.
+But at the same time, it’s the thing which
+most holds us back from easy space travel.
+So let’s avoid it by using beaming technologies.
+We’ve discussed many alternative methods
+throughout this series on how to get into
+space, but most of these have revolved around
+some extreme engineering, like Launch Loops
+or Orbital Rings.
+They can get you into space cheap, but have
+big upfront construction and maintenance costs.
+Last time in the series we discussed spaceplanes;
+ships that could fly from an airport straight
+to orbit and maybe beyond.
+While that had many options, it was fundamentally
+limited by the rocket equation, and we could
+only partially circumvent that by letting
+it get much of its propellant at lower speeds
+from the air.
+But it could only do that in the atmosphere,
+and it still needed to burn huge amounts of
+fuel to operate.
+Today we’ll be looking at how to get around
+that fuel issue, by beaming energy to a ship,
+but let’s begin by a quick review of what
+the rocket equation is and why it constrains
+us.
+The basic form of any spaceship propulsion
+using propellant – shooting matter out the
+back from internal storage tanks – involves
+the propellant coming out at a certain speed,
+relative to the ship, called the exhaust velocity.
+We want the highest exhaust velocity possible,
+as that contains the most kinetic energy per
+bit of propellant and thus shoves your ship
+faster.
+Problem is the exhaust velocity is relative
+to that ship, which will often be moving faster
+than that exhaust velocity.
+If your propellant comes out at say, Mach
+1, but your ship is going Mach 2 at that point,
+you will still get thrust but you have to
+accelerate all that propellant mass up to
+Mach 2 before you can spit it out the back
+at Mach 1.
+When you look at how inefficient that is,
+you can see the fundamental problem with rocketry.
+It takes exponentially more fuel to achieve
+higher speeds relative to that exhaust velocity.
+The Solid Rocket Boosters on the Old Shuttles
+had an effective exhaust velocity of 2500
+m/s, which is quite fast, but let’s look
+at what an exhaust velocity of 2500 m/s would
+get you if we burned 1 ton of it.
+If we had a 10 ton spaceship, plus that 1
+ton of fuel, we’d begin at 11 tons and end
+at 10 tons at a speed of 238 m/s – quite
+fast actually, that’s 858 kilometers or
+533 miles per hour, way faster than the freeway.
+Now if we just used a 1 ton ship and 1 ton
+of fuel, it would begin at 2 tons, and empty
+its fuel tanks to get to 1733 m/s - quite
+a bit faster - 6238 kilometers or 3876 miles
+per hour.
+Unfortunately, still nowhere near the speeds
+we need for orbit.
+Let’s go to the other extreme, 10 times
+as much fuel as ship, starting at 1.1 tons
+and ending at just .1, a large human’s mass,
+moving 6000 m/s – that’s almost Low Earth
+Orbital speed, which is 7800 m/s.
+However, in practice, what with atmospheric
+and gravity drag we actually need a delta-v
+of 9400 meters per second.
+And for that, if we used 1 ton of fuel, we
+could only get 22 kilograms or 48 pounds into
+orbit.
+Meaning we used around 50 times as much fuel
+as our ship weighed.
+If we wanted to get to Earth escape velocity,
+rather than low orbit, we need to add about
+3400 m/s more speed, and now that 1 ton of
+fuel is only getting us 5 kilograms or 12
+pounds of ship out there.
+And it will get worse and worse.
+From a practical standpoint you can’t really
+get a ship up to more than about 4 times its
+propellants exhaust velocity and that doesn’t
+include fuel to slow down, which is way less
+only because so much of the mass is now gone,
+having been burned up to accelerate the ship.
+Now if your fuel is liquid Hydrogen and Oxygen,
+with an effective exhaust velocity of 4400
+m/s, not 2500 m/s, you do a lot better.
+Its exhaust velocity is 76% higher, so all
+those ratios we spoke of in terms of fuel
+to spaceship occur at 76% higher speeds.
+But if we wanted something with a fuel to
+ship and payload ratio of our first example,
+10 tons of ship and one of fuel, more like
+a car, we’d need an exhaust velocity 100
+times faster than the shuttle booster had,
+250,000 meters per second, which is very fast
+but still just under 0.1% of light speed,
+and such a fuel would also allow a spaceship
+to reach Alpha Centauri in about a thousand
+years, so hardly a miraculous interstellar
+fuel.
+So that’s the problem with the rocket equation,
+or part of it, because I’ve been saying
+effective exhaust velocity a lot, not just
+exhaust velocity, and a critical aspect of
+rocket propellants is that things don’t
+just magically blow out the back of a ship
+at thousands of meters per second, and when
+total thrust matters more than exhaust velocity,
+like trying to get out of deep gravity well,
+how quickly you can push propellant out the
+back can be more important than how quick
+those individual particles are going, and
+is a major reason why we often use very different
+fuels and rockets for the first stage of a
+rocket launch.
+We’ve got to burn stuff to make it very
+hot so that the particles are moving very
+fast, and that means making our propellant
+out of stuff that burns, which generally means
+oxygen, which is a horrible propellant.
+That oxygen, the oxidizer, is providing all
+the energy when it combines with the fuel
+to make the propellant, but it’s essentially
+sapping our total thrust.
+Hydrogen is typically your ideal propellant
+because it’s a single proton and the typical
+speed particles move at a given temperature
+goes with the square root of temperature and
+the inverse square root of particle mass.
+Quadruple the temperature, double the speed,
+Quadruple the mass, half the speed.
+Oxygen, being 8 protons and 8 neutrons, weighs
+about 16 times what hydrogen does and so is
+only moving at a quarter the speed of any
+hydrogen atom at the same temperature.
+We just saw what a big deal exhaust velocity
+was for ships, and quadrupling the exhaust
+velocity of that propellant is the difference
+between a ton of fuel getting 5 kilograms
+away from Earth or about 60 times that.
+It’s a very big deal.
+We have one more problem though, because we
+can’t just quadruple the temperature for
+instance, or we’d melt our engine.
+This is essentially why the ion drive is so
+enticing as an alternative, its shoot particles
+out at very high speed using a magnet and
+electricity to do so.
+This is also why we like using light or lasers
+for a propellant, the exhaust velocity of
+light is the speed of light, and when you
+plug that in as your exhaust velocity, you
+need to be moving at interstellar speeds before
+you even need to worry about the rocket equation,
+as it’s about 100,000 times faster than
+our typical rocket propellants.
+Heat is not the only way to move particles,
+nor does it necessarily require burning stuff
+on location, but it is what gives us high
+thrust and that’s important for spaceships
+leaving Earth.
+We’ve talked about using light sails or
+ion drives in deep space before, such as in
+Interstellar Laser Highways, but it’s not
+something we can really do down here on Earth
+because of gravity and air.
+That air is constantly trying to sap away
+your speed, which is handy for saving fuel
+on landing by aerobraking but not for speeding
+up.
+You also have to maintain at least 1 gee of
+thrust to avoid falling down, which will rapidly
+sap your speed via the method known as Lithobraking.
+So you need to provide a lot of thrust, not
+just a high exhaust velocity but a lot of
+exhaust in a short time.
+We could bounce a very strong laser off a
+mirror on the bottom of the ship, same as
+we consider doing for ships in deep space,
+but this has some problems.
+Photons, by themselves, are pretty much raw
+momentum, they are the perfect propellant,
+and they get around the rocket equation if
+you’re firing them from elsewhere because
+they double up the momentum transfer if they
+bounce and most importantly, you’re not
+carrying them around on your ship.
+If you could, via some sort of perfect mirror
+box with light inside it or with fuels like
+antimatter or kugelblitz black holes, you’ve
+got your perfect launch fuel, mostly.
+See it takes either 3 [correction] gigawatts a kilogram
+or 3 terawatts to push 1 ton of ship at 1
+gee, just enough to make it hover on Earth,
+if you’re carrying it as fuel, and half
+that, 1.5 [correction] gigawatts a kilogram or 1.5 terawatts a ton
+for if you’re bouncing a beam off the ship.
+This is a bit of problem, because that is
+a lot of energy.
+Just to put that into context, a car weighs
+around a ton and the best it can do is 0-60
+in just over 2 seconds, a little over a gee
+of thrust and can kick up to several hundred
+horsepower or around half a megawatt, so they’re
+pulling a similar acceleration as a 1.5 Gigawatt
+laser-beam-bounce will pull off using [correction] 3 million times more power, 6 million
+if we’re just emitting it rather than reflecting.
+What’s more, lasers are quite hard to keep
+on target in air, especially when powerful
+like that, which we discussed in Power Satellites.
+You’re probably wondering why I call photons
+the most efficient propellant when that car
+engine was doing [correction] 3 million times better, particularly
+considering flooring the engine isn’t terribly
+fuel efficient either.
+But that car is getting all its oxygen from
+outside, and it also isn’t using a propellant.
+I mean technically the exhaust pipe on a car
+does produce thrust too but it’s pretty
+minimal.
+We discussed how air-breathing engines worked
+last time in Spaceplanes, but we glossed over
+the energy issue a bit.
+If I release a bunch of photons, 3 gigajoules
+worth for a second, I will have accelerated
+my one-ton craft so it’s going about [correction] 0.01
+m/s faster.
+If instead I heat up a big chamber of oxygen
+with that, dumping 3 gigajoules into roughly
+a ton of air, it will heat up by about 3000
+Kelvin, moving around at about 1600 m/s, and
+if I blast that out the back of that chamber,
+which we’ll say was a ton itself, that chamber
+will fly off at nearly a kilometer a second,
+a hundred times faster than the light beam
+offered, and if the propellant was hydrogen
+molecules instead of air, about four times
+faster.
+Though in fact it wouldn’t since hydrogen
+has a way higher heat capacity than air, about
+14 times as much, but we’ll ignore that
+for the moment.
+Beyond noting that it let’s us add far more
+heat to hydrogen, and thus energy, at a lower
+temperature, and thus helps avoid melting
+our engine.
+Same energy used, 3 gigajoules, but one got
+you a hundred times as much speed.
+The problem is that we had to carry all that
+gas, whereas the photons, assuming we’re
+even carrying them rather than receiving them
+from outside, massed virtually nothing, 34
+micrograms.
+That’s very important when you’re in deep
+space and have no external source of propellant
+and want to reach very high speeds, in which
+case light becomes ideal.
+Here on Earth though, imagine we just had
+a big plane with a propeller and solar panel
+or it’s microwave equivalent, a rectenna,
+which we could beam energy to and which would
+then power that propeller.
+It’s never going to need to land to refuel.
+It’s just sucking air in the front and out
+the back, powered by an electric engine getting
+its juice from elsewhere.
+We can upgrade that to more of a rocket approach
+too.
+We suck air in the front into a chamber and
+superheat it, this is basically how the ramjet
+and scramjet designs we discussed in space
+planes work, and gives them the nickname of
+a stovepipe.
+They have no moving parts, and they use their
+fuel merely to heat air.
+Needless to say we can do that electrically
+same as a typical electric space heater.
+Indeed quite efficiently too, heaters of all
+types, electric or chemical fuel, are the
+only machine we know of that is 100% efficient,
+though that’s a bit of cheater-definition
+since we measure how inefficient other machines
+are by how much of the energy gets squandered
+as heat.
+The limitations on ramjets and scramjets,
+in terms of speed, as we discussed in Spaceplanes,
+is that they run out of fuel to heat that
+air.
+A Scramjet with a beamed source of power can
+keep speeding up as long as it can get enough
+energy in to offset what it’s losing to
+drag and can stuff all that air through there
+at a high enough temperature and rate without
+melting the thing.
+I don’t want to imply that’s the easiest
+of engineering feats.
+Nor is keeping your beam on target, or pumping
+enough juice in to achieve this kind of thrust.
+It’s generally hard to jam more than a megawatt
+of power into a square meter of something,
+and you lose a lot to heat, which in this
+case is fine if you’re using something like
+a rectenna that’s in the actual chamber
+of the scramjet, the stovepipe.
+Especially since all it is then is something
+super-absorptive to the beaming frequency
+that turns it right into heat.
+Your ideal beaming frequency is something
+that is easily absorbed by that stovepipe
+but goes through air and other materials with
+virtually no effect.
+Your stovepipe probably needs to spin a bit
+to make sure it’s getting evenly heated
+by that beam, and done right, it could have
+enough thermal mass to keep going for a while
+even if that beam broke contact.
+Fortunately you are still mere milliseconds
+of light lag from your power sources so maintaining
+that lock or re-establishing it is a lot faster
+and easier than when we discuss power or laser
+beaming for interplanetary or interstellar
+ships.
+The other good news is that once you start
+getting up above the main atmosphere, your
+drag starts going down, though of course you
+are also running low on material to cram into
+that stovepipe and to provide conventional
+lift on your wings.
+Fortunately you’d be moving very fast by
+then, and as you go up more a lot of what’s
+available becomes hydrogen rather than oxygen
+and nitrogen.
+Ideally this should let you avoid even needing
+any on board propellant, but if you do need
+some you’re getting an exhaust velocity
+out of it equal to whatever temperature you
+can max out at, and if we were talking something
+like tungsten’s melting point, 3700 Kelvin,
+diatomic hydrogen would be coming out at 6800
+m/s.
+In an energy rich society that would likely
+do power beaming, hydrogen is easy enough
+to source, what with all those oceans, and
+you shouldn’t even need to tap that until
+you’re nearly up to orbital speed anyway,
+if at all.
+Once you’re out of the atmosphere and in
+orbit, you do need that on board propellant,
+but you don’t need the high thrust anymore,
+and could switch over to a low thrust option
+like an ion drive, powered by that energy
+beam, or even just go the reflection route.
+It’s very easy for me to imagine personal
+spaceplanes along these lines in an economy
+running on either fusion or beamed-in power
+like we discussed in power satellites.
+You use classic propellers or turbofans for
+low speed, switch to the stovepipe scramjet
+for high speeds, and to ion drive or reflection
+once in higher orbit for long slow acceleration
+to interplanetary or interstellar speeds.
+Of course beaming isn’t limited to photons
+either, you could send a beam of ionized particles
+instead, reflected magnetically or captured
+for use as propellant later.
+Though that doesn’t work well in an atmosphere.
+So quite a few engineering challenges but
+no super-science involved either, what’s
+the upsides of this approach, beyond what
+we mentioned?
+First, it does circumvent the giant personal
+weapon issue.
+It’s still a fast device meaning you can
+crash it into something, but unlike our other
+high-power sources – atomic fission, bottled
+light, anti-matter, or black holes, it doesn’t
+actually contain those itself, it just has
+its own kinetic energy and thus is way safer
+for on-planet or low-orbit use.
+Barring a fusion reactor that is also quite
+compact and cheap, this is really the only
+option that would ever permit a personal spaceship.
+Your neighbor can have one in the garage,
+no risk of explosions or terrorist applications
+beyond speeding it up and ramming something,
+which is not very attractive as an attack
+method especially since to get power you need
+that off-site beam and you need precision
+tracking, so if you deviate dangerously you
+can be easily targeted and your hypersonic
+debris is going to mostly burn up before smacking
+stuff anyway, you won’t be pulling high
+speed maneuvers anywhere near the ground.
+So it’s very safe, and it’s also very
+cheap as a spaceship goes, because that core
+engine is just a big scramjet cone and stovepipe,
+probably just raw metal, though it might get
+pricy with extreme precision machining and
+expensive alloys.
+However those are both the kind of thing an
+economy of scale tackles well, so we could
+be talking about car prices, something you
+could probably fit into a large garage and
+could probably buy without being fabulously
+wealthy.
+This will probably never be the most efficient
+way into space, the Orbital Ring is likely
+to always dominate that for reasonably fast
+low-energy ground-to-space options, but for
+an energy rich society, it’s probably the
+safest and most personally convenient approach
+we’ve got.
+It is to the orbital ring what the car is
+to the train, less efficient, but way more
+convenient.
+And it lets you get where you want, whether
+to a destination on Earth, in orbit or off
+to the Moon.
+Indeed it could be scaled up for interplanetary
+travel, your own personal space-yacht, though
+without an onboard power source you do have
+to stay in places where those beams are available
+or have a secondary engine to work outside
+their zone of coverage.
+A bit like early cell coverage, you’d expect
+it to grow with time.
+But it would be ideal for space tourism, which
+we’ll be talking about in a couple weeks,
+and you can just take your own personal ship
+anywhere you want, so long as you stick to
+the powered paths.
+You probably would use that approach too for
+orbital versions, keep a powerful and wide
+beam running between set mirrors or similar,
+to create lanes, minimizing the need for tracking
+and keep the beam on, and also minimize traffic
+problems too.
+If everyone owns one, you definitely want
+some metaphorical roads, or Skyways.
+So we’ve got our upcoming episodes in a
+moment including a livestream this weekend
+and it reminded me of a comment I got after
+one about it being neat during those to see
+where I did all my writing at.
+I know a fair number of writers who can work
+anywhere in a physical sense, but for me the
+old rule of thumb about finding your own space
+to work in is entirely literal, and my office
+at home is entirely configured around that
+and it’s the only place I write.
+Writing is very wide area when it comes to
+both mediums and styles so that no one’s
+process or advice is really going to work
+for everyone, or anyone if you try to mimic
+a process exactly, but some advice is fairly
+universal and that’s one of them.
+There’s an excellent video course by Simon
+Van Booy, 6 Steps to a Successful Writing
+Habit, on Skillshare that I have to admit
+appealed to me in large part because it was
+such a close match for my own process, but
+as mentioned there are many different work
+styles and mediums, and someone used to writing
+news articles on their laptop on the bus between
+events is going to be far different then someone
+writing a novel at a home shared with a noisy
+roommate or someone writing weekly science
+videos while trying to fend off his cats.
+So you if you’re trying to get started writing,
+it’s a good idea to sample the methods of
+a lot different people till you find your
+own, and that’s true of almost any creative
+work, not just writing.
+Skillshare has a ton of videos on writing,
+everything from best methods to how to make
+an interesting protagonist, and a lot of other
+instructive or inspirational videos on creative
+processes like drawing or animating.
+A Premium Membership gives you unlimited access
+to over 20,000 high quality classes on must-know
+topics, so you can improve your skills, unlock
+new opportunities, and do the work you love.
+Join the millions of students already learning
+on Skillshare today with a special offer just
+for my listeners: Get 2 months of Skillshare
+for free.
+To sign up, visit the link in the description
+and the first 500 visitors get 2 months of
+unlimited access to over 20,000 classes for
+free.
+Act now for this special offer, and start
+learning today.
+So as mentioned, in a couple of weeks we’ll
+be taking a look a space tourism, from the
+near-term possibilities of orbital hotels
+to the more fascinating options on the Moon
+and Beyond.
+But first, next week we’ll commemorate the
+Fourth of July, the Day of Barbecuing, by
+taking a look at synthetic meats and other
+tasty technologies, from lab grown meat to
+Mammoth Steaks and Dino-burgers.
+We also have our End of the Month Livestream
+Q&A coming up, this Sunday, June 30th, at
+4pm Eastern, and I hope you’ll join us there
+and ask some questions.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel,
+and if you enjoyed this episode, please like
+it and share it with others.
+Until next time, thanks for watching, and
+have a Great Week!

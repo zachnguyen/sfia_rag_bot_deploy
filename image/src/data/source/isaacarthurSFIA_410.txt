@@ -1,0 +1,730 @@
+This episode is brought to you by Brilliant.
+Money makes the world turn round, so the saying
+goes --
+but how will the economy change as we move
+beyond this world,
+and perhaps even beyond our current understanding
+of money?
+So today we’ll be looking at possible economies
+of the future, from the dystopian to utopian,
+from ultra-scarcity to post-scarcity.
+We’re principally going to be looking at
+how future developments might impact economic
+systems so we’ll try to look at everything
+we can think of, but obviously we’ll never
+get through all the options, or be able to
+cover them all in deep detail.
+As a quick sidenote, channel regulars probably
+know I’m getting married this weekend, and
+I’ll talk about that for a bit at the end
+of the episode, but I did just want to confirm
+that we are still having episodes during my
+honeymoon but I’ll be delayed responding
+to comments and the next couple episodes will
+air while Sarah and I are away on our honeymoon,
+so advance warning we might get some technical
+difficulties or delays with me out of the
+studio.
+Unsurprisingly, weddings tend to make one
+think of the future and economics, so it was
+an interesting time to tackle this topic.
+What do stuff like extended lifespans do to
+retirement, pensions, debt, and interest?
+What sort of effect on the medical industry
+is there if someone comes by and invents little
+medical nanobots that can fix almost anything?
+What does an automated manufacturing chain
+do besides make things cheaper and put folks
+out of work?
+What kind of money, if any, does an advanced
+civilization use?
+I figured we might as well start with this
+one.
+Some Science Fiction, like Star Trek, has
+a tendency to assume an ideal future economy
+is post-scarcity, and that it wouldn’t need
+money.
+That might be so, but in my experience this
+generally just means a currency by some other
+name.
+I can’t really see how you could have an
+economy that didn’t have money of some sort,
+as the basic premise is that I want something
+or to do something and need someone else to
+do it, or do it better or faster at least.
+Even if we assumed you had infinite resources
+and automation that could spin up any object
+on the spot in an instant, which probably
+can’t be made, see the Santa Claus Machine
+episode for why, physical objects aren’t
+the only commodities, and grow less so every
+day.
+Nor are we just talking about a book or computer
+program, which can be endlessly copied.
+If folks are all wealthy, they might write
+or program for free, simply for the fun or
+prestige of it, which is arguably a commodity
+in itself.
+In a very advanced civilization folks might
+not need to consult others for their skills
+as some artificial intelligence might easily
+provide consultation and work on anything.
+However, you still have some things which
+are finite.
+Bandwidth, radio frequencies, energy off the
+sun or reactor fuel, how much heat you can
+get rid of, and even how much matter you can
+import into an area without undergoing gravitational
+collapse, all represent finite things under
+known physics.
+Your total population, if growing, can also
+always turn any finite supply, no matter how
+abundant and easily acquired, into a scarce
+circumstance if those resources aren’t growing
+as fast as the population is.
+So a post-scarcity civilization can become
+a scarce one again, even if their tech has
+improved, simply because they decided they
+wanted more people.
+When it comes to clearly finite things like
+radio or sunlight, some person or group or
+whichever has control of those in some fashion
+and has to administer their use, and it’s
+a bit hard to imagine how such exchanges of
+control would be conducted without some medium
+and method for conducting them, which essentially
+is then a currency or money.
+Even if it is something like a set quota per
+person or traded on perceived use or need,
+there is an exchange, and those might be influenced
+by things like the prestige of the person
+or project involved, in which case you just
+get prestige as money.
+Indeed one might argue that money itself is
+really just a generic, mobile, and liquid
+abstraction of things like influence, respect,
+trust, reputation, and prestige to begin with.
+In a family or small tribe you don’t usually
+bother with currency or even a barter system,
+you need those when your civilization is big
+enough that not everyone can have great knowledge
+of each person they’re dealing with.
+With those close to us, friends and family,
+we do still engage in exchange but it’s
+rarely as simple as this for that or quid
+pro quo, in the background of every exchange
+is that entire history of that relationship
+in which exchanges happen constantly, every
+time you so much as pass the salt at the dinner
+table, and each exchange impacts all future
+or ongoing ones in rather non-precise ways.
+Two interesting notes on that though.
+First, it is conceivable a society with lots
+of mental augmentation capability might be
+able to so increase our capacity for tracking
+social interactions that our Dunbar’s Number
+for humans – the number of people you can
+have complicated relationships with at once,
+usually put as about 150 people – might
+skyrocket to a far higher number.
+Second, technology often offers surprising
+changes.
+For instance, we probably will live in a world
+even in our lifetimes in which pretty much
+every action you take is recorded, even if
+just by your own devices, and in which data
+is heavily analyzed by AI in the background.
+We’ve talked before about that making it
+very easy to help folks keep track of their
+keys or other possessions prone to getting
+lost, as well as figuring out all sorts of
+helpful health or behavioral patterns.
+But it could go a lot further than that and
+potentially track and catalogue every interaction
+you had with someone else and credit you some
+sort of social currency.
+Indeed that notion, of social credit, along
+with general privacy concerns of constant
+monitoring and advanced analysis, are rather
+troubling to contemplate all on their own,
+as we looked at in our Post Scarcity Civilizations
+episode on Privacy.
+For good or ill, we are likely to see at least
+some places opt to introduce this notion of
+a social currency in the future and you can’t
+really isolate commodities from the main market,
+so if you have a social currency you’d be
+able to buy it somehow with regular money,
+much as many online games have their own in-universe
+currency and items that folks often trade
+for real money.
+Another example might be appearance.
+Right now, nobody, no matter how egalitarian
+a society might wish to be with money, will
+have things like intelligence or appearance
+be uniform, and these can be advantageous
+and are at least partially inherited.
+However we do need to consider that in the
+future the equivalent of cosmetic surgery
+might be so easy and safe and extensive that
+you could get yourself basically whatever
+body type you wanted, even for things like
+height, gender, race, and so on.
+Such a civilization could opt to be more egalitarian
+by requiring everyone look alike, or simply
+be prone to detaching appearance from their
+thinking as folks were prone to always looking
+like supermodel athletes and could change
+their appearance without much more difficulty
+than we change clothes or hair colors nowadays.
+Intelligence might be the same.
+I’m not a fan of the concept of IQ as I
+consider it rather over-simplified, nor of
+treating it like your IQ score was a direct
+analogy to some computer chip’s processing
+power, but the analogy works for our purpose
+today.
+We have a bell curve distribution of intelligence
+normalized to 100, with outliers quite far
+from that and all sorts of sub-types of intelligence
+like memory or spatial imaging too.
+However if you’ve figured out the brain
+well enough, and genetics or cybernetics well
+enough, you could potentially just be giving
+everyone the same processor so that you had
+a very tight bell-curve instead, everybody
+about the same intelligence, everybody smarter
+than Einstein and yet no Einsteins because
+everybody is about as smart as everyone else.
+Knowing people, I am pretty sure that if everybody
+was a super-genius walking around in the body
+of a bronze god, you’d still get folks driven
+to excel or rebel or establish a pecking order,
+not wanting to be the same as everyone else
+in everything, even if that ‘same’ was
+so impressive they’d have been worshipped
+as a superman by prior generations.
+That implies a need for exchange or system
+of competition too, thus implying some sort
+of currency too and an economy.
+Though it doesn’t necessarily have to come
+from a government, or have universal participation
+in the same system.
+Though I suppose we might also contemplate
+a civilization which viewed such urges as
+mental disorders subject to being fixed by
+advanced psychology and neurology.
+We can’t ignore that sort of thing in economics
+either, most of our vices are relative things
+and its extreme cases we tend to view as bad,
+greed for instance presumably derives from
+a basic survival instinct run a bit to excess
+and a lot of the aspects of consumption that
+many folks frowned on might be something a
+society casually and effectively treated in
+children.
+Whether or not that is a good thing would
+obviously depend both on one’s personal
+opinion and the method of treatment.
+This raises the notion of what we call a Post-Discontent
+Society, a variation on a Post-Scarcity Civilization,
+as well as how we define Post-Scarcity.
+Here on SFIA we usually opt to define a post-scarcity
+civilization as one in which the sorts of
+basic needs at the bottom of things like Maslow’s
+Hierarchy are just so easily obtained by virtually
+everyone that they don’t produce any significant
+anxiety.
+For instance, most of us don’t worry much
+where our next breath of air or sip of water
+will come from or if we’ll have a warm meal
+and bed waiting for us tonight, and certainly
+less than our ancestors did.
+So we view it as a scarcity of anxiety essentially,
+rather than a scarcity of raw materials or
+energy specifically.
+By default, the higher you go on Maslow’s
+Hierarchy of Needs where those needs are satisfied
+easily, the more post-scarcity you are.
+As an example, in an ideal post-scarcity civilization
+every last need on Maslow’s Hierarchy is
+filled, all the way up to stuff like Self-Actualization
+and a feeling of achievement.
+Needless to say, we assume it means access
+to things to fill those needs is generating
+the absence of anxiety, as opposed to simply
+feeding folks drugs or propaganda to suppress
+their worry over them, and we call that a
+Post-Discontent Society, one where people
+simply don’t worry about it rather than
+having no real cause to worry about it.
+A civilization whose psychologists are so
+good, people don’t get needless anxiety
+over phobias or self-esteem issues would presumably
+be a good thing, but being able to brainwash
+folks so they were happy living in a slum
+and working 16 hours a day 365 days a year
+is presumably not, and this would be a Post-Discontent
+Society rather than a Post-Scarcity one.
+This would also be an example of a civilization
+where most people didn’t need money, since
+you’re essentially not letting them have
+personal goals they wish to achieve that might
+require something more than what they’re
+allotted.
+Also needless to say, such things could come
+in many shades and degrees and might be the
+fairly mild dampening of human desires or
+the flat out dystopian.
+See the post-scarcity civilizations series
+for more discussion of this entire topic.
+But that’s what a post-scarcity civilization
+is and what we’d presumably like to be aiming
+for.
+What sort of things get us there?
+What technologies do we need?
+Well, again, it would come in many levels
+and varieties so it’s not really a finish
+line you cross, nor necessarily a permanent
+state, but we should start by acknowledging
+that we have a lot of folks who are essentially
+post-scarcity even today and it’s not entirely
+a new thing.
+A nobleman living in a past time rarely worried
+about his next meal, though often had to worry
+about many other things like rebellion or
+annexation, and of course most people did
+have to worry about their next meal.
+We have no shortage of our own problems nowadays
+but most folks living in the wealthier nations
+obviously have a lot less basic survival concerns
+than our ancestors did.
+There are 3 things that would, either together
+or in tandem, make us at least hit the bottom
+of the Post-Scarcity pyramid.
+First is energy, it’s our lifeblood and
+we have plenty but more would be good and
+more importantly we don’t have a stable
+and safe supply.
+Even if we ignore the ecological concerns,
+that possibility of running out of fossil
+fuels in decades, or centuries, prevents us
+from being post-scarcity.
+Now as best we can tell the resources of this
+Universe are finite and entropy puts a limit
+on anything being truly renewable, so even
+a civilization that had mastered Fusion Power
+or Black Holes can run out of energy, but
+these are on scales of timelines in the trillions
+of years or longer, and if we’re talking
+about civilizations it’s generally pointless
+to use a definition for one that would require
+timelines longer than any existing civilization
+has ever lasted, let alone all of them or
+even the planet they’ve been on.
+It’s also why we avoid using a scarcity
+of a specific resource when discussing post-scarcity
+here, in a finite universe any commodity can
+become scarce, and indeed you can get bottlenecking
+of supply even in infinite systems.
+An infinite supply of water does a farm no
+good if it can only pump a few liters per
+minute to a location because of a finite supply
+of plumbing equipment.
+We’ve spent a lot of time talking about
+all the cool options a vast new, cheap, and
+renewable power supply offers humanity in
+other episodes, everything from vast vertical
+farms or space farms to interstellar travel
+to new worlds or even building your own worlds
+or megastructures, so we’ll leave it at
+that for now.
+Our second option is simply better analysis,
+and as we discussed in our episode the future
+of garbage, civilizations tend to produce
+a lot of waste in their supply and utilization
+chains, and one who has gotten way better
+than us at that analysis, distribution, and
+utilization problem might well be post-scarcity
+even with just what we’ve got right now.
+Far better computing and Artificial intelligence
+might be amazingly good at that sort of thing,
+and even for scarcity issues beyond the lowest
+tiers of survival needs.
+For instance higher on Maslow’s Hierarchy
+are those things like self-esteem, social
+and romantic relationships, and so on, and
+very good analysis might make it possible
+to match up folks with the job that they both
+loved and were good at and help them screen
+for friends and partners who were particularly
+well-suited to them and vice-versa.
+Now, we don’t actually pick our relationships
+out of a hat at random, even friends you meet
+at work generally have more in common with
+you than most people picked at random.
+If you’re a computer programmer who loves
+science fiction, odds are pretty good compared
+to random that your coworker shares those
+interests and likely many other associated
+ones.
+A more remote form of work, where folks clock
+in by computer from home, might tend to interfere
+with that, but on the other hand there is
+likely to be a lot higher concentration of
+folks who love their job at a given workplace,
+real or virtual, simply from better matching
+of people to jobs.
+That’s an interesting consequence of remote
+work, a thing that is growing in our current
+economy and will probably grow much more.
+It’s much easier to find a hundred people
+who absolutely excel at and love a specific
+job if you can screen an entire continent
+for them not just your local town.
+This of course assumes there are any jobs
+in the future, but even if there aren’t
+- at least as we understand a job nowadays
+- it will take a while to get from here to
+there.
+Our third option for post-scarcity is automation,
+robots and so on, and obviously these eliminate
+a lot of jobs too.
+This isn’t new and in the past we’ve eliminated
+a job and produced new ones, causing disruption
+but still getting folks gainfully employed
+and at a higher average standard of living.
+There are concerns that trend might not continue,
+that you’d really only have jobs for a tiny
+few and those owning most near everything,
+and you’d have to institute something along
+the lines of a UBI, Universal Basic Income.
+Now definitions vary on this but the usual
+notion is everyone receives some set amount
+of funds, income, or stipend simply for existing
+or being a citizen, regardless of merit or
+standing, much as we generally would do for
+things like rights under the law, police and
+military protection, voting, access to libraries,
+and often things like education or healthcare.
+I’ve seen other versions which link it to
+merit too, like being able to get extra for
+community service or suspension for criminal
+conduct but the most commonly referenced form
+at the moment is a stipend set to be roughly
+at what the minimum reasonable income for
+living is, decoupled from any behavior on
+the individual’s part.
+The pros and cons of that, and the ethics
+of it, are obviously debatable and dependent
+on how you’re doing it.
+For instance, behavior or merit based bonuses
+or penalties can have appeal but can also
+make the skin crawl at thinking about who
+decides what good and bad behavior is or if
+someone is acting that way.
+But if instituted it obviously greatly impacts
+the economy and in some not so obvious ways.
+Much like radical life extension it might
+have some strange effects on interest rates
+and lending.
+Can people borrow against their UBI, or can
+a creditor garnish a UBI income?
+Do folks opt for mortgages more often than
+renting homes, with a guaranteed basic income?
+Do they lease vehicles more or less than now,
+or other major purchases?
+In terms of housing, especially combined with
+remote work, might a set stipend encourage
+a lot of folks to move out of cities to where
+money tends to go further?
+We tend to assume, from this last century
+or so, that cities will just get bigger and
+more numerous, but they grew because they
+offered better pay, more variety of jobs,
+and easier access to lots of commercial and
+recreational options.
+What happens when you can work from home,
+even on another continent, when you can get
+virtually anything delivered to your home
+rapidly via drone, and when many recreational
+options are digital?
+You can get similar effects from automated
+vehicles too.
+Not only would they tend to make freight a
+lot cheaper, lowering the price of almost
+everything significantly, but it changes around
+your commute.
+Cars might tend to get remodeled to be more
+focused on a passenger trying to get work
+done or simply relaxing while en route.
+Long commutes might be less bothersome to
+folks, which might have the reverse effect
+of remote work, which many people prefer simply
+because they don’t have to do the long commute.
+It’s a good reminder that seemingly inevitable
+consequences of one new technology can be
+impacted or even reversed by another technology.
+As another example, we mentioned energy abundance
+as one major economic impact path and prerequisite
+for post-scarcity, but energy abundance that
+takes people off the grid varies a lot from
+one that requires everyone be linked together
+by wires.
+Folks sometimes suggest that energy might
+become the new currency of the future too,
+and I’ve also suggested that heat rather
+than energy might be currency.
+This of course would be an example of a Commodity
+Currency, one in which a specific commodity
+like gold or grain was what people traded
+directly or traded tokens for.
+This is as opposed to a Fiat Currency.
+Fiat currency is where the medium of exchange
+is not a specific commodity or token for that
+with some intrinsic value but where the issuing
+entity, like a government, says the money
+has a value.
+We discussed the difference between commodity
+and fiat currency more in our Cryptocurrency
+episode, and I’d generally tend to assume
+fiat currency will remain the norm in the
+future.
+However other options for a commodity currency
+beyond energy or heat removal might be processing
+power, raw materials or reactor fuel, man-hours,
+or going back to using land as one.
+We’ve a set amount of land right now, but
+construction of space habitats like the O’Neill
+Cylinder might result in land returning as
+an official or default commodity currency.
+The problem with a fiat currency is that it
+requires a very stable entity like a government
+to keep it stable, and an unstable currency
+is not desirable, that is one appeal of cryptocurrency
+since it is a bit less dependent on any given
+nation or group being stable.
+Outside of a solar system, or even a planet,
+it’s harder to do a fiat currency simply
+due to light lag issues and all the complications
+attached.
+For instance if you’re trading between solar
+systems you might need to convert money not
+just over many light years but centuries of
+time elapsing from when you left to when you
+arrived.
+Aluminum used to be super-expensive and is
+now quite cheap, processing power as a commodity
+is only plausible over long times if you plateaued
+in your computing technology, and so on.
+Something like that makes a commodity currency,
+using heat or energy or gold for some examples,
+a little more attractive if you have a commodity
+that would have reasonably stable value between
+times and places and is reasonably mobile,
+and there aren’t too many good candidates
+that meet all of the above.
+We may look at that more in the future if
+we choose to discuss interstellar trade but
+as we saw in our episode on interplanetary
+trade, where light lag is still fairly minimal,
+banking is already problematic and might require
+going a bit vintage in some regards, to use
+modernized versions of banking techniques
+we had before we had radio or telephones.
+It does all leave the question of what most
+folks are spending most of their money on
+though.
+As an example, even though in the past most
+people grew their own food and bartered for
+goods, we can still say the super-majority
+of the economy was food as food production
+was the super-majority of jobs and labor.
+Nowadays that value is about 1.3% in the US,
+of people whose job is farmer or rancher,
+and even when you count related aspects, the
+food sector makes up only about 5% of the
+US GDP, not the well over 50% it has for the
+vast majority of human history.
+That will likely expand in an absolute sense
+as folks desire more elaborate and diverse
+food or preparation and handling, but it’s
+likely to decline proportionally as we grow
+in technology and industry.
+For that matter a lot of things are likely
+to grow more durable.
+Planned obsolescence is a real thing, but
+mostly stuff doesn’t last as long as it
+could because we expect it to be obsolete
+and people to want to upgrade or change, so
+spending an extra 25% manufacturing it to
+last twice as long isn’t necessarily a good
+plan, even though it would seem a smart move.
+You just have no motive to buy a smartphone
+that can last 20 years but costs significantly
+more when you will almost certainly want a
+newer better model inside 5 years.
+But as we discussed recently in Technological
+Stagnation, tech could plateau, and probably
+will on many things, and production shift
+to the more durable.
+Simultaneously a lot of new materials and
+manufacturing make things more durable than
+they used to be.
+If wealth grows until the average person’s
+living standard is better than the typical
+millionaire today, much as it is now compared
+to a millionaire a hundred years ago in many
+relevant respects, what are folks buying with
+all that money?
+If food and most commercial goods are dirt
+cheap through automation, if houses are built
+to last from high-tech materials and maintenance
+technologies, if people never go to doctors
+except for weird cases because little nanobots
+constantly fix every little scrape or bit
+of DNA damage, what on Earth do folks spend
+their money on?
+As we’ve noted in discussion of transhumanism,
+a person with serious cybernetic and mental
+augmentation could potentially comfortably
+live in a dilapidated shack eating literal
+dirt with easy free access to all of humanity’s
+stored knowledge and entertainment in their
+head or the cloud.
+It’s strange to think of it this way perhaps
+but an economy is essentially run on a sense
+of purpose, folks have personal goals and
+purposes and they interact with others to
+fulfill those, and that’s essentially our
+economy.
+By default that has usually been the default
+basic needs for survival, so to figure out
+what the economy of the future will be, we
+need to know what people want, what their
+day to day purposes and goals are, as combining
+that with the available technology tells us
+what folks will be making and buying.
+And of course, while we don’t know what
+on Earth they might want to buy a century
+from now, there is a good chance it won’t
+be anything on Earth, pursuing some of the
+options off our world or in virtual or digital
+existences, and we’ll be exploring those
+more next month.
+We’ll get to the schedule and announcements
+in just a moment but first, one of the big
+things we can say for sure about the economy
+of the future is that it will involve a lot
+more remote work and also remote learning,
+and of course a lot more computers, particularly
+AI using neural networks, advanced new computers
+able to make predictions and decisions far
+better than classic approaches.
+If you’re interested in learning more about
+Neural Networks, there’s a great course
+for it over at Brilliant.
+Brilliant makes learning fun and easier, and
+lets you do it from the comfort of your own
+home and at your own pace.
+Brilliant is an online learning community
+with over 60 interactive courses and many
+quizzes and puzzles, plus fun Daily Challenges
+that help get the brain warmed up for the
+day.
+Those Challenges provide a context and framework
+that you need to tackle, so that you learn
+the concepts by applying them, which is the
+best way to learn new concepts.
+Brilliant has brand-new interactive content
+that makes solving puzzles and challenges
+even more fun and hands-on, plus their online
+community gives you places to discuss the
+material or ask questions, and their mobile
+apps offline feature lets you take courses
+even when you’re not getting a good signal.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+I probably don’t need to tell anyone here
+that education, and new methods and approaches,
+are very important.
+Unsurprisingly it’s an opinion I share with
+my future wife Sarah Fowler, who serves on
+the Ohio Board of Education representing northeast
+Ohio these last 8 years since she was first
+elected back when she was only 22, and as
+the first homeschooler ever elected to a State
+board of Education.
+Needless to say I’m exceedingly proud of
+her for that and many other accomplishments
+and have counted her as a friend for over
+a decade now, having met her not long after
+I got back from the War.
+If I’ve never mentioned before I was homeschooled
+myself, though only from age 10-16 when I
+started college.
+As I mentioned near the beginning of the episode,
+we are getting married this weekend and the
+two big questions are will the show be on
+hiatus during my honeymoon and how to send
+a gift.
+While I am a bit of workaholic, obviously
+I won’t be producing material during our
+honeymoon, however the episodes are all ready
+to go and I’ll just pop in on Thursday morning
+to release them, so yes we will be having
+our regular Thursday episodes still, though
+not our usual end of the month livestream
+for April.
+As to anyone wanting to send a gift or grab
+a gift card, those are of course very welcome,
+and I’ll include a link to the wedding registry
+in today’s episode description for those
+so inclined, though please do ensure that
+you include a name and address so we can send
+you a thank you card.
+One sad note, do the health crisis the International
+Space Development Conference scheduled for
+the end of May in Dallas has been cancelled,
+and I had been scheduled to go to that and
+give a talk on space colonization and receive
+the Pioneer Award, which is a very great honor,
+and was looking forward to meeting some of
+you in person since I so rarely do public
+talks and the last one was last year at the
+Carnegie Science Center.
+As an upside, that does mean we will be able
+to have our end of the month livestream in
+May, and we’ll get to unveil the new studio
+for that, and with that ready we’ll be able
+to start experimenting with some fun new upgrades
+and additions to the show for future episodes.
+Speaking of future episodes, today we were
+looking at future economies and one point
+we skipped over was how it’s very locked
+into what human’s desire.
+In an economy run by AI, even if they keep
+humans around as friends or pets, it’s really
+they who are the consumer’s making decisions.
+But we also want to consider how human’s
+spreading out to new worlds or even those
+remaining here might begin to diverge from
+modern humans rather noticeably, and we’ll
+explore that next week in Genetic Divergence
+and Civilization.
+The week after that we’ll look at more cybernetic
+angles to humanity’s future, as we discuss
+the concept of Life as a Digital Being.
+For alerts when those and other episodes come
+out make sure to subscribe to the channel,
+and if you enjoyed this episode, hit the like
+button and share it with others.
+Until next time, thanks for watching,
+and have a great week,
+I know I will.

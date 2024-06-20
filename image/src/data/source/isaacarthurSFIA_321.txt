@@ -1,0 +1,629 @@
+This video is sponsored by CuriosityStream.
+Get access to my streaming video service,
+Nebula, when you sign up for CuriosityStream
+using the link in the description.
+In the future we may be able to control machines
+with our minds… though that may open the
+door to others being able to use machines
+to control our minds.
+So today we’ll be looking at BCI, Brain
+Computer Interfaces, and updating on the progress
+that’s been made since we last looked at
+the topic in mind-machine interfaces a couple
+years back.
+And we’re going to dig into how BCI will
+work, beyond the usual assumption of us just
+jamming wires into someone’s head.
+We’ll look at the impact BCIs are going
+to have as they rollout over the next couple
+decades.
+Make no mistake either, these are coming and
+sooner than later, your ability to think stuff
+directly into a computer and vice-versa, computers
+thinking stuff directly into you.
+Or more directly anyway.
+As I often mention in discussions of this
+topic, Technological Telepathy or Brain-to-Brain
+interfaces is something we already have.
+You send a signal from your brain to your
+finger to hit a key which inputs into a computer
+that does something and displays that effect
+to a monitor which transmits to your eye,
+which your brain then sees and decodes and
+interprets.
+BCI is about cutting down on the steps or
+delays, and there are three primary ways that
+happens.
+The first is by cutting down on the number
+of middlemen, an example of which would be
+thinking letters or words onto a screen instead
+of sending a signal to your fingers and from
+them to their keyboard.
+The second is cutting down on delays, most
+folks speak 4 to 5 times faster than they
+type, and that’s only including folks who
+type a lot.
+The record typing speed incidentally is 212
+words a minute, set by Barabra Blackburn in
+2005, which is faster than most folks talk,
+but the record speaking rate, held by Steven
+Woodmore, is still more than 3 times that,
+637 words per minute.
+However speaking is still sending a signal
+to your mouth, tongue, throat, lips, etc,
+so we’ve got delays from these extra steps.
+The third is all that encoding, decoding,
+and interpreting.
+You sending a signal to a hand and finger
+to find the right key, often including glancing
+at the keyboard to check position, is no easy
+thing compared to just thinking the letters
+A or B or C. Nor is it any small task to control
+your vocal cords or interpret sound vibrations
+or images as concepts.
+They only seem simple to us from a lifetime
+of practice.
+There’s a lot of time and effort spent on
+that, and also a lot spent on conceptual compression,
+trying to express a concept accurately with
+as little time and effort as possible, which
+often results in confusion and misinterpretation
+by others, and requires much standardization
+of arbitrary words and phrases to minimize
+that.
+So BCI is about trying to cut down on all
+those steps, those middlemen, who introduce
+more time, more effort, and more confusion
+into our ability to interact with the Universe.
+Or with each other, and that’s another application
+of BCI, and probably a more valuable application
+than most, how it may speed up and improve
+human to human interaction, which if done
+with a computer as the lone middleman might
+be a Brain to Computer to Brain Interface,
+BCBI or Technological Telepathy though that
+probably doesn’t properly represent the
+notion.
+How does this get accomplished, this direct
+brain to machine interface?
+Well, at the moment it is indeed mostly done
+by jamming wires into someone’s brain, usually
+a rat.
+An image that always comes to mind for me
+is Neuralink’s rat with a chip on top of
+its skull that looks like a mohawk.
+We call this approach invasive BCI, and as
+we’ve discussed before, this offers the
+option of higher accuracy but I suspect it
+will not compete well with non-invasive options
+unless vastly superior.
+We often see folks in science fiction with
+‘neural jacks’, some port a wire can be
+stuck into to hook them up to their interface,
+but I suspect in the long run BCI will either
+be non-invasive scanners, or something surgical
+but akin to threading a detector mesh under
+the skull or throughout the brain so that
+there’s nothing sticking through the skin
+and no physical link.
+The big news for today, as I write this episode
+on April 12th, is that Elon Musk’s company
+Neuralink has gotten a monkey named Pager
+implanted with a chip, and as Musk tweeted
+“A monkey is literally playing a video game
+telepathically using a brain chip!!”
+On the one hand that really is impressive,
+on the other hand, that’s not exactly new.
+We’ve been doing monkey tests of computer
+cursor control for a couple decades now, but
+it’s a big step up.
+Pager had a chip implanted then they mapped
+his signals while he played games with a joystick
+and bribed him with banana smoothies, they
+eventually unplugged the joystick, which Pager
+used out of habit still but the motion was
+being mentally controlled, not by the joystick,
+then they had him playing Pong again.
+It's amazing overall progress, though maybe
+a little overhyped, again we’ve had basic
+cursor control for years and it's not really
+superior to options like following someone’s
+eyes or just holding a mouse or joystick,
+making it principally of interest for folks
+with disabilities, though that is obviously
+still of amazing value.
+So while maybe a bit overhyped it is still
+progress of an impressive caliber.
+A lot of that work is also about making sure
+nothing sticks through the skin, which is
+your big infection risk, and they’ve had
+good luck implanting chips into pig’s brains
+with nothing needing to poke through to outside.
+So how was it done?
+It varies by experiment and approach but the
+one being used by Neuralink is to stick wires
+thinner than a hair into various areas of
+the brain that control movement.
+These areas are used because the test subjects
+are animals, and while you can’t ask animals
+questions about what they’re thinking or
+visualizing -- or at least can’t expect
+clear answers -- you can see the animals move.
+Our brains – and our animal cousins’ brains
+– work on sending electric signals around
+so the wire can pick up a change to that in
+that portion of the brain.
+You put a bunch of these in throughout the
+motor control area and you record which are
+changing by how much as the test subject,
+be it monkey, rat, or pig, moves around or
+performs some task.
+There are applications for humans of course,
+like human prosthetics, but much of this is
+testing out the basic interface and its insertion
+and maintenance.
+When they’re good enough that we feel comfortable
+putting them into a healthy human skull simply
+for experimentation, then we can start doing
+things like asking abstract questions or holding
+conversations and seeing what bits of the
+brain light up.
+Neuralink isn’t the only group looking at
+these things, nor the first, but let’s continue
+discussing their tech.
+The link is a sealed, implanted device with
+many “neural threads” coming out of it.
+The implants process, stimulate, and transmit
+neural signals, and they are inserted in various
+regions of the brain.
+They are far too numerous and delicate for
+a human surgeon to do the work, so a lot of
+the research has been on making a robotic
+surgeon that can handle the implantation.
+In theory stimulating the brain by running
+current through the wires will allow feedback.
+To insert or effect the brain rather than
+read it, which is the second half of the task,
+computer to brain interfacing.
+The near term goal for the link is one with
+1024 threads or electrodes.
+Since you’re a human you could learn how
+to push each mentally, and be able to start
+recognizing and quickly mentally stabbing
+those in two or three key combinations to
+produce desired and programmable effects.
+If that sounds hard keep in mind that it’s
+no different, and indeed probably easier,
+than learning to control your fingers or type
+on a keyboard or use any of those devices
+we all have that took a few days to get used
+to but afterward through practice became second
+nature.
+In that same way, most of us by adulthood
+can glance at a big block of text and rapidly
+decipher it into words with little effort
+or attention, and decipher sound or video
+into concepts or words far younger.
+So while the long term goal of BCI, from an
+input standpoint, would be to funnel an image
+right into your brain, not via your eyes,
+or a word into your brain, not via your ears
+or eyes, you could probably learn pretty quickly
+and intuitively how to feel those inputs on
+those same wires you were using to send signals
+out to the link.
+Some options might lead to more intuitive
+controls than arbitrary assigned buttons though,
+like a remote.
+Learning to stimulate wires 3, 72, and 997
+to turn on a light and 3, 42, and 654 to turn
+one off is definitely a practice and memorization
+thing, though again probably a lot easier
+than learning to recognize a light switch
+and building up the habit of physically searching
+that spot near the door they tend to be at
+when hunting for one in a dark room.
+However if you have a lot of light switches
+in a room, or lights, you might have the default
+on/off light wire combo that combines with
+something more intuitive like tracking where
+you’re looking for the link or interface
+to figure out which light you’re trying
+to turn on.
+Interface options that were fairly set, on/off,
+brighter or louder vs quieter or dimmer, next
+and back, left or right mouse button, combined
+with a cursor control or something monitoring
+where your eyes are looking at might become
+a standardized approach.
+Now truth be told turning lights on or off
+as you enter a room by mental command is just
+one step up from voice command options, which
+are nice and handy but honestly not that handy
+in day to day life compared to remotes or
+manual control, and we are talking about jamming
+wires into your skull, which is a pretty big
+investment financially and emotionally for
+folks for a minor convenience, even is jamming
+wires into your skull is rather hyperbolic.
+Alternatively learning to type 5 times faster
+mentally might be well worth it for a lot
+of folks, for instance, and the financial
+and emotional investment is just the current
+or near-term entry fee.
+Down the road it is likely to be pretty cheap
+and easy and routine.
+To get there though we have a lot of barriers,
+and let’s discuss those.
+This sort of interface, threading some wires
+into the brain to a receiver and transmitter,
+is conceptually easy enough.
+Our brains send signals around in the microvolt
+range and by itself this is easy to read and
+making wires that small is all stuff we could
+have done at any point in the last century,
+and indeed frequently did.
+But to do it right, to have long term subtle
+implants, it means getting our wires compatible
+with the tissues near them, namely neurons.
+We want electrodes with the scale and flexibility
+of those neighboring neurons, protected from
+corrosion of the surrounding fluids or from
+doing any damage to those neurons.
+We need something that takes a long time to
+break down, which is tricky for a wire thinner
+than a human hair, and which decays into something
+harmless, or which doesn’t breakdown and
+is easily removable if damaged..
+We also need a safe way to power the device.
+Hypothetically the electric signals in your
+brain can power it, but probably not strong
+enough to transmit wireless through the skull,
+and probably not to allow any feedback, the
+wires sending signals down those parts of
+the brain.
+So we need to decrease power demands or find
+a way to generate power locally.
+This of course is part of the appeal to a
+physical link in the back of the skull, so
+you can run power in that way, and we probably
+can handle the infection concern of implants
+piercing the skin someday.
+We examined some of those options in our recent
+Biotech episode.
+We also can transmit power wirelessly, not
+just information, and the low wattage need
+of the brain implants might make a wireless
+charger in your shirt’s collar a perfectly
+viable power supply option.
+Still, our brain gets power, indeed it’s
+the most energy hungry organ of our body,
+so we could probably hijack some of that fuel
+to run the device.
+Our brain runs on the equivalent of 20 watts,
+devices like this would be expected to run
+on an order of magnitude less power, so hijacking
+some of the fuel going up to the brain, so
+long as we stimulated the body to send more
+fuel along, is one possible way to power such
+implants and one we often consider for other
+implants outside the brain too.
+Adenosine Triphosphate, or ATP, the powerhouse
+of the biological cell, is potentially usable
+to run mechanical and electronic devices too.
+We also use a lot of ATP, a single cortical
+neuron burns through nearly 300 billion ATP
+molecules a minute in your brain.
+There’s potentially a lot of advantages
+to being able to use ATP to run internal devices,
+and to being able to increase ATP production
+in the body, for that matter.
+Ultimately one of our goals will probably
+be to grow electrodes very similar to neurons,
+potentially even artificial neurons.
+Those come in a big array of sizes and shapes
+but the four basic types are Unipolar, Bipolar,
+Multipolar, and Pseudo-unipolar.
+Most sensory cells are pseudo-unipolar.
+These are up on the screen for those watching
+rather than listening, but a unipolar neuron
+looks a lot like a small tree in a pot, waiting
+transplant, with the pot being the Soma, the
+main chunk of the cell containing the nucleus,
+and the trunk coming out of the pot is the
+Axon, or nerve fiber, and the branches sprouting
+out are the dendrites.
+A bipolar neuron is the same but has two trunks
+or axons sticking out of the soma or pot,
+each with dendrites, while a multipolar is
+more like bush, lots of small little trunks,
+axons, each with dendrites.
+Pseudo-unipolar neurons have one trunk that
+splits into two extensions, each with their
+own dendrites, rather than two sticking out
+from the soma itself, and again are the main
+sensory neurons.
+One of the sets of dendrites is receiving
+sensory information and the other transmitting
+it, and they would be of particular interest
+to us further ahead in BCI technology when
+we get to the stage we can play with individual
+neurons and want to be sending and transmitting
+high resolution sensory data.
+You could run a wire to each side of each
+sensory pseudo-unipolar neuron for instance,
+and that is physically possible and doable
+with even fairly modest nanotechnology and
+nano-robotics, but we are not anywhere near
+that good yet.
+That is the level of technology though that
+allows someone to exist in either a virtual
+reality or augmented reality while receiving
+vision, hearing, taste, smell, and touch that’s
+indistinguishable from reality.
+A little more on neurons.
+Talking about putting a wire down to each
+one of them starts sounding like some serious
+micro-sizing down to the atomic scale, there
+are a hundred billion neurons in the typical
+brain after all, but as is often the case
+with scale in science and futurism topics,
+that can be misleading.
+Your brain has a hundred billion neurons,
+but each composed of something like a million-billion
+atoms itself.
+Neurons are on the big side for biological
+cells, and as I often say in regard to cells,
+the difference between a cell and an atom
+is the difference between a city and the individual
+bricks composing its many buildings.
+Neurons are gigantic, some can be nearly a
+millimeter long, which is huge for a cell,
+but that’s actually on the tiny side of
+neurons, some of which are meters long.
+And they are quite tangled up, so if you’re
+trying to identify them individually or trace
+them, you need some very skinny and flexible
+wires.
+Of course this allows another potential aspect
+of BCI, which is neuron replacement.
+If you’re tracing out and connecting up
+to individual neurons – which again is way
+down the road but still on the horizon – then
+you could repair, augment, or replace them
+with either cloned, grown, or entirely synthetic
+versions.
+Fundamentally though for all of this, your
+three big hurdles are first: making the devices
+sturdy enough, small enough, and compatible
+enough we can use them in the brain, second
+getting them power and replacing and maintaining
+them, and third making everyone comfortable
+with the idea.
+The entry level of this probably isn’t some
+mental cursor or keyboard for ordinary people
+looking to speed up their work or easy of
+use with devices, but for folks with a handicap,
+so we don’t need to sell the idea to folks
+in the context of augmentation of the ordinary
+to do our R&D and prototyping.
+We focus on folks with improving prosthetics,
+motor control impairments, or sensory impairments
+like being deaf or blind.
+From there as the technology improves and
+gets to be mundane, then folks can contemplate
+replacing their tons of remotes or Alexa devices
+with a brain chip.
+That probably handles most of the comfort
+issue with folks using it, that for most people
+it would be a fairly mundane part of the technological
+landscape like pacemakers or hearing aids
+are.
+The security angle though is more worrisome
+because if you can run inputs into and out
+of the brain then neuro-hacking becomes an
+option.
+Probably not much of one though, at least
+in terms of doing it covertly.
+There wouldn’t be much defense against someone
+grabbing you, strapping you down and physically
+taking over your implants but then they could,
+in that situation, just give you implants
+if you didn’t already have them too.
+They could also use classic means of coercion,
+so new avenue, old problem, in that particular
+case, and one might say the silver lining
+of neuro-hacking is that it’s probably a
+lot less destructive than torture or drugging
+someone and probably more effective.
+I mention that since it's very likely that
+psychologists and law enforcement and intelligence
+agencies, all having a vested interest in
+such technology, would develop fairly sophisticated
+ways of hacking or using them.
+Even if we gave them the benefit of the doubt
+and assumed that was always open, benevolent,
+and ethical use, it leaves the technology
+out there for folks with less altruistic or
+sinister motives to employ it.
+I don’t want to focus overly much on this,
+but basic security-wise, your wireless implant
+can employ a lot of cybersecurity options
+to be essentially unhackable.
+Hollywood and human laziness tend to lead
+most folks to think anything can be hacked,
+that’s just not so, and even most of the
+time you hear about some government agency
+getting hacked its something trivial like
+their facebook page not their data and records,
+but that does happen and it's typically either
+bad security habits, like leaving your password
+as 1234 or writing it on a post-it note and
+pinning it to your console.
+The other option is inside jobs, and presumably
+wouldn’t apply to you and your own brain,
+but there’s plenty of folks who might need
+or be given access to your implants and for
+that matter once we start talking neural augmentation
+we need to consider weird options like being
+hacked by your own split personality or sentient
+AI virtual assistant.
+Short form, there are genuine security concerns
+but they’re not really a barrier to employing
+the technology.
+Again if you can start doing this cheap and
+easy enough most folks can afford a brain
+implant it starts implying you can hack someone’s
+brain by sneaking a little robot into their
+bedroom and implanting them when they’re
+asleep too.
+On the alternative side, just hacking someone’s
+encoded link by typing in a username and password
+is probably not going to be a concern.
+So how about applications?
+Near-term the big one’s are allowing those
+sensory hook ups in a general sort of way,
+not individual electrodes to some millions
+of pseudo-unipolar neurons but the basic that
+allows us to give basic sensory inputs for
+lost limbs or damaged sensory organs via prosthetics.
+The sorts of controls that allow that next
+step up represent a simple cursor, but keep
+in mind that even just a mouse and keyboard
+in your brain is a very handy thing and that
+is now technology we have, and have without
+needing to plug you in to something immobile
+to use it.
+We also do have non-invasive options and I’d
+not be too surprised if we started getting
+something like a hair net close to the scalp
+that was taking non-invasive reading to permit
+that sort of simple keyboard and cursor, and
+which might become as ubiquitous and mundane
+in a decade or two as smart phones and fitbits
+or watches are.
+Longer term it's everything from being able
+to watch TV in your brain with no screen nearby,
+or total sensory immersion in virtual reality,
+to adding the machine to your mind.
+Not brain-computer interfaces but computer
+peripherals or add-ons to the brain.
+Imagine not even needing to think ‘Calculator,
+what is 987x251?’ but just to be able to
+look at a field and know instantly and without
+effort that it was 987 meters long by 251
+meters wide, and thus 247,737 square meters,
+or 24.8 hectares, 61.3 acres, and that even
+as casually as you know some of the objects
+on it were trees or some wheat, your brain
+augments instantly and seamlessly informed
+you what the various obscure plants were and
+many other bits of data.
+See our episodes on Mind Augmentation, Cyborgs,
+or Superpowers for more ideas of all the neat
+things such seamless brain-computer interfacing
+might permit.
+One of those options is brain to brain too,
+potentially allowing concepts like Hive Minds
+to exist, but also to allow you to talk to
+someone else as seamlessly and easily and
+quickly as you can think of concepts, just
+relaying images instead of describing them
+for instance.
+That’s a ways off but make no mistake, BCI
+isn’t the technology of the future, it’s
+the technology of the present, and I would
+not be surprised if it was to the next generation
+what smartphones are to the current one and
+personal computers were to the last.
+For better or for worse, 30 years from now
+keyboard and mice will probably be about as
+rare as they were 30 years ago, when many
+but not most homes and workplaces had computers.
+This might be invasive or non-invasive, or
+rely on secondary options like blinking or
+moving your eyes instead of your hands and
+fingers, and indeed it's likely to depend
+on the individual’s preferences.
+The final big consideration then might be
+how we handled all the potential clutter issues,
+of things like instant seamless mental access
+to every encyclopedia ever composed and personal
+recordings from your own eyeballs or cameras
+of any moment of your life.
+That seems such an incredible boon and incredible
+burden all at the same time.
+It is an interesting question for discussion
+then, assuming it was safe medically and in
+terms of security, and affordable, would you
+be okay with an invasive brain implant that
+gave you a BCI?
+If yes, what feature was most attractive to
+you about it, if no, why not?
+Feel free to type your thoughts on the matter
+in the comments below, using the primitive
+keyboard BCI on your computer or smartphone.
+I mentioned in today’s episode the idea
+that you might get hacked by your own split
+personality or virtual assistant, and that
+is an example of a growing number of biotechnology
+ethical concerns we’re encountering that
+are discussed in “The Ethics of Biologically
+Inspired Technology” over on Curiositystream.
+I also thought we should spend a little time
+discussing this notion of BCI or Mind Augmentation-based
+split personalities, so we’ll be doing that
+in an extended edition of today’s episode
+over on Nebula.
+Nebula is our rapidly-growing streaming service
+where you can see all of our episodes ad and
+sponsor free and a couple days early, as well
+as some bonus content like our extended editions
+or Nebula Exclusives like our Coexistence
+with Alien series.
+You can also see tons of content from many
+other amazing creators and help support this
+show while you’re at it.
+Now you can subscribe to Nebula all by itself
+but we have partnered up with CuriosityStream,
+the home of thousands of great educational
+videos, to offer Nebula for free as a bonus
+if you sign up for CuriosityStream using the
+link in our episode description.
+That lets you see content like “The Ethics
+of Biologically Inspired Technology”, and
+watch all the other amazing content on Curiositystream,
+and also all the great content over on Nebula
+from myself and many others.
+And you can get all that for less than $15
+by using the link in the episode’s description.
+So that will wrap us up for today but not
+for the Month, as this Sunday we will be having
+our end of the month livestream Q&A.
+July will be a busy month, starting July 1st
+with a long-requested return to our Faster
+Than Light series for Cheating Reality.
+From there will move on to Strip Mining the
+Galaxy, our second Galactic Domination episode
+on July 8th, then our scifi Sunday mid-month
+episode, Annoying Aliens.
+Then we’ll discuss if we should go to the
+Moon or Mars First, what the End of the Earth
+might actually be like, and what if someone
+turned the entire galaxy into their personal
+laboratory.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+You can also follow us iTunes, Soundcloud,
+or Spotify to get our audio-only versions
+of the show.
+Until next time, thanks for watching, and
+have a great week!

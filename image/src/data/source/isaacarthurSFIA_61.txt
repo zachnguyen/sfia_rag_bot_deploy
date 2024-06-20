@@ -1,0 +1,708 @@
+One of the non-intuitive aspects of space is 
+that things in it don’t really have locations,  
+they are constantly shifting where they 
+are relative to Earth, and usually at  
+very high speed. Lagrange Points are the 
+rare oases, stationary islands in space.  
+As a result, they are invaluable real estate.
+Space is huge, but only a couple places are  
+static in relation to the Earth. One is any object 
+in Geostationary orbit, a ring of space 22,000  
+miles above the equator, where the orbital period 
+is exactly once every 24 hours. Objects there  
+orbit at the same rate our planet spins, thus 
+appearing as if they hang right overhead. This is  
+a tiny little ring around our planet, compared to 
+Earth's total orbital space. It's currently pretty  
+full (and getting fuller) of geostationary 
+satellites, so that space is very valuable. 
+But there’s another region of interest to us 
+today, indeed 10 of them, called our Lagrange  
+points, and these points are unique for being 
+stable places that don’t move relative to the  
+bodies they’re connected to. Today we’ll 
+be discussing them, how they function,  
+and what value they have. They've already 
+proven themselves useful – the James Webb  
+Telescope is at the Earth-Sun L2 Lagrange 
+Point, or in orbit of it to be more precise,  
+because that keeps the Earth between the telescope 
+and the overwhelming glare and noise of the Sun. 
+The Lagrange points of any two-body system 
+orbiting each other, like Earth with the Sun  
+or Earth with the Moon, are the spots where the 
+gravity of the two bodies causes a pocket that  
+will move with them. Normally an object closer to 
+the Sun will orbit it faster, indeed not just by  
+having a smaller circumference to orbit by virtue 
+of being closer but actually moving faster too.  
+Venus orbits at 35 kilometers per second, 
+compared to Earth’s orbital velocity of 30  
+kilometers per second, or 18.5 miles per second, 
+and it orbits at 0.7 AU, 70% of Earth’s distance,  
+so it moves 17% faster than Earth and has only 
+70% of the distance to cover. As a result,  
+its own year is 225 of our days, instead of 365.
+Amusingly that’s actually longer than its own  
+day length, which is super long, and as a 
+result Venus’s equivalent to Geostationary,  
+Venostationary, would be around a million 
+miles from it, much too far for a stable orbit,  
+and further from it than it’s L1 or L2 points. We 
+will dip into Lagrange Point Mechanics as we go,  
+but the L1 Lagrange point is the one directly 
+between two bodies where another object  
+might be placed and stay in that same spot 
+between them, while the L2 is on the outside,  
+just beyond the second body, and the L3 is 
+way on the other side of the other body,  
+with the L4 and L5 points forming equilateral 
+triangles with the two orbiting bodies. 
+Stuff can be put in Lagrange points and expected 
+to remain there with only a miniscule amount of  
+station keeping. You can think of Lagrange 
+Points as where things can essentially hang  
+out at the edge of the two bodies and 
+their competing gravitational influence,  
+rather than specifically orbiting the smaller 
+body, even though L1 and L2 are much closer  
+to that smaller body than the larger one.
+Indeed, the distance to the L1 or L2 point of a  
+smaller body that is orbiting something much more 
+massive is essentially the end of where anything  
+can orbit it without losing that satellite to 
+its own parent, also called the Hill Sphere.  
+For anything tidally locked and slow turning 
+like most moons would be, the L1 and L2 are  
+great places to put a terminus station for a space 
+elevator, as they don’t have proper geostationary  
+spots themselves due to their slow rotation and 
+the proximity to the bigger body they orbit. 
+Now your necessary orbital velocity is related 
+to how strong the gravity is that is pulling you,  
+so that outer body pulling on you is going to 
+slow your necessary speed, and indeed it needs  
+to be lower than what that body itself orbits 
+at because you still have a shorter orbital  
+path or circumference by being closer to the Sun, 
+something at our L1 Point has the same orbital  
+period as Earth, but moves slower in velocity than 
+Earth does, as it has a smaller orbital path. The  
+reverse happens at L2, where Earth is in the 
+same direction as the Sun and adds its gravity,  
+so that the orbiting body needs to move faster 
+to counteract it, normally it would orbit  
+slower than Earth by being further from the Sun.
+This isn’t very stable and tiny perturbations,  
+like the orbit you’re on being an ellipse not 
+a circle – which it is – or having neighboring  
+planets yank on things – which they do – 
+can destabilize these spots. But what it  
+means is that there is a spot about 1% 
+of the distance from Earth to the Sun,  
+and 1% further from the Earth out from the Sun, 
+were you can mostly-stably orbit along with the  
+Earth, every 365.25 days, and where your orbital 
+speed is about 1% lower or higher than Earth's. 
+L1 is not where gravity is zero between the Earth 
+and Sun, even though people tend to assume that’s  
+the case. That spot is much closer to Earth, 
+around 156,000 miles or 250,000 kilometers from  
+Earth, and closer to us than the Moon, whereas 
+L1 is almost 6 times further away and 4 times  
+further away than the Moon. That zero-g spot 
+would be calculated by taking the square root  
+of the Sun’s Mass relative to Earth's, and that 
+is the fraction of the distance from Earth to the  
+Sun. Only when the two bodies are identical 
+in mass is the L1 also a zero-gravity spot. 
+I don’t want to dip into the math but if 
+you’re curious, in cases where one of the  
+two bodies is way, way more massive, like the 
+Sun is to Earth, by a factor of 330,000 to one,  
+the L1 is the fraction of the distance between 
+them equal to the cube root of a third of their  
+relative mass, rather than going with the square 
+root, and again for Earth and the Sun it’s about  
+1%. For a body about 3000 times more massive 
+than its satellite, like the Sun is to Saturn,  
+it would be about 10%, so the Sun-Saturn L1 and 
+L2 are 90% and 110% the distance out to Saturn,  
+roughly one AU, or Astronomical Unit, as big 
+as Earth’s own distance from the Sun. The  
+approximation breaks down as they get closer 
+in mass and the Moon’s L1 and L2 are about  
+16% of the distance to Earth out from the Moon.
+Two obvious uses of L1 and L2 are solar shades  
+and mirrors. If I want to limit the light hitting 
+Earth, to cool the planet, I can put some mirrors  
+or even debris up there to filter some light out 
+at L1. That wouldn’t even be noticeable on Earth,  
+even ignoring that you can’t stare at the Sun to 
+see them, and indeed you might simply pick some  
+material that was transparent to visible light 
+but absorptive or reflective to near-infrared,  
+which is a lot of the light we get from 
+the Sun, and which has no real use in  
+photosynthesis. It’s also still so far from 
+Earth that only a miniscule fraction of the  
+radiation inbound to Earth that they intercept 
+would go on to hit Earth once they re-emitted it  
+omnidirectionally as blackbody thermal radiation.
+It's a decent place to build power collectors or  
+space farms potentially too, but I think 
+any civilization with our basic orbital  
+mechanics is going to eventually put up a 
+number of devices at L1 to help to protect  
+them from irregularities in sunlight.
+You could potentially mitigate damage  
+from a solar flare or even a full-on Coronal Mass 
+Ejection with a system in place at L1. You could  
+even stabilize the light you have coming in and 
+filter frequencies, to eliminate changes over  
+the year for a planet with a more eccentric orbit 
+or to remove a lot of infrared light and replace  
+it with more visible light, or photosynthetic 
+light – very handy for terraforming planets. 
+Scale can be deceptive in cases like this. You 
+might be thinking of some huge L1 megastructure  
+and you might indeed build that one day - but 
+you really don't need to. Instead imagine a  
+bunch of simple satellites with a lot of 
+reflective paneling no thicker than tin  
+foil,with just a bit of wire and computers for 
+turning themselves and a small solar panel. That  
+might mean a control module weighing tens of 
+kilograms for a panel massing maybe ten times  
+that and a few kilometers across.
+A million tons worth of those,  
+or 10 aircraft carriers worth of material, would 
+easily affect 1 or 2% of the sunlight coming in to  
+get to Earth. That’s just not much mass, and 
+nothing sophisticated either, it’s way less  
+than a single modest O’Neill Cylinder would take 
+to build, and would be comparable to a Kalpana  
+One Space Habitat, and you might have several of 
+those habitats stationed out there by then tending  
+to them and receiving the occasional kinetic 
+shove from them for station keeping of its own. 
+These devices are effectively lagites, a mix of 
+a normal satellite and a solar sail style static  
+satellite, or statite, that can hover directly 
+over any spot of a star without needing to orbit.  
+See our recent episode on Statites, Lagites, 
+and Quasites for more discussion. Instead  
+they have a very tiny power supply and they twist 
+themselves to bounce light in a given direction,  
+or if opaque on one side, absorb it instead of 
+reflecting it, and maneuver themselves around  
+for station-keeping. They could rotate 
+like a piece of paper to expose a maximum  
+cross-section or a minimum one, and through this 
+you could control how much light came through,  
+and again in the frequencies of your choosing.
+That application alone makes L1 some very valuable  
+real estate for Earth, but it’s even better 
+for a place like Mars where some solar-powered  
+electromagnets at the L1 can mimic a powerful 
+magnetosphere for Mars, preventing incoming  
+solar wind and ionized particles from stripping 
+off any atmosphere we add to the Red Planet. At  
+the same time, it can basically make the Sun a bit 
+bigger and brighter there, by having some mirrors  
+just to the side of the light coming to Mars to 
+bounce some more adjacent light on the planet to  
+warm things up in a visually natural way.
+Now on tidally locked planets, like those  
+around a red dwarf star that would be eternally 
+lit on one side of the planet and eternally dark  
+on the other side of the planet, we can have a 
+big eye open and close to permit day and night  
+cycles on the sunny side and we can stick a 
+big mirror behind that planet at its L2 to  
+collect light and blast the dark side with it. In 
+practice I would imagine this would be millions of  
+smaller satellites and I would also imagine they’d 
+spend their ‘night cycles’ bouncing that light to  
+various power collectors or space facilities.
+And again, any celestial body has Lagrange  
+points. Thin panels can function as solar sails 
+or lagites to provide station keeping and even  
+fairly heavy maneuvering, so we need not worry 
+about L1 stability as much. That means you could  
+put a huge parabolic dish array behind a planet 
+and bounce light down onto it, to thaw it out. 
+As we already noted, solar L2 is a good place 
+to shield something from sunlight, when it’s  
+a planet’s L2 with its own star, and again a 
+place we like to put telescopes. A Planetary L2,  
+like the Earth-Moon L2, is a way to shield against 
+planetary noise, and in a place that will almost  
+always have sunlight so that it can consistently 
+generate power. Planetary L2’s are also a good  
+place to hide spy craft, particularly those in 
+an L2 orbit who just peek out from around that  
+moon to look at you and then send a tight beam 
+signal off when you’re in the shadow of that moon. 
+That’s probably only useful for spying on early 
+civilizations before they get to the Apollo  
+Program level, and truthfully only valuable 
+for maybe one or two centuries while they’ve  
+got real telescopes but still aren’t into space.
+Another place that is like that is the Solar L3  
+point, or the Counter-Earth position. L3 actually 
+isn’t quite a counter-Earth spot unless the object  
+at it was also Earth-mass exactly. It’s on 
+the exact opposite side of the Sun as we are,  
+and you might wonder why we even need to concern 
+ourselves with Earth’s own gravity at this point,  
+since it’s so tiny compared to the sun’s. 
+And if we’re talking about anything other  
+than long timescales, astronomical ones, 
+we really do not need to care. Here,  
+the Earth is pulling in the same direction as the 
+Sun, same as with the L2, but it’s way further  
+away. The Earth-Moon L3 is a bit different, the 
+Moon is much closer to Earth’s mass and thus the  
+Earth Moon L3 is 99.3% of the distance the Moon 
+itself is, in the opposite direction of course. 
+Why it isn’t stable is exactly because of that 
+slight pull of Earth, or the smaller orbital body,  
+and explains why anything off axis, say 170 
+degrees instead of 180, is even less stable.  
+As we’ll see, in a perfect 2 body system 
+where the big ones are in a circular orbit,  
+you only have 3 points of stability on 
+that orbital path, the L3, L4, and L5,  
+at 180 degrees, and then 60 before and after, 
+the Trojan Points, which we’ll get to shortly. 
+Our L3 with the Moon has no special 
+value that I’ve ever heard or thought of,  
+short of a Klemperer Rosette scenario where 
+multiple celestial bodies are placed so  
+their gravitational pull effectively cancels 
+out. I think it would be a stretch to argue  
+for two Moons in their mutual L3 spot, but 
+with lower mass moons it’s semi-plausible.  
+For our worldbuilders and sci-fi writers out 
+there, there’s a lot of interesting multi-moon  
+scenarios involving orbital resonances or L3.
+For Counter-earths, that is an idea that goes back  
+to the dawn of science and maybe even predates 
+Socrates, and showed up in a fair amount of  
+fiction before we started sending probes off to 
+deep space. In truth, I don’t know if we’ve ever  
+actually trained a telescope on the counter-earth 
+spot to see if there wasn’t a planet there but it  
+doesn’t matter if we actually looked or not -- we 
+could already have detected it gravitationally. 
+The High-Evolutionary from Marvel Comics, best 
+known from the Adam Warlock plotlines, is often  
+situated on a Counter-Earth, and in the old days, 
+Superman’s homeworld of Krypton was located there,  
+making the idea of him being desperately 
+crammed into an escape pod by his parents a  
+bit more plausible. The fictional planet of Gor 
+is also set there, from John Norman’s Gor Saga,  
+though I don’t recommend the novels. We also have 
+the planet Mondas in Doctor Who, the homeworld of  
+the cybermen, and that’s a counter Earth, and 
+they also show up in the Godzilla franchise. 
+It makes some interesting fictional scenarios, 
+but at the end of the day, there’s not much real  
+value there. It is the one place you can plausibly 
+park something of reasonable size where a modern  
+civilization like ours still isn’t likely to see 
+it, you’re not likely to see a mile long spaceship  
+or even a larger station there if you just happen 
+to be glancing in that direction with a probe  
+halfway to Mars. And it wouldn’t be a bad place 
+to try to sneak up or spy on a new colony planet  
+in another star system, except it also wouldn’t 
+be likely they didn’t have any space capability  
+themselves or wouldn’t think monitoring that 
+spot was a good idea. Usually best not to hide  
+in the place everyone would expect you to.
+Indeed, to move on to the Trojan Points,  
+the L4 and L5 Lagrange Points, you are almost 
+bound to have relays or telescopes at those  
+spots and they could very easily glance at the L3.
+Back when we were first getting decent at spotting  
+asteroids too small to qualify as a dwarf 
+planet, we noted there were a ton of them  
+orbiting about 60 degrees before and after 
+Jupiter in its orbit of the Sun, and those  
+got named for various characters from the Trojan 
+war, with a Greek Camp and a Trojan Camp. The  
+L4 point is the Greek camp, orbiting ahead, 
+and the L5 Trojan camp behind. These points,  
+L4 and L5 and around other planets too, have 
+come to be generically called Trojan points,  
+probably since there’s no existing country of that 
+name we might get confused with in conversation. 
+The National Space Society, the organization I 
+currently have the honor of serving as President  
+of, was made from combining two separate space 
+advocacy groups back in the 1980s, Wernher von  
+Braun’s National Space Institute and the Gerard 
+K. O’Neill-inspired L5 Society, and while I’ve  
+not found anyone who knows for sure why L5 was 
+picked over L4 for a name, both are equally handy,  
+it is specifically the Earth-Moon L5 that 
+the L5 Society and the NSS are referring too. 
+Now if you draw an equilateral triangle – one 
+where each corner is 60 degrees and each side  
+the same length, and put your two bodies at 
+each corner – the Earth and Moon in this case,  
+the other corner is your Trojan Point, and if 
+you flip it around you’ll get your other Trojan. 
+These are fairly stable spots, and indeed 
+represent a fairly large region where things  
+can orbit without too much perturbation 
+by the two bodies. Logically speaking,  
+the distance separating them from those two 
+bodies is very large, the same as by which  
+they separate from each other, and the Moon 
+doesn’t exert much force on us. The Moon is  
+around 60 times further from Earth than we are 
+from Earth’s center and masses an 80th as much,  
+so the force it exerts on us or on some Trojan 
+object is about 3 parts per million of what a  
+falling object on Earth’s surface experiences.
+But that’s not trivial either, it means over  
+the course of an entire day, with 86,400 
+seconds, the object would have gained nearly  
+3 meters per second of speed toward the Moon, and 
+after a year gained fully a kilometer per second  
+of speed. And as it gets closer, it experiences 
+considerably more force. At 30 degrees ahead,  
+instead of 60, being half the distance it then 
+experiences 4 times the force and acceleration. 
+That force isn’t directly backward along the 
+orbital path though so an object being dragged  
+this way doesn’t necessarily crash into the 
+smaller of the two bodies. It could crash into it,  
+it could end up as a small Moon in orbit of 
+it, and yes Moons can have moons of their own,  
+or it could get ejected into a different orbit. 
+Eventually that object will cease being there,  
+though at the larger solar scale, those planetary 
+trojans like Jupiter have are pretty stable,  
+especially as its gravity is so large compared 
+to other planets nearby that have the potential  
+to cause perturbation. You wouldn’t get 
+many naturally occurring Trojan asteroid  
+collections in inner systems with Rocky planets 
+like ours, they’d perturb each other too much,  
+and this effect is why we tend to refer to 
+Jupiter as the solar system’s vacuum cleaner,  
+sucking debris up in its wake.
+This is why things can’t share  
+an orbit with us around the Sun or the Moon 
+around us, they get yanked out of the path  
+by the mass of the other body. Our Lagrange 
+Points are the stable points, marginally,  
+because a balance of forces occurs there. 
+At Solar L4 for instance, that body is being  
+pulled backward by Earth while the Sun pulls 
+it inward, but it’s not actually backwards,  
+it’s forming not a right triangle between Earth 
+and the Sun, it’s 60 degrees, so Earth is giving  
+it some push in toward the Sun too. For the L5 
+point, Earth would be increasing the gravity  
+pull inward to the Sun by a bit, raising the 
+needed orbital velocity, while also yanking on  
+it to drag it along. It can be hard to get 
+an intuitive feel for why this is stable,  
+but if it were a bit closer than 60 degrees, there 
+would be a small force pulling it toward Earth and  
+also outward from the Sun, and the reverse if it 
+were more than 60 degrees, and similar effects  
+for if the object at the Trojan point were 
+closer or further from the Sun than Earth was. 
+And again the same applies around the Earth-Moon 
+system, which is also way smaller and way more  
+evenly balanced in mass, the Moon being a bit 
+over a percent of Earth’s mass while the Earth  
+is only a few millionths of the Sun’s mass. So 
+this means that if you’re seeking any stable  
+arrangements of space stations or facilities that 
+aren’t very close to either Earth or the Moon,  
+you have huge perturbative forces to deal with, 
+and those Lagrange Points come in very handy as  
+places where those are reduced to nearly zero.
+It is where Lagites also come in as very handy  
+options and why I often talk about space stations 
+being larger facilities with one or more rotating  
+habitats at their center and larger collections of 
+lighter facilities in a constellation around them,  
+and the bigger solar collectors and mirrors being 
+on the outskirts of that. They not only serve as  
+some shielding for the inner region, paper-thin 
+though they are, but they can function as lagites  
+and one’s with fuel-free maneuvering ability. At 
+Lagrange points though, the mass to cross-section  
+ratio can be a lot more generous than normal.
+Sunlight exerts force via radiant pressure but  
+it’s very minimal compared to what we normally 
+need for rockets. It is on an order of about 1  
+newton for every 10 Hectares or 25 acres 
+of sail, or about 10 Newtons for a square  
+kilometer. That’s about how much force 
+a single kilogram of matter experiences  
+from gravity on Earth’s surface. We can make 
+materials thin enough that they would be a  
+square kilometer wide and weigh just one kilogram.
+That’s the key aspect of solar sails and statites,  
+but if I have an object as far from Earth as it is 
+from the Sun, then it’s only experiencing about 2  
+billionths of the normal force of gravity 
+from Earth that it would on our surface,  
+and it doesn’t take much surface area per 
+kilogram to counteract that force now,  
+enough that a regular sized object might just 
+need to be shiny and able to rotate itself to  
+manage station keeping anywhere along that Earth 
+Orbit, especially closer to the Lagrange points,  
+and you could mimic Lagrange points in a 
+much wider volume with that Lagite approach. 
+This is our reasoning when we discuss 
+what we call a Terran Ring on this show,  
+a huge collection of space habitats and facilities 
+in a wide torus around Earth’s orbital path,  
+such that it would look like a ring with Earth 
+as its gemstone. Simple high-strength tethers  
+running between all those facilities would allow 
+easy station keeping, in conjunction with some  
+other tricks we’ve discussed over the years 
+for moving momentum around in a careful and  
+calculated fashion. Some like telescoping or 
+tethering bits together we examined recently  
+in our episode Orbital Defense Platforms.
+As another example, if I have three objects,  
+one at a Lagrange point and one a bit further 
+from the Lagrange Point and one a bit nearer,  
+I can connect a physical tether to those, with a 
+winch, and just pull things a bit one direction or  
+another to counteract any perturbative drift, 
+especially if one of those anchor objects had  
+a big solar panel or unfoldable sail it could 
+expand when needed. I suspect you would often  
+fold those up too, as they are going to take 
+a lot of wear and tear from micro-meteors and  
+space dust while expanded or inflated.
+Closer in for the Earth-Moon Trojan’s,  
+that is a higher bar, as while the Moon’s surface 
+gravity might only be a sixth of Earth’s it’s  
+Trojan Lagrange Points are only about 200 times 
+further from its center than its surface is, so  
+gravity is about 300,000 times weaker there 
+than earth’s surface, around 33 micronewtons,  
+as opposed to the Earth-Sun Trojans, 
+500,000,000 times weaker, about 20 nanonewtons. 
+That very much alters the size we can contemplate 
+for Lagites and makes those Lunar Lagrange points  
+pretty important to future development, 
+though again we shouldn’t think of them  
+as points but rather regions. The difference in 
+lunar gravity from being at the L4 or L5 point,  
+and being 4000 miles away, is a few percent weaker 
+or stronger and on an order of a micronewton per  
+kilogram of whatever it’s pulling on. Again, in 
+space where there’s no air drag or resistance  
+that can build up pretty quick, but it could 
+still be counteracted by the equivalent of  
+one square foot of solar sail, and that’s 
+such a tiny force that even a cable made on  
+relative mundane and weak materials, thousands 
+of miles long, would not snap under the load. 
+In other words that means you have a region at 
+least as big as Earth, if not bigger, in which  
+to be putting facilities, and this is 3D not 2D 
+like our planet’s surface, and they’re not moving  
+at huge speeds relative to each other like stuff 
+in low Earth orbit is moving, where objects moving  
+in opposite directions would collide at as much as 
+16 kilometers per second or 10 miles per second.  
+Indeed the Moon’s orbital speed around Earth is 
+just 1 kilometer per second, so even a maximum  
+speed collision of two objects counter-orbiting 
+Earth out there – which there’s no real reason  
+to do incidentally – would involve 64 times 
+less energy in such a collision. This volume  
+once full of megastructures might also expand by 
+them having some amount of gravity themselves. 
+And again there’s no reason to counter-orbit or be 
+orbiting at steep angles compared to each other,  
+and this gives us another reason the Lagrange 
+points are appealing. There’s no Kessler Syndrome  
+scenarios there. Cascade Debris situations 
+involve the idea that an object gets hit and  
+blows more material off, and that material 
+is moving slower now than whatever hit it,  
+relative to the body that shed it, but it’s still 
+moving superfast to anything else in that orbital  
+region. It might leave at just a few meters per 
+second but something orbiting at a different  
+angle might still plow into it at several thousand 
+meters per second, and the subsequent debris of  
+that collision hit yet more things, shedding more 
+debris, and so on. But in a big Lagrange Point  
+volume, nothing is keeping any debris in, it will 
+fly or meander out without effort to keep it in,  
+while nothing inside that volume is moving. 
+Except for ships or transports, which can  
+operate at much lower speed and which might 
+simply pull along tethers inside that volume,  
+saving fuel and giving you momentum you might 
+use for station keeping larger facilities there. 
+Indeed, moving cargo around on tethers in 
+general is a good way to do station-keeping.  
+On that topic, since the moon’s gravity is so 
+weak that we can make Lunar Space Elevators to  
+it’s L1 and L2 points with Earth out of mundane 
+materials, you could do a large diamond running  
+between the Lunar L1, L2, L4, and L5 points, and 
+with the Moon at the center and with tethers to  
+each place from the Moon and each other, and 
+it would be very easy to do station keeping  
+simply by running mass off the Moon as you 
+exported material to those Lagrange hubs to  
+build space habitats, or refill fuel depots, or 
+to move people and cargo around too, of course. 
+So these gigantic extended LaGrange Points 
+each have more volume to stably develop in  
+than planets, and indeed are a good deal larger 
+when we’re looking at bodies where their moon  
+is smaller or where the distances are greater, 
+like with Solar Lagrange Points with planets.  
+But we also get this wider diamond, which I will 
+go ahead and name a Lagrange Diamond. Places where  
+you can interconnect things and not need to worry 
+about all the problems of the tight and high speed  
+orbits close to a planet or larger moon. This 
+is also a place where you can be running very  
+long launch ramps, tethers, mass driver, and 
+rotavators out of to assist in launch and in  
+capture. Though as a minor note, these Lagrange 
+Diamonds would not have exactly flat edges. 
+One trick you can do with a rotavator or rotating 
+skyhook in deep space is to have a tether whirling  
+around out from a large space station, which can 
+be spun out to have desired tangential velocity a  
+passing spaceship could be matched with, and then 
+the tether can link up and begin winching them in  
+on a decreasing spiral. The space station loses 
+some angular momentum spinning that tether out,  
+and may gain or lose momentum on connecting 
+to that ship, or cargo pod, winching in that  
+tether after it hooks up, but should have no 
+problem balancing those out between captures  
+and even if it needed to occasionally burn 
+some fuel to correct a growing imbalance,  
+it would be trivial compared to total 
+savings. It can also launch ships this way. 
+Fundamentally what’s neat about Lagrange points in 
+this context is that it allows you to build huge  
+conglomerations of structures near a gravity well, 
+like Earth or some planet or moon we’re mining,  
+and yet without the problems associated 
+to low or medium orbit where everything is  
+crowded and high speed, where its causing light 
+pollution or wrecking the view of the night sky,  
+and where there’s no threat of Kessler 
+Syndrome and no construction problem  
+associated to very large megastructures 
+where they have a lot of different gravity’s  
+pulling strongly in different directions.
+That means we can build very large megastructures,  
+like the O’Neill Cylinder or even bigger, and 
+in multiples, without the problems of gravity  
+or debris cascades, while not being far from the 
+Earth, indeed just 1.3 seconds for signals to go  
+either way. Which makes real time communication 
+possible to both Earth and the Moon, if a touch  
+irritating for casual chat. The upside is there’s 
+so much room for development there, and reasons  
+to develop there, that you would have plenty of 
+people to chat with. Indeed, in many ways, these  
+Lagrange points and our Lagrange Diamond, are in 
+a position to house far more people than Earth  
+itself, and around other planets in a more distant 
+future might tend to be where a large portion  
+of a given planet-moon system people lived, 
+especially if neither body was all that appealing  
+for terraforming but very good for mining.
+Ultimately our future in space is a big and spread  
+out one, but there are places that will be highly 
+valued, like planets and moons and the Lagrange  
+Points or Geostationary orbits around them, and 
+they are essentially the fertile river valleys  
+or deep water coves for space, where settlement 
+will begin and where mighty new realms will arise.
+We were talking about how to build lots of 
+adjacent space habitats today at Lagrange points,  
+and an alternative approach to that is to 
+build a very long and skinny megastructure  
+known as a Topopolis, and one neat feature 
+of that is how they would tend to have one  
+very long river running down them which might 
+run thousands or even billions of miles long.  
+We’ll be exploring that in our upcoming February 
+Nebula Exclusive, Topopolis: The Eternal River,  
+and if you haven’t already caught January’s Nebula 
+Exclusive, Giant Space Monsters, that’s out now  
+exclusively on Nebula, our streaming service, 
+where we’ll discuss what science tells us about  
+all the crazy space monsters we might see on alien 
+planets, or even in the void of space itself. 
+On Nebula you can see every regular episode of 
+SFIA a few days early and ad free, and all our  
+other bonus content, including extended editions 
+of many episodes, and more of our Monthly Nebula  
+Exclusives like, The Fermi Paradox: Hermit 
+Shoplifter Hypothesis, Ultra-Relativistic  
+Spaceships, Dark Stars at the Beginning of Time, 
+Life As An Asteroid Miner, Nomadic Miners on the  
+Moon, Space Freighters, Retrocausality, Orch Or 
+& Free Will, Colonizing Binary Stars, and more. 
+Nebula has tons of great content 
+from an ever-growing community of  
+creators. Using my link and discount it’s 
+available now for just over $2.50 a month,  
+less than the price of the drink or snack you 
+might have been enjoying during the episode. 
+When you sign up at my link, 
+https://go.nebula.tv/isaacarthur and  
+use my code, isaacarthur, you not only get 
+access to all of the great stuff Nebula offers,  
+like Giant Space Monsters and Topopolis: 
+The Eternal River, you’ll also be directly  
+supporting this show. Again, to see SFIA early, 
+ad free, and with all the exclusive bonus content,  
+go to https://go.nebula.tv/isaacarthur
+This weekend we’ll explore  
+Conformal Cyclic Cosmology and the possibility 
+that a previous universe may have existed over  
+which ours is layered on top, before we head into 
+February to look at Death Worlds and surviving on  
+ultra-dangerous planets. Then on February 
+8th we’ll examine homesteading in space,  
+and what might draw pioneers to new colonies 
+and what sorts of life and challenges they’d  
+face. Then on February 11th’s Sci-Fi Sunday, we’ll 
+ask what might make a civilization quarantine an  
+entire planet and how that might be enforced.
+If you’d like to get alerts when those and  
+other episodes come out, make sure to hit the 
+like, subscribe, and notification buttons. You  
+can also help support the show on Patreon, and 
+if you want to donate and help in other ways,  
+you can see those options by visiting 
+our website, IsaacArthur.net. You can  
+also catch all of SFIA’s episodes early and 
+ad free on our streaming service, Nebula,  
+along with hours of bonus content like Giant 
+Space Monsters, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

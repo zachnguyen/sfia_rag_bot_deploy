@@ -1,0 +1,234 @@
+<html>
+<head>
+<title>Multimodal RAG App</title>
+<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+        body {
+            background-color: #121212;
+            color: #fff;
+            font-family: 'Ubuntu', sans-serif;
+        }
+        .container {
+            position: absolute;
+            top: 40%; /* Adjusted for space below */
+            left: 50%;
+            transform: translate(-50%, -40%);
+            text-align: center;
+        }
+        .title {
+            font-size: 48px;
+            font-weight: 300;
+            margin-bottom: 40px;
+        }
+        .input-box {
+            background-color: #202124;
+            border: none;
+            border-radius: 24px;
+            padding: 24px;
+            width: 100%;
+            color: #fff;
+            height: 100px;
+            font-size: 16px;
+            resize: none;
+            display: block;
+            margin: 0 auto 20px auto;
+        }
+        .input-box::placeholder {
+            color: #9e9e9e;
+        }
+        .input-box:focus {
+            outline: none;
+            box-shadow: none;
+        }
+        .theme-switcher {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            cursor: pointer;
+        }
+        .theme-icon {
+            color: #fff;
+            font-size: 24px;
+        }
+        .optimize-btn {
+            background-color: #16f9f6;
+            border: none;
+            border-radius: 24px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            display: block;
+            margin: 0 auto; /* Center the button */
+        }
+        .response-card {
+            background-color: #333333;
+            border-radius: 16px;
+            padding: 20px;
+            margin-top: 20px;
+            display: none; /* Initially hidden */
+        }
+
+        #loader {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="title">SFIA RAG App</div>
+<div class="accordion" id="appDescriptionAccordion">
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="descriptionHeading">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDescription" aria-expanded="true" aria-controls="collapseDescription">
+                About This App
+            </button>
+        </h2>
+        <div id="collapseDescription" class="accordion-collapse collapse" aria-labelledby="descriptionHeading" data-bs-parent="#appDescriptionAccordion">
+            <div class="accordion-body text-dark">
+                Ever wonder what the future will look like? <br>
+                This is a RAG AI Bot that will answer futuristic questions using Isaac Arthur's SFIA podcast channel content on YouTube as reference. <br>
+                It will help you find which episode you'd like to watch based on the BIG question you're interested in! <br>
+                Examples: <br>
+                What ethical guidelines should be established for creating sentient artificial intelligence? <br>
+                How could the human body evolve in response to long-term life in space? <br>
+                What are the potential economic impacts of mining resources from other planets? <br>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+<textarea class="input-box" id="promptInput" placeholder="Enter your Query"></textarea>
+<div class="mb-5 text-end">
+<button class="btn btn-md btn-info me-3 ps-4 pe-4" id="queryRagBtn"><b>Ask</b></button><button class="btn btn-md btn-primary me-3 ps-4 pe-4" id="returnAnswerBtn">Get Answer</button><p id="messageArea"></p>
+</div>
+<div class="" id="loader">
+<div class="spinner-border text-info" role="status">
+<span class="visually-hidden">Loading...</span>
+</div>
+</div>
+<div class="response-card text-start" id="responseCard">
+</div>
+</div>
+</div>
+</div>
+<div class="theme-switcher" onclick="toggleTheme()">
+<i class="fas fa-adjust theme-icon"></i>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+        let lastQueryId = null;
+
+        function toggleTheme() {
+            var body = document.body;
+            body.classList.toggle('light-theme');
+            body.classList.toggle('dark-theme');
+            var themeIcon = document.querySelector('.theme-icon');
+            if (body.classList.contains('light-theme')) {
+                themeIcon.classList.remove('fa-moon');
+                themeIcon.classList.add('fa-sun');
+                body.style.backgroundColor = '#f0f0f0';
+                body.style.color = '#121212';
+            } else {
+                themeIcon.classList.remove('fa-sun');
+                themeIcon.classList.add('fa-moon');
+                body.style.backgroundColor = '#121212';
+                body.style.color = '#fff';
+            }
+        }
+        
+        function formatResponseText(text) {
+            // Replace markdown bold with HTML bold tags and add line breaks for titles
+            return text
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/<\/strong>/g, '</strong><br>') // Adding a line break after each title
+                .replace(/(\*\*Elaboration:\*\*)/g, '<br><strong>$1</strong>') // Special case for 'Elaboration:'
+                .replace(/(\*\*Example:\*\*)/g, '<br><strong>$1</strong>'); // Special case for 'Example:'
+        }
+        document.addEventListener('DOMContentLoaded', function () {
+
+            async function optimizePrompt() {
+                var promptInput = document.getElementById('promptInput').value;
+                var responseCard = document.getElementById('responseCard');
+                var loader = document.getElementById('loader');
+                var messageArea = document.getElementById('messageArea');
+
+                loader.style.display = 'block';
+                responseCard.style.display = 'none';
+                messageArea.textContent = ''; // Clear previous messages
+
+                try {
+                    const response = await fetch('/submit_query', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ query_text: promptInput })
+                    });
+                    const data = await response.json();
+                    if (!response.ok) {
+                        throw new Error(`Server responded with status: ${response.status}`);
+                    }
+                    lastQueryId = data.query_id; // Save the query_id for later use
+                    messageArea.textContent = 'Bot is thinking .. please click "Get Answer" after a minute';
+                    console.log("Query submitted, ID:", lastQueryId);
+                } catch (error) {
+                    console.error("Submit error:", error.message);
+                    messageArea.textContent = 'Failed to submit query. Please try again.';
+                } finally {
+                    loader.style.display = 'none';
+                }
+            }
+            document.getElementById('queryRagBtn').addEventListener('click', optimizePrompt);
+        })
+
+        document.addEventListener('DOMContentLoaded', function () {
+            async function returnAnswer() {
+                var responseCard = document.getElementById('responseCard');
+                var queryId = lastQueryId;  // Ensure this variable is globally accessible or properly scoped
+                if (!queryId) {
+                    responseCard.innerHTML = `<p>Error: No query ID available. Please submit a query first.</p>`;
+                    responseCard.style.display = 'block';
+                    return;
+                }
+                
+                try {
+                    const response = await fetch(`/get_query?query_id=${queryId}`);
+                    if (!response.ok) {
+                        const errorDetails = await response.json(); // Read the response as JSON only once
+                        console.error("Error from server:", errorDetails);
+                        throw new Error(`Server responded with status: ${response.status} - ${JSON.stringify(errorDetails)}`);
+                    }
+                    const data = await response.json(); // This should be inside an else block or removed if the above condition is true
+                    responseCard.innerHTML = `
+                        <div class="row">
+                            <div class="col-sm-8">
+                                <h6><b>Question:</b> ${data.query_text}</h6>
+                                <h6><b>Answer:</b> ${formatResponseText(data.answer_text)}</h6>
+                            </div>
+                            <div class="col-sm-4">
+                                <img src="${data.img_url}" alt="Relevant image" width="100%" height="auto">
+                            </div>
+                        </div>
+                    `;
+                    responseCard.style.display = 'block';
+                } catch (error) {
+                    console.error("Fetch error:", error.message);
+                    responseCard.innerHTML = `<p>Error: ${error.message}. This is likely because your response is being prepared, please check in after a minute</p>`;
+                    responseCard.style.display = 'block';
+                }
+            }
+            document.getElementById('returnAnswerBtn').addEventListener('click', returnAnswer);
+        });
+
+        // Initial theme setup
+        document.body.classList.add('dark-theme');
+    </script>
+</body>
+</html>

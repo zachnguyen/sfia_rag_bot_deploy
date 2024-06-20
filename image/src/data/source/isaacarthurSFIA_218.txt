@@ -1,0 +1,954 @@
+This episode is brought to you by Brilliant.
+We have all dreamed of owning our own personal
+spaceship to fly around this world or to others,
+but what would it take to make that dream
+a reality?
+Whether it was the Millenium Falcon of Star
+Wars or the Serenity from Firefly or the Heart
+of Gold and Zaphod Beeblebrox from Hitchhiker’s
+Guide to the Galaxy, we’ve all dreamed of
+having a ship to call our own to travel from
+world to world, or even from time to time
+like with the TARDIS from Doctor Who.
+Sometimes it’s a small crew on a small ship,
+like the Falcon or Serenity or Rick and Morty’s
+garbage-ship.
+Sometimes it’s a small crew on a huge ship,
+like the Liberator from Blake’s 7 or the
+Nostalgia for Infinity from Revelation Space.
+And sometimes it’s a huge crew on a huge
+ship, like a Star Destroyer, or the enormous
+rogue trader vessels from Warhammer 40k, kilometers
+long and crewed by tens of thousands, but
+owned by one person or family.
+Today we’re going to ask what sorts of technologies
+we need to make it possible for a person to
+be able to have their own ship, whether it’s
+a fairly wealthy individual owning their own
+yacht or even just everyday Joe with his own
+space car, and as we will see today, there
+are actually some pathways for a regular individual
+to own a personal spaceship that might unfold,
+even in the next century and without any particularly
+revolutionary science.
+Now, this episode is principally interested
+in some hard science examples and realism,
+but given the topic, we will also explore
+some scenarios that are more on the very theoretical
+or even scifi side near the end of this episode,
+and have some fun with it.
+There are a lot of options, so sit back, grab
+a drink and snack, and don’t forget to hit
+those like and subscribe buttons.
+So, space travel is incredibly expensive but
+it’s already gotten way cheaper in this
+century, mostly from reusable rockets, and
+that gives us some hope for the future, though
+chemical rockets aren’t really a good path
+for a future in which you have a spaceship
+parked in your garage.
+Partially that’s because fuel is expensive,
+but that needs a few caveats.
+First, determining actual launch costs is
+always a bit tricky but the old space shuttle
+used to run into costs of about half a billion
+dollars per launch.
+That number is debatable and controversial,
+but more importantly for today, it isn’t
+mostly made up of fuel.
+Now, it held something like 2000 tons of fuel,
+but as huge as it sounds, 2000 tons of gasoline
+for instance is only 2.5 million liters or
+about two-thirds of a million gallons.
+Even at modern fuel prices, that’s only
+a few million bucks.
+We don’t use gasoline in rockets, generally
+its high-quality kerosene or a liquid hydrogen
+and oxygen mix.
+The latter is energy intensive to make and
+a pain to store, but it can be made by just
+separating water and the cost of that is electricity.
+The shuttle was a bit of a fuel hog and the
+falcon 9 for instance usually only needed
+about $200,000 worth of kerosene, while falcon
+heavy needs maybe half a million, but even
+the shuttle was still using less than 1% of
+its launch cost for fuel.
+Though, if you winced filling your car’s
+gas tank up in 2022, consider a small personal
+spaceship blowing through a hundred thousand
+dollars worth of fuel.
+Fossil fuels are obviously of limited quantity
+and worrisome to use but there’s nothing
+unique about their make-up, and you can create
+them sans dinosaurs in a lab, it just requires
+you put more energy in than you’ll get when
+they’re later burned, though carbon neutral
+at that point.
+Which makes artificial fossils awful as a
+main power source but a great portable power
+supply in a fission, fusion, or solar economy
+where you can’t make those power supplies
+or electric batteries compact and powerful
+enough for mobility.
+Cost presumably goes way down in a society
+with energy abundance, but as we noted, it’s
+only a percent of costs.
+A lot of the other cost can be tossed aside
+by automation and computerization though.
+A lot of your launch and maintenance personnel
+might disappear from computerization and scaling
+up.
+Reusable rockets require extreme precision
+to make right, and require labor-intensive
+inspections and repairs after each use, but
+that is definitely one of those things that’s
+a good candidate for going from hyper-expensive
+to dirt cheap the way a few megabytes of computer
+memory or GPS systems are.
+There are no components of a modern spaceship
+which are inherently expensive to manufacture
+or maintain.
+Even when we use stuff like gold for spacesuit
+visors or mirrors it's not much.
+That enormous gold-coated mirror array on
+the James Webb Telescope is just under 50
+grams or a tenth of a pound, a couple thousand
+bucks worth of gold based on the price as
+I write this in August of 2022.
+High quality aluminum for the spaceship frame
+is also one of those things that more advanced
+manufacturing and cheaper electricity make
+much less expensive.
+Truth be told we really are not that far from
+being able to economically mass-print parts,
+and of course, the nature of printing or a
+self-replicating economy is one where a lot
+of your gear for making your feedstock and
+power supply is also suddenly cheaper too,
+potentially causing a plummet in price tags
+for things like engines, super-precisely machined
+air-frame or rocket nozzles, and so on.
+So, we could imagine a civilization where
+people did own rocket ships that could blast
+them into orbit everyday.
+One where most or a large fraction of the
+cost was fuel, as it tends to be for cars,
+and where that amount of fuel was a bit smaller
+and much cheaper, maybe tens of thousands
+or so dollars per launch.
+That’s definitely not personal car type
+space travel, but it is one where the cost
+to fly to space for a vacation or business
+trip starts getting comparable to chartering
+a personal jet or maybe even a first class
+international flight.
+Also on an alien world rich in methane for
+instance, that we colonized, the cost of fuel
+is just pumping it really, and a few thousands
+colonists might pump it as casually as we
+do water for farming.
+And that presumably requires a pilot, though
+in reality a machine mind weighing a few kilos
+and capable of lightning fast reflexes and
+incapable of being distracted, sleepy, or
+malicious might be a preferred option.
+Now, in the shorter term this is probably
+an example of human-machine teaming, where
+your autopilot is designed to augment the
+human pilot and serve as a backup, and people
+might prefer that.
+Such being the case, you could run your own
+spaceship to and from orbit ferrying a dozen
+passengers on each leg and probably be able
+to make more than one trip a day.
+In this same sort of economy, we also have
+the option for someone to own the equivalent
+of an interplanetary freighter, what we call
+a Cycler or Space Castle.
+The notion there is to put a big heavy craft
+on a long elliptical orbit, crossing the orbits
+of two planets, usually Earth being one, but
+it doesn’t have to be and could also be
+an asteroid or Lagrange point, and these don’t
+stop, they just swing past those worlds.
+They require no refueling, same as anything
+else orbiting, maybe a few nudges here or
+there.
+What that means is that a small and light
+ship meant for darting to orbit and back down
+to the ground that’s light on things like
+comforts and radiation shielding since it
+has to pay the fuel bill for them each time,
+can instead dock with one of these slow behemoths,
+for the long jaunt to another world, which
+can afford way more armor and amenities.
+The cycler castles are an example of a big
+ship that doesn’t really need much crew
+but might have a lot too.
+Hospitality services for passenger and maintenance
+crews for spaceships.
+Indeed they might have large hydroponics facilities
+for growing food and recycling air and water.
+Plus they would be far easier targets for
+automated fuel pods to be sent to, given that
+they don’t deviate from their predicted
+course much and could easily rope in a pod
+launched from some fuel depot or refinery,
+where they could then refuel smaller ships,
+or receive spare parts too.
+Now, cyclers are slow, and interplanetary
+ones have trip times comparable to orbital
+periods of the planets they service, which
+means they aren’t so much hotels as short-term
+homes where you’ll be for months or even
+a couple years.
+Though, they also work for orbits around planets,
+not just stars, so you could see these on
+trips between orbital colonies or multi-moon
+systems where durations of trips are weeks
+or even days.
+Spaceships might be used to launch assist
+like mass drivers too, and radiation tends
+to be high in the space around such worlds,
+so a big Cycler with thick shielding might
+be handy.
+If you own a personal spaceship docked on
+one, it might be like an RV camp, and for
+the captain of an interplanetary cycler, it’s
+less like running a hotel than being a landlord.
+Or a freighter captain on one of those huge
+slow container ships we have.
+Speaking of moon systems around gas giants,
+or moving around asteroid belts or collection
+of orbital colonies, travel is easier.
+Here, there’s no real need for any advanced
+or expensive spaceship.
+A lot of times there will be minimal escape
+velocities to leave these objects and move
+through that volume of space.
+And none it is through thick air exerting
+extreme heat and pressure on your ship.
+Generally speaking you only need the majority
+of your ship to be fuel by mass when you need
+a delta-v greater than the exhaust velocity
+that fuel or propellant has when burning out
+the back of the ship.
+How fast all the burned or exhausted particles
+are moving is the exhaust velocity, and for
+rockets fuels that tends to be anywhere from
+2 to 5 kilometers per second.
+The rocket equation is quite harsh when you’re
+trying to get a ship moving at speed similar
+to that exhaust velocity, and utterly tyrannical
+when it comes to speeds in excess of that.
+Which unfortunately are the speeds usually
+needed to get away from Earth, but not from
+moons or asteroids.
+A one-ton ship trying to reach its own exhaust
+velocity needs 1.72 tons of propellant for
+the job, ideally, but to get to half that
+speed, it needs only a third of that fuel,
+0.65 tons, and a quarter of that speed, which
+might be a kilometer per second, only .28
+tons.
+For double that speed, 6.39 tons of propellant,
+and for triple, 19.1 tons, or 95% of the initial
+mass as propellant rather than ship and cargo.
+That’s essentially the key problem with
+chemical rockets.
+Earth’s escape velocity is more than 20
+times what it is for the largest known asteroid,
+Ceres, which we often classify as a dwarf
+planet like Pluto.
+The higher the exhaust velocity of your propellant,
+the better, and the same for specific impulse,
+which can be thought of as how many seconds
+a given propellant lets you hover a rocket
+in Earth’s gravity.
+Simply having the highest exhaust velocity
+does not automatically make something the
+best fuel or propellant, but its a central
+feature and to highlight that, our one ton
+ship seeking to get away from Ceres using
+Liquid Hydrogen and Oxygen with an effective
+exhaust velocity of 4500 meters per second
+is only needing about an eighth of a ton of
+that fuel, a lot like a car’s gas tank,
+and that same rocket trying to escape from
+Earth would need 10.5 tons of that fuel and
+more like 80 tons for many of the fuels with
+about half that exhaust velocity.
+That’s a very simplified review of rockets,
+and it generally takes a lot more fuel because
+of the air drag too, see our upward bound
+series for more on that, but it’s also important
+to note that, at a core level, temperature
+is the random motion of particles, faster
+particles, higher temperatures, and the higher
+your exhaust velocity, the rougher it is on
+your ship’s rocket nozzles and other equipment,
+and that damages tends to rise sharply with
+temperature and pressure.
+For that and other reasons, it also takes
+far less precision manufacturing and careful
+maintenance to keep together a spaceship designed
+for traveling from one small airless moon
+to another or between two O’Neill Cylinders
+sharing a similar orbit.
+Personal spaceships are no problem here, even
+with modern technology and costs, and given
+the difficulty of making those places with
+those modern costs, it can be assumed it would
+be even easier to own a personal spaceship
+if such moon bases or rotating habitats existed.
+For personal spaceships on Earth though, the
+really big deal is heat.
+The rocket fuel in an energy abundant economy
+might be made carbon neutral and cheap as
+water, indeed we might make it out of water,
+but if you’re burning through a hundred
+tons of kerosene to get to space for an afternoon,
+you still just released a few trillion joules
+of heat into the atmosphere.
+And if we had a few hundred million folks
+doing that a day, then you are adding a billion-trillion
+joules of heat to Earth every day, 10^21 Joules,
+and that’s about a tenth of what hits Earth
+every day from the Sun.
+So it is a lot of energy and it’s going
+to raise the planet’s temperature, though,
+we’re not talking about an oven-roasted
+planet here.
+Still, we were assuming a fairly modest fuel
+expenditure per personal spaceship there,
+and only a few hundred million people using
+one daily.
+So a chemical rocket future is one where folks
+on Earth could have their own spaceplane for
+flying around, but it’s definitely a luxury
+here, you wouldn’t want everyone to do it
+daily, though for folks living in orbital
+colonies or asteroids and moons, it’s just
+fine.
+The analogy would be a bit like owning a car
+in a major metropolis, something of a luxury
+to own on a planet but not in space, but probably
+even that would be conservative.
+The other issue though is, if you want your
+neighbor flying a plane full of a hundred
+tons of rocket fuel or storing that at their
+house.
+Or if you want anybody moving a supersonic
+spaceplane anywhere near human habitation,
+both for the sonic booms and that such vessels
+carry fuels and move at speeds that make them
+as dangerous as our biggest non-atomic bombs.
+As we move into other and better technologies,
+those problems will remain an issue for us
+to address.
+Now, I would be very dubious about folks ever
+letting nuclear-powered spaceships on Earth,
+let alone personal spaceplanes running on
+them, but they do way better as an option
+from an engineering standpoint.
+See our episode The Nuclear Option for a full
+discussion of those engines, including surprisingly
+safe Nuclear Thermal Rocket models for ground
+to orbit launch.
+A nuclear electric engine with a slow but
+efficient ion drive might push particles out
+the back at 10 times the exhaust velocity
+of chemical rockets or more.
+This potentially provides a very economical
+private spaceship for any region where folks
+were okay with its use, like upper orbital
+colonies perhaps, or in the Belt.
+An Atomic Rocket obviously is a scary notion
+but keep in mind that the whole ship is lethal
+simply by being a spaceship, as we say on
+the show, there is no such thing as an unarmed
+spaceship, because some ship moving at 10
+kilometers a second is carrying more kinetic
+energy in it than an equal amount of high-explosives.
+Atomic rockets operating offworld can also
+make sure they always point their exhaust
+away from any nearby planet or station, and
+said exhaust will leave the solar system forever
+if it’s higher than solar escape velocity,
+which, depending on where you are, can often
+be as low as 16 km/s.
+Plus, the whole solar system is already saturated
+in radiation anyway so that exhaust isn’t
+a big deal, and a few kilograms of vaporized
+radioactive particles scattering across Earth
+on the occasional rare accident is trivial.
+Nonetheless, you might want safeguards to
+make sure those engines were pointed safely
+away and might require they not ignite them
+till medium or high orbit, to make sure such
+incidents were very rare, even if you had
+a lot of ships using them regularly.
+Fears of what the fuel of a ship, atomic or
+mundane, can do if misused by malice or accident,
+are likely to be a big factor in whether or
+not personal spaceships are allowed, or either
+banned or regulated into a near impossibility.
+This is where we get to the best plausible
+on-planet spaceplane, at least for settled
+planets, as opposed to some lightly populated
+colony somewhere.
+And here we can’t remove that kinetic energy,
+but we can remove the fuel.
+Our fastest jet designs utilize an engine
+known as a SCRAM jet, and these and the lower
+speed ramjet both are often called stovepipes
+because of how insanely simple their function
+is.
+Air comes in the front and we burn insane
+amounts of fuel to superheat it and toss it
+out the back.
+That is it.
+The geometry and metallurgy of the RAM or
+SCRAM jet is important but there’s no moving
+parts to the engine itself, unless you count
+the fuel being sprayed in and ignited, so,
+since they have no mechanically-moving parts,
+they might be considered a solid-state engine,
+which can last a lot longer, and require much
+less maintenance than one with mechanically-moving
+parts.
+However, we can replace that with an external
+power source, by either locking-on a laser
+beam or microwave beam which tracks those
+engines and just pours energy in.
+If the beam goes off the plane simply drifts
+slower over time, and with that kind of velocity,
+it’s got no problem making an unpowered
+landing anywhere, plus, it might be carrying
+a smaller and more conventional engine for
+getting up to a decent speed.
+As the beam is coming in from elsewhere and
+the vehicle is air-breathing, it circumvents
+the rocket equation and the very nature of
+that device means that such a plane is constantly
+monitored, and given that it’s an ultra-powerful
+laser or microwave on the vessel with pinpoint
+tracking, blowing up a ship that suddenly
+turns kamikaze is a fairly trivial exercise.
+The concern there then becomes fire control
+and who is allowed to say fire and when.
+Such a spaceplane could get up to an orbital
+velocity or a large fraction of it, then either
+make use of a skyhook network or onboard rockets
+to finish the job, and now you are firing
+off superhot gas in the high upper atmosphere
+at a perpendicular angle to the ground, not
+down at it, so it’s not really heating the
+world much.
+In a world that’s more confident about nuclear
+safety, it might have a reactor onboard and
+an ion drive to let it become an interplanetary
+ship at that point, after docking to a space
+station for some refueling and changing of
+fuel types.
+A spaceplane like this can fit in a garage
+too.
+It might have a gas engine and VTOL setup
+for take-off and back-up but I think it could
+be all electric even then, especially with
+good enough batteries or power transmission.
+You roll out of your garage or open the top
+and take off vertically, climb up and get
+locked on like a cell tower, and roll out
+at whatever the local speed limit is for a
+given place and altitude.
+Now, once up in space we can continue this
+power beaming trick if we want.
+At interplanetary speeds, it’s nice to have
+a propellant like hydrogen you can superheat,
+via beamed energy from orbital stations, but
+you could also have a small sail that those
+beams could push on instead, and while that’s
+very inefficient at interplanetary speeds,
+compared to superheating hydrogen gas with
+that energy, it’s quite efficient for interstellar
+speeds.
+See our episodes on beam-powered spaceships
+and spaceplanes for more discussion of this
+topic.
+And based on known science, I think this is
+the most plausible route to personalized space
+travel, especially given that intense tracking
+is vital to allowing spacecraft to fly around
+the sky by the million.
+Other options include tether trains to orbital
+rings from most towns and spaceship docks
+on those orbital rings, like boats at a marina.
+That would probably optimistically still require
+an hour or two to get to the local tether
+ground station, up that tether on a tram line,
+and then over to your dock.
+That makes it more like a marina or airport
+where you keep your plane in the hangar.
+Note that in all of these cases, there’s
+still an option for a private spaceship, even
+in less optimal scenarios, it is just that,
+in one of those options, everybody owns one
+and uses it as they want, and in the other
+it is more likely you’re either privately
+wealthy or you are running a commercial operation.
+You’ve got a nuclear engine on your 747
+sized spaceship and you are heavily screened
+and licensed for that, and you operate a service,
+ferrying a hundred people to orbit everyday
+and those tickets weren’t bought for the
+price of a cup of coffee but they weren’t
+like getting a second mortgage out either.
+That ship is a multi-million dollar affair
+and you’re probably plowing 90% or more
+of your revenue right back into debt service,
+licensing costs, crew wages, land usage, noise
+pollution fees, fuel or energy bills, maintenance,
+and so on.
+In the following example I’ll give, John
+runs a ship straight from New York City to
+Olympus Mons on Mars, the ship weighs a thousand
+tons and has a hundred cabins suitable for
+a person or for a couple who like each other
+enough not to mind being crowded, the accommodations
+are mostly in virtual reality but there’s
+a gym and a cafeteria and some other amenities
+and half a dozen staff who are a constant
+challenge to scrape together payroll for.
+It collects its passenger in the harbor and
+gets beam-powered turbines to push it out
+to sea and up into the air, it uses a lot
+of that energy to grab water and electrolyze
+it into hydrogen and oxygen as it goes, or
+tanks up before going, maybe filling up on
+both to burn them or maybe just hydrogen for
+heating via beamed energy.
+Then, when safely away from the city, it races
+up on beamed powered SCRAMjets, then switches
+to beam-heated hydrogen or hydrogen/oxygen
+rockets to get into orbit.
+It isn’t going to dock with anyone, rather,
+it’s going to expand out its cabin to form
+a ring which it will begin spinning for artificial
+spin gravity, and on that ring, it’s going
+to stretch a reflective sail for a laser to
+bounce off of, or a microwave mesh to absorb
+energy for running an ion drive.
+Pods of hydrogen can be fired-off from the
+moon by mass driver to match speed with John’s
+ship and other ships, for a price, after all,
+that hydrogen gets trucked in from Jupiter.
+The ship accelerates at a fraction of a gee
+for a day, till reaching a cruising speed
+of a couple hundred kilometers per second
+and arrives at Mars a couple weeks later,
+and then catches pods from Mars to give it
+the propellant it needs to land comfortably
+in the thin Martian atmosphere.
+John’s ship could carry that slow down fuel
+and maybe does, but he can carry more cargo
+by having it shot to him en route.
+There are nearly a thousand square kilometers
+of orbital solar array that’s auctioning
+its power off to the beaming grid to run that
+ship when it’s being shoved up to cruising
+speed and needs a terawatt of power, but that’s
+not much more than tinfoil-thick.
+John always thinks to himself the real money
+isn’t in captaining a ship but in owning
+solar farms in space, but he would never give
+up flying.
+The excitement, the new places and people,
+the knowledge that at any moment, Earth control
+might flip on his autopilot or blow him out
+of the sky if he doesn’t work with precision.
+Definitely an interesting picture.
+Now, beamed energy is awesome but also relies
+on others.
+It generally matches fission or fusion for
+interplanetary work.
+At the interstellar scale, it’s better,
+and you need something like cheap and safe
+antimatter – which is something of an oxymoron
+by current science – or a micro-blackhole,
+which ironically is way safer than it sounds
+like, based on current science.
+See our episodes on Black Hole Ships or Antimatter
+Factories for more discussion of those.
+Neither of those is very scifi for all that
+they sound it, but speaking of that, what
+sort of hypothetical options do we have?
+We did an entire episode on hypothetical Spaceship
+Drives some years back and probably need to
+refresh that, but let’s contemplate some
+different technologies instead.
+Now, mass is a strange thing in physics, it
+has the effect of both determining how strong
+gravity pulls on something, how strongly something
+is pulled on by gravity, and how a given piece
+of mass responds to being shoved on in terms
+of its new speed and momentum.
+This feature we call Inertial Mass, and we
+have some reason to think it might be possible
+to alter it.
+A ship’s momentum, is the product of its
+mass times its velocity, but that’s its
+inertial mass, so a ship that started off
+massing a thousand tons and moving at a kilometer
+per second and then flipped on its inertial
+changer and suddenly had an inertial mass
+of just one ton, would still have that same
+momentum, and suddenly be moving a thousand
+times faster, a thousand kilometers per second.
+If this was done uniformly, it might avoid
+killing everyone on board at the sudden acceleration.
+This is definitely what we call a Clarketech,
+technologies so advanced they are indistinguishable
+from magic and to which we have no clear technological
+pathway to, but it is in the realm of plausible
+science.
+I wouldn’t hold my breath for this technology
+anytime soon or honestly ever, but much like
+power-beaming, it offers an option for the
+sorts of spaceship and use that we see in
+scifi.
+A ship whose inertial mass is suppressed has
+less kinetic energy than one moving at that
+speed should have.
+So, it ramming into a building shouldn’t
+do as much damage, and your classic near light-speed
+ship isn’t ramming into buildings and destroying
+them, it is ramming into planets and leaving
+mushroom clouds and craters.
+The energy conservation in inertial suppression
+is rather tricky, kinetic energy goes with
+mass and the square of velocity so a ship
+that just had its inertial mass drop by a
+factor of ten should have its kinetic energy
+drop by a factor of ten from the mass, then
+go up by ten-squared from the sudden jump
+in velocity to conserve momentum.
+But 100 divided by ten is ten, not 1, so its
+kinetic energy just went up ten-fold, which
+presumably violates conservation of energy,
+unless you have some place to grab that energy
+from.
+Additionally, you can’t really ignore the
+effect such a drop has on chemistry.
+As we said earlier, temperature and heat are
+essentially random kinetic energy of particles,
+so, if your blood suddenly has its inertial
+mass drop by ten and its kinetic energy go
+up by ten, then you suddenly have 10 times
+as much heat in your bloodstream.
+Obviously a pretty potent weapon if that worked
+that way, but there might be workarounds.
+It is an awesome scifi handwave for any authors
+or game designers interested in making ships
+easier though, because it would massively
+cut down on how much fuel you needed, and
+how much damage a spaceship would do if ramming
+something.
+Though, you would probably have to say it
+was a bubble of low inertial mass, inside
+which, everything behaved the same.
+Hypothetically, any particle with zero rest
+mass, automatically moves at light speed,
+so an inertial drive able to temporarily drop
+that mass to virtually nothing, or even flat-out
+nothing, would move at light speed.
+Hypothetically, if you could take that further
+to make it negative inertial mass, it might
+move superluminally, though that had bad consequences
+for the ship that tried it in the novel Redemption
+Ark by Alastair Reynolds, one of my personal
+favorites.
+See our FTL series for more discussion of
+those kind of options but a point I like to
+remind folks of is that, it takes insane amounts
+of energy to move things at near-light speed,
+and that rises as you get ever closer, and
+there’s no real reason why that would stop
+rising going into FTL.
+Though, exceptions like the warp drive, contemplate
+the necessary use of negative energy, and
+we also might imagine ships able to dump energy
+or fuel into pocket universes or similar too.
+You don’t pay the fuel bill because it's
+all stored in some universe in which you have
+a tiny wormhole too, or hammerspace, which
+isn’t counted against your ship’s mass.
+That might be actual fuel from this universe
+or a connection to some younger and more compact
+Universe that’s still as hot as a star.
+An in-universe wormhole to the center of a
+star as your rocket might work well too.
+Very nice powerplant or weapon system for
+your ship as well.
+When it comes to options for using less energy,
+another one of course is micro-sizing.
+It is very easy to have your own personal
+spaceship if you’re an uploaded consciousness
+who can fit on something the size of a smartphone.
+That doesn’t mean your ship is that size
+though, damage to ships from hitting stuff
+is all about speed of impact and resistance
+to that damage is just a matter of thickness,
+a modest ship whose crew are human, might
+need a meter of metal on their ships prow,
+but so does a juggernaut carrying millions
+and a tiny little hard drive carrying maybe
+millions of digital minds.
+Size helps in space travel, but costs more
+fuel, so a big lead sphere the size of a minivan,
+plowing through space with digital minds inside,
+is still a lot more energy efficient than
+some Star Destroyer-sized ship with a hundred
+thousand mortal crew.
+Miniaturization of a lot of drive components
+wouldn’t work either, though one it would
+work for is a black hole drive.
+In terms of size anyway.
+Assuming you can keep feeding it matter, a
+black hole in the hundreds of kilotons range
+is practically ideal for running an interstellar
+spaceship, but it has to be a big one.
+A hundred kilotons is what a Nimitz Class
+Aircraft Carrier masses, black hole-powered
+ships are likely to weigh low megatons as
+a result.
+And you can add more black holes to ramp up
+power, but you can’t really change black
+hole mass much.
+The smaller they are, the more power they
+produce, burning very quickly.
+A megaton black hole masses 100 times what
+a 10 kiloton black hole does, but lives a
+million times longer, about 1500 years, while
+pushing out 356 Trillion Watts of Power, but
+the other, smaller black hole would produce
+10,000 times more power.
+That’s around twenty times the power consumption
+of the entire human race right now, for the
+bigger, lower-power black hole, about 20 times
+of all the incident light on Earth for the
+smaller black hole, which would barely live
+12 hours.
+It’s important to think on that when you
+are contemplating stuff, trade and cost and
+so on.
+What a ship is bringing for trade to be paying
+for such titanic engines needs to be contemplated
+in terms of all those ports of call probably
+having that exact same type of power plant.
+You’re not moving food from planet to planet
+because they can pay for all the lighting
+and environmental tailoring using a power
+plant like that, luxury foods might be different
+of course.
+And as unrealistic as something like an inertia
+drive or light speed drive might be, in many
+ways it’s the economies of scifi empires
+that make even less sense.
+No place where anyone can afford to own a
+spaceship they haul ice to worlds for water
+with, is ever going to have shortages of air
+and drinking water for instance.
+You might own some big 5 megaton trading ship
+kilometers long, running on a megaton black
+hole in its basement, with a crew of a hundred
+thousand, but someone using that same power
+plant could be powering the entire modern
+economy several times over, or lighting up
+around a thousand full-size O’Neill Habitats,
+each home to hundreds of thousands of people
+too.
+In that regard, a lot of your ships are going
+to be interplanetary and slower, probably
+keeping to a speed roughly on the same order
+of magnitude as the fastest exhaust velocity
+they can make happen by pouring energy into
+hydrogen.
+Hydrogen is ultra-plentiful and dirt cheap
+in a space economy, and you just get better
+thrust by putting your energy into those than
+shining it out the back as a flashlight, assuming
+you are not aiming to move much faster than
+you can heat that gas up to.
+Light has an exhaust velocity of light speed
+so it always does best, kilogram for kilogram,
+as a propellant.
+If they can blow them out the back of the
+ship at million kilometers per hour, then
+figure on your typical passenger ship making
+that speed and a freighter doing maybe half
+to a tenth.
+Big doesn’t mean slow where ships are concerned,
+more like the other way around, bigger can
+be faster, but bulky and non-perishable cargo
+doesn’t need to move fast and if you can
+deliver it for less cost, that’s what you
+do.
+If someone has a contract to deliver ten quadrillion
+tons of ice to Mars over the next century,
+there’s no reason to rush delivery to weeks
+when months are vastly cheaper, while at the
+same time you have operating costs for owning
+that ship, so you don’t want to go too slow
+either.
+In one direction, these become space cars
+or maybe RVs or yachts, they really are not
+going to be junkers like the Millenium Falcon
+is often shown to be.
+Maybe in a period of strife or techno-barbarianism
+after a war you might have clunkers, especially
+around multi-moon gas giant systems or asteroid
+belts.
+But otherwise, it’s an energy abundant economy
+that’s probably got robot vacuums and mops
+better than what we have now.
+So the ship isn’t dirty.
+Keeping that in mind, the other direction
+for ships to develop in is big ones.
+Those might still be small crewed or single
+too, automation can do amazing things.
+Big crews on big ships also might still have
+tons of elbow room, some kilometer-long ship
+with a crew of ten thousand might sound crowded,
+like a submarine, but in practice, that thing
+would have vastly more room than even our
+biggest skyscrapers and there’s quite a
+few of those with thousands of residents and
+often shopping centers and community areas
+too.
+So, whether your megaship has a crew of ten
+thousand or ten, there’s a lot of room for
+things like hydroponics bays, but also for
+gardens, tennis courts, swimming pools - a
+ship’s water reserves might as well be in
+a pool or aquarium after all – and a ton
+of other features.
+Also all those big habitats we talk about,
+like O’Neill Cylinders, if artificially
+lit, can essentially choose to be spaceships
+too.
+You might have your own interstellar ark ship
+and nature preserve containing ten thousand
+acres of forest for instance.
+For that matter, a large habitation drum of
+many hundreds of acres might be the living
+quarters for a mega freighter for pushing
+ice that could fit something like that in
+its proverbial closet.
+Assuming we survive the next few decades and
+technology progresses to better automation
+and energy abundance, and we cross into a
+post-scarcity civilization, that is a future
+where your own personal space car or your
+own personal space habitat even become real
+possibilities.
+Needless to say, there are a lot of unknowns,
+and unknown unknowns that limit our ability
+to discuss this matter, but what we do know
+tells us there’s a good chance people in
+the future might be able to own their very
+own spaceship.
+One things about having your own spaceship
+is you have to be able to navigate the thing,
+and that’s an area where knowing your geometry
+and trigonometry can really help, even when
+you have computer assistance.
+The notion of trying to calculate an atmospheric
+entry probably seems a bit intimidating, but
+it doesn’t have to be, and a powerful knowledge
+of trigonometry and geometry is helpful in
+so many areas of life.
+That’s where Brilliant’s many interactive
+courses on geometry can help.
+Many topics in math and science can seem hard
+because there is no interactive and intuitive
+way to work with the idea, compared to more
+traditionally hands-on topics that you can
+play with and thus learn easier, so Brilliant
+focuses on making interactive and handson
+content which makes it easier for anyone to
+learn, be it basic math or advanced topics
+like probability simulations.
+Folks often ask how higher math will help
+them in day to day life, but believe me, once
+you know it, you’ll see real world practical
+cases to use it everywhere you look.
+A better knowledge of math, science, and computer
+science can not only be enlightening personally,
+but a road to greater personal success.
+Be a lifelong-learner, and let Brilliant be
+your partner on that journey.
+With Brilliant, you can learn at your own
+pace, learn on the go, and learn something
+new.
+To get started for free, visit brilliant.org/IsaacArthur
+or click on the link in the description, and
+the first 200 people will get 20% off Brilliant's
+annual premium subscription.
+I’m never sure how much attention folks
+pay to the intro overlays or credits but this
+is the official episode 365, which now means
+you could watch this channel every day for
+a year and not repeat an episode.
+Though in point of fact the official spreadsheet
+of episodes lists this as entry 490, since
+our livestreams, collabs, Scifi Sundays, and
+other bonus episodes are not counted in our
+official weekly chronology of episodes, nor
+are our Nebula or Audio-Only Exclusives.
+If you’re curious we have a publicly viewable
+list of every episode on Youtube we’ve done,
+which I’ll link in the episode’s description.
+Folks are often surprised that when they ask
+for a topic it's one we’ve already done
+before, sometimes even twice, since we tend
+to revisit certain topics for updates and
+extensions.
+It’s also where you can see our full list
+of planned and finished episodes which is
+usually about 3 months aheads, not just the
+month or so I usually put up at the end of
+episodes.
+Speaking of next month’s schedule, we still
+have one more regular episode, 366, coming
+up this month, where we’ll continue today’s
+discussion by asking about what to do if your
+spacecraft gets damaged or you get shipwrecked.
+Then we will close out the month on Halloween
+weekend with our Livestream Q&A, on Sunday,
+October 30th, at 4 pm Eastern Time.
+Join us live to get your questions into the
+chat so they can be answered.
+After that we’ll head into November to discuss
+refueling the Sun, an option that could make
+it possible for us to keep Earth going for
+trillions of years to come, and then come
+back more to the present and near future to
+discuss what an automated economy would really
+look like, how it would take shape, and the
+possible problems of unemployment.
+If you want alerts when those and other episodes
+come out, don’t forget to subscribe to the
+channel and hit the notifications bell.
+And if you enjoyed today’s episode, and
+would like to help support future episodes,
+please visit our website, Isaac Arthur.net,
+for ways to donate, or become a show patron
+over at Patreon.
+Those and other options, like our awesome
+social media forums for discussing futuristic
+concepts, can be found in the links in the
+description.
+Until next time, thanks for watching, and
+have a great week!

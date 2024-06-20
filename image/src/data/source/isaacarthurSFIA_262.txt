@@ -1,0 +1,926 @@
+This episode is brought to you by Brilliant!
+We often imagine a future in which the Moon
+is inhabited, with domes and outposts scattered
+around it’s surface, but what does a truly
+developed and colonized Moon look like a thousand
+years from now?
+So today we are returning to one of our favorite
+places in the Universe, our nearest neighboring
+world, our own Moon, to contemplate the idea
+of a late stage colony of the Moon when it’s
+reached populations as high or higher than
+Earth itself currently has. We’re going
+to ask what the Moon would be like if it was
+home to many billions or even trillions and
+what pathway might lead to it becoming a single
+massive worldwide mega city… what we call
+an Ecumenopolis.
+This is not our first time visiting the Moon
+here on SFIA, I try to get an episode in about
+the Moon and Mars each, about once a year
+or so, and for the Moon we began Moon Base
+Concepts back in early 2016, then Industrializing
+the Moon, Battle for the Moon, Moon: Industrial
+Complex, Moon: Crater Cities, Return to the
+Moon, and then last year, Mars First vs Moon
+First. In all those episodes and as side topics
+of many others, we have discussed how to get
+a base on the Moon and grow those to be real
+cities and colonies, and some of the possible
+long range fates of our Moon.
+How to make the Moon a titan of industry fueling
+our expansion into space. How to terraform
+the Moon so it’s green and blue in spite
+of its low gravity, and even how to raise
+that gravity by putting an artificial small
+black hole in its center. And we’re going
+to begin by discussing those last two options
+in conjunction before moving on to look at
+making the entire Moon one vast, three dimensional
+sphere of a city.
+However, when it comes to those last two,
+terraforming the Moon and altering its gravity,
+it ignores the development of communities
+there and the problems of terraforming a built-up
+and colonized Moon, and it ignores that raising
+the gravity on the Moon would alter its geology.
+Terraforming an inhabited world is just not
+the same as a dead one. The internal meat
+and bones of a world are based around a certain
+gravity, multiplying it sixfold to Earth-normal
+gravity would be ruinous to everything there
+including buildings we previously made. That
+can be managed but it’s a pretty big hurdle
+especially given the structures and locations
+most sensitive to a change in gravity would
+probably be all the old historical early buildings
+we made there, as well as an early domed ecosystems
+whose organisms had had the most time to adapt
+to low gravity.
+What’s more, terraforming a planet is inherently
+destructive to the existing landscape. As
+an example, everything we call a ‘mountain’
+on the Moon is really a giant crater rim wall,
+or portion of one, they are tall and sharp
+and would never last on Earth where gravity
+and air and water would bring them down in
+short order.
+On the Moon, those ideal first bases are expected
+to be in the bottoms of those craters, and
+we would expect those to be the foci of further
+colonization, hence why we did an episode
+called Crater Cities, but if I terraform the
+Moon, then those deep craters valued for the
+ice we suspect is at their bottoms, now become
+lakes and seas, right over top of the original
+cities. Now they could persist under water
+as domed cities but that rather defeats the
+purpose of terraforming the Moon so they can
+get rid of their domes.
+The Moon can never really keep air and water
+we put on its surface, without constant and
+major replenishment, the gravity is high enough
+that random room temperature air or water
+molecules won’t go anywhere, the escape
+velocity of the Moon is around 5 timers higher
+than the speed the air molecules would be
+moving at, but even Earth leaks with an escape
+velocity almost 5 times higher than the Moon’s,
+and that leakage rate would scale exponentially
+as you dropped the mass. So you either have
+to dome it all over – which is certainly
+an option – or you raise that gravity and
+just buttress the world, or you pay a constant
+replenishment cost of running megafreighters
+of nitrogen in. So raised gravity seems the
+best of the three options. We have a few problems
+though, the first and most obvious of which
+is that we don’t know how to make artificial
+small black holes, we just have some guesses
+as to how it might be accomplished. I would
+also guess that as fast as the Moon might
+leak air, even without a protective magnetosphere,
+which we could add, that it would still be
+small compared to the amount of mass needed
+to raise the gravity.
+Assuming we can make small black holes, then
+one big advantage that planets that utilize
+them have over normal planets is that they
+can be made of super abundant materials like
+hydrogen, helium, or potentially even dark
+matter; meaning you don’t have to use up
+all your rarer building materials like iron
+and carbon and and nitrogen and silicon on
+generating gravity. Indeed the main value
+of hydrogen and helium, which make up virtually
+all the normal matter in space, is to make
+energy out of them or to make heavier elements
+via fusion. As we’ve discussed before, black
+holes are vastly better and more efficient
+power generators than fusion – and indeed
+better at nuclear transmutation of elements
+too. So you can stick a small black hole in
+the center of a world, in a hollowed-out chamber,
+buttressed via active support, and slowly
+grow a black hole by dumping hydrogen and
+helium into it, and use that generated power
+to run your world.
+Now to make the Moon have Earth-like gravity
+on its surface doesn’t require as much mass
+as the Earth has. The Moon masses only 1.2%
+what Earth does, but has 7.4% of the total
+surface area, and when you’re aiming for
+gravity equal to Earth on some sphere shaped
+object, the total mass something needs, to
+have Earth gravity, is directly proportional
+to its surface area. A tenth the area, a tenth
+the mass of Earth, a hundred times the area,
+a hundred times the mass, like Saturn, whose
+surface gravity is very close to Earth’s
+and which has about a hundred times the surface
+area and mass of Earth. This technique works
+on any world, be it some tiny asteroid a few
+kilometers across or some sprawling mega-Earth
+a few million kilometers across, see our episode
+Mega-Earths for more of the details on building
+and engineering such worlds.
+So the Moon masses 1.2% of Earth and would
+need 7.4% of Earth’s mass to have Earth-like
+surface gravity. This means we need to add
+6.2% of Earth’s mass to the Moon via such
+a black hole, or 5 times its current mass,
+which makes it rather debatable which is being
+added to which, given the black hole would
+be more massive. Not bigger though, such a
+black hole would be 1 millimeter wide. Which
+is actually very large for an artificial micro
+black hole and makes feeding it regular matter
+so much easier.
+Now less gravity would probably be fine for
+people, Mars’ gravity might work fine – and
+if you’re curious, this black hole trick
+would work fine on Mars too – but has the
+same problem for terraforming there. The Moon’s
+surface gravity would now be 100% of Earth’s,
+but its escape velocity from the surface would
+still be lower, 5.8 kilometers per second,
+more than twice its current value but still
+only half of Earth’s and about 20% higher
+than the escape velocity of Mars. Mars has
+no real atmosphere or oceans but we suspect
+it might have in the past, and the gravity
+was enough to keep them for long times but
+not for 4 billion years, so that extra 20%
+might be enough or it might just slow the
+escape down to billion year timelines which
+is good enough for terraforming – nothing
+lasts forever be it a planet or a megastructure
+or a hybrid of the two, you need to replace
+and repair. You could go bigger too, expanding
+the Moon to be a hollow shell of Earth size
+and mass, making Earth a genuine double planet,
+and we will come back to that later in the
+episode.
+Now the other problem is that black holes
+are great power generators. You can add mass
+straight into one, in a way that wouldn’t
+cause power release, but if you are generating
+power while adding mass, you’re getting
+somewhere between 20-40% of the mass energy
+of that matter released as energy. So you’re
+potentially talking about releasing something
+like the current entire mass energy of the
+moon in the process of feeding it up to Earth
+Gravity. You’re not exactly being wasteful
+by skipping power generation either, all that
+energy isn’t free. If you convert 20% to
+energy on the drop into the black hole then
+you need 20% more mass to get that desired
+final mass. Whereas, as we’ll see in a moment,
+even slowly adding in the last 1% of mass
+over a billion years would easily power the
+Moon that entire time.
+See a Moon-Mass of energy is 6.5 x 10^39 Joules,
+which is half a million years of solar output,
+or the amount of sunlight that falls on Earth
+alone in a quadrillion years, or the Moon
+in 14 quadrillion years. And that sunlight
+is what keeps Earth and the Moon warm, so
+even just adding that mass energy in at the
+same rate the Sun gives it to those worlds
+would mean roasting the folks on it by doubling
+their power input, and would take 14 quadrillion
+years, fully a million times longer than the
+Universe currently exists.
+Now we might be building for those kinds of
+timescales. Black Hole powered civilizations
+regard the normal starlit era of the Universe
+that will persist for the next 100 trillion
+years as that irritating early period of the
+Universe where big clumps of useful fuel were
+inefficiently burning away their value of
+their own accord and exploding when they were
+done. 100 Trillion years is nothing to their
+timescales and they have the energy efficiency
+to outlast all the stars in the Universe a
+trillion times over again.
+Nonetheless it’s a long time for us to wait
+and so you would presumably be adding that
+mass in a lot faster to a black hole in the
+center of the Moon or some other planet, and
+I suspect trying to get it in there and quickly,
+is not going to be a clean process with no
+energy produced, so this trick is likely to
+need to be a slow one. Or you could make it
+far away and move it there but that has its
+own very tricky issues, since you can't magically
+turn off its gravity or inertia when they’re
+inconvenient. Probably anyway, for all we
+know we might find some gravity or inertia
+manipulating technologies and if they’re
+possible then I’d think they’re likely
+to be discovered before the Moon is home to
+billions of people. I’m not optimistic on
+such technologies but regard them as vastly
+more likely than FTL or Time Travel. Once
+you’re at a good mass though, you can keep
+adding mass at the rate you want for its energy
+and using it to power your civilization, just
+the last percent of a percent of the desired
+mass would power you for trillions of years.
+And so this is one path to a future Moon,
+one in which it has had its mass raised and
+had oceans and atmospheres added to it. Earth
+is not unaffected by the Moon gaining 5 times
+its current mass but that is manageable and
+you could be using a little of that mass and
+energy to push the Moon a bit further from
+Earth to keep the tides on Earth of similar
+intensity. Or you could build sister Moons
+into a Kemplerer Rosette around the Moon or
+rebuild the whole moon as a big donut around
+Earth. You could also increase earth's own
+mass, as we looked at in our culminating episode
+of the Earth 2.0 series, Matrioshka Worlds,
+where we envisioned an Earth with layer after
+layer of hollow spherical shells each artificially
+lit and full of land and sea, sharing the
+same mass for gravity on many surfaces.
+Which is another possible fate of the Moon,
+as such a Matrioshka World, and indeed given
+you would be adding so much mass to the Moon
+to do all of this, a Matrioshka layer of nested
+spherical worlds would seem more likely than
+a single shell, especially as while the Moon
+is low in mass compared to Earth, it’s made
+of mostly the same stuff as Earth’s surface
+– this is the major reason why we think
+the Moon was formed by ancient collision tearing
+much of Earth’s surface off. The Earth might
+be 80 times the mass of the Moon but the Earth’s
+crust is only around 1% of Earth, so you could
+turn the Moon into a earth-crust-thick shell
+as big as Earth’s crust and still have mass
+to spare, and of course could make thinner
+layers given you don’t need a crust that
+thick. You just disassemble the Moon and rebuild
+it as a shell around a black hole of Earth’s
+Mass.
+The nested shell Matrioshka version might
+be more popular though given that the Moon’s
+month long day and night already require artificially
+lighting, hence underground or lower layer
+habitation is probably easier to sell to people.
+Of course the Moon could also be spun up to
+a 24 hour day but the energies involved in
+that are also pretty enormous.
+And this is another fate for our Moon, disassembly,
+possibly for some world building, possibly
+to build a fleet of a trillion colonization
+vessels to sail out and claim the galaxy,
+possibly to build a swarm of O’Neill Cylinders
+and other space habitats and infrastructure
+around Earth, which is easier without the
+Moon swinging around gravitationally perturbing
+everything. Hence why other artificial moons
+or a Donut Moon around Earth might be popular.
+Now we did not raise all those other scenarios
+strictly as alternatives to our Moon slowly
+turning into one vast city or Ecumenpolis,
+but rather, many are roads we might follow
+at the same time. For instance, every city
+needs its parks as well as its ports, and
+it’s possible a lot of Moon habitation and
+industry will be underground for safety but
+that early domes on the Moon would be about
+landing ships or having gardens, where losing
+one to a cracked dome represents less of a
+loss and risk compared to a home or school
+or office, and such a habit might persist
+into a future that sees the Moon terraformed
+on its surface but principally inhabited below.
+The key notion whenever we discuss domes on
+airless worlds, incidentally, is that while
+one meteor slamming in at kilometers per second
+could blow a dome to pieces and kill everyone
+inside, those would be rare and easier to
+detect and destroy with point defenses, and
+be vastly outnumbered by smaller rocks and
+pebbles wearing or cracking a dome or blowing
+a dime sized hole in one. Air leaks into the
+vacuum of space at roughly the speed of sound,
+so a dome the size of a football field with
+even a fist-sized hole in it to the vacuum
+is not causing everyone to collapse suffocating
+or get sucked through the hole and turned
+into sausage on the way out. Plus such domes
+probably have thin wire mesh in their panes,
+or a layer of plastic like with shatterproof
+windows, not some big sheet of glass that
+would shatter. Nonetheless it would seem unlikely
+many folks would feel comfortable living and
+sleeping directly under a big dome without
+additional layers, like being underground
+would offer. And again there’s no 24 hour
+day there, it gets dark for two weeks in a
+row and sunny for two weeks, maybe not something
+folks want to live under. It's hard to guess
+but at the very least, early on we would expect
+a lot of Moon colonization to be buried in
+the sides of craters, or under them, or in
+the vast lava tubes underground, and artificially
+lit.
+From this, especially with Earth probably
+growing its cities ever more vertical and
+other space habitats being essentially rings
+or cylinders you live inside, we might assume
+an underground growth on the Moon and downwards
+would be popular from the outset.
+Skyscrapers are much easier to build on the
+Moon due to the low gravity, lack of air,
+and lack of Earthquakes, but they are exposed
+to being hit too. Truth be told, a skyscraper,
+especially something in the arcology megascraper
+zone, are vastly more resistant to meteor
+strikes than a big dome is, and more so if
+you have a bunch of these scrapers under a
+dome but still connected via their own protected
+or air tight tunnels, you have a lot of redundant
+protection for folks on the surface living
+in them. You can also have some clever features,
+like a cannon that shot airbags at cracks
+in the dome if the dome punctured, or that
+shot at folks exposed to the vacuum and encapsulated
+them in an air bubble and protective sheath.
+Those people also might be effectively immune
+to being spaced into a vacuum, due to being
+covered in smart matter like we’ll discuss
+next week or being rather transhuman and cybernetic.
+We’ve looked at all sorts of other safety
+features spaceships, space habitats, and dome
+colonies might employ down the years too.
+So I don’t want to give the impression that
+surface-living on the Moon and surface cities
+are not viable unless the place has been terraformed
+and with a black hole crammed in the middle.
+Still, while building up is easy, so is building
+down. Excavating on the Moon is easy, the
+regolith is nasty stuff full of sharp edges
+that are rough on equipment but the gravity
+is lower which makes everything else about
+excavating and building down easier. For that
+matter, Stanford developed an interesting
+vine-like growing machinery that might get
+around that whole regolith cutting and ripping
+issue.
+Keep in mind, we have lavatubes on the Moon
+in which you could fit football fields, and
+which can be many kilometers long too, and
+it's not that the moon forms those better
+than Earth, it's that lavatubes, especially
+big ones, have more problems lasting on Earth
+with earthquakes and water and air and gravity.
+Digging down and building up are easier on
+the Moon, but the big difference is that when
+you’re digging down, you are surrounded
+by tons of rock that’s fairly airtight in
+its own right and easily covered with a sealant
+to minimize small leakage. On the surface,
+building up, you either build under a big
+pressurized tent or you build then pressurize,
+and unless you built very thick, meters, not
+centimeters, odds are good you’d be springing
+leaks as you pressurized that building, or
+found them when the tent around it was removed.
+Now, that low gravity lets you not only build
+taller or deeper more easily than on Earth,
+but it also lets you contemplate heights and
+depths you never could on Earth. There’s
+no end of atmosphere on the Moon, it’s got
+none, so all the buildings need to be pressurized
+anyway and they’re not getting hammered
+by wind and storms. Or earthquakes, there’s
+much less of an infernally hot mantle below,
+which makes building deeper easier because
+there is much more crust than on Earth. We
+do believe the Moon has a liquid iron outer
+core and mantle but far smaller and deeper
+down. Of course running into magma and lava
+monsters isn’t the real limit on building
+deep on Earth, we max out much shallower.
+We usually put the limit on cave depth at
+about 2 miles or 3 kilometers underground
+because of the pressure of overlying rock,
+and we do have some mines as much as 4 kilometers
+deep but these are almost exclusively gold
+mines, because tracing a vein of gold that
+deep is about the only thing worth the effort
+of trying to excavate, shore up, and maintain
+such a tunnel for.
+Something to keep in mind is that even your
+air is getting compressed down there by air
+above, and can be twice the pressure of that
+up here on the surface, and has to be pumped
+down refrigerated, into an insulated shaft
+to make it a bearable temperature for the
+miners. Now robots may do better one day but
+that doesn’t interest us much for living
+accommodations, but since gravity on the Moon
+is a sixth of Earth’s, we could go 6 times
+deeper before the air rose to that pressure.
+What’s more, there’s no air on the Moon
+so it’s not leaking down through various
+cracks to raise that air pressure. If I take
+a big jug of water, the pressure at its bottom
+is higher than it is on top, and if I place
+another jug on top of it, that jug presses
+down to raise that pressure further. However
+if instead I sit them on a shelf, one below
+and one on the shelf above, then the one above
+does nothing to add to the pressure. With
+that in mind, on the Moon you can circumvent
+that pressure issue by just having air locks
+– which you would have anyway – separating
+levels every so often, maybe every kilometer
+at most. And thus your pressure need not rise
+as you go deeper, and even at its core the
+Moon is only thought to be about 1300 to 1400
+Celsius, or around 2500 Fahrenheit, where
+as Earth’s core is about 5200 Celsius or
+9300 Fahrenheit, nearly as hot as the photosphere
+surface of the Sun.
+And that means you can build very deep on
+the Moon, indeed we do have metals able to
+withstand that core temperature, many of them.
+The pressure might be harder though, especially
+in conjunction with temperature, as its core
+pressure is about 45,000 atmospheres. Which
+is nothing compared to Earth’s core, which
+is 80 times higher at 3.6 million atmospheres,
+but that’s still about 10 times the pressure
+at the bottom of the Kola Super Borehole that
+got 12 kilometers deep. Still it's inside
+the realm of what we can plausibly do, even
+without some of the more extreme methods we
+looked at in our episode Accessing the Earth’s
+Core, which means even a tunnel right through
+the middle of the Moon is viable.
+For those who have seen the movie Total Recall,
+the reboot rather than the original, you might
+recall they had a train shaft that went right
+through the center of the Earth between Europe
+and Australia. There’s not much reason to
+do such a project on Earth but it works much
+better on the Moon, you just drop down a shaft,
+and you will accelerate as you fall – especially
+if it's already a vacuum – and gravity gradually
+decreases as you fall, until it drops to nothing
+at the core then reverses, so the same gravity
+that sped you up, slows you down on the way
+back up to the other side of the tunnel, which
+theoretically makes this manner of travel,
+cost you no energy at all, though in practice
+you’d probably need a little to overcome
+friction on the train system.
+Now on Earth that means a journey of just
+40 minutes and maximum velocity of 8 kilometers
+per second, which is roughly the same as low
+orbital speed right over our atmosphere and
+that is not a coincidence since both have
+to do with falling around the planet. Orbital
+Speed right over the Moon’s surface is 1.6
+kilometers per second and that’s the maximum
+speed you’d reach falling through a shaft
+bored right through the Moon, all the way
+down to the center and back out again. The
+time it takes to fall, assuming a sphere of
+uniform density, is π times the square root
+of the sphere’s radius divided by the gravity
+at the surface, and is a formula that dates
+all the way back to Sir Isaac Newton and his
+original work on gravity, physics, and calculus.
+Needless to say, worlds are rarely of uniform
+density but it tends to give a decent approximation,
+and for the Moon, with a radius of 1.7 million
+meters and a surface gravity of 1.6 m/s²,
+that gives us a time of 3250 seconds, or 54
+minutes.
+Weird that it takes longer than on Earth right?
+Well not really, the Moon isn’t as dense
+as Earth, the denser the sphere the faster
+you fall through it, something that is pretty
+handy if you’re trying to build black hole
+wormhole gates. For this same reason a satellite
+right over the Moon actually takes longer
+to orbit it than one right over Earth does,
+for all that Earth is much bigger. If you’re
+curious, it's 42 minutes on Mercury too, which
+has about the same density as Earth even though
+it’s about a twentieth our mass, just over
+a third our diameter, and has only 38% of
+our gravity. Your fall time – or orbit time,
+as it is basically just half an ultra-elliptical
+orbital path - rises with the square root
+of the radius, but surface gravity of a uniform
+sphere is dropping with the square of radius
+from gravity weakening with distance and rising
+with the cube of radius as it encompasses
+a bigger volume and thus more mass, so that
+surface gravity of a uniformly dense sphere
+rises with the radius, double the radius,
+double the surface gravity.
+Thus your orbital period or drop times are
+rising with the square root of the radius
+divided by the radius, or it washes out. A
+big sphere of Earth’s density but way bigger
+radius has that same drop time, however, density
+is altering gravity linearly, twice the density,
+twice the mass in a given sphere, twice the
+gravity, but it’s still under that square
+root, so drop time falls with the inverse-square
+root of density, 40 minutes for Earth, about
+half that for something 4 times denser and
+twice that for something a fourth as dense,
+which would generally be your icy moons or
+dwarf planets like Pluto.
+A little bit of physics and gravity sidetrack
+there but the show is called science and futurism
+and I am a physicist so I like to sneak some
+in when I can, don’t worry, there’s no
+quiz.
+In any event, these kinds of tunnels don’t
+actually have to bore all the way through
+the core, they can run at tangents through
+a planet like if you jammed a needle through
+an orange, in one place and out the other,
+regardless of if it passes through the core.
+The problem is, on Earth, that orange peel
+is still proportionally thicker than our crust
+so these sorts of gravity trains are not really
+practical on Earth. You’re not really getting
+up to bullet speed for trains running at a
+maximum depth of maybe 4 kilometers requiring
+hyperstrong vacuum tunnels. In truth it wouldn’t
+be a needle straight distance either, your
+shortest-time tunnel in a case like this is
+a hypocycloid, a curve rather than a straight
+line, and allows us to contemplate, on a place
+like the moon, gravity train tunnels all over
+that world, that move you around it very quickly,
+right from the bottom of one crater city to
+another, far away.
+Now why does this matter? Well my thinking
+is that if you are building crater cities
+and connecting each to each other by such
+hypocycloid tunnels, for quick, easy and safe
+travel, then much like any highway with exit
+ramps or train path, you might have build
+ups near and on these, especially as it's
+not hard to stop the train part way through
+and store some drop energy. It’s not like
+interstellar travel through a vacuum where
+stopping cost and starting part way through
+the journey cost you as much as the original
+journey, this costs you no energy, and since
+you’re presumably dropping down an electromagnet-covered
+shaft, there’s a number of options for low
+or no energy turns and stops including utilizing
+a simple flywheel, which work great in a vacuum.
+These are your fastest paths too, including
+launching up into space and back down again,
+except for some of the extreme and fuel-crazy
+options we contemplated in our High-Tech Search
+and Rescue episode.
+We’re also talking maximum speeds of about
+a kilometer a second here, after a drop of
+10 minutes, as that would already put you
+300 kilometers down under the surface, deeper
+journeys could get you all the way up to that
+1.6 km/s orbital or core speed but even at
+100 kilometers deep you have already hit 353
+meters per second, just over the speed of
+sound here on Earth, and truth be told, it
+doesn’t take much energy to stop or start
+in a vacuum with something to grab on and
+shove off of. A one-ton car going at that
+speed has a kinetic energy of just over 60
+million joules, half a gallon of gasoline.
+So we’re not talking a ton of energy to
+stop for a pause and get back going even if
+the system doesn’t include regenerative
+braking options and such.
+This means along those big hypocycloids between
+the bigger crater cities, or lavatube cities
+for that matter, you are likely to have a
+lot of pit stops like you do on highways.
+This decade’s pit stop becomes next decade’s
+truck stop and then a town and then maybe
+a city in its own right. So we could easily
+see a big expansion all over the surface of
+the Moon, like we discussed in battle for
+the Moon, while at the same time we had an
+ever growing number of these tunnels and the
+growing habitation around them. All the more
+so because these are great places to put a
+long skinny rotating cylinder to serve as
+rotating gravity spots so that residents or
+visitors could experience gravity closer to
+terrestrial standards.
+One other thing driving this expansion is
+that folks live on the Moon for a reason and
+the big reason would seem to be mining raw
+materials, and such hypocycloids represent
+very low energy ways to launch spaceships
+too, they are very easily modified to serve
+as a mass driver or space catapult. It would
+not be surprising to see mining follow along
+these paths to get dual use as basically creating
+a highway or freight line while producing
+the valuable ores that will be feedstock of
+a lunar economy.
+Now, speaking of localized gravity, I suppose
+it’s only fair to point out that a single
+big black hole isn’t the only option for
+gravity on the Moon. If you’re good with
+your black hole generation you could have
+dozens of smaller ones forming a grid beneath
+a city on the surface giving it higher gravity
+locally. You can do this same trick on high-gravity
+worlds to lower gravity in a city by suspending
+them above it and it absolutely works on paper
+but has always struck me as way more dangerous
+than a single big one at your planet core,
+or moon core. These can be used for power
+generation as needed and indeed if they are
+small and numerous enough, they could generate
+power via Hawking Radiation. One able to provide
+Earth-like gravity a hundred meters away generates
+a few hundred watts that way, and you could
+potentially make a floor of them in some hexagonal
+grid layout every dozen meters or so, so that
+might give you a nice plane of gravity and
+power generation.
+This is one trick for artificial gravity plating
+like we see in science fiction and generally,
+gravity will not drop much as you get higher
+from those plates until you are as high or
+higher than the plates are wide as a whole.
+Lookup calculating the gravity of an infinite
+flat plane if you want that explained, we’ve
+already done a bit more math today than I
+prefer our episode’s contain. So as long
+as your city is at least as wide as it is
+tall you can use a giant plate full of micro-black-holes
+for gravity generation. Note that on the surface
+of the moon this would mean you would have
+an upside-down under city where the gravity
+was 67% of Earth normal but pointed upwards
+and outwards, not down, since your plate is
+presumably generating less than Earth gravity
+as the Moon provides some too, and it's subtracting
+it instead of adding it when upside down.
+So there are potentially some weird tricks
+for making coin-like cities with heads and
+tails, on or off planets, or hanging over
+top one too. All right, one other note on
+gravity before we move to why the Moon might
+become a Mega-city. Expansion of a planet,
+by digging down and hollowing it out and using
+that material to build higher levels, lowers
+pressure and gravity as you hollow it out
+and make it wider. That makes your gravity-drop
+tunnels slower by a bit, as you make your
+world bigger and less dense. Note that having
+all your gravity at the core in a black hole
+makes the drop faster than a uniform sphere
+of the same mass too. However as folks core
+out the Moon to make more living space and
+mine it all, it is likely a lot of the spoil
+will be moved back up to the surface for construction
+and on long timelines and with vast industrial
+might, this starts getting you the many-layered
+Ecumenopolis or even Matrioshka World setup
+we sometimes contemplate as Earth’s eventual
+fate.
+So we build down, down in craters and lavatubes,
+deep into their rim walls too, and slowly
+as population rises we build deeper and wider,
+and merge. All at the same time you’re piling
+on new layers above, making the whole world
+structure more artificial and sturdy, and
+potentially bringing in cheap mass from elsewhere,
+be it liquid hydrogen or helium or black holes,
+to add mass, if you want to.
+How many people could comfortably fit in the
+Moon if we made it a three-dimensional city?
+Tricky question as we always have the fuel,
+food, and heat issues, not to mention as you
+hollow it out to make homes, that excess material
+can be used to make more homes on higher levels.
+It’s current volume is 22 x 10^18 cubic
+meters, or 22 billion-billion, and the typical
+apartment might be as little as 220 cubic
+meters and hardly uncomfortably tiny, at that,
+so that you could squeeze in 100 million,
+billion people, a number that even a Dyson
+Swarm would find respectable, but in truth
+more the sort of number we would expect as
+the upper end for an entire CisLunar or Earth
+Hill Sphere Planet Swarm, see our episode
+on Colonizing CisLunar Space for more explanation
+of that.
+We’re not really contemplating packing people
+in to endless apartments on the Moon anyway,
+but would probably instead use a figure more
+like 10 trillion, as it represents the high
+upper end of what the Moon could get rid of
+as heat, even if rather expanded in radius,
+from many layers or radiating super-towers
+being added, while still giving its people
+on the order of 10 kilowatts a piece for comfort,
+hydroponic food production, commerce, etc.
+You could go higher in energy needs for fewer
+people or lower maybe, especially if the people
+are getting pretty post-human like cyborgs
+or digital uploads, but let’s settle to
+10 trillion. If we optimistically assumed
+10% of the human population lived on the Moon
+at that point and the human population grew
+like it did in the 20th century or the last
+20 years, doubling twice a century, then that
+human population of 100 trillion might be
+reached in as little as 8 or 9 centuries,
+near the dawn of the fourth millennium.
+And personally I would have a hard time imagining
+a terraforming project that might take many
+more millennia to make the Moon blue and green
+would be allowed to override those efforts
+and expansions, so that at most, the world
+surface might look that way, covered in garden
+domes, super-spire buildings, and spaceports,
+while the juggernaut lay below.
+Now it’s popular in science fiction to portray
+Mars as some giant empire breakaway from earth,
+like the US is often seen as being for Europe.
+Or even as dual empires of roughly equal footing,
+such as we see in The Expanse or the Warhammer
+40,000 settings, and usually, if the Moon
+is mentioned at all it’s as the footnote
+or, perhaps properly, as a small satellite
+power. But in truth the Moon’s role in the
+future is likely to be bigger and brighter
+than Mars. If any world is likely to ever
+rival Earth or even come near it, it will
+be our own Moon, not Venus or Mars or some
+world around Alpha Centauri. It may make itself
+mighty by slowly extracting matter to build
+itself and its economy, fueling the push to
+develop a vast solar empire and a vast collection
+of industry and habitats in CisLunar Space,
+all while importing cheap matter, such as
+hydrogen or helium, to increase itself in
+mass.
+Here though we see an option where the Moon
+might rise to be a true double planet to earth,
+its twin and peer as we settle the solar system
+and galaxy beyond.
+So we have a few announcements and our upcoming
+schedule for April to get too, but first,
+we were doing some math today to calculate
+how big a black hole needed to be to emulate
+Earth-like gravity on the Moon and we do try
+to keep how much math we do during an episode
+on the light side. Watching science videos
+like ours is a great way to get an overview
+and learn the basics of different topics,
+but to gain an understanding of “why”
+and “how” concepts work the way they do,
+you have to try it yourself, and for that,
+I recommend heading over to Brilliant, today’s
+sponsor.
+Brilliant is an interactive STEM-learning
+platform that helps you to truly understand
+concepts in math, science, and computer science
+by guiding you through engaging, hands-on
+courses.
+Now a lot of folks who watch the show love
+our topics but think of themselves as bad
+at math, and they’d love to know more but
+don’t think they can. Many of us learned
+there was only one “right way” to approach
+things like math, but in Brilliant’s new
+Everyday Math course, that’s not the case.
+Exercises like finding the areas of shapes
+will show you that there are many ways to
+solve a problem, and the visual and interactive
+solutions will help you understand the concepts
+even better.
+And don’t worry if you’re busy—lessons
+are presented in bite-sized pieces, so you
+can learn at your own pace in a no-pressure
+environment. To get started for free, visit
+brilliant.org/isaacarthur or click on the
+link in the description, and the first 200
+of you will get 20% off Brilliant's annual
+premium subscription.
+So this is the first episode I’ve produced
+since I got back from my trip to Santa Monica
+to speak at the Rand Corporation's US-Japan
+Space Cooperation Conference about 2 weeks
+before this airs. The conference was a lot
+of fun and dinner at the Japanese Consulate
+afterward was spectacular in cuisine, conversation,
+and courtesy. I think I came up with a dozen
+different episode ideas while listening and
+chatting with others, particularly Pete Worden
+from Breakthrough Starshot. The man’s a
+legend and he deserves the status.
+The opening keynote on Day 1 was David Kipping,
+who a lot of you know from the Cool Worlds
+Lab and Channel, and we ended up chatting
+for a couple hours afterward while burning
+time for our flights home and for everyone
+who's watched his channel, yes he is every
+bit as insightful and pleasant to talk to
+as you’d expect. If you haven’t seen his
+show, and especially if you’re a Fermi Paradox
+fan, check out his episode “The First Civilization
+to Emerge in the Galaxy”, his narrative
+on that episode is spellbinding, and don’t
+forget to hit the like and subscribe button
+while you’re there.
+Speaking of fellow science creators and on
+a sadder note, I also wanted to express the
+condolences of myself and the SFIA team to
+Anton Petrov on the recent loss of his baby
+boy Neil Apollo Petrov. I can't imagine anything
+worse than that and since I know we share
+a lot of audience, I’d just ask everyone
+to continue to give him your kind words and
+support during this hard time.
+It’s been a rough couple months for many
+folks on the back of what seems to be just
+a brutal last couple years of virus-driven,
+emotional-grinding change and hardship, and
+I try not to sugar coat how hard times can
+be on this show even though we aim for an
+optimistic tone and I do believe in a brighter
+future if we work hard for it. Stormy weather
+brings the rain that makes the flowers grow
+and there’s a light at the end of the tunnel.
+Admittedly sometimes it feels like the light
+at the end of the tunnel is actually a freight
+train getting ready to run you over. I’ve
+a feeling that this is going to continue to
+be one of those kind of years, and its important
+to stay strong, keep to your courage and convictions,
+and just keep working to a better world, and
+not to let events weigh your head down so
+much you forget to see the good moments along
+the trip too.
+There is a lot of future to look forward to
+as well, and we’d best get to it by finishing
+up our schedule of episodes so we can finish
+up this episode. We’re almost finished with
+March too and we’ll close it out this weekend
+with our Livestream Q&A followed by a look
+at Programmable and Smart Matter on March
+31st. Then we’ll open up April with a look
+at the concept of Self-Growing Space Habitats
+and Bases. After that we have our scifi sunday
+episode, Multi-Species Empires, followed by
+asking what would happen if Earth lost the
+sun and became a rogue planet?
+Now if you want alerts when those and other
+episodes come out, make sure to subscribe
+to the Channel and hit the notifications bell,
+and if you enjoyed this episode, please hit
+the like button, share it with others, and
+leave a comment below. You can also join in
+the conversation on any of our social media
+forums, find our audio-only versions of the
+show, or donate to support future episodes,
+and all those options and more are listed
+in the links in the episode description.
+Until next time, thanks for watching, and
+have a great week!

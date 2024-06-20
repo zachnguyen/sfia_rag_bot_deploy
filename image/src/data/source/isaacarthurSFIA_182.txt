@@ -1,0 +1,927 @@
+In a time when humanity faces an ever growing
+need for energy and higher and unstable prices
+for that energy, nuclear power would seem
+ideal, but the plants are often enormous and
+take forever to build.
+Small, Modular reactors able to be assembled
+quickly and fill smaller demands may be the
+answer to the problem.
+So today we’ll be looking at the Small Modular
+Reactor or SMR concept of nuclear fission,
+and how they potentially offer cheaper and
+safer nuclear power, and how they might serve
+as a better alternative to classic nuclear
+power plants.
+This means we’ll be digging a bit into both
+the nuts and bolts of how the reactor designs
+work – there are many – and how the logistics,
+economics, and regulatory issues factor in.
+We will also go through an in-depth explanation
+of how nuclear power in general works before
+getting to SMRs.
+If you know the difference between alpha,
+beta, gamma, and neutron radiation, what RTG
+stands for, what a breeder reactor is, what
+a moderator is, and can name a few and their
+pros and cons, feel free to skip ahead.
+If on the other hand you’ve heard those
+terms a lot but never really got a good intuitive
+explanation, because virtually every video
+on nuclear power is either a three minute
+video with few details or a long one that
+assumes you already know all of that, then
+grab a drink and a snack.
+This episode continues our discussion of emerging
+energy technologies, where we’ve covered
+everything from Fusion Reactors to Power-Beaming
+Satellites to more down to Earth options like
+Solar and Solar Thermal.
+I thought today we would take a look at a
+particular type of fission reactor – the
+Small Modular Reactor – as opposed to our
+prior more general looks at fission technology
+or alternative fission fuel like Thorium.
+As usual see those episodes for more discussion
+of Nuclear Power and reactions in general,
+or other power sources.
+And of course, if you enjoy this episode,
+don’t forget to hit the like, subscribe,
+and notification buttons.
+The Small Modular Reactor is one we’ve been
+asked to do a focused episode on for years
+and has been much on my mind the last six
+months or so, and by good fortune I got approached
+by a company working on SMRs – Last Energy
+– which asked me if I was considering doing
+an episode on it and offered their graphics
+for the discussion.
+We will be looking particularly at their system
+today near the end.
+They are a commercial spinoff of the Energy
+Impact Center, the research institute that
+developed OPEN100, an open-source academic
+platform for design, construction, and financing
+of a 100 Megawatt pressurized water reactor
+to prove that nuclear energy can be widely
+accessible, standardized, and commercialized.
+Additionally, Bret Kugelmass’s podcast,
+Titans of Nuclear, conducts interviews and
+deep dives with the folks in the nuclear industry.
+Kugelmass is the founder of Last Energy incidentally
+and the Energy Impact Center.
+I would recommend both Titans of Nuclear and
+also Rod Adam’s Atomic Show podcast for
+those interested in really getting into the
+regulatory and economic aspects.
+Nuclear is definitely seeing a bit of revival,
+especially outside of the West, and probably
+at least in part from the current energy crisis,
+and Last Energy for instance secured reactor
+contracts in Poland and Romania.
+Anyway, I’ve picked Last Energy both because
+good visuals for explaining reactors are in
+short supply and because they do seem to have
+one of the better plans for production and
+deployment of SMRs.
+I’m not endorsing them nor are they sponsoring
+the episode.
+That and they actually have a small reactor,
+20 Megawatts, a lot of SMR designs are hundreds
+of megawatts and as big as a Walmart, parking
+lot included, which is still smaller than
+a traditional reactor facility.
+They’re not alone in that, the Hyperion
+Power Module is a 50-ton, 25 Megawatt Liquid
+Metal cooled reactor, which is actually quite
+light in power terms, giving you 2 megawatts
+of electricity per ton of reactor, and there
+are many other designs but between the drawing
+board and development the size tends to tick
+up, and at least partially because size often
+helps a lot with price and safety.
+We’ll start explaining what all those terms
+mean in a moment.
+Now, no discussion of nuclear energy can ever
+be had without bringing up the dual issue
+of safety and public fear and regulation.
+Small Modular Reactors have both pros and
+cons in regard to those matters and we’ll
+come back to it later.
+We should acknowledge that Nuclear Fission
+isn’t unique in this.
+Fusion is often the ideal technology of the
+future, and maybe always will be, which is
+maybe why it's so rarely pointed out that
+they are just as radioactive as fission technologies,
+they just don’t tend to involve or produce
+long-lived radioisotopes, which is the nuclear
+waste issue.
+Power Beaming brings up all the problem of
+space travel, plus the creation of a death
+ray aimed at Earth as the pipeline for transmission.
+Coal especially, but oil and natural gas and
+other chemical fuels have the issue of limited
+supplies and ecological damage acquiring them
+and from using them.
+Solar and biofuels both take up valuable real
+estate and sunlight, windmills wreck the scenery
+when not endangering air traffic and killing
+birds, something most forms of active solar
+thermal power do too.
+Needless to say, some of our other favorite
+high-tech power options like Black Holes,
+Antimatter, or Vacuum Energy all have issues
+of being hard to make and a propensity to
+wreck things around them, like people, planets,
+spacetime itself, or even an entire region
+of the Universe.
+There is also the reality that it’s a waste
+of time to talk about any power source as
+‘safe’ or incapable of being weaponized.
+There is nothing easier to weaponize than
+cheap energy, by both direct and indirect
+means, and at the most fundamental level access
+to cheap power very literally energizes a
+nation’s industrial sector to the point
+they can mass produce conventional weapons
+and other goods and services to help pay for
+maintaining and manning those weapons.
+I like to get that out of the way from the
+outset because often fear of nuclear involves
+reasonable concerns and other times it gets
+to a somewhat paranoid and maniacal state,
+folks wanting ever more and more unreasonable
+controls against any risk at all.
+I’m not going to tell folks it is impossible
+to produce nukes from the thorium cycle or
+that a SMR is somehow incapable of causing
+harm, merely that the technologies under discussion
+meet reasonable safety standards in comparison
+to both alternative energy sources and other
+major technologies.
+Chasing your tail around for moving goalposts
+or 100% safety isn’t a pathway to success
+or survival, and we’re prone to it in discussion
+of certain technologies, aerospace and artificial
+intelligence both being other examples.
+Now our goal is not to do a deep technical
+dive on either the basics of nuclear or any
+specific reactor design, but it bears repeating
+how you get energy from nuclear or atomic
+sources.
+Those two terms are fairly interchangeable
+but you will generally hear me say atomic
+while nuclear is more popular these days but
+I’ve traditionally had a devil of a time
+pronouncing nuclear.
+I suspect that term shift is acknowledging
+that the energy being released in nuclear
+processes comes from changing the nuclei of
+an atom, whereas altering the electron shells
+of atoms in general is involved in more conventional
+power and chemistry.
+This difference is also apparent in the fields
+of nuclear physics and atomic physics which
+are quite distinct from each other.
+There’s generally millions of times more
+energy in nuclei that you can release by messing
+with it than messing with that electron shell
+around it though, which is the key source
+of interest in it.
+It’s not just that protons and neutrons
+have thousands of times more mass than electrons,
+and therefore mass energy, but the distances
+involved.
+The planetary model of the atom isn’t really
+accurate but for the moment we’ll use that
+and remember that positive charges attract
+negative charges and repel other positives
+charges, and that the force they do with that
+rises sharply the closer they are, running
+inverse-square with distance.
+Two protons sitting right next to each other
+shove very hard on each other, whereas if
+we moved them a thousand times further away,
+they would experience only a millionth of
+that force.
+Atoms are generally on that scale, with all
+the protons wadded up close to each other
+and all the electrons far, far away, and it
+takes energy to bind them all together, so
+moving those electrons shuffles a lot of energy
+about, especially those inner electrons on
+bigger atoms, but is nothing compared to what
+is involved in pinning those giant protons
+together at a fraction of the distance.
+We discussed more on the inner workings of
+those and quarks in our Antimatter Factories
+episode, but all we need for today is to understand
+that it takes enormous energy to cram more
+protons into nuclei, and the process of adding
+protons and neutrons is called fusion.
+This occurs naturally in very dense and hot
+places where nuclei can slam into each other
+trillion of times a second and at ultra high
+speeds, as otherwise it’s virtually impossible
+to get two smaller atoms to combine, and most
+of the matter in the Universe is made of those
+smallest atoms, hydrogen, helium, and their
+isotopes.
+Fusion of this sort produces a lot of energy
+and from a fuel source that is very abundant
+and thus is very desired, but the trick is
+that even in our Sun’s core this process
+is so hard to do that your typical hydrogen
+atom will spend billions of years before being
+turned into something bigger, which most of
+the time is a diproton, two protons all by
+themselves, and these fall apart very fast.
+Only in supernovae is this actually occurring
+very fast, and thus a fusion reactor mimicking
+the Sun’s core here on Earth would need
+to have several tons of core material to produce
+enough power to run a light bulb, thus artificial
+fusion power needs to massively exceed the
+already insane temperatures and pressure in
+the heart of a star to be of any use to us,
+part of the problem making it work.
+Sometimes that proton-proton combo though
+will undergo a switch into a proton, neutron,
+and positron – the electron’s antimatter
+twin, plus some neutrinos, and this is deuterium,
+a proton and neutron together, and is an isotope
+of hydrogen, as is tritium, which is a proton
+and 2 neutrons, and this is unstable and after
+about a dozen years around half of them will
+have broken down, and that is true of many
+atoms and their isotopes and the period half
+breakdown into is the half-life.
+The type of atom is determined by how many
+protons it has, that’s it’s elemental
+number and type, and the neutron count controls
+what isotope it is.
+Some are stable, lasting longer than the Universe
+has thus far existed, others live lifetimes
+so short they regard a second the same way
+we frail mortals regard the Age of the Universe.
+That’s the main nuclear reaction going on
+in the Universe to date, small atoms combining
+and mostly merging, but often they’ll spit
+out a particle, typically an electron, proton,
+positron, neutrino, neutron, gamma ray, or
+an alpha particle – which is actually a
+pair of protons and neutrons, the same as Helium.
+[OOPS: That's tritium NOT HE-3 on the left]
+If you’re curious Beta Radiation is when
+an electron or positron is emitted and is
+virtually harmless.
+When these emission happens we call it nuclear
+decay and we can derive a small but long lasting
+power source by taking a material, or radioisotope,
+with a decent half life, say a century, and
+let it slowly decay and absorb all that decay
+energy as heat energy to power a RTG or radioisotope
+thermal generator.
+These aren’t super-efficient or cheap but
+they are ridiculously durable, small, and
+simple and thus ideal for low-power draw applications
+in places where repair and refueling are very
+tricky, like pacemakers and space probes.
+That’s two of the ways we generate power
+from nuclei, and neither has anything to do
+with fission reactors, except that we often
+produce radioisotopes in the process and can
+use them for this.
+Indeed that is what radioactive waste is,
+materials which have absorbed a radioisotope
+or had a transmutation of some of its atoms
+into a radioisotope with a long enough half
+life to require long term storage or disposal
+but still short enough to be dangerously radioactive.
+The longer the half-life of an isotope, the
+less dangerous it is, generally speaking,
+as it takes far longer to emit its total radiation.
+The type matters too, as Alpha and Beta Radiation are
+incapable of penetrating human skin, 
+whereas Alpha, Gamma, and Neutron Radiation are all
+rather dangerous and indeed Alpha and Neutron
+Radiation are what we often use to induce
+fission in bigger atoms.
+One reason we like being able to process radioactive
+waste is that the stuff in it is of great
+value, not just danger.
+It involves a lot of spent fuel that still
+has tons of other unspent fuel in it, or some
+piece of equipment or shielding that now contains
+a small but dangerous and valuable number
+of radioisotopes we would like to extract.
+Stuff getting hammered by radiation tends
+to wear and breakdown easier too, the conditions
+in your typical reactor are rather brutal
+on materials even without the problems of
+radiation, and this is why they have often
+had to be very large, and is part of the problem
+with making SMRs.
+Now fission itself is when a big atom absorbs
+a smaller piece, like a neutron, and breaks
+into two larger pieces plus some tiny fragments.
+The reaction we’re most familiar with involves
+Uranium-235 – one of uranium’s more common
+isotopes making up 0.72% of naturally occurring
+Uranium on Earth and in this solar system.
+It has a half-life of nearly a billions years
+so there’s less of it around than Uranium-238,
+which has a half-life of several billion years,
+though both were probably created in about
+the same quantities in whichever supernovae
+or neutron star merger originally made them
+probably about 6 billion years ago.
+U-235 is prone to being able to absorb neutrons
+assuming they’re not moving too fast, and
+when it does it will shatter into a Krypton
+Atom, a Barium Atom, and a new trio of neutrons
+that are moving very fast, indeed too fast
+for any neighboring U-235 atoms to absorb.
+This is handy as it prevents new planets with
+lots of U-235 from melting down or exploding.
+If you crunch a supply of U-235 down very
+small though, either by ramming into another
+chunk of U-235 at very high speed or doing
+a precise implosion by surrounding it with
+explosives and setting them off simultaneously,
+then you can get your uranium so dense that
+any neutron emitted by a fission event slows
+by colliding with other neighboring atoms
+and is rapidly absorbed by another bit of
+U-235.
+That emits 3 more neutrons which are rapidly
+absorbed by some more U-235 and this process
+will result in all that matter undergoing
+fission in just a fraction of a second, and
+that’s a nuclear bomb, specifically a fission
+bomb.
+We use that process to set off fusion in a
+Hydrogen Bomb too.
+And you can power devices by explosions, even
+fusion bombs, using very, very large reactors
+or use them to push ships, like with the Orion
+Drive.
+And indeed there are some rare isotopes that,
+if we had a big supply of them, might allow
+us to do very small explosions, those that
+would fit into something more like a very
+large piston engine.
+You need a pretty large amount to make a substance
+thick enough and dense enough that a neutron
+is unlikely to escape, and this amount is
+called the critical mass.
+A more traditional fission reactor works by
+not compressing that uranium and instead putting
+rods of it into a substance the neutrons can
+bounce off of and slow down, warming that
+substance – typically water – so the neutrons
+emerge from the rod after a fission event,
+as the rods are too small and the neutrons
+too fast for absorption.
+Make those rods too big and you can get a
+runaway reaction too, not an explosion but
+just a meltdown.
+For the right-sized rods, we place a bunch
+near each other with a moderator in between
+– again water being common – that slows
+those neutrons down to be captured in the
+next rod.
+We typically have two plates of those rods
+that we can sink into each other, with maximum
+reactions occurring when they’re closest
+together, and we control the reaction by carefully
+bringing them closer or further apart.
+This can be quite a tricky process, especially
+because water slows those neutrons at a rate
+affected by its temperature and pressure,
+and that water gets heated by those neutrons
+and we use this to turn a turbine.
+Not directly though, we typically cool the
+entire shielded reactor vessel with different
+water which then turns a turbine and makes
+electricity.
+Neutrons damage stuff, a lot, and uranium
+rods are very dense and heavy, and a sealed
+reactor vessel with superheated steam and
+uranium and neutrons all over it is not conducive
+to long and perfect performance of mechanical
+and electronic components.
+Meltdowns happen when the ability to move
+those plates apart to slow a reaction breaks
+and so the reactor can start feeding into
+an ever-higher rate of reaction and that’s
+a meltdown.
+There’s a ton of ways to make that less
+likely that have been developed over the decades,
+most reactors predate them, and since we’ve
+already spent more time on the basics of nuclear
+energy than I’d like, see our episode on
+the Future of Fission for discussion of those.
+We also have one other way to make nuclear
+power by fission, and that’s called a breeder
+reactor, and is the reason why you’ll hear
+some folks say we only have a few centuries
+of nuclear fuel and others say we have millions
+of years worth.
+Most uranium is U-238, and we sperate natural
+uranium to remove U-238 by centrifuge, enriching
+the remaining uranium’s percentage of rarer
+isotopes.
+The chunk left over with fewer of those isotopes
+is depleted Uranium composed almost entirely
+of U-238.
+How enriched a sample is controls how it could
+be for rapid chain reactions when imploded,
+for nukes, and thus weapon’s grade uranium
+is very enriched.
+But Uranium-238 can also absorb neutrons,
+as can Thorium-232.
+Uranium-238 can actually capture unmoderated
+neutrons, those coming out of a fission event
+at a couple percent of light speed, and the
+result of this is getting plutonium, which
+does not occur naturally, at least in the
+sense that it presumably does get created
+in dying stars but just has too short a half-life
+to ever survive to planet’s forming let
+alone evolving technological civilizations
+that can mine it.
+The Thorium breeder reaction does require
+a moderator, to slow the neutrons down to
+more very-hot thermal rather than relativistic
+speeds to be captured, and is thus called
+a thermal breeder reactor rather than a fast
+breeder reactor.
+Breeder reactors let us take a small sample
+of something fissile and breed a much larger
+supply of fissile materials from some other
+material which is otherwise not fissile and
+is plentiful, or less rare anyway.
+Again see the future of fission for more on
+that topic, but since this is SFIA, I’d
+feel remiss if I didn’t point out that more
+distant future options potentially open the
+door to micro-nukes and very tiny nuclear
+batteries if we can get better and more numerous
+breeder reactors.
+You’ll have folks ask how small you can
+make a nuclear bomb or nuclear reactor and
+the answers tend to assume uranium or plutonium
+as the power source, but higher transuranics
+can do better and as we discussed in the Antimatter
+episode, if we do find an island of stability,
+ones small enough to run cars would potentially
+be on the table.
+That said, when we’re talking about SMR
+the small part usually means it fits in a
+fairly large building, and the modular part
+means individual components can ship on a
+truck or train car for quick and safe assembly
+at the site.
+There are designs for reactors that would
+fit into a truck or train car, that’s not
+really that high tech, they just don’t offer
+much for efficiency, cost, or safety.
+Same idea, you might build an atomic train,
+it's entirely doable, but it's much easier
+to build an electric train and run power down
+the rails to a much more efficient reactor
+safely outside a city, as opposed to a train
+or freight truck that might derail or crash
+in the middle of a city.
+Since I live within an hour of where the recent
+chemical car train derailment in East Palestine,
+Ohio occurred, I am not anxious for every
+train to have a radioactive materials in the
+engine and I suspect that incident would do
+nothing to increase folks fondness for an
+atomic train design.
+But Atomic trains have been seriously contemplated,
+the US Army considered them for off-road trains
+for instance, one design being a 54-wheeler
+that was 572 feet long.
+Handy for circumventing damaged railroad tracks
+during a war but really meant for moving cargo
+in the arctic over ice.
+Trying to do this in a car or truck is even
+harder, as you need to reduce your mass – including
+your shielding – and in the context of remembering
+that a very large percentage of cars get involved
+in crashes damaging enough to mess up the
+frame or engine or reactor.
+So again, a small modular reactor isn’t
+about trying to get something that can run
+in a vehicle, it's about one that you can
+transport in a vehicle, and so there’s no
+need for it to be complete.
+Something needing five or six or ten cargo
+containers to move and a few weeks of site
+prep and bolting together is not a big hindrance
+to anything other than emergency or military
+uses, where regular generators can be used
+instead.
+You can make a big mobile reactor, even a
+rail car sized one that’s totally enclosed
+except for power outlets, but it’s not likely
+to be economical or terribly high-powered,
+as it only has that railcar surface for getting
+rid of heat.
+You’re not likely to ever have a reactor
+that produces more electricity than heat,
+and some 8 by 8 by 20 foot cargo container
+generating power is limited by not setting
+fire to its surroundings or melting into slag
+– radioactive slag – in the process.
+That is another feature we see in some SMR
+designs though, for them to have closed loop
+radiators, rather than the big cloud factories
+we see on classic nuclear power plants and
+that require them to be sited near large bodies
+of water.
+My wife took our youngest son up flying with
+her for the first time a couple weeks before
+I wrote this and his first reaction on seeing
+our local power plant miles away over in Perry
+was to ask if it was a volcano.
+He’s 4 incidentally but the point’s a
+valid one, we use superheated steam to turn
+turbines, in nuclear or coal for that matter,
+and that’s generally in the area of thousands
+of gallons per second or a liter or two per
+kilowatt hour produced.
+Which is quite the issue if you don’t live
+next to a nice freshwater lake – seawater
+works too but salt is never very friendly
+to equipment, though desalination is one of
+the more popular uses of nuclear power.
+Now of course if you live in a desert a reactor
+that doesn’t need a water supply sounds
+nice but why not use solar?
+And the answer is that solar still doesn’t
+work well at nighttime or in tundras.
+As usual in our discussions we’re not really
+interested in a one-size fits all power solution,
+at least from those technologies currently
+on the table.
+But again we’re not interested in super
+small because the point of that is basically
+something so compact you can stick it into
+the middle of a city where real estate costs
+are high and so are power needs.
+Because unless you can build it out of adamantium
+and requiring no maintenance or operation,
+you have to worry about cars crashing into
+it, reckless hooligans or addicts whacking
+it with a hammer and spraying the area with
+superheated steam that was radiating around
+the outer jacket, and property values crashing
+within a mile of it.
+So again we are basically always thinking
+of placement in industrial zones or outside
+the town, which is more reason why a closed
+loop reactor is good.
+Last Energy for instance has an air cooled
+plant as part of their design specifically
+to allow placement basically anywhere, not
+just by large bodies of water.
+There are the better part of a hundred major
+SMR designs out there and they range from
+classic reactors to fast or thermal breeders,
+uranium to plutonium or thorium, water cooled
+or molten salt.
+Water is our classic favorite but has the
+problem that its properties vary on temperature
+and that it turns into steam which needs to
+be very high pressure to run through pipes,
+leading to lots of bursting issues and concerns
+thereof.
+Molten salt is popular as an alternative because
+liquids don’t have that big bursting problem,
+especially when not under significant pressure.
+We also like to use water as both our moderator
+and our working fluid, but you don’t have
+to go that way.
+Again the moderator’s job is to slow neutrons
+down between uranium rods or fuel pellets,
+and the working fluid is whatever is carrying
+that heat off to turn our turbine and make
+power, which is to say it turns heat into
+the work of turning that turbine’s blades
+to spin the dynamo that generates electricity.
+Some reactor designs skip water as a moderator
+in favor of something like graphite, and indeed
+the original Atomic Piles ran this way, being
+literally a pile of uranium blocks and graphite
+ones.
+We can’t explore these all today and each
+has its own benefits and disadvantages, but
+we need to look at one to illustrate some
+of the pros and cons of development and deployment,
+so let’s look at the one from Last Energy,
+and their PWR-20 design, which is a 20 Megawatt
+Reactor.
+From the outset their aim is scalability and
+rapid deployment, so they made a lot of design
+decisions based on the idea of easy and available,
+existing supply chains and the goal of being
+able to get these installed and running in
+under 24 months from Final Investment Decision
+to Commercial Online Date.
+The design is aimed fairly heavily at their
+initial base of customers, which in this case
+includes first sales to an industrial region
+in Poland, and a lot of the motivation there
+is making sure you have direct access to a
+non-fluctuating energy supply that’s seated
+right next to your factories.
+This is not a theoretical model or design
+either, they have secured commitments for
+10 reactors in Poland, and 2 more in Romania
+expected to come online by 2025, and they
+do credit a lot of that to opting for off-the-shelf
+components and going with the more traditional
+light-water reactor we see in most nuclear
+power plants.
+They also contract customers under a PPA or
+Power Purchase Agreement, so the customers
+are buying energy not paying for the plant
+itself.
+They own and operate the plant, taking on
+fabrication, delivery, etc with a cost of
+under 100 Million dollars a plant.
+I should also note that the other well known
+SMR is the 470 Megawatt reactor Rolls-Royce
+is developing, small again being a relative
+concept, it’s aiming for 1.8 billion pound
+cost which is around a tenth the cost of full
+scale plants, but that’s a great deal more
+than the 20 Megawatt Last Energy design or
+the GE Hitachi 300 Megawatt design or the
+Nuscale 77 Megawatt SMR design, and all of
+those are light water reactors.
+Lightwater just means water here and that
+it is using it both as the coolant and moderator.
+Heavy Water reactors are basically the same
+but use heavy water, which is where the hydrogen
+in water is deuterons not lone protons, meaning
+each water molecule has 20 nucleons instead
+of 18, though hydrogen-deuterium-oxide – one
+deuteron and one normal proton – is often
+considered heavy water too, or called semi-heavy
+water.
+Both are naturally occurring in the oceans
+but we can separate and concentrate it and
+its density is 11% higher than normal water,
+it turns to ice at 4 Celsius or 39 Fahrenheit,
+not 0 or 32, and boils at 101.4 Celsius or
+215 Fahrenheit.
+Off topic but for extreme high-tech megastructure
+or terraforming projects, you might use 100%
+heavy water on a planet you wanted to have
+snow at slightly warmer temperatures, like
+a ski resort hab.
+More importantly though, it is a better neutron
+moderator since it is less likely to absorb
+neutrons that hit it, just slows them down,
+whereas light or regular water often absorbs
+the neutron.
+Fission reactions are basically a neutron
+preservation game, so having your moderator
+suck some up isn’t really appreciated.
+It’s not cheap, though, but the trade off
+is that you can use natural uranium, unenriched,
+in a heavy water reactor but need some enrichment
+for a lightwater reactor.
+For some, this is preferable, it’s the third
+most common reactor type, well behind light
+water reactors, and Canada uses mostly Heavy
+Water reactors, for instance.
+Natural uranium is plentiful and pretty cheap
+and safe to dig up and handle and so there’s
+no real proliferation concern about power
+plants using it, whereas SMR designs, by having
+so many reactors and those needing few people
+to operate tend to raise security and proliferation
+concerns.
+This is why people will tend to scoff at countries
+wanting enrichment facilities for power generation
+though, it isn’t necessary for a nuclear
+power plant but it is for light water reactors,
+though only a little, way less than weapons
+grade.
+However, light water reactors are also smaller
+and more compact.
+Which probably explains why we’re seeing
+it for SMRs.
+There are heavy water designs though, Copenhagen
+Atomics Waste Burner is a single-fluid, heavy
+water moderated molten salt reactor designed
+to fit in a leak-tight 40-foot stainless steel
+shipping container.
+One of the other things folks are looking
+at for SMRs is being able to add more modules,
+so there’s a lot to be said for smaller
+module sizes, if you think you need 500 Megawatts
+but maybe might need 600 in a few years, or
+maybe 550, well it is easier if you have smaller
+modules of 20 or 77 Megawatts like Last Energy
+and Nuscale models, and fast deployment and
+small footprint are big deals too.
+Nuscale delivers their’s in groups of 4
+or more, and their renamed reactors, the VOGYR,
+are getting their debut in a couple years
+providing power for Utah Associated Municipal
+Power Systems.
+You also have the big advantage of modularity
+in construction with SMRs in that so much
+of the precision work, or work needing radiation
+shielding, can be done in a controlled factory
+environment and also opens the door to greater
+automation.
+HTR-PM is a small modular reactor that came
+online in China in 2021 and is not a light
+water reactor, it’s a high-temperature gas-cooled
+reactor and also a pebble bed reactor.
+As I mentioned earlier, you don’t have to
+use water, or any liquid, for either moderating
+or cooling your reactor, and the first reactors,
+the old Atomic Piles, just used blocks of
+graphite.
+Pebble Bed reactors take a pebble of fissile
+material, uranium, thorium, or plutonium,
+and wrap it in a moderator, pyrolytic graphite
+typically, and ceramics being popular as an
+outer layer, for something usually tennis
+ball sized.
+Which isn’t pebble-sized to be fair, but
+you replace a bunch of fuel rods in water
+– light or heavy – with a bunch of these
+pebbles and no moderator.
+Pebble beds cannot have a meltdown, there’s
+nothing to raise or lower or get stuck like
+with fuel rods.
+These just naturally react when we dump a
+bunch of them together as the moderator and
+spacing is already baked in.
+Then we pump a gas through to cool them, something
+incapable of reacting chemically with the
+materials inside, like helium, nitrogen, and
+carbon dioxide, and very definitely NOT oxygen.
+The setup in this case has a pair of reactors,
+each with a thermal capacity of 250 Megawatts,
+both turning a single 210 Megawatt Steam Turbine.
+Most power generated by nuclear plants – or
+coal or oil or natural gas or burning wood
+– is thermal energy, and if you’re trying
+to tell the difference, a Megawatt all by
+itself and abbreviated as capital M Capital
+W is referring to total power output, heat
+and electricity combined.
+If you see the MW followed by a lowercase
+e, that’s the electrical power output only,
+and if it's followed by a lowercase h, that’s
+a megawatt-hour, a measure of energy not power,
+a thousand times a kilowatt-hour, and how
+much energy you have from a megawatt power
+source running for an hour, or 3600 seconds
+or 3600 Megajoules.
+The typical US Household uses about 10 to
+11 Megawatt-hours per year, and about 800
+households can be supplied for each megawatt
+of power generation you have.
+That thermal energy isn’t useless either,
+you can use it for heating locations or desalinating
+water, we’ve discussed it before for tandem
+use for running large scale greenhouse facilities
+in tundra conditions too, see our episode
+Colonizing the Arctic.
+Another design sometimes suggested for SMRs
+is Molten Salt, and this comes in two forms,
+one where the Molten Salts are the coolant
+and one where they are also the fuel, where
+you would use your fissile material and the
+moderator in the molten salt.
+Their big advantage is that there’s no pressure
+in the reactor even at monstrously high temperatures,
+no super-hot high-pressure radioactive steam
+tearing around all your equipment.
+Their popularity with SMR designs though mostly
+comes from the being good for closed nuclear
+fuel cycles in breeder reactors.
+Anything that makes it easier to truck something
+in and flip it on as a big black box needing
+no maintenance or oversight is nice with SMRs,
+but of course they have their own problems,
+again see the Future of Fission episode for
+a deeper dive on that.
+One problem all nuclear has is public relations,
+which is why I try to do an episode on it
+every year or two.
+When it comes to fission, folks with opinions
+on it generally come in two forms, those who
+loathe it entirely and probably would under
+any circumstance, and those who say it fixes
+everything and has been horribly demonized.
+So I try to give it a detailed, rational discussion
+every so often, pros and cons.
+There’s lots of middle ground, and I’m
+hardly the only person occupying it, but it
+can seem like it’s A or B a lot, especially
+on the internet.
+Indeed, I’m not really neutral either, I
+am quite pro-nuclear overall but I don’t
+view it as the magic cure for everything.
+Generally I see it as part of 21st century
+power pyramid built on it, solar, and hydrocarbons,
+mixed with opportunistic use of hydro, wind,
+and geo where its advantageous.
+Long term I figure on fusion or orbital power
+beaming.
+Although strictly speaking I suppose ‘long
+term’ I figure on Hawking Radiation, depends
+on how long a term we mean and this is SFIA
+after all, scale can get a bit extreme here.
+I’ve lived near a nuclear power plant almost
+my entire life, and they don’t hold much
+boogeyman effect for me, but they do for a
+lot of folks and not without cause, you’re
+not crazy or paranoid if the thought of reactor
+in your city makes you a bit nervous, hopefully
+less so after today, as much of the point
+of SMRs is to have more widespread use of
+them.
+Of course, as with all types of power generation,
+the devil tends to be in the tiny little details,
+and it doesn’t get much tinier than an atomic
+nuclei.
+When we look at the future of nuclear energy
+or some other part of the energy sector, or
+really any new emerging technology, folks
+often get inspired to consider a career in
+that area and start wondering if it's a good
+career path and if so, what they should be
+learning to forge a career in it.
+I don’t think it will come as a surprise
+that a good knowledge of math, science, and
+computer science is invaluable if you want
+to pursue a career in technology.
+But learning it can be intimidating, and that’s
+where our friends at Brilliant.org come in.
+Brilliant has thousands of lessons, from the
+basics to advanced topics.
+Nuclear energy and reactors, artificial intelligence,
+data science, neural networks, and so much
+more.
+Brilliant’s focus on hands-on, fun, interactive
+learning makes it an amazing tool for learning
+new skills or keeping your skills sharp while
+diving deeper into advanced topics.
+Brilliant can help you build your creative
+problem solving skills and stay up-to-date
+on the latest innovations.
+Continual learning is critical to career success,
+and Brilliant can help with effective, interactive,
+fun, and bite-sized learning.
+Brilliant makes it easy to build a daily learning
+habit, and you can try everything Brilliant
+has to offer, for free, for a full 30 days,
+by visiting brilliant.org/IsaacArthur or clicking
+on the link in the description, and the first
+200 people will get 20% off Brilliant's annual
+premium subscription.
+So today we had a look at the current and
+emerging state of Nuclear, and folks often
+worry about it’s usage in doomsday weapons,
+but this weekend we’ll be looking at some
+truly mind-boggling weapons able to destroy
+worlds, wreck galaxies, or even tear apart
+reality itself, in our Scifi Sunday episode:
+Super Weapons.
+Then next week we’ll contemplate Life on
+Giant Moons, ones nearly as big as Earth itself
+or even larger, and how life might arise on
+such worlds and how we might colonize them.
+After that we’ll have our monthly livestream
+Q&A, Sunday, April 23rd at 4pm Eastern time.
+Then we’ll close out April by returning
+to Earth and the near future to talk about
+Smart Cities and the future of automation
+in urban environments and how that will change
+them.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

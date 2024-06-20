@@ -1,0 +1,764 @@
+Black Holes can swallow anything, 
+even light, and small black holes  
+made from light itself may offer us abundant 
+clean energy and a pathway to the stars. 
+Black holes are enormously massive and 
+dense objects, birthed in the wake of  
+dying stars many times more massive than our 
+own, but that may not be the only way to create  
+them. One option proposed is to create Kugelblitz 
+black holes, and while this originally referred  
+to the suggested process for making them, it 
+has also come to mean a class of micro-black  
+hole smaller than an atomic nucleus that 
+could be used for powering spaceships or  
+even civilizations. While there are many ways a 
+black hole might be used for power generation,  
+these very small ones offer the easiest and 
+most portable version, Hawking Radiation. 
+Today we’ll be looking at the Kugelblitz Black 
+hole generation method, some variants on it,  
+how that would function, how Hawking 
+Radiation works, what the scale of  
+power generation and mass and lifetime would 
+be for these black holes, and many potential  
+applications, advantages, and limitations.
+If that sounds like fun, grab a drink and a snack,  
+before a black hole snatches it from you, relax, 
+and please hit those like and subscribe buttons. 
+Now Kugelblitz is the German word for ball 
+lightning and it is a pretty good pick for  
+the concept. As everyone knows, black holes are 
+intensely massive objects and mass generates  
+gravity. But in reality mass is just one type 
+of energy and other types of energy generate  
+gravity. An object that is incredibly hot has 
+actually increased its gravitational pull over  
+that same object if it were cold, and so 
+too, an object spinning very quickly has a  
+lot of rotational energy and that adds gravity.
+Indeed, most black holes have as much as 20% of  
+their energy in rotational format. They are also 
+incredibly hot. But even photons generate gravity.  
+Photons, the particles of light emitted by stars 
+and which cannot escape from a black hole’s event  
+horizon, can be added to a black hole and their 
+energy would add to its apparent total mass. 
+In this same way, if we could manage to get a 
+whole bunch of photons in the same time and place,  
+at a high enough density, we could have enough 
+energy there to generate an event horizon big  
+enough to encompass them. And there is 
+no known bottom limit for a black hole,  
+though we’ll discuss some possible limits later. 
+For any given amount of mass or energy there is  
+a density it can be that if you crammed it down 
+would form a black hole. The radius of black event  
+horizon rises linearly with its mass or energy, 
+but volume rises with the cube of radius so that  
+required density ends up inversely proportional 
+to the mass. Something ten times more massive  
+only needs to be at one hundredth the density 
+to form a black hole, something a million times  
+more massive only needs a trillionth of density.
+As a result, you can make a black hole just by  
+piling a lot of matter together that won’t fuse, 
+but we’re still talking masses larger than our sun  
+even if we’re piling up iron in one big ball. Even 
+the big monster at the core of the galaxy composed  
+of several million sun’s worth of matter is still 
+denser than steel by a couple orders of magnitude,  
+though there are some black holes that are less 
+dense than thin air in the Universe at large. 
+Trying to make one this way would seem 
+a bad approach, especially since we can  
+move a naturally occurring black hole, they’re 
+actually amazingly efficient spaceship drives,  
+though so massive it wouldn’t generally 
+be worth moving in favor of moving to. 
+So instead we contemplate trying to 
+make one much smaller than a star,  
+and that’s where we get into problems. Normally 
+a supernova occurs in the upper core of a star,  
+blowing most of the matter there into space and 
+imploding all the inner core, now made of iron,  
+into a very tiny ball. So dense that it can’t 
+even be iron anymore, or any atom, but instead  
+has to be degenerate matter. Indeed it has to be 
+a little denser than even a neutron star, which  
+is around ten trillion times denser than steel.
+Normal matter doesn’t like being shoved together  
+that tight, by which I mean fermions, which is 
+the class of particles that includes protons,  
+neutrons, electrons, and everything made from 
+them, and are also named after physicist Enrico  
+Fermi, from where we get the term Fermi Paradox. 
+Lots of things are fermions and indeed it even  
+includes neutrinos and they barely interact with 
+anything. Untold number of neutrinos hit Earth  
+every instant, in fact about 100 trillion hit 
+you every second, and yet only a handful would  
+actually interact with any atoms while passing 
+through you or this planet. In the super-dense  
+hearts of dying stars is one of the few places 
+things are dense enough that they tend to get  
+absorbed. Which is how we get many heavy elements.
+Stick enough neutrinos in one place and you’ve got  
+a black hole, same for something else 
+weakly interacting like dark matter,  
+which may or may not be a fermion itself. 
+Neither is very easy to handle though,  
+so we imagine a different option, bosons.
+Bosons are a different category of particle and  
+include photons of light, gluons, higgs bosons, 
+and even some particles made of a pair of quarks,  
+instead of the three quarks protons and neutrons 
+are made from. What’s particularly interesting  
+about bosons is that they don’t mind being in 
+the same place as each other. You can stack  
+them up. Indeed when we talk about wavelength of 
+light, you can think of that as the actual size  
+of a photon of light, and counterintuitively 
+the more energy a photon has the smaller its  
+wavelength. So gamma rays are basically on 
+the order of atomic nuclei while X-rays are  
+more at the atomic and visible light we can see, 
+plus its neighbors in Ultraviolet and Infrared,  
+as more on the size of molecules and cells.
+Alternatively, a microwave photon is on the  
+human scale and longer radio frequencies can even 
+be as big as a planet, while perversely holding  
+virtually no energy, and even a normal gamma 
+ray photon might hold a billion-trillion times  
+as much energy in something as small as an atomic 
+nucleus. Indeed, if we could arbitrarily generate  
+a photon of whatever energy we wanted, you could 
+have one so short in wavelength and high in energy  
+it would meet the qualifications to have an event 
+horizon and that is a notion that gets played with  
+in some quantum gravity and cosmology discussion.
+We talked about that more in our episode Things  
+Which Will Never Exist and generating such a 
+particle isn’t something we have an apparent  
+avenue to, so we’ll leave that there for today. 
+But these bosons, whatever their energy and  
+wavelength can all be in the same place at 
+once, intersect freely and keep on moving. 
+Even with bosons there are some issues with 
+packing them too tight, which we’ll get to  
+in a moment, but if we imagined some perfect 
+sphere of a mirror that let light of a certain  
+wavelength in, but not back out, just like 
+a black hole does, then we could pump that  
+thing with energy until its energy density 
+tipped over the threshold to be a black hole. 
+If we imagined we did that with a sphere half 
+a micron across, able to absorb blue light,  
+which has a wavelength of about half a micron, 
+then all we would need to do is stuff in a lot  
+of photons… 15 trillion-trillion-trillion joules 
+of energy worth in fact, which is roughly 1200  
+years of power production of our entire sun.
+That would seem a little hard to pull off but  
+something like X-rays, at a thousand times the 
+energy and thousandth the wavelength of a blue  
+photon, or even more, could cram into a smaller 
+spot and need only a thousandth the energy to do  
+it. So basically, one year of solar production.
+Channel regulars have probably heard me mention  
+before that even civilizations that aren’t 
+interested in growing their population into  
+the quadrillions might still build a Dyson swarm 
+for technologies like this and we’ll come back  
+to why that might be the case in a bit, but since 
+we do not have any 100% perfect one way mirrors,  
+the idea is to try to time a lot of laser 
+blasts to arrive at the same place and time  
+very accurately so that for that briefest 
+moment they are a big ball of energy. Hence  
+the kugelblitz or ball lightning name.
+To give some scale here, since light moves  
+300 million meters per second and in our blue 
+light case we were contemplating something half  
+a millionth of a meter wide, the time a given 
+photon would be passing through there is only  
+a femtosecond, a millionth of a billionth of 
+a second, and the X-ray has to do even better,  
+hitting a spot the size of an atom 
+that it passes through in a billionth  
+of a billionth of a second, or an attosecond.
+Needless to say, that’s quite a small window to  
+be trying to dump the entire annual output 
+of the sun into and you presumably have to  
+have mirror arrays able to bounce a beam of light 
+around without major dissipation for a full light  
+year to get that entire annual solar output in one 
+spot at one instant. It’s a lot of energy too, but  
+to think of it in terms of mass, that blue-light 
+kugelblitz black hole has a mass equivalent to  
+a fifth of Ceres, the largest asteroid and one 
+so big we debate if it should be called a dwarf  
+planet instead. While the mass energy of our X-ray 
+example would be on an order of 200 Mount Everests  
+crammed into something the size of an atom.
+They are also way too big to be of use to us  
+for Hawking Radiation as Big Blue isn’t 
+even quite generating a single joule of  
+energy in a whole year… it might be enough for 
+a post-biological and post-stellar civilization  
+though, see our episode black hole farming for 
+details, though we’ll cover it a bit today too.  
+The Atom X black hole could at least run an 
+LED light bulb we could see in a dark room. 
+Not a lot of power but more importantly, 
+it is generating that power consistently  
+for 7 billion-billion-billion 
+years, and Big Blue even longer. 
+Only it isn’t consistent, as it gives off power 
+it loses mass and generates more power. Any black  
+hole, given a long enough time period, will 
+generate useful amounts of energy. Just don’t  
+hold your breath, most wouldn’t do so for so long 
+a time that they’d view the entire history of our  
+Universe from the Big Bang to the last Star as 
+less than a blink of an eye in very long life. 
+We would love to create smaller black holes, 
+but you really can’t do one smaller than you  
+can generate a beam for or make a material you 
+can reflect, and since materials are made of  
+multiple atoms, and gamma rays are smaller than 
+atoms, they don’t reflect well. As of the time  
+of this writing, the smallest wavelength laser I’m 
+aware of is 0.15 nanometers, just a little smaller  
+than our X-ray example, with a power output 
+of 35 milliwatts and working out to a mass of  
+almost exactly 10^17 kilograms or 100 trillion 
+megatons. We’ll be using megatons and kilotons  
+a lot in our discussion going forward but the key 
+thing here is that we can’t really make this and  
+use it for useful Hawking radiation, not unless 
+we want to wait a billion-billion-billion years. 
+However it is a lot bigger than an atomic nucleus 
+so we could start feeding it matter and faster  
+than it was oozing power out. Mind you, you have 
+to add the equivalent of a quarter of a billion  
+neutrons or protons to this thing every second to 
+add mass faster than its losing but that should be  
+possible given that a line of nucleons flying at 
+it at near light speed can still be spaced nearly  
+a meter apart coming out of their cannon, and you 
+could have multiple beams on it and add more and  
+speed it up as it grew. Though with the caveat 
+that even if you were feeding this at several  
+hundred times its minimum feed rate you might need 
+longer than the universe has been around to get  
+something big enough to feed matter in as fast 
+as you could want. But you could also just keep  
+whatever beam you used to make it on it until 
+it got big enough to force feed normal matter. 
+So, I would bump this into the category of 
+scientifically solid and engineering feasible,  
+and it is why we spend a lot of time talking 
+about micro black holes on this channel,  
+and indeed did a whole episode on black hole 
+technologies last month that wasn’t focused  
+on hawking radiation black holes. Because a big 
+but tiny black hole the size of an atom can still  
+generate power by other methods as can anything 
+bigger than that and much easier too. Time will  
+tell if we can make and manipulate higher-energy 
+beams to make even smaller black holes. 
+Now what’s all this black 
+hole Hawking Radiation stuff? 
+In that aforementioned episode I did cover the 
+virtual particle explanation in some detail,  
+though we’ll go over it briefly today and we’ll 
+also give a non-virtual particle explanation. The  
+very confusing thing about Hawking Radiation 
+for most folks is that smaller black holes  
+give off much higher amounts of radiation.
+As mentioned we did the virtual particle  
+explanation in last month’s episode on Black Hole 
+Technologies and the two paragraph summary of  
+that is that the quantum foam everywhere in this 
+universe is constantly spawning huge quantities of  
+virtual particles in pairs that self-annihilate. 
+The rate at which this happens is the same  
+everywhere, near a big black hole or a small one 
+or inside your finger or thumb. And the energies  
+involved are staggering and mind-boggling. 
+Sometimes the place they emerge though is  
+where an incredible amount of force is at play 
+and one that varies heavily in strength even over  
+subatomic distance. This can rip those two virtual 
+particles apart so they can interact with other  
+particles or objects instead of annihilating.
+This doesn’t happen simply by being near a big  
+force field, Earth has a big gravity field but 
+the difference in strength from one kilometer  
+to another is pretty minor, let alone from one 
+nanometer to another. It’s the sharp change in  
+force that matters and so even big black holes 
+don’t cause this effect much, only very small  
+black holes and the smaller the better. It 
+can happen with other forces incidentally,  
+such as the subatomic ones acting inside existing 
+nuclei, see our antimatter factories episode or  
+Vacuum Energy episode for further discussion. 
+These virtual particles have a total of zero  
+energy in the pair, so one contains negative 
+energy and over time, the black hole absorbs  
+more of those negative energy particles and 
+loses masses, while emitting those positive  
+energy photons into the wider Universe.
+That’s the virtual particle explanation  
+and they are more of a calculation device than 
+a real object though the word ‘real’ is pretty  
+ambiguous in cosmology and particle physics these 
+days. It is not correct and when folks think on it  
+they start wondering why the quantum foam, which 
+constantly pops out brief-lived pairs of all sorts  
+of particles, seems to be producing just photons 
+for Hawking Radiation and why negative energy  
+photons are the ones falling in. There’s no reason 
+that either should be true but Hawking used it as  
+his original popular explanation for Hawking 
+Radiation, so it gets reused a lot. This irritates  
+a lot of physicists, but I happen to agree with 
+Hawking that this is a simpler to explain and true  
+enough version, which is why I often use it.
+But this is a construct for explanation. Much  
+as its energy, not just mass, that is warping 
+spacetime, it is that actual warped spacetime  
+that’s emitting the Hawking Radiation. 
+The greater and more severe that warping,  
+the more energy can spill out of it. So, in 
+reality it is not the event horizon emitting  
+the radiation, it’s that whole sharply curved 
+area, it just sharpens the closer you get to  
+the horizon and beyond there too, but nothing 
+is emerging from inside that horizon. As this  
+energy emerges from that warped spacetime region 
+several times larger than the event horizon,  
+the overall warping decreases, resulting in the 
+mass or energy of that black hole decreasing. 
+If you want another version, then you may think 
+of that region very close to a black hole as being  
+very hot. Think of how a metal bar heats up as 
+you bend it back and forth and imagine that for  
+spacetime itself in that spot, it is tortuously 
+bent. This is how objects give off thermal light,  
+in this case that spacetime itself 
+is so bent and hot that it does,  
+and again it’s only the region safely out past 
+the event horizon that we can see that light from  
+and it gets sharper and hotter as we approach.
+If none of those worked as a good mental analogy,  
+then I’ll simply say that the math demands 
+that the region right near a black hole emits  
+radiation, and that the sharpness of that curving 
+matters way more than the size of the space being  
+curved for how much radiation is emitted. So yes, 
+a neutron star would also emit Hawking Radiation,  
+and so would a white dwarf, or even you or I. 
+But given that even a neutron star bends space  
+less than a normal black hole and a normal 
+stellar mass black hole’s bending near its  
+event horizon is still so small it takes a 
+trillion-trillion-trillion-trillion-trillion  
+years to leak most of its radiation out, 
+we can discard these all as meaningful  
+producers of Hawking Radiation.
+It also does mean that we could at  
+least consider that since its really the 
+warped spacetime producing this effect,  
+which we might think of a cracks in spacetime 
+letting vacuum energy leak out, that we could  
+do this without mass, or even energy, if 
+we had someway to sharply bend spacetime  
+without either. And the kugelblitz approach is 
+about doing it without mass, but with energy,  
+and if we wanted to think of this as slicing a 
+hole through the universe with a very powerful  
+laser into the true vacuum or pushing down on a 
+rubber sheet with it so that it slowly relaxes  
+back to where it was,gradually emitting the energy 
+you bent that sheet with, those analogies seem as  
+right as the virtual particle analogy Hawking 
+offers. I would be curious which if any you  
+found most clear for the concept though, since I 
+must explain the idea a lot and without much math.
+So how tiny and compressed does spacetime need 
+to get to give us useful Hawking radiation? 
+Well, that’s obviously a bit subjective, in a cold 
+post-stellar universe running on Landauer Limit  
+calculation, a whole civilization might thrive 
+on a single watt of energy, see our civilizations  
+at the End of Time series for further discussion. 
+And we might find a one-watt black hole useful for  
+something like a navigation beacon or to power a 
+low-energy device for 10 trillion-trillion years,  
+about a trillion times longer than we expect 
+before the stars all stop forming and die off.  
+That would mass 18.9 million megatons, and I’d 
+put this as the extreme edge of what anyone would  
+bother making unless they were planning to live 
+off natural black holes when they evaporated,  
+and they made a bunch of these to stagger their 
+lifetimes as a bridge to that period. This is also  
+probably more than enough to run a human level 
+emulation of a mind inside a virtual reality,  
+offering them a lifetime of at least 10,000 
+trillion years, since they could certainly  
+trickle feed particles in from a greater stockpile 
+to keep it running, as it is nearly atom sized. 
+Beneath this, every kugelblitz is subatomic or 
+smaller. To go through scales of power briefly,  
+by hundreds, a 100 Watt black hole masses 
+1.89 million Megatons and runs for 10 billion,  
+trillion years, a 10,000 watt or 10 kilowatt black 
+hole masses 189,000 megatons, and would live for  
+10 billion-billion years, and could easily run a 
+fairly lavish household that hole time. A megawatt  
+black hole masses 18,900 megatons and could run 
+a small community for 10 quadrillion years. A  
+100-megawatt black hole would be 1890 megatons 
+and could replace most modern power plants for 10  
+trillion years, the period of time we think stars 
+will exist in this universe, while a 10 Gigawatt  
+black hole, at 189 megatons could match the output 
+of our biggest hydroelectric power plants and do  
+it for 10 billion years, the lifetime of our Sun.
+At this range we are getting black holes that  
+could run real space habitats, and you may 
+have noticed that while the power output has  
+been rising by a factor of a hundred each step, 
+the mass has been dropping by a factor of ten,  
+and the lifetime by a factor of a thousand. 
+That’s because at each step you’ve got an  
+object a tenth as big generating a hundred times 
+the power, and thus burning it out 10 times 100  
+or a thousand times faster. At each step our 
+mass has dropped by a factor of ten and so  
+has the width of that black hole too. Although 
+there’s nothing black about these, as even our  
+1 watt example would be able to dimly light a 
+room – albeit it with soft X-rays not visible  
+light – and it only gets worse from there as we 
+get into hard x-rays and then gamma rays. We can  
+convert those x-rays into visible light, and same 
+for gamma, much as we do in nuclear power plants. 
+If you’re curious, you could have a black 
+hole that emitted a light spectrum similar  
+to a normal star, it's just that it would 
+be at about the one-microwatt range so not  
+very useful for lighting things, as 20 
+billion megatons isn’t exactly portable. 
+Back to our powers of 10 wattage scale. Our next 
+step would be a trillion watts, or a terawatt,  
+at 18.9 megatons, and this would comfortable run 
+even a full-scale island three O’Neill Cylinder  
+complete with auxiliary facilities. And it will do 
+it for 10 million years. I think your sweet spot  
+for artificial habitats and space stations 
+is probably between here and our last step,  
+the 10 billion year 10 gigawatt level. Note that 
+you can use anything in between or alternatively,  
+just find your desired battery life and add 
+several of that size instead till you reach  
+your power requirement. That’s not optimal 
+for a spaceship though and it's our next  
+sizes that are in the top and bottom 
+mass and power ranges for a spaceship. 
+At 1.89 megatons we have a black hole able to 
+produce 100 trillion watts of power and do so  
+for 10,000 years. This is long enough to cross a 
+decent chunk of a galaxy but wouldn’t be enough  
+for a trip across the entire galaxy or to a 
+neighboring galaxy, where the 10-million-year  
+duration terawatt black hole might be needed 
+instead. Of course, you could feed a smaller  
+one to keep it alive but that is just as precise 
+as making one and you’re trying to stuff particles  
+of fuel into a black hole just 5 billionths 
+of a nanometer wide at this point which is  
+simultaneously emitting as much energy as the Sun 
+shines down on the whole state of Texas at noon. 
+I’m not sure how you could get anything 
+in there that was a normal bit of matter,  
+and you might be limited to feeding it something 
+very non-interacting like dark matter at this  
+point. Think of a more normal scale black hole 
+as a big pond or lake, it’s very easy to throw  
+a stone into one and even if it skips it's going 
+to fall in after that. At some point this turns  
+into you trying instead to throw a rock into 
+a firehose while it’s on, hard but possible,  
+maybe you need to fire a bullet from a gun to 
+feed instead, and beyond that we get to the  
+point where we can’t feed matter into one at all.
+You could conceivably pull over at an inhabited  
+solar system with a giant power collector 
+array that could force feed your black hole  
+with an x-ray laser or maybe gamma rays, but 
+now it's basically a battery for recharging,  
+not a ship drive you could dump 
+more matter into from a supply. 
+Our 1.89 megaton black hole at 100 terrawatts is 
+quite an impressive ship, in that the black hole  
+alone masses as much as 20 aircraft carriers, 
+and the rest of the ship is presumably in that  
+general size range, so this works great 
+for space freighters and colony arkships.  
+Most often when folks talk about wanting to 
+use kugelblitz black holes this way though,  
+they are thinking something more in the 0.189 
+megaton or 189 kiloton range, which produces 10  
+petawatts and that’s enough to comfortably light a 
+continent…. Though again it being gamma rays means  
+it’s enough to easily sterilize a continent. 
+This black hole lasts about ten years and is  
+half of a billionth of a nanometer across. And is 
+allowing ships the size of a modern oil tanker to  
+cross an interstellar void and at a high fraction 
+of light speed, to the nearest neighboring star. 
+You want, for course, a smaller ship like the 
+Millenium Falcon on the order of tens of tons  
+or even maybe a kugelblitz black hole running 
+your power armor, and an 18.9 kiloton black  
+hole produces a billion gigawatts of power for 
+half a week, enough to light a handful of Earths,  
+while a 1.89 kiloton black hole, at 100 billion 
+gigawatts, last just 5 minutes. A 189 ton black  
+hole, at 10 trillion gigawatts, would shine 
+as brightly as a dimmer red dwarf star but  
+only for a third of a second. One as bright as 
+our own sun and as massive as a large tractor  
+at 18.9 tons would live only 300 microseconds.
+As a sidenote, I tend to be dubious if objects  
+in this scale or much smaller but more energetic 
+can really exist, though I’m no cosmologist. Given  
+that the upper end for the theoretical maximum 
+of vacuum energy is on an order of about 10  
+Joules for one cubic femtometer, then by the 
+time we get to our 189-ton black hole, this is  
+trying to emit more than a billion-trillion 
+joules of energy from a region more than a  
+billion-billion times smaller than a femtometer 
+or atomic nuclei. That would tend to imply a  
+throughput or complete refresh rate of something 
+just above a Planck Time, roughly 10^-43 seconds,  
+which is what we usually say is the hard 
+limit of the minimum time any action can  
+occur in. There’s no half a Planck time.
+So I think at this point we can say that  
+even if you somehow managed to get around all the 
+creation and feeding issues, you’ve reached a hard  
+limit on how small things are getting here where 
+we definitely move into the Clarketech range. No  
+man-portable black hole generators unless 
+you’ve also got some method of anti-gravity  
+or nullifying inertia, which might also allow 
+some interesting approaches to energy creation. 
+Some make a case there’s also a hard limit at 
+about 10^16 kilograms or 10 million megatons,  
+which has a power output of 3.56 watts and a 
+lifetime of 1.47 billion, trillion years. That’s  
+just over the threshold from soft x-rays to hard 
+x-rays at 4145 eV or 0.3 nanometers wavelength and  
+thus is something we can comfortably work with. 
+That value of 10^16 kilograms as a minimum is a  
+number I encountered back when folks were trying 
+to argue if the Large Hadron Collider was going to  
+produce a black holethat would eat Earth, though 
+any black hole of that scale or smaller would take  
+far longer to naturally eat this planet than it 
+would live, the planet or the black hole. When  
+you’re trying to swallow an atom with a mouth 
+smaller than one, and you need to eat untold  
+billions of them a second to even eat a planet 
+over a trillion years, you have a constraint  
+there that even Pacman couldn’t overcome.
+If you can’t feed these things normal matter,  
+then they need to be regarded as batteries, 
+something civilizations do with a thin-Dyson swarm  
+of power collectors around their sun to store 
+energy for the ultra-long term. They might be  
+the ultimate commodity currency for civilizations 
+too, the sorts of things you store in bank vaults  
+at the center of artificial planets.
+For the purpose of artificial planets,  
+when you just want mass, you probably still would 
+rather use several smaller ones than one big one,  
+which would mean placing them either in a magnetic 
+field so they didn’t merge or putting them in  
+something like a Klemperer Rosette configuration. 
+Even the biggest of these is so tiny, and carries  
+so much inertia, that they aren’t going to be 
+accidentally knocked of course by accidents,  
+so storing them safely is a lot easier 
+than antimatter and they have the same  
+energy density but can only be released at a 
+certain rate. Though if you have truly good  
+gamma-reflective mirrors you could, in theory 
+anyway, throttle a feedable kugelblitz black hole  
+by reflecting some of its energy back into it.
+Let’s go over some other interesting sizes and  
+applications, and thanks to my friend Bob Fowler 
+for the chart he sent me that contained a lot of  
+specific interesting black hole values I 
+hadn’t thought of. For spherical planets  
+generating natural gravity equivalent to Earth’s, 
+their land area is proportional to their mass,  
+twice the land area of Earth, twice 
+the mass, a thousandth the land area,  
+a thousandth the mass. And similar, the amount of 
+light they need to stay warm and comfortably lit  
+scales proportional to land area or mass in this 
+case. You need something like one watt of sunlight  
+for every 25 million kilograms of planet mass.
+For a micro-planet with something like Earth  
+gravity and Lighting supplied by that black 
+hole, or by light generated from that powerplant,  
+your scale is around 10^13 kilograms, a little 
+over a trillionth of earth’s mass, or a 3.56  
+megawatt black hole, to potentially as high as 
+one trillionth of an Earth mass at 10 megawatts,  
+it would depend on how efficiently you 
+generated power, turned it into light,  
+and how close to Earth normal light and gravity 
+you wanted. Their lifespan is on an order of a  
+quadrillion years, so decently longer than the 
+universe will be old when the last stars die. 
+This would generate you about a trillionth the 
+land area Earth has, or a millionth is radius,  
+about 6 meters or 30 feet, just 500 square meters 
+or 5500 square feet, or an eighth of an acre,  
+in spherical format. This also means the 
+gravity in your basement level is a lot higher  
+than in your second story. Now you wouldn’t 
+build a planet this small, but you might use  
+hundreds of black holes in this mass range 
+to make a microplanet dozens of times wider,  
+or keep piling them in to get even bigger. But 
+a pico-Earth mass black hole is probably your  
+minimum mass artificial planet building block.
+You can also give artificial gravity to large  
+flat regions of low gravity bodies, for 
+something like a spaceport, by laying a  
+bunch of these out in some 2D hexagonal 
+arrangement, magnetically held in place,  
+and that provides gravity and power and again on a 
+timeline of a quadrillion years. Also at the high  
+end of what you really want in terms of regular 
+power generation for a civilization because once  
+you start getting to energy levels stronger 
+than sunlight you start getting heat issues. 
+So while you might want some smaller and more 
+powerful black holes for running something  
+specific like a space cannon or spaceship 
+launcher, your own civilization on that moon  
+or asteroid cannot really benefit from a higher 
+energy density than this without melting, same  
+reason we wouldn’t expect folks to bother with 
+fusion reactors in the inner solar system around  
+Mercury or Venus, the local sunlight is already as 
+energy dense as what they can use on their ship or  
+habitat so any reactor is like running your dryer 
+in the summer with the air conditioner on instead  
+of a clothesline, sometimes more practical 
+but never really ideal under engineering. 
+A rotating habitat would seem easier than this 
+black hole hexagonal plating, or grav plating, but  
+may be higher maintenance and more importantly, 
+if your civilization is dumping all your sun’s  
+excess energy into kugelblitz black holes to use 
+trillion or quadrillions of years down the road,  
+you do need to stores those and you might as 
+well make use of their gravity in the meantime. 
+I don’t know if we’ll ever make 
+kugelblitz black holes a reality,  
+I’m not sure our science is solid enough on black 
+holes and quantum gravity to really speak with  
+any certainty on their function or creation, but 
+if we can make them, and given how easy doing a  
+tinfoil thick power collector Dyson swarm is, 
+relatively speaking, I think kugelblitz black  
+hole creation is what you would do with all 
+of a star’s excess power generation until your  
+population and demand there grew to reach that.
+In the end, it will all depend on how small  
+a black hole you could make and also how 
+small a black hole you can feed, because the  
+latter is always the control on using them for 
+Hawking Radiation Spaceships. As we discussed,  
+no matter what, black holes are likely to 
+play a huge role in our future civilization,  
+but if we can make subatomic kugelblitz black 
+holes function, they are likely to become the  
+go-to for both energy storage and power creation, 
+and possibly the gold standard of the future  
+when it comes to interstellar banking.
+Time will tell if it is possible or not,  
+but the neat thing about even small black holes 
+is that they tend to be around for a long while,  
+even compared to the stars themselves, and 
+so would the civilizations that used them.
+While producing this episode I got asked about 
+making computers from black holes and we’ll be  
+having one of our weekly shorts on the topic in a 
+few days, but I’ve mentioned in some of our more  
+existential episodes that you can build a computer 
+of out all sorts of things, be it black holes or  
+ants pushing grains of food around. If you can 
+make a switch out of something, you can make a  
+computer, and if you’re looking for a fun example 
+of that, there’s Upper Story’s award-winning game  
+Turing Tumble, that lets you build a computer 
+that runs on marbles instead of electricity. 
+It is a great game and my kids instantly 
+fell in love with it too. Turing Tumble,  
+named for the great Alan Turing who helped 
+us invent computers, is a fascinating and  
+intuitive way to learn and hands-on experiment 
+with the fundamentals of computing. It also  
+comes with a wonderful graphic novel that 
+gives you a story and presents you dozens of  
+different challenges and switch diagrams to try, 
+before modifying and experimenting on your own. 
+Computers don’t have to be a black box with 
+mysterious workings inside - unless they are made  
+of black holes of course - check out Turing Tumble 
+at upperstory.com/turingtumble to see why it won  
+Parents Choice Gold Award, Astra Best Toy for 
+Kids Award, Toy of the Year Finalist, and the Dice  
+Tower Seal of Excellence. Again, you can learn 
+more about Turing Tumble and see it in action at  
+upperstory.com/turingtumble Use the coupon code 
+ISAACARTHUR for 10% off your total purchase. 
+So that’s it for today and this weekend we’ll 
+close out the month with a look at multi-planetary  
+empires, on Sunday, March 31st, to explore what 
+nations controlling several worlds might actually  
+be like and how they’d function. Then we’ll start 
+April off on the 4th with a discussion of space  
+based solar power and several other clean energy 
+options from space that might be able to help us  
+power not only our orbital infrastructure, but 
+Earth itself, including options like Earth’s own  
+magnetic field. Then on the 7th will return to the 
+Fermi Paradox to ask if the reason why we don’t  
+see expanding alien civilizations is because they 
+eat their own colonies, in the Cronus Scenarios. 
+If you’d like to get alerts when those and other 
+episodes come out, make sure to hit the like,  
+subscribe, and notification buttons. You 
+can also help support the show on Patreon,  
+and if you’d like to donate or help in other ways, 
+you can see those options by visiting our website,  
+IsaacArthur.net. You can also catch all of SFIA’s 
+episodes early and ad free on our streaming  
+service, Nebula, along with hours of bonus content 
+like Crystal Aliens, at go.nebula.tv/isaacarthur. 
+As always, thanks for watching, 
+and have a Great Week!

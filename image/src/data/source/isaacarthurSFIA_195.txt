@@ -1,0 +1,651 @@
+While we continue our search for Earth-like
+planets with oceans and continents and nitrogen-oxygen
+atmospheres, we now have reason to believe
+that there may be super-large planets with
+oceans and thick atmospheres which may be
+able to support life even without sunlight.
+A critical concept in our search for extraterrestrial
+life is the idea of a Goldilocks Zone, the
+region distant enough from a given star where
+a planet would be not too hot or too cold
+but just right.
+Usually we calculate this off of an approximation
+of how much sunlight a world of around Earth’s
+mass would need to not have its oceans evaporate
+off, for the inner boundary, or likewise,
+freeze solid, for the outer boundary.
+Needless to say, this presupposes that life
+is using water rather than something more
+exotic, like ammonia or mercury, but the other
+half of that is that it is assuming a roughly
+Earth Mass world.
+In recent years we’ve discovered a much
+wider variety of larger planets than our solar
+system is home to, and we’ve begun realizing
+it’s possible to have planets potentially
+ten times more massive than Earth that could
+have oceans and thick hydrogen atmospheres,
+and thus might have liquid water at very unexpected
+distance from stars, indeed possibly in deep
+space, floating around as a rogue planet,
+and this category is being named Hycean Planets,
+as a blend of the words hydrogen and ocean.
+Now, while that term is new, the basic concept
+is not.
+We discussed it way, way back in our first
+season episode Rogue Planets in 2015 and it
+has been discussed as a general notion among
+astronomers, and in science fiction for a
+good deal longer.
+It got more interest as the Kepler Space Telescope
+was letting us spot many enormous new planets.
+As we spotted more exoplanets and got real
+data, we were able to refine our ideas and
+rule out some options.
+Our basic concept here is that very large
+and insulated planets could have liquid water
+even with little to no sunlight warming them.
+And now, with the James Webb Telescope, which
+can see objects in certain temperature ranges
+better than anything we’ve previously had,
+particularly those at the temperatures that
+water would exist rather than just ice; so
+we may be able to start spotting such planets.
+Now, how is it that such worlds are warm even
+when distant from their star?
+The key here is that as every planet forms,
+it gains a lot of heat energy.
+This is from everything falling together,
+and for context, it takes several times an
+object's weight in rocket fuel to give it
+enough kinetic or motion energy to get it
+away from Earth, and any object falling toward
+Earth must take on a similar amount as it
+falls, and when it hits, all that energy is
+turned into heat.
+The more massive the planet is, the more energy
+each object has as it falls towards it.
+Earth itself has a vast amount, somewhere
+between 224 and 249 million-trillion-trillion
+joules, and that’s how much energy it would
+take to vaporize the planet, death-star-style,
+which is roughly a week of the Sun’s entire
+energy output.
+And as much energy as hits Earth from the
+Sun in roughly 30 million years.
+This total energy is called the gravitational
+binding energy, and generally this rises with
+the square of the total mass and falls off
+with the radius.
+Loosely speaking, a sphere twice as wide will
+have 8 times the mass as a similarly-composed
+planet, as volume rises with the cube of radius
+or diameter, so a planet with the same density
+or makeup as Earth but twice as wide would
+have 8 times the mass and double the radius,
+and thus a gravitational binding energy of
+8-squared divided by two, or 32 times that
+of Earth, or 32 times the initial heat energy.
+Alternatively, a planet that is twice as wide
+has 2-squared or 4 times the surface area
+for heat to radiate off of and cool the planet.
+So that larger planet would lose heat 4 times
+faster but it has also got 32 times the heat
+energy on formation.
+Essentially it’s a bucket with a hole in
+it, and the hole is bigger so leaks faster,
+but the bucket is much bigger so it takes
+longer to drain, as it just has so much more
+water in it, or heat in this case.
+That’s simplified of course, for instance
+the Sun is filling a planet with heat via
+sunlight, and things radiate heat faster when
+they are hot vs when they are cold, and indeed
+it goes with the fourth power of temperature,
+so something 10 times hotter is leaking heat
+energy into space 10,000 times faster.
+The very smallest red dwarf stars are typically
+ten times as hot as Earth and about 100 times
+the surface area, and thus about a million
+times brighter than Earth.
+They have a vast amount of gravitational binding
+energy too, around a hundred million times
+what Earth has, and of course it’s also
+producing heat in its core by fusion.
+Fusion is an amazing source of power, and
+it is what runs stars, but before we knew
+what it was, we assumed stars merely were
+glowing hot because of their sheer mass and
+heat of formation, and while this will give
+you the wrong age for a star, it’s still
+an enormous value, in the tens to hundreds
+of millions of years.
+And Earth’s own molten core isn’t from
+sunlight, it’s from all that initial heat
+and the decay of radioactive particles like
+uranium.
+Critically though, a big object doesn’t
+leak heat at the temperature its core is – Earth’s
+for instance, is hotter than most stars’
+surfaces, including our own Sun.
+Rather, they leak at the temperature the surface
+is, and so you get a rapidly cooling surface
+on planets until they get a temperature at
+an equilibrium with the energy radiating from
+the hot center, radiating from that surface
+into space, and including the sunlight they
+get.
+These days, most of Earth’s energy is coming
+to the surface from the Sun, which was fainter
+in the past while Earth itself was still much
+hotter in its core and lower layers, though,
+even then the Sun provided the overwhelming
+supermajority of surface heat.
+Lots of things can add an insulative effect
+too, a wider planet for instance will have
+heat reach the surface from the center slower,
+and ice, clouds, or various other surface
+and atmosphere factors can also add insulation.
+Key point for why this topic has renewed and
+gained vigorous interest these days is that
+we have only very simple models of predicting
+the thermodynamic situation on planets, especially
+ones we don’t know the composition of, and
+as our database has grown along with real
+measurements of surface temperatures and masses
+of planets, we can do better.
+Some things we expected turned out wrong or
+off by a bit, and other surprises came up.
+As an example of that, we know tidal locking
+– where a moon or planet shows the same
+side to the planet or star it orbits all the
+time, like our own Moon does to Earth – is
+very strongly controlled by distance.
+As a result, virtually every Moon is tidally
+locked to its planet, but we figured most
+planets in the goldilocks zone of dimmer red
+dwarfs would need to be so close they were
+tidally locked.
+Newer data and better modeling though has
+inclined us to think that oceans and atmospheres
+might act like a lubricant to keep the planet
+from grinding down to a relative halt in its
+spin as it orbits a planet.
+Thus it would take longer for the lock to
+occur.
+But it is likely that Earth-sized planets
+around the dimmest of red dwarfs would still
+be tidally locked, eternal sunshine on one
+side, eternal darkness on the other, and with
+only a thin twilight band ringing around the
+planet between its poles, where various effects
+like ‘libration’ would cause noticeable
+variation in lighting.
+Now, bigger planets take longer to tidally
+lock, and it's rather hard to say when a planet
+mostly composed of gas and liquid like our
+gas giants is actually locked, since the surface
+is fluid.
+However, we would still expect these Hycean
+Planets, if close enough to the dimmest of
+red dwarfs – which is also the most common
+type of star – to lock eventually, and the
+neat thing about them in this case is that
+the planet would still be habitable on the
+dark side.
+This particular class of planet is getting
+nicknamed a Dark Hycean Planet, and while
+that references the side facing away from
+the Sun, it’s worth noting that such planets,
+if they have a surface of ocean or rock below,
+it is probably buried under so much atmosphere
+and ocean that it’s dark even on the side
+eternally lit by sunlight.
+Now, this is no great bar to life existing.
+We still don’t know where life began on
+Earth, maybe in tidal pools, maybe in phosphorus-rich
+inland mud pools, maybe in impact craters
+where comets crashed that already had life
+on them.
+There are many other options too, but the
+lead candidate for some time has been deep
+sea ocean vents, far below where sunlight
+can reach.
+We generally believe that life began there
+about 3.7 billion years ago, about a billion
+years after Earth formed, and for many millions
+of years did not run on photosynthesis.
+Even when it arrived, this was a different
+photosynthesis than the cyanobacteria which
+we believe emerged around a billion years
+later, but it was using sunlight nonetheless,
+and this abundant power source fueled a much
+larger and richer ecosystem.
+One so rich that the detritus of it can sink
+down in the oceans as marine snow, far from
+sunlight, and run an entire extra ecosystem
+of creatures that eat that organic waste,
+or each other.
+If the tidally-locked Hycean Planet is warmer,
+or sunlit on one side, we will inevitably
+get currents carrying warmth and dead life
+to the darker regions, akin to marine snow.
+However, a planet larger than Earth with great
+deep oceans and a great big hot core, could
+potentially support life on that dark side
+too.
+Or even in deep space, where the planet is
+slowly cooling over the eons but has large
+steady belts of liquid water in which life
+could dwell.
+Water itself is not a good thermal insulator,
+part of why it is handy for use as a coolant,
+but snow and ice are better.
+Ice is generally about as good an insulator
+as concrete, while snow is much better and
+roughly parallel to wood, but again, both
+are better than water and ice – normal ice
+anyway - floats on water, meaning you can
+maintain liquid ocean well underneath a colder
+protective layer of ice, keeping things warmer.
+This is even easier if there’s a thick layer
+of hydrogen and helium above as an atmosphere.
+But that’s also part of the problem, our
+default model shows surface temperatures might
+be as high 200 Celsius or 400 Fahrenheit,
+and those are probably not favorable conditions
+for life.
+What we’re looking for is those Hycean Planets
+without such high surface temperatures.
+And those should exist, but the other half
+of the problem is that these planets interest
+us principally because they are large.
+We’ve discovered many thousands of exoplanets
+in the last quarter of a century and virtually
+all of them are either very large or very
+close to their Sun, and the overwhelming majority
+are both.
+Our detection methods work better for big
+objects or ones close to their star, and more
+so for both, and this means lots of planets
+that are as big as Jupiter and as hot as Mercury.
+I don’t believe we’ve found any extrasolar
+dwarf planets yet, things like Pluto, but
+they will probably outnumber every other type
+of larger planet combined.
+A Hycean Planet though is one we could plausibly
+detect now and have many candidates for.
+And one close to a red dwarf star – the
+most numerous type of star – not only might
+be very easy to find lots of, but also could
+have some astronomically visible biosignatures.
+As an example, some chemicals don’t survive
+ultraviolet light very long, it tends to be
+rough on chemical bonds.
+Every star has a characteristic spectrum,
+typically with a peak in a given color range
+based on its temperature.
+Our Sun for instance peaks in blue-green,
+not the yellow that folks would expect, and
+the dimmer red dwarfs typically peak in infrared
+with only a small portion of their light in
+the visible range, and very little in blue
+or violet, let alone ultraviolet.
+Their light is still white; mind you, most
+incandescent light bulbs give off light in
+the same general range as red dwarfs.
+Hotter Stars, those in the F, A, B, and O
+ranges, give off far more ultraviolet light
+as a percentage of their emissions, and planets
+in the habitable zones of these worlds would
+generally not have the atmospheric signature
+of any chemical that disassociated from ultraviolet,
+whereas those chemicals would have very long
+atmospheric dwell times around red dwarfs.
+Such being the case, they’d be of higher
+concentration and much easier for us to spot.
+Nitrous oxide is one of those chemicals we
+would expect to find as a byproduct of life,
+but unfortunately, it doesn’t last long
+under ultraviolet light.
+So a red Sun and a thick atmosphere both give
+it much better odds of being able to grow
+to astronomically detectable concentrations,
+and a Hycean world around a red dwarf is thus
+both a planet we’re very likely to spot
+in quantities and where nitrous oxide and
+many other chemicals that might be biosignatures
+are easier to spot.
+What’s more, those signatures would be visible
+even in the interstellar void, on a rogue
+planet, so long as the temperature is still
+high enough for them to be a vapor.
+Nitrous oxide for instance has a boiling point
+of -88 Celsius or -127 degrees Fahrenheit,
+and a freezing point only a few degrees cooler,
+-91 Celsius or -132 Fahrenheit.
+But that means that it will be a vapor on
+any planet warmer than that and we would expect
+any Hycean Planet, even out in deep space,
+to be above that temperature.
+So for the purpose of finding alien life,
+Hycean planets represent a potentially low-hanging
+fruit of detection, as we expect them to be
+numerous, easy to detect, and likely to preserve
+telltale signs of life in their atmospheres
+if they have them, particularly around red
+dwarfs, which are the most numerous type of
+star, indeed outnumbering every other kind
+combined.
+Of course, if such planets are numerous, it
+behooves us to have a plan for colonizing
+them, and the methods we use will depend a
+lot on whether or not they have any surface
+rock or surface ice.
+Which raises another type of common planet
+of a similar size to Hycean Planets, which
+are Ice Giants.
+In the past we classified Uranus and Neptune
+as Gas Giants but we tend to feel the term
+ice giant fits them better, and this is also
+the area in which we get the term ‘Mini-Neptune’,
+and is an example of how we’re still a bit
+primitive and limited in our planetary cataloguing
+and typing.
+On top of that we also have icy moons, which
+will often have liquid layers or pockets,
+and those are going to be super-common out
+in the cosmos, so we’ll save discussion
+of them for another day.
+For now let’s ask what is an ice giant,
+why are Uranus and Neptune examples of them,
+why isn’t Saturn one, and what is a mini-Neptune
+anyway?
+First, it is worth noting that while Uranus
+and Neptune are 14 and 17 times more massive
+than Earth, larger than the range we expect
+for Hycean Planets and Super Earths, which
+we tend to assume maxes out after about 10
+Earth Masses, Uranus and Neptune are still
+tiny compared to Saturn, at 95 Earth Masses,
+Jupiter, at 318 Earth Masses, or HR 2562 b,
+which is on the hazy edge between Gas Giant
+and Brown Dwarf and masses several thousand
+times what Earth does, and more importantly,
+hundreds of times what Uranus or Neptune do.
+So, it isn’t really surprising that planets
+that are widely separated in mass will have
+different characteristics.
+One of those characteristics is how massive
+a planet needs to be in order to retain its
+hydrogen and helium during solar system formation.
+The overwhelming majority of particles out
+there are hydrogen and helium but they are
+very light and very easily stripped and blown
+away by solar wind once a star ignites.
+The colder a planet is, the less ultraviolet
+light its star gives off, the stronger is
+the magnetosphere, all of these factor into
+how well hydrogen and helium will remain behind,
+as do many other lesser variables.
+But the biggest factor is the sheer mass and
+gravity of the planet.
+We call a planet an ice giant, rather than
+a gas giant, when it contains a much higher
+portion of heavier elements than we would
+expect it to have, meaning the solar wind
+stripped a lot of free hydrogen and helium
+off of it.
+Uranus and Neptune are only about 20% hydrogen
+and helium by volume, whereas Jupiter and
+Saturn are both more than 90% hydrogen and
+helium.
+In this context, “Ice” would include frozen
+water but also includes other volatiles like
+ammonia and methane, also common on comets
+and icy moons, whose miniscule gravity tends
+to be bad at holding on to free hydrogen and
+helium, even when there’s no appreciable
+sunlight and solar wind hitting them.
+We didn’t know Uranus and Neptune were low
+on hydrogen or helium until recently, as they
+are covered with a thick atmospheric shell
+of it, and estimating their composition required
+a lot more data and superior modeling.
+And of course they still have way more than
+Earth has.
+They also wouldn’t have begun with such
+a low ratio of hydrogen and helium, but have
+lost it over time, and are now principally
+Oxygen, carbon, nitrogen and sulfur.
+Which makes them intensely valuable as a resource
+for getting the main materials for life, as
+those along with hydrogen and phosphorus are
+the big 6 that you and I, and every other
+organism we know of, is made from.
+Hydrogen is by no means rare on Uranus or
+Neptune either, as to phosphorus, that’s
+a bit rare everywhere, and we examined that
+shortage and its possible implications on
+the Fermi Paradox, the big question of where
+all the aliens are, in our Phosphorus Problem
+episode from a couple years back.
+We also discussed colonizing gas giants in
+our episode Colonizing Neptune, where we introduced
+the concepts of 2 megastructures, the Neptunian
+Chainsaw and the Chandelier City.
+Ice giants are fascinating places to colonize
+and are also great sources of raw materials
+for space habitats like O’Neill Cylinders,
+for providing the building blocks for life.
+However, they do not represent a good candidate
+for life the way Hycean Planets do, as there’s
+no decent chance for water oceans there.
+This brings up mini-Neptunes, which is what
+Hycean Planets would generally have qualified
+as examples of in the past.
+A Mini-Neptune is not simply a smaller version
+of an Ice Giant but does share the trait of
+having lots of hydrogen, helium, and ices,
+and also presumably having a significant rocky
+and metallic core.
+The term ‘gas dwarf’ as opposed to ‘gas
+giant’, has also been tossed around, and
+that can potentially include some worlds only
+around as massive as Earth, like Kepler 138-d,
+which is more like the density of Pluto, making
+it about the same mass as Earth but half again
+as wide.
+Earth, incidentally, is the densest planet
+in the solar system, and denser than our sun
+or any moons either, though there might be
+some small metallic asteroid that’s denser
+than Earth, at the moment it holds that title,
+of densest, out of thousands of known and
+measured solar objects.
+So, the lower threshold for a mini-Neptune
+or gas dwarf might be even less mass than
+Earth and the upper threshold is more likely
+objects about twice as wide as Earth, and
+the real dividing line would depend on a lot
+of factors.
+As I said, Hycean Planets would have fallen
+into this category before and I would expect
+it to be one that gets a lot more sub-categories
+carved out of it and to have overlapped with
+many others.
+Now, would we colonize these planets?
+Well, channel regulars already know the answer
+is ‘Yes’, we’ve got plans for colonizing
+everything up to and including giant stars
+and black holes.
+Many of the planets in the mini-Neptune range
+will essentially be ice planets somewhere
+in between Earth and a big version of Pluto,
+and that would constrain what you can do in
+terms of terraforming since warming up a planet
+mostly made of frozen water, ammonia, and
+methane isn’t going to leave you much solid
+material left behind.
+We discussed some modified or transhuman scenario
+for such planets in our look at Colonizing
+Pluto, but for humans and normal Earth life,
+except maybe penguins, life here is inside
+large insulated domes or caverns.
+Probably with walls made of some strong and
+thermally insulative material like vacuum
+walls or aerogel.
+The gravity is likely to be adaptable, not
+too much lower than Earth or too much higher,
+and it would be as easy to make those contained
+environments as comfortable as Earth and as
+any other space habitat, but such a planet
+isn’t likely to be in its star’s habitable
+zone or it would have melted away, especially
+in terms of any surface regions, and adding
+solar mirrors to increase the temperature
+or alter the day length isn’t going to work
+out well, as it’s a giant ice cube, albeit
+one with a large rocky mass inside it too,
+probably a molten one.
+Some might just happen to be in the range
+where we could melt them off and ship off
+those volatiles and have a nice Earth like
+planet left behind that we could heat with
+solar mirrors or shove closer to its star.
+Indeed we have a category of planets called
+Cthonian Planets, that might include such
+ice giants or other worlds who ended up too
+close to their star and were left like Mercury,
+a hot, dense airless planet.
+So your goal is to get close to the star but
+not too close, and that will depend on both
+the star’s characteristics and the planet’s.
+A hot bright star for instance might be better
+handled by using solar mirrors that didn’t
+reflect ultraviolet to help warm the world
+and minimize atmospheric stripping.
+The Hycean Planet though is our case where
+we expect to have oceans and a very wide range
+of distances from their star in which they
+could be warm enough for life, having enough
+gravity to maintain that hydrogen envelope
+even while being warmed up and hit by solar
+wind.
+To live on one of these probably means domes
+too, as the air pressure nearer the surface
+is likely to be way too high for humans and
+our household animals and plants.
+We might strip some atmosphere off then terraform
+them, as opposed to living in submarine cities,
+or bring in deep sea marine life already used
+to high pressure.
+Unlike living on airless planets though, with
+pressurized domes, here you would need your
+environment to be like a submarine, lower
+pressure than its surroundings.
+And this might include not just habitats floating
+on the sea but those floating under the sea
+or even floating in the sky by buoyancy, as
+we often envision for the clouds of Jupiter
+or Venus.
+Each of these represent very different scenarios,
+and where chambers are concerned that have
+to survive higher pressure, size is not your
+friend, for making great big bubble habitats
+with individual chambers, each kilometers
+wide, but many touching bubbles, much like
+a foam of bubbles in the sink or bath, works
+fine, and super strong materials like diamond
+could allow some enormous ones.
+They are also enormous planets and might have
+some enormous critters native to them, or
+that we might engineer to live on them, and
+that could include not just giant whales or
+kraken but possibly giant floating gasbag
+creatures milling around the sky.
+All in all, maybe not the favorite place to
+build a copy of Earth, but possibly some interesting
+places to visit, and as they may turn out
+to be the easiest place to detect life on,
+they might be where our first interstellar
+probes and scouts travel too.
+One of our barriers to understanding exoplanets
+is gathering data for better models, but another
+is designing those better models and trying
+to predict the conditions on other planets
+from minimal data, which is no easy task and
+as more and more planets get found, likely
+in their billions, it is something that we
+will probably need to adapt Artificial Intelligence
+and Neural Networks to help with.
+If that sounds like something you might want
+to make a hobby out of, or even a profession,
+our friends over at Brilliant can help you
+get a better understanding of world-changing
+technologies like AI and neural networks.
+Brilliant’s visual, interactive approach
+is engaging and makes STEM concepts actually
+stick, with helpful explanations along the
+way that never leave you guessing.
+Whether it's computers, science, or math,
+you’ll never regret having a better understanding
+of how they work, be it for professional development
+or just because you’re a casual curiosity
+seeker interested in knowing more about our
+world or the Cosmos.
+Brilliant focuses on interactive and hands-on
+learning, and breaking big important concepts
+down into understandable and interactive pieces,whether
+its basic algebra or neural networks.
+With thousands of lessons and more being added
+each month, Brilliant can help you reach your
+goals.
+In just 15 minutes a day with bite-sized lessons,
+you can master topics that you once thought
+impossible, so you can help pioneer new innovations.
+With Brilliant, you can learn at your own
+pace, learn on the go, and learn a little
+something new every day.
+To get started for free, visit brilliant.org/IsaacArthur
+or click on the link in the description, and
+the first 200 people will get 20% off Brilliant's
+annual premium subscription.
+We have a lot of ways we come up with episodes
+for the show, sometimes by poll, sometimes
+on a personal whim, and often by suggestion
+of one of our regular editors, so if you enjoyed
+today’s topic, you can thank Briana Brownell,
+one of our regular editors here who helped
+come up with and prepare today’s script.
+If you’d like to suggest an episode topic
+yourself, we will be having another Youtube
+Poll for a few topics after today’s episode
+and you’re welcome to comment on that poll
+with new episode ideas, which I’ll review,
+and we’ll probably do a poll or two on those
+in a week or two as well, or I might just
+see some I like and do them on whim.
+Speaking of future episodes, we have a lot
+of episodes coming up, starting with our mid-month
+Scifi Sunday episode, on February 12th, where
+we’ll look at the concept of Super Soldiers.
+Then in two weeks will continue our discussion
+from last fall about Time Wars with a look
+at Multiversal Warfare and the implications
+of some of the crazier aspects of Quantum
+Mechanics.
+And two weeks from now we’ll take a Journey
+to Alpha Centauri.
+If you’d like to get alerts when those and
+other episodes come out, make sure to hit
+the like, subscribe, and notification buttons.
+You can also help support the show on Patreon,
+and if you want to donate and help in other
+ways, you can see those options by visiting
+our website, IsaacArthur.net.
+You can also catch all of SFIA’s episodes
+early and ad free on our streaming service,
+Nebula, at go.nebula.tv/isaacarthur.
+As always, thanks for watching, and have a
+Great Week!

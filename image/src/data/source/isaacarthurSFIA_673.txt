@@ -1,0 +1,536 @@
+So today we’re going to be discussing Flat
+Earths, disc-shaped artificial worlds, Alderson
+Discs, and the general notion of how gravity,
+lighting, seasons, and orbit around these
+things would work.
+The last video in the series, Shellworlds,
+involved a type of megastructure we don’t
+see too much of in fiction, discworlds on
+the other hand are incredibly common.
+Probably the best known example would be the
+late Sir Terry Pratchett’s massive fantasy
+parody series appropriately named Discworld
+which ended at nearly half a hundred books
+and over 70 million sold.
+He died a year back so this video is something
+of a tribute to one of my favorite authors
+on the anniversary of his death and I’d
+strongly recommend him to others.
+The concept of a discworld itself requires
+little introduction, but Flat Earths come
+in a lot of styles and I wanted to give these
+a deeper look than they tend to get when looked
+at as seeming impossibilities.
+So for the rest of the video we will all be
+honorary members of the Flat Earth Society
+and we’ll even look at their model because
+while it is flat out wrong, pardon the pun,
+it is surprisingly well constructed.
+What we won’t be looking at is Pratchett’s
+specific discworld, a flat disc on top of
+the backs of four giant elephants standing
+on a colossal turtle since much like the weather
+patterns from George R.R.
+Martin’s Game of Thrones it was never meant
+to have a natural and physically possible
+explanation.
+Now the usual image someone gets of a Flat
+Earth is a square or rectangle, something
+you could sail of the edge of and has four
+corners, but while that is also possible the
+actual concept has normally revolved around
+a disc shape.
+We’re pretty used to seeing Mercator Projection
+maps but an Azimuthal Equidistant Projection
+is also pretty popular, it’s what we use
+for the United Nations logo, and it fits on
+disc just fine.
+As you can see, there is no way to sail off
+the edge of such a thing.
+You can fly all the way around the world east
+to west on a circle with your compass always
+pointing north.
+If you go south toward the edge you eventually
+hit an impassable frozen landscape of Antartica,
+not that you’d fall off anyway, you’d
+just curve around the rim to the other side.
+Interestingly while most images of flat worlds
+have a sun that circles around the planet
+the version put forward by the Flat Earth
+Society has a sun thirty miles across that
+circles over the Earth, and that’s not quite
+as ridiculous as it initially sounds since
+light has pressure.
+We’ve talked about moving stars with their
+own emitted light or propelling spaceships
+with laser beams using that light force, and
+to keep an object hovering in a gravity field
+you need to provide it the same force, but
+in the opposite direction, that gravity exerts.
+That translates as a bit over a billion watts
+per ton of sun, and the sun hits us with about
+a hundred million times that light, so a thirty
+mile diameter sun weighing about a hundred
+million tons would be quite capable of hovering
+over the earth and could circle above it just
+by tilting itself a bit to change its direction
+of thrust.
+This actually works a lot better than a sun
+circling the planet so if you’re building
+fake suns that basically giant light bulbs
+it might make more sense to just go with a
+cocked light bulb tethered by its power cord
+to the north pole and pushing up and slightly
+rimward.
+We’ll come back to discussing gravity and
+orbits in a little while but first let’s
+review the lighting system.
+If we built a flat planet, shaped like a coin,
+around a normal sun, then we could spin it
+to produce day and night just like on Earth.
+This does give us our first limitation on
+size though since you can only get so big
+before centrifugal forces at the rim would
+exceed gravity and throw you off.
+You can have seasons, like on Earth, by giving
+it an axial tilt.
+What you can’t have is temperature variation
+based on being north or south.
+Tilted or not, every bit of the planet gets
+the same amount of light.
+It isn’t Earth’s axial tilt that makes
+the poles cold.
+It’s that they are steeply angled compared
+to the sun.
+If you take a piece of paper and start it
+off perpendicular to a light, it’s intercepting
+the maximum amount of light, as we turn it
+away to be angled it intercepts less and less
+light until its parallel and intercepts none
+at all.
+But its total surface remains the same, so
+that’s less light per square foot.
+Less light, less warmth, so its colder.
+So a flat disc can be angled to have seasons,
+but the whole thing experiences the same temperature
+since then entire disk is at the same angle
+to the sun.
+At least when the sun is an actual normal
+old star not some fake approximation.
+This brings up the Alderson Disk, which is
+a hypothetical megastructure that’s a big
+flat disc around a star, one with a surface
+area comparable to a Dyson Sphere, more than
+a billion times what Earth has, which makes
+it an attractive idea.
+This thing is actually a very silly megastructure
+in and of itself because it gets virtually
+no light.
+Even less than you might expect since it also
+has a giant rim wall to prevent air leaking
+into the sun.
+It’s also got the problem that it should
+want to contract into itself and no known
+material would be strong enough to be able
+to stop that.
+Some versions of these just hand wave the
+sun bobbing up and down in the middle to better
+light the disc, how this is accomplished is
+unknown since stars don’t generally bob
+up and down and they certainly do not do this
+around absolutely nothing at a pace sufficient
+to do it once a day and at a steep enough
+angle to matter.
+So that’s where Alderson Disks tend to get
+abandoned but that is selling the notion rather
+short.
+We’ll get to the work around for disk’s
+crunching up, and of not having gravity point
+straight down, in a little bit.
+Let’s light up an Alderson Disk.
+I mentioned a bit ago how an artificial sun
+might hold itself up just by its own radiation
+acting like a thruster, but this is even easier
+around a star using mirrors.
+There is a device known as a Statite.
+This is a highly reflective and thin satellite
+which does not orbit, or does not orbit normally,
+but instead simply hovers in place by reflecting
+sunlight away.
+We’re already talking about building one
+giant thick disk around a sun, a couple thin
+ones is a minor matter.
+Incidentally with statites distance is not
+a factor.
+While the force holding them up is dependent
+on the total light hitting them, which falls
+off as the inverse square of distance, the
+gravitational force pulling on them also falls
+off as the inverse square of distance so two
+identical statites will both hover the same
+even if one is far further away than the other.
+The key variable two how thick a statites
+needs to be to hover, or it’s mass per unit
+of cross section, so it doesn’t fall or
+fly off, is how bright a star is compared
+to how massive it is.
+Bigger stars actually produce far more light
+per unit of mass than small ones, that’s
+why giant stars don’t live very long, so
+ironically you can build thicker statites
+around more massive stars.
+So you can hover thin disks, one or a collection
+of them, over the sun, to reflect light over
+the whole disk.
+You can give them curvature and angles to
+produce bands of day and night and even twilight,
+and either have them spin or have the disk
+spin to give days and even season by having
+the statites mirrors not be of uniform width
+or reflectivity.
+So that’s the lighting issue solved, and
+it’s actually an amazingly easy fix.
+Now let’s talk about the gravity generated
+by disks in general.
+Like most things if you’re far enough away
+you can treat it as a point like object, and
+if you’re circle around the rim it still
+acts fairly normally.
+Our issue is above it, or below it, but fairly
+close to it.
+If you’re at the very center the gravity
+acts perpendicular to the surface, so everything
+is fine.
+But as you get out from the middle the direction
+of gravity is going to start tilting at an
+angle.
+By the time you reach the rim its pointing
+almost entirely toward the middle, that’s
+why you can’t fall off the edge, you’d
+just walk around.
+If you took a flat disk, rectangle, cylinder
+or cube and poured water onto it its gravity
+would make it lump up into the cap of a rough
+sphere around the middle.
+And that’s a bit of problem unless you want
+great big oceans in the middle and land all
+around the rim.
+Also your air will do the same thing which
+becomes more than a landscaping concern.
+So what is the work around for that?
+What about the whole problem of the disc crunching
+together into a sphere?
+We can get around the crunching with centrifugal
+force, by spinning the disc, which helps us
+with gravity too.
+The further from the center you are, the more
+centrifugal force acts on you pushing you
+outwards.
+To a certain point you can spin your disk
+to counteract the crunching force of gravity
+trying to make it a sphere and making water,
+air, and people tend to migrate to the center.
+But this is an overly simple and non-ideal
+solution.
+First off, these models of disks always assume
+the structure is homogenous in density, that
+makes sense since if you had denser parts
+they’d just fall toward the middle and that
+would exacerbate the gravitational tilt to
+the center.
+Relatively large disks couldn’t be made
+of rigid materials able to avoid doing that
+either.
+But if you’ve been following the megastructures
+series a couple workarounds should be occurring
+to you by now.
+We’ve talked a lot in this series about
+active support structures, in the very first
+episode we talked about orbital rings, in
+the third we talked about space fountains,
+and we revisited both concepts last time in
+Shellworlds video.
+You may want to review those if that’s new
+to you but the summary version that if you’ve
+got a stream of matter orbiting a planet,
+or a star, inside a pipe, you can keep that
+pipe stationary and rigid so long is it, and
+anything sitting on it, has a combined momentum
+with the orbiting particles equal to what
+the whole sum ought to have if orbiting normal.
+You speed up those particles as you add more
+weight to your stationary structure, which
+would normally be magnetically levitating
+over the matter stream.
+Ditto you can have atlas-like pillars holding
+things up by just firing mass up a long narrow
+straight tube to be magnetically slowed near
+the top, transferring their momentum to whatever
+you’ve got hovering at the top.
+In this way you could keep two huge objects
+separate without them needing to orbit each
+other, and the only energy loss would be on
+how inefficient your mechanisms were.
+If they were 100% efficient you’d never
+need to add anymore energy after the first
+influx to get it going.
+We can use both of these structures, orbital
+rings and space fountains, in construction
+of super large discs.
+Let’s say we started with a big orbital
+ring around a sun, for an alderson disc, or
+small fat cylinder for a normal discworld,
+it could be touching for the latter.
+Only this ring segment is hollow and its full
+of mass spinning around in orbit.
+We pack so much mass into this that it’s
+a little denser the core.
+The orbiting material keep the segment rigid
+and also provides gravity above it.
+Then we put another ring in, touching the
+first, where the mass is denser.
+And another, and another.
+We make the disc as thick as necessary to
+ensure we can pack all the requisite matter
+into that last layer.
+Since these outer rings have way more matter
+in them, in terms of being denser, this negates
+out that inward pull to the center, and you
+can even add in some centrifugal force to
+make that a bit easier.
+Now you can either just use the sides of these
+rings as your firmament to build on or throw
+over a skin which keeps from crushing together
+by using those space fountains, those atlas
+pillars.
+Bingo, nice even gravitating disc.
+In the case of the giant Alderson Disc we
+still need that airwall to keep air from sliding
+into the sun but that’s fine, we just make
+that a huge solar panel to carry energy out
+to keep all the other mass spinning.
+Whatever you’re using as your filler material,
+the stuff running through those pipes, is
+something you’re going to need a lot of
+since its generating your gravity too, but
+as we discussed in the Shellworlds video the
+universe has tons of hydrogen and helium which
+aren’t things you’d normally build Earth-like
+planets out of, but cramming it into these
+orbital rings to generate gravity is just
+as doable as using it for stuffing in Shellworlds.
+You don’t necessarily need to use the orbital
+rings approach either, if you want something
+weird like a rectangle instead of a circular
+disc.
+You just make very long space fountains radiating
+out from the middle holding everything apart
+and pack the innards with rigid pockets of
+matter of the right density, presumably hollow
+rigid objects full of gas.
+You can also make the disc wider as you get
+further out if you’re having problems getting
+the necessary density in those outer layers
+to keep the gravity high enough but I dislike
+that since it isn’t a flat earth anymore.
+You can also add in walls, probably stylized
+as circular mountain ranges, to help hold
+in air and water if you’re not quite pulling
+off nice even gravity and those same space
+fountains holding it apart can also be used
+for bulk matter transport to help deal with
+issues of slow drift or erosion.
+Now how dense these things have to be is another
+matter.
+Actually it doesn’t matter, so long as the
+disc is significantly thinner than it is wide.
+For an infinite plane of mass gravity doesn’t
+drop as you get farther above or below it
+and so it doesn’t matter how thick it is,
+just how much stuff is in there, it can be
+thick but not dense or dense and thin, all
+that matters is how much mass is under a given
+area of the surface.
+So long as your discworld is thin enough compared
+to your diameter, and your distance above
+it is much smaller than that diameter, it
+doesn’t matter if you’re packing your
+discworld with super-dense neutronium or pressurized
+hydrogen and helium.
+But if you’re making something with a living
+area comparable to Earth you do need it pretty
+dense, a couple thousand miles thick of something
+at least as dense as steel would do, but denser
+is better because you really want to keep
+your discs significant thinner than their
+diameter.
+For something as big as an Alderson disc it
+would still be paper thin compared to its
+diameter even if you let it be a hundred thousand
+miles thick, and that makes it a lot easier
+to fill it with pressurized gases for gravity
+and having higher pressure, higher density
+ones near the exterior to even out your gravity.
+Needless to say if you’ve got artificial
+gravity you can skip all this, and artificial
+gravity isn’t definitely off the radar of
+future technologies.
+We still don’t know if gravity and electromagnetic
+forces unify, that’s that whole grand unified
+theory you sometimes hear about is…
+…but if they do unify it is conceivably
+possible you might be able to make a gravity
+generator that runs off electricity, or an
+electric generator that runs on gravity, the
+same as we can whack something with photons
+and knock out electrons or vice-versa, producing
+gravitons instead.
+Even if that’s possible it might easily
+require way more effort than just using bulk
+matter anyway, but it might be possible and
+it would seriously simplify things.
+Getting back to the lighting and seasons issues
+before we close out, we first have to decide
+how we’re getting our light and how big
+our disk is.
+For the Alderson Disk that’s just a sun
+with mirrors hanging overhead.
+In the Flat Earth Society model it’s a disc
+or sphere around thirty miles across and so
+is the moon, I’m not too sure how eclipses
+work in that model though, they use something
+called a Shadow Object that orbits the Sun
+I think.
+Like I said I find it rather fascinating how
+intricate that model actually is but its still
+nonsense.
+I’d probably do it by having both as discs
+that occasionally pass each other directly
+sometimes above or below the other to do lunar
+or solar eclipses.
+In my version the sun and moon are thin lightbulbs
+keeping a float by their own radiation pressure,
+like a big rocket thruster connected to a
+big leash of a power cord keeping it circular
+around the pole, where you can maybe wind
+the cord back or out to help simulate seasons
+or just lower the power a little when you
+want it colder.
+If you want a sun actually orbiting the planet
+geocentrically then you need the sun placed
+at a distance that results in a 24 hour orbit
+of the disc.
+That won’t quite be a circle since it is
+a disc not a sphere but you aren’t necessarily
+limited to normal Newtonian Mechanics here
+either since that’s obviously not a real
+sun.
+I don’t think there’s any disc size you
+could produce that would have a disc significantly
+more massive than a star, still have regular
+Earth gravity, and still have orbits around
+it of less than a day that weren’t either
+passing through the disc or so close as to
+burn it.
+If you’re not using a regular star, either
+because it’s got its own refuelable fusion
+reactor or a black hole or something in it
+then you don’t really need to worry much
+about normal orbital mechanics because the
+output of power would be so high compared
+to the mass of the fake sun, compared to normal
+suns, that it would basically be a spaceship
+quite capable of charting any path it felt
+like.
+Sort of like Apollo or Helios or Ra or whichever
+sun god riding around on their chariot or
+solar boat you prefer.
+In fact, as we’ll talk about in the next
+video on black hole powered ships, the mass
+of a black hole big enough to light a whole
+planet – or rather small enough since less
+massive smaller black holes actually radiate
+more energy, you’d only need a sun of about
+a hundred thousand tons, about as much as
+an aircraft carrier, to illuminate a whole
+planet and about that same mass of fuel every
+year so there’s a lot to be said for a big
+spaceship sun just flying around the disc
+planet once a day, either doing a whole circle
+or just having two, one for each side of the
+planet, landing at the rims.
+Depending on how high you are over the planet
+the path you take is going to make some areas
+more brightly lit then others and so hot and
+cold respectively and you can vary your path
+and distance to produce seasons or keep to
+regular path but have the world spin once
+a year.
+Using a regular star, as I mentioned earlier,
+doesn’t let you have cold areas near the
+poles, you can still have axial tilt give
+you seasons but it will be just as warm everywhere.
+Amusingly you could have disc after disc form
+a bracelet around a star in a ring and run
+big circle around to their poles as a train
+between worlds, or a big topopolis like we
+discussed at the end of the rotating habitats
+video, so the Alderson Disc isn’t the only
+option for one essentially super large land
+mass you could navigate around without needing
+a space ship.
+That’s how you build one, big or small.
+Now the real issue is why you’d build one
+and while we could rationalize making Shellworlds
+instead of rotating habitats, discworlds are
+a bit harder.
+They are not as mass efficient as a Shellworld,
+spheres are more efficient than discs in terms
+of the amount of matter you need inside to
+get gravity over your living area.
+In both you can use multiple layers so long
+as you provide artificial lighting to lower
+layers and can get rid of your waste heat.
+Discworlds just aren’t as much like Earth
+as a Shellworld is and also aren’t quite
+as mass efficient as a Shellworld, which is
+already an incredibly inefficient use of mass.
+So Discworlds probably are stuck in the category
+of impractical megastructures, but not so
+bad compared to Shellworlds that if you’re
+building lots of those you’d never contemplate
+building a Disk.
+It’s probably going to be a while before
+we revisit the megastructures series so I’m
+not going to pick a subject for the next episode
+yet.
+Besides Youtube just created this fun polling
+system and as mentioned next time we’ll
+be talking about black hole powered ships
+and some general use of black holes as power
+sources, since that is what the first poll
+overwhelmingly favored.
+I like this system so from now at the end
+of videos instead of just announcing the next
+video and playing the credits and some music
+and popping up the channel’s playlists I’m
+going to star adding a poll for the next,
+next video after that and asking for suggested
+topics down in the comments section.
+I’ll sort through those suggestions and
+see what seems like good topics I can do justice
+to and throw them up into the next poll.
+Most of the viewers for a given video will
+probably be after that poll is concluded so
+if you don’t see it popping up then I probably
+took it down already.
+If it’s up, please take a moment to weigh
+in on what topics we should look at next.
+As always comments and questions are welcome
+below, I try to get to as many as I can.
+Don’t forget to subscribe to the channel
+if you want reminders when the new videos
+come out, and if you enjoyed the video hit
+the like button and share it elsewhere.
+Thanks for watching, and we’ll see you next
+time!

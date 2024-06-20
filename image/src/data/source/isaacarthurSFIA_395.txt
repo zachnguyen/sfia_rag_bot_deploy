@@ -1,0 +1,648 @@
+This episode is brought to you by Brilliant.
+There is a school of thought that says our
+bodies are little more than a vehicle and
+life support system for our brains.
+If that’s true, we might be able to transplant
+the brain into some much cooler vehicles.
+One of the more popular notions in science
+fiction is the idea that you might separate
+a person’s head from their body and keep
+it alive, or even just their brain, and today
+we’ll be looking at this idea, how it differs
+in form, function, and implications from a
+digital copy of a mind - mind uploading – and
+what reasons and motivations we’d have for
+doing this, such as life extension, extreme
+emergency medicine, resource scarcity, or
+even punishment.
+This is going to be one of our more food for
+thought, fun episodes but as we’ll see today,
+it’s not likely to be something we only
+see in sci-fi, it’s actually quite plausible
+we will see this option used in the future,
+especially if digitally copying minds turns
+out to be harder than we expect or even practically
+impossible.
+Speaking of food for thought, you might want
+to grab a drink and a snack, and hit the like
+button while you’re at it.
+The idea of brains in jars has fallen mostly
+into the realms of more humorous science fiction,
+like Futurama, in favor of the notion of mind
+uploading which tends to seem the better option
+– and we’ll discuss why in a bit, but
+it’s worth remembering these are very different
+technologies and in truth we’ll probably
+be able to keep a brain alive in a tank a
+lot sooner before we could emulate a brain
+on a computer.
+The other thing about mind uploading is that
+it’s not just trying to emulate human neurons
+and tie them all together to replicate a human
+mind, it’s trying to exactly copy a specific
+person’s brain, which is going to be a good
+deal trickier, as you’re not trying to achieve
+a good likeness but rather an exact one.
+This is where we have tended to let fiction
+and notions about technology run a bit away
+with us.
+There are many reasons you might copy a human
+mind, but the big one is usually to make an
+immortal version of a person that you can
+digitally back up.
+If the copy is right, then that person is
+preserved but the original has simply been
+copied, and the original is still sitting
+there in the brain scanner afterward unless
+for some reason the scanning process was inherently
+destructive or lethal.
+Which is a nice handwave in fiction to remove
+the original person from consideration but
+not a very likely one, that the scanning method
+would just coincidentally need to vaporize
+the original.
+All the more so since we’re not likely to
+ever be encouraging research on brain scanning
+that tended to vaporize brains.
+You have intermediate steps of technologies
+and I’m not really sure how a partial brain
+scanner that vaporized neurons during the
+process would be seen as useful to encourage
+further research and funding.
+So even if a destructive scanning method just
+happened to be a bit easier than a non-destructive
+one it would probably lag behind in research
+efforts to any non-destructive scanning approaches.
+That’s assuming we continue to practice
+mostly ethical medical science, in ways that
+respect basic human rights...
+Of course you could also experiment on non-human
+subjects or volunteers who donated their bodies
+to science, and that is an example of where
+such a destructive scanner avoids the problem
+of a copying or killing the original brain,
+as the person is already dead or dying.
+But even that has a problem because if you
+start telling folks you want to vaporize their
+brain to research how to digitally resurrect
+other folks most would probably say “Hey,
+wait a minute, why don’t I just get my brain
+frozen instead, till you perfect the technique
+and can copy me?”
+And of course we can already do this, albeit
+with extreme tissue damage at the moment.
+But in terms of cost, it’s not much more
+expensive to freeze someone’s head than
+usual funeral costs or many common life-saving
+procedures and mostly just because we don’t
+do it much and a lot of the money goes into
+researching better preservation and resurrection
+techniques.
+In terms of raw cost, there’s not much difference
+between a casket and a cryonic cask or dewar,
+especially one only big enough for a head.
+It’s certainly not a space and maintenance
+issue either, cemeteries take up a lot of
+space and aren’t cheap to maintain, whereas
+you could stick a hundred frozen heads or
+brains into a single cubic meter.
+As to keeping them frozen, liquid nitrogen
+costs approximately as much per volume as
+milk, and a decent dewar only needs refilling
+a few times a year – less if you had tons
+of them in storage together, and so preserving
+a brain might be less than a dollar a year
+in terms of the nitrogen.
+This isn’t an episode on cryonics or cryogenics,
+but it needs to be kept in mind because if
+we do perfect ways of freezing a brain that
+are solidly non-destructive, which we can’t
+with current methods, that leaves the door
+open to scanning or thawing that brain out
+one day with better technology and you’d
+presumably see a very big uptick in folks
+choosing this.
+If you’re curious we could probably store
+dozens of generations of brains on ice for
+centuries without it being any sort of significant
+drain on the economy especially if it were
+done so frequently that it could create an
+economy of scale for brain removal and tank
+production and maintenance.
+We don’t know which we’d be able to do
+first, thaw a brain and stick it in a clone
+or android body or scan a brain, but even
+if we could do both a lot of folks would presumably
+prefer their original brain over a digital
+one.
+We often used to consider keeping the brain
+in a jar a method of life extension once the
+body fell apart, but brains age too.
+A digital copy can be maintained indefinitely
+by having backups and using existing data
+integrity methods.
+However we should keep in mind that if you
+actually have the sorts of technologies needed
+for brain scanning – which is as likely
+to be billions of nanobots running around
+your brain imaging each neuron as some super-MRI
+scanning it externally – that tends to imply
+you can repair or build neurons too.
+Those of us already acquainted with the whole
+copying issue often suggest a gradual neuron
+by neuron copy and replace with artificial
+neurons, little machines emulating an individual
+neuron and replacing an existing one, but
+you could presumably just set them to constantly
+repair and replace with regular neurons just
+as easily.
+It might require more maintenance but it’s
+the same maintenance your brain already does
+unaided anyway and neurons have much longer
+lifetimes than most cells, though it depends
+on which type of neuron is under discussion
+and we have multiple types.
+Needless to say brain cells can be damaged
+and decay too, as any number of mental conditions
+associated with aging show us.
+Indeed that’s a lot of why the brain-in-a-jar
+is an attractive idea, brain cells might not
+be able to live indefinitely, but they at
+least have a lot more longevity than the body
+as a whole does.
+So if we never get practical medical nanotechnology
+able to repair every single cell, the brain
+in the jar method might be a life extension
+method we’d use.
+Also if you can copy a frozen brain onto a
+hard drive there’s no particular reason
+to think it would be much harder to print
+a new brain either.
+The level of intricacy and technology ought
+to be parallel so scanning a brain to duplicate
+it on a newly printed organic brain as opposed
+to a hard drive ought to be viable for those
+who’d prefer that.
+Neurons vary wildly in size and type but the
+average in your brain would be around ten
+nanograms, which isn’t much but does mean
+they’re each composed of trillions of atoms
+so we probably could grow various types of
+generic grown neurons and use them in an advanced
+3D printer a long time before we could be
+doing precision atomic printing.
+It’s also a reminder that the brain isn’t
+really atomic scale, though that is debatable
+in regard to the information storage on it.
+Still we probably don’t need to be duplicating
+with atomic precision to properly replicate
+the same neuron for all practical purposes
+like memory and of course they are constantly
+having new atoms added and old ones removed
+too, those neurons need life support same
+as any other cell and are not identical to
+what they were yesterday or ten years from
+now even if the neuron itself has kept going.
+Key notion is that there’s a lot of technical
+difficulties involved in preserving or copying
+our brains, be it organically or digitally
+and we have no idea which would be easiest
+or most effective, but even if one method
+is easier it doesn’t mean it’s the one
+folks would prefer, so if you have multiple
+methods that are doable and aren’t wildly
+different in effective costs and upkeep, folks
+would presumably pick the one they liked.
+But a brain in a jar is not necessarily just
+your brain as-is, placed in a jar.
+Once we’ve got that brain out of the skull
+it could potentially be modified or grown
+larger.
+Which is another point too, a lot of the damage
+we get or life support issues for the brain
+we have revolve around things like radiation
+and contamination, and if you’ve got a brain
+in some big radiation shielded vessel with
+a strict control of the nutrients going in,
+like no potassium radioisotopes just the non-radioactive
+kind, or very refined chemicals to remove
+toxins and impurities, you probably can keep
+that brain running a lot longer, and while
+it is changing with time, both in contents
+and makeup, it is the same type of change
+we already undergo which might be more appealing
+to some folks.
+You also presumably can’t easily hack or
+alter it, in a computer sense, obviously you
+can hack it in a more traditional way but
+it’s presumably much harder to smash a brain
+in some armored support vat then a classic
+skull, or the body supporting it.
+I’m not sure why the brain in a jar or vat
+is always shown as fragile-looking glass,
+but presumably that’s just the artist trying
+to make its contents obvious.
+Your brain is already heavily armored compared
+to most of your body and if you’re removing
+it from that body and skull, you are presumably
+putting it in something a bit more solid than
+a glass mason jar.
+Of course we sometimes see them with the spine
+or eyeballs still attached and a nice window
+certainly is helpful in that case, though
+it is a reminder that our mind is not just
+our brain.
+There’s no non-arbitrary border to your
+mind really, yes the skull is where the brain
+is kept but that’s not really the whole
+of your actual mind from a thinking perspective
+– you’ve got that nervous system throughout
+your body plus all those hormones produced
+by this or that gland.
+Those presumably can be replicated by having
+small tanks of artificial hormones, or machines
+that produced them, injecting them into the
+brain along with the normal blood and oxygen.
+Still, we probably shouldn’t assume someone
+who wants to preserve their brain would automatically
+be fine with synthetics and if not require
+a whole body, some folks might draw their
+lines at different places on what they preferred
+so that you might have various glands in the
+nutrient bath too.
+Incidentally we’re just sticking with the
+trope of a brain in a nutrient bath for simplicity’s
+sake, though cerebrospinal fluid is indeed
+clear and colorless.
+We also have successfully removed pig brains
+from their bodies and kept them alive, though
+not thinking or really experiencing thus far,
+and we’ve had limited success with things
+like brain and head transplants and connecting
+neurons to mind-machine interfaces, though
+needless to say ‘success’ thus far has
+been modest and debatable, but techniques
+are improving.
+The concept though is not limited to simply
+a brain being removed, but more the idea of
+removing all but the most vital components
+needed to keep a person alive.
+Science and experimentation will help us figure
+out what that actually is, and we’ll doubtless
+get that experience because folks will often
+end up badly injured but with their brain
+intact, as it’s a small part of your body
+that might get missed by damage and is heavily
+armored.
+While it’s neat to contemplate options like
+brain scans and nanobot repairs, they are
+still quite a ways off and mostly not much
+of interest to the public when it comes to
+funding and attracting professionals, whereas
+we have plenty of folks who get gravely injured
+and might be able to live with these emerging
+technologies, or have their life quality improved
+by them.
+So we’ll probably discover sooner than later
+what we need to keep a person alive, and not
+necessarily in control of some sort of cloned
+or android body, by which I don’t just mean
+an alternative like some giant mecha or war
+robot or an inhuman form, like having your
+brain grafted into an animal or alien or a
+spaceship as a body.
+We might keep a brain simply in a deep slumber
+state or dreaming, as mentioned those initial
+big brain removals kept the brain alive but
+with little to no activity so it might be
+- given that neurons live far longer than
+most cells – that this approach of suspended
+or low activity thinking might become a more
+practical alternative than freezing brains
+– which damages stuff.
+Or it could be done for experimentation or
+as a punishment, keeping folks conscious in
+sensory deprivation or feeding them fake stimuli.
+This latter notion is the basis of the Brain
+in a Vat thought problem, which people tend
+to assume is identical to the situation we’d
+be dealing with in examples of digitally uploaded
+or simulated minds.
+One big difference between those is that with
+a digital mind, uploaded or simulated, not
+only do you control all the sensory input
+that mind experiences but you can pause your
+simulation or edit that mind or revert to
+an older saved state or copy if you make an
+error that gives the fake reality away.
+You probably could technically do that with
+an actual meat brain too, the line between
+organic and artificial or mechanical gets
+hazy to the point of irrelevance with sufficient
+technology, but for the moment we’ll assume
+all you control in a brain in a vat is the
+sensory inputs and of course the ability to
+shut it off permanently.
+What is the actual Brain in a Vat thought
+experiment though?
+It’s essentially a modernized version of
+Plato’s Allegory of the Cave and Descartes’
+Meditations on First Principles, such as ‘I
+think therefore I am.’
+Same basic principles involved as in simulation
+based thought experiments but again differing
+in that the programmer is not limited to sensory
+control of the person’s mind, they can edit
+that too, whereas the mad scientist with the
+brain in a vat can’t.
+As we’ve discussed in episodes on that topic
+before, like Simulation Hypothesis, Reality
+& Simulation, and Virtual Worlds, my own opinion
+is that this tendency to try to delineate
+the real world from the fake one is often
+not really a productive line of discussion,
+it just leads to solipsism, and hinges on
+an arguably false dichotomy.
+Defining something as unreal because it’s
+artificial is a pretty dubious notion.
+It might be a bit semantic to say that living
+in a house whose architecture and décor you’ve
+selected – or somebody else did – isn’t
+really much different than living in virtual
+environment you or someone else made, and
+really seems to hinge more on the notion of
+not if the reality you are in is created but
+rather if your existence in it is deceptive,
+and that’s more about truth and free will
+than reality.
+As an example, we have theories that suggest
+black holes might spawn new Universes when
+they form, essentially making those a reality
+beneath our own, but also implying we might
+have been spawned by the Big Bang as a product
+of a black hole forming in an older Universe.
+I’m not sure how that would make us less
+real than the folks living in that Universe,
+or more real than one spawned by the formation
+of a black hole in our Universe, or how any
+of that differs from a simulated Universe
+beyond the implied artificial origin via a
+programmer or creator.
+That brain in a vat might exist as a separate
+and real thing in the universe that’s running
+the simulations it experiences but so too
+would a hard drive and presumably for the
+black hole example, that black hole in the
+older Universe.
+Let’s say our technology allowed us to rescue
+folks who were severely injured by placing
+their brains in vats and we lacked good android
+technology so we stuck them in a simulated
+village and told them that was the case and
+that they could call their friends and family
+in the outside world and that they had control
+of that environment within the limits of their
+group decisions and the software’s limitations.
+That suddenly seems a lot less sinister and
+philosophically interesting than the normal
+brain in a vat and I’m not really sure how
+that place is any different than a remote
+village on Earth that’s cutoff from most
+external contact beyond telephone and internet.
+You can’t know if the reality you’re in
+is the one and only real place, and I’m
+not sure that it matters in and of itself,
+as opposed to the question of if you’re
+in there voluntarily or aware of your circumstances
+or if the folks controlling it are good or
+evil.
+Sometimes the better question isn’t if what
+you experience is real or not, or how you’d
+know, but if it actually matters.
+When it comes to what life would be like as
+a brain in a jar, much like a digitally uploaded
+mind, and depending on your technology, it
+might be identical to normal life.
+Indeed with the right technology it might
+be identical to being digitally uploaded,
+you can mess with a brain like you can a computer
+file with enough tech, altering or reversing
+memory inputs in the meat of the brain.
+But we shouldn’t assume a programmer could
+casually screw with a digital mind which is
+likely to be a very complex and sensitive
+thing that might be severely damaged by minor
+edits, especially if it’s just an emulation
+of a meat-brain.
+You could have a case where that brain is
+just in an android body, which is arguably
+just a cyborg, it might have cybernetic enhancements
+to the mind too, or have genetic tweaking
+to allow it to grow bigger.
+Classic sci-fi is full of giant-headed aliens
+with highly evolved giant brains, and while
+newer stuff tends to focus more on the digital,
+this augmented approach might turn out to
+be a more preferred route for transhumanism
+or posthumanism, since it doesn’t involve
+copying your brain onto a hard drive or necessarily
+adding mechanical or electronic components
+to the actual brain itself, just the sensory
+and life support bits.
+And there’s a good chance this pathway will
+be available to us a lot sooner than all the
+digital options, which I sometimes think only
+seem more probable by embracing a handwave
+that mind uploading is really just about having
+a ton of computational power and a very good
+brain scanner.
+So what are your options for life as a brain
+in a jar?
+Well if you’re not tinkering with a basic
+brain much you probably need an android body
+or a simulated one in virtual reality that’s
+very human in function and inputs, but even
+assuming we can’t tinker much with that
+actual brain to allow it to comfortably run
+inhuman forms, the brain itself is very adaptive
+so folks might be able to adjust to running
+something more animal or vehicle-like instead
+of human form.
+Personally I’ve very fond of the notion
+of being in a giant human mecha, with gatling
+guns and missile racks, but the neat thing
+is you could transplant the brain to other
+bodies, whether by moving the brain jar or
+just do everything by telepresence with the
+brain in some nice armored bunker somewhere.
+The other aspect is that it might become a
+preferred thing for civilizations.
+Bodies take a lot of calories to run, and
+brains are big users of that, chewing up around
+15% of most folks calories while making up
+only around 2% of their body mass.
+So unlike digital minds, which might run thousands
+or millions of times more efficiently than
+human brains, these would only let you get
+maybe 6 times as many people for the same
+amount of food as normal folks like you and
+I eat.
+Still it is six times as many, which is nothing
+to sneeze at if you’re civilization wants
+to maximize its population.
+And there’s a couple caveats too.
+First, it’s only theoretical that we can
+make hyper-efficient computers, we have made
+some supercomputers that match our best guess
+for a human’s analogy of processing power
+but those things are power and heat gluttons,
+sucking up many thousands of times more power
+than a human brain does.
+We probably can do way better in the future
+than our meat-brains in terms of power for
+computation but shouldn’t just take that
+for granted and assume we’ll eventually
+hit some super-high efficiency rate.
+And that only matters if folks feel a digital
+mind is equal or better than going brain in
+a jar.
+Second, our brains use about 16 watts of power
+to run, but that does not mean that needs
+to come from food grown on open land or in
+hydroponic farms.
+Once you’ve abandoned the flesh in favor
+of synthetic sensory input, worrying about
+things like taste and dietary fiber and texture
+start being rather irrelevant, you do not
+have an actual tongue or stomach after all.
+None of the stuff our cells run on, be it
+normal cells or neurons, really requires a
+plant grown under sunlight to make food we
+eat directly or further up the food chain.
+There’s lots of things you need to feed
+the brain but the big ones are glucose and
+oxygen and either could be introduced into
+blood via synthetic production like photovoltaics,
+which is way more efficient than photosynthesis.
+If we just assumed we could only achieve a
+10% efficiency of photovoltaic sunlight capture
+to glucose energy, you still wouldn’t need
+a solar panel much bigger than the jar for
+the brain to keep it running and you could
+have a planetwide brain farm running on solar
+containing over a quadrillion people.
+Nor would that necessarily need to be on Earth
+either.
+Obviously we could use our usual notion of
+rotating habitats but brains in a jar might
+not actually need gravity and if they did,
+probably would do fine in a relative small
+centrifuge, since it probably would only need
+low gravity and even if didn’t you can probably
+ignore most of the vertigo and nausea issues
+associated to high-RPM rotation, what with
+the lack of natural ears and such.
+In such a case a Dyson Swarm created around
+this purpose, somewhat akin to a Matrioshka
+Brain, allows far more people than a regular
+Dyson Swarm.
+Those usually permit around a billion times
+more people than could live on Earth and are
+very raw material intensive, requiring the
+disassembly of an entire solar system or more
+– something we’ll look at more next week.
+Alternatively, a Brain-Jar-Dyson-Swarm, using
+the 10% efficiency we suggested a moment ago
+could house 2.4 trillion-trillion people,
+or brains, and probably would only need about
+an Earth’s worth of raw materials to construct.
+I’m not sure many folks would find that
+appealing but it might be entirely fine with
+folks, if it was accompanied with virtual
+worlds and telepresence and allowed thousands
+of times more folks to live and enjoy such
+places.
+Indeed they might find it a better and safer
+and longer-lived alternative.
+I’m not sure it would be my cup of tea,
+but as I said earlier, while continuing as
+I am is my current preference, the notion
+of stalking around the landscape as brain
+inside a giant robot has a lot of appeal.
+We were talking a lot today about brains versus
+artificial intelligence or mind uploading,
+and if you’d like to learn more about concepts
+like neural networks or computational biology,
+there are some fantastic courses on those
+topics over at Brilliant.
+To truly understand the human mind, or to
+devise artificial intelligence, we’ll need
+to develop a deep understanding of Neural
+Nets and they are a growing field in academics
+and business and Brilliant’s focus on fun
+and interactive methods makes them a great
+choice for learning about this topic or many
+others, whether you’re a student, a parent
+trying to enhance your kid’s education,
+a professional brushing up on cutting-edge
+topics, or someone who just wants to use this
+time to understand the world better, you should
+check out Brilliant.
+Try adding some learning structure to your
+day by setting a goal to improve yourself,
+and then work at that goal just a little bit
+every day.
+Brilliant makes that possible with interactive
+explorations and a mobile app that you can
+take with you wherever you are.
+If you are naturally curious, want to build
+your problem-solving skills, or need to develop
+confidence in your analytical abilities, then
+get Brilliant Premium to learn something new.
+Brilliant’s thought-provoking math, science,
+and computer science content helps guide you
+to mastery by taking complex concepts and
+breaking them up into bite-sized understandable
+chunks.
+You'll start by having fun with their interactive
+explorations, over time you'll be amazed at
+what you can accomplish.
+If you’d like to learn more science, math,
+and computer science, and want to do it at
+your own pace and from the comfort of your
+own home, go to brilliant.org/IsaacArthur
+and try it out for free.
+So this weekend we have a bonus episode coming
+out, the first installment of a new series,
+Becoming an Interplanetary Species, where
+we will look at the National Space Society’s
+Roadmap to that Stars, and see what the first
+steps are to us becoming an Interplanetary
+Species.
+Last week we looked at some truly enormous
+space habitats we might build in our future
+as an alternative to settling new planets
+and next we will take a look at how we can
+go about acquiring the vast amounts of raw
+materials we’ll need to construct millions
+of those continent sized habitats, and ask
+if we should dismantle the solar system itself
+to provide them.
+After that we’ll be back to the Fermi Paradox
+series to consider disappearing stars and
+cosmic voids, to consider if such things are
+natural or might be signs of older alien civilizations
+dismantling their own solar systems or even
+entire galaxies.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching,
+and have a great week!

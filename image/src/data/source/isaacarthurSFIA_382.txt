@@ -1,0 +1,807 @@
+This episode is brought to you by Brilliant.
+They say a journey of a thousand miles starts
+with a single step.
+But a journey of a billion miles, according
+to the National Space Society,
+will require 31 steps.
+So today we are continuing our look at becoming
+an interplanetary species.
+We’re using the National Space Society’s
+Roadmap to Space Settlement as a loose guide,
+and I’ve linked the complete document in
+the episode description.
+In part one we took a look at the first steps
+on the Roadmap, developing some spaced based
+resources and commerce, lowering launch costs,
+and establishing a permanent foothold in orbit.
+Today we’ll discuss Part 2 of the Roadmap,
+Utilization and Development of Cislunar Space,
+though we’ll not hold to it too rigidly.
+Some of these milestones are projects we’ve
+looked at before, so I’ll mention and link
+those episodes as we go if you want to dive
+in a bit deeper.
+Cislunar Space means between the Earth and
+the Moon, but I frequently use it to refer
+to Earth’s entire Hill Sphere.
+This is the volume that Earth gravitationally
+dominates, which is about 3 million kilometers
+wide.
+It is the region in which objects could stably
+orbit Earth and includes all Earth’s Lagrange
+points with the Moon and also Earth’s L-1
+and L-2 Lagrange points with the Sun, and
+we’ll discuss what those are very shortly.
+Essentially all the space that moves with
+Earth and is reasonably close to Earth, the
+places where we’ll develop the space infrastructure
+that needs to be in the vicinity of Earth.
+That is an immense volume, over ten million
+times the volume of Earth.
+It is of course mostly empty space, at least
+for now, but it is valuable space.
+Essentially, this episode and Part 2 of the
+Roadmap are about establishing permanent inhabited
+development in the space around Earth, as
+a preliminary to Part 3, establishing that
+same sort of presence on the Moon.
+Though we’ll also contemplate the further
+development of the Cislunar region after the
+Moon has been settled.
+You might ask why this is all so inextricably
+linked to the Moon, and the reason is it’s
+where we need to source our materials for
+heavier cislunar colonization.
+Indeed, as we will see today, and looked at
+in Industrializing the Moon and Battle for
+the Moon, it’s not just the Moon and a few
+space stations we want to colonize.
+A future interplanetary humanity will see
+a trillion habitats and space farms and power
+collectors dwarfing the Earth and Moon in
+prominence and population, a massive cislunar
+constellation of which the Earth and the Moon
+are just the brightest stars.
+And it's from the rocks and dust of the Moon
+that we can build that Cislunar Empire, including
+our staging points to other planets.
+I should mention that there is always something
+of a chicken-and-egg situation when you’re
+planning infrastructure.
+You need some basic infrastructure in place,
+in order to get to the resources, out of which
+you’ll build more serious higher-capacity
+infrastructure.
+That’s true whether you’re building roads
+to mines in Ancient Sumer or building the
+equivalent of roads to mines on other moons
+and planets.
+So it might seem sometimes like this roadmap
+is going back and forth, back and forth.
+But we need to get material from the Moon
+to build the space infrastructure that will
+let us get even more material from the Moon
+so we can venture even farther outward, and
+so on.
+And that is what the NSS roadmap is laying
+out.
+To start, we have to industrialize cislunar
+space though, and that brings us to NSS Milestone
+13, our first milestone for today, the Use
+of Space Technology and Resource on and for
+Earth.
+Right now our presence in space is mostly
+about science and curiosity, though we do
+have some of the space based economy and utilization
+we looked at in previous episodes.
+But to create our space-based civilization,
+we need to first use space resources to benefit
+ours.
+Only in this way are we likely to see the
+funds and drive to really hit space in a big
+way.
+Early forms of this include satellites for
+communication and weather monitoring, not
+to mention other remote detection for everything
+from military surveillance to tracking agriculture,
+finding mineral deposits and archaeological
+spots, and possibly better earthquake detection.
+We also have the biology and medicine sides
+of things.
+Living in space requires skill at recycling,
+which can obviously benefit us here at home,
+and it requires advances in understanding
+ecology to maintain small biomes in future
+space stations, also benefiting us here, but
+it could open us up for all sorts of biomedical
+micro-gravity improvements and breakthroughs
+too.
+There is also a lot of industry which can
+work better in micro-gravity or even only
+work in micro-gravity and we detailed those
+in our Episode “Kickstarting Space Industry”.
+We also have space-based solar power, both
+power transmission and orbital mirrors, which
+we will return to in a bit.
+Key notion, while we are looking up into space
+for our future, that future relies on us looking
+down from space to Earth, making that space
+development useful to Earth.
+Before we proceed with the NSS roadmap, let’s
+take a look at the physical map of Cislunar
+space and where we’ll be building the key
+pieces of infrastructure.
+Working our way upward and outward, first
+we have Earth’s own primary orbital Zones,
+Low, Medium, Geosynchronous, and High.
+Low Earth orbit is where we currently do most
+of our efforts in space and is anywhere from
+a couple hundred to a couple thousand kilometers
+above Earth.
+It is essentially inside Earth’s atmosphere
+but just high enough that the air is too thin
+to create a lot of drag.
+Medium orbit is a vastly larger space, everywhere
+from a couple thousand kilometers to 36,000
+kilometers up, an ideal place for large space
+based enterprises as it is close to Earth
+but not in the cluttered low orbit region.
+Geosynchronous is the narrow spot between
+Medium and High Orbits where objects orbit
+Earth at the same speed the planet spins,
+so is of great interest to anyone who needs
+to watch over or communicate with a particular
+spot on the ground..
+And High Orbit is everything beyond that.
+If you go high enough in orbit, you begin
+to interact more with the gravity of the Moon.
+Some other important places to develop and
+utilize in CisLunar space colonization are
+the Earth-Moon Lagrange points.
+Any pair of planetary-sized bodies orbiting
+each other--which really means orbiting around
+their mutual center of mass--set up five points
+labeled L1 through L5 where the gravity and
+centrifugal force on an object orbiting along
+in time with the two bodies will be balanced.
+It’s not as stable as an object in orbit
+around a single body, but you can park something
+there—like a waystation, habitat, factory,
+or relay satellite—and keep it there.
+The Earth-Moon L1 point is between the two
+bodies, about 5/6 of the way to the Moon.
+This Lagrange point is unstable, meaning something
+could orbit on exactly that spot indefinitely,
+but any tiny deviation from the orbit will
+increase exponentially with time.
+And it’s fairly easy to see why this point
+is unstable.
+The Earth’s gravity, Moon’s gravity, and
+centrifugal force balance out there, but clearly
+if you drift slightly closer to the Moon,
+the Moon’s gravity will now be slightly
+stronger while the Earth’s is weaker, so
+you’ll be pulled even closer to the Moon.
+So a satellite parked there would have to
+perform what’s called orbital station-keeping,
+monitoring and periodically adjusting its
+position with thrusters.
+But this actually takes very little fuel if
+it’s done precisely and when you’ve only
+drifted a short distance.
+And this same instability makes L1 the ideal
+place for a transit station for personnel
+and cargo, where transferring into Earth orbit
+or into lunar orbit is so easy, requiring
+so little change in velocity, that you have
+to be careful you don’t do it accidentally.
+The Earth-Moon L2 point is about 1/6 of the
+way out past the Moon.
+This will be an important place for relay
+stations communicating with the far side of
+the Moon, which never faces Earth.
+And in fact, the Chinese Lunar Exploration
+Program currently has a relay satellite up
+there, not directly on the L2 point but in
+what’s called a “halo” orbit around
+it, in a plane perpendicular to the Earth-Moon
+axis, which gives the relay satellite unobstructed
+continuous line-of-sight to Earth and to the
+landing site of their lunar rovers so the
+signal is never interrupted.
+Someday, L2 satellites will provide the same
+service to far side colonies.
+We might imagine that in the future, a populated,
+developed Moon would want satellites that
+remain over a certain spot just like the geo-stationary
+satellites orbiting Earth.
+But unfortunately, such a luna-stationary
+satellite would orbit so far from the Moon
+(1/4 of the way back to Earth) that the Earth
+would just capture it.
+So the L1 and L2 points and the manageably
+unstable orbits around them will also be crucial
+infrastructure points as the only place to
+put luna-stationary satellites.
+The Earth-Moon L3 point is perhaps not so
+interesting, because something parked there
+is really just orbiting the Earth at lunar
+distance but on the opposite side of Earth
+from the Moon, and the Moon is so far away
+it barely affects the orbit at all.
+The L4 and L5 points each from equilateral
+triangles with the two orbiting bodies, and
+they are different from the others in that
+they are stable, as long as the larger body
+in the two-body system is at least 25 times
+more massive than the smaller, which is the
+case by a wide margin for the Earth-Moon system,
+Earth being 81 times as massive, and easily
+applies to the Earth-Sun system since the
+Earth is only 3 millionths as massive as the
+Sun.
+This stability means that satellites can simply
+be parked there and not drift away—in fact
+rocks and dust tend to naturally accumulate
+at L4 and L5, and these are often called Trojan
+Points as we found large groups of asteroids
+at Jupiter’s L4 and L5 points with the Sun
+and named them after characters from the Trojan
+War.
+Earth’s own L4 and L5 points might one day
+be convenient places to live far enough away
+from the Earth and Moon to have your privacy
+but still close enough to visit or get supplies.
+There was in fact an L5 Society founded in
+1975 that advocated building an O’Neill
+cylinder habitat at the Earth-Moon L5 point.
+But in 1987 the L5 Society merged with the
+National Space Institute to form the National
+Space Society.
+And incidentally, that’s why it felt appropriate
+to explain Lagrange Points at such length
+in the course of discussing the NSS Roadmap,
+because it hints at how important Lagrange
+Points are to the folks with the most active
+interest in colonizing space.
+But the Earth is also part of the Sun-Earth
+two-body system, which has its own five Lagrange
+points.
+The two of greatest interest to near-Earth
+infrastructure will be the two closest to
+Earth, L1 and L2, which are both about 1.5
+million km or .01 AU from Earth, four times
+farther than the Moon, respectively in the
+sunward and anti-sunward directions.
+And both are already homes to important space
+science missions.
+L1 is also an ideal place to put things like
+solar shades to cut down on infrared light
+hitting Earth or just power production, as
+things like solar panels, mirrors, or shades
+are thin and thus all can be used as minor
+solar sails to help with stationkeeping around
+the L1, and this solar pressure allows the
+shades to get closer to the sun, increasing
+their effectiveness.
+Thin solar shades with radiant pressure on
+them from the Sun are not limited to the orbits
+stable for large dense bodies, and thus can
+be placed in atypical orbits such as the statite,
+which can hang directly over the Sun, or the
+Laggite, which can orbit at periods slower
+than their distance from the sun would normally
+indicate.
+For this reason a solar shade at the L1 point
+is not actually at the L1 point, as its point
+of stability would be closer to the sun than
+L1, depending on its thickness.
+The L1 and L2 points also mark the edge of
+Earth’s Hill Sphere.
+Three solar physics missions have been orbiting
+the Sun-Earth L1 since the early 2000’s,
+the Advanced Composition Explorer (ACE), Solar
+Heliospheric Observatory (SOHO), and the Global
+Geoscience WIND satellite.
+The Deep Space Climate Observatory joined
+them in 2015, to serve as an Earth early warning
+system for coronal mass ejections and further
+study of space-weather.
+Coronal mass ejections are a potential hazard
+to space infrastructure and they are not the
+only space-based damage we have to worry about
+either.
+One critical issue for developing Cislunar
+space is all the space junk that accumulates
+there, especially if you’re building it
+up in a big way.
+While actually safer from asteroids than Earth
+is, since space stations can easily move aside
+to avoid being hit, things in cislunar orbits
+are not protected from the far more numerous
+but tiny objects that our atmosphere burns
+up, protecting us and to a lesser degree objects
+in low Earth orbits.
+The Sun-Earth L2 point is a fine place for
+space-based observatories and is the future
+home of the long-awaited James Webb Space
+telescope.
+The Earth doesn’t fully shade L2 from the
+sun, because at that distance the Earth is
+actually slightly smaller than the sun, but
+having the Earth and Sun always close together
+and in the same direction make shielding experiments
+much easier.
+A simple large reflective sunshade will allow
+a telescope to cool to around 50 Kelvin, which
+is especially helpful for infrared astronomy
+and observing the faint, ultra-cold cosmic
+microwave background radiation.
+Now as you start getting more and more objects
+up in space you need to be able to move people
+and cargo between them, not just back and
+forth to Earth, and this is where Milestone
+14 comes in, an Integrated Cislunar Space
+Transportation and Logistics System, one able
+to move folks between all those orbital zones
+and Lagrange points we mentioned.
+That takes fuel and is where we again turn
+our eyes toward the Moon.
+It actually takes far less fuel to get off
+the Moon’s surface and back to Low Earth
+Orbit than to get from Earth to low orbit,
+even though the distance is a thousand times
+farther.
+It can seem counterintuitive, but remember,
+it’s accelerating and lifting mass out of
+a gravity well that consumes fuel.
+Coasting vast distances is free.
+And the Moon’s gravity well is much shallower
+than Earth’s.
+The payload of a rocket coming from Earth
+is usually less than 1/20th of the mass of
+the fuel to get that rocket to low orbit,
+meaning for every liter of fuel you send to
+a fuel depot in low orbit, you’ll burn at
+least 20 liters getting there.
+But coming from the Moon’s surface only
+takes about as much fuel as payload.
+Needless to say, it makes producing spaceship
+fuel on the Moon as opposed to Earth very
+attractive.
+And while we’re talking about fuel I’d
+be remiss if I didn’t mention that travel
+around Cislunar Space isn’t limited to using
+rockets, even without getting into some of
+the launch-focused megastructures like orbital
+rings we discuss in the Upward Bound series.
+Once you are out of an atmosphere, everything
+about motion is about Newton’s 3 Laws and
+the conservation of momentum, for one thing
+to move in one direction, something else has
+to move in another.
+In terms of rockets that counter push is provided
+by trillions of high speed particles in the
+rocket flame but you can use any mass.
+You can kick off the side of a space station
+in a spacesuit, and it lacks the gravity to
+pull you back, especially as it moves backward
+with the same momentum, mass times velocity.
+Much larger space stations won’t move much
+from such an exchange.
+Kalpana One, the beautiful mid-sized habitat
+whose animation by my friend Bryan Versteeg
+of Spacehabs.com we so often show here, is
+usually estimated to mass on an order of 10
+megatons, or about 10 billion kilograms – which
+would cost something on an order of the entire
+US annual GDP to get up into space with current
+launch costs, for all that its only around
+a billion dollars worth of steel.
+Being so heavy, we can launch ships from it
+with mass drives or other types of space catapults
+without moving it much, and regenerate its
+momentum over time with other techniques than
+classic chemical rockets, like ion drives
+or electromagnetic tethering or even radiation
+pressure from light.
+Kalpana, incidentally, is a great example
+of Milestone 16, the Development of the First
+Equatorial Low-Earth Orbit Settlement.
+The International Space Station can’t really
+be called a settlement, no matter how large
+it grows, because it doesn’t have its own
+gravity for long-term habitation.
+Sure you can spend a year or so at the ISS
+in microgravity, with all the problems that
+entails, but to truly be a settlement it should
+allow continuous occupation, or at least long-term
+residency without significant deleterious
+effects.
+The case could also be made that a settlement
+should be somewhat self-sufficient.
+This means a rotating station with artificial
+gravity and some kind of biosphere and crops,
+recycling systems, and presumably an economy
+or at least a long-term business case.
+Staying in low Earth orbit means shielding
+can be minimal by relying on Earth’s magnetic
+field for protection.
+This significantly reduces the mass required
+for construction while we’re still learning
+to build space habitats.
+Most of the station’s advanced construction
+material would be launched from Earth with
+on-orbit robotic and telepresence assembly.
+Construction of the settlement will take years
+and the first long-term residents will be
+construction workers, engineers, and robot
+operators and maintenance personnel.
+For a small sense of the project, imagine
+not just building houses on land, but rather
+building those houses on a suspension bridge
+you must design and construct first, in Antarctica.
+The first permanent residents won’t move
+in, or even start packing, until the entire
+infrastructure construction is complete, inspected,
+tested, and all contingency and safety systems
+are operational.
+During construction raw, bulkier materials,
+such as oxygen, water, components for engineered
+soil, materials for concrete or other on-site
+fabrication, such as 3D printing stock, raw
+metals, etc, can be launched from early lunar
+mining operations.
+Lunar materials will likely end up representing
+a large portion of the station’s finished
+mass and so a lunar mass driver, to keep costs
+down on bulk materials, would have a ready
+customer.
+Catching all that lunar mass at your station,
+though, will require significant stationkeeping
+efforts, you may end up using some of those
+lunar bulk materials, presumably waste, in
+a cheap mass driver Reaction Engine to balance
+out the momentum exchanges rather than burn
+precious oxidizing fuel.
+There is however, another slow but fuel-free
+way to get momentum and that takes us to Milestone
+17, Space Solar Power Systems.
+We discussed using solar power satellites
+in our episode Power Satellites to beam energy
+down to Earth, and it remains my favorite
+potential Kickstarter for space industry since
+energy is a multi-trillion dollar sector of
+the global economy, and you can see that episode
+for the details of the economics and engineering
+and safety of power-beaming, but it is easy
+to forget its utility in space too.
+Obviously a solar panel on a space station
+can run your electricity, and that can be
+handy for things like ion drives, which are
+very slow but ultra-efficient engines, spitting
+out electromagnetically accelerated ions far
+faster than a rocket flame does and thus giving
+you more momentum for less mass used.
+But light itself has momentum, albeit it not
+a lot.
+A square kilometer of solar panels or sail
+or mirrors provides a mere 8 newtons of thrust
+this far out from the Sun, or about a quarter
+of a billion kilogram meters per second of
+momentum a year.
+This is not a lot, enough to let you chuck
+a single 100 ton spacecraft 2.5 kilometers
+per second once a year, but it’s basically
+free for the cost of maybe one ton of solar
+sail or mirror, as we can make those very
+thin and light, and can be used in tandem
+with power generation without too much loss
+of power or momentum.
+Needless to say you would need a lot more
+than one ton of chemical rocket fuel to push
+a ship up to 2.5 kilometers per second.
+That station masses around 10 million tons
+so giving it 10,000 tons of sail, or a 100
+by 100 kilometer square, costs only 0.1% more
+mass but offers 10,000 such shuttle launches
+per year, not 1.
+You can also just be using it for power generation
+and running a slow ion drive, which again
+uses fuel but vastly more efficiently than
+a rocket does, so you might electromagnetically
+catapult ships around orbital space from big
+space stations and run the stations on ion
+drive to slowly but efficiently recover the
+momentum.
+Or simply by that radiant pressure of light.
+Again Solar sails and mirrors are dirt cheap,
+especially if the dirt you’re sourcing them
+from is Lunar Regolith, and if you have a
+large collection of mirrors and power-beaming
+stations up there for use on Earth, diverting
+some of that energy to things like pushing
+spaceships or blasting space debris is a handy
+use for surplus and you always want some surplus
+generation.
+We’re also not just talking power here,
+a big space lens and mirror might be hundreds
+of kilometers in area while weighing merely
+hundred of tons and able to direct that light
+into a nice diffuse spread out beam of sunlight
+to places we’d like to warm up, or just
+light up.
+Even ignoring potentially using them for weather
+control or warming arctic locales – see
+the Weather Control or Colonizing the Arctic
+episodes for details – being able to shine
+some extra light on some crops after they
+lost daylight to a storm passing by could
+result in disproportionately huge gains in
+agricultural output with minimal climatic
+effects.
+Of course shipping a hundreds tons of aluminum
+foil to orbit to make a sail several kilometers
+a side is hardly free, that might run you
+hundreds of millions of dollars in modern
+fuel costs.
+A month or so back my friend Joe Scott from
+Answers with Joe did a fun look at Solar Shades
+for possible Climate Control and pointed that
+problem out.
+On the other hand, firing one out of an electromagnetic
+rail gun or mass driver on the moon and letting
+it unfold itself as a light sail to slow and
+maneuver into the right orbit is fuel-free,
+all powered by the Sun.
+So we’re seeing a value in getting to the
+Moon now, even without considering it for
+fuel production, which is a somewhat controversial
+topic as the preferred fuel from the moon
+is usually finding ice and turning it into
+Liquid Hydrogen and Oxygen as a rocket fuel
+and that might work very well early on but
+we don’t know how much ice will be there
+and probably don’t want to rely on using
+the precious stuff as a fuel for very long.
+Especially given that water ice is so much
+more common in the deeper solar system.
+It is a great one for early days though, as
+are some others like Aluminum, which makes
+for a pretty decent rocket fuel with just
+oxygen alone, and they make up the fifth and
+first most abundant elements on the moon respectively.
+Silicon, Iron, and Calcium come in at second,
+third, and fourth with Calcium narrowly edging
+out aluminum.
+This is where we get to mining the moon and
+specifically by doing it with robots, which
+we’ll look at more next time in the Moon
+episode, as Milestone 18 is using robots for
+confirming Lunar Resources, and you may have
+noted I skipped Milestone 15 earlier, a Robust
+Space Infrastructure for Human and Robotic
+Operations, though it’s essentially the
+main topic for today in an overall sense,
+getting not just that human space infrastructure
+in place, but that robotic infrastructure
+too, as so much of what we want to do in space
+is greatly helped by robotics, especially
+in the early days.
+A little rover with a sensor package that
+we could mill out by the thousands for hundreds
+of bucks a piece – plus shipping and handling
+which is obviously way more - and which could
+be operated remotely by folks at home, is
+basically ideal for scuttling around the moon
+poking for concentrations of resources.
+Same, a little robot with a welding torch
+and fuel tank for maneuver and welding, and
+an antenna is a lot easier to use than pushing
+someone out of an airlock in a bulky space
+suit to go patch the hull.
+In most ways, robot drones are easier to use
+in space and on the Moon than on Earth, and
+we see how far drones have come in the last
+couple decades.
+But finding ore and processing it are both
+pretty simple tasks.
+If you’re some land crawler on the moon
+with a battery engine and some solar panels,
+you can scoop up some regolith and bring it
+home for processing or even just do it there.
+Solar Kilns work quite well when there’s
+no air conducting heat or convection heat
+loss off the kiln.
+There’s a cost to building such a probe
+and getting to the Moon – unless you can
+make it there, but that comes later – and
+that cost is going to be way higher than producing
+metals on the Earth for the Earth initially.
+However, the moment you can make a drone that
+can refine aluminum or iron or oxygen off
+the Moon, and cost less getting there and
+doing so, than the material it’s making
+would cost to ferry up from Earth, you are
+now in business.
+If it cost me a trillion dollars to ship a
+million tons of aluminum or steel or oxygen
+or water up from Earth’s surface, at thousands
+of times their Earthly production cost, my
+robot only needs to basically produce a few
+times its own weight in those items off the
+Moon, before breaking, to be turning a profit,
+just because of all the launch savings.
+And not just in fuel, a lot of rocketry cost
+is in the rockets themselves, most of it,
+and they are way easier to build when you’re
+launching from a low-gravity airless rock
+like the moon, assuming you aren’t using
+a mass driver anyway.
+Now we can probably do way better than sending
+a one ton miner to the moon and getting a
+few tons of fuel or metal out of it, but it's
+an important paradigm to remember.
+I mentioned it costing tens of trillions of
+dollars to put up all the metal you’d need
+to build a modest space habitat like Kalpana
+in orbit, but ten megatons of steel doesn’t
+cost trillions of dollars to produce on Earth,
+just low billions and we do build skyscrapers
+and aircraft carriers with those kind of price
+tags and most of that cost isn’t the steel
+in the building or ship either.
+Some robot miner, whether its processing as
+it goes or just scooping or dragging material
+back to some facility, may still cost dozens
+of times more per ton of product produced
+than terrestrial operations but would still
+be dirt cheap compared to launching from Earth.
+If we achieve viable resource extraction from
+the Moon and at less cost than supplying it
+from Earth, we begin the true space boom and
+the colonization of Cislunar Space in earnest.
+We could launch from the Moon to Mars, a direct
+stepping stone, but the moon’s real role
+as a stepping stone to places like Mars and
+Venus and the asteroid belt and beyond is
+really as a source of raw materials and fuel.
+More likely we’d launch from Earth Orbit
+directly, maybe even low orbit itself or maybe
+way out past the Moon at the edge of our Hill
+Sphere, but fundamentally all our resources
+at this point are still on Earth or very near
+Earth, in that bubble up to geosynchronous
+orbit that’s only a tenth of the way to
+the Moon and not even a thousandth of the
+way to Mars.
+In truth it doesn’t matter because things
+get so much easier as we develop our infrastructure.
+As an example, if you’ve been mass producing
+solar sails, mirrors, and power satellites
+near Earth, even though a Mars-bound ship
+needs a lot more energy to escape from Low
+Orbit than from High Orbit, you can just be
+pouring light or energy into some sail on
+the back of a spaceship and getting it up
+to interplanetary speeds, then let it use
+conventional engines to slow down at its destination.
+It will need the same slow down fuel whether
+you launched from deep in Earth’s gravity
+well or the very edge of it.
+With a large and robust cislunar infrastructure
+going to other planets is vastly cheaper and
+simpler.
+Indeed you could just send some of those beaming
+stations and mirrors by robot to Mars to help
+the ship slow down, allowing very rapid transit
+that conventional rocket fuel could never
+allow.
+Here’s the other key thing to realize though,
+for many centuries to come, even if we are
+wildly successful in our space ventures beyond
+Earth, likely even long after we’ve settled
+our first planets under alien Suns, the majority
+of folks who live in space will live closer
+to Earth than the Moon is.
+We may well be an interstellar empire with
+a thousand colonized systems under our belt
+before all the population living outside of
+Cislunar space equals that of what lives in
+Cislunar Space.
+You could put a billion of those Kalpana Space
+Habitats into Cislunar Space, or their big
+brother, the O’Neill Cylinder, without putting
+a scratch into the Moon’s resources or even
+vaguely packing the orbital volume of Earth’s
+Hill Sphere, each home to thousands of folks
+living and working there who could still carry
+on phone conversations with everyone in that
+volume including Earth, and with addition
+of bigger throughput launch mechanisms like
+orbital rings and space towers, could move
+back and forth to Earth for costs no different
+than flying to another continent, be it people
+or trade goods.
+That time, when we have a fully colonized
+Cislunar region, is long off of course, not
+because its high tech, but because we just
+lack the population to make it needful, as
+we’re talking billions of stations with
+thousands of people or even more, and there’s
+not quite 8 billion of us yet.
+As we head out to the Moon and Mars and beyond,
+we’ll keep building up in Cislunar, and
+likely do more and more build up there the
+more we head out to worlds beyond.
+More folks will live there then every other
+world beyond not because we won’t be able
+to get people to those places or will fail
+to find volunteers, but because it will be
+cheaper to live in Cislunar Space and still
+so close to home.
+To become an interplanetary species then may
+be a task of millennium, if we define it as
+when most humans do not live on or about Earth,
+simply because we’ll keep growing at home
+till it fills up, a quadrillion humans later.
+Fundamentally though, it won’t stop expansion
+and to other worlds, as once we’re up in
+space in a big way, out of earth’s gravity
+well, everything becomes easier for heading
+out to those other worlds and becoming an
+Interplanetary Species.
+We talked about a lot of orbital mechanics
+today, everything from the Rocket Equation
+and Lagrange Points to Halo Orbits and Station
+Keeping.
+If you’d like to learn more about these
+concepts, I’d recommend trying out Brilliant.
+Brilliant is an online learning sight with
+fun and interactive courses in Science, Math,
+and Computer Science, and they make a great
+addition to educational videos like these,
+as they let you get hands-on learning and
+practice with the concepts to help you truly
+master them, and learn more about how our
+world and our Universe work.
+If you are naturally curious, want to build
+your problem-solving skills, or need to develop
+confidence in your analytical abilities, then
+get Brilliant Premium to learn something new.
+Brilliant’s interactive content helps guide
+you to mastery by taking complex concepts
+and breaking them up into bite-sized understandable
+chunks.
+You’ll also have fun while you’re doing
+it.
+If you’d like to learn more science, math,
+and computer science, and want to do it at
+your own pace and from the comfort of your
+own home, go to brilliant.org/IsaacArthur
+and try it out for free.
+We talked about the threat of space debris
+today to orbital infrastructure, and there’s
+always the concern of a large impact on Earth
+like what we think might have killed the dinosaurs,
+and this weekend we have a bonus episode out
+on the matter, looking at Asteroid Defense.
+Then next week we’ll be taking a look at
+the Future of Fission, before returning to
+the Fermi Paradox series in 2 week to contemplate
+the Phosphorus Problem, and the idea that
+a scarcity of Phosphorus or other elements
+might be the solution to the big question
+of where all the aliens are.
+If you want alerts when those and other episodes
+come out, make sure to subscribe to the channel,
+and if you’d like to help support future
+episodes, you can donate to us on Patreon,
+or our website, IsaacArthur.net, which are
+linked in the episode description below, along
+with all of our various social media forums
+where you can get updates and chat with others
+about the concepts in the episodes and many
+other futuristic ideas.
+Until next time, thanks for watching, and
+have a great week!

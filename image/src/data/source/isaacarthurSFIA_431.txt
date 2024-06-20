@@ -1,0 +1,691 @@
+This episode is sponsored by Brilliant.
+The Moon has beckoned to humanity throughout
+history, and it will soon be our ladder,
+extending our reach further into the cosmos.
+Today we’ll be looking at the Moon, and
+how it might in the century to come serve
+as a vital manufacturing and fuel refining
+depot and stepping stone.
+Interestingly though it’s biggest role in
+the near-term will likely be focused on the
+development of space closer to home, in orbit
+of Earth as the Moon is.
+To see why, we first need to ask what the
+Moon has to offer and how we will go about
+getting stuff off the Moon.
+That’s a key point because while the Moon
+has plenty of resources, it has little Earth
+does not have vastly more of.
+It’s also where all our stuff is, including
+our factories and scientists and engineers
+and everyone else.
+This would lead many to think we really have
+no interest in the Moon and is one reason
+folks often suggesting bypassing it in favor
+of Mars or other planets.
+And yet the biggest problem with Earth is
+that it has so much stuff--as in, mass.
+All that mass generates a gravity well you
+have to claw your way out of to get into space.
+It also means there’s a thick atmosphere
+clinging to our world that makes it even harder
+to launch things, though easier to land stuff,
+much easier actually than on the Moon.
+The Moon has no atmosphere to slow ships or
+cargoes down as they approach.
+It also has surface gravity barely a seventh
+of Earth’s, and an escape velocity of just
+2400 meters per second or 5400 miles per hour.
+Quite fast but barely a fifth of Earth’s,
+and it takes less than a fifth as much fuel
+to lift something off it.
+Gravity wells are not your friend in space
+but they get far worse as we pile mass on.
+A rocket using a liquid hydrogen fuel to escape
+Earth might need 12 tons of fuel to get a
+given payload away.
+Whereas on the Moon it would only require
+.7 tons to to get it off the Moon.
+It would be even cheaper in terms of not needing
+anything like all the extra mass and equipment
+needed to get that spacecraft off Earth reliably
+and safely, like fairings, those protective
+nose cones on rockets for plowing through
+the air, which of course the Moon lacks.
+Of course there’s precious little hydrogen
+on the Moon, and it’s mostly tied up in
+water-ice which we probably want to use for
+other things, and there’s obviously no ready
+supplies of kerosene or other hydrocarbon
+fuel types either.
+So we’ll need to consider other types of
+fuels, and for that matter if we even want
+to use fuels or opt instead for alternatives
+like a lunar space elevator or a mass driver.
+Space Elevators are nice in that they don’t
+require much power to operate, but they do
+take some and have other problems we’ll
+get to in a bit.
+Making chemical fuel or running a mass driver
+of the electromagnetic catapult or rail gun
+variety both are energy hogs, and so we’ll
+need to ask how we’ll go about getting power
+on the Moon, all of which we’ll also get
+to in a bit.
+There are vast amounts of Silicon, Oxygen,
+Aluminum, and Iron on the Moon and those last
+three can be used to make good fuels.
+Of course you mostly need fuel to get stuff
+off the Moon, so let’s ask what the Moon
+offers us that we want to take away from it
+and where we want to take it.
+Fiction often shows us moon bases but tend
+to be a bit unclear on what they’re really
+for, and what they’re not for is growing
+food.
+At least not for exporting.
+You might grow food on the Moon for local
+consumption, as opposed to bringing it from
+Earth, but you’d probably only use it for
+feeding folks in space during the earliest
+days and you just happened to find it easier
+to expand local production a bit rather than
+setting up space farms.
+We’ll examine that more in the upcoming
+episode “Moon: Crater Cities”
+Part of the problem though is that the Moon
+has really long days, a month long, half of
+which is night which is a long time for plants
+to go without illumination.
+What light it gets is also harsh, not filtered
+by an atmosphere removing the frequencies
+more harmful to plants and equipment.
+You could grow food there, but either need
+to provide supplemental lighting or pick species
+that are adapted to handle darkness for long
+periods.
+You probably need to provide shading too,
+as many plants wouldn’t fare well in two
+weeks of perpetual noon-time sun.
+All-in-all, it makes more sense to use large
+rotating habitats in orbit for food growth
+instead, especially as these can be made vastly
+cheaper than those rotating habitats meant
+for people to live in, such as the O’Neill
+Cylinder, and we’ll be discussing those
+and life inside them in a couple weeks.
+Of course you probably do want to grow food
+there initially, not to mention source your
+rock, air, water, and equipment for those
+space farms from the moon, where you can.
+Some plants you may want to grow locally for
+aesthetics or as specialty fresh foods, like
+fruit trees or herbs.
+These plants may also be used to recycle waste
+products of the colonists.
+If you are growing food on the moon you need
+power for artificial lighting or rather significant
+usage of orbital mirrors to send light down,
+which is certainly doable and we may as well
+begin our discussion of power with solar as
+an option.
+We’ve got three ways we can use sunlight
+and three places to obtain it from.
+We can use it for plants or other processes
+that directly make use of light, like a solar
+kiln for smelting metal or rock, or we can
+use it for power generation, either solar
+thermal or photoelectric.
+Photoelectric being the solar panels we’re
+used to, while solar thermal is where you
+use the concentrated sunlight to heat something
+and run a standing heat engine, such as a
+steam turbine, like we use in conventional
+power plants.
+Solar panels are a bit problematic on the
+Moon because you have that two-week dark phase,
+though they don’t have to worry about cloudy
+weather and there are many craters whose rims
+experience longer daylight periods.
+Indeed one of the proposed methods to maximize
+the exposure of solar panels is to hang them
+like curtains from tall towers, following
+the sun, extending the daylight as the sun
+sets.
+For the same reason, polar craters are also
+logical base locations due to the extremely
+long daylight possible on their crater rims
+and from the ice we hope to find at their
+eternally dark bottoms.
+And again we’ll look at that more in Crater
+Cities.
+On the photosynthesis side of things, those
+extended light periods experienced on crater
+rims might be sufficient to allow plants there
+to remain healthy as opposed to two full weeks
+of darkness, and would at least cut down on
+supplemental lighting.
+These are good spots for initial space farming
+though obviously are in a limited supply.
+Eventually, a lunar industrial complex will
+be producing so much power for metals refining,
+chemical processing, and manufacturing that
+a few small farms worth of LED lights won’t
+really amount to much in your power budget.
+But in the end the vast majority of food production
+will be done on large factory farms and food
+processing facilities in space once the cost
+of landing a shipment of groceries is less
+than your local cost.
+Similar to how you might have an orange tree
+or small garden, but your not locally sourcing
+a cake recipe.
+But back to solar panels, modern, efficient
+ones are rather hard and expensive to fabricate
+locally from ISRU, or in situ resource utilization,
+the term used for basically living off the
+land.
+Though that might get far easier down the
+road, the raw sunlight, heavy on ultraviolet,
+and damaging moon dust and micrometeorites,
+might be rather rough on such panels.
+There are designs for less-efficient, simple
+solar panels made from ISRU materials that
+can almost be paved on the lunar surface.
+The problem with these is that they need to
+be cleaned of lunar dust frequently if they
+are to be located anywhere near a mining base
+or rocket landing pad.
+They are also fixed so they can’t follow
+the sun, and because there is no atmosphere
+to refract or reflect the sunlight like on
+Earth, this further reduces their efficiency.
+Fabricating more rugged or structural ISRU
+solar panels, such as those we discussed hanging
+like curtains, will take more resources and
+cost more, but would allow sun-following.
+Lastly, while concentrated solar may allow
+better use of your solar panels, they can
+have thermal management problems in space,
+further adding to their cost and complexity.
+Adding to solar power’s short-comings is
+the limitation of battery capacity to function
+through the night, away from the poles.
+Solar thermal on the other hand is particularly
+nice on the moon because big mirrors and parabolic
+dishes are easily fabricated, they can just
+be shiny bits of aluminum or iron, neither
+in short supply on the moon.
+Additionally, there’s no air, and heat can
+only be lost via radiation, convection, and
+conduction, so you can turn your mirrors onto
+giant blocks of basalt – which is plentiful
+on the moon and a great medium for heat storage
+and they won’t cool off as much at night
+as it’s just the vacuum above them, not
+air or water also acting as a coolant by convection.
+This is especially true if we cut blocks of
+basalt and basically stick them in a thermos,
+vacuum on all sides.
+So no convective losses from the vacuum and
+only minor conductive losses in the thermos
+and radiative losses can be minimized with
+a reflective barrier.
+Quite the thermal battery.
+That’s a bit sophisticated, so early on
+you might just use a chunk of basalt up off
+the ground on insulating feet to minimize
+heat loss to conduction, or in a pit where
+you kept a bowl up on feet and filled it with
+gravel.
+You can even skip that for focusing light
+on a big chunk of basalt but you’d lose
+more heat to conduction into the neighboring
+rock.
+We call this approach a Thermal Wadi, as opposed
+to Wadis in the desert, dry spots that fill
+with water in the rainy season, in this case
+we fill them with light and heat in the sunny
+season, every month.
+Now we can attach those blocks to a heat engine
+and have a nice power supply when the sun
+goes down.
+Needless to say, you can also use these to
+keep bases warm when the sun goes down, or
+for that matter cold when the sun is up.
+You can also be using solar kilns in this
+role as well as their role of melting down
+metal or rock, and solar kilns work better
+on the moon from the lack of atmosphere anyway.
+Using these approaches lets you avoid needing
+to have a month-long production cycle that
+is on during the day and off during the night,
+or at least lets you avoid a total shut down
+at night, though we often do long on and off
+production cycles in some industries, such
+as metal smelting, here on Earth, and could
+on the Moon if we needed to, and we might
+early on as we need to start very simple.
+It’s not very hard then, with some fairly
+basic infrastructure, to get major metal production
+going on the moon and it can be massively
+scaled up.
+You benefit a lot from having clever robots
+do the work rather than people but you don’t
+actually have to live on the Moon to work
+there.
+The signal lag time from Earth is just a heartbeat
+or two, enough time to be noticeable and irritating
+but close enough to allow remote control of
+facilities and robots.
+Now I said there were three basic ways we
+could use sunlight but also three places we
+could get it from.
+The first is obviously the surface of the
+Moon, and the second would be advanced power
+production by nuclear fusion, where sunlight
+comes from in the first place, but while we’ll
+be looking at nuclear fission as a power source
+and ship drive today, we’ll skip fusion
+as a topic we’ve covered more elsewhere.
+Our third way is just to remember that the
+Moon has very little gravity and no atmosphere.
+That makes producing power satellites or mirrors
+and getting them into orbit a good deal easier,
+and it would not be hard to coordinate those
+to get power or light to places when it was
+dark outside, scaled up enough you could even
+create a 24 hour day cycle but we’ll skip
+that for today.
+See the Power Satellites episode or Winter
+on Venus for more discussion of those options.
+However, while putting stuff in orbit of the
+Moon isn’t too hard, that low gravity and
+lack of wind makes it very easy to erect massive
+structures.
+I mentioned those tall towers and putting
+our solar panels on them.
+Building some super-high, strong, and skinny
+tower on the Moon is very easy.
+Indeed it is so easy that we can build a space
+elevator on the Moon out of existing materials,
+not needing the very strong materials like
+Graphene and Carbon Nanotubes an Earth Elevator
+would take.
+Sounds like a great idea but there is one
+problem, the Earth.
+The Moon perturbs the orbits of objects around
+the Earth somewhat.
+But the Earth has 81 times the mass of the
+Moon, and it perturbs orbits around the Moon
+a lot.
+If you were to build an elevator on Earth,
+you’d put its center of mass in a geostationary
+orbit.
+That’s where it will orbit the planet at
+the same rate the planet turns, so it will
+stay directly above your chosen spot on the
+equator.
+The altitude of a geostationary orbit is about
+1/10th of the way to the Moon, so the Moon’s
+gravity does perturbs the orbit some but only
+to a degree we can manage and compensate for.
+If the Moon had a nice short day like we do,
+it would work about the same there.
+But the Moon is tidally locked to Earth, so
+its day is a month long, and a luna-stationary
+orbit would have to be a month long as well.
+That means it would have to orbit the Moon
+at an altitude that takes it 1/4 of the way
+back to the Earth, a distance where the Earth
+actually exerts far more force on your satellite
+than the Moon does.
+There is the L1 Lagrange point between the
+Earth and Moon, where the forces exactly balance
+each other, and it’s only about 1/7th of
+the way back to the Earth.
+The problem is, it’s not stable.
+If your satellite drifts off the Earth-Moon
+axis, gravity will pull it back, but if it
+drifts either way along that axis, it will
+start falling toward whichever body it’s
+now closer to.
+The L2 Lagrange point above the far side of
+the Moon is similarly unstable.
+The only stable Lagrange points, where you
+could put a satellite in a true luna-stationary
+orbit, are the L4 and L5 points that respectively
+lead and lag the Moon in orbit around the
+Earth.
+Unfortunately, those are actually as far from
+the Moon as the Earth is—not very helpful
+when you’re trying to build an elevator.
+Now again neither is stable either, and while
+we can use some of the tricks we discussed
+in space elevators, like multiple tethers
+reaching up at angles to a common terminus,
+and also have some options for polar elevators,
+it’s not a great option.
+Sky hooks, also known as rotavators, work
+a bit better since without an atmosphere and
+with a lower gravity and orbital speeds you
+can have one swing right down and snag something
+off the ground.
+We looked at those in detail in early episodes
+of our Upward Bound series, and followed them
+up with a device called a mass driver, think
+giant space gun.
+Those can work on Earth but are problematic
+because you need to reach higher speeds and
+you have to use an entirely enclosed runway
+or barrel to keep the air out and also have
+to have the muzzle sticking up tens of kilometers
+above the ground to avoid your vehicle slamming
+out of the barrel into the atmosphere at re-entry
+speeds.
+Needless to say, it’s also quite an engineering
+feet to build a tower tall enough to hold
+that muzzle up.
+That is far easier on the moon, what with
+the low gravity and lack of wind in the atmosphere
+shoving on that tower, but you don’t need
+to bother because there’s no atmosphere
+you need to get above.
+You can just run a long metal track on the
+ground to build up speed and let go once you
+hit orbital speed.
+All of those are options that work on the
+Moon, and the mass driver is probably the
+easiest and best for most applications, but
+you might not even bother since again, it
+doesn’t take too much fuel to get stuff
+off the Moon and as we’ll get to in a moment,
+that’s likely to be the main industrial
+production of the Moon, or one of the big
+ones anyway.
+I should note though that landing stuff on
+the Moon is a good deal trickier if you want
+to avoid using rockets, there’s no air to
+help you slow down.
+Trying to rely on sheer friction, like a runway,
+is not a good idea since you’re still moving
+very fast and safely coordinating that would
+be dubious.
+The skyhooks are nice options for slowing
+down, the elevator too, and one could potentially
+harpoon a ship like we discussed in Colonizing
+Ceres or even use some corridor runway filled
+with low-density gas for breaking,
+Of course fuel works pretty well and I did
+mention that would be a big export.
+You can make fuel out of water, with enough
+power, you just break it down into hydrogen
+and oxygen then burn those as your fuels,
+but we don’t know how much water-ice is
+on the moon and we probably don’t want to
+be using that up, so it might work okay in
+the early days as a short term fuel but not
+something we will use in the long term.
+We will need to use common lunar ISRU materials
+and first among those available is oxygen,
+of which the moon is roughly 40% by mass,
+and it will practically be a waste product
+of our industrial activities, as things like
+iron and aluminum will be found as oxides
+we need to seperate to get the pure metal.
+ALICE, Aluminum-Ice rockets, using nano-aluminum
+powder and water ice are tempting but again
+it uses up water, or more specifically hydrogen,
+not ideal for heavy space usage.
+But we can use aluminum and liquid oxygen
+as a monopropellant gel or as a bi-propellant,
+and also aluminum, iron, and oxygen, also
+known as thermite, and of course Magnesium,
+which also has a very energetic reaction with
+oxygen, is readily available on the moon.
+None of these is exactly ideal as a main ship
+propellant, though they do work well enough
+and work very well for things like station-keeping
+and orbital maneuvering, which is going to
+be the biggest fuel usage in a robust Cis-Lunar
+Economy, where most of the ships will be moving
+around Earth-Moon orbital space and which
+will probably be collecting a growing number
+of space habitats, power stations, factories,
+farms and so on as time rolls on.
+The Moon however is also rich in uranium and
+thorium, and noticeably lacking in delicate
+ecologies, so it’s a great place to build
+fission reactors as well as radioisotope thermal
+generators, RTGs, one of our favorite electric
+supplies for spacecraft.
+You can also build some disgustingly simple
+nuclear rocket drives that, while filthy as
+heck, enough that it would probably be a war
+crime to use them in Earth’s atmosphere
+or low-orbit, do well enough in deep space
+or on the Moon.
+Nuclear makes a nice power supply for those
+dark weeks on a moon base and RTGs, mostly
+made of radioisotopes like Strontium-90 or
+Plutonium-238, would make excellent power
+supplies for spaceships and satellites and
+moon rovers where solar wasn’t a good option.
+Of course we also have the RTT, Radioisotope
+Thermal Thruster, which differs from an RTG
+somewhat.
+An RTG uses thermocouples to turn the radioactive
+heat decay into electricity.
+They are very durable and reliable with no
+moving parts to break or wear down, and are
+easy to build, though very inefficient at
+conversion, usually under 10%.
+The RTT, or Poodle Thruster, is the same;
+it just uses that heat to produce rocket thrust
+instead.
+These unfortunately can not be throttled in
+their thermal power output, RTGs and RTTs
+produce a constant power supply, though by
+changing how much propellant you use you can
+throttle your thrust, though it slowly weakens
+as the material decays, dropping to half after
+one half life.
+And of course you have all that lunar oxygen
+you can use for propellant.
+This is also not bad for station keeping or
+objects that run back and forth constantly,
+like a shuttle between the Moon’s orbital
+Station and Earth’s, assuming anyone lets
+you bring it near Earth, though they’re
+not too dangerous if one gets wrecked and
+crashes on Earth and aren’t ideal bomb material
+either.
+We’ve never truly had a nuclear economy
+on Earth, even in those places where fission
+makes up a large part of the power generation,
+so it’s a bit hard to really state how much
+of an industrial engine that is.
+The Moon, and space in general, is already
+a radiation nightmare so being able to run
+massive nuclear torch drive ships and atomic-powered
+foundries, smelters, and mass-drivers is a
+big deal.
+If you go all in on that you can start turning
+out aluminum and steel at ridiculous outputs,
+and that gives you the massive construction
+capacity you need for building up a true space
+infrastructure.
+Safety really is not an issue, but we already
+detailed non-atomic options like solar kilns
+if we need them instead.
+Nuclear is more attractive in many regards
+and could turn the Moon into an Industrial
+Nuclear Juggernaut.
+So that covers fuel.
+Fuel for station-keeping and running around
+the Cis-Lunar volume of space.
+But fuel, be it chemical fuels like Aluminum
+or nuclear rockets, that can also be used
+for running ships back and forth to Mars or
+the Asteroid Belt or even out to the icy moons
+of the gas giants to retrieve ice for water
+and fuel if the Moon doesn’t have enough.
+Oxygen too, the Moon has plenty of it, but
+not so much nitrogen or carbon and plants
+need those too, and these are elements you
+can find plentifully out deeper in space,
+in the form of Nitrogen gas, ammonia-ice and
+methane.
+Methane and ammonia are nice stable sources
+of hydrogen, and methane is 25% hydrogen by
+mass and ammonia is 18%, while water is only
+11%, and the remainder is oxygen, which is
+beyond plentiful on the Moon and as mentioned
+likely to be a waste product of many of our
+other activities there.
+Hydrogen is a critical item for good space
+travel as it’s our best propellant, so with
+it being rare on the Moon and hard to get
+off Earth, your first big supply chain is
+to get hydrogen back to the Moon.
+It’s easier to think gas giants, but actually
+getting hydrogen off them is no mean feat,
+and raw hydrogen is not easy to transport,
+so methane is your preferred source, off icy
+bodies, and water and ammonia your nominal
+runners up, needless to say both are very
+handy for other things too.
+Comets are also nice sources for those.
+We’re trying to keep ourselves pretty low-tech
+and near term in this episode, so we’re
+focused on the stuff that’s easier to do
+now in terms of both existing technology and
+easy deployment, see Industrializing the Moon
+or Battle for the Moon for some of the more
+high-tech scenarios.
+But whether you’re running out to the rim
+of the Asteroid Belt beyond the frost-line
+or to the Moons of Jupiter or Saturn, that
+gives us some nice imports.
+Hydrogen, carbon and nitrogen for fuel and
+food production, plus all those nice metal
+ores that are available in the asteroid belt
+and in the less mentioned but no less valuable
+hoard of tiny moons and asteroids around those
+two huge planets.
+You can send crews out to those and setup
+bases, but extracting ices, water, methane,
+or ammonia, is a very easy bulk extraction
+process that can probably be done by fairly
+dumb machines with just a few nudges by controllers
+acting remotely from a light hour away, and
+those Poodle Thrusters make a very nice ship
+drive and power source for those kind of remote
+operations too.
+Poodle Thrusters do need refilling on propellant
+so are good for ice mining, where they can
+re-stock, and I can well imagine the Moon
+mass producing some sort of small probes that
+fly out to those icy bodies to survey them,
+latch onto patches of ice to refuel on propellant
+and drill samples, and wandered off to the
+next target, with bigger collectors following
+up for extraction.
+Fundamentally the Moon is a great source for
+anything that we want in space in larger bulk
+quantities, like metal, but it’s also nice
+for things like Rare Earth Elements that are
+often rather rough to get economically on
+Earth while also being environmentally friendly,
+which is fine on the Moon where there’s
+no environment to befriend.
+Not a bad place to get phosphorus either,
+something we have a supply problem with here
+on Earth, and it should be noted that while
+it takes a lot of fuel and money to get off
+Earth, getting home is easy and cheap, so
+you probably can export stuff that isn’t
+precious metals home to Earth.
+It’s got precious metals too.
+It’s easy to forget when discussing asteroid
+mining and coming home with trillion dollar
+rocks full of gold and platinum that the Moon
+considerably outmasses the entire asteroid
+belt and has more of every metal than it does,
+albeit sometimes harder to extract.
+But ‘hard’ is a relative concept and all
+those wonderful craters and lavatubes make
+nice bases to hide from micrometeors and the
+Sun’s blistering radiation, and that proximity
+to Earth allows remote control of any device
+and rapid extraction or evacuation of personnel
+back to Earth in emergencies, or sending in
+search and rescue teams.
+Out on Mars or in the Asteroid belt, you’re
+in deep trouble if anything goes wrong, because
+no one is coming and even advice and suggestions
+by radio will take an hour to reach you, not
+a couple seconds.
+For this reason and many more, the Moon is
+a great place to be building up our industrial
+might for space.
+Maybe not an ideal place to live though, and
+we’ll discuss some options for that in a
+couple weeks.
+We were talking a lot today about rocketry
+and orbital concepts, and those are quite
+vital to contemplating space industrialization
+but can be rather confusing.
+If you want to get a better understanding
+of this concept and a lot of other core physics,
+I’d recommend trying out Brilliant’s Course
+on Classical Mechanics, which has almost 50
+interactive quizzes including one on the Rocket
+Equation.
+Brilliant is an online learning community
+with over 60 interactive courses and many
+quizzes and puzzles, plus Daily Challenges
+that help get the brain warmed up for the
+day.
+Those Challenges provide a context and framework
+that you need to tackle, so that you learn
+the concepts by applying them, which is the
+best way to learn new concepts.
+Brilliant makes learning fun and easier, and
+their online community gives you places to
+discuss the material or ask questions, and
+their mobile apps offline feature lets you
+take courses even when you’re not getting
+a good signal.
+If you’d like to learn more science, math,
+and computer science, go to brilliant.org/IsaacArthur
+and sign up for free.
+And also, the first 200 people that go to
+that link will get 20% off the annual Premium
+subscription, so you can solve all the daily
+challenges in the archives and access dozens
+of problem solving courses.
+So as I mentioned, we’ll be returning to
+the Moon in a few weeks to take a look at
+Crater Cities, but before then we’ll ask
+the big question of why life exists next week.
+We also talked a lot today about how the Moon
+might come to be a major colony one day, but
+would most likely be powering that growth
+by providing the raw materials to build vast
+number of habitats in orbit of Earth, in immense
+space stations such as the O’Neill Cylinder,
+and in two weeks we’ll take a look at what’s
+it’s like to be a resident of one of them,
+in “Life on Board an O’Neill Cylinder”.
+For alerts when those and other episodes come
+out, make sure to subscribe to the channel
+and hit the notifications bell.
+And if you enjoyed this episode, hit the like
+button and share it with others.
+And if you’d like to support future episodes,
+visit our website, IsaacArthur.net, to donate
+to the channel or check out some of the awesome
+SFIA merchandise.
+Until next time, thanks for watching,
+and have a Great Week!
