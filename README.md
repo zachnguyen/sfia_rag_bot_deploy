@@ -12,13 +12,13 @@ This project was inspired by the tutorial from [pixelgami](https://www.youtube.c
 
 ## Stack
 
-Embedding Model: Google text-embedding-004.
-Vector Store: ChromaDb.
-Language Model: OpenAI GPT-4.
-Image Model: OpenAI Dall-e-3.
-API Handler: FastAPI.
-Deployment: AWS Lambda Function.
-Query Storage: DynamoDb.
+Embedding Model: Google text-embedding-004\
+Vector Store: ChromaDb\
+Language Model: OpenAI GPT-4\
+Image Model: OpenAI Dall-e-3\
+API Handler: FastAPI\
+Deployment: AWS Lambda Function\
+Query Storage: DynamoDb\
 
 ## Sample responses
 
