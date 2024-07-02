@@ -24,15 +24,15 @@ Query Storage: DynamoDb
 
 Home page with information about the App:
 
-![About the App](image/src/about.JPG)
+![About the App](image/src/images/about.JPG)
 
 Writing and querying a question:
 
-![Querying](image/src/loading_screen.JPG)
+![Querying](image/src/images/loading_screen.JPG)
 
 Get responses from the app
 
-![got_answer](image/src/got_answer.JPG)
+![got_answer](image/src/images/got_answer.JPG)
 
 
 ## Other Sample responses
