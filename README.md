@@ -12,15 +12,30 @@ This project was inspired by the tutorial from [pixelgami](https://www.youtube.c
 
 ## Stack
 
-Embedding Model: Google text-embedding-004
-Vector Store: ChromaDb
-Language Model: OpenAI GPT-4
-Image Model: OpenAI Dall-e-3
-API Handler: FastAPI
-Deployment: AWS Lambda Function
+Embedding Model: Google text-embedding-004\
+Vector Store: ChromaDb\
+Language Model: OpenAI GPT-4\
+Image Model: OpenAI Dall-e-3\
+API Handler: FastAPI\
+Deployment: AWS Lambda Function\
 Query Storage: DynamoDb
 
-## Sample responses
+## Sample App Interface
+
+Home page with information about the App:
+
+![About the App](image/src/about.JPG)
+
+Writing and querying a question:
+
+![Querying](image/src/loading_screen.JPG)
+
+Get responses from the app
+
+![got_answer](image/src/got_answer.JPG)
+
+
+## Other Sample responses
 
 Question: How might future AI systems contribute to solving complex global issues?
 
@@ -29,3 +44,4 @@ Response: Future AI systems could contribute to solving complex global issues in
 Question: What would daily life look like for humans living permanently on Mars?
 
 Response: Living permanently on Mars would be an interesting blend of high-tech living with a touch of pioneering spirit. According to the episode ""Life as a Space Colonist"", residents could engage in activities such as growing their own produce in domes and selling surplus items like solar panels. There would be a sense of community, with people being able to interact with their neighbors via satellite phones and social media, albeit with a signal lag due to the distance from Earth. Visiting the local town to socialize with other humans would also be a part of the daily routine, with possible amenities like restaurants, bars, and communal hang-out spots.\n\nMore than just surviving, residents would also contribute to community projects. For instance, if one has had a good year, they could donate solar panels to communal initiatives like building a base garden-park. There might even be debates about constructing a football field, and if so, whether it should be adjusted to Martian gravity. \n\nInterestingly, the wealthier residents might be able to afford luxuries like a spacesuit for their pet, allowing them to accompany their owners when checking solar panels or exploring their plot of land for valuable minerals. \n\nAs mentioned in ""Colonizing Mars"", a Martian colony would ideally be self-supporting, but trade between Earth and Mars would also be crucial. This would not only optimize production but also foster a sense of unity. Discussions about the role of extraterrestrial colonies breaking off from Earth would also be part of the conversation.\n\nHowever, it's important to note that life on Mars would not be without its challenges. As stated in ""Future Manhattan Projects"", living on Mars would require learning how to exist in a place that doesnâ€™t offer the natural resources that Earth does. This would necessitate a high level of efficiency in recycling and the need to manufacture everything from scratch. \n\nFinally, the Martian landscape might also present opportunities for bioforming, where residents could experiment with creating a halfway environment between the native Martian environment and the artificial one. As speculated in the second excerpt from ""Colonizing Mars"", by the year 3000, there could be a variety of living arrangements on Mars, including domed cities, underground environments, and even habitats where individuals have modified themselves to live in the natural Martian environment.
+

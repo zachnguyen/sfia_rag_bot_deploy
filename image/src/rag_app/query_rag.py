@@ -1,9 +1,12 @@
 from dataclasses import dataclass
 from typing import List
+import markdown
 from langchain.prompts import ChatPromptTemplate
 from langchain_google_genai import GoogleGenerativeAI
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
+from langchain_community.llms import Ollama
+
 from rag_app.get_chroma_db import get_chroma_db
 import os
 import openai
@@ -33,18 +36,6 @@ Quote the episode title that you got the information from.
 Stick closely to the excerpts but use your own knowledge where necessary.
 """
 
-IMG_PROMPT_TEMPLATE = """
-Generate a futuristic or sci-fi image for the following context: {img_prompt} 
-
-Follow these instructions:
-Don't try to cram everything into the picture. 
-Pick one or two key concepts and illustrate them. 
-YOU MUST Omit all language in the picture.
-"""
-
-LANG_MODEL_ID = ""
-IMG_MODEL_ID = ""
-
 @dataclass
 class QueryResponse:
     query_text: str
@@ -73,6 +64,8 @@ def query_rag(query_text: str) -> QueryResponse:
             max_tokens=1024
             )
 
+    # model = Ollama(model='llama3')
+
     chain_with_prompt = prompt_template | model | StrOutputParser()
 
     class AgentState(TypedDict):
@@ -80,6 +73,7 @@ def query_rag(query_text: str) -> QueryResponse:
         raw_docs: list[BaseMessage]
         formatted_docs: list[str]
         generation: str
+        sum_response: str
         sources: list[str]
         image: str
 
@@ -108,11 +102,29 @@ def query_rag(query_text: str) -> QueryResponse:
         state["generation"] = result
         return state
     
+    def summarize_response(state:AgentState):
+        SUM_PROMPT_TEMPLATE = '''
+        You are an expert content summarizer. As a professional summarizer, create a concise and comprehensive summary of the provided text while adhering to these guidelines:
+        * Craft a summary that is detailed, thorough, in-depth, and complex, while maintaining clarity and conciseness.
+        * Rely strictly on the provided text, without including external information.
+        * Identify key concepts in the excerpt and talk about the key concepts.
+        * Limit your summary to 100 words or less.
+
+        Here is the provided text:
+        {text}
+        '''
+        sum_prompt_template = ChatPromptTemplate.from_template(SUM_PROMPT_TEMPLATE)
+        chain_with_prompt = sum_prompt_template | model | StrOutputParser()
+        state['sum_response'] = chain_with_prompt.invoke({"text": state['generation']})
+        print(state['sum_response'])
+        state['generation'] = markdown.markdown(state['generation'])
+        return state
+    
     def generate_img(state:AgentState):
         img_prompt = f'''
         Generate a Sci-fi image for the following context: 
         
-        {state["question"]} 
+        {state["sum_response"]} 
 
         Don't try to cram everything into the picture. 
         Pick one or two key concepts and illustrate them. 
@@ -125,16 +137,19 @@ def query_rag(query_text: str) -> QueryResponse:
                 n=1
                 )
         state["image"] = img.data[0].url
+        #state["image"] = "https://files.ds106.us/wp-content/uploads/sites/4/2014/12/placeholder.png"
         return state
     
     workflow = StateGraph(AgentState)
     workflow.add_node("get_docs", get_docs)
     workflow.add_node("format_docs", format_docs)
     workflow.add_node("generate", generate)
+    workflow.add_node("summarize_response", summarize_response)
     workflow.add_node("generate_img", generate_img)
     workflow.add_edge("get_docs", "format_docs")
     workflow.add_edge("format_docs", "generate")
-    workflow.add_edge("generate", "generate_img")
+    workflow.add_edge("generate", "summarize_response")
+    workflow.add_edge("summarize_response", "generate_img")
     workflow.add_edge("generate_img", END)
     workflow.set_entry_point("get_docs")
 
